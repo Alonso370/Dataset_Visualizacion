@@ -310,7 +310,3 @@ Las decisiones de transformación están explicadas en [`acquisition.md`](acquis
 | Gianella Araceli Lira Ñaupari| Data & Analysis   |
 | Gady Magdiel Enciso Gomez| Visualization & Design  |
 | Angel Ulises Tito Berrocal |  D3 & Implementation |
-
-> Pendiente de completar antes de la entrega. La guía advierte que las contribuciones
-> individuales deben quedar documentadas en el repositorio y que el historial de commits
-> es la evidencia de colaboración.
