@@ -33,7 +33,9 @@ siguen recibiendo registros y sus cifras aún no son definitivas.
 ### Cobertura
 
 - **Temporal:** 1 de enero de 2021 al 30 de diciembre de 2025 en las bases detalladas.
-  La serie histórica complementaria cubre 2008–2024.
+  Las tablas complementarias cubren distintos periodos entre 2007 y 2025: las series
+  departamentales anuales abarcan 2008–2024, las tablas rurales 2007–2022 y las tablas
+  comparativas y preliminares llegan hasta 2025.
 - **Geográfica:** todo el territorio del Perú — 25 departamentos (los 24 más la Provincia
   Constitucional del Callao), 182 provincias y 1,086 distritos, con coordenadas puntuales
   en grados decimales (WGS84). Atención: los nombres de distrito **no son únicos**; hay
@@ -51,23 +53,24 @@ deliveries/week04/
 ├── README.md                  este documento
 ├── acquisition.md             procedimiento de adquisición y decisiones de transformación
 ├── acquisition.py             script reproducible: descarga, convierte y valida
-├── data_dictionary.csv        101 atributos documentados, uno por fila
+├── data_dictionary.csv        141 atributos documentados, uno por fila
 ├── data/
-│   ├── siniestros.csv                       9,106 filas × 28 columnas
-│   ├── vehiculos.csv                       12,667 filas × 25 columnas
-│   ├── personas.csv                        25,412 filas × 32 columnas
-│   ├── historico_departamento_anio.csv        425 filas ×  3 columnas
-│   ├── historico_causas.csv                 6,770 filas ×  4 columnas
-│   ├── historico_franja_horaria.csv         3,700 filas ×  4 columnas
-│   ├── historico_fallecidos_demografia.csv  4,700 filas ×  5 columnas
-│   └── sample.csv                             500 filas × 20 columnas
-└── raw/                       Excel originales sin modificar (no versionados)
+│   ├── siniestros.csv                          9,106 filas × 28 columnas
+│   ├── vehiculos.csv                          12,667 filas × 25 columnas
+│   ├── personas.csv                           25,412 filas × 32 columnas
+│   ├── sample.csv                                500 filas × 20 columnas
+│   └── (14 tablas históricas, ver sección 4)
+└── raw/                       Excel originales sin modificar (incluidos en el ZIP,
+                               excluidos del control de versiones mediante .gitignore)
 ```
 
 Los CSV completos se entregan íntegros: el conjunto pesa unos 14 MB y no requiere
-muestreo. `sample.csv` se incluye igualmente como ayuda de lectura — es una vista
-desnormalizada que muestra las tres tablas ya encadenadas, para que se entienda el
-modelo relacional sin necesidad de ejecutar un `join`.
+muestreo. `sample.csv` se incluye únicamente como ayuda de lectura: es una vista
+desnormalizada de 500 filas que muestra las tres tablas ya encadenadas, para que se
+entienda el modelo relacional sin necesidad de ejecutar un `join`. No es una muestra
+estadísticamente representativa del periodo completo: contiene registros del 1 de enero
+al 4 de febrero de 2021, correspondientes a 22 de los 25 departamentos. Para cualquier
+análisis deben utilizarse los CSV completos.
 
 ---
 
@@ -120,32 +123,48 @@ y del certificado de inspección técnica vehicular (CITV).
 peatón u ocupante), desenlace, edad, sexo, nacionalidad, tenencia y clase de licencia de
 conducir, y si se practicó dosaje etílico.
 
-### Las cuatro tablas históricas
+### Las catorce tablas históricas
 
 Las bases detalladas solo cubren 2021–2025. El libro histórico del ONSV extiende la
-cobertura hasta 2008 con agregados por departamento, y esa información **no es recuperable
-desde las bases detalladas** para los años anteriores a 2021. Se extrajeron cuatro de sus
-catorce hojas:
+cobertura hasta 2007 con agregados, y esa información **no es recuperable desde las bases
+detalladas** para los años anteriores a 2021. Se extrajeron **las catorce hojas** del
+libro, incluidas las dos que vienen ocultas:
 
 | Archivo | Desglose | Años |
 |---|---|---|
 | `historico_departamento_anio.csv` | departamento × año | 2008–2024 |
+| `historico_vehiculos_involucrados.csv` | departamento × año | 2008–2024 |
 | `historico_causas.csv` | departamento × año × causa | 2008–2024 |
 | `historico_franja_horaria.csv` | departamento × año × franja horaria | 2008–2024 |
+| `historico_dia_semana.csv` | departamento × año × día de la semana | 2008–2024 |
+| `historico_siniestros_por_tipo.csv` | departamento × año × tipo de siniestro | 2008–2024 |
+| `historico_vehiculos_por_tipo.csv` | departamento × año × clase de vehículo | 2008–2024 |
+| `historico_conductores_perfil.csv` | departamento × año × sexo, edad o licencia | 2008–2024 |
 | `historico_fallecidos_demografia.csv` | departamento × año × sexo × grupo etario | 2008–2024 |
+| `historico_heridos_demografia.csv` | departamento × año × sexo × grupo etario | 2008–2024 |
+| `historico_rural_por_tipo.csv` | mes × año × tipo, ámbito rural | 2007–2022 |
+| `historico_rural_victimas.csv` | mes × año × muertos/heridos, ámbito rural | 2007–2022 |
+| `comparativo_mensual_2023_2025.csv` | mes × año × siniestro/fallecido/lesionado | 2023–2025 |
+| `resumen_2025_preliminar.csv` | departamento × sección × categoría | 2025 |
 
-Dos advertencias sobre estas tablas:
+Cuatro advertencias sobre estas tablas:
 
 - **Cuentan siniestros de toda gravedad**, no solo fatales, así que sus magnitudes no son
   comparables directamente con `siniestros.csv`. En 2024 hubo 86,757 siniestros de toda
   gravedad frente a 1,555 fatales.
 - **Los esquemas de categoría cambian entre años** y se conservaron sin armonizar, porque
   unificar criterios distintos sería inventar datos. Ver limitación 10.
+- **Algunas categorías son subtotales de la propia hoja.** En
+  `historico_vehiculos_por_tipo.csv`, `VEHICULO MAYOR` y `VEHICULO MENOR` agregan a sus
+  componentes; sumarlos junto a estos duplica. Lo mismo ocurre en varias secciones de
+  `resumen_2025_preliminar.csv`.
+- **`historico_conductores_perfil.csv` mezcla dos dimensiones** en su columna `atributo`:
+  sexo cruzado con mayoría de edad, y tipo de licencia. Hay que filtrar por la dimensión de
+  interés antes de agregar.
 
-Las diez hojas restantes del libro histórico se dejaron fuera: son cruces adicionales de
-las mismas dimensiones (siniestros por tipo, vehículos por tipo y región, heridos, día de
-la semana) que pueden incorporarse más adelante con el mismo parser genérico si alguna
-pregunta de dominio los requiere.
+Las dos tablas de ámbito rural provienen de hojas **ocultas** del libro y son las únicas
+que llegan hasta 2007, un año antes que el resto. Son series mensuales nacionales, sin
+desglose por departamento.
 
 ---
 
@@ -200,9 +219,14 @@ visibles en la aplicación final, no solo en la documentación.
    `EN PROCESO DE INVESTIGACIÓN`. Todo análisis causal se sostiene sobre la mitad de los
    casos, y la interfaz debe comunicarlo.
 
-4. **El dosaje etílico está fuertemente subregistrado.** Solo 3,955 de 25,412 personas
-   fueron sometidas a la prueba cualitativa; entre ellas, 631 dieron positivo. Sirve como
-   señal, jamás como estimación de prevalencia. El valor cuantitativo en g/L no se publica.
+4. **El dosaje etílico está fuertemente subregistrado y presenta contradicciones internas.**
+   De las 25,412 personas, 4,189 figuran como sometidas a la prueba cualitativa, pero solo
+   3,955 tienen algún resultado registrado. Hay 418 registros marcados como sometidos sin
+   resultado y 179 resultados asociados a registros marcados como no sometidos o sin
+   respuesta en ese campo. Se observan 631 resultados positivos en total, de los cuales
+   solo 584 coinciden con un indicador de prueba igual a `SI`. Estas cifras sirven como
+   señal de calidad del registro, jamás como estimación de prevalencia. El valor
+   cuantitativo en g/L no se publica.
 
 5. **Sesgo de atribución de causa.** La causa la asigna la unidad policial que interviene,
    con criterio que puede variar entre unidades y en un contexto donde una de las partes
@@ -239,27 +263,33 @@ visibles en la aplicación final, no solo en la documentación.
       `siniestros.csv`. Además el origen escribe `EBRIEDAD DEL CONDUTOR` e
       `INVACIÓN DE CARRIL`, con las erratas incluidas; se conservan tal cual.
 
-11. **Las hojas del libro histórico no cuadran entre sí.** El propio libro del ONSV es
-    internamente inconsistente en tres años. `acquisition.py` lo verifica en cada
-    ejecución y reporta:
+11. **Las hojas del libro histórico no cuadran entre sí.** Cuatro hojas desglosan el mismo
+    universo de siniestros por dimensiones distintas (causa, franja horaria, día de la
+    semana, tipo), así que la suma de cualquiera debería igualar el total anual. En tres
+    años no ocurre. `acquisition.py` lo verifica en cada ejecución:
 
-    | Año | Total declarado | Suma de causas | Suma de franjas |
-    |---|---|---|---|
-    | 2008 | 85,337 | 85,337 | 86,026 |
-    | 2009 | 86,026 | 83,653 | 85,337 |
-    | 2013 | 101,762 | 102,762 | 102,762 |
+    | Año | Total declarado | Causas | Franja | Día | Tipo |
+    |---|---|---|---|---|---|
+    | 2008 | 85,337 | 85,337 | **86,026** | 85,337 | 85,337 |
+    | 2009 | 86,026 | **83,653** | **85,337** | 86,026 | 86,026 |
+    | 2013 | **101,762** | 102,762 | 102,762 | 102,762 | 102,762 |
 
-    En 2008 y 2009 las cifras aparecen **intercambiadas** entre hojas: la hoja de franja
-    horaria asigna a 2008 el total de 2009 y viceversa. En 2009 la hoja de causas repite
-    el total de 2010. En 2013 ambas hojas exceden al total en exactamente 1,000, diferencia
-    que se localiza íntegramente en Ica (907 según la hoja de totales, 1,907 según la de
-    franja horaria) y que parece un dígito de más.
+    Contar cuántas hojas concuerdan entre sí permite identificar la anómala en cada caso:
+
+    - **2008 y 2009:** la hoja de franja horaria tiene los dos años **intercambiados**
+      (asigna a 2008 el total de 2009 y viceversa). Independientemente, la hoja de causas
+      repite en 2009 el total de 2010. Las otras tres hojas coinciden con el total, de modo
+      que el total declarado es el correcto y las hojas de franja y causas son las
+      defectuosas en esos años.
+    - **2013:** aquí ocurre lo inverso. Las **cuatro** hojas de desglose coinciden en
+      102,762 y solo la hoja de totales dice 101,762, por lo que la anómala es la hoja de
+      totales. La diferencia se localiza íntegramente en Ica: 907 según la hoja de totales
+      frente a 1,907 según las demás, lo que parece un dígito perdido en el total.
 
     Se verificó que **no es un error de parseo**: los bloques anuales se alinean
     exactamente con sus etiquetas de año en la hoja de origen. Los datos se entregan tal
-    como los publica la fuente, sin corregir. Conviene evitar 2008, 2009 y 2013 en
-    afirmaciones cuantitativas, o declarar explícitamente qué hoja se tomó como
-    autoritativa.
+    como los publica la fuente, sin corregir. Al usar estas series conviene declarar
+    explícitamente qué hoja se toma como autoritativa en cada año afectado.
 
 ---
 
@@ -277,8 +307,6 @@ En consecuencia:
 - Los datos **no contienen información personal identificable**: no hay nombres, documentos
   de identidad ni placas. Los atributos de persona se restringen a edad, sexo, nacionalidad
   y rol en el siniestro.
-- **Pendiente:** confirmar con el docente si esta declaración es suficiente para el
-  requisito de licencia de la guía, o si conviene solicitar una confirmación formal al ONSV.
 
 ---
 
