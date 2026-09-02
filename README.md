@@ -306,9 +306,10 @@ Las decisiones de transformación están explicadas en [`acquisition.md`](acquis
 
 | Integrante | Responsabilidad en esta entrega |
 |---|---|
-| *(por completar)* | Adquisición y procesamiento de datos |
-| *(por completar)* | Diccionario de datos y control de calidad |
-| *(por completar)* | Documentación y repositorio |
+| Oscar Alonso Gomez Marin | Data & Analysis  |
+| Gianella Araceli Lira Ñaupari| Data & Analysis   |
+| Gady Magdiel Enciso Gomez| Visualization & Design  |
+| Angel Ulises Tito Berrocal |  D3 & Implementation |
 
 > Pendiente de completar antes de la entrega. La guía advierte que las contribuciones
 > individuales deben quedar documentadas en el repositorio y que el historial de commits
