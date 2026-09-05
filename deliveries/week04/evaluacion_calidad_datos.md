@@ -1,7 +1,9 @@
 # Evaluación inicial de la calidad de los datos
 
 ## Alcance
-Se evaluó una muestra reproducible de **100 000 registros y 46 variables** del conjunto US Accidents (2016–2023).
+Se evaluó una muestra reproducible de 100 000 registros y 46 variables del conjunto US Accidents (2016–2023). La evaluación de calidad presentada en este documento corresponde a dicha muestra.
+
+Para facilitar el almacenamiento y acceso a los datos mediante GitHub, **se incluye en el repositorio una muestra reducida de 25 000 registros**, conservando las 46 variables originales.
 
 ## Duplicados
 - Filas duplicadas: **0**
