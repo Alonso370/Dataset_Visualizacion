@@ -1,0 +1,47 @@
+﻿nombre_campo,descripcion,tipo_dato,unidad_o_formato,valores_posibles,notas_valores_faltantes
+ID,Unique identifier for the accident record.,string,Identifier,Unique per accident,Not expected; verify
+Source,Source category of the raw accident data.,categorical string,Category,"Source1, Source2, Source3 (as present in release)",Not expected; verify
+Severity,Traffic-impact severity: 1 is least impact/short delay; 4 is significant impact/long delay.,integer / ordinal,Scale 1-4,"1, 2, 3, 4",Not expected; values outside 1-4 invalid
+Start_Time,Start time of the accident/event in local time.,datetime,Local date-time,Timestamp,Parse errors/missing should be checked
+End_Time,Time when the accident's impact on traffic flow was dismissed.,datetime,Local date-time,Timestamp,Parse errors/missing should be checked
+Start_Lat,Latitude of the accident start point.,float,Decimal degrees,"[-90, 90]",Missing should be checked
+Start_Lng,Longitude of the accident start point.,float,Decimal degrees,"[-180, 180]",Missing should be checked
+End_Lat,"Latitude of the accident end point, when available.",float,Decimal degrees,"[-90, 90]",May be missing
+End_Lng,"Longitude of the accident end point, when available.",float,Decimal degrees,"[-180, 180]",May be missing
+Distance(mi),Length of road extent affected by the accident.,float,Miles,>= 0,Missing/negative values should be checked
+Description,Natural-language description of the accident/event.,string,Text,Free text,May be missing
+Street,Street/road name associated with the event.,string,Text,Free text,May be missing
+City,City associated with the event.,string,Text,City names,May be missing
+County,County associated with the event.,string,Text,County names,May be missing
+State,U.S. state abbreviation.,categorical string,2-letter state code,49 state codes in dataset,Missing/unexpected codes should be checked
+Zipcode,Postal ZIP code associated with the event.,string,ZIP / ZIP+4 text,5- or extended ZIP formats,May be missing
+Country,Country code.,categorical string,Country code,US expected,Unexpected values should be checked
+Timezone,Local timezone for the event location.,categorical string,Timezone,"US/Eastern, US/Central, US/Mountain, US/Pacific (as present)",May be missing
+Airport_Code,Nearest weather-station/airport code used for weather context.,string,Station/airport code,Typically 4-character codes,May be missing
+Weather_Timestamp,Timestamp of the associated weather observation.,datetime,Local date-time,Timestamp,May be missing/parse errors
+Temperature(F),Air temperature near the event.,float,Degrees Fahrenheit,Numeric,May be missing; implausible values should be inspected
+Wind_Chill(F),Perceived temperature due to wind chill.,float,Degrees Fahrenheit,Numeric,May be missing
+Humidity(%),Relative humidity.,float,Percent,0-100,May be missing; outside 0-100 invalid
+Pressure(in),Atmospheric pressure.,float,Inches (inHg as represented by source),Numeric,May be missing; suspicious extremes should be inspected
+Visibility(mi),Visibility distance.,float,Miles,>= 0,May be missing; negative values invalid
+Wind_Direction,Wind direction at weather observation.,categorical string,Compass/category,"e.g., N, S, E, W, NW, Calm, Variable",May be missing; spelling/category consistency should be checked
+Wind_Speed(mph),Wind speed.,float,Miles per hour,>= 0,May be missing; negative values invalid
+Precipitation(in),Precipitation amount.,float,Inches,>= 0,May be missing; negative values invalid
+Weather_Condition,Reported weather condition.,categorical string,Category,"e.g., Clear/Fair, Rain, Snow, Fog and other source categories",May be missing; categories may need consolidation
+Amenity,Whether an amenity point of interest is nearby.,boolean,True/False,"True, False",Check missing/type consistency
+Bump,Whether a speed bump/road bump is nearby.,boolean,True/False,"True, False",Check missing/type consistency
+Crossing,Whether a crossing is nearby.,boolean,True/False,"True, False",Check missing/type consistency
+Give_Way,Whether a give-way/yield feature is nearby.,boolean,True/False,"True, False",Check missing/type consistency
+Junction,Whether a junction is nearby.,boolean,True/False,"True, False",Check missing/type consistency
+No_Exit,Whether a no-exit road feature is nearby.,boolean,True/False,"True, False",Check missing/type consistency
+Railway,Whether a railway feature is nearby.,boolean,True/False,"True, False",Check missing/type consistency
+Roundabout,Whether a roundabout is nearby.,boolean,True/False,"True, False",Check missing/type consistency
+Station,Whether a station point of interest is nearby.,boolean,True/False,"True, False",Check missing/type consistency
+Stop,Whether a stop sign is nearby.,boolean,True/False,"True, False",Check missing/type consistency
+Traffic_Calming,Whether a traffic-calming feature is nearby.,boolean,True/False,"True, False",Check missing/type consistency
+Traffic_Signal,Whether a traffic signal is nearby.,boolean,True/False,"True, False",Check missing/type consistency
+Turning_Loop,Whether a turning-loop feature is nearby.,boolean,True/False,"True, False",Check for constant/near-constant values
+Sunrise_Sunset,Day/night classification based on sunrise and sunset.,categorical string,Category,"Day, Night",May be missing
+Civil_Twilight,Day/night classification using civil twilight.,categorical string,Category,"Day, Night",May be missing
+Nautical_Twilight,Day/night classification using nautical twilight.,categorical string,Category,"Day, Night",May be missing
+Astronomical_Twilight,Day/night classification using astronomical twilight.,categorical string,Category,"Day, Night",May be missing
