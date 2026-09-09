@@ -28,3 +28,12 @@ La fuente advierte que pueden existir días sin registros debido a problemas de 
 ## Enlaces
 Dataset: https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents  
 Licencia: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+## Equipo
+
+| Integrante | Responsabilidad en esta entrega |
+|---|---|
+| Oscar Alonso Gomez Mari | Data & Analysis |
+| Gianella Araceli Lira Ñaupari | Data & Analysis |
+| Gady Magdiel Enciso Gomez | Visualization & Design |
+| Angel Ulises Tito Berrocal | D3 & Implementation |
