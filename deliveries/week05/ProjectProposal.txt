@@ -1,0 +1,391 @@
+\documentclass[10pt]{article}
+\usepackage[letterpaper,top=1.55cm,bottom=1.45cm,left=1.6cm,right=1.6cm]{geometry}
+\usepackage{microtype}
+\usepackage{xcolor}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta,positioning}
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+\usepackage{ragged2e}
+\usepackage{setspace}
+\usepackage{colortbl}
+\usepackage{tcolorbox}
+\definecolor{accent}{HTML}{1673D2}
+\definecolor{accentdark}{HTML}{0F4E91}
+\definecolor{accentlight}{HTML}{EAF3FC}
+\definecolor{ink}{HTML}{161616}
+\definecolor{muted}{HTML}{666666}
+\definecolor{rulegray}{HTML}{D9D9D9}
+\definecolor{softgray}{HTML}{F2F2F0}
+\definecolor{warnbg}{HTML}{F3F5F7}
+
+\hypersetup{colorlinks=true,urlcolor=accentdark,linkcolor=accentdark}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{3.0pt}
+\setlength{\tabcolsep}{4pt}
+\renewcommand{\arraystretch}{1.13}
+\setlist[itemize]{leftmargin=1.25em,itemsep=1.2pt,topsep=2pt}
+\setlist[enumerate]{leftmargin=1.45em,itemsep=1.2pt,topsep=2pt}
+
+\titleformat{\section}
+  {\sffamily\bfseries\large\color{ink}}
+  {\color{accent}\thesection}{0.55em}{}
+\titlespacing*{\section}{0pt}{8pt}{4pt}
+
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0.3pt}
+\fancyfoot[L]{\sffamily\fontsize{7.5}{9}\selectfont\color{muted} DS5343 · Visualización de Datos · UTEC 2026-2}
+\fancyfoot[R]{\sffamily\fontsize{7.5}{9}\selectfont\color{muted} \thepage}
+
+\newcommand{\code}[1]{{\ttfamily\small #1}}
+\newcommand{\metric}[3]{%
+\begin{minipage}[t]{0.31\textwidth}
+\centering
+\begin{tcolorbox}[colback=#1,colframe=#1,boxrule=0pt,arc=1mm,left=3pt,right=3pt,top=5pt,bottom=5pt]
+{\sffamily\bfseries\fontsize{16}{17}\selectfont\color{accentdark} #2}\\[-1pt]
+{\sffamily\fontsize{8.3}{10}\selectfont\color{muted} #3}
+\end{tcolorbox}
+\end{minipage}}
+
+\newcommand{\task}[1]{\textcolor{accent}{\sffamily\bfseries #1}}
+
+\begin{document}
+\thispagestyle{fancy}
+
+{\sffamily\bfseries\fontsize{8.5}{10}\selectfont\color{accent}\rule{1.2em}{1.4pt}\hspace{0.55em}PROPUESTA DE PROYECTO · SEMANA 5}\par
+\vspace{7pt}
+{\sffamily\bfseries\fontsize{25}{27}\selectfont\color{ink} Patrones de los accidentes de tránsito de mayor impacto en Estados Unidos}\par
+
+\vspace{9pt}
+{\color{accent}\rule{3.3em}{2.1pt}}\par
+\vspace{7pt}
+{\sffamily\fontsize{8.6}{10.5}\selectfont\color{muted}
+DS5343 · Visualización de Datos · UTEC · Semestre 2026-2\\
+Prof. Germain García-Zanabria \hspace{1.2em}·\hspace{1.2em} 9 de septiembre de 2026}
+\usepackage{hyperref}
+
+\section{Equipo }
+\textbf{Repositorio:} [ \href{https://github.com/Alonso370/Dataset_Visualizacion/tree/main/deliveries}{Url al repositorio}   ]\\[-2pt]
+
+\begin{tabularx}{0.75\textwidth}{@{}>{\bfseries}p{0.35\textwidth}X@{}}
+\toprule
+Integrante & Responsabilidad principal \\
+\midrule
+Angel Ulises Tito Berrocal & Procesamiento en js y procedencia \\
+Gianella Araceli Lira Ñaupari  & Datos, calidad y preprocesamiento \\
+Gady Magdiel Enciso Gomez & Diseño visual, bocetos e interacción \\
+Oscar Alonso Gomez Marin & Implementación D3.js y despliegue \\
+\bottomrule
+\end{tabularx}
+
+\section{Planteamiento del problema}
+
+El conjunto \textbf{US Accidents (2016--2023)} reúne aproximadamente 
+\textbf{7.7 millones de registros} con información espacial, temporal, 
+meteorológica y del entorno vial. Esta riqueza permite estudiar los accidentes 
+desde una perspectiva que no se limite únicamente a contabilizar cuántos 
+eventos ocurren, sino que permita identificar \textbf{dónde se concentran los 
+accidentes de mayor impacto y bajo qué condiciones se registran}. Para ello, 
+la propuesta organiza el análisis en tres componentes principales:
+
+\vspace{2pt}
+\begin{center}
+\begin{tikzpicture}[node distance=7mm, every node/.style={font=\sffamily}]
+\node[draw=accent,fill=accentlight,rounded corners=2pt,
+minimum width=4.2cm,minimum height=0.82cm,align=center] (g) 
+{\textbf{Distribución geográfica}\\[-1pt]
+{\scriptsize \code{State}, \code{City}, \code{Start\_Lat}, \code{Start\_Lng}}};
+
+\node[draw=accent,fill=accentlight,rounded corners=2pt,
+minimum width=4.2cm,minimum height=0.82cm,align=center,right=of g] (s) 
+{\textbf{Mayor impacto}\\[-1pt]
+{\scriptsize \code{Severity} (1--4)}};
+
+\node[draw=accent,fill=accentlight,rounded corners=2pt,
+minimum width=4.2cm,minimum height=0.82cm,align=center,right=of s] (c) 
+{\textbf{Condiciones}\\[-1pt]
+{\scriptsize tiempo, clima e infraestructura}};
+
+\node[below=5mm of s,font=\sffamily\bfseries\small,color=accentdark] 
+{perfil espacial y contextual de los accidentes de mayor impacto};
+
+\draw[-{Latex[length=2mm]},accent] (g.south) -- ++(0,-3mm) -| (s.south);
+\draw[-{Latex[length=2mm]},accent] (c.south) -- ++(0,-3mm) -| (s.south);
+\end{tikzpicture}
+\end{center}
+\vspace{1pt}
+
+La pregunta central es: 
+\textbf{¿Dónde se concentran los accidentes de mayor impacto y bajo qué 
+condiciones ocurren?} La visualización permitirá \textbf{explorar la 
+distribución geográfica de los accidentes de tránsito}, identificar las zonas 
+donde se concentran aquellos con mayores valores de \code{Severity} y, a partir 
+de estas concentraciones, analizar las \textbf{condiciones temporales, 
+meteorológicas y de infraestructura vial} asociadas con su ocurrencia.
+
+De esta manera, el análisis buscará relacionar la ubicación de los accidentes 
+de mayor impacto con factores como la hora y el periodo del día, las condiciones 
+de iluminación, el clima y las características del entorno vial. El objetivo es 
+identificar \emph{patrones y asociaciones} presentes en los registros y comparar 
+cómo estos varían espacialmente, sin construir un modelo predictivo ni establecer 
+relaciones causales.
+
+\begin{tcolorbox}[colback=warnbg,colframe=rulegray,boxrule=0.4pt,arc=0mm,
+left=7pt,right=7pt,top=5pt,bottom=5pt,leftrule=3pt]
+\small
+\textbf{Límite metodológico clave.} 
+\code{Severity} representa \textbf{impacto sobre el tráfico, no gravedad de 
+lesiones}. Asimismo, la cantidad de accidentes registrados en una zona no debe 
+interpretarse directamente como una medida de riesgo, debido a que el dataset 
+no incorpora una medida homogénea de exposición al tráfico, como volumen 
+vehicular o kilómetros recorridos. Además, la procedencia de los registros 
+cambia durante el periodo analizado y las fuentes pueden presentar diferencias 
+en la asignación de \code{Severity}; por ello, estas características serán 
+consideradas al interpretar las comparaciones espaciales y temporales.
+\end{tcolorbox}
+
+
+\section{Audiencia y propósito}
+
+\textbf{Audiencia principal:} analistas de seguridad vial y equipos de 
+planificación urbana interesados en comprender la distribución espacial de los 
+accidentes y las condiciones asociadas con aquellos que generan un mayor impacto 
+sobre el tráfico. 
+
+\textbf{Secundaria:} investigadores, estudiantes y equipos de 
+datos que utilizan información abierta sobre accidentes de tránsito para explorar 
+patrones espaciales y contextuales.
+
+La visualización debe permitirles \textbf{explorar} la distribución geográfica 
+de los accidentes, \textbf{identificar} dónde se concentran los eventos de mayor 
+impacto y \textbf{comparar} las condiciones temporales, meteorológicas y de 
+infraestructura asociadas con estos registros. A partir de una vista espacial 
+general, el usuario podrá profundizar en diferentes zonas y analizar cómo cambia 
+el perfil de los accidentes según factores como el momento del día, la iluminación, 
+el clima y las características del entorno vial.
+
+\textbf{Lo que deliberadamente no hará} es afirmar qué estado o ciudad es más 
+peligroso para conducir. El conjunto no incorpora ninguna medida homogénea de 
+exposición al tráfico ---como volumen vehicular, población expuesta o kilómetros 
+recorridos---, por lo que una mayor cantidad de registros puede estar relacionada 
+tanto con una mayor circulación como con diferencias en la cobertura de la 
+recolección. Por esta razón, la aplicación presentará los resultados como 
+\textbf{concentraciones, distribuciones y asociaciones observadas en los datos}, 
+y no como tasas de riesgo o relaciones causales.
+
+
+\section{Conjunto de datos}
+\textbf{US Accidents (2016--2023)}, curado por Sobhan Moosavi y publicado en Kaggle bajo licencia \textbf{CC BY-NC-SA 4.0}. Cobertura: febrero de 2016 a marzo de 2023, 49 estados, aproximadamente 7.7 millones de registros y 46 atributos. Los eventos provienen de múltiples APIs de tráfico y se enriquecen con información meteorológica y del entorno vial.
+
+\vspace{2pt}
+\noindent
+\metric{accentlight}{7.7 M}{registros originales}
+\hfill
+\metric{accentlight}{49}{estados de EE. UU.}
+\hfill
+\metric{accentlight}{2016--2023}{cobertura temporal}
+\vspace{2pt}
+
+\textbf{Atributos relevantes.}\par\smallskip
+{\small
+\begin{tabularx}{\textwidth}{@{}>{\sffamily\bfseries}p{0.17\textwidth} >{\ttfamily\small}p{0.44\textwidth} X@{}}
+\toprule
+Dimensión & Variables & Uso analítico \\
+\midrule
+Impacto & Severity, Distance(mi) & nivel y extensión de la afectación \\
+Tiempo & Start\_Time, End\_Time & hora, día, mes y duración derivada \\
+Clima & Weather\_Condition, Visibility(mi), Precipitation(in), Temperature(F), Humidity(\%) & contexto meteorológico \\
+Infraestructura & Junction, Crossing, Traffic\_Signal, Stop, Railway, Give\_Way, Traffic\_Calming & entorno vial \\
+Espacio y luz & Start\_Lat, Start\_Lng, State, City, Sunrise\_Sunset, Civil\_Twilight & localización e iluminación \\
+Procedencia & Source & control de comparabilidad \\
+\bottomrule
+\end{tabularx}
+}
+
+\textbf{Calidad y limitaciones.} (1) la mezcla de fuentes varía durante el periodo; (2) no existe una medida de exposición al tráfico; (3) \code{Severity} no mide lesiones; (4) algunas variables presentan faltantes importantes, especialmente coordenadas finales y precipitación; (5) \code{Weather\_Condition} contiene muchas categorías y requiere consolidación; y (6) la cobertura geográfica es desigual.
+
+\textbf{Preprocesamiento previsto.} Conversión de timestamps y derivación de
+hora, día y mes; consolidación de \code{Weather\_Condition}; construcción de
+perfiles proporcionales por grupo; y agregados precalculados sobre el
+conjunto completo para alimentar la aplicación.
+
+\textbf{Reproducibilidad.} El original no se versiona. Se publica una
+muestra de 100\,000 registros generada en dos etapas con semilla fija, con
+los scripts que la producen y evalúan. El procedimiento se verificó
+regenerando la muestra desde el original: devuelve exactamente las mismas
+filas. Paquete completo en \code{deliveries/week04/}.
+
+
+\section{Preguntas de dominio}
+
+Las preguntas siguen una progresión desde la identificación espacial de los accidentes de mayor impacto hasta la comparación de los patrones observados entre diferentes regiones. Cada pregunta se formula mediante una combinación de \textbf{acción + target}, siguiendo la taxonomía de tareas de visualización.
+
+\begin{tabularx}{\textwidth}{@{}p{0.055\textwidth} >{\sffamily\bfseries}p{0.22\textwidth} X@{}}
+\toprule
+ & Acción + Target & Pregunta \\
+\midrule
+
+\task{T1} & Explore + Spatial Data / Trends &
+¿Dónde se concentran los accidentes de mayor impacto en US? \\
+
+\task{T2} & Identify + Distribution &
+¿Qué condiciones meteorológicas caracterizan a los accidentes de mayor impacto en las zonas seleccionadas? \\
+
+\task{T3} & Compare + Dependency &
+¿En qué momentos del día y condiciones de iluminación ocurren los accidentes de mayor impacto? \\
+
+\task{T4} & Identify + Distribution &
+¿Qué características de infraestructura vial aparecen con mayor frecuencia en los accidentes de mayor impacto? \\
+
+\task{T5} & Compare + Similarity &
+¿Cómo cambian estas condiciones entre diferentes regiones de Estados Unidos? \\
+
+\bottomrule
+\end{tabularx}
+
+\vspace{4pt}
+
+\begin{tcolorbox}[
+    colback=accentlight,
+    colframe=accentlight,
+    boxrule=0pt,
+    arc=1mm,
+    left=7pt,
+    right=7pt,
+    top=5pt,
+    bottom=5pt
+]
+\small\sffamily
+
+\textbf{Ruta de exploración:}
+
+\textcolor{accentdark}{\textbf{Dónde y cuándo}} (T1)
+$\rightarrow$
+\textcolor{accentdark}{\textbf{bajo qué clima}} (T2)
+$\rightarrow$
+\textcolor{accentdark}{\textbf{en qué momento e iluminación}} (T3)
+$\rightarrow$
+\textcolor{accentdark}{\textbf{en qué entorno vial}} (T4)
+$\rightarrow$
+\textcolor{accentdark}{\textbf{cómo cambian los patrones entre regiones}} (T5).
+
+\vspace{3pt}
+
+La exploración comienza con una \textbf{vista geográfica y temporal general} que permite localizar los accidentes de mayor impacto. A partir de la selección de una zona en el mapa, el análisis profundiza progresivamente en las \textbf{condiciones meteorológicas}, el \textbf{momento del día y la iluminación} y las \textbf{características de infraestructura vial} asociadas con esos eventos. Finalmente, el usuario puede seleccionar otra región y \textbf{comparar los perfiles obtenidos}, identificando similitudes y diferencias entre distintas zonas de Estados Unidos.
+
+\end{tcolorbox}
+
+Comparar estados exige un cuidado adicional: \textbf{la mezcla de fuentes
+varía fuertemente entre ellos}, del 38.3\,\% de Source1 en Texas al
+86.2\,\% en Oregón —48 puntos de rango—. Comparar severidad entre estados
+con composiciones tan distintas mediría proveedores, no lugares.
+
+Seleccionamos cinco estados que combinan volumen suficiente, diversidad
+climática y —criterio decisivo— \textbf{composición de fuentes comparable}:
+
+\vspace{0.2em}
+{\sffamily\small
+\begin{tabular}{@{}lrrl@{}}
+\toprule
+\textbf{Estado} & \textbf{Registros} & \textbf{Source1} &
+  \textbf{Perfil climático} \\
+\midrule
+California  & 1\,741\,433 & 63.4\,\% & Mediterráneo seco, urbano denso \\
+Florida     & 880\,192    & 67.9\,\% & Subtropical, lluvia intensa \\
+Virginia    & 303\,301    & 67.6\,\% & Templado atlántico \\
+Pensilvania & 296\,620    & 60.5\,\% & Continental, nieve moderada \\
+Minnesota   & 192\,084    & 67.8\,\% & Invierno severo, nieve \\
+\bottomrule
+\end{tabular}}
+
+\vspace{0.5em}
+Los cinco caen en una banda estrecha (60.5\,\%–67.9\,\%), lo que hace la
+comparación defendible. \textbf{Texas y Oregón se excluyen deliberadamente}
+pese a su volumen, porque su mezcla los haría incomparables. La vista
+nacional de T1 conserva los 49 estados como contexto.
+
+\definecolor{banda}{HTML}{F2F1EE}
+
+
+
+\definecolor{banda}{HTML}{F2F1EE}
+
+\section{Viabilidad inicial}
+
+\textbf{Verificado.} El conjunto fue descargado, inspeccionado y evaluado en
+su totalidad. Existen scripts reproducibles para el muestreo, la evaluación
+de calidad y el procesamiento de los datos, ejecutables desde cualquier
+directorio y documentados en \code{deliveries/week04/acquisition.md}. Las
+variables necesarias para responder las cinco preguntas de dominio fueron
+verificadas previamente, incluyendo información geográfica, temporal,
+meteorológica, de iluminación, severidad e infraestructura vial.
+
+\textbf{Desafíos técnicos.} \emph{(a)} El conjunto original contiene
+aproximadamente 7.7 millones de registros, por lo que representar cada
+accidente directamente en el navegador produciría problemas de rendimiento
+y sobrecarga visual. Para la aplicación se generarán agregados y estructuras
+de datos optimizadas que permitan construir el mapa y actualizar las vistas
+según la región seleccionada. \emph{(b)} La visualización geográfica requiere
+manejar adecuadamente la densidad de registros y los diferentes niveles de
+detalle para identificar concentraciones de accidentes de mayor impacto sin
+saturar el mapa. \emph{(c)} \code{Weather\_Condition} contiene alrededor de
+60 categorías, por lo que será necesario agrupar condiciones similares con
+criterios consistentes para obtener comparaciones interpretables.
+\emph{(d)} La coordinación entre el mapa y las vistas de clima, tiempo,
+iluminación e infraestructura requiere filtros e interacciones que permitan
+actualizar los gráficos de forma clara cuando el usuario seleccione una zona.
+\emph{(e)} La comparación entre regiones deberá utilizar representaciones
+proporcionales y escalas consistentes para distinguir diferencias en los
+patrones sin interpretar el número absoluto de registros como una medida de
+riesgo.
+
+\vspace{0.3em}
+{\small
+\begin{tabular}{@{}p{0.44\linewidth}p{0.53\linewidth}@{}}
+\toprule
+\textbf{Riesgo} & \textbf{Mitigación} \\
+\midrule
+
+Sobrecarga visual y bajo rendimiento por el volumen de registros
+  & Utilizar agregación espacial, datos precalculados y distintos niveles
+    de detalle en el mapa \\
+
+\rowcolor{banda}
+Exceso de categorías meteorológicas que dificulte la comparación
+  & Agrupar condiciones similares mediante criterios explícitos y conservar
+    las categorías originales durante el preprocesamiento \\
+
+Dificultad para coordinar el mapa con las vistas de clima, tiempo e infraestructura
+  & Implementar filtros y vistas vinculadas que se actualicen a partir de
+    la región seleccionada \\
+
+\rowcolor{banda}
+Comparaciones regionales afectadas por diferencias en el número de registros
+  & Comparar distribuciones y proporciones dentro de cada región, evitando
+    presentar los conteos como tasas de riesgo \\
+
+Complejidad de implementación de las interacciones en D3.js
+  & Prototipar tempranamente la selección geográfica de T1 y su conexión con
+    las vistas de T2--T5 \\
+
+\bottomrule
+\end{tabular}}
+% \newpage
+
+\vspace{2pt}
+{\footnotesize
+\textbf{Referencias.} 
+
+[1] S. Moosavi, M. H. Samavatian, S. Parthasarathy y R. Ramnath, ``A Countrywide Traffic Accident Dataset,'' arXiv:1906.05409, 2019. \quad
+[2] S. Moosavi et al., ``Accident Risk Prediction based on Heterogeneous Sparse Data: New Dataset and Insights,'' ACM SIGSPATIAL, 2019. \quad
+[3] T. Munzner, \emph{Visualization Analysis and Design}, CRC Press, 2014.\\
+\textbf{Datos:} \href{https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents}{Kaggle -- US Accidents (2016--2023)} · \href{https://creativecommons.org/licenses/by-nc-sa/4.0/}{CC BY-NC-SA 4.0}.}
+
+\end{document}
