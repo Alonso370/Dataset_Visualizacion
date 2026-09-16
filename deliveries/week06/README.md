@@ -18,18 +18,18 @@ Prof. Germain García-Zanabria · 16 de septiembre de 2026
 | Componente | Archivo |
 |---|---|
 | Análisis de datos | `DataAnalysis.md` |
-| Revisión de papers e interacciones planeadas | `Vizu_S6.pdf` + fuente `Vizu_S6.tex` |
+| Revisión de papers e interacciones planeadas | `Vizu_S6.pdf` |
 | Papers revisados | `papers/` (4 PDF) |
 | Código de procesamiento | `code/` (2 `.Rmd`) |
 | Datos procesados | `data/processed/` (2 CSV) |
-| Bocetos | `sketches/` |
+| Presentación | `PresentationWeek06.pdf` |
 
 ```
 deliveries/week06/
 ├── README.md
 ├── DataAnalysis.md
 ├── Vizu_S6.pdf
-├── Vizu_S6.tex
+├── PresentationWeek06.pdf
 ├── code/
 │   ├── limpieza_us_accidents.Rmd
 │   └── 02_transformacion_us_accidents_final.Rmd
@@ -37,13 +37,11 @@ deliveries/week06/
 │   └── processed/
 │       ├── sample_reducido_limpio.csv
 │       └── sample_reducido_transformado.csv
-├── papers/
-│   ├── 01_fan_2015_spatio_temporal_traffic_accidents.pdf
-│   ├── 02_sunkpho_2020_highway_accidents.pdf
-│   ├── 03_guo_2011_tripvista.pdf
-│   └── 04_rodriguez_2022_jamvis.pdf
-└── sketches/
-    └── boceto_mapa_T1.jpeg
+└── papers/
+    ├── 01_fan_2015_spatio_temporal_traffic_accidents.pdf
+    ├── 02_sunkpho_2020_highway_accidents.pdf
+    ├── 03_guo_2011_tripvista.pdf
+    └── 04_rodriguez_2022_jamvis.pdf
 ```
 
 ---
