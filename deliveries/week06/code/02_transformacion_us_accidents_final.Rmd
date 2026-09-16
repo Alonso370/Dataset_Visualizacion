@@ -1,0 +1,402 @@
+---
+title: "Transformación de datos - US Accidents"
+author: "Equipo de Visualización"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    df_print: paged
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  echo = TRUE,
+  message = FALSE,
+  warning = FALSE
+)
+
+library(tidyverse)
+library(lubridate)
+```
+
+# 1. Objetivo
+
+El objetivo de esta etapa es transformar el mismo dataset previamente limpio, agregando variables derivadas que permitan responder las preguntas analíticas del proyecto.
+
+La transformación se realiza directamente sobre:
+
+`sample_reducido_limpio.csv`
+
+y el resultado principal será:
+
+`sample_reducido_transformado.csv`
+
+Se mantiene la variable `Source` porque la composición de las fuentes puede afectar la distribución de severidad, temporalidad e infraestructura. Por ello, `Source` se conservará como variable de control para los análisis posteriores.
+
+# 2. Carga del dataset limpio
+
+```{r carga-datos}
+df <- read_csv(
+  "sample_reducido_limpio.csv",
+  show_col_types = FALSE
+)
+
+glimpse(df)
+```
+
+# 3. Estandarización de Source
+
+Se conservan las fuentes originales y se eliminan posibles espacios innecesarios.
+
+```{r source}
+df <- df %>%
+  mutate(
+    Source = str_trim(Source),
+    Source = factor(Source)
+  )
+
+df %>%
+  count(Source)
+```
+
+# 4. Conversión de variables temporales
+
+```{r convertir-fechas}
+df <- df %>%
+  mutate(
+    Start_Time = parse_date_time(
+      Start_Time,
+      orders = c(
+        "Y-m-d H:M:S",
+        "Y-m-d H:M:S.OS",
+        "Y-m-d H:M:S z"
+      ),
+      quiet = TRUE
+    ),
+    End_Time = parse_date_time(
+      End_Time,
+      orders = c(
+        "Y-m-d H:M:S",
+        "Y-m-d H:M:S.OS",
+        "Y-m-d H:M:S z"
+      ),
+      quiet = TRUE
+    ),
+    Weather_Timestamp = parse_date_time(
+      Weather_Timestamp,
+      orders = c(
+        "Y-m-d H:M:S",
+        "Y-m-d H:M:S.OS",
+        "Y-m-d H:M:S z"
+      ),
+      quiet = TRUE
+    )
+  )
+```
+
+# 5. Transformación de la severidad
+
+La variable `Severity` original toma valores entre 1 y 4.
+
+Para facilitar su interpretación visual se crea `severity_level`:
+
+- `Severity = 1` → **Baja**
+- `Severity = 2` → **Media**
+- `Severity = 3 o 4` → **Alta**
+
+```{r categoria-severidad}
+df <- df %>%
+  mutate(
+    severity_level = case_when(
+      Severity == 1 ~ "Baja",
+      Severity == 2 ~ "Media",
+      Severity %in% c(3, 4) ~ "Alta",
+      TRUE ~ NA_character_
+    ),
+    severity_level = factor(
+      severity_level,
+      levels = c("Baja", "Media", "Alta")
+    )
+  )
+```
+
+```{r revisar-severidad}
+df %>%
+  count(Severity, severity_level)
+```
+
+## 5.1 Accidentes de mayor impacto
+
+Para las preguntas del proyecto, se define como **accidente de mayor impacto** únicamente aquel con:
+
+`Severity >= 3`
+
+```{r mayor-impacto}
+df <- df %>%
+  mutate(
+    high_impact = Severity >= 3
+  )
+```
+
+```{r revisar-high-impact}
+df %>%
+  count(Source, high_impact) %>%
+  group_by(Source) %>%
+  mutate(
+    porcentaje = n / sum(n) * 100
+  )
+```
+
+Esta revisión permite observar si la proporción de accidentes de mayor impacto cambia según la fuente de datos. En los análisis posteriores, las comparaciones temporales, regionales o de infraestructura deberán controlar `Source`.
+
+# 6. Variables temporales derivadas
+
+```{r variables-temporales}
+df <- df %>%
+  mutate(
+    year = year(Start_Time),
+    month = month(Start_Time),
+    month_name = month(
+      Start_Time,
+      label = TRUE,
+      abbr = FALSE
+    ),
+    day_of_week = wday(
+      Start_Time,
+      label = TRUE,
+      abbr = FALSE,
+      week_start = 1
+    ),
+    hour = hour(Start_Time),
+    is_weekend = day_of_week %in% c("Saturday", "Sunday")
+  )
+```
+
+# 7. Franja horaria
+
+```{r franja-horaria}
+df <- df %>%
+  mutate(
+    time_of_day = case_when(
+      hour >= 0 & hour < 6 ~ "Madrugada",
+      hour >= 6 & hour < 12 ~ "Mañana",
+      hour >= 12 & hour < 18 ~ "Tarde",
+      hour >= 18 & hour <= 23 ~ "Noche",
+      TRUE ~ NA_character_
+    ),
+    time_of_day = factor(
+      time_of_day,
+      levels = c(
+        "Madrugada",
+        "Mañana",
+        "Tarde",
+        "Noche"
+      )
+    )
+  )
+```
+
+# 8. Estación del año
+
+La variable se conserva como atributo exploratorio. Debido a diferencias en la composición de `Source`, cualquier comparación por estación deberá realizarse controlando la fuente de datos.
+
+```{r estacion}
+df <- df %>%
+  mutate(
+    season = case_when(
+      month %in% c(12, 1, 2) ~ "Winter",
+      month %in% c(3, 4, 5) ~ "Spring",
+      month %in% c(6, 7, 8) ~ "Summer",
+      month %in% c(9, 10, 11) ~ "Fall",
+      TRUE ~ NA_character_
+    ),
+    season = factor(
+      season,
+      levels = c(
+        "Winter",
+        "Spring",
+        "Summer",
+        "Fall"
+      )
+    )
+  )
+```
+
+# 9. Agrupación de condiciones meteorológicas
+
+La variable `Weather_Condition` contiene numerosas categorías específicas. Se crea `weather_group` para simplificar la exploración.
+
+```{r weather-group}
+df <- df %>%
+  mutate(
+    weather_group = case_when(
+      str_detect(
+        str_to_lower(Weather_Condition),
+        "rain|drizzle|shower"
+      ) ~ "Rain",
+
+      str_detect(
+        str_to_lower(Weather_Condition),
+        "snow|sleet|wintry|ice"
+      ) ~ "Snow / Ice",
+
+      str_detect(
+        str_to_lower(Weather_Condition),
+        "fog|mist|haze|smoke"
+      ) ~ "Fog / Low visibility",
+
+      str_detect(
+        str_to_lower(Weather_Condition),
+        "thunder|storm|tornado"
+      ) ~ "Storm",
+
+      str_detect(
+        str_to_lower(Weather_Condition),
+        "cloud|overcast"
+      ) ~ "Cloudy",
+
+      str_detect(
+        str_to_lower(Weather_Condition),
+        "clear|fair"
+      ) ~ "Clear / Fair",
+
+      is.na(Weather_Condition) ~ NA_character_,
+
+      TRUE ~ "Other"
+    )
+  )
+```
+
+```{r revisar-clima}
+df %>%
+  count(weather_group, sort = TRUE)
+```
+
+# 10. Infraestructura vial
+
+Las variables de infraestructura se conservan como indicadores separados para evitar sumar elementos de naturaleza distinta en un único índice.
+
+Se consideran para el análisis principal:
+
+- `Traffic_Signal`
+- `Crossing`
+- `Junction`
+- `Stop`
+- `Station`
+- `Amenity`
+- `Railway`
+
+`Roundabout` se excluye del análisis principal debido a su variación extremadamente baja en la muestra.
+
+```{r infraestructura}
+infra_cols <- c(
+  "Traffic_Signal",
+  "Crossing",
+  "Junction",
+  "Stop",
+  "Station",
+  "Amenity",
+  "Railway"
+)
+
+df %>%
+  summarise(
+    across(
+      all_of(infra_cols),
+      ~ mean(.x, na.rm = TRUE) * 100
+    )
+  )
+```
+
+No se crea `infrastructure_count`, ya que sumar estos indicadores podría sugerir una escala de infraestructura que no tiene una interpretación directa.
+
+# 11. Validación de transformaciones
+
+```{r validacion}
+cat("Filas:", nrow(df), "\n")
+cat("Columnas:", ncol(df), "\n")
+cat(
+  "Accidentes de mayor impacto (Severity >= 3):",
+  sum(df$high_impact, na.rm = TRUE),
+  "\n"
+)
+cat(
+  "Estados representados:",
+  n_distinct(df$State),
+  "\n"
+)
+cat(
+  "Fuentes representadas:",
+  n_distinct(df$Source),
+  "\n"
+)
+```
+
+## 11.1 Distribución por nivel de severidad
+
+```{r distribucion-severidad}
+df %>%
+  count(severity_level)
+```
+
+## 11.2 Distribución por fuente y severidad
+
+```{r severidad-source}
+df %>%
+  count(Source, severity_level) %>%
+  group_by(Source) %>%
+  mutate(
+    porcentaje = n / sum(n) * 100
+  )
+```
+
+## 11.3 Distribución temporal por fuente
+
+```{r temporal-source}
+df %>%
+  count(Source, year)
+```
+
+Esta tabla sirve como control para detectar cambios importantes en la composición de las fuentes a través del tiempo.
+
+# 12. Exportación
+
+```{r exportar}
+write_csv(
+  df,
+  "sample_reducido_transformado.csv"
+)
+```
+
+# 13. Nuevas variables creadas
+
+- `severity_level`: Baja, Media o Alta.
+- `high_impact`: `TRUE` únicamente cuando `Severity >= 3`.
+- `year`: año.
+- `month`: número de mes.
+- `month_name`: nombre del mes.
+- `day_of_week`: día de la semana.
+- `hour`: hora del accidente.
+- `is_weekend`: identifica sábado y domingo.
+- `time_of_day`: madrugada, mañana, tarde o noche.
+- `season`: estación del año.
+- `weather_group`: agrupación de las condiciones meteorológicas.
+
+La variable `Source` no es nueva, pero se conserva explícitamente como variable de control.
+
+# 14. Consideraciones metodológicas
+
+La composición de las fuentes de datos puede variar según el año, la región, la severidad y algunas variables de infraestructura. Por ello:
+
+1. Las tendencias temporales no deben interpretarse sin revisar `Source`.
+2. Las comparaciones de infraestructura deben realizarse dentro de una misma fuente o controlando la fuente.
+3. Las comparaciones entre regiones deben verificar que las regiones tengan una composición de fuentes comparable.
+4. `Severity >= 3` se utiliza como definición de "mayor impacto".
+5. `severity_level` se utiliza únicamente como agrupación descriptiva para facilitar la visualización.
+
+# 15. Conclusión
+
+La transformación se realizó directamente sobre el dataset limpio, manteniendo cada accidente como una fila.
+
+Además de generar variables temporales y meteorológicas, se incorporó explícitamente `Source` como variable de control y se revisó la selección de variables de infraestructura. Esto permite reducir el riesgo de atribuir a la temporalidad, la región o la infraestructura diferencias que podrían deberse a cambios en la fuente de los datos.

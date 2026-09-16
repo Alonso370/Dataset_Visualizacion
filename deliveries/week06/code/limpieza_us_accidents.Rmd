@@ -1,0 +1,307 @@
+---
+title: "Limpieza de datos - US Accidents"
+author: "Equipo de Visualización"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    df_print: paged
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  echo = TRUE,
+  message = FALSE,
+  warning = FALSE
+)
+
+library(tidyverse)
+library(lubridate)
+library(janitor)
+```
+
+# 1. Objetivo
+
+El objetivo de esta etapa es realizar una limpieza inicial del dataset de accidentes de tránsito antes de aplicar las transformaciones necesarias para responder las preguntas analíticas del proyecto.
+
+La limpieza considera:
+
+- revisión de la estructura del dataset;
+- detección de duplicados;
+- estandarización de nombres de columnas;
+- limpieza de variables de texto;
+- conversión de variables temporales;
+- validación de valores esenciales;
+- validación de severidad;
+- validación de coordenadas geográficas;
+- validación de coherencia temporal;
+- revisión de valores faltantes.
+
+# 2. Carga de datos
+
+```{r carga-datos}
+df <- read_csv("sample_reducido.csv", show_col_types = FALSE)
+dim(df)
+```
+
+# 3. Exploración inicial
+
+## 3.1 Número de filas y columnas
+
+```{r dimensiones}
+cat("Filas:", nrow(df), "\n")
+cat("Columnas:", ncol(df), "\n")
+```
+
+## 3.2 Nombres de variables
+
+```{r nombres-columnas}
+names(df)
+```
+
+## 3.3 Tipos de datos
+
+```{r tipos-datos}
+glimpse(df)
+```
+
+# 4. Estandarización de nombres de columnas
+
+Se eliminan espacios innecesarios en los nombres de las variables.
+
+```{r limpiar-nombres}
+names(df) <- str_trim(names(df))
+```
+
+# 5. Revisión y eliminación de duplicados
+
+Primero se revisan registros completamente duplicados.
+
+```{r duplicados-exactos}
+duplicados_exactos <- sum(duplicated(df))
+duplicados_exactos
+```
+
+Luego se revisa si existen identificadores `ID` repetidos.
+
+```{r duplicados-id}
+duplicados_id <- sum(duplicated(df$ID))
+duplicados_id
+```
+
+Se eliminan duplicados exactos y registros repetidos por `ID`, conservando la primera ocurrencia.
+
+```{r eliminar-duplicados}
+df <- df %>%
+  distinct() %>%
+  distinct(ID, .keep_all = TRUE)
+```
+
+# 6. Limpieza de variables de texto
+
+Se eliminan espacios al inicio y al final de las variables categóricas.
+
+```{r limpiar-texto}
+df <- df %>%
+  mutate(
+    across(
+      where(is.character),
+      ~ str_trim(.x)
+    )
+  )
+```
+
+# 7. Conversión de variables temporales
+
+Las variables `Start_Time`, `End_Time` y `Weather_Timestamp` se convierten a formato fecha-hora.
+
+Debido a que el dataset puede contener diferentes formatos temporales, se utiliza `parse_date_time()`.
+
+```{r convertir-fechas}
+df <- df %>%
+  mutate(
+    Start_Time = parse_date_time(
+      Start_Time,
+      orders = c(
+        "Y-m-d H:M:S",
+        "Y-m-d H:M:S.OS",
+        "Y-m-d H:M:S z"
+      ),
+      quiet = TRUE
+    ),
+    End_Time = parse_date_time(
+      End_Time,
+      orders = c(
+        "Y-m-d H:M:S",
+        "Y-m-d H:M:S.OS",
+        "Y-m-d H:M:S z"
+      ),
+      quiet = TRUE
+    ),
+    Weather_Timestamp = parse_date_time(
+      Weather_Timestamp,
+      orders = c(
+        "Y-m-d H:M:S",
+        "Y-m-d H:M:S.OS",
+        "Y-m-d H:M:S z"
+      ),
+      quiet = TRUE
+    )
+  )
+```
+
+# 8. Validación de variables esenciales
+
+Para el análisis espacial y temporal se consideran esenciales:
+
+- `ID`
+- `Severity`
+- `Start_Time`
+- `Start_Lat`
+- `Start_Lng`
+- `State`
+
+Se revisa la cantidad de valores faltantes.
+
+```{r nulos-esenciales}
+variables_esenciales <- c(
+  "ID",
+  "Severity",
+  "Start_Time",
+  "Start_Lat",
+  "Start_Lng",
+  "State"
+)
+
+df %>%
+  summarise(
+    across(
+      all_of(variables_esenciales),
+      ~ sum(is.na(.x))
+    )
+  )
+```
+
+Se eliminan únicamente los registros que no contienen alguno de estos campos esenciales.
+
+```{r eliminar-nulos-esenciales}
+df <- df %>%
+  drop_na(
+    ID,
+    Severity,
+    Start_Time,
+    Start_Lat,
+    Start_Lng,
+    State
+  )
+```
+
+# 9. Validación de severidad
+
+La variable `Severity` debe contener únicamente valores entre 1 y 4.
+
+```{r revisar-severidad}
+table(df$Severity, useNA = "ifany")
+```
+
+Se conservan únicamente los valores válidos.
+
+```{r filtrar-severidad}
+df <- df %>%
+  filter(Severity %in% c(1, 2, 3, 4))
+```
+
+# 10. Validación de coordenadas geográficas
+
+Se verifican los rangos posibles de latitud y longitud.
+
+```{r revisar-coordenadas}
+summary(df$Start_Lat)
+summary(df$Start_Lng)
+```
+
+Se conservan coordenadas válidas:
+
+- latitud entre -90 y 90;
+- longitud entre -180 y 180.
+
+```{r filtrar-coordenadas}
+df <- df %>%
+  filter(
+    between(Start_Lat, -90, 90),
+    between(Start_Lng, -180, 180)
+  )
+```
+
+# 11. Validación de coherencia temporal
+
+Se revisa que `End_Time` no sea anterior a `Start_Time`.
+
+```{r incoherencias-temporales}
+sum(
+  !is.na(df$End_Time) &
+  df$End_Time < df$Start_Time
+)
+```
+
+Los registros con fechas temporalmente incoherentes se eliminan.
+
+```{r filtrar-coherencia-temporal}
+df <- df %>%
+  filter(
+    is.na(End_Time) |
+    End_Time >= Start_Time
+  )
+```
+
+# 12. Revisión de valores faltantes
+
+Se calcula el número y porcentaje de valores faltantes por variable.
+
+```{r resumen-nulos}
+resumen_nulos <- tibble(
+  variable = names(df),
+  nulos = map_int(df, ~ sum(is.na(.x))),
+  porcentaje_nulos = map_dbl(
+    df,
+    ~ mean(is.na(.x)) * 100
+  )
+) %>%
+  arrange(desc(porcentaje_nulos))
+
+resumen_nulos
+```
+
+No se eliminan de forma global los registros con valores faltantes en variables meteorológicas, ya que estos pueden seguir siendo útiles para los análisis espaciales y temporales.
+
+El tratamiento de nulos se realizará posteriormente según cada visualización y pregunta analítica.
+
+# 13. Resumen de la limpieza
+
+```{r resumen-final}
+cat("Filas finales:", nrow(df), "\n")
+cat("Columnas finales:", ncol(df), "\n")
+cat("Duplicados por ID:", sum(duplicated(df$ID)), "\n")
+cat("Nulos en Start_Time:", sum(is.na(df$Start_Time)), "\n")
+cat("Nulos en Start_Lat:", sum(is.na(df$Start_Lat)), "\n")
+cat("Nulos en Start_Lng:", sum(is.na(df$Start_Lng)), "\n")
+cat("Nulos en State:", sum(is.na(df$State)), "\n")
+```
+
+# 14. Exportación del dataset limpio
+
+```{r exportar}
+write_csv(
+  df,
+  "sample_reducido_limpio.csv"
+)
+```
+
+# 15. Conclusión
+
+La limpieza permitió verificar la consistencia básica del dataset antes de realizar las transformaciones requeridas para el análisis.
+
+No se eliminaron valores faltantes de variables meteorológicas de manera global, debido a que una observación puede continuar siendo útil para otras vistas, como el análisis espacial o temporal.
+
+Las transformaciones posteriores incluirán la creación de variables derivadas relacionadas con año, mes, día de la semana, hora, estación y franja horaria.
