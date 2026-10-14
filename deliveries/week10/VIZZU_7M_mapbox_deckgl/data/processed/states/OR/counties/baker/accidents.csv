@@ -1,0 +1,410 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-652198,OR,Baker,Baker City,Source2,3,44.799641,-117.812508,2022,1,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-698024,OR,Baker,Baker City,Source3,3,44.667915,-117.619377,2022,9,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-700747,OR,Baker,Baker City,Source2,3,44.803169,-117.813187,2022,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-712821,OR,Baker,Baker City,Source2,3,44.803169,-117.813187,2022,21,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-712823,OR,Baker,Baker City,Source2,3,44.803169,-117.813187,2022,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-714796,OR,Baker,Baker City,Source2,4,44.803169,-117.813187,2022,7,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-764645,OR,Baker,Huntington,Source2,3,44.413834,-117.308388,2021,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-776118,OR,Baker,Huntington,Source2,3,44.358879,-117.292198,2021,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-807267,OR,Baker,Huntington,Source2,3,44.443981,-117.326576,2021,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-826962,OR,Baker,Baker City,Source2,3,44.782291,-117.812057,2021,4,Tuesday,Rain,False,False,False,False,False,False,False
+A-826963,OR,Baker,Baker City,Source2,3,44.799641,-117.812508,2021,4,Tuesday,Rain,False,False,False,False,False,False,False
+A-826964,OR,Baker,Baker City,Source2,3,44.863338,-117.816093,2021,4,Tuesday,Rain,False,False,False,False,False,False,False
+A-832709,OR,Baker,Baker City,Source2,3,44.78475200000001,-117.811218,2021,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-885975,OR,Baker,Baker City,Source2,3,44.664337,-117.615433,2021,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-895520,OR,Baker,Huntington,Source2,3,44.443981,-117.326576,2021,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-895544,OR,Baker,Huntington,Source2,3,44.443981,-117.326576,2021,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-983521,OR,Baker,Baker City,Source2,3,44.667622,-117.619194,2021,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-995002,OR,Baker,Baker City,Source2,3,44.74894000000001,-117.806274,2021,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-995003,OR,Baker,Baker City,Source2,3,44.74765,-117.804855,2021,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1070106,OR,Baker,Baker City,Source2,3,44.74765,-117.804855,2021,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1101187,OR,Baker,Huntington,Source2,4,44.496269,-117.368195,2021,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1113821,OR,Baker,Baker City,Source2,3,44.794079,-117.812347,2021,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-1154412,OR,Baker,Huntington,Source2,3,44.373341,-117.297691,2021,11,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-1156216,OR,Baker,Huntington,Source2,3,44.551239,-117.42289,2021,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-1186497,OR,Baker,Baker City,Source2,3,44.667915,-117.619377,2021,8,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1186498,OR,Baker,Durkee,Source2,4,44.586533,-117.461731,2021,8,Thursday,Sin dato,False,False,False,False,False,False,False
+A-1235499,OR,Baker,Baker City,Source2,3,44.7495,-117.808403,2020,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1235501,OR,Baker,Huntington,Source2,3,44.551239,-117.42289,2020,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1268027,OR,Baker,Baker City,Source2,3,44.861725,-117.816635,2020,9,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1273975,OR,Baker,Baker City,Source2,3,44.667915,-117.619377,2020,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1356100,OR,Baker,Baker City,Source2,3,44.69582,-117.692513,2020,19,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1517385,OR,Baker,Baker City,Source2,3,44.695358,-117.691132,2020,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1535363,OR,Baker,Huntington,Source2,4,44.380154,-117.302856,2020,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1535364,OR,Baker,Huntington,Source2,3,44.413834,-117.308388,2020,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1569425,OR,Baker,Huntington,Source2,3,44.586525,-117.461716,2020,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1599291,OR,Baker,Baker City,Source2,4,44.695358,-117.691132,2020,2,Friday,Cloudy,False,False,False,False,False,False,False
+A-1599293,OR,Baker,Baker City,Source2,3,44.66473,-117.616058,2020,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1631302,OR,Baker,Baker City,Source2,3,44.861725,-117.816635,2020,13,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1681318,OR,Baker,Huntington,Source2,3,44.474045,-117.340759,2019,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-1681319,OR,Baker,Huntington,Source2,3,44.443981,-117.326576,2019,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-1681322,OR,Baker,Huntington,Source2,3,44.443981,-117.326576,2019,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-1694943,OR,Baker,Baker City,Source2,4,44.695358,-117.691132,2019,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1727771,OR,Baker,Huntington,Source2,3,44.443981,-117.326576,2019,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1727772,OR,Baker,Huntington,Source2,3,44.586842,-117.461906,2019,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1727776,OR,Baker,Baker City,Source2,3,44.74765,-117.804855,2019,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1727779,OR,Baker,Baker City,Source2,3,44.695358,-117.691132,2019,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1753468,OR,Baker,Baker City,Source2,3,44.803303,-117.812973,2019,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1808574,OR,Baker,Baker City,Source2,3,44.861725,-117.816635,2019,4,Friday,Sin dato,False,False,False,False,False,False,False
+A-1849246,OR,Baker,Baker City,Source2,3,44.861725,-117.816635,2019,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1862744,OR,Baker,Baker City,Source2,3,44.861725,-117.816635,2019,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1875242,OR,Baker,Huntington,Source2,3,44.443981,-117.326576,2019,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1882211,OR,Baker,Huntington,Source2,3,44.473564,-117.340851,2019,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1882216,OR,Baker,Huntington,Source2,3,44.373341,-117.297691,2019,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1882217,OR,Baker,Huntington,Source2,3,44.443981,-117.326576,2019,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2018733,OR,Baker,Huntington,Source2,3,44.473564,-117.340851,2019,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2048203,OR,Baker,Baker City,Source2,3,44.803638,-117.811913,2019,16,Wednesday,Storm,False,False,False,False,False,False,False
+A-2056662,OR,Baker,Huntington,Source2,3,44.373341,-117.297691,2019,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2066084,OR,Baker,Baker City,Source2,3,44.661987,-117.61068,2019,4,Friday,Rain,False,False,False,False,False,False,False
+A-2122815,OR,Baker,Baker City,Source2,3,44.803638,-117.811913,2019,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-2122816,OR,Baker,Baker City,Source2,3,44.863338,-117.816093,2019,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-2227371,OR,Baker,Huntington,Source2,3,44.495724,-117.36781299999998,2019,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2305964,OR,Baker,Baker City,Source2,3,44.799641,-117.812508,2019,11,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2305965,OR,Baker,Baker City,Source2,3,44.863338,-117.816093,2019,11,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2407350,OR,Baker,Huntington,Source2,3,44.586948,-117.462051,2018,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2407352,OR,Baker,Huntington,Source2,3,44.53902100000001,-117.414642,2018,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2407355,OR,Baker,Baker City,Source2,3,44.782291,-117.812057,2018,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2407356,OR,Baker,Huntington,Source2,3,44.53902100000001,-117.414642,2018,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2463332,OR,Baker,Huntington,Source2,3,44.444935,-117.325943,2018,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2505825,OR,Baker,Huntington,Source2,3,44.37501500000001,-117.298561,2018,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-2522487,OR,Baker,Baker City,Source2,3,44.781467,-117.811569,2018,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2531502,OR,Baker,Baker City,Source2,3,44.801956,-117.812347,2018,18,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2609652,OR,Baker,Huntington,Source2,3,44.473454,-117.340477,2018,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2609659,OR,Baker,Baker City,Source2,3,44.803322,-117.812965,2018,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2609660,OR,Baker,Baker City,Source2,3,44.803322,-117.812965,2018,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2612356,OR,Baker,Baker City,Source2,3,44.861641,-117.816261,2018,22,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2623129,OR,Baker,Huntington,Source2,3,44.444935,-117.325943,2018,20,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2625669,OR,Baker,Huntington,Source2,3,44.445679,-117.326904,2018,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2643670,OR,Baker,Baker City,Source2,3,44.749065,-117.806175,2018,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2643674,OR,Baker,Baker City,Source2,3,44.748539,-117.805702,2018,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2667558,OR,Baker,Baker City,Source2,3,44.861641,-117.816261,2018,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2681135,OR,Baker,Huntington,Source2,3,44.412113,-117.308258,2018,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2786564,OR,Baker,Baker City,Source2,3,44.803322,-117.812965,2018,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2791305,OR,Baker,Huntington,Source2,3,44.412113,-117.308258,2018,18,Friday,Sin dato,False,False,False,False,False,False,False
+A-2838178,OR,Baker,Huntington,Source2,3,44.550129,-117.42202,2018,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-2879623,OR,Baker,Huntington,Source2,3,44.412113,-117.308258,2018,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2921466,OR,Baker,Huntington,Source2,3,44.550129,-117.42202,2018,6,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2984891,OR,Baker,Baker City,Source2,3,44.803322,-117.812965,2018,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3014823,OR,Baker,Huntington,Source2,3,44.412113,-117.308258,2018,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3028721,OR,Baker,Huntington,Source2,3,44.37501500000001,-117.298561,2018,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3031561,OR,Baker,Huntington,Source2,3,44.37501500000001,-117.298561,2018,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3038290,OR,Baker,Huntington,Source2,3,44.37501500000001,-117.298561,2018,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3061735,OR,Baker,Baker City,Source2,3,44.749065,-117.806175,2018,8,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3061736,OR,Baker,Huntington,Source2,3,44.496628,-117.368393,2018,8,Thursday,Rain,False,False,False,False,False,False,False
+A-3066117,OR,Baker,Baker City,Source2,3,44.783436,-117.810585,2018,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3073889,OR,Baker,Baker City,Source2,3,44.693401,-117.68869,2018,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3142689,OR,Baker,Baker City,Source2,3,44.693401,-117.68869,2017,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3145432,OR,Baker,Huntington,Source2,3,44.37501500000001,-117.298561,2017,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3193390,OR,Baker,Baker City,Source2,3,44.782921,-117.810524,2017,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3248340,OR,Baker,Huntington,Source2,3,44.483971,-117.347961,2017,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3359231,OR,Baker,Huntington,Source2,3,44.37501500000001,-117.298561,2017,13,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3391453,OR,Baker,Huntington,Source2,3,44.586761,-117.461548,2017,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3525154,OR,Baker,Baker City,Source1,4,44.803585,-117.812996,2016,12,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3526052,OR,Baker,Baker City,Source1,4,44.79964,-117.81251,2016,23,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3528216,OR,Baker,Baker City,Source1,4,44.80393,-117.81303,2016,8,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3530522,OR,Baker,Baker City,Source1,4,44.778685,-117.81008,2017,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3530523,OR,Baker,Baker City,Source1,4,44.86579,-117.81713,2017,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3553024,OR,Baker,Baker City,Source1,4,44.811707,-117.813973,2016,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3564195,OR,Baker,Baker City,Source1,4,44.801589,-117.812759,2017,9,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3564211,OR,Baker,Huntington,Source1,4,44.375067,-117.298356,2017,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3564212,OR,Baker,Huntington,Source1,4,44.37062,-117.29574,2017,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3564743,OR,Baker,Huntington,Source1,4,44.548364,-117.421334,2017,5,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3564745,OR,Baker,Baker City,Source1,4,44.78274,-117.81097,2017,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3565749,OR,Baker,Baker City,Source1,4,44.777654,-117.810297,2017,10,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3593775,OR,Baker,Huntington,Source1,4,44.53816,-117.41388,2017,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3636154,OR,Baker,Baker City,Source1,3,44.675613,-117.639451,2017,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-3649731,OR,Baker,Huntington,Source1,4,44.41764000000001,-117.3093,2017,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3649741,OR,Baker,Huntington,Source1,4,44.41189,-117.30823,2017,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3649745,OR,Baker,Huntington,Source1,4,44.375067,-117.298356,2017,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3649749,OR,Baker,Huntington,Source1,4,44.40576,-117.31296,2017,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3714767,OR,Baker,Baker City,Source1,4,44.799939,-117.81255,2022,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3718366,OR,Baker,Huntington,Source1,4,44.38127875306901,-117.30534911099764,2022,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-3721067,OR,Baker,Baker City,Source1,4,44.686901,-117.85575,2023,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-3724696,OR,Baker,Baker City,Source1,4,44.804956,-117.850016,2022,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-3739738,OR,Baker,Baker City,Source1,4,44.67941164949093,-117.64946579877066,2022,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3766722,OR,Baker,North Powder,Source1,4,44.97222304322733,-117.87908434811648,2022,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-3768158,OR,Baker,Haines,Source1,4,44.918801,-117.822232,2022,19,Friday,Snow / Ice,False,False,True,False,False,False,False
+A-3780755,OR,Baker,Huntington,Source1,4,44.446703195359966,-117.32835173550926,2022,5,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-3781707,OR,Baker,Baker City,Source1,4,44.804956,-117.850016,2022,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3782343,OR,Baker,Baker City,Source1,4,44.813964,-117.856395,2022,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-3799771,OR,Baker,Baker City,Source1,4,44.85761761643953,-117.8166639799222,2022,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3805424,OR,Baker,Huntington,Source1,4,44.484125,-117.348145,2022,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3843033,OR,Baker,Baker City,Source1,4,44.653535,-117.579994,2022,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3844449,OR,Baker,Huntington,Source1,4,44.61834311464015,-117.49600052777532,2022,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3876925,OR,Baker,Huntington,Source1,4,44.415525197771,-117.30792403165194,2022,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3879574,OR,Baker,Baker City,Source1,4,44.71610426881448,-117.75246262494204,2022,7,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3886904,OR,Baker,Huntington,Source1,4,44.638978,-117.533776,2022,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3888140,OR,Baker,Baker City,Source1,4,44.66346400000001,-117.955546,2022,1,Monday,Cloudy,False,False,False,False,False,False,False
+A-3899146,OR,Baker,Huntington,Source1,4,44.56858,-117.436281,2022,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3910836,OR,Baker,Baker City,Source1,4,44.799939,-117.81255,2022,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3914115,OR,Baker,Huntington,Source1,4,44.312161,-117.257073,2022,9,Sunday,Sin dato,False,False,False,False,False,False,False
+A-3934614,OR,Baker,Baker City,Source1,4,44.782921,-117.810525,2022,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3954570,OR,Baker,Baker City,Source1,4,44.854077100539904,-117.89648652020504,2022,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3966994,OR,Baker,Huntington,Source1,4,44.484346,-117.349975,2022,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3984089,OR,Baker,Baker City,Source1,4,44.839643,-117.880905,2022,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3985212,OR,Baker,Baker City,Source1,4,44.7925150392304,-117.8417909139736,2022,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-4004614,OR,Baker,Baker City,Source1,4,44.808663,-117.813607,2022,6,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4017016,OR,Baker,Baker City,Source1,4,44.786665,-117.810959,2022,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4024175,OR,Baker,Baker City,Source1,4,44.66696619966189,-117.61835217419808,2022,20,Monday,Cloudy,False,False,True,False,False,False,False
+A-4050359,OR,Baker,Baker City,Source1,4,44.64967131593394,-117.56312012616364,2022,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4055178,OR,Baker,Baker City,Source1,4,44.830917,-117.448233,2022,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4064044,OR,Baker,Sumpter,Source1,4,44.69385266282704,-118.19530606213476,2022,15,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-4085095,OR,Baker,Huntington,Source1,4,44.43938,-117.324283,2021,6,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4086182,OR,Baker,Baker City,Source1,4,44.796701,-117.844176,2022,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4127080,OR,Baker,Huntington,Source1,4,44.47603583314668,-117.34296441022232,2022,21,Monday,Cloudy,False,False,True,False,False,False,False
+A-4133269,OR,Baker,Baker City,Source1,4,44.661745,-117.958173,2022,1,Monday,Cloudy,False,False,False,False,False,False,False
+A-4133279,OR,Baker,Haines,Source1,4,44.918968,-117.944006,2022,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4133280,OR,Baker,Haines,Source1,4,44.91456,-117.940826,2021,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-4146012,OR,Baker,Baker City,Source1,4,44.786678,-117.811468,2022,7,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-4147255,OR,Baker,Baker City,Source1,4,44.799939,-117.81255,2022,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-4164352,OR,Baker,Baker City,Source1,4,44.679683,-117.863254,2023,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-4183384,OR,Baker,Huntington,Source1,4,44.468707,-117.33588,2022,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4193084,OR,Baker,Haines,Source1,4,44.911815,-117.938392,2022,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-4292442,OR,Baker,Baker City,Source1,4,44.778412,-117.810035,2022,13,Monday,Cloudy,False,False,True,False,False,False,False
+A-4292883,OR,Baker,Baker City,Source1,4,44.71584677674906,-117.75261282864687,2022,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4294812,OR,Baker,Haines,Source1,4,44.918968,-117.944006,2022,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4303993,OR,Baker,Haines,Source1,4,44.911623,-117.93826,2022,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-4308238,OR,Baker,Huntington,Source1,4,44.49974656083823,-117.37032294217408,2022,14,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4334937,OR,Baker,Baker City,Source1,4,44.856224,-117.816654,2021,5,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-4341485,OR,Baker,Haines,Source1,4,44.87077116944851,-117.90901780072257,2022,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4344435,OR,Baker,Baker City,Source1,4,44.787658,-117.811077,2021,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-4349716,OR,Baker,Huntington,Source1,4,44.49062,-117.364074,2022,9,Sunday,Sin dato,False,False,False,False,False,False,False
+A-4359677,OR,Baker,Huntington,Source1,4,44.55289721467707,-117.42379546109474,2022,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4362727,OR,Baker,Baker City,Source1,4,44.795526,-117.843372,2022,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-4362728,OR,Baker,Baker City,Source1,4,44.796115,-117.843758,2022,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4365545,OR,Baker,Baker City,Source1,4,44.71610426881448,-117.75246262494204,2022,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4367215,OR,Baker,Baker City,Source1,4,44.7925150392304,-117.8417909139736,2022,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-4369826,OR,Baker,Hereford,Source1,4,44.498468,-118.037061,2022,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-4392334,OR,Baker,Huntington,Source1,4,44.454413,-117.328807,2021,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-4395142,OR,Baker,Baker City,Source1,4,44.778417348648176,-117.81003355923744,2022,4,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-4397389,OR,Baker,Baker City,Source1,4,44.813964,-117.856395,2022,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4410388,OR,Baker,Huntington,Source1,4,44.50238,-117.369859,2022,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-4417203,OR,Baker,Huntington,Source1,4,44.371236562517296,-117.29633688870766,2022,16,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-4451359,OR,Baker,Sumpter,Source1,4,44.697614,-118.183151,2022,15,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-4451995,OR,Baker,Huntington,Source1,4,44.538678,-117.414368,2021,6,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4452289,OR,Baker,Hereford,Source1,4,44.559435,-118.023395,2022,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-4462983,OR,Baker,Baker City,Source1,4,44.807214,-117.813428,2022,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-4467685,OR,Baker,Huntington,Source1,4,44.347998,-117.288263,2022,18,Thursday,Sin dato,False,False,False,False,False,False,False
+A-4503732,OR,Baker,Baker City,Source1,4,44.839721917892255,-117.88099408093508,2022,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-4503843,OR,Baker,Baker City,Source1,4,44.74880576,-117.80593514,2022,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4505449,OR,Baker,Huntington,Source1,4,44.446703195359966,-117.32835173550926,2022,16,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-4506407,OR,Baker,Huntington,Source1,4,44.452704,-117.32949,2022,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-4532171,OR,Baker,Huntington,Source1,4,44.55289721467707,-117.42379546109474,2022,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4547568,OR,Baker,Huntington,Source1,4,44.38127875,-117.30534911,2022,9,Sunday,Sin dato,False,False,False,False,False,False,False
+A-4547706,OR,Baker,Baker City,Source1,4,44.808663,-117.813607,2022,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-4558531,OR,Baker,Baker City,Source1,4,44.778412,-117.810035,2022,14,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-4564306,OR,Baker,Haines,Source1,4,44.91095,-117.93773,2022,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4564645,OR,Baker,Baker City,Source1,4,44.839643,-117.880905,2022,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4568905,OR,Baker,Haines,Source1,4,44.918968,-117.944006,2022,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4568906,OR,Baker,Haines,Source1,4,44.9202311036829,-117.94491648617772,2022,13,Thursday,Snow / Ice,False,True,False,False,False,False,True
+A-4576266,OR,Baker,Baker City,Source1,4,44.74949240663171,-117.80840277615636,2022,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4592211,OR,Baker,Unity,Source1,4,44.477028,-118.196562,2022,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4592212,OR,Baker,Unity,Source1,4,44.477028,-118.196562,2022,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-4635782,OR,Baker,Baker City,Source1,4,44.66696619966189,-117.61835217419808,2022,13,Monday,Cloudy,False,False,True,False,False,False,False
+A-4653827,OR,Baker,Haines,Source1,4,44.916195,-117.941955,2022,7,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4690482,OR,Baker,Unity,Source1,4,44.48032,-118.195122,2022,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4702844,OR,Baker,Huntington,Source1,4,44.55289721467707,-117.42379546109474,2022,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4702919,OR,Baker,Baker City,Source1,4,44.71610426881448,-117.75246262494204,2022,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4776625,OR,Baker,Baker City,Source1,4,44.8197019098052,-117.86043763104506,2021,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-4800008,OR,Baker,Haines,Source1,4,44.919517,-117.944421,2022,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-4800009,OR,Baker,Haines,Source1,4,44.916895,-117.942521,2022,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-4811183,OR,Baker,Baker City,Source1,4,44.795526,-117.843372,2022,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-4811184,OR,Baker,Baker City,Source1,4,44.794989,-117.843031,2022,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-4811383,OR,Baker,Huntington,Source1,4,44.447912,-117.33041,2022,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-4819388,OR,Baker,Baker City,Source1,4,44.854077100539904,-117.89648652020504,2022,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4819885,OR,Baker,Huntington,Source1,4,44.429064,-117.315566,2022,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4826649,OR,Baker,Baker City,Source1,4,44.749719,-117.808771,2022,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-4857571,OR,Baker,Baker City,Source1,4,44.67941164949093,-117.64946579877066,2022,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4862942,OR,Baker,Baker City,Source1,4,44.832355,-117.874511,2022,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4878096,OR,Baker,Hereford,Source1,4,44.498468,-118.037061,2022,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4890614,OR,Baker,Baker City,Source1,4,44.854077100539904,-117.89648652020504,2022,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4892539,OR,Baker,Huntington,Source1,4,44.49974656083823,-117.37032294217408,2022,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-4895379,OR,Baker,Baker City,Source1,4,44.707717,-117.726797,2022,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4897000,OR,Baker,Baker City,Source1,4,44.868741,-117.907534,2022,16,Thursday,Clear / Fair,False,True,False,False,False,False,True
+A-4917126,OR,Baker,Baker City,Source1,4,44.677546,-117.644329,2022,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4918099,OR,Baker,Huntington,Source1,4,44.417137,-117.308828,2022,18,Thursday,Sin dato,False,False,True,False,False,False,False
+A-4948809,OR,Baker,Baker City,Source1,4,44.782921,-117.810525,2022,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4957494,OR,Baker,Huntington,Source1,4,44.479666,-117.344465,2022,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4959357,OR,Baker,Huntington,Source1,4,44.372276,-117.296698,2022,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-5013925,OR,Baker,North Powder,Source1,4,44.97222304322733,-117.87908434811648,2022,12,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-5020413,OR,Baker,Baker City,Source1,4,44.80496048905943,-117.8500092023952,2022,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-5021962,OR,Baker,Baker City,Source1,4,44.669314,-117.622209,2022,8,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5033408,OR,Baker,Haines,Source1,4,44.919517,-117.944421,2022,7,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-5043316,OR,Baker,Baker City,Source1,4,44.64057326295546,-117.86824822369638,2022,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-5045417,OR,Baker,Baker City,Source1,4,44.889097,-117.818842,2022,12,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-5056176,OR,Baker,Baker City,Source1,4,44.7488057611239,-117.80593514386273,2022,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5090634,OR,Baker,Unity,Source1,4,44.48032,-118.195122,2022,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5115899,OR,Baker,Haines,Source1,4,44.916895,-117.942521,2022,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-5116374,OR,Baker,Baker City,Source1,4,44.799939,-117.81255,2022,6,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-5126032,OR,Baker,Baker City,Source1,4,44.67941164949093,-117.64946579877066,2022,7,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-5147263,OR,Baker,Huntington,Source1,4,44.560923,-117.42895,2022,9,Sunday,Sin dato,False,False,False,False,False,False,False
+A-5160690,OR,Baker,Haines,Source1,4,44.918968,-117.944006,2022,13,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-5188086,OR,Baker,Baker City,Source1,4,44.795526,-117.843372,2022,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5200666,OR,Baker,Baker City,Source1,4,44.64967131593394,-117.56312012616364,2022,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5204179,OR,Baker,Baker City,Source1,4,44.80496048905943,-117.8500092023952,2022,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-5212581,OR,Baker,Huntington,Source1,4,44.415525197771,-117.30792403165194,2022,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-5213579,OR,Baker,Baker City,Source1,4,44.857622,-117.816668,2022,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5218254,OR,Baker,Baker City,Source1,4,44.808663,-117.813607,2022,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5238356,OR,Baker,Huntington,Source1,4,44.446716,-117.328357,2021,15,Friday,Cloudy,False,False,True,False,False,False,False
+A-5250851,OR,Baker,Baker City,Source1,4,44.813539,-117.856085,2022,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-5274485,OR,Baker,Huntington,Source1,4,44.476046,-117.342964,2021,15,Friday,Cloudy,False,False,True,False,False,False,False
+A-5277182,OR,Baker,Huntington,Source1,4,44.56802800000001,-117.434968,2022,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-5323189,OR,Baker,Huntington,Source1,4,44.38127875,-117.30534911,2022,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5337822,OR,Baker,Baker City,Source1,4,44.80721354463192,-117.81342387143224,2022,22,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5348756,OR,Baker,Huntington,Source1,4,44.375892,-117.299196,2022,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5358461,OR,Baker,Baker City,Source1,4,44.787658,-117.811077,2022,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5359496,OR,Baker,Baker City,Source1,4,44.778412,-117.810035,2022,18,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-5409711,OR,Baker,Baker City,Source1,4,44.655035,-117.872466,2022,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-5520629,OR,Baker,Durkee,Source1,4,44.58386063554485,-117.45797753278036,2021,11,Saturday,Sin dato,False,False,False,False,False,False,False
+A-5540218,OR,Baker,Huntington,Source1,4,44.371236562517296,-117.29633688870766,2021,18,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-5561185,OR,Baker,Baker City,Source1,4,44.794989,-117.843031,2021,3,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5615146,OR,Baker,Baker City,Source1,4,44.799939,-117.81255,2021,20,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-5631672,OR,Baker,Huntington,Source1,4,44.411216,-117.308052,2021,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5648874,OR,Baker,Baker City,Source1,4,44.787658,-117.811077,2021,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-5667302,OR,Baker,Huntington,Source1,4,44.415525197771,-117.30792403165194,2021,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5697331,OR,Baker,Baker City,Source1,4,44.854077100539904,-117.89648652020504,2021,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5707603,OR,Baker,Huntington,Source1,4,44.475816,-117.342957,2021,19,Monday,Fog / Low visibility,False,False,True,False,False,False,False
+A-5751366,OR,Baker,Baker City,Source1,4,44.799939,-117.81255,2021,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5753326,OR,Baker,Huntington,Source1,4,44.493266343858274,-117.36613869611088,2021,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5772220,OR,Baker,Huntington,Source1,4,44.411636,-117.308661,2021,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5773256,OR,Baker,Baker City,Source1,4,44.76824000000001,-117.80909,2021,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5797740,OR,Baker,Huntington,Source1,4,44.576093,-117.44696100000002,2021,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5807596,OR,Baker,Haines,Source1,4,44.919517,-117.944421,2021,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5827990,OR,Baker,Baker City,Source1,4,44.86532092073029,-117.81657814923372,2021,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5832327,OR,Baker,Baker City,Source1,4,44.660653,-117.607636,2021,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-5894263,OR,Baker,Haines,Source1,4,44.918968,-117.944006,2021,9,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-5910488,OR,Baker,Huntington,Source1,4,44.47603583314668,-117.34296441022232,2021,9,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-5911191,OR,Baker,Huntington,Source1,4,44.378458,-117.300455,2021,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5940121,OR,Baker,Huntington,Source1,4,44.47603583314668,-117.34296441022232,2021,11,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-5944963,OR,Baker,Huntington,Source1,4,44.43938612916737,-117.32427477780664,2021,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5965196,OR,Baker,Haines,Source1,4,44.914526,-117.940797,2021,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5971175,OR,Baker,Baker City,Source1,4,44.786678552414,-117.81144976559727,2021,11,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-5974218,OR,Baker,Baker City,Source1,4,44.74949240663171,-117.80840277615636,2021,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5997440,OR,Baker,Huntington,Source1,4,44.63038086869893,-117.51996874753227,2021,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6001354,OR,Baker,Baker City,Source1,4,44.80721354463192,-117.81342387143224,2021,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-6005648,OR,Baker,Huntington,Source1,4,44.47603583314668,-117.34296441022232,2021,11,Wednesday,Fog / Low visibility,False,False,True,False,False,False,False
+A-6019670,OR,Baker,Huntington,Source1,4,44.317443,-117.266459,2021,22,Saturday,Rain,False,False,False,False,False,False,False
+A-6038009,OR,Baker,Baker City,Source1,4,44.65449,-117.58369,2021,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6054595,OR,Baker,Baker City,Source1,4,44.741314,-117.798148,2021,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6070941,OR,Baker,Huntington,Source1,4,44.415525197771,-117.30792403165194,2021,11,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6072370,OR,Baker,Baker City,Source1,4,44.799939,-117.81255,2021,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6080190,OR,Baker,Huntington,Source1,4,44.5533478257916,-117.42450356427469,2021,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6084783,OR,Baker,Huntington,Source1,4,44.47135806062472,-117.33839392606096,2021,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6091852,OR,Baker,Huntington,Source1,4,44.55289721467707,-117.42379546109474,2021,21,Saturday,Rain,False,False,False,False,False,False,False
+A-6105680,OR,Baker,Huntington,Source1,4,44.54035800000001,-117.416254,2021,22,Saturday,Rain,False,False,False,False,False,False,False
+A-6110398,OR,Baker,Baker City,Source1,4,44.807214,-117.813428,2021,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6111784,OR,Baker,Baker City,Source1,4,44.71584677674906,-117.75261282864687,2021,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6123024,OR,Baker,North Powder,Source1,4,45.008048,-117.91211,2021,17,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-6132620,OR,Baker,Baker City,Source1,4,44.680724,-117.653904,2021,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6168498,OR,Baker,Baker City,Source1,4,44.854077100539904,-117.89648652020504,2021,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-6175983,OR,Baker,Baker City,Source1,4,44.813964,-117.856395,2021,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6184182,OR,Baker,Huntington,Source1,4,44.5533478257916,-117.42450356427469,2021,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6185362,OR,Baker,Baker City,Source1,4,44.83236193635543,-117.87451386395512,2021,9,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-6186967,OR,Baker,Huntington,Source1,4,44.38127875306901,-117.30534911099764,2021,11,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6229345,OR,Baker,Haines,Source1,4,44.91162657716316,-117.9382646078208,2021,9,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-6246424,OR,Baker,Baker City,Source1,4,44.799939,-117.81255,2021,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-6266640,OR,Baker,Baker City,Source1,4,44.787346,-117.811549,2021,17,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-6275347,OR,Baker,Baker City,Source1,4,44.695501,-117.691439,2021,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6279087,OR,Baker,Baker City,Source1,4,44.66696619966189,-117.61835217419808,2021,10,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-6280298,OR,Baker,Baker City,Source1,4,44.64967131593394,-117.56312012616364,2021,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6300045,OR,Baker,Baker City,Source1,4,44.79993939378357,-117.81254410687536,2021,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6311671,OR,Baker,Baker City,Source1,4,44.80721354463192,-117.81342387143224,2021,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6316719,OR,Baker,Baker City,Source1,4,44.80678439118953,-117.81387448254674,2021,17,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-6317741,OR,Baker,Durkee,Source1,4,44.58398,-117.45813,2021,17,Saturday,Sin dato,False,False,False,False,False,False,False
+A-6326854,OR,Baker,Baker City,Source1,4,44.786678552414,-117.81144976559727,2021,11,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-6354171,OR,Baker,Hereford,Source1,4,44.498781,-117.849222,2021,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-6365284,OR,Baker,Baker City,Source1,4,44.786678552414,-117.81144976559727,2021,7,Friday,Cloudy,False,False,True,False,False,False,False
+A-6396732,OR,Baker,Baker City,Source1,4,44.778417348648176,-117.81003355923744,2021,18,Thursday,Snow / Ice,False,False,True,False,False,False,False
+A-6425461,OR,Baker,Baker City,Source1,4,44.799939,-117.81255,2021,19,Tuesday,Rain,False,False,False,False,False,False,False
+A-6442401,OR,Baker,Unity,Source1,4,44.465097,-118.201773,2021,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6475383,OR,Baker,Huntington,Source1,4,44.552897,-117.423795,2021,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6491970,OR,Baker,Baker City,Source1,4,44.807213,-117.813423,2021,19,Tuesday,Rain,False,False,False,False,False,False,False
+A-6502980,OR,Baker,Huntington,Source1,4,44.381278,-117.305349,2021,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6519138,OR,Baker,Huntington,Source1,4,44.41553,-117.307934,2021,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6520854,OR,Baker,Baker City,Source1,4,44.808663,-117.813607,2021,17,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-6527865,OR,Baker,Haines,Source1,4,44.953536,-117.855646,2021,20,Tuesday,Rain,False,False,False,False,False,False,False
+A-6535203,OR,Baker,Haines,Source1,4,44.914179,-117.940498,2021,18,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-6555729,OR,Baker,Richland,Source1,4,44.589504,-117.465444,2021,20,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-6559796,OR,Baker,Huntington,Source1,4,44.496839,-117.367835,2021,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6614898,OR,Baker,Huntington,Source1,4,44.415525,-117.307924,2020,0,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6688378,OR,Baker,Baker City,Source1,4,44.737932,-117.834882,2020,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6792218,OR,Baker,Huntington,Source1,4,44.499896,-117.370344,2020,0,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6800220,OR,Baker,Baker City,Source1,4,44.786678,-117.811468,2020,8,Sunday,Fog / Low visibility,False,False,True,False,False,False,False
+A-6814893,OR,Baker,Baker City,Source1,4,44.778417,-117.810033,2020,23,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-6814894,OR,Baker,Baker City,Source1,4,44.807213,-117.813423,2020,1,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6899605,OR,Baker,Baker City,Source1,4,44.807213,-117.813423,2020,1,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6910778,OR,Baker,Haines,Source1,4,44.919517,-117.944421,2020,23,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7117728,OR,Baker,Baker City,Source1,3,44.82074,-117.42417,2020,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7117729,OR,Baker,Baker City,Source1,4,44.81299,-117.66528,2020,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7117730,OR,Baker,Baker City,Source1,4,44.80815,-117.71587,2020,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7123759,OR,Baker,Huntington,Source1,3,44.42456,-117.31315,2020,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7123768,OR,Baker,Baker City,Source1,3,44.78475,-117.81122,2020,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7222200,OR,Baker,Baker City,Source1,3,44.81347,-117.81418,2020,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7223587,OR,Baker,Baker City,Source1,4,44.80355,-117.81299,2020,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7223650,OR,Baker,Baker City,Source1,3,44.81347,-117.81418,2020,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7223705,OR,Baker,Haines,Source1,3,44.91386,-117.94013,2020,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7223767,OR,Baker,Baker City,Source1,3,44.81347,-117.81418,2020,16,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7223775,OR,Baker,Baker City,Source1,4,44.79964,-117.81251,2020,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7223779,OR,Baker,Haines,Source1,3,44.91386,-117.94013,2020,17,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7223821,OR,Baker,Baker City,Source1,4,44.79964,-117.81251,2020,21,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7225106,OR,Baker,Baker City,Source1,3,44.79964,-117.81251,2020,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7227086,OR,Baker,Huntington,Source1,3,44.64056,-117.5368,2020,1,Friday,Cloudy,False,False,False,False,False,False,False
+A-7253742,OR,Baker,Haines,Source1,3,44.91386,-117.94013,2020,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-7253747,OR,Baker,Baker City,Source1,4,44.87129,-117.81716000000002,2020,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-7253750,OR,Baker,Baker City,Source1,4,44.79964,-117.81251,2020,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-7298512,OR,Baker,Baker City,Source1,3,44.78476,-117.81122,2019,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7298513,OR,Baker,Baker City,Source1,3,44.75254,-117.8112,2019,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7298514,OR,Baker,Baker City,Source1,4,44.74895,-117.80628,2019,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7382489,OR,Baker,Halfway,Source1,3,44.87718,-117.08467,2019,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7382811,OR,Baker,Baker City,Source1,4,44.86192,-117.81629,2019,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7422257,OR,Baker,Haines,Source1,3,44.920196,-117.944902,2019,20,Sunday,Cloudy,False,True,False,False,False,False,True
+A-7450591,OR,Baker,Baker City,Source1,3,44.810271,-117.8138,2019,8,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7450592,OR,Baker,Baker City,Source1,4,44.803716,-117.813009,2019,8,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7452837,OR,Baker,Haines,Source1,3,44.920196,-117.944902,2019,19,Sunday,Cloudy,False,True,False,False,False,False,True
+A-7452842,OR,Baker,Baker City,Source1,4,44.79964,-117.81251,2019,19,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7453205,OR,Baker,Huntington,Source1,4,44.375067,-117.298356,2019,23,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7453598,OR,Baker,Baker City,Source1,4,44.77828,-117.81,2019,11,Monday,Snow / Ice,False,False,True,False,False,False,False
+A-7453740,OR,Baker,Unity,Source1,3,44.461771,-118.20358,2019,15,Monday,Rain,False,False,False,False,False,False,False
+A-7484487,OR,Baker,Baker City,Source1,4,44.77828,-117.81,2018,13,Friday,Cloudy,False,False,True,False,False,False,False
+A-7486029,OR,Baker,Sumpter,Source1,4,44.653354,-118.384566,2018,8,Monday,Rain,False,False,False,False,False,False,False
+A-7486030,OR,Baker,Sumpter,Source1,4,44.661857,-118.294531,2018,8,Monday,Rain,False,False,False,False,False,False,False
+A-7486031,OR,Baker,Sumpter,Source1,4,44.661857,-118.294531,2018,8,Monday,Rain,False,False,False,False,False,False,False
+A-7487614,OR,Baker,Huntington,Source1,3,44.615142,-117.491259,2018,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7487627,OR,Baker,Huntington,Source1,4,44.548342,-117.421321,2018,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7487634,OR,Baker,Baker City,Source1,3,44.752447,-117.811116,2018,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7487645,OR,Baker,Baker City,Source1,4,44.78274,-117.81097,2018,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7503795,OR,Baker,Huntington,Source1,3,44.447709,-117.330119,2018,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7510072,OR,Baker,Sumpter,Source1,3,44.707079,-118.177167,2018,10,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-7510074,OR,Baker,Sumpter,Source1,3,44.707079,-118.177167,2018,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7510076,OR,Baker,Sumpter,Source1,3,44.707079,-118.177167,2018,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7512946,OR,Baker,Huntington,Source1,3,44.615142,-117.491259,2018,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7512948,OR,Baker,Baker City,Source1,3,44.78723,-117.81153,2018,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7512949,OR,Baker,Baker City,Source1,3,44.752447,-117.811116,2018,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7512956,OR,Baker,Baker City,Source1,3,44.65509,-117.87235,2018,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7520413,OR,Baker,Baker City,Source1,4,44.77828,-117.81,2018,13,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7538817,OR,Baker,Halfway,Source1,3,44.880613,-117.00795,2018,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7538818,OR,Baker,Halfway,Source1,4,44.876776,-117.024002,2018,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7541541,OR,Baker,Huntington,Source1,4,44.472891,-117.340079,2018,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7543851,OR,Baker,Baker City,Source1,4,44.86079,-117.81622,2018,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7585070,OR,Baker,Baker City,Source1,4,44.79964,-117.81251,2018,3,Monday,Cloudy,False,False,False,False,False,False,False
+A-7594602,OR,Baker,Huntington,Source1,4,44.417169,-117.308994,2018,10,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7623754,OR,Baker,Huntington,Source1,4,44.37062,-117.29574,2018,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7623755,OR,Baker,Huntington,Source1,4,44.375067,-117.298356,2018,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7654739,OR,Baker,Baker City,Source1,4,44.78274,-117.81097,2017,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7654740,OR,Baker,Baker City,Source1,3,44.7495,-117.8084,2017,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7676537,OR,Baker,Baker City,Source1,4,44.803838,-117.813021,2017,8,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-7727711,OR,Baker,Baker City,Source1,4,44.79964,-117.81251,2019,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-7732236,OR,Baker,Baker City,Source1,3,44.78723,-117.81153,2019,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7737609,OR,Baker,Baker City,Source1,3,44.810271,-117.8138,2019,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7737617,OR,Baker,Baker City,Source1,4,44.77828,-117.81,2019,16,Wednesday,Storm,False,False,True,False,False,False,False
+A-7737619,OR,Baker,Haines,Source1,4,44.920196,-117.944902,2019,16,Wednesday,Storm,False,True,False,False,False,False,True
+A-7755904,OR,Baker,Baker City,Source1,3,44.776209,-117.82978,2019,12,Monday,Clear / Fair,False,True,False,True,False,True,False
+A-7756365,OR,Baker,Baker City,Source1,4,44.79964,-117.81251,2019,2,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7764951,OR,Baker,Huntington,Source1,3,44.33365,-117.28368,2019,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7764955,OR,Baker,Huntington,Source1,4,44.374315,-117.29826,2019,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7765125,OR,Baker,Huntington,Source1,4,44.374315,-117.29826,2019,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7768455,OR,Baker,Baker City,Source1,3,44.811679,-117.81397,2019,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7768457,OR,Baker,Baker City,Source1,4,44.77828,-117.81,2019,18,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-7768458,OR,Baker,Haines,Source1,3,44.919394,-117.944308,2019,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7771196,OR,Baker,Baker City,Source1,3,44.764339,-117.825679,2019,11,Friday,Cloudy,False,False,False,False,False,False,False

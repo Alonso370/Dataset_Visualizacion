@@ -1,0 +1,471 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-544175,CO,Summit,Silverthorne,Source2,3,39.630741,-106.06205,2022,20,Saturday,Cloudy,False,False,True,False,False,False,False
+A-550415,CO,Summit,Dillon,Source2,3,39.673706,-105.968315,2022,11,Sunday,Cloudy,False,False,True,False,False,False,False
+A-552240,CO,Summit,Frisco,Source2,4,39.592892,-106.09639,2022,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-553514,CO,Summit,Dillon,Source2,3,39.628876,-106.066376,2022,22,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-556976,CO,Summit,Dillon,Source2,3,39.628876,-106.066376,2022,17,Sunday,Rain,False,False,False,False,False,False,False
+A-574438,CO,Summit,Dillon,Source2,3,39.628876,-106.066376,2022,20,Tuesday,Rain,False,False,False,False,False,False,False
+A-575744,CO,Summit,Frisco,Source3,4,39.53743,-106.141571,2022,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-575745,CO,Summit,Frisco,Source2,3,39.575447,-106.112724,2022,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-585835,CO,Summit,Frisco,Source2,3,39.528721,-106.216034,2022,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-586632,CO,Summit,Dillon,Source2,3,39.628876,-106.066376,2022,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-595882,CO,Summit,Dillon,Source2,3,39.628876,-106.066376,2022,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-595898,CO,Summit,Dillon,Source2,3,39.628876,-106.066376,2022,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-612232,CO,Summit,Frisco,Source2,3,39.53743,-106.141571,2022,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-633625,CO,Summit,Dillon,Source2,3,39.628876,-106.066376,2022,10,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-636146,CO,Summit,Dillon,Source2,3,39.628876,-106.066376,2022,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-636178,CO,Summit,Frisco,Source2,3,39.507824,-106.143768,2022,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-638240,CO,Summit,Frisco,Source2,3,39.56031,-106.130157,2022,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-638641,CO,Summit,Dillon,Source2,3,39.628876,-106.066376,2022,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-644966,CO,Summit,Dillon,Source2,3,39.628876,-106.066376,2022,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-655038,CO,Summit,Dillon,Source2,3,39.628876,-106.066376,2022,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-660819,CO,Summit,Frisco,Source2,3,39.528721,-106.216034,2022,5,Tuesday,Other,False,False,False,False,False,False,False
+A-667842,CO,Summit,Dillon,Source2,4,39.628876,-106.066376,2022,22,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-667902,CO,Summit,Frisco,Source2,3,39.575447,-106.112724,2022,18,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-687600,CO,Summit,Frisco,Source2,3,39.575447,-106.112724,2022,12,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-691009,CO,Summit,Dillon,Source2,3,39.628876,-106.066376,2022,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-692403,CO,Summit,Dillon,Source2,3,39.628876,-106.066376,2022,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-699431,CO,Summit,Frisco,Source2,3,39.528721,-106.216034,2022,17,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-700942,CO,Summit,Frisco,Source2,3,39.528721,-106.216034,2022,15,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-707594,CO,Summit,Dillon,Source2,4,39.628876,-106.066376,2022,14,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-712631,CO,Summit,Frisco,Source2,3,39.56636,-106.053314,2022,8,Saturday,Clear / Fair,True,True,False,False,False,False,False
+A-720519,CO,Summit,Dillon,Source2,3,39.628876,-106.066376,2022,7,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-742053,CO,Summit,Frisco,Source2,3,39.528721,-106.216034,2022,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-743132,CO,Summit,Frisco,Source2,3,39.528721,-106.216034,2022,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-757464,CO,Summit,Dillon,Source2,3,39.628876,-106.066376,2022,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-757555,CO,Summit,Dillon,Source2,3,39.628876,-106.066376,2022,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-761004,CO,Summit,Frisco,Source2,3,39.528721,-106.216034,2021,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-767036,CO,Summit,Frisco,Source2,3,39.528721,-106.216034,2021,16,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-772628,CO,Summit,Frisco,Source2,3,39.507824,-106.143768,2021,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-783569,CO,Summit,Frisco,Source2,3,39.575447,-106.112724,2021,4,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-791067,CO,Summit,Frisco,Source2,4,39.592892,-106.09639,2021,23,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-793439,CO,Summit,Dillon,Source2,3,39.628876,-106.066376,2021,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-819675,CO,Summit,Frisco,Source2,3,39.575447,-106.112724,2021,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-828591,CO,Summit,Frisco,Source2,3,39.507824,-106.143768,2021,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-833804,CO,Summit,Frisco,Source2,3,39.528721,-106.216034,2021,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-837209,CO,Summit,Dillon,Source2,3,39.628876,-106.066376,2021,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-965293,CO,Summit,Frisco,Source2,3,39.528721,-106.216034,2021,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-967465,CO,Summit,Frisco,Source2,3,39.575447,-106.112724,2021,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-967466,CO,Summit,Frisco,Source2,3,39.592892,-106.09639,2021,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-972038,CO,Summit,Dillon,Source2,3,39.628876,-106.066376,2021,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-973896,CO,Summit,Frisco,Source2,3,39.528721,-106.216034,2021,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-989173,CO,Summit,Dillon,Source2,4,39.678947,-105.935455,2021,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1006104,CO,Summit,Frisco,Source2,4,39.507824,-106.143768,2021,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1006105,CO,Summit,Frisco,Source2,4,39.528721,-106.216034,2021,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1093555,CO,Summit,Dillon,Source2,3,39.572556,-106.073517,2021,17,Tuesday,Clear / Fair,True,True,False,False,False,False,False
+A-1111336,CO,Summit,Frisco,Source2,3,39.501514,-106.170624,2021,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-1111337,CO,Summit,Frisco,Source2,3,39.595673,-106.093376,2021,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-1111973,CO,Summit,Dillon,Source2,3,39.664505,-105.97928600000002,2021,2,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1120649,CO,Summit,Frisco,Source2,3,39.523663,-106.141388,2021,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1131636,CO,Summit,Frisco,Source2,3,39.528721,-106.216034,2021,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1133071,CO,Summit,Dillon,Source2,4,39.628876,-106.066376,2021,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1133072,CO,Summit,Dillon,Source2,4,39.628979,-106.066742,2021,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1133073,CO,Summit,Frisco,Source2,4,39.592892,-106.09639,2021,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1153045,CO,Summit,Frisco,Source2,3,39.575447,-106.112724,2021,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1163996,CO,Summit,Frisco,Source2,3,39.53743,-106.141571,2021,10,Sunday,Other,False,False,False,False,False,False,False
+A-1205025,CO,Summit,Dillon,Source2,3,39.629021,-106.066643,2021,12,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1227443,CO,Summit,Frisco,Source2,4,39.528721,-106.216034,2020,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1358546,CO,Summit,Frisco,Source2,4,39.528721,-106.216034,2020,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-1383212,CO,Summit,Frisco,Source2,3,39.575447,-106.112724,2020,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1390606,CO,Summit,Frisco,Source2,3,39.528721,-106.216034,2020,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-1411579,CO,Summit,Frisco,Source2,3,39.53743,-106.141571,2020,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1415843,CO,Summit,Frisco,Source2,3,39.528721,-106.216034,2020,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1442472,CO,Summit,Dillon,Source2,3,39.628876,-106.066376,2020,12,Saturday,Rain,False,False,False,False,False,False,False
+A-1493689,CO,Summit,Frisco,Source2,3,39.593773,-106.095642,2020,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1496941,CO,Summit,Dillon,Source2,3,39.629269,-106.06543,2020,8,Saturday,Rain,False,False,False,False,False,False,False
+A-1498684,CO,Summit,Frisco,Source2,3,39.507824,-106.143768,2020,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1500083,CO,Summit,Dillon,Source2,4,39.628876,-106.066376,2020,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1509474,CO,Summit,Frisco,Source2,3,39.53743,-106.141571,2020,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1575870,CO,Summit,Frisco,Source2,3,39.53743,-106.141571,2020,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1653195,CO,Summit,Dillon,Source2,4,39.629074,-106.066505,2020,1,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1653210,CO,Summit,Frisco,Source2,4,39.575447,-106.112724,2020,8,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1669828,CO,Summit,Dillon,Source2,4,39.664505,-105.97928600000002,2020,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1671794,CO,Summit,Frisco,Source2,3,39.516335,-106.207024,2020,7,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1746576,CO,Summit,Frisco,Source2,4,39.528721,-106.216034,2019,6,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1755930,CO,Summit,Dillon,Source2,4,39.628876,-106.066376,2019,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1763986,CO,Summit,Dillon,Source2,4,39.628876,-106.066376,2019,7,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1812613,CO,Summit,Frisco,Source2,4,39.507824,-106.143768,2019,6,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1836695,CO,Summit,Dillon,Source2,3,39.60545,-106.014091,2019,8,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1839707,CO,Summit,Dillon,Source2,4,39.629074,-106.066505,2019,8,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2016519,CO,Summit,Dillon,Source2,3,39.628876,-106.066399,2019,15,Sunday,Rain,False,False,False,False,False,False,False
+A-2122687,CO,Summit,Frisco,Source2,3,39.528721,-106.216034,2019,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-2152423,CO,Summit,Frisco,Source2,3,39.538212,-106.141495,2019,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2194810,CO,Summit,Frisco,Source2,4,39.528721,-106.216034,2019,7,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2207459,CO,Summit,Frisco,Source2,3,39.575535,-106.112785,2019,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2225053,CO,Summit,Dillon,Source2,3,39.656384,-105.996223,2019,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2253496,CO,Summit,Breckenridge,Source2,3,39.39547,-106.052094,2019,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-2268700,CO,Summit,Frisco,Source2,3,39.508026,-106.143936,2019,20,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2310927,CO,Summit,Frisco,Source2,3,39.527985,-106.216118,2019,18,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2316171,CO,Summit,Frisco,Source2,3,39.538212,-106.141495,2019,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2332145,CO,Summit,Dillon,Source3,3,39.676964,-105.945976,2019,1,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2352578,CO,Summit,Frisco,Source2,3,39.50795,-106.144867,2019,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2383463,CO,Summit,Frisco,Source2,3,39.527973,-106.216347,2018,14,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2430840,CO,Summit,Frisco,Source2,3,39.529694,-106.217102,2018,23,Friday,Cloudy,False,False,False,True,False,False,False
+A-2430841,CO,Summit,Frisco,Source2,3,39.530247,-106.215439,2018,23,Friday,Cloudy,False,False,False,False,False,False,False
+A-2430842,CO,Summit,Frisco,Source2,3,39.530247,-106.215439,2018,4,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2480568,CO,Summit,Frisco,Source2,3,39.529739,-106.2164,2018,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2505713,CO,Summit,Dillon,Source2,4,39.628555,-106.067146,2018,19,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2681108,CO,Summit,Frisco,Source2,3,39.507027,-106.143555,2018,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2685195,CO,Summit,Frisco,Source2,3,39.537663,-106.142944,2018,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2685196,CO,Summit,Frisco,Source2,3,39.537663,-106.142944,2018,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2685197,CO,Summit,Frisco,Source2,3,39.537663,-106.142944,2018,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2696818,CO,Summit,Frisco,Source2,3,39.537663,-106.142944,2018,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2779523,CO,Summit,Dillon,Source2,3,39.628513,-106.066734,2018,19,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2823078,CO,Summit,Frisco,Source2,3,39.537663,-106.142944,2018,1,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2915850,CO,Summit,Frisco,Source2,3,39.506626,-106.1437,2018,1,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2918664,CO,Summit,Frisco,Source2,3,39.57563,-106.112541,2018,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2950934,CO,Summit,Dillon,Source2,3,39.678383,-105.93679,2018,7,Friday,Snow / Ice,False,False,True,False,False,False,False
+A-2968132,CO,Summit,Frisco,Source2,3,39.530437,-106.21582,2018,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2977175,CO,Summit,Frisco,Source2,3,39.506626,-106.1437,2018,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3014626,CO,Summit,Dillon,Source2,3,39.628555,-106.067146,2018,11,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3031292,CO,Summit,Frisco,Source2,3,39.529739,-106.2164,2018,6,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3046769,CO,Summit,Dillon,Source2,3,39.677326,-105.939758,2018,16,Thursday,Sin dato,False,False,True,False,False,False,False
+A-3118130,CO,Summit,Frisco,Source2,3,39.537663,-106.142944,2017,4,Saturday,Sin dato,False,False,False,False,False,False,False
+A-3129926,CO,Summit,Frisco,Source3,3,39.537258,-106.143196,2017,11,Thursday,Sin dato,False,False,False,False,False,False,False
+A-3174712,CO,Summit,Frisco,Source2,3,39.592667,-106.096268,2017,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3193951,CO,Summit,Frisco,Source2,3,39.504459,-106.186234,2017,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3196132,CO,Summit,Frisco,Source2,4,39.529739,-106.2164,2017,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3201862,CO,Summit,Frisco,Source2,3,39.537663,-106.142944,2017,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3201863,CO,Summit,Dillon,Source2,3,39.653374,-106.008064,2017,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3246023,CO,Summit,Dillon,Source2,3,39.628555,-106.067146,2017,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3248188,CO,Summit,Silverthorne,Source2,3,39.62875,-106.06768,2017,7,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-3265570,CO,Summit,Dillon,Source2,3,39.628555,-106.067146,2017,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3267927,CO,Summit,Frisco,Source2,3,39.520485,-106.212204,2017,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3347738,CO,Summit,Dillon,Source2,3,39.628555,-106.067146,2017,17,Friday,Rain,False,False,False,False,False,False,False
+A-3358268,CO,Summit,Frisco,Source2,3,39.529381,-106.21582,2017,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-3511156,CO,Summit,Frisco,Source1,4,39.59103,-106.09853,2016,17,Tuesday,Snow / Ice,False,False,True,False,False,False,False
+A-3511161,CO,Summit,Frisco,Source1,4,39.52518,-106.21529,2016,21,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-3511192,CO,Summit,Frisco,Source1,4,39.52518,-106.21529,2016,11,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-3511254,CO,Summit,Frisco,Source1,4,39.52518,-106.21529,2016,13,Friday,Snow / Ice,False,False,True,False,False,False,False
+A-3511265,CO,Summit,Frisco,Source1,4,39.5114,-106.14452,2016,8,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-3511278,CO,Summit,Frisco,Source1,3,39.53412,-106.14171,2016,14,Sunday,Cloudy,False,False,True,False,False,False,False
+A-3511348,CO,Summit,Frisco,Source1,4,39.57837,-106.11199,2016,18,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3511394,CO,Summit,Frisco,Source1,4,39.52518,-106.21529,2016,11,Friday,Snow / Ice,False,False,True,False,False,False,False
+A-3511399,CO,Summit,Frisco,Source1,4,39.5114,-106.14452,2016,13,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3511412,CO,Summit,Frisco,Source1,4,39.62763,-106.06916,2016,17,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3511478,CO,Summit,Frisco,Source1,3,39.57271,-106.11366,2016,12,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-3511809,CO,Summit,Dillon,Source1,4,39.664123,-105.979656,2017,11,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3511822,CO,Summit,Dillon,Source1,4,39.62827,-106.0679,2017,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3511903,CO,Summit,Frisco,Source1,4,39.58002000000001,-106.11104,2017,19,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-3511951,CO,Summit,Dillon,Source1,4,39.67868,-105.93503,2017,15,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3511952,CO,Summit,Frisco,Source1,4,39.62763,-106.06916,2017,17,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3512193,CO,Summit,Frisco,Source1,4,39.52518,-106.21529,2017,8,Saturday,Cloudy,False,False,True,False,False,False,False
+A-3513030,CO,Summit,Frisco,Source1,4,39.62763,-106.06916,2016,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3513041,CO,Summit,Frisco,Source1,4,39.62763,-106.06916,2016,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3513150,CO,Summit,Frisco,Source1,4,39.5114,-106.14452,2016,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3513294,CO,Summit,Frisco,Source1,4,39.52518,-106.21529,2016,22,Monday,Cloudy,False,False,True,False,False,False,False
+A-3513784,CO,Summit,Dillon,Source1,4,39.63046,-106.062469,2016,8,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3513787,CO,Summit,Dillon,Source1,4,39.63027,-106.062939,2016,8,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3513791,CO,Summit,Dillon,Source1,4,39.631145,-105.899431,2016,9,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3513801,CO,Summit,Frisco,Source1,4,39.50414,-106.14155,2016,11,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-3513802,CO,Summit,Frisco,Source1,4,39.457726,-106.144229,2016,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3513820,CO,Summit,Frisco,Source1,4,39.52518,-106.21529,2016,8,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-3514611,CO,Summit,Frisco,Source1,4,39.62763,-106.06916,2016,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-3514848,CO,Summit,Silverthorne,Source1,4,39.59574,-106.09388,2016,20,Thursday,Snow / Ice,False,False,True,False,False,False,False
+A-3563555,CO,Summit,Frisco,Source1,4,39.5114,-106.14452,2017,15,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3563556,CO,Summit,Frisco,Source1,4,39.5114,-106.14452,2017,16,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3563558,CO,Summit,Frisco,Source1,4,39.5114,-106.14452,2017,16,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3563562,CO,Summit,Frisco,Source1,4,39.59103,-106.09853,2017,3,Friday,Snow / Ice,False,False,True,False,False,False,False
+A-3586104,CO,Summit,Dillon,Source1,4,39.645641,-105.867905,2017,10,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3586130,CO,Summit,Dillon,Source1,4,39.67834600000001,-105.936909,2017,8,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3586195,CO,Summit,Frisco,Source1,4,39.52518,-106.21529,2017,10,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-3586777,CO,Summit,Frisco,Source1,4,39.5114,-106.14452,2017,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3605846,CO,Summit,Frisco,Source1,4,39.528416,-106.216356,2017,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3605849,CO,Summit,Frisco,Source1,4,39.5114,-106.14452,2017,16,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3605962,CO,Summit,Frisco,Source1,4,39.52518,-106.21529,2017,8,Sunday,Snow / Ice,False,False,True,False,False,False,False
+A-3606208,CO,Summit,Dillon,Source1,4,39.629855,-106.064557,2017,7,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3606213,CO,Summit,Dillon,Source1,4,39.62882000000001,-106.06658,2017,12,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3606224,CO,Summit,Dillon,Source1,4,39.67714,-105.94957,2017,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3606225,CO,Summit,Frisco,Source1,4,39.529815,-106.138307,2017,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3606250,CO,Summit,Frisco,Source1,4,39.62763,-106.06916,2017,20,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3619707,CO,Summit,Dillon,Source1,3,39.63588,-105.893021,2017,13,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3635528,CO,Summit,Silverthorne,Source1,4,39.662298,-106.085297,2017,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3635529,CO,Summit,Silverthorne,Source1,4,39.721564,-106.126095,2017,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3635779,CO,Summit,Frisco,Source1,4,39.52518,-106.21529,2017,14,Saturday,Cloudy,False,False,True,False,False,False,False
+A-3652010,CO,Summit,Dillon,Source1,4,39.676959,-105.946019,2023,5,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-3656512,CO,Summit,Breckenridge,Source1,4,39.376321,-106.057582,2023,22,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3667691,CO,Summit,Frisco,Source1,4,39.482826,-106.133302,2023,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-3668454,CO,Summit,Breckenridge,Source1,4,39.382048,-106.062469,2023,23,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3675844,CO,Summit,Dillon,Source1,4,39.665504,-105.978026,2023,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3682535,CO,Summit,Breckenridge,Source1,4,39.387073,-106.05508,2023,23,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3739143,CO,Summit,Breckenridge,Source1,4,39.387073,-106.05508,2022,5,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3742183,CO,Summit,Dillon,Source1,4,39.643789,-105.867701,2023,1,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3742184,CO,Summit,Dillon,Source1,4,39.610301,-105.942666,2023,1,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3748322,CO,Summit,Dillon,Source1,4,39.67752099018251,-105.93954205462484,2022,7,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-3812048,CO,Summit,Dillon,Source1,4,39.643789529611375,-105.86770176837032,2022,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3814271,CO,Summit,Frisco,Source1,4,39.507853,-106.203723,2022,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3830157,CO,Summit,Silverthorne,Source1,4,39.867978,-106.261401,2023,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3855006,CO,Summit,Dillon,Source1,4,39.643789529611375,-105.86770176837032,2022,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3863903,CO,Summit,Silverthorne,Source1,4,39.757458,-106.133843,2022,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3880557,CO,Summit,Breckenridge,Source1,4,39.386378,-106.054582,2022,5,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3884994,CO,Summit,Silverthorne,Source1,4,39.693279,-106.105407,2022,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3958678,CO,Summit,Silverthorne,Source1,4,39.69677,-106.107395,2022,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3968972,CO,Summit,Breckenridge,Source1,4,39.389586,-106.053604,2023,22,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3990606,CO,Summit,Breckenridge,Source1,4,39.376795,-106.057464,2022,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-4029687,CO,Summit,Frisco,Source1,4,39.525214,-106.21529,2022,9,Thursday,Snow / Ice,False,False,True,False,False,False,False
+A-4039809,CO,Summit,Dillon,Source1,4,39.65668559055492,-105.8779585356432,2022,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-4063688,CO,Summit,Dillon,Source1,4,39.607922,-105.956034,2022,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4071405,CO,Summit,Breckenridge,Source1,4,39.386378,-106.054582,2021,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4099139,CO,Summit,Frisco,Source1,4,39.50832724552389,-106.1437332625096,2022,4,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-4174622,CO,Summit,Frisco,Source1,4,39.50832724552389,-106.1437332625096,2022,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4184284,CO,Summit,Dillon,Source1,4,39.645733,-105.868054,2022,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4246126,CO,Summit,Dillon,Source1,4,39.67726349811708,-105.93958496996908,2022,2,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-4250128,CO,Summit,Dillon,Source1,4,39.643789529611375,-105.86770176837032,2022,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4256871,CO,Summit,Dillon,Source1,4,39.643789529611375,-105.86770176837032,2022,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4257195,CO,Summit,Breckenridge,Source1,4,39.51588034610978,-106.04820370623564,2022,7,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-4262864,CO,Summit,Frisco,Source1,4,39.525444,-106.215438,2022,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-4271129,CO,Summit,Dillon,Source1,4,39.63200926761802,-106.058546304197,2022,15,Friday,Rain,False,False,False,False,False,False,False
+A-4293271,CO,Summit,Dillon,Source1,4,39.61029410343356,-105.9426534170821,2021,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4304628,CO,Summit,Dillon,Source1,4,39.645825,-105.868554,2023,0,Monday,Cloudy,False,False,False,False,False,False,False
+A-4305333,CO,Summit,Dillon,Source1,4,39.652086,-105.871579,2021,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4313097,CO,Summit,Dillon,Source1,4,39.643789529611375,-105.86770176837032,2022,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4327590,CO,Summit,Silverthorne,Source1,4,39.870022,-106.270093,2023,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4341831,CO,Summit,Dillon,Source1,4,39.678741,-105.933471,2022,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4345441,CO,Summit,Breckenridge,Source1,4,39.429863,-106.04383,2023,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4384498,CO,Summit,Frisco,Source1,4,39.525444,-106.215438,2021,10,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-4437746,CO,Summit,Breckenridge,Source1,4,39.433232,-106.043379,2023,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4458463,CO,Summit,Frisco,Source1,4,39.540433,-106.141653,2023,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4464919,CO,Summit,Dillon,Source1,4,39.677272,-105.939608,2022,15,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-4526097,CO,Summit,Dillon,Source1,4,39.643789,-105.867701,2021,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4544109,CO,Summit,Dillon,Source1,4,39.645616,-105.86944,2022,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4548469,CO,Summit,Breckenridge,Source1,4,39.38992800000001,-106.053747,2023,9,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-4564196,CO,Summit,Frisco,Source1,4,39.525444,-106.215438,2022,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4595948,CO,Summit,Dillon,Source1,4,39.65801,-105.991613,2022,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-4603583,CO,Summit,Frisco,Source1,4,39.504225,-106.14656399999998,2022,21,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-4619952,CO,Summit,Dillon,Source1,4,39.61029410343356,-105.9426534170821,2022,13,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-4627581,CO,Summit,Frisco,Source1,4,39.516699,-106.207656,2022,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4631810,CO,Summit,Dillon,Source1,4,39.608068,-105.955265,2022,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4686676,CO,Summit,Frisco,Source1,4,39.525444,-106.215438,2022,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-4712846,CO,Summit,Dillon,Source1,4,39.645825,-105.868554,2022,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4730613,CO,Summit,Silverthorne,Source1,4,39.746314,-106.132939,2022,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4775851,CO,Summit,Dillon,Source1,4,39.609414,-105.947569,2022,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4786686,CO,Summit,Dillon,Source1,4,39.645825,-105.868554,2023,2,Monday,Cloudy,False,False,False,False,False,False,False
+A-4786687,CO,Summit,Dillon,Source1,4,39.645825,-105.868554,2022,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4786688,CO,Summit,Dillon,Source1,4,39.610301,-105.942666,2022,15,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-4802015,CO,Summit,Breckenridge,Source1,4,39.372359,-106.057037,2022,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-4810131,CO,Summit,Frisco,Source1,4,39.52491402607191,-106.21645331332104,2022,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4847327,CO,Summit,Frisco,Source1,4,39.531361,-106.21578999999998,2022,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4859635,CO,Summit,Frisco,Source1,4,39.540433,-106.141653,2023,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4861271,CO,Summit,Dillon,Source1,4,39.67729600000001,-105.940168,2023,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4861272,CO,Summit,Dillon,Source1,4,39.67729600000001,-105.940168,2022,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4935826,CO,Summit,Dillon,Source1,4,39.609558,-105.94679,2022,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4938015,CO,Summit,Silverthorne,Source1,4,39.853276,-106.23681,2022,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4942813,CO,Summit,Dillon,Source1,4,39.610301,-105.942666,2022,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4965640,CO,Summit,Frisco,Source1,4,39.41111400000001,-106.179204,2022,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-4966593,CO,Summit,Frisco,Source1,4,39.50832724552389,-106.1437332625096,2022,23,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-4982265,CO,Summit,Dillon,Source1,4,39.642564,-105.871106,2022,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4983369,CO,Summit,Silverthorne,Source1,4,39.855533,-106.242131,2022,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5060870,CO,Summit,Frisco,Source1,4,39.506249,-106.184538,2023,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5205641,CO,Summit,Silverthorne,Source1,4,39.705058,-106.112081,2022,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5214225,CO,Summit,Dillon,Source1,4,39.663204,-105.879127,2022,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5219594,CO,Summit,Dillon,Source1,4,39.645825,-105.868554,2022,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-5240961,CO,Summit,Dillon,Source1,4,39.63200926761802,-106.058546304197,2022,13,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-5274886,CO,Summit,Frisco,Source1,4,39.525444,-106.215438,2023,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5282711,CO,Summit,Frisco,Source1,4,39.533949,-106.141815,2022,2,Tuesday,Snow / Ice,False,False,True,False,False,False,False
+A-5283465,CO,Summit,Frisco,Source1,4,39.50832724552389,-106.1437332625096,2022,3,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-5288716,CO,Summit,Dillon,Source1,4,39.608337,-105.954461,2022,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5297852,CO,Summit,Dillon,Source1,4,39.643789,-105.867701,2022,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5304053,CO,Summit,Dillon,Source1,4,39.677523,-105.93954,2022,7,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-5317489,CO,Summit,Breckenridge,Source1,4,39.362054,-106.062628,2022,5,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5317793,CO,Summit,Dillon,Source1,4,39.607922,-105.956034,2022,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5402652,CO,Summit,Frisco,Source1,4,39.525042,-106.215196,2022,12,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-5426213,CO,Summit,Breckenridge,Source1,4,39.389586,-106.053604,2023,9,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-5426214,CO,Summit,Breckenridge,Source1,4,39.386378,-106.054582,2022,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5431099,CO,Summit,Dillon,Source1,4,39.645733,-105.868054,2022,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5442377,CO,Summit,Frisco,Source1,4,39.540433,-106.141653,2022,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-5455085,CO,Summit,Breckenridge,Source1,4,39.386378,-106.054582,2023,22,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-5462678,CO,Summit,Frisco,Source1,4,39.525042,-106.215196,2022,15,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-5570674,CO,Summit,Breckenridge,Source1,4,39.365558,-106.061067,2021,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5570675,CO,Summit,Breckenridge,Source1,4,39.365676,-106.059793,2021,3,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5575751,CO,Summit,Silverthorne,Source1,4,39.635564,-106.07608799999998,2021,11,Friday,Clear / Fair,True,True,False,False,False,False,False
+A-5584184,CO,Summit,Dillon,Source1,4,39.645825,-105.868554,2021,23,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5619329,CO,Summit,Dillon,Source1,4,39.645825,-105.868554,2021,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5619330,CO,Summit,Dillon,Source1,4,39.645616,-105.86944,2021,19,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-5637151,CO,Summit,Frisco,Source1,4,39.525444,-106.215438,2021,6,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-5704177,CO,Summit,Dillon,Source1,4,39.678755,-105.934019,2021,20,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-5712820,CO,Summit,Dillon,Source1,4,39.65668559055492,-105.8779585356432,2021,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5802605,CO,Summit,Frisco,Source1,4,39.525444,-106.215438,2021,15,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-5835843,CO,Summit,Dillon,Source1,4,39.65668559055492,-105.8779585356432,2021,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5864891,CO,Summit,Dillon,Source1,4,39.643789529611375,-105.86770176837032,2021,14,Thursday,Rain,False,False,False,False,False,False,False
+A-5880470,CO,Summit,Frisco,Source1,4,39.519285,-106.211367,2021,15,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-5918821,CO,Summit,Dillon,Source1,4,39.678755,-105.934019,2021,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5942380,CO,Summit,Dillon,Source1,4,39.61029410343356,-105.9426534170821,2021,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5967519,CO,Summit,Frisco,Source1,4,39.531361,-106.21578999999998,2021,6,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-5967520,CO,Summit,Frisco,Source1,4,39.525444,-106.215438,2021,22,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5998226,CO,Summit,Dillon,Source1,4,39.61029410343356,-105.9426534170821,2021,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6037980,CO,Summit,Frisco,Source1,4,39.531361,-106.21578999999998,2021,3,Friday,Cloudy,False,False,False,False,False,False,False
+A-6088634,CO,Summit,Silverthorne,Source1,4,39.629081,-106.071185,2021,11,Friday,Clear / Fair,True,True,False,False,False,False,False
+A-6143423,CO,Summit,Frisco,Source1,4,39.627546071817264,-106.06923222491233,2021,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6143424,CO,Summit,Frisco,Source1,4,39.627553000000006,-106.06924,2021,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6148747,CO,Summit,Dillon,Source1,4,39.673016,-105.97088,2021,8,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-6150129,CO,Summit,Frisco,Source1,4,39.531361,-106.21578999999998,2021,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6196617,CO,Summit,Frisco,Source1,4,39.627546071817264,-106.06923222491233,2021,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6197244,CO,Summit,Breckenridge,Source1,4,39.366193,-106.06033899999998,2021,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6197245,CO,Summit,Breckenridge,Source1,4,39.366193,-106.06033899999998,2021,3,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6292205,CO,Summit,Frisco,Source1,4,39.525444,-106.215438,2021,6,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-6336047,CO,Summit,Frisco,Source1,4,39.627553000000006,-106.06924,2021,12,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-6373202,CO,Summit,Dillon,Source1,4,39.645825,-105.868554,2021,2,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6373203,CO,Summit,Dillon,Source1,4,39.645825,-105.868554,2021,2,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6570180,CO,Summit,Frisco,Source1,4,39.529763,-106.216125,2021,1,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6979898,CO,Summit,Frisco,Source1,4,39.50523,-106.14256,2020,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7113894,CO,Summit,Dillon,Source1,3,39.67691,-105.94661,2020,17,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-7113897,CO,Summit,Breckenridge,Source1,3,39.39336,-106.05282,2020,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-7132238,CO,Summit,Dillon,Source1,4,39.679,-105.93505,2020,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-7132239,CO,Summit,Dillon,Source1,4,39.679,-105.93505,2020,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-7134691,CO,Summit,Dillon,Source1,4,39.679,-105.93505,2020,1,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7134696,CO,Summit,Dillon,Source1,4,39.679,-105.93505,2020,1,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7151613,CO,Summit,Frisco,Source1,4,39.50417,-106.14663,2020,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7151615,CO,Summit,Frisco,Source1,4,39.50417,-106.14663,2020,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7181031,CO,Summit,Frisco,Source1,4,39.50417,-106.14663,2020,21,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-7181050,CO,Summit,Frisco,Source1,4,39.50417,-106.14663,2020,21,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-7218065,CO,Summit,Dillon,Source1,3,39.57626,-106.09237,2020,18,Saturday,Cloudy,False,False,False,False,False,True,False
+A-7220405,CO,Summit,Frisco,Source1,4,39.52984,-106.21612,2020,13,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-7220407,CO,Summit,Frisco,Source1,4,39.5114,-106.14452,2020,12,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-7221884,CO,Summit,Frisco,Source1,4,39.52976,-106.21614,2020,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7227037,CO,Summit,Dillon,Source1,4,39.679,-105.93508,2020,12,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-7227038,CO,Summit,Dillon,Source1,4,39.679,-105.93508,2020,12,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-7239737,CO,Summit,Breckenridge,Source1,3,39.36563,-106.06099,2020,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-7252037,CO,Summit,Dillon,Source1,4,39.60951,-105.94704,2020,22,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-7266538,CO,Summit,Frisco,Source1,4,39.50661,-106.1437,2020,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-7273340,CO,Summit,Breckenridge,Source1,3,39.37674000000001,-106.05748,2020,10,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-7314236,CO,Summit,Frisco,Source1,4,39.60797,-106.08053,2019,19,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-7314275,CO,Summit,Dillon,Source1,4,39.67759,-105.93947,2019,19,Saturday,Snow / Ice,False,False,True,False,False,False,False
+A-7314284,CO,Summit,Frisco,Source1,4,39.60797,-106.08053,2019,19,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-7314296,CO,Summit,Breckenridge,Source1,4,39.38498,-106.05687,2019,20,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-7326277,CO,Summit,Dillon,Source1,4,39.62849,-106.05301,2019,10,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-7326278,CO,Summit,Dillon,Source1,4,39.63137,-106.0473,2019,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7341315,CO,Summit,Frisco,Source1,4,39.59264,-106.09627,2019,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7341317,CO,Summit,Frisco,Source1,3,39.61785,-106.07303,2019,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7349232,CO,Summit,Frisco,Source1,4,39.52986,-106.21612,2019,8,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-7349239,CO,Summit,Frisco,Source1,4,39.5299,-106.21611,2019,10,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-7358913,CO,Summit,Frisco,Source1,4,39.52977,-106.21614,2019,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-7360308,CO,Summit,Dillon,Source1,4,39.62879,-106.06667,2019,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7361776,CO,Summit,Frisco,Source1,4,39.5299,-106.21611,2019,7,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7363343,CO,Summit,Dillon,Source1,4,39.63407,-105.89656,2019,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7377832,CO,Summit,Frisco,Source1,3,39.50662,-106.20242,2019,7,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-7377837,CO,Summit,Frisco,Source1,4,39.52973,-106.21644,2019,7,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-7383303,CO,Summit,Breckenridge,Source1,3,39.39336,-106.05282,2019,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7383578,CO,Summit,Dillon,Source1,3,39.60208,-105.99068,2019,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7383579,CO,Summit,Dillon,Source1,3,39.60208,-105.99068,2019,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7391603,CO,Summit,Dillon,Source1,4,39.628831,-106.06655,2019,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7402821,CO,Summit,Breckenridge,Source1,4,39.471212,-106.041801,2019,0,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7405642,CO,Summit,Breckenridge,Source1,3,39.382216,-106.062403,2019,22,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7405643,CO,Summit,Breckenridge,Source1,3,39.387069,-106.055101,2019,22,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7407129,CO,Summit,Dillon,Source1,4,39.62985,-106.06398,2019,22,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7422218,CO,Summit,Frisco,Source1,4,39.530219,-106.216035,2019,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7423496,CO,Summit,Dillon,Source1,4,39.609559,-105.946742,2019,8,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7423501,CO,Summit,Dillon,Source1,4,39.609559,-105.946742,2019,8,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7423511,CO,Summit,Dillon,Source1,4,39.609559,-105.946742,2019,10,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7424149,CO,Summit,Frisco,Source1,4,39.5114,-106.14452,2019,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7424167,CO,Summit,Frisco,Source1,4,39.575524,-106.112855,2019,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7426595,CO,Summit,Frisco,Source1,4,39.530261,-106.216025,2019,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7427207,CO,Summit,Dillon,Source1,4,39.678838,-105.936065,2019,8,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7427244,CO,Summit,Breckenridge,Source1,3,39.393219,-106.052881,2019,11,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7428690,CO,Summit,Frisco,Source1,4,39.50429000000001,-106.14171,2019,19,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-7428693,CO,Summit,Frisco,Source1,4,39.498951,-106.138762,2019,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7428694,CO,Summit,Frisco,Source1,4,39.50429000000001,-106.14171,2019,22,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-7428940,CO,Summit,Frisco,Source1,3,39.503389,-106.147716,2019,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7429322,CO,Summit,Dillon,Source1,3,39.673085,-105.971116,2019,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7430458,CO,Summit,Frisco,Source1,3,39.52518,-106.21529,2019,16,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7430477,CO,Summit,Frisco,Source1,4,39.52518,-106.21529,2019,22,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7435917,CO,Summit,Silverthorne,Source1,3,39.757731,-106.13429,2019,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7435918,CO,Summit,Silverthorne,Source1,3,39.759866,-106.138047,2019,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7437336,CO,Summit,Frisco,Source1,4,39.62763,-106.06916,2019,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7437338,CO,Summit,Frisco,Source1,4,39.62763,-106.06916,2019,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7437339,CO,Summit,Frisco,Source1,4,39.62763,-106.06916,2019,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7450475,CO,Summit,Frisco,Source1,4,39.530007,-106.216083,2019,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7451869,CO,Summit,Dillon,Source1,3,39.632247,-106.058571,2019,16,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-7451870,CO,Summit,Dillon,Source1,3,39.618329,-105.926452,2019,16,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-7455121,CO,Summit,Frisco,Source1,4,39.52518,-106.21529,2019,18,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-7458891,CO,Summit,Frisco,Source1,4,39.5114,-106.14452,2019,21,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-7466944,CO,Summit,Frisco,Source1,4,39.5114,-106.14452,2019,15,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-7466949,CO,Summit,Frisco,Source1,4,39.626828,-106.07032,2019,16,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-7466952,CO,Summit,Frisco,Source1,4,39.52566,-106.21559,2019,16,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-7468247,CO,Summit,Dillon,Source1,4,39.67857,-105.937009,2019,19,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7470984,CO,Summit,Frisco,Source1,4,39.505253,-106.142583,2019,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-7470987,CO,Summit,Frisco,Source1,4,39.505253,-106.142583,2019,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-7481112,CO,Summit,Dillon,Source1,4,39.60997,-105.94463,2018,0,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7481114,CO,Summit,Dillon,Source1,4,39.644112,-105.867606,2018,0,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7481116,CO,Summit,Dillon,Source1,4,39.60997,-105.94463,2018,0,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7481117,CO,Summit,Dillon,Source1,4,39.644112,-105.867606,2018,1,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7481118,CO,Summit,Dillon,Source1,4,39.60997,-105.94463,2018,1,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7495330,CO,Summit,Frisco,Source1,4,39.5265,-106.21602,2018,23,Friday,Cloudy,False,False,False,False,False,False,False
+A-7495331,CO,Summit,Frisco,Source1,4,39.52525,-106.21534,2018,0,Saturday,Cloudy,False,False,True,False,False,False,False
+A-7495675,CO,Summit,Dillon,Source1,4,39.631735,-105.89826200000002,2018,6,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7495680,CO,Summit,Dillon,Source1,4,39.631735,-105.898263,2018,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7497139,CO,Summit,Dillon,Source1,4,39.602152,-105.996713,2018,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7498606,CO,Summit,Frisco,Source1,4,39.530188,-106.216042,2018,10,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-7501904,CO,Summit,Breckenridge,Source1,4,39.376563,-106.057522,2018,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7501905,CO,Summit,Breckenridge,Source1,4,39.387122,-106.054484,2018,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7501907,CO,Summit,Breckenridge,Source1,4,39.387122,-106.054484,2018,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7501908,CO,Summit,Breckenridge,Source1,4,39.376563,-106.057522,2018,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7507771,CO,Summit,Frisco,Source1,4,39.62763,-106.06916,2018,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-7507780,CO,Summit,Dillon,Source1,4,39.62842,-106.06756,2018,15,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-7508211,CO,Summit,Dillon,Source1,3,39.64925,-106.021151,2018,7,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-7508256,CO,Summit,Frisco,Source1,4,39.5114,-106.14452,2018,13,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-7508257,CO,Summit,Frisco,Source1,4,39.608419,-106.080201,2018,13,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-7508261,CO,Summit,Frisco,Source1,4,39.605878,-106.082042,2018,13,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-7508262,CO,Summit,Frisco,Source1,4,39.526451,-106.216699,2018,13,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-7513552,CO,Summit,Frisco,Source1,4,39.62763,-106.06916,2018,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7513559,CO,Summit,Dillon,Source1,4,39.63185900000001,-106.058963,2018,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7515586,CO,Summit,Breckenridge,Source1,4,39.470616,-106.041467,2018,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7517696,CO,Summit,Frisco,Source1,4,39.52926,-106.21623999999998,2018,10,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7518408,CO,Summit,Frisco,Source1,4,39.401602,-106.187101,2018,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7519158,CO,Summit,Frisco,Source1,3,39.509889,-106.14374,2018,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7519667,CO,Summit,Breckenridge,Source1,4,39.390168,-106.05379,2018,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7524666,CO,Summit,Frisco,Source1,3,39.62763,-106.06916,2018,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7527675,CO,Summit,Frisco,Source1,3,39.53331,-106.14128999999998,2018,15,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-7527676,CO,Summit,Frisco,Source1,3,39.52129,-106.144519,2018,15,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-7534839,CO,Summit,Frisco,Source1,3,39.5039,-106.14643999999998,2018,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7544583,CO,Summit,Frisco,Source1,4,39.534333,-106.141877,2018,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-7544584,CO,Summit,Frisco,Source1,4,39.573062,-106.11378899999998,2018,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-7546327,CO,Summit,Frisco,Source1,4,39.592752,-106.096151,2018,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7546328,CO,Summit,Dillon,Source1,4,39.628906,-106.066925,2018,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7555350,CO,Summit,Breckenridge,Source1,4,39.56614,-106.05282,2018,10,Thursday,Clear / Fair,True,True,False,False,True,False,False
+A-7557567,CO,Summit,Silverthorne,Source1,4,39.59574,-106.09388,2018,14,Friday,Cloudy,False,False,True,False,False,False,False
+A-7563358,CO,Summit,Silverthorne,Source1,4,39.669597,-106.089092,2018,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7563359,CO,Summit,Silverthorne,Source1,4,39.662298,-106.085297,2018,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7569506,CO,Summit,Dillon,Source1,4,39.642932,-105.872595,2018,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-7571881,CO,Summit,Frisco,Source1,4,39.52518,-106.21529,2018,11,Friday,Cloudy,False,False,True,False,False,False,False
+A-7578897,CO,Summit,Dillon,Source1,4,39.628169,-106.068119,2018,7,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-7606981,CO,Summit,Frisco,Source1,4,39.625729,-106.071454,2018,18,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-7611906,CO,Summit,Dillon,Source1,3,39.65686,-105.878075,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7613668,CO,Summit,Dillon,Source1,4,39.628124,-106.068217,2018,10,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-7627294,CO,Summit,Dillon,Source1,4,39.67868,-105.93503,2018,13,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-7632259,CO,Summit,Dillon,Source1,4,39.628056,-106.068358,2018,8,Friday,Sin dato,False,False,False,False,False,False,False
+A-7632272,CO,Summit,Dillon,Source1,4,39.67868,-105.93503,2018,11,Friday,Sin dato,False,False,False,False,False,False,False
+A-7632544,CO,Summit,Breckenridge,Source1,4,39.5316,-106.043945,2018,23,Friday,Sin dato,False,False,False,False,False,False,False
+A-7632548,CO,Summit,Breckenridge,Source1,4,39.5316,-106.043945,2018,23,Friday,Sin dato,False,False,False,False,False,False,False
+A-7632549,CO,Summit,Breckenridge,Source1,4,39.541862,-106.041535,2018,23,Friday,Sin dato,False,False,False,False,False,False,False
+A-7638787,CO,Summit,Breckenridge,Source1,4,39.448474,-106.038997,2018,11,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7638788,CO,Summit,Breckenridge,Source1,4,39.429446,-106.043893,2018,11,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7638789,CO,Summit,Breckenridge,Source1,4,39.448474,-106.038997,2018,11,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7646828,CO,Summit,Dillon,Source1,4,39.628194,-106.068064,2017,12,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-7646829,CO,Summit,Dillon,Source1,4,39.62902,-106.06606,2017,12,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-7646834,CO,Summit,Dillon,Source1,4,39.62902,-106.06606,2017,18,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-7648074,CO,Summit,Frisco,Source1,4,39.507278,-106.14348,2017,11,Thursday,Sin dato,False,False,False,False,False,False,False
+A-7648075,CO,Summit,Frisco,Source1,4,39.507278,-106.14348,2017,11,Thursday,Sin dato,False,False,False,False,False,False,False
+A-7651565,CO,Summit,Frisco,Source1,4,39.52926,-106.21623999999998,2017,8,Thursday,Sin dato,False,False,False,False,False,False,False
+A-7661221,CO,Summit,Frisco,Source1,4,39.62763,-106.06916,2017,17,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-7662632,CO,Summit,Dillon,Source1,4,39.609559,-105.946742,2017,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7666320,CO,Summit,Dillon,Source1,4,39.63465,-105.895736,2017,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-7668850,CO,Summit,Dillon,Source1,4,39.637048,-105.889681,2017,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7694169,CO,Summit,Frisco,Source1,4,39.53412,-106.14171,2017,14,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7694927,CO,Summit,Silverthorne,Source1,4,39.91512,-106.32717,2017,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7706820,CO,Summit,Frisco,Source1,4,39.52926,-106.21623999999998,2019,10,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7706822,CO,Summit,Frisco,Source1,4,39.57531,-106.11292,2019,11,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7715627,CO,Summit,Frisco,Source1,4,39.62763,-106.06916,2019,22,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-7716936,CO,Summit,Frisco,Source1,4,39.52518,-106.21529,2019,23,Monday,Cloudy,False,False,True,False,False,False,False
+A-7719865,CO,Summit,Frisco,Source1,4,39.508767,-106.14379,2019,18,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7724439,CO,Summit,Frisco,Source1,3,39.567972,-106.121445,2019,3,Friday,Cloudy,False,False,False,False,False,False,False
+A-7725451,CO,Summit,Dillon,Source1,4,39.64925,-106.021151,2019,16,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-7727007,CO,Summit,Dillon,Source1,4,39.636582,-105.891793,2019,6,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7727009,CO,Summit,Dillon,Source1,4,39.636582,-105.891793,2019,7,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7727079,CO,Summit,Frisco,Source1,4,39.51046,-106.14422,2019,19,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-7727085,CO,Summit,Dillon,Source1,4,39.678259,-105.937823,2019,20,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-7731005,CO,Summit,Frisco,Source1,4,39.62763,-106.06916,2019,1,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-7739475,CO,Summit,Breckenridge,Source1,3,39.364096,-106.059811,2019,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-7751550,CO,Summit,Breckenridge,Source1,4,39.462143,-106.035327,2019,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-7766181,CO,Summit,Dillon,Source1,3,39.640648,-106.043225,2019,22,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7770128,CO,Summit,Breckenridge,Source1,3,39.396196,-106.052006,2019,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7771862,CO,Summit,Dillon,Source1,3,39.64919,-106.021329,2019,15,Sunday,Rain,False,False,False,False,False,False,False

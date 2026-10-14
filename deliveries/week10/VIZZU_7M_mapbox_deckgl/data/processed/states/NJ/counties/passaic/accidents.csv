@@ -1,0 +1,942 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-194325,NJ,Passaic,Paterson,Source3,3,40.900944,-74.141182,2016,22,Wednesday,Rain,False,False,True,False,False,False,False
+A-194375,NJ,Passaic,Clifton,Source2,3,40.879082,-74.12262,2016,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-194729,NJ,Passaic,Pompton Lakes,Source2,3,41.023865,-74.272835,2016,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-194870,NJ,Passaic,Totowa,Source2,3,40.896698,-74.21946700000002,2016,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-194980,NJ,Passaic,Paterson,Source2,3,40.908226,-74.17347,2016,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-196899,NJ,Passaic,Totowa,Source2,3,40.899204,-74.231255,2016,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-197293,NJ,Passaic,Little Falls,Source2,3,40.904221,-74.193497,2016,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-197645,NJ,Passaic,Paterson,Source2,3,40.908226,-74.17347,2016,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-198063,NJ,Passaic,Little Falls,Source2,3,40.904221,-74.193497,2016,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-198564,NJ,Passaic,Paterson,Source3,3,40.902119,-74.134689,2017,17,Monday,Rain,False,False,False,False,False,False,False
+A-198670,NJ,Passaic,Paterson,Source3,3,40.902119,-74.134689,2017,15,Tuesday,Rain,False,False,False,False,False,False,False
+A-199083,NJ,Passaic,Totowa,Source2,3,40.896904,-74.208237,2017,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-199295,NJ,Passaic,Paterson,Source2,3,40.902119,-74.134689,2017,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-200060,NJ,Passaic,Paterson,Source2,3,40.908226,-74.17347,2017,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-200493,NJ,Passaic,Little Falls,Source2,3,40.904221,-74.193497,2017,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-200540,NJ,Passaic,Paterson,Source2,3,40.908226,-74.17347,2017,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-200743,NJ,Passaic,Totowa,Source2,3,40.899204,-74.231255,2017,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-201783,NJ,Passaic,Paterson,Source2,3,40.903694,-74.15847,2017,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-201945,NJ,Passaic,Paterson,Source2,3,40.903694,-74.15847,2017,10,Thursday,Rain,False,False,False,False,False,False,False
+A-202289,NJ,Passaic,Paterson,Source2,3,40.902119,-74.134689,2016,13,Saturday,Rain,False,False,False,False,False,False,False
+A-202496,NJ,Passaic,Totowa,Source3,3,40.896648,-74.222923,2016,16,Monday,Cloudy,False,False,True,False,False,False,False
+A-202569,NJ,Passaic,Little Falls,Source2,3,40.904221,-74.193497,2016,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-202936,NJ,Passaic,Paterson,Source2,3,40.902119,-74.134689,2016,13,Thursday,Rain,False,False,False,False,False,False,False
+A-203169,NJ,Passaic,Paterson,Source2,3,40.902119,-74.134689,2016,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-203368,NJ,Passaic,Little Falls,Source2,3,40.904221,-74.193497,2016,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-203665,NJ,Passaic,Clifton,Source2,3,40.823517,-74.124794,2016,9,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-204718,NJ,Passaic,Paterson,Source2,3,40.908226,-74.17347,2016,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-205329,NJ,Passaic,Totowa,Source2,3,40.895939,-74.202301,2016,7,Tuesday,Rain,False,False,False,False,False,False,False
+A-206926,NJ,Passaic,Totowa,Source2,3,40.899204,-74.231255,2016,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-206937,NJ,Passaic,Totowa,Source2,3,40.899658,-74.233696,2016,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-207361,NJ,Passaic,Paterson,Source2,3,40.903694,-74.15847,2016,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-207593,NJ,Passaic,Paterson,Source2,3,40.908226,-74.17347,2016,5,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-208733,NJ,Passaic,Paterson,Source2,3,40.908226,-74.17347,2016,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-209150,NJ,Passaic,Paterson,Source2,3,40.903694,-74.15847,2016,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-209449,NJ,Passaic,Wayne,Source2,3,40.896755,-74.252937,2016,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-209674,NJ,Passaic,Paterson,Source2,3,40.908226,-74.17347,2016,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-210364,NJ,Passaic,Paterson,Source2,3,40.908226,-74.17347,2016,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-210400,NJ,Passaic,Paterson,Source2,3,40.903694,-74.15847,2016,5,Tuesday,Rain,False,False,False,False,False,False,False
+A-210767,NJ,Passaic,Paterson,Source2,3,40.908966,-74.177689,2016,23,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-210793,NJ,Passaic,Paterson,Source2,3,40.908226,-74.17347,2016,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-211708,NJ,Passaic,Paterson,Source2,3,40.903694,-74.15847,2016,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-212050,NJ,Passaic,Totowa,Source2,3,40.897633,-74.227028,2016,0,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-212060,NJ,Passaic,Paterson,Source2,3,40.903694,-74.15847,2016,5,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-213522,NJ,Passaic,Paterson,Source2,3,40.904095,-74.158661,2016,5,Friday,Rain,False,False,False,False,False,False,False
+A-213667,NJ,Passaic,Totowa,Source2,3,40.899666,-74.236847,2016,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-214033,NJ,Passaic,Little Falls,Source2,3,40.904221,-74.193497,2016,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-214064,NJ,Passaic,Totowa,Source2,3,40.896648,-74.222923,2016,8,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-215499,NJ,Passaic,Paterson,Source2,3,40.903694,-74.15847,2016,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-215628,NJ,Passaic,Paterson,Source2,3,40.901299,-74.14134200000002,2016,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-217043,NJ,Passaic,Totowa,Source2,3,40.895023,-74.236412,2016,18,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-219060,NJ,Passaic,Wayne,Source3,3,40.896755,-74.252937,2016,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-219061,NJ,Passaic,Wayne,Source3,3,40.896755,-74.252937,2016,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-219904,NJ,Passaic,Paterson,Source2,3,40.903336,-74.158028,2016,4,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-219911,NJ,Passaic,Wayne,Source2,3,40.896755,-74.252937,2016,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-220312,NJ,Passaic,Wayne,Source2,3,40.896755,-74.252937,2016,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-326241,NJ,Passaic,Paterson,Source2,3,40.908226,-74.17347,2017,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-326810,NJ,Passaic,Paterson,Source2,3,40.902977,-74.157555,2017,16,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-326818,NJ,Passaic,Paterson,Source2,3,40.902977,-74.157555,2017,17,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-326842,NJ,Passaic,Paterson,Source2,3,40.908226,-74.17347,2017,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-327463,NJ,Passaic,Little Falls,Source2,3,40.904221,-74.193497,2017,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-371753,NJ,Passaic,Little Falls,Source2,3,40.904221,-74.193497,2017,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-372429,NJ,Passaic,Paterson,Source2,3,40.908226,-74.17347,2017,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-372468,NJ,Passaic,Paterson,Source2,3,40.908226,-74.17347,2017,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-372767,NJ,Passaic,Paterson,Source2,3,40.903694,-74.15847,2017,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-372894,NJ,Passaic,Paterson,Source2,3,40.903694,-74.15847,2017,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-372898,NJ,Passaic,Clifton,Source2,3,40.84755300000001,-74.179817,2017,4,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-373156,NJ,Passaic,Paterson,Source2,3,40.908226,-74.17347,2017,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-373268,NJ,Passaic,Paterson,Source2,3,40.908226,-74.17347,2017,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-373890,NJ,Passaic,Pompton Lakes,Source2,3,41.0266,-74.286224,2017,7,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-374340,NJ,Passaic,Little Falls,Source2,3,40.904221,-74.193497,2017,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-374344,NJ,Passaic,Totowa,Source2,3,40.896648,-74.222923,2017,17,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-374714,NJ,Passaic,Clifton,Source2,3,40.885036,-74.159607,2017,15,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-375024,NJ,Passaic,Paterson,Source2,3,40.908226,-74.17347,2017,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-375398,NJ,Passaic,Little Falls,Source2,3,40.904221,-74.193497,2017,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-420632,NJ,Passaic,Little Falls,Source2,3,40.904221,-74.193497,2017,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-420635,NJ,Passaic,Little Falls,Source2,3,40.904221,-74.193497,2017,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-421794,NJ,Passaic,Wayne,Source2,3,40.896755,-74.252937,2017,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-421797,NJ,Passaic,Wayne,Source2,3,40.896755,-74.252937,2017,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-422301,NJ,Passaic,Paterson,Source2,3,40.902119,-74.134689,2017,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-423333,NJ,Passaic,Little Falls,Source2,3,40.904221,-74.193497,2017,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-446344,NJ,Passaic,Clifton,Source2,3,40.853348,-74.176392,2017,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-446422,NJ,Passaic,Paterson,Source2,3,40.902119,-74.134689,2017,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-446870,NJ,Passaic,Paterson,Source2,3,40.903694,-74.15847,2017,13,Saturday,Rain,False,False,False,False,False,False,False
+A-446878,NJ,Passaic,Little Falls,Source2,3,40.904221,-74.193497,2017,14,Saturday,Rain,False,False,False,False,False,False,False
+A-447314,NJ,Passaic,Paterson,Source3,3,40.902119,-74.134689,2017,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-447788,NJ,Passaic,Paterson,Source2,3,40.903694,-74.15847,2017,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-447873,NJ,Passaic,Totowa,Source2,3,40.896648,-74.222923,2017,16,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-475718,NJ,Passaic,Little Falls,Source2,3,40.904221,-74.193497,2017,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-475762,NJ,Passaic,Little Falls,Source2,3,40.904221,-74.193497,2017,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-476666,NJ,Passaic,Totowa,Source2,3,40.897224,-74.213387,2017,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-477783,NJ,Passaic,Wayne,Source2,3,40.896755,-74.252937,2017,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-477890,NJ,Passaic,Paterson,Source2,3,40.907681,-74.170273,2017,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-477973,NJ,Passaic,Paterson,Source2,3,40.908226,-74.17347,2017,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-478176,NJ,Passaic,Wayne,Source2,3,40.896152,-74.25071,2017,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-479124,NJ,Passaic,Little Falls,Source2,3,40.904221,-74.193497,2017,8,Friday,Rain,False,False,False,False,False,False,False
+A-479137,NJ,Passaic,Paterson,Source2,3,40.902119,-74.134689,2017,8,Friday,Rain,False,False,False,False,False,False,False
+A-503237,NJ,Passaic,Totowa,Source3,3,40.896648,-74.222923,2017,17,Friday,Cloudy,False,False,True,False,False,False,False
+A-503419,NJ,Passaic,Little Falls,Source2,3,40.904221,-74.193497,2017,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-503664,NJ,Passaic,Wayne,Source2,3,40.896774,-74.252235,2017,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-504102,NJ,Passaic,Paterson,Source2,3,40.908226,-74.17347,2017,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-524326,NJ,Passaic,Clifton,Source2,3,40.888359,-74.131477,2022,23,Saturday,Cloudy,False,False,False,False,False,False,False
+A-529909,NJ,Passaic,Little Falls,Source3,3,40.904377,-74.192474,2022,7,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-541706,NJ,Passaic,Paterson,Source2,3,40.905548,-74.160446,2022,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-544061,NJ,Passaic,Little Falls,Source2,3,40.904377,-74.192474,2022,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-544073,NJ,Passaic,Paterson,Source2,3,40.908596,-74.174042,2022,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-549543,NJ,Passaic,Paterson,Source2,3,40.90163,-74.136932,2022,11,Monday,Rain,False,False,False,False,False,False,False
+A-562702,NJ,Passaic,Little Falls,Source3,3,40.904377,-74.192474,2022,18,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-562914,NJ,Passaic,Paterson,Source2,3,40.903919,-74.15798199999998,2022,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-566521,NJ,Passaic,Wanaque,Source2,3,41.01709,-74.295578,2022,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-569125,NJ,Passaic,Pompton Lakes,Source2,3,41.012348,-74.30143699999998,2022,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-580805,NJ,Passaic,Paterson,Source2,3,40.90699,-74.173317,2022,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-586933,NJ,Passaic,Paterson,Source2,3,40.908596,-74.174042,2022,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-600211,NJ,Passaic,Totowa,Source2,3,40.89954,-74.234703,2022,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-602544,NJ,Passaic,Wanaque,Source2,3,41.01709,-74.295578,2022,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-603351,NJ,Passaic,Totowa,Source2,3,40.89954,-74.234703,2022,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-608431,NJ,Passaic,Little Falls,Source2,3,40.904377,-74.192474,2022,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-608432,NJ,Passaic,Paterson,Source2,3,40.908596,-74.174042,2022,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-608687,NJ,Passaic,Paterson,Source2,3,40.908596,-74.174042,2022,16,Friday,Rain,False,False,False,False,False,False,False
+A-609790,NJ,Passaic,Little Falls,Source2,3,40.904377,-74.192474,2022,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-615018,NJ,Passaic,Paterson,Source2,3,40.90163,-74.136932,2022,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-619707,NJ,Passaic,Paterson,Source2,3,40.903919,-74.15798199999998,2022,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-623276,NJ,Passaic,Haskell,Source2,3,41.016598,-74.298683,2022,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-629747,NJ,Passaic,Wayne,Source2,3,40.896786,-74.25275400000002,2022,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-631521,NJ,Passaic,Paterson,Source2,3,40.90163,-74.136932,2022,12,Monday,Rain,False,False,False,False,False,False,False
+A-636737,NJ,Passaic,Clifton,Source2,3,40.831085,-74.141335,2022,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-640138,NJ,Passaic,Totowa,Source2,3,40.896805,-74.22224399999998,2022,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-644177,NJ,Passaic,Paterson,Source2,3,40.90163,-74.136932,2022,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-648396,NJ,Passaic,Paterson,Source2,3,40.90163,-74.136932,2022,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-653154,NJ,Passaic,Paterson,Source2,3,40.90163,-74.136932,2022,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-660078,NJ,Passaic,Paterson,Source2,3,40.90163,-74.136932,2022,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-669610,NJ,Passaic,Paterson,Source2,3,40.905918,-74.16082800000002,2022,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-672135,NJ,Passaic,Little Falls,Source2,3,40.904404,-74.192413,2022,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-673459,NJ,Passaic,Paterson,Source2,3,40.901646,-74.13703199999998,2022,17,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-687680,NJ,Passaic,Paterson,Source2,4,40.901646,-74.13703199999998,2022,9,Sunday,Rain,False,False,False,False,False,False,False
+A-688214,NJ,Passaic,Clifton,Source2,3,40.824436,-74.125908,2022,21,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-688601,NJ,Passaic,Paterson,Source2,3,40.904713,-74.159561,2022,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-690578,NJ,Passaic,Paterson,Source2,3,40.901646,-74.13703199999998,2022,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-694788,NJ,Passaic,Paterson,Source2,3,40.906792,-74.171211,2022,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-696595,NJ,Passaic,Totowa,Source2,3,40.89677800000001,-74.222099,2022,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-704622,NJ,Passaic,Paterson,Source2,3,40.901646,-74.13703199999998,2022,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-712304,NJ,Passaic,Paterson,Source2,3,40.901958,-74.154907,2022,5,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-712327,NJ,Passaic,Paterson,Source2,3,40.910793,-74.133942,2022,5,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-716173,NJ,Passaic,Wayne,Source2,3,40.895557,-74.25824,2022,16,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-720737,NJ,Passaic,Wanaque,Source2,3,41.01709,-74.295578,2022,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-726188,NJ,Passaic,Totowa,Source2,3,40.89854,-74.223396,2022,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-728993,NJ,Passaic,Totowa,Source2,3,40.89677800000001,-74.222099,2022,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-738478,NJ,Passaic,Paterson,Source2,3,40.903866,-74.15786700000002,2022,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-746969,NJ,Passaic,Wayne,Source2,3,40.898609,-74.252701,2022,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-752248,NJ,Passaic,Clifton,Source2,3,40.87696500000001,-74.167259,2022,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-755321,NJ,Passaic,Paterson,Source2,3,40.901592,-74.138405,2022,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-758030,NJ,Passaic,Paterson,Source2,3,40.9006,-74.144897,2022,9,Saturday,Rain,False,False,False,False,False,False,False
+A-758031,NJ,Passaic,Paterson,Source2,3,40.904015,-74.15879100000002,2022,11,Saturday,Rain,False,False,False,False,False,False,False
+A-760484,NJ,Passaic,Paterson,Source2,3,40.903866,-74.15786700000002,2021,6,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-763194,NJ,Passaic,Wayne,Source2,3,40.898041,-74.252769,2021,21,Monday,Rain,False,False,False,False,False,False,False
+A-768418,NJ,Passaic,Little Falls,Source2,3,40.904404,-74.192413,2021,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-772201,NJ,Passaic,Paterson,Source2,3,40.902103,-74.13485,2021,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-773009,NJ,Passaic,Paterson,Source2,3,40.894325,-74.131866,2021,19,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-773187,NJ,Passaic,Paterson,Source2,3,40.908478,-74.173897,2021,14,Saturday,Cloudy,False,False,True,False,False,False,False
+A-773244,NJ,Passaic,Paterson,Source2,3,40.903866,-74.15786700000002,2021,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-777142,NJ,Passaic,Little Falls,Source2,3,40.904095,-74.193726,2021,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-780991,NJ,Passaic,Wayne,Source2,3,40.896683,-74.25273100000003,2021,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-781365,NJ,Passaic,Paterson,Source2,3,40.90855,-74.175514,2021,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-783312,NJ,Passaic,Paterson,Source2,3,40.901646,-74.13703199999998,2021,12,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-791284,NJ,Passaic,Paterson,Source2,3,40.907291,-74.16838800000002,2021,17,Monday,Cloudy,False,False,True,False,False,False,False
+A-791399,NJ,Passaic,Paterson,Source2,3,40.900635,-74.144341,2021,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-794053,NJ,Passaic,Totowa,Source2,3,40.896729,-74.21907,2021,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-794478,NJ,Passaic,Totowa,Source2,3,40.89954,-74.234703,2021,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-809205,NJ,Passaic,Paterson,Source2,3,40.902611,-74.134537,2021,6,Monday,Rain,False,False,False,False,False,False,False
+A-811592,NJ,Passaic,Wayne,Source2,3,40.896683,-74.25273100000003,2021,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-811790,NJ,Passaic,Paterson,Source2,3,40.905918,-74.16082800000002,2021,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-822361,NJ,Passaic,Paterson,Source2,3,40.908478,-74.173897,2021,10,Friday,Rain,False,False,True,False,False,False,False
+A-852839,NJ,Passaic,Paterson,Source2,3,40.903866,-74.15786700000002,2021,10,Tuesday,Rain,False,False,False,False,False,False,False
+A-852966,NJ,Passaic,Paterson,Source2,3,40.901646,-74.13703199999998,2021,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-857225,NJ,Passaic,Totowa,Source2,3,40.89677800000001,-74.222099,2021,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-866359,NJ,Passaic,Paterson,Source2,3,40.900612,-74.134277,2021,14,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-867517,NJ,Passaic,Paterson,Source2,3,40.901646,-74.13703199999998,2021,13,Sunday,Rain,False,False,False,False,False,False,False
+A-873599,NJ,Passaic,Paterson,Source2,3,40.905552,-74.160728,2021,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-881035,NJ,Passaic,Paterson,Source2,3,40.901646,-74.13703199999998,2021,13,Tuesday,Rain,False,False,False,False,False,False,False
+A-887929,NJ,Passaic,Wayne,Source2,3,40.896683,-74.25273100000003,2021,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-894218,NJ,Passaic,Paterson,Source2,3,40.903469,-74.17130300000002,2021,16,Saturday,Sin dato,False,False,False,False,False,False,False
+A-904695,NJ,Passaic,Little Falls,Source2,3,40.904404,-74.192413,2021,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-905980,NJ,Passaic,Paterson,Source2,3,40.908478,-74.173897,2021,9,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-910223,NJ,Passaic,Totowa,Source2,3,40.89677800000001,-74.222099,2021,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-910591,NJ,Passaic,Totowa,Source2,3,40.89677800000001,-74.222099,2021,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-910701,NJ,Passaic,Paterson,Source2,3,40.908478,-74.173897,2021,13,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-916240,NJ,Passaic,Paterson,Source2,3,40.901646,-74.13703199999998,2021,10,Wednesday,Rain,False,False,False,False,False,False,False
+A-920228,NJ,Passaic,Paterson,Source2,3,40.908478,-74.173897,2021,17,Monday,Storm,False,False,True,False,False,False,False
+A-921341,NJ,Passaic,Little Falls,Source2,3,40.904404,-74.192413,2021,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-927124,NJ,Passaic,Paterson,Source2,3,40.903866,-74.15786700000002,2021,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-939668,NJ,Passaic,Paterson,Source3,3,40.905304,-74.160065,2021,22,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-942459,NJ,Passaic,Paterson,Source2,3,40.908478,-74.173897,2021,13,Sunday,Cloudy,False,False,True,False,False,False,False
+A-942946,NJ,Passaic,Paterson,Source2,3,40.901646,-74.13703199999998,2021,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-943590,NJ,Passaic,Little Falls,Source2,3,40.904404,-74.192413,2021,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-945655,NJ,Passaic,Paterson,Source2,3,40.903866,-74.15786700000002,2021,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-952292,NJ,Passaic,Wayne,Source2,3,40.896683,-74.25273100000003,2021,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-953761,NJ,Passaic,Paterson,Source2,3,40.90691,-74.170967,2021,17,Thursday,Storm,False,False,False,False,False,False,False
+A-966921,NJ,Passaic,Little Falls,Source2,3,40.904404,-74.192413,2021,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-972221,NJ,Passaic,Little Falls,Source3,3,40.904404,-74.192413,2021,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-977516,NJ,Passaic,Paterson,Source2,3,40.903866,-74.15786700000002,2021,18,Tuesday,Storm,False,False,False,False,False,False,False
+A-980195,NJ,Passaic,Wayne,Source3,3,40.896683,-74.25273100000003,2021,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-980701,NJ,Passaic,Paterson,Source2,3,40.901718,-74.153748,2021,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-980741,NJ,Passaic,Wayne,Source3,3,40.896683,-74.25273100000003,2021,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-984010,NJ,Passaic,Totowa,Source2,3,40.896595,-74.22113,2021,21,Wednesday,Storm,False,False,False,False,False,False,False
+A-989518,NJ,Passaic,Totowa,Source2,3,40.89677800000001,-74.222099,2021,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-992301,NJ,Passaic,Paterson,Source2,3,40.901646,-74.13703199999998,2021,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-995467,NJ,Passaic,Paterson,Source2,3,40.908478,-74.173897,2021,12,Monday,Cloudy,False,False,True,False,False,False,False
+A-997400,NJ,Passaic,Paterson,Source2,3,40.91,-74.176559,2021,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-998029,NJ,Passaic,Paterson,Source2,3,40.906281,-74.162758,2021,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1001626,NJ,Passaic,Wayne,Source2,3,40.897079,-74.252747,2021,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1024681,NJ,Passaic,Paterson,Source2,3,40.903866,-74.15786700000002,2021,13,Sunday,Rain,False,False,False,False,False,False,False
+A-1025099,NJ,Passaic,Clifton,Source2,3,40.87807100000001,-74.165993,2021,5,Saturday,Rain,False,False,False,False,False,False,False
+A-1035069,NJ,Passaic,Paterson,Source2,3,40.901646,-74.13703199999998,2021,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1049582,NJ,Passaic,Paterson,Source2,3,40.908478,-74.173897,2021,7,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-1051225,NJ,Passaic,Paterson,Source2,3,40.901646,-74.13703199999998,2021,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-1053792,NJ,Passaic,Paterson,Source2,3,40.908478,-74.173897,2021,20,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1059081,NJ,Passaic,Paterson,Source2,3,40.901646,-74.13703199999998,2021,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1070922,NJ,Passaic,Little Falls,Source2,3,40.904404,-74.192413,2021,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1085419,NJ,Passaic,Little Falls,Source2,3,40.904404,-74.192413,2021,10,Monday,Rain,False,False,False,False,False,False,False
+A-1086901,NJ,Passaic,Paterson,Source2,3,40.901646,-74.13703199999998,2021,10,Sunday,Rain,False,False,False,False,False,False,False
+A-1087314,NJ,Passaic,Totowa,Source2,3,40.896629,-74.222809,2021,10,Saturday,Cloudy,False,False,True,False,False,False,False
+A-1087316,NJ,Passaic,Little Falls,Source2,3,40.904404,-74.192413,2021,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1091172,NJ,Passaic,Paterson,Source2,3,40.901646,-74.13703199999998,2021,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1102998,NJ,Passaic,Clifton,Source2,3,40.865208,-74.181938,2021,10,Sunday,Rain,False,False,False,False,False,False,False
+A-1112704,NJ,Passaic,Little Falls,Source2,3,40.904255,-74.192413,2021,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1112705,NJ,Passaic,Little Falls,Source2,3,40.904255,-74.192413,2021,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1120976,NJ,Passaic,Little Falls,Source2,3,40.904205,-74.193504,2021,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1125676,NJ,Passaic,Paterson,Source2,3,40.905918,-74.16082800000002,2021,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1140284,NJ,Passaic,Paterson,Source2,3,40.901649,-74.137108,2021,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1143078,NJ,Passaic,Little Falls,Source2,3,40.904255,-74.192413,2021,13,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1147085,NJ,Passaic,Little Falls,Source2,3,40.904255,-74.192413,2021,7,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1147182,NJ,Passaic,Little Falls,Source2,3,40.904255,-74.192413,2021,14,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1150288,NJ,Passaic,Paterson,Source2,3,40.901649,-74.137108,2021,5,Tuesday,Rain,False,False,False,False,False,False,False
+A-1150303,NJ,Passaic,Little Falls,Source3,3,40.904255,-74.192413,2021,6,Tuesday,Rain,False,False,False,False,False,False,False
+A-1153962,NJ,Passaic,Paterson,Source2,3,40.908478,-74.173897,2021,14,Saturday,Cloudy,False,False,True,False,False,False,False
+A-1160265,NJ,Passaic,Haskell,Source2,3,41.012959,-74.301277,2021,7,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1160266,NJ,Passaic,Haskell,Source2,3,41.013966,-74.300827,2021,7,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1163642,NJ,Passaic,Little Falls,Source2,3,40.904255,-74.192413,2021,15,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1163661,NJ,Passaic,Paterson,Source2,3,40.901649,-74.137108,2021,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1163663,NJ,Passaic,Little Falls,Source2,3,40.904255,-74.192413,2021,20,Sunday,Sin dato,False,False,False,False,False,False,False
+A-1166676,NJ,Passaic,Clifton,Source2,3,40.83073,-74.140251,2021,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1169692,NJ,Passaic,Little Falls,Source2,3,40.903,-74.195518,2021,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1169738,NJ,Passaic,Little Falls,Source2,3,40.904255,-74.192413,2021,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1169749,NJ,Passaic,Totowa,Source2,3,40.89677800000001,-74.222099,2021,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1193457,NJ,Passaic,West Milford,Source2,3,41.053905,-74.456161,2021,22,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1193514,NJ,Passaic,Little Falls,Source2,3,40.904255,-74.192413,2021,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1207731,NJ,Passaic,Paterson,Source2,3,40.903866,-74.15786700000002,2021,23,Friday,Rain,False,False,False,False,False,False,False
+A-1218389,NJ,Passaic,Totowa,Source2,3,40.89677800000001,-74.222099,2020,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1224379,NJ,Passaic,Paterson,Source2,3,40.903866,-74.15786700000002,2020,13,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1242731,NJ,Passaic,Wayne,Source2,4,40.896709,-74.25273100000003,2020,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1244415,NJ,Passaic,Paterson,Source2,3,40.901882,-74.136635,2020,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1246125,NJ,Passaic,Totowa,Source2,3,40.89677800000001,-74.222099,2020,13,Monday,Rain,False,False,False,False,False,False,False
+A-1252336,NJ,Passaic,Wayne,Source2,3,40.896709,-74.25273100000003,2020,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1256304,NJ,Passaic,Haskell,Source2,3,41.017902,-74.29568499999998,2020,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1256314,NJ,Passaic,Paterson,Source2,3,40.901649,-74.137108,2020,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1256967,NJ,Passaic,Totowa,Source2,3,40.89954,-74.234703,2020,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1256997,NJ,Passaic,Little Falls,Source2,3,40.904255,-74.192413,2020,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1257018,NJ,Passaic,Paterson,Source2,3,40.908478,-74.173897,2020,18,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1262262,NJ,Passaic,Wayne,Source2,3,40.896,-74.252853,2020,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1266019,NJ,Passaic,Paterson,Source2,3,40.908478,-74.173897,2020,0,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-1266722,NJ,Passaic,Paterson,Source2,3,40.903866,-74.15786700000002,2020,7,Friday,Rain,False,False,False,False,False,False,False
+A-1266761,NJ,Passaic,Paterson,Source2,3,40.908478,-74.173897,2020,11,Friday,Rain,False,False,True,False,False,False,False
+A-1268605,NJ,Passaic,Totowa,Source2,3,40.89677800000001,-74.222099,2020,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1270603,NJ,Passaic,Paterson,Source2,3,40.903866,-74.15786700000002,2020,16,Wednesday,Rain,False,False,False,False,False,False,False
+A-1286993,NJ,Passaic,Wayne,Source2,3,40.896709,-74.25273100000003,2020,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1288274,NJ,Passaic,Totowa,Source2,3,40.89677800000001,-74.222099,2020,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1306599,NJ,Passaic,Little Falls,Source2,3,40.904255,-74.192413,2020,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1308232,NJ,Passaic,Paterson,Source2,3,40.908478,-74.173897,2020,6,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-1319575,NJ,Passaic,Wanaque,Source2,3,41.01709,-74.295578,2020,3,Wednesday,Rain,False,False,False,False,False,False,False
+A-1319621,NJ,Passaic,Totowa,Source2,3,40.89677800000001,-74.222099,2020,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1335651,NJ,Passaic,Paterson,Source2,3,40.901649,-74.137108,2020,12,Monday,Rain,False,False,False,False,False,False,False
+A-1335694,NJ,Passaic,Paterson,Source2,3,40.90205,-74.135391,2020,19,Monday,Rain,False,False,True,False,False,False,False
+A-1337444,NJ,Passaic,Paterson,Source2,3,40.904434,-74.15926400000002,2020,12,Tuesday,Rain,False,False,False,False,False,False,False
+A-1344936,NJ,Passaic,Wayne,Source2,3,40.896709,-74.25273100000003,2020,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1344937,NJ,Passaic,Wayne,Source2,3,40.896709,-74.25273100000003,2020,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1353921,NJ,Passaic,Little Falls,Source2,3,40.889137,-74.218636,2020,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-1356398,NJ,Passaic,Paterson,Source2,3,40.908478,-74.173897,2020,21,Sunday,Rain,False,False,True,False,False,False,False
+A-1357061,NJ,Passaic,Paterson,Source2,3,40.904133,-74.158684,2020,8,Monday,Rain,False,False,False,False,False,False,False
+A-1357065,NJ,Passaic,Paterson,Source2,3,40.901649,-74.137108,2020,8,Monday,Rain,False,False,False,False,False,False,False
+A-1362949,NJ,Passaic,Paterson,Source2,3,40.903233,-74.157585,2020,20,Thursday,Rain,False,False,False,False,False,False,False
+A-1370255,NJ,Passaic,Paterson,Source2,3,40.901649,-74.137108,2020,11,Wednesday,Rain,False,False,False,False,False,False,False
+A-1373581,NJ,Passaic,Clifton,Source2,3,40.834064,-74.147949,2020,20,Thursday,Rain,False,False,False,False,False,False,False
+A-1373650,NJ,Passaic,Paterson,Source2,3,40.901649,-74.137108,2020,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1382237,NJ,Passaic,Paterson,Source2,3,40.908478,-74.173897,2020,18,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-1386709,NJ,Passaic,Paterson,Source2,3,40.903866,-74.15786700000002,2020,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1410474,NJ,Passaic,Paterson,Source2,3,40.905209,-74.159935,2020,5,Tuesday,Rain,False,False,False,False,False,False,False
+A-1410531,NJ,Passaic,Paterson,Source2,3,40.901649,-74.137108,2020,12,Tuesday,Rain,False,False,False,False,False,False,False
+A-1413356,NJ,Passaic,Clifton,Source2,3,40.876282,-74.167511,2020,2,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1421603,NJ,Passaic,Paterson,Source2,3,40.903866,-74.15786700000002,2020,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1434273,NJ,Passaic,Paterson,Source2,3,40.908478,-74.173897,2020,19,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-1456266,NJ,Passaic,Paterson,Source2,3,40.903866,-74.15786700000002,2020,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1457530,NJ,Passaic,Paterson,Source2,3,40.908478,-74.173897,2020,7,Thursday,Fog / Low visibility,False,False,True,False,False,False,False
+A-1463420,NJ,Passaic,Paterson,Source3,3,40.901649,-74.137108,2020,14,Friday,Rain,False,False,False,False,False,False,False
+A-1473870,NJ,Passaic,Totowa,Source2,4,40.89677800000001,-74.222099,2020,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1483905,NJ,Passaic,Paterson,Source2,3,40.908478,-74.173897,2020,14,Monday,Cloudy,False,False,True,False,False,False,False
+A-1490202,NJ,Passaic,Totowa,Source2,3,40.89677800000001,-74.222099,2020,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1507013,NJ,Passaic,Little Falls,Source2,3,40.903351,-74.19381700000002,2020,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1508494,NJ,Passaic,Paterson,Source2,3,40.91,-74.176559,2020,0,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1523010,NJ,Passaic,Paterson,Source2,3,40.903866,-74.15786700000002,2020,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1535702,NJ,Passaic,Little Falls,Source2,4,40.904255,-74.192413,2020,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-1553193,NJ,Passaic,Paterson,Source2,3,40.908478,-74.173897,2020,7,Monday,Rain,False,False,True,False,False,False,False
+A-1553194,NJ,Passaic,Paterson,Source2,3,40.903973,-74.158745,2020,7,Monday,Rain,False,False,False,False,False,False,False
+A-1553250,NJ,Passaic,Paterson,Source2,3,40.90394600000001,-74.15847,2020,11,Monday,Rain,False,False,False,False,False,False,False
+A-1564294,NJ,Passaic,Paterson,Source2,3,40.903866,-74.15786700000002,2020,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-1564311,NJ,Passaic,Paterson,Source2,3,40.908478,-74.173897,2020,13,Friday,Rain,False,False,True,False,False,False,False
+A-1565882,NJ,Passaic,Paterson,Source2,3,40.9067,-74.165092,2020,15,Sunday,Rain,False,False,False,False,False,False,False
+A-1572884,NJ,Passaic,Paterson,Source2,3,40.908478,-74.173897,2020,8,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-1575086,NJ,Passaic,Paterson,Source2,3,40.9021,-74.134895,2020,14,Saturday,Rain,False,False,True,False,False,False,False
+A-1588069,NJ,Passaic,Paterson,Source2,3,40.908478,-74.173897,2020,16,Monday,Cloudy,False,False,True,False,False,False,False
+A-1592897,NJ,Passaic,Paterson,Source2,3,40.901649,-74.137108,2020,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1597526,NJ,Passaic,Paterson,Source2,3,40.908478,-74.173897,2020,17,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1602769,NJ,Passaic,Paterson,Source2,3,40.908478,-74.173897,2020,8,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-1605139,NJ,Passaic,Paterson,Source2,3,40.908478,-74.173897,2020,17,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-1617431,NJ,Passaic,Paterson,Source2,3,40.901649,-74.137108,2020,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1619557,NJ,Passaic,Paterson,Source2,3,40.901649,-74.137108,2020,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1624381,NJ,Passaic,Paterson,Source2,3,40.901649,-74.137108,2020,20,Sunday,Rain,False,False,False,False,False,False,False
+A-1625387,NJ,Passaic,Little Falls,Source2,3,40.904255,-74.192413,2020,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1632087,NJ,Passaic,Paterson,Source2,3,40.903767,-74.15825699999998,2020,12,Thursday,Rain,False,False,False,False,False,False,False
+A-1638765,NJ,Passaic,Paterson,Source2,3,40.908478,-74.173897,2020,16,Monday,Rain,False,False,True,False,False,False,False
+A-1662623,NJ,Passaic,Paterson,Source2,3,40.901649,-74.137108,2020,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1664068,NJ,Passaic,Paterson,Source2,3,40.903866,-74.15786700000002,2020,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1666234,NJ,Passaic,Paterson,Source2,3,40.903866,-74.15786700000002,2020,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1670545,NJ,Passaic,Totowa,Source2,3,40.89677800000001,-74.222099,2020,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1675109,NJ,Passaic,Wayne,Source2,3,40.896687,-74.252686,2020,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1695617,NJ,Passaic,Paterson,Source2,3,40.901962,-74.136154,2019,0,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1695697,NJ,Passaic,Totowa,Source2,3,40.89677800000001,-74.222099,2019,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1707996,NJ,Passaic,Wayne,Source2,3,40.896687,-74.252686,2019,8,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1730811,NJ,Passaic,Little Falls,Source2,3,40.904255,-74.192413,2019,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1747463,NJ,Passaic,Little Falls,Source2,3,40.904255,-74.192413,2019,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-1749906,NJ,Passaic,Paterson,Source2,3,40.907539,-74.16883100000003,2019,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1765431,NJ,Passaic,Paterson,Source2,3,40.903419,-74.157829,2019,16,Sunday,Rain,False,False,False,False,False,False,False
+A-1774456,NJ,Passaic,Paterson,Source2,3,40.903469,-74.17130300000002,2019,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1777077,NJ,Passaic,Wayne,Source2,3,40.896687,-74.252686,2019,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1777111,NJ,Passaic,Paterson,Source2,3,40.908478,-74.173897,2019,20,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1791600,NJ,Passaic,Paterson,Source2,3,40.901649,-74.137108,2019,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1795737,NJ,Passaic,Paterson,Source2,3,40.903866,-74.15786700000002,2019,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1803652,NJ,Passaic,Paterson,Source2,3,40.903866,-74.15786700000002,2019,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1806569,NJ,Passaic,Paterson,Source2,3,40.901649,-74.137108,2019,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1813421,NJ,Passaic,Paterson,Source2,3,40.901649,-74.137108,2019,9,Tuesday,Rain,False,False,False,False,False,False,False
+A-1825162,NJ,Passaic,Little Falls,Source2,3,40.875702,-74.200783,2019,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1834804,NJ,Passaic,Paterson,Source2,3,40.901649,-74.137108,2019,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1841138,NJ,Passaic,Paterson,Source2,3,40.903549,-74.15825699999998,2019,1,Sunday,Rain,False,False,False,False,False,False,False
+A-1842087,NJ,Passaic,Paterson,Source2,3,40.901649,-74.137108,2019,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1860749,NJ,Passaic,Paterson,Source2,3,40.904072,-74.158241,2019,10,Thursday,Rain,False,False,False,False,False,False,False
+A-1863244,NJ,Passaic,Totowa,Source2,3,40.896103,-74.206276,2019,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1866710,NJ,Passaic,Wayne,Source2,3,40.898609,-74.252701,2019,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1878347,NJ,Passaic,Little Falls,Source2,3,40.904255,-74.192413,2019,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1922215,NJ,Passaic,Paterson,Source2,3,40.904072,-74.158241,2019,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1924619,NJ,Passaic,Paterson,Source2,3,40.901634,-74.13700899999998,2019,16,Wednesday,Rain,False,False,False,False,False,False,False
+A-1926879,NJ,Passaic,Little Falls,Source2,3,40.896427,-74.201256,2019,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1944477,NJ,Passaic,Paterson,Source2,3,40.901634,-74.13700899999998,2019,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1946713,NJ,Passaic,Little Falls,Source2,3,40.904255,-74.192413,2019,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1950934,NJ,Passaic,Paterson,Source2,3,40.908497,-74.17388199999998,2019,10,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-1952178,NJ,Passaic,Wanaque,Source2,3,41.01709,-74.295578,2019,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1955108,NJ,Passaic,Wayne,Source2,3,40.897007,-74.252022,2019,8,Monday,Rain,False,False,False,False,False,False,False
+A-1969511,NJ,Passaic,Paterson,Source2,3,40.901634,-74.13700899999998,2019,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1984282,NJ,Passaic,Paterson,Source2,3,40.901245,-74.140472,2019,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1992269,NJ,Passaic,Paterson,Source2,3,40.901989,-74.135933,2019,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1998434,NJ,Passaic,Bloomingdale,Source2,3,40.999489,-74.306625,2019,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2008797,NJ,Passaic,Paterson,Source2,3,40.902035,-74.135536,2019,23,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-2046554,NJ,Passaic,Paterson,Source2,3,40.90678,-74.164642,2019,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2046610,NJ,Passaic,Paterson,Source2,3,40.901634,-74.13700899999998,2019,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2057305,NJ,Passaic,Totowa,Source2,3,40.89954,-74.234703,2019,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2064491,NJ,Passaic,Clifton,Source2,3,40.87822,-74.166359,2019,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2070384,NJ,Passaic,Paterson,Source2,3,40.904072,-74.158241,2019,7,Tuesday,Storm,False,False,False,False,False,False,False
+A-2074916,NJ,Passaic,Paterson,Source2,3,40.901634,-74.13700899999998,2019,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2076607,NJ,Passaic,Paterson,Source2,3,40.908497,-74.17388199999998,2019,10,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-2097249,NJ,Passaic,Paterson,Source2,3,40.908932,-74.177696,2019,22,Sunday,Cloudy,False,False,True,False,False,False,False
+A-2098014,NJ,Passaic,Paterson,Source2,3,40.901634,-74.13700899999998,2019,10,Monday,Rain,False,False,False,False,False,False,False
+A-2104936,NJ,Passaic,Little Falls,Source2,3,40.889111,-74.218681,2019,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2107539,NJ,Passaic,Clifton,Source2,3,40.852882,-74.175568,2019,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2114023,NJ,Passaic,Wayne,Source2,3,40.896679,-74.252739,2019,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2135290,NJ,Passaic,Clifton,Source2,3,40.852882,-74.175568,2019,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2197756,NJ,Passaic,Totowa,Source2,4,40.896904,-74.222672,2019,6,Sunday,Cloudy,False,False,True,False,False,False,False
+A-2197760,NJ,Passaic,Woodland Park,Source2,3,40.896011,-74.20072900000002,2019,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2198641,NJ,Passaic,Paterson,Source2,3,40.90863,-74.17482,2019,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-2205888,NJ,Passaic,Paterson,Source2,3,40.908688,-74.173958,2019,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2220390,NJ,Passaic,Bloomingdale,Source2,3,41.007931,-74.30145999999998,2019,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2230520,NJ,Passaic,Paterson,Source2,3,40.900444,-74.14609499999997,2019,16,Thursday,Rain,False,False,False,False,False,False,False
+A-2232896,NJ,Passaic,Little Falls,Source2,3,40.904461,-74.192459,2019,6,Friday,Rain,False,False,False,False,False,False,False
+A-2241136,NJ,Passaic,Wayne,Source2,3,40.896149,-74.252411,2019,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2272231,NJ,Passaic,Paterson,Source2,3,40.901745,-74.136566,2019,7,Friday,Rain,False,False,False,False,False,False,False
+A-2284478,NJ,Passaic,Little Falls,Source2,3,40.904461,-74.192459,2019,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2284482,NJ,Passaic,Paterson,Source2,3,40.908688,-74.173958,2019,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2289586,NJ,Passaic,Paterson,Source2,3,40.903919,-74.158165,2019,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2295699,NJ,Passaic,Little Falls,Source2,3,40.898312,-74.198494,2019,13,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2306575,NJ,Passaic,Paterson,Source2,3,40.901745,-74.136566,2019,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2316923,NJ,Passaic,Wayne,Source2,3,40.896149,-74.252411,2019,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2319221,NJ,Passaic,Paterson,Source2,3,40.901745,-74.136566,2019,19,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2328270,NJ,Passaic,Little Falls,Source2,3,40.904461,-74.192459,2019,7,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2328344,NJ,Passaic,Wayne,Source2,3,40.901459,-74.256233,2019,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2339370,NJ,Passaic,Little Falls,Source2,3,40.904461,-74.192459,2019,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2344682,NJ,Passaic,Paterson,Source2,3,40.908398,-74.1745,2019,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-2347826,NJ,Passaic,Paterson,Source2,3,40.908886,-74.181511,2019,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2350655,NJ,Passaic,Little Falls,Source2,3,40.904461,-74.192459,2019,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2356270,NJ,Passaic,Wayne,Source2,3,40.896149,-74.252411,2019,12,Thursday,Rain,False,False,False,False,False,False,False
+A-2356289,NJ,Passaic,Paterson,Source2,3,40.901745,-74.136566,2019,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2373435,NJ,Passaic,Paterson,Source2,3,40.905575,-74.15979,2018,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2374391,NJ,Passaic,Paterson,Source2,3,40.903694,-74.15847,2018,18,Sunday,Rain,False,False,False,False,False,False,False
+A-2374400,NJ,Passaic,Paterson,Source2,3,40.902119,-74.134689,2018,19,Sunday,Rain,False,False,False,False,False,False,False
+A-2389495,NJ,Passaic,Wayne,Source2,3,40.896149,-74.252411,2018,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2394535,NJ,Passaic,Paterson,Source2,3,40.90678,-74.164642,2018,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2402661,NJ,Passaic,Little Falls,Source2,3,40.904461,-74.192459,2018,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2405300,NJ,Passaic,Paterson,Source2,3,40.908688,-74.173958,2018,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2407758,NJ,Passaic,Paterson,Source2,3,40.901745,-74.136566,2018,18,Thursday,Rain,False,False,False,False,False,False,False
+A-2409492,NJ,Passaic,Paterson,Source2,3,40.90139,-74.15168,2018,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-2412649,NJ,Passaic,Wayne,Source2,3,40.896149,-74.252411,2018,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2416345,NJ,Passaic,Totowa,Source2,3,40.896877,-74.222672,2018,16,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-2418454,NJ,Passaic,Paterson,Source2,3,40.901245,-74.140472,2018,15,Friday,Rain,False,False,False,False,False,False,False
+A-2420424,NJ,Passaic,Paterson,Source2,3,40.908421,-74.183304,2018,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2421703,NJ,Passaic,Paterson,Source2,3,40.908688,-74.173958,2018,14,Monday,Rain,False,False,False,False,False,False,False
+A-2423747,NJ,Passaic,Wayne,Source2,3,40.896755,-74.252937,2018,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2432099,NJ,Passaic,Paterson,Source2,3,40.903694,-74.15847,2018,17,Monday,Rain,False,False,False,False,False,False,False
+A-2435351,NJ,Passaic,Paterson,Source2,3,40.903694,-74.15847,2018,11,Tuesday,Rain,False,False,False,False,False,False,False
+A-2435462,NJ,Passaic,Paterson,Source2,3,40.905777,-74.16109499999997,2018,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2458112,NJ,Passaic,Totowa,Source2,3,40.897633,-74.227028,2018,14,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2461209,NJ,Passaic,Paterson,Source2,3,40.909771,-74.176521,2018,6,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2464702,NJ,Passaic,Totowa,Source2,3,40.893291,-74.225685,2018,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2465667,NJ,Passaic,Wayne,Source2,3,40.896755,-74.252937,2018,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-2468335,NJ,Passaic,Haskell,Source2,3,41.017124,-74.296852,2018,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2484295,NJ,Passaic,Paterson,Source2,3,40.902119,-74.134689,2018,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2513303,NJ,Passaic,Paterson,Source2,3,40.907043,-74.170815,2018,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2529217,NJ,Passaic,Paterson,Source2,3,40.893738,-74.13164499999998,2018,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2542259,NJ,Passaic,Paterson,Source2,3,40.906773,-74.18639399999998,2018,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2542260,NJ,Passaic,Paterson,Source2,3,40.908363,-74.174255,2018,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2548090,NJ,Passaic,Clifton,Source2,3,40.824787,-74.12808199999998,2018,12,Saturday,Rain,False,False,False,False,False,False,False
+A-2548091,NJ,Passaic,Clifton,Source2,3,40.824787,-74.12808199999998,2018,12,Saturday,Rain,False,False,False,False,False,False,False
+A-2548111,NJ,Passaic,Paterson,Source2,3,40.900616,-74.146072,2018,18,Saturday,Rain,False,False,False,False,False,False,False
+A-2548927,NJ,Passaic,Wayne,Source2,3,40.898148,-74.247322,2018,8,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2563628,NJ,Passaic,Paterson,Source2,3,40.902119,-74.134689,2018,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2563703,NJ,Passaic,Totowa,Source3,3,40.896648,-74.222923,2018,18,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-2573266,NJ,Passaic,Paterson,Source2,3,40.902119,-74.134689,2018,17,Monday,Rain,False,False,False,False,False,False,False
+A-2573290,NJ,Passaic,Paterson,Source2,3,40.908226,-74.17347,2018,23,Monday,Cloudy,False,False,False,False,False,False,False
+A-2575764,NJ,Passaic,Paterson,Source2,3,40.903694,-74.15847,2018,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2581277,NJ,Passaic,Wayne,Source2,3,40.896755,-74.252937,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2583706,NJ,Passaic,Paterson,Source2,3,40.902119,-74.134689,2018,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2590365,NJ,Passaic,Paterson,Source2,3,40.903694,-74.15847,2018,7,Tuesday,Rain,False,False,False,False,False,False,False
+A-2598036,NJ,Passaic,Paterson,Source2,3,40.908226,-74.17347,2018,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-2604857,NJ,Passaic,Paterson,Source2,3,40.901226,-74.140465,2018,10,Tuesday,Rain,False,False,False,False,False,False,False
+A-2610378,NJ,Passaic,Paterson,Source3,3,40.905777,-74.16109499999997,2018,19,Thursday,Rain,False,False,False,False,False,False,False
+A-2618798,NJ,Passaic,Paterson,Source2,3,40.902119,-74.134689,2018,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2641909,NJ,Passaic,Little Falls,Source2,3,40.904221,-74.193497,2018,11,Monday,Rain,False,False,False,False,False,False,False
+A-2644358,NJ,Passaic,Paterson,Source2,3,40.902119,-74.134689,2018,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2654164,NJ,Passaic,Paterson,Source2,3,40.901226,-74.140465,2018,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2677352,NJ,Passaic,Haskell,Source2,3,41.017124,-74.296852,2018,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2681573,NJ,Passaic,Totowa,Source2,3,40.896648,-74.222923,2018,8,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-2689295,NJ,Passaic,Paterson,Source2,3,40.908226,-74.17347,2018,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-2689313,NJ,Passaic,Paterson,Source2,3,40.900978,-74.14879599999998,2018,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-2695263,NJ,Passaic,Paterson,Source2,3,40.908226,-74.17347,2018,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2704149,NJ,Passaic,Little Falls,Source2,3,40.904221,-74.193497,2018,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2716463,NJ,Passaic,Paterson,Source2,3,40.905888,-74.160988,2018,21,Saturday,Rain,False,False,False,False,False,False,False
+A-2717900,NJ,Passaic,Paterson,Source2,3,40.903694,-74.15847,2018,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-2720243,NJ,Passaic,Wayne,Source2,3,40.897606,-74.248772,2018,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2722656,NJ,Passaic,Little Falls,Source2,3,40.904221,-74.193497,2018,6,Wednesday,Rain,False,False,False,False,False,False,False
+A-2722721,NJ,Passaic,Paterson,Source2,3,40.902119,-74.134689,2018,9,Wednesday,Rain,False,False,False,False,False,False,False
+A-2733334,NJ,Passaic,Clifton,Source2,3,40.879082,-74.12262,2018,15,Thursday,Rain,False,False,False,False,False,False,False
+A-2733340,NJ,Passaic,Clifton,Source2,3,40.822788,-74.125435,2018,16,Thursday,Rain,False,False,False,False,False,False,False
+A-2735607,NJ,Passaic,Paterson,Source2,3,40.908226,-74.17347,2018,6,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2735683,NJ,Passaic,Paterson,Source2,3,40.903694,-74.15847,2018,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-2751718,NJ,Passaic,Little Falls,Source2,3,40.905312,-74.189705,2018,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2762947,NJ,Passaic,Totowa,Source2,3,40.896904,-74.21977199999998,2018,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2806576,NJ,Passaic,Wayne,Source2,3,40.896755,-74.252937,2018,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2811666,NJ,Passaic,Paterson,Source2,3,40.908554,-74.174255,2018,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2811717,NJ,Passaic,Paterson,Source2,3,40.908226,-74.17347,2018,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2814192,NJ,Passaic,Haskell,Source2,3,41.017124,-74.296852,2018,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2816941,NJ,Passaic,Paterson,Source2,3,40.902119,-74.134689,2018,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2816999,NJ,Passaic,Paterson,Source2,3,40.893738,-74.13164499999998,2018,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2829334,NJ,Passaic,Paterson,Source2,3,40.902119,-74.134689,2018,7,Thursday,Rain,False,False,False,False,False,False,False
+A-2829464,NJ,Passaic,Little Falls,Source2,3,40.904221,-74.193497,2018,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2829502,NJ,Passaic,Totowa,Source2,3,40.899204,-74.231255,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2834523,NJ,Passaic,Paterson,Source2,3,40.900486,-74.13544499999998,2018,13,Saturday,Rain,False,False,False,False,False,False,False
+A-2841322,NJ,Passaic,Paterson,Source2,3,40.902119,-74.134689,2018,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2852235,NJ,Passaic,Paterson,Source2,3,40.903694,-74.15847,2018,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2854887,NJ,Passaic,Clifton,Source2,3,40.889763,-74.131271,2018,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2858679,NJ,Passaic,Haskell,Source2,3,41.017124,-74.296852,2018,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-2872588,NJ,Passaic,Wayne,Source2,3,40.896755,-74.252937,2018,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2877720,NJ,Passaic,Paterson,Source2,3,40.90424,-74.158836,2018,7,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-2900214,NJ,Passaic,Haskell,Source2,3,41.017506,-74.29647800000002,2018,2,Saturday,Clear / Fair,True,False,True,False,False,False,False
+A-2910220,NJ,Passaic,Paterson,Source3,3,40.901222,-74.135475,2018,15,Thursday,Cloudy,False,False,True,False,False,False,False
+A-2922316,NJ,Passaic,Totowa,Source2,3,40.896648,-74.222923,2018,9,Friday,Rain,False,False,True,False,False,False,False
+A-2931115,NJ,Passaic,Totowa,Source2,3,40.899204,-74.231255,2018,9,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2934096,NJ,Passaic,Wayne,Source2,3,40.896755,-74.252937,2018,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-2941009,NJ,Passaic,Paterson,Source3,3,40.907833,-74.17018900000002,2018,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2946344,NJ,Passaic,Little Falls,Source2,3,40.903805,-74.193794,2018,7,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-2946376,NJ,Passaic,Totowa,Source2,3,40.896648,-74.222923,2018,8,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-2972677,NJ,Passaic,Paterson,Source2,3,40.908173,-74.172127,2018,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2977955,NJ,Passaic,Wayne,Source2,3,40.898148,-74.247322,2018,5,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2983114,NJ,Passaic,Totowa,Source2,3,40.899513,-74.234177,2018,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2992422,NJ,Passaic,Paterson,Source2,3,40.901134000000006,-74.140999,2018,7,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-2995237,NJ,Passaic,Paterson,Source2,3,40.903694,-74.15847,2018,10,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2995295,NJ,Passaic,Little Falls,Source2,3,40.904221,-74.193497,2018,13,Wednesday,Rain,False,False,False,False,False,False,False
+A-2995323,NJ,Passaic,Haskell,Source2,3,41.026123,-74.287521,2018,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2998036,NJ,Passaic,Paterson,Source2,3,40.902107,-74.134857,2018,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2998061,NJ,Passaic,Paterson,Source2,3,40.908131,-74.172905,2018,13,Thursday,Cloudy,False,False,True,False,False,False,False
+A-3000902,NJ,Passaic,Paterson,Source2,3,40.908581,-74.17558299999997,2018,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-3008044,NJ,Passaic,Paterson,Source2,3,40.900772,-74.147423,2018,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3008124,NJ,Passaic,Wayne,Source2,3,40.895782,-74.25636300000002,2018,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3019227,NJ,Passaic,Paterson,Source2,3,40.903694,-74.15847,2018,20,Monday,Rain,False,False,False,False,False,False,False
+A-3026734,NJ,Passaic,Paterson,Source2,3,40.903694,-74.15847,2018,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3029421,NJ,Passaic,Wayne,Source2,3,40.895607,-74.25188399999998,2018,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-3032880,NJ,Passaic,Clifton,Source2,3,40.885792,-74.13198100000002,2018,16,Sunday,Rain,False,False,False,False,False,False,False
+A-3033702,NJ,Passaic,Paterson,Source2,3,40.901894,-74.135635,2018,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3051209,NJ,Passaic,Little Falls,Source2,3,40.904354,-74.192635,2018,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-3054089,NJ,Passaic,Wayne,Source2,3,40.896755,-74.252937,2018,8,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3054161,NJ,Passaic,Paterson,Source2,3,40.900761,-74.14733100000002,2018,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3077108,NJ,Passaic,Wayne,Source2,3,40.895607,-74.25188399999998,2018,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3080104,NJ,Passaic,Little Falls,Source2,3,40.904221,-74.193497,2018,6,Tuesday,Rain,False,False,False,False,False,False,False
+A-3082784,NJ,Passaic,Little Falls,Source2,3,40.904221,-74.193497,2018,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3085542,NJ,Passaic,Paterson,Source2,3,40.903694,-74.15847,2018,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3091872,NJ,Passaic,Little Falls,Source2,3,40.902237,-74.19603000000002,2018,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-3097010,NJ,Passaic,Totowa,Source2,3,40.896648,-74.222923,2017,16,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-3103840,NJ,Passaic,Paterson,Source2,3,40.900425,-74.146088,2017,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-3106366,NJ,Passaic,Paterson,Source2,3,40.903694,-74.15847,2017,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3122013,NJ,Passaic,Paterson,Source2,3,40.908226,-74.17347,2017,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3122042,NJ,Passaic,Paterson,Source2,3,40.901241,-74.140381,2017,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3125038,NJ,Passaic,Paterson,Source2,3,40.908787,-74.175606,2017,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3134835,NJ,Passaic,Paterson,Source2,3,40.903694,-74.15847,2017,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-3140508,NJ,Passaic,Paterson,Source2,3,40.902119,-74.134689,2017,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3148411,NJ,Passaic,Paterson,Source2,3,40.900616,-74.146072,2017,11,Saturday,Rain,False,False,False,False,False,False,False
+A-3149536,NJ,Passaic,Little Falls,Source2,3,40.902805,-74.195526,2017,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-3150875,NJ,Passaic,Paterson,Source2,3,40.908226,-74.17347,2017,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3150945,NJ,Passaic,Paterson,Source2,3,40.908573,-74.174377,2017,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3152940,NJ,Passaic,Totowa,Source2,3,40.896648,-74.222923,2017,13,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-3157921,NJ,Passaic,Wayne,Source2,3,40.896755,-74.252937,2017,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3162758,NJ,Passaic,Totowa,Source2,3,40.899204,-74.231255,2017,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3171046,NJ,Passaic,Little Falls,Source2,3,40.904221,-74.193497,2017,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3171147,NJ,Passaic,Wayne,Source2,3,40.896755,-74.252937,2017,19,Tuesday,Rain,False,False,False,False,False,False,False
+A-3188614,NJ,Passaic,Paterson,Source2,3,40.902119,-74.134689,2017,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3191017,NJ,Passaic,Paterson,Source2,3,40.908226,-74.17347,2017,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3191049,NJ,Passaic,Wayne,Source2,3,40.896755,-74.252937,2017,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3193644,NJ,Passaic,Paterson,Source2,3,40.902096,-74.135025,2017,10,Sunday,Cloudy,False,False,True,False,False,False,False
+A-3204039,NJ,Passaic,Paterson,Source2,3,40.908226,-74.17347,2017,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3206252,NJ,Passaic,Paterson,Source2,3,40.900616,-74.146072,2017,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3215460,NJ,Passaic,Little Falls,Source2,3,40.904301,-74.193321,2017,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3219585,NJ,Passaic,Paterson,Source3,3,40.902119,-74.134689,2017,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3240640,NJ,Passaic,Paterson,Source2,3,40.90152,-74.137947,2017,6,Thursday,Rain,False,False,False,False,False,False,False
+A-3249203,NJ,Passaic,Little Falls,Source2,3,40.903923,-74.193588,2017,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3254519,NJ,Passaic,Little Falls,Source2,3,40.904221,-74.193497,2017,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3268818,NJ,Passaic,Totowa,Source2,3,40.899204,-74.231255,2017,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3273541,NJ,Passaic,Clifton,Source2,3,40.823517,-74.124794,2017,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3274740,NJ,Passaic,Wayne,Source2,3,40.896755,-74.252937,2017,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3285408,NJ,Passaic,Clifton,Source2,3,40.885036,-74.159607,2017,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3285530,NJ,Passaic,Paterson,Source2,3,40.908226,-74.17347,2017,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3288403,NJ,Passaic,Totowa,Source2,3,40.899734,-74.23491700000002,2017,7,Wednesday,Rain,False,False,False,False,False,False,False
+A-3291397,NJ,Passaic,Little Falls,Source2,3,40.904221,-74.193497,2017,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3291406,NJ,Passaic,Paterson,Source2,3,40.903694,-74.15847,2017,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3291408,NJ,Passaic,Paterson,Source2,3,40.908203,-74.172302,2017,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3298495,NJ,Passaic,Clifton,Source2,3,40.853348,-74.176392,2017,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3301171,NJ,Passaic,Wayne,Source2,3,40.896755,-74.252937,2017,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3322719,NJ,Passaic,Paterson,Source2,3,40.902119,-74.134689,2017,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3325711,NJ,Passaic,Totowa,Source2,3,40.899204,-74.231255,2017,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3332664,NJ,Passaic,Paterson,Source3,3,40.902119,-74.134689,2017,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3338554,NJ,Passaic,Paterson,Source2,3,40.908226,-74.17347,2017,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3360320,NJ,Passaic,Paterson,Source2,3,40.902119,-74.134689,2017,16,Monday,Rain,False,False,False,False,False,False,False
+A-3385512,NJ,Passaic,Paterson,Source2,3,40.903694,-74.15847,2017,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-3389423,NJ,Passaic,Little Falls,Source2,3,40.904221,-74.193497,2017,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3392120,NJ,Passaic,Paterson,Source2,3,40.902119,-74.134689,2017,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3395177,NJ,Passaic,Paterson,Source2,3,40.908226,-74.17347,2017,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3397975,NJ,Passaic,Haskell,Source2,3,41.017124,-74.296852,2017,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3454065,NJ,Passaic,Paterson,Source1,4,40.898442,-74.135001,2016,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-3454230,NJ,Passaic,Clifton,Source1,3,40.83131,-74.1415,2016,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3454436,NJ,Passaic,Little Falls,Source1,3,40.9053,-74.19039000000002,2016,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3455125,NJ,Passaic,Clifton,Source1,4,40.82248,-74.12548000000002,2016,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3455597,NJ,Passaic,Paterson,Source1,3,40.90198,-74.13600000000002,2017,23,Monday,Rain,False,False,False,False,False,False,False
+A-3462770,NJ,Passaic,Paterson,Source1,3,40.90133,-74.15129,2017,10,Thursday,Rain,False,False,False,False,False,False,False
+A-3469130,NJ,Passaic,Clifton,Source1,3,40.87168,-74.19094,2016,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3469285,NJ,Passaic,Paterson,Source1,4,40.911096,-74.133989,2016,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3471318,NJ,Passaic,Wayne,Source1,3,40.91217,-74.26478,2016,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3472208,NJ,Passaic,Clifton,Source1,4,40.870141,-74.187543,2016,23,Saturday,Rain,False,False,False,False,False,False,False
+A-3474116,NJ,Passaic,Clifton,Source1,4,40.854553,-74.177213,2016,4,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3474117,NJ,Passaic,Clifton,Source1,4,40.862521,-74.18093,2016,4,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3476020,NJ,Passaic,Clifton,Source1,3,40.849387,-74.172476,2016,9,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-3479536,NJ,Passaic,Clifton,Source1,3,40.893679,-74.131964,2016,17,Thursday,Rain,False,False,False,False,False,False,False
+A-3481697,NJ,Passaic,Paterson,Source1,3,40.90754,-74.16883,2016,23,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3482115,NJ,Passaic,West Milford,Source1,4,41.014286,-74.38256899999998,2016,1,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3482122,NJ,Passaic,Clifton,Source1,4,40.85442000000001,-74.17577,2016,3,Sunday,Rain,False,False,False,False,False,False,False
+A-3484559,NJ,Passaic,Totowa,Source1,3,40.89694,-74.22471999999998,2016,2,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3488915,NJ,Passaic,Clifton,Source1,3,40.82807,-74.12248000000002,2016,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3489037,NJ,Passaic,Paterson,Source1,3,40.90858,-74.17585,2016,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-3490994,NJ,Passaic,West Milford,Source1,3,41.01145,-74.3702,2016,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3491621,NJ,Passaic,Clifton,Source1,4,40.822893,-74.125355,2016,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3494506,NJ,Passaic,Paterson,Source1,3,40.906533,-74.163315,2016,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3501670,NJ,Passaic,Wayne,Source1,3,40.89808,-74.24754,2016,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3504864,NJ,Passaic,Wayne,Source1,3,40.89808,-74.24754,2016,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3505931,NJ,Passaic,Little Falls,Source1,4,40.9053,-74.19039000000002,2016,3,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3507731,NJ,Passaic,Clifton,Source1,3,40.83973,-74.15934,2016,19,Friday,Cloudy,False,False,True,False,False,False,False
+A-3517088,NJ,Passaic,Paterson,Source1,3,40.90211,-74.13353000000002,2016,8,Monday,Rain,False,False,False,False,False,False,False
+A-3517255,NJ,Passaic,Wayne,Source1,3,40.91677,-74.26576999999997,2016,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3517458,NJ,Passaic,Paterson,Source1,3,40.90188,-74.13575,2016,14,Thursday,Rain,False,False,False,False,False,False,False
+A-3517928,NJ,Passaic,Clifton,Source1,4,40.876849,-74.119333,2016,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3517943,NJ,Passaic,Paterson,Source1,3,40.89604,-74.13343,2016,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3517961,NJ,Passaic,Little Falls,Source1,3,40.90482,-74.19189,2016,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3517981,NJ,Passaic,Clifton,Source1,3,40.87713,-74.11976999999997,2016,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3518077,NJ,Passaic,Totowa,Source1,3,40.89688,-74.22443,2016,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3518430,NJ,Passaic,Clifton,Source1,3,40.82807,-74.12248000000002,2016,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-3518604,NJ,Passaic,Clifton,Source1,3,40.89244,-74.1311,2016,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-3519719,NJ,Passaic,Totowa,Source1,4,40.89681,-74.22408,2016,0,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3519822,NJ,Passaic,Little Falls,Source1,4,40.88553,-74.24524,2016,7,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-3520061,NJ,Passaic,Passaic,Source1,3,40.84387,-74.1231,2016,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3521200,NJ,Passaic,Clifton,Source1,3,40.870976,-74.18957900000002,2016,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-3558508,NJ,Passaic,Paterson,Source1,4,40.905729,-74.134914,2017,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3563013,NJ,Passaic,Clifton,Source1,3,40.855755,-74.174009,2017,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3571260,NJ,Passaic,Clifton,Source1,3,40.88503,-74.15959000000002,2017,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3573932,NJ,Passaic,Little Falls,Source1,3,40.90241,-74.19556,2017,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3575980,NJ,Passaic,Paterson,Source1,3,40.90822,-74.17254,2017,9,Thursday,Cloudy,False,False,True,False,False,False,False
+A-3575981,NJ,Passaic,Paterson,Source1,3,40.90636,-74.17266,2017,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3575982,NJ,Passaic,Paterson,Source1,3,40.90907,-74.17385999999998,2017,9,Thursday,Cloudy,False,False,True,False,False,False,False
+A-3582274,NJ,Passaic,Paterson,Source1,4,40.90804,-74.172573,2017,16,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-3583371,NJ,Passaic,Little Falls,Source1,3,40.90241,-74.19556,2017,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3585210,NJ,Passaic,Clifton,Source1,3,40.88596,-74.13202,2017,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3597712,NJ,Passaic,Clifton,Source1,3,40.88596,-74.13202,2017,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3603032,NJ,Passaic,Clifton,Source1,3,40.885783,-74.132099,2017,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3613166,NJ,Passaic,Paterson,Source1,3,40.90096,-74.14112,2017,17,Monday,Cloudy,False,False,True,False,False,False,False
+A-3613635,NJ,Passaic,Clifton,Source1,4,40.87323,-74.17557,2017,16,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-3613637,NJ,Passaic,Clifton,Source1,4,40.86984,-74.186,2017,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3613640,NJ,Passaic,Clifton,Source1,4,40.8646,-74.18156,2017,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3615325,NJ,Passaic,Clifton,Source1,3,40.87663,-74.16645,2017,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3617161,NJ,Passaic,Totowa,Source1,3,40.89697,-74.21879,2017,17,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-3618342,NJ,Passaic,Passaic,Source1,4,40.87182,-74.11662,2017,5,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3632496,NJ,Passaic,Paterson,Source1,3,40.90858,-74.17585,2017,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-3633271,NJ,Passaic,Clifton,Source1,3,40.87677,-74.11921,2017,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3633732,NJ,Passaic,Clifton,Source1,4,40.82248,-74.12548000000002,2017,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-3633810,NJ,Passaic,Clifton,Source1,3,40.84887,-74.1781,2017,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-3634841,NJ,Passaic,Passaic,Source1,4,40.87182,-74.11662,2017,22,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3641908,NJ,Passaic,West Milford,Source1,4,41.016004,-74.390752,2017,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3642552,NJ,Passaic,Clifton,Source1,4,40.820999,-74.129075,2017,10,Tuesday,Rain,False,False,False,False,False,False,False
+A-3643018,NJ,Passaic,Wayne,Source1,3,40.89808,-74.24754,2017,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3646891,NJ,Passaic,Newfoundland,Source1,4,41.04826,-74.44051,2017,7,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3646892,NJ,Passaic,Newfoundland,Source1,4,41.053091,-74.45128100000002,2017,7,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3711787,NJ,Passaic,Clifton,Source1,4,40.82235217074955,-74.12564635241445,2022,7,Wednesday,Rain,False,False,False,False,False,False,False
+A-3757816,NJ,Passaic,Little Falls,Source1,4,40.89657,-74.20089399999998,2022,12,Monday,Storm,False,False,False,False,False,False,False
+A-3778012,NJ,Passaic,Clifton,Source1,4,40.82797408,-74.12253499,2022,1,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3782793,NJ,Passaic,Clifton,Source1,4,40.834341,-74.148513,2022,11,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-3875858,NJ,Passaic,Paterson,Source1,4,40.901265,-74.15079,2022,6,Wednesday,Rain,False,False,False,False,False,False,False
+A-3918022,NJ,Passaic,Paterson,Source1,4,40.919932,-74.130483,2022,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4025826,NJ,Passaic,Clifton,Source1,4,40.876773,-74.119203,2022,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4056492,NJ,Passaic,Clifton,Source1,4,40.88168263,-74.12639737,2023,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4094326,NJ,Passaic,Paterson,Source1,4,40.91841816882649,-74.13094639742789,2022,0,Tuesday,Rain,True,False,False,False,False,False,False
+A-4145994,NJ,Passaic,Clifton,Source1,4,40.82527041,-74.12847877,2022,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4191269,NJ,Passaic,Paterson,Source1,4,40.906705,-74.16506600000002,2022,5,Wednesday,Rain,False,False,False,False,False,False,False
+A-4291924,NJ,Passaic,Clifton,Source1,4,40.82642913,-74.13133264,2023,18,Thursday,Cloudy,False,False,True,False,False,False,False
+A-4358482,NJ,Passaic,Hawthorne,Source1,4,40.97058,-74.157963,2022,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4364362,NJ,Passaic,Clifton,Source1,4,40.870043,-74.18672,2022,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4368929,NJ,Passaic,Clifton,Source1,4,40.82235217,-74.12564635,2022,1,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4468119,NJ,Passaic,Clifton,Source1,4,40.870718,-74.188805,2022,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4585434,NJ,Passaic,Paterson,Source1,4,40.922075,-74.13440200000002,2022,0,Tuesday,Rain,False,False,False,False,False,False,False
+A-4826202,NJ,Passaic,West Milford,Source1,4,41.015759,-74.390328,2022,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4854811,NJ,Passaic,Haskell,Source1,4,41.020154,-74.29268,2022,15,Monday,Rain,False,False,False,False,False,False,False
+A-4866151,NJ,Passaic,Clifton,Source1,4,40.8698594568211,-74.18493390047941,2022,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4953646,NJ,Passaic,Passaic,Source1,4,40.84949,-74.121258,2022,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4983272,NJ,Passaic,Clifton,Source1,4,40.82419753,-74.12431598,2023,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5019803,NJ,Passaic,Passaic,Source1,4,40.848487,-74.121437,2022,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5020797,NJ,Passaic,Paterson,Source1,4,40.919953,-74.130376,2022,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5021472,NJ,Passaic,Paterson,Source1,4,40.920426,-74.13064,2022,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5172781,NJ,Passaic,Paterson,Source1,4,40.919281,-74.130455,2022,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5237511,NJ,Passaic,Clifton,Source1,4,40.85451722,-74.17746663,2022,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5247937,NJ,Passaic,Clifton,Source1,4,40.892221,-74.131061,2022,19,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-5296578,NJ,Passaic,Paterson,Source1,4,40.906686,-74.16393599999998,2022,5,Wednesday,Rain,False,False,True,False,False,False,False
+A-5328290,NJ,Passaic,Clifton,Source1,4,40.836088,-74.124638,2022,8,Wednesday,Rain,False,False,False,False,False,False,False
+A-5336654,NJ,Passaic,Paterson,Source1,4,40.90200304965543,-74.13581728899891,2022,0,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5374130,NJ,Passaic,Totowa,Source1,4,40.89698195437957,-74.21860098803414,2022,18,Saturday,Rain,False,False,True,False,False,False,False
+A-5546030,NJ,Passaic,Paterson,Source1,4,40.89829087237882,-74.13474440539294,2021,17,Thursday,Cloudy,False,False,True,False,False,False,False
+A-5614961,NJ,Passaic,Paterson,Source1,4,40.907864,-74.134344,2021,2,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5718956,NJ,Passaic,Clifton,Source1,4,40.83603400000001,-74.124785,2021,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-5819343,NJ,Passaic,Clifton,Source1,4,40.82683682422243,-74.12341475451409,2021,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5820056,NJ,Passaic,Paterson,Source1,4,40.927904,-74.143105,2021,0,Monday,Cloudy,False,False,False,False,False,False,False
+A-5839011,NJ,Passaic,Wayne,Source1,4,40.9427,-74.271746,2021,22,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-5850607,NJ,Passaic,Clifton,Source1,4,40.87676882724344,-74.11918759310667,2021,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5867311,NJ,Passaic,Paterson,Source1,4,40.90648770312831,-74.1638624664585,2021,18,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-5890853,NJ,Passaic,Bloomingdale,Source1,4,41.006628000000006,-74.301436,2021,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5967239,NJ,Passaic,Paterson,Source1,4,40.90243220309781,-74.1349160667699,2021,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6043035,NJ,Passaic,Clifton,Source1,4,40.8816826341587,-74.12639737093865,2021,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6115633,NJ,Passaic,Little Falls,Source1,4,40.878705,-74.204888,2021,4,Saturday,Rain,False,False,False,False,False,False,False
+A-6117628,NJ,Passaic,Wayne,Source1,4,40.89560866336395,-74.25713896715993,2021,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6133134,NJ,Passaic,Clifton,Source1,4,40.88987946490817,-74.13124680483755,2021,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6174540,NJ,Passaic,Little Falls,Source1,4,40.905265,-74.18984499999998,2021,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6218961,NJ,Passaic,Clifton,Source1,4,40.872693,-74.176664,2021,1,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6264314,NJ,Passaic,Hawthorne,Source1,4,40.960861444277946,-74.14566636050155,2021,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6291446,NJ,Passaic,Pompton Lakes,Source1,4,41.026982,-74.284159,2021,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-6632803,NJ,Passaic,Clifton,Source1,4,40.853937,-74.174312,2020,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6664353,NJ,Passaic,Paterson,Source1,4,40.89829,-74.134744,2020,17,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-6701098,NJ,Passaic,Haskell,Source1,4,41.01914,-74.293595,2020,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6763288,NJ,Passaic,Passaic,Source1,4,40.848211,-74.1215,2020,19,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-6768296,NJ,Passaic,Paterson,Source1,4,40.902024,-74.135667,2020,3,Tuesday,Rain,False,False,False,False,False,False,False
+A-6772303,NJ,Passaic,Passaic,Source1,4,40.848211,-74.1215,2020,5,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-6782587,NJ,Passaic,Totowa,Source1,4,40.896745,-74.21905100000002,2020,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6910299,NJ,Passaic,Paterson,Source1,4,40.902024,-74.135667,2020,3,Tuesday,Rain,False,False,False,False,False,False,False
+A-6946263,NJ,Passaic,Clifton,Source1,4,40.853937,-74.174312,2020,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6979350,NJ,Passaic,Clifton,Source1,4,40.87672,-74.11938,2020,0,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6983360,NJ,Passaic,Clifton,Source1,3,40.88596,-74.13202,2020,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6983455,NJ,Passaic,Wayne,Source1,4,40.94399,-74.20427,2020,19,Wednesday,Cloudy,False,False,False,False,True,False,False
+A-6983456,NJ,Passaic,Wayne,Source1,4,40.94276,-74.20794000000002,2020,19,Wednesday,Cloudy,False,False,False,False,True,False,False
+A-6985973,NJ,Passaic,Little Falls,Source1,3,40.88409,-74.21275,2020,15,Thursday,Rain,False,False,True,False,False,False,False
+A-6986069,NJ,Passaic,Clifton,Source1,3,40.83965,-74.15963,2020,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6992211,NJ,Passaic,Clifton,Source1,3,40.88966,-74.13117,2020,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6997699,NJ,Passaic,Clifton,Source1,3,40.82248,-74.12548000000002,2020,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6997945,NJ,Passaic,Passaic,Source1,3,40.84213,-74.12394,2020,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7000266,NJ,Passaic,Little Falls,Source1,3,40.9053,-74.19039000000002,2020,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7005907,NJ,Passaic,Wayne,Source1,3,40.96313,-74.25294,2020,17,Friday,Cloudy,True,False,False,False,False,False,False
+A-7016421,NJ,Passaic,Paterson,Source1,4,40.90133,-74.15129,2020,18,Friday,Rain,False,False,False,False,False,False,False
+A-7018796,NJ,Passaic,Wayne,Source1,3,40.93316,-74.26898,2020,13,Saturday,Cloudy,True,False,False,False,False,False,False
+A-7018838,NJ,Passaic,Little Falls,Source1,3,40.87658,-74.20267,2020,14,Saturday,Cloudy,False,False,True,False,False,False,False
+A-7018928,NJ,Passaic,Clifton,Source1,4,40.82393,-74.12556,2020,22,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7020219,NJ,Passaic,Clifton,Source1,3,40.88966,-74.13117,2020,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7021552,NJ,Passaic,Paterson,Source1,4,40.9308,-74.14239,2020,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-7021712,NJ,Passaic,Paterson,Source1,4,40.90133,-74.15129,2020,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-7024090,NJ,Passaic,Clifton,Source1,3,40.88979000000001,-74.13118,2020,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7028087,NJ,Passaic,Hawthorne,Source1,4,40.96674,-74.15598,2020,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7030400,NJ,Passaic,Paterson,Source1,3,40.9308,-74.14239,2020,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-7032621,NJ,Passaic,Paterson,Source1,3,40.90932,-74.13415,2020,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7032644,NJ,Passaic,Clifton,Source1,4,40.87897,-74.12274000000002,2020,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7032666,NJ,Passaic,Clifton,Source1,4,40.83424,-74.14824,2020,16,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-7032670,NJ,Passaic,Clifton,Source1,4,40.83424,-74.14824,2020,16,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-7032672,NJ,Passaic,Clifton,Source1,4,40.83424,-74.14824,2020,17,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-7033860,NJ,Passaic,Clifton,Source1,3,40.88966,-74.13117,2020,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7033892,NJ,Passaic,Passaic,Source1,3,40.86894,-74.11837,2020,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7037795,NJ,Passaic,Totowa,Source1,4,40.89904,-74.23133,2020,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7040223,NJ,Passaic,Paterson,Source1,3,40.90754,-74.16883,2020,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7042373,NJ,Passaic,Totowa,Source1,3,40.89697,-74.21879,2020,12,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7047636,NJ,Passaic,Paterson,Source1,3,40.9308,-74.14239,2020,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7049104,NJ,Passaic,Paterson,Source1,3,40.90754,-74.16883,2020,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7049220,NJ,Passaic,Clifton,Source1,4,40.87168,-74.19094,2020,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-7051868,NJ,Passaic,Clifton,Source1,3,40.89242,-74.13125,2020,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7051946,NJ,Passaic,Clifton,Source1,3,40.87168,-74.19094,2020,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7057272,NJ,Passaic,Little Falls,Source1,3,40.88553,-74.24524,2020,16,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7059852,NJ,Passaic,Totowa,Source1,3,40.89675,-74.21876,2020,11,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7059905,NJ,Passaic,Paterson,Source1,3,40.90754,-74.16883,2020,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7062800,NJ,Passaic,Paterson,Source1,3,40.90582,-74.13485,2020,14,Saturday,Rain,False,False,False,False,False,False,False
+A-7064348,NJ,Passaic,Clifton,Source1,3,40.88966,-74.13117,2020,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7065663,NJ,Passaic,Totowa,Source1,3,40.89675,-74.21876,2020,9,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7067936,NJ,Passaic,Clifton,Source1,3,40.88596,-74.13202,2020,16,Friday,Rain,False,False,False,False,False,False,False
+A-7069439,NJ,Passaic,Clifton,Source1,3,40.82248,-74.12548000000002,2020,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7070810,NJ,Passaic,Passaic,Source1,3,40.86894,-74.11837,2020,23,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7079901,NJ,Passaic,Wayne,Source1,4,40.89709000000001,-74.24951999999998,2020,14,Thursday,Rain,False,False,False,False,False,False,False
+A-7079972,NJ,Passaic,Paterson,Source1,3,40.90198,-74.13600000000002,2020,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7079998,NJ,Passaic,Paterson,Source1,3,40.90149,-74.13903,2020,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7080065,NJ,Passaic,Clifton,Source1,3,40.89242,-74.13125,2020,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7085449,NJ,Passaic,Clifton,Source1,3,40.85025,-74.17373,2020,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7088580,NJ,Passaic,Paterson,Source1,3,40.90118,-74.15124,2020,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7091144,NJ,Passaic,Clifton,Source1,3,40.87168,-74.19094,2020,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7091204,NJ,Passaic,Little Falls,Source1,3,40.9053,-74.19039000000002,2020,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7093600,NJ,Passaic,Little Falls,Source1,3,40.87658,-74.20267,2020,9,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7093999,NJ,Passaic,Clifton,Source1,4,40.87784,-74.15942,2020,23,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7094002,NJ,Passaic,Clifton,Source1,4,40.87784,-74.15942,2020,23,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7094009,NJ,Passaic,Paterson,Source1,3,40.90754,-74.16883,2020,0,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7096173,NJ,Passaic,Clifton,Source1,4,40.87784,-74.15942,2020,0,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7096175,NJ,Passaic,Clifton,Source1,4,40.87784,-74.15942,2020,0,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7096178,NJ,Passaic,Clifton,Source1,4,40.87784,-74.15942,2020,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7096548,NJ,Passaic,Clifton,Source1,4,40.8563,-74.17874,2020,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7096607,NJ,Passaic,Clifton,Source1,4,40.8535,-74.17623,2020,18,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7096616,NJ,Passaic,Clifton,Source1,4,40.8535,-74.17623,2020,18,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7103505,NJ,Passaic,Paterson,Source1,3,40.90754,-74.16883,2020,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7104792,NJ,Passaic,Hawthorne,Source1,4,40.94093,-74.15607,2020,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-7104794,NJ,Passaic,Hawthorne,Source1,4,40.9407,-74.15738,2020,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-7121934,NJ,Passaic,Little Falls,Source1,3,40.90512,-74.19029,2020,7,Thursday,Rain,False,False,False,False,False,False,False
+A-7124734,NJ,Passaic,Totowa,Source1,3,40.89675,-74.21876,2020,5,Friday,Cloudy,False,False,True,False,False,False,False
+A-7124746,NJ,Passaic,Totowa,Source1,3,40.89675,-74.21876,2020,6,Friday,Rain,False,False,True,False,False,False,False
+A-7125253,NJ,Passaic,Little Falls,Source1,3,40.9053,-74.19039000000002,2020,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-7130914,NJ,Passaic,Clifton,Source1,3,40.87181,-74.19083,2020,16,Monday,Rain,False,False,False,False,False,False,False
+A-7136065,NJ,Passaic,Paterson,Source1,4,40.91821,-74.14166999999998,2020,23,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7140295,NJ,Passaic,Passaic,Source1,4,40.85008,-74.12147,2020,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7142004,NJ,Passaic,Little Falls,Source1,3,40.90512,-74.19029,2020,14,Saturday,Rain,False,False,False,False,False,False,False
+A-7142028,NJ,Passaic,Totowa,Source1,3,40.89675,-74.21876,2020,15,Saturday,Cloudy,False,False,True,False,False,False,False
+A-7143288,NJ,Passaic,Little Falls,Source1,3,40.90512,-74.19029,2020,12,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7143399,NJ,Passaic,Paterson,Source1,3,40.90133,-74.15129,2020,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7150566,NJ,Passaic,Wayne,Source1,4,40.89776,-74.25106,2020,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7154679,NJ,Passaic,Clifton,Source1,3,40.82261,-74.12566,2020,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7154695,NJ,Passaic,Totowa,Source1,3,40.89675,-74.21876,2020,12,Saturday,Cloudy,False,False,True,False,False,False,False
+A-7165585,NJ,Passaic,Paterson,Source1,4,40.90133,-74.15129,2020,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7173097,NJ,Passaic,Paterson,Source1,3,40.90754,-74.16883,2020,7,Monday,Rain,False,False,False,False,False,False,False
+A-7173647,NJ,Passaic,Passaic,Source1,3,40.85558,-74.12257,2020,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-7175746,NJ,Passaic,Newfoundland,Source1,4,41.0338,-74.42053,2020,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7179926,NJ,Passaic,Passaic,Source1,3,40.85558,-74.12257,2020,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7184015,NJ,Passaic,Paterson,Source1,3,40.90754,-74.16883,2020,11,Saturday,Rain,False,False,False,False,False,False,False
+A-7185097,NJ,Passaic,Clifton,Source1,3,40.83039,-74.12169,2020,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7186116,NJ,Passaic,Clifton,Source1,4,40.83395,-74.14721999999998,2020,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7186197,NJ,Passaic,Paterson,Source1,3,40.91537,-74.13327,2020,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7188377,NJ,Passaic,Clifton,Source1,3,40.85025,-74.17373,2020,15,Tuesday,Storm,False,False,False,False,False,False,False
+A-7188383,NJ,Passaic,Clifton,Source1,3,40.83059,-74.14036,2020,14,Tuesday,Storm,False,False,False,False,False,False,False
+A-7188435,NJ,Passaic,Paterson,Source1,3,40.90754,-74.16883,2020,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7192896,NJ,Passaic,Clifton,Source1,3,40.84916,-74.1789,2020,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7198685,NJ,Passaic,Paterson,Source1,3,40.90118,-74.15124,2020,15,Sunday,Rain,False,False,False,False,False,False,False
+A-7204132,NJ,Passaic,Clifton,Source1,3,40.87168,-74.19094,2020,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7219951,NJ,Passaic,Paterson,Source1,3,40.90858,-74.17585,2020,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-7223189,NJ,Passaic,Passaic,Source1,3,40.85869,-74.12019000000002,2020,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7231701,NJ,Passaic,Paterson,Source1,3,40.90858,-74.17585,2020,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7233085,NJ,Passaic,Paterson,Source1,4,40.90805,-74.17263,2020,14,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7240695,NJ,Passaic,Wayne,Source1,4,40.89537,-74.24815,2020,18,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7244452,NJ,Passaic,Wayne,Source1,4,40.92739,-74.26847,2020,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-7244456,NJ,Passaic,Wayne,Source1,4,40.93316,-74.26898,2020,22,Friday,Cloudy,True,False,False,False,False,False,False
+A-7264182,NJ,Passaic,Passaic,Source1,3,40.87182,-74.11662,2020,0,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7277473,NJ,Passaic,Clifton,Source1,3,40.89313,-74.13152,2020,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7289038,NJ,Passaic,Paterson,Source1,3,40.90404,-74.13528000000002,2019,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7308853,NJ,Passaic,Wayne,Source1,4,40.89314,-74.257,2019,0,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7322278,NJ,Passaic,Little Falls,Source1,3,40.8824,-74.20973000000002,2019,18,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7323903,NJ,Passaic,Paterson,Source1,3,40.90066,-74.14285,2019,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7326081,NJ,Passaic,Wayne,Source1,4,40.94561,-74.27280999999998,2019,12,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7326082,NJ,Passaic,Wayne,Source1,4,40.94832,-74.27534,2019,12,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7326084,NJ,Passaic,Wayne,Source1,4,40.94547,-74.272924,2019,12,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7346839,NJ,Passaic,Clifton,Source1,4,40.88383,-74.12987,2019,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7363039,NJ,Passaic,Little Falls,Source1,3,40.87658,-74.20267,2019,18,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7367926,NJ,Passaic,Paterson,Source1,3,40.90754,-74.16883,2019,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7380182,NJ,Passaic,Totowa,Source1,3,40.89376,-74.22883,2019,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7388342,NJ,Passaic,Clifton,Source1,3,40.869516,-74.186961,2019,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7391427,NJ,Passaic,Clifton,Source1,4,40.8554,-74.17832,2019,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7397314,NJ,Passaic,Little Falls,Source1,3,40.90241,-74.19556,2019,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7409517,NJ,Passaic,Totowa,Source1,3,40.89697,-74.21879,2019,16,Friday,Cloudy,False,False,True,False,False,False,False
+A-7410778,NJ,Passaic,Little Falls,Source1,4,40.9053,-74.19039000000002,2019,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7413391,NJ,Passaic,Paterson,Source1,3,40.90133,-74.15129,2019,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7422656,NJ,Passaic,Paterson,Source1,3,40.90754,-74.16883,2019,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7424503,NJ,Passaic,Clifton,Source1,4,40.88423,-74.130689,2019,20,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7425469,NJ,Passaic,Hawthorne,Source1,3,40.96155,-74.14621,2019,8,Sunday,Rain,False,False,False,False,False,False,False
+A-7425493,NJ,Passaic,Paterson,Source1,3,40.90133,-74.15129,2019,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7430793,NJ,Passaic,Paterson,Source1,4,40.938233,-74.14308,2019,17,Thursday,Rain,False,False,False,False,False,False,False
+A-7430794,NJ,Passaic,Paterson,Source1,3,40.90096,-74.14112,2019,18,Thursday,Rain,False,False,True,False,False,False,False
+A-7446198,NJ,Passaic,Paterson,Source1,3,40.896639,-74.133709,2019,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7452955,NJ,Passaic,Clifton,Source1,3,40.89244,-74.1311,2019,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-7456607,NJ,Passaic,Clifton,Source1,4,40.835,-74.14947,2019,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7460591,NJ,Passaic,Wayne,Source1,3,40.89312,-74.2566,2019,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7465963,NJ,Passaic,Clifton,Source1,4,40.820999,-74.129074,2019,21,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-7466356,NJ,Passaic,Clifton,Source1,3,40.88947,-74.13428,2019,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7468613,NJ,Passaic,Haskell,Source1,3,41.018826,-74.293943,2019,12,Thursday,Rain,False,False,False,False,False,False,False
+A-7472032,NJ,Passaic,Clifton,Source1,3,40.82708,-74.13271999999998,2019,16,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7474178,NJ,Passaic,Clifton,Source1,4,40.85116,-74.17591,2018,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-7490161,NJ,Passaic,Clifton,Source1,3,40.8563,-74.17874,2018,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7490163,NJ,Passaic,Clifton,Source1,3,40.86011,-74.1806,2018,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7490164,NJ,Passaic,Clifton,Source1,3,40.85445,-74.17746,2018,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7490963,NJ,Passaic,Clifton,Source1,3,40.880203,-74.124544,2018,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7493605,NJ,Passaic,Wayne,Source1,4,40.896941,-74.252275,2018,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7493630,NJ,Passaic,Clifton,Source1,3,40.83381,-74.14735,2018,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7493635,NJ,Passaic,Clifton,Source1,4,40.83131,-74.1415,2018,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7493646,NJ,Passaic,Clifton,Source1,4,40.82393,-74.12556,2018,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7498239,NJ,Passaic,Newfoundland,Source1,3,41.04826,-74.44051,2018,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7504325,NJ,Passaic,Paterson,Source1,4,40.89696,-74.13415,2018,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7504684,NJ,Passaic,Newfoundland,Source1,3,41.0345,-74.42239000000002,2018,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-7505480,NJ,Passaic,Newfoundland,Source1,4,41.04606,-74.4382,2018,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7508484,NJ,Passaic,Paterson,Source1,4,40.91537,-74.13327,2018,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7512526,NJ,Passaic,Clifton,Source1,3,40.83618,-74.12465999999998,2018,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7517311,NJ,Passaic,Clifton,Source1,4,40.879558,-74.123388,2018,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7520653,NJ,Passaic,Totowa,Source1,4,40.89697,-74.22377900000002,2018,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7522147,NJ,Passaic,Passaic,Source1,3,40.838633,-74.12541999999998,2018,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7525487,NJ,Passaic,Passaic,Source1,4,40.857458,-74.12103499999998,2018,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-7527351,NJ,Passaic,Clifton,Source1,3,40.87935,-74.15134,2018,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7529145,NJ,Passaic,Little Falls,Source1,4,40.879052,-74.205,2018,21,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7530250,NJ,Passaic,Clifton,Source1,3,40.84887,-74.1781,2018,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7539100,NJ,Passaic,Paterson,Source1,3,40.90642,-74.16356,2018,9,Friday,Cloudy,False,False,True,False,False,False,False
+A-7560682,NJ,Passaic,Little Falls,Source1,3,40.90241,-74.19556,2018,8,Sunday,Rain,False,False,False,False,False,False,False
+A-7560709,NJ,Passaic,Paterson,Source1,4,40.905212,-74.160173,2018,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7561969,NJ,Passaic,Passaic,Source1,3,40.85869,-74.12019000000002,2018,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7567851,NJ,Passaic,Clifton,Source1,3,40.83073,-74.14025,2018,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7569916,NJ,Passaic,Clifton,Source1,4,40.84887,-74.1781,2018,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-7569917,NJ,Passaic,Clifton,Source1,4,40.8535,-74.17623,2018,6,Monday,Cloudy,False,False,True,False,False,False,False
+A-7573865,NJ,Passaic,Clifton,Source1,3,40.849973,-74.173024,2018,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7574753,NJ,Passaic,Little Falls,Source1,3,40.90241,-74.19556,2018,5,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7576299,NJ,Passaic,Haskell,Source1,4,41.016982,-74.29744000000002,2018,5,Thursday,Rain,False,False,False,False,False,False,False
+A-7576305,NJ,Passaic,Haskell,Source1,4,41.016832,-74.297728,2018,6,Thursday,Rain,False,False,True,False,False,False,False
+A-7576308,NJ,Passaic,Haskell,Source1,4,41.016982,-74.29744000000002,2018,6,Thursday,Rain,False,False,False,False,False,False,False
+A-7576313,NJ,Passaic,Haskell,Source1,4,41.016832,-74.297728,2018,7,Thursday,Rain,False,False,True,False,False,False,False
+A-7576341,NJ,Passaic,Paterson,Source1,3,40.90858,-74.17585,2018,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7576366,NJ,Passaic,Clifton,Source1,3,40.82807,-74.12248000000002,2018,17,Thursday,Storm,False,False,False,False,False,False,False
+A-7578135,NJ,Passaic,Paterson,Source1,3,40.907651,-74.13445,2018,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7579538,NJ,Passaic,Passaic,Source1,4,40.87182,-74.11662,2018,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7579539,NJ,Passaic,Passaic,Source1,4,40.87182,-74.11662,2018,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7596623,NJ,Passaic,Little Falls,Source1,3,40.88409,-74.21275,2018,15,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7596637,NJ,Passaic,Little Falls,Source1,4,40.88275,-74.21058000000002,2018,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7605742,NJ,Passaic,Totowa,Source1,4,40.89694,-74.22471999999998,2018,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7605758,NJ,Passaic,Paterson,Source1,3,40.90858,-74.17585,2018,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7611034,NJ,Passaic,Passaic,Source1,4,40.850232,-74.121501,2018,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7611100,NJ,Passaic,Passaic,Source1,4,40.84387,-74.1231,2018,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7611102,NJ,Passaic,Little Falls,Source1,3,40.90244000000001,-74.19585,2018,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7611583,NJ,Passaic,Wayne,Source1,4,40.94637,-74.27365,2018,10,Thursday,Rain,False,False,False,False,False,False,False
+A-7611584,NJ,Passaic,Wayne,Source1,4,40.946603,-74.274222,2018,10,Thursday,Rain,False,False,False,False,False,False,False
+A-7611585,NJ,Passaic,Wayne,Source1,4,40.94832,-74.27534,2018,10,Thursday,Rain,False,False,False,False,False,False,False
+A-7619658,NJ,Passaic,Paterson,Source1,4,40.90858,-74.17585,2018,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7623416,NJ,Passaic,Clifton,Source1,3,40.88572,-74.13209,2018,12,Thursday,Rain,False,False,False,False,False,False,False
+A-7627550,NJ,Passaic,Clifton,Source1,4,40.88612,-74.13212,2018,8,Thursday,Snow / Ice,False,False,True,False,False,False,False
+A-7627551,NJ,Passaic,Clifton,Source1,4,40.88596,-74.13202,2018,8,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-7634670,NJ,Passaic,Totowa,Source1,3,40.89485,-74.23739300000003,2018,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7636404,NJ,Passaic,Little Falls,Source1,3,40.9053,-74.19039000000002,2018,6,Tuesday,Rain,False,False,False,False,False,False,False
+A-7636408,NJ,Passaic,Passaic,Source1,3,40.85289,-74.12216,2018,7,Tuesday,Rain,False,False,False,False,False,False,False
+A-7636428,NJ,Passaic,Little Falls,Source1,3,40.9053,-74.19039000000002,2018,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7637790,NJ,Passaic,Paterson,Source1,3,40.90347,-74.1713,2018,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7639345,NJ,Passaic,Paterson,Source1,3,40.90754,-74.16883,2018,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-7645807,NJ,Passaic,Clifton,Source1,4,40.82393,-74.12556,2017,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-7647141,NJ,Passaic,Clifton,Source1,3,40.88596,-74.13202,2017,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7651257,NJ,Passaic,Clifton,Source1,3,40.84021,-74.16036,2017,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7651280,NJ,Passaic,Clifton,Source1,4,40.89244,-74.1311,2017,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7651281,NJ,Passaic,Clifton,Source1,4,40.89023,-74.13105,2017,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7652586,NJ,Passaic,Paterson,Source1,3,40.90646,-74.16294,2017,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-7655318,NJ,Passaic,Clifton,Source1,3,40.82393,-74.12556,2017,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-7655916,NJ,Passaic,Paterson,Source1,4,40.89834000000001,-74.13483000000002,2017,7,Monday,Rain,False,False,False,False,False,False,False
+A-7660986,NJ,Passaic,Wayne,Source1,3,40.89509,-74.25969,2017,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7661385,NJ,Passaic,Paterson,Source1,4,40.915722,-74.132962,2017,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7661386,NJ,Passaic,Paterson,Source1,4,40.91814,-74.13132,2017,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7661387,NJ,Passaic,Paterson,Source1,3,40.909337,-74.134149,2017,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7661516,NJ,Passaic,Paterson,Source1,4,40.90133,-74.15129,2017,6,Sunday,Rain,False,False,False,False,False,False,False
+A-7662248,NJ,Passaic,Paterson,Source1,3,40.922906,-74.1417,2017,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7663784,NJ,Passaic,Paterson,Source1,3,40.91162,-74.1769,2017,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7669550,NJ,Passaic,Little Falls,Source1,3,40.87465,-74.19821999999998,2017,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7670037,NJ,Passaic,Little Falls,Source1,3,40.87658,-74.20267,2017,7,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7671082,NJ,Passaic,Wayne,Source1,4,40.89314,-74.257,2017,3,Friday,Cloudy,False,False,True,False,False,False,False
+A-7673340,NJ,Passaic,Little Falls,Source1,3,40.9053,-74.19039000000002,2017,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7675800,NJ,Passaic,Totowa,Source1,4,40.89264,-74.22379000000002,2017,10,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7676888,NJ,Passaic,Paterson,Source1,3,40.90096,-74.14112,2017,3,Monday,Cloudy,False,False,True,False,False,False,False
+A-7694464,NJ,Passaic,Clifton,Source1,3,40.871048,-74.189706,2017,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-7694870,NJ,Passaic,Clifton,Source1,3,40.82248,-74.12548000000002,2017,23,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7694871,NJ,Passaic,Clifton,Source1,3,40.82614,-74.12679,2017,23,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7694872,NJ,Passaic,Clifton,Source1,3,40.82616,-74.12496,2017,23,Saturday,Cloudy,False,False,True,False,False,False,False
+A-7696315,NJ,Passaic,Paterson,Source1,3,40.89657,-74.13388,2017,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7698236,NJ,Passaic,Little Falls,Source1,3,40.90241,-74.19556,2017,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7700984,NJ,Passaic,Paterson,Source1,3,40.90944,-74.13413,2017,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7701260,NJ,Passaic,Little Falls,Source1,3,40.885843,-74.21512,2017,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7701274,NJ,Passaic,Clifton,Source1,4,40.82566,-74.12706999999997,2017,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7701275,NJ,Passaic,Clifton,Source1,4,40.82807,-74.12248000000002,2017,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7701276,NJ,Passaic,Clifton,Source1,4,40.82519,-74.12762,2017,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7701277,NJ,Passaic,Clifton,Source1,4,40.82678,-74.12346,2017,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7701796,NJ,Passaic,West Milford,Source1,3,41.01145,-74.3702,2017,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7704796,NJ,Passaic,Clifton,Source1,4,40.86981,-74.18553100000003,2019,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7707262,NJ,Passaic,Paterson,Source1,3,40.90392,-74.13514,2019,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7707276,NJ,Passaic,Hawthorne,Source1,4,40.96943,-74.15657,2019,19,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7712050,NJ,Passaic,Totowa,Source1,4,40.89697,-74.21879,2019,6,Saturday,Rain,False,False,True,False,False,False,False
+A-7712638,NJ,Passaic,Clifton,Source1,4,40.82519,-74.12762,2019,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7712639,NJ,Passaic,Clifton,Source1,4,40.82248,-74.12548000000002,2019,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7712640,NJ,Passaic,Clifton,Source1,4,40.82616,-74.12496,2019,6,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7712641,NJ,Passaic,Clifton,Source1,4,40.82678,-74.12346,2019,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7712646,NJ,Passaic,Clifton,Source1,4,40.82807,-74.12248000000002,2019,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7712647,NJ,Passaic,Clifton,Source1,4,40.82614,-74.12679,2019,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7712648,NJ,Passaic,Clifton,Source1,4,40.82637,-74.12558,2019,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7712649,NJ,Passaic,Clifton,Source1,4,40.82566,-74.12706999999997,2019,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7712660,NJ,Passaic,Clifton,Source1,4,40.82708,-74.13271999999998,2019,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-7713283,NJ,Passaic,Haskell,Source1,3,41.018826,-74.293943,2019,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7715774,NJ,Passaic,Clifton,Source1,3,40.84848,-74.17191,2019,0,Tuesday,Rain,False,False,False,False,False,False,False
+A-7716679,NJ,Passaic,Paterson,Source1,3,40.90642,-74.16356,2019,6,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7726759,NJ,Passaic,Clifton,Source1,3,40.84887,-74.1781,2019,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7730714,NJ,Passaic,Clifton,Source1,3,40.84848,-74.17191,2019,6,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7739654,NJ,Passaic,Totowa,Source1,3,40.89921,-74.23124,2019,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7757731,NJ,Passaic,Totowa,Source1,3,40.89694,-74.22471999999998,2019,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7757778,NJ,Passaic,Clifton,Source1,4,40.83977,-74.15988,2019,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7762578,NJ,Passaic,Clifton,Source1,3,40.82807,-74.12248000000002,2019,6,Tuesday,Rain,False,False,False,False,False,False,False
+A-7764308,NJ,Passaic,Totowa,Source1,3,40.89376,-74.22883,2019,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7768835,NJ,Passaic,Little Falls,Source1,3,40.87658,-74.20267,2019,8,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7776856,NJ,Passaic,Little Falls,Source1,3,40.9053,-74.19039000000002,2019,9,Thursday,Clear / Fair,False,False,False,False,False,False,False

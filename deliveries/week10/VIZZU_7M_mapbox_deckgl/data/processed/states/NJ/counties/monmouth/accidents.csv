@@ -1,0 +1,761 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-196001,NJ,Monmouth,Hazlet,Source2,3,40.4189,-74.208412,2016,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-475045,NJ,Monmouth,Cliffwood,Source2,3,40.437943,-74.22847,2017,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-530096,NJ,Monmouth,Millstone Twp,Source2,3,40.160263,-74.423965,2022,17,Monday,Sin dato,False,False,False,False,False,False,False
+A-544931,NJ,Monmouth,Matawan,Source2,3,40.395481,-74.223282,2022,13,Friday,Clear / Fair,True,True,False,False,False,False,False
+A-550760,NJ,Monmouth,Millstone Twp,Source2,3,40.160263,-74.423965,2022,14,Saturday,Sin dato,False,False,False,False,False,False,False
+A-570437,NJ,Monmouth,Belmar,Source2,3,40.170216,-74.101265,2022,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-575835,NJ,Monmouth,Allentown,Source2,3,40.185715,-74.570541,2022,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-606938,NJ,Monmouth,Allentown,Source2,3,40.177277,-74.511841,2022,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-613780,NJ,Monmouth,Allentown,Source2,3,40.177277,-74.511841,2022,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-617204,NJ,Monmouth,Eatontown,Source2,3,40.286381,-74.05100300000002,2022,11,Thursday,Cloudy,False,True,False,False,False,False,False
+A-618059,NJ,Monmouth,Allentown,Source3,3,40.177277,-74.511841,2022,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-640999,NJ,Monmouth,Wall Township,Source3,3,40.170715,-74.083809,2022,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-705524,NJ,Monmouth,Howell,Source2,3,40.163788,-74.154549,2022,10,Friday,Cloudy,False,False,True,False,False,False,False
+A-730752,NJ,Monmouth,Belmar,Source2,3,40.170212,-74.10125699999998,2022,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-753402,NJ,Monmouth,Neptune,Source3,3,40.239269,-74.08959200000002,2022,18,Sunday,Rain,False,False,False,False,False,False,False
+A-754453,NJ,Monmouth,Allentown,Source2,3,40.177277,-74.511841,2022,6,Wednesday,Rain,False,False,False,False,False,False,False
+A-754685,NJ,Monmouth,Allentown,Source2,3,40.185715,-74.570541,2022,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-768173,NJ,Monmouth,Howell,Source2,3,40.16655,-74.234329,2021,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-789617,NJ,Monmouth,Allentown,Source2,3,40.177132,-74.510513,2021,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-789853,NJ,Monmouth,Neptune,Source2,3,40.208408,-74.033974,2021,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-792584,NJ,Monmouth,Englishtown,Source3,3,40.302509,-74.30371099999998,2021,21,Sunday,Clear / Fair,True,False,False,False,False,True,False
+A-792625,NJ,Monmouth,Belmar,Source2,3,40.170212,-74.10125699999998,2021,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-802645,NJ,Monmouth,Belmar,Source2,3,40.169933,-74.10678100000001,2021,21,Friday,Cloudy,False,False,True,False,False,False,False
+A-807255,NJ,Monmouth,Howell,Source2,3,40.167088,-74.190903,2021,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-848249,NJ,Monmouth,Allentown,Source2,3,40.177277,-74.511841,2021,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-856122,NJ,Monmouth,Neptune,Source2,3,40.207588,-74.03984799999998,2021,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-866353,NJ,Monmouth,Howell,Source2,3,40.163757,-74.154549,2021,15,Monday,Cloudy,False,False,True,False,False,False,False
+A-871421,NJ,Monmouth,Belmar,Source2,3,40.170212,-74.10125699999998,2021,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-913438,NJ,Monmouth,Marlboro,Source2,3,40.311062,-74.25140400000002,2021,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-941330,NJ,Monmouth,Eatontown,Source2,3,40.284618,-74.08979000000002,2021,1,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-943103,NJ,Monmouth,Allentown,Source2,3,40.177277,-74.511841,2021,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-970422,NJ,Monmouth,Allentown,Source2,3,40.177277,-74.511841,2021,16,Monday,Storm,False,False,False,False,False,False,False
+A-978929,NJ,Monmouth,Allentown,Source2,3,40.177277,-74.511841,2021,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-988445,NJ,Monmouth,Allentown,Source2,3,40.177277,-74.511841,2021,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-988459,NJ,Monmouth,Neptune,Source2,3,40.240829,-74.085426,2021,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-989492,NJ,Monmouth,Eatontown,Source2,3,40.281837,-74.087303,2021,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-997991,NJ,Monmouth,Belmar,Source2,3,40.159267,-74.10251600000002,2021,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-997999,NJ,Monmouth,Allentown,Source2,3,40.178329,-74.509819,2021,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1103347,NJ,Monmouth,Middletown,Source2,3,40.40271,-74.124527,2021,15,Friday,Cloudy,True,True,False,False,False,False,False
+A-1115840,NJ,Monmouth,Tinton Falls,Source2,3,40.283676,-74.0821,2021,7,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1183714,NJ,Monmouth,Howell,Source2,3,40.163788,-74.154549,2021,11,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1215318,NJ,Monmouth,Tinton Falls,Source2,3,40.283676,-74.0821,2020,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1216784,NJ,Monmouth,Wall Township,Source2,3,40.168709,-74.097923,2020,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1226124,NJ,Monmouth,Allentown,Source2,3,40.177277,-74.511841,2020,19,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1231774,NJ,Monmouth,Red Bank,Source2,3,40.337868,-74.100838,2020,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1279451,NJ,Monmouth,Allentown,Source2,3,40.177277,-74.511841,2020,7,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1288243,NJ,Monmouth,Tinton Falls,Source2,3,40.283676,-74.0821,2020,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1340995,NJ,Monmouth,Allentown,Source2,3,40.177277,-74.511841,2020,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1342963,NJ,Monmouth,Holmdel,Source2,3,40.391396,-74.18306,2020,13,Friday,Rain,False,False,False,False,False,False,False
+A-1342975,NJ,Monmouth,Allentown,Source2,3,40.177238,-74.51123,2020,14,Friday,Rain,False,False,False,False,False,False,False
+A-1348050,NJ,Monmouth,Belmar,Source2,3,40.170212,-74.10125699999998,2020,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1356372,NJ,Monmouth,Neptune,Source2,3,40.187061,-74.02516899999998,2020,3,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1375165,NJ,Monmouth,Holmdel,Source2,3,40.37439000000001,-74.14771999999998,2020,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1394862,NJ,Monmouth,Allentown,Source2,4,40.177277,-74.511841,2020,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1423272,NJ,Monmouth,Howell,Source2,3,40.164814,-74.235031,2020,17,Friday,Cloudy,False,False,True,False,False,False,False
+A-1432177,NJ,Monmouth,Tinton Falls,Source2,3,40.283676,-74.0821,2020,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1433765,NJ,Monmouth,Allentown,Source2,3,40.185715,-74.570541,2020,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1460220,NJ,Monmouth,Keyport,Source2,3,40.427021,-74.19669300000002,2020,18,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-1461548,NJ,Monmouth,Neptune,Source2,3,40.207649,-74.05162,2020,16,Wednesday,Rain,False,False,False,False,False,False,False
+A-1483893,NJ,Monmouth,Hazlet,Source2,3,40.41993,-74.212502,2020,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-1580493,NJ,Monmouth,Allentown,Source2,3,40.177277,-74.511841,2020,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1599867,NJ,Monmouth,Millstone Township,Source2,3,40.159969,-74.426323,2020,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1662606,NJ,Monmouth,Middletown,Source2,3,40.35622,-74.12593100000002,2020,3,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1672276,NJ,Monmouth,Howell,Source2,3,40.164814,-74.235031,2020,16,Friday,Cloudy,False,False,True,False,False,False,False
+A-1683252,NJ,Monmouth,Tinton Falls,Source2,3,40.213509,-74.101051,2019,13,Monday,Rain,False,False,False,False,False,False,False
+A-1683253,NJ,Monmouth,Neptune,Source2,3,40.2117,-74.095993,2019,13,Monday,Rain,False,False,False,False,False,False,False
+A-1683254,NJ,Monmouth,Neptune,Source2,3,40.21384000000001,-74.097,2019,13,Monday,Rain,False,False,False,False,False,False,False
+A-1720548,NJ,Monmouth,Eatontown,Source2,3,40.299366,-74.092896,2019,6,Tuesday,Rain,False,False,False,False,False,False,False
+A-1723404,NJ,Monmouth,Allentown,Source2,3,40.177277,-74.511841,2019,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1725895,NJ,Monmouth,Allentown,Source2,3,40.177277,-74.511841,2019,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1842089,NJ,Monmouth,Shrewsbury,Source2,3,40.312313,-74.06415600000003,2019,16,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-1866654,NJ,Monmouth,Colts Neck,Source2,3,40.2761,-74.16848,2019,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1866702,NJ,Monmouth,Millstone Township,Source2,3,40.262138,-74.421127,2019,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1896281,NJ,Monmouth,Freehold,Source2,3,40.241188,-74.274651,2019,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-1904977,NJ,Monmouth,Allentown,Source2,3,40.185871,-74.570251,2019,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1907540,NJ,Monmouth,Eatontown,Source2,3,40.29105,-74.051819,2019,13,Thursday,Cloudy,True,True,False,False,False,False,False
+A-1913794,NJ,Monmouth,Red Bank,Source2,3,40.338039,-74.100883,2019,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-1920060,NJ,Monmouth,Neptune,Source2,3,40.226151,-74.039078,2019,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1944494,NJ,Monmouth,Howell,Source2,3,40.165035,-74.234734,2019,19,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-1978334,NJ,Monmouth,Matawan,Source2,3,40.420261,-74.21309699999998,2019,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1988756,NJ,Monmouth,Neptune,Source2,3,40.212654,-74.098907,2019,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2016909,NJ,Monmouth,Belmar,Source2,3,40.17034500000001,-74.10125,2019,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2016958,NJ,Monmouth,Red Bank,Source2,3,40.35107,-74.07079300000002,2019,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2040409,NJ,Monmouth,Allentown,Source2,3,40.176685,-74.50808,2019,11,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-2054920,NJ,Monmouth,Howell,Source3,3,40.157921,-74.231339,2019,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2107579,NJ,Monmouth,Howell,Source2,3,40.16030900000001,-74.232803,2019,18,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-2132897,NJ,Monmouth,Marlboro,Source2,3,40.309605,-74.2509,2019,12,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-2198520,NJ,Monmouth,Allentown,Source2,3,40.185532,-74.569626,2019,2,Monday,Rain,False,False,False,False,False,False,False
+A-2213863,NJ,Monmouth,Matawan,Source2,3,40.42841,-74.229118,2019,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2222383,NJ,Monmouth,Allentown,Source2,3,40.177582,-74.514229,2019,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2295683,NJ,Monmouth,Allentown,Source2,3,40.17683,-74.511711,2019,11,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2298462,NJ,Monmouth,Howell,Source2,3,40.16708,-74.208099,2019,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2323488,NJ,Monmouth,Allentown,Source2,3,40.177414,-74.511726,2019,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2336737,NJ,Monmouth,Allentown,Source2,3,40.177414,-74.511726,2019,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2359189,NJ,Monmouth,Howell,Source2,3,40.164497,-74.165245,2019,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-2415377,NJ,Monmouth,Neptune,Source2,3,40.207649,-74.05162,2018,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2430389,NJ,Monmouth,Hazlet,Source2,3,40.419708,-74.210175,2018,5,Saturday,Rain,False,False,False,False,False,False,False
+A-2435215,NJ,Monmouth,Millstone Township,Source2,3,40.166508,-74.44017,2018,7,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2458099,NJ,Monmouth,Cream Ridge,Source2,3,40.174942,-74.469597,2018,13,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2477695,NJ,Monmouth,Eatontown,Source2,3,40.283318,-74.086342,2018,4,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2536420,NJ,Monmouth,Wall Township,Source2,3,40.170589,-74.092751,2018,5,Tuesday,Cloudy,True,False,True,False,False,False,False
+A-2572321,NJ,Monmouth,Belmar,Source2,3,40.176544,-74.100761,2018,4,Sunday,Rain,False,False,False,False,False,False,False
+A-2590433,NJ,Monmouth,Allentown,Source2,3,40.177258,-74.511696,2018,14,Tuesday,Rain,False,False,False,False,False,False,False
+A-2699735,NJ,Monmouth,Colts Neck,Source2,3,40.325672,-74.18807199999998,2018,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2707075,NJ,Monmouth,Holmdel,Source2,3,40.401363,-74.189903,2018,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2733350,NJ,Monmouth,Neptune,Source2,3,40.218143,-74.111626,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2739744,NJ,Monmouth,Belmar,Source2,3,40.170109,-74.106567,2018,6,Monday,Rain,False,False,False,False,False,False,False
+A-2744459,NJ,Monmouth,Allentown,Source2,3,40.177238,-74.543037,2018,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2749485,NJ,Monmouth,Eatontown,Source2,3,40.291077,-74.04682199999998,2018,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2760603,NJ,Monmouth,Howell,Source2,3,40.163647,-74.15310699999998,2018,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2771728,NJ,Monmouth,Howell,Source2,3,40.163727,-74.154549,2018,8,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-2823961,NJ,Monmouth,Allentown,Source2,3,40.177258,-74.511696,2018,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2843974,NJ,Monmouth,Allentown,Source2,3,40.177258,-74.511696,2018,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2872569,NJ,Monmouth,Millstone Township,Source2,3,40.160187,-74.424751,2018,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2886925,NJ,Monmouth,Belmar,Source2,3,40.169956,-74.10566700000003,2018,7,Monday,Rain,False,False,True,False,False,False,False
+A-2886930,NJ,Monmouth,Allentown,Source2,3,40.177441,-74.511147,2018,7,Monday,Rain,False,False,False,False,False,False,False
+A-2894858,NJ,Monmouth,Allentown,Source2,3,40.177258,-74.511696,2018,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2900272,NJ,Monmouth,Hazlet,Source2,3,40.4189,-74.208412,2018,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2910153,NJ,Monmouth,Allentown,Source2,3,40.17673900000001,-74.535103,2018,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2922320,NJ,Monmouth,Belmar,Source2,3,40.170109,-74.106567,2018,10,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2926049,NJ,Monmouth,Neptune,Source2,3,40.23959,-74.087013,2018,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-2931157,NJ,Monmouth,Allentown,Source2,3,40.185696,-74.568207,2018,21,Wednesday,Rain,False,False,False,False,False,False,False
+A-2943728,NJ,Monmouth,Allentown,Source2,3,40.177158,-74.510986,2018,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2949159,NJ,Monmouth,Belmar,Source2,3,40.170109,-74.106567,2018,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-2949258,NJ,Monmouth,Howell,Source2,3,40.166332,-74.23150600000002,2018,19,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-2958634,NJ,Monmouth,Allentown,Source2,3,40.177258,-74.511696,2018,16,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2972615,NJ,Monmouth,Allentown,Source2,3,40.177425,-74.51106999999998,2018,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2985517,NJ,Monmouth,Allentown,Source2,3,40.177372,-74.510757,2018,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-2985535,NJ,Monmouth,Allentown,Source2,3,40.177132,-74.510796,2018,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-2989714,NJ,Monmouth,Millstone Township,Source2,3,40.160553,-74.425079,2018,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-2998002,NJ,Monmouth,Howell,Source2,3,40.16487100000001,-74.23548100000002,2018,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3008095,NJ,Monmouth,Allentown,Source2,3,40.177803,-74.546112,2018,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3021469,NJ,Monmouth,Allentown,Source2,3,40.177258,-74.511696,2018,8,Tuesday,Rain,False,False,False,False,False,False,False
+A-3051156,NJ,Monmouth,Allentown,Source2,3,40.177258,-74.511696,2018,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3054076,NJ,Monmouth,Allentown,Source2,3,40.177258,-74.511696,2018,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3057100,NJ,Monmouth,Howell,Source2,3,40.164406,-74.236267,2018,7,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-3059465,NJ,Monmouth,Belmar,Source2,3,40.170109,-74.106567,2018,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3068952,NJ,Monmouth,Allentown,Source2,3,40.177258,-74.511696,2018,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3076503,NJ,Monmouth,Red Bank,Source2,3,40.341522,-74.10440799999998,2018,5,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3076521,NJ,Monmouth,Hazlet,Source2,3,40.418182,-74.177872,2018,16,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-3080215,NJ,Monmouth,Allentown,Source2,3,40.174839,-74.499161,2018,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3088082,NJ,Monmouth,Allentown,Source2,3,40.177258,-74.511696,2018,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3090394,NJ,Monmouth,Red Bank,Source2,3,40.336834,-74.100571,2018,5,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3090395,NJ,Monmouth,Howell,Source2,3,40.163868,-74.236618,2018,6,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3106352,NJ,Monmouth,Allentown,Source2,3,40.177258,-74.511696,2017,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3106368,NJ,Monmouth,Allentown,Source2,3,40.177258,-74.511696,2017,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3124934,NJ,Monmouth,Howell,Source2,3,40.16373400000001,-74.154671,2017,7,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-3180709,NJ,Monmouth,Allenwood,Source2,3,40.13450200000001,-74.11749300000002,2017,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3188527,NJ,Monmouth,Howell,Source2,3,40.164604,-74.235413,2017,8,Thursday,Rain,False,False,False,False,False,False,False
+A-3212926,NJ,Monmouth,Allentown,Source2,3,40.185844,-74.569946,2017,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3230510,NJ,Monmouth,Eatontown,Source2,3,40.289696,-74.09072900000002,2017,1,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3251719,NJ,Monmouth,Allentown,Source2,3,40.177258,-74.511696,2017,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3283098,NJ,Monmouth,Middletown,Source2,3,40.362438,-74.13834399999998,2017,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3319697,NJ,Monmouth,Howell,Source2,3,40.163467,-74.154037,2017,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3319703,NJ,Monmouth,Belmar,Source2,3,40.170109,-74.106567,2017,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3338551,NJ,Monmouth,Allentown,Source2,3,40.177258,-74.511696,2017,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3347834,NJ,Monmouth,Eatontown,Source2,3,40.283318,-74.086342,2017,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3368036,NJ,Monmouth,Allentown,Source2,3,40.177258,-74.511696,2017,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3445438,NJ,Monmouth,Hazlet,Source1,3,40.42025,-74.21076,2016,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3445820,NJ,Monmouth,Neptune,Source1,3,40.193281,-74.100663,2016,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3450042,NJ,Monmouth,Red Bank,Source1,4,40.340507,-74.103389,2016,10,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-3455516,NJ,Monmouth,Howell,Source1,4,40.113068,-74.218814,2017,2,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3455517,NJ,Monmouth,Red Bank,Source1,4,40.371544,-74.086546,2017,2,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3459581,NJ,Monmouth,Eatontown,Source1,3,40.27902,-74.08208,2017,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3459688,NJ,Monmouth,Sea Girt,Source1,4,40.13873,-74.04217,2017,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3459689,NJ,Monmouth,Spring Lake,Source1,4,40.141952,-74.04212199999998,2017,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3462772,NJ,Monmouth,Holmdel,Source1,3,40.37792,-74.15316,2017,11,Thursday,Rain,False,False,False,False,False,False,False
+A-3465386,NJ,Monmouth,Asbury Park,Source1,3,40.252035,-74.055666,2016,16,Thursday,Rain,False,False,False,False,False,False,False
+A-3466788,NJ,Monmouth,Eatontown,Source1,3,40.28747,-74.09065,2016,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3467826,NJ,Monmouth,Keyport,Source1,3,40.4257,-74.20239000000002,2016,2,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3468678,NJ,Monmouth,Neptune,Source1,3,40.194342,-74.099118,2016,20,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-3469544,NJ,Monmouth,Eatontown,Source1,3,40.27902,-74.08208,2016,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3470492,NJ,Monmouth,Holmdel,Source1,3,40.38753,-74.17616,2016,9,Tuesday,Rain,False,False,False,False,False,False,False
+A-3471289,NJ,Monmouth,Neptune,Source1,3,40.18125,-74.10127,2016,7,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-3471622,NJ,Monmouth,Eatontown,Source1,3,40.2876,-74.08984,2016,0,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3472323,NJ,Monmouth,Middletown,Source1,4,40.36923,-74.14276,2016,1,Monday,Cloudy,False,False,False,False,False,False,False
+A-3472364,NJ,Monmouth,Eatontown,Source1,3,40.27902,-74.08208,2016,6,Monday,Rain,False,False,False,False,False,False,False
+A-3477892,NJ,Monmouth,Belmar,Source1,4,40.17304,-74.09912,2016,4,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3478011,NJ,Monmouth,Manasquan,Source1,4,40.114094,-74.069357,2016,17,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-3479302,NJ,Monmouth,Atlantic Highlands,Source1,3,40.404007,-74.000625,2016,7,Thursday,Rain,True,False,True,False,False,False,False
+A-3480009,NJ,Monmouth,Matawan,Source1,3,40.40832,-74.23614,2016,22,Friday,Sin dato,False,False,False,False,False,False,False
+A-3486284,NJ,Monmouth,Allentown,Source1,4,40.18474000000001,-74.56671999999998,2016,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3486756,NJ,Monmouth,Eatontown,Source1,3,40.28747,-74.09065,2016,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3487335,NJ,Monmouth,Farmingdale,Source1,4,40.225914,-74.187012,2016,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3487336,NJ,Monmouth,Farmingdale,Source1,4,40.225039,-74.17596400000002,2016,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3487785,NJ,Monmouth,Asbury Park,Source1,3,40.24992,-74.08243,2016,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3488067,NJ,Monmouth,Hazlet,Source1,3,40.4232,-74.20577,2016,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3488068,NJ,Monmouth,Hazlet,Source1,3,40.41829,-74.20424,2016,14,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-3489187,NJ,Monmouth,Englishtown,Source1,4,40.29952,-74.30294,2016,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-3489197,NJ,Monmouth,Manasquan,Source1,4,40.115525,-74.073284,2016,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-3489598,NJ,Monmouth,Eatontown,Source1,3,40.285941,-74.087331,2016,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3491733,NJ,Monmouth,Manasquan,Source1,4,40.115226,-74.071363,2016,23,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3492556,NJ,Monmouth,Middletown,Source1,3,40.36923,-74.14276,2016,3,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3493808,NJ,Monmouth,Keyport,Source1,4,40.442985,-74.229663,2016,18,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-3497583,NJ,Monmouth,Port Monmouth,Source1,4,40.433512,-74.116727,2016,20,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-3497585,NJ,Monmouth,Hazlet Township,Source1,4,40.43737,-74.14208,2016,20,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-3498358,NJ,Monmouth,Matawan,Source1,3,40.429881,-74.24338399999998,2016,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3499320,NJ,Monmouth,Hazlet,Source1,3,40.42025,-74.21076,2016,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3501710,NJ,Monmouth,Freehold,Source1,4,40.286371,-74.29488,2016,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3501711,NJ,Monmouth,Freehold,Source1,4,40.275058,-74.29406999999998,2016,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3501725,NJ,Monmouth,Freehold,Source1,4,40.28702,-74.29504,2016,13,Thursday,Cloudy,True,False,False,False,False,False,False
+A-3501756,NJ,Monmouth,Englishtown,Source1,3,40.28807000000001,-74.2954,2016,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3504185,NJ,Monmouth,Holmdel,Source1,3,40.38568,-74.17333,2016,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3504458,NJ,Monmouth,Manasquan,Source1,3,40.11477,-74.07054000000002,2016,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-3507029,NJ,Monmouth,Neptune,Source1,3,40.22156,-74.09891999999998,2016,23,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-3507360,NJ,Monmouth,Freehold,Source1,4,40.262876,-74.292858,2016,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3507361,NJ,Monmouth,Freehold,Source1,4,40.26883,-74.29399000000002,2016,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3507576,NJ,Monmouth,Holmdel,Source1,3,40.38753,-74.17616,2016,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-3510232,NJ,Monmouth,Middletown,Source1,4,40.371936,-74.145498,2016,6,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3510240,NJ,Monmouth,Red Bank,Source1,4,40.34146,-74.1043,2016,8,Sunday,Rain,False,False,False,False,False,False,False
+A-3510241,NJ,Monmouth,Red Bank,Source1,4,40.34146,-74.1043,2016,9,Sunday,Rain,False,False,False,False,False,False,False
+A-3516819,NJ,Monmouth,Belmar,Source1,3,40.16289,-74.10265,2016,15,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-3517350,NJ,Monmouth,Neptune,Source1,4,40.214078,-74.098647,2016,16,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-3518221,NJ,Monmouth,Allentown,Source1,3,40.17766,-74.5153,2016,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3518343,NJ,Monmouth,Neptune,Source1,4,40.210551,-74.091353,2016,22,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3518586,NJ,Monmouth,Belmar,Source1,3,40.16729,-74.10045,2016,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3518715,NJ,Monmouth,Holmdel,Source1,3,40.37707,-74.15079,2016,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3519502,NJ,Monmouth,Hazlet,Source1,3,40.423904,-74.205567,2016,15,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-3519627,NJ,Monmouth,Neptune,Source1,3,40.208782,-74.031225,2016,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3519628,NJ,Monmouth,Neptune,Source1,3,40.20934000000001,-74.02711,2016,17,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-3519652,NJ,Monmouth,Neptune,Source1,4,40.20934000000001,-74.02711,2016,19,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-3519885,NJ,Monmouth,Red Bank,Source1,3,40.33358,-74.09846999999998,2016,22,Wednesday,Rain,False,False,True,False,False,False,False
+A-3520200,NJ,Monmouth,Belmar,Source1,4,40.16723,-74.10016999999998,2016,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3520201,NJ,Monmouth,Belmar,Source1,4,40.17143,-74.09899999999998,2016,18,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-3520202,NJ,Monmouth,Wall Township,Source1,4,40.15925,-74.10056,2016,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3520393,NJ,Monmouth,Red Bank,Source1,4,40.333619,-74.099376,2016,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3520518,NJ,Monmouth,Morganville,Source1,4,40.35429,-74.30681,2016,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3520758,NJ,Monmouth,Neptune,Source1,3,40.244148,-74.083951,2016,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3521124,NJ,Monmouth,Leonardo,Source1,4,40.41645,-74.06968,2016,1,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-3521543,NJ,Monmouth,Hazlet,Source1,4,40.41976,-74.209624,2016,19,Friday,Sin dato,False,False,False,False,False,False,False
+A-3521670,NJ,Monmouth,Neptune,Source1,4,40.20985,-74.05233,2016,17,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-3521848,NJ,Monmouth,Holmdel,Source1,3,40.37621,-74.14968,2016,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3521941,NJ,Monmouth,Allentown,Source1,3,40.1779,-74.51633199999998,2016,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3559995,NJ,Monmouth,Middletown,Source1,4,40.39116,-74.098988,2017,14,Thursday,Cloudy,True,False,False,False,False,False,False
+A-3574656,NJ,Monmouth,Neptune,Source1,4,40.20637,-74.04901,2017,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3574658,NJ,Monmouth,Neptune,Source1,4,40.20677,-74.05544,2017,12,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-3578393,NJ,Monmouth,Red Bank,Source1,3,40.332243,-74.099231,2017,9,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3581424,NJ,Monmouth,Red Bank,Source1,3,40.32922,-74.09884,2017,22,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3599238,NJ,Monmouth,Neptune,Source1,3,40.18125,-74.10127,2017,23,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-3600578,NJ,Monmouth,Belmar,Source1,4,40.17014,-74.10580999999998,2017,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3600895,NJ,Monmouth,Sea Girt,Source1,4,40.1305,-74.04364,2017,11,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-3600896,NJ,Monmouth,Manasquan,Source1,4,40.125392,-74.04553,2017,11,Wednesday,Cloudy,True,True,False,False,False,False,True
+A-3601575,NJ,Monmouth,Belmar,Source1,4,40.17031,-74.09541999999998,2017,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-3601962,NJ,Monmouth,Freehold,Source1,4,40.26663,-74.267849,2017,23,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3601963,NJ,Monmouth,Freehold,Source1,4,40.268864,-74.266661,2017,23,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3602610,NJ,Monmouth,Matawan,Source1,3,40.42067,-74.21335,2017,15,Tuesday,Rain,False,False,False,False,False,False,False
+A-3602635,NJ,Monmouth,Neptune,Source1,3,40.24269,-74.08646,2017,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-3603839,NJ,Monmouth,Eatontown,Source1,3,40.28648,-74.07538000000002,2017,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3603842,NJ,Monmouth,Eatontown,Source1,3,40.29139,-74.069,2017,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3612928,NJ,Monmouth,Belmar,Source1,4,40.17014,-74.10580999999998,2017,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3614586,NJ,Monmouth,Farmingdale,Source1,4,40.22656,-74.1459,2017,23,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3616373,NJ,Monmouth,Marlboro,Source1,4,40.277203,-74.222853,2017,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3618526,NJ,Monmouth,Holmdel,Source1,3,40.37792,-74.15316,2017,5,Monday,Rain,False,False,False,False,False,False,False
+A-3628412,NJ,Monmouth,Belmar,Source1,3,40.17051,-74.09603,2017,16,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-3641938,NJ,Monmouth,Leonardo,Source1,4,40.412209,-74.04848299999998,2017,20,Saturday,Sin dato,True,False,False,False,False,False,False
+A-3641939,NJ,Monmouth,Leonardo,Source1,4,40.412178,-74.048395,2017,20,Saturday,Sin dato,True,False,False,False,False,False,False
+A-3644811,NJ,Monmouth,Wall Township,Source1,4,40.21695,-74.12776,2017,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3644813,NJ,Monmouth,Neptune,Source1,4,40.212161,-74.125715,2017,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3644850,NJ,Monmouth,Wall Township,Source1,4,40.218486,-74.12848100000002,2017,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3645038,NJ,Monmouth,Matawan,Source1,3,40.42228,-74.21613,2017,16,Thursday,Sin dato,False,False,True,False,False,False,False
+A-3645857,NJ,Monmouth,Neptune,Source1,3,40.22156,-74.09891999999998,2017,16,Monday,Cloudy,False,False,True,False,False,False,False
+A-3646975,NJ,Monmouth,Neptune,Source1,4,40.209075,-74.029063,2017,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-3646978,NJ,Monmouth,Neptune,Source1,4,40.20934000000001,-74.02711,2017,11,Friday,Cloudy,True,False,False,False,False,False,False
+A-3733838,NJ,Monmouth,Asbury Park,Source1,4,40.228751,-74.039176,2022,9,Thursday,Rain,False,False,False,False,False,False,False
+A-3734249,NJ,Monmouth,Neptune City,Source1,4,40.22831798,-74.05030847,2022,19,Wednesday,Rain,False,False,True,False,False,False,False
+A-3735352,NJ,Monmouth,Freehold,Source1,4,40.25776,-74.28922299999998,2022,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3740346,NJ,Monmouth,Oceanport,Source1,4,40.304236,-74.03841899999998,2023,5,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-3777661,NJ,Monmouth,Middletown,Source1,4,40.356111,-74.125686,2022,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-3829805,NJ,Monmouth,Freehold,Source1,4,40.227241,-74.194449,2022,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3841574,NJ,Monmouth,Freehold,Source1,4,40.276358,-74.263869,2022,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-3857316,NJ,Monmouth,Freehold,Source1,4,40.239387,-74.27519699999998,2022,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3867798,NJ,Monmouth,Belmar,Source1,4,40.15905261020585,-74.10049796069099,2022,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3883322,NJ,Monmouth,Eatontown,Source1,4,40.291891,-74.064514,2022,17,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-3893870,NJ,Monmouth,Eatontown,Source1,4,40.28888900000001,-74.051385,2022,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3918383,NJ,Monmouth,Brielle,Source1,4,40.113876,-74.068922,2023,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3929110,NJ,Monmouth,Neptune,Source1,4,40.22641,-74.040325,2022,3,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3941971,NJ,Monmouth,Howell,Source1,4,40.167156,-74.203436,2023,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3950543,NJ,Monmouth,Howell,Source1,4,40.154923,-74.229599,2022,15,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-3985220,NJ,Monmouth,Freehold,Source1,4,40.247049,-74.294391,2022,9,Thursday,Rain,False,False,True,False,False,False,False
+A-4001873,NJ,Monmouth,Freehold,Source1,4,40.259307,-74.29363199999997,2022,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4020617,NJ,Monmouth,Brielle,Source1,4,40.114066,-74.069422,2023,20,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-4040369,NJ,Monmouth,Sea Bright,Source1,4,40.396238,-73.978389,2022,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4104909,NJ,Monmouth,Allentown,Source1,4,40.17894387226019,-74.54982161486362,2022,6,Wednesday,Rain,False,False,False,False,False,False,False
+A-4119031,NJ,Monmouth,Morganville,Source1,4,40.380009,-74.242703,2022,2,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4166495,NJ,Monmouth,Neptune,Source1,4,40.228947,-74.052942,2022,2,Friday,Cloudy,False,False,False,False,False,False,False
+A-4195689,NJ,Monmouth,Neptune,Source1,4,40.211797,-74.028406,2023,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-4218432,NJ,Monmouth,Morganville,Source1,4,40.374795,-74.245143,2022,1,Thursday,Cloudy,False,False,False,False,True,False,False
+A-4248290,NJ,Monmouth,Keyport,Source1,4,40.438529,-74.154336,2022,22,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-4248291,NJ,Monmouth,Hazlet,Source1,4,40.438484,-74.155326,2022,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4269546,NJ,Monmouth,Freehold,Source1,4,40.228306,-74.200286,2022,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4302490,NJ,Monmouth,Englishtown,Source1,4,40.254995,-74.329062,2023,17,Tuesday,Rain,False,False,False,False,False,False,False
+A-4351883,NJ,Monmouth,Freehold,Source1,4,40.256569,-74.316185,2023,18,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-4367592,NJ,Monmouth,Highlands,Source1,4,40.396264,-73.980949,2022,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4406941,NJ,Monmouth,Freehold,Source1,4,40.239638,-74.275764,2022,23,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4437468,NJ,Monmouth,Howell,Source1,4,40.166659,-74.22492,2023,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4451248,NJ,Monmouth,Howell,Source1,4,40.16634821872632,-74.23641085589294,2022,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4455574,NJ,Monmouth,Freehold,Source1,4,40.27370300000001,-74.264874,2022,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-4456788,NJ,Monmouth,Wall Township,Source1,4,40.145735,-74.094093,2022,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4456928,NJ,Monmouth,Morganville,Source1,4,40.373289,-74.245665,2022,1,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4505751,NJ,Monmouth,Morganville,Source1,4,40.381906,-74.24176800000002,2022,2,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4587519,NJ,Monmouth,Farmingdale,Source1,4,40.22535900000001,-74.166736,2022,0,Friday,Cloudy,False,False,False,False,False,False,False
+A-4587520,NJ,Monmouth,Farmingdale,Source1,4,40.225124,-74.17084100000002,2022,0,Friday,Cloudy,False,False,False,False,False,False,False
+A-4601940,NJ,Monmouth,Oceanport,Source1,4,40.30408900000001,-74.038365,2023,5,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-4610735,NJ,Monmouth,Freehold,Source1,4,40.285773,-74.26043299999998,2022,14,Monday,Cloudy,True,False,False,False,False,False,False
+A-4610736,NJ,Monmouth,Freehold,Source1,4,40.285773,-74.26043299999998,2022,14,Monday,Cloudy,True,False,False,False,False,False,False
+A-4637177,NJ,Monmouth,Allenwood,Source1,4,40.142394,-74.09271899999997,2022,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4668540,NJ,Monmouth,Morganville,Source1,4,40.382896,-74.241274,2022,2,Thursday,Rain,True,False,False,False,True,False,False
+A-4673738,NJ,Monmouth,Red Bank,Source1,4,40.353586,-74.07564,2022,11,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-4709088,NJ,Monmouth,Atlantic Highlands,Source1,4,40.409462,-74.03997700000002,2022,13,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-4750250,NJ,Monmouth,Neptune,Source1,4,40.200732,-74.02741,2022,1,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4772591,NJ,Monmouth,Asbury Park,Source1,4,40.22713,-74.03839599999998,2022,9,Thursday,Rain,False,False,False,False,False,False,False
+A-4792894,NJ,Monmouth,Farmingdale,Source1,4,40.225091,-74.172826,2023,9,Thursday,Rain,False,False,False,False,False,False,False
+A-4798738,NJ,Monmouth,Atlantic Highlands,Source1,4,40.408448,-74.038037,2022,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4816146,NJ,Monmouth,Eatontown,Source1,4,40.28052449207172,-74.08217310870131,2022,7,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-4834476,NJ,Monmouth,Belmar,Source1,4,40.17791390399847,-74.10092711413334,2022,13,Friday,Cloudy,False,False,True,False,False,False,False
+A-4870465,NJ,Monmouth,Englishtown,Source1,4,40.281601,-74.330626,2022,14,Thursday,Cloudy,True,False,False,False,False,False,False
+A-4932580,NJ,Monmouth,Middletown,Source1,4,40.38608,-74.095734,2022,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4933951,NJ,Monmouth,Allenhurst,Source1,4,40.233002,-74.000913,2022,23,Saturday,Clear / Fair,False,True,False,True,False,False,False
+A-4946120,NJ,Monmouth,Wall Township,Source1,4,40.156318,-74.09973000000002,2022,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-4947928,NJ,Monmouth,Asbury Park,Source1,4,40.227878,-74.0389,2022,9,Thursday,Rain,False,False,False,False,False,False,False
+A-4951488,NJ,Monmouth,Freehold,Source1,4,40.268952,-74.26661800000002,2022,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-4955428,NJ,Monmouth,Red Bank,Source1,4,40.35485900000001,-74.076173,2022,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4971306,NJ,Monmouth,Farmingdale,Source1,4,40.22512078266036,-74.17083620989717,2022,3,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5071834,NJ,Monmouth,Neptune,Source1,4,40.20138,-74.02714300000002,2022,8,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-5092574,NJ,Monmouth,Farmingdale,Source1,4,40.225098,-74.172364,2023,9,Thursday,Rain,False,False,False,False,False,False,False
+A-5104725,NJ,Monmouth,Freehold,Source1,4,40.259477,-74.292606,2022,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5111564,NJ,Monmouth,Millstone Twp,Source1,4,40.259152,-74.401397,2023,23,Friday,Cloudy,False,False,False,False,False,False,False
+A-5112060,NJ,Monmouth,Howell,Source1,4,40.167041,-74.236823,2022,19,Friday,Clear / Fair,True,True,False,True,False,False,False
+A-5113199,NJ,Monmouth,Freehold,Source1,4,40.27370300000001,-74.264874,2022,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-5147727,NJ,Monmouth,Keyport,Source1,4,40.425705,-74.221047,2022,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5153736,NJ,Monmouth,Freehold,Source1,4,40.26988149,-74.3049252,2022,14,Thursday,Cloudy,True,False,False,False,False,False,False
+A-5173663,NJ,Monmouth,Red Bank,Source1,4,40.35413,-74.075743,2022,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5207998,NJ,Monmouth,Neptune,Source1,4,40.209237,-74.079398,2023,22,Sunday,Rain,False,False,False,False,False,False,False
+A-5236626,NJ,Monmouth,Keyport,Source1,4,40.438479,-74.155805,2022,23,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-5238481,NJ,Monmouth,Colts Neck,Source1,4,40.274464,-74.168428,2022,12,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-5244054,NJ,Monmouth,Englishtown,Source1,4,40.27950300000001,-74.32803299999998,2022,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5249999,NJ,Monmouth,Middletown,Source1,4,40.410719,-74.13440600000001,2022,21,Wednesday,Clear / Fair,True,True,False,False,False,False,False
+A-5264710,NJ,Monmouth,Belmar,Source1,4,40.166015,-74.102034,2023,1,Friday,Cloudy,False,False,False,False,False,False,False
+A-5286790,NJ,Monmouth,Freehold,Source1,4,40.277734,-74.263359,2022,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-5286791,NJ,Monmouth,Freehold,Source1,4,40.266499,-74.26799399999999,2022,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-5294584,NJ,Monmouth,Eatontown,Source1,4,40.27848601322041,-74.07393336260759,2022,7,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-5307998,NJ,Monmouth,Neptune,Source1,4,40.200093,-74.027807,2022,1,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5311292,NJ,Monmouth,Sea Bright,Source1,4,40.391486,-73.975533,2022,9,Wednesday,Clear / Fair,False,True,False,False,False,False,False
+A-5321437,NJ,Monmouth,Marlboro,Source1,4,40.31030774097295,-74.25361990893242,2022,7,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-5322567,NJ,Monmouth,Howell,Source1,4,40.166956,-74.236926,2022,19,Friday,Clear / Fair,True,True,False,True,False,False,False
+A-5339580,NJ,Monmouth,Howell,Source1,4,40.167242,-74.237105,2022,19,Friday,Clear / Fair,False,True,False,True,False,False,False
+A-5381223,NJ,Monmouth,Howell,Source1,4,40.155178,-74.229615,2022,16,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-5381997,NJ,Monmouth,Belmar,Source1,4,40.170393,-74.09239699999998,2023,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5385424,NJ,Monmouth,Freehold,Source1,4,40.267393,-74.26724200000002,2022,14,Monday,Cloudy,True,False,False,False,False,False,False
+A-5412895,NJ,Monmouth,Allenwood,Source1,4,40.137876,-74.113194,2022,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5414432,NJ,Monmouth,Howell,Source1,4,40.140044,-74.225179,2022,21,Friday,Clear / Fair,True,False,False,False,True,False,False
+A-5414778,NJ,Monmouth,Asbury Park,Source1,4,40.228344,-74.03916600000002,2022,9,Thursday,Rain,False,False,False,False,False,False,False
+A-5427835,NJ,Monmouth,Neptune,Source1,4,40.213169,-74.098967,2023,1,Friday,Cloudy,False,False,False,False,False,False,False
+A-5435831,NJ,Monmouth,Millstone Twp,Source1,4,40.261982,-74.433153,2022,6,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-5444940,NJ,Monmouth,Leonardo,Source1,4,40.415661,-74.065161,2022,13,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-5445197,NJ,Monmouth,Belmar,Source1,4,40.14908,-74.10647800000002,2022,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5459968,NJ,Monmouth,Colts Neck,Source1,4,40.276609,-74.165286,2022,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5513845,NJ,Monmouth,Red Bank,Source1,4,40.378786,-74.09106700000002,2021,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5516104,NJ,Monmouth,Freehold,Source1,4,40.265929,-74.268467,2021,23,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5631090,NJ,Monmouth,Asbury Park,Source1,4,40.225235,-74.010054,2021,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-5638434,NJ,Monmouth,Marlboro,Source1,4,40.295944,-74.25615400000002,2021,20,Saturday,Rain,False,False,False,False,False,False,False
+A-5646821,NJ,Monmouth,Howell,Source1,4,40.137103,-74.224518,2021,20,Saturday,Rain,False,False,False,False,False,False,False
+A-5648623,NJ,Monmouth,Morganville,Source1,4,40.338365,-74.30749,2021,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5688597,NJ,Monmouth,Manasquan,Source1,4,40.124397,-74.069005,2021,11,Sunday,Cloudy,False,True,False,False,False,False,False
+A-5692761,NJ,Monmouth,Freehold,Source1,4,40.220593,-74.26626,2021,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5699896,NJ,Monmouth,Colts Neck,Source1,4,40.27269244174828,-74.21875119173899,2021,3,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5702533,NJ,Monmouth,Neptune,Source1,4,40.214897,-74.030064,2021,0,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5702601,NJ,Monmouth,Holmdel,Source1,4,40.35487532596419,-74.19506192171956,2021,23,Friday,Cloudy,False,False,False,False,False,False,False
+A-5707951,NJ,Monmouth,Freehold,Source1,4,40.220593,-74.26626,2021,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5711839,NJ,Monmouth,Matawan,Source1,4,40.40834784488483,-74.23615336382751,2021,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5728236,NJ,Monmouth,Freehold,Source1,4,40.19672,-74.372006,2021,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5739108,NJ,Monmouth,West Long Branch,Source1,4,40.295048,-74.028513,2021,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5751506,NJ,Monmouth,Marlboro,Source1,4,40.293457,-74.257149,2021,20,Saturday,Rain,False,False,False,False,False,False,False
+A-5755475,NJ,Monmouth,West Long Branch,Source1,4,40.295401,-74.028892,2021,8,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-5761187,NJ,Monmouth,Marlboro,Source1,4,40.29525200000001,-74.256429,2021,20,Saturday,Rain,False,False,False,False,False,False,False
+A-5794021,NJ,Monmouth,Belmar,Source1,4,40.169805,-74.106399,2021,9,Thursday,Rain,False,False,False,False,False,False,False
+A-5796989,NJ,Monmouth,Howell,Source1,4,40.164638,-74.23535,2021,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5851371,NJ,Monmouth,Englishtown,Source1,4,40.33725857715446,-74.30719971621366,2021,22,Sunday,Rain,False,False,False,False,False,False,False
+A-5876182,NJ,Monmouth,Asbury Park,Source1,4,40.224921,-74.01016899999998,2021,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-5882892,NJ,Monmouth,Freehold,Source1,4,40.222271,-74.268311,2021,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5890407,NJ,Monmouth,Freehold,Source1,4,40.22149443607225,-74.26720261538378,2021,8,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-5925380,NJ,Monmouth,Matawan,Source1,4,40.40796160678669,-74.2356812950409,2021,15,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-5951729,NJ,Monmouth,Marlboro,Source1,4,40.316102,-74.24754399999998,2021,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5951730,NJ,Monmouth,Marlboro,Source1,4,40.316102,-74.24754399999998,2021,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5956683,NJ,Monmouth,Neptune,Source1,4,40.210179,-74.02758,2021,0,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6014477,NJ,Monmouth,Freehold,Source1,4,40.26521500000001,-74.269058,2021,23,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6038507,NJ,Monmouth,Howell,Source1,4,40.192861,-74.252098,2021,20,Saturday,Rain,False,False,False,False,False,False,False
+A-6059630,NJ,Monmouth,Howell,Source1,4,40.138466,-74.22490400000002,2021,20,Saturday,Rain,False,False,False,False,False,False,False
+A-6131879,NJ,Monmouth,Freehold,Source1,4,40.18790900000001,-74.384553,2021,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6138455,NJ,Monmouth,Matawan,Source1,4,40.40835,-74.236159,2021,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6162391,NJ,Monmouth,Morganville,Source1,4,40.339702,-74.30793800000002,2021,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6181945,NJ,Monmouth,Avon By the Sea,Source1,4,40.191955,-74.024254,2021,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6211854,NJ,Monmouth,Neptune,Source1,4,40.209246,-74.080838,2021,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6217694,NJ,Monmouth,Leonardo,Source1,4,40.416295,-74.068481,2021,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6218550,NJ,Monmouth,Englishtown,Source1,4,40.31597256641237,-74.30494666064115,2021,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-6239082,NJ,Monmouth,Englishtown,Source1,4,40.328664,-74.305485,2021,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6253536,NJ,Monmouth,Holmdel,Source1,4,40.36249279956645,-74.19514775240803,2021,22,Friday,Rain,False,False,False,False,False,False,False
+A-6283292,NJ,Monmouth,Howell,Source1,4,40.193347,-74.252394,2021,20,Saturday,Rain,False,False,False,False,False,False,False
+A-6299511,NJ,Monmouth,Marlboro,Source1,4,40.319465,-74.245547,2021,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6303556,NJ,Monmouth,Freehold,Source1,4,40.253595113562326,-74.28825259173254,2021,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6332325,NJ,Monmouth,Neptune,Source1,4,40.215779,-74.030548,2021,2,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-6349626,NJ,Monmouth,Matawan,Source1,4,40.39814000000001,-74.226608,2021,4,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-6368845,NJ,Monmouth,Keyport,Source1,4,40.42841076831613,-74.2114341255464,2021,5,Friday,Snow / Ice,False,False,True,False,False,False,False
+A-6407913,NJ,Monmouth,Morganville,Source1,4,40.347593,-74.250072,2021,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6452400,NJ,Monmouth,Eatontown,Source1,4,40.304635,-74.059741,2021,19,Friday,Cloudy,True,False,False,False,False,False,False
+A-6460723,NJ,Monmouth,Eatontown,Source1,4,40.307178,-74.062329,2021,19,Friday,Cloudy,True,False,False,False,False,False,False
+A-6461447,NJ,Monmouth,Morganville,Source1,4,40.349476,-74.25017,2021,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6472484,NJ,Monmouth,Freehold,Source1,4,40.232738,-74.21664799999998,2021,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6525054,NJ,Monmouth,Millstone Twp,Source1,4,40.173429,-74.457296,2021,17,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-6531027,NJ,Monmouth,Englishtown,Source1,4,40.29173400000001,-74.297325,2021,5,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6531028,NJ,Monmouth,Englishtown,Source1,4,40.29173400000001,-74.297325,2021,5,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6558846,NJ,Monmouth,Keyport,Source1,4,40.429938,-74.21400200000002,2021,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6614687,NJ,Monmouth,Keyport,Source1,4,40.438348,-74.224001,2020,15,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-6626389,NJ,Monmouth,Neptune,Source1,4,40.209232,-74.078981,2020,4,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-6626390,NJ,Monmouth,Neptune,Source1,4,40.20922,-74.078975,2020,4,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-6717330,NJ,Monmouth,Marlboro,Source1,4,40.31093,-74.254971,2020,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6726645,NJ,Monmouth,Neptune,Source1,4,40.208248,-74.066958,2020,4,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6799992,NJ,Monmouth,Neptune,Source1,4,40.207976,-74.063998,2020,4,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-6812314,NJ,Monmouth,Shrewsbury,Source1,4,40.330025,-74.062366,2020,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6823748,NJ,Monmouth,Morganville,Source1,4,40.354775,-74.288656,2020,21,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-6826158,NJ,Monmouth,Morganville,Source1,4,40.370039,-74.246779,2020,21,Saturday,Clear / Fair,False,False,False,False,True,False,False
+A-6834981,NJ,Monmouth,Millstone Township,Source1,4,40.173193,-74.457317,2020,4,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-6865918,NJ,Monmouth,Neptune,Source1,4,40.209232,-74.078981,2020,4,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-6980939,NJ,Monmouth,Allentown,Source1,3,40.17672,-74.50825,2020,16,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-6980996,NJ,Monmouth,Allentown,Source1,3,40.1844,-74.56652,2020,19,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-6983276,NJ,Monmouth,Howell,Source1,3,40.155,-74.22958,2020,12,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-6992182,NJ,Monmouth,Freehold,Source1,3,40.19674000000001,-74.37201,2020,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6992186,NJ,Monmouth,Freehold,Source1,3,40.18782,-74.38469,2020,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6992251,NJ,Monmouth,Colts Neck,Source1,3,40.27392,-74.21995,2020,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6993342,NJ,Monmouth,Colts Neck,Source1,3,40.2762,-74.16584,2020,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6995546,NJ,Monmouth,Howell,Source1,4,40.20253,-74.25565,2020,11,Tuesday,Rain,False,False,False,False,False,False,False
+A-6995547,NJ,Monmouth,Howell,Source1,4,40.20221,-74.25536,2020,12,Tuesday,Cloudy,False,False,False,False,True,False,False
+A-6995786,NJ,Monmouth,Neptune,Source1,3,40.21175,-74.09388,2020,0,Wednesday,Rain,False,False,False,False,False,False,False
+A-6997674,NJ,Monmouth,Neptune,Source1,3,40.21175,-74.09388,2020,1,Wednesday,Storm,False,False,False,False,False,False,False
+A-7000181,NJ,Monmouth,Holmdel,Source1,3,40.4117,-74.14164,2020,11,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7008103,NJ,Monmouth,Eatontown,Source1,4,40.2783,-74.07370999999998,2020,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7008107,NJ,Monmouth,Eatontown,Source1,4,40.2783,-74.07370999999998,2020,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7008113,NJ,Monmouth,Eatontown,Source1,4,40.2807,-74.08769000000002,2020,22,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-7009298,NJ,Monmouth,Colts Neck,Source1,4,40.27406,-74.21976,2020,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7009299,NJ,Monmouth,Colts Neck,Source1,4,40.27406,-74.21976,2020,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7009304,NJ,Monmouth,Colts Neck,Source1,4,40.27406,-74.21976,2020,7,Sunday,Rain,False,False,False,False,False,False,False
+A-7009309,NJ,Monmouth,Colts Neck,Source1,4,40.27406,-74.21976,2020,8,Sunday,Rain,False,False,False,False,False,False,False
+A-7009312,NJ,Monmouth,Colts Neck,Source1,4,40.27406,-74.21976,2020,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7009314,NJ,Monmouth,Colts Neck,Source1,4,40.27406,-74.21976,2020,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7018724,NJ,Monmouth,Eatontown,Source1,4,40.29081,-74.05129000000002,2020,3,Saturday,Cloudy,False,True,False,False,False,False,False
+A-7018728,NJ,Monmouth,Eatontown,Source1,4,40.29081,-74.05129000000002,2020,4,Saturday,Clear / Fair,False,True,False,False,False,False,False
+A-7018732,NJ,Monmouth,Eatontown,Source1,4,40.29081,-74.05129000000002,2020,5,Saturday,Clear / Fair,False,True,False,False,False,False,False
+A-7018733,NJ,Monmouth,Eatontown,Source1,4,40.29081,-74.05129000000002,2020,6,Saturday,Clear / Fair,False,True,False,False,False,False,False
+A-7018782,NJ,Monmouth,Holmdel,Source1,3,40.34545,-74.19542,2020,12,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-7018785,NJ,Monmouth,Holmdel,Source1,3,40.34545,-74.19542,2020,12,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-7018787,NJ,Monmouth,Neptune,Source1,3,40.21691,-74.10375,2020,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7018793,NJ,Monmouth,Neptune,Source1,3,40.21691,-74.10375,2020,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7018794,NJ,Monmouth,Tinton Falls,Source1,3,40.23437,-74.0774,2020,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7018799,NJ,Monmouth,Tinton Falls,Source1,3,40.23437,-74.0774,2020,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7020174,NJ,Monmouth,Hazlet Township,Source1,3,40.43737,-74.14208,2020,14,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7020176,NJ,Monmouth,Hazlet Township,Source1,4,40.43737,-74.14208,2020,14,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7020184,NJ,Monmouth,Hazlet Township,Source1,4,40.43737,-74.14208,2020,14,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7020197,NJ,Monmouth,Hazlet Township,Source1,4,40.43737,-74.14208,2020,15,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7020203,NJ,Monmouth,Hazlet Township,Source1,4,40.43737,-74.14208,2020,15,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7020208,NJ,Monmouth,Hazlet Township,Source1,4,40.43737,-74.14208,2020,16,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7020209,NJ,Monmouth,Hazlet Township,Source1,4,40.43737,-74.14208,2020,16,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7020211,NJ,Monmouth,Hazlet Township,Source1,4,40.43737,-74.14208,2020,16,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7030385,NJ,Monmouth,Matawan,Source1,3,40.39548,-74.22328,2020,16,Friday,Cloudy,True,True,False,False,False,False,False
+A-7030386,NJ,Monmouth,Matawan,Source1,3,40.39548,-74.22328,2020,16,Friday,Cloudy,True,True,False,False,False,False,False
+A-7030387,NJ,Monmouth,Matawan,Source1,3,40.39548,-74.22328,2020,16,Friday,Cloudy,True,True,False,False,False,False,False
+A-7030438,NJ,Monmouth,Matawan,Source1,3,40.39548,-74.22328,2020,16,Friday,Cloudy,True,True,False,False,False,False,False
+A-7032620,NJ,Monmouth,Spring Lake,Source1,3,40.15699,-74.02083,2020,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7032717,NJ,Monmouth,Hazlet,Source1,3,40.43321,-74.18141999999997,2020,20,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-7032722,NJ,Monmouth,Hazlet,Source1,3,40.43321,-74.18141999999997,2020,20,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-7038007,NJ,Monmouth,Hazlet,Source1,4,40.42972,-74.18778,2020,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7038012,NJ,Monmouth,Hazlet,Source1,4,40.42983,-74.18744000000002,2020,16,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-7040140,NJ,Monmouth,Farmingdale,Source1,3,40.21921,-74.12451999999998,2020,11,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7049254,NJ,Monmouth,Manasquan,Source1,3,40.11513,-74.0712,2020,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7049318,NJ,Monmouth,Morganville,Source1,3,40.34833,-74.28631,2020,23,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-7054480,NJ,Monmouth,Keyport,Source1,3,40.42868,-74.21198000000003,2020,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7054662,NJ,Monmouth,Eatontown,Source1,4,40.28703,-74.0787,2020,16,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7054721,NJ,Monmouth,Wall Township,Source1,3,40.17072,-74.08381,2020,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7054724,NJ,Monmouth,Neptune,Source1,4,40.20922,-74.07895,2020,17,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7054744,NJ,Monmouth,Wall Township,Source1,3,40.17072,-74.08381,2020,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7054759,NJ,Monmouth,Eatontown,Source1,3,40.29101,-74.05133000000002,2020,18,Wednesday,Clear / Fair,False,True,False,False,False,False,False
+A-7054764,NJ,Monmouth,Eatontown,Source1,3,40.29101,-74.05133000000002,2020,18,Wednesday,Clear / Fair,False,True,False,False,False,False,False
+A-7054774,NJ,Monmouth,Middletown,Source1,3,40.36923,-74.14276,2020,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7054782,NJ,Monmouth,Middletown,Source1,3,40.36923,-74.14276,2020,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7057049,NJ,Monmouth,Morganville,Source1,4,40.35193,-74.30739,2020,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7057383,NJ,Monmouth,Long Branch,Source1,3,40.30605,-74.00414,2020,18,Thursday,Rain,True,False,False,False,False,False,False
+A-7059876,NJ,Monmouth,Middletown,Source1,3,40.36989000000001,-74.14426999999998,2020,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7060100,NJ,Monmouth,Neptune,Source1,3,40.20566,-74.05055,2020,17,Friday,Cloudy,True,False,False,False,False,False,False
+A-7060106,NJ,Monmouth,Wall Township,Source1,3,40.17091,-74.08407,2020,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-7060185,NJ,Monmouth,Eatontown,Source1,4,40.28157,-74.08372,2020,18,Friday,Cloudy,False,False,True,False,False,False,False
+A-7060193,NJ,Monmouth,Eatontown,Source1,4,40.28052,-74.08381999999997,2020,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-7060197,NJ,Monmouth,Shrewsbury,Source1,3,40.33727,-74.07491,2020,18,Friday,Cloudy,True,False,False,False,False,False,False
+A-7068163,NJ,Monmouth,Millstone Township,Source1,3,40.15864000000001,-74.42631999999998,2020,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-7068196,NJ,Monmouth,Colts Neck,Source1,3,40.27241,-74.16676,2020,16,Friday,Rain,False,False,False,False,False,False,False
+A-7068432,NJ,Monmouth,Freehold,Source1,3,40.27401,-74.29419,2020,17,Friday,Storm,True,False,False,False,False,False,False
+A-7070071,NJ,Monmouth,Port Monmouth,Source1,3,40.42774,-74.10616,2020,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7070133,NJ,Monmouth,Port Monmouth,Source1,3,40.42774,-74.10616,2020,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7074511,NJ,Monmouth,Eatontown,Source1,3,40.29068,-74.05569,2020,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7074547,NJ,Monmouth,Eatontown,Source1,3,40.29068,-74.05569,2020,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7074565,NJ,Monmouth,Middletown,Source1,4,40.36908,-74.14355,2020,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7074614,NJ,Monmouth,Manasquan,Source1,3,40.13949,-74.09167,2020,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7074692,NJ,Monmouth,Eatontown,Source1,3,40.29139,-74.069,2020,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7074813,NJ,Monmouth,Eatontown,Source1,3,40.29101,-74.05133000000002,2020,18,Tuesday,Clear / Fair,False,True,False,False,False,False,False
+A-7074828,NJ,Monmouth,Middletown,Source1,3,40.36928,-74.143,2020,19,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7077109,NJ,Monmouth,Howell,Source1,3,40.1688,-74.23807,2020,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7077177,NJ,Monmouth,Red Bank,Source1,3,40.37319,-74.08758,2020,13,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7077192,NJ,Monmouth,Red Bank,Source1,3,40.37319,-74.08758,2020,13,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7077397,NJ,Monmouth,Long Branch,Source1,3,40.30605,-74.00414,2020,18,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7079753,NJ,Monmouth,Freehold,Source1,3,40.23313,-74.27295,2020,8,Thursday,Cloudy,False,False,False,False,True,False,False
+A-7079778,NJ,Monmouth,Freehold,Source1,3,40.23313,-74.27295,2020,8,Thursday,Cloudy,False,False,False,False,True,False,False
+A-7079999,NJ,Monmouth,Belmar,Source1,3,40.16687,-74.10061999999998,2020,16,Thursday,Storm,False,False,False,False,False,False,False
+A-7080013,NJ,Monmouth,Belmar,Source1,3,40.16687,-74.10061999999998,2020,16,Thursday,Rain,False,False,False,False,False,False,False
+A-7080067,NJ,Monmouth,Belmar,Source1,3,40.16729,-74.10045,2020,17,Thursday,Rain,False,False,False,False,False,False,False
+A-7085452,NJ,Monmouth,Wall Township,Source1,3,40.20056,-74.12145,2020,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7086903,NJ,Monmouth,Asbury Park,Source1,3,40.2442,-74.03773000000002,2020,14,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-7086988,NJ,Monmouth,Eatontown,Source1,3,40.28052,-74.08381999999997,2020,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7099290,NJ,Monmouth,Deal,Source1,3,40.2469,-74.00065,2020,19,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7099306,NJ,Monmouth,Deal,Source1,3,40.2469,-74.00065,2020,19,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7101846,NJ,Monmouth,Freehold,Source1,3,40.20626,-74.25688000000002,2020,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7103510,NJ,Monmouth,Monmouth Beach,Source1,3,40.34533,-73.97399,2020,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7103512,NJ,Monmouth,Howell,Source1,3,40.1854,-74.24954,2020,11,Sunday,Cloudy,True,True,False,False,False,False,False
+A-7103609,NJ,Monmouth,Neptune,Source1,3,40.20898,-74.09727,2020,20,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7107995,NJ,Monmouth,Millstone Township,Source1,4,40.26222,-74.42045,2020,0,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-7108957,NJ,Monmouth,Millstone Township,Source1,4,40.26222,-74.42045,2020,2,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-7122222,NJ,Monmouth,Keyport,Source1,4,40.42467,-74.20005,2020,15,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7122258,NJ,Monmouth,Keyport,Source1,4,40.42467,-74.20005,2020,15,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7124827,NJ,Monmouth,Wall Township,Source1,3,40.19957,-74.12035,2020,7,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7124859,NJ,Monmouth,Wall Township,Source1,3,40.19975,-74.12042,2020,8,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7124864,NJ,Monmouth,Wall Township,Source1,3,40.19957,-74.12035,2020,8,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7125222,NJ,Monmouth,Holmdel,Source1,4,40.36287,-74.18758000000003,2020,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-7125228,NJ,Monmouth,Holmdel,Source1,4,40.36287,-74.18758000000003,2020,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-7125298,NJ,Monmouth,Holmdel,Source1,4,40.36287,-74.18758000000003,2020,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-7125300,NJ,Monmouth,Union Beach,Source1,3,40.43804,-74.16458,2020,19,Friday,Cloudy,True,False,False,False,False,False,False
+A-7125301,NJ,Monmouth,Union Beach,Source1,3,40.43804,-74.16458,2020,19,Friday,Cloudy,True,False,False,False,False,False,False
+A-7125333,NJ,Monmouth,Union Beach,Source1,3,40.43805,-74.16458,2020,20,Friday,Cloudy,True,False,False,False,False,False,False
+A-7125334,NJ,Monmouth,Union Beach,Source1,3,40.43805,-74.16458,2020,20,Friday,Cloudy,True,False,False,False,False,False,False
+A-7125335,NJ,Monmouth,Union Beach,Source1,3,40.43804,-74.16458,2020,20,Friday,Cloudy,True,False,False,False,False,False,False
+A-7125337,NJ,Monmouth,Union Beach,Source1,3,40.43804,-74.16458,2020,20,Friday,Cloudy,True,False,False,False,False,False,False
+A-7125346,NJ,Monmouth,Union Beach,Source1,3,40.43805,-74.16458,2020,20,Friday,Cloudy,True,False,False,False,False,False,False
+A-7130978,NJ,Monmouth,Belmar,Source1,3,40.16996,-74.10578000000002,2020,18,Monday,Rain,False,False,True,False,False,False,False
+A-7133490,NJ,Monmouth,Englishtown,Source1,4,40.29211,-74.29757,2020,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7133521,NJ,Monmouth,Englishtown,Source1,4,40.29211,-74.29757,2020,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7143380,NJ,Monmouth,Belmar,Source1,3,40.17654,-74.04122,2020,18,Sunday,Fog / Low visibility,True,False,False,False,False,False,False
+A-7143404,NJ,Monmouth,Belmar,Source1,3,40.17654,-74.04122,2020,18,Sunday,Fog / Low visibility,True,False,False,False,False,False,False
+A-7143406,NJ,Monmouth,Belmar,Source1,3,40.17654,-74.04122,2020,19,Sunday,Fog / Low visibility,True,False,False,False,False,False,False
+A-7143421,NJ,Monmouth,Eatontown,Source1,3,40.28157,-74.08372,2020,21,Sunday,Rain,False,False,True,False,False,False,False
+A-7143427,NJ,Monmouth,Eatontown,Source1,3,40.28157,-74.08372,2020,20,Sunday,Fog / Low visibility,False,False,True,False,False,False,False
+A-7143438,NJ,Monmouth,Eatontown,Source1,3,40.28157,-74.08372,2020,21,Sunday,Rain,False,False,True,False,False,False,False
+A-7143441,NJ,Monmouth,Eatontown,Source1,3,40.28157,-74.08372,2020,21,Sunday,Rain,False,False,True,False,False,False,False
+A-7144409,NJ,Monmouth,Hazlet,Source1,3,40.41829,-74.20424,2020,6,Monday,Cloudy,False,False,True,False,False,False,False
+A-7144415,NJ,Monmouth,Hazlet,Source1,3,40.41829,-74.20424,2020,7,Monday,Cloudy,False,False,True,False,False,False,False
+A-7150548,NJ,Monmouth,Matawan,Source1,3,40.40503,-74.20906,2020,9,Thursday,Cloudy,True,False,False,False,False,False,False
+A-7157405,NJ,Monmouth,Neptune,Source1,3,40.20898,-74.09727,2020,13,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7157424,NJ,Monmouth,Neptune,Source1,3,40.20898,-74.09727,2020,11,Monday,Cloudy,False,False,True,False,False,False,False
+A-7157430,NJ,Monmouth,Neptune,Source1,3,40.20898,-74.09727,2020,12,Monday,Cloudy,False,False,True,False,False,False,False
+A-7157449,NJ,Monmouth,Neptune,Source1,3,40.20898,-74.09727,2020,12,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7157466,NJ,Monmouth,Neptune,Source1,3,40.20898,-74.09727,2020,13,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7160892,NJ,Monmouth,Red Bank,Source1,3,40.33351,-74.09845,2020,10,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7165526,NJ,Monmouth,Belmar,Source1,3,40.16729,-74.10045,2020,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7168279,NJ,Monmouth,Millstone Township,Source1,3,40.25812,-74.39614,2020,7,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7168325,NJ,Monmouth,Millstone Township,Source1,3,40.25812,-74.39614,2020,9,Friday,Cloudy,True,False,False,False,False,False,False
+A-7168329,NJ,Monmouth,Millstone Township,Source1,3,40.25812,-74.39614,2020,8,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7168331,NJ,Monmouth,Millstone Township,Source1,3,40.25812,-74.39614,2020,8,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7168343,NJ,Monmouth,Millstone Township,Source1,3,40.25812,-74.39614,2020,9,Friday,Cloudy,True,False,False,False,False,False,False
+A-7168344,NJ,Monmouth,Millstone Township,Source1,3,40.25812,-74.39614,2020,9,Friday,Cloudy,True,False,False,False,False,False,False
+A-7168345,NJ,Monmouth,Millstone Township,Source1,3,40.25812,-74.39614,2020,9,Friday,Cloudy,True,False,False,False,False,False,False
+A-7170748,NJ,Monmouth,Eatontown,Source1,3,40.2747,-74.04403,2020,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7170752,NJ,Monmouth,Eatontown,Source1,3,40.27468,-74.04415,2020,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7170760,NJ,Monmouth,Eatontown,Source1,3,40.27468,-74.04415,2020,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7170761,NJ,Monmouth,Eatontown,Source1,3,40.2747,-74.04403,2020,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7170775,NJ,Monmouth,Eatontown,Source1,3,40.27468,-74.04415,2020,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7170776,NJ,Monmouth,Eatontown,Source1,3,40.2747,-74.04403,2020,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7170780,NJ,Monmouth,Eatontown,Source1,3,40.27467,-74.04415,2020,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7170781,NJ,Monmouth,Eatontown,Source1,3,40.2747,-74.04403,2020,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7177703,NJ,Monmouth,Colts Neck,Source1,4,40.28744,-74.17317,2020,15,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7184076,NJ,Monmouth,Englishtown,Source1,3,40.25315,-74.34169,2020,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7184088,NJ,Monmouth,Englishtown,Source1,3,40.25315,-74.34169,2020,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7184089,NJ,Monmouth,Englishtown,Source1,3,40.25315,-74.34169,2020,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7184092,NJ,Monmouth,Englishtown,Source1,3,40.25315,-74.34169,2020,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7197448,NJ,Monmouth,Rumson,Source1,4,40.39436,-73.97591,2020,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7197454,NJ,Monmouth,Rumson,Source1,4,40.39436,-73.97591,2020,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7198697,NJ,Monmouth,Eatontown,Source1,3,40.28157,-74.08372,2020,16,Sunday,Rain,False,False,True,False,False,False,False
+A-7198710,NJ,Monmouth,Eatontown,Source1,3,40.28157,-74.08372,2020,17,Sunday,Rain,False,False,True,False,False,False,False
+A-7198711,NJ,Monmouth,Eatontown,Source1,3,40.28157,-74.08372,2020,17,Sunday,Rain,False,False,True,False,False,False,False
+A-7198716,NJ,Monmouth,Eatontown,Source1,3,40.28157,-74.08372,2020,17,Sunday,Rain,False,False,True,False,False,False,False
+A-7202184,NJ,Monmouth,Freehold,Source1,3,40.22722,-74.19439,2020,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7202233,NJ,Monmouth,Freehold,Source1,3,40.22722,-74.19439,2020,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7202247,NJ,Monmouth,Freehold,Source1,3,40.22723,-74.19442,2020,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7223179,NJ,Monmouth,Englishtown,Source1,4,40.30367,-74.30388,2020,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7231721,NJ,Monmouth,Hazlet,Source1,4,40.42251,-74.20573,2020,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7231722,NJ,Monmouth,Hazlet,Source1,4,40.41885,-74.20854,2020,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7231723,NJ,Monmouth,Matawan,Source1,4,40.42067,-74.21335,2020,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7234581,NJ,Monmouth,Matawan,Source1,4,40.42067,-74.21335,2020,3,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7238710,NJ,Monmouth,Eatontown,Source1,4,40.29085,-74.05572,2020,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7238711,NJ,Monmouth,Eatontown,Source1,4,40.28887,-74.07439000000002,2020,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7239502,NJ,Monmouth,Englishtown,Source1,4,40.30148,-74.30344000000002,2020,0,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7258121,NJ,Monmouth,Hazlet,Source1,4,40.43484,-74.17856,2020,4,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7258122,NJ,Monmouth,Hazlet,Source1,4,40.43162,-74.18398,2020,4,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7272312,NJ,Monmouth,Neptune,Source1,4,40.20689,-74.04505999999998,2020,0,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-7272313,NJ,Monmouth,Neptune,Source1,4,40.20637,-74.04901,2020,0,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7273231,NJ,Monmouth,Neptune,Source1,4,40.20637,-74.04901,2020,4,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7273232,NJ,Monmouth,Neptune,Source1,4,40.20689,-74.04505999999998,2020,4,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-7298142,NJ,Monmouth,Union Beach,Source1,4,40.43869,-74.16469000000002,2019,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7313967,NJ,Monmouth,Red Bank,Source1,4,40.38238,-74.09331,2019,7,Saturday,Rain,False,False,False,False,False,False,False
+A-7313968,NJ,Monmouth,Red Bank,Source1,4,40.38103,-74.09246999999998,2019,7,Saturday,Rain,True,False,False,False,False,False,False
+A-7319019,NJ,Monmouth,Eatontown,Source1,4,40.29191,-74.06453,2019,19,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-7320472,NJ,Monmouth,Keyport,Source1,4,40.44298,-74.22966,2019,23,Thursday,Cloudy,True,False,False,False,False,False,False
+A-7326051,NJ,Monmouth,Matawan,Source1,4,40.40774,-74.23594,2019,1,Thursday,Cloudy,False,False,False,False,True,False,False
+A-7326052,NJ,Monmouth,Matawan,Source1,4,40.40797,-74.23572,2019,1,Thursday,Cloudy,True,False,False,False,False,False,False
+A-7326092,NJ,Monmouth,Hazlet,Source1,4,40.42287,-74.19221,2019,0,Friday,Rain,True,False,False,False,False,False,False
+A-7326093,NJ,Monmouth,Hazlet,Source1,4,40.422642,-74.191349,2019,0,Friday,Rain,False,False,False,False,False,False,False
+A-7348901,NJ,Monmouth,Freehold,Source1,4,40.24774,-74.27463,2019,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7348902,NJ,Monmouth,Freehold,Source1,4,40.24537,-74.27489,2019,10,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-7353393,NJ,Monmouth,Port Monmouth,Source1,4,40.42587,-74.10316999999998,2019,0,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7361399,NJ,Monmouth,Middletown,Source1,4,40.41051,-74.13374,2019,20,Wednesday,Cloudy,False,True,False,False,False,False,False
+A-7377591,NJ,Monmouth,Howell,Source1,3,40.18622,-74.24994000000002,2019,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7387182,NJ,Monmouth,Matawan,Source1,4,40.40797,-74.23572,2019,21,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-7388374,NJ,Monmouth,Red Bank,Source1,3,40.34509,-74.112974,2019,23,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7389760,NJ,Monmouth,Asbury Park,Source1,4,40.23169,-74.05036,2019,7,Wednesday,Rain,False,False,True,False,False,False,False
+A-7389770,NJ,Monmouth,Neptune,Source1,4,40.228354,-74.050289,2019,7,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7398645,NJ,Monmouth,Hazlet,Source1,4,40.425665,-74.178044,2019,0,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7398646,NJ,Monmouth,Hazlet,Source1,4,40.422756,-74.1773,2019,0,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7399852,NJ,Monmouth,Keyport,Source1,4,40.427022,-74.19668399999998,2019,0,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-7403756,NJ,Monmouth,Sea Bright,Source1,4,40.36568,-73.97411,2019,0,Monday,Clear / Fair,True,True,False,False,False,False,False
+A-7409525,NJ,Monmouth,Freehold,Source1,4,40.268842,-74.29383,2019,0,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7409526,NJ,Monmouth,Freehold,Source1,4,40.287019,-74.29504,2019,0,Saturday,Cloudy,True,False,False,False,False,False,False
+A-7418836,NJ,Monmouth,Eatontown,Source1,4,40.30364,-74.05928,2019,23,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7424510,NJ,Monmouth,Atlantic Highlands,Source1,4,40.405561,-74.033364,2019,0,Saturday,Cloudy,True,False,False,False,False,False,False
+A-7424511,NJ,Monmouth,Atlantic Highlands,Source1,4,40.405485,-74.033478,2019,0,Saturday,Cloudy,True,False,False,False,False,False,False
+A-7429122,NJ,Monmouth,Matawan,Source1,4,40.42046,-74.21298,2019,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-7432944,NJ,Monmouth,Eatontown,Source1,3,40.297574,-74.092541,2019,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7438964,NJ,Monmouth,Neptune,Source1,4,40.22574,-74.05036,2019,6,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-7458004,NJ,Monmouth,Leonardo,Source1,3,40.414724,-74.060298,2019,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7463858,NJ,Monmouth,Englishtown,Source1,4,40.294944,-74.299836,2019,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7463859,NJ,Monmouth,Freehold,Source1,4,40.28738900000001,-74.29498000000002,2019,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7463860,NJ,Monmouth,Englishtown,Source1,4,40.294944,-74.299836,2019,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7466639,NJ,Monmouth,Hazlet,Source1,4,40.429842,-74.187415,2019,4,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-7466640,NJ,Monmouth,Hazlet,Source1,4,40.429715,-74.18778499999998,2019,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7473335,NJ,Monmouth,Middletown,Source1,4,40.39204,-74.09959,2018,2,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7491767,NJ,Monmouth,Holmdel,Source1,3,40.386192,-74.173671,2018,10,Friday,Rain,False,False,False,False,False,False,False
+A-7498196,NJ,Monmouth,Freehold,Source1,4,40.233891,-74.22763499999998,2018,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7498197,NJ,Monmouth,Freehold,Source1,4,40.233487,-74.22019399999998,2018,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7515502,NJ,Monmouth,Colts Neck,Source1,3,40.274009,-74.219709,2018,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7517398,NJ,Monmouth,Eatontown,Source1,4,40.281897,-74.086526,2018,0,Friday,Rain,False,False,False,False,False,False,False
+A-7517399,NJ,Monmouth,Eatontown,Source1,4,40.28157,-74.08372,2018,0,Friday,Rain,False,False,True,False,False,False,False
+A-7517400,NJ,Monmouth,Eatontown,Source1,4,40.27902,-74.08208,2018,0,Friday,Rain,False,False,False,False,False,False,False
+A-7519991,NJ,Monmouth,Oakhurst,Source1,4,40.269182,-74.001841,2018,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7522907,NJ,Monmouth,Neptune,Source1,4,40.224563,-74.036232,2018,1,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7522909,NJ,Monmouth,Neptune,Source1,4,40.222768,-74.034164,2018,2,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7522910,NJ,Monmouth,Neptune,Source1,4,40.224563,-74.036232,2018,2,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7523199,NJ,Monmouth,Red Bank,Source1,3,40.328414,-74.09795,2018,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-7523629,NJ,Monmouth,Belmar,Source1,3,40.17042,-74.09286,2018,5,Tuesday,Cloudy,True,False,True,False,False,False,False
+A-7528882,NJ,Monmouth,Freehold,Source1,4,40.27479,-74.22394,2018,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7528883,NJ,Monmouth,Freehold,Source1,4,40.26948,-74.2446,2018,14,Sunday,Cloudy,True,False,False,False,False,False,False
+A-7533882,NJ,Monmouth,Belmar,Source1,3,40.17299000000001,-74.07257,2018,16,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7535155,NJ,Monmouth,Morganville,Source1,4,40.33734000000001,-74.30722,2018,0,Friday,Rain,False,False,False,False,False,False,False
+A-7538537,NJ,Monmouth,Manalapan,Source1,3,40.25496,-74.374477,2018,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7541794,NJ,Monmouth,Asbury Park,Source1,4,40.22957,-74.00848,2018,9,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7541795,NJ,Monmouth,Asbury Park,Source1,4,40.231806,-74.008166,2018,9,Thursday,Clear / Fair,False,True,False,False,False,False,False
+A-7541796,NJ,Monmouth,Asbury Park,Source1,4,40.226947,-74.009427,2018,9,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7541798,NJ,Monmouth,Asbury Park,Source1,4,40.22957,-74.00848,2018,9,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7555771,NJ,Monmouth,Highlands,Source1,4,40.40155,-73.991461,2018,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7555773,NJ,Monmouth,Atlantic Highlands,Source1,4,40.402604,-73.996459,2018,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7563266,NJ,Monmouth,Red Bank,Source1,3,40.342307,-74.10470500000002,2018,1,Sunday,Rain,False,False,False,False,False,False,False
+A-7569973,NJ,Monmouth,Farmingdale,Source1,4,40.22513,-74.17104,2018,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7570321,NJ,Monmouth,Allentown,Source1,3,40.17693,-74.50818000000002,2018,10,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7570326,NJ,Monmouth,Allentown,Source1,4,40.17693,-74.50818000000002,2018,11,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7570327,NJ,Monmouth,Allentown,Source1,4,40.17693,-74.50818000000002,2018,11,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7571998,NJ,Monmouth,Atlantic Highlands,Source1,4,40.403841,-74.030529,2018,2,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-7571999,NJ,Monmouth,Atlantic Highlands,Source1,4,40.403927,-74.031032,2018,2,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7572107,NJ,Monmouth,Belmar,Source1,3,40.183219,-74.026629,2018,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7583767,NJ,Monmouth,Leonardo,Source1,4,40.41453,-74.05928,2018,12,Thursday,Rain,True,False,True,False,False,False,False
+A-7583779,NJ,Monmouth,North Middletown,Source1,4,40.434236,-74.119843,2018,13,Thursday,Rain,False,False,True,False,False,False,False
+A-7584203,NJ,Monmouth,Matawan,Source1,4,40.40711,-74.23425,2018,8,Friday,Cloudy,True,False,False,False,False,False,False
+A-7584818,NJ,Monmouth,Holmdel,Source1,3,40.40345,-74.19346,2018,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7588421,NJ,Monmouth,Freehold,Source1,4,40.262438,-74.270822,2018,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7588422,NJ,Monmouth,Freehold,Source1,4,40.259456,-74.275145,2018,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7592417,NJ,Monmouth,Middletown,Source1,4,40.40235,-74.12406,2018,22,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7593285,NJ,Monmouth,Holmdel,Source1,3,40.38753,-74.17616,2018,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7593711,NJ,Monmouth,Middletown,Source1,4,40.39204,-74.09959,2018,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7595420,NJ,Monmouth,Neptune,Source1,4,40.20420900000001,-74.05325,2018,16,Thursday,Rain,False,False,False,False,False,False,False
+A-7599123,NJ,Monmouth,Neptune,Source1,4,40.22892,-74.05291,2018,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7600484,NJ,Monmouth,Neptune,Source1,3,40.2412,-74.08581,2018,11,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-7600540,NJ,Monmouth,Morganville,Source1,4,40.39021,-74.238084,2018,17,Friday,Snow / Ice,False,False,False,False,True,False,False
+A-7600541,NJ,Monmouth,Morganville,Source1,4,40.38505,-74.24021,2018,17,Friday,Snow / Ice,True,False,False,False,False,False,False
+A-7602463,NJ,Monmouth,Allentown,Source1,4,40.17785,-74.51481,2018,19,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7605803,NJ,Monmouth,Long Branch,Source1,4,40.27061,-74.00219,2018,20,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7605804,NJ,Monmouth,Long Branch,Source1,4,40.274923,-74.00287800000002,2018,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7607068,NJ,Monmouth,Morganville,Source1,4,40.34701,-74.28303000000002,2018,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7608270,NJ,Monmouth,Neptune,Source1,3,40.194342,-74.099118,2018,17,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-7620695,NJ,Monmouth,Belmar,Source1,3,40.16293,-74.10171,2018,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7620728,NJ,Monmouth,Neptune,Source1,4,40.20637,-74.04901,2018,16,Friday,Rain,False,False,False,False,False,False,False
+A-7620729,NJ,Monmouth,Neptune,Source1,4,40.20614000000001,-74.051327,2018,16,Friday,Rain,False,False,False,False,False,False,False
+A-7633391,NJ,Monmouth,Neptune,Source1,4,40.208701,-74.01593000000003,2018,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7642412,NJ,Monmouth,Howell,Source1,4,40.146381,-74.225829,2017,2,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7642413,NJ,Monmouth,Howell,Source1,4,40.139453,-74.22500699999998,2017,2,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7646113,NJ,Monmouth,Matawan,Source1,3,40.429281,-74.24077700000002,2017,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-7653761,NJ,Monmouth,Matawan,Source1,4,40.386836,-74.21735600000002,2017,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7653762,NJ,Monmouth,Morganville,Source1,4,40.383163,-74.213263,2017,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7653801,NJ,Monmouth,Matawan,Source1,4,40.39548,-74.22328,2017,0,Friday,Clear / Fair,True,True,False,False,False,False,False
+A-7653802,NJ,Monmouth,Matawan,Source1,4,40.386836,-74.21735600000002,2017,0,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7655781,NJ,Monmouth,Freehold,Source1,4,40.24144,-74.27802,2017,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7656439,NJ,Monmouth,Neptune,Source1,4,40.206618,-74.0547,2017,18,Tuesday,Rain,False,False,False,False,False,False,False
+A-7658198,NJ,Monmouth,Belmar,Source1,3,40.164858,-74.10226999999998,2017,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7660007,NJ,Monmouth,Freehold,Source1,4,40.25716,-74.29109,2017,21,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7661683,NJ,Monmouth,Neptune,Source1,4,40.213438,-74.097437,2017,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7666113,NJ,Monmouth,Morganville,Source1,4,40.35478,-74.28866,2017,23,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7668736,NJ,Monmouth,Eatontown,Source1,3,40.28747,-74.09065,2017,2,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7671518,NJ,Monmouth,Morganville,Source1,4,40.34701,-74.28303000000002,2017,6,Saturday,Rain,False,False,False,False,False,False,False
+A-7671734,NJ,Monmouth,Neptune,Source1,4,40.209304,-74.085032,2017,8,Monday,Cloudy,True,False,False,False,False,False,False
+A-7671735,NJ,Monmouth,Neptune,Source1,4,40.210281,-74.090514,2017,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-7673332,NJ,Monmouth,Matawan,Source1,3,40.408611,-74.236396,2017,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7673333,NJ,Monmouth,Matawan,Source1,3,40.40797,-74.23572,2017,18,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7676813,NJ,Monmouth,Allenwood,Source1,3,40.130537,-74.122412,2017,17,Sunday,Rain,False,False,False,False,False,False,False
+A-7678439,NJ,Monmouth,Union Beach,Source1,4,40.437643,-74.17110699999998,2017,15,Sunday,Cloudy,False,False,True,False,False,False,False
+A-7682083,NJ,Monmouth,Englishtown,Source1,4,40.28158,-74.33057,2017,13,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-7682084,NJ,Monmouth,Manalapan,Source1,4,40.287981,-74.33829399999998,2017,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7684813,NJ,Monmouth,Wall Township,Source1,4,40.15291,-74.05552,2017,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7690258,NJ,Monmouth,Neptune,Source1,3,40.24693,-74.08255,2017,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7694450,NJ,Monmouth,Neptune,Source1,3,40.20301,-74.098811,2017,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-7694861,NJ,Monmouth,Ocean,Source1,4,40.226922,-74.042578,2017,6,Saturday,Rain,False,False,False,False,False,False,False
+A-7694862,NJ,Monmouth,Asbury Park,Source1,4,40.22658,-74.03961,2017,6,Saturday,Rain,False,False,False,False,False,False,False
+A-7695197,NJ,Monmouth,Hazlet,Source1,4,40.433373,-74.18101899999998,2017,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7695208,NJ,Monmouth,Hazlet,Source1,3,40.433373,-74.18101899999998,2017,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7699961,NJ,Monmouth,Wall Township,Source1,4,40.19974000000001,-74.12048,2017,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7703301,NJ,Monmouth,Red Bank,Source1,3,40.34077,-74.10369,2019,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7706498,NJ,Monmouth,Freehold,Source1,4,40.248841,-74.245514,2019,9,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7706499,NJ,Monmouth,Freehold,Source1,4,40.249801,-74.260112,2019,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7713337,NJ,Monmouth,Howell,Source1,4,40.122601,-74.220888,2019,21,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-7715737,NJ,Monmouth,Englishtown,Source1,4,40.310094,-74.30417,2019,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7722475,NJ,Monmouth,Hazlet Township,Source1,4,40.43737,-74.14208,2019,5,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7724901,NJ,Monmouth,Red Bank,Source1,3,40.33354,-74.09872,2019,13,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7725195,NJ,Monmouth,Belford,Source1,3,40.418936,-74.086393,2019,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-7725196,NJ,Monmouth,Belford,Source1,3,40.419104,-74.087594,2019,16,Monday,Cloudy,True,False,False,False,False,False,False
+A-7725197,NJ,Monmouth,Belford,Source1,4,40.41871,-74.08751,2019,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-7725198,NJ,Monmouth,Belford,Source1,4,40.41908,-74.08746,2019,14,Monday,Cloudy,True,False,False,False,False,False,False
+A-7727831,NJ,Monmouth,Red Bank,Source1,3,40.33358,-74.09846999999998,2019,3,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-7733279,NJ,Monmouth,Howell,Source1,4,40.141995,-74.225442,2019,0,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7734410,NJ,Monmouth,Farmingdale,Source1,4,40.225164,-74.170117,2019,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7734412,NJ,Monmouth,Farmingdale,Source1,4,40.2258,-74.158958,2019,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7734462,NJ,Monmouth,Belmar,Source1,3,40.169152,-74.099809,2019,0,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7735825,NJ,Monmouth,Holmdel,Source1,3,40.383586,-74.169208,2019,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7737175,NJ,Monmouth,Belmar,Source1,4,40.17029,-74.096138,2019,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7737211,NJ,Monmouth,Belmar,Source1,3,40.17036,-74.094071,2019,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7742604,NJ,Monmouth,Holmdel,Source1,3,40.40222,-74.19083,2019,6,Tuesday,Storm,False,False,False,False,False,False,False
+A-7744987,NJ,Monmouth,Holmdel,Source1,3,40.391067,-74.18008,2019,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7745296,NJ,Monmouth,Keansburg,Source1,4,40.436501,-74.137924,2019,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-7745297,NJ,Monmouth,Keansburg,Source1,4,40.435453,-74.13158100000003,2019,14,Friday,Cloudy,True,False,False,False,False,False,False
+A-7753935,NJ,Monmouth,Englishtown,Source1,4,40.310814,-74.3042,2019,23,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7758875,NJ,Monmouth,Brielle,Source1,3,40.113606,-74.068523,2019,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7759352,NJ,Monmouth,Farmingdale,Source1,4,40.22709,-74.1443,2019,9,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7760847,NJ,Monmouth,Hazlet,Source1,3,40.4205,-74.21199,2019,5,Friday,Cloudy,False,False,True,False,False,False,False
+A-7760848,NJ,Monmouth,Hazlet,Source1,3,40.42251,-74.20573,2019,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-7760849,NJ,Monmouth,Hazlet,Source1,3,40.41885,-74.20854,2019,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-7762580,NJ,Monmouth,Middletown,Source1,3,40.36923,-74.14276,2019,7,Tuesday,Rain,False,False,False,False,False,False,False
+A-7764307,NJ,Monmouth,Neptune,Source1,4,40.224624,-74.098411,2019,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7770527,NJ,Monmouth,Keyport,Source1,4,40.426782,-74.197404,2019,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7770528,NJ,Monmouth,Keyport,Source1,4,40.427511,-74.19507,2019,4,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7772547,NJ,Monmouth,Middletown,Source1,3,40.36923,-74.14276,2019,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7775275,NJ,Monmouth,Neptune,Source1,4,40.227459,-74.045015,2019,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-7775276,NJ,Monmouth,Asbury Park,Source1,4,40.22658,-74.03961,2019,18,Monday,Cloudy,False,False,False,False,False,False,False

@@ -1,0 +1,586 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-261945,TX,Fort Bend,Sugar Land,Source2,3,29.628090000000004,-95.593384,2016,6,Monday,Rain,False,False,False,False,False,False,False
+A-262813,TX,Fort Bend,Sugar Land,Source2,3,29.57917,-95.651054,2016,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-262878,TX,Fort Bend,Rosenberg,Source2,3,29.547338,-95.747536,2016,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-264442,TX,Fort Bend,Rosenberg,Source2,4,29.5348,-95.856148,2016,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-267671,TX,Fort Bend,Rosenberg,Source2,3,29.546732,-95.746941,2016,13,Saturday,Rain,False,False,False,False,False,False,False
+A-269607,TX,Fort Bend,Stafford,Source2,3,29.644073,-95.57592,2017,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-270744,TX,Fort Bend,Sugar Land,Source2,3,29.560902,-95.691994,2017,6,Monday,Rain,False,False,False,False,False,False,False
+A-270869,TX,Fort Bend,Stafford,Source2,3,29.646027,-95.573807,2017,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-272481,TX,Fort Bend,Sugar Land,Source2,3,29.621075,-95.602005,2017,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-273527,TX,Fort Bend,Rosenberg,Source2,3,29.534237,-95.856438,2017,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-273582,TX,Fort Bend,Sugar Land,Source2,3,29.607054,-95.613708,2017,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-275199,TX,Fort Bend,Sugar Land,Source2,3,29.561623,-95.690147,2016,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-276010,TX,Fort Bend,Sugar Land,Source2,3,29.607225,-95.613411,2016,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-276149,TX,Fort Bend,Rosenberg,Source2,3,29.546732,-95.746941,2016,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-279169,TX,Fort Bend,Sugar Land,Source2,3,29.628128000000004,-95.593193,2016,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-280787,TX,Fort Bend,Katy,Source2,3,29.777262,-95.832336,2016,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-281743,TX,Fort Bend,Katy,Source2,3,29.777262,-95.832336,2016,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-285527,TX,Fort Bend,Stafford,Source2,3,29.638788,-95.581589,2016,11,Monday,Cloudy,True,False,False,False,False,False,False
+A-285798,TX,Fort Bend,Sugar Land,Source2,3,29.598564,-95.62252,2016,10,Tuesday,Rain,True,False,False,False,False,False,False
+A-286872,TX,Fort Bend,Stafford,Source2,3,29.638788,-95.581589,2016,7,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-287124,TX,Fort Bend,Richmond,Source2,3,29.546581,-95.746414,2016,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-287303,TX,Fort Bend,Sugar Land,Source2,3,29.628128000000004,-95.593193,2016,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-288641,TX,Fort Bend,Sugar Land,Source2,3,29.580805,-95.648056,2016,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-290496,TX,Fort Bend,Rosenberg,Source2,3,29.546732,-95.746941,2016,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-290821,TX,Fort Bend,Stafford,Source2,3,29.64389000000001,-95.576118,2016,19,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-290834,TX,Fort Bend,Stafford,Source2,3,29.644123,-95.575867,2016,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-291323,TX,Fort Bend,Sugar Land,Source2,3,29.628090000000004,-95.593384,2016,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-295379,TX,Fort Bend,Sugar Land,Source2,3,29.564631,-95.676094,2016,17,Wednesday,Rain,False,False,False,False,False,False,False
+A-297682,TX,Fort Bend,Stafford,Source2,3,29.634083,-95.586792,2016,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-298202,TX,Fort Bend,Stafford,Source2,3,29.638788,-95.581589,2016,9,Thursday,Cloudy,True,False,False,False,False,False,False
+A-299785,TX,Fort Bend,Sugar Land,Source2,3,29.565094,-95.672569,2016,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-303053,TX,Fort Bend,Sugar Land,Source2,3,29.556162,-95.716927,2016,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-303702,TX,Fort Bend,Sugar Land,Source2,3,29.621572,-95.601791,2016,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-303877,TX,Fort Bend,Stafford,Source2,3,29.644484,-95.57589,2016,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-304227,TX,Fort Bend,Sugar Land,Source2,3,29.598564,-95.62252,2016,5,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-304863,TX,Fort Bend,Stafford,Source2,3,29.639097,-95.581398,2016,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-306811,TX,Fort Bend,Sugar Land,Source2,3,29.62141,-95.601608,2016,7,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-332447,TX,Fort Bend,Sugar Land,Source2,3,29.581095,-95.64817,2017,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-333070,TX,Fort Bend,Sugar Land,Source2,3,29.628090000000004,-95.593384,2017,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-333265,TX,Fort Bend,Sugar Land,Source2,3,29.621504,-95.601311,2017,8,Thursday,Cloudy,True,False,False,False,False,False,False
+A-333604,TX,Fort Bend,Richmond,Source2,3,29.54837,-95.745872,2017,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-333733,TX,Fort Bend,Stafford,Source2,3,29.639315000000003,-95.581322,2017,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-384842,TX,Fort Bend,Richmond,Source2,3,29.54690900000001,-95.746521,2017,10,Tuesday,Rain,False,False,False,False,False,False,False
+A-388540,TX,Fort Bend,Rosenberg,Source2,3,29.546732,-95.746941,2017,8,Sunday,Rain,False,False,False,False,False,False,False
+A-393114,TX,Fort Bend,Rosenberg,Source2,3,29.534113,-95.776672,2017,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-428269,TX,Fort Bend,Sugar Land,Source2,3,29.628128000000004,-95.593193,2017,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-428446,TX,Fort Bend,Sugar Land,Source2,3,29.607193,-95.613449,2017,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-431748,TX,Fort Bend,Sugar Land,Source2,3,29.621838,-95.601418,2017,10,Tuesday,Rain,True,False,False,False,False,False,False
+A-431984,TX,Fort Bend,Sugar Land,Source2,3,29.561689,-95.689819,2017,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-431985,TX,Fort Bend,Sugar Land,Source2,3,29.561354,-95.689728,2017,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-432056,TX,Fort Bend,Richmond,Source2,3,29.556002000000003,-95.717697,2017,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-432637,TX,Fort Bend,Katy,Source2,3,29.777576,-95.819649,2017,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-433336,TX,Fort Bend,Stafford,Source2,3,29.639059000000003,-95.581703,2017,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-433754,TX,Fort Bend,Stafford,Source2,3,29.639166,-95.58149,2017,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-435349,TX,Fort Bend,Rosenberg,Source2,3,29.53211,-95.808235,2017,7,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-450462,TX,Fort Bend,Katy,Source2,3,29.777262,-95.832336,2017,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-451217,TX,Fort Bend,Stafford,Source2,3,29.643867,-95.576134,2017,13,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-452197,TX,Fort Bend,Stafford,Source2,3,29.639097,-95.581398,2017,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-452707,TX,Fort Bend,Houston,Source2,3,29.582323,-95.471153,2017,8,Monday,Rain,False,False,False,False,False,False,False
+A-484426,TX,Fort Bend,Sugar Land,Source2,3,29.5952,-95.625847,2017,19,Saturday,Cloudy,False,False,False,False,False,False,False
+A-485021,TX,Fort Bend,Stafford,Source2,3,29.64397,-95.576431,2017,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-486540,TX,Fort Bend,Sugar Land,Source2,3,29.621838,-95.601418,2017,7,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-488690,TX,Fort Bend,Katy,Source2,3,29.777262,-95.832336,2017,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-507733,TX,Fort Bend,Katy,Source2,3,29.777576,-95.819878,2017,10,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-508011,TX,Fort Bend,Sugar Land,Source2,3,29.556162,-95.716927,2017,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-508442,TX,Fort Bend,Sugar Land,Source2,3,29.598564,-95.62252,2017,6,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-511287,TX,Fort Bend,Sugar Land,Source2,4,29.556042,-95.715805,2017,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-513697,TX,Fort Bend,Sugar Land,Source2,3,29.628052,-95.593666,2022,14,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-517981,TX,Fort Bend,Rosenberg,Source2,3,29.542715,-95.757019,2022,16,Friday,Storm,True,False,False,False,False,False,False
+A-547179,TX,Fort Bend,Katy,Source2,3,29.777229,-95.819351,2022,16,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-548179,TX,Fort Bend,Sugar Land,Source2,3,29.621431,-95.601952,2022,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-548377,TX,Fort Bend,Stafford,Source2,3,29.637695,-95.583702,2022,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-587441,TX,Fort Bend,Sugar Land,Source2,4,29.579208,-95.650787,2022,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-587941,TX,Fort Bend,Sugar Land,Source2,4,29.589621,-95.634201,2022,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-598654,TX,Fort Bend,Stafford,Source2,3,29.646235,-95.573799,2022,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-614806,TX,Fort Bend,Sugar Land,Source2,3,29.567999,-95.66819,2022,6,Sunday,Storm,False,False,False,False,False,False,False
+A-625961,TX,Fort Bend,Rosenberg,Source2,3,29.54262,-95.755867,2022,12,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-626098,TX,Fort Bend,Sugar Land,Source2,3,29.622654,-95.599808,2022,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-664015,TX,Fort Bend,Rosenberg,Source2,3,29.531805,-95.821976,2022,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-664271,TX,Fort Bend,Rosenberg,Source2,3,29.533552,-95.836548,2022,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-671536,TX,Fort Bend,Katy,Source2,3,29.7773,-95.819397,2022,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-674547,TX,Fort Bend,Katy,Source2,3,29.777439,-95.833611,2022,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-675622,TX,Fort Bend,Sugar Land,Source2,3,29.598417,-95.622459,2022,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-683110,TX,Fort Bend,Stafford,Source2,3,29.646929,-95.573029,2022,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-684789,TX,Fort Bend,Katy,Source2,3,29.77696,-95.832779,2022,16,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-700771,TX,Fort Bend,Katy,Source2,3,29.777796,-95.831863,2022,18,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-705912,TX,Fort Bend,Sugar Land,Source2,3,29.562346,-95.686554,2022,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-713573,TX,Fort Bend,Katy,Source2,3,29.7773,-95.819397,2022,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-731992,TX,Fort Bend,Sugar Land,Source3,3,29.628595,-95.592941,2022,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-764455,TX,Fort Bend,Sugar Land,Source2,3,29.628052,-95.593666,2021,4,Monday,Cloudy,True,False,False,False,False,False,False
+A-776091,TX,Fort Bend,Sugar Land,Source2,3,29.622654,-95.599808,2021,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-797719,TX,Fort Bend,Katy,Source2,3,29.7773,-95.819397,2021,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-805139,TX,Fort Bend,Stafford,Source2,3,29.643057,-95.577011,2021,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-806236,TX,Fort Bend,Katy,Source2,3,29.7773,-95.819397,2021,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-817109,TX,Fort Bend,Stafford,Source2,3,29.644026,-95.576157,2021,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-824616,TX,Fort Bend,Missouri City,Source2,3,29.596684000000003,-95.505203,2021,8,Thursday,Storm,False,False,False,False,False,False,False
+A-829004,TX,Fort Bend,East Bernard,Source2,3,29.54019000000001,-95.989349,2021,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-832438,TX,Fort Bend,Stafford,Source2,3,29.646929,-95.573029,2021,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-865792,TX,Fort Bend,Katy,Source2,3,29.7773,-95.819397,2021,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-868973,TX,Fort Bend,Stafford,Source2,3,29.644026,-95.576157,2021,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-871218,TX,Fort Bend,Sugar Land,Source2,3,29.58923,-95.634567,2021,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-878654,TX,Fort Bend,Stafford,Source2,3,29.646521000000003,-95.57299,2021,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-893221,TX,Fort Bend,Stafford,Source2,3,29.644026,-95.576157,2021,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-896413,TX,Fort Bend,Sugar Land,Source2,3,29.621399,-95.60199,2021,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-897067,TX,Fort Bend,Sugar Land,Source2,3,29.568203000000004,-95.668388,2021,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-902438,TX,Fort Bend,Katy,Source2,3,29.777256,-95.850899,2021,13,Monday,Rain,False,False,False,False,False,False,False
+A-951343,TX,Fort Bend,Missouri City,Source2,3,29.61887,-95.538399,2021,21,Saturday,Clear / Fair,True,True,False,False,False,False,True
+A-954093,TX,Fort Bend,Sugar Land,Source2,3,29.606808,-95.613892,2021,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-968228,TX,Fort Bend,Stafford,Source3,3,29.639109,-95.581467,2021,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-984942,TX,Fort Bend,Stafford,Source2,3,29.639109,-95.581467,2021,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-991800,TX,Fort Bend,Stafford,Source2,3,29.64397,-95.57695,2021,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1006061,TX,Fort Bend,Stafford,Source2,3,29.63941,-95.581161,2021,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1010417,TX,Fort Bend,Katy,Source2,3,29.7773,-95.819397,2021,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1012144,TX,Fort Bend,Sugar Land,Source2,3,29.607449,-95.613426,2021,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1016127,TX,Fort Bend,Stafford,Source2,3,29.634769,-95.586319,2021,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1018065,TX,Fort Bend,Sugar Land,Source2,3,29.625713,-95.605904,2021,16,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-1019750,TX,Fort Bend,Stafford,Source2,3,29.62833,-95.59362,2021,17,Thursday,Storm,True,False,False,False,False,False,False
+A-1036228,TX,Fort Bend,Stafford,Source2,3,29.644026,-95.576157,2021,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1036237,TX,Fort Bend,Stafford,Source2,3,29.644423,-95.576447,2021,17,Friday,Cloudy,True,False,False,False,False,False,False
+A-1039734,TX,Fort Bend,Sugar Land,Source2,4,29.605822,-95.615074,2021,16,Wednesday,Rain,False,False,False,False,False,False,False
+A-1105166,TX,Fort Bend,Sugar Land,Source2,3,29.605822,-95.615074,2021,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1112406,TX,Fort Bend,Katy,Source2,3,29.77725,-95.850296,2021,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1112407,TX,Fort Bend,Katy,Source2,3,29.777515,-95.849861,2021,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1112409,TX,Fort Bend,Stafford,Source2,3,29.638842,-95.5812,2021,7,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-1139668,TX,Fort Bend,Richmond,Source2,3,29.546743,-95.7463,2021,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1153019,TX,Fort Bend,Katy,Source2,3,29.7773,-95.819397,2021,9,Monday,Sin dato,False,False,False,False,False,False,False
+A-1158071,TX,Fort Bend,Stafford,Source2,3,29.638105,-95.582329,2021,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1158080,TX,Fort Bend,Sugar Land,Source2,3,29.619488,-95.603516,2021,17,Thursday,Storm,False,False,False,False,False,False,False
+A-1167771,TX,Fort Bend,Stafford,Source2,3,29.644026,-95.576157,2021,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1169200,TX,Fort Bend,Sugar Land,Source2,3,29.62124600000001,-95.602165,2021,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1173750,TX,Fort Bend,Richmond,Source2,3,29.667040000000004,-95.747307,2021,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1184751,TX,Fort Bend,Sugar Land,Source2,3,29.612549,-95.608398,2021,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-1202293,TX,Fort Bend,Katy,Source2,3,29.7773,-95.819397,2021,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1202333,TX,Fort Bend,Sugar Land,Source2,3,29.621351,-95.602051,2021,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1207541,TX,Fort Bend,Stafford,Source2,4,29.635124,-95.585831,2021,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1209358,TX,Fort Bend,Sugar Land,Source2,3,29.628052,-95.593666,2020,12,Thursday,Rain,True,False,False,False,False,False,False
+A-1216313,TX,Fort Bend,Katy,Source2,3,29.7773,-95.819397,2020,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1222195,TX,Fort Bend,Sugar Land,Source2,3,29.605822,-95.615074,2020,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1232119,TX,Fort Bend,Stafford,Source2,3,29.648712,-95.571495,2020,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1269949,TX,Fort Bend,Katy,Source2,3,29.777546,-95.820702,2020,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1273824,TX,Fort Bend,Sugar Land,Source2,3,29.589621,-95.634201,2020,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1273827,TX,Fort Bend,Sugar Land,Source2,3,29.589621,-95.634201,2020,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1273858,TX,Fort Bend,Richmond,Source2,3,29.700859,-95.775558,2020,18,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-1273859,TX,Fort Bend,Katy,Source2,3,29.777119,-95.851463,2020,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1275555,TX,Fort Bend,Sugar Land,Source2,4,29.564837,-95.674904,2020,5,Monday,Cloudy,False,False,True,False,False,False,False
+A-1285900,TX,Fort Bend,Stafford,Source2,3,29.643307,-95.576752,2020,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1293616,TX,Fort Bend,Stafford,Source2,3,29.644026,-95.576157,2020,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1298388,TX,Fort Bend,Sugar Land,Source2,4,29.607092,-95.613403,2020,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-1307737,TX,Fort Bend,Stafford,Source2,3,29.646929,-95.573029,2020,12,Monday,Rain,False,False,False,False,False,False,False
+A-1362251,TX,Fort Bend,Katy,Source2,3,29.77762,-95.817757,2020,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1376608,TX,Fort Bend,Katy,Source2,3,29.77725,-95.819519,2020,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1392945,TX,Fort Bend,Stafford,Source2,3,29.635124,-95.585831,2020,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-1399628,TX,Fort Bend,Sugar Land,Source2,3,29.621889000000003,-95.602005,2020,15,Saturday,Storm,True,False,False,False,False,False,False
+A-1404469,TX,Fort Bend,Sugar Land,Source2,3,29.589621,-95.634201,2020,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1410054,TX,Fort Bend,Richmond,Source2,3,29.560965000000003,-95.691704,2020,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1412926,TX,Fort Bend,Stafford,Source2,3,29.646088,-95.573975,2020,16,Wednesday,Rain,False,False,False,False,False,False,False
+A-1414388,TX,Fort Bend,Richmond,Source2,3,29.548269,-95.74308,2020,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1435777,TX,Fort Bend,Stafford,Source2,3,29.635124,-95.585831,2020,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1437154,TX,Fort Bend,Sugar Land,Source2,3,29.582359000000004,-95.645714,2020,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1462031,TX,Fort Bend,Katy,Source2,3,29.77725,-95.819519,2020,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1465210,TX,Fort Bend,Stafford,Source2,3,29.648712,-95.571495,2020,9,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1466176,TX,Fort Bend,Sugar Land,Source2,3,29.622654,-95.599808,2020,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1471262,TX,Fort Bend,Katy,Source2,3,29.777086,-95.850464,2020,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1473385,TX,Fort Bend,Stafford,Source2,4,29.644037,-95.576874,2020,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1479761,TX,Fort Bend,Katy,Source2,3,29.777796,-95.831863,2020,13,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-1489631,TX,Fort Bend,Rosenberg,Source2,3,29.533978,-95.840065,2020,8,Thursday,Storm,False,False,False,False,False,False,False
+A-1489639,TX,Fort Bend,Rosenberg,Source2,3,29.532005,-95.820656,2020,8,Thursday,Storm,False,False,False,False,False,False,False
+A-1501390,TX,Fort Bend,Katy,Source2,3,29.77696,-95.832779,2020,6,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-1520334,TX,Fort Bend,Sugar Land,Source2,3,29.579445,-95.65033,2020,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-1526184,TX,Fort Bend,Sugar Land,Source2,3,29.621328,-95.601662,2020,16,Thursday,Cloudy,True,False,False,False,False,False,False
+A-1560515,TX,Fort Bend,Stafford,Source2,3,29.646929,-95.573029,2020,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1562738,TX,Fort Bend,Richmond,Source2,3,29.560423,-95.69519,2020,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1579689,TX,Fort Bend,Stafford,Source2,3,29.636944,-95.583992,2020,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1579714,TX,Fort Bend,Sugar Land,Source2,3,29.628052,-95.593666,2020,8,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-1587216,TX,Fort Bend,Katy,Source2,3,29.777311,-95.819588,2020,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1592123,TX,Fort Bend,Katy,Source2,4,29.777311,-95.819588,2020,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1602239,TX,Fort Bend,Sugar Land,Source2,3,29.581255,-95.647942,2020,12,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-1612136,TX,Fort Bend,Sugar Land,Source2,3,29.62801,-95.592789,2020,16,Saturday,Cloudy,True,False,False,False,False,False,False
+A-1620795,TX,Fort Bend,Katy,Source2,3,29.77725,-95.850044,2020,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1624674,TX,Fort Bend,Stafford,Source2,3,29.645817,-95.574249,2020,8,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1642649,TX,Fort Bend,Sugar Land,Source2,3,29.628052,-95.593666,2020,17,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-1650895,TX,Fort Bend,Sugar Land,Source2,3,29.582359000000004,-95.645714,2020,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1657576,TX,Fort Bend,Rosenberg,Source2,3,29.54657700000001,-95.74704,2020,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1671736,TX,Fort Bend,Sugar Land,Source2,3,29.580872,-95.647812,2020,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1681172,TX,Fort Bend,Stafford,Source2,3,29.645817,-95.574249,2019,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-1731920,TX,Fort Bend,Sugar Land,Source2,3,29.628052,-95.593666,2019,6,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-1741317,TX,Fort Bend,Sugar Land,Source2,3,29.5979,-95.62278,2019,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1741386,TX,Fort Bend,Sugar Land,Source2,3,29.59516,-95.626518,2019,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1755818,TX,Fort Bend,Stafford,Source2,3,29.643265000000003,-95.576782,2019,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1755868,TX,Fort Bend,Missouri City,Source2,3,29.60786400000001,-95.498207,2019,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1761377,TX,Fort Bend,Sugar Land,Source2,3,29.622654,-95.599808,2019,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1776197,TX,Fort Bend,Rosenberg,Source2,3,29.546707,-95.747086,2019,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1790702,TX,Fort Bend,Katy,Source2,3,29.77743,-95.834541,2019,4,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-1797261,TX,Fort Bend,Katy,Source2,3,29.702782,-95.77446,2019,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-1799930,TX,Fort Bend,Richmond,Source2,3,29.556076,-95.717308,2019,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1799931,TX,Fort Bend,Richmond,Source2,3,29.557039000000003,-95.713249,2019,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1805628,TX,Fort Bend,Richmond,Source2,3,29.556076,-95.717308,2019,16,Thursday,Rain,False,False,False,False,False,False,False
+A-1812561,TX,Fort Bend,Sugar Land,Source2,3,29.590076,-95.633606,2019,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-1818423,TX,Fort Bend,Sugar Land,Source2,3,29.606049,-95.614937,2019,5,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-1828512,TX,Fort Bend,Katy,Source2,3,29.77696,-95.832779,2019,15,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-1836575,TX,Fort Bend,Sugar Land,Source2,3,29.621395,-95.601563,2019,6,Thursday,Cloudy,True,False,False,False,False,False,False
+A-1855012,TX,Fort Bend,Stafford,Source2,3,29.642794,-95.577286,2019,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1881971,TX,Fort Bend,Rosenberg,Source2,3,29.534769,-95.77565,2019,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1884256,TX,Fort Bend,Richmond,Source2,3,29.547119,-95.745789,2019,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1884307,TX,Fort Bend,Sugar Land,Source2,4,29.622114,-95.601845,2019,14,Friday,Storm,True,False,False,False,False,False,False
+A-1909220,TX,Fort Bend,Sugar Land,Source2,3,29.580709,-95.648071,2019,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1915381,TX,Fort Bend,Richmond,Source2,3,29.556076,-95.717308,2019,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-1917860,TX,Fort Bend,Stafford,Source2,3,29.638557,-95.581848,2019,8,Tuesday,Rain,False,False,False,False,False,False,False
+A-1936418,TX,Fort Bend,Katy,Source2,3,29.77696,-95.832779,2019,16,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-1943671,TX,Fort Bend,Richmond,Source2,3,29.556076,-95.717308,2019,16,Friday,Storm,False,False,False,False,False,False,False
+A-1975399,TX,Fort Bend,Rosenberg,Source2,3,29.53187800000001,-95.809723,2019,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1987981,TX,Fort Bend,Sugar Land,Source2,3,29.562096,-95.686172,2019,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1995603,TX,Fort Bend,Sugar Land,Source2,3,29.621731,-95.60112,2019,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1997710,TX,Fort Bend,Richmond,Source2,3,29.546854,-95.745583,2019,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1997714,TX,Fort Bend,Sugar Land,Source2,3,29.56498,-95.672539,2019,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2007908,TX,Fort Bend,Richmond,Source2,4,29.560392,-95.695267,2019,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2028119,TX,Fort Bend,Rosenberg,Source2,3,29.534151,-95.776527,2019,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2056457,TX,Fort Bend,Richmond,Source2,3,29.54734,-95.742996,2019,6,Monday,Rain,False,False,False,False,False,False,False
+A-2056458,TX,Fort Bend,Rosenberg,Source2,3,29.534065,-95.77684,2019,6,Monday,Rain,False,False,False,False,False,False,False
+A-2056459,TX,Fort Bend,Sugar Land,Source2,3,29.62157100000001,-95.601334,2019,6,Monday,Rain,True,False,False,False,False,False,False
+A-2061157,TX,Fort Bend,Stafford,Source2,3,29.644026,-95.576157,2019,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2088764,TX,Fort Bend,Sugar Land,Source2,3,29.606049,-95.614937,2019,11,Tuesday,Storm,False,False,True,False,False,False,False
+A-2099439,TX,Fort Bend,Katy,Source2,3,29.7773,-95.831047,2019,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2106492,TX,Fort Bend,Stafford,Source2,3,29.62833,-95.59362,2019,15,Thursday,Cloudy,True,False,False,False,False,False,False
+A-2136852,TX,Fort Bend,Stafford,Source2,3,29.645109,-95.574799,2019,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2157736,TX,Fort Bend,Sugar Land,Source2,3,29.621481,-95.601456,2019,8,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-2186390,TX,Fort Bend,Rosenberg,Source2,3,29.534376,-95.857445,2019,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2209747,TX,Fort Bend,Sugar Land,Source2,3,29.580978,-95.648026,2019,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2209749,TX,Fort Bend,Stafford,Source2,3,29.644096,-95.576149,2019,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-2244935,TX,Fort Bend,Rosenberg,Source2,3,29.546473,-95.746635,2019,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2263263,TX,Fort Bend,Stafford,Source2,3,29.645086,-95.574821,2019,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-2265877,TX,Fort Bend,Stafford,Source3,3,29.628237,-95.592918,2019,7,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-2268600,TX,Fort Bend,Katy,Source2,3,29.777168,-95.82016,2019,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2268666,TX,Fort Bend,Stafford,Source2,3,29.639111,-95.581451,2019,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2281030,TX,Fort Bend,Rosenberg,Source2,3,29.53347,-95.83889,2019,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2283585,TX,Fort Bend,Rosenberg,Source2,3,29.531845,-95.81723,2019,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2288899,TX,Fort Bend,Sugar Land,Source2,3,29.562025,-95.686516,2019,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-2294824,TX,Fort Bend,Sugar Land,Source2,3,29.622049,-95.601135,2019,7,Tuesday,Rain,False,False,False,False,False,False,False
+A-2305702,TX,Fort Bend,Richmond,Source2,3,29.546413,-95.74649,2019,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-2308067,TX,Fort Bend,Stafford,Source2,3,29.643637,-95.576385,2019,6,Tuesday,Rain,False,False,True,False,False,False,False
+A-2310807,TX,Fort Bend,Katy,Source2,3,29.77742000000001,-95.832024,2019,5,Wednesday,Fog / Low visibility,True,False,False,False,False,False,False
+A-2313887,TX,Fort Bend,Sugar Land,Source2,3,29.628071,-95.593353,2019,20,Wednesday,Rain,False,False,False,False,False,False,False
+A-2316122,TX,Fort Bend,Sugar Land,Source3,3,29.621889000000003,-95.602005,2019,16,Thursday,Cloudy,True,False,False,False,False,False,False
+A-2319558,TX,Fort Bend,Stafford,Source2,3,29.644096,-95.576149,2019,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2343672,TX,Fort Bend,Sugar Land,Source2,3,29.607332,-95.613159,2019,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2349844,TX,Fort Bend,Stafford,Source2,3,29.638048,-95.58239,2019,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2355430,TX,Fort Bend,Stafford,Source2,3,29.639111,-95.581451,2019,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2374000,TX,Fort Bend,Katy,Source2,3,29.777262,-95.832336,2018,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2407129,TX,Fort Bend,Sugar Land,Source2,3,29.621368,-95.601601,2018,17,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-2411330,TX,Fort Bend,Stafford,Source2,3,29.636232,-95.584824,2018,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2411359,TX,Fort Bend,Sugar Land,Source2,3,29.562235,-95.686157,2018,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2426266,TX,Fort Bend,Sugar Land,Source2,3,29.621838,-95.601418,2018,17,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-2443603,TX,Fort Bend,Sugar Land,Source2,3,29.556162,-95.716927,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2463101,TX,Fort Bend,Sugar Land,Source2,3,29.598564,-95.62252,2018,16,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-2472950,TX,Fort Bend,Sugar Land,Source2,3,29.57917,-95.651054,2018,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2476413,TX,Fort Bend,Sugar Land,Source2,3,29.621838,-95.601418,2018,8,Friday,Cloudy,True,False,False,False,False,False,False
+A-2477332,TX,Fort Bend,Sugar Land,Source2,3,29.621738,-95.601547,2018,7,Saturday,Fog / Low visibility,True,False,False,False,False,False,False
+A-2486827,TX,Fort Bend,Sugar Land,Source2,3,29.598564,-95.62252,2018,17,Thursday,Cloudy,True,False,False,False,False,False,False
+A-2501887,TX,Fort Bend,Sugar Land,Source2,3,29.621838,-95.601418,2018,16,Friday,Cloudy,True,False,False,False,False,False,False
+A-2522230,TX,Fort Bend,Sugar Land,Source2,3,29.615332,-95.606209,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2538424,TX,Fort Bend,Sugar Land,Source2,3,29.628090000000004,-95.593384,2018,6,Tuesday,Rain,False,False,False,False,False,False,False
+A-2547111,TX,Fort Bend,Richmond,Source2,3,29.546738,-95.74604,2018,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2557409,TX,Fort Bend,Sugar Land,Source2,3,29.599667,-95.621376,2018,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2565402,TX,Fort Bend,Sugar Land,Source2,3,29.568228,-95.66819,2018,18,Wednesday,Rain,False,False,False,False,False,False,False
+A-2568007,TX,Fort Bend,Sugar Land,Source2,3,29.56114,-95.690742,2018,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2568104,TX,Fort Bend,Stafford,Source2,3,29.64418,-95.57621,2018,20,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-2574800,TX,Fort Bend,Stafford,Source2,3,29.638788,-95.581589,2018,8,Monday,Cloudy,True,False,False,False,False,False,False
+A-2574846,TX,Fort Bend,Stafford,Source2,3,29.639166,-95.58149,2018,19,Monday,Rain,False,False,False,False,False,False,False
+A-2609458,TX,Fort Bend,Stafford,Source2,3,29.638788,-95.581589,2018,10,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-2609460,TX,Fort Bend,Stafford,Source2,3,29.638788,-95.581589,2018,12,Wednesday,Rain,True,False,False,False,False,False,False
+A-2622940,TX,Fort Bend,Sugar Land,Source2,3,29.621838,-95.601418,2018,17,Thursday,Cloudy,True,False,False,False,False,False,False
+A-2654589,TX,Fort Bend,Sugar Land,Source2,3,29.56114,-95.690742,2018,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2660099,TX,Fort Bend,Katy,Source2,3,29.777576,-95.819649,2018,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2668500,TX,Fort Bend,Katy,Source2,3,29.777262,-95.832336,2018,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2679065,TX,Fort Bend,Katy,Source2,4,29.777275,-95.850067,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2692373,TX,Fort Bend,Sugar Land,Source2,3,29.621838,-95.601418,2018,14,Sunday,Rain,True,False,False,False,False,False,False
+A-2734721,TX,Fort Bend,Katy,Source2,3,29.777576,-95.819649,2018,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2741271,TX,Fort Bend,Sugar Land,Source2,3,29.568228,-95.66819,2018,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-2746080,TX,Fort Bend,Sugar Land,Source2,3,29.621838,-95.601418,2018,17,Wednesday,Storm,True,False,False,False,False,False,False
+A-2746095,TX,Fort Bend,Richmond,Source2,3,29.561651,-95.690002,2018,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2750912,TX,Fort Bend,Sugar Land,Source2,3,29.57917,-95.651054,2018,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2777674,TX,Fort Bend,Stafford,Source2,3,29.639091,-95.58152,2018,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-2810689,TX,Fort Bend,Richmond,Source2,3,29.546776,-95.745949,2018,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2820852,TX,Fort Bend,Stafford,Source2,3,29.644316,-95.575661,2018,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2825767,TX,Fort Bend,Sugar Land,Source2,3,29.556162,-95.716927,2018,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2828411,TX,Fort Bend,Rosenberg,Source2,3,29.523905,-95.874321,2018,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2833777,TX,Fort Bend,Katy,Source2,3,29.777262,-95.832336,2018,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2833778,TX,Fort Bend,Katy,Source2,3,29.777262,-95.832336,2018,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2848410,TX,Fort Bend,Sugar Land,Source2,3,29.604549,-95.616714,2018,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-2857577,TX,Fort Bend,Sugar Land,Source2,3,29.556162,-95.716927,2018,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2865443,TX,Fort Bend,Rosenberg,Source2,3,29.546732,-95.746941,2018,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2874267,TX,Fort Bend,Katy,Source2,3,29.777262,-95.832336,2018,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-2879380,TX,Fort Bend,Stafford,Source2,3,29.638788,-95.581589,2018,9,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-2891339,TX,Fort Bend,Stafford,Source2,3,29.643742,-95.576279,2018,9,Tuesday,Clear / Fair,True,False,True,False,False,False,False
+A-2894043,TX,Fort Bend,Stafford,Source2,3,29.639097,-95.581398,2018,22,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2899425,TX,Fort Bend,Sugar Land,Source2,3,29.56114,-95.690742,2018,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2909118,TX,Fort Bend,Stafford,Source2,3,29.644369,-95.576508,2018,6,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-2914669,TX,Fort Bend,Rosenberg,Source2,3,29.532694,-95.786514,2018,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2914688,TX,Fort Bend,Sugar Land,Source2,3,29.561317,-95.689903,2018,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2954803,TX,Fort Bend,Sugar Land,Source2,3,29.621838,-95.601418,2018,9,Monday,Cloudy,True,False,False,False,False,False,False
+A-2977004,TX,Fort Bend,Sugar Land,Source2,3,29.626337,-95.594955,2018,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2977009,TX,Fort Bend,Sugar Land,Source2,3,29.626337,-95.594955,2018,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2994211,TX,Fort Bend,Sugar Land,Source2,3,29.628128000000004,-95.593193,2018,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2997156,TX,Fort Bend,Katy,Source2,3,29.777576,-95.819649,2018,10,Wednesday,Rain,False,False,False,False,False,False,False
+A-3020621,TX,Fort Bend,Stafford,Source2,3,29.64418,-95.575806,2018,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-3031249,TX,Fort Bend,Sugar Land,Source2,3,29.589561,-95.634659,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-3044056,TX,Fort Bend,Sugar Land,Source2,3,29.628128000000004,-95.593193,2018,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3046719,TX,Fort Bend,Sugar Land,Source2,3,29.598564,-95.62252,2018,16,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-3050138,TX,Fort Bend,Sugar Land,Source2,3,29.598564,-95.62252,2018,21,Saturday,Cloudy,True,False,False,False,False,False,False
+A-3061502,TX,Fort Bend,Sugar Land,Source2,3,29.57917,-95.651054,2018,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3061524,TX,Fort Bend,Sugar Land,Source2,3,29.581038,-95.648094,2018,16,Thursday,Rain,False,False,False,False,False,False,False
+A-3061525,TX,Fort Bend,Sugar Land,Source2,3,29.581038,-95.648094,2018,16,Thursday,Rain,False,False,False,False,False,False,False
+A-3075159,TX,Fort Bend,Rosenberg,Source2,3,29.546732,-95.746941,2018,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3079295,TX,Fort Bend,Sugar Land,Source2,3,29.556162,-95.716927,2018,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3102837,TX,Fort Bend,Sugar Land,Source2,3,29.556162,-95.716927,2017,9,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3108305,TX,Fort Bend,Stafford,Source2,3,29.641174,-95.565155,2017,19,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-3139648,TX,Fort Bend,Sugar Land,Source2,3,29.569035,-95.666489,2017,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3170244,TX,Fort Bend,Sugar Land,Source2,3,29.621838,-95.601418,2017,12,Monday,Cloudy,True,False,False,False,False,False,False
+A-3177144,TX,Fort Bend,Sugar Land,Source2,3,29.561317,-95.689903,2017,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3179401,TX,Fort Bend,Sugar Land,Source2,3,29.60873,-95.612015,2017,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-3182862,TX,Fort Bend,Sugar Land,Source2,3,29.581018,-95.64772,2017,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3214767,TX,Fort Bend,Stafford,Source2,3,29.638788,-95.581589,2017,14,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-3227058,TX,Fort Bend,Stafford,Source2,3,29.613737,-95.56456,2017,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3236669,TX,Fort Bend,Stafford,Source2,3,29.644024,-95.575974,2017,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3236679,TX,Fort Bend,Sugar Land,Source2,3,29.621838,-95.601418,2017,7,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-3242333,TX,Fort Bend,Sugar Land,Source2,3,29.598564,-95.62252,2017,15,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-3242335,TX,Fort Bend,Sugar Land,Source2,3,29.615332,-95.606209,2017,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3250824,TX,Fort Bend,Sugar Land,Source2,3,29.56813,-95.668243,2017,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3258754,TX,Fort Bend,Sugar Land,Source2,3,29.621838,-95.601418,2017,5,Friday,Cloudy,True,False,False,False,False,False,False
+A-3258860,TX,Fort Bend,Sugar Land,Source2,3,29.56114,-95.690742,2017,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-3262941,TX,Fort Bend,Sugar Land,Source2,3,29.561653000000003,-95.689995,2017,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3267842,TX,Fort Bend,Sugar Land,Source2,3,29.598564,-95.62252,2017,9,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-3267888,TX,Fort Bend,Rosenberg,Source2,4,29.534237,-95.856438,2017,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3270225,TX,Fort Bend,Rosenberg,Source2,3,29.546732,-95.746941,2017,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3272671,TX,Fort Bend,Sugar Land,Source2,3,29.57044,-95.664665,2017,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-3315839,TX,Fort Bend,Rosenberg,Source2,3,29.53194,-95.808357,2017,16,Monday,Cloudy,True,False,False,False,False,False,False
+A-3337578,TX,Fort Bend,Stafford,Source2,3,29.64418,-95.57621,2017,16,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-3352678,TX,Fort Bend,Stafford,Source2,3,29.638788,-95.581589,2017,14,Wednesday,Rain,True,False,False,False,False,False,False
+A-3361861,TX,Fort Bend,Sugar Land,Source2,3,29.56114,-95.690742,2017,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-3364608,TX,Fort Bend,Rosenberg,Source2,3,29.546732,-95.746941,2017,6,Tuesday,Rain,False,False,False,False,False,False,False
+A-3378862,TX,Fort Bend,Rosenberg,Source2,3,29.534237,-95.856438,2017,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3425130,TX,Fort Bend,Rosenberg,Source1,3,29.53162,-95.82205,2016,8,Sunday,Rain,False,False,False,False,False,False,False
+A-3425147,TX,Fort Bend,Sugar Land,Source1,3,29.59598,-95.62517,2016,23,Sunday,Cloudy,False,False,True,False,False,False,False
+A-3425588,TX,Fort Bend,Sugar Land,Source1,3,29.584570000000006,-95.64246,2016,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3425959,TX,Fort Bend,Stafford,Source1,3,29.64401,-95.57599,2016,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3426327,TX,Fort Bend,Rosenberg,Source1,4,29.534549,-95.844745,2016,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3426513,TX,Fort Bend,Stafford,Source1,3,29.64401,-95.57599,2016,3,Friday,Cloudy,False,False,False,False,False,False,False
+A-3427564,TX,Fort Bend,Richmond,Source1,3,29.55474,-95.722081,2016,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3429531,TX,Fort Bend,Katy,Source1,4,29.77724000000001,-95.83795,2017,0,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-3429545,TX,Fort Bend,Katy,Source1,4,29.77724000000001,-95.83795,2017,3,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-3429628,TX,Fort Bend,Sugar Land,Source1,3,29.62786,-95.59373,2017,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3429903,TX,Fort Bend,Richmond,Source1,4,29.554228,-95.726369,2017,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3430038,TX,Fort Bend,Sugar Land,Source1,3,29.607190000000006,-95.6133,2017,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3431177,TX,Fort Bend,Sugar Land,Source1,4,29.56478,-95.67495,2016,14,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-3432475,TX,Fort Bend,Rosenberg,Source1,3,29.548271000000003,-95.917971,2016,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3432476,TX,Fort Bend,Rosenberg,Source1,3,29.547555,-95.924267,2016,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3432721,TX,Fort Bend,Sugar Land,Source1,4,29.606792,-95.614098,2016,1,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3432821,TX,Fort Bend,Stafford,Source1,3,29.64401,-95.57599,2016,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3432976,TX,Fort Bend,Sugar Land,Source1,3,29.55965,-95.69802,2016,0,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3433253,TX,Fort Bend,Katy,Source1,3,29.77724000000001,-95.83795,2016,7,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-3433254,TX,Fort Bend,Sugar Land,Source1,3,29.557034,-95.71261,2016,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3433320,TX,Fort Bend,Richmond,Source1,3,29.70111,-95.77334,2016,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3433856,TX,Fort Bend,Sugar Land,Source1,3,29.59061,-95.6324,2016,2,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-3433872,TX,Fort Bend,Stafford,Source1,3,29.64401,-95.57599,2016,8,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3434573,TX,Fort Bend,Stafford,Source1,3,29.621972,-95.570625,2016,12,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-3434645,TX,Fort Bend,Rosenberg,Source1,4,29.519692,-95.881006,2016,0,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-3434675,TX,Fort Bend,Richmond,Source1,3,29.699029,-95.79291,2016,7,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-3434695,TX,Fort Bend,Richmond,Source1,4,29.70216,-95.75391,2016,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3434696,TX,Fort Bend,Richmond,Source1,4,29.70183,-95.76021,2016,9,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-3434769,TX,Fort Bend,Stafford,Source1,3,29.621842,-95.570354,2016,19,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-3434844,TX,Fort Bend,Rosenberg,Source1,4,29.519692,-95.881006,2016,14,Friday,Cloudy,False,False,True,False,False,False,False
+A-3434924,TX,Fort Bend,Rosenberg,Source1,4,29.53702,-95.7698,2016,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3435220,TX,Fort Bend,Fulshear,Source1,4,29.693919,-95.855577,2016,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3435330,TX,Fort Bend,Stafford,Source1,3,29.63796,-95.5829,2016,17,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-3435353,TX,Fort Bend,Sugar Land,Source1,3,29.59598,-95.62517,2016,6,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-3435682,TX,Fort Bend,Stafford,Source1,3,29.647052,-95.572908,2016,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3435685,TX,Fort Bend,Stafford,Source1,3,29.621842,-95.570354,2016,18,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-3435888,TX,Fort Bend,Rosenberg,Source1,3,29.534977,-95.85528,2016,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3436450,TX,Fort Bend,Sugar Land,Source1,4,29.62786,-95.59373,2016,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3437137,TX,Fort Bend,Stafford,Source1,4,29.64401,-95.57599,2016,0,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3438234,TX,Fort Bend,Stafford,Source1,3,29.62831,-95.58669,2016,14,Saturday,Cloudy,False,False,True,False,False,False,False
+A-3438911,TX,Fort Bend,Stafford,Source1,4,29.64125,-95.56515,2016,22,Saturday,Rain,True,False,False,False,False,False,False
+A-3440292,TX,Fort Bend,Stafford,Source1,3,29.64401,-95.57599,2016,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-3440815,TX,Fort Bend,Beasley,Source1,3,29.449241,-95.994149,2016,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3440978,TX,Fort Bend,Stafford,Source1,3,29.621252,-95.569546,2016,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3440982,TX,Fort Bend,Stafford,Source1,3,29.62847,-95.59267,2016,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3441003,TX,Fort Bend,Sugar Land,Source1,3,29.56478,-95.67495,2016,8,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-3441575,TX,Fort Bend,Rosenberg,Source1,3,29.533158,-95.83629,2016,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3442324,TX,Fort Bend,Katy,Source1,4,29.777552000000004,-95.819531,2016,11,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-3442997,TX,Fort Bend,Stafford,Source1,3,29.61869,-95.56502,2016,20,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-3443468,TX,Fort Bend,Stafford,Source1,3,29.643771,-95.576249,2016,7,Wednesday,Clear / Fair,True,False,True,False,False,False,False
+A-3443711,TX,Fort Bend,Sugar Land,Source1,3,29.593770000000006,-95.626973,2016,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3443823,TX,Fort Bend,Stafford,Source1,3,29.628731,-95.59239,2016,4,Saturday,Cloudy,True,False,False,False,False,False,False
+A-3444125,TX,Fort Bend,Stafford,Source1,3,29.63083,-95.59014,2016,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3444466,TX,Fort Bend,Sugar Land,Source1,3,29.5773,-95.65347,2016,5,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3444626,TX,Fort Bend,Stafford,Source1,3,29.64705,-95.57291,2016,4,Tuesday,Rain,False,False,False,False,False,False,False
+A-3444627,TX,Fort Bend,Stafford,Source1,3,29.646869,-95.573335,2016,4,Tuesday,Rain,False,False,False,False,False,False,False
+A-3444644,TX,Fort Bend,Richmond,Source1,4,29.54868,-95.7424,2016,6,Tuesday,Rain,False,False,False,False,False,False,False
+A-3445113,TX,Fort Bend,Richmond,Source1,3,29.54992,-95.739481,2016,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3557016,TX,Fort Bend,Stafford,Source1,3,29.6284,-95.59274,2017,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3557076,TX,Fort Bend,Sugar Land,Source1,3,29.616634,-95.605391,2017,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3568615,TX,Fort Bend,Stafford,Source1,3,29.6284,-95.59274,2017,3,Tuesday,Rain,False,False,False,False,False,False,False
+A-3568923,TX,Fort Bend,Stafford,Source1,3,29.636562,-95.583978,2017,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3569097,TX,Fort Bend,Stafford,Source1,4,29.62862,-95.5886,2017,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-3593882,TX,Fort Bend,Stafford,Source1,3,29.63796,-95.5829,2017,16,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-3594416,TX,Fort Bend,Richmond,Source1,4,29.70669,-95.6986,2017,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-3595817,TX,Fort Bend,Stafford,Source1,4,29.64401,-95.57599,2017,22,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3611493,TX,Fort Bend,Stafford,Source1,3,29.63083,-95.59014,2017,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3611576,TX,Fort Bend,Rosenberg,Source1,4,29.538826,-95.764639,2017,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3611784,TX,Fort Bend,Stafford,Source1,3,29.62948,-95.59157,2017,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3623943,TX,Fort Bend,Rosenberg,Source1,4,29.53702,-95.7698,2017,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-3624159,TX,Fort Bend,Stafford,Source1,3,29.648670000000006,-95.57139,2017,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3624701,TX,Fort Bend,Sugar Land,Source1,3,29.624174,-95.59745,2017,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3625484,TX,Fort Bend,Katy,Source1,3,29.77724000000001,-95.83795,2017,6,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-3625763,TX,Fort Bend,Katy,Source1,3,29.78597,-95.791747,2017,10,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3625766,TX,Fort Bend,Katy,Source1,3,29.785969,-95.791717,2017,10,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3773605,TX,Fort Bend,Wallis,Source1,4,29.656711,-95.97656,2022,16,Thursday,Rain,False,False,False,False,False,False,False
+A-3806124,TX,Fort Bend,Sugar Land,Source1,4,29.57591414,-95.65565228,2022,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4292096,TX,Fort Bend,Beasley,Source1,4,29.487936,-95.927945,2022,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4477682,TX,Fort Bend,Missouri City,Source1,4,29.590873,-95.564141,2022,9,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-4836367,TX,Fort Bend,Richmond,Source1,4,29.55698847756597,-95.71109890892164,2022,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4922098,TX,Fort Bend,Stafford,Source1,4,29.642658,-95.577452,2022,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-5015840,TX,Fort Bend,Sugar Land,Source1,4,29.61762785897437,-95.60511946632572,2022,2,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5182378,TX,Fort Bend,Sugar Land,Source1,4,29.575922,-95.655669,2022,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5399698,TX,Fort Bend,Wallis,Source1,4,29.626945000000006,-95.975162,2022,16,Thursday,Rain,False,False,False,False,False,False,False
+A-6002036,TX,Fort Bend,Katy,Source1,4,29.718178510524183,-95.7728970046245,2021,11,Friday,Rain,False,False,False,False,False,False,False
+A-6009747,TX,Fort Bend,Stafford,Source1,4,29.62204813943089,-95.56475758506978,2021,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6114121,TX,Fort Bend,Rosenberg,Source1,4,29.515207,-95.807864,2021,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6187794,TX,Fort Bend,Sugar Land,Source1,4,29.56239581093997,-95.68627238227992,2021,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6201246,TX,Fort Bend,Beasley,Source1,4,29.47915,-95.93401,2021,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6755389,TX,Fort Bend,Rosenberg,Source1,4,29.532526,-95.801113,2020,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6770716,TX,Fort Bend,Rosenberg,Source1,4,29.535981,-95.771545,2020,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7001214,TX,Fort Bend,Stafford,Source1,3,29.64401,-95.57599,2020,6,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7017332,TX,Fort Bend,Katy,Source1,4,29.77743,-95.83454,2020,0,Friday,Cloudy,False,False,True,False,False,False,False
+A-7020470,TX,Fort Bend,Stafford,Source1,3,29.63101,-95.59035,2020,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7026864,TX,Fort Bend,Stafford,Source1,3,29.64387,-95.57614,2020,14,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-7032972,TX,Fort Bend,Stafford,Source1,3,29.63083,-95.59014,2020,5,Saturday,Storm,False,False,False,False,False,False,False
+A-7036264,TX,Fort Bend,Stafford,Source1,4,29.64426,-95.57662,2020,18,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-7046294,TX,Fort Bend,Rosenberg,Source1,4,29.53462,-95.85668,2020,23,Friday,Cloudy,False,False,False,False,False,False,False
+A-7068455,TX,Fort Bend,Katy,Source1,3,29.74407,-95.77286,2020,17,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7078191,TX,Fort Bend,Katy,Source1,3,29.77741,-95.83793,2020,6,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7083811,TX,Fort Bend,Stafford,Source1,3,29.64401,-95.57599,2020,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7103911,TX,Fort Bend,Sugar Land,Source1,4,29.60888,-95.61159,2020,18,Sunday,Rain,False,False,False,False,False,False,False
+A-7109205,TX,Fort Bend,Rosenberg,Source1,4,29.52001,-95.8805,2020,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7127958,TX,Fort Bend,Katy,Source1,3,29.77733,-95.82707,2020,4,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7145398,TX,Fort Bend,Stafford,Source1,3,29.64401,-95.57599,2020,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-7156140,TX,Fort Bend,Houston,Source1,3,29.59547,-95.46696,2020,9,Sunday,Fog / Low visibility,True,False,False,False,False,True,False
+A-7174510,TX,Fort Bend,Stafford,Source1,3,29.64401,-95.57599,2020,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7189223,TX,Fort Bend,Stafford,Source1,3,29.64401,-95.57599,2020,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7253584,TX,Fort Bend,Rosenberg,Source1,4,29.531990000000004,-95.8219,2020,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7253595,TX,Fort Bend,Rosenberg,Source1,3,29.53213,-95.8142,2020,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7259976,TX,Fort Bend,Rosenberg,Source1,4,29.53489,-95.77628,2020,17,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-7298381,TX,Fort Bend,Richmond,Source1,3,29.706540000000004,-95.70051,2019,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7307574,TX,Fort Bend,Rosenberg,Source1,4,29.53702,-95.76981,2019,12,Tuesday,Rain,False,False,False,False,False,False,False
+A-7325022,TX,Fort Bend,Stafford,Source1,3,29.63796,-95.5829,2019,7,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7375832,TX,Fort Bend,Katy,Source1,3,29.77722,-95.84185,2019,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7377803,TX,Fort Bend,Sugar Land,Source1,3,29.58158,-95.64669,2019,0,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7380514,TX,Fort Bend,Sugar Land,Source1,3,29.60572,-95.61481,2019,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7384681,TX,Fort Bend,Stafford,Source1,3,29.636898,-95.583622,2019,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7408300,TX,Fort Bend,Stafford,Source1,4,29.63083,-95.59014,2019,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7414869,TX,Fort Bend,Stafford,Source1,3,29.618896000000003,-95.563713,2019,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7423431,TX,Fort Bend,Sugar Land,Source1,4,29.582320000000006,-95.64552,2019,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7423463,TX,Fort Bend,Missouri City,Source1,3,29.624573,-95.523082,2019,15,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7424692,TX,Fort Bend,Stafford,Source1,3,29.63917600000001,-95.581193,2019,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-7427157,TX,Fort Bend,Sugar Land,Source1,3,29.56507,-95.67411,2019,3,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7429863,TX,Fort Bend,Katy,Source1,4,29.77746,-95.83236,2019,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7446403,TX,Fort Bend,Richmond,Source1,4,29.666539,-95.746809,2019,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7451149,TX,Fort Bend,Stafford,Source1,3,29.61935,-95.56467,2019,8,Thursday,Rain,False,False,False,False,False,False,False
+A-7457390,TX,Fort Bend,Fresno,Source1,4,29.537372,-95.449219,2019,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7457788,TX,Fort Bend,Stafford,Source1,3,29.63083,-95.59014,2019,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7459522,TX,Fort Bend,Stafford,Source1,3,29.648670000000006,-95.57139,2019,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7460797,TX,Fort Bend,Stafford,Source1,3,29.63083,-95.59014,2019,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7463390,TX,Fort Bend,Stafford,Source1,3,29.63796,-95.5829,2019,15,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7465517,TX,Fort Bend,Stafford,Source1,3,29.644357,-95.576033,2019,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-7468148,TX,Fort Bend,Rosenberg,Source1,4,29.534740000000006,-95.85454,2019,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7468151,TX,Fort Bend,Rosenberg,Source1,4,29.53162,-95.82205,2019,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7468152,TX,Fort Bend,Rosenberg,Source1,4,29.53162,-95.82205,2019,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7468155,TX,Fort Bend,Rosenberg,Source1,4,29.53162,-95.82205,2019,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7468180,TX,Fort Bend,Stafford,Source1,3,29.648670000000006,-95.57139,2019,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7472833,TX,Fort Bend,Sugar Land,Source1,3,29.57025,-95.66462,2018,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-7474375,TX,Fort Bend,Stafford,Source1,3,29.63083,-95.59014,2018,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7474376,TX,Fort Bend,Stafford,Source1,3,29.644192,-95.576199,2018,15,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-7488615,TX,Fort Bend,Stafford,Source1,3,29.636562,-95.583978,2018,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7488644,TX,Fort Bend,Fresno,Source1,4,29.539097,-95.448537,2018,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7506533,TX,Fort Bend,Sugar Land,Source1,3,29.5824,-95.6459,2018,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7509162,TX,Fort Bend,Rosenberg,Source1,4,29.551586,-95.889224,2018,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7509163,TX,Fort Bend,Rosenberg,Source1,4,29.545317,-95.943838,2018,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7511999,TX,Fort Bend,Sugar Land,Source1,3,29.626947,-95.594302,2018,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7516265,TX,Fort Bend,Sugar Land,Source1,4,29.584955,-95.677608,2018,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-7522498,TX,Fort Bend,Rosenberg,Source1,4,29.53835,-95.76603,2018,15,Friday,Rain,False,False,False,False,False,False,False
+A-7526223,TX,Fort Bend,Katy,Source1,3,29.77731,-95.832413,2018,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7527627,TX,Fort Bend,Sugar Land,Source1,3,29.606972,-95.613918,2018,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7528320,TX,Fort Bend,Sugar Land,Source1,3,29.60647,-95.61442,2018,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7528354,TX,Fort Bend,Sugar Land,Source1,3,29.606972,-95.613918,2018,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7529268,TX,Fort Bend,Stafford,Source1,3,29.63083,-95.59014,2018,14,Monday,Rain,False,False,False,False,False,False,False
+A-7530535,TX,Fort Bend,Sugar Land,Source1,3,29.57963,-95.65029,2018,18,Wednesday,Rain,False,False,False,False,False,False,False
+A-7531348,TX,Fort Bend,Richmond,Source1,3,29.5604,-95.69562,2018,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7532191,TX,Fort Bend,Stafford,Source1,3,29.63083,-95.59014,2018,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-7533451,TX,Fort Bend,Stafford,Source1,3,29.63083,-95.59014,2018,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-7535999,TX,Fort Bend,Sugar Land,Source1,3,29.62786,-95.59373,2018,13,Friday,Rain,False,False,False,False,False,False,False
+A-7538787,TX,Fort Bend,Beasley,Source1,4,29.54236,-95.97017,2018,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7538788,TX,Fort Bend,Rosenberg,Source1,4,29.551586,-95.889224,2018,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7539262,TX,Fort Bend,Missouri City,Source1,3,29.62457,-95.52309,2018,14,Friday,Cloudy,False,False,True,False,False,False,False
+A-7540239,TX,Fort Bend,Richmond,Source1,4,29.70036,-95.77618,2018,9,Monday,Cloudy,True,False,False,False,False,False,False
+A-7553912,TX,Fort Bend,Rosenberg,Source1,4,29.534576,-95.844978,2018,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7553913,TX,Fort Bend,Rosenberg,Source1,4,29.531990000000004,-95.8219,2018,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7556161,TX,Fort Bend,Stafford,Source1,3,29.643976,-95.576444,2018,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7557537,TX,Fort Bend,Sugar Land,Source1,4,29.620018,-95.634101,2018,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-7558238,TX,Fort Bend,Beasley,Source1,4,29.449240000000003,-95.99415,2018,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-7566506,TX,Fort Bend,Sugar Land,Source1,3,29.59592,-95.62537,2018,3,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7569477,TX,Fort Bend,Sugar Land,Source1,3,29.57963,-95.65029,2018,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7570945,TX,Fort Bend,Richmond,Source1,4,29.546470000000006,-95.74664,2018,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7570970,TX,Fort Bend,Stafford,Source1,3,29.648670000000006,-95.57139,2018,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7573013,TX,Fort Bend,Stafford,Source1,3,29.648670000000006,-95.57139,2018,14,Tuesday,Rain,False,False,False,False,False,False,False
+A-7574356,TX,Fort Bend,Stafford,Source1,3,29.648670000000006,-95.57139,2018,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-7578888,TX,Fort Bend,Sugar Land,Source1,3,29.62647,-95.60286,2018,19,Thursday,Cloudy,True,True,False,False,False,False,True
+A-7580901,TX,Fort Bend,Sugar Land,Source1,3,29.59933,-95.62134,2018,16,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7581373,TX,Fort Bend,Richmond,Source1,4,29.5604,-95.69562,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7582207,TX,Fort Bend,Stafford,Source1,3,29.63083,-95.59014,2018,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7583498,TX,Fort Bend,Rosenberg,Source1,4,29.520548,-95.879604,2018,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7583499,TX,Fort Bend,Rosenberg,Source1,4,29.528087,-95.867962,2018,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7583958,TX,Fort Bend,Rosenberg,Source1,4,29.527433,-95.868956,2018,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7587048,TX,Fort Bend,Stafford,Source1,3,29.63083,-95.59014,2018,1,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7590070,TX,Fort Bend,Sugar Land,Source1,3,29.56507,-95.67411,2018,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7596194,TX,Fort Bend,Sugar Land,Source1,3,29.56507,-95.67411,2018,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7596502,TX,Fort Bend,Rosenberg,Source1,3,29.551744,-95.888362,2018,2,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7604252,TX,Fort Bend,Sugar Land,Source1,4,29.56173,-95.68796,2018,9,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7607365,TX,Fort Bend,Missouri City,Source1,3,29.62457,-95.52309,2018,19,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7610369,TX,Fort Bend,Beasley,Source1,4,29.449240000000003,-95.99415,2018,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-7610382,TX,Fort Bend,Richmond,Source1,4,29.555036,-95.72065,2018,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-7615235,TX,Fort Bend,Needville,Source1,4,29.467995,-95.816708,2018,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-7621539,TX,Fort Bend,Richmond,Source1,4,29.54868,-95.7424,2018,0,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7632221,TX,Fort Bend,Stafford,Source1,4,29.61951,-95.56502,2018,14,Friday,Clear / Fair,True,True,False,False,False,False,False
+A-7638158,TX,Fort Bend,Stafford,Source1,3,29.621478000000003,-95.569586,2018,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7640704,TX,Fort Bend,Stafford,Source1,3,29.64108,-95.56515,2017,16,Tuesday,Rain,True,False,False,False,False,False,False
+A-7642213,TX,Fort Bend,Stafford,Source1,3,29.648670000000006,-95.57139,2017,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7642469,TX,Fort Bend,Sugar Land,Source1,4,29.557034,-95.71261,2017,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7649534,TX,Fort Bend,Sugar Land,Source1,3,29.584570000000006,-95.64246,2017,3,Monday,Cloudy,False,False,False,False,False,False,False
+A-7651559,TX,Fort Bend,Stafford,Source1,3,29.63796,-95.5829,2017,21,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7654439,TX,Fort Bend,Stafford,Source1,4,29.618440000000003,-95.5647,2017,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-7655818,TX,Fort Bend,Stafford,Source1,4,29.624417,-95.564849,2017,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7660719,TX,Fort Bend,Stafford,Source1,4,29.648608000000007,-95.571262,2017,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7660720,TX,Fort Bend,Stafford,Source1,3,29.64401,-95.57599,2017,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7663869,TX,Fort Bend,Rosenberg,Source1,3,29.534883,-95.85573,2017,23,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7666839,TX,Fort Bend,Stafford,Source1,4,29.638372,-95.56511,2017,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7667324,TX,Fort Bend,Sugar Land,Source1,4,29.5615,-95.68908,2017,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7667990,TX,Fort Bend,Stafford,Source1,4,29.61935,-95.56467,2017,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7669312,TX,Fort Bend,Sugar Land,Source1,4,29.55965,-95.69802,2017,2,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7669773,TX,Fort Bend,Sugar Land,Source1,3,29.607190000000006,-95.6133,2017,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7671665,TX,Fort Bend,Sugar Land,Source1,4,29.61705,-95.60548,2017,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7672060,TX,Fort Bend,Sugar Land,Source1,3,29.59598,-95.62517,2017,19,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7672589,TX,Fort Bend,Sugar Land,Source1,3,29.57752,-95.65362,2017,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7674028,TX,Fort Bend,Sugar Land,Source1,4,29.56507,-95.67411,2017,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-7675605,TX,Fort Bend,Rosenberg,Source1,4,29.520248,-95.880104,2017,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7682709,TX,Fort Bend,Houston,Source1,3,29.59726,-95.42639,2017,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7683551,TX,Fort Bend,Stafford,Source1,3,29.64401,-95.57599,2017,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7683913,TX,Fort Bend,Rosenberg,Source1,4,29.520248,-95.880104,2017,13,Monday,Rain,False,False,False,False,False,False,False
+A-7691691,TX,Fort Bend,Stafford,Source1,4,29.64125,-95.56515,2017,13,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7691692,TX,Fort Bend,Stafford,Source1,4,29.64125,-95.56515,2017,13,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7693009,TX,Fort Bend,Rosenberg,Source1,3,29.54636,-95.74691,2017,6,Tuesday,Rain,False,False,False,False,False,False,False
+A-7700261,TX,Fort Bend,Richmond,Source1,4,29.595467,-95.74246,2017,14,Thursday,Rain,False,False,False,False,False,False,False
+A-7700262,TX,Fort Bend,Richmond,Source1,4,29.592006,-95.74481,2017,14,Thursday,Rain,False,False,False,False,False,False,False
+A-7700263,TX,Fort Bend,Richmond,Source1,4,29.594511,-95.742112,2017,14,Thursday,Rain,True,False,False,False,False,False,False
+A-7700264,TX,Fort Bend,Richmond,Source1,4,29.59667,-95.734011,2017,14,Thursday,Rain,True,True,False,False,False,False,True
+A-7700265,TX,Fort Bend,Richmond,Source1,4,29.59662100000001,-95.734507,2017,14,Thursday,Rain,False,False,False,False,False,False,False
+A-7705987,TX,Fort Bend,Sugar Land,Source1,3,29.60888,-95.61159,2019,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7708183,TX,Fort Bend,Beasley,Source1,4,29.477221000000004,-95.951038,2019,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7715081,TX,Fort Bend,Katy,Source1,4,29.77743,-95.83492,2019,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7732035,TX,Fort Bend,Stafford,Source1,3,29.64401,-95.57599,2019,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7734065,TX,Fort Bend,Sugar Land,Source1,3,29.62786,-95.59373,2019,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7737398,TX,Fort Bend,Rosenberg,Source1,4,29.53213,-95.8142,2019,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7739888,TX,Fort Bend,Rosenberg,Source1,4,29.538842,-95.764851,2019,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7739947,TX,Fort Bend,Stafford,Source1,3,29.63083,-95.59014,2019,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7740431,TX,Fort Bend,Sugar Land,Source1,3,29.56465,-95.67534,2019,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7744368,TX,Fort Bend,Sugar Land,Source1,4,29.61695,-95.65009,2019,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7744369,TX,Fort Bend,Sugar Land,Source1,4,29.609553,-95.643912,2019,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7749942,TX,Fort Bend,East Bernard,Source1,4,29.444052000000006,-96.003786,2019,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7755767,TX,Fort Bend,Missouri City,Source1,4,29.559113,-95.558604,2019,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7757376,TX,Fort Bend,Katy,Source1,4,29.739304,-95.7728,2019,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7760046,TX,Fort Bend,Sugar Land,Source1,4,29.5824,-95.6459,2019,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7765520,TX,Fort Bend,Sugar Land,Source1,3,29.62786,-95.59373,2019,23,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7765525,TX,Fort Bend,Sugar Land,Source1,4,29.62586,-95.59588,2019,17,Monday,Storm,False,False,False,False,False,False,False
+A-7765526,TX,Fort Bend,Sugar Land,Source1,4,29.62586,-95.59588,2019,17,Monday,Storm,False,False,False,False,False,False,False
+A-7771834,TX,Fort Bend,Sugar Land,Source1,3,29.59061,-95.6324,2019,0,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7774423,TX,Fort Bend,Rosenberg,Source1,3,29.537018,-95.769806,2019,13,Friday,Cloudy,False,False,False,False,False,False,False

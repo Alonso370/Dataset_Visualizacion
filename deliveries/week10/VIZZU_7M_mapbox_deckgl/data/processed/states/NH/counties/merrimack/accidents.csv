@@ -1,0 +1,699 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-512772,NH,Merrimack,Hooksett,Source2,3,43.086124,-71.47288499999998,2022,9,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-516627,NH,Merrimack,Hooksett,Source2,3,43.086124,-71.47288499999998,2022,6,Monday,Rain,False,False,False,False,False,False,False
+A-520729,NH,Merrimack,Concord,Source2,3,43.179531,-71.53038000000002,2022,4,Wednesday,Rain,False,False,False,False,False,False,False
+A-523164,NH,Merrimack,Concord,Source2,3,43.179203,-71.567017,2022,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-524132,NH,Merrimack,Hooksett,Source2,3,43.086124,-71.47288499999998,2022,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-526654,NH,Merrimack,New London,Source2,4,43.392075,-71.982254,2022,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-527819,NH,Merrimack,Hooksett,Source2,3,43.086124,-71.47288499999998,2022,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-531381,NH,Merrimack,Warner,Source2,3,43.355862,-71.922638,2022,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-532380,NH,Merrimack,Bow,Source2,3,43.170044,-71.52977,2022,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-534913,NH,Merrimack,Hooksett,Source2,3,43.050072,-71.47015400000002,2022,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-544337,NH,Merrimack,Concord,Source2,3,43.1936,-71.525909,2022,13,Saturday,Cloudy,True,True,False,False,False,False,False
+A-566403,NH,Merrimack,Tilton,Source2,3,43.429146,-71.589989,2022,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-570654,NH,Merrimack,Canterbury,Source2,3,43.291935,-71.57386,2022,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-577561,NH,Merrimack,Bow,Source2,3,43.170044,-71.52977,2022,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-583606,NH,Merrimack,Hooksett,Source2,3,43.086124,-71.47288499999998,2022,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-584939,NH,Merrimack,Contoocook,Source2,3,43.182575,-71.690208,2022,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-597247,NH,Merrimack,Warner,Source2,3,43.271511,-71.784859,2022,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-598378,NH,Merrimack,Hooksett,Source2,3,43.086124,-71.47288499999998,2022,10,Thursday,Rain,False,False,False,False,False,False,False
+A-601145,NH,Merrimack,Concord,Source2,3,43.179531,-71.53038000000002,2022,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-604677,NH,Merrimack,Hooksett,Source2,3,43.055988,-71.47110699999998,2022,13,Wednesday,Rain,False,False,False,False,False,False,False
+A-607945,NH,Merrimack,New London,Source2,3,43.392075,-71.982254,2022,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-619288,NH,Merrimack,Canterbury,Source2,3,43.332584,-71.607079,2022,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-620823,NH,Merrimack,Bow,Source2,3,43.170044,-71.52977,2022,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-621621,NH,Merrimack,Concord,Source2,3,43.23782,-71.540092,2022,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-621908,NH,Merrimack,Canterbury,Source2,3,43.332584,-71.607079,2022,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-628325,NH,Merrimack,Bow,Source2,3,43.168922,-71.535492,2022,18,Wednesday,Rain,False,False,False,False,False,False,False
+A-653929,NH,Merrimack,Hooksett,Source2,3,43.04319,-71.464104,2022,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-655423,NH,Merrimack,Concord,Source2,3,43.234882,-71.46759,2022,18,Saturday,Rain,False,False,False,False,False,False,False
+A-657049,NH,Merrimack,Warner,Source2,3,43.290241,-71.837303,2022,11,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-663625,NH,Merrimack,Concord,Source2,3,43.179203,-71.567017,2022,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-663939,NH,Merrimack,Bow,Source2,3,43.170044,-71.52977,2022,17,Friday,Rain,False,False,False,False,False,False,False
+A-664585,NH,Merrimack,Contoocook,Source2,3,43.181145,-71.68390699999998,2022,9,Friday,Rain,False,False,False,False,False,False,False
+A-667437,NH,Merrimack,Contoocook,Source2,3,43.182419,-71.65338100000002,2022,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-671355,NH,Merrimack,Concord,Source2,3,43.1936,-71.525909,2022,10,Saturday,Rain,True,True,False,False,False,False,False
+A-677671,NH,Merrimack,Bow,Source2,3,43.168922,-71.535492,2022,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-678535,NH,Merrimack,Hooksett,Source2,3,43.086124,-71.47288499999998,2022,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-680076,NH,Merrimack,Bow,Source2,3,43.170044,-71.52977,2022,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-683158,NH,Merrimack,Warner,Source2,3,43.355862,-71.922638,2022,16,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-684004,NH,Merrimack,Warner,Source2,3,43.290241,-71.837303,2022,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-696030,NH,Merrimack,Bow,Source2,3,43.170044,-71.52977,2022,16,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-696930,NH,Merrimack,Concord,Source2,3,43.179531,-71.53038000000002,2022,6,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-697229,NH,Merrimack,Warner,Source2,3,43.355862,-71.922638,2022,5,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-703703,NH,Merrimack,Concord,Source2,3,43.208828,-71.532875,2022,17,Saturday,Snow / Ice,True,True,False,False,False,False,False
+A-703915,NH,Merrimack,Contoocook,Source2,3,43.184662,-71.654907,2022,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-708402,NH,Merrimack,Concord,Source2,4,43.179531,-71.53038000000002,2022,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-713723,NH,Merrimack,Warner,Source2,3,43.246658,-71.747864,2022,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-716315,NH,Merrimack,Concord,Source2,3,43.179531,-71.53038000000002,2022,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-716904,NH,Merrimack,Hooksett,Source2,3,43.086124,-71.47288499999998,2022,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-717335,NH,Merrimack,Bow,Source2,3,43.170044,-71.52977,2022,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-718019,NH,Merrimack,Hooksett,Source2,3,43.086124,-71.47288499999998,2022,10,Tuesday,Rain,False,False,False,False,False,False,False
+A-718490,NH,Merrimack,Warner,Source2,3,43.290241,-71.837303,2022,8,Tuesday,Rain,False,False,False,False,False,False,False
+A-720375,NH,Merrimack,Concord,Source2,3,43.1936,-71.525909,2022,16,Sunday,Clear / Fair,True,True,False,False,False,False,False
+A-722441,NH,Merrimack,Concord,Source2,3,43.216286,-71.533951,2022,6,Friday,Snow / Ice,False,False,True,False,False,False,False
+A-727315,NH,Merrimack,Warner,Source2,3,43.290241,-71.837303,2022,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-743650,NH,Merrimack,Hooksett,Source2,3,43.086124,-71.47288499999998,2022,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-749209,NH,Merrimack,Canterbury,Source2,3,43.332584,-71.607079,2022,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-759488,NH,Merrimack,Hooksett,Source2,3,43.102314,-71.475128,2021,18,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-759879,NH,Merrimack,Concord,Source2,3,43.256287,-71.549217,2021,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-770731,NH,Merrimack,Tilton,Source2,3,43.429146,-71.589989,2021,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-772659,NH,Merrimack,Warner,Source2,3,43.256062,-71.752342,2021,8,Sunday,Cloudy,False,False,False,False,False,False,False
+A-772859,NH,Merrimack,Hooksett,Source2,3,43.092144,-71.474983,2021,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-772868,NH,Merrimack,Bow,Source2,3,43.164448,-71.521759,2021,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-773155,NH,Merrimack,Warner,Source2,3,43.246658,-71.747864,2021,14,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-786910,NH,Merrimack,Concord,Source2,3,43.179203,-71.567017,2021,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-786927,NH,Merrimack,Bow,Source2,3,43.170044,-71.52977,2021,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-788356,NH,Merrimack,New London,Source2,3,43.417889,-72.033417,2021,9,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-793301,NH,Merrimack,Warner,Source2,3,43.355862,-71.922638,2021,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-795255,NH,Merrimack,Warner,Source2,3,43.326939,-71.904495,2021,5,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-815716,NH,Merrimack,Warner,Source2,3,43.355862,-71.922638,2021,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-818051,NH,Merrimack,Hooksett,Source2,3,43.04319,-71.464104,2021,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-822012,NH,Merrimack,Concord,Source2,3,43.208828,-71.532875,2021,11,Friday,Rain,True,True,False,False,False,False,False
+A-822719,NH,Merrimack,Warner,Source2,3,43.355862,-71.922638,2021,9,Friday,Rain,False,False,False,False,False,False,False
+A-827527,NH,Merrimack,Hooksett,Source2,3,43.086124,-71.47288499999998,2021,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-829734,NH,Merrimack,Tilton,Source2,3,43.392677,-71.602501,2021,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-830256,NH,Merrimack,Bow,Source2,3,43.169029,-71.530968,2021,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-836826,NH,Merrimack,Hooksett,Source2,3,43.086124,-71.47288499999998,2021,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-840254,NH,Merrimack,Tilton,Source2,3,43.429146,-71.589989,2021,20,Saturday,Rain,False,False,False,False,False,False,False
+A-849482,NH,Merrimack,Concord,Source2,3,43.1936,-71.525909,2021,10,Sunday,Clear / Fair,True,True,False,False,False,False,False
+A-854147,NH,Merrimack,Concord,Source2,3,43.23782,-71.540092,2021,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-869692,NH,Merrimack,Bow,Source2,3,43.168522,-71.535011,2021,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-875859,NH,Merrimack,Contoocook,Source2,4,43.184662,-71.654907,2021,21,Monday,Rain,False,False,False,False,False,False,False
+A-876044,NH,Merrimack,Hooksett,Source2,3,43.086124,-71.47288499999998,2021,19,Monday,Rain,False,False,False,False,False,False,False
+A-884716,NH,Merrimack,Bow,Source2,3,43.15295,-71.506073,2021,13,Friday,Rain,False,False,False,False,False,False,False
+A-885052,NH,Merrimack,Tilton,Source2,3,43.429146,-71.589989,2021,11,Friday,Rain,False,False,False,False,False,False,False
+A-895237,NH,Merrimack,Hooksett,Source2,3,43.086124,-71.47288499999998,2021,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-898835,NH,Merrimack,Concord,Source2,3,43.1936,-71.525909,2021,17,Wednesday,Rain,True,True,False,False,False,False,False
+A-903304,NH,Merrimack,Canterbury,Source2,3,43.291935,-71.57386,2021,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-912129,NH,Merrimack,Hooksett,Source2,3,43.086124,-71.47288499999998,2021,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-912244,NH,Merrimack,Concord,Source2,3,43.216286,-71.533951,2021,13,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-915682,NH,Merrimack,Canterbury,Source2,3,43.332584,-71.607079,2021,15,Wednesday,Rain,False,False,False,False,False,False,False
+A-919344,NH,Merrimack,Bow,Source2,3,43.168922,-71.535492,2021,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-919796,NH,Merrimack,Hooksett,Source2,3,43.04179,-71.465019,2021,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-920424,NH,Merrimack,Canterbury,Source2,3,43.291935,-71.57386,2021,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-924258,NH,Merrimack,Hooksett,Source2,3,43.07832,-71.472565,2021,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-926710,NH,Merrimack,Canterbury,Source2,3,43.291935,-71.57386,2021,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-929444,NH,Merrimack,Bow,Source2,3,43.170044,-71.52977,2021,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-930087,NH,Merrimack,Contoocook,Source2,3,43.181145,-71.68390699999998,2021,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-931623,NH,Merrimack,Hooksett,Source2,3,43.086124,-71.47288499999998,2021,22,Thursday,Cloudy,False,False,False,False,False,False,False
+A-931641,NH,Merrimack,Concord,Source2,3,43.219265,-71.53388199999998,2021,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-933432,NH,Merrimack,Concord,Source2,3,43.23782,-71.540092,2021,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-936071,NH,Merrimack,Contoocook,Source2,4,43.181145,-71.68390699999998,2021,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-939437,NH,Merrimack,Contoocook,Source2,3,43.183899,-71.654434,2021,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-940201,NH,Merrimack,Canterbury,Source2,3,43.332584,-71.607079,2021,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-942363,NH,Merrimack,Bow,Source2,3,43.168137,-71.53679699999998,2021,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-943367,NH,Merrimack,Concord,Source2,3,43.23782,-71.540092,2021,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-943597,NH,Merrimack,Concord,Source2,3,43.179531,-71.53038000000002,2021,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-948373,NH,Merrimack,Canterbury,Source2,3,43.292412,-71.573746,2021,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-959640,NH,Merrimack,Hooksett,Source2,3,43.050114,-71.470596,2021,18,Tuesday,Rain,False,False,False,False,False,False,False
+A-960316,NH,Merrimack,Hooksett,Source2,3,43.086124,-71.47288499999998,2021,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-965045,NH,Merrimack,Hooksett,Source2,3,43.04319,-71.464104,2021,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-970292,NH,Merrimack,Warner,Source2,3,43.355862,-71.922638,2021,7,Monday,Rain,False,False,False,False,False,False,False
+A-970301,NH,Merrimack,Canterbury,Source2,3,43.332584,-71.607079,2021,8,Monday,Rain,False,False,False,False,False,False,False
+A-972696,NH,Merrimack,Concord,Source2,3,43.23782,-71.540092,2021,8,Friday,Rain,False,False,False,False,False,False,False
+A-980638,NH,Merrimack,Hooksett,Source2,3,43.041531,-71.477211,2021,8,Friday,Rain,False,False,False,False,False,False,False
+A-980639,NH,Merrimack,Hooksett,Source2,3,43.050072,-71.47015400000002,2021,11,Friday,Rain,False,False,False,False,False,False,False
+A-983859,NH,Merrimack,Concord,Source2,3,43.224869,-71.505615,2021,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-983872,NH,Merrimack,Concord,Source2,3,43.216286,-71.533951,2021,16,Wednesday,Storm,False,False,True,False,False,False,False
+A-985374,NH,Merrimack,Concord,Source2,4,43.218685,-71.52621500000002,2021,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-989402,NH,Merrimack,Tilton,Source2,3,43.429146,-71.589989,2021,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-1006916,NH,Merrimack,Concord,Source2,3,43.208828,-71.532875,2021,16,Saturday,Clear / Fair,True,True,False,False,False,False,False
+A-1016828,NH,Merrimack,Bow,Source2,3,43.131565,-71.48864,2021,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1023528,NH,Merrimack,Concord,Source2,3,43.23782,-71.540092,2021,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-1038491,NH,Merrimack,Concord,Source2,3,43.224869,-71.505615,2021,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1038500,NH,Merrimack,Tilton,Source2,3,43.429146,-71.589989,2021,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1047912,NH,Merrimack,Warner,Source2,3,43.271835,-71.786964,2021,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1076878,NH,Merrimack,Concord,Source2,3,43.216286,-71.533951,2021,4,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-1079209,NH,Merrimack,Warner,Source2,3,43.355862,-71.922638,2021,6,Friday,Rain,False,False,False,False,False,False,False
+A-1111717,NH,Merrimack,Concord,Source2,3,43.1936,-71.525909,2021,10,Sunday,Clear / Fair,True,True,False,False,False,False,False
+A-1114222,NH,Merrimack,Hooksett,Source2,3,43.084,-71.473076,2021,6,Thursday,Sin dato,False,False,False,False,False,False,False
+A-1120362,NH,Merrimack,Warner,Source2,3,43.355862,-71.922638,2021,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1130530,NH,Merrimack,Hooksett,Source2,3,43.10091,-71.468079,2021,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1136562,NH,Merrimack,New London,Source2,3,43.422077,-72.037376,2021,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1137124,NH,Merrimack,Concord,Source2,3,43.179531,-71.53038000000002,2021,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1142976,NH,Merrimack,Warner,Source2,4,43.290241,-71.837303,2021,13,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1144784,NH,Merrimack,Hooksett,Source2,3,43.023018,-71.444496,2021,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1145413,NH,Merrimack,Concord,Source2,3,43.289082,-71.581688,2021,7,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1145423,NH,Merrimack,Canterbury,Source2,4,43.332584,-71.607079,2021,17,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1145424,NH,Merrimack,Warner,Source2,3,43.355862,-71.922638,2021,18,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1145426,NH,Merrimack,Tilton,Source2,3,43.429146,-71.589989,2021,18,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1146986,NH,Merrimack,Concord,Source2,3,43.234882,-71.46759,2021,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1150150,NH,Merrimack,Concord,Source2,3,43.234882,-71.46759,2021,9,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1150226,NH,Merrimack,Warner,Source2,3,43.246658,-71.747864,2021,4,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1150232,NH,Merrimack,Warner,Source2,3,43.290241,-71.837303,2021,5,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1150244,NH,Merrimack,Canterbury,Source2,3,43.291935,-71.57386,2021,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1161892,NH,Merrimack,Canterbury,Source2,4,43.291935,-71.57386,2021,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1161897,NH,Merrimack,Tilton,Source2,3,43.429146,-71.589989,2021,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1163585,NH,Merrimack,Concord,Source2,3,43.179531,-71.53038000000002,2021,16,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1164811,NH,Merrimack,Warner,Source2,3,43.290241,-71.837303,2021,9,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1169604,NH,Merrimack,Concord,Source2,3,43.1936,-71.525909,2021,9,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-1169652,NH,Merrimack,Warner,Source2,3,43.290241,-71.837303,2021,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1177467,NH,Merrimack,Tilton,Source2,3,43.429146,-71.589989,2021,5,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1179241,NH,Merrimack,Contoocook,Source2,3,43.184662,-71.654907,2021,18,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1186764,NH,Merrimack,Concord,Source2,4,43.224869,-71.505615,2021,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1191025,NH,Merrimack,Canterbury,Source2,3,43.332584,-71.607079,2021,22,Saturday,Rain,False,False,False,False,False,False,False
+A-1196480,NH,Merrimack,Bow,Source2,3,43.170044,-71.52977,2021,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1199957,NH,Merrimack,Hooksett,Source2,3,43.086124,-71.47288499999998,2021,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1202714,NH,Merrimack,Bow,Source2,3,43.170044,-71.52977,2021,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1202715,NH,Merrimack,Concord,Source2,3,43.179531,-71.53038000000002,2021,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1205373,NH,Merrimack,Canterbury,Source2,3,43.332584,-71.607079,2021,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-1207258,NH,Merrimack,Concord,Source2,3,43.234882,-71.46759,2021,7,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-1207269,NH,Merrimack,Warner,Source2,3,43.290241,-71.837303,2021,11,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-1214833,NH,Merrimack,Canterbury,Source2,3,43.332584,-71.607079,2020,16,Friday,Rain,False,False,False,False,False,False,False
+A-1216678,NH,Merrimack,Bow,Source2,3,43.170044,-71.52977,2020,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1219841,NH,Merrimack,Bow,Source2,3,43.170044,-71.52977,2020,5,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1222487,NH,Merrimack,Tilton,Source2,3,43.429001,-71.589539,2020,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1222494,NH,Merrimack,Contoocook,Source2,3,43.202953,-71.708176,2020,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1224251,NH,Merrimack,New London,Source2,3,43.392269,-71.985519,2020,11,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1226013,NH,Merrimack,Concord,Source2,3,43.179203,-71.567017,2020,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1231720,NH,Merrimack,Hooksett,Source2,3,43.086124,-71.47288499999998,2020,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1231722,NH,Merrimack,Hooksett,Source2,3,43.050072,-71.47015400000002,2020,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1231723,NH,Merrimack,Canterbury,Source2,3,43.350563,-71.612801,2020,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1234148,NH,Merrimack,Contoocook,Source2,3,43.202953,-71.708176,2020,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1235808,NH,Merrimack,Concord,Source2,3,43.23782,-71.540092,2020,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1235818,NH,Merrimack,Concord,Source2,3,43.23782,-71.540092,2020,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1238992,NH,Merrimack,Hooksett,Source2,3,43.050072,-71.47015400000002,2020,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-1240547,NH,Merrimack,Hooksett,Source2,3,43.02565,-71.44319899999998,2020,3,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1245955,NH,Merrimack,Hooksett,Source2,3,43.04319,-71.464104,2020,16,Monday,Rain,False,False,False,False,False,False,False
+A-1246011,NH,Merrimack,Hooksett,Source2,3,43.050259,-71.470985,2020,18,Monday,Rain,False,False,False,False,False,False,False
+A-1249450,NH,Merrimack,Bow,Source2,3,43.170044,-71.52977,2020,8,Thursday,Rain,False,False,False,False,False,False,False
+A-1250452,NH,Merrimack,New London,Source2,3,43.422813,-72.037231,2020,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1254131,NH,Merrimack,Hooksett,Source2,3,43.055988,-71.47110699999998,2020,5,Monday,Rain,False,False,False,False,False,False,False
+A-1255797,NH,Merrimack,Concord,Source2,3,43.1936,-71.525909,2020,16,Sunday,Cloudy,True,True,False,False,False,False,False
+A-1256279,NH,Merrimack,Hooksett,Source2,3,43.055988,-71.47110699999998,2020,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1272325,NH,Merrimack,Hooksett,Source2,3,43.083389,-71.460358,2020,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1275995,NH,Merrimack,Tilton,Source2,3,43.429146,-71.589989,2020,8,Sunday,Sin dato,False,False,False,False,False,False,False
+A-1277416,NH,Merrimack,Canterbury,Source2,3,43.35873,-71.611389,2020,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1277417,NH,Merrimack,Hooksett,Source2,3,43.055988,-71.47110699999998,2020,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1282853,NH,Merrimack,Concord,Source2,3,43.179531,-71.53038000000002,2020,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1288229,NH,Merrimack,Concord,Source2,3,43.208828,-71.532875,2020,21,Monday,Cloudy,True,True,False,False,False,False,False
+A-1289362,NH,Merrimack,Warner,Source2,3,43.272091,-71.787498,2020,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1296756,NH,Merrimack,Concord,Source2,3,43.23782,-71.540092,2020,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1296761,NH,Merrimack,Warner,Source2,3,43.290241,-71.837303,2020,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1297252,NH,Merrimack,Warner,Source2,3,43.355862,-71.922638,2020,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1300270,NH,Merrimack,Hooksett,Source2,3,43.086124,-71.47288499999998,2020,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1306560,NH,Merrimack,Concord,Source2,3,43.218685,-71.52621500000002,2020,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1314988,NH,Merrimack,Bow,Source2,3,43.17075300000001,-71.530289,2020,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1327335,NH,Merrimack,Hooksett,Source2,3,43.086124,-71.47288499999998,2020,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1328946,NH,Merrimack,New London,Source2,4,43.392075,-71.982254,2020,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1330721,NH,Merrimack,Canterbury,Source2,3,43.332584,-71.607079,2020,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1330722,NH,Merrimack,Concord,Source2,3,43.218685,-71.52621500000002,2020,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1332357,NH,Merrimack,Hooksett,Source2,3,43.040821,-71.42182199999998,2020,15,Friday,Clear / Fair,False,False,False,True,False,False,False
+A-1332403,NH,Merrimack,Concord,Source2,3,43.23782,-71.540092,2020,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1332406,NH,Merrimack,Concord,Source2,3,43.179531,-71.53038000000002,2020,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1332410,NH,Merrimack,Canterbury,Source2,3,43.332584,-71.607079,2020,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1335556,NH,Merrimack,Concord,Source2,3,43.23782,-71.540092,2020,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-1337337,NH,Merrimack,Canterbury,Source2,4,43.291859,-71.573212,2020,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-1342822,NH,Merrimack,New London,Source2,3,43.424339,-72.03791,2020,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-1346124,NH,Merrimack,Contoocook,Source2,3,43.181145,-71.68390699999998,2020,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-1355733,NH,Merrimack,Concord,Source2,3,43.216286,-71.533951,2020,15,Saturday,Cloudy,False,False,True,False,False,False,False
+A-1362759,NH,Merrimack,Concord,Source2,3,43.1936,-71.525909,2020,18,Thursday,Rain,True,True,False,False,False,False,False
+A-1370186,NH,Merrimack,Tilton,Source2,3,43.429146,-71.589989,2020,13,Wednesday,Rain,False,False,False,False,False,False,False
+A-1371880,NH,Merrimack,New London,Source2,3,43.392075,-71.982254,2020,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1377805,NH,Merrimack,Canterbury,Source2,3,43.332584,-71.607079,2020,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-1388030,NH,Merrimack,Hooksett,Source2,3,43.086124,-71.47288499999998,2020,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1391947,NH,Merrimack,New London,Source2,3,43.422813,-72.037231,2020,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-1394824,NH,Merrimack,Concord,Source2,3,43.179203,-71.567017,2020,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1399280,NH,Merrimack,Concord,Source2,3,43.193844,-71.525902,2020,12,Saturday,Clear / Fair,True,True,False,False,False,False,False
+A-1400286,NH,Merrimack,Hooksett,Source2,3,43.05027000000001,-71.470993,2020,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1408498,NH,Merrimack,Canterbury,Source2,3,43.332584,-71.607079,2020,15,Sunday,Rain,False,False,False,False,False,False,False
+A-1408500,NH,Merrimack,Canterbury,Source2,4,43.291935,-71.57386,2020,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1411937,NH,Merrimack,Contoocook,Source2,3,43.202953,-71.708176,2020,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1414788,NH,Merrimack,Bow,Source2,3,43.170044,-71.52977,2020,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1416195,NH,Merrimack,Hooksett,Source2,3,43.051155,-71.47114599999998,2020,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1419953,NH,Merrimack,Concord,Source2,3,43.179531,-71.53038000000002,2020,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1424755,NH,Merrimack,Warner,Source2,3,43.246658,-71.747864,2020,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1429113,NH,Merrimack,Hooksett,Source2,3,43.105598,-71.474907,2020,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1430736,NH,Merrimack,Hooksett,Source2,3,43.086124,-71.47288499999998,2020,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1442695,NH,Merrimack,Tilton,Source2,3,43.429146,-71.589989,2020,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1443224,NH,Merrimack,Bow,Source2,4,43.170044,-71.52977,2020,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1443225,NH,Merrimack,Warner,Source2,3,43.271511,-71.784859,2020,15,Wednesday,Storm,False,False,False,False,False,False,False
+A-1450325,NH,Merrimack,Tilton,Source2,3,43.379696,-71.60850500000002,2020,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1456213,NH,Merrimack,Contoocook,Source2,3,43.184662,-71.654907,2020,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1467791,NH,Merrimack,Hooksett,Source2,3,43.023354,-71.444221,2020,19,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-1476658,NH,Merrimack,Contoocook,Source2,3,43.202953,-71.708176,2020,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1483829,NH,Merrimack,Canterbury,Source2,3,43.291935,-71.57386,2020,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1488531,NH,Merrimack,Concord,Source2,3,43.177399,-71.53019,2020,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1494113,NH,Merrimack,Canterbury,Source2,3,43.332584,-71.607079,2020,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1494120,NH,Merrimack,Warner,Source2,3,43.355862,-71.922638,2020,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1494122,NH,Merrimack,Canterbury,Source2,3,43.33289,-71.60595699999998,2020,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1497658,NH,Merrimack,New London,Source2,3,43.392075,-71.982254,2020,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1503224,NH,Merrimack,Concord,Source2,3,43.179203,-71.567017,2020,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1506961,NH,Merrimack,Boscawen,Source2,3,43.32959,-71.647163,2020,13,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-1508403,NH,Merrimack,Warner,Source2,3,43.271923,-71.787148,2020,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1511431,NH,Merrimack,Warner,Source2,3,43.246658,-71.747864,2020,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1515704,NH,Merrimack,Hooksett,Source2,3,43.086124,-71.47288499999998,2020,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-1517765,NH,Merrimack,Canterbury,Source2,3,43.291935,-71.57386,2020,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1518919,NH,Merrimack,Concord,Source2,3,43.1936,-71.525909,2020,15,Monday,Clear / Fair,True,True,False,False,False,False,False
+A-1524896,NH,Merrimack,Concord,Source2,3,43.23782,-71.540092,2020,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1549962,NH,Merrimack,Concord,Source2,3,43.216286,-71.533951,2020,18,Thursday,Rain,False,False,True,False,False,False,False
+A-1552277,NH,Merrimack,Warner,Source2,3,43.355862,-71.922638,2020,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1575600,NH,Merrimack,Hooksett,Source2,3,43.086124,-71.47288499999998,2020,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1576106,NH,Merrimack,Canterbury,Source2,3,43.332584,-71.607079,2020,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-1578152,NH,Merrimack,Hooksett,Source2,3,43.023319,-71.444366,2020,16,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-1578212,NH,Merrimack,Hooksett,Source2,3,43.052608,-71.47130600000001,2020,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1582479,NH,Merrimack,Bow,Source2,3,43.16946400000001,-71.52960999999998,2020,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1584559,NH,Merrimack,Concord,Source2,3,43.216663,-71.533684,2020,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1597362,NH,Merrimack,Bow,Source2,3,43.170044,-71.52977,2020,18,Friday,Sin dato,False,False,False,False,False,False,False
+A-1600570,NH,Merrimack,Warner,Source2,3,43.355862,-71.922638,2020,8,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1602646,NH,Merrimack,Warner,Source2,3,43.290241,-71.837303,2020,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1607241,NH,Merrimack,Concord,Source2,3,43.179829,-71.530792,2020,18,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-1607262,NH,Merrimack,Hooksett,Source2,3,43.086124,-71.47288499999998,2020,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-1612507,NH,Merrimack,Canterbury,Source2,3,43.332584,-71.607079,2020,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1613116,NH,Merrimack,Hooksett,Source2,3,43.023319,-71.444366,2020,18,Monday,Cloudy,False,False,True,False,False,False,False
+A-1613161,NH,Merrimack,Concord,Source2,3,43.215439,-71.531631,2020,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-1615137,NH,Merrimack,Concord,Source2,3,43.177399,-71.53019,2020,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1621387,NH,Merrimack,Canterbury,Source2,4,43.291935,-71.57386,2020,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1625141,NH,Merrimack,Warner,Source2,3,43.290241,-71.837303,2020,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1625146,NH,Merrimack,Concord,Source2,3,43.208828,-71.532875,2020,20,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-1631868,NH,Merrimack,Concord,Source2,3,43.179203,-71.567017,2020,10,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1631874,NH,Merrimack,Canterbury,Source2,3,43.291935,-71.57386,2020,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1634617,NH,Merrimack,Contoocook,Source2,3,43.211338,-71.71491999999998,2020,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-1634618,NH,Merrimack,Canterbury,Source2,3,43.33297,-71.605118,2020,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-1645633,NH,Merrimack,Warner,Source2,3,43.271511,-71.784859,2020,7,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1651856,NH,Merrimack,Concord,Source2,3,43.21689600000001,-71.533676,2020,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1651857,NH,Merrimack,Canterbury,Source2,3,43.332584,-71.607079,2020,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1653749,NH,Merrimack,Hooksett,Source2,3,43.086224,-71.4739,2020,20,Tuesday,Rain,False,False,False,False,False,False,False
+A-1656115,NH,Merrimack,Concord,Source2,3,43.23782,-71.540092,2020,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1660454,NH,Merrimack,Concord,Source2,3,43.208828,-71.532875,2020,16,Friday,Clear / Fair,True,True,False,False,False,False,False
+A-1663915,NH,Merrimack,Concord,Source2,3,43.179203,-71.567017,2020,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1675049,NH,Merrimack,Bow,Source2,3,43.170044,-71.52977,2020,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1679972,NH,Merrimack,Dunbarton,Source2,3,43.14991,-71.629829,2019,5,Friday,Cloudy,False,False,False,True,False,False,False
+A-1683094,NH,Merrimack,Hooksett,Source2,3,43.04319,-71.464104,2019,10,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1687485,NH,Merrimack,Hooksett,Source2,3,43.023319,-71.444366,2019,12,Monday,Snow / Ice,False,False,True,False,False,False,False
+A-1702366,NH,Merrimack,Warner,Source2,3,43.28921500000001,-71.836708,2019,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-1705093,NH,Merrimack,Warner,Source2,3,43.355862,-71.922638,2019,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1713448,NH,Merrimack,Bow,Source2,3,43.170044,-71.52977,2019,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-1720445,NH,Merrimack,Hooksett,Source2,3,43.050072,-71.47015400000002,2019,18,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1723172,NH,Merrimack,Warner,Source2,3,43.355862,-71.922638,2019,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1723189,NH,Merrimack,Warner,Source2,3,43.290241,-71.837303,2019,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1728346,NH,Merrimack,Concord,Source2,4,43.18187,-71.596352,2019,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1732336,NH,Merrimack,Danbury,Source2,3,43.51100200000001,-71.872261,2019,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1734730,NH,Merrimack,Bow,Source2,3,43.169006,-71.529198,2019,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1736988,NH,Merrimack,Warner,Source2,3,43.355862,-71.922638,2019,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-1747299,NH,Merrimack,Concord,Source2,3,43.218685,-71.52621500000002,2019,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-1750633,NH,Merrimack,Canterbury,Source2,3,43.332584,-71.607079,2019,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1751482,NH,Merrimack,Tilton,Source2,3,43.429146,-71.589989,2019,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-1751483,NH,Merrimack,Canterbury,Source2,3,43.332584,-71.607079,2019,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-1751489,NH,Merrimack,Concord,Source2,3,43.1936,-71.525909,2019,16,Monday,Clear / Fair,True,True,False,False,False,False,False
+A-1751491,NH,Merrimack,Concord,Source2,3,43.1936,-71.525909,2019,18,Monday,Cloudy,True,True,False,False,False,False,False
+A-1756538,NH,Merrimack,New London,Source2,3,43.391102,-71.981216,2019,6,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1759424,NH,Merrimack,Hooksett,Source2,3,43.04319,-71.464104,2019,13,Thursday,Rain,False,False,False,False,False,False,False
+A-1762139,NH,Merrimack,Hooksett,Source2,3,43.086124,-71.47288499999998,2019,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1764535,NH,Merrimack,Concord,Source2,3,43.23782,-71.540092,2019,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1768913,NH,Merrimack,Hooksett,Source2,3,43.086128,-71.472206,2019,22,Tuesday,Rain,False,False,False,False,False,False,False
+A-1771692,NH,Merrimack,Warner,Source2,3,43.35429,-71.92034100000002,2019,7,Wednesday,Rain,False,False,False,False,False,False,False
+A-1771702,NH,Merrimack,Canterbury,Source2,3,43.332584,-71.607079,2019,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1776917,NH,Merrimack,Bow,Source2,3,43.170544,-71.530266,2019,7,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1791436,NH,Merrimack,Concord,Source2,3,43.23782,-71.540092,2019,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1791437,NH,Merrimack,Concord,Source2,3,43.23782,-71.540092,2019,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1803479,NH,Merrimack,Canterbury,Source2,3,43.291794,-71.573151,2019,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1803492,NH,Merrimack,Contoocook,Source2,3,43.184662,-71.654907,2019,16,Thursday,Rain,False,False,False,False,False,False,False
+A-1806338,NH,Merrimack,Contoocook,Source2,3,43.181145,-71.68390699999998,2019,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-1809000,NH,Merrimack,Concord,Source2,3,43.23782,-71.540092,2019,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1813225,NH,Merrimack,New London,Source2,4,43.422764,-72.037369,2019,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1816359,NH,Merrimack,Concord,Source2,3,43.218685,-71.52621500000002,2019,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1826634,NH,Merrimack,Hooksett,Source2,3,43.086124,-71.47288499999998,2019,18,Monday,Rain,False,False,False,False,False,False,False
+A-1834476,NH,Merrimack,Hooksett,Source2,3,43.023319,-71.444366,2019,7,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-1841120,NH,Merrimack,Hooksett,Source2,3,43.084785,-71.473694,2019,16,Sunday,Rain,False,False,False,False,False,False,False
+A-1841890,NH,Merrimack,Contoocook,Source2,3,43.181915,-71.688469,2019,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1860566,NH,Merrimack,Concord,Source2,3,43.218685,-71.52621500000002,2019,18,Thursday,Rain,False,False,False,False,False,False,False
+A-1860567,NH,Merrimack,Bow,Source2,3,43.170044,-71.52977,2019,18,Thursday,Rain,False,False,False,False,False,False,False
+A-1863186,NH,Merrimack,Bow,Source2,3,43.170044,-71.52977,2019,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1866454,NH,Merrimack,Bow,Source2,3,43.170025,-71.529816,2019,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1866463,NH,Merrimack,Bow,Source2,3,43.170044,-71.52977,2019,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1869359,NH,Merrimack,Concord,Source2,3,43.23782,-71.540092,2019,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1871692,NH,Merrimack,Warner,Source2,3,43.355862,-71.922638,2019,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1873200,NH,Merrimack,Hooksett,Source2,3,43.044849,-71.4664,2019,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1880587,NH,Merrimack,Hooksett,Source2,3,43.023319,-71.444366,2019,11,Thursday,Cloudy,False,False,True,False,False,False,False
+A-1880589,NH,Merrimack,Allenstown,Source2,3,43.157909,-71.405739,2019,12,Thursday,Clear / Fair,False,False,False,True,False,False,False
+A-1887549,NH,Merrimack,Hooksett,Source2,3,43.086124,-71.47288499999998,2019,15,Monday,Rain,False,False,False,False,False,False,False
+A-1912947,NH,Merrimack,Bow,Source2,3,43.170044,-71.52977,2019,19,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1913707,NH,Merrimack,Concord,Source2,3,43.179531,-71.53038000000002,2019,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1916036,NH,Merrimack,Contoocook,Source2,3,43.18516500000001,-71.697571,2019,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1937078,NH,Merrimack,Bow,Source2,3,43.17035300000001,-71.530617,2019,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1941876,NH,Merrimack,Concord,Source2,3,43.208828,-71.532875,2019,16,Friday,Clear / Fair,True,True,False,False,False,False,False
+A-1946538,NH,Merrimack,Hooksett,Source2,3,43.049351,-71.471367,2019,17,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-1948662,NH,Merrimack,Canterbury,Source2,3,43.332584,-71.607079,2019,7,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-1952063,NH,Merrimack,Bow,Source2,3,43.170044,-71.52977,2019,9,Friday,Sin dato,False,False,False,False,False,False,False
+A-1953705,NH,Merrimack,Contoocook,Source2,3,43.181145,-71.68390699999998,2019,16,Saturday,Storm,False,False,False,False,False,False,False
+A-1959235,NH,Merrimack,Canterbury,Source2,3,43.332584,-71.607079,2019,15,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-1963422,NH,Merrimack,Contoocook,Source2,3,43.184662,-71.654907,2019,10,Friday,Sin dato,False,False,False,False,False,False,False
+A-1978313,NH,Merrimack,Concord,Source2,3,43.237869,-71.53872700000002,2019,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1979033,NH,Merrimack,Concord,Source2,4,43.216286,-71.533951,2019,19,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-1981856,NH,Merrimack,Bow,Source2,3,43.170044,-71.52977,2019,6,Tuesday,Rain,False,False,False,False,False,False,False
+A-1986414,NH,Merrimack,Hooksett,Source2,3,43.048431,-71.471199,2019,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1988577,NH,Merrimack,Bow,Source2,3,43.167099,-71.53418,2019,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1990772,NH,Merrimack,Canterbury,Source2,3,43.332584,-71.607079,2019,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1994147,NH,Merrimack,Hooksett,Source2,3,43.086262,-71.47402199999998,2019,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2006340,NH,Merrimack,Hooksett,Source3,3,43.023319,-71.444366,2019,16,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-2028759,NH,Merrimack,Concord,Source2,3,43.216286,-71.533951,2019,14,Sunday,Cloudy,False,False,True,False,False,False,False
+A-2028760,NH,Merrimack,Warner,Source2,3,43.355862,-71.922638,2019,16,Sunday,Storm,False,False,False,False,False,False,False
+A-2029513,NH,Merrimack,Hooksett,Source2,3,43.086124,-71.47288499999998,2019,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2029519,NH,Merrimack,Hooksett,Source2,3,43.086124,-71.47288499999998,2019,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2034035,NH,Merrimack,Tilton,Source2,4,43.429146,-71.589989,2019,21,Wednesday,Rain,False,False,False,False,False,False,False
+A-2035680,NH,Merrimack,Hooksett,Source2,3,43.050072,-71.47015400000002,2019,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2044110,NH,Merrimack,Hooksett,Source2,3,43.109669,-71.47625699999998,2019,7,Tuesday,Rain,False,False,False,False,False,False,False
+A-2053979,NH,Merrimack,Hooksett,Source2,3,43.086124,-71.47288499999998,2019,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2057077,NH,Merrimack,Hooksett,Source2,3,43.048939,-71.471848,2019,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2064110,NH,Merrimack,Loudon,Source2,3,43.341721,-71.467422,2019,14,Friday,Cloudy,False,False,False,True,False,False,False
+A-2078780,NH,Merrimack,Concord,Source2,3,43.179203,-71.567017,2019,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2087186,NH,Merrimack,Concord,Source2,3,43.23782,-71.540092,2019,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2104785,NH,Merrimack,Contoocook,Source2,3,43.202953,-71.708176,2019,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2165813,NH,Merrimack,Tilton,Source2,3,43.427994,-71.590118,2019,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2167381,NH,Merrimack,Tilton,Source2,3,43.429146,-71.589989,2019,15,Monday,Rain,False,False,False,False,False,False,False
+A-2171917,NH,Merrimack,Hooksett,Source2,3,43.050072,-71.47015400000002,2019,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2180116,NH,Merrimack,Canterbury,Source2,3,43.291935,-71.57386,2019,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-2180118,NH,Merrimack,Hooksett,Source2,3,43.086124,-71.47288499999998,2019,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-2193205,NH,Merrimack,Concord,Source2,3,43.218121,-71.53475999999998,2019,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2195427,NH,Merrimack,Contoocook,Source2,3,43.184219,-71.654327,2019,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2198451,NH,Merrimack,Hooksett,Source2,3,43.086357,-71.47375500000003,2019,8,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2198452,NH,Merrimack,New London,Source2,3,43.423351,-72.037598,2019,8,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2210470,NH,Merrimack,Warner,Source3,3,43.31868400000001,-71.873856,2019,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2211243,NH,Merrimack,Canterbury,Source2,3,43.332481,-71.606987,2019,10,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-2211247,NH,Merrimack,Hooksett,Source2,3,43.056221,-71.47159599999998,2019,11,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-2211250,NH,Merrimack,Warner,Source2,3,43.292122,-71.8377,2019,15,Sunday,Rain,False,False,False,False,False,False,False
+A-2211255,NH,Merrimack,New London,Source2,3,43.423351,-72.037598,2019,18,Sunday,Rain,False,False,False,False,False,False,False
+A-2211257,NH,Merrimack,Warner,Source2,3,43.355854,-71.922661,2019,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2215927,NH,Merrimack,Bow,Source2,3,43.17012,-71.529884,2019,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2222977,NH,Merrimack,Hooksett,Source2,3,43.023418,-71.444702,2019,15,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-2223000,NH,Merrimack,Concord,Source2,3,43.179493,-71.530365,2019,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2232818,NH,Merrimack,Warner,Source2,3,43.355854,-71.922661,2019,9,Friday,Rain,False,False,False,False,False,False,False
+A-2251468,NH,Merrimack,Tilton,Source2,3,43.427994,-71.590118,2019,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2260021,NH,Merrimack,Warner,Source2,3,43.355854,-71.922661,2019,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2264221,NH,Merrimack,Concord,Source2,3,43.179661,-71.567184,2019,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2278674,NH,Merrimack,Hooksett,Source2,3,43.043598,-71.46418,2019,17,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2281567,NH,Merrimack,Hooksett,Source2,3,43.023418,-71.444702,2019,11,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-2281665,NH,Merrimack,Canterbury,Source2,3,43.292053,-71.57415,2019,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2287151,NH,Merrimack,Warner,Source2,3,43.326698,-71.903816,2019,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-2293202,NH,Merrimack,Canterbury,Source2,3,43.332481,-71.606987,2019,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2293222,NH,Merrimack,Concord,Source2,3,43.234638,-71.538078,2019,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2300813,NH,Merrimack,Hooksett,Source2,3,43.086357,-71.47375500000003,2019,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-2300826,NH,Merrimack,Concord,Source2,3,43.193367,-71.52580999999998,2019,16,Friday,Clear / Fair,True,True,False,False,False,False,False
+A-2303808,NH,Merrimack,Hooksett,Source2,3,43.059746,-71.471809,2019,8,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-2314441,NH,Merrimack,Hooksett,Source2,3,43.086357,-71.47375500000003,2019,7,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2314445,NH,Merrimack,Hooksett,Source2,3,43.048477,-71.471451,2019,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2314446,NH,Merrimack,Contoocook,Source2,3,43.181194,-71.68626400000002,2019,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2314453,NH,Merrimack,Hooksett,Source2,3,43.102325,-71.474884,2019,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2323396,NH,Merrimack,Concord,Source2,3,43.218842,-71.52565,2019,7,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2323401,NH,Merrimack,Contoocook,Source2,3,43.181194,-71.68626400000002,2019,8,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2323402,NH,Merrimack,Canterbury,Source2,3,43.332481,-71.606987,2019,8,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2323408,NH,Merrimack,Concord,Source3,3,43.179493,-71.530365,2019,19,Tuesday,Rain,False,False,False,False,False,False,False
+A-2323409,NH,Merrimack,Concord,Source3,3,43.218842,-71.52565,2019,20,Tuesday,Rain,False,False,False,False,False,False,False
+A-2325764,NH,Merrimack,Bow,Source2,3,43.168343,-71.535545,2019,6,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2325770,NH,Merrimack,Bow,Source2,3,43.171131,-71.528816,2019,7,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2350496,NH,Merrimack,New London,Source2,3,43.394474,-71.989868,2019,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2353350,NH,Merrimack,Hooksett,Source2,3,43.086357,-71.47375500000003,2019,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2361677,NH,Merrimack,Concord,Source2,3,43.181652,-71.59693100000001,2019,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2368354,NH,Merrimack,Hooksett,Source2,3,43.086357,-71.47375500000003,2019,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2368360,NH,Merrimack,Concord,Source3,3,43.291695,-71.573051,2019,8,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-2368363,NH,Merrimack,Warner,Source2,3,43.355854,-71.922661,2019,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2368369,NH,Merrimack,Hooksett,Source2,3,43.086357,-71.47375500000003,2019,18,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2375026,NH,Merrimack,Hooksett,Source2,3,43.048904,-71.47144300000002,2018,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2383781,NH,Merrimack,New London,Source2,3,43.392166,-71.982552,2018,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2383783,NH,Merrimack,Canterbury,Source2,3,43.332481,-71.606987,2018,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-2387100,NH,Merrimack,Bow,Source2,3,43.170101,-71.529938,2018,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2389410,NH,Merrimack,Concord,Source3,3,43.193367,-71.52580999999998,2018,9,Tuesday,Clear / Fair,True,True,False,False,False,False,False
+A-2396713,NH,Merrimack,Concord,Source2,3,43.193367,-71.52580999999998,2018,8,Friday,Cloudy,True,True,False,False,False,False,False
+A-2399069,NH,Merrimack,Tilton,Source2,3,43.427994,-71.590118,2018,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2400211,NH,Merrimack,Hooksett,Source2,3,43.086357,-71.47375500000003,2018,17,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2404985,NH,Merrimack,Hooksett,Source2,3,43.043598,-71.46418,2018,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2409243,NH,Merrimack,Hooksett,Source2,3,43.052643,-71.470764,2018,7,Friday,Rain,False,False,False,False,False,False,False
+A-2418189,NH,Merrimack,Hooksett,Source2,3,43.043598,-71.46418,2018,8,Friday,Rain,False,False,False,False,False,False,False
+A-2418259,NH,Merrimack,Concord,Source2,3,43.18158,-71.596886,2018,6,Friday,Rain,False,False,False,False,False,False,False
+A-2418270,NH,Merrimack,Tilton,Source2,3,43.427994,-71.590118,2018,8,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2418272,NH,Merrimack,Canterbury,Source2,3,43.332481,-71.606987,2018,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-2418274,NH,Merrimack,Canterbury,Source2,3,43.369156,-71.609993,2018,11,Friday,Rain,False,False,True,False,False,False,False
+A-2418280,NH,Merrimack,Hooksett,Source2,3,43.086357,-71.47375500000003,2018,22,Friday,Cloudy,False,False,False,False,False,False,False
+A-2438527,NH,Merrimack,Concord,Source2,3,43.17976,-71.531166,2018,17,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-2444496,NH,Merrimack,Canterbury,Source2,3,43.291668,-71.573097,2018,12,Friday,Cloudy,False,False,True,False,False,False,False
+A-2449380,NH,Merrimack,Canterbury,Source2,3,43.331108,-71.605675,2018,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2454988,NH,Merrimack,Canterbury,Source2,3,43.331108,-71.605675,2018,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2461063,NH,Merrimack,Warner,Source2,3,43.35582700000001,-71.92334699999998,2018,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-2465479,NH,Merrimack,Warner,Source2,3,43.35582700000001,-71.92334699999998,2018,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2465497,NH,Merrimack,Concord,Source2,3,43.193443,-71.526016,2018,17,Monday,Cloudy,True,True,False,False,False,False,False
+A-2468156,NH,Merrimack,Warner,Source2,3,43.35582700000001,-71.92334699999998,2018,10,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2468159,NH,Merrimack,Canterbury,Source2,3,43.331108,-71.605675,2018,11,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2468168,NH,Merrimack,Hooksett,Source2,3,43.048168,-71.470871,2018,14,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2473810,NH,Merrimack,Bow,Source2,3,43.168743,-71.533867,2018,11,Thursday,Sin dato,False,False,True,False,False,False,False
+A-2475304,NH,Merrimack,Canterbury,Source2,3,43.291668,-71.573097,2018,17,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-2478620,NH,Merrimack,Warner,Source2,3,43.289162,-71.83669300000003,2018,20,Monday,Rain,False,False,False,False,False,False,False
+A-2481295,NH,Merrimack,Hooksett,Source2,3,43.086178,-71.474274,2018,8,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2481308,NH,Merrimack,Tilton,Source2,3,43.429852,-71.588516,2018,13,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2481312,NH,Merrimack,Canterbury,Source2,3,43.291668,-71.573097,2018,17,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-2484033,NH,Merrimack,Concord,Source2,3,43.235043,-71.47036,2018,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2494034,NH,Merrimack,Concord,Source3,3,43.179878,-71.567177,2018,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2499881,NH,Merrimack,Warner,Source2,3,43.289162,-71.83669300000003,2018,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2503882,NH,Merrimack,Concord,Source2,3,43.208736,-71.53318,2018,17,Monday,Cloudy,True,True,False,False,False,False,False
+A-2503883,NH,Merrimack,Concord,Source2,3,43.208736,-71.53318,2018,20,Monday,Cloudy,True,True,False,False,False,False,False
+A-2516634,NH,Merrimack,Concord,Source2,3,43.23674000000001,-71.539063,2018,7,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2528949,NH,Merrimack,Hooksett,Source2,3,43.0233,-71.444199,2018,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2532845,NH,Merrimack,Tilton,Source2,3,43.429852,-71.588516,2018,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2544929,NH,Merrimack,Concord,Source2,3,43.216526,-71.53392,2018,16,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-2548006,NH,Merrimack,Concord,Source2,3,43.216526,-71.53392,2018,7,Saturday,Cloudy,False,False,True,False,False,False,False
+A-2548009,NH,Merrimack,Concord,Source2,3,43.235043,-71.47036,2018,11,Saturday,Rain,False,False,False,False,False,False,False
+A-2548014,NH,Merrimack,Contoocook,Source2,3,43.183708,-71.656189,2018,14,Saturday,Rain,False,False,False,False,False,False,False
+A-2548016,NH,Merrimack,Contoocook,Source2,3,43.180866,-71.688698,2018,14,Saturday,Rain,False,False,False,False,False,False,False
+A-2555583,NH,Merrimack,Concord,Source3,3,43.179878,-71.567177,2018,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-2568956,NH,Merrimack,Concord,Source2,3,43.215977,-71.53373,2018,8,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-2573094,NH,Merrimack,Hooksett,Source2,3,43.086178,-71.474274,2018,19,Monday,Rain,False,False,False,False,False,False,False
+A-2583584,NH,Merrimack,Concord,Source2,3,43.224125,-71.507385,2018,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2583585,NH,Merrimack,Bow,Source2,3,43.170273,-71.530403,2018,17,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-2586234,NH,Merrimack,Canterbury,Source2,3,43.331108,-71.605675,2018,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2586235,NH,Merrimack,Concord,Source2,3,43.237194,-71.539063,2018,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2590272,NH,Merrimack,Canterbury,Source2,3,43.331108,-71.605675,2018,6,Tuesday,Rain,False,False,False,False,False,False,False
+A-2590287,NH,Merrimack,Hooksett,Source2,3,43.04892,-71.471863,2018,10,Tuesday,Rain,False,False,False,False,False,False,False
+A-2597911,NH,Merrimack,Hooksett,Source2,3,43.085789,-71.472488,2018,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-2601266,NH,Merrimack,Concord,Source2,3,43.216526,-71.53392,2018,12,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-2626932,NH,Merrimack,Concord,Source2,3,43.208736,-71.53318,2018,12,Sunday,Cloudy,True,True,False,False,False,False,False
+A-2637702,NH,Merrimack,Hooksett,Source2,3,43.086178,-71.474274,2018,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2637704,NH,Merrimack,Concord,Source2,3,43.190617,-71.537216,2018,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2649139,NH,Merrimack,Tilton,Source2,3,43.429852,-71.588516,2018,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2654979,NH,Merrimack,Contoocook,Source2,3,43.183708,-71.656189,2018,7,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2654982,NH,Merrimack,Concord,Source2,3,43.216728,-71.533211,2018,13,Sunday,Cloudy,False,False,True,False,False,False,False
+A-2658379,NH,Merrimack,Concord,Source2,3,43.23674000000001,-71.539063,2018,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2663280,NH,Merrimack,Concord,Source2,3,43.193443,-71.526016,2018,12,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-2669512,NH,Merrimack,Concord,Source2,3,43.215199,-71.53846,2018,10,Monday,Cloudy,True,False,True,True,False,False,False
+A-2677201,NH,Merrimack,Hooksett,Source3,3,43.085331,-71.473648,2018,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2681491,NH,Merrimack,Concord,Source2,3,43.179878,-71.567177,2018,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-2687198,NH,Merrimack,Concord,Source2,3,43.179153,-71.53183,2018,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2687205,NH,Merrimack,Canterbury,Source2,3,43.331108,-71.605675,2018,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2689199,NH,Merrimack,Hooksett,Source2,3,43.043774,-71.465096,2018,14,Friday,Cloudy,False,False,True,False,False,False,False
+A-2730193,NH,Merrimack,Hooksett,Source2,3,43.0233,-71.444199,2018,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2730882,NH,Merrimack,Concord,Source2,3,43.179878,-71.567177,2018,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2739638,NH,Merrimack,Hooksett,Source2,3,43.086464,-71.47357199999998,2018,8,Monday,Rain,False,False,False,False,False,False,False
+A-2739643,NH,Merrimack,Hooksett,Source2,3,43.053905,-71.471085,2018,9,Monday,Rain,False,False,False,False,False,False,False
+A-2742017,NH,Merrimack,Bow,Source2,3,43.169365,-71.528076,2018,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2746851,NH,Merrimack,Hooksett,Source2,3,43.086178,-71.474274,2018,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2766110,NH,Merrimack,Canterbury,Source2,3,43.291668,-71.573097,2018,17,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-2779177,NH,Merrimack,Hooksett,Source2,3,43.048409,-71.471184,2018,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2782394,NH,Merrimack,Concord,Source2,3,43.193443,-71.526016,2018,17,Tuesday,Clear / Fair,True,True,False,False,False,False,False
+A-2791872,NH,Merrimack,Concord,Source2,3,43.17976,-71.531166,2018,14,Monday,Cloudy,False,False,True,False,False,False,False
+A-2805856,NH,Merrimack,Concord,Source2,3,43.181061,-71.59831199999998,2018,22,Sunday,Rain,False,False,False,False,False,False,False
+A-2806476,NH,Merrimack,Hooksett,Source2,3,43.086178,-71.474274,2018,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-2829239,NH,Merrimack,Concord,Source2,3,43.23756,-71.539268,2018,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2829240,NH,Merrimack,Tilton,Source2,3,43.429852,-71.588516,2018,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2829241,NH,Merrimack,Canterbury,Source2,3,43.31155800000001,-71.583572,2018,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2831957,NH,Merrimack,Concord,Source2,3,43.181061,-71.59831199999998,2018,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2831958,NH,Merrimack,Concord,Source2,3,43.181061,-71.59831199999998,2018,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2836160,NH,Merrimack,New London,Source2,3,43.392551,-71.982864,2018,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2841224,NH,Merrimack,Concord,Source3,3,43.216526,-71.53392,2018,17,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-2846473,NH,Merrimack,Hooksett,Source2,3,43.086178,-71.474274,2018,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2860896,NH,Merrimack,Hooksett,Source2,3,43.0233,-71.444199,2018,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2868646,NH,Merrimack,New London,Source2,3,43.391796,-71.983337,2018,17,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2886103,NH,Merrimack,Tilton,Source2,3,43.429852,-71.588516,2018,13,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-2886815,NH,Merrimack,Canterbury,Source2,3,43.331108,-71.605675,2018,7,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2886818,NH,Merrimack,Warner,Source2,3,43.35582700000001,-71.92334699999998,2018,8,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2886819,NH,Merrimack,Contoocook,Source2,3,43.202625,-71.707985,2018,9,Monday,Rain,False,False,False,False,False,False,False
+A-2886820,NH,Merrimack,Contoocook,Source3,3,43.180866,-71.688698,2018,9,Monday,Rain,False,False,False,False,False,False,False
+A-2892154,NH,Merrimack,Hooksett,Source2,3,43.04858,-71.471878,2018,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2909965,NH,Merrimack,Hooksett,Source2,3,43.0233,-71.444199,2018,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2916136,NH,Merrimack,Hooksett,Source2,3,43.042137,-71.464485,2018,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2922090,NH,Merrimack,Hooksett,Source2,3,43.086178,-71.474274,2018,6,Friday,Rain,False,False,False,False,False,False,False
+A-2931037,NH,Merrimack,Warner,Source2,3,43.289337,-71.836784,2018,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2931038,NH,Merrimack,New London,Source2,3,43.391796,-71.983337,2018,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2931047,NH,Merrimack,Warner,Source2,3,43.289162,-71.83669300000003,2018,21,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2937379,NH,Merrimack,Contoocook,Source2,3,43.202625,-71.707985,2018,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2940706,NH,Merrimack,Hooksett,Source2,3,43.043774,-71.465096,2018,9,Tuesday,Snow / Ice,False,False,True,False,False,False,False
+A-2943548,NH,Merrimack,New London,Source2,3,43.391796,-71.983337,2018,9,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2958450,NH,Merrimack,Hooksett,Source2,3,43.084843,-71.47644,2018,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2968538,NH,Merrimack,Hooksett,Source3,3,43.04892,-71.471863,2018,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2977914,NH,Merrimack,Warner,Source2,3,43.246948,-71.748451,2018,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-2982956,NH,Merrimack,Tilton,Source2,3,43.429852,-71.588516,2018,7,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2982963,NH,Merrimack,Concord,Source3,3,43.17976,-71.531166,2018,7,Thursday,Snow / Ice,False,False,True,False,False,False,False
+A-2982970,NH,Merrimack,New London,Source2,3,43.392387,-71.982361,2018,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2982972,NH,Merrimack,Warner,Source2,3,43.272514,-71.79257199999998,2018,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2982973,NH,Merrimack,Northfield,Source2,3,43.431129,-71.589348,2018,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2985421,NH,Merrimack,Bow,Source2,3,43.170273,-71.530403,2018,17,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-2988048,NH,Merrimack,Concord,Source2,3,43.237167,-71.539047,2018,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2988049,NH,Merrimack,Concord,Source2,3,43.28952,-71.570572,2018,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2988861,NH,Merrimack,Canterbury,Source2,3,43.291668,-71.573097,2018,8,Sunday,Cloudy,False,False,True,False,False,False,False
+A-2989610,NH,Merrimack,New London,Source2,3,43.422531,-72.037689,2018,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-2994923,NH,Merrimack,Hooksett,Source2,3,43.084442,-71.460617,2018,18,Wednesday,Rain,False,False,False,False,False,False,False
+A-2995035,NH,Merrimack,Concord,Source3,3,43.216526,-71.53392,2018,11,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-2995041,NH,Merrimack,Concord,Source2,3,43.17976,-71.531166,2018,13,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-2995057,NH,Merrimack,Warner,Source2,3,43.289162,-71.83669300000003,2018,16,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2997901,NH,Merrimack,Concord,Source2,3,43.179878,-71.567177,2018,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3003592,NH,Merrimack,Concord,Source3,3,43.193443,-71.526016,2018,12,Saturday,Cloudy,True,True,False,False,False,False,False
+A-3010642,NH,Merrimack,New London,Source2,3,43.391796,-71.983337,2018,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3017890,NH,Merrimack,Hooksett,Source3,3,43.023434,-71.444321,2018,11,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-3018510,NH,Merrimack,Hooksett,Source2,3,43.086178,-71.474274,2018,7,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3026634,NH,Merrimack,Warner,Source2,3,43.289162,-71.83669300000003,2018,15,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3026646,NH,Merrimack,Canterbury,Source2,3,43.331108,-71.605675,2018,16,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3029333,NH,Merrimack,Hooksett,Source2,3,43.086178,-71.474274,2018,18,Friday,Rain,False,False,False,False,False,False,False
+A-3032021,NH,Merrimack,Hooksett,Source2,3,43.043774,-71.465096,2018,7,Saturday,Cloudy,False,False,True,False,False,False,False
+A-3032847,NH,Merrimack,Hooksett,Source2,3,43.086235,-71.473839,2018,9,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-3051085,NH,Merrimack,New London,Source2,3,43.391922,-71.980972,2018,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-3056992,NH,Merrimack,Bow,Source2,3,43.170273,-71.530403,2018,8,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-3056996,NH,Merrimack,Contoocook,Source2,3,43.183891,-71.655479,2018,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3059407,NH,Merrimack,Hooksett,Source2,3,43.04892,-71.471863,2018,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3062337,NH,Merrimack,Concord,Source2,3,43.193443,-71.526016,2018,17,Friday,Rain,True,True,False,False,False,False,False
+A-3066356,NH,Merrimack,Hooksett,Source2,3,43.043774,-71.465096,2018,22,Monday,Cloudy,False,False,True,False,False,False,False
+A-3066430,NH,Merrimack,Bow,Source2,3,43.170273,-71.530403,2018,15,Monday,Cloudy,False,False,True,False,False,False,False
+A-3071543,NH,Merrimack,Bow,Source2,3,43.170029,-71.52984599999998,2018,7,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3071545,NH,Merrimack,Canterbury,Source2,3,43.291668,-71.573097,2018,7,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-3071548,NH,Merrimack,Concord,Source2,3,43.181061,-71.59831199999998,2018,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3071557,NH,Merrimack,Warner,Source2,3,43.289162,-71.83669300000003,2018,13,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3071561,NH,Merrimack,Warner,Source2,3,43.35582700000001,-71.92334699999998,2018,15,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3071567,NH,Merrimack,Warner,Source2,3,43.355141,-71.923416,2018,17,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3076489,NH,Merrimack,Concord,Source2,3,43.193443,-71.526016,2018,18,Saturday,Clear / Fair,True,True,False,False,False,False,False
+A-3080037,NH,Merrimack,Hooksett,Source2,3,43.04892,-71.471863,2018,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3082676,NH,Merrimack,Hooksett,Source2,3,43.048294,-71.471489,2018,3,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3091043,NH,Merrimack,Contoocook,Source3,3,43.180866,-71.688698,2018,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3103614,NH,Merrimack,Concord,Source2,3,43.208736,-71.53318,2017,7,Monday,Clear / Fair,True,True,False,False,False,False,False
+A-3103626,NH,Merrimack,Canterbury,Source2,3,43.291668,-71.573097,2017,15,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-3114805,NH,Merrimack,Concord,Source2,3,43.215199,-71.53846,2017,8,Friday,Clear / Fair,True,False,True,True,False,False,False
+A-3121787,NH,Merrimack,Bow,Source2,3,43.170273,-71.530403,2017,7,Tuesday,Snow / Ice,False,False,True,False,False,False,False
+A-3121788,NH,Merrimack,Concord,Source2,3,43.237209,-71.53933,2017,7,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3121801,NH,Merrimack,Concord,Source2,3,43.193333,-71.525948,2017,11,Tuesday,Snow / Ice,True,True,False,False,False,False,False
+A-3121802,NH,Merrimack,Hooksett,Source2,3,43.086178,-71.474274,2017,13,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3121805,NH,Merrimack,Bow,Source2,3,43.125542,-71.484612,2017,13,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3121809,NH,Merrimack,Bow,Source2,3,43.170273,-71.530403,2017,14,Tuesday,Rain,False,False,True,False,False,False,False
+A-3121817,NH,Merrimack,Bow,Source2,3,43.170273,-71.530403,2017,16,Tuesday,Rain,False,False,True,False,False,False,False
+A-3121823,NH,Merrimack,Hooksett,Source2,3,43.04892,-71.471863,2017,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3134643,NH,Merrimack,Concord,Source2,3,43.291199,-71.572647,2017,9,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-3134646,NH,Merrimack,Canterbury,Source2,3,43.331108,-71.605675,2017,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-3134651,NH,Merrimack,Canterbury,Source2,3,43.291668,-71.573097,2017,14,Monday,Cloudy,False,False,True,False,False,False,False
+A-3137536,NH,Merrimack,Concord,Source2,3,43.224125,-71.507385,2017,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3145914,NH,Merrimack,Hooksett,Source2,3,43.048145,-71.47150400000002,2017,7,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3145918,NH,Merrimack,Tilton,Source2,3,43.428989,-71.589035,2017,10,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3145919,NH,Merrimack,Tilton,Source2,3,43.429123,-71.58946999999998,2017,11,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3145923,NH,Merrimack,New London,Source2,3,43.391796,-71.983337,2017,13,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3148333,NH,Merrimack,Chichester,Source2,3,43.243248,-71.451981,2017,15,Saturday,Rain,False,False,False,False,False,False,False
+A-3150756,NH,Merrimack,Bow,Source2,3,43.170769,-71.53068499999998,2017,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3150757,NH,Merrimack,New London,Source2,3,43.422531,-72.037689,2017,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3150764,NH,Merrimack,Warner,Source2,3,43.35582700000001,-71.92334699999998,2017,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3162656,NH,Merrimack,Bow,Source2,3,43.170456,-71.530518,2017,8,Thursday,Cloudy,False,False,True,False,False,False,False
+A-3165063,NH,Merrimack,Hooksett,Source2,3,43.086697,-71.474091,2017,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3165083,NH,Merrimack,Bow,Source2,3,43.169788,-71.529655,2017,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3170973,NH,Merrimack,Concord,Source2,3,43.21909,-71.524948,2017,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3175439,NH,Merrimack,Bow,Source2,3,43.168743,-71.533867,2017,4,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-3181218,NH,Merrimack,Concord,Source2,3,43.193443,-71.526016,2017,15,Monday,Snow / Ice,True,True,False,False,False,False,False
+A-3181221,NH,Merrimack,Warner,Source2,3,43.272514,-71.79257199999998,2017,15,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-3202494,NH,Merrimack,Hooksett,Source2,3,43.086178,-71.474274,2017,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3203898,NH,Merrimack,Canterbury,Source2,3,43.331108,-71.605675,2017,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-3207024,NH,Merrimack,Bow,Source2,3,43.170273,-71.530403,2017,10,Monday,Cloudy,False,False,True,False,False,False,False
+A-3207031,NH,Merrimack,Concord,Source2,3,43.216606,-71.53392,2017,17,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-3212762,NH,Merrimack,Hooksett,Source2,3,43.04892,-71.471863,2017,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3219450,NH,Merrimack,Contoocook,Source2,3,43.183708,-71.656189,2017,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3227803,NH,Merrimack,Hooksett,Source2,3,43.022175,-71.44324499999998,2017,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-3231998,NH,Merrimack,Bow,Source2,3,43.168743,-71.533867,2017,11,Monday,Rain,False,False,True,False,False,False,False
+A-3232010,NH,Merrimack,Concord,Source2,3,43.291489,-71.572411,2017,16,Monday,Rain,False,False,False,False,False,False,False
+A-3240494,NH,Merrimack,Concord,Source2,3,43.224125,-71.507385,2017,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3251613,NH,Merrimack,Concord,Source2,3,43.193443,-71.526016,2017,17,Wednesday,Clear / Fair,True,True,False,False,False,False,False
+A-3257014,NH,Merrimack,Hooksett,Source2,3,43.08685300000001,-71.473686,2017,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3263607,NH,Merrimack,Hooksett,Source3,3,43.04892,-71.471863,2017,6,Tuesday,Rain,False,False,False,False,False,False,False
+A-3268606,NH,Merrimack,Hooksett,Source2,3,43.062485,-71.471138,2017,9,Thursday,Rain,False,False,False,False,False,False,False
+A-3271043,NH,Merrimack,Hooksett,Source2,3,43.0233,-71.444199,2017,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3271086,NH,Merrimack,Bow,Source2,3,43.170273,-71.530403,2017,19,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-3274028,NH,Merrimack,Warner,Source2,3,43.355385,-71.923859,2017,13,Sunday,Rain,False,False,False,False,False,False,False
+A-3288241,NH,Merrimack,Contoocook,Source3,3,43.183708,-71.656189,2017,10,Wednesday,Rain,False,False,False,False,False,False,False
+A-3297047,NH,Merrimack,Hooksett,Source2,3,43.022995,-71.44435899999998,2017,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3297082,NH,Merrimack,Concord,Source2,3,43.191845,-71.52462,2017,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3297730,NH,Merrimack,Concord,Source2,3,43.224346,-71.507446,2017,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3297731,NH,Merrimack,Concord,Source3,3,43.216526,-71.53392,2017,16,Sunday,Cloudy,False,False,True,False,False,False,False
+A-3303669,NH,Merrimack,Pittsfield,Source2,3,43.322189,-71.31433100000002,2017,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3303756,NH,Merrimack,Canterbury,Source2,3,43.291668,-71.573097,2017,17,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-3309528,NH,Merrimack,Hooksett,Source2,3,43.043774,-71.465096,2017,17,Friday,Cloudy,False,False,True,False,False,False,False
+A-3313277,NH,Merrimack,Warner,Source2,3,43.246948,-71.748451,2017,9,Sunday,Sin dato,False,False,False,False,False,False,False
+A-3316728,NH,Merrimack,Concord,Source2,3,43.218529,-71.525734,2017,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3316730,NH,Merrimack,Concord,Source2,3,43.216526,-71.53392,2017,7,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-3329755,NH,Merrimack,Concord,Source2,3,43.235661,-71.47222099999998,2017,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3335536,NH,Merrimack,Concord,Source2,3,43.208736,-71.53318,2017,17,Wednesday,Clear / Fair,True,True,False,False,False,False,False
+A-3338362,NH,Merrimack,Hooksett,Source2,3,43.043774,-71.465096,2017,16,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-3338429,NH,Merrimack,Canterbury,Source2,3,43.291668,-71.573097,2017,14,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-3341433,NH,Merrimack,Concord,Source2,3,43.216526,-71.53392,2017,11,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-3344405,NH,Merrimack,New London,Source2,4,43.391796,-71.983337,2017,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3347831,NH,Merrimack,Hooksett,Source2,3,43.025703,-71.446198,2017,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3348104,NH,Merrimack,Hooksett,Source2,3,43.043774,-71.465096,2017,17,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-3348191,NH,Merrimack,Hooksett,Source2,3,43.05064,-71.471046,2017,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3350761,NH,Merrimack,Hooksett,Source2,3,43.0233,-71.444199,2017,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3350844,NH,Merrimack,Bow,Source2,3,43.170143,-71.530312,2017,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3350848,NH,Merrimack,Canterbury,Source2,3,43.331108,-71.605675,2017,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3356134,NH,Merrimack,Hooksett,Source2,3,43.086178,-71.474274,2017,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-3358918,NH,Merrimack,Concord,Source2,3,43.193443,-71.526016,2017,12,Saturday,Cloudy,True,True,False,False,False,False,False
+A-3365414,NH,Merrimack,Concord,Source2,3,43.224125,-71.507385,2017,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3365416,NH,Merrimack,Concord,Source2,3,43.291676,-71.572586,2017,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3370401,NH,Merrimack,Tilton,Source2,3,43.429989,-71.588951,2017,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3373503,NH,Merrimack,Concord,Source2,3,43.208736,-71.53318,2017,11,Sunday,Cloudy,True,True,False,False,False,False,False
+A-3374110,NH,Merrimack,Warner,Source2,3,43.272514,-71.79257199999998,2017,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3374114,NH,Merrimack,Concord,Source2,3,43.216526,-71.53392,2017,14,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-3385357,NH,Merrimack,Warner,Source2,3,43.289299,-71.83629599999998,2017,8,Friday,Rain,False,False,False,False,False,False,False
+A-3385360,NH,Merrimack,Bow,Source2,3,43.170433,-71.530113,2017,9,Friday,Rain,False,False,True,False,False,False,False
+A-3385372,NH,Merrimack,Concord,Source2,3,43.244846,-71.543396,2017,15,Friday,Rain,False,False,False,False,False,False,False
+A-3388077,NH,Merrimack,Concord,Source2,3,43.290703,-71.572182,2017,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3394869,NH,Merrimack,Canterbury,Source2,3,43.331108,-71.605675,2017,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3397855,NH,Merrimack,Hooksett,Source2,3,43.04892,-71.471863,2017,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3400634,NH,Merrimack,Concord,Source2,3,43.23674000000001,-71.539063,2017,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-3404001,NH,Merrimack,Hooksett,Source2,3,43.04892,-71.471863,2017,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3454372,NH,Merrimack,Epsom,Source1,4,43.22754000000001,-71.36041999999998,2016,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3485199,NH,Merrimack,Hooksett,Source1,4,43.07004600000001,-71.377975,2016,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3493902,NH,Merrimack,Andover,Source1,4,43.459448,-71.74766,2016,16,Sunday,Cloudy,False,False,False,True,False,False,False
+A-3493903,NH,Merrimack,Andover,Source1,4,43.470666,-71.725115,2016,16,Sunday,Cloudy,False,False,False,True,False,False,False
+A-3500177,NH,Merrimack,Chichester,Source1,4,43.26177,-71.37164,2016,12,Sunday,Clear / Fair,False,False,False,True,False,False,False
+A-3500178,NH,Merrimack,Chichester,Source1,4,43.26325,-71.3715,2016,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3521593,NH,Merrimack,Loudon,Source1,4,43.25587700000001,-71.457669,2016,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3521594,NH,Merrimack,Loudon,Source1,4,43.262354,-71.457447,2016,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3598831,NH,Merrimack,Canterbury,Source1,3,43.29233,-71.57316999999998,2017,17,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-3630455,NH,Merrimack,Franklin,Source1,4,43.457839,-71.67806,2017,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3765106,NH,Merrimack,Bow,Source1,4,43.17048668840804,-71.53010487522349,2022,10,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-3973279,NH,Merrimack,Bow,Source1,4,43.17085146883407,-71.53008341755138,2022,10,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3987235,NH,Merrimack,Hooksett,Source1,4,43.04513096788861,-71.47304892505896,2022,10,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-4175489,NH,Merrimack,Bow,Source1,4,43.17022919634261,-71.53081297840343,2022,10,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-4809619,NH,Merrimack,Concord,Source1,4,43.21275830248255,-71.53377413715585,2022,9,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-4971696,NH,Merrimack,Bow,Source1,4,43.17048668840804,-71.53010487522349,2022,10,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-5231954,NH,Merrimack,Bow,Source1,4,43.160943,-71.51474,2022,10,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-5270241,NH,Merrimack,Bow,Source1,4,43.17085146883407,-71.53008341755138,2022,9,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-5330093,NH,Merrimack,Bow,Source1,4,43.16896319368759,-71.5332806106971,2022,10,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-6188497,NH,Merrimack,New London,Source1,4,43.42630505541121,-72.03897356952648,2021,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-6296809,NH,Merrimack,Concord,Source1,4,43.21275830248255,-71.53377413715585,2021,11,Friday,Rain,False,False,True,False,False,False,False
+A-7027776,NH,Merrimack,Canterbury,Source1,3,43.29306,-71.57136,2020,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7051584,NH,Merrimack,Concord,Source1,3,43.23209,-71.53694,2020,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7067178,NH,Merrimack,Hooksett,Source1,4,43.09147,-71.46774,2020,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-7165272,NH,Merrimack,Concord,Source1,3,43.21746,-71.53022,2020,15,Thursday,Rain,False,False,False,False,False,False,False
+A-7194631,NH,Merrimack,Hooksett,Source1,4,43.09861,-71.45153,2020,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7194633,NH,Merrimack,Hooksett,Source1,4,43.05054000000001,-71.43746,2020,14,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7194635,NH,Merrimack,Hooksett,Source1,4,43.05054000000001,-71.43746,2020,14,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7244398,NH,Merrimack,Concord,Source1,4,43.2486,-71.54549,2020,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7258092,NH,Merrimack,New London,Source1,3,43.39036,-71.97618,2020,8,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7258093,NH,Merrimack,New London,Source1,4,43.43828,-72.05076,2020,8,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7258094,NH,Merrimack,New London,Source1,4,43.39093,-71.9777,2020,8,Tuesday,Fog / Low visibility,False,False,True,False,False,False,False
+A-7312177,NH,Merrimack,New London,Source1,3,43.42515,-72.03908,2019,19,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-7322213,NH,Merrimack,Contoocook,Source1,4,43.18182,-71.64323,2019,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7427486,NH,Merrimack,Concord,Source1,3,43.291632,-71.572452,2019,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7427487,NH,Merrimack,Canterbury,Source1,3,43.29235,-71.57369,2019,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7435635,NH,Merrimack,Henniker,Source1,4,43.19,-71.82209,2019,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7435636,NH,Merrimack,Henniker,Source1,4,43.190345,-71.81916,2019,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7439517,NH,Merrimack,Boscawen,Source1,4,43.383827,-71.650173,2019,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-7447524,NH,Merrimack,Warner,Source1,4,43.335425,-71.909079,2019,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-7452402,NH,Merrimack,Concord,Source1,3,43.225701,-71.50190699999997,2019,8,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-7668878,NH,Merrimack,Hooksett,Source1,4,43.04169,-71.46166,2017,5,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7697333,NH,Merrimack,Concord,Source1,4,43.240356,-71.541139,2017,14,Friday,Rain,False,False,False,False,False,False,False
+A-7697334,NH,Merrimack,Concord,Source1,4,43.233564,-71.537675,2017,15,Friday,Rain,False,False,False,False,False,False,False
+A-7697336,NH,Merrimack,Concord,Source1,4,43.240356,-71.541139,2017,14,Friday,Rain,False,False,False,False,False,False,False
+A-7697339,NH,Merrimack,Concord,Source1,3,43.240342,-71.54113100000002,2017,15,Friday,Rain,False,False,False,False,False,False,False
+A-7733798,NH,Merrimack,Canterbury,Source1,4,43.33144,-71.60531,2019,22,Wednesday,Rain,False,False,False,False,False,False,False
+A-7761630,NH,Merrimack,Canterbury,Source1,4,43.367368,-71.463595,2019,1,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7761631,NH,Merrimack,Loudon,Source1,4,43.358185,-71.465576,2019,2,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7761632,NH,Merrimack,Canterbury,Source1,4,43.367368,-71.463595,2019,2,Sunday,Clear / Fair,False,False,False,False,False,False,False

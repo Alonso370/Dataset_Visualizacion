@@ -1,0 +1,978 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-146566,GA,Douglas,Villa Rica,Source2,3,33.724926,-84.901543,2016,13,Sunday,Rain,False,False,False,False,False,False,False
+A-146679,GA,Douglas,Lithia Springs,Source2,3,33.770008000000004,-84.646027,2016,17,Monday,Rain,False,False,False,False,False,False,False
+A-147141,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2016,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-147162,GA,Douglas,Douglasville,Source2,3,33.750957,-84.715378,2016,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-148224,GA,Douglas,Douglasville,Source2,3,33.728127,-84.762222,2016,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-148375,GA,Douglas,Douglasville,Source2,3,33.732639,-84.737495,2017,16,Monday,Rain,False,False,False,False,False,False,False
+A-148793,GA,Douglas,Winston,Source2,3,33.718864,-84.832893,2017,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-149318,GA,Douglas,Villa Rica,Source2,3,33.724789,-84.90078000000003,2017,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-149332,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2017,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-149389,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2017,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-149441,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2017,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-149699,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2017,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-149779,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2017,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-150272,GA,Douglas,Douglasville,Source2,3,33.75066,-84.71537,2016,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-150511,GA,Douglas,Douglasville,Source2,3,33.728127,-84.762222,2016,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-150512,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2016,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-151087,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2016,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-151090,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2016,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-151282,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2016,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-151718,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2016,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-152038,GA,Douglas,Douglasville,Source2,3,33.75066,-84.71537,2016,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-152235,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2016,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-152236,GA,Douglas,Douglasville,Source2,3,33.75066,-84.71537,2016,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-152559,GA,Douglas,Winston,Source2,3,33.718864,-84.832893,2016,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-152561,GA,Douglas,Villa Rica,Source2,3,33.724789,-84.90078000000003,2016,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-152702,GA,Douglas,Villa Rica,Source2,3,33.724789,-84.90078000000003,2016,13,Wednesday,Rain,False,False,False,False,False,False,False
+A-153006,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2016,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-153087,GA,Douglas,Douglasville,Source2,3,33.75066,-84.71537,2016,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-153659,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2016,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-154171,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2016,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-154231,GA,Douglas,Villa Rica,Source2,3,33.724789,-84.90078000000003,2016,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-154232,GA,Douglas,Winston,Source2,3,33.718864,-84.832893,2016,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-154233,GA,Douglas,Winston,Source2,3,33.718864,-84.832893,2016,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-154639,GA,Douglas,Lithia Springs,Source2,3,33.768867,-84.651382,2016,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-154941,GA,Douglas,Douglasville,Source2,3,33.75066,-84.71537,2016,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-155456,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2016,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-156022,GA,Douglas,Winston,Source2,3,33.718864,-84.832893,2016,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-156076,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2016,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-156122,GA,Douglas,Douglasville,Source2,3,33.75066,-84.71537,2016,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-156359,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2016,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-156378,GA,Douglas,Villa Rica,Source2,3,33.724789,-84.90078000000003,2016,18,Friday,Rain,False,False,False,False,False,False,False
+A-156898,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2016,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-157124,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2016,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-157210,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2016,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-157363,GA,Douglas,Villa Rica,Source2,3,33.724789,-84.90078000000003,2016,13,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-157891,GA,Douglas,Douglasville,Source2,3,33.75066,-84.71537,2016,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-158324,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2016,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-158464,GA,Douglas,Douglasville,Source2,3,33.728127,-84.762222,2016,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-158585,GA,Douglas,Douglasville,Source2,3,33.732639,-84.737495,2016,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-159071,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2016,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-159342,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2016,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-159397,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2016,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-159520,GA,Douglas,Villa Rica,Source3,3,33.724789,-84.90078000000003,2016,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-159534,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2016,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-159557,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2016,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-322765,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2017,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-322813,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2017,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-323060,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2017,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-323225,GA,Douglas,Douglasville,Source2,3,33.75066,-84.71537,2017,17,Tuesday,Rain,False,False,False,False,False,False,False
+A-323236,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2017,19,Tuesday,Rain,False,False,False,False,False,False,False
+A-323317,GA,Douglas,Douglasville,Source2,3,33.749783,-84.710548,2017,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-360982,GA,Douglas,Douglasville,Source2,3,33.75066,-84.71537,2017,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-361774,GA,Douglas,Lithia Springs,Source3,3,33.768551,-84.65193199999999,2017,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-361883,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2017,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-362100,GA,Douglas,Winston,Source2,3,33.718864,-84.832893,2017,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-362104,GA,Douglas,Douglasville,Source2,3,33.723377,-84.776855,2017,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-362306,GA,Douglas,Lithia Springs,Source2,3,33.768745,-84.652016,2017,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-362370,GA,Douglas,Douglasville,Source2,3,33.75066,-84.71537,2017,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-362371,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2017,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-362374,GA,Douglas,Douglasville,Source2,3,33.75066,-84.71537,2017,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-362790,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2017,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-413597,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2017,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-414160,GA,Douglas,Lithia Springs,Source2,3,33.767166,-84.65934,2017,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-414221,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2017,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-414480,GA,Douglas,Lithia Springs,Source2,3,33.776745,-84.604759,2017,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-414494,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2017,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-414538,GA,Douglas,Lithia Springs,Source3,3,33.768551,-84.65193199999999,2017,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-414801,GA,Douglas,Villa Rica,Source2,3,33.723106,-84.887924,2017,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-415020,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2017,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-415022,GA,Douglas,Douglasville,Source2,3,33.75066,-84.71537,2017,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-443887,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2017,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-468544,GA,Douglas,Winston,Source2,3,33.718864,-84.832893,2017,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-468701,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2017,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-468706,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2017,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-468877,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2017,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-468946,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2017,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-468995,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2017,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-469000,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2017,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-469168,GA,Douglas,Douglasville,Source2,3,33.732639,-84.737495,2017,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-469507,GA,Douglas,Villa Rica,Source2,3,33.724789,-84.90078000000003,2017,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-469881,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2017,11,Monday,Rain,False,False,False,False,False,False,False
+A-469950,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2017,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-469951,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2017,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-499456,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2017,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-499482,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2017,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-499788,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2017,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-499884,GA,Douglas,Villa Rica,Source2,3,33.724789,-84.90078000000003,2017,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-500106,GA,Douglas,Villa Rica,Source2,3,33.724789,-84.90078000000003,2017,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-500286,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2017,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-500289,GA,Douglas,Lithia Springs,Source2,3,33.763432,-84.67144,2017,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-500302,GA,Douglas,Douglasville,Source2,3,33.728127,-84.762222,2017,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-500383,GA,Douglas,Douglasville,Source2,3,33.732639,-84.737495,2017,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-513139,GA,Douglas,Douglasville,Source2,3,33.758942,-84.686401,2022,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-517457,GA,Douglas,Lithia Springs,Source2,3,33.768543,-84.651985,2022,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-517519,GA,Douglas,Lithia Springs,Source2,3,33.769077,-84.650482,2022,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-524957,GA,Douglas,Villa Rica,Source2,3,33.721619,-84.87913499999998,2022,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-531924,GA,Douglas,Villa Rica,Source2,3,33.718990000000005,-84.832863,2022,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-533608,GA,Douglas,Lithia Springs,Source2,3,33.775837,-84.618179,2022,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-535977,GA,Douglas,Lithia Springs,Source2,3,33.76866500000001,-84.652008,2022,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-541976,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2022,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-544350,GA,Douglas,Lithia Springs,Source2,3,33.776459,-84.615135,2022,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-551520,GA,Douglas,Lithia Springs,Source2,3,33.76866500000001,-84.652008,2022,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-551554,GA,Douglas,Lithia Springs,Source2,3,33.768566,-84.651863,2022,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-555636,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2022,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-557268,GA,Douglas,Lithia Springs,Source2,4,33.76866500000001,-84.652008,2022,5,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-558130,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2022,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-560078,GA,Douglas,Lithia Springs,Source2,3,33.768398,-84.652695,2022,6,Thursday,Storm,False,False,False,False,False,False,False
+A-561709,GA,Douglas,Winston,Source2,3,33.720879,-84.798126,2022,16,Tuesday,Storm,False,False,False,False,False,False,False
+A-561737,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2022,17,Tuesday,Storm,False,False,False,False,False,False,False
+A-562591,GA,Douglas,Lithia Springs,Source2,3,33.76866500000001,-84.652008,2022,6,Tuesday,Rain,False,False,False,False,False,False,False
+A-565494,GA,Douglas,Lithia Springs,Source2,3,33.76866500000001,-84.652008,2022,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-566576,GA,Douglas,Lithia Springs,Source2,3,33.768242,-84.65451800000002,2022,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-570436,GA,Douglas,Lithia Springs,Source2,4,33.776917,-84.60410300000002,2022,0,Sunday,Cloudy,False,False,False,False,False,False,False
+A-574269,GA,Douglas,Douglasville,Source2,3,33.750343,-84.71590400000002,2022,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-577279,GA,Douglas,Villa Rica,Source2,3,33.718990000000005,-84.832863,2022,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-583504,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2022,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-588338,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2022,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-588399,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2022,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-593866,GA,Douglas,Douglasville,Source2,3,33.732189,-84.738457,2022,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-606498,GA,Douglas,Douglasville,Source2,3,33.736568,-84.730476,2022,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-608314,GA,Douglas,Douglasville,Source2,3,33.727333,-84.76514399999998,2022,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-608380,GA,Douglas,Lithia Springs,Source2,3,33.776932,-84.609352,2022,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-608654,GA,Douglas,Douglasville,Source2,3,33.750351,-84.715897,2022,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-609772,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2022,15,Thursday,Rain,False,False,False,False,False,False,False
+A-615028,GA,Douglas,Winston,Source2,3,33.719032,-84.831779,2022,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-619530,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2022,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-620044,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2022,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-620831,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2022,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-621034,GA,Douglas,Douglasville,Source2,3,33.727940000000004,-84.76211500000002,2022,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-621833,GA,Douglas,Douglasville,Source2,4,33.731804,-84.741043,2022,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-621897,GA,Douglas,Lithia Springs,Source3,3,33.766968,-84.659248,2022,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-622399,GA,Douglas,Lithia Springs,Source2,3,33.768543,-84.651985,2022,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-631298,GA,Douglas,Villa Rica,Source2,3,33.725025,-84.900406,2022,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-632415,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2022,8,Sunday,Cloudy,False,False,False,False,False,False,False
+A-634593,GA,Douglas,Villa Rica,Source2,3,33.718990000000005,-84.832863,2022,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-638245,GA,Douglas,Lithia Springs,Source2,3,33.76866500000001,-84.652008,2022,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-639396,GA,Douglas,Douglasville,Source2,3,33.731018,-84.743202,2022,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-639581,GA,Douglas,Douglasville,Source2,3,33.738934,-84.727882,2022,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-647701,GA,Douglas,Lithia Springs,Source2,3,33.774609000000005,-84.62297099999998,2022,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-648501,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2022,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-648610,GA,Douglas,Douglasville,Source2,3,33.731155,-84.74168399999998,2022,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-656016,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2022,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-663348,GA,Douglas,Douglasville,Source2,3,33.756458,-84.695374,2022,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-663369,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.715591,2022,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-664515,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2022,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-665635,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2022,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-666518,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.715591,2022,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-670638,GA,Douglas,Douglasville,Source2,3,33.753956,-84.706734,2022,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-670867,GA,Douglas,Douglasville,Source2,3,33.732189,-84.738457,2022,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-679017,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2022,9,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-684748,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.715591,2022,18,Tuesday,Rain,False,False,False,False,False,False,False
+A-685893,GA,Douglas,Lithia Springs,Source2,3,33.768692,-84.65226,2022,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-687462,GA,Douglas,Austell,Source2,3,33.776787,-84.60218,2022,20,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-699247,GA,Douglas,Douglasville,Source2,4,33.727940000000004,-84.76211500000002,2022,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-700168,GA,Douglas,Winston,Source2,3,33.718948,-84.81028,2022,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-703007,GA,Douglas,Lithia Springs,Source2,3,33.777035,-84.606094,2022,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-706015,GA,Douglas,Lithia Springs,Source2,3,33.770142,-84.64537800000002,2022,17,Thursday,Cloudy,False,False,True,False,False,False,False
+A-712746,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2022,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-712906,GA,Douglas,Lithia Springs,Source2,3,33.777512,-84.60494200000002,2022,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-716266,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2022,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-720649,GA,Douglas,Douglasville,Source2,3,33.758591,-84.687569,2022,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-721310,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2022,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-728346,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.715591,2022,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-732312,GA,Douglas,Lithia Springs,Source2,3,33.76866500000001,-84.652008,2022,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-732324,GA,Douglas,Lithia Springs,Source2,3,33.76866500000001,-84.652008,2022,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-733181,GA,Douglas,Austell,Source2,3,33.776749,-84.60153199999998,2022,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-735867,GA,Douglas,Lithia Springs,Source2,3,33.76866500000001,-84.652008,2022,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-753528,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2022,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-755157,GA,Douglas,Villa Rica,Source2,3,33.718990000000005,-84.832863,2022,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-780379,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2021,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-782930,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.715591,2021,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-783016,GA,Douglas,Douglasville,Source3,3,33.727940000000004,-84.76211500000002,2021,22,Saturday,Cloudy,False,False,False,False,False,False,False
+A-792594,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2021,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-792630,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2021,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-800059,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2021,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-801512,GA,Douglas,Lithia Springs,Source2,3,33.768204,-84.65471600000002,2021,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-809156,GA,Douglas,Lithia Springs,Source2,3,33.77673,-84.613792,2021,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-819401,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2021,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-821954,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.715591,2021,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-833955,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2021,10,Thursday,Rain,False,False,False,False,False,False,False
+A-840793,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2021,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-848933,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.715591,2021,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-848958,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2021,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-849449,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.715591,2021,9,Sunday,Rain,False,False,False,False,False,False,False
+A-870990,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2021,16,Thursday,Rain,False,False,False,False,False,False,False
+A-880970,GA,Douglas,Lithia Springs,Source2,3,33.76866500000001,-84.652008,2021,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-883169,GA,Douglas,Lithia Springs,Source2,3,33.776787,-84.60539200000002,2021,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-884273,GA,Douglas,Lithia Springs,Source2,3,33.776684,-84.603645,2021,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-884927,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2021,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-890146,GA,Douglas,Lithia Springs,Source2,3,33.76866500000001,-84.652008,2021,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-893839,GA,Douglas,Lithia Springs,Source2,3,33.797184,-84.643127,2021,14,Sunday,Cloudy,True,False,False,False,False,False,False
+A-893927,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2021,11,Sunday,Rain,False,False,False,False,False,False,False
+A-895307,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2021,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-895715,GA,Douglas,Douglasville,Source2,3,33.73592,-84.73175,2021,4,Friday,Cloudy,False,False,True,False,False,False,False
+A-900146,GA,Douglas,Lithia Springs,Source2,3,33.76866500000001,-84.652008,2021,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-900451,GA,Douglas,Villa Rica,Source2,3,33.718990000000005,-84.832863,2021,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-902506,GA,Douglas,Lithia Springs,Source2,4,33.76866500000001,-84.652008,2021,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-903644,GA,Douglas,Lithia Springs,Source2,3,33.771439,-84.638138,2021,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-909990,GA,Douglas,Douglasville,Source2,3,33.732189,-84.738457,2021,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-910012,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.715591,2021,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-917781,GA,Douglas,Douglasville,Source2,3,33.727993,-84.76173399999998,2021,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-918155,GA,Douglas,Lithia Springs,Source2,3,33.76866500000001,-84.652008,2021,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-919631,GA,Douglas,Douglasville,Source2,3,33.745724,-84.721298,2021,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-922975,GA,Douglas,Lithia Springs,Source2,3,33.777401,-84.604591,2021,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-929087,GA,Douglas,Lithia Springs,Source2,3,33.77705,-84.605591,2021,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-929799,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2021,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-938535,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.715591,2021,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-939406,GA,Douglas,Douglasville,Source2,3,33.750214,-84.716087,2021,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-943797,GA,Douglas,Villa Rica,Source2,3,33.718990000000005,-84.832863,2021,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-955054,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.715591,2021,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-960194,GA,Douglas,Lithia Springs,Source2,4,33.776756,-84.605835,2021,3,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-960518,GA,Douglas,Lithia Springs,Source2,4,33.76866500000001,-84.652008,2021,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-961366,GA,Douglas,Douglasville,Source2,3,33.732189,-84.738457,2021,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-961890,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2021,17,Friday,Storm,False,False,False,False,False,False,False
+A-966618,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.715591,2021,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-966687,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.715591,2021,21,Tuesday,Rain,False,False,False,False,False,False,False
+A-968023,GA,Douglas,Villa Rica,Source2,3,33.725025,-84.900406,2021,17,Monday,Storm,False,False,False,False,False,False,False
+A-968785,GA,Douglas,Villa Rica,Source2,4,33.725025,-84.900406,2021,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-972338,GA,Douglas,Douglasville,Source2,3,33.749908000000005,-84.716507,2021,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-980276,GA,Douglas,Villa Rica,Source2,3,33.725025,-84.900406,2021,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-981253,GA,Douglas,Lithia Springs,Source2,3,33.777401,-84.604591,2021,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-984386,GA,Douglas,Villa Rica,Source2,4,33.724716,-84.900497,2021,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-985882,GA,Douglas,Lithia Springs,Source2,4,33.768623,-84.652611,2021,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-992872,GA,Douglas,Lithia Springs,Source2,3,33.76866500000001,-84.652008,2021,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-996045,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.715591,2021,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-997122,GA,Douglas,Lithia Springs,Source2,3,33.76866500000001,-84.652008,2021,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-997508,GA,Douglas,Lithia Springs,Source2,3,33.76866500000001,-84.652008,2021,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-998707,GA,Douglas,Douglasville,Source2,4,33.727940000000004,-84.76211500000002,2021,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-998725,GA,Douglas,Winston,Source2,3,33.72023,-84.80250500000002,2021,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1002159,GA,Douglas,Lithia Springs,Source2,3,33.76866500000001,-84.652008,2021,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1003833,GA,Douglas,Villa Rica,Source2,3,33.725105,-84.901039,2021,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1011501,GA,Douglas,Lithia Springs,Source2,3,33.769688,-84.646553,2021,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1013142,GA,Douglas,Douglasville,Source2,4,33.727940000000004,-84.76211500000002,2021,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1023957,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2021,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1024805,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.715591,2021,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1026383,GA,Douglas,Douglasville,Source2,3,33.727940000000004,-84.76211500000002,2021,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-1034148,GA,Douglas,Lithia Springs,Source2,4,33.776855,-84.60655200000002,2021,1,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1037394,GA,Douglas,Lithia Springs,Source2,3,33.76866500000001,-84.652008,2021,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1039178,GA,Douglas,Lithia Springs,Source2,4,33.776756,-84.605835,2021,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1046774,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2021,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1061173,GA,Douglas,Lithia Springs,Source2,3,33.776855,-84.603081,2021,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-1061238,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2021,15,Monday,Storm,False,False,False,False,False,False,False
+A-1065545,GA,Douglas,Lithia Springs,Source2,4,33.768654,-84.652451,2021,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1070409,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2021,8,Saturday,Rain,False,False,False,False,False,False,False
+A-1070446,GA,Douglas,Villa Rica,Source2,3,33.718990000000005,-84.832863,2021,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1071334,GA,Douglas,Douglasville,Source2,3,33.752632,-84.711433,2021,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1071338,GA,Douglas,Lithia Springs,Source2,3,33.776947,-84.603004,2021,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-1071444,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2021,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1072965,GA,Douglas,Lithia Springs,Source2,4,33.76866500000001,-84.652008,2021,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1072966,GA,Douglas,Lithia Springs,Source2,3,33.76866500000001,-84.652008,2021,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1073026,GA,Douglas,Douglasville,Source2,3,33.73415,-84.734657,2021,16,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-1073060,GA,Douglas,Douglasville,Source2,3,33.752483000000005,-84.71243299999998,2021,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1078479,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.715591,2021,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1091628,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.715591,2021,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1091635,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.715591,2021,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1093045,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2021,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1094471,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2021,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1112286,GA,Douglas,Douglasville,Source2,3,33.727940000000004,-84.76211500000002,2021,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1120509,GA,Douglas,Villa Rica,Source2,3,33.722263,-84.861961,2021,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1120522,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.715591,2021,22,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1124547,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.715591,2021,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1127317,GA,Douglas,Lithia Springs,Source2,3,33.768803000000005,-84.65078000000003,2021,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1129556,GA,Douglas,Villa Rica,Source2,3,33.718990000000005,-84.832863,2021,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1129587,GA,Douglas,Douglasville,Source2,3,33.727940000000004,-84.76211500000002,2021,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1133977,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2021,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1137723,GA,Douglas,Lithia Springs,Source2,3,33.767731,-84.65416,2021,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1150810,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2021,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1157376,GA,Douglas,Villa Rica,Source2,3,33.725025,-84.900406,2021,10,Thursday,Rain,False,False,False,False,False,False,False
+A-1157384,GA,Douglas,Lithia Springs,Source2,3,33.768921,-84.651222,2021,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1160803,GA,Douglas,Douglasville,Source2,3,33.748470000000005,-84.71820100000002,2021,17,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-1162420,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2021,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1165412,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2021,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-1174598,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2021,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1185811,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2021,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1185817,GA,Douglas,Villa Rica,Source2,4,33.718868,-84.832886,2021,11,Thursday,Rain,False,False,False,False,False,False,False
+A-1200425,GA,Douglas,Douglasville,Source2,4,33.732292,-84.73850300000002,2021,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-1204535,GA,Douglas,Lithia Springs,Source2,4,33.776756,-84.605835,2021,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1204536,GA,Douglas,Lithia Springs,Source2,3,33.76866500000001,-84.652008,2021,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1211622,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2020,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1217277,GA,Douglas,Douglasville,Source2,3,33.727940000000004,-84.76211500000002,2020,22,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1221993,GA,Douglas,Villa Rica,Source2,4,33.725025,-84.900406,2020,3,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1226802,GA,Douglas,Lithia Springs,Source2,3,33.776878,-84.610741,2020,19,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-1231900,GA,Douglas,Douglasville,Source2,4,33.727940000000004,-84.76211500000002,2020,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1239650,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2020,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-1240725,GA,Douglas,Lithia Springs,Source2,3,33.772938,-84.632072,2020,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1244972,GA,Douglas,Lithia Springs,Source2,3,33.776199,-84.607445,2020,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1245042,GA,Douglas,Douglasville,Source2,3,33.72887,-84.76056700000002,2020,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1249814,GA,Douglas,Lithia Springs,Source2,3,33.777508000000005,-84.60585,2020,7,Thursday,Cloudy,True,False,True,False,False,False,False
+A-1256458,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.715591,2020,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1260891,GA,Douglas,Lithia Springs,Source2,3,33.76866500000001,-84.652008,2020,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1264414,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2020,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1267262,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2020,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1273051,GA,Douglas,Lithia Springs,Source2,3,33.777401,-84.604591,2020,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1273052,GA,Douglas,Lithia Springs,Source2,3,33.77697,-84.605042,2020,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1274914,GA,Douglas,Lithia Springs,Source2,3,33.777004,-84.605659,2020,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-1274972,GA,Douglas,Lithia Springs,Source2,3,33.76866500000001,-84.652008,2020,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-1278215,GA,Douglas,Villa Rica,Source2,3,33.718990000000005,-84.832863,2020,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1283579,GA,Douglas,Villa Rica,Source2,3,33.719116,-84.832588,2020,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1285251,GA,Douglas,Lithia Springs,Source2,3,33.76866500000001,-84.652008,2020,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1288631,GA,Douglas,Lithia Springs,Source2,3,33.768723,-84.65194699999998,2020,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1312038,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2020,13,Thursday,Rain,False,False,False,False,False,False,False
+A-1313903,GA,Douglas,Villa Rica,Source2,3,33.724831,-84.903549,2020,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1325372,GA,Douglas,Lithia Springs,Source2,4,33.768742,-84.65203100000002,2020,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1341683,GA,Douglas,Lithia Springs,Source2,3,33.776996999999994,-84.605469,2020,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1346881,GA,Douglas,Douglasville,Source2,4,33.750702000000004,-84.715591,2020,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1350752,GA,Douglas,Lithia Springs,Source2,3,33.763523,-84.671829,2020,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1352406,GA,Douglas,Winston,Source2,3,33.719059,-84.83206899999998,2020,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1354401,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2020,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1357609,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2020,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-1357621,GA,Douglas,Lithia Springs,Source2,3,33.76866500000001,-84.652008,2020,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-1367609,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.7155,2020,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-1374164,GA,Douglas,Lithia Springs,Source2,3,33.796585,-84.644203,2020,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1374171,GA,Douglas,Lithia Springs,Source2,4,33.768288,-84.653244,2020,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1385816,GA,Douglas,Villa Rica,Source2,3,33.718990000000005,-84.832863,2020,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1387139,GA,Douglas,Douglasville,Source2,3,33.732189,-84.738457,2020,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1388583,GA,Douglas,Villa Rica,Source2,3,33.725018,-84.90061999999998,2020,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1392377,GA,Douglas,Lithia Springs,Source2,3,33.776157,-84.616608,2020,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1393863,GA,Douglas,Lithia Springs,Source2,3,33.768723,-84.65194699999998,2020,16,Tuesday,Storm,False,False,False,False,False,False,False
+A-1395438,GA,Douglas,Douglasville,Source2,3,33.759353999999995,-84.685654,2020,22,Wednesday,Storm,False,False,False,False,False,False,False
+A-1395439,GA,Douglas,Lithia Springs,Source2,3,33.776672,-84.6035,2020,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1396846,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2020,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1400848,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2020,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1400859,GA,Douglas,Lithia Springs,Source2,3,33.777512,-84.60494200000002,2020,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1406913,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2020,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1420556,GA,Douglas,Lithia Springs,Source2,4,33.776756,-84.605835,2020,13,Wednesday,Storm,False,False,False,False,False,False,False
+A-1420616,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.7155,2020,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1422159,GA,Douglas,Winston,Source2,3,33.71973,-84.83158900000002,2020,21,Thursday,Storm,False,False,False,False,False,False,False
+A-1423663,GA,Douglas,Douglasville,Source2,3,33.750725,-84.715324,2020,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-1426679,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2020,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1428127,GA,Douglas,Lithia Springs,Source2,3,33.777512,-84.60494200000002,2020,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1431268,GA,Douglas,Villa Rica,Source2,3,33.718990000000005,-84.832863,2020,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1432667,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2020,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-1441034,GA,Douglas,Lithia Springs,Source2,3,33.768723,-84.65194699999998,2020,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-1443690,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2020,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1455360,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2020,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1458065,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.7155,2020,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1458104,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.7155,2020,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1458127,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2020,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1462636,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2020,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1462640,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2020,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1463837,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2020,18,Friday,Rain,False,False,False,False,False,False,False
+A-1465126,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.7155,2020,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1470699,GA,Douglas,Lithia Springs,Source2,3,33.768723,-84.65194699999998,2020,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1472864,GA,Douglas,Lithia Springs,Source2,3,33.768852,-84.65151999999998,2020,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-1488954,GA,Douglas,Lithia Springs,Source2,3,33.772583000000004,-84.633774,2020,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1489022,GA,Douglas,Lithia Springs,Source2,3,33.768723,-84.65194699999998,2020,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1489094,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2020,18,Thursday,Rain,False,False,False,False,False,False,False
+A-1489111,GA,Douglas,Lithia Springs,Source2,4,33.768562,-84.651894,2020,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1490598,GA,Douglas,Douglasville,Source2,4,33.750702000000004,-84.7155,2020,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1490602,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.7155,2020,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1491835,GA,Douglas,Villa Rica,Source2,3,33.718990000000005,-84.832863,2020,17,Saturday,Rain,False,False,False,False,False,False,False
+A-1494508,GA,Douglas,Lithia Springs,Source2,3,33.768723,-84.65194699999998,2020,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1495629,GA,Douglas,Douglasville,Source2,3,33.751873,-84.71324200000002,2020,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1495642,GA,Douglas,Douglasville,Source2,3,33.753365,-84.709778,2020,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1498091,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.7155,2020,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-1500935,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2020,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1502340,GA,Douglas,Douglasville,Source2,3,33.727921,-84.76211500000002,2020,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1503787,GA,Douglas,Lithia Springs,Source2,3,33.768723,-84.65194699999998,2020,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-1504817,GA,Douglas,Lithia Springs,Source2,3,33.768723,-84.65194699999998,2020,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1505998,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.7155,2020,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1516391,GA,Douglas,Villa Rica,Source2,3,33.719318,-84.836876,2020,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1516457,GA,Douglas,Lithia Springs,Source2,3,33.767555,-84.6567,2020,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1516493,GA,Douglas,Douglasville,Source2,3,33.727940000000004,-84.76211500000002,2020,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1523691,GA,Douglas,Lithia Springs,Source2,3,33.764919,-84.667183,2020,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1525584,GA,Douglas,Lithia Springs,Source2,3,33.768723,-84.65194699999998,2020,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1528878,GA,Douglas,Lithia Springs,Source2,3,33.773109000000005,-84.63015,2020,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1531985,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.7155,2020,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1536186,GA,Douglas,Lithia Springs,Source2,3,33.766819,-84.66069,2020,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-1537104,GA,Douglas,Winston,Source2,3,33.718371999999995,-84.826111,2020,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1538492,GA,Douglas,Villa Rica,Source2,3,33.718990000000005,-84.832863,2020,10,Monday,Rain,False,False,False,False,False,False,False
+A-1538581,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2020,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-1540974,GA,Douglas,Lithia Springs,Source2,3,33.768723,-84.65194699999998,2020,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1540975,GA,Douglas,Villa Rica,Source2,3,33.718990000000005,-84.832863,2020,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1542959,GA,Douglas,Villa Rica,Source2,4,33.718868,-84.832886,2020,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1549329,GA,Douglas,Douglasville,Source2,3,33.732189,-84.738457,2020,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1551543,GA,Douglas,Lithia Springs,Source2,3,33.768723,-84.65194699999998,2020,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1567623,GA,Douglas,Lithia Springs,Source2,3,33.768723,-84.65194699999998,2020,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1578943,GA,Douglas,Lithia Springs,Source2,3,33.774876,-84.621696,2020,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1578961,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2020,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1588698,GA,Douglas,Villa Rica,Source2,3,33.718990000000005,-84.832863,2020,7,Monday,Rain,False,False,False,False,False,False,False
+A-1595820,GA,Douglas,Douglasville,Source2,3,33.750599,-84.715515,2020,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1605799,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2020,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1612639,GA,Douglas,Lithia Springs,Source2,4,33.776756,-84.605835,2020,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1613956,GA,Douglas,Douglasville,Source2,4,33.733925,-84.736954,2020,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1626745,GA,Douglas,Lithia Springs,Source2,3,33.764416,-84.668152,2020,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1626756,GA,Douglas,Douglasville,Source2,3,33.748821,-84.717834,2020,6,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-1638037,GA,Douglas,Douglasville,Source2,3,33.727940000000004,-84.76211500000002,2020,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1639416,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2020,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-1639463,GA,Douglas,Douglasville,Source2,3,33.749676,-84.717163,2020,13,Monday,Rain,False,False,False,False,False,False,False
+A-1641831,GA,Douglas,Douglasville,Source2,3,33.76062,-84.680779,2020,7,Tuesday,Rain,False,False,False,False,False,False,False
+A-1650728,GA,Douglas,Lithia Springs,Source2,3,33.768723,-84.65194699999998,2020,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1650744,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2020,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1656789,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2020,7,Wednesday,Rain,False,False,False,False,False,False,False
+A-1675699,GA,Douglas,Villa Rica,Source2,3,33.725025,-84.900406,2020,15,Thursday,Rain,False,False,False,False,False,False,False
+A-1675713,GA,Douglas,Douglasville,Source2,3,33.732189,-84.738457,2020,16,Thursday,Rain,False,False,False,False,False,False,False
+A-1675762,GA,Douglas,Douglasville,Source2,3,33.732719,-84.737312,2020,19,Thursday,Rain,False,False,False,False,False,False,False
+A-1675779,GA,Douglas,Douglasville,Source2,3,33.75288,-84.71135699999998,2020,20,Thursday,Cloudy,False,False,True,False,False,False,False
+A-1685520,GA,Douglas,Villa Rica,Source2,3,33.718990000000005,-84.832863,2019,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1685566,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2019,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1688609,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2019,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-1688641,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2019,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-1688663,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2019,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-1688738,GA,Douglas,Villa Rica,Source2,3,33.72414000000001,-84.89608,2019,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-1691214,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.7155,2019,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1691231,GA,Douglas,Douglasville,Source2,3,33.732189,-84.738457,2019,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1703438,GA,Douglas,Villa Rica,Source2,3,33.724773,-84.900803,2019,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-1703471,GA,Douglas,Douglasville,Source2,3,33.749134000000005,-84.717476,2019,7,Monday,Rain,False,False,False,False,False,False,False
+A-1703637,GA,Douglas,Lithia Springs,Source2,4,33.776756,-84.605835,2019,23,Monday,Cloudy,False,False,False,False,False,False,False
+A-1711747,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2019,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1716405,GA,Douglas,Lithia Springs,Source2,3,33.769337,-84.64924599999998,2019,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1724178,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2019,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1733376,GA,Douglas,Douglasville,Source2,3,33.732937,-84.737373,2019,18,Monday,Rain,False,False,False,False,False,False,False
+A-1735366,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.7155,2019,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1735377,GA,Douglas,Lithia Springs,Source2,3,33.776863,-84.603226,2019,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1740544,GA,Douglas,Douglasville,Source2,4,33.750702000000004,-84.7155,2019,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1743042,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2019,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1743162,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.7155,2019,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1745635,GA,Douglas,Douglasville,Source2,3,33.732189,-84.738457,2019,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1757846,GA,Douglas,Lithia Springs,Source2,3,33.768723,-84.65194699999998,2019,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1760543,GA,Douglas,Douglasville,Source2,3,33.753834000000005,-84.707588,2019,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1775302,GA,Douglas,Lithia Springs,Source2,3,33.768723,-84.65194699999998,2019,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1775334,GA,Douglas,Villa Rica,Source2,4,33.724716,-84.900497,2019,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1777836,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2019,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-1782036,GA,Douglas,Lithia Springs,Source2,4,33.776996999999994,-84.605476,2019,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1787162,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2019,10,Wednesday,Rain,False,False,False,False,False,False,False
+A-1798855,GA,Douglas,Douglasville,Source2,3,33.756485,-84.69528199999998,2019,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1814496,GA,Douglas,Douglasville,Source2,3,33.732189,-84.738457,2019,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1823266,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.7155,2019,10,Friday,Rain,False,False,False,False,False,False,False
+A-1832801,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2019,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1832805,GA,Douglas,Villa Rica,Source2,3,33.725025,-84.900406,2019,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1850543,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2019,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1852753,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2019,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1854039,GA,Douglas,Douglasville,Source2,3,33.732189,-84.738457,2019,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1854078,GA,Douglas,Lithia Springs,Source2,3,33.768723,-84.65194699999998,2019,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1856480,GA,Douglas,Douglasville,Source2,3,33.727940000000004,-84.76211500000002,2019,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1856535,GA,Douglas,Lithia Springs,Source2,3,33.768723,-84.65194699999998,2019,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1865814,GA,Douglas,Douglasville,Source2,4,33.750702000000004,-84.7155,2019,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1870159,GA,Douglas,Lithia Springs,Source2,4,33.776756,-84.605835,2019,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1870300,GA,Douglas,Lithia Springs,Source2,3,33.768723,-84.65194699999998,2019,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1871951,GA,Douglas,Lithia Springs,Source2,3,33.768723,-84.65194699999998,2019,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1879031,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2019,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1881254,GA,Douglas,Douglasville,Source2,3,33.739887,-84.727226,2019,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1886456,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.7155,2019,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1890015,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2019,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1892059,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.7155,2019,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1892061,GA,Douglas,Lithia Springs,Source2,3,33.768723,-84.65194699999998,2019,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1894418,GA,Douglas,Lithia Springs,Source2,3,33.768723,-84.65194699999998,2019,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1900713,GA,Douglas,Lithia Springs,Source2,3,33.768723,-84.65194699999998,2019,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1900754,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2019,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1900772,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.7155,2019,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1900789,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2019,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1903415,GA,Douglas,Douglasville,Source2,3,33.742062,-84.725014,2019,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1908408,GA,Douglas,Lithia Springs,Source2,3,33.768723,-84.65194699999998,2019,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1910772,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2019,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1914427,GA,Douglas,Douglasville,Source2,3,33.727940000000004,-84.76211500000002,2019,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1914530,GA,Douglas,Lithia Springs,Source2,3,33.768723,-84.65194699999998,2019,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1918643,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.7155,2019,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1920598,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2019,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1922888,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.7155,2019,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1925270,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.7155,2019,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1935278,GA,Douglas,Lithia Springs,Source2,3,33.768723,-84.65194699999998,2019,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1935451,GA,Douglas,Lithia Springs,Source2,3,33.768723,-84.65194699999998,2019,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1937756,GA,Douglas,Villa Rica,Source2,3,33.718990000000005,-84.832863,2019,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1947277,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2019,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1949474,GA,Douglas,Winston,Source2,3,33.718994,-84.831497,2019,14,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1952703,GA,Douglas,Douglasville,Source2,3,33.732189,-84.738457,2019,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1954568,GA,Douglas,Winston,Source2,3,33.718357,-84.825974,2019,19,Sunday,Rain,False,False,False,False,False,False,False
+A-1955833,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2019,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1957825,GA,Douglas,Lithia Springs,Source2,3,33.768723,-84.65194699999998,2019,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1962153,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2019,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1967867,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2019,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-1972363,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.7155,2019,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1972415,GA,Douglas,Villa Rica,Source2,3,33.718990000000005,-84.832863,2019,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1976891,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2019,14,Friday,Rain,False,False,False,False,False,False,False
+A-2009542,GA,Douglas,Winston,Source2,3,33.719097,-84.832413,2019,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2012625,GA,Douglas,Douglasville,Source2,3,33.732189,-84.738457,2019,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2012626,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.7155,2019,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2012686,GA,Douglas,Lithia Springs,Source2,3,33.776917,-84.604088,2019,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2015662,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.7155,2019,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2015666,GA,Douglas,Villa Rica,Source2,3,33.725029,-84.900688,2019,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2022519,GA,Douglas,Douglasville,Source2,3,33.727940000000004,-84.76211500000002,2019,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2027402,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.7155,2019,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2028913,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2019,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2030189,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2019,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2030238,GA,Douglas,Lithia Springs,Source2,3,33.768723,-84.65194699999998,2019,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2042684,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2019,9,Monday,Rain,False,False,False,False,False,False,False
+A-2045075,GA,Douglas,Douglasville,Source2,3,33.727940000000004,-84.76211500000002,2019,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2049634,GA,Douglas,Lithia Springs,Source2,3,33.768723,-84.65194699999998,2019,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2051860,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.7155,2019,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2055636,GA,Douglas,Lithia Springs,Source2,3,33.768723,-84.65194699999998,2019,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2060425,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.7155,2019,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2062612,GA,Douglas,Lithia Springs,Source2,3,33.768723,-84.65194699999998,2019,7,Thursday,Rain,False,False,False,False,False,False,False
+A-2065022,GA,Douglas,Lithia Springs,Source2,3,33.768723,-84.65194699999998,2019,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2071008,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2019,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2073317,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2019,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2073477,GA,Douglas,Douglasville,Source2,3,33.727940000000004,-84.76211500000002,2019,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2079744,GA,Douglas,Douglasville,Source2,3,33.732189,-84.738457,2019,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2081258,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2019,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2081260,GA,Douglas,Lithia Springs,Source2,3,33.776733,-84.604477,2019,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2092573,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2019,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2097367,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.7155,2019,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2097378,GA,Douglas,Villa Rica,Source2,3,33.725025,-84.900406,2019,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2112475,GA,Douglas,Lithia Springs,Source2,3,33.768723,-84.65194699999998,2019,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2112531,GA,Douglas,Lithia Springs,Source2,3,33.768723,-84.65194699999998,2019,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2114808,GA,Douglas,Villa Rica,Source2,3,33.724831,-84.903549,2019,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2114809,GA,Douglas,Villa Rica,Source2,3,33.725025,-84.900406,2019,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2121755,GA,Douglas,Douglasville,Source2,3,33.732693,-84.737381,2019,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2121818,GA,Douglas,Villa Rica,Source2,3,33.724716,-84.900497,2019,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-2123457,GA,Douglas,Lithia Springs,Source2,3,33.768723,-84.65194699999998,2019,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2126868,GA,Douglas,Lithia Springs,Source2,3,33.770653,-84.642899,2019,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2133551,GA,Douglas,Lithia Springs,Source2,3,33.770748,-84.641464,2019,23,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2143103,GA,Douglas,Lithia Springs,Source2,3,33.777401,-84.604591,2019,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2161691,GA,Douglas,Lithia Springs,Source2,3,33.76878,-84.651474,2019,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2166824,GA,Douglas,Lithia Springs,Source2,3,33.776737,-84.605644,2019,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2166860,GA,Douglas,Lithia Springs,Source2,3,33.768677000000004,-84.652336,2019,19,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2168222,GA,Douglas,Villa Rica,Source2,3,33.718990000000005,-84.832863,2019,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2172799,GA,Douglas,Lithia Springs,Source2,3,33.776756,-84.605835,2019,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2175011,GA,Douglas,Lithia Springs,Source2,3,33.768723,-84.65194699999998,2019,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2180854,GA,Douglas,Douglasville,Source2,3,33.750702000000004,-84.7155,2019,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2187772,GA,Douglas,Douglasville,Source2,3,33.753895,-84.70571899999999,2019,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2197913,GA,Douglas,Lithia Springs,Source2,3,33.776737,-84.605644,2019,13,Sunday,Rain,False,False,False,False,False,False,False
+A-2197920,GA,Douglas,Douglasville,Source2,3,33.733353,-84.737717,2019,15,Sunday,Rain,False,False,False,False,False,False,False
+A-2208827,GA,Douglas,Lithia Springs,Source2,3,33.776379,-84.61551700000003,2019,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-2208882,GA,Douglas,Lithia Springs,Source2,3,33.776737,-84.605644,2019,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-2208914,GA,Douglas,Lithia Springs,Source2,3,33.778191,-84.606216,2019,13,Friday,Rain,False,False,False,False,False,False,False
+A-2211411,GA,Douglas,Lithia Springs,Source2,3,33.76878,-84.651474,2019,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2214610,GA,Douglas,Lithia Springs,Source2,3,33.776737,-84.605644,2019,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2233856,GA,Douglas,Douglasville,Source2,3,33.733353,-84.737717,2019,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2233869,GA,Douglas,Douglasville,Source2,3,33.750809000000004,-84.715225,2019,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2233875,GA,Douglas,Douglasville,Source2,3,33.733353,-84.737717,2019,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2237358,GA,Douglas,Lithia Springs,Source2,3,33.776917,-84.609802,2019,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2237460,GA,Douglas,Douglasville,Source2,3,33.750809000000004,-84.715225,2019,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-2244164,GA,Douglas,Lithia Springs,Source2,3,33.776737,-84.605644,2019,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2248068,GA,Douglas,Villa Rica,Source2,3,33.71907,-84.833511,2019,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2248764,GA,Douglas,Lithia Springs,Source2,3,33.776737,-84.605644,2019,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2252462,GA,Douglas,Lithia Springs,Source2,3,33.76878,-84.651474,2019,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2252496,GA,Douglas,Lithia Springs,Source2,3,33.776737,-84.605644,2019,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-2254208,GA,Douglas,Villa Rica,Source2,3,33.71907,-84.833511,2019,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2282698,GA,Douglas,Douglasville,Source2,3,33.750809000000004,-84.715225,2019,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2287999,GA,Douglas,Douglasville,Source2,3,33.770081,-84.74799300000002,2019,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-2288023,GA,Douglas,Douglasville,Source2,3,33.72718,-84.765686,2019,19,Friday,Rain,False,False,False,False,False,False,False
+A-2289758,GA,Douglas,Villa Rica,Source2,3,33.725029,-84.900688,2019,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2311788,GA,Douglas,Lithia Springs,Source2,3,33.76886,-84.65149699999998,2019,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2319385,GA,Douglas,Lithia Springs,Source2,3,33.76878,-84.651474,2019,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2320193,GA,Douglas,Douglasville,Source2,3,33.750809000000004,-84.715225,2019,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2329053,GA,Douglas,Douglasville,Source2,3,33.750809000000004,-84.715225,2019,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2332979,GA,Douglas,Douglasville,Source2,3,33.750809000000004,-84.715225,2019,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2342865,GA,Douglas,Lithia Springs,Source2,3,33.764023,-84.66945600000003,2019,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2345228,GA,Douglas,Winston,Source2,3,33.718731,-84.81193499999998,2019,6,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2354245,GA,Douglas,Douglasville,Source2,3,33.728001,-84.761978,2019,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2357134,GA,Douglas,Douglasville,Source2,3,33.729771,-84.751266,2019,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2357150,GA,Douglas,Douglasville,Source2,3,33.733353,-84.737717,2019,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2360105,GA,Douglas,Douglasville,Source2,3,33.750809000000004,-84.715225,2019,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2362565,GA,Douglas,Douglasville,Source2,3,33.728001,-84.761978,2019,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2362566,GA,Douglas,Douglasville,Source2,3,33.733353,-84.737717,2019,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2362577,GA,Douglas,Villa Rica,Source2,3,33.724743,-84.900635,2019,19,Sunday,Sin dato,False,False,False,False,False,False,False
+A-2363967,GA,Douglas,Douglasville,Source2,3,33.736012,-84.731613,2019,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-2373723,GA,Douglas,Villa Rica,Source2,3,33.724789,-84.90078000000003,2018,11,Saturday,Rain,False,False,False,False,False,False,False
+A-2376046,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2018,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2380277,GA,Douglas,Douglasville,Source2,3,33.756752,-84.694405,2018,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2384707,GA,Douglas,Lithia Springs,Source2,3,33.776737,-84.605644,2018,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-2386290,GA,Douglas,Lithia Springs,Source2,3,33.76878,-84.651474,2018,13,Saturday,Rain,False,False,False,False,False,False,False
+A-2388053,GA,Douglas,Lithia Springs,Source2,3,33.776737,-84.605644,2018,18,Monday,Rain,False,False,False,False,False,False,False
+A-2397615,GA,Douglas,Lithia Springs,Source2,3,33.767445,-84.65720400000002,2018,7,Friday,Rain,False,False,False,False,False,False,False
+A-2397789,GA,Douglas,Lithia Springs,Source2,3,33.776737,-84.605644,2018,18,Friday,Rain,False,False,False,False,False,False,False
+A-2401077,GA,Douglas,Lithia Springs,Source2,3,33.776737,-84.605644,2018,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2410487,GA,Douglas,Lithia Springs,Source2,3,33.76878,-84.651474,2018,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-2412205,GA,Douglas,Lithia Springs,Source2,3,33.776737,-84.605644,2018,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2412787,GA,Douglas,Lithia Springs,Source2,3,33.76878,-84.651474,2018,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2416818,GA,Douglas,Lithia Springs,Source2,3,33.776737,-84.605644,2018,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2424807,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2018,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2428544,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2018,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2432971,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2018,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-2445871,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2448075,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2018,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2450366,GA,Douglas,Villa Rica,Source2,3,33.724789,-84.90078000000003,2018,16,Monday,Rain,False,False,False,False,False,False,False
+A-2474215,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2474230,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2018,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2485344,GA,Douglas,Lithia Springs,Source2,3,33.776791,-84.605637,2018,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2492412,GA,Douglas,Lithia Springs,Source2,3,33.769753,-84.646301,2018,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2492424,GA,Douglas,Lithia Springs,Source2,3,33.769302,-84.648415,2018,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2495208,GA,Douglas,Lithia Springs,Source2,3,33.775593,-84.61934699999998,2018,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2502850,GA,Douglas,Winston,Source2,3,33.718864,-84.832893,2018,22,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2510756,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2018,4,Wednesday,Rain,False,False,False,False,False,False,False
+A-2510804,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2018,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2510976,GA,Douglas,Lithia Springs,Source2,3,33.776634,-84.602921,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2511007,GA,Douglas,Lithia Springs,Source2,3,33.77702,-84.606003,2018,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2514138,GA,Douglas,Winston,Source2,3,33.718864,-84.832893,2018,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2514276,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2018,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2518207,GA,Douglas,Lithia Springs,Source2,3,33.768677000000004,-84.651329,2018,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2527296,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2018,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2534814,GA,Douglas,Villa Rica,Source2,3,33.724789,-84.90078000000003,2018,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2540232,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2018,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2540247,GA,Douglas,Lithia Springs,Source2,3,33.776920000000004,-84.60951999999997,2018,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2546120,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2018,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-2546143,GA,Douglas,Lithia Springs,Source2,3,33.77702,-84.605919,2018,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-2550746,GA,Douglas,Douglasville,Source2,3,33.75066,-84.71537,2018,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2559011,GA,Douglas,Villa Rica,Source2,3,33.724789,-84.90078000000003,2018,7,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2567143,GA,Douglas,Villa Rica,Source2,3,33.718948,-84.83367199999998,2018,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2574011,GA,Douglas,Douglasville,Source2,3,33.728127,-84.762222,2018,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-2579309,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2018,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2581883,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2018,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2588635,GA,Douglas,Villa Rica,Source2,3,33.725269,-84.906975,2018,7,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-2591196,GA,Douglas,Villa Rica,Source2,3,33.724789,-84.90078000000003,2018,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2600822,GA,Douglas,Douglasville,Source2,3,33.75066,-84.71537,2018,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2605678,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2018,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2605688,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2018,7,Tuesday,Rain,False,False,False,False,False,False,False
+A-2619567,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2018,16,Wednesday,Rain,False,False,False,False,False,False,False
+A-2627112,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2018,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2645031,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2018,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2647425,GA,Douglas,Douglasville,Source2,3,33.75066,-84.71537,2018,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2647427,GA,Douglas,Douglasville,Source2,3,33.75066,-84.71537,2018,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2672856,GA,Douglas,Douglasville,Source2,3,33.75066,-84.71537,2018,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2678028,GA,Douglas,Douglasville,Source2,3,33.75066,-84.71537,2018,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2690153,GA,Douglas,Lithia Springs,Source2,3,33.767731,-84.65277900000002,2018,19,Friday,Rain,False,False,False,False,False,False,False
+A-2693724,GA,Douglas,Lithia Springs,Source2,3,33.776848,-84.606476,2018,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2693744,GA,Douglas,Lithia Springs,Source2,3,33.776993,-84.60550699999997,2018,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-2693766,GA,Douglas,Lithia Springs,Source2,3,33.771415999999995,-84.63829,2018,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2700405,GA,Douglas,Douglasville,Source2,3,33.732639,-84.737495,2018,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2704288,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2018,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2714844,GA,Douglas,Douglasville,Source2,3,33.752888,-84.710762,2018,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2720932,GA,Douglas,Winston,Source2,3,33.718864,-84.832893,2018,6,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2727988,GA,Douglas,Douglasville,Source2,3,33.732639,-84.737495,2018,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2728058,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2018,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2728061,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2018,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2731691,GA,Douglas,Winston,Source2,3,33.719101,-84.832565,2018,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-2739095,GA,Douglas,Lithia Springs,Source2,3,33.767319,-84.657829,2018,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2758820,GA,Douglas,Lithia Springs,Source2,3,33.77702,-84.606003,2018,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2763683,GA,Douglas,Lithia Springs,Source2,3,33.777668,-84.605621,2018,11,Friday,Cloudy,True,False,True,False,False,False,False
+A-2772390,GA,Douglas,Douglasville,Source2,3,33.728127,-84.762222,2018,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2779383,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2018,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2780718,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2018,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2780724,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2018,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2780792,GA,Douglas,Douglasville,Source2,3,33.75066,-84.71537,2018,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2803424,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2018,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2807446,GA,Douglas,Lithia Springs,Source2,3,33.76973,-84.646408,2018,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2809810,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2018,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2812448,GA,Douglas,Douglasville,Source2,3,33.75066,-84.71537,2018,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2817843,GA,Douglas,Villa Rica,Source2,3,33.724789,-84.90078000000003,2018,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2817884,GA,Douglas,Douglasville,Source2,3,33.75066,-84.71537,2018,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2827503,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2018,10,Wednesday,Rain,False,False,False,False,False,False,False
+A-2847465,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2018,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-2851090,GA,Douglas,Douglasville,Source2,3,33.728271,-84.76134499999998,2018,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-2855712,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2018,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2864329,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2018,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2864433,GA,Douglas,Villa Rica,Source2,3,33.724789,-84.90078000000003,2018,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2864452,GA,Douglas,Winston,Source2,3,33.718864,-84.832893,2018,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2867183,GA,Douglas,Douglasville,Source2,3,33.729118,-84.756569,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2871209,GA,Douglas,Douglasville,Source2,3,33.75066,-84.71537,2018,20,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2881042,GA,Douglas,Douglasville,Source2,3,33.75066,-84.71537,2018,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2883714,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2018,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2883756,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2018,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2886328,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2018,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2893059,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2018,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2905527,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2018,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2905559,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2908166,GA,Douglas,Villa Rica,Source2,3,33.724789,-84.90078000000003,2018,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2913661,GA,Douglas,Lithia Springs,Source2,3,33.768745,-84.652016,2018,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2917718,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2018,12,Wednesday,Rain,False,False,False,False,False,False,False
+A-2925446,GA,Douglas,Villa Rica,Source2,3,33.724789,-84.90078000000003,2018,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2934921,GA,Douglas,Lithia Springs,Source2,3,33.762043,-84.676056,2018,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2934923,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2018,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2941969,GA,Douglas,Lithia Springs,Source2,3,33.77663,-84.614227,2018,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2956620,GA,Douglas,Winston,Source2,3,33.718864,-84.832893,2018,8,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2962315,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2018,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2983741,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2983773,GA,Douglas,Lithia Springs,Source2,3,33.776108,-84.607285,2018,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2983924,GA,Douglas,Douglasville,Source2,4,33.732925,-84.737358,2018,23,Thursday,Rain,False,False,False,False,False,False,False
+A-2990580,GA,Douglas,Douglasville,Source2,3,33.732639,-84.737495,2018,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-2996160,GA,Douglas,Lithia Springs,Source2,3,33.771648,-84.637222,2018,12,Wednesday,Rain,False,False,False,False,False,False,False
+A-3019736,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2018,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-3022396,GA,Douglas,Lithia Springs,Source2,3,33.776882,-84.607033,2018,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3027424,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2018,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3027425,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2018,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3050574,GA,Douglas,Winston,Source2,3,33.718864,-84.832893,2018,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3063600,GA,Douglas,Douglasville,Source2,3,33.728264,-84.761375,2018,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-3065262,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2018,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3069886,GA,Douglas,Douglasville,Source2,3,33.728127,-84.762222,2018,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3083725,GA,Douglas,Douglasville,Source2,3,33.75066,-84.71537,2018,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3097891,GA,Douglas,Douglasville,Source2,3,33.75066,-84.71537,2017,6,Thursday,Rain,False,False,False,False,False,False,False
+A-3098009,GA,Douglas,Douglasville,Source2,3,33.728127,-84.762222,2017,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3112896,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2017,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3119073,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2017,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3122897,GA,Douglas,Douglasville,Source2,3,33.75066,-84.71537,2017,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3131790,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2017,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3133598,GA,Douglas,Douglasville,Source2,3,33.728127,-84.762222,2017,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3141400,GA,Douglas,Villa Rica,Source2,3,33.724789,-84.90078000000003,2017,11,Wednesday,Rain,False,False,False,False,False,False,False
+A-3141579,GA,Douglas,Douglasville,Source2,3,33.75066,-84.71537,2017,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3144227,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2017,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3148522,GA,Douglas,Douglasville,Source2,3,33.75066,-84.71537,2017,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3153476,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2017,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3158658,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2017,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3167673,GA,Douglas,Winston,Source2,3,33.718864,-84.832893,2017,20,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3171763,GA,Douglas,Douglasville,Source2,3,33.756119,-84.695808,2017,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3173803,GA,Douglas,Douglasville,Source2,3,33.75066,-84.71537,2017,6,Wednesday,Rain,False,False,False,False,False,False,False
+A-3174002,GA,Douglas,Douglasville,Source2,3,33.727703000000005,-84.76458000000002,2017,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3182022,GA,Douglas,Douglasville,Source2,3,33.728127,-84.762222,2017,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-3182031,GA,Douglas,Winston,Source2,3,33.718864,-84.832893,2017,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-3184381,GA,Douglas,Villa Rica,Source2,3,33.724789,-84.90078000000003,2017,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3186746,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2017,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3186764,GA,Douglas,Douglasville,Source2,3,33.75066,-84.71537,2017,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3193155,GA,Douglas,Villa Rica,Source2,3,33.724789,-84.90078000000003,2017,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3195297,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2017,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3200893,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2017,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3200977,GA,Douglas,Lithia Springs,Source2,3,33.768848,-84.651474,2017,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3204598,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2017,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3216233,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2017,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3220362,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2017,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3220381,GA,Douglas,Villa Rica,Source2,3,33.724789,-84.90078000000003,2017,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3223169,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2017,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3226063,GA,Douglas,Douglasville,Source2,3,33.75066,-84.71537,2017,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3226064,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2017,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3226065,GA,Douglas,Lithia Springs,Source2,3,33.777668,-84.605621,2017,6,Thursday,Clear / Fair,True,False,True,False,False,False,False
+A-3245931,GA,Douglas,Winston,Source2,3,33.718994,-84.809998,2017,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3247250,GA,Douglas,Douglasville,Source2,3,33.757454,-84.691383,2017,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-3249952,GA,Douglas,Winston,Source2,3,33.718864,-84.832893,2017,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3258145,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2017,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3264648,GA,Douglas,Douglasville,Source2,3,33.744911,-84.722115,2017,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3267047,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2017,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3267221,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2017,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3277969,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2017,11,Thursday,Rain,False,False,False,False,False,False,False
+A-3280758,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2017,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-3284285,GA,Douglas,Douglasville,Source2,3,33.728218,-84.760391,2017,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3312846,GA,Douglas,Douglasville,Source2,3,33.75066,-84.71537,2017,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3330851,GA,Douglas,Douglasville,Source2,3,33.75066,-84.71537,2017,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3363607,GA,Douglas,Douglasville,Source2,3,33.75066,-84.71537,2017,4,Tuesday,Rain,False,False,False,False,False,False,False
+A-3373107,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2017,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3380574,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2017,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3383521,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2017,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3386485,GA,Douglas,Lithia Springs,Source2,3,33.768551,-84.65193199999999,2017,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-3386521,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2017,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3401691,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2017,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-3404135,GA,Douglas,Lithia Springs,Source2,3,33.777,-84.605583,2017,7,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3448255,GA,Douglas,Douglasville,Source1,4,33.729496000000005,-84.76215,2016,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3448256,GA,Douglas,Douglasville,Source1,4,33.725175,-84.762091,2016,7,Friday,Clear / Fair,True,True,False,False,False,False,False
+A-3450912,GA,Douglas,Douglasville,Source1,4,33.713123,-84.769862,2016,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3450913,GA,Douglas,Douglasville,Source1,4,33.712508,-84.76977,2016,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3451682,GA,Douglas,Lithia Springs,Source1,4,33.769039,-84.65068000000002,2016,3,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3451686,GA,Douglas,Lithia Springs,Source1,4,33.767428,-84.657276,2016,3,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3454259,GA,Douglas,Lithia Springs,Source1,4,33.751740000000005,-84.59009300000002,2016,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3454260,GA,Douglas,Lithia Springs,Source1,4,33.753322999999995,-84.590458,2016,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3464614,GA,Douglas,Douglasville,Source1,4,33.75397,-84.74179000000002,2016,0,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3464616,GA,Douglas,Douglasville,Source1,4,33.75397,-84.74179000000002,2016,0,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3465607,GA,Douglas,Douglasville,Source1,3,33.748870000000004,-84.71779000000002,2016,6,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-3469825,GA,Douglas,Lithia Springs,Source1,3,33.764509999999994,-84.59727600000002,2016,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3472214,GA,Douglas,Douglasville,Source1,4,33.73604,-84.73156999999998,2016,0,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3472865,GA,Douglas,Douglasville,Source1,3,33.752563,-84.747984,2016,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3472895,GA,Douglas,Douglasville,Source1,3,33.752571,-84.747989,2016,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3474838,GA,Douglas,Villa Rica,Source1,3,33.71941,-84.83769000000002,2016,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3475989,GA,Douglas,Lithia Springs,Source1,4,33.75254,-84.5904,2016,8,Tuesday,Clear / Fair,True,True,False,False,False,False,False
+A-3480844,GA,Douglas,Villa Rica,Source1,3,33.72528,-84.90601,2016,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3485945,GA,Douglas,Douglasville,Source1,3,33.75288,-84.71136,2016,13,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-3489599,GA,Douglas,Douglasville,Source1,3,33.75288,-84.71136,2016,22,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-3496135,GA,Douglas,Lithia Springs,Source1,3,33.76778,-84.65576,2016,8,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3496213,GA,Douglas,Winston,Source1,4,33.60703400000001,-84.899247,2016,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3510116,GA,Douglas,Douglasville,Source1,3,33.73604,-84.73156999999998,2016,5,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3571551,GA,Douglas,Douglasville,Source1,4,33.76868,-84.748138,2017,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3571772,GA,Douglas,Douglasville,Source1,3,33.75288,-84.71136,2017,12,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-3576723,GA,Douglas,Douglasville,Source1,4,33.67007,-84.80583,2017,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3576725,GA,Douglas,Douglasville,Source1,4,33.680896000000004,-84.80419599999998,2017,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3577136,GA,Douglas,Douglasville,Source1,3,33.726820000000004,-84.76679,2017,18,Monday,Cloudy,False,False,True,False,False,False,False
+A-3599753,GA,Douglas,Lithia Springs,Source1,3,33.77678,-84.60206,2017,16,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-3601259,GA,Douglas,Lithia Springs,Source1,4,33.77642,-84.60525,2017,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3601260,GA,Douglas,Lithia Springs,Source1,4,33.771043,-84.602147,2017,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3601261,GA,Douglas,Lithia Springs,Source1,4,33.7764,-84.60540999999998,2017,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3601263,GA,Douglas,Lithia Springs,Source1,4,33.780119,-84.6075,2017,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3603836,GA,Douglas,Lithia Springs,Source1,4,33.79719,-84.64296999999998,2017,21,Saturday,Cloudy,True,False,False,False,False,False,False
+A-3613897,GA,Douglas,Douglasville,Source1,4,33.772599,-84.747715,2017,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3615061,GA,Douglas,Douglasville,Source1,3,33.73604,-84.73156999999998,2017,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3616407,GA,Douglas,Lithia Springs,Source1,4,33.77678,-84.60206,2017,5,Sunday,Rain,False,False,True,False,False,False,False
+A-3627629,GA,Douglas,Lithia Springs,Source1,3,33.77678,-84.60206,2017,13,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-3629488,GA,Douglas,Lithia Springs,Source1,3,33.776812,-84.605819,2017,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3629648,GA,Douglas,Lithia Springs,Source1,3,33.77663,-84.61301999999998,2017,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3630463,GA,Douglas,Lithia Springs,Source1,3,33.77678,-84.60206,2017,17,Sunday,Rain,False,False,True,False,False,False,False
+A-3632331,GA,Douglas,Lithia Springs,Source1,3,33.76728,-84.65795,2017,23,Saturday,Cloudy,False,False,True,False,False,False,False
+A-3642222,GA,Douglas,Lithia Springs,Source1,3,33.77678,-84.60206,2017,10,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-3679179,GA,Douglas,Douglasville,Source1,4,33.753988,-84.70638100000002,2023,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3691892,GA,Douglas,Douglasville,Source1,4,33.749688,-84.712696,2023,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3733497,GA,Douglas,Lithia Springs,Source1,4,33.793357,-84.679497,2023,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3799823,GA,Douglas,Lithia Springs,Source1,4,33.784887,-84.612526,2022,1,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3811174,GA,Douglas,Douglasville,Source1,4,33.76175300000001,-84.677079,2022,14,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3827607,GA,Douglas,Douglasville,Source1,4,33.72900366767059,-84.75715041120166,2022,17,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-3851975,GA,Douglas,Villa Rica,Source1,4,33.721674,-84.84719399999999,2022,0,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3889724,GA,Douglas,Lithia Springs,Source1,4,33.774514,-84.624353,2022,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-3919627,GA,Douglas,Villa Rica,Source1,4,33.72527003272188,-84.90681767423197,2022,8,Wednesday,Rain,False,False,True,False,False,False,False
+A-3950468,GA,Douglas,Lithia Springs,Source1,4,33.767434,-84.658227,2022,22,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-3950469,GA,Douglas,Lithia Springs,Source1,4,33.76625418646924,-84.6627151962058,2022,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3967999,GA,Douglas,Winston,Source1,4,33.726283,-84.829397,2022,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-4090839,GA,Douglas,Lithia Springs,Source1,4,33.797238,-84.64291800000002,2022,13,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-4096545,GA,Douglas,Lithia Springs,Source1,4,33.7701594827949,-84.64531302411727,2022,3,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-4205595,GA,Douglas,Villa Rica,Source1,4,33.71981978,-84.83879685,2022,3,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4211261,GA,Douglas,Douglasville,Source1,4,33.734609000000006,-84.733322,2022,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4286255,GA,Douglas,Douglasville,Source1,4,33.752901,-84.711221,2023,6,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-4426045,GA,Douglas,Villa Rica,Source1,4,33.7253,-84.90634,2022,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4426554,GA,Douglas,Lithia Springs,Source1,4,33.767888,-84.656182,2022,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4835071,GA,Douglas,Lithia Springs,Source1,4,33.784751,-84.611946,2022,1,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4913995,GA,Douglas,Lithia Springs,Source1,4,33.797136,-84.643072,2022,13,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-4915189,GA,Douglas,Lithia Springs,Source1,4,33.765989000000005,-84.663634,2022,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4975482,GA,Douglas,Winston,Source1,4,33.71821045859471,-84.82686638791645,2022,2,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5046455,GA,Douglas,Douglasville,Source1,4,33.74758601,-84.71938491,2022,3,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5118373,GA,Douglas,Douglasville,Source1,4,33.75679,-84.694296,2023,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5125134,GA,Douglas,Douglasville,Source1,4,33.730732,-84.74688499999998,2022,22,Friday,Cloudy,False,False,False,False,False,False,False
+A-5159847,GA,Douglas,Douglasville,Source1,4,33.73074174,-84.74687219,2022,3,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5400491,GA,Douglas,Douglasville,Source1,4,33.732638,-84.737499,2022,4,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5427785,GA,Douglas,Atlanta,Source1,4,33.73911023,-84.58501697,2022,0,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5433708,GA,Douglas,Lithia Springs,Source1,4,33.793243,-84.675599,2023,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5459869,GA,Douglas,Lithia Springs,Source1,4,33.76625418646924,-84.6627151962058,2022,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5646173,GA,Douglas,Lithia Springs,Source1,4,33.771983384925015,-84.63554978330309,2021,6,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-6119317,GA,Douglas,Villa Rica,Source1,4,33.72396111472261,-84.89527344663193,2021,3,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-6277555,GA,Douglas,Lithia Springs,Source1,4,33.7701594827949,-84.64531302411727,2021,16,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-6596162,GA,Douglas,Douglasville,Source1,4,33.752907,-84.711209,2020,13,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-6829992,GA,Douglas,Villa Rica,Source1,4,33.723699,-84.895289,2020,3,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6830682,GA,Douglas,Douglasville,Source1,4,33.728999,-84.755775,2020,23,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6937557,GA,Douglas,Douglasville,Source1,4,33.752907,-84.711209,2020,13,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-7042852,GA,Douglas,Lithia Springs,Source1,3,33.76953,-84.6483,2020,1,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7057656,GA,Douglas,Lithia Springs,Source1,3,33.76953,-84.6483,2020,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7057748,GA,Douglas,Lithia Springs,Source1,3,33.76933,-84.64824,2020,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7057883,GA,Douglas,Douglasville,Source1,4,33.75269,-84.71127,2020,22,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7066739,GA,Douglas,Douglasville,Source1,4,33.66279,-84.67432,2020,10,Friday,Storm,False,False,False,False,False,False,False
+A-7066740,GA,Douglas,Douglasville,Source1,4,33.664,-84.67369000000002,2020,10,Friday,Storm,False,False,False,False,False,False,False
+A-7066806,GA,Douglas,Douglasville,Source1,4,33.75269,-84.71127,2020,7,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7091697,GA,Douglas,Lithia Springs,Source1,3,33.77657,-84.6019,2020,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7096958,GA,Douglas,Lithia Springs,Source1,3,33.77657,-84.6019,2020,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7116564,GA,Douglas,Lithia Springs,Source1,4,33.779340000000005,-84.60684,2020,23,Sunday,Cloudy,True,False,False,False,False,False,False
+A-7116565,GA,Douglas,Lithia Springs,Source1,4,33.782509999999995,-84.60925999999998,2020,23,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7131550,GA,Douglas,Winston,Source1,3,33.71847,-84.82695,2020,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-7131815,GA,Douglas,Lithia Springs,Source1,3,33.77678,-84.60206,2020,23,Monday,Cloudy,False,False,True,False,False,False,False
+A-7140571,GA,Douglas,Villa Rica,Source1,3,33.72528,-84.90601,2020,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7140573,GA,Douglas,Villa Rica,Source1,4,33.72468,-84.91083,2020,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7140587,GA,Douglas,Villa Rica,Source1,4,33.72468,-84.91083,2020,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7164141,GA,Douglas,Douglasville,Source1,3,33.73603,-84.73158000000002,2020,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7244472,GA,Douglas,Douglasville,Source1,3,33.730909999999994,-84.74463,2020,10,Friday,Cloudy,False,False,True,False,False,False,False
+A-7305618,GA,Douglas,Villa Rica,Source1,3,33.72528,-84.90601,2019,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-7332232,GA,Douglas,Lithia Springs,Source1,3,33.770140000000005,-84.64537,2019,17,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7333691,GA,Douglas,Lithia Springs,Source1,3,33.77678,-84.60206,2019,19,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7342450,GA,Douglas,Lithia Springs,Source1,3,33.76727,-84.65799,2019,14,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7345375,GA,Douglas,Villa Rica,Source1,4,33.725559999999994,-84.90585,2019,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7388412,GA,Douglas,Lithia Springs,Source1,4,33.77758,-84.60608,2019,11,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-7391446,GA,Douglas,Douglasville,Source1,4,33.775837,-84.70700500000002,2019,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7391447,GA,Douglas,Douglasville,Source1,4,33.780039,-84.7039,2019,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7393725,GA,Douglas,Douglasville,Source1,4,33.75288,-84.71136,2019,12,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7395950,GA,Douglas,Douglasville,Source1,3,33.74884,-84.71781999999997,2019,8,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7408231,GA,Douglas,Lithia Springs,Source1,3,33.76727,-84.65799,2019,7,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7410797,GA,Douglas,Lithia Springs,Source1,4,33.76727,-84.65799,2019,3,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-7412362,GA,Douglas,Douglasville,Source1,3,33.74884,-84.71781999999997,2019,20,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7412366,GA,Douglas,Lithia Springs,Source1,3,33.77678,-84.60206,2019,20,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7416063,GA,Douglas,Lithia Springs,Source1,4,33.77678,-84.60206,2019,3,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7416099,GA,Douglas,Lithia Springs,Source1,3,33.770140000000005,-84.64537,2019,20,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7424535,GA,Douglas,Douglasville,Source1,4,33.72902,-84.76219,2019,7,Friday,Cloudy,True,True,False,False,False,False,False
+A-7425950,GA,Douglas,Douglasville,Source1,3,33.75083,-84.71795999999998,2019,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7429197,GA,Douglas,Austell,Source1,4,33.78913,-84.62246,2019,16,Monday,Clear / Fair,True,True,False,False,False,False,False
+A-7429198,GA,Douglas,Lithia Springs,Source1,4,33.790338,-84.625951,2019,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7432108,GA,Douglas,Douglasville,Source1,3,33.752821999999995,-84.710875,2019,0,Monday,Cloudy,False,False,False,False,False,False,False
+A-7432111,GA,Douglas,Douglasville,Source1,3,33.74884,-84.71781999999997,2019,0,Monday,Cloudy,False,False,True,False,False,False,False
+A-7436904,GA,Douglas,Winston,Source1,3,33.71861,-84.82772,2019,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7451055,GA,Douglas,Douglasville,Source1,4,33.742459999999994,-84.778079,2019,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7454068,GA,Douglas,Lithia Springs,Source1,3,33.77688,-84.61074,2019,12,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7464636,GA,Douglas,Austell,Source1,3,33.78913,-84.62246,2019,6,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-7465344,GA,Douglas,Lithia Springs,Source1,3,33.77678,-84.60206,2019,3,Friday,Cloudy,False,False,True,False,False,False,False
+A-7468664,GA,Douglas,Douglasville,Source1,3,33.72878,-84.75703,2019,4,Thursday,Rain,False,False,True,False,False,False,False
+A-7469481,GA,Douglas,Lithia Springs,Source1,4,33.770140000000005,-84.64537,2019,15,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7474245,GA,Douglas,Lithia Springs,Source1,3,33.76727,-84.65799,2018,15,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7483012,GA,Douglas,Lithia Springs,Source1,3,33.7703,-84.64362,2018,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7490200,GA,Douglas,Lithia Springs,Source1,4,33.76956,-84.64816,2018,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7491950,GA,Douglas,Lithia Springs,Source1,3,33.77655,-84.60155999999998,2018,22,Friday,Cloudy,False,False,False,False,False,False,False
+A-7507058,GA,Douglas,Lithia Springs,Source1,3,33.77688,-84.61074,2018,17,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7512721,GA,Douglas,Lithia Springs,Source1,3,33.76727,-84.65799,2018,16,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7515531,GA,Douglas,Winston,Source1,3,33.71861,-84.82772,2018,22,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7517501,GA,Douglas,Lithia Springs,Source1,3,33.77688,-84.61074,2018,17,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7517504,GA,Douglas,Lithia Springs,Source1,3,33.770140000000005,-84.64537,2018,19,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7519456,GA,Douglas,Lithia Springs,Source1,3,33.76727,-84.65799,2018,1,Monday,Cloudy,False,False,True,False,False,False,False
+A-7524392,GA,Douglas,Lithia Springs,Source1,4,33.77688,-84.61074,2018,7,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7525655,GA,Douglas,Lithia Springs,Source1,3,33.77678,-84.60206,2018,14,Friday,Cloudy,False,False,True,False,False,False,False
+A-7528939,GA,Douglas,Lithia Springs,Source1,4,33.79719,-84.64296999999998,2018,21,Sunday,Cloudy,True,False,False,False,False,False,False
+A-7534019,GA,Douglas,Villa Rica,Source1,3,33.71941,-84.83769000000002,2018,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7536608,GA,Douglas,Douglasville,Source1,3,33.73086,-84.746299,2018,6,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7540190,GA,Douglas,Lithia Springs,Source1,3,33.78327,-84.6098,2018,22,Monday,Cloudy,True,True,False,False,False,False,False
+A-7540728,GA,Douglas,Lithia Springs,Source1,4,33.778040000000004,-84.60634,2018,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7540729,GA,Douglas,Lithia Springs,Source1,4,33.7764,-84.60540999999998,2018,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7541336,GA,Douglas,Douglasville,Source1,3,33.75288,-84.71136,2018,10,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7546226,GA,Douglas,Lithia Springs,Source1,3,33.76957,-84.64811,2018,16,Thursday,Rain,False,False,False,False,False,False,False
+A-7548483,GA,Douglas,Lithia Springs,Source1,3,33.77688,-84.61074,2018,1,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7548980,GA,Douglas,Lithia Springs,Source1,4,33.77655,-84.60155999999998,2018,1,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7557714,GA,Douglas,Lithia Springs,Source1,4,33.77678,-84.60206,2018,3,Saturday,Cloudy,False,False,True,False,False,False,False
+A-7557879,GA,Douglas,Douglasville,Source1,4,33.73601,-84.73161,2018,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7559543,GA,Douglas,Lithia Springs,Source1,4,33.789320000000004,-84.62294,2018,5,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-7559544,GA,Douglas,Lithia Springs,Source1,4,33.790338,-84.625951,2018,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7559550,GA,Douglas,Douglasville,Source1,3,33.730909999999994,-84.74463,2018,7,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7562016,GA,Douglas,Lithia Springs,Source1,3,33.77642,-84.60525,2018,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7562017,GA,Douglas,Lithia Springs,Source1,3,33.7764,-84.60540999999998,2018,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7562018,GA,Douglas,Lithia Springs,Source1,3,33.7758,-84.60491,2018,4,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7562019,GA,Douglas,Lithia Springs,Source1,3,33.777597,-84.606089,2018,4,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7566001,GA,Douglas,Douglasville,Source1,3,33.727872,-84.763785,2018,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-7569338,GA,Douglas,Douglasville,Source1,4,33.73086,-84.746299,2018,2,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7569845,GA,Douglas,Douglasville,Source1,3,33.726820000000004,-84.76679,2018,3,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7574995,GA,Douglas,Lithia Springs,Source1,3,33.76957,-84.64811,2018,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7578663,GA,Douglas,Douglasville,Source1,4,33.698729,-84.650088,2018,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7579570,GA,Douglas,Lithia Springs,Source1,4,33.7872,-84.61771,2018,15,Saturday,Cloudy,True,False,False,False,False,False,False
+A-7579571,GA,Douglas,Lithia Springs,Source1,4,33.7872,-84.61771,2018,15,Saturday,Cloudy,True,False,False,False,False,False,False
+A-7579961,GA,Douglas,Lithia Springs,Source1,3,33.776128,-84.615688,2018,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7584644,GA,Douglas,Douglasville,Source1,4,33.70616,-84.77087,2018,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7584645,GA,Douglas,Douglasville,Source1,4,33.70616,-84.77087,2018,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7586237,GA,Douglas,Lithia Springs,Source1,4,33.73717,-84.58253,2018,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7586238,GA,Douglas,Lithia Springs,Source1,4,33.753334,-84.590459,2018,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7587304,GA,Douglas,Douglasville,Source1,3,33.727103,-84.766839,2018,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-7590441,GA,Douglas,Douglasville,Source1,4,33.727103,-84.766839,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7592909,GA,Douglas,Douglasville,Source1,3,33.749262,-84.717323,2018,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7593730,GA,Douglas,Austell,Source1,4,33.78913,-84.62246,2018,18,Saturday,Cloudy,True,True,False,False,False,False,False
+A-7594433,GA,Douglas,Lithia Springs,Source1,4,33.764036,-84.669404,2018,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7596065,GA,Douglas,Douglasville,Source1,3,33.73601,-84.73161,2018,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7598819,GA,Douglas,Lithia Springs,Source1,3,33.76957,-84.64811,2018,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7598827,GA,Douglas,Douglasville,Source1,3,33.729611,-84.753671,2018,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7604774,GA,Douglas,Lithia Springs,Source1,3,33.7771,-84.61043000000002,2018,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7606790,GA,Douglas,Lithia Springs,Source1,4,33.7678,-84.65654,2018,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7606791,GA,Douglas,Lithia Springs,Source1,4,33.7678,-84.65654,2018,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7607139,GA,Douglas,Douglasville,Source1,4,33.637421999999994,-84.750359,2018,4,Monday,Rain,False,False,False,False,False,False,False
+A-7607140,GA,Douglas,Douglasville,Source1,4,33.637669,-84.751801,2018,4,Monday,Rain,False,False,False,False,False,False,False
+A-7613517,GA,Douglas,Douglasville,Source1,4,33.75288,-84.71136,2018,0,Friday,Rain,False,False,True,False,False,False,False
+A-7616428,GA,Douglas,Lithia Springs,Source1,3,33.77688,-84.61074,2018,12,Wednesday,Rain,False,False,True,False,False,False,False
+A-7622403,GA,Douglas,Lithia Springs,Source1,3,33.767351,-84.65762,2018,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7623504,GA,Douglas,Lithia Springs,Source1,4,33.76957,-84.64811,2018,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7633439,GA,Douglas,Douglasville,Source1,3,33.749262,-84.717323,2018,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7643478,GA,Douglas,Lithia Springs,Source1,3,33.77688,-84.61074,2017,8,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7648500,GA,Douglas,Lithia Springs,Source1,3,33.77688,-84.61074,2017,15,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7651398,GA,Douglas,Lithia Springs,Source1,3,33.767351,-84.65762,2017,10,Thursday,Rain,False,False,False,False,False,False,False
+A-7651443,GA,Douglas,Douglasville,Source1,4,33.68253,-84.72778000000002,2017,20,Thursday,Rain,False,False,False,False,False,False,False
+A-7651446,GA,Douglas,Villa Rica,Source1,4,33.76695,-84.90005,2017,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7666698,GA,Douglas,Lithia Springs,Source1,3,33.77663,-84.61301999999998,2017,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7669679,GA,Douglas,Douglasville,Source1,3,33.730909999999994,-84.74463,2017,16,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7675469,GA,Douglas,Lithia Springs,Source1,4,33.777072,-84.611047,2017,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7675473,GA,Douglas,Lithia Springs,Source1,3,33.77678,-84.60206,2017,11,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7677922,GA,Douglas,Lithia Springs,Source1,3,33.76728,-84.65795,2017,9,Friday,Rain,False,False,True,False,False,False,False
+A-7683452,GA,Douglas,Douglasville,Source1,3,33.748870000000004,-84.71779000000002,2017,17,Saturday,Cloudy,False,False,True,False,False,False,False
+A-7683778,GA,Douglas,Winston,Source1,3,33.71849,-84.82695,2017,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7683785,GA,Douglas,Winston,Source1,3,33.71849,-84.82695,2017,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7686266,GA,Douglas,Douglasville,Source1,4,33.73604,-84.73156999999998,2017,1,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7690929,GA,Douglas,Douglasville,Source1,4,33.70376,-84.6587,2017,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7690967,GA,Douglas,Winston,Source1,4,33.717997,-84.82184000000002,2017,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7696456,GA,Douglas,Villa Rica,Source1,3,33.72528,-84.90601,2017,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7698412,GA,Douglas,Lithia Springs,Source1,4,33.775763,-84.617425,2017,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7707328,GA,Douglas,Lithia Springs,Source1,3,33.7678,-84.65654,2019,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7712820,GA,Douglas,Douglasville,Source1,3,33.74884,-84.71781999999997,2019,10,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7714991,GA,Douglas,Lithia Springs,Source1,3,33.78902,-84.62267,2019,17,Friday,Clear / Fair,True,True,False,False,False,False,False
+A-7715838,GA,Douglas,Lithia Springs,Source1,3,33.76727,-84.65799,2019,23,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7716796,GA,Douglas,Villa Rica,Source1,4,33.725559999999994,-84.90585,2019,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7720237,GA,Douglas,Lithia Springs,Source1,3,33.77688,-84.61074,2019,9,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7728685,GA,Douglas,Lithia Springs,Source1,3,33.76727,-84.65799,2019,8,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7732363,GA,Douglas,Lithia Springs,Source1,4,33.77678,-84.60206,2019,1,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7735556,GA,Douglas,Winston,Source1,3,33.71861,-84.82772,2019,7,Saturday,Storm,False,False,False,False,False,False,False
+A-7742758,GA,Douglas,Lithia Springs,Source1,3,33.77678,-84.60206,2019,12,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7745026,GA,Douglas,Lithia Springs,Source1,3,33.77688,-84.61074,2019,15,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7745382,GA,Douglas,Douglasville,Source1,4,33.704096,-84.780165,2019,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7745383,GA,Douglas,Douglasville,Source1,4,33.70585,-84.77730799999998,2019,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7746155,GA,Douglas,Douglasville,Source1,3,33.73601,-84.73161,2019,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7753519,GA,Douglas,Lithia Springs,Source1,3,33.77642,-84.60525,2019,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7753520,GA,Douglas,Lithia Springs,Source1,3,33.7758,-84.60491,2019,9,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-7755046,GA,Douglas,Lithia Springs,Source1,3,33.776112,-84.615762,2019,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7755283,GA,Douglas,Lithia Springs,Source1,3,33.77688,-84.61074,2019,5,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7755289,GA,Douglas,Lithia Springs,Source1,3,33.77688,-84.61074,2019,5,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7755290,GA,Douglas,Lithia Springs,Source1,3,33.77678,-84.60206,2019,5,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7760466,GA,Douglas,Villa Rica,Source1,4,33.71802,-84.83343,2019,5,Thursday,Clear / Fair,False,False,False,True,False,False,False
+A-7760467,GA,Douglas,Winston,Source1,4,33.71996,-84.83216999999998,2019,5,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-7760506,GA,Douglas,Douglasville,Source1,3,33.73464,-84.7333,2019,0,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7764816,GA,Douglas,Douglasville,Source1,3,33.72912,-84.75518100000002,2019,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7770638,GA,Douglas,Lithia Springs,Source1,4,33.77758,-84.60608,2019,7,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7770639,GA,Douglas,Lithia Springs,Source1,4,33.77752,-84.60663000000002,2019,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7770640,GA,Douglas,Lithia Springs,Source1,3,33.77678,-84.60206,2019,7,Friday,Clear / Fair,False,False,True,False,False,False,False

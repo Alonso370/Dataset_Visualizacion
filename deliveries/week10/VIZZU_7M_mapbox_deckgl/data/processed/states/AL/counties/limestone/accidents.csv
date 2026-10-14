@@ -1,0 +1,916 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-514769,AL,Limestone,Madison,Source2,3,34.659885,-86.787376,2022,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-514898,AL,Limestone,Tanner,Source2,3,34.686855,-86.925163,2022,17,Tuesday,Rain,False,False,False,False,False,False,False
+A-514995,AL,Limestone,Madison,Source2,3,34.622025,-86.90038299999998,2022,15,Tuesday,Storm,False,False,False,False,False,False,False
+A-515740,AL,Limestone,Madison,Source2,3,34.630997,-86.87831899999998,2022,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-515899,AL,Limestone,Madison,Source2,3,34.630707,-86.872284,2022,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-517853,AL,Limestone,Tanner,Source2,3,34.642647,-86.905449,2022,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-520373,AL,Limestone,Madison,Source2,3,34.658142,-86.798416,2022,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-525595,AL,Limestone,Madison,Source2,3,34.643608,-86.836945,2022,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-529821,AL,Limestone,Madison,Source2,3,34.631207,-86.881287,2022,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-533444,AL,Limestone,Madison,Source2,3,34.63443400000001,-86.861626,2022,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-533463,AL,Limestone,Madison,Source2,3,34.660519,-86.787018,2022,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-533593,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2022,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-536092,AL,Limestone,Elkmont,Source2,3,34.919945,-86.906975,2022,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-539305,AL,Limestone,Madison,Source2,3,34.641220000000004,-86.84369699999998,2022,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-544323,AL,Limestone,Athens,Source2,3,34.785591,-86.956497,2022,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-546471,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2022,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-550765,AL,Limestone,Madison,Source2,3,34.630932,-86.882042,2022,13,Saturday,Storm,False,False,False,False,False,False,False
+A-551285,AL,Limestone,Tanner,Source2,3,34.699886,-86.927635,2022,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-553754,AL,Limestone,Ardmore,Source2,3,34.9729,-86.88324,2022,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-554002,AL,Limestone,Madison,Source2,3,34.584599,-86.90522,2022,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-554087,AL,Limestone,Madison,Source2,3,34.630993,-86.878212,2022,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-554445,AL,Limestone,Madison,Source2,3,34.629627,-86.89299799999998,2022,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-554855,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2022,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-557540,AL,Limestone,Madison,Source2,3,34.630085,-86.901588,2022,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-558121,AL,Limestone,Madison,Source2,3,34.629234000000004,-86.900047,2022,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-558271,AL,Limestone,Madison,Source2,3,34.641220000000004,-86.84369699999998,2022,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-559036,AL,Limestone,Madison,Source2,3,34.641220000000004,-86.84369699999998,2022,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-559518,AL,Limestone,Madison,Source2,3,34.653316,-86.811195,2022,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-564592,AL,Limestone,Madison,Source2,3,34.623497,-86.90065799999998,2022,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-564850,AL,Limestone,Athens,Source2,3,34.73077,-86.936157,2022,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-566727,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2022,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-567595,AL,Limestone,Madison,Source2,3,34.580032,-86.907234,2022,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-569679,AL,Limestone,Athens,Source2,3,34.786896,-86.959763,2022,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-575820,AL,Limestone,Ardmore,Source2,3,34.9729,-86.88324,2022,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-576387,AL,Limestone,Madison,Source2,3,34.641220000000004,-86.84369699999998,2022,20,Sunday,Storm,False,False,False,False,False,False,False
+A-580654,AL,Limestone,Tanner,Source2,3,34.628372,-86.901054,2022,16,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-581997,AL,Limestone,Athens,Source2,3,34.782986,-86.939743,2022,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-582358,AL,Limestone,Madison,Source2,3,34.661316,-86.787399,2022,7,Monday,Cloudy,False,False,True,False,False,False,False
+A-583861,AL,Limestone,Madison,Source2,3,34.631015999999995,-86.87556500000002,2022,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-584590,AL,Limestone,Tanner,Source2,3,34.682568,-86.923744,2022,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-586180,AL,Limestone,Madison,Source2,3,34.638779,-86.850143,2022,8,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-587396,AL,Limestone,Madison,Source2,3,34.641220000000004,-86.84369699999998,2022,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-591071,AL,Limestone,Madison,Source2,3,34.641220000000004,-86.84369699999998,2022,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-594154,AL,Limestone,Madison,Source2,3,34.628956,-86.89489,2022,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-596483,AL,Limestone,Ardmore,Source2,3,34.9729,-86.88324,2022,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-602293,AL,Limestone,Tanner,Source2,3,34.628372,-86.901054,2022,13,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-603554,AL,Limestone,Madison,Source2,3,34.641220000000004,-86.84369699999998,2022,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-605073,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2022,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-609860,AL,Limestone,Athens,Source2,3,34.730778,-86.93611899999998,2022,14,Thursday,Rain,False,False,False,False,False,False,False
+A-621985,AL,Limestone,Madison,Source2,3,34.629063,-86.894577,2022,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-623225,AL,Limestone,Tanner,Source2,3,34.62875,-86.90316800000002,2022,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-624433,AL,Limestone,Madison,Source2,3,34.649956,-86.82012900000002,2022,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-628723,AL,Limestone,Madison,Source2,3,34.610912,-86.898445,2022,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-633370,AL,Limestone,Madison,Source2,3,34.593478999999995,-86.9021,2022,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-633405,AL,Limestone,Madison,Source2,3,34.631226,-86.87838,2022,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-635587,AL,Limestone,Tanner,Source2,3,34.657494,-86.912971,2022,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-637064,AL,Limestone,Madison,Source2,3,34.653759,-86.810455,2022,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-640268,AL,Limestone,Madison,Source2,3,34.651478000000004,-86.81609300000002,2022,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-645593,AL,Limestone,Madison,Source2,3,34.661392,-86.78720899999998,2022,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-646369,AL,Limestone,Madison,Source2,3,34.661156,-86.787788,2022,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-647215,AL,Limestone,Tanner,Source2,3,34.631446999999994,-86.885048,2022,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-647318,AL,Limestone,Madison,Source2,3,34.639587,-86.847588,2022,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-648752,AL,Limestone,Madison,Source2,3,34.641220000000004,-86.84369699999998,2022,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-655057,AL,Limestone,Madison,Source2,3,34.628098,-86.901237,2022,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-658101,AL,Limestone,Madison,Source2,3,34.641220000000004,-86.84369699999998,2022,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-659144,AL,Limestone,Madison,Source2,3,34.660099,-86.78862,2022,7,Wednesday,Rain,False,False,False,False,False,False,False
+A-662223,AL,Limestone,Athens,Source2,3,34.828018,-86.939423,2022,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-665242,AL,Limestone,Tanner,Source2,3,34.62875,-86.90316800000002,2022,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-673278,AL,Limestone,Madison,Source2,3,34.627796000000004,-86.901443,2022,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-677040,AL,Limestone,Madison,Source2,3,34.63007,-86.8927,2022,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-678802,AL,Limestone,Madison,Source2,3,34.651237,-86.816727,2022,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-679364,AL,Limestone,Madison,Source2,3,34.586327000000004,-86.904556,2022,8,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-679475,AL,Limestone,Madison,Source2,3,34.621765,-86.90007,2022,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-686944,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2022,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-687349,AL,Limestone,Madison,Source2,3,34.641174,-86.843674,2022,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-691475,AL,Limestone,Madison,Source2,3,34.650547,-86.818993,2022,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-691963,AL,Limestone,Elkmont,Source2,3,34.919849,-86.906761,2022,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-694008,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2022,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-695076,AL,Limestone,Madison,Source2,3,34.631611,-86.88713100000002,2022,14,Sunday,Rain,False,False,False,False,False,False,False
+A-696478,AL,Limestone,Madison,Source2,3,34.641174,-86.843674,2022,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-696779,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2022,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-699713,AL,Limestone,Madison,Source2,3,34.65965300000001,-86.791573,2022,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-699890,AL,Limestone,Madison,Source2,3,34.64962,-86.821457,2022,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-702995,AL,Limestone,Madison,Source2,3,34.641174,-86.843674,2022,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-707610,AL,Limestone,Madison,Source2,3,34.641174,-86.843674,2022,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-707757,AL,Limestone,Toney,Source2,3,34.904011,-86.81955699999996,2022,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-708854,AL,Limestone,Madison,Source2,4,34.641174,-86.843674,2022,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-710799,AL,Limestone,Tanner,Source2,3,34.618572,-86.966949,2022,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-712962,AL,Limestone,Athens,Source2,3,34.782986,-86.939743,2022,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-712997,AL,Limestone,Tanner,Source2,3,34.628345,-86.901276,2022,19,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-718245,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2022,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-723241,AL,Limestone,Athens,Source2,3,34.782986,-86.939743,2022,15,Thursday,Storm,False,False,False,False,False,False,False
+A-726988,AL,Limestone,Athens,Source2,3,34.85215,-86.929665,2022,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-727643,AL,Limestone,Madison,Source2,3,34.65591,-86.80471800000002,2022,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-733248,AL,Limestone,Madison,Source2,3,34.658142,-86.798416,2022,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-737126,AL,Limestone,Madison,Source2,3,34.584755,-86.905434,2022,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-739569,AL,Limestone,Madison,Source2,3,34.658142,-86.798416,2022,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-741617,AL,Limestone,Madison,Source2,3,34.641174,-86.843674,2022,20,Wednesday,Storm,False,False,False,False,False,False,False
+A-745073,AL,Limestone,Madison,Source2,3,34.631874,-86.881973,2022,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-747231,AL,Limestone,Tanner,Source2,3,34.628307,-86.90155,2022,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-751048,AL,Limestone,Madison,Source2,3,34.627705,-86.901527,2022,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-757258,AL,Limestone,Tanner,Source2,3,34.628372,-86.901054,2022,5,Monday,Cloudy,False,False,True,False,False,False,False
+A-757373,AL,Limestone,Elkmont,Source2,3,34.919739,-86.90651700000002,2022,21,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-760964,AL,Limestone,Madison,Source2,3,34.66058,-86.791931,2021,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-761336,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2021,9,Wednesday,Rain,False,False,False,False,False,False,False
+A-762415,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2021,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-768101,AL,Limestone,Madison,Source2,3,34.641174,-86.843674,2021,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-768880,AL,Limestone,Madison,Source2,3,34.656731,-86.802483,2021,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-772889,AL,Limestone,Madison,Source2,3,34.641026000000004,-86.84423100000002,2021,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-773585,AL,Limestone,Madison,Source2,3,34.641174,-86.843674,2021,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-774524,AL,Limestone,Tanner,Source2,3,34.62904,-86.894646,2021,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-776587,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2021,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-780776,AL,Limestone,Tanner,Source2,3,34.631519,-86.882271,2021,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-780928,AL,Limestone,Madison,Source2,3,34.640228,-86.845894,2021,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-780929,AL,Limestone,Athens,Source2,3,34.825478000000004,-86.93899499999998,2021,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-781095,AL,Limestone,Madison,Source2,3,34.658142,-86.798416,2021,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-781106,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2021,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-785564,AL,Limestone,Madison,Source2,3,34.657864000000004,-86.79729499999998,2021,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-787620,AL,Limestone,Madison,Source2,3,34.66087,-86.78842900000002,2021,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-791712,AL,Limestone,Tanner,Source2,3,34.63147,-86.901848,2021,8,Monday,Rain,False,False,False,False,False,False,False
+A-795906,AL,Limestone,Tanner,Source2,3,34.631374,-86.880363,2021,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-796252,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2021,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-796343,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2021,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-798156,AL,Limestone,Madison,Source2,3,34.641174,-86.843674,2021,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-798276,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2021,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-800077,AL,Limestone,Tanner,Source2,3,34.628372,-86.901054,2021,19,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-811034,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2021,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-815585,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2021,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-815724,AL,Limestone,Ardmore,Source2,3,34.948170000000005,-86.78469799999998,2021,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-826818,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2021,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-833408,AL,Limestone,Athens,Source2,3,34.784714,-86.93978100000002,2021,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-834724,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2021,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-834725,AL,Limestone,Madison,Source2,3,34.641174,-86.843674,2021,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-846330,AL,Limestone,Athens,Source2,3,34.73077,-86.936157,2021,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-855145,AL,Limestone,Madison,Source2,3,34.65802,-86.796463,2021,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-855159,AL,Limestone,Madison,Source2,3,34.657345,-86.800262,2021,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-855418,AL,Limestone,Madison,Source2,3,34.642487,-86.840363,2021,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-859050,AL,Limestone,Tanner,Source2,4,34.628372,-86.901054,2021,19,Friday,Rain,False,False,True,False,False,False,False
+A-869672,AL,Limestone,Tanner,Source2,3,34.622890000000005,-86.900284,2021,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-874027,AL,Limestone,Tanner,Source2,3,34.628372,-86.901054,2021,6,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-874344,AL,Limestone,Madison,Source2,4,34.641174,-86.843674,2021,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-876679,AL,Limestone,Madison,Source2,3,34.630928000000004,-86.877335,2021,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-878527,AL,Limestone,Tanner,Source2,3,34.624393,-86.900826,2021,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-880352,AL,Limestone,Madison,Source2,3,34.660324,-86.78958100000001,2021,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-884059,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2021,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-884312,AL,Limestone,Madison,Source2,3,34.658142,-86.798416,2021,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-884472,AL,Limestone,Madison,Source2,3,34.658142,-86.798416,2021,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-884844,AL,Limestone,Tanner,Source2,3,34.628372,-86.901054,2021,14,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-887299,AL,Limestone,Elkmont,Source2,3,34.900314,-86.906723,2021,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-892794,AL,Limestone,Tanner,Source2,3,34.628372,-86.901054,2021,11,Monday,Cloudy,False,False,True,False,False,False,False
+A-894989,AL,Limestone,Madison,Source2,3,34.631214,-86.878212,2021,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-898407,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2021,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-904205,AL,Limestone,Tanner,Source2,3,34.627109999999995,-86.901039,2021,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-904664,AL,Limestone,Athens,Source2,3,34.781876000000004,-86.939911,2021,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-913479,AL,Limestone,Madison,Source2,3,34.641174,-86.843674,2021,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-913943,AL,Limestone,Athens,Source2,3,34.794689,-86.939026,2021,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-914214,AL,Limestone,Athens,Source2,3,34.857586,-86.927628,2021,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-920996,AL,Limestone,Madison,Source2,3,34.631809000000004,-86.868088,2021,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-921167,AL,Limestone,Tanner,Source2,3,34.628372,-86.901054,2021,20,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-923300,AL,Limestone,Tanner,Source2,3,34.62941,-86.894531,2021,17,Thursday,Cloudy,False,False,True,False,False,False,False
+A-928311,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2021,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-929025,AL,Limestone,Madison,Source2,3,34.631237,-86.878555,2021,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-930288,AL,Limestone,Tanner,Source2,3,34.628372,-86.901054,2021,15,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-932859,AL,Limestone,Tanner,Source2,3,34.603508000000005,-86.89846800000002,2021,8,Thursday,Rain,False,False,False,False,False,False,False
+A-936615,AL,Limestone,Tanner,Source2,3,34.628372,-86.901054,2021,18,Friday,Storm,False,False,True,False,False,False,False
+A-938127,AL,Limestone,Madison,Source2,3,34.641174,-86.843674,2021,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-938366,AL,Limestone,Tanner,Source2,3,34.631439,-86.885918,2021,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-938759,AL,Limestone,Athens,Source2,3,34.831641999999995,-86.938385,2021,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-941454,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2021,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-942334,AL,Limestone,Tanner,Source2,3,34.726791,-86.934792,2021,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-942797,AL,Limestone,Madison,Source2,3,34.643246000000005,-86.837914,2021,12,Saturday,Storm,False,False,False,False,False,False,False
+A-944598,AL,Limestone,Madison,Source2,3,34.641174,-86.843674,2021,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-945213,AL,Limestone,Athens,Source2,3,34.801125,-86.938721,2021,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-945456,AL,Limestone,Madison,Source2,3,34.639671,-86.84736600000002,2021,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-946203,AL,Limestone,Tanner,Source2,3,34.628372,-86.901054,2021,21,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-947767,AL,Limestone,Madison,Source2,3,34.641174,-86.843674,2021,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-953469,AL,Limestone,Tanner,Source2,3,34.629307,-86.901443,2021,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-954184,AL,Limestone,Madison,Source2,3,34.632862,-86.86529499999996,2021,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-960325,AL,Limestone,Elkmont,Source2,3,34.927631,-86.90128299999998,2021,10,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-964486,AL,Limestone,Tanner,Source2,3,34.72076,-86.932785,2021,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-964615,AL,Limestone,Tanner,Source2,3,34.624023,-86.900757,2021,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-964869,AL,Limestone,Madison,Source2,3,34.642391,-86.84063,2021,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-965301,AL,Limestone,Tanner,Source2,3,34.628372,-86.901054,2021,19,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-969052,AL,Limestone,Tanner,Source2,3,34.628372,-86.901054,2021,10,Saturday,Cloudy,False,False,True,False,False,False,False
+A-972430,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2021,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-975377,AL,Limestone,Madison,Source2,3,34.63747,-86.85318000000002,2021,6,Thursday,Rain,False,False,False,False,False,False,False
+A-976902,AL,Limestone,Ardmore,Source2,3,34.9729,-86.88324,2021,16,Wednesday,Rain,False,False,False,False,False,False,False
+A-978353,AL,Limestone,Madison,Source2,3,34.631145000000004,-86.87732700000002,2021,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-979470,AL,Limestone,Elkmont,Source2,3,34.921734,-86.905502,2021,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-981693,AL,Limestone,Madison,Source2,3,34.642502,-86.84033199999998,2021,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-987927,AL,Limestone,Madison,Source2,3,34.647694,-86.826126,2021,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-988667,AL,Limestone,Madison,Source2,3,34.638405,-86.850723,2021,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-990598,AL,Limestone,Tanner,Source2,3,34.629829,-86.893364,2021,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-990610,AL,Limestone,Madison,Source2,3,34.640934,-86.8433,2021,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-990611,AL,Limestone,Madison,Source2,3,34.640934,-86.8433,2021,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-993173,AL,Limestone,Athens,Source2,3,34.755486,-86.938377,2021,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-993178,AL,Limestone,Athens,Source2,3,34.780525,-86.939995,2021,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-994840,AL,Limestone,Elkmont,Source2,3,34.948414,-86.893936,2021,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-994851,AL,Limestone,Tanner,Source2,3,34.622307,-86.900436,2021,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-996465,AL,Limestone,Madison,Source2,3,34.642632,-86.83998100000002,2021,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-1000981,AL,Limestone,Tanner,Source2,3,34.62442,-86.90083299999998,2021,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1002622,AL,Limestone,Madison,Source2,3,34.641174,-86.843674,2021,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1005955,AL,Limestone,Madison,Source2,3,34.643356,-86.837616,2021,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1010347,AL,Limestone,Madison,Source2,3,34.643246000000005,-86.837906,2021,18,Thursday,Rain,False,False,False,False,False,False,False
+A-1013632,AL,Limestone,Madison,Source2,3,34.656364,-86.80351999999998,2021,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1015323,AL,Limestone,Athens,Source2,3,34.861259000000004,-86.926086,2021,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-1015326,AL,Limestone,Madison,Source2,3,34.641174,-86.843674,2021,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-1017948,AL,Limestone,Tanner,Source2,3,34.58036,-86.906853,2021,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-1019633,AL,Limestone,Athens,Source2,3,34.828018,-86.939423,2021,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1019650,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2021,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1021251,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2021,5,Wednesday,Rain,False,False,False,False,False,False,False
+A-1021253,AL,Limestone,Madison,Source2,3,34.632244,-86.866928,2021,5,Wednesday,Rain,False,False,False,False,False,False,False
+A-1026860,AL,Limestone,Madison,Source2,3,34.65694000000001,-86.798164,2021,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-1030183,AL,Limestone,Elkmont,Source2,3,34.919945,-86.906975,2021,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1031833,AL,Limestone,Madison,Source2,3,34.641228000000005,-86.843704,2021,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1033536,AL,Limestone,Elkmont,Source2,3,34.919945,-86.906975,2021,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-1033563,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2021,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-1037922,AL,Limestone,Athens,Source2,3,34.781310999999995,-86.939293,2021,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1039587,AL,Limestone,Athens,Source2,3,34.865631,-86.924553,2021,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1047266,AL,Limestone,Madison,Source2,3,34.643776,-86.836945,2021,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1048973,AL,Limestone,Madison,Source2,3,34.642403,-86.840591,2021,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1050658,AL,Limestone,Madison,Source2,3,34.650734,-86.818497,2021,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1052089,AL,Limestone,Madison,Source2,3,34.646815999999994,-86.828453,2021,8,Monday,Rain,False,False,False,False,False,False,False
+A-1054754,AL,Limestone,Tanner,Source2,3,34.726997,-86.93486,2021,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1060024,AL,Limestone,Tanner,Source2,3,34.61684,-86.899437,2021,10,Tuesday,Rain,False,False,False,False,False,False,False
+A-1062522,AL,Limestone,Athens,Source2,3,34.828018,-86.939423,2021,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1073391,AL,Limestone,Madison,Source2,3,34.661354,-86.787308,2021,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1076373,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2021,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1077863,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2021,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1086442,AL,Limestone,Tanner,Source2,3,34.629448,-86.95018,2021,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1091984,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2021,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1094866,AL,Limestone,Madison,Source2,3,34.658142,-86.798416,2021,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1099395,AL,Limestone,Madison,Source2,3,34.64465,-86.834183,2021,6,Wednesday,Rain,False,False,False,False,False,False,False
+A-1099398,AL,Limestone,Madison,Source2,3,34.631001,-86.875336,2021,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1105010,AL,Limestone,Athens,Source2,3,34.735577,-86.937935,2021,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1106672,AL,Limestone,Madison,Source2,3,34.642788,-86.83979000000002,2021,7,Thursday,Storm,False,False,False,False,False,False,False
+A-1111235,AL,Limestone,Madison,Source2,3,34.641586,-86.842751,2021,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-1112392,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2021,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1112394,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2021,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1113576,AL,Limestone,Tanner,Source2,3,34.642471,-86.905357,2021,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-1113581,AL,Limestone,Athens,Source2,3,34.782986,-86.939743,2021,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-1115193,AL,Limestone,Tanner,Source2,3,34.626835,-86.900993,2021,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1116726,AL,Limestone,Madison,Source2,3,34.641624,-86.842224,2021,6,Wednesday,Rain,False,False,False,False,False,False,False
+A-1116731,AL,Limestone,Tanner,Source2,3,34.631699,-86.885201,2021,8,Wednesday,Storm,False,False,False,False,False,False,False
+A-1126370,AL,Limestone,Tanner,Source2,3,34.628372,-86.901054,2021,10,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-1128746,AL,Limestone,Madison,Source2,3,34.635735,-86.85818499999998,2021,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1128752,AL,Limestone,Madison,Source2,3,34.632889,-86.865234,2021,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1135668,AL,Limestone,Athens,Source2,3,34.831299,-86.938469,2021,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-1136868,AL,Limestone,Tanner,Source2,3,34.627689000000004,-86.90050500000002,2021,12,Saturday,Cloudy,False,False,True,False,False,False,False
+A-1138188,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2021,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-1139555,AL,Limestone,Tanner,Source2,3,34.63221,-86.879898,2021,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1141092,AL,Limestone,Athens,Source2,3,34.828018,-86.939423,2021,16,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-1141095,AL,Limestone,Madison,Source2,3,34.658142,-86.798416,2021,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1141098,AL,Limestone,Madison,Source2,3,34.641079,-86.844093,2021,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1142434,AL,Limestone,Tanner,Source2,3,34.626904,-86.901291,2021,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1142438,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2021,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1142464,AL,Limestone,Madison,Source2,3,34.641174,-86.843674,2021,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1143952,AL,Limestone,Tanner,Source2,3,34.631443,-86.884987,2021,5,Monday,Rain,False,False,False,False,False,False,False
+A-1143955,AL,Limestone,Madison,Source2,3,34.642475,-86.840393,2021,6,Monday,Rain,False,False,False,False,False,False,False
+A-1143956,AL,Limestone,Madison,Source2,3,34.659797999999995,-86.79126,2021,6,Monday,Rain,False,False,False,False,False,False,False
+A-1145100,AL,Limestone,Madison,Source2,3,34.650517,-86.818634,2021,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1146514,AL,Limestone,Athens,Source2,3,34.830368,-86.938622,2021,11,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1148208,AL,Limestone,Tanner,Source2,3,34.681999,-86.923546,2021,5,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1148210,AL,Limestone,Tanner,Source2,3,34.625,-86.899918,2021,5,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1148214,AL,Limestone,Madison,Source2,3,34.641174,-86.843674,2021,6,Thursday,Rain,False,False,False,False,False,False,False
+A-1149626,AL,Limestone,Tanner,Source2,3,34.625,-86.899918,2021,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1152932,AL,Limestone,Madison,Source2,3,34.63073,-86.874748,2021,5,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1152937,AL,Limestone,Tanner,Source2,3,34.631699,-86.885262,2021,7,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1152943,AL,Limestone,Elkmont,Source2,3,34.920776000000004,-86.905823,2021,8,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1152946,AL,Limestone,Tanner,Source2,3,34.641579,-86.90520500000002,2021,9,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1154367,AL,Limestone,Madison,Source2,3,34.641174,-86.843674,2021,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1157959,AL,Limestone,Madison,Source2,3,34.657814,-86.796204,2021,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1159586,AL,Limestone,Tanner,Source2,3,34.630161,-86.892441,2021,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1161439,AL,Limestone,Madison,Source2,3,34.641071000000004,-86.844116,2021,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1163155,AL,Limestone,Madison,Source2,3,34.641228000000005,-86.843704,2021,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-1164508,AL,Limestone,Madison,Source2,3,34.658142,-86.798416,2021,6,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1164515,AL,Limestone,Tanner,Source2,3,34.631508000000004,-86.88209499999998,2021,20,Saturday,Rain,False,False,False,False,False,False,False
+A-1165952,AL,Limestone,Madison,Source2,3,34.660454,-86.789932,2021,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1165953,AL,Limestone,Athens,Source2,3,34.796589000000004,-86.938934,2021,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1165961,AL,Limestone,Madison,Source2,3,34.640869,-86.843536,2021,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-1167695,AL,Limestone,Madison,Source2,3,34.632003999999995,-86.867577,2021,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1170578,AL,Limestone,Madison,Source2,3,34.644821,-86.833725,2021,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1170599,AL,Limestone,Madison,Source2,3,34.635684999999995,-86.858322,2021,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1172353,AL,Limestone,Tanner,Source2,3,34.631413,-86.884338,2021,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-1173728,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2021,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1180323,AL,Limestone,Tanner,Source2,3,34.631435,-86.886055,2021,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1180327,AL,Limestone,Madison,Source2,3,34.639908,-86.846199,2021,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1180340,AL,Limestone,Tanner,Source2,3,34.656193,-86.912308,2021,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1180361,AL,Limestone,Athens,Source2,3,34.730892,-86.936157,2021,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1180363,AL,Limestone,Tanner,Source2,3,34.627247,-86.901352,2021,18,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-1181847,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2021,17,Monday,Rain,False,False,False,False,False,False,False
+A-1182695,AL,Limestone,Madison,Source2,3,34.641174,-86.843674,2021,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1182709,AL,Limestone,Athens,Source2,4,34.782986,-86.93985699999998,2021,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1186262,AL,Limestone,Madison,Source2,3,34.630936,-86.877441,2021,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1189007,AL,Limestone,Madison,Source2,3,34.645081,-86.833496,2021,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1189008,AL,Limestone,Madison,Source2,3,34.661559999999994,-86.787453,2021,7,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-1190220,AL,Limestone,Tanner,Source2,3,34.628345,-86.901276,2021,13,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-1192775,AL,Limestone,Madison,Source2,3,34.638321000000005,-86.850945,2021,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1192779,AL,Limestone,Madison,Source2,3,34.641174,-86.843674,2021,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1194418,AL,Limestone,Madison,Source2,3,34.661198,-86.788322,2021,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1197284,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2021,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1202254,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2021,18,Thursday,Rain,False,False,False,False,False,False,False
+A-1203558,AL,Limestone,Madison,Source2,3,34.652584000000004,-86.81360600000002,2021,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1203591,AL,Limestone,Madison,Source2,4,34.641174,-86.843674,2021,21,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1203592,AL,Limestone,Madison,Source2,3,34.641174,-86.843674,2021,21,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1204923,AL,Limestone,Madison,Source2,3,34.641174,-86.843674,2021,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1204928,AL,Limestone,Tanner,Source2,3,34.628372,-86.901054,2021,17,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-1207526,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2021,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1216234,AL,Limestone,Madison,Source2,3,34.630722,-86.874634,2020,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1216235,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2020,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1216254,AL,Limestone,Tanner,Source2,3,34.62315,-86.90059699999998,2020,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1216256,AL,Limestone,Tanner,Source2,3,34.627663,-86.901421,2020,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1217695,AL,Limestone,Madison,Source2,3,34.641174,-86.843674,2020,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1219268,AL,Limestone,Madison,Source2,3,34.661339,-86.787994,2020,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1219280,AL,Limestone,Madison,Source2,3,34.640911,-86.844086,2020,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1222154,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2020,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1223556,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2020,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-1225444,AL,Limestone,Madison,Source2,3,34.661362,-86.787933,2020,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1236847,AL,Limestone,Madison,Source2,3,34.641174,-86.843674,2020,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1236882,AL,Limestone,Madison,Source2,3,34.641174,-86.843674,2020,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1240112,AL,Limestone,Madison,Source2,3,34.641174,-86.843674,2020,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1240122,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2020,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1240130,AL,Limestone,Tanner,Source2,3,34.631294,-86.882446,2020,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1243686,AL,Limestone,Tanner,Source2,3,34.628696000000005,-86.895645,2020,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1243720,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2020,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1245409,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2020,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1245442,AL,Limestone,Ardmore,Source2,3,34.975079,-86.8815,2020,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1245448,AL,Limestone,Madison,Source2,3,34.639977,-86.847008,2020,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1247184,AL,Limestone,Madison,Source2,3,34.641174,-86.843674,2020,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-1251656,AL,Limestone,Tanner,Source2,3,34.713028,-86.930557,2020,10,Wednesday,Rain,False,False,False,False,False,False,False
+A-1251660,AL,Limestone,Tanner,Source2,3,34.630585,-86.890381,2020,10,Wednesday,Rain,False,False,False,False,False,False,False
+A-1253463,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2020,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1253470,AL,Limestone,Madison,Source2,3,34.632835,-86.865364,2020,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1256090,AL,Limestone,Madison,Source2,3,34.641174,-86.843674,2020,19,Sunday,Rain,False,False,False,False,False,False,False
+A-1258085,AL,Limestone,Madison,Source2,3,34.66058,-86.791931,2020,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1259743,AL,Limestone,Tanner,Source2,3,34.584972,-86.905075,2020,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1259804,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2020,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1261448,AL,Limestone,Madison,Source2,3,34.641762,-86.84186600000002,2020,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1263220,AL,Limestone,Madison,Source2,3,34.659588,-86.79171,2020,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1264867,AL,Limestone,Madison,Source2,3,34.657528000000006,-86.799324,2020,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1264915,AL,Limestone,Madison,Source2,3,34.64167,-86.842529,2020,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1267774,AL,Limestone,Tanner,Source2,3,34.657501,-86.912971,2020,8,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1267802,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2020,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1267821,AL,Limestone,Madison,Source2,3,34.655479,-86.80544300000004,2020,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1273737,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2020,17,Tuesday,Rain,False,False,False,False,False,False,False
+A-1275475,AL,Limestone,Elkmont,Source2,3,34.876675,-86.920975,2020,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-1275514,AL,Limestone,Madison,Source2,3,34.657703000000005,-86.79825600000002,2020,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-1280575,AL,Limestone,Elkmont,Source2,3,34.919945,-86.906975,2020,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1282253,AL,Limestone,Tanner,Source2,3,34.622623,-86.900497,2020,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1282269,AL,Limestone,Madison,Source2,3,34.641228000000005,-86.843704,2020,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1285803,AL,Limestone,Madison,Source2,3,34.641174,-86.843674,2020,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1286649,AL,Limestone,Madison,Source2,3,34.641174,-86.843674,2020,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1290552,AL,Limestone,Madison,Source2,3,34.641113,-86.84387199999998,2020,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1290554,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2020,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1293379,AL,Limestone,Elkmont,Source2,3,34.951359000000004,-86.89292900000002,2020,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1293381,AL,Limestone,Madison,Source2,3,34.641113,-86.84387199999998,2020,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1293459,AL,Limestone,Madison,Source2,3,34.641113,-86.84387199999998,2020,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1293497,AL,Limestone,Madison,Source2,3,34.658142,-86.798416,2020,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1293498,AL,Limestone,Madison,Source2,3,34.641113,-86.84387199999998,2020,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1298287,AL,Limestone,Athens,Source2,3,34.782986,-86.939743,2020,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1299758,AL,Limestone,Tanner,Source2,3,34.62875,-86.90316800000002,2020,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1301333,AL,Limestone,Madison,Source2,3,34.641113,-86.84387199999998,2020,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1306259,AL,Limestone,Madison,Source2,3,34.640213,-86.84638199999998,2020,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1309274,AL,Limestone,Madison,Source2,3,34.641113,-86.84387199999998,2020,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1314390,AL,Limestone,Madison,Source2,3,34.641113,-86.84387199999998,2020,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-1317284,AL,Limestone,Madison,Source2,3,34.641113,-86.84387199999998,2020,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-1318959,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2020,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1320698,AL,Limestone,Tanner,Source2,3,34.7285,-86.935364,2020,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1322338,AL,Limestone,Tanner,Source2,3,34.628372,-86.901054,2020,7,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-1322349,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2020,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1322368,AL,Limestone,Madison,Source2,3,34.641174,-86.843674,2020,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1322423,AL,Limestone,Tanner,Source2,3,34.628372,-86.901054,2020,19,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-1324191,AL,Limestone,Madison,Source2,3,34.660796999999995,-86.78858199999998,2020,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1324192,AL,Limestone,Elkmont,Source2,3,34.919945,-86.906975,2020,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1325466,AL,Limestone,Madison,Source2,3,34.642672999999995,-86.839439,2020,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1326823,AL,Limestone,Ardmore,Source2,3,34.9729,-86.88324,2020,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1326868,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2020,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1328384,AL,Limestone,Madison,Source2,3,34.642928999999995,-86.839203,2020,6,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-1330098,AL,Limestone,Athens,Source2,3,34.774189,-86.940079,2020,6,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1330139,AL,Limestone,Madison,Source2,3,34.641174,-86.843674,2020,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1330153,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2020,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1330163,AL,Limestone,Tanner,Source2,3,34.627693,-86.901222,2020,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1330165,AL,Limestone,Madison,Source2,3,34.657642,-86.798637,2020,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1331859,AL,Limestone,Madison,Source2,3,34.656906,-86.801231,2020,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1347461,AL,Limestone,Madison,Source2,3,34.641174,-86.843674,2020,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1349353,AL,Limestone,Madison,Source2,3,34.634769,-86.860291,2020,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1349355,AL,Limestone,Tanner,Source2,3,34.619057,-86.899559,2020,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1351324,AL,Limestone,Madison,Source2,3,34.641228000000005,-86.843704,2020,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1355100,AL,Limestone,Madison,Source2,3,34.658142,-86.798416,2020,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1355121,AL,Limestone,Tanner,Source2,3,34.628372,-86.901054,2020,11,Friday,Cloudy,False,False,True,False,False,False,False
+A-1355152,AL,Limestone,Madison,Source2,3,34.658142,-86.798416,2020,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-1358335,AL,Limestone,Madison,Source2,3,34.643131,-86.838669,2020,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-1362085,AL,Limestone,Madison,Source2,3,34.641174,-86.843674,2020,7,Wednesday,Rain,False,False,False,False,False,False,False
+A-1362089,AL,Limestone,Tanner,Source2,3,34.63044,-86.891655,2020,8,Wednesday,Rain,False,False,False,False,False,False,False
+A-1362104,AL,Limestone,Tanner,Source2,3,34.728279,-86.935562,2020,9,Wednesday,Rain,False,False,False,False,False,False,False
+A-1362114,AL,Limestone,Tanner,Source2,3,34.631443,-86.884979,2020,12,Wednesday,Rain,False,False,False,False,False,False,False
+A-1366384,AL,Limestone,Madison,Source2,3,34.658142,-86.798416,2020,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1366396,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2020,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1368142,AL,Limestone,Tanner,Source2,3,34.628372,-86.901054,2020,22,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-1371325,AL,Limestone,Athens,Source2,3,34.782986,-86.939743,2020,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1371346,AL,Limestone,Tanner,Source2,3,34.628372,-86.901054,2020,17,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-1374580,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2020,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-1374631,AL,Limestone,Madison,Source2,3,34.641228000000005,-86.84326899999998,2020,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-1374645,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2020,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-1375449,AL,Limestone,Madison,Source2,4,34.631058,-86.87925,2020,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1376520,AL,Limestone,Tanner,Source2,3,34.628372,-86.901054,2020,17,Friday,Sin dato,False,False,True,False,False,False,False
+A-1378807,AL,Limestone,Madison,Source2,3,34.658142,-86.798416,2020,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-1378813,AL,Limestone,Athens,Source2,3,34.828018,-86.939423,2020,16,Monday,Sin dato,False,False,False,False,False,False,False
+A-1383111,AL,Limestone,Tanner,Source2,3,34.631446999999994,-86.885391,2020,19,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-1383113,AL,Limestone,Madison,Source2,3,34.641113,-86.84387199999998,2020,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1383114,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2020,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1384875,AL,Limestone,Madison,Source2,3,34.657902,-86.79583000000002,2020,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-1390492,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2020,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-1391272,AL,Limestone,Madison,Source2,3,34.641113,-86.84387199999998,2020,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1392845,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2020,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-1394269,AL,Limestone,Madison,Source2,3,34.639767,-86.847115,2020,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1394284,AL,Limestone,Athens,Source2,3,34.73077,-86.936157,2020,17,Tuesday,Storm,False,False,False,False,False,False,False
+A-1394299,AL,Limestone,Athens,Source2,3,34.73077,-86.936157,2020,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1397211,AL,Limestone,Madison,Source2,4,34.660358,-86.787888,2020,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1397215,AL,Limestone,Madison,Source2,4,34.641113,-86.84387199999998,2020,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1397238,AL,Limestone,Madison,Source2,3,34.641113,-86.84387199999998,2020,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1398785,AL,Limestone,Tanner,Source2,3,34.628372,-86.901054,2020,17,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1398821,AL,Limestone,Athens,Source2,3,34.782986,-86.939743,2020,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-1400052,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2020,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1400054,AL,Limestone,Madison,Source2,3,34.640003,-86.846489,2020,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1401371,AL,Limestone,Athens,Source2,3,34.73077,-86.936157,2020,11,Monday,Rain,False,False,False,False,False,False,False
+A-1401391,AL,Limestone,Madison,Source2,3,34.641014,-86.843819,2020,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-1405795,AL,Limestone,Ardmore,Source2,3,34.9729,-86.88324,2020,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1407388,AL,Limestone,Madison,Source2,3,34.641113,-86.84387199999998,2020,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-1407399,AL,Limestone,Athens,Source2,3,34.73077,-86.936157,2020,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1409968,AL,Limestone,Elkmont,Source2,3,34.920338,-86.906113,2020,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1412794,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2020,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1412809,AL,Limestone,Tanner,Source2,3,34.631317,-86.887299,2020,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1419486,AL,Limestone,Tanner,Source2,3,34.631134,-86.880356,2020,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1422596,AL,Limestone,Athens,Source2,3,34.828018,-86.939423,2020,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1424176,AL,Limestone,Madison,Source2,3,34.641014,-86.843819,2020,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-1424191,AL,Limestone,Madison,Source2,3,34.658142,-86.798416,2020,15,Friday,Rain,False,False,False,False,False,False,False
+A-1425098,AL,Limestone,Tanner,Source2,3,34.631451,-86.885162,2020,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1430206,AL,Limestone,Tanner,Source2,3,34.628372,-86.901054,2020,4,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-1430217,AL,Limestone,Madison,Source2,3,34.641113,-86.84387199999998,2020,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1430239,AL,Limestone,Madison,Source2,3,34.641113,-86.84387199999998,2020,18,Wednesday,Storm,False,False,False,False,False,False,False
+A-1433199,AL,Limestone,Madison,Source2,3,34.658321,-86.795181,2020,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-1435685,AL,Limestone,Madison,Source2,3,34.658142,-86.798416,2020,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-1435706,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2020,14,Monday,Rain,False,False,False,False,False,False,False
+A-1435707,AL,Limestone,Athens,Source2,3,34.861507,-86.92600300000002,2020,14,Monday,Rain,False,False,False,False,False,False,False
+A-1435711,AL,Limestone,Madison,Source2,3,34.642132000000004,-86.841301,2020,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-1437083,AL,Limestone,Madison,Source2,3,34.641265999999995,-86.843597,2020,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1442972,AL,Limestone,Madison,Source2,3,34.64983,-86.8209,2020,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1444174,AL,Limestone,Tanner,Source2,3,34.614658,-86.898781,2020,20,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-1448332,AL,Limestone,Tanner,Source2,3,34.627705,-86.901505,2020,15,Tuesday,Rain,False,False,False,False,False,False,False
+A-1449796,AL,Limestone,Tanner,Source2,3,34.628372,-86.901054,2020,13,Wednesday,Rain,False,False,True,False,False,False,False
+A-1451279,AL,Limestone,Elkmont,Source2,3,34.948643,-86.89415,2020,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1451298,AL,Limestone,Madison,Source2,3,34.641129,-86.843521,2020,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1454508,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2020,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1455753,AL,Limestone,Athens,Source2,3,34.73077,-86.936157,2020,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1455759,AL,Limestone,Tanner,Source2,3,34.628372,-86.901054,2020,16,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-1458455,AL,Limestone,Madison,Source2,3,34.641113,-86.84387199999998,2020,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1461971,AL,Limestone,Athens,Source2,3,34.825722,-86.939003,2020,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1462962,AL,Limestone,Tanner,Source2,3,34.628372,-86.901054,2020,6,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-1464860,AL,Limestone,Tanner,Source2,3,34.628372,-86.901054,2020,15,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-1468548,AL,Limestone,Madison,Source2,3,34.641113,-86.84387199999998,2020,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1471118,AL,Limestone,Ardmore,Source2,3,34.9729,-86.88324,2020,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-1471165,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2020,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-1471794,AL,Limestone,Madison,Source2,3,34.661545000000004,-86.787483,2020,14,Saturday,Cloudy,False,False,True,False,False,False,False
+A-1479002,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2020,8,Friday,Storm,False,False,False,False,False,False,False
+A-1480863,AL,Limestone,Tanner,Source2,3,34.604336,-86.898338,2020,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1482332,AL,Limestone,Madison,Source2,3,34.634571,-86.860809,2020,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1482334,AL,Limestone,Madison,Source2,3,34.641113,-86.84387199999998,2020,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1484905,AL,Limestone,Tanner,Source2,3,34.725056,-86.93448599999998,2020,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1486436,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2020,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1487961,AL,Limestone,Tanner,Source2,3,34.631649,-86.901398,2020,12,Wednesday,Rain,False,False,False,False,False,False,False
+A-1491946,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2020,15,Saturday,Rain,False,False,False,False,False,False,False
+A-1495077,AL,Limestone,Elkmont,Source2,3,34.891758,-86.914162,2020,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1495900,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2020,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-1499910,AL,Limestone,Madison,Source2,3,34.641113,-86.84387199999998,2020,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1499956,AL,Limestone,Elkmont,Source2,3,34.91943,-86.906723,2020,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1514949,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2020,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1517091,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2020,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1520242,AL,Limestone,Tanner,Source2,3,34.629902,-86.89224200000002,2020,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1522153,AL,Limestone,Madison,Source2,3,34.641113,-86.84387199999998,2020,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1522170,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2020,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1526058,AL,Limestone,Ardmore,Source2,3,34.9729,-86.88324,2020,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1527983,AL,Limestone,Madison,Source2,3,34.641113,-86.84387199999998,2020,4,Friday,Rain,False,False,False,False,False,False,False
+A-1540132,AL,Limestone,Athens,Source2,3,34.730934000000005,-86.936447,2020,6,Tuesday,Storm,False,False,False,False,False,False,False
+A-1540134,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2020,6,Tuesday,Rain,False,False,False,False,False,False,False
+A-1542247,AL,Limestone,Athens,Source2,3,34.812695,-86.938911,2020,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1561504,AL,Limestone,Athens,Source2,3,34.828018,-86.939423,2020,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1565162,AL,Limestone,Madison,Source2,3,34.641113,-86.84387199999998,2020,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-1566964,AL,Limestone,Madison,Source2,3,34.658142,-86.798416,2020,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-1574303,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2020,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1574353,AL,Limestone,Athens,Source2,3,34.76749,-86.894951,2020,22,Tuesday,Cloudy,False,False,False,True,False,False,False
+A-1579619,AL,Limestone,Madison,Source2,3,34.641113,-86.84387199999998,2020,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1581881,AL,Limestone,Madison,Source2,3,34.661339,-86.788002,2020,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1586170,AL,Limestone,Tanner,Source2,3,34.659275,-86.914146,2020,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1591850,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2020,5,Tuesday,Storm,False,False,False,False,False,False,False
+A-1591875,AL,Limestone,Madison,Source2,3,34.631015999999995,-86.878624,2020,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1591939,AL,Limestone,Tanner,Source2,3,34.730324,-86.93596600000002,2020,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1598981,AL,Limestone,Madison,Source2,3,34.631916,-86.867805,2020,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-1598990,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2020,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-1602136,AL,Limestone,Madison,Source2,3,34.640587,-86.84494000000002,2020,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-1604205,AL,Limestone,Madison,Source2,3,34.661098,-86.787918,2020,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1604209,AL,Limestone,Madison,Source2,3,34.639851,-86.84689300000002,2020,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1604218,AL,Limestone,Tanner,Source2,3,34.729412,-86.93566899999998,2020,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1604221,AL,Limestone,Tanner,Source2,3,34.716728,-86.956329,2020,19,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-1614488,AL,Limestone,Madison,Source2,3,34.642525,-86.84026300000002,2020,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1616553,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2020,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1616598,AL,Limestone,Madison,Source2,3,34.640324,-86.84563399999998,2020,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1616614,AL,Limestone,Madison,Source2,3,34.630878,-86.87254300000002,2020,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1618757,AL,Limestone,Athens,Source2,3,34.841159999999995,-86.97319,2020,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1620745,AL,Limestone,Madison,Source2,3,34.639465,-86.84835799999998,2020,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1620752,AL,Limestone,Madison,Source2,3,34.660877,-86.789047,2020,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1622862,AL,Limestone,Athens,Source2,3,34.73077,-86.936157,2020,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1627802,AL,Limestone,Tanner,Source2,3,34.628372,-86.901054,2020,7,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-1627939,AL,Limestone,Madison,Source2,3,34.642059,-86.841072,2020,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1627949,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2020,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1630939,AL,Limestone,Tanner,Source2,3,34.628372,-86.901054,2020,19,Wednesday,Rain,False,False,True,False,False,False,False
+A-1630940,AL,Limestone,Madison,Source2,3,34.641113,-86.84387199999998,2020,19,Wednesday,Storm,False,False,False,False,False,False,False
+A-1633764,AL,Limestone,Madison,Source2,3,34.641113,-86.84387199999998,2020,8,Thursday,Rain,False,False,False,False,False,False,False
+A-1642535,AL,Limestone,Athens,Source2,3,34.828018,-86.939423,2020,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1647282,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2020,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1649762,AL,Limestone,Madison,Source2,3,34.640167,-86.84650400000002,2020,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1650861,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2020,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1655356,AL,Limestone,Madison,Source2,3,34.630936,-86.877434,2020,15,Tuesday,Rain,False,False,False,False,False,False,False
+A-1657476,AL,Limestone,Tanner,Source2,3,34.628372,-86.901054,2020,7,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-1657479,AL,Limestone,Madison,Source2,3,34.641113,-86.84387199999998,2020,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1661870,AL,Limestone,Madison,Source2,3,34.641113,-86.84387199999998,2020,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1665383,AL,Limestone,Madison,Source2,3,34.641113,-86.84387199999998,2020,6,Monday,Rain,False,False,False,False,False,False,False
+A-1665425,AL,Limestone,Tanner,Source2,3,34.628372,-86.901054,2020,10,Monday,Rain,False,False,True,False,False,False,False
+A-1665458,AL,Limestone,Tanner,Source2,3,34.629742,-86.893608,2020,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-1665464,AL,Limestone,Madison,Source2,3,34.642422,-86.840538,2020,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-1667445,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2020,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1667457,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2020,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1667468,AL,Limestone,Tanner,Source2,3,34.631363,-86.883362,2020,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1676235,AL,Limestone,Tanner,Source2,3,34.727615,-86.935066,2020,18,Thursday,Rain,False,False,False,False,False,False,False
+A-1681104,AL,Limestone,Elkmont,Source2,3,34.972469,-86.883728,2019,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1681105,AL,Limestone,Tanner,Source2,3,34.629448,-86.95018,2019,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-1684398,AL,Limestone,Madison,Source2,3,34.641113,-86.84387199999998,2019,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1684424,AL,Limestone,Madison,Source2,3,34.650085,-86.82022099999998,2019,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1694562,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2019,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1694614,AL,Limestone,Madison,Source2,3,34.638107,-86.85149399999996,2019,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1697165,AL,Limestone,Madison,Source2,3,34.649390999999994,-86.821625,2019,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1697169,AL,Limestone,Tanner,Source2,3,34.717571,-86.93199200000002,2019,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1697170,AL,Limestone,Tanner,Source2,3,34.717571,-86.93199200000002,2019,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1709630,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2019,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1709631,AL,Limestone,Madison,Source2,3,34.633831,-86.862755,2019,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1709634,AL,Limestone,Madison,Source2,3,34.630676,-86.873856,2019,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1709641,AL,Limestone,Madison,Source2,3,34.631786,-86.868576,2019,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1709651,AL,Limestone,Madison,Source2,3,34.632290000000005,-86.866814,2019,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1709694,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2019,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1716577,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2019,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1727429,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2019,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1727468,AL,Limestone,Tanner,Source2,3,34.612244,-86.89862099999998,2019,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1735711,AL,Limestone,Madison,Source2,3,34.640831,-86.844749,2019,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1735714,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2019,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1735727,AL,Limestone,Madison,Source2,4,34.661671000000005,-86.787186,2019,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1738642,AL,Limestone,Tanner,Source2,3,34.730659,-86.935936,2019,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-1738649,AL,Limestone,Madison,Source2,3,34.641083,-86.843811,2019,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-1741245,AL,Limestone,Tanner,Source2,3,34.628372,-86.901054,2019,7,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-1741250,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2019,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1741268,AL,Limestone,Elkmont,Source2,3,34.902885,-86.905991,2019,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1741272,AL,Limestone,Madison,Source2,3,34.640759,-86.84449000000002,2019,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1743868,AL,Limestone,Madison,Source2,3,34.641144,-86.84348299999998,2019,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1743898,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2019,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1749027,AL,Limestone,Elkmont,Source2,3,34.919945,-86.906975,2019,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-1749039,AL,Limestone,Athens,Source2,3,34.863926,-86.925156,2019,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1750255,AL,Limestone,Madison,Source2,3,34.641113,-86.84387199999998,2019,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1753138,AL,Limestone,Tanner,Source2,3,34.727428,-86.935005,2019,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-1755719,AL,Limestone,Madison,Source2,3,34.658142,-86.798416,2019,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1758593,AL,Limestone,Tanner,Source2,3,34.629993,-86.891998,2019,7,Wednesday,Rain,False,False,False,False,False,False,False
+A-1761252,AL,Limestone,Madison,Source2,3,34.641113,-86.84387199999998,2019,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1763805,AL,Limestone,Tanner,Source2,3,34.624283,-86.90080999999998,2019,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1763813,AL,Limestone,Madison,Source2,3,34.631851,-86.868408,2019,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1768020,AL,Limestone,Elkmont,Source2,3,34.918953,-86.907043,2019,16,Monday,Rain,False,False,False,False,False,False,False
+A-1768032,AL,Limestone,Athens,Source2,3,34.73077,-86.936157,2019,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-1770818,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2019,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1773491,AL,Limestone,Tanner,Source2,3,34.610413,-86.898399,2019,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1773497,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2019,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1787911,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2019,6,Wednesday,Rain,False,False,False,False,False,False,False
+A-1787960,AL,Limestone,Tanner,Source2,3,34.631439,-86.88595600000002,2019,8,Wednesday,Rain,False,False,False,False,False,False,False
+A-1787997,AL,Limestone,Athens,Source2,3,34.812141,-86.938637,2019,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1793366,AL,Limestone,Madison,Source2,3,34.641113,-86.84387199999998,2019,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1793381,AL,Limestone,Tanner,Source2,3,34.66711,-86.91780899999998,2019,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1795214,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2019,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1797140,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2019,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-1799717,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2019,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1802501,AL,Limestone,Madison,Source2,3,34.630825,-86.871269,2019,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1802530,AL,Limestone,Athens,Source2,3,34.73077,-86.936157,2019,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1805438,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2019,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1805470,AL,Limestone,Madison,Source2,3,34.641068,-86.843681,2019,17,Thursday,Rain,False,False,False,False,False,False,False
+A-1805478,AL,Limestone,Tanner,Source2,3,34.631344,-86.883095,2019,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1805479,AL,Limestone,Madison,Source2,3,34.641113,-86.84387199999998,2019,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1808242,AL,Limestone,Madison,Source2,3,34.641239,-86.843666,2019,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1808251,AL,Limestone,Elkmont,Source2,3,34.919945,-86.906975,2019,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1812463,AL,Limestone,Athens,Source2,3,34.782070000000004,-86.936577,2019,16,Monday,Rain,True,False,False,False,False,False,False
+A-1815296,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2019,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1815310,AL,Limestone,Madison,Source2,3,34.641113,-86.84387199999998,2019,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1815398,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2019,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1821177,AL,Limestone,Madison,Source2,3,34.641113,-86.84387199999998,2019,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1821230,AL,Limestone,Madison,Source2,3,34.643112,-86.83871500000002,2019,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1824304,AL,Limestone,Madison,Source2,3,34.631184000000005,-86.87996700000002,2019,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-1828393,AL,Limestone,Tanner,Source2,3,34.628372,-86.901054,2019,15,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-1830877,AL,Limestone,Tanner,Source2,3,34.666351,-86.91744200000002,2019,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1833656,AL,Limestone,Madison,Source2,3,34.660103,-86.790649,2019,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1833658,AL,Limestone,Madison,Source2,3,34.640865000000005,-86.844658,2019,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1836506,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2019,17,Thursday,Rain,False,False,False,False,False,False,False
+A-1839490,AL,Limestone,Madison,Source2,3,34.658142,-86.798416,2019,16,Friday,Rain,False,False,False,False,False,False,False
+A-1840765,AL,Limestone,Tanner,Source2,3,34.628372,-86.901054,2019,7,Saturday,Cloudy,False,False,True,False,False,False,False
+A-1840766,AL,Limestone,Madison,Source2,3,34.641113,-86.84387199999998,2019,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1840787,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2019,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1841558,AL,Limestone,Tanner,Source2,3,34.631446999999994,-86.885048,2019,8,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1841559,AL,Limestone,Madison,Source2,3,34.640762,-86.844482,2019,9,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1846306,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2019,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1848872,AL,Limestone,Ardmore,Source2,3,34.9729,-86.88324,2019,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1854960,AL,Limestone,Tanner,Source2,3,34.628372,-86.901054,2019,19,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-1857274,AL,Limestone,Tanner,Source2,3,34.62875,-86.90316800000002,2019,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1859696,AL,Limestone,Madison,Source2,3,34.641083,-86.843811,2019,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1864837,AL,Limestone,Tanner,Source2,3,34.619869,-86.899979,2019,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1864849,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2019,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1868504,AL,Limestone,Tanner,Source2,3,34.721569,-86.956772,2019,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1870893,AL,Limestone,Madison,Source2,3,34.645466,-86.832474,2019,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-1872112,AL,Limestone,Madison,Source2,3,34.657227,-86.800285,2019,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1872902,AL,Limestone,Madison,Source2,3,34.657227,-86.800285,2019,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1879838,AL,Limestone,Tanner,Source2,3,34.628372,-86.901054,2019,10,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-1879842,AL,Limestone,Madison,Source2,3,34.641083,-86.843811,2019,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1879845,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2019,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1892811,AL,Limestone,Tanner,Source2,3,34.616814,-86.96893299999998,2019,8,Wednesday,Clear / Fair,False,False,False,True,False,False,False
+A-1895180,AL,Limestone,Elkmont,Source2,3,34.902840000000005,-87.08386999999998,2019,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1895242,AL,Limestone,Madison,Source2,3,34.641441,-86.84314,2019,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1895243,AL,Limestone,Madison,Source2,3,34.641441,-86.84314,2019,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1901521,AL,Limestone,Madison,Source2,3,34.641083,-86.843811,2019,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1904033,AL,Limestone,Tanner,Source2,3,34.678653999999995,-86.922104,2019,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1909029,AL,Limestone,Elkmont,Source2,3,34.890598,-86.91510799999998,2019,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1913298,AL,Limestone,Tanner,Source2,3,34.631165,-86.88003499999998,2019,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1913303,AL,Limestone,Tanner,Source2,3,34.631165,-86.88003499999998,2019,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1921348,AL,Limestone,Madison,Source2,3,34.641083,-86.843811,2019,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1930766,AL,Limestone,Madison,Source2,3,34.645176,-86.833244,2019,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-1930771,AL,Limestone,Madison,Source2,3,34.657227,-86.800285,2019,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1933796,AL,Limestone,Madison,Source2,3,34.657188,-86.799873,2019,8,Monday,Rain,False,False,False,False,False,False,False
+A-1936248,AL,Limestone,Madison,Source2,3,34.641083,-86.843811,2019,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1936260,AL,Limestone,Tanner,Source2,3,34.690853000000004,-86.926186,2019,15,Tuesday,Storm,False,False,False,False,False,False,False
+A-1941137,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2019,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1943548,AL,Limestone,Tanner,Source2,3,34.631165,-86.88003499999998,2019,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1945749,AL,Limestone,Madison,Source2,3,34.641083,-86.843811,2019,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1954048,AL,Limestone,Madison,Source2,3,34.641083,-86.843811,2019,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1956403,AL,Limestone,Madison,Source2,3,34.641083,-86.843811,2019,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-1956449,AL,Limestone,Tanner,Source2,3,34.631165,-86.88003499999998,2019,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1960576,AL,Limestone,Madison,Source2,3,34.641083,-86.843811,2019,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1962718,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2019,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1962755,AL,Limestone,Madison,Source2,3,34.641075,-86.84365799999998,2019,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1964837,AL,Limestone,Madison,Source2,3,34.641083,-86.843811,2019,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-1965992,AL,Limestone,Tanner,Source2,3,34.631165,-86.88003499999998,2019,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1968530,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2019,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-1972963,AL,Limestone,Tanner,Source2,3,34.625687,-86.90106999999998,2019,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1972966,AL,Limestone,Madison,Source2,3,34.641563,-86.842392,2019,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1978701,AL,Limestone,Madison,Source2,3,34.641102000000004,-86.84359,2019,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1983425,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2019,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1985606,AL,Limestone,Madison,Source2,3,34.641083,-86.843811,2019,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1985628,AL,Limestone,Elkmont,Source2,3,34.919945,-86.906975,2019,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1995526,AL,Limestone,Athens,Source2,3,34.828018,-86.939423,2019,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1999829,AL,Limestone,Tanner,Source2,3,34.629448,-86.95018,2019,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1999845,AL,Limestone,Madison,Source2,3,34.657227,-86.800285,2019,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2002047,AL,Limestone,Athens,Source2,3,34.783092,-86.93959,2019,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2002102,AL,Limestone,Madison,Source2,3,34.641083,-86.843811,2019,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2007831,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2019,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2007854,AL,Limestone,Tanner,Source2,3,34.628372,-86.901054,2019,15,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-2010137,AL,Limestone,Ardmore,Source2,3,34.9729,-86.88324,2019,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2018382,AL,Limestone,Madison,Source2,3,34.641083,-86.843811,2019,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2025576,AL,Limestone,Tanner,Source2,3,34.628372,-86.901054,2019,7,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-2035005,AL,Limestone,Madison,Source2,3,34.74818,-86.790405,2019,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2037265,AL,Limestone,Madison,Source2,3,34.641083,-86.843811,2019,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2043369,AL,Limestone,Madison,Source2,3,34.641083,-86.843811,2019,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2043388,AL,Limestone,Madison,Source2,3,34.641083,-86.843811,2019,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2045673,AL,Limestone,Athens,Source2,3,34.781334,-86.930489,2019,19,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-2050282,AL,Limestone,Tanner,Source2,3,34.631165,-86.88003499999998,2019,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2052456,AL,Limestone,Tanner,Source2,3,34.631165,-86.88003499999998,2019,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2053673,AL,Limestone,Tanner,Source2,3,34.628372,-86.901054,2019,10,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-2056384,AL,Limestone,Tanner,Source2,3,34.719398,-86.932602,2019,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2058760,AL,Limestone,Ardmore,Source2,3,34.962631,-86.82713299999998,2019,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2063389,AL,Limestone,Madison,Source2,3,34.641083,-86.843811,2019,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2065789,AL,Limestone,Tanner,Source2,3,34.631378000000005,-86.883606,2019,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2066916,AL,Limestone,Madison,Source2,3,34.641754,-86.842308,2019,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2071646,AL,Limestone,Madison,Source2,3,34.655784999999995,-86.804428,2019,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2075872,AL,Limestone,Tanner,Source3,3,34.631439,-86.88587199999998,2019,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2078038,AL,Limestone,Tanner,Source2,3,34.631165,-86.88003499999998,2019,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2078083,AL,Limestone,Tanner,Source2,3,34.628372,-86.901054,2019,15,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-2081913,AL,Limestone,Athens,Source2,3,34.783089000000004,-86.939926,2019,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2086377,AL,Limestone,Madison,Source2,3,34.63615,-86.856651,2019,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-2088656,AL,Limestone,Athens,Source2,3,34.831146000000004,-86.938499,2019,17,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-2096804,AL,Limestone,Tanner,Source2,3,34.631165,-86.88003499999998,2019,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2099371,AL,Limestone,Athens,Source2,3,34.783089000000004,-86.939926,2019,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-2106313,AL,Limestone,Tanner,Source2,3,34.714443,-86.930977,2019,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2117963,AL,Limestone,Tanner,Source2,3,34.730659,-86.935936,2019,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2120273,AL,Limestone,Tanner,Source2,3,34.628372,-86.901054,2019,6,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-2120331,AL,Limestone,Ardmore,Source2,3,34.9729,-86.88324,2019,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2120348,AL,Limestone,Madison,Source2,3,34.657227,-86.800285,2019,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2122537,AL,Limestone,Madison,Source2,3,34.657227,-86.800285,2019,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2129733,AL,Limestone,Tanner,Source2,3,34.628372,-86.901054,2019,6,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-2129790,AL,Limestone,Madison,Source2,3,34.641193,-86.843788,2019,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2132007,AL,Limestone,Madison,Source2,3,34.641083,-86.843811,2019,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2132014,AL,Limestone,Madison,Source2,3,34.638592,-86.850227,2019,12,Thursday,Cloudy,False,False,True,False,False,False,False
+A-2136740,AL,Limestone,Athens,Source2,3,34.861534000000006,-86.925987,2019,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2139061,AL,Limestone,Tanner,Source2,3,34.628372,-86.901054,2019,12,Thursday,Cloudy,False,False,True,False,False,False,False
+A-2139065,AL,Limestone,Tanner,Source2,3,34.623321999999995,-86.900627,2019,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2141490,AL,Limestone,Madison,Source2,3,34.641083,-86.843811,2019,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2141497,AL,Limestone,Madison,Source2,3,34.641083,-86.843811,2019,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2141504,AL,Limestone,Tanner,Source2,3,34.631165,-86.88003499999998,2019,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2143827,AL,Limestone,Tanner,Source2,3,34.630524,-86.880264,2019,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2146254,AL,Limestone,Madison,Source2,3,34.660816,-86.791679,2019,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2148609,AL,Limestone,Tanner,Source2,3,34.630524,-86.880264,2019,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2148689,AL,Limestone,Madison,Source2,3,34.660816,-86.791679,2019,17,Thursday,Rain,False,False,False,False,False,False,False
+A-2155174,AL,Limestone,Tanner,Source2,3,34.628223,-86.900772,2019,11,Monday,Rain,False,False,False,False,False,False,False
+A-2164964,AL,Limestone,Tanner,Source2,3,34.630524,-86.880264,2019,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-2165001,AL,Limestone,Madison,Source2,3,34.660816,-86.791679,2019,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2166273,AL,Limestone,Madison,Source2,3,34.660816,-86.791679,2019,8,Saturday,Rain,False,False,False,False,False,False,False
+A-2166291,AL,Limestone,Tanner,Source2,3,34.630524,-86.880264,2019,21,Saturday,Rain,False,False,False,False,False,False,False
+A-2171099,AL,Limestone,Madison,Source2,3,34.641083,-86.843811,2019,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2173361,AL,Limestone,Madison,Source2,3,34.641083,-86.843811,2019,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2173443,AL,Limestone,Madison,Source2,3,34.641083,-86.843811,2019,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2175677,AL,Limestone,Madison,Source2,3,34.641712,-86.843903,2019,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2178033,AL,Limestone,Tanner,Source2,3,34.628372,-86.901054,2019,17,Friday,Rain,False,False,True,False,False,False,False
+A-2186228,AL,Limestone,Athens,Source2,3,34.783089000000004,-86.939926,2019,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2186267,AL,Limestone,Madison,Source2,3,34.660358,-86.787888,2019,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2186284,AL,Limestone,Tanner,Source2,3,34.631451,-86.885162,2019,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2186285,AL,Limestone,Tanner,Source2,3,34.631451,-86.885162,2019,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2190987,AL,Limestone,Athens,Source2,3,34.814983000000005,-86.93866,2019,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2202292,AL,Limestone,Madison,Source2,3,34.660816,-86.791679,2019,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2202293,AL,Limestone,Athens,Source2,3,34.782799,-86.93960600000004,2019,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2204734,AL,Limestone,Tanner,Source2,3,34.630524,-86.880264,2019,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2204757,AL,Limestone,Madison,Source2,3,34.660816,-86.791679,2019,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2209622,AL,Limestone,Madison,Source2,3,34.660816,-86.791679,2019,18,Friday,Rain,False,False,False,False,False,False,False
+A-2213183,AL,Limestone,Tanner,Source2,3,34.630524,-86.880264,2019,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-2217488,AL,Limestone,Madison,Source2,3,34.660816,-86.791679,2019,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2221616,AL,Limestone,Athens,Source2,3,34.795208,-86.939262,2019,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2221646,AL,Limestone,Tanner,Source2,3,34.630524,-86.880264,2019,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2221650,AL,Limestone,Tanner,Source2,3,34.730118,-86.93755300000002,2019,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2232051,AL,Limestone,Madison,Source2,3,34.660816,-86.791679,2019,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2238125,AL,Limestone,Madison,Source2,3,34.660816,-86.791679,2019,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-2240352,AL,Limestone,Madison,Source2,3,34.660816,-86.791679,2019,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2240355,AL,Limestone,Madison,Source2,3,34.642128,-86.84227800000002,2019,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2242613,AL,Limestone,Madison,Source2,3,34.641003000000005,-86.843849,2019,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2242636,AL,Limestone,Athens,Source2,3,34.731152,-86.936134,2019,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2242659,AL,Limestone,Madison,Source2,3,34.660816,-86.791679,2019,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2244814,AL,Limestone,Madison,Source2,3,34.640091,-86.845238,2019,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2244821,AL,Limestone,Madison,Source2,3,34.640091,-86.845238,2019,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2244865,AL,Limestone,Madison,Source2,3,34.660816,-86.791679,2019,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2244875,AL,Limestone,Madison,Source2,3,34.660816,-86.791679,2019,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2247072,AL,Limestone,Athens,Source2,3,34.731152,-86.936134,2019,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2247077,AL,Limestone,Madison,Source2,3,34.641125,-86.843979,2019,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2253300,AL,Limestone,Madison,Source2,3,34.661427,-86.787132,2019,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2253323,AL,Limestone,Madison,Source2,3,34.642128,-86.84227800000002,2019,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-2256240,AL,Limestone,Madison,Source2,3,34.66164000000001,-86.78726999999998,2019,17,Thursday,Cloudy,False,False,True,False,False,False,False
+A-2256253,AL,Limestone,Madison,Source2,3,34.660816,-86.791679,2019,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2259274,AL,Limestone,Madison,Source2,3,34.634499,-86.861008,2019,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-2263124,AL,Limestone,Madison,Source2,3,34.630661,-86.873192,2019,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-2271284,AL,Limestone,Madison,Source2,3,34.642128,-86.84227800000002,2019,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2277918,AL,Limestone,Madison,Source2,3,34.642128,-86.84227800000002,2019,19,Monday,Rain,False,False,False,False,False,False,False
+A-2280796,AL,Limestone,Madison,Source2,3,34.642128,-86.84227800000002,2019,10,Tuesday,Rain,False,False,False,False,False,False,False
+A-2283408,AL,Limestone,Elkmont,Source2,3,34.902962,-86.905991,2019,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2286149,AL,Limestone,Madison,Source2,3,34.660816,-86.791679,2019,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2288679,AL,Limestone,Tanner,Source2,3,34.702663,-86.928421,2019,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-2294728,AL,Limestone,Tanner,Source2,3,34.630524,-86.880264,2019,10,Tuesday,Rain,False,False,False,False,False,False,False
+A-2294749,AL,Limestone,Tanner,Source2,3,34.627716,-86.899979,2019,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-2294758,AL,Limestone,Madison,Source2,3,34.660816,-86.791679,2019,17,Tuesday,Rain,False,False,False,False,False,False,False
+A-2299919,AL,Limestone,Athens,Source2,3,34.731152,-86.936134,2019,16,Thursday,Rain,False,False,False,False,False,False,False
+A-2302326,AL,Limestone,Madison,Source2,3,34.647568,-86.826462,2019,6,Friday,Rain,False,False,False,False,False,False,False
+A-2302341,AL,Limestone,Madison,Source2,3,34.661503,-86.78694200000002,2019,8,Friday,Rain,False,False,False,False,False,False,False
+A-2307979,AL,Limestone,Madison,Source2,3,34.657608,-86.797302,2019,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2310739,AL,Limestone,Madison,Source2,3,34.660816,-86.791679,2019,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2315975,AL,Limestone,Madison,Source2,3,34.660816,-86.791679,2019,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2316010,AL,Limestone,Madison,Source2,3,34.660816,-86.791679,2019,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2318372,AL,Limestone,Tanner,Source2,3,34.630524,-86.880264,2019,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-2327290,AL,Limestone,Madison,Source2,3,34.660816,-86.791679,2019,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2329660,AL,Limestone,Madison,Source2,3,34.640091,-86.845238,2019,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2332029,AL,Limestone,Tanner,Source2,3,34.628223,-86.900772,2019,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-2332030,AL,Limestone,Madison,Source2,3,34.631474,-86.87809,2019,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-2338286,AL,Limestone,Madison,Source2,3,34.660816,-86.791679,2019,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2340947,AL,Limestone,Madison,Source2,3,34.657391,-86.797394,2019,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2340953,AL,Limestone,Tanner,Source2,3,34.598372999999995,-86.899956,2019,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2341007,AL,Limestone,Madison,Source2,3,34.660816,-86.791679,2019,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2343475,AL,Limestone,Tanner,Source2,3,34.630524,-86.880264,2019,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2346022,AL,Limestone,Madison,Source2,3,34.655871999999995,-86.804825,2019,17,Friday,Cloudy,False,False,True,False,False,False,False
+A-2347345,AL,Limestone,Tanner,Source2,3,34.630524,-86.880264,2019,11,Saturday,Rain,False,False,False,False,False,False,False
+A-2352295,AL,Limestone,Tanner,Source2,3,34.628021000000004,-86.915688,2019,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2352384,AL,Limestone,Madison,Source2,3,34.660816,-86.791679,2019,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2355228,AL,Limestone,Madison,Source2,3,34.660816,-86.791679,2019,17,Wednesday,Rain,False,False,False,False,False,False,False
+A-2358079,AL,Limestone,Tanner,Source2,3,34.630524,-86.880264,2019,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2358116,AL,Limestone,Madison,Source2,3,34.640091,-86.845238,2019,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2358137,AL,Limestone,Madison,Source2,3,34.661667,-86.792702,2019,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2360864,AL,Limestone,Tanner,Source2,3,34.630524,-86.880264,2019,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2360884,AL,Limestone,Madison,Source2,3,34.660816,-86.791679,2019,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2372505,AL,Limestone,Madison,Source2,3,34.631336,-86.879906,2018,13,Friday,Rain,False,False,False,False,False,False,False
+A-2372543,AL,Limestone,Athens,Source2,3,34.730804,-86.936417,2018,17,Friday,Rain,False,False,False,False,False,False,False
+A-2376749,AL,Limestone,Madison,Source2,3,34.64114,-86.84393299999998,2018,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-2376751,AL,Limestone,Madison,Source2,3,34.631336,-86.879906,2018,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-2385512,AL,Limestone,Tanner,Source2,3,34.630524,-86.880264,2018,4,Friday,Rain,False,False,False,False,False,False,False
+A-2388827,AL,Limestone,Madison,Source2,3,34.659882,-86.790504,2018,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2391339,AL,Limestone,Tanner,Source2,3,34.630524,-86.880264,2018,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2391348,AL,Limestone,Tanner,Source2,3,34.628223,-86.900772,2018,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2391363,AL,Limestone,Madison,Source2,3,34.660816,-86.791679,2018,5,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2391446,AL,Limestone,Madison,Source2,3,34.660816,-86.791679,2018,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2393778,AL,Limestone,Madison,Source2,3,34.640091,-86.845238,2018,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2393796,AL,Limestone,Madison,Source2,3,34.634975,-86.859749,2018,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2398557,AL,Limestone,Madison,Source2,3,34.640091,-86.845238,2018,7,Friday,Rain,False,False,False,False,False,False,False
+A-2411148,AL,Limestone,Tanner,Source2,3,34.628223,-86.900772,2018,6,Friday,Rain,False,False,False,False,False,False,False
+A-2411170,AL,Limestone,Tanner,Source2,3,34.630524,-86.880264,2018,8,Friday,Rain,False,False,False,False,False,False,False
+A-2414291,AL,Limestone,Madison,Source2,3,34.660816,-86.791679,2018,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-2415781,AL,Limestone,Madison,Source2,3,34.660816,-86.791679,2018,21,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2417516,AL,Limestone,Madison,Source2,3,34.631252,-86.878731,2018,16,Thursday,Rain,False,False,False,False,False,False,False
+A-2419747,AL,Limestone,Tanner,Source2,3,34.631153000000005,-86.88063000000002,2018,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-2420768,AL,Limestone,Madison,Source2,3,34.660816,-86.791679,2018,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2429377,AL,Limestone,Tanner,Source2,3,34.627720000000004,-86.901489,2018,6,Friday,Rain,False,False,False,False,False,False,False
+A-2433943,AL,Limestone,Madison,Source2,3,34.631336,-86.879906,2018,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2443451,AL,Limestone,Madison,Source2,3,34.631336,-86.879906,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2456869,AL,Limestone,Madison,Source2,3,34.646595,-86.82905600000002,2018,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2460111,AL,Limestone,Madison,Source2,3,34.64114,-86.84393299999998,2018,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2460143,AL,Limestone,Tanner,Source2,3,34.684635,-86.924187,2018,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2462903,AL,Limestone,Madison,Source2,3,34.661308,-86.787415,2018,7,Friday,Cloudy,False,False,True,False,False,False,False
+A-2467239,AL,Limestone,Athens,Source2,3,34.828373,-86.93875899999998,2018,18,Monday,Rain,False,False,False,False,False,False,False
+A-2467247,AL,Limestone,Madison,Source2,3,34.631336,-86.879906,2018,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-2467250,AL,Limestone,Madison,Source2,3,34.631336,-86.879906,2018,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-2472723,AL,Limestone,Madison,Source2,3,34.631336,-86.879906,2018,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2480408,AL,Limestone,Madison,Source2,3,34.64114,-86.84393299999998,2018,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-2486556,AL,Limestone,Madison,Source2,3,34.64114,-86.84393299999998,2018,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2486560,AL,Limestone,Madison,Source2,3,34.64114,-86.84393299999998,2018,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2501777,AL,Limestone,Madison,Source2,3,34.64114,-86.84393299999998,2018,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-2519229,AL,Limestone,Athens,Source2,3,34.782864000000004,-86.939613,2018,18,Monday,Rain,False,False,False,False,False,False,False
+A-2522141,AL,Limestone,Elkmont,Source2,3,34.972885,-86.88323199999998,2018,17,Tuesday,Rain,False,False,False,False,False,False,False
+A-2551701,AL,Limestone,Madison,Source2,3,34.64114,-86.84393299999998,2018,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-2565223,AL,Limestone,Tanner,Source2,3,34.627720000000004,-86.901489,2018,11,Wednesday,Rain,False,False,False,False,False,False,False
+A-2577468,AL,Limestone,Madison,Source2,3,34.631336,-86.879906,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2580205,AL,Limestone,Tanner,Source2,3,34.627720000000004,-86.901489,2018,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2589328,AL,Limestone,Madison,Source2,3,34.64114,-86.84393299999998,2018,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-2589369,AL,Limestone,Madison,Source2,3,34.631336,-86.879906,2018,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-2591827,AL,Limestone,Madison,Source2,3,34.631336,-86.879906,2018,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2594257,AL,Limestone,Madison,Source2,3,34.631046000000005,-86.87915,2018,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2606506,AL,Limestone,Athens,Source2,3,34.828373,-86.93875899999998,2018,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-2609353,AL,Limestone,Elkmont,Source2,3,34.972885,-86.88323199999998,2018,12,Wednesday,Rain,False,False,False,False,False,False,False
+A-2609361,AL,Limestone,Elkmont,Source2,3,34.972885,-86.88323199999998,2018,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2622805,AL,Limestone,Madison,Source2,3,34.64114,-86.84393299999998,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2629158,AL,Limestone,Tanner,Source2,3,34.627724,-86.901703,2018,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2631695,AL,Limestone,Tanner,Source2,3,34.627720000000004,-86.901489,2018,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2636705,AL,Limestone,Tanner,Source2,3,34.627720000000004,-86.901489,2018,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2636706,AL,Limestone,Tanner,Source2,3,34.627720000000004,-86.901489,2018,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2653341,AL,Limestone,Tanner,Source2,3,34.627720000000004,-86.901489,2018,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-2657349,AL,Limestone,Madison,Source2,3,34.74892,-86.796234,2018,17,Monday,Cloudy,False,False,False,True,False,False,False
+A-2659875,AL,Limestone,Madison,Source2,3,34.631336,-86.879906,2018,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2659937,AL,Limestone,Madison,Source2,3,34.64114,-86.84393299999998,2018,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2671032,AL,Limestone,Tanner,Source2,3,34.627720000000004,-86.901489,2018,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-2671033,AL,Limestone,Tanner,Source2,3,34.627720000000004,-86.901489,2018,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-2678882,AL,Limestone,Madison,Source2,3,34.64114,-86.84393299999998,2018,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2724038,AL,Limestone,Tanner,Source2,3,34.588509,-86.903717,2018,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2726259,AL,Limestone,Elkmont,Source2,4,34.919945,-86.906418,2018,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2728680,AL,Limestone,Tanner,Source2,3,34.627720000000004,-86.901489,2018,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2728684,AL,Limestone,Madison,Source2,3,34.631336,-86.879906,2018,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2732311,AL,Limestone,Madison,Source2,3,34.64114,-86.84393299999998,2018,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-2770832,AL,Limestone,Tanner,Source2,3,34.627720000000004,-86.901489,2018,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2786236,AL,Limestone,Madison,Source2,3,34.64114,-86.84393299999998,2018,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2858161,AL,Limestone,Athens,Source2,3,34.828373,-86.93875899999998,2018,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2869940,AL,Limestone,Madison,Source2,3,34.64114,-86.84393299999998,2018,5,Friday,Rain,False,False,False,False,False,False,False
+A-2870003,AL,Limestone,Tanner,Source2,3,34.627720000000004,-86.901489,2018,16,Friday,Rain,False,False,False,False,False,False,False
+A-2870006,AL,Limestone,Tanner,Source2,3,34.642593,-86.905426,2018,16,Friday,Rain,False,False,False,False,False,False,False
+A-2870011,AL,Limestone,Tanner,Source2,3,34.65730300000001,-86.912865,2018,17,Friday,Rain,False,False,False,False,False,False,False
+A-2870012,AL,Limestone,Tanner,Source2,3,34.627720000000004,-86.901489,2018,17,Friday,Rain,False,False,False,False,False,False,False
+A-2935802,AL,Limestone,Tanner,Source2,3,34.627720000000004,-86.901489,2018,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2935803,AL,Limestone,Athens,Source2,3,34.730804,-86.936417,2018,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2966118,AL,Limestone,Athens,Source2,3,34.828373,-86.93875899999998,2018,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2979501,AL,Limestone,Athens,Source2,3,34.828373,-86.93875899999998,2018,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-3041625,AL,Limestone,Tanner,Source2,3,34.627029,-86.90136,2018,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3070659,AL,Limestone,Tanner,Source2,3,34.627857,-86.901619,2018,10,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3218499,AL,Limestone,Tanner,Source2,3,34.627720000000004,-86.901489,2017,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-3226916,AL,Limestone,Athens,Source2,3,34.828373,-86.93875899999998,2017,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3349944,AL,Limestone,Tanner,Source2,3,34.629734,-86.89364599999998,2017,7,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-3471008,AL,Limestone,Tanner,Source1,3,34.62792,-86.910842,2016,8,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4026958,AL,Limestone,Athens,Source1,4,34.800206,-87.223771,2022,9,Monday,Sin dato,False,False,False,False,False,False,False
+A-4037884,AL,Limestone,Madison,Source1,4,34.63095545752224,-86.87455058056412,2022,16,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-4039324,AL,Limestone,Athens,Source1,4,34.834784,-87.020201,2022,16,Tuesday,Cloudy,False,False,False,True,False,False,False
+A-4124442,AL,Limestone,Madison,Source1,4,34.639773,-86.847539,2022,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4341403,AL,Limestone,Madison,Source1,4,34.599884748293874,-86.89967751461556,2022,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4517323,AL,Limestone,Athens,Source1,4,34.800119,-87.224141,2022,9,Monday,Sin dato,False,False,False,False,False,False,False
+A-4768814,AL,Limestone,Madison,Source1,4,34.65668320639297,-86.8025815482769,2022,3,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5184179,AL,Limestone,Elkmont,Source1,4,34.917111,-86.908177,2022,3,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5184180,AL,Limestone,Elkmont,Source1,4,34.969066999999995,-86.885209,2022,3,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-5606524,AL,Limestone,Athens,Source1,4,34.78594422323805,-86.93943858105213,2021,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5840723,AL,Limestone,Athens,Source1,4,34.831034,-86.938763,2021,8,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-6035092,AL,Limestone,Madison,Source1,4,34.751673,-86.82163299999998,2021,4,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6162430,AL,Limestone,Madison,Source1,4,34.64310049994161,-86.8383085723551,2021,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6240285,AL,Limestone,Madison,Source1,4,34.64219927771262,-86.90523505169438,2021,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7001216,AL,Limestone,Tanner,Source1,3,34.61903,-86.89981999999998,2020,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7004186,AL,Limestone,Madison,Source1,3,34.639140000000005,-86.84878,2020,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7014888,AL,Limestone,Tanner,Source1,3,34.62769,-86.90071999999998,2020,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7066152,AL,Limestone,Tanner,Source1,3,34.63145,-86.88516,2020,6,Monday,Sin dato,False,False,False,False,False,False,False
+A-7080939,AL,Limestone,Ardmore,Source1,3,34.9846,-86.8466,2020,8,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7097372,AL,Limestone,Madison,Source1,3,34.639140000000005,-86.84878,2020,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7112123,AL,Limestone,Ardmore,Source1,3,34.97532,-86.88172,2020,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7126153,AL,Limestone,Tanner,Source1,3,34.61905,-86.89956,2020,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-7126158,AL,Limestone,Tanner,Source1,3,34.61905,-86.89956,2020,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-7126179,AL,Limestone,Athens,Source1,3,34.77924,-86.94004,2020,8,Friday,Cloudy,False,False,True,False,False,False,False
+A-7126180,AL,Limestone,Tanner,Source1,3,34.61905,-86.89956,2020,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-7132059,AL,Limestone,Elkmont,Source1,3,34.91695,-86.90825,2020,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-7182997,AL,Limestone,Tanner,Source1,3,34.62769,-86.90071999999998,2020,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7277598,AL,Limestone,Ardmore,Source1,4,34.948190000000004,-86.78471,2020,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7287607,AL,Limestone,Madison,Source1,4,34.65548,-86.80544,2019,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7312627,AL,Limestone,Ardmore,Source1,4,34.99212,-86.87898,2019,5,Friday,Rain,False,False,False,False,False,False,False
+A-7472156,AL,Limestone,Tanner,Source1,4,34.678540000000005,-86.94981999999997,2019,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7488596,AL,Limestone,Madison,Source1,3,34.63092,-86.87431,2018,9,Friday,Rain,False,False,True,False,False,False,False
+A-7492003,AL,Limestone,Athens,Source1,3,34.79102,-87.07189,2018,11,Friday,Cloudy,False,False,False,True,False,False,False
+A-7500125,AL,Limestone,Tanner,Source1,4,34.62835,-86.95381,2018,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7503578,AL,Limestone,Madison,Source1,3,34.66175,-86.787,2018,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-7525148,AL,Limestone,Tanner,Source1,3,34.63254000000001,-86.90235,2018,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7541478,AL,Limestone,Ardmore,Source1,4,34.982398,-86.879829,2018,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7567209,AL,Limestone,Elkmont,Source1,4,34.95741,-86.89012,2018,16,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-7633612,AL,Limestone,Madison,Source1,3,34.64284,-86.83943000000002,2018,10,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-7633613,AL,Limestone,Madison,Source1,3,34.639140000000005,-86.84878,2018,10,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-7665004,AL,Limestone,Tanner,Source1,4,34.62364,-86.90016,2017,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7665005,AL,Limestone,Tanner,Source1,4,34.61905,-86.89956,2017,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False

@@ -1,0 +1,418 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-518873,PA,Lackawanna,Scranton,Source2,3,41.375519,-75.697769,2022,5,Friday,Clear / Fair,False,True,False,True,False,False,False
+A-521978,PA,Lackawanna,Clarks Summit,Source2,3,41.479778,-75.684952,2022,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-570726,PA,Lackawanna,Scranton,Source2,3,41.42131,-75.608917,2022,7,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-577472,PA,Lackawanna,Moosic,Source2,3,41.348568,-75.727188,2022,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-589300,PA,Lackawanna,Scranton,Source2,3,41.458549,-75.660561,2022,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-603199,PA,Lackawanna,Clarks Summit,Source2,3,41.482533,-75.68074,2022,16,Thursday,Cloudy,False,False,False,True,False,False,False
+A-607837,PA,Lackawanna,Lake Ariel,Source2,3,41.406162,-75.503777,2022,7,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-609853,PA,Lackawanna,Moosic,Source2,3,41.35648,-75.720787,2022,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-646186,PA,Lackawanna,Moscow,Source2,3,41.299725,-75.539497,2022,18,Monday,Rain,False,False,False,False,False,False,False
+A-648807,PA,Lackawanna,Scranton,Source2,3,41.421021,-75.608681,2022,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-664245,PA,Lackawanna,Moosic,Source2,3,41.367496,-75.692848,2022,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-674886,PA,Lackawanna,Scranton,Source2,3,41.39633900000001,-75.645889,2022,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-677867,PA,Lackawanna,Scranton,Source2,3,41.445206,-75.629402,2022,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-678915,PA,Lackawanna,Moscow,Source2,3,41.391518,-75.583496,2022,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-679358,PA,Lackawanna,Moosic,Source2,3,41.367367,-75.690567,2022,13,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-690166,PA,Lackawanna,Scranton,Source2,3,41.449749,-75.637901,2022,9,Thursday,Cloudy,False,False,True,False,False,False,False
+A-692362,PA,Lackawanna,Scranton,Source3,3,41.448689,-75.639107,2022,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-695502,PA,Lackawanna,Dalton,Source2,3,41.594311,-75.649986,2022,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-696304,PA,Lackawanna,Clarks Summit,Source2,3,41.482567,-75.68061800000002,2022,11,Friday,Cloudy,False,False,False,True,False,False,False
+A-699812,PA,Lackawanna,Moosic,Source2,3,41.371765,-75.68408199999998,2022,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-700950,PA,Lackawanna,Taylor,Source2,3,41.393642,-75.731262,2022,17,Tuesday,Rain,False,False,False,False,False,False,False
+A-703825,PA,Lackawanna,Scranton,Source2,3,41.449749,-75.637901,2022,13,Saturday,Cloudy,False,False,True,False,False,False,False
+A-707305,PA,Lackawanna,Moosic,Source2,3,41.367367,-75.690567,2022,22,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-711268,PA,Lackawanna,Moscow,Source2,3,41.31332800000001,-75.547127,2022,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-713053,PA,Lackawanna,Scranton,Source2,3,41.395771,-75.644867,2022,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-717885,PA,Lackawanna,Scranton,Source2,3,41.421284,-75.608932,2022,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-720518,PA,Lackawanna,Clarks Summit,Source2,3,41.482567,-75.68061800000002,2022,10,Sunday,Clear / Fair,False,False,False,True,False,False,False
+A-721499,PA,Lackawanna,Clarks Summit,Source2,3,41.500019,-75.677322,2022,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-721957,PA,Lackawanna,Scranton,Source2,3,41.431034,-75.622231,2022,9,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-723171,PA,Lackawanna,Moscow,Source2,3,41.392181,-75.545799,2022,15,Thursday,Rain,False,False,False,False,False,False,False
+A-736342,PA,Lackawanna,Scranton,Source3,3,41.374767,-75.670586,2022,18,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-747092,PA,Lackawanna,Moosic,Source2,3,41.356365,-75.71010600000002,2022,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-765185,PA,Lackawanna,Elmhurst Township,Source2,3,41.371647,-75.571465,2021,10,Saturday,Rain,False,False,False,False,False,False,False
+A-770632,PA,Lackawanna,Taylor,Source2,3,41.393841,-75.731712,2021,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-801810,PA,Lackawanna,Elmhurst Township,Source2,3,41.371647,-75.571465,2021,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-805471,PA,Lackawanna,Scranton,Source2,3,41.395496,-75.64733100000002,2021,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-805649,PA,Lackawanna,Moscow,Source2,3,41.385658,-75.553673,2021,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-808427,PA,Lackawanna,Scranton,Source2,3,41.427891,-75.61657,2021,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-808626,PA,Lackawanna,Scranton,Source2,3,41.457058,-75.660591,2021,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-816651,PA,Lackawanna,Taylor,Source2,3,41.393642,-75.731262,2021,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-820883,PA,Lackawanna,Scranton,Source3,3,41.449749,-75.637901,2021,12,Saturday,Rain,False,False,True,False,False,False,False
+A-822207,PA,Lackawanna,Moosic,Source2,3,41.356678,-75.720589,2021,10,Friday,Rain,False,False,False,False,False,False,False
+A-822687,PA,Lackawanna,Moosic,Source2,3,41.356678,-75.720589,2021,8,Friday,Rain,False,False,False,False,False,False,False
+A-856805,PA,Lackawanna,Factoryville,Source2,3,41.592827,-75.651138,2021,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-861138,PA,Lackawanna,Olyphant,Source2,3,41.577019,-75.654236,2021,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-861300,PA,Lackawanna,Moosic,Source2,3,41.372032,-75.682053,2021,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-872403,PA,Lackawanna,Pittston,Source2,3,41.35759,-75.71309699999998,2021,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-887682,PA,Lackawanna,Scranton,Source2,3,41.420967,-75.60778,2021,13,Thursday,Rain,False,False,False,False,False,False,False
+A-894982,PA,Lackawanna,Scranton,Source2,3,41.395496,-75.64733100000002,2021,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-908416,PA,Lackawanna,Clarks Summit,Source2,4,41.483982,-75.682106,2021,5,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-909065,PA,Lackawanna,Clarks Summit,Source2,3,41.479759,-75.68494399999999,2021,6,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-909289,PA,Lackawanna,Clarks Summit,Source2,3,41.479759,-75.68494399999999,2021,12,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-926419,PA,Lackawanna,Moosic,Source2,3,41.356678,-75.720589,2021,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-929957,PA,Lackawanna,Lake Ariel,Source2,4,41.406162,-75.503777,2021,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-933415,PA,Lackawanna,Pittston,Source2,3,41.35944,-75.703598,2021,21,Wednesday,Rain,False,False,False,False,False,False,False
+A-935375,PA,Lackawanna,Clarks Summit,Source2,3,41.479759,-75.68494399999999,2021,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-935865,PA,Lackawanna,Taylor,Source2,3,41.393642,-75.731262,2021,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-942745,PA,Lackawanna,Taylor,Source2,3,41.393642,-75.731262,2021,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-959953,PA,Lackawanna,Scranton,Source2,3,41.45583,-75.659622,2021,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-966453,PA,Lackawanna,Moosic,Source2,3,41.370766,-75.687263,2021,17,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-966502,PA,Lackawanna,Moosic,Source2,3,41.356678,-75.720589,2021,18,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-977454,PA,Lackawanna,Moosic,Source2,4,41.371765,-75.68408199999998,2021,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-992315,PA,Lackawanna,Moosic,Source2,3,41.356678,-75.720589,2021,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-999910,PA,Lackawanna,Scranton,Source2,3,41.421291,-75.60897800000002,2021,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1003336,PA,Lackawanna,Moosic,Source2,3,41.367367,-75.690567,2021,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1005014,PA,Lackawanna,Moosic,Source2,3,41.356281,-75.72081,2021,16,Monday,Storm,False,False,False,False,False,False,False
+A-1016961,PA,Lackawanna,Lake Ariel,Source2,3,41.406162,-75.503777,2021,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1020311,PA,Lackawanna,Clarks Summit,Source2,3,41.482567,-75.68061800000002,2021,14,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-1038638,PA,Lackawanna,Clarks Summit,Source2,3,41.482567,-75.68061800000002,2021,17,Wednesday,Clear / Fair,False,False,False,True,False,False,False
+A-1040225,PA,Lackawanna,Moosic,Source2,3,41.367367,-75.690567,2021,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1044588,PA,Lackawanna,Scranton,Source2,3,41.45591,-75.662041,2021,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1055565,PA,Lackawanna,Taylor,Source2,3,41.393642,-75.731262,2021,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1070934,PA,Lackawanna,Scranton,Source2,3,41.395496,-75.64733100000002,2021,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1083938,PA,Lackawanna,Scranton,Source2,3,41.42379,-75.609276,2021,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1087979,PA,Lackawanna,Scranton,Source2,3,41.40152,-75.58712,2021,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-1098471,PA,Lackawanna,Moosic,Source2,3,41.356678,-75.720589,2021,17,Wednesday,Rain,False,False,False,False,False,False,False
+A-1098481,PA,Lackawanna,Taylor,Source2,3,41.393642,-75.731262,2021,22,Wednesday,Rain,False,False,False,False,False,False,False
+A-1104053,PA,Lackawanna,Moosic,Source2,3,41.371765,-75.68408199999998,2021,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-1114294,PA,Lackawanna,Scranton,Source2,3,41.45591,-75.662041,2021,11,Thursday,Rain,False,False,False,False,False,False,False
+A-1141631,PA,Lackawanna,Elmhurst Township,Source2,3,41.371647,-75.571465,2021,12,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1145547,PA,Lackawanna,Olyphant,Source2,3,41.563175,-75.651062,2021,10,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1147200,PA,Lackawanna,Pittston,Source2,3,41.361519,-75.700455,2021,16,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1160335,PA,Lackawanna,Taylor,Source2,3,41.393642,-75.731262,2021,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1168177,PA,Lackawanna,Lake Ariel,Source2,3,41.406162,-75.503777,2021,4,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1169748,PA,Lackawanna,Olyphant,Source2,3,41.531658,-75.65254200000003,2021,10,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1172787,PA,Lackawanna,Scranton,Source2,4,41.45591,-75.662041,2021,1,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1174087,PA,Lackawanna,Moscow,Source2,3,41.372677,-75.573296,2021,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1174089,PA,Lackawanna,Lake Ariel,Source2,3,41.406162,-75.503777,2021,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1200044,PA,Lackawanna,Scranton,Source2,3,41.449749,-75.637901,2021,15,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1200073,PA,Lackawanna,Moosic,Source2,3,41.367367,-75.690567,2021,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1204073,PA,Lackawanna,Olyphant,Source2,3,41.531658,-75.65254200000003,2021,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1206816,PA,Lackawanna,Taylor,Source2,3,41.393642,-75.731262,2021,9,Sunday,Rain,False,False,False,False,False,False,False
+A-1206843,PA,Lackawanna,Scranton,Source2,3,41.449749,-75.637901,2021,16,Sunday,Rain,False,False,True,False,False,False,False
+A-1206855,PA,Lackawanna,Taylor,Source2,3,41.393642,-75.731262,2021,19,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1207707,PA,Lackawanna,Moosic,Source2,3,41.356678,-75.720589,2021,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1209759,PA,Lackawanna,Moscow,Source2,4,41.31332800000001,-75.547127,2020,23,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1214849,PA,Lackawanna,Moosic,Source2,3,41.356678,-75.720589,2020,9,Friday,Rain,False,False,False,False,False,False,False
+A-1215299,PA,Lackawanna,Taylor,Source2,3,41.393642,-75.731262,2020,11,Thursday,Rain,False,False,False,False,False,False,False
+A-1221834,PA,Lackawanna,Taylor,Source2,3,41.393642,-75.731262,2020,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1235890,PA,Lackawanna,Moosic,Source2,3,41.371765,-75.68408199999998,2020,10,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1235900,PA,Lackawanna,Olyphant,Source2,3,41.577019,-75.654236,2020,10,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1237494,PA,Lackawanna,Moosic,Source2,3,41.356678,-75.720589,2020,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1247618,PA,Lackawanna,Scranton,Source2,3,41.421291,-75.60897800000002,2020,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1260403,PA,Lackawanna,Scranton,Source2,3,41.421291,-75.60897800000002,2020,5,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1281199,PA,Lackawanna,Olyphant,Source2,4,41.577019,-75.654236,2020,2,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1284752,PA,Lackawanna,Olyphant,Source2,3,41.531658,-75.65254200000003,2020,7,Monday,Other,False,False,False,False,False,False,False
+A-1313182,PA,Lackawanna,Moosic,Source2,3,41.356678,-75.720589,2020,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1313202,PA,Lackawanna,Moosic,Source2,3,41.356678,-75.720589,2020,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1349965,PA,Lackawanna,Taylor,Source2,3,41.393642,-75.731262,2020,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1357135,PA,Lackawanna,Scranton,Source2,3,41.45591,-75.662041,2020,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-1360866,PA,Lackawanna,Moosic,Source2,3,41.356678,-75.720589,2020,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1385419,PA,Lackawanna,Clarks Summit,Source2,3,41.481979,-75.682953,2020,15,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-1385436,PA,Lackawanna,Clarks Summit,Source2,3,41.482391,-75.68132,2020,18,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-1386704,PA,Lackawanna,Scranton,Source2,3,41.39633900000001,-75.645889,2020,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1420053,PA,Lackawanna,Scranton,Source2,3,41.420132,-75.60797099999998,2020,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1424780,PA,Lackawanna,Moscow,Source2,3,41.31332800000001,-75.547127,2020,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1430807,PA,Lackawanna,Scranton,Source2,3,41.40152,-75.58712,2020,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1471604,PA,Lackawanna,Taylor,Source2,3,41.393642,-75.731262,2020,5,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1490217,PA,Lackawanna,Moosic,Source2,3,41.367367,-75.690567,2020,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-1511564,PA,Lackawanna,Scranton,Source2,3,41.408779,-75.65860699999998,2020,19,Wednesday,Rain,True,True,False,False,False,False,False
+A-1532956,PA,Lackawanna,Taylor,Source2,3,41.393642,-75.731262,2020,21,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1537996,PA,Lackawanna,Scranton,Source2,3,41.449749,-75.637901,2020,14,Monday,Rain,False,False,True,False,False,False,False
+A-1538000,PA,Lackawanna,Olyphant,Source2,3,41.531658,-75.65254200000003,2020,14,Monday,Rain,False,False,False,False,False,False,False
+A-1538028,PA,Lackawanna,Scranton,Source2,3,41.421291,-75.60897800000002,2020,16,Monday,Rain,False,False,False,False,False,False,False
+A-1539453,PA,Lackawanna,Clarks Summit,Source2,3,41.484921,-75.688828,2020,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1544741,PA,Lackawanna,Scranton,Source2,3,41.421291,-75.60897800000002,2020,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1554487,PA,Lackawanna,Moosic,Source2,3,41.356678,-75.720589,2020,18,Tuesday,Rain,False,False,False,False,False,False,False
+A-1576162,PA,Lackawanna,Moscow,Source2,3,41.31332800000001,-75.547127,2020,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-1576166,PA,Lackawanna,Moscow,Source2,3,41.31332800000001,-75.547127,2020,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-1576188,PA,Lackawanna,Olyphant,Source2,3,41.531658,-75.65254200000003,2020,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-1580590,PA,Lackawanna,Moosic,Source2,3,41.367367,-75.690567,2020,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1599882,PA,Lackawanna,Moscow,Source2,3,41.31332800000001,-75.547127,2020,15,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-1607360,PA,Lackawanna,Moscow,Source2,3,41.31332800000001,-75.547127,2020,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1632135,PA,Lackawanna,Scranton,Source2,3,41.456985,-75.660248,2020,23,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1637919,PA,Lackawanna,Scranton,Source2,3,41.449749,-75.637901,2020,9,Sunday,Cloudy,False,False,True,False,False,False,False
+A-1680075,PA,Lackawanna,Moosic,Source2,3,41.367367,-75.690567,2019,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-1686607,PA,Lackawanna,Archbald,Source2,3,41.49615900000001,-75.527733,2019,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1687778,PA,Lackawanna,Olyphant,Source2,3,41.553493,-75.65226700000002,2019,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-1708039,PA,Lackawanna,Elmhurst Township,Source2,3,41.371647,-75.571465,2019,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1723376,PA,Lackawanna,Scranton,Source2,4,41.392986,-75.651199,2019,13,Wednesday,Snow / Ice,True,False,False,False,False,False,False
+A-1731538,PA,Lackawanna,Scranton,Source2,3,41.392986,-75.651199,2019,10,Sunday,Fog / Low visibility,True,False,False,False,False,False,False
+A-1742333,PA,Lackawanna,Moosic,Source2,3,41.367367,-75.690567,2019,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1800880,PA,Lackawanna,Scranton,Source2,3,41.395496,-75.64733100000002,2019,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1810924,PA,Lackawanna,Moosic,Source2,3,41.354855,-75.722717,2019,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1822315,PA,Lackawanna,Clarks Summit,Source2,3,41.482567,-75.68061800000002,2019,14,Friday,Clear / Fair,False,False,False,True,False,False,False
+A-1826791,PA,Lackawanna,Scranton,Source2,3,41.395496,-75.64733100000002,2019,12,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1852511,PA,Lackawanna,Moosic,Source2,3,41.371765,-75.68408199999998,2019,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1860754,PA,Lackawanna,Moosic,Source2,3,41.371765,-75.68408199999998,2019,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1875894,PA,Lackawanna,Moosic,Source2,3,41.356678,-75.720589,2019,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1887615,PA,Lackawanna,Scranton,Source2,3,41.449749,-75.637901,2019,9,Monday,Cloudy,False,False,True,False,False,False,False
+A-1887640,PA,Lackawanna,Factoryville,Source2,3,41.592827,-75.651138,2019,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-1934704,PA,Lackawanna,Scranton,Source2,3,41.449749,-75.637901,2019,18,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-1955084,PA,Lackawanna,Olyphant,Source2,3,41.531658,-75.65254200000003,2019,6,Monday,Rain,False,False,False,False,False,False,False
+A-1959349,PA,Lackawanna,Scranton,Source2,3,41.421291,-75.60897800000002,2019,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1979077,PA,Lackawanna,Taylor,Source2,3,41.393642,-75.731262,2019,17,Sunday,Storm,False,False,False,False,False,False,False
+A-1979838,PA,Lackawanna,Scranton,Source2,3,41.393257,-75.651878,2019,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1996319,PA,Lackawanna,Moosic,Source2,3,41.356678,-75.720589,2019,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2011358,PA,Lackawanna,Moscow,Source2,4,41.313656,-75.547287,2019,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2026540,PA,Lackawanna,Moosic,Source2,3,41.367367,-75.690567,2019,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-2026544,PA,Lackawanna,Elmhurst Township,Source2,3,41.371777,-75.570885,2019,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-2028789,PA,Lackawanna,Scranton,Source2,3,41.39633900000001,-75.645889,2019,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2042060,PA,Lackawanna,Scranton,Source2,3,41.421291,-75.60897800000002,2019,15,Monday,Rain,False,False,False,False,False,False,False
+A-2046573,PA,Lackawanna,Scranton,Source2,3,41.395496,-75.64733100000002,2019,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2049001,PA,Lackawanna,Scranton,Source2,3,41.421291,-75.60897800000002,2019,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2054037,PA,Lackawanna,Taylor,Source2,3,41.393642,-75.731262,2019,20,Sunday,Rain,False,False,False,False,False,False,False
+A-2057203,PA,Lackawanna,Moosic,Source2,3,41.355618,-75.72189300000002,2019,8,Tuesday,Rain,False,False,False,False,False,False,False
+A-2068149,PA,Lackawanna,Moscow,Source2,3,41.371849,-75.44928,2019,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2082700,PA,Lackawanna,Moosic,Source2,3,41.367367,-75.690567,2019,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2116498,PA,Lackawanna,Moosic,Source2,3,41.355499,-75.7174,2019,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2128433,PA,Lackawanna,Scranton,Source2,3,41.45591,-75.662041,2019,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2142305,PA,Lackawanna,Moosic,Source2,3,41.366749,-75.69193299999998,2019,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2149565,PA,Lackawanna,Olyphant,Source2,3,41.553696,-75.652321,2019,14,Friday,Rain,False,False,False,False,False,False,False
+A-2176562,PA,Lackawanna,Moosic,Source2,3,41.371765,-75.68408199999998,2019,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-2176658,PA,Lackawanna,Moosic,Source2,3,41.367367,-75.690567,2019,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-2241184,PA,Lackawanna,Moscow,Source2,3,41.406681,-75.506027,2019,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2241215,PA,Lackawanna,Moosic,Source2,3,41.370895,-75.68689,2019,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2241216,PA,Lackawanna,Scranton,Source2,3,41.421024,-75.609039,2019,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2241219,PA,Lackawanna,Moosic,Source2,3,41.371754,-75.683762,2019,17,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-2241221,PA,Lackawanna,Moosic,Source2,3,41.366749,-75.69193299999998,2019,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2241222,PA,Lackawanna,Scranton,Source2,3,41.396065,-75.643936,2019,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2276183,PA,Lackawanna,Moosic,Source2,3,41.356144,-75.720871,2019,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-2278981,PA,Lackawanna,Scranton,Source2,3,41.42046,-75.609314,2019,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2284521,PA,Lackawanna,Moosic,Source2,3,41.356144,-75.720871,2019,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2287323,PA,Lackawanna,Scranton,Source2,3,41.449829,-75.637955,2019,17,Friday,Cloudy,False,False,True,False,False,False,False
+A-2291314,PA,Lackawanna,Scranton,Source2,3,41.413914,-75.599556,2019,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-2319997,PA,Lackawanna,Scranton,Source2,3,41.449829,-75.637955,2019,9,Sunday,Cloudy,False,False,True,False,False,False,False
+A-2321071,PA,Lackawanna,Scranton,Source2,3,41.449829,-75.637955,2019,17,Monday,Cloudy,False,False,True,False,False,False,False
+A-2347821,PA,Lackawanna,Clarks Summit,Source2,3,41.530727,-75.652672,2019,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2353490,PA,Lackawanna,Taylor,Source2,3,41.39426,-75.731476,2019,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2363182,PA,Lackawanna,Moscow,Source2,3,41.33559,-75.555611,2019,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2368575,PA,Lackawanna,Moosic,Source2,3,41.371754,-75.683762,2019,17,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-2370860,PA,Lackawanna,Moosic,Source2,3,41.357079,-75.721085,2018,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2383947,PA,Lackawanna,Moosic,Source2,3,41.370171,-75.68869000000002,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2389603,PA,Lackawanna,Olyphant,Source2,3,41.576881,-75.65412099999998,2018,17,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2400376,PA,Lackawanna,Dunmore,Source2,3,41.423149,-75.611946,2018,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-2405299,PA,Lackawanna,Scranton,Source2,3,41.395687,-75.646637,2018,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2421032,PA,Lackawanna,Scranton,Source2,3,41.413914,-75.599556,2018,8,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2427492,PA,Lackawanna,Scranton,Source2,3,41.396458,-75.645493,2018,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-2431963,PA,Lackawanna,Scranton,Source2,3,41.378899,-75.666321,2018,8,Monday,Rain,False,False,False,False,False,False,False
+A-2444744,PA,Lackawanna,Scranton,Source2,3,41.396481,-75.645401,2018,16,Friday,Rain,False,False,False,False,False,False,False
+A-2447832,PA,Lackawanna,Clarks Summit,Source2,3,41.482243,-75.680222,2018,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2458162,PA,Lackawanna,Scranton,Source2,3,41.430984,-75.622498,2018,20,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2477722,PA,Lackawanna,Moscow,Source2,3,41.372761,-75.574013,2018,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2515924,PA,Lackawanna,Scranton,Source2,3,41.393536,-75.65149699999998,2018,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2517430,PA,Lackawanna,Scranton,Source2,3,41.393536,-75.65149699999998,2018,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-2529237,PA,Lackawanna,Moscow,Source2,3,41.313919,-75.547028,2018,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2542187,PA,Lackawanna,Scranton,Source2,3,41.396458,-75.645493,2018,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2542189,PA,Lackawanna,Moosic,Source2,3,41.371635,-75.683929,2018,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2555692,PA,Lackawanna,Moosic,Source2,3,41.371635,-75.683929,2018,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-2555696,PA,Lackawanna,Moosic,Source2,3,41.356129,-75.721092,2018,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-2563688,PA,Lackawanna,Scranton,Source2,3,41.393536,-75.65149699999998,2018,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2563689,PA,Lackawanna,Scranton,Source2,3,41.456875,-75.660225,2018,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2572389,PA,Lackawanna,Scranton,Source2,3,41.393536,-75.65149699999998,2018,20,Sunday,Rain,False,False,False,False,False,False,False
+A-2573178,PA,Lackawanna,Taylor,Source2,3,41.394104,-75.731674,2018,7,Monday,Rain,False,False,False,False,False,False,False
+A-2586298,PA,Lackawanna,Moosic,Source2,3,41.356129,-75.721092,2018,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2588007,PA,Lackawanna,Lake Ariel,Source2,3,41.406952,-75.50544000000002,2018,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-2604823,PA,Lackawanna,Taylor,Source2,3,41.394104,-75.731674,2018,8,Tuesday,Rain,False,False,False,False,False,False,False
+A-2613133,PA,Lackawanna,Moscow,Source2,3,41.372761,-75.574013,2018,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-2613154,PA,Lackawanna,Moosic,Source2,3,41.371635,-75.683929,2018,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2623899,PA,Lackawanna,Moosic,Source2,3,41.371635,-75.683929,2018,16,Friday,Rain,False,False,False,False,False,False,False
+A-2635222,PA,Lackawanna,Moosic,Source2,3,41.356129,-75.721092,2018,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2635326,PA,Lackawanna,Moscow,Source2,3,41.372761,-75.574013,2018,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2644348,PA,Lackawanna,Scranton,Source2,3,41.413883,-75.60051,2018,10,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-2644349,PA,Lackawanna,Moscow,Source2,3,41.382137,-75.580261,2018,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2651867,PA,Lackawanna,Scranton,Source2,3,41.393536,-75.65149699999998,2018,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2672186,PA,Lackawanna,Moosic,Source2,3,41.356129,-75.721092,2018,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2720346,PA,Lackawanna,Taylor,Source2,3,41.394104,-75.731674,2018,20,Tuesday,Rain,False,False,False,False,False,False,False
+A-2725046,PA,Lackawanna,Taylor,Source2,3,41.394104,-75.731674,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2765134,PA,Lackawanna,Moosic,Source2,3,41.371635,-75.683929,2018,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2767120,PA,Lackawanna,Clarks Summit,Source2,3,41.482243,-75.680222,2018,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2779205,PA,Lackawanna,Scranton,Source2,3,41.449966,-75.638145,2018,12,Sunday,Cloudy,True,False,True,False,False,False,False
+A-2779208,PA,Lackawanna,Scranton,Source2,3,41.430984,-75.622498,2018,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2802571,PA,Lackawanna,Moscow,Source2,3,41.372761,-75.574013,2018,6,Friday,Rain,False,False,False,False,False,False,False
+A-2809037,PA,Lackawanna,Scranton,Source2,3,41.413883,-75.60051,2018,8,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-2817019,PA,Lackawanna,Moosic,Source2,3,41.371635,-75.683929,2018,22,Friday,Cloudy,False,False,False,False,False,False,False
+A-2821434,PA,Lackawanna,Pittston,Source2,3,41.36121,-75.70094300000002,2018,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-2829496,PA,Lackawanna,Moosic,Source2,3,41.366291,-75.693336,2018,17,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-2829498,PA,Lackawanna,Moosic,Source2,3,41.36636,-75.69323,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2829499,PA,Lackawanna,Moosic,Source2,3,41.371635,-75.683929,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2838853,PA,Lackawanna,Scranton,Source2,3,41.413883,-75.60051,2018,8,Tuesday,Rain,False,False,True,False,False,False,False
+A-2846565,PA,Lackawanna,Moosic,Source2,3,41.371635,-75.683929,2018,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2889718,PA,Lackawanna,Moscow,Source2,3,41.333858,-75.55585500000002,2018,22,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2900276,PA,Lackawanna,Taylor,Source2,3,41.394104,-75.731674,2018,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2922241,PA,Lackawanna,Clarks Summit,Source2,3,41.479046,-75.685417,2018,5,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2922285,PA,Lackawanna,Clarks Summit,Source2,3,41.482243,-75.680222,2018,8,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2925985,PA,Lackawanna,Scranton,Source2,3,41.393536,-75.65149699999998,2018,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2928469,PA,Lackawanna,Scranton,Source2,3,41.413284,-75.600563,2018,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2940980,PA,Lackawanna,Clarks Summit,Source2,3,41.479046,-75.685417,2018,9,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2988903,PA,Lackawanna,Scranton,Source2,3,41.456875,-75.660225,2018,13,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-2988906,PA,Lackawanna,Moosic,Source2,3,41.356129,-75.721092,2018,13,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-3005432,PA,Lackawanna,Scranton,Source2,3,41.396458,-75.645493,2018,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3005439,PA,Lackawanna,Scranton,Source2,3,41.393536,-75.65149699999998,2018,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3015505,PA,Lackawanna,Scranton,Source2,3,41.413883,-75.60051,2018,18,Friday,Cloudy,False,False,True,False,False,False,False
+A-3026802,PA,Lackawanna,Moscow,Source2,3,41.372761,-75.574013,2018,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3065117,PA,Lackawanna,Scranton,Source2,3,41.449966,-75.638145,2018,13,Saturday,Cloudy,True,False,True,False,False,False,False
+A-3066499,PA,Lackawanna,Clarks Summit,Source2,3,41.482243,-75.680222,2018,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3066524,PA,Lackawanna,Clarks Summit,Source2,3,41.482243,-75.680222,2018,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-3075391,PA,Lackawanna,Scranton,Source2,3,41.396626,-75.644791,2018,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3085661,PA,Lackawanna,Moosic,Source2,3,41.371635,-75.683929,2018,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3112056,PA,Lackawanna,Moosic,Source2,3,41.356129,-75.721092,2017,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3127919,PA,Lackawanna,Scranton,Source2,3,41.400806,-75.58575400000002,2017,7,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3143580,PA,Lackawanna,Moosic,Source2,3,41.356129,-75.721092,2017,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3149560,PA,Lackawanna,Scranton,Source2,3,41.449966,-75.638145,2017,20,Monday,Clear / Fair,True,False,True,False,False,False,False
+A-3152922,PA,Lackawanna,Olyphant,Source2,3,41.55370300000001,-75.65248100000002,2017,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3175609,PA,Lackawanna,Scranton,Source2,3,41.456875,-75.660225,2017,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3197093,PA,Lackawanna,Scranton,Source2,3,41.396458,-75.645493,2017,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3249236,PA,Lackawanna,Taylor,Source2,3,41.394104,-75.731674,2017,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3254478,PA,Lackawanna,Moosic,Source2,3,41.371635,-75.683929,2017,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3257071,PA,Lackawanna,Moosic,Source2,3,41.371635,-75.683929,2017,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3261005,PA,Lackawanna,Scranton,Source2,3,41.393536,-75.65149699999998,2017,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-3297119,PA,Lackawanna,Scranton,Source2,3,41.393536,-75.65149699999998,2017,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3368071,PA,Lackawanna,Jermyn,Source2,3,41.577465,-75.65469399999998,2017,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3389466,PA,Lackawanna,Scranton,Source2,3,41.430984,-75.622498,2017,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-3389474,PA,Lackawanna,Scranton,Source2,3,41.400806,-75.58575400000002,2017,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-3407426,PA,Lackawanna,Moosic,Source2,3,41.356129,-75.721092,2017,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3461917,PA,Lackawanna,Lake Ariel,Source1,4,41.40742,-75.51151999999998,2017,5,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3461950,PA,Lackawanna,Lake Ariel,Source1,4,41.40742,-75.51151999999998,2017,5,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3487920,PA,Lackawanna,Jermyn,Source1,4,41.59073,-75.65174,2016,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3491663,PA,Lackawanna,Clarks Summit,Source1,4,41.509496,-75.670071,2016,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3502845,PA,Lackawanna,Olyphant,Source1,4,41.531669,-75.652631,2016,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3518199,PA,Lackawanna,Scranton,Source1,4,41.37231,-75.68075,2016,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3518382,PA,Lackawanna,Clarks Summit,Source1,4,41.52937,-75.6528,2016,12,Friday,Cloudy,False,False,True,False,False,False,False
+A-3559264,PA,Lackawanna,Olyphant,Source1,4,41.53402,-75.65231,2017,11,Tuesday,Snow / Ice,False,False,True,False,False,False,False
+A-3562219,PA,Lackawanna,Jermyn,Source1,4,41.59044,-75.65189000000002,2017,10,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3579778,PA,Lackawanna,Dunmore,Source1,4,41.42503,-75.62706999999997,2017,11,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3616509,PA,Lackawanna,Jermyn,Source1,4,41.57901,-75.65473,2017,7,Monday,Cloudy,False,False,True,False,False,False,False
+A-3631467,PA,Lackawanna,Moosic,Source1,3,41.366739,-75.692661,2017,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3724189,PA,Lackawanna,Scranton,Source1,4,41.39696,-75.643383,2022,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3745638,PA,Lackawanna,Scranton,Source1,4,41.413606,-75.600711,2022,19,Thursday,Snow / Ice,False,False,True,False,False,False,False
+A-3768629,PA,Lackawanna,Scranton,Source1,4,41.397546529572494,-75.666950940725,2022,22,Friday,Sin dato,True,True,False,False,False,False,False
+A-3777960,PA,Lackawanna,Scranton,Source1,4,41.39329791,-75.65182328,2022,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3778158,PA,Lackawanna,Moosic,Source1,4,41.372519,-75.70320500000003,2023,19,Wednesday,Cloudy,False,True,False,True,False,False,False
+A-3808380,PA,Lackawanna,Moscow,Source1,4,41.333669,-75.557053,2022,13,Thursday,Snow / Ice,False,False,False,True,False,False,False
+A-3842827,PA,Lackawanna,Scranton,Source1,4,41.37791,-75.694921,2022,2,Friday,Clear / Fair,False,True,False,True,False,False,False
+A-3847540,PA,Lackawanna,Jermyn,Source1,4,41.579138,-75.654723,2023,7,Friday,Fog / Low visibility,False,False,True,False,False,False,False
+A-3847609,PA,Lackawanna,Lake Ariel,Source1,4,41.407479,-75.51017900000002,2022,13,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3851064,PA,Lackawanna,Scranton,Source1,4,41.470486,-75.637901,2022,22,Saturday,Cloudy,True,False,False,False,False,False,False
+A-3864182,PA,Lackawanna,Moosic,Source1,4,41.357207,-75.717124,2022,3,Monday,Cloudy,False,False,True,False,False,False,False
+A-3878759,PA,Lackawanna,Jermyn,Source1,4,41.579138,-75.654723,2022,14,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-3887720,PA,Lackawanna,Jefferson Township,Source1,4,41.463318,-75.459321,2022,23,Monday,Rain,False,False,False,False,False,False,False
+A-3907343,PA,Lackawanna,Moscow,Source1,4,41.33866668,-75.51663995,2022,13,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3948157,PA,Lackawanna,Moscow,Source1,4,41.336989,-75.518664,2022,13,Thursday,Snow / Ice,True,False,False,False,False,False,False
+A-3967171,PA,Lackawanna,Gouldsboro,Source1,4,41.244107,-75.501583,2022,3,Monday,Cloudy,False,False,False,False,False,False,False
+A-3968125,PA,Lackawanna,Moscow,Source1,4,41.37514471988022,-75.56687235796181,2022,0,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3970383,PA,Lackawanna,Scranton,Source1,4,41.383345,-75.68588199999998,2022,22,Friday,Sin dato,False,True,False,True,False,False,False
+A-3984315,PA,Lackawanna,Scranton,Source1,4,41.40175223330783,-75.58820128404814,2022,0,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4048560,PA,Lackawanna,Moosic,Source1,4,41.357207,-75.717124,2022,8,Thursday,Cloudy,False,False,True,False,False,False,False
+A-4054182,PA,Lackawanna,Scranton,Source1,4,41.460674,-75.657321,2022,21,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4120631,PA,Lackawanna,Moscow,Source1,4,41.37525201,-75.57779431,2022,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4151911,PA,Lackawanna,Moosic,Source1,4,41.357207,-75.717124,2022,7,Thursday,Fog / Low visibility,False,False,True,False,False,False,False
+A-4155378,PA,Lackawanna,Moosic,Source1,4,41.365923,-75.716537,2023,19,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-4201426,PA,Lackawanna,Moscow,Source1,4,41.339036,-75.51175500000002,2022,13,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-4203505,PA,Lackawanna,Carbondale,Source1,4,41.574897,-75.498949,2023,18,Thursday,Cloudy,True,True,False,False,False,True,False
+A-4206639,PA,Lackawanna,Scranton,Source1,4,41.437291,-75.701454,2022,9,Thursday,Rain,False,False,False,False,False,False,False
+A-4234488,PA,Lackawanna,Scranton,Source1,4,41.45977377871771,-75.6581532951562,2022,9,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-4270086,PA,Lackawanna,Scranton,Source1,4,41.40175223330783,-75.58820128404814,2022,0,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4318972,PA,Lackawanna,Scranton,Source1,4,41.41943336,-75.61038852,2022,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4349079,PA,Lackawanna,Scranton,Source1,4,41.470333,-75.638285,2022,22,Saturday,Cloudy,True,False,False,False,False,False,False
+A-4353554,PA,Lackawanna,Scranton,Source1,4,41.39839,-75.668307,2022,22,Friday,Sin dato,False,False,False,True,False,False,False
+A-4365535,PA,Lackawanna,Lake Ariel,Source1,4,41.524732,-75.458003,2023,5,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4446353,PA,Lackawanna,Lake Ariel,Source1,4,41.413535,-75.493137,2022,22,Monday,Rain,False,False,False,False,False,False,False
+A-4453935,PA,Lackawanna,Moscow,Source1,4,41.333882,-75.555088,2022,15,Tuesday,Cloudy,False,False,False,True,False,False,False
+A-4456222,PA,Lackawanna,Scranton,Source1,4,41.463135,-75.65334399999998,2022,21,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-4468510,PA,Lackawanna,Moscow,Source1,4,41.314318,-75.547554,2022,8,Thursday,Rain,False,False,False,False,False,False,False
+A-4470979,PA,Lackawanna,Moosic,Source1,4,41.372169,-75.681348,2022,4,Monday,Rain,False,False,False,False,False,False,False
+A-4480736,PA,Lackawanna,Scranton,Source1,4,41.397275,-75.64219200000002,2022,12,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-4508226,PA,Lackawanna,Moscow,Source1,4,41.37935042,-75.57871699,2023,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-4532381,PA,Lackawanna,Jermyn,Source1,4,41.579892,-75.59111700000003,2022,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4565422,PA,Lackawanna,Jermyn,Source1,4,41.524791,-75.533229,2022,0,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-4582085,PA,Lackawanna,Carbondale,Source1,4,41.574464,-75.501001,2023,18,Thursday,Cloudy,True,True,False,False,False,True,False
+A-4599176,PA,Lackawanna,Jermyn,Source1,4,41.590972,-75.651964,2022,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4640639,PA,Lackawanna,Scranton,Source1,4,41.372324,-75.680587,2022,3,Monday,Cloudy,False,False,False,False,False,False,False
+A-4657350,PA,Lackawanna,Scranton,Source1,4,41.413606,-75.600711,2021,14,Thursday,Fog / Low visibility,False,False,True,False,False,False,False
+A-4698579,PA,Lackawanna,Moscow,Source1,4,41.333882,-75.555088,2022,15,Tuesday,Cloudy,False,False,False,True,False,False,False
+A-4699614,PA,Lackawanna,Moscow,Source1,4,41.338672,-75.516649,2022,13,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-4704266,PA,Lackawanna,Factoryville,Source1,4,41.598998,-75.648758,2022,1,Thursday,Cloudy,False,False,True,False,False,False,False
+A-4773504,PA,Lackawanna,Archbald,Source1,4,41.497754,-75.58378,2022,21,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-4828123,PA,Lackawanna,Olyphant,Source1,4,41.574947,-75.65350600000002,2022,2,Monday,Sin dato,False,False,False,False,False,False,False
+A-4910392,PA,Lackawanna,Jermyn,Source1,4,41.563835,-75.581744,2022,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4910634,PA,Lackawanna,Moscow,Source1,4,41.33611321,-75.51816344,2022,13,Thursday,Snow / Ice,True,False,False,False,False,True,False
+A-4933711,PA,Lackawanna,Moscow,Source1,4,41.376405,-75.56698100000001,2023,12,Friday,Cloudy,False,False,True,False,False,False,False
+A-4942823,PA,Lackawanna,Spring Brook Township,Source1,4,41.327066,-75.56397700000002,2022,15,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-5011842,PA,Lackawanna,Moscow,Source1,4,41.33697152,-75.51865697,2022,13,Thursday,Snow / Ice,True,False,False,False,False,False,False
+A-5039655,PA,Lackawanna,Carbondale,Source1,4,41.574897,-75.498949,2023,18,Thursday,Cloudy,True,True,False,False,False,True,False
+A-5063779,PA,Lackawanna,Carbondale,Source1,4,41.563976,-75.494972,2023,5,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5150599,PA,Lackawanna,Moscow,Source1,4,41.336119,-75.518179,2022,13,Thursday,Snow / Ice,True,False,False,False,False,True,False
+A-5152561,PA,Lackawanna,Scranton,Source1,4,41.41359686831753,-75.60071110689353,2021,14,Thursday,Fog / Low visibility,False,False,True,False,False,False,False
+A-5197122,PA,Lackawanna,Lake Ariel,Source1,4,41.40739560107514,-75.51159739458316,2022,13,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-5249479,PA,Lackawanna,Jermyn,Source1,4,41.590972,-75.651964,2022,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5335230,PA,Lackawanna,Olyphant,Source1,4,41.556116,-75.652973,2022,11,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-5421918,PA,Lackawanna,Moosic,Source1,4,41.357207,-75.717124,2022,7,Thursday,Fog / Low visibility,False,False,True,False,False,False,False
+A-5426135,PA,Lackawanna,Scranton,Source1,4,41.446635,-75.67067800000002,2022,21,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-5495561,PA,Lackawanna,Moosic,Source1,4,41.3572061059887,-75.71711897813931,2021,1,Sunday,Snow / Ice,False,False,True,False,False,False,False
+A-5506379,PA,Lackawanna,Dalton,Source1,4,41.548577,-75.747926,2021,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-5541354,PA,Lackawanna,Moosic,Source1,4,41.371365,-75.70768199999998,2021,8,Wednesday,Clear / Fair,False,True,False,True,False,False,False
+A-5598782,PA,Lackawanna,Moosic,Source1,4,41.35360121707271,-75.7230627533163,2021,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5629962,PA,Lackawanna,Scranton,Source1,4,41.392562,-75.652822,2021,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5657921,PA,Lackawanna,Scranton,Source1,4,41.439491,-75.659178,2021,14,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-5685200,PA,Lackawanna,Scott Township,Source1,4,41.56874000000001,-75.632532,2021,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5697837,PA,Lackawanna,Gouldsboro,Source1,4,41.307379,-75.485641,2021,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5702162,PA,Lackawanna,Scranton,Source1,4,41.456733,-75.659654,2021,1,Friday,Cloudy,False,False,False,False,False,False,False
+A-5712344,PA,Lackawanna,Olyphant,Source1,4,41.53423400000001,-75.652289,2021,17,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-5730377,PA,Lackawanna,Moosic,Source1,4,41.370892,-75.70907199999998,2021,8,Wednesday,Clear / Fair,True,True,False,False,False,False,False
+A-5734676,PA,Lackawanna,Scott Township,Source1,4,41.534053,-75.609673,2021,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5747812,PA,Lackawanna,Dalton,Source1,4,41.548679,-75.748183,2021,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-5807214,PA,Lackawanna,Dalton,Source1,4,41.535946,-75.738061,2021,19,Friday,Cloudy,True,False,False,False,False,False,False
+A-5824368,PA,Lackawanna,Lake Ariel,Source1,4,41.40979886035247,-75.5047523971772,2021,21,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-5832544,PA,Lackawanna,Gouldsboro,Source1,4,41.285654,-75.511302,2021,3,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-5842182,PA,Lackawanna,Carbondale,Source1,4,41.61275,-75.558403,2021,21,Friday,Cloudy,True,False,False,False,False,False,False
+A-5946572,PA,Lackawanna,Scranton,Source1,4,41.456733,-75.659654,2021,0,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5949694,PA,Lackawanna,Lake Ariel,Source1,4,41.40739560107514,-75.51159739458316,2021,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5965803,PA,Lackawanna,Dalton,Source1,4,41.53569102267487,-75.73808312379963,2021,19,Friday,Cloudy,True,False,False,False,False,False,False
+A-5997054,PA,Lackawanna,Moscow,Source1,4,41.375146,-75.56687600000002,2021,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6002786,PA,Lackawanna,Jermyn,Source1,4,41.53438210467561,-75.52631735765681,2021,23,Wednesday,Rain,False,False,True,False,False,False,False
+A-6046641,PA,Lackawanna,Covington Township,Source1,4,41.309458,-75.482093,2021,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6072519,PA,Lackawanna,Lake Ariel,Source1,4,41.42644,-75.515936,2021,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6084350,PA,Lackawanna,Jermyn,Source1,4,41.524791,-75.533229,2021,23,Wednesday,Rain,False,False,True,False,False,False,False
+A-6084351,PA,Lackawanna,Jermyn,Source1,4,41.524791,-75.533229,2021,23,Wednesday,Rain,False,False,True,False,False,False,False
+A-6221235,PA,Lackawanna,Moosic,Source1,4,41.353595,-75.72307099999998,2021,13,Wednesday,Rain,False,False,False,False,False,False,False
+A-6228372,PA,Lackawanna,Moosic,Source1,4,41.357207,-75.717124,2021,1,Sunday,Snow / Ice,False,False,True,False,False,False,False
+A-6239682,PA,Lackawanna,Moscow,Source1,4,41.374366,-75.609841,2021,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6265474,PA,Lackawanna,Carbondale,Source1,4,41.598945,-75.54265799999997,2021,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-6282485,PA,Lackawanna,Carbondale,Source1,4,41.573213,-75.461702,2021,22,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-6297024,PA,Lackawanna,Moscow,Source1,4,41.389783,-75.62137299999998,2021,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6330623,PA,Lackawanna,Moscow,Source1,4,41.375252008240814,-75.5777943130704,2021,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6420537,PA,Lackawanna,Scranton,Source1,4,41.449924,-75.638056,2021,8,Sunday,Cloudy,False,False,True,False,False,False,False
+A-6533498,PA,Lackawanna,Olyphant,Source1,4,41.494314,-75.585088,2021,23,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6538972,PA,Lackawanna,Peckville,Source1,4,41.490182,-75.587565,2021,23,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6697915,PA,Lackawanna,Olyphant,Source1,4,41.551347,-75.651649,2020,9,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-6713095,PA,Lackawanna,Moosic,Source1,4,41.366196,-75.693472,2020,6,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-6776892,PA,Lackawanna,Jermyn,Source1,4,41.590566,-75.651827,2020,6,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-6831329,PA,Lackawanna,Gouldsboro,Source1,4,41.258253,-75.516891,2020,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6973860,PA,Lackawanna,Gouldsboro,Source1,4,41.258253,-75.516891,2020,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7016568,PA,Lackawanna,Scranton,Source1,3,41.37572,-75.66928,2020,22,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-7054457,PA,Lackawanna,Scranton,Source1,4,41.39193,-75.65315,2020,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7057219,PA,Lackawanna,Moosic,Source1,3,41.36997,-75.68755999999998,2020,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7118961,PA,Lackawanna,Taylor,Source1,4,41.39094,-75.73233,2020,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7130677,PA,Lackawanna,Scranton,Source1,3,41.4297,-75.61948000000002,2020,14,Monday,Rain,False,False,True,False,False,False,False
+A-7274028,PA,Lackawanna,Taylor,Source1,4,41.39094,-75.73233,2020,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7274030,PA,Lackawanna,Taylor,Source1,4,41.38352,-75.7273,2020,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7274038,PA,Lackawanna,Scranton,Source1,4,41.45055,-75.68751999999998,2020,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7422679,PA,Lackawanna,Scranton,Source1,4,41.41616,-75.60149,2019,0,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7422680,PA,Lackawanna,Scranton,Source1,4,41.41531,-75.60108000000002,2019,0,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7449058,PA,Lackawanna,Lake Ariel,Source1,4,41.40717,-75.50524,2019,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-7457971,PA,Lackawanna,Scranton,Source1,3,41.44967000000001,-75.63718,2019,9,Sunday,Cloudy,False,False,True,False,False,False,True
+A-7457973,PA,Lackawanna,Scranton,Source1,3,41.44967000000001,-75.63718,2019,9,Sunday,Cloudy,False,False,True,False,False,False,True
+A-7516636,PA,Lackawanna,Jermyn,Source1,4,41.604658,-75.646937,2018,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7519052,PA,Lackawanna,Moscow,Source1,4,41.3371,-75.55561999999998,2018,22,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7519054,PA,Lackawanna,Moscow,Source1,4,41.3371,-75.55561999999998,2018,22,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7522200,PA,Lackawanna,Gouldsboro,Source1,4,41.24973,-75.51546,2018,14,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7524908,PA,Lackawanna,Scranton,Source1,4,41.39613,-75.6466,2018,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7526679,PA,Lackawanna,Pittston,Source1,4,41.344607,-75.70800899999998,2018,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-7536932,PA,Lackawanna,Moscow,Source1,4,41.39373,-75.471459,2018,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-7654862,PA,Lackawanna,Scranton,Source1,4,41.44967000000001,-75.63718,2017,14,Thursday,Clear / Fair,False,False,True,False,False,False,True
+A-7654871,PA,Lackawanna,Scranton,Source1,4,41.4573,-75.65981,2017,15,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7712048,PA,Lackawanna,Scranton,Source1,4,41.382355,-75.66455699999999,2019,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7712049,PA,Lackawanna,Scranton,Source1,4,41.39634,-75.64589000000002,2019,6,Saturday,Cloudy,False,False,False,False,False,False,False

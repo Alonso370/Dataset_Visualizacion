@@ -1,0 +1,306 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-536815,MD,Charles,Waldorf,Source2,3,38.61158,-76.925629,2022,4,Monday,Cloudy,True,False,False,False,False,False,False
+A-682854,MD,Charles,Waldorf,Source2,3,38.65325900000001,-76.996162,2022,4,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-802392,MD,Charles,Newburg,Source2,3,38.364201,-76.977333,2021,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-997016,MD,Charles,Newburg,Source2,3,38.364201,-76.977333,2021,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1215383,MD,Charles,Newburg,Source2,3,38.369579,-76.948837,2020,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1528769,MD,Charles,Waldorf,Source2,3,38.64727,-76.88816800000002,2020,9,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-1747600,MD,Charles,Newburg,Source2,3,38.364201,-76.977333,2019,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1832042,MD,Charles,Hughesville,Source2,3,38.534077,-76.778847,2019,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1934810,MD,Charles,Waldorf,Source2,3,38.652447,-76.880898,2019,18,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-2066597,MD,Charles,Newburg,Source2,3,38.364201,-76.977333,2019,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2545251,MD,Charles,Waldorf,Source2,3,38.617809,-76.875,2018,9,Friday,Cloudy,True,False,False,False,False,False,False
+A-2718069,MD,Charles,Waldorf,Source2,3,38.654102,-76.8741,2018,5,Monday,Cloudy,True,False,False,False,False,False,False
+A-2877917,MD,Charles,Waldorf,Source2,3,38.611668,-76.925446,2018,17,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-3446266,MD,Charles,Hughesville,Source1,4,38.516075,-76.680223,2016,5,Saturday,Cloudy,False,False,False,True,False,False,False
+A-3446267,MD,Charles,Hughesville,Source1,4,38.516119,-76.68104100000002,2016,5,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3451460,MD,Charles,Newburg,Source1,4,38.372224,-76.95934399999999,2016,23,Friday,Cloudy,False,False,False,False,False,False,False
+A-3452193,MD,Charles,Charlotte Hall,Source1,4,38.480524,-76.775522,2016,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3456243,MD,Charles,La Plata,Source1,3,38.52902,-76.98291,2017,23,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-3461198,MD,Charles,Marbury,Source1,4,38.567524,-77.160618,2017,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-3461201,MD,Charles,Marbury,Source1,4,38.566436,-77.161107,2017,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-3466509,MD,Charles,Waldorf,Source1,4,38.61447,-76.88181,2016,9,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-3473243,MD,Charles,Bryans Road,Source1,4,38.62721,-77.072989,2016,21,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-3473244,MD,Charles,Bryans Road,Source1,4,38.62731,-77.0724,2016,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3479988,MD,Charles,Waldorf,Source1,4,38.6213,-76.91559000000002,2016,19,Friday,Cloudy,True,False,False,False,False,False,False
+A-3486741,MD,Charles,Waldorf,Source1,4,38.65668,-76.87555,2016,0,Friday,Cloudy,True,False,False,False,False,False,False
+A-3486742,MD,Charles,Waldorf,Source1,4,38.654091,-76.873866,2016,0,Friday,Cloudy,True,False,False,False,False,False,False
+A-3487192,MD,Charles,Waldorf,Source1,4,38.645446,-76.872753,2016,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3487193,MD,Charles,Waldorf,Source1,4,38.64609,-76.87286999999998,2016,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3493745,MD,Charles,La Plata,Source1,4,38.53969,-76.98657,2016,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3493746,MD,Charles,La Plata,Source1,4,38.53966,-76.99122,2016,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3498166,MD,Charles,La Plata,Source1,4,38.491569,-76.987438,2016,8,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3500211,MD,Charles,Waldorf,Source1,4,38.64721,-76.93769,2016,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3500228,MD,Charles,Waldorf,Source1,4,38.654363,-76.87395699999998,2016,5,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-3500229,MD,Charles,Waldorf,Source1,4,38.655781,-76.874767,2016,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3501826,MD,Charles,Waldorf,Source1,4,38.65342,-76.87368000000002,2016,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3505715,MD,Charles,Waldorf,Source1,4,38.622858,-76.90531,2016,16,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-3505717,MD,Charles,Waldorf,Source1,4,38.623643,-76.90699000000002,2016,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3507824,MD,Charles,Waldorf,Source1,4,38.652324,-76.97935600000002,2016,22,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3507916,MD,Charles,La Plata,Source1,3,38.55544,-76.98617,2016,22,Sunday,Cloudy,True,False,False,False,False,False,False
+A-3510176,MD,Charles,Waldorf,Source1,4,38.632649,-76.904041,2016,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3558372,MD,Charles,Waldorf,Source1,4,38.645517,-76.87274599999998,2017,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-3558373,MD,Charles,Waldorf,Source1,4,38.654639,-76.87429,2017,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-3558881,MD,Charles,La Plata,Source1,4,38.519095,-76.946286,2017,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-3558885,MD,Charles,La Plata,Source1,4,38.524679,-76.953148,2017,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-3559470,MD,Charles,Waldorf,Source1,4,38.648405,-76.952139,2017,0,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3559471,MD,Charles,Waldorf,Source1,4,38.648642,-76.956245,2017,0,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3572389,MD,Charles,La Plata,Source1,3,38.482494,-76.988524,2017,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3574425,MD,Charles,Waldorf,Source1,3,38.641986,-76.894883,2017,1,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3574427,MD,Charles,Waldorf,Source1,3,38.634671,-76.901999,2017,1,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3574429,MD,Charles,Waldorf,Source1,4,38.641986,-76.894883,2017,1,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3575849,MD,Charles,Waldorf,Source1,3,38.589469,-76.86632900000002,2017,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3576609,MD,Charles,Waldorf,Source1,4,38.652705,-76.88069899999998,2017,18,Friday,Cloudy,True,False,False,False,False,False,False
+A-3579677,MD,Charles,Waldorf,Source1,4,38.56445,-76.85996,2017,9,Tuesday,Rain,False,False,False,False,False,False,False
+A-3579678,MD,Charles,Bryantown,Source1,4,38.55562000000001,-76.84214,2017,9,Tuesday,Rain,True,False,False,False,False,False,False
+A-3579860,MD,Charles,Waldorf,Source1,4,38.56407,-76.8596,2017,14,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3579863,MD,Charles,Hughesville,Source1,4,38.550518,-76.813183,2017,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3584640,MD,Charles,Waldorf,Source1,4,38.626459,-76.9106,2017,11,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-3584641,MD,Charles,Waldorf,Source1,4,38.62606,-76.91023,2017,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3599566,MD,Charles,Pomfret,Source1,4,38.57746,-77.03129,2017,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3599568,MD,Charles,Pomfret,Source1,4,38.57758,-77.03178,2017,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3599893,MD,Charles,Hughesville,Source1,4,38.550359,-76.81038199999998,2017,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3600900,MD,Charles,La Plata,Source1,4,38.528529,-76.982535,2017,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3603741,MD,Charles,Hughesville,Source1,4,38.534833,-76.73947700000002,2017,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3603742,MD,Charles,Hughesville,Source1,4,38.534031,-76.737963,2017,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3603743,MD,Charles,Hughesville,Source1,3,38.533395,-76.736977,2017,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3603744,MD,Charles,Hughesville,Source1,4,38.534031,-76.737963,2017,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3616235,MD,Charles,La Plata,Source1,4,38.51073,-76.945908,2017,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-3616238,MD,Charles,La Plata,Source1,4,38.502252,-76.943301,2017,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-3619002,MD,Charles,Bryantown,Source1,3,38.555388,-76.842201,2017,4,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-3619113,MD,Charles,Bryantown,Source1,3,38.554741,-76.839908,2017,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3626752,MD,Charles,Indian Head,Source1,4,38.60262700000001,-77.077865,2017,2,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3626753,MD,Charles,La Plata,Source1,4,38.6083,-77.07278000000002,2017,2,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3630724,MD,Charles,Waldorf,Source1,4,38.652399,-76.977593,2017,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-3643348,MD,Charles,Welcome,Source1,4,38.48592,-77.12228,2017,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3643351,MD,Charles,Welcome,Source1,4,38.48592,-77.12228,2017,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3719841,MD,Charles,La Plata,Source1,4,38.545249,-76.916969,2022,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-3728770,MD,Charles,La Plata,Source1,4,38.545897,-77.073849,2022,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3750093,MD,Charles,Faulkner,Source1,4,38.411955,-76.94527,2022,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3795507,MD,Charles,Newburg,Source1,4,38.359282,-77.014377,2022,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3855586,MD,Charles,Newburg,Source1,4,38.364488,-76.974899,2022,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3908723,MD,Charles,Waldorf,Source1,4,38.643726,-77.007116,2022,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3911218,MD,Charles,Newburg,Source1,4,38.364209,-76.977456,2022,0,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3923689,MD,Charles,Waldorf,Source1,4,38.56417800000001,-76.859667,2022,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3933875,MD,Charles,Waldorf,Source1,4,38.613874,-76.88049699999998,2022,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4031483,MD,Charles,Waldorf,Source1,4,38.61126,-76.92495500000003,2022,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-4056841,MD,Charles,La Plata,Source1,4,38.539564,-76.984308,2022,23,Monday,Rain,True,False,False,False,False,False,False
+A-4076412,MD,Charles,Waldorf,Source1,4,38.60847800000001,-76.875698,2022,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4157000,MD,Charles,La Plata,Source1,4,38.545896,-77.07155300000002,2022,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4203773,MD,Charles,La Plata,Source1,4,38.521938,-77.003576,2022,17,Sunday,Rain,False,False,False,False,False,False,False
+A-4214743,MD,Charles,La Plata,Source1,4,38.544804,-76.915289,2022,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-4217611,MD,Charles,Waldorf,Source1,4,38.618248,-76.919108,2023,1,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-4229080,MD,Charles,La Plata,Source1,4,38.545146,-76.91525899999998,2022,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-4230113,MD,Charles,Newburg,Source1,4,38.36420416813677,-76.97745680772314,2022,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4238132,MD,Charles,Indian Head,Source1,4,38.602197,-77.13343499999998,2022,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4298495,MD,Charles,Bryans Road,Source1,4,38.62678170185744,-77.07358717881645,2022,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4353663,MD,Charles,Waldorf,Source1,4,38.611599,-76.925833,2022,0,Monday,Rain,True,False,False,False,False,False,False
+A-4452236,MD,Charles,Charlotte Hall,Source1,4,38.41002,-76.856738,2022,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4456823,MD,Charles,Waldorf,Source1,4,38.64438,-77.00735999999998,2022,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4529619,MD,Charles,Waldorf,Source1,4,38.61196,-76.926404,2022,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-4570792,MD,Charles,Waldorf,Source1,4,38.611473,-76.925637,2022,21,Sunday,Cloudy,True,False,False,False,False,False,False
+A-4611035,MD,Charles,Charlotte Hall,Source1,4,38.411505,-76.862259,2022,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4645006,MD,Charles,Waldorf,Source1,4,38.65672100000001,-76.87556,2022,13,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-4646305,MD,Charles,La Plata,Source1,4,38.53269,-76.983115,2022,0,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4649829,MD,Charles,Newburg,Source1,4,38.36420416813677,-76.97745680772314,2022,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4686032,MD,Charles,Indian Head,Source1,4,38.604075,-77.076951,2022,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4708254,MD,Charles,La Plata,Source1,4,38.521938,-77.003576,2022,17,Sunday,Rain,False,False,False,False,False,False,False
+A-4710774,MD,Charles,La Plata,Source1,4,38.521938,-77.003576,2022,17,Sunday,Rain,False,False,False,False,False,False,False
+A-4812613,MD,Charles,Newburg,Source1,4,38.361249,-76.999698,2022,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4864545,MD,Charles,La Plata,Source1,4,38.484486,-77.14061,2022,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4919473,MD,Charles,La Plata,Source1,4,38.521451,-77.0133,2022,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4986542,MD,Charles,Charlotte Hall,Source1,4,38.411478,-76.86211999999998,2022,17,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-4988254,MD,Charles,La Plata,Source1,4,38.545146,-76.91525899999998,2022,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-4999493,MD,Charles,Waldorf,Source1,4,38.564545,-76.860014,2022,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5065324,MD,Charles,Indian Head,Source1,4,38.602329,-77.078053,2022,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5066174,MD,Charles,Faulkner,Source1,4,38.412047,-76.945133,2022,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5218850,MD,Charles,Waldorf,Source1,4,38.64438,-77.00735999999998,2022,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5287602,MD,Charles,Waldorf,Source1,4,38.658201,-76.874564,2022,6,Monday,Rain,False,False,False,False,False,False,False
+A-5324746,MD,Charles,La Plata,Source1,4,38.539538,-76.984034,2022,23,Monday,Rain,True,False,False,False,False,False,False
+A-5414160,MD,Charles,La Plata,Source1,4,38.481968,-76.87322900000002,2022,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5415950,MD,Charles,La Plata,Source1,4,38.521064,-77.01370899999998,2022,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5448061,MD,Charles,La Plata,Source1,4,38.569505,-76.98028599999998,2022,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5478883,MD,Charles,Indian Head,Source1,4,38.520116,-77.23312,2021,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5511060,MD,Charles,Indian Head,Source1,4,38.583269,-77.121669,2021,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5520951,MD,Charles,La Plata,Source1,4,38.49477,-76.986773,2021,3,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5570209,MD,Charles,Indian Head,Source1,4,38.608743,-77.072523,2021,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5651409,MD,Charles,Waldorf,Source1,4,38.618241548354064,-76.91909193955935,2021,16,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-5680197,MD,Charles,Nanjemoy,Source1,4,38.458639383132656,-77.25076317750334,2021,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5749986,MD,Charles,Nanjemoy,Source1,4,38.458647,-77.250761,2021,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5774810,MD,Charles,Nanjemoy,Source1,4,38.459552,-77.250961,2021,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5787629,MD,Charles,Indian Head,Source1,4,38.58309000000001,-77.122275,2021,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5814305,MD,Charles,Indian Head,Source1,4,38.608271,-77.072785,2021,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5818740,MD,Charles,Indian Head,Source1,4,38.514137,-77.243937,2021,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5837087,MD,Charles,La Plata,Source1,4,38.495913,-76.986636,2021,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5913748,MD,Charles,Indian Head,Source1,4,38.608271,-77.072785,2021,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5957807,MD,Charles,Bel Alton,Source1,4,38.45845,-76.991129,2021,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5958675,MD,Charles,Waldorf,Source1,4,38.597095,-76.937894,2021,13,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-5982897,MD,Charles,La Plata,Source1,4,38.504725,-76.984677,2021,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5982898,MD,Charles,La Plata,Source1,4,38.504725,-76.984677,2021,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6033254,MD,Charles,La Plata,Source1,4,38.493949,-76.986875,2021,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6059987,MD,Charles,Nanjemoy,Source1,4,38.41420054417412,-77.25554823838588,2021,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6075286,MD,Charles,La Plata,Source1,4,38.521451,-77.0133,2021,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6122673,MD,Charles,La Plata,Source1,4,38.496536,-76.986828,2021,3,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6160640,MD,Charles,Indian Head,Source1,4,38.607554,-77.073432,2021,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6278275,MD,Charles,Waldorf,Source1,4,38.61811280232136,-76.91889882051031,2021,16,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-6319239,MD,Charles,Port Tobacco,Source1,4,38.51436495762579,-77.02215313874709,2021,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6407468,MD,Charles,Newburg,Source1,4,38.362879,-76.98752900000002,2021,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6416495,MD,Charles,Newburg,Source1,4,38.361249,-76.999698,2021,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6508498,MD,Charles,Hughesville,Source1,4,38.521394,-76.777777,2021,0,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6514078,MD,Charles,Hughesville,Source1,4,38.530807,-76.816668,2021,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-6565325,MD,Charles,Indian Head,Source1,4,38.602329,-77.078053,2021,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-6620693,MD,Charles,Waldorf,Source1,4,38.651412,-76.873115,2020,14,Friday,Cloudy,True,True,False,False,False,False,False
+A-6647178,MD,Charles,Indian Head,Source1,4,38.602083,-77.13399,2020,20,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-6662700,MD,Charles,Indian Head,Source1,4,38.60199,-77.134727,2020,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6668887,MD,Charles,Waldorf,Source1,4,38.617578,-77.011043,2020,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6678606,MD,Charles,Newburg,Source1,4,38.361249,-76.999698,2020,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6765216,MD,Charles,White Plains,Source1,4,38.617262,-77.010906,2020,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6894396,MD,Charles,Newburg,Source1,4,38.361249,-76.999698,2020,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6941758,MD,Charles,Newburg,Source1,4,38.362879,-76.98752900000002,2020,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6956095,MD,Charles,Newburg,Source1,4,38.361249,-76.999698,2020,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7018753,MD,Charles,Waldorf,Source1,3,38.64716,-76.88811,2020,9,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-7018756,MD,Charles,Waldorf,Source1,3,38.64716,-76.88811,2020,9,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-7060127,MD,Charles,La Plata,Source1,4,38.52902,-76.98291,2020,17,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7064415,MD,Charles,Waldorf,Source1,4,38.65673,-76.87550999999998,2020,20,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-7064418,MD,Charles,Waldorf,Source1,4,38.65668,-76.87555,2020,22,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-7064430,MD,Charles,Waldorf,Source1,4,38.65668,-76.87555,2020,22,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-7064431,MD,Charles,Waldorf,Source1,4,38.65668,-76.87555,2020,22,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-7124906,MD,Charles,Waldorf,Source1,4,38.62128,-76.91561,2020,9,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7124920,MD,Charles,Waldorf,Source1,4,38.62128,-76.91561,2020,9,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7124923,MD,Charles,Waldorf,Source1,4,38.62128,-76.91561,2020,9,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7124930,MD,Charles,Waldorf,Source1,4,38.6213,-76.91559000000002,2020,10,Friday,Cloudy,True,False,False,False,False,False,False
+A-7139936,MD,Charles,Bryantown,Source1,4,38.55538,-76.84218,2020,8,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7139939,MD,Charles,Hughesville,Source1,4,38.53294,-76.78405,2020,10,Friday,Sin dato,True,False,False,False,False,False,False
+A-7139941,MD,Charles,Hughesville,Source1,4,38.53294,-76.78405,2020,10,Friday,Sin dato,True,False,False,False,False,False,False
+A-7183998,MD,Charles,Waldorf,Source1,3,38.65668,-76.87555,2020,9,Saturday,Rain,True,False,False,False,False,False,False
+A-7184000,MD,Charles,Waldorf,Source1,3,38.65668,-76.87555,2020,9,Saturday,Rain,True,False,False,False,False,False,False
+A-7190549,MD,Charles,Newburg,Source1,4,38.36416,-76.97762,2020,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7190550,MD,Charles,Newburg,Source1,4,38.36415,-76.97771,2020,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7204093,MD,Charles,La Plata,Source1,4,38.52089,-76.98161999999998,2020,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7204098,MD,Charles,La Plata,Source1,4,38.52089,-76.98161999999998,2020,5,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7223205,MD,Charles,Waldorf,Source1,4,38.65572,-76.87655,2020,20,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-7223206,MD,Charles,Waldorf,Source1,4,38.6578,-76.87484,2020,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7223209,MD,Charles,Waldorf,Source1,3,38.65572,-76.87655,2020,0,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7229958,MD,Charles,Waldorf,Source1,4,38.61784,-76.87491,2020,9,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-7229959,MD,Charles,Waldorf,Source1,4,38.6213,-76.87536,2020,9,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7267151,MD,Charles,La Plata,Source1,4,38.56603,-76.98376,2020,4,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-7285367,MD,Charles,Charlotte Hall,Source1,4,38.4116,-76.86281,2019,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7285368,MD,Charles,Charlotte Hall,Source1,4,38.40921,-76.87968000000002,2019,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7303125,MD,Charles,Faulkner,Source1,4,38.41504000000001,-76.95742,2019,4,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7318959,MD,Charles,Marbury,Source1,4,38.55379,-77.17434,2019,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7318960,MD,Charles,Marbury,Source1,4,38.55379,-77.17434,2019,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7318986,MD,Charles,Marbury,Source1,4,38.55374000000001,-77.17436,2019,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7318987,MD,Charles,Indian Head,Source1,4,38.54484,-77.17849,2019,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7327450,MD,Charles,Newburg,Source1,4,38.3642,-76.97733000000002,2019,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7332148,MD,Charles,Waldorf,Source1,3,38.61435,-76.88126,2019,9,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-7332149,MD,Charles,Waldorf,Source1,3,38.61437,-76.88128,2019,9,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-7336466,MD,Charles,Waldorf,Source1,4,38.61819000000001,-76.91904,2019,15,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7336467,MD,Charles,Waldorf,Source1,4,38.61819000000001,-76.91904,2019,15,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7336486,MD,Charles,Newburg,Source1,4,38.36342,-76.98318,2019,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7338974,MD,Charles,Newburg,Source1,4,38.40776,-76.95371999999998,2019,19,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7338977,MD,Charles,Newburg,Source1,4,38.40776,-76.95371999999998,2019,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7342385,MD,Charles,Pomfret,Source1,4,38.57789,-77.033,2019,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7342386,MD,Charles,Pomfret,Source1,4,38.57789,-77.033,2019,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7354870,MD,Charles,Newburg,Source1,4,38.3637,-76.98103,2019,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7378639,MD,Charles,La Plata,Source1,4,38.54362,-76.98456999999998,2019,3,Tuesday,Rain,True,False,False,False,False,False,False
+A-7395873,MD,Charles,Waldorf,Source1,3,38.65254,-76.99341700000002,2019,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7420591,MD,Charles,Waldorf,Source1,4,38.61824,-76.89437,2019,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-7434634,MD,Charles,Waldorf,Source1,4,38.62601,-76.91075,2019,1,Friday,Cloudy,False,False,False,False,False,False,False
+A-7434635,MD,Charles,Waldorf,Source1,4,38.62668,-76.91037,2019,1,Friday,Cloudy,False,False,False,False,False,False,False
+A-7452104,MD,Charles,Newburg,Source1,4,38.411684,-76.955405,2019,2,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7452105,MD,Charles,Newburg,Source1,4,38.404209,-76.952736,2019,2,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7461773,MD,Charles,Waldorf,Source1,4,38.622731,-76.904972,2019,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7461774,MD,Charles,Waldorf,Source1,4,38.619736,-76.898993,2019,7,Saturday,Cloudy,True,False,False,False,False,False,False
+A-7467988,MD,Charles,Hughesville,Source1,4,38.516089,-76.680488,2019,23,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-7467989,MD,Charles,Hughesville,Source1,4,38.516106,-76.680853,2019,23,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7472040,MD,Charles,La Plata,Source1,4,38.49818,-76.94151,2019,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7479875,MD,Charles,White Plains,Source1,3,38.564012,-76.923829,2018,0,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7487157,MD,Charles,La Plata,Source1,4,38.487712,-77.146162,2018,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7487158,MD,Charles,Welcome,Source1,4,38.484136,-77.130162,2018,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7493048,MD,Charles,Waldorf,Source1,4,38.605127,-76.89808199999997,2018,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-7494686,MD,Charles,Newburg,Source1,4,38.3642,-76.97733000000002,2018,0,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7501591,MD,Charles,Waldorf,Source1,3,38.56497,-76.8604,2018,4,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7505435,MD,Charles,Waldorf,Source1,3,38.59719000000001,-76.93759,2018,0,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-7508802,MD,Charles,La Plata,Source1,4,38.50462,-76.98499,2018,1,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7519035,MD,Charles,Port Tobacco,Source1,4,38.49065,-77.06798,2018,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7519036,MD,Charles,Port Tobacco,Source1,4,38.49065,-77.06798,2018,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7519953,MD,Charles,La Plata,Source1,4,38.555595,-76.986498,2018,8,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-7519954,MD,Charles,La Plata,Source1,4,38.548434,-76.985252,2018,8,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-7520025,MD,Charles,Waldorf,Source1,4,38.652228,-76.981951,2018,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7525495,MD,Charles,Waldorf,Source1,4,38.621606,-76.875268,2018,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-7525496,MD,Charles,Waldorf,Source1,4,38.617659,-76.874995,2018,10,Friday,Cloudy,True,False,False,False,False,False,False
+A-7530195,MD,Charles,Waldorf,Source1,3,38.65326,-76.99616,2018,0,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7530299,MD,Charles,La Plata,Source1,4,38.56956,-76.98024000000002,2018,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7556428,MD,Charles,Waldorf,Source1,4,38.634824,-77.015232,2018,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7556429,MD,Charles,Waldorf,Source1,4,38.635068,-77.015291,2018,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7557816,MD,Charles,Newburg,Source1,4,38.363411,-76.983284,2018,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7563292,MD,Charles,Nanjemoy,Source1,4,38.45968,-77.17617,2018,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7563293,MD,Charles,Nanjemoy,Source1,4,38.45968,-77.17617,2018,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7575355,MD,Charles,La Plata,Source1,4,38.487514,-76.91135200000002,2018,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7575356,MD,Charles,La Plata,Source1,4,38.488674,-76.915071,2018,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7579814,MD,Charles,Waldorf,Source1,4,38.647123,-76.88854599999998,2018,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7579821,MD,Charles,Waldorf,Source1,3,38.646278,-76.889229,2018,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7580674,MD,Charles,Waldorf,Source1,4,38.651935,-76.873489,2018,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7580678,MD,Charles,Waldorf,Source1,4,38.65605,-76.87661,2018,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7582781,MD,Charles,Charlotte Hall,Source1,4,38.422169,-76.930368,2018,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7582782,MD,Charles,Charlotte Hall,Source1,4,38.4192,-76.92905,2018,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7582783,MD,Charles,Charlotte Hall,Source1,4,38.42024,-76.924121,2018,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7582785,MD,Charles,Charlotte Hall,Source1,4,38.417725,-76.932914,2018,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7585664,MD,Charles,Waldorf,Source1,4,38.62668,-76.91037,2018,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7592336,MD,Charles,Waldorf,Source1,4,38.590244,-76.867073,2018,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7593318,MD,Charles,Hughesville,Source1,4,38.533785,-76.737549,2018,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7606749,MD,Charles,Hughesville,Source1,4,38.535042,-76.73994499999998,2018,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7606750,MD,Charles,Hughesville,Source1,4,38.527627,-76.73046,2018,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7606905,MD,Charles,Waldorf,Source1,4,38.652423,-76.97182099999998,2018,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7609884,MD,Charles,White Plains,Source1,4,38.590439,-76.941912,2018,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7619668,MD,Charles,Newburg,Source1,4,38.3642,-76.97733000000002,2018,0,Thursday,Rain,False,False,False,False,False,False,False
+A-7624049,MD,Charles,Indian Head,Source1,4,38.583305,-77.121365,2018,22,Friday,Cloudy,False,False,False,False,False,False,False
+A-7624050,MD,Charles,Indian Head,Source1,4,38.576391,-77.124981,2018,22,Friday,Cloudy,False,False,False,False,False,False,False
+A-7626292,MD,Charles,Waldorf,Source1,4,38.581926,-76.86137,2018,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7629937,MD,Charles,La Plata,Source1,4,38.50462,-76.98499,2018,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7644568,MD,Charles,La Plata,Source1,4,38.488687,-76.915112,2017,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7644569,MD,Charles,La Plata,Source1,4,38.488893,-76.915756,2017,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7644628,MD,Charles,White Plains,Source1,3,38.59693,-76.93794,2017,15,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7648423,MD,Charles,Port Tobacco,Source1,4,38.511089,-77.029884,2017,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7653797,MD,Charles,Newburg,Source1,4,38.406723,-76.953151,2017,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7665748,MD,Charles,Waldorf,Source1,3,38.629786,-76.917374,2017,6,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-7665750,MD,Charles,Waldorf,Source1,4,38.629101,-76.915802,2017,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7665751,MD,Charles,Waldorf,Source1,4,38.62967800000001,-76.917405,2017,7,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-7674228,MD,Charles,Waldorf,Source1,4,38.609331,-76.923889,2017,2,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7676981,MD,Charles,Waldorf,Source1,4,38.619756,-76.899029,2017,18,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-7676982,MD,Charles,Waldorf,Source1,4,38.619736,-76.898993,2017,18,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-7677833,MD,Charles,Waldorf,Source1,4,38.619405,-76.898341,2017,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-7680920,MD,Charles,Waldorf,Source1,4,38.642506,-76.932502,2017,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7680933,MD,Charles,La Plata,Source1,4,38.488674,-76.915071,2017,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7680934,MD,Charles,La Plata,Source1,4,38.487514,-76.91135200000002,2017,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7681627,MD,Charles,Charlotte Hall,Source1,4,38.420362,-76.922253,2017,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7681628,MD,Charles,Charlotte Hall,Source1,4,38.4192,-76.92905,2017,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7683045,MD,Charles,Waldorf,Source1,3,38.61204,-76.92535,2017,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7689648,MD,Charles,Waldorf,Source1,4,38.580384,-76.86113,2017,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7701111,MD,Charles,Newburg,Source1,4,38.3642,-76.97733000000002,2017,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7706555,MD,Charles,Waldorf,Source1,4,38.632651,-76.904039,2019,0,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7710900,MD,Charles,Waldorf,Source1,3,38.63232,-76.90437,2019,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7719582,MD,Charles,Hughesville,Source1,4,38.534241,-76.78475,2019,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7731761,MD,Charles,Bryantown,Source1,4,38.550927,-76.82067099999998,2019,6,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7734419,MD,Charles,Pomfret,Source1,4,38.583333,-77.027827,2019,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7734420,MD,Charles,Pomfret,Source1,4,38.584346,-77.026737,2019,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7734450,MD,Charles,La Plata,Source1,4,38.530432,-76.97211800000002,2019,19,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7734452,MD,Charles,La Plata,Source1,4,38.530418,-76.972143,2019,19,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7737812,MD,Charles,Waldorf,Source1,4,38.59201,-76.86841,2019,14,Thursday,Rain,False,False,False,False,False,False,False
+A-7737813,MD,Charles,Waldorf,Source1,4,38.598467,-76.871215,2019,14,Thursday,Rain,False,False,False,False,False,False,False
+A-7738773,MD,Charles,Indian Head,Source1,4,38.588616,-77.11878100000001,2019,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7738774,MD,Charles,Indian Head,Source1,4,38.590659,-77.119364,2019,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7745294,MD,Charles,La Plata,Source1,4,38.56603,-76.98376,2019,11,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7745299,MD,Charles,La Plata,Source1,3,38.56598,-76.98346,2019,12,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7745300,MD,Charles,La Plata,Source1,3,38.56598,-76.98346,2019,12,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7745331,MD,Charles,La Plata,Source1,3,38.56598,-76.98346,2019,17,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7745332,MD,Charles,La Plata,Source1,3,38.56598,-76.98346,2019,17,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7760853,MD,Charles,Waldorf,Source1,3,38.618102,-76.87503199999998,2019,8,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7760854,MD,Charles,Waldorf,Source1,3,38.61504,-76.880721,2019,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7764784,MD,Charles,Newburg,Source1,4,38.447407,-76.98760300000002,2019,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7764785,MD,Charles,Bel Alton,Source1,4,38.45844,-76.9914,2019,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7765353,MD,Charles,Hughesville,Source1,4,38.53294,-76.78405,2019,15,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-7765354,MD,Charles,Hughesville,Source1,4,38.53371,-76.7806,2019,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7765361,MD,Charles,Hughesville,Source1,4,38.53301,-76.78366,2019,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7765362,MD,Charles,Hughesville,Source1,4,38.53294,-76.78405,2019,19,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-7771452,MD,Charles,Newburg,Source1,4,38.359749,-77.010807,2019,18,Saturday,Clear / Fair,False,False,False,False,False,False,False

@@ -1,0 +1,856 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-521953,VA,New Kent,Quinton,Source2,3,37.516285,-77.19223000000002,2022,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-524668,VA,New Kent,New Kent,Source2,3,37.495384,-77.023476,2022,19,Saturday,Cloudy,False,False,False,False,False,False,False
+A-524859,VA,New Kent,Quinton,Source2,3,37.515476,-77.189972,2022,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-524883,VA,New Kent,Lanexa,Source2,3,37.488033,-76.964935,2022,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-524884,VA,New Kent,Lanexa,Source2,3,37.488251,-76.966454,2022,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-524888,VA,New Kent,Providence Forge,Source2,4,37.50463900000001,-77.08876,2022,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-533531,VA,New Kent,Quinton,Source2,3,37.514839,-77.181465,2022,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-533644,VA,New Kent,Quinton,Source2,3,37.51788300000001,-77.201782,2022,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-533660,VA,New Kent,Quinton,Source2,3,37.515476,-77.189972,2022,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-544768,VA,New Kent,Lanexa,Source2,3,37.479435,-76.918846,2022,15,Friday,Sin dato,False,False,False,False,False,False,False
+A-550663,VA,New Kent,Quinton,Source2,3,37.515476,-77.189972,2022,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-550728,VA,New Kent,Lanexa,Source2,3,37.481857,-76.928558,2022,14,Saturday,Sin dato,False,False,False,False,False,False,False
+A-551394,VA,New Kent,Quinton,Source2,3,37.514408,-77.178253,2022,16,Friday,Storm,False,False,False,False,False,False,False
+A-560690,VA,New Kent,Lanexa,Source2,3,37.479435,-76.918846,2022,11,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-560744,VA,New Kent,Quinton,Source2,3,37.514961,-77.187286,2022,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-560997,VA,New Kent,Quinton,Source2,3,37.515476,-77.189972,2022,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-564123,VA,New Kent,Providence Forge,Source2,3,37.504524,-77.088081,2022,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-570964,VA,New Kent,Quinton,Source2,3,37.515476,-77.189972,2022,10,Saturday,Rain,False,False,False,False,False,False,False
+A-576570,VA,New Kent,Quinton,Source2,3,37.516544,-77.194199,2022,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-578725,VA,New Kent,Lanexa,Source2,3,37.48534,-76.948883,2022,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-583163,VA,New Kent,Quinton,Source2,3,37.516277,-77.19216899999998,2022,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-583513,VA,New Kent,Quinton,Source2,3,37.515862,-77.189278,2022,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-588170,VA,New Kent,Lanexa,Source2,3,37.477806,-76.914108,2022,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-588917,VA,New Kent,Lanexa,Source2,3,37.48905900000001,-76.976845,2022,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-588988,VA,New Kent,Providence Forge,Source2,3,37.504898,-77.09025600000002,2022,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-588989,VA,New Kent,Quinton,Source2,3,37.512306,-77.162476,2022,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-606974,VA,New Kent,Quinton,Source2,3,37.515476,-77.189972,2022,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-607567,VA,New Kent,Lanexa,Source2,3,37.489525,-76.976151,2022,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-607730,VA,New Kent,Quinton,Source2,3,37.516579,-77.194458,2022,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-608096,VA,New Kent,Providence Forge,Source2,3,37.50404,-77.085083,2022,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-614661,VA,New Kent,Lanexa,Source2,3,37.479435,-76.918846,2022,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-615815,VA,New Kent,Quinton,Source2,3,37.517979,-77.20259899999998,2022,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-630013,VA,New Kent,Providence Forge,Source2,3,37.504597,-77.08532,2022,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-648466,VA,New Kent,Quinton,Source2,3,37.515385,-77.185577,2022,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-648737,VA,New Kent,Quinton,Source2,3,37.515476,-77.189972,2022,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-663192,VA,New Kent,New Kent,Source2,3,37.496964,-77.032021,2022,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-674296,VA,New Kent,New Kent,Source3,3,37.49390800000001,-77.014679,2022,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-684258,VA,New Kent,Lanexa,Source2,3,37.483105,-76.94025400000002,2022,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-684376,VA,New Kent,Lanexa,Source2,3,37.483105,-76.94025400000002,2022,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-688074,VA,New Kent,Lanexa,Source2,3,37.479725,-76.924805,2022,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-704928,VA,New Kent,Providence Forge,Source2,3,37.504631,-77.08871500000002,2022,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-705764,VA,New Kent,Providence Forge,Source2,3,37.504097,-77.085442,2022,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-729557,VA,New Kent,Lanexa,Source2,3,37.479435,-76.918846,2022,12,Sunday,Sin dato,False,False,False,False,False,False,False
+A-740635,VA,New Kent,Quinton,Source2,3,37.51646,-77.193596,2022,16,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-740906,VA,New Kent,Quinton,Source2,4,37.515476,-77.189972,2022,14,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-746052,VA,New Kent,Quinton,Source2,3,37.506588,-77.09684,2022,14,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-746098,VA,New Kent,Lanexa,Source2,3,37.47757,-76.913628,2022,12,Sunday,Sin dato,False,False,True,False,False,False,False
+A-746560,VA,New Kent,Lanexa,Source2,3,37.479435,-76.918846,2022,11,Saturday,Sin dato,False,False,False,False,False,False,False
+A-751658,VA,New Kent,Lanexa,Source2,3,37.45486500000001,-76.872887,2022,6,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-756212,VA,New Kent,Lanexa,Source2,3,37.479435,-76.918846,2022,16,Monday,Sin dato,False,False,False,False,False,False,False
+A-756419,VA,New Kent,New Kent,Source2,3,37.494366,-77.018478,2022,17,Monday,Sin dato,False,False,False,False,False,False,False
+A-757140,VA,New Kent,Quinton,Source2,3,37.508816,-77.132126,2022,7,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-758398,VA,New Kent,Lanexa,Source2,3,37.479435,-76.918846,2021,18,Friday,Sin dato,False,False,False,False,False,False,False
+A-758570,VA,New Kent,Lanexa,Source2,3,37.479435,-76.918846,2021,15,Friday,Sin dato,False,False,False,False,False,False,False
+A-766884,VA,New Kent,Lanexa,Source2,3,37.47789,-76.914291,2021,19,Thursday,Sin dato,False,False,False,False,False,False,False
+A-770452,VA,New Kent,New Kent,Source2,3,37.496857,-77.031219,2021,17,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-772769,VA,New Kent,New Kent,Source2,3,37.494003,-77.01548000000003,2021,11,Sunday,Sin dato,False,False,False,False,False,False,False
+A-797727,VA,New Kent,Quinton,Source2,3,37.516827,-77.193771,2021,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-800453,VA,New Kent,Quinton,Source2,3,37.511497,-77.152214,2021,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-801420,VA,New Kent,Lanexa,Source2,3,37.477188,-76.916977,2021,8,Monday,Sin dato,False,False,False,False,False,False,False
+A-801826,VA,New Kent,Providence Forge,Source2,3,37.503098,-77.079689,2021,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-802044,VA,New Kent,Lanexa,Source2,3,37.481777,-76.928108,2021,10,Sunday,Sin dato,False,False,False,False,False,False,False
+A-807393,VA,New Kent,Providence Forge,Source2,3,37.504032,-77.085022,2021,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-812356,VA,New Kent,Quinton,Source2,3,37.524673,-77.075615,2021,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-813968,VA,New Kent,Quinton,Source2,3,37.506866,-77.098427,2021,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-814491,VA,New Kent,New Kent,Source2,3,37.495384,-77.023476,2021,8,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-820885,VA,New Kent,Quinton,Source2,3,37.510082,-77.14585100000002,2021,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-838216,VA,New Kent,Quinton,Source2,3,37.509022,-77.121849,2021,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-844825,VA,New Kent,Lanexa,Source2,3,37.479519,-76.92408,2021,19,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-844942,VA,New Kent,New Kent,Source2,3,37.496204,-77.026329,2021,22,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-858118,VA,New Kent,Quinton,Source2,3,37.516441,-77.193451,2021,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-863173,VA,New Kent,Quinton,Source2,3,37.515987,-77.18737800000002,2021,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-867313,VA,New Kent,New Kent,Source2,3,37.495384,-77.023476,2021,19,Sunday,Sin dato,False,False,False,False,False,False,False
+A-883488,VA,New Kent,Lanexa,Source2,3,37.479435,-76.918846,2021,10,Sunday,Sin dato,False,False,False,False,False,False,False
+A-884511,VA,New Kent,Quinton,Source2,3,37.516026,-77.19036899999998,2021,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-904444,VA,New Kent,Lanexa,Source2,3,37.476593,-76.91544300000002,2021,22,Friday,Sin dato,False,False,False,False,False,False,False
+A-909945,VA,New Kent,Lanexa,Source2,3,37.48074,-76.922623,2021,22,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-919409,VA,New Kent,Quinton,Source2,3,37.516293,-77.189812,2021,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-919429,VA,New Kent,Quinton,Source2,3,37.515476,-77.189972,2021,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-920520,VA,New Kent,New Kent,Source2,3,37.49443400000001,-77.018974,2021,9,Saturday,Sin dato,False,False,False,False,False,False,False
+A-929606,VA,New Kent,Lanexa,Source2,4,37.479435,-76.918846,2021,9,Saturday,Sin dato,False,False,False,False,False,False,False
+A-932203,VA,New Kent,Lanexa,Source2,3,37.479435,-76.918846,2021,14,Thursday,Sin dato,False,False,False,False,False,False,False
+A-934899,VA,New Kent,Providence Forge,Source2,3,37.504616,-77.08530400000002,2021,14,Monday,Rain,False,False,False,False,False,False,False
+A-937385,VA,New Kent,New Kent,Source2,3,37.496269,-77.026794,2021,10,Friday,Sin dato,False,False,False,False,False,False,False
+A-941262,VA,New Kent,Lanexa,Source2,3,37.423038,-76.941856,2021,4,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-942468,VA,New Kent,Lanexa,Source2,3,37.478588,-76.91595500000003,2021,14,Sunday,Sin dato,False,False,False,False,False,False,False
+A-946088,VA,New Kent,Quinton,Source2,3,37.53278,-77.115463,2021,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-951002,VA,New Kent,Lanexa,Source2,3,37.479435,-76.918846,2021,17,Sunday,Sin dato,False,False,False,False,False,False,False
+A-951412,VA,New Kent,Quinton,Source2,3,37.515476,-77.189972,2021,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-968741,VA,New Kent,Quinton,Source2,3,37.515476,-77.189972,2021,15,Sunday,Rain,False,False,False,False,False,False,False
+A-970709,VA,New Kent,Providence Forge,Source2,4,37.504597,-77.08532,2021,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-970715,VA,New Kent,New Kent,Source2,3,37.495323,-77.020302,2021,14,Monday,Sin dato,False,False,False,False,False,False,False
+A-974793,VA,New Kent,Quinton,Source2,3,37.516659,-77.192513,2021,17,Thursday,Rain,False,False,False,False,False,False,False
+A-974821,VA,New Kent,Quinton,Source2,3,37.516533,-77.19162800000002,2021,20,Thursday,Rain,False,False,False,False,False,False,False
+A-979097,VA,New Kent,Quinton,Source2,3,37.511578,-77.152863,2021,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-979098,VA,New Kent,Quinton,Source2,3,37.51115,-77.14936800000002,2021,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-979099,VA,New Kent,Quinton,Source2,3,37.51115,-77.14936800000002,2021,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-979102,VA,New Kent,Lanexa,Source2,3,37.479435,-76.918846,2021,12,Monday,Sin dato,False,False,False,False,False,False,False
+A-979104,VA,New Kent,New Kent,Source2,3,37.489033,-76.976624,2021,15,Monday,Sin dato,False,False,False,False,False,False,False
+A-979123,VA,New Kent,New Kent,Source2,3,37.495384,-77.023476,2021,21,Monday,Sin dato,False,False,False,False,False,False,False
+A-987276,VA,New Kent,Lanexa,Source2,3,37.486816,-76.96108199999998,2021,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-988964,VA,New Kent,Quinton,Source2,3,37.509369,-77.128914,2021,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-989879,VA,New Kent,Lanexa,Source2,3,37.479435,-76.918846,2021,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-991381,VA,New Kent,New Kent,Source2,3,37.495384,-77.023476,2021,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-992600,VA,New Kent,Quinton,Source2,3,37.516144,-77.188652,2021,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1017283,VA,New Kent,Lanexa,Source2,3,37.48027800000001,-76.92085300000002,2021,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1034119,VA,New Kent,Quinton,Source2,3,37.515884,-77.189423,2021,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1034526,VA,New Kent,Quinton,Source2,3,37.516354,-77.19277199999998,2021,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1035404,VA,New Kent,Quinton,Source2,3,37.513809,-77.17112,2021,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1038922,VA,New Kent,Providence Forge,Source2,3,37.504597,-77.08532,2021,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1054100,VA,New Kent,Lanexa,Source2,3,37.480793,-76.922852,2021,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1057673,VA,New Kent,Quinton,Source2,3,37.506653,-77.097206,2021,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1063695,VA,New Kent,Lanexa,Source2,3,37.423168,-76.95259899999998,2021,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-1063704,VA,New Kent,Quinton,Source2,3,37.516682,-77.192673,2021,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1069931,VA,New Kent,Providence Forge,Source2,3,37.504616,-77.08530400000002,2021,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1078421,VA,New Kent,Lanexa,Source2,3,37.479435,-76.918846,2021,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1095458,VA,New Kent,New Kent,Source2,3,37.50491,-77.087059,2021,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1095459,VA,New Kent,Providence Forge,Source2,3,37.503975,-77.08156600000002,2021,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1103075,VA,New Kent,Quinton,Source2,3,37.516205,-77.189125,2021,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1104306,VA,New Kent,New Kent,Source2,3,37.495304,-77.020195,2021,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1105997,VA,New Kent,Quinton,Source2,3,37.506058,-77.093773,2021,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1109165,VA,New Kent,New Kent,Source2,3,37.495007,-77.018112,2021,22,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1110597,VA,New Kent,Quinton,Source2,3,37.516136,-77.191109,2021,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1114600,VA,New Kent,Quinton,Source2,3,37.515724,-77.188324,2021,20,Thursday,Rain,False,False,False,False,False,False,False
+A-1127086,VA,New Kent,Providence Forge,Source2,3,37.504597,-77.08532,2021,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1130889,VA,New Kent,Quinton,Source2,3,37.515476,-77.189972,2021,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1132279,VA,New Kent,Lanexa,Source2,3,37.455963,-76.876678,2021,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1137487,VA,New Kent,Providence Forge,Source2,3,37.504417,-77.082047,2021,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1140496,VA,New Kent,Lanexa,Source2,3,37.479435,-76.918846,2021,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1145839,VA,New Kent,Quinton,Source2,3,37.515476,-77.189972,2021,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-1154041,VA,New Kent,New Kent,Source2,3,37.494816,-77.021812,2021,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1154042,VA,New Kent,Providence Forge,Source2,3,37.504597,-77.08532,2021,8,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-1154990,VA,New Kent,Quinton,Source2,3,37.512421,-77.16330699999997,2021,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-1155061,VA,New Kent,New Kent,Source2,3,37.495209,-77.024796,2021,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-1157155,VA,New Kent,Lanexa,Source2,3,37.480972,-76.923698,2021,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1163746,VA,New Kent,Lanexa,Source2,3,37.478897,-76.922028,2021,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1172948,VA,New Kent,Lanexa,Source2,3,37.480389,-76.91765600000002,2021,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1172963,VA,New Kent,Quinton,Source2,3,37.516293,-77.189812,2021,11,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1174354,VA,New Kent,Quinton,Source2,3,37.514755,-77.18085500000002,2021,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1187098,VA,New Kent,Lanexa,Source2,3,37.475571,-76.912865,2021,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1208602,VA,New Kent,Lanexa,Source2,3,37.487457,-76.965012,2020,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1214918,VA,New Kent,New Kent,Source2,3,37.495384,-77.023476,2020,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-1215580,VA,New Kent,Providence Forge,Source2,3,37.504517,-77.08802800000002,2020,15,Thursday,Rain,False,False,False,False,False,False,False
+A-1221448,VA,New Kent,Lanexa,Source2,3,37.479355,-76.92491899999997,2020,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1222787,VA,New Kent,Lanexa,Source2,3,37.479435,-76.918846,2020,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-1224657,VA,New Kent,Quinton,Source2,3,37.515476,-77.189972,2020,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1224692,VA,New Kent,Lanexa,Source2,3,37.479481,-76.918312,2020,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1224721,VA,New Kent,Lanexa,Source2,3,37.479481,-76.918312,2020,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1228253,VA,New Kent,Lanexa,Source2,3,37.478706,-76.921417,2020,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1229817,VA,New Kent,Quinton,Source2,3,37.515476,-77.189972,2020,9,Monday,Rain,False,False,False,False,False,False,False
+A-1229844,VA,New Kent,Lanexa,Source2,3,37.479435,-76.918846,2020,14,Monday,Sin dato,False,False,False,False,False,False,False
+A-1232763,VA,New Kent,Lanexa,Source2,3,37.479435,-76.918846,2020,12,Friday,Sin dato,False,False,False,False,False,False,False
+A-1239346,VA,New Kent,Quinton,Source2,3,37.516323,-77.190048,2020,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-1244777,VA,New Kent,Lanexa,Source2,3,37.479435,-76.918846,2020,15,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-1276088,VA,New Kent,Quinton,Source2,3,37.515476,-77.189972,2020,10,Sunday,Sin dato,False,False,False,False,False,False,False
+A-1285037,VA,New Kent,Quinton,Source2,3,37.515957,-77.189888,2020,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1289709,VA,New Kent,Quinton,Source2,3,37.519741,-77.187111,2020,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1289729,VA,New Kent,Lanexa,Source2,3,37.477547,-76.91798399999998,2020,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1291785,VA,New Kent,Quinton,Source2,3,37.50605,-77.093719,2020,18,Wednesday,Rain,False,False,False,False,False,False,False
+A-1291815,VA,New Kent,Lanexa,Source2,3,37.45215200000001,-76.870834,2020,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1291829,VA,New Kent,New Kent,Source2,3,37.495384,-77.023476,2020,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1296185,VA,New Kent,Lanexa,Source2,3,37.479435,-76.918846,2020,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1302279,VA,New Kent,New Kent,Source2,3,37.495384,-77.023476,2020,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1304129,VA,New Kent,New Kent,Source2,3,37.49662,-77.029381,2020,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1311815,VA,New Kent,Lanexa,Source2,3,37.479435,-76.918846,2020,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1315097,VA,New Kent,Providence Forge,Source2,3,37.504597,-77.08532,2020,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1334351,VA,New Kent,Quinton,Source2,3,37.50872800000001,-77.11547900000002,2020,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1336005,VA,New Kent,Lanexa,Source2,3,37.481556,-76.926819,2020,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-1339606,VA,New Kent,Providence Forge,Source2,3,37.504597,-77.08532,2020,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1343354,VA,New Kent,New Kent,Source2,3,37.495384,-77.023476,2020,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-1343364,VA,New Kent,Providence Forge,Source2,3,37.504349,-77.087021,2020,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1345661,VA,New Kent,Lanexa,Source2,3,37.479435,-76.918846,2020,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1355844,VA,New Kent,Lanexa,Source2,3,37.479435,-76.918846,2020,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1365480,VA,New Kent,New Kent,Source2,3,37.495743,-77.023193,2020,23,Friday,Cloudy,False,False,False,False,False,False,False
+A-1373929,VA,New Kent,Quinton,Source2,3,37.515476,-77.189972,2020,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1375243,VA,New Kent,Lanexa,Source2,3,37.479435,-76.918846,2020,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1375255,VA,New Kent,New Kent,Source2,3,37.49493,-77.022644,2020,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1375981,VA,New Kent,Providence Forge,Source2,3,37.504005,-77.084869,2020,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1375983,VA,New Kent,Providence Forge,Source2,3,37.504623,-77.088661,2020,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1388326,VA,New Kent,New Kent,Source2,3,37.489658,-76.97718,2020,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1400648,VA,New Kent,Providence Forge,Source2,3,37.504597,-77.08532,2020,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1406659,VA,New Kent,Quinton,Source2,3,37.515476,-77.189972,2020,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-1406661,VA,New Kent,Quinton,Source2,3,37.515476,-77.189972,2020,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-1408066,VA,New Kent,Providence Forge,Source2,3,37.504597,-77.08532,2020,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1408588,VA,New Kent,New Kent,Source2,3,37.495384,-77.023476,2020,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1409291,VA,New Kent,Quinton,Source2,3,37.515476,-77.189972,2020,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-1410799,VA,New Kent,Quinton,Source2,3,37.516014,-77.190269,2020,8,Tuesday,Rain,False,False,False,False,False,False,False
+A-1410804,VA,New Kent,Quinton,Source2,3,37.516354,-77.190315,2020,8,Tuesday,Rain,False,False,False,False,False,False,False
+A-1410810,VA,New Kent,Quinton,Source2,3,37.515476,-77.189972,2020,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1413652,VA,New Kent,Providence Forge,Source2,3,37.503475,-77.081947,2020,16,Thursday,Storm,False,False,False,False,False,False,False
+A-1413667,VA,New Kent,Quinton,Source2,3,37.515846,-77.18918599999998,2020,19,Thursday,Storm,False,False,False,False,False,False,False
+A-1418907,VA,New Kent,Providence Forge,Source2,3,37.504597,-77.08532,2020,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1418909,VA,New Kent,Providence Forge,Source2,3,37.50399,-77.08476999999998,2020,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1420304,VA,New Kent,Quinton,Source2,3,37.515476,-77.189972,2020,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1421923,VA,New Kent,New Kent,Source2,3,37.495384,-77.023476,2020,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1423547,VA,New Kent,Lanexa,Source2,3,37.479435,-76.918846,2020,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1423549,VA,New Kent,New Kent,Source2,4,37.495384,-77.023476,2020,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-1425579,VA,New Kent,New Kent,Source2,4,37.495384,-77.023476,2020,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1434338,VA,New Kent,Providence Forge,Source2,3,37.504597,-77.08532,2020,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1434346,VA,New Kent,New Kent,Source2,3,37.495384,-77.023476,2020,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1440841,VA,New Kent,New Kent,Source2,4,37.495384,-77.023476,2020,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1442772,VA,New Kent,Lanexa,Source2,3,37.468567,-76.89694200000002,2020,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1444970,VA,New Kent,Quinton,Source2,3,37.515381,-77.192764,2020,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1453512,VA,New Kent,Quinton,Source2,3,37.515476,-77.189972,2020,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1480197,VA,New Kent,New Kent,Source2,4,37.495384,-77.023476,2020,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1481708,VA,New Kent,Quinton,Source2,3,37.516048,-77.187889,2020,19,Friday,Rain,False,False,False,False,False,False,False
+A-1483466,VA,New Kent,Lanexa,Source2,3,37.479435,-76.918846,2020,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1483467,VA,New Kent,New Kent,Source2,3,37.495384,-77.023476,2020,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1484147,VA,New Kent,Providence Forge,Source2,4,37.504097,-77.085442,2020,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-1485708,VA,New Kent,New Kent,Source2,3,37.496086,-77.02555799999998,2020,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1488825,VA,New Kent,Quinton,Source2,3,37.515476,-77.189941,2020,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1490432,VA,New Kent,Providence Forge,Source2,3,37.504597,-77.08532,2020,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1499335,VA,New Kent,New Kent,Source2,3,37.495384,-77.023476,2020,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1503508,VA,New Kent,New Kent,Source2,3,37.495384,-77.023476,2020,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-1530220,VA,New Kent,New Kent,Source2,3,37.495384,-77.023476,2020,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-1548086,VA,New Kent,Quinton,Source2,3,37.51646,-77.191086,2020,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1549182,VA,New Kent,New Kent,Source2,3,37.49501,-77.023239,2020,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1556876,VA,New Kent,Lanexa,Source2,3,37.479435,-76.918846,2020,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1557962,VA,New Kent,Lanexa,Source2,3,37.480213,-76.918945,2020,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1563262,VA,New Kent,Quinton,Source2,3,37.51475900000001,-77.18779,2020,18,Thursday,Rain,False,False,False,False,False,False,False
+A-1569750,VA,New Kent,Lanexa,Source2,3,37.476463,-76.91510799999998,2020,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1570293,VA,New Kent,Lanexa,Source2,3,37.479435,-76.918846,2020,7,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1571277,VA,New Kent,Quinton,Source2,3,37.515476,-77.189972,2020,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-1587524,VA,New Kent,Lanexa,Source2,3,37.480213,-76.919792,2020,9,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1588441,VA,New Kent,Quinton,Source2,3,37.514935,-77.19013199999998,2020,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-1600030,VA,New Kent,Lanexa,Source2,3,37.480789,-76.92282900000002,2020,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1626041,VA,New Kent,Barhamsville,Source2,3,37.453671,-76.840622,2020,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1629923,VA,New Kent,New Kent,Source2,3,37.495712,-77.022987,2020,21,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1637377,VA,New Kent,Quinton,Source2,3,37.515476,-77.189972,2020,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1637378,VA,New Kent,Quinton,Source2,3,37.515476,-77.189972,2020,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1646247,VA,New Kent,New Kent,Source2,3,37.495384,-77.023476,2020,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1646302,VA,New Kent,Quinton,Source2,3,37.515476,-77.189972,2020,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1666615,VA,New Kent,Lanexa,Source2,3,37.479435,-76.918846,2020,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1674356,VA,New Kent,New Kent,Source2,3,37.495384,-77.023476,2020,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1688330,VA,New Kent,Quinton,Source2,3,37.515476,-77.189972,2019,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-1701608,VA,New Kent,Providence Forge,Source2,3,37.447781,-77.064774,2019,19,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1716328,VA,New Kent,New Kent,Source2,3,37.495384,-77.023476,2019,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1726367,VA,New Kent,Quinton,Source2,3,37.514973,-77.190117,2019,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1736315,VA,New Kent,Lanexa,Source2,3,37.478836,-76.921837,2019,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1737556,VA,New Kent,Providence Forge,Source2,4,37.504097,-77.085442,2019,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-1737593,VA,New Kent,Quinton,Source2,3,37.515903,-77.189552,2019,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-1762712,VA,New Kent,New Kent,Source2,3,37.495132,-77.024185,2019,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1774936,VA,New Kent,Quinton,Source2,3,37.515476,-77.189972,2019,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1779656,VA,New Kent,Lanexa,Source2,3,37.479435,-76.918846,2019,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1780492,VA,New Kent,Lanexa,Source2,3,37.481503,-76.926514,2019,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1789431,VA,New Kent,Quinton,Source2,3,37.516308,-77.189941,2019,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1794979,VA,New Kent,Lanexa,Source2,3,37.479435,-76.918846,2019,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1817066,VA,New Kent,Providence Forge,Source2,3,37.504597,-77.08532,2019,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1817122,VA,New Kent,Quinton,Source2,3,37.5159,-77.189514,2019,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1819885,VA,New Kent,Lanexa,Source2,3,37.479435,-76.918846,2019,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1827312,VA,New Kent,Providence Forge,Source2,3,37.457649,-77.092552,2019,20,Monday,Rain,False,False,False,False,False,False,False
+A-1832428,VA,New Kent,Quinton,Source2,3,37.515476,-77.189972,2019,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1832464,VA,New Kent,Lanexa,Source2,3,37.476154,-76.91433,2019,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1841308,VA,New Kent,Quinton,Source2,3,37.515476,-77.189972,2019,8,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1841323,VA,New Kent,Quinton,Source2,3,37.515312,-77.190117,2019,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1842544,VA,New Kent,Quinton,Source2,3,37.515476,-77.189972,2019,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1847678,VA,New Kent,Providence Forge,Source2,3,37.504597,-77.08532,2019,10,Wednesday,Rain,False,False,False,False,False,False,False
+A-1865740,VA,New Kent,New Kent,Source2,3,37.495384,-77.023476,2019,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1871836,VA,New Kent,Lanexa,Source2,3,37.479435,-76.918846,2019,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1886419,VA,New Kent,Quinton,Source2,3,37.515476,-77.189972,2019,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1887932,VA,New Kent,Lanexa,Source2,3,37.477985,-76.914513,2019,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1887935,VA,New Kent,Lanexa,Source2,3,37.479435,-76.918846,2019,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1900414,VA,New Kent,Quinton,Source2,3,37.516659,-77.195061,2019,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-1908042,VA,New Kent,Providence Forge,Source2,3,37.445625,-77.058952,2019,16,Thursday,Clear / Fair,False,True,False,False,False,False,True
+A-1922633,VA,New Kent,Quinton,Source2,3,37.515476,-77.189972,2019,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1922642,VA,New Kent,New Kent,Source2,3,37.496937,-77.03181500000002,2019,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1922645,VA,New Kent,New Kent,Source2,3,37.496399,-77.027733,2019,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1924966,VA,New Kent,Quinton,Source2,3,37.516216,-77.189224,2019,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1932573,VA,New Kent,Quinton,Source2,3,37.51600300000001,-77.190186,2019,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-1935123,VA,New Kent,West Point,Source2,3,37.526348,-76.823387,2019,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1935149,VA,New Kent,Quinton,Source2,3,37.515476,-77.189972,2019,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1947020,VA,New Kent,Quinton,Source2,3,37.517124,-77.196037,2019,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1949207,VA,New Kent,Quinton,Source2,3,37.512035,-77.160423,2019,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1949213,VA,New Kent,Providence Forge,Source2,3,37.484581,-77.11215200000002,2019,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1952473,VA,New Kent,Quinton,Source2,3,37.514656,-77.180099,2019,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1966421,VA,New Kent,Quinton,Source2,4,37.516293,-77.189812,2019,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1969908,VA,New Kent,New Kent,Source2,3,37.505806,-77.09234599999998,2019,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1969909,VA,New Kent,Providence Forge,Source2,3,37.504547,-77.088219,2019,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1976576,VA,New Kent,Quinton,Source2,3,37.516296,-77.189842,2019,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1976577,VA,New Kent,Quinton,Source2,3,37.515018,-77.190262,2019,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1976651,VA,New Kent,Quinton,Source2,3,37.509235,-77.138802,2019,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1980195,VA,New Kent,Providence Forge,Source2,4,37.50462,-77.085312,2019,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1980214,VA,New Kent,Quinton,Source2,3,37.515476,-77.189972,2019,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1980225,VA,New Kent,Lanexa,Source2,3,37.479435,-76.918846,2019,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1982411,VA,New Kent,Quinton,Source2,3,37.509048,-77.136421,2019,13,Tuesday,Rain,False,False,False,False,False,False,False
+A-1989115,VA,New Kent,Quinton,Source2,3,37.515903,-77.189545,2019,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2001099,VA,New Kent,New Kent,Source2,3,37.501537,-77.067337,2019,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2002891,VA,New Kent,Quinton,Source2,3,37.515476,-77.189972,2019,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2012186,VA,New Kent,Quinton,Source2,3,37.51577,-77.18573,2019,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2017328,VA,New Kent,Providence Forge,Source2,3,37.504597,-77.08532,2019,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-2017329,VA,New Kent,Providence Forge,Source2,3,37.504597,-77.08532,2019,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-2017361,VA,New Kent,Quinton,Source2,3,37.515957,-77.189888,2019,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2036196,VA,New Kent,New Kent,Source2,3,37.494057,-77.015907,2019,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2036200,VA,New Kent,Quinton,Source2,3,37.517132,-77.196083,2019,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2036211,VA,New Kent,New Kent,Source2,3,37.495384,-77.023476,2019,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2036225,VA,New Kent,Quinton,Source2,4,37.516293,-77.189812,2019,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2040515,VA,New Kent,Quinton,Source2,3,37.515476,-77.189972,2019,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2041348,VA,New Kent,Quinton,Source2,3,37.515476,-77.189972,2019,10,Sunday,Rain,False,False,False,False,False,False,False
+A-2042450,VA,New Kent,Quinton,Source2,4,37.515476,-77.189972,2019,14,Monday,Rain,False,False,False,False,False,False,False
+A-2042459,VA,New Kent,Quinton,Source2,3,37.509888,-77.144203,2019,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-2049353,VA,New Kent,Quinton,Source2,3,37.515476,-77.189972,2019,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2051563,VA,New Kent,Quinton,Source2,3,37.515476,-77.189972,2019,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2051572,VA,New Kent,Quinton,Source2,3,37.515598,-77.18441,2019,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2064842,VA,New Kent,Providence Forge,Source2,3,37.504108,-77.08551,2019,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2064856,VA,New Kent,Quinton,Source2,3,37.515476,-77.189972,2019,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2082796,VA,New Kent,Quinton,Source2,3,37.515476,-77.189972,2019,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2083523,VA,New Kent,Lanexa,Source2,3,37.483883,-76.94455699999997,2019,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2089931,VA,New Kent,New Kent,Source2,3,37.495384,-77.023476,2019,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2089980,VA,New Kent,Quinton,Source2,4,37.515476,-77.189972,2019,0,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2094794,VA,New Kent,Providence Forge,Source2,3,37.503021,-77.079224,2019,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-2097308,VA,New Kent,Providence Forge,Source2,3,37.504597,-77.08532,2019,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2110675,VA,New Kent,Lanexa,Source2,3,37.479435,-76.918846,2019,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2110676,VA,New Kent,New Kent,Source2,3,37.495384,-77.023476,2019,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2123394,VA,New Kent,Lanexa,Source2,3,37.478153000000006,-76.919815,2019,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2131045,VA,New Kent,Quinton,Source2,3,37.515762,-77.188652,2019,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2135765,VA,New Kent,Quinton,Source2,3,37.515476,-77.189972,2019,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2145237,VA,New Kent,Quinton,Source2,3,37.515728,-77.188354,2019,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2150016,VA,New Kent,New Kent,Source2,3,37.495338,-77.022964,2019,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-2150068,VA,New Kent,Providence Forge,Source2,3,37.503315,-77.080963,2019,16,Friday,Rain,False,False,False,False,False,False,False
+A-2152870,VA,New Kent,Lanexa,Source2,3,37.48534,-76.948883,2019,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2167919,VA,New Kent,New Kent,Source2,3,37.504704,-77.085823,2019,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2191964,VA,New Kent,Lanexa,Source2,3,37.453114,-76.870171,2019,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2201281,VA,New Kent,Quinton,Source2,4,37.515488,-77.18985,2019,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2206212,VA,New Kent,Quinton,Source2,3,37.515488,-77.18985,2019,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2218788,VA,New Kent,Quinton,Source2,4,37.515488,-77.18985,2019,23,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2226164,VA,New Kent,Providence Forge,Source2,4,37.504467,-77.084549,2019,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2226186,VA,New Kent,Quinton,Source2,3,37.515488,-77.18985,2019,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2231002,VA,New Kent,Providence Forge,Source2,3,37.50457,-77.085014,2019,14,Thursday,Rain,False,False,False,False,False,False,False
+A-2258101,VA,New Kent,Quinton,Source2,3,37.514694,-77.20146899999997,2019,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-2258102,VA,New Kent,Quinton,Source2,3,37.514549,-77.16156,2019,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-2260197,VA,New Kent,Quinton,Source2,3,37.515488,-77.18985,2019,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2260208,VA,New Kent,Quinton,Source2,3,37.517544,-77.20859499999997,2019,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2260964,VA,New Kent,New Kent,Source2,3,37.495338,-77.022964,2019,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2279521,VA,New Kent,New Kent,Source2,3,37.495338,-77.022964,2019,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2279579,VA,New Kent,New Kent,Source2,3,37.495338,-77.022964,2019,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2287691,VA,New Kent,New Kent,Source2,3,37.49577,-77.023384,2019,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2291723,VA,New Kent,Providence Forge,Source2,3,37.501469,-77.070213,2019,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-2298876,VA,New Kent,New Kent,Source2,3,37.495075,-77.023735,2019,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2303280,VA,New Kent,Providence Forge,Source2,3,37.504467,-77.084549,2019,10,Saturday,Rain,False,False,False,False,False,False,False
+A-2303942,VA,New Kent,Lanexa,Source2,3,37.479919,-76.91787,2019,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2309505,VA,New Kent,Providence Forge,Source2,3,37.504467,-77.084549,2019,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2330993,VA,New Kent,Quinton,Source2,3,37.516323,-77.190063,2019,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-2334668,VA,New Kent,Quinton,Source2,3,37.515488,-77.18985,2019,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-2337247,VA,New Kent,Quinton,Source2,3,37.516312,-77.189964,2019,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2347912,VA,New Kent,New Kent,Source2,3,37.495338,-77.022964,2019,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2348991,VA,New Kent,Providence Forge,Source2,3,37.504467,-77.084549,2019,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2349003,VA,New Kent,Quinton,Source2,3,37.515488,-77.18985,2019,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2349012,VA,New Kent,Providence Forge,Source2,3,37.50412,-77.08557900000002,2019,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-2356901,VA,New Kent,New Kent,Source2,3,37.495316,-77.020264,2019,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2359670,VA,New Kent,New Kent,Source2,3,37.495338,-77.022964,2019,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2375635,VA,New Kent,Quinton,Source2,3,37.516262,-77.189644,2018,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2384349,VA,New Kent,Providence Forge,Source2,3,37.504467,-77.084549,2018,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-2387724,VA,New Kent,New Kent,Source2,3,37.495338,-77.022964,2018,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2387727,VA,New Kent,New Kent,Source2,3,37.495338,-77.022964,2018,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2387730,VA,New Kent,Quinton,Source2,3,37.515488,-77.18985,2018,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-2397288,VA,New Kent,New Kent,Source2,3,37.495338,-77.022964,2018,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-2397291,VA,New Kent,Quinton,Source2,3,37.516354,-77.190308,2018,13,Friday,Rain,False,False,False,False,False,False,False
+A-2400772,VA,New Kent,Quinton,Source2,3,37.515488,-77.18985,2018,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2400784,VA,New Kent,Quinton,Source2,3,37.515488,-77.18985,2018,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2409913,VA,New Kent,Quinton,Source2,3,37.515488,-77.18985,2018,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-2410016,VA,New Kent,New Kent,Source2,3,37.495758,-77.02329300000002,2018,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2418835,VA,New Kent,Quinton,Source2,3,37.516098,-77.188293,2018,14,Friday,Rain,False,False,False,False,False,False,False
+A-2422012,VA,New Kent,New Kent,Source2,3,37.494953,-77.022812,2018,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-2424527,VA,New Kent,Quinton,Source2,3,37.516262,-77.189644,2018,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2428106,VA,New Kent,New Kent,Source2,3,37.494785,-77.021606,2018,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2439320,VA,New Kent,Quinton,Source2,3,37.516788,-77.193512,2018,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2439336,VA,New Kent,Quinton,Source2,3,37.509235,-77.126076,2018,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2447959,VA,New Kent,New Kent,Source2,3,37.495049,-77.02359799999998,2018,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2477149,VA,New Kent,Lanexa,Source2,3,37.47802,-76.91935699999998,2018,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2477153,VA,New Kent,Quinton,Source2,3,37.516262,-77.189644,2018,12,Saturday,Rain,False,False,False,False,False,False,False
+A-2477163,VA,New Kent,Quinton,Source2,3,37.516262,-77.189644,2018,14,Saturday,Rain,False,False,False,False,False,False,False
+A-2477166,VA,New Kent,Quinton,Source2,3,37.517887,-77.201782,2018,15,Saturday,Rain,False,False,False,False,False,False,False
+A-2479179,VA,New Kent,Lanexa,Source2,3,37.480328,-76.926971,2018,8,Monday,Cloudy,False,False,True,False,False,False,False
+A-2482008,VA,New Kent,Providence Forge,Source2,3,37.504002,-77.085114,2018,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2484988,VA,New Kent,Lanexa,Source2,3,37.480328,-76.926971,2018,16,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-2492016,VA,New Kent,Lanexa,Source2,3,37.478722,-76.91628299999998,2018,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2516013,VA,New Kent,Quinton,Source2,3,37.509739,-77.136429,2018,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2516747,VA,New Kent,Quinton,Source2,3,37.516327,-77.19009399999999,2018,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2518010,VA,New Kent,Quinton,Source2,3,37.516331,-77.19013199999998,2018,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-2520771,VA,New Kent,Lanexa,Source2,3,37.446449,-76.862572,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2532984,VA,New Kent,Quinton,Source2,3,37.51516,-77.1838,2018,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2532992,VA,New Kent,Lanexa,Source2,3,37.479446,-76.918205,2018,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2533002,VA,New Kent,Quinton,Source2,3,37.507969,-77.105537,2018,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2537053,VA,New Kent,Providence Forge,Source2,3,37.501465,-77.070274,2018,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2537060,VA,New Kent,Lanexa,Source2,3,37.476917,-76.91615300000002,2018,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2542733,VA,New Kent,Lanexa,Source2,3,37.480782,-76.92282900000002,2018,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2556292,VA,New Kent,Lanexa,Source2,3,37.477604,-76.918076,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2556303,VA,New Kent,Providence Forge,Source2,3,37.504021,-77.085213,2018,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-2559868,VA,New Kent,New Kent,Source2,3,37.504562,-77.085068,2018,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2576448,VA,New Kent,Quinton,Source2,3,37.516262,-77.189644,2018,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2579123,VA,New Kent,New Kent,Source2,3,37.495049,-77.02359799999998,2018,8,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-2581677,VA,New Kent,Lanexa,Source2,3,37.479008,-76.917015,2018,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2601387,VA,New Kent,New Kent,Source2,3,37.494999,-77.01808199999998,2018,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2602686,VA,New Kent,Lanexa,Source2,3,37.479008,-76.917015,2018,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-2610980,VA,New Kent,New Kent,Source2,3,37.49575,-77.02343,2018,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2621824,VA,New Kent,New Kent,Source2,3,37.495049,-77.02359799999998,2018,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2624270,VA,New Kent,New Kent,Source2,3,37.495049,-77.02359799999998,2018,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-2633205,VA,New Kent,New Kent,Source2,3,37.504562,-77.085068,2018,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2633211,VA,New Kent,Lanexa,Source2,3,37.477581,-76.918015,2018,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2638328,VA,New Kent,New Kent,Source2,3,37.504562,-77.085068,2018,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2638340,VA,New Kent,Providence Forge,Source2,3,37.503658,-77.07978100000003,2018,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2642344,VA,New Kent,Quinton,Source2,3,37.516262,-77.189644,2018,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-2652288,VA,New Kent,Providence Forge,Source2,3,37.504211,-77.08629599999998,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2652293,VA,New Kent,Quinton,Source2,3,37.515938,-77.18980400000002,2018,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2661351,VA,New Kent,Lanexa,Source2,3,37.479008,-76.917015,2018,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2661378,VA,New Kent,Quinton,Source2,3,37.517349,-77.197762,2018,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2661392,VA,New Kent,Lanexa,Source2,3,37.479008,-76.917015,2018,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2663823,VA,New Kent,New Kent,Source2,3,37.495049,-77.02359799999998,2018,1,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2663837,VA,New Kent,Providence Forge,Source2,3,37.498547,-77.047791,2018,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2663918,VA,New Kent,Quinton,Source2,3,37.51593,-77.189644,2018,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2663921,VA,New Kent,Quinton,Source2,3,37.516262,-77.189644,2018,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2666251,VA,New Kent,Quinton,Source2,3,37.532787,-77.11541700000002,2018,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-2666301,VA,New Kent,Quinton,Source2,3,37.516262,-77.189644,2018,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-2675121,VA,New Kent,Quinton,Source2,3,37.514347,-77.190437,2018,8,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-2687674,VA,New Kent,New Kent,Source2,3,37.495853,-77.024139,2018,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2689785,VA,New Kent,New Kent,Source2,3,37.504562,-77.085068,2018,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2689789,VA,New Kent,Quinton,Source2,3,37.510155,-77.146194,2018,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-2689812,VA,New Kent,Quinton,Source2,3,37.516319,-77.19005600000001,2018,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-2689822,VA,New Kent,Quinton,Source2,3,37.516319,-77.19005600000001,2018,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-2689850,VA,New Kent,Lanexa,Source2,3,37.479008,-76.917015,2018,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-2698043,VA,New Kent,Lanexa,Source2,3,37.479008,-76.917015,2018,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2698044,VA,New Kent,New Kent,Source2,3,37.495049,-77.02359799999998,2018,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2702407,VA,New Kent,Lanexa,Source2,3,37.478966,-76.916901,2018,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2702468,VA,New Kent,Quinton,Source2,3,37.515572,-77.184212,2018,14,Friday,Cloudy,False,False,True,False,False,False,False
+A-2702477,VA,New Kent,Providence Forge,Source2,3,37.504494,-77.084686,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2702479,VA,New Kent,New Kent,Source2,3,37.495007,-77.02329300000002,2018,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2731353,VA,New Kent,New Kent,Source2,3,37.495743,-77.02336899999997,2018,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-2731370,VA,New Kent,New Kent,Source2,3,37.495049,-77.02359799999998,2018,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2733723,VA,New Kent,Quinton,Source2,3,37.516262,-77.189644,2018,7,Thursday,Rain,False,False,False,False,False,False,False
+A-2736226,VA,New Kent,New Kent,Source2,3,37.495796,-77.023735,2018,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-2742558,VA,New Kent,Providence Forge,Source2,3,37.504154,-77.085991,2018,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2744934,VA,New Kent,Quinton,Source2,3,37.516262,-77.189644,2018,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2744973,VA,New Kent,Quinton,Source2,3,37.516262,-77.189644,2018,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2747499,VA,New Kent,Quinton,Source2,3,37.516354,-77.1903,2018,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2753856,VA,New Kent,Lanexa,Source2,3,37.479008,-76.917015,2018,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-2753858,VA,New Kent,Lanexa,Source2,3,37.479145,-76.917412,2018,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-2756325,VA,New Kent,Quinton,Source2,3,37.516262,-77.189644,2018,17,Tuesday,Rain,False,False,False,False,False,False,False
+A-2772190,VA,New Kent,Quinton,Source2,3,37.51600300000001,-77.190079,2018,16,Wednesday,Rain,False,False,False,False,False,False,False
+A-2772207,VA,New Kent,New Kent,Source2,3,37.504616,-77.085358,2018,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2774482,VA,New Kent,New Kent,Source2,3,37.504562,-77.085068,2018,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2776760,VA,New Kent,Quinton,Source2,3,37.515945,-77.189728,2018,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-2776761,VA,New Kent,Quinton,Source2,3,37.515945,-77.189728,2018,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-2776762,VA,New Kent,Quinton,Source2,3,37.515945,-77.189728,2018,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-2782929,VA,New Kent,Quinton,Source2,3,37.516327,-77.190102,2018,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2785385,VA,New Kent,New Kent,Source2,3,37.504562,-77.085068,2018,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2787824,VA,New Kent,Providence Forge,Source2,3,37.504543,-77.084969,2018,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2800358,VA,New Kent,Providence Forge,Source2,3,37.504021,-77.085213,2018,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2812226,VA,New Kent,Quinton,Source2,3,37.516247,-77.189545,2018,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2827132,VA,New Kent,New Kent,Source2,3,37.504562,-77.085068,2018,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2832558,VA,New Kent,New Kent,Source2,3,37.504635,-77.085472,2018,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-2836805,VA,New Kent,New Kent,Source2,3,37.495049,-77.02359799999998,2018,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2847229,VA,New Kent,Quinton,Source2,3,37.516026,-77.190247,2018,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-2850819,VA,New Kent,New Kent,Source2,3,37.49596,-77.02486400000002,2018,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-2850844,VA,New Kent,Lanexa,Source2,3,37.479008,-76.917015,2018,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2850864,VA,New Kent,New Kent,Source2,3,37.495876,-77.024284,2018,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-2850900,VA,New Kent,Lanexa,Source2,3,37.483883,-76.94455699999997,2018,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2852741,VA,New Kent,New Kent,Source2,3,37.504562,-77.085068,2018,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2869078,VA,New Kent,Quinton,Source2,3,37.516262,-77.189644,2018,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-2873039,VA,New Kent,New Kent,Source2,3,37.495049,-77.02359799999998,2018,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-2883507,VA,New Kent,Quinton,Source2,3,37.516869,-77.194099,2018,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2883528,VA,New Kent,Providence Forge,Source2,3,37.501488,-77.070412,2018,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2895486,VA,New Kent,Quinton,Source2,3,37.516262,-77.189644,2018,22,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2898115,VA,New Kent,Quinton,Source2,3,37.516293,-77.18985,2018,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2931511,VA,New Kent,Quinton,Source2,3,37.516262,-77.189644,2018,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2934663,VA,New Kent,New Kent,Source2,3,37.495049,-77.02359799999998,2018,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2934688,VA,New Kent,Quinton,Source2,3,37.516262,-77.189644,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2938804,VA,New Kent,Lanexa,Source2,3,37.478043,-76.919426,2018,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2938814,VA,New Kent,New Kent,Source2,3,37.504562,-77.085068,2018,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-2946900,VA,New Kent,Quinton,Source2,3,37.516262,-77.189644,2018,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2949721,VA,New Kent,Quinton,Source2,3,37.516262,-77.189644,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2949734,VA,New Kent,Quinton,Source2,3,37.515888,-77.189316,2018,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-2956398,VA,New Kent,Quinton,Source2,3,37.516293,-77.18987299999998,2018,12,Tuesday,Rain,False,False,False,False,False,False,False
+A-2964991,VA,New Kent,Quinton,Source2,3,37.515305,-77.19010899999998,2018,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2965021,VA,New Kent,Quinton,Source2,3,37.51600300000001,-77.190102,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2969139,VA,New Kent,Quinton,Source2,3,37.516262,-77.189644,2018,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-2969166,VA,New Kent,New Kent,Source2,3,37.495049,-77.02359799999998,2018,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2978418,VA,New Kent,Lanexa,Source2,3,37.479008,-76.917015,2018,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2978419,VA,New Kent,Lanexa,Source2,3,37.479008,-76.917015,2018,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3001537,VA,New Kent,Quinton,Source2,3,37.516235,-77.189461,2018,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-3010951,VA,New Kent,Quinton,Source2,3,37.516472,-77.191139,2018,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3016014,VA,New Kent,New Kent,Source2,3,37.495106,-77.024063,2018,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-3022060,VA,New Kent,New Kent,Source2,3,37.495701,-77.023071,2018,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3036849,VA,New Kent,Quinton,Source2,3,37.517277,-77.187294,2018,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3039437,VA,New Kent,Quinton,Source2,3,37.516262,-77.189644,2018,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-3045420,VA,New Kent,Quinton,Source2,3,37.516262,-77.189644,2018,7,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3045480,VA,New Kent,Lanexa,Source2,3,37.479008,-76.917015,2018,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3060018,VA,New Kent,Lanexa,Source2,3,37.479008,-76.917015,2018,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3063054,VA,New Kent,Lanexa,Source2,3,37.478825,-76.916527,2018,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-3078231,VA,New Kent,Lanexa,Source2,3,37.501041,-76.873848,2018,7,Monday,Cloudy,True,False,False,False,False,False,False
+A-3092210,VA,New Kent,Lanexa,Source2,3,37.477535,-76.913528,2018,11,Monday,Cloudy,False,False,True,False,False,False,False
+A-3097684,VA,New Kent,New Kent,Source2,3,37.504562,-77.085068,2017,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3097686,VA,New Kent,Quinton,Source2,3,37.515793,-77.189713,2017,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3100536,VA,New Kent,Quinton,Source2,3,37.516262,-77.189644,2017,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3104341,VA,New Kent,Quinton,Source2,3,37.516262,-77.189644,2017,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-3109744,VA,New Kent,New Kent,Source2,3,37.495049,-77.02359799999998,2017,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3112568,VA,New Kent,Quinton,Source2,3,37.516262,-77.189644,2017,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3115713,VA,New Kent,Quinton,Source2,3,37.515938,-77.18968199999998,2017,21,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3131428,VA,New Kent,Lanexa,Source2,3,37.479008,-76.917015,2017,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-3135402,VA,New Kent,Quinton,Source2,3,37.516262,-77.189644,2017,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-3140965,VA,New Kent,Lanexa,Source2,3,37.479008,-76.917015,2017,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3146501,VA,New Kent,New Kent,Source2,3,37.504562,-77.085068,2017,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3146546,VA,New Kent,New Kent,Source2,3,37.495049,-77.02359799999998,2017,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3149067,VA,New Kent,New Kent,Source2,3,37.49456,-77.019829,2017,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3150164,VA,New Kent,Quinton,Source2,3,37.516262,-77.189644,2017,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3155584,VA,New Kent,Quinton,Source2,3,37.509777,-77.143372,2017,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-3158295,VA,New Kent,New Kent,Source2,3,37.504562,-77.085068,2017,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3163212,VA,New Kent,Lanexa,Source2,3,37.479454,-76.918221,2017,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3163242,VA,New Kent,Lanexa,Source2,3,37.478935,-76.91681700000002,2017,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3165483,VA,New Kent,Lanexa,Source2,3,37.479008,-76.917015,2017,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3165544,VA,New Kent,Lanexa,Source2,3,37.478725,-76.921387,2017,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3169271,VA,New Kent,New Kent,Source2,3,37.504623,-77.085403,2017,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-3181699,VA,New Kent,New Kent,Source2,3,37.523609,-77.008667,2017,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-3184164,VA,New Kent,New Kent,Source2,3,37.495037,-77.02350600000003,2017,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3210730,VA,New Kent,Lanexa,Source2,3,37.479008,-76.917015,2017,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3225836,VA,New Kent,Quinton,Source2,3,37.516262,-77.189644,2017,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3228606,VA,New Kent,Lanexa,Source2,3,37.479008,-76.917015,2017,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3231357,VA,New Kent,New Kent,Source2,3,37.504562,-77.085068,2017,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3241239,VA,New Kent,New Kent,Source2,3,37.504562,-77.085068,2017,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3243667,VA,New Kent,Lanexa,Source2,3,37.479008,-76.917015,2017,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-3246995,VA,New Kent,New Kent,Source2,3,37.504562,-77.085068,2017,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-3247024,VA,New Kent,Quinton,Source2,3,37.516262,-77.189644,2017,10,Monday,Rain,False,False,False,False,False,False,False
+A-3254932,VA,New Kent,New Kent,Source2,3,37.495049,-77.02359799999998,2017,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3257731,VA,New Kent,Quinton,Source2,3,37.516075,-77.190575,2017,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-3269011,VA,New Kent,New Kent,Source2,3,37.504562,-77.085068,2017,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3271704,VA,New Kent,Quinton,Source2,3,37.516262,-77.189644,2017,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3274961,VA,New Kent,Quinton,Source2,3,37.516262,-77.189644,2017,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-3274987,VA,New Kent,Quinton,Source2,3,37.516262,-77.189644,2017,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-3280419,VA,New Kent,Quinton,Source2,3,37.516171,-77.18885,2017,12,Friday,Rain,False,False,False,False,False,False,False
+A-3283171,VA,New Kent,Lanexa,Source2,3,37.479008,-76.917015,2017,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3283172,VA,New Kent,New Kent,Source2,3,37.504562,-77.085068,2017,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3284025,VA,New Kent,New Kent,Source2,3,37.504555,-77.085022,2017,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3284047,VA,New Kent,Quinton,Source2,3,37.516262,-77.189644,2017,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3297832,VA,New Kent,Quinton,Source2,3,37.516144,-77.188576,2017,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3304515,VA,New Kent,Quinton,Source2,3,37.516262,-77.189644,2017,7,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3307318,VA,New Kent,Quinton,Source2,3,37.515446,-77.18594399999998,2017,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3307375,VA,New Kent,Lanexa,Source2,3,37.479008,-76.917015,2017,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3310546,VA,New Kent,Quinton,Source2,3,37.516262,-77.189644,2017,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-3310565,VA,New Kent,Quinton,Source2,3,37.515945,-77.189728,2017,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-3317637,VA,New Kent,Quinton,Source2,3,37.51627,-77.18969,2017,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3323321,VA,New Kent,Quinton,Source2,3,37.516262,-77.189644,2017,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3323404,VA,New Kent,Providence Forge,Source2,3,37.499119,-77.049042,2017,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3326234,VA,New Kent,Quinton,Source2,3,37.516396,-77.19059,2017,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-3329138,VA,New Kent,Lanexa,Source2,3,37.479008,-76.917015,2017,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3330433,VA,New Kent,Quinton,Source2,3,37.516262,-77.189644,2017,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3339302,VA,New Kent,Quinton,Source2,3,37.516262,-77.189644,2017,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3346281,VA,New Kent,New Kent,Source2,3,37.495808,-77.023827,2017,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3348911,VA,New Kent,Quinton,Source2,3,37.516262,-77.189644,2017,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3356923,VA,New Kent,Quinton,Source2,3,37.516357,-77.19277199999998,2017,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-3359612,VA,New Kent,Quinton,Source2,3,37.516262,-77.189644,2017,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3371035,VA,New Kent,Quinton,Source2,3,37.516262,-77.189644,2017,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-3373027,VA,New Kent,Lanexa,Source2,3,37.478882,-76.91667199999998,2017,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3373624,VA,New Kent,New Kent,Source2,3,37.504562,-77.085068,2017,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3377674,VA,New Kent,Quinton,Source2,3,37.516262,-77.189644,2017,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3383133,VA,New Kent,Lanexa,Source2,3,37.479008,-76.917015,2017,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3383137,VA,New Kent,New Kent,Source2,3,37.504562,-77.085068,2017,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3383269,VA,New Kent,Quinton,Source2,3,37.516262,-77.189644,2017,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3386095,VA,New Kent,New Kent,Source2,3,37.504562,-77.085068,2017,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-3386119,VA,New Kent,Lanexa,Source2,3,37.479008,-76.917015,2017,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3388197,VA,New Kent,Quinton,Source2,3,37.516262,-77.189644,2017,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3389895,VA,New Kent,Quinton,Source2,3,37.515774,-77.18988,2017,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-3398607,VA,New Kent,New Kent,Source2,3,37.495049,-77.02359799999998,2017,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3401311,VA,New Kent,Quinton,Source2,3,37.512074,-77.157028,2017,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-3401356,VA,New Kent,Quinton,Source2,3,37.516262,-77.189644,2017,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-3403525,VA,New Kent,Quinton,Source2,3,37.516262,-77.189644,2017,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3405317,VA,New Kent,Lanexa,Source2,3,37.479252,-76.917702,2017,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-3408061,VA,New Kent,Lanexa,Source2,3,37.479008,-76.917015,2017,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3451655,VA,New Kent,Providence Forge,Source1,4,37.41163,-77.04533,2016,22,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3451657,VA,New Kent,Providence Forge,Source1,4,37.392536,-77.051974,2016,22,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3465966,VA,New Kent,Lanexa,Source1,4,37.47785,-76.9142,2016,2,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3468397,VA,New Kent,Providence Forge,Source1,3,37.50371,-77.08001999999998,2016,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3470289,VA,New Kent,Quinton,Source1,4,37.508047,-77.106029,2016,17,Monday,Rain,False,False,False,False,False,False,False
+A-3478012,VA,New Kent,New Kent,Source1,4,37.494208,-77.024051,2016,17,Sunday,Cloudy,False,False,False,True,False,False,False
+A-3483994,VA,New Kent,Providence Forge,Source1,4,37.44233,-77.04406,2016,9,Saturday,Cloudy,True,False,False,False,False,False,False
+A-3491692,VA,New Kent,New Kent,Source1,4,37.491683,-76.99282600000002,2016,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3492726,VA,New Kent,Quinton,Source1,4,37.521677,-77.182218,2016,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3561328,VA,New Kent,New Kent,Source1,4,37.52336,-77.060788,2017,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3561329,VA,New Kent,New Kent,Source1,4,37.52414,-77.0099,2017,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3574353,VA,New Kent,Quinton,Source1,4,37.494557,-77.161579,2017,3,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3574356,VA,New Kent,Quinton,Source1,4,37.497889,-77.172314,2017,3,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3574868,VA,New Kent,Providence Forge,Source1,3,37.441943,-77.03755600000002,2017,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3605419,VA,New Kent,Quinton,Source1,4,37.485003000000006,-77.13886600000002,2017,8,Friday,Rain,False,False,False,False,False,False,False
+A-3613426,VA,New Kent,Quinton,Source1,4,37.516431,-77.19087900000002,2017,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3613428,VA,New Kent,Quinton,Source1,4,37.516434,-77.190905,2017,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3618871,VA,New Kent,Quinton,Source1,4,37.52835,-77.16265,2017,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3619033,VA,New Kent,Providence Forge,Source1,3,37.417285,-77.042831,2017,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3619239,VA,New Kent,Quinton,Source1,4,37.516273,-77.18966800000003,2017,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3627951,VA,New Kent,Quinton,Source1,4,37.522008,-77.181236,2017,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3655435,VA,New Kent,New Kent,Source1,4,37.523315,-77.062923,2023,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3663792,VA,New Kent,New Kent,Source1,4,37.523584,-77.056501,2023,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3664301,VA,New Kent,Quinton,Source1,4,37.505201,-77.155055,2023,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3669499,VA,New Kent,West Point,Source1,4,37.523834,-76.826545,2023,14,Monday,Cloudy,True,False,False,False,False,False,False
+A-3670257,VA,New Kent,Quinton,Source1,4,37.504868,-77.154264,2023,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3672634,VA,New Kent,New Kent,Source1,4,37.523608,-77.008666,2023,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-3673001,VA,New Kent,New Kent,Source1,4,37.49025200000001,-76.981659,2023,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3675701,VA,New Kent,West Point,Source1,4,37.523397,-76.827096,2023,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-3678985,VA,New Kent,Quinton,Source1,4,37.493735,-77.15956700000002,2023,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3679042,VA,New Kent,New Kent,Source1,4,37.524188,-77.008485,2023,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-3694063,VA,New Kent,Quinton,Source1,4,37.482604,-77.132386,2023,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3718495,VA,New Kent,Lanexa,Source1,4,37.501787,-76.93566899999998,2022,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3722587,VA,New Kent,New Kent,Source1,4,37.53520846348985,-77.06596970521419,2022,8,Thursday,Sin dato,False,False,False,False,False,False,False
+A-3728769,VA,New Kent,Lanexa,Source1,4,37.476706,-76.911926,2023,23,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3750247,VA,New Kent,New Kent,Source1,4,37.52975,-77.09733,2022,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3758944,VA,New Kent,Quinton,Source1,4,37.482830285847264,-77.13334679566798,2022,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3763117,VA,New Kent,Lanexa,Source1,4,37.507193,-76.857853,2022,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3783856,VA,New Kent,Lanexa,Source1,4,37.48039,-76.9272,2023,11,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-3788433,VA,New Kent,Quinton,Source1,4,37.50506043,-77.09116101,2022,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-3801352,VA,New Kent,Providence Forge,Source1,4,37.460009,-77.096814,2022,22,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3816239,VA,New Kent,Lanexa,Source1,4,37.472564,-76.904296,2023,2,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3816601,VA,New Kent,New Kent,Source1,4,37.525664,-77.03882800000002,2022,20,Sunday,Sin dato,False,False,False,False,False,False,False
+A-3845766,VA,New Kent,Lanexa,Source1,4,37.422944,-76.941686,2023,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3851413,VA,New Kent,Quinton,Source1,4,37.532739,-77.14888,2022,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3869162,VA,New Kent,Quinton,Source1,4,37.512948,-77.164082,2022,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3881079,VA,New Kent,New Kent,Source1,4,37.523828,-77.054252,2022,16,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-3891579,VA,New Kent,Quinton,Source1,4,37.538719,-77.16589,2022,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3901429,VA,New Kent,Lanexa,Source1,4,37.422463,-76.91313199999998,2022,21,Sunday,Sin dato,False,False,False,False,False,False,False
+A-3904216,VA,New Kent,New Kent,Source1,4,37.574156,-77.093956,2022,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3908381,VA,New Kent,Quinton,Source1,4,37.514839,-77.181329,2022,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3919837,VA,New Kent,Providence Forge,Source1,4,37.496835,-77.05837700000002,2022,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3927180,VA,New Kent,Barhamsville,Source1,4,37.461439,-76.83963299999998,2022,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3927480,VA,New Kent,West Point,Source1,4,37.523332,-76.827179,2022,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-3943402,VA,New Kent,New Kent,Source1,4,37.576419,-77.095541,2022,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3946928,VA,New Kent,Quinton,Source1,4,37.522798,-77.182797,2022,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3984278,VA,New Kent,Quinton,Source1,4,37.523785,-77.176109,2022,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3996318,VA,New Kent,Quinton,Source1,4,37.51789212208977,-77.18881487809568,2022,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4016220,VA,New Kent,Providence Forge,Source1,4,37.456199,-77.036186,2022,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4019575,VA,New Kent,Providence Forge,Source1,4,37.442325,-77.04405,2022,8,Thursday,Cloudy,True,False,False,False,False,False,False
+A-4020009,VA,New Kent,Quinton,Source1,4,37.524574,-77.075753,2022,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4020170,VA,New Kent,Providence Forge,Source1,4,37.474719,-76.991652,2022,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4087573,VA,New Kent,Quinton,Source1,4,37.526275,-77.168725,2022,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4096821,VA,New Kent,Quinton,Source1,4,37.493922,-77.159587,2022,23,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4104587,VA,New Kent,New Kent,Source1,4,37.52483400000001,-77.076054,2022,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4148089,VA,New Kent,Barhamsville,Source1,4,37.460086,-76.841687,2022,12,Thursday,Sin dato,False,False,False,False,False,False,False
+A-4174875,VA,New Kent,Quinton,Source1,4,37.506299,-77.13111500000002,2022,23,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4200011,VA,New Kent,New Kent,Source1,4,37.562421,-77.084707,2022,17,Monday,Sin dato,False,False,False,False,False,False,False
+A-4237773,VA,New Kent,Quinton,Source1,4,37.517734,-77.20067,2022,0,Monday,Cloudy,False,False,False,False,False,False,False
+A-4238877,VA,New Kent,New Kent,Source1,4,37.477222,-77.03154,2022,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4292500,VA,New Kent,Lanexa,Source1,4,37.48039,-76.9272,2023,11,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-4292501,VA,New Kent,Lanexa,Source1,4,37.48039,-76.9272,2022,22,Thursday,Cloudy,False,False,True,False,False,False,False
+A-4307748,VA,New Kent,Quinton,Source1,4,37.52192,-77.181508,2023,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4335674,VA,New Kent,Quinton,Source1,4,37.529296,-77.191366,2022,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4344161,VA,New Kent,Lanexa,Source1,4,37.484859,-76.946034,2022,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4363916,VA,New Kent,New Kent,Source1,4,37.507857,-77.08002900000002,2022,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4368256,VA,New Kent,New Kent,Source1,4,37.515121,-77.013123,2022,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4369437,VA,New Kent,Quinton,Source1,4,37.526124,-77.16918100000002,2022,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4374032,VA,New Kent,New Kent,Source1,4,37.523319,-77.063691,2022,16,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-4377687,VA,New Kent,New Kent,Source1,4,37.53544,-77.06581700000002,2022,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4378116,VA,New Kent,Lanexa,Source1,4,37.485445,-76.909727,2022,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4390767,VA,New Kent,Providence Forge,Source1,4,37.428718,-76.98477199999998,2022,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4395842,VA,New Kent,New Kent,Source1,4,37.576388,-77.095223,2022,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4403730,VA,New Kent,Providence Forge,Source1,4,37.463735,-77.10321400000002,2022,22,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4415719,VA,New Kent,Quinton,Source1,4,37.516672,-77.16150400000002,2022,18,Sunday,Rain,False,False,False,False,False,False,False
+A-4446080,VA,New Kent,Quinton,Source1,4,37.535029,-77.164135,2022,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4461714,VA,New Kent,Lanexa,Source1,4,37.503131,-76.902928,2022,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-4464344,VA,New Kent,Barhamsville,Source1,4,37.469182,-76.844241,2022,0,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4473018,VA,New Kent,Barhamsville,Source1,4,37.460086,-76.841687,2022,12,Thursday,Sin dato,False,False,False,False,False,False,False
+A-4491542,VA,New Kent,New Kent,Source1,4,37.502114,-77.01991899999999,2022,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4502760,VA,New Kent,Quinton,Source1,4,37.532085,-77.151715,2022,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4505312,VA,New Kent,Lanexa,Source1,4,37.503131,-76.902928,2022,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-4512882,VA,New Kent,New Kent,Source1,4,37.52488732320058,-77.0762264724871,2022,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4550573,VA,New Kent,Quinton,Source1,4,37.504503,-77.133729,2022,23,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4589422,VA,New Kent,New Kent,Source1,4,37.558256,-77.10209499999998,2022,20,Monday,Sin dato,False,False,False,False,False,False,False
+A-4601512,VA,New Kent,Providence Forge,Source1,4,37.428462,-76.98491999999997,2022,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4628250,VA,New Kent,Barhamsville,Source1,4,37.462634,-76.839111,2022,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4666184,VA,New Kent,Lanexa,Source1,4,37.485715,-76.909717,2022,18,Wednesday,Clear / Fair,False,False,False,True,False,False,False
+A-4667788,VA,New Kent,Quinton,Source1,4,37.517859,-77.201578,2022,0,Monday,Cloudy,False,False,False,False,False,False,False
+A-4673064,VA,New Kent,Providence Forge,Source1,4,37.489684,-76.981657,2022,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4692884,VA,New Kent,Providence Forge,Source1,4,37.46059,-77.035331,2022,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4757385,VA,New Kent,New Kent,Source1,4,37.541193,-77.065037,2022,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4769138,VA,New Kent,Lanexa,Source1,4,37.48221,-76.930603,2022,3,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4775714,VA,New Kent,Lanexa,Source1,4,37.487048,-76.958782,2022,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4790785,VA,New Kent,Providence Forge,Source1,4,37.430579,-77.037943,2022,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-4792195,VA,New Kent,Quinton,Source1,4,37.514526,-77.161547,2022,18,Sunday,Rain,False,False,False,False,False,False,False
+A-4820247,VA,New Kent,New Kent,Source1,4,37.503816,-77.019039,2022,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4821173,VA,New Kent,Providence Forge,Source1,4,37.43949600000001,-77.027752,2022,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4829950,VA,New Kent,Barhamsville,Source1,4,37.503451,-76.822199,2022,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4884227,VA,New Kent,Quinton,Source1,4,37.532418,-77.150697,2022,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4885856,VA,New Kent,Quinton,Source1,4,37.507041,-77.099478,2022,20,Tuesday,Rain,False,False,False,False,False,False,False
+A-4939250,VA,New Kent,Barhamsville,Source1,4,37.475985,-76.846292,2022,0,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4954032,VA,New Kent,Lanexa,Source1,4,37.513082,-76.96024799999998,2022,0,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4959278,VA,New Kent,New Kent,Source1,4,37.559098,-77.083185,2022,17,Monday,Sin dato,False,False,False,False,False,False,False
+A-4961544,VA,New Kent,New Kent,Source1,4,37.582528,-77.153676,2022,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5004702,VA,New Kent,Lanexa,Source1,4,37.412319,-76.906378,2022,22,Saturday,Clear / Fair,False,False,False,True,False,False,False
+A-5006174,VA,New Kent,New Kent,Source1,4,37.516442,-76.965755,2022,23,Monday,Cloudy,False,False,False,False,False,False,False
+A-5068301,VA,New Kent,New Kent,Source1,4,37.471545,-77.03271,2022,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5068662,VA,New Kent,New Kent,Source1,4,37.489882,-77.026376,2022,13,Monday,Sin dato,False,False,False,True,False,False,False
+A-5101547,VA,New Kent,Lanexa,Source1,4,37.422463,-76.91313199999998,2022,21,Sunday,Sin dato,False,False,False,False,False,False,False
+A-5146398,VA,New Kent,New Kent,Source1,4,37.523608,-77.008666,2022,22,Sunday,Sin dato,False,False,False,False,False,False,False
+A-5150431,VA,New Kent,Lanexa,Source1,4,37.423123,-76.90320899999998,2023,23,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5167083,VA,New Kent,Quinton,Source1,4,37.51538157445185,-77.18988776170163,2022,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5182367,VA,New Kent,Providence Forge,Source1,4,37.489706,-77.02645799999998,2022,13,Monday,Cloudy,False,False,False,True,False,False,False
+A-5199993,VA,New Kent,Quinton,Source1,4,37.525449,-77.171183,2022,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5203490,VA,New Kent,Lanexa,Source1,4,37.479829,-76.927079,2023,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5215380,VA,New Kent,Quinton,Source1,4,37.508552,-77.126199,2022,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5231748,VA,New Kent,Quinton,Source1,4,37.51585,-77.142531,2022,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-5254172,VA,New Kent,Providence Forge,Source1,4,37.442325,-77.04405,2022,8,Thursday,Cloudy,True,False,False,False,False,False,False
+A-5266196,VA,New Kent,Quinton,Source1,4,37.532418,-77.150697,2022,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5281307,VA,New Kent,Providence Forge,Source1,4,37.474915,-76.991514,2022,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5323981,VA,New Kent,Lanexa,Source1,4,37.50193,-76.933675,2022,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5327176,VA,New Kent,New Kent,Source1,4,37.576388,-77.095223,2022,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5345574,VA,New Kent,Quinton,Source1,4,37.510266,-77.142206,2022,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5433555,VA,New Kent,Quinton,Source1,4,37.517734,-77.20067,2022,13,Thursday,Rain,False,False,False,False,False,False,False
+A-5443871,VA,New Kent,Lanexa,Source1,4,37.459546,-76.882471,2023,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5443998,VA,New Kent,Quinton,Source1,4,37.49314,-77.15706800000002,2022,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5461033,VA,New Kent,Lanexa,Source1,4,37.409874,-76.90673100000002,2022,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5483000,VA,New Kent,Quinton,Source1,4,37.514583,-77.17688000000003,2021,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5510097,VA,New Kent,Lanexa,Source1,4,37.50233,-76.884235,2021,13,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-5516608,VA,New Kent,New Kent,Source1,4,37.515103,-76.98335,2021,7,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-5544076,VA,New Kent,Quinton,Source1,4,37.526275,-77.168725,2021,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5548383,VA,New Kent,Providence Forge,Source1,4,37.481301,-77.128629,2021,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5563144,VA,New Kent,Providence Forge,Source1,4,37.503416,-77.086834,2021,5,Tuesday,Cloudy,False,False,False,True,False,False,False
+A-5577585,VA,New Kent,Quinton,Source1,4,37.498899,-77.173916,2021,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5601427,VA,New Kent,West Point,Source1,4,37.526909,-76.82275600000001,2021,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5623256,VA,New Kent,Lanexa,Source1,4,37.422692,-76.941293,2021,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-5712245,VA,New Kent,New Kent,Source1,4,37.579515,-77.09360600000002,2021,4,Saturday,Sin dato,False,False,False,False,False,False,False
+A-5717062,VA,New Kent,New Kent,Source1,4,37.55664467793676,-77.08088278733695,2021,21,Friday,Sin dato,False,False,False,False,False,False,False
+A-5770315,VA,New Kent,New Kent,Source1,4,37.572423,-77.091788,2021,8,Friday,Sin dato,False,False,False,False,False,False,False
+A-5773648,VA,New Kent,New Kent,Source1,4,37.549002,-77.115202,2021,11,Saturday,Sin dato,False,False,False,False,False,False,False
+A-5775713,VA,New Kent,New Kent,Source1,4,37.549929,-77.114263,2021,11,Saturday,Sin dato,False,False,False,False,False,False,False
+A-5797620,VA,New Kent,Providence Forge,Source1,4,37.443421,-77.051046,2021,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5797916,VA,New Kent,Providence Forge,Source1,4,37.445687,-77.059139,2021,17,Thursday,Cloudy,False,True,False,False,False,False,True
+A-5799221,VA,New Kent,Quinton,Source1,4,37.521967,-77.116652,2021,0,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5799988,VA,New Kent,New Kent,Source1,4,37.573362,-77.093223,2021,8,Friday,Sin dato,False,False,False,False,False,False,False
+A-5808373,VA,New Kent,Quinton,Source1,4,37.533249,-77.130862,2021,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5826975,VA,New Kent,Lanexa,Source1,4,37.508183,-76.952252,2021,2,Sunday,Sin dato,False,False,False,False,False,False,False
+A-5832797,VA,New Kent,Quinton,Source1,4,37.514583,-77.17688000000003,2021,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-5863147,VA,New Kent,Providence Forge,Source1,4,37.49896500000001,-77.04781,2021,11,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-5873787,VA,New Kent,Lanexa,Source1,4,37.478503,-76.87217,2021,22,Saturday,Sin dato,False,False,False,False,False,False,False
+A-5877838,VA,New Kent,New Kent,Source1,4,37.49499678593876,-77.0180761810445,2021,11,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-5946927,VA,New Kent,New Kent,Source1,4,37.52488732320058,-77.0762264724871,2021,7,Friday,Sin dato,False,False,False,False,False,False,False
+A-5948982,VA,New Kent,New Kent,Source1,4,37.57209420186247,-77.09156870805221,2021,21,Friday,Sin dato,False,False,False,False,False,False,False
+A-5988389,VA,New Kent,New Kent,Source1,4,37.578176,-77.094401,2021,4,Saturday,Sin dato,False,False,False,False,False,False,False
+A-6033284,VA,New Kent,Barhamsville,Source1,4,37.459378,-76.841578,2021,13,Sunday,Sin dato,False,False,False,False,False,False,False
+A-6055288,VA,New Kent,Quinton,Source1,4,37.533185,-77.132896,2021,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6100857,VA,New Kent,Providence Forge,Source1,4,37.438313,-77.022239,2021,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6146369,VA,New Kent,Lanexa,Source1,4,37.479142,-76.87354599999998,2021,22,Saturday,Sin dato,False,False,False,False,False,False,False
+A-6149251,VA,New Kent,Quinton,Source1,4,37.526528000000006,-77.169164,2021,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6183855,VA,New Kent,Quinton,Source1,4,37.53265500050768,-77.11534380876009,2021,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6194400,VA,New Kent,New Kent,Source1,4,37.525845,-77.078784,2021,7,Friday,Sin dato,False,False,False,False,False,False,False
+A-6212109,VA,New Kent,Quinton,Source1,4,37.5264,-77.16835999999998,2021,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6221275,VA,New Kent,Quinton,Source1,4,37.482604,-77.132386,2021,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-6281288,VA,New Kent,Barhamsville,Source1,4,37.460086,-76.841687,2021,13,Sunday,Sin dato,False,False,False,False,False,False,False
+A-6289067,VA,New Kent,New Kent,Source1,4,37.533467,-77.115235,2021,5,Thursday,Sin dato,False,False,False,False,False,False,False
+A-6333478,VA,New Kent,New Kent,Source1,4,37.49375224095586,-77.0133554931783,2021,23,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6371873,VA,New Kent,Barhamsville,Source1,4,37.47672100000001,-76.82209499999998,2021,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6408652,VA,New Kent,Quinton,Source1,4,37.511273,-77.150297,2021,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-6408653,VA,New Kent,Quinton,Source1,4,37.506991,-77.09914300000001,2021,8,Thursday,Rain,False,False,False,False,False,False,False
+A-6410635,VA,New Kent,Quinton,Source1,4,37.526275,-77.168725,2021,2,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6416418,VA,New Kent,Quinton,Source1,4,37.526528000000006,-77.169164,2021,2,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6495018,VA,New Kent,New Kent,Source1,4,37.541992,-77.065271,2021,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6522766,VA,New Kent,New Kent,Source1,4,37.535208,-77.065969,2021,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6526154,VA,New Kent,New Kent,Source1,4,37.59108,-77.159083,2021,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-6529768,VA,New Kent,New Kent,Source1,4,37.590291,-77.158702,2021,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-6532515,VA,New Kent,Lanexa,Source1,4,37.503297,-76.915075,2021,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6540421,VA,New Kent,Providence Forge,Source1,4,37.484564,-77.112135,2021,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-6576108,VA,New Kent,Lanexa,Source1,4,37.422463,-76.91313199999998,2020,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6576691,VA,New Kent,New Kent,Source1,4,37.489882,-77.026376,2020,15,Saturday,Sin dato,False,False,False,True,False,False,False
+A-6580125,VA,New Kent,Providence Forge,Source1,4,37.48372,-77.121742,2020,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6661425,VA,New Kent,Quinton,Source1,4,37.53505300000001,-77.203678,2020,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-6679832,VA,New Kent,Lanexa,Source1,4,37.475148,-76.911796,2020,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6747330,VA,New Kent,Providence Forge,Source1,4,37.48768,-77.10415400000002,2020,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6759927,VA,New Kent,Providence Forge,Source1,4,37.482591,-77.124822,2020,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6760585,VA,New Kent,New Kent,Source1,4,37.556644,-77.08088199999997,2020,1,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6791754,VA,New Kent,Providence Forge,Source1,4,37.489706,-77.02645799999998,2020,15,Saturday,Cloudy,False,False,False,True,False,False,False
+A-6800068,VA,New Kent,New Kent,Source1,4,37.572094,-77.09156800000002,2020,1,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6812514,VA,New Kent,Quinton,Source1,4,37.50506,-77.091161,2020,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6835948,VA,New Kent,Providence Forge,Source1,4,37.48798,-77.10214599999998,2020,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7009858,VA,New Kent,New Kent,Source1,3,37.49509000000001,-77.0187,2020,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7009859,VA,New Kent,New Kent,Source1,3,37.49509000000001,-77.0187,2020,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7009866,VA,New Kent,New Kent,Source1,3,37.49509000000001,-77.0187,2020,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7009872,VA,New Kent,New Kent,Source1,3,37.49509000000001,-77.0187,2020,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7009878,VA,New Kent,New Kent,Source1,3,37.49509000000001,-77.0187,2020,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7009892,VA,New Kent,New Kent,Source1,3,37.49509000000001,-77.0187,2020,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7009908,VA,New Kent,New Kent,Source1,3,37.49509000000001,-77.0187,2020,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7009920,VA,New Kent,New Kent,Source1,3,37.49509000000001,-77.0187,2020,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7009927,VA,New Kent,New Kent,Source1,3,37.49509000000001,-77.0187,2020,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7016655,VA,New Kent,New Kent,Source1,3,37.49509000000001,-77.0187,2020,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-7016657,VA,New Kent,New Kent,Source1,3,37.49509000000001,-77.0187,2020,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-7016658,VA,New Kent,New Kent,Source1,3,37.49509000000001,-77.0187,2020,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-7016661,VA,New Kent,New Kent,Source1,3,37.49509000000001,-77.0187,2020,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-7060271,VA,New Kent,Quinton,Source1,3,37.51528,-77.18481,2020,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7060274,VA,New Kent,Quinton,Source1,3,37.50644000000001,-77.09924000000002,2020,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7060282,VA,New Kent,Quinton,Source1,3,37.51528,-77.18481,2020,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7068572,VA,New Kent,Providence Forge,Source1,3,37.50318,-77.08017,2020,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-7075070,VA,New Kent,Lanexa,Source1,3,37.47785,-76.9142,2020,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7082880,VA,New Kent,Lanexa,Source1,3,37.47785,-76.9142,2020,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7099597,VA,New Kent,Providence Forge,Source1,3,37.50371,-77.08001999999998,2020,18,Friday,Rain,False,False,False,False,False,False,False
+A-7161170,VA,New Kent,Quinton,Source1,3,37.51564000000001,-77.18474,2020,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7193281,VA,New Kent,Providence Forge,Source1,3,37.50371,-77.08001999999998,2020,18,Thursday,Rain,False,False,False,False,False,False,False
+A-7247537,VA,New Kent,Barhamsville,Source1,4,37.45437,-76.84074,2020,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7247538,VA,New Kent,Barhamsville,Source1,4,37.45741,-76.84123000000002,2020,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7310375,VA,New Kent,Quinton,Source1,4,37.50407,-77.18213,2019,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7364543,VA,New Kent,Providence Forge,Source1,4,37.42841,-76.98473,2019,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7364544,VA,New Kent,Lanexa,Source1,4,37.42346,-76.90149,2019,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7429700,VA,New Kent,Quinton,Source1,3,37.51564000000001,-77.18474,2019,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7434748,VA,New Kent,Quinton,Source1,4,37.51666,-77.19506,2019,23,Friday,Cloudy,False,False,False,False,False,False,False
+A-7458021,VA,New Kent,New Kent,Source1,4,37.525009,-77.07652900000002,2019,0,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7465975,VA,New Kent,New Kent,Source1,4,37.49575,-77.02325,2019,0,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7470763,VA,New Kent,Quinton,Source1,4,37.502975,-77.180418,2019,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-7470765,VA,New Kent,Barhamsville,Source1,4,37.45741,-76.84123000000002,2019,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7470766,VA,New Kent,Barhamsville,Source1,4,37.45095900000001,-76.840182,2019,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7472678,VA,New Kent,West Point,Source1,4,37.523472,-76.826957,2018,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-7489746,VA,New Kent,New Kent,Source1,4,37.520648,-77.001728,2018,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7489747,VA,New Kent,New Kent,Source1,4,37.527118,-77.02671600000002,2018,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7492335,VA,New Kent,Quinton,Source1,3,37.510098,-77.140659,2018,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7496822,VA,New Kent,Barhamsville,Source1,4,37.475125,-76.846057,2018,2,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7496823,VA,New Kent,Lanexa,Source1,4,37.50081,-76.87382,2018,2,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-7501218,VA,New Kent,Lanexa,Source1,4,37.42244,-76.91313000000002,2018,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7515797,VA,New Kent,West Point,Source1,4,37.532298,-76.80942399999998,2018,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7515798,VA,New Kent,West Point,Source1,4,37.532298,-76.80942399999998,2018,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7518764,VA,New Kent,Quinton,Source1,4,37.51744,-77.201039,2018,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7522963,VA,New Kent,Providence Forge,Source1,4,37.500599,-77.065212,2018,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7523809,VA,New Kent,Quinton,Source1,4,37.526016,-77.169464,2018,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7523810,VA,New Kent,Quinton,Source1,4,37.523497,-77.1769,2018,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7525610,VA,New Kent,Lanexa,Source1,4,37.50203,-76.87751800000002,2018,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-7525611,VA,New Kent,Lanexa,Source1,4,37.502925,-76.897755,2018,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-7532734,VA,New Kent,Quinton,Source1,4,37.51474,-77.204615,2018,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7533966,VA,New Kent,Lanexa,Source1,4,37.48034000000001,-76.92108,2018,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7536339,VA,New Kent,Quinton,Source1,4,37.485948,-77.141449,2018,5,Saturday,Rain,False,False,False,False,False,False,False
+A-7539603,VA,New Kent,Lanexa,Source1,4,37.50097,-76.87405,2018,12,Saturday,Cloudy,True,False,False,False,False,False,False
+A-7539604,VA,New Kent,Lanexa,Source1,4,37.494161,-76.865545,2018,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7547452,VA,New Kent,New Kent,Source1,4,37.517357,-76.971322,2018,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7553066,VA,New Kent,Quinton,Source1,4,37.53278,-77.115255,2018,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7553252,VA,New Kent,New Kent,Source1,4,37.525009,-77.07652900000002,2018,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7553253,VA,New Kent,Quinton,Source1,4,37.530827,-77.101271,2018,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-7555631,VA,New Kent,Lanexa,Source1,4,37.50203,-76.87751800000002,2018,16,Saturday,Sin dato,False,False,False,False,False,False,False
+A-7555632,VA,New Kent,Lanexa,Source1,4,37.502635,-76.890964,2018,16,Saturday,Sin dato,False,False,False,False,False,False,False
+A-7560112,VA,New Kent,Lanexa,Source1,4,37.48016,-76.92633000000002,2018,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7566860,VA,New Kent,New Kent,Source1,4,37.49505,-77.01841,2018,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-7571721,VA,New Kent,New Kent,Source1,4,37.49421,-77.02405,2018,16,Friday,Clear / Fair,False,False,False,True,False,False,False
+A-7575870,VA,New Kent,Barhamsville,Source1,4,37.454435,-76.840756,2018,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7575871,VA,New Kent,Barhamsville,Source1,4,37.46009,-76.84168000000003,2018,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7593334,VA,New Kent,New Kent,Source1,4,37.524768,-77.04645500000002,2018,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7593335,VA,New Kent,New Kent,Source1,4,37.52333,-77.06309,2018,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7603651,VA,New Kent,Providence Forge,Source1,3,37.44533300000001,-77.05726800000002,2018,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7603652,VA,New Kent,Providence Forge,Source1,3,37.446569,-77.06196899999998,2018,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7630057,VA,New Kent,Lanexa,Source1,4,37.502446,-76.926907,2018,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7630058,VA,New Kent,Lanexa,Source1,4,37.503318,-76.907151,2018,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7632012,VA,New Kent,Quinton,Source1,4,37.522092,-77.18098499999998,2018,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-7632013,VA,New Kent,Quinton,Source1,4,37.521788,-77.181876,2018,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-7636510,VA,New Kent,Quinton,Source1,4,37.51564000000001,-77.18474,2018,3,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7636511,VA,New Kent,New Kent,Source1,4,37.505577,-77.091042,2018,3,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7636539,VA,New Kent,Lanexa,Source1,4,37.501341,-76.87359000000002,2018,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7663557,VA,New Kent,Providence Forge,Source1,4,37.44049,-77.030594,2017,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7698102,VA,New Kent,Quinton,Source1,4,37.53278,-77.115255,2017,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7698103,VA,New Kent,Quinton,Source1,4,37.533225,-77.13244399999998,2017,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7704818,VA,New Kent,Quinton,Source1,3,37.51564000000001,-77.18474,2019,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7727395,VA,New Kent,New Kent,Source1,4,37.517028,-76.98,2019,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-7734504,VA,New Kent,Providence Forge,Source1,3,37.50371,-77.08001999999998,2019,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7744705,VA,New Kent,New Kent,Source1,4,37.525874,-77.03712800000002,2019,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7744706,VA,New Kent,New Kent,Source1,4,37.525874,-77.03712800000002,2019,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7761412,VA,New Kent,New Kent,Source1,4,37.523669,-77.008812,2019,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7761413,VA,New Kent,New Kent,Source1,4,37.523582,-77.008616,2019,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7762091,VA,New Kent,New Kent,Source1,3,37.494327,-77.013402,2019,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7770585,VA,New Kent,Quinton,Source1,3,37.515437,-77.183196,2019,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7776340,VA,New Kent,Quinton,Source1,4,37.51792800000001,-77.18881800000003,2019,19,Wednesday,Cloudy,False,False,False,False,False,False,False

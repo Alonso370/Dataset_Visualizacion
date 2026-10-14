@@ -1,0 +1,682 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-229646,NJ,Gloucester,Woodbury,Source2,3,39.85984000000001,-75.137375,2016,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-231274,NJ,Gloucester,Mickleton,Source2,3,39.815205,-75.257683,2016,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-231577,NJ,Gloucester,Thorofare,Source2,3,39.839157,-75.196037,2016,4,Saturday,Snow / Ice,False,False,True,False,False,False,False
+A-231583,NJ,Gloucester,Gibbstown,Source2,3,39.815071,-75.258224,2016,6,Saturday,Rain,False,False,False,False,False,False,False
+A-231588,NJ,Gloucester,Westville,Source2,3,39.856724,-75.162514,2016,10,Saturday,Rain,False,False,False,False,False,False,False
+A-233542,NJ,Gloucester,Thorofare,Source2,3,39.849586,-75.175957,2016,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-234329,NJ,Gloucester,Westville,Source2,3,39.861183,-75.148186,2017,23,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-234589,NJ,Gloucester,Swedesboro,Source2,3,39.778137,-75.339462,2017,11,Saturday,Snow / Ice,False,False,True,False,False,False,False
+A-234701,NJ,Gloucester,Westville,Source2,3,39.855247,-75.164886,2017,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-235007,NJ,Gloucester,Woodbury,Source2,3,39.85984000000001,-75.137375,2017,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-236988,NJ,Gloucester,Mickleton,Source2,3,39.815205,-75.257683,2017,14,Monday,Rain,False,False,False,False,False,False,False
+A-238480,NJ,Gloucester,Westville,Source2,3,39.861187,-75.147118,2016,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-239358,NJ,Gloucester,Gibbstown,Source2,3,39.82066,-75.239075,2016,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-240361,NJ,Gloucester,Westville,Source2,3,39.858826,-75.12516,2016,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-240707,NJ,Gloucester,Gibbstown,Source2,3,39.82066,-75.239075,2016,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-240981,NJ,Gloucester,Westville,Source2,3,39.861187,-75.147118,2016,10,Wednesday,Rain,False,False,False,False,False,False,False
+A-242082,NJ,Gloucester,Swedesboro,Source2,3,39.778137,-75.339462,2016,14,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-242515,NJ,Gloucester,West Deptford,Source2,3,39.846474,-75.181519,2016,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-245196,NJ,Gloucester,Gibbstown,Source2,3,39.82066,-75.239075,2016,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-245378,NJ,Gloucester,Woodbury,Source3,3,39.85984000000001,-75.137375,2016,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-245545,NJ,Gloucester,Gibbstown,Source2,3,39.82066,-75.239075,2016,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-246231,NJ,Gloucester,Thorofare,Source2,3,39.846119,-75.18177,2016,13,Monday,Rain,False,False,False,False,False,False,False
+A-246378,NJ,Gloucester,Gibbstown,Source2,3,39.82066,-75.239075,2016,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-247206,NJ,Gloucester,Thorofare,Source2,3,39.840191,-75.19326,2016,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-250180,NJ,Gloucester,Westville,Source2,3,39.858826,-75.12516,2016,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-252790,NJ,Gloucester,Westville,Source2,3,39.855247,-75.164886,2016,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-254329,NJ,Gloucester,West Deptford,Source2,3,39.846474,-75.181519,2016,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-254419,NJ,Gloucester,Gibbstown,Source2,3,39.81023,-75.278748,2016,9,Friday,Cloudy,False,False,True,False,False,False,False
+A-256342,NJ,Gloucester,Paulsboro,Source3,3,39.828983,-75.22112299999998,2016,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-259304,NJ,Gloucester,Woodbury,Source2,3,39.844967,-75.094734,2016,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-259985,NJ,Gloucester,Westville,Source2,3,39.858826,-75.12516,2016,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-260741,NJ,Gloucester,Swedesboro,Source2,3,39.758869,-75.291832,2016,9,Friday,Cloudy,True,True,False,False,False,False,False
+A-329320,NJ,Gloucester,Paulsboro,Source2,3,39.828983,-75.22112299999998,2017,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-329402,NJ,Gloucester,Gibbstown,Source2,3,39.82066,-75.239075,2017,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-329614,NJ,Gloucester,West Deptford,Source2,3,39.846474,-75.181519,2017,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-330970,NJ,Gloucester,Thorofare,Source2,3,39.836796,-75.201286,2017,6,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-330981,NJ,Gloucester,Gibbstown,Source2,3,39.807613,-75.289948,2017,7,Thursday,Snow / Ice,False,False,True,False,False,False,False
+A-379738,NJ,Gloucester,Westville,Source2,3,39.861187,-75.147118,2017,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-380063,NJ,Gloucester,Westville,Source2,3,39.855247,-75.164886,2017,14,Wednesday,Rain,False,False,False,False,False,False,False
+A-381120,NJ,Gloucester,Westville,Source2,3,39.858826,-75.12516,2017,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-381362,NJ,Gloucester,Swedesboro,Source2,3,39.805119,-75.305717,2017,9,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-381686,NJ,Gloucester,Westville,Source2,3,39.855247,-75.164886,2017,4,Tuesday,Rain,False,False,False,False,False,False,False
+A-382083,NJ,Gloucester,Gibbstown,Source2,3,39.81023,-75.278748,2017,15,Thursday,Cloudy,False,False,True,False,False,False,False
+A-383806,NJ,Gloucester,Westville,Source2,3,39.861187,-75.147118,2017,10,Tuesday,Rain,False,False,False,False,False,False,False
+A-384385,NJ,Gloucester,Westville,Source2,3,39.861187,-75.147118,2017,16,Friday,Rain,False,False,False,False,False,False,False
+A-424573,NJ,Gloucester,Westville,Source2,3,39.861187,-75.147118,2017,14,Thursday,Rain,False,False,False,False,False,False,False
+A-426133,NJ,Gloucester,Mickleton,Source2,3,39.815205,-75.257683,2017,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-426702,NJ,Gloucester,Gibbstown,Source2,3,39.82066,-75.239075,2017,4,Tuesday,Rain,False,False,False,False,False,False,False
+A-449226,NJ,Gloucester,Westville,Source2,3,39.861187,-75.147118,2017,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-449454,NJ,Gloucester,Woodbury,Source2,3,39.844967,-75.094734,2017,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-449818,NJ,Gloucester,Swedesboro,Source2,3,39.712112,-75.35215,2017,10,Monday,Rain,False,False,False,False,False,False,False
+A-449927,NJ,Gloucester,Swedesboro,Source2,3,39.805042,-75.306213,2017,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-450157,NJ,Gloucester,Westville,Source2,3,39.861191,-75.115898,2017,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-450210,NJ,Gloucester,Gibbstown,Source2,3,39.82066,-75.239075,2017,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-479951,NJ,Gloucester,Swedesboro,Source2,3,39.761627,-75.360825,2017,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-480912,NJ,Gloucester,West Deptford,Source2,3,39.846474,-75.181519,2017,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-481655,NJ,Gloucester,Mullica Hill,Source2,3,39.754883,-75.255219,2017,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-505766,NJ,Gloucester,Thorofare,Source2,3,39.836796,-75.201286,2017,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-517321,NJ,Gloucester,Woodbury,Source2,3,39.828899,-75.104179,2022,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-526049,NJ,Gloucester,Gibbstown,Source2,3,39.820244,-75.240448,2022,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-531385,NJ,Gloucester,Westville,Source2,3,39.860184,-75.151855,2022,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-531807,NJ,Gloucester,Westville,Source2,3,39.85876500000001,-75.158241,2022,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-532188,NJ,Gloucester,Thorofare,Source3,3,39.846893,-75.180809,2022,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-538564,NJ,Gloucester,Westville,Source2,3,39.859203,-75.123688,2022,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-540582,NJ,Gloucester,Mickleton,Source2,3,39.817188,-75.249367,2022,17,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-552735,NJ,Gloucester,Bridgeport,Source2,3,39.803951,-75.351089,2022,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-568718,NJ,Gloucester,Westville,Source2,3,39.860184,-75.151855,2022,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-569012,NJ,Gloucester,Swedesboro,Source2,3,39.765144,-75.356171,2022,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-569818,NJ,Gloucester,Bridgeport,Source2,3,39.778362,-75.339699,2022,14,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-573217,NJ,Gloucester,Thorofare,Source2,3,39.846882,-75.180267,2022,6,Thursday,Rain,False,False,False,False,False,False,False
+A-583734,NJ,Gloucester,Thorofare,Source2,3,39.846882,-75.180267,2022,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-584845,NJ,Gloucester,Thorofare,Source2,3,39.837444,-75.201385,2022,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-592454,NJ,Gloucester,Woodbury,Source2,3,39.859539,-75.137886,2022,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-599728,NJ,Gloucester,Westville,Source2,3,39.859203,-75.123688,2022,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-611951,NJ,Gloucester,Thorofare,Source2,3,39.838387,-75.197357,2022,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-614569,NJ,Gloucester,Gibbstown,Source2,3,39.820244,-75.240448,2022,4,Sunday,Cloudy,False,False,False,False,False,False,False
+A-630259,NJ,Gloucester,Gibbstown,Source3,3,39.810417,-75.27864100000002,2022,10,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-642335,NJ,Gloucester,Woodbury,Source3,3,39.84705,-75.095993,2022,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-649873,NJ,Gloucester,Westville,Source2,3,39.860184,-75.151855,2022,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-655742,NJ,Gloucester,Swedesboro,Source2,3,39.802799,-75.311996,2022,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-669666,NJ,Gloucester,Westville,Source3,3,39.859203,-75.123688,2022,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-672262,NJ,Gloucester,Swedesboro,Source2,3,39.754967,-75.27628299999998,2022,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-674881,NJ,Gloucester,Westville,Source2,3,39.860271,-75.151703,2022,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-674882,NJ,Gloucester,Westville,Source2,3,39.860271,-75.151703,2022,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-686078,NJ,Gloucester,Westville,Source2,3,39.859203,-75.123688,2022,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-696841,NJ,Gloucester,Westville,Source2,3,39.860271,-75.151703,2022,8,Friday,Rain,False,False,False,False,False,False,False
+A-703419,NJ,Gloucester,Westville,Source2,3,39.856232,-75.140022,2022,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-712104,NJ,Gloucester,Gibbstown,Source2,3,39.812611,-75.26876800000002,2022,15,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-712140,NJ,Gloucester,Gibbstown,Source2,3,39.814713,-75.26011700000002,2022,13,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-713555,NJ,Gloucester,Westville,Source2,3,39.861168,-75.149147,2022,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-721752,NJ,Gloucester,Bridgeport,Source2,3,39.803268,-75.348129,2022,12,Friday,Rain,False,False,False,False,False,False,False
+A-730804,NJ,Gloucester,Gibbstown,Source2,3,39.810417,-75.27864100000002,2022,13,Friday,Snow / Ice,False,False,True,False,False,False,False
+A-753200,NJ,Gloucester,Westville,Source2,3,39.859203,-75.123688,2022,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-764705,NJ,Gloucester,Swedesboro,Source2,3,39.754967,-75.27628299999998,2021,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-770373,NJ,Gloucester,Westville,Source2,3,39.859203,-75.123688,2021,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-793189,NJ,Gloucester,Westville,Source2,3,39.860271,-75.151703,2021,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-801863,NJ,Gloucester,Woodbury,Source2,3,39.846989,-75.095398,2021,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-802543,NJ,Gloucester,Westville,Source2,3,39.860806,-75.151558,2021,4,Friday,Rain,False,False,False,False,False,False,False
+A-805905,NJ,Gloucester,Paulsboro,Source2,4,39.829334,-75.220497,2021,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-809367,NJ,Gloucester,Woodbury,Source2,3,39.859539,-75.137886,2021,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-813832,NJ,Gloucester,Thorofare,Source3,3,39.838253,-75.19768499999998,2021,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-814564,NJ,Gloucester,Westville,Source2,3,39.860264,-75.118324,2021,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-814764,NJ,Gloucester,Westville,Source2,3,39.860271,-75.151703,2021,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-815672,NJ,Gloucester,Thorofare,Source2,3,39.848076,-75.178993,2021,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-815972,NJ,Gloucester,Woodbury,Source2,3,39.831749,-75.087311,2021,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-829157,NJ,Gloucester,Thorofare,Source2,3,39.844967,-75.18474599999998,2021,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-835918,NJ,Gloucester,Woodbury,Source2,3,39.859539,-75.137886,2021,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-844724,NJ,Gloucester,Woodbury,Source2,3,39.859539,-75.137886,2021,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-846348,NJ,Gloucester,Thorofare,Source2,3,39.837444,-75.201385,2021,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-865019,NJ,Gloucester,Westville,Source2,3,39.859203,-75.123688,2021,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-867953,NJ,Gloucester,Bridgeport,Source2,3,39.80175,-75.34947199999998,2021,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-873596,NJ,Gloucester,Westville,Source2,3,39.859203,-75.123688,2021,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-877363,NJ,Gloucester,Woodbury,Source2,3,39.859539,-75.137886,2021,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-879920,NJ,Gloucester,Bridgeport,Source2,3,39.778362,-75.339699,2021,0,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-905448,NJ,Gloucester,Paulsboro,Source3,3,39.829334,-75.220497,2021,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-915233,NJ,Gloucester,Thorofare,Source2,3,39.844967,-75.18474599999998,2021,19,Wednesday,Rain,False,False,False,False,False,False,False
+A-915355,NJ,Gloucester,Swedesboro,Source2,3,39.804169,-75.312607,2021,18,Wednesday,Rain,False,False,False,False,False,False,False
+A-921139,NJ,Gloucester,Westville,Source2,3,39.859203,-75.123688,2021,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-921542,NJ,Gloucester,Paulsboro,Source2,3,39.829334,-75.220497,2021,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-923129,NJ,Gloucester,Westville,Source2,3,39.860271,-75.151703,2021,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-938060,NJ,Gloucester,Westville,Source2,3,39.860271,-75.151703,2021,0,Thursday,Cloudy,False,False,False,False,False,False,False
+A-946098,NJ,Gloucester,Westville,Source2,3,39.859203,-75.123688,2021,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-951408,NJ,Gloucester,Westville,Source2,3,39.860271,-75.151703,2021,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-957659,NJ,Gloucester,Thorofare,Source2,3,39.844967,-75.18474599999998,2021,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-961237,NJ,Gloucester,Westville,Source2,3,39.859203,-75.123688,2021,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-966745,NJ,Gloucester,Swedesboro,Source2,3,39.803967,-75.312202,2021,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-974477,NJ,Gloucester,Gibbstown,Source2,3,39.814713,-75.26011700000002,2021,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-979869,NJ,Gloucester,Thorofare,Source2,3,39.846882,-75.180267,2021,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-989545,NJ,Gloucester,Gibbstown,Source2,3,39.820244,-75.240448,2021,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-1009327,NJ,Gloucester,Swedesboro,Source2,3,39.759399,-75.266937,2021,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1040249,NJ,Gloucester,Westville,Source2,4,39.859203,-75.123688,2021,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1057275,NJ,Gloucester,Swedesboro,Source2,3,39.767021,-75.35368299999998,2021,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1089654,NJ,Gloucester,Woodbury,Source2,3,39.859539,-75.137886,2021,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1095737,NJ,Gloucester,Westville,Source2,3,39.859203,-75.123688,2021,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1147125,NJ,Gloucester,Swedesboro,Source2,3,39.805576,-75.303291,2021,8,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1148780,NJ,Gloucester,Westville,Source2,3,39.859203,-75.123688,2021,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1153973,NJ,Gloucester,Williamstown,Source2,3,39.686211,-74.989738,2021,17,Saturday,Rain,True,False,False,False,True,False,False
+A-1153976,NJ,Gloucester,Swedesboro,Source2,3,39.762135,-75.36058,2021,17,Saturday,Rain,False,False,False,False,False,False,False
+A-1156673,NJ,Gloucester,Swedesboro,Source2,3,39.804279,-75.31034100000002,2021,0,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1156787,NJ,Gloucester,Woodbury,Source2,3,39.847115,-75.096222,2021,9,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1166611,NJ,Gloucester,Thorofare,Source2,3,39.846882,-75.180267,2021,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1171169,NJ,Gloucester,Gibbstown,Source2,3,39.810356,-75.27822900000002,2021,3,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1195090,NJ,Gloucester,Thorofare,Source2,3,39.837402,-75.201698,2021,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1205437,NJ,Gloucester,Westville,Source2,3,39.856232,-75.140022,2021,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-1221379,NJ,Gloucester,Woodbury,Source2,3,39.847115,-75.096222,2020,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1226096,NJ,Gloucester,Thorofare,Source2,3,39.846882,-75.180267,2020,17,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1229475,NJ,Gloucester,Swedesboro,Source2,3,39.80471,-75.303391,2020,8,Monday,Rain,False,False,False,False,False,False,False
+A-1232522,NJ,Gloucester,Swedesboro,Source2,3,39.762135,-75.36058,2020,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-1234248,NJ,Gloucester,Paulsboro,Source2,3,39.82843,-75.22093199999998,2020,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1234274,NJ,Gloucester,Bridgeport,Source2,4,39.778362,-75.339699,2020,16,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-1239086,NJ,Gloucester,Bridgeport,Source2,3,39.778362,-75.339699,2020,15,Monday,Cloudy,False,False,True,False,False,False,False
+A-1244390,NJ,Gloucester,Swedesboro,Source2,3,39.804279,-75.31034100000002,2020,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1254177,NJ,Gloucester,Woodbury,Source2,3,39.859539,-75.137886,2020,6,Monday,Rain,False,False,False,False,False,False,False
+A-1268517,NJ,Gloucester,Thorofare,Source2,4,39.837402,-75.201698,2020,22,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1277529,NJ,Gloucester,Westville,Source2,3,39.859203,-75.123688,2020,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1286398,NJ,Gloucester,Swedesboro,Source2,3,39.805084,-75.305908,2020,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1296767,NJ,Gloucester,Bridgeport,Source2,4,39.778362,-75.339699,2020,1,Sunday,Cloudy,False,False,True,False,False,False,False
+A-1301871,NJ,Gloucester,Thorofare,Source2,3,39.846882,-75.180267,2020,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1303679,NJ,Gloucester,Monroeville,Source2,3,39.651745,-75.122887,2020,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-1308218,NJ,Gloucester,Thorofare,Source2,3,39.840038,-75.193611,2020,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1309861,NJ,Gloucester,Westville,Source2,3,39.860317,-75.15151999999998,2020,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1311525,NJ,Gloucester,Woodbury,Source2,3,39.859539,-75.137886,2020,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1325747,NJ,Gloucester,Woodbury,Source2,3,39.859539,-75.137886,2020,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-1327361,NJ,Gloucester,Thorofare,Source2,3,39.837402,-75.201698,2020,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1339312,NJ,Gloucester,Gibbstown,Source2,3,39.820358,-75.240173,2020,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1342951,NJ,Gloucester,Westville,Source2,3,39.859203,-75.123688,2020,12,Friday,Rain,False,False,False,False,False,False,False
+A-1347977,NJ,Gloucester,Paulsboro,Source2,3,39.829334,-75.220497,2020,5,Tuesday,Rain,False,False,False,False,False,False,False
+A-1348045,NJ,Gloucester,Westville,Source2,3,39.859203,-75.123688,2020,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1355762,NJ,Gloucester,Westville,Source2,3,39.859203,-75.123688,2020,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1379345,NJ,Gloucester,Swedesboro,Source2,3,39.762135,-75.36058,2020,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1410521,NJ,Gloucester,Westville,Source2,3,39.860317,-75.15151999999998,2020,11,Tuesday,Rain,False,False,False,False,False,False,False
+A-1429168,NJ,Gloucester,Woodbury,Source2,3,39.859539,-75.137886,2020,9,Wednesday,Rain,False,False,False,False,False,False,False
+A-1456281,NJ,Gloucester,Westville,Source2,3,39.860317,-75.15151999999998,2020,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1487051,NJ,Gloucester,Thorofare,Source2,3,39.837151,-75.201683,2020,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1492200,NJ,Gloucester,Westville,Source2,3,39.859203,-75.123688,2020,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1505180,NJ,Gloucester,Swedesboro,Source2,3,39.80619,-75.30390200000002,2020,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1507022,NJ,Gloucester,Gibbstown,Source3,3,39.810417,-75.27864100000002,2020,15,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-1508471,NJ,Gloucester,Westville,Source3,3,39.859203,-75.123688,2020,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1513609,NJ,Gloucester,Paulsboro,Source2,3,39.829334,-75.220497,2020,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1564322,NJ,Gloucester,Westville,Source2,4,39.859203,-75.123688,2020,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-1588038,NJ,Gloucester,Bridgeport,Source2,3,39.778362,-75.339699,2020,9,Monday,Cloudy,False,False,True,False,False,False,False
+A-1621549,NJ,Gloucester,Glassboro,Source2,3,39.696846,-75.14631700000002,2020,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-1651889,NJ,Gloucester,Westville,Source2,3,39.859203,-75.123688,2020,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-1670594,NJ,Gloucester,Blackwood,Source2,3,39.77,-75.048317,2020,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1679134,NJ,Gloucester,Gibbstown,Source2,3,39.81057,-75.278191,2019,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1702605,NJ,Gloucester,Westville,Source3,3,39.860317,-75.15151999999998,2019,15,Monday,Rain,False,False,False,False,False,False,False
+A-1710943,NJ,Gloucester,Thorofare,Source2,3,39.846882,-75.180267,2019,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1749905,NJ,Gloucester,Thorofare,Source2,3,39.844967,-75.18474599999998,2019,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1781058,NJ,Gloucester,Westville,Source2,3,39.859203,-75.123688,2019,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1825134,NJ,Gloucester,Swedesboro,Source2,3,39.804279,-75.31034100000002,2019,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1826822,NJ,Gloucester,Woodbury,Source2,3,39.859539,-75.137886,2019,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-1842073,NJ,Gloucester,Sewell,Source3,3,39.783482,-75.101906,2019,12,Monday,Cloudy,True,False,False,False,False,False,False
+A-1849959,NJ,Gloucester,Thorofare,Source2,3,39.837151,-75.201683,2019,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-1866563,NJ,Gloucester,Gibbstown,Source2,3,39.820358,-75.240173,2019,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1889203,NJ,Gloucester,Westville,Source2,3,39.86031,-75.151512,2019,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1910033,NJ,Gloucester,Bridgeport,Source2,3,39.778591,-75.341347,2019,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-1924609,NJ,Gloucester,Swedesboro,Source2,3,39.805576,-75.303291,2019,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1939646,NJ,Gloucester,Westville,Source2,3,39.86031,-75.151512,2019,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1955088,NJ,Gloucester,Gibbstown,Source2,3,39.820358,-75.240173,2019,7,Monday,Rain,False,False,False,False,False,False,False
+A-1961500,NJ,Gloucester,Williamstown,Source2,3,39.6619,-74.96468399999998,2019,21,Thursday,Rain,True,False,False,False,False,False,False
+A-1971679,NJ,Gloucester,Westville,Source2,3,39.858845,-75.125168,2019,19,Wednesday,Storm,False,False,True,False,False,False,False
+A-1984275,NJ,Gloucester,Swedesboro,Source2,3,39.762135,-75.36058,2019,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1990800,NJ,Gloucester,Paulsboro,Source2,3,39.829372,-75.220413,2019,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1992295,NJ,Gloucester,Woodbury,Source2,3,39.836864,-75.092178,2019,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1994184,NJ,Gloucester,Swedesboro,Source2,3,39.754967,-75.27628299999998,2019,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2003550,NJ,Gloucester,Swedesboro,Source2,3,39.754967,-75.27628299999998,2019,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2048796,NJ,Gloucester,Westville,Source2,3,39.859127,-75.123108,2019,6,Thursday,Rain,False,False,False,False,False,False,False
+A-2051119,NJ,Gloucester,Gibbstown,Source2,3,39.807579,-75.290649,2019,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-2061909,NJ,Gloucester,Gibbstown,Source2,3,39.814713,-75.26011700000002,2019,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2066545,NJ,Gloucester,Westville,Source2,3,39.858837,-75.13155400000002,2019,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2111765,NJ,Gloucester,Swedesboro,Source2,3,39.804279,-75.31034100000002,2019,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-2116571,NJ,Gloucester,Gibbstown,Source2,3,39.814713,-75.26011700000002,2019,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2119016,NJ,Gloucester,Gibbstown,Source2,3,39.814713,-75.26011700000002,2019,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2121108,NJ,Gloucester,Swedesboro,Source2,3,39.776993,-75.34072900000002,2019,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2137663,NJ,Gloucester,Mullica Hill,Source2,3,39.718979,-75.15345,2019,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2139973,NJ,Gloucester,Westville,Source2,3,39.86108400000001,-75.116997,2019,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-2158494,NJ,Gloucester,Westville,Source2,3,39.8592,-75.123901,2019,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2213963,NJ,Gloucester,Westville,Source2,3,39.859276,-75.134407,2019,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2236081,NJ,Gloucester,Paulsboro,Source2,3,39.836807,-75.202118,2019,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2236725,NJ,Gloucester,Swedesboro,Source2,3,39.754707,-75.274361,2019,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-2238883,NJ,Gloucester,Swedesboro,Source2,3,39.778858,-75.338699,2019,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2251541,NJ,Gloucester,Gibbstown,Source2,3,39.809994,-75.279747,2019,5,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2251580,NJ,Gloucester,Mickleton,Source2,3,39.815372,-75.257576,2019,6,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2275314,NJ,Gloucester,Gibbstown,Source2,3,39.807583,-75.290596,2019,23,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-2276060,NJ,Gloucester,Paulsboro,Source2,3,39.836807,-75.202118,2019,5,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2284422,NJ,Gloucester,Woodbury,Source2,3,39.830402,-75.08815799999998,2019,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2298469,NJ,Gloucester,Paulsboro,Source2,3,39.833111,-75.211304,2019,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2304408,NJ,Gloucester,Woodbury,Source2,3,39.846714,-75.096939,2019,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2323467,NJ,Gloucester,Westville,Source2,3,39.8592,-75.123901,2019,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2323471,NJ,Gloucester,Swedesboro,Source2,3,39.761707,-75.36108399999998,2019,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2347796,NJ,Gloucester,Sewell,Source2,3,39.771149,-75.117104,2019,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2381588,NJ,Gloucester,Westville,Source2,3,39.8592,-75.123901,2018,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2399107,NJ,Gloucester,Westville,Source2,3,39.8592,-75.123901,2018,16,Saturday,Rain,False,False,False,False,False,False,False
+A-2409333,NJ,Gloucester,Swedesboro,Source2,3,39.799984,-75.315742,2018,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-2409334,NJ,Gloucester,Swedesboro,Source2,3,39.805508,-75.304146,2018,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-2435369,NJ,Gloucester,Swedesboro,Source2,3,39.753548,-75.276573,2018,12,Tuesday,Rain,False,False,False,False,False,False,False
+A-2448629,NJ,Gloucester,Westville,Source2,3,39.855247,-75.164886,2018,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2452215,NJ,Gloucester,Swedesboro,Source2,3,39.761627,-75.360825,2018,5,Tuesday,Rain,False,False,False,False,False,False,False
+A-2452313,NJ,Gloucester,Westville,Source2,3,39.858826,-75.12516,2018,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2458101,NJ,Gloucester,Swedesboro,Source2,3,39.80481,-75.303459,2018,13,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2488676,NJ,Gloucester,Westville,Source2,3,39.860771,-75.151917,2018,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-2536464,NJ,Gloucester,Woodbury,Source2,3,39.85984000000001,-75.137375,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2548058,NJ,Gloucester,Swedesboro,Source2,3,39.778137,-75.339462,2018,3,Saturday,Rain,False,False,True,False,False,False,False
+A-2558886,NJ,Gloucester,Blackwood,Source2,3,39.768757,-75.048988,2018,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2559636,NJ,Gloucester,Westville,Source2,3,39.861187,-75.147118,2018,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-2561082,NJ,Gloucester,West Deptford,Source2,3,39.846474,-75.181519,2018,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2572392,NJ,Gloucester,Swedesboro,Source2,3,39.778137,-75.339462,2018,0,Monday,Rain,False,False,True,False,False,False,False
+A-2573210,NJ,Gloucester,Woodbury,Source3,3,39.85984000000001,-75.137375,2018,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2621237,NJ,Gloucester,Woodbury,Source2,3,39.85984000000001,-75.137375,2018,2,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2644385,NJ,Gloucester,Mickleton,Source2,3,39.815205,-75.257683,2018,15,Tuesday,Storm,False,False,False,False,False,False,False
+A-2658487,NJ,Gloucester,Swedesboro,Source2,3,39.754021,-75.275787,2018,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2695207,NJ,Gloucester,Paulsboro,Source2,3,39.828983,-75.22112299999998,2018,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2701977,NJ,Gloucester,Gibbstown,Source2,3,39.82066,-75.239075,2018,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-2714119,NJ,Gloucester,Paulsboro,Source2,3,39.828983,-75.22112299999998,2018,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2720343,NJ,Gloucester,Gibbstown,Source2,3,39.81023,-75.278748,2018,20,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-2730987,NJ,Gloucester,Swedesboro,Source2,3,39.758999,-75.29245,2018,9,Monday,Cloudy,False,True,False,False,False,False,False
+A-2735768,NJ,Gloucester,Westville,Source2,3,39.855247,-75.164886,2018,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-2742182,NJ,Gloucester,Woodbury,Source2,3,39.82877,-75.087952,2018,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2755830,NJ,Gloucester,Paulsboro,Source2,3,39.828983,-75.22112299999998,2018,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2780044,NJ,Gloucester,Swedesboro,Source2,3,39.732418,-75.311279,2018,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-2784917,NJ,Gloucester,Gibbstown,Source2,3,39.81023,-75.278748,2018,8,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-2872609,NJ,Gloucester,Swedesboro,Source2,3,39.805042,-75.306213,2018,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-2886134,NJ,Gloucester,Woodbury,Source2,3,39.850918,-75.09674100000002,2018,16,Sunday,Rain,False,False,False,False,False,False,False
+A-2886943,NJ,Gloucester,Swedesboro,Source2,3,39.805042,-75.306213,2018,8,Monday,Rain,False,False,False,False,False,False,False
+A-2900962,NJ,Gloucester,Sewell,Source2,3,39.795403,-75.11393699999998,2018,8,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2901854,NJ,Gloucester,Westville,Source2,3,39.858826,-75.12516,2018,23,Monday,Cloudy,False,False,False,False,False,False,False
+A-2931134,NJ,Gloucester,Paulsboro,Source2,3,39.828983,-75.22112299999998,2018,11,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2955731,NJ,Gloucester,Paulsboro,Source2,3,39.828983,-75.22112299999998,2018,13,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2955757,NJ,Gloucester,Thorofare,Source2,3,39.840191,-75.19326,2018,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-2955805,NJ,Gloucester,Gibbstown,Source2,3,39.82066,-75.239075,2018,20,Tuesday,Rain,False,False,False,False,False,False,False
+A-2980505,NJ,Gloucester,Bridgeport,Source2,3,39.777126,-75.34108,2018,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2983018,NJ,Gloucester,Swedesboro,Source2,3,39.761627,-75.360825,2018,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2989709,NJ,Gloucester,Westville,Source2,3,39.855247,-75.164886,2018,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-2989716,NJ,Gloucester,Paulsboro,Source2,3,39.828983,-75.22112299999998,2018,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-3003650,NJ,Gloucester,Westville,Source2,3,39.861187,-75.147118,2018,22,Saturday,Rain,False,False,False,False,False,False,False
+A-3017960,NJ,Gloucester,Gibbstown,Source2,3,39.81023,-75.278748,2018,20,Saturday,Snow / Ice,False,False,True,False,False,False,False
+A-3021527,NJ,Gloucester,Thorofare,Source2,3,39.840191,-75.19326,2018,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3042590,NJ,Gloucester,Gibbstown,Source3,3,39.807613,-75.289948,2018,16,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-3044960,NJ,Gloucester,Gibbstown,Source2,3,39.82066,-75.239075,2018,13,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3049864,NJ,Gloucester,Sewell,Source2,3,39.756142,-75.130089,2018,16,Saturday,Cloudy,False,False,True,False,False,False,False
+A-3062491,NJ,Gloucester,Woodbury,Source2,3,39.85984000000001,-75.137375,2018,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-3080208,NJ,Gloucester,Westville,Source2,3,39.859146,-75.133705,2018,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3094454,NJ,Gloucester,Westville,Source2,3,39.858826,-75.12516,2018,10,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3117852,NJ,Gloucester,Gibbstown,Source2,3,39.818363,-75.24578100000002,2017,15,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-3118497,NJ,Gloucester,Woodbury,Source2,3,39.85984000000001,-75.137375,2017,4,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3118521,NJ,Gloucester,Westville,Source2,3,39.849072,-75.12513,2017,19,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3130963,NJ,Gloucester,Paulsboro,Source3,3,39.820618,-75.238663,2017,16,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3137676,NJ,Gloucester,Westville,Source2,3,39.858833,-75.12509200000002,2017,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3150925,NJ,Gloucester,Bridgeport,Source2,3,39.803112,-75.348373,2017,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3158022,NJ,Gloucester,Westville,Source2,3,39.861187,-75.147118,2017,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3175632,NJ,Gloucester,Westville,Source2,3,39.858826,-75.12516,2017,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3181333,NJ,Gloucester,Swedesboro,Source2,3,39.755367,-75.27327700000002,2017,8,Monday,Rain,False,False,True,False,False,False,False
+A-3192937,NJ,Gloucester,Swedesboro,Source2,3,39.753548,-75.276573,2017,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3225276,NJ,Gloucester,West Deptford,Source2,3,39.846474,-75.181519,2017,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3254367,NJ,Gloucester,Westville,Source2,3,39.858826,-75.12516,2017,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3274066,NJ,Gloucester,Westville,Source2,3,39.858978,-75.123985,2017,12,Sunday,Rain,False,False,False,False,False,False,False
+A-3274611,NJ,Gloucester,Westville,Source2,3,39.858826,-75.12516,2017,6,Monday,Rain,False,False,False,False,False,False,False
+A-3283683,NJ,Gloucester,Swedesboro,Source2,3,39.753796,-75.275856,2017,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-3288356,NJ,Gloucester,West Deptford,Source2,3,39.846474,-75.181519,2017,6,Wednesday,Rain,False,False,False,False,False,False,False
+A-3294410,NJ,Gloucester,Westville,Source2,3,39.855247,-75.164886,2017,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-3298489,NJ,Gloucester,Swedesboro,Source2,3,39.753971,-75.27555799999998,2017,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-3301113,NJ,Gloucester,Woodbury,Source2,3,39.85984000000001,-75.137375,2017,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3306829,NJ,Gloucester,Woodbury,Source2,3,39.85984000000001,-75.137375,2017,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3309789,NJ,Gloucester,Westville,Source2,3,39.861187,-75.147118,2017,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-3335686,NJ,Gloucester,Westville,Source2,3,39.861187,-75.147118,2017,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3353574,NJ,Gloucester,West Deptford,Source2,3,39.846474,-75.181519,2017,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3400748,NJ,Gloucester,Swedesboro,Source2,3,39.761627,-75.360825,2017,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-3404840,NJ,Gloucester,Williamstown,Source2,3,39.625114,-74.926117,2017,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-3407582,NJ,Gloucester,Swedesboro,Source2,3,39.778137,-75.339462,2017,20,Tuesday,Rain,False,False,True,False,False,False,False
+A-3447487,NJ,Gloucester,Sewell,Source1,4,39.797692,-75.111928,2016,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3450411,NJ,Gloucester,Sewell,Source1,4,39.7835,-75.10178,2016,0,Thursday,Cloudy,True,False,False,False,False,False,False
+A-3450412,NJ,Gloucester,Sewell,Source1,4,39.790341,-75.09988299999998,2016,0,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3451395,NJ,Gloucester,Woodbury,Source1,3,39.83606,-75.09174,2016,19,Friday,Cloudy,False,False,True,False,False,False,False
+A-3451517,NJ,Gloucester,Thorofare,Source1,3,39.83827,-75.19819,2016,4,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-3452705,NJ,Gloucester,Woodbury,Source1,3,39.831449,-75.08934,2016,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3452823,NJ,Gloucester,Bridgeport,Source1,4,39.803106,-75.325807,2016,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3452825,NJ,Gloucester,Swedesboro,Source1,4,39.804255,-75.31055400000002,2016,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3452827,NJ,Gloucester,Bridgeport,Source1,4,39.80286,-75.33974,2016,8,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-3452855,NJ,Gloucester,Bridgeport,Source1,4,39.803106,-75.325807,2016,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3453489,NJ,Gloucester,Woodbury,Source1,3,39.851516,-75.096956,2016,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3466744,NJ,Gloucester,Newfield,Source1,3,39.557595,-75.008975,2016,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3466745,NJ,Gloucester,Newfield,Source1,3,39.55421,-74.9983,2016,22,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-3470623,NJ,Gloucester,Swedesboro,Source1,4,39.75982,-75.36319,2016,14,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-3470760,NJ,Gloucester,Woodbury,Source1,4,39.81264,-75.12451999999998,2016,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3470761,NJ,Gloucester,Woodbury,Source1,4,39.820258,-75.1247,2016,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3472708,NJ,Gloucester,Mullica Hill,Source1,4,39.67507,-75.20783,2016,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-3475534,NJ,Gloucester,Westville,Source1,4,39.841391,-75.125129,2016,4,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-3475537,NJ,Gloucester,Westville,Source1,4,39.844658,-75.1251,2016,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3477831,NJ,Gloucester,Woodbury,Source1,3,39.851543,-75.096964,2016,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3478966,NJ,Gloucester,Woodbury,Source1,4,39.828619,-75.08949,2016,9,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-3481925,NJ,Gloucester,Woodbury,Source1,3,39.850764,-75.096714,2016,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-3482325,NJ,Gloucester,Mullica Hill,Source1,4,39.75141,-75.21418,2016,23,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3482326,NJ,Gloucester,Mullica Hill,Source1,4,39.748063,-75.217837,2016,23,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-3482947,NJ,Gloucester,Swedesboro,Source1,3,39.759877,-75.296706,2016,13,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-3487118,NJ,Gloucester,Glassboro,Source1,3,39.71122800000001,-75.127595,2016,18,Friday,Cloudy,True,False,False,False,False,False,False
+A-3487119,NJ,Gloucester,Glassboro,Source1,3,39.714252,-75.137214,2016,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-3494443,NJ,Gloucester,Swedesboro,Source1,4,39.804206,-75.311042,2016,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3494983,NJ,Gloucester,Monroeville,Source1,3,39.650054,-75.120277,2016,14,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-3502780,NJ,Gloucester,Bridgeport,Source1,3,39.81052,-75.35269100000002,2016,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3506887,NJ,Gloucester,Malaga,Source1,3,39.57465,-75.0459,2016,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3506889,NJ,Gloucester,Malaga,Source1,3,39.57465,-75.0459,2016,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3507600,NJ,Gloucester,Woodbury,Source1,3,39.850756,-75.096712,2016,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-3507970,NJ,Gloucester,Woodbury,Source1,4,39.836703,-75.154287,2016,6,Monday,Cloudy,True,True,False,False,False,False,False
+A-3507971,NJ,Gloucester,Woodbury,Source1,4,39.83858,-75.15287,2016,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-3509726,NJ,Gloucester,Swedesboro,Source1,4,39.75988,-75.29672,2016,9,Friday,Cloudy,False,False,False,True,False,False,False
+A-3509728,NJ,Gloucester,Swedesboro,Source1,4,39.75689000000001,-75.27716,2016,9,Friday,Cloudy,True,True,False,False,False,False,False
+A-3516414,NJ,Gloucester,Woodbury,Source1,4,39.81522800000001,-75.124579,2016,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3516953,NJ,Gloucester,Woodbury,Source1,3,39.852608,-75.104281,2016,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-3517016,NJ,Gloucester,Glassboro,Source1,4,39.720648,-75.114823,2016,2,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3517017,NJ,Gloucester,Glassboro,Source1,4,39.72315,-75.11576,2016,2,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3517364,NJ,Gloucester,Swedesboro,Source1,3,39.77692,-75.34081,2016,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3517603,NJ,Gloucester,Woodbury,Source1,4,39.82611,-75.10408000000002,2016,23,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3517675,NJ,Gloucester,Westville,Source1,3,39.85932,-75.13274,2016,18,Monday,Cloudy,False,False,True,False,False,False,False
+A-3517711,NJ,Gloucester,Westville,Source1,3,39.850805,-75.12512,2016,7,Tuesday,Rain,True,False,False,False,False,False,False
+A-3518984,NJ,Gloucester,Paulsboro,Source1,4,39.83238400000001,-75.22796600000002,2016,6,Tuesday,Rain,False,False,False,False,False,False,False
+A-3518985,NJ,Gloucester,Paulsboro,Source1,4,39.831269,-75.236436,2016,6,Tuesday,Rain,False,False,False,False,False,False,False
+A-3519044,NJ,Gloucester,Paulsboro,Source1,4,39.83088400000001,-75.23795600000003,2016,6,Tuesday,Rain,True,False,False,False,False,False,False
+A-3519045,NJ,Gloucester,Paulsboro,Source1,4,39.832386,-75.22796,2016,6,Tuesday,Rain,False,False,False,False,False,False,False
+A-3519046,NJ,Gloucester,Paulsboro,Source1,4,39.83023,-75.24043,2016,14,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-3519047,NJ,Gloucester,Paulsboro,Source1,4,39.83238400000001,-75.22796600000002,2016,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3519077,NJ,Gloucester,Glassboro,Source1,4,39.701425,-75.10628100000002,2016,0,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-3519078,NJ,Gloucester,Glassboro,Source1,4,39.70142,-75.10625999999998,2016,0,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-3519079,NJ,Gloucester,Glassboro,Source1,4,39.701642,-75.107128,2016,0,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3519080,NJ,Gloucester,Glassboro,Source1,4,39.701342,-75.104456,2016,0,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3519081,NJ,Gloucester,Williamstown,Source1,4,39.700408,-75.083027,2016,5,Wednesday,Rain,False,False,False,False,False,False,False
+A-3519082,NJ,Gloucester,Glassboro,Source1,4,39.70142,-75.10625999999998,2016,5,Wednesday,Rain,True,False,False,False,False,False,False
+A-3520107,NJ,Gloucester,Mantua,Source1,4,39.79191,-75.17428000000002,2016,22,Saturday,Rain,False,False,False,False,False,False,False
+A-3521608,NJ,Gloucester,Monroeville,Source1,4,39.6497,-75.12028000000002,2016,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-3521610,NJ,Gloucester,Franklinville,Source1,4,39.634337,-75.094875,2016,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3521611,NJ,Gloucester,Monroeville,Source1,4,39.6497,-75.12028000000002,2016,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-3521638,NJ,Gloucester,Swedesboro,Source1,4,39.77929,-75.33887,2016,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-3521717,NJ,Gloucester,Woodbury,Source1,3,39.83696,-75.09167,2016,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3558035,NJ,Gloucester,Clayton,Source1,4,39.63904,-75.09788,2017,0,Friday,Cloudy,False,False,True,False,False,False,False
+A-3563402,NJ,Gloucester,Blackwood,Source1,3,39.766872,-75.04818900000002,2017,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-3571432,NJ,Gloucester,Franklinville,Source1,4,39.58669,-75.056689,2017,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3571433,NJ,Gloucester,Franklinville,Source1,4,39.577981,-75.04763100000002,2017,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3575990,NJ,Gloucester,Sewell,Source1,3,39.75462,-75.13387,2017,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3579456,NJ,Gloucester,Mullica Hill,Source1,4,39.721319,-75.162154,2017,1,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3579460,NJ,Gloucester,Mullica Hill,Source1,4,39.720258,-75.158152,2017,1,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3579795,NJ,Gloucester,Swedesboro,Source1,3,39.75348,-75.2764,2017,11,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3585316,NJ,Gloucester,Sewell,Source1,3,39.79078,-75.11554,2017,9,Friday,Rain,False,False,True,False,False,False,False
+A-3597599,NJ,Gloucester,Westville,Source1,3,39.86082,-75.14146,2017,14,Thursday,Rain,False,False,False,False,False,False,False
+A-3597637,NJ,Gloucester,Bridgeport,Source1,3,39.81022,-75.35242,2017,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3599308,NJ,Gloucester,Bridgeport,Source1,4,39.80309000000001,-75.3455,2017,8,Thursday,Cloudy,False,False,True,False,False,False,False
+A-3600165,NJ,Gloucester,Woodbury,Source1,3,39.843582,-75.093901,2017,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-3600973,NJ,Gloucester,Mickleton,Source1,3,39.81683,-75.25176,2017,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3603443,NJ,Gloucester,Clayton,Source1,4,39.66252,-75.09298199999998,2017,23,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3603444,NJ,Gloucester,Clayton,Source1,4,39.66007000000001,-75.09232,2017,23,Thursday,Cloudy,True,False,False,False,False,False,False
+A-3613578,NJ,Gloucester,Williamstown,Source1,4,39.68897,-74.99325,2017,22,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-3613579,NJ,Gloucester,Williamstown,Source1,4,39.688181,-74.993879,2017,22,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3616432,NJ,Gloucester,Bridgeport,Source1,4,39.81022,-75.35242,2017,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3616449,NJ,Gloucester,Westville,Source1,3,39.8593,-75.13259000000002,2017,1,Monday,Cloudy,False,False,False,False,False,False,False
+A-3616685,NJ,Gloucester,Blackwood,Source1,3,39.77097,-75.04894,2017,14,Monday,Cloudy,False,False,True,False,False,False,False
+A-3618605,NJ,Gloucester,Woodbury,Source1,3,39.82845,-75.0864,2017,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-3630263,NJ,Gloucester,Mullica Hill,Source1,4,39.7553,-75.25952,2017,16,Friday,Cloudy,True,True,False,False,False,False,False
+A-3630267,NJ,Gloucester,Swedesboro,Source1,4,39.758564,-75.290389,2017,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-3633928,NJ,Gloucester,Glassboro,Source1,3,39.6995,-75.14981999999998,2017,18,Friday,Cloudy,False,False,True,False,False,False,False
+A-3643525,NJ,Gloucester,Glassboro,Source1,4,39.72315,-75.11576,2017,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-3644189,NJ,Gloucester,Malaga,Source1,3,39.580798,-75.071986,2017,1,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-3646822,NJ,Gloucester,Franklinville,Source1,4,39.63784,-75.08633,2017,19,Thursday,Rain,True,False,False,False,False,False,False
+A-3646823,NJ,Gloucester,Franklinville,Source1,4,39.620233,-75.081561,2017,19,Thursday,Rain,False,False,False,False,False,False,False
+A-3658677,NJ,Gloucester,Woodbury,Source1,4,39.845238,-75.094638,2023,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-3684842,NJ,Gloucester,Woodbury,Source1,4,39.845238,-75.094638,2023,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-3696296,NJ,Gloucester,Westville,Source1,4,39.864106,-75.13385699999998,2023,19,Saturday,Cloudy,False,False,False,False,False,False,True
+A-3751000,NJ,Gloucester,Westville,Source1,4,39.861396,-75.150375,2022,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3759270,NJ,Gloucester,Woodbury,Source1,4,39.843254,-75.095665,2022,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-3801832,NJ,Gloucester,Swedesboro,Source1,4,39.755235,-75.273798,2022,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3831968,NJ,Gloucester,Williamstown,Source1,4,39.651564,-74.951645,2022,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-3975675,NJ,Gloucester,Franklinville,Source1,4,39.58420157413681,-75.07257342302766,2022,8,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4105906,NJ,Gloucester,Williamstown,Source1,4,39.661961,-74.964647,2022,20,Sunday,Cloudy,True,False,False,False,False,False,False
+A-4138251,NJ,Gloucester,Westville,Source1,4,39.869114,-75.133725,2023,19,Saturday,Cloudy,False,True,False,False,False,False,True
+A-4187719,NJ,Gloucester,Woodbury,Source1,4,39.79693293552496,-75.11190533602182,2022,3,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4209437,NJ,Gloucester,Williamstown,Source1,4,39.689025,-75.013911,2022,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4228579,NJ,Gloucester,Bridgeport,Source1,4,39.80289817,-75.34854054,2022,1,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-4275757,NJ,Gloucester,Glassboro,Source1,4,39.692218,-75.139791,2022,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4390519,NJ,Gloucester,Williamstown,Source1,4,39.674592,-74.979649,2022,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4471054,NJ,Gloucester,Malaga,Source1,4,39.571725,-75.054079,2022,12,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-4489294,NJ,Gloucester,Swedesboro,Source1,4,39.80527997,-75.30573249,2022,23,Tuesday,Rain,False,False,False,False,False,False,False
+A-4505749,NJ,Gloucester,Westville,Source1,4,39.852616,-75.12512199999998,2022,19,Friday,Rain,False,False,False,False,False,False,False
+A-4512164,NJ,Gloucester,Westville,Source1,4,39.85378400000001,-75.12512199999998,2022,19,Friday,Rain,False,False,False,False,False,False,False
+A-4741437,NJ,Gloucester,Williamstown,Source1,4,39.681419,-74.985146,2022,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4769433,NJ,Gloucester,Williamstown,Source1,4,39.662107,-74.964986,2022,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4808177,NJ,Gloucester,Sewell,Source1,4,39.799211,-75.096918,2022,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4818935,NJ,Gloucester,Sewell,Source1,4,39.800617,-75.12085,2022,14,Monday,Rain,False,False,False,False,False,False,False
+A-4918616,NJ,Gloucester,Woodstown,Source1,4,39.711773,-75.35296600000002,2023,7,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4922878,NJ,Gloucester,Sewell,Source1,4,39.798035,-75.0973,2022,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4948074,NJ,Gloucester,Woodbury,Source1,4,39.831626,-75.08898,2022,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4966101,NJ,Gloucester,Malaga,Source1,4,39.571495,-75.054355,2022,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4971278,NJ,Gloucester,Woodbury,Source1,4,39.858117,-75.138545,2023,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5005239,NJ,Gloucester,Glassboro,Source1,4,39.724872,-75.115939,2022,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-5068434,NJ,Gloucester,Williamstown,Source1,4,39.693827,-75.045861,2022,0,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5184163,NJ,Gloucester,West Deptford,Source1,4,39.858651,-75.13898499999998,2023,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5287164,NJ,Gloucester,Glassboro,Source1,4,39.692218,-75.139791,2022,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5296093,NJ,Gloucester,Williamstown,Source1,4,39.682117,-74.985927,2022,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5307104,NJ,Gloucester,Woodbury,Source1,4,39.839236,-75.15235799999998,2022,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5326502,NJ,Gloucester,Woodbury,Source1,4,39.839584,-75.152107,2022,10,Thursday,Cloudy,True,True,False,False,False,False,False
+A-5357974,NJ,Gloucester,Franklinville,Source1,4,39.615536,-75.084703,2022,2,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5395783,NJ,Gloucester,Pitman,Source1,4,39.733335,-75.114622,2022,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-5418651,NJ,Gloucester,Sewell,Source1,4,39.794547,-75.098447,2022,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5446890,NJ,Gloucester,Woodbury,Source1,4,39.831626,-75.08898,2022,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5470247,NJ,Gloucester,Westville,Source1,4,39.858585,-75.125164,2021,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5488310,NJ,Gloucester,Newfield,Source1,4,39.566889,-75.038104,2021,0,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5491620,NJ,Gloucester,Bridgeport,Source1,4,39.80234026889895,-75.35165190660786,2021,17,Sunday,Cloudy,False,False,True,False,False,False,False
+A-5522653,NJ,Gloucester,Swedesboro,Source1,4,39.775284,-75.33825300000002,2021,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5550440,NJ,Gloucester,Swedesboro,Source1,4,39.76378083210104,-75.3586900230629,2021,14,Saturday,Cloudy,False,False,True,False,False,False,False
+A-5568997,NJ,Gloucester,Williamstown,Source1,4,39.689482,-74.992873,2021,19,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-5578968,NJ,Gloucester,Swedesboro,Source1,4,39.75333094577906,-75.27659296953546,2021,5,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5579501,NJ,Gloucester,Swedesboro,Source1,4,39.775804,-75.338528,2021,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5622343,NJ,Gloucester,Woodbury,Source1,4,39.826128,-75.159864,2021,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5658785,NJ,Gloucester,Woodbury,Source1,4,39.838361,-75.153006,2021,6,Saturday,Cloudy,True,True,False,False,False,False,False
+A-5704036,NJ,Gloucester,Westville,Source1,4,39.858777,-75.130493,2021,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5719332,NJ,Gloucester,Westville,Source1,4,39.855966,-75.12512199999998,2021,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5750228,NJ,Gloucester,Blackwood,Source1,4,39.770506,-75.05014200000002,2021,3,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5822848,NJ,Gloucester,Woodbury Heights,Source1,4,39.82475,-75.160358,2021,6,Saturday,Cloudy,True,False,False,False,False,False,False
+A-5872292,NJ,Gloucester,Williamstown,Source1,4,39.648589,-74.94806899999998,2021,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5885733,NJ,Gloucester,Mullica Hill,Source1,4,39.718349,-75.151137,2021,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5909881,NJ,Gloucester,Paulsboro,Source1,4,39.82332587223137,-75.2325618263472,2021,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5916793,NJ,Gloucester,Swedesboro,Source1,4,39.771095,-75.334725,2021,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5957237,NJ,Gloucester,Williamstown,Source1,4,39.641987085153374,-74.93977189028291,2021,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5972544,NJ,Gloucester,Westville,Source1,4,39.862069,-75.125134,2021,18,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-6015337,NJ,Gloucester,Williamstown,Source1,4,39.647482,-74.94652099999998,2021,18,Saturday,Cloudy,False,False,False,False,False,True,False
+A-6023760,NJ,Gloucester,Williamstown,Source1,4,39.642978,-74.940864,2021,7,Monday,Rain,False,False,False,False,False,False,False
+A-6072329,NJ,Gloucester,Westville,Source1,4,39.856885671425545,-75.16218066179675,2021,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6092357,NJ,Gloucester,Woodbury,Source1,4,39.82783,-75.159171,2021,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6099459,NJ,Gloucester,Paulsboro,Source1,4,39.82332587223137,-75.2325618263472,2021,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6116290,NJ,Gloucester,Mantua,Source1,4,39.783937,-75.180995,2021,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6119372,NJ,Gloucester,Newfield,Source1,4,39.566734,-75.037623,2021,0,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6154032,NJ,Gloucester,Sewell,Source1,4,39.75792288761255,-75.12692570650516,2021,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6206581,NJ,Gloucester,Swedesboro,Source1,4,39.768602,-75.331221,2021,1,Saturday,Rain,True,False,False,False,False,False,False
+A-6215687,NJ,Gloucester,Williamstown,Source1,4,39.644892,-74.943421,2021,7,Monday,Rain,False,False,False,False,False,False,False
+A-6224776,NJ,Gloucester,Williamstown,Source1,4,39.67329382877505,-74.97861027681837,2021,22,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6226778,NJ,Gloucester,Sewell,Source1,4,39.75792288761255,-75.12692570650516,2021,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6252324,NJ,Gloucester,Woodbury,Source1,4,39.827444,-75.159318,2021,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6256363,NJ,Gloucester,Williamstown,Source1,4,39.672785,-74.978329,2021,22,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6293444,NJ,Gloucester,Sewell,Source1,4,39.748048,-75.113155,2021,15,Monday,Cloudy,True,False,False,False,False,False,False
+A-6294405,NJ,Gloucester,Malaga,Source1,4,39.57491,-75.062416,2021,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6297322,NJ,Gloucester,Swedesboro,Source1,4,39.7601330278408,-75.36356091463392,2021,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6333866,NJ,Gloucester,Swedesboro,Source1,4,39.78015303592787,-75.33746838533717,2021,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6334878,NJ,Gloucester,Williamstown,Source1,4,39.634381,-74.932126,2021,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6358536,NJ,Gloucester,Blackwood,Source1,4,39.770497,-75.048948,2021,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6365136,NJ,Gloucester,Mullica Hill,Source1,4,39.665075,-75.211147,2021,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6409295,NJ,Gloucester,Gibbstown,Source1,4,39.807926,-75.289589,2021,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6411469,NJ,Gloucester,Newfield,Source1,4,39.586519,-75.085769,2021,15,Friday,Cloudy,True,False,False,False,False,False,False
+A-6460355,NJ,Gloucester,Mullica Hill,Source1,4,39.66507100000001,-75.211162,2021,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-6610779,NJ,Gloucester,Clayton,Source1,4,39.662799,-75.093053,2020,23,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6630756,NJ,Gloucester,Williamstown,Source1,4,39.682199,-74.985782,2020,23,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6651445,NJ,Gloucester,Blackwood,Source1,4,39.747816,-75.04545,2020,1,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6664963,NJ,Gloucester,Bridgeport,Source1,4,39.802907,-75.348545,2020,18,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-6672221,NJ,Gloucester,Swedesboro,Source1,4,39.776329,-75.338538,2020,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6692887,NJ,Gloucester,Mantua,Source1,4,39.80706,-75.182071,2020,0,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6712651,NJ,Gloucester,Blackwood,Source1,4,39.76397,-75.048312,2020,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6741850,NJ,Gloucester,Mullica Hill,Source1,4,39.755029,-75.2567,2020,23,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6750732,NJ,Gloucester,Westville,Source1,4,39.858816,-75.125187,2020,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6753478,NJ,Gloucester,Woodbury,Source1,4,39.80558,-75.094803,2020,19,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-6786613,NJ,Gloucester,Mullica Hill,Source1,4,39.755362,-75.260502,2020,0,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6792851,NJ,Gloucester,Westville,Source1,4,39.85941,-75.121473,2020,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-6825524,NJ,Gloucester,Swedesboro,Source1,4,39.712625,-75.3506,2020,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-6887494,NJ,Gloucester,Mantua,Source1,4,39.80706,-75.182071,2020,0,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6962497,NJ,Gloucester,Blackwood,Source1,4,39.76397,-75.048312,2020,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6995535,NJ,Gloucester,Bridgeport,Source1,3,39.821,-75.36381,2020,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6997883,NJ,Gloucester,Sewell,Source1,3,39.7562,-75.13009,2020,14,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7000534,NJ,Gloucester,Glassboro,Source1,4,39.71122,-75.12756999999998,2020,23,Thursday,Rain,True,False,False,False,False,False,False
+A-7009591,NJ,Gloucester,Swedesboro,Source1,4,39.75348,-75.2764,2020,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7009596,NJ,Gloucester,Swedesboro,Source1,4,39.75348,-75.2764,2020,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7054370,NJ,Gloucester,Paulsboro,Source1,3,39.82788,-75.22369,2020,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7064316,NJ,Gloucester,Malaga,Source1,3,39.5778,-75.07066,2020,16,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7064321,NJ,Gloucester,Malaga,Source1,3,39.5778,-75.07066,2020,11,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7064326,NJ,Gloucester,Malaga,Source1,3,39.5778,-75.07066,2020,11,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7064340,NJ,Gloucester,Malaga,Source1,3,39.5778,-75.07066,2020,12,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7064342,NJ,Gloucester,Malaga,Source1,3,39.5778,-75.07066,2020,13,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7064351,NJ,Gloucester,Malaga,Source1,3,39.5778,-75.07066,2020,13,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7064356,NJ,Gloucester,Malaga,Source1,3,39.5778,-75.07066,2020,14,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7064364,NJ,Gloucester,Malaga,Source1,3,39.5778,-75.07066,2020,15,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7064377,NJ,Gloucester,Malaga,Source1,3,39.5778,-75.07066,2020,16,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7066605,NJ,Gloucester,Mullica Hill,Source1,4,39.71824,-75.1507,2020,1,Friday,Rain,False,False,False,False,False,False,False
+A-7066606,NJ,Gloucester,Glassboro,Source1,4,39.71122,-75.12756999999998,2020,1,Friday,Rain,True,False,False,False,False,False,False
+A-7066609,NJ,Gloucester,Glassboro,Source1,4,39.71122,-75.12756999999998,2020,1,Friday,Rain,True,False,False,False,False,False,False
+A-7066610,NJ,Gloucester,Mullica Hill,Source1,4,39.71824,-75.1507,2020,1,Friday,Rain,False,False,False,False,False,False,False
+A-7066615,NJ,Gloucester,Glassboro,Source1,4,39.71122,-75.12756999999998,2020,1,Friday,Rain,True,False,False,False,False,False,False
+A-7066683,NJ,Gloucester,Swedesboro,Source1,3,39.74663,-75.28796,2020,3,Friday,Rain,False,False,False,False,False,False,False
+A-7077279,NJ,Gloucester,Woodbury,Source1,4,39.83696,-75.09167,2020,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7077304,NJ,Gloucester,Woodbury,Source1,4,39.83696,-75.09167,2020,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7088192,NJ,Gloucester,Woodbury,Source1,3,39.82847,-75.08637,2020,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-7091096,NJ,Gloucester,Swedesboro,Source1,4,39.80529,-75.30454,2020,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7091114,NJ,Gloucester,Gibbstown,Source1,4,39.81149,-75.27343,2020,15,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7091116,NJ,Gloucester,Swedesboro,Source1,4,39.80529,-75.30454,2020,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7091117,NJ,Gloucester,Blackwood,Source1,3,39.75263,-75.0463,2020,15,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-7121787,NJ,Gloucester,Sewell,Source1,3,39.79078,-75.11554,2020,5,Thursday,Rain,False,False,True,False,False,False,False
+A-7121788,NJ,Gloucester,Sewell,Source1,3,39.79078,-75.11554,2020,5,Thursday,Rain,False,False,True,False,False,False,False
+A-7121795,NJ,Gloucester,Sewell,Source1,3,39.79078,-75.11554,2020,5,Thursday,Rain,False,False,True,False,False,False,False
+A-7150465,NJ,Gloucester,Woodbury,Source1,3,39.85063,-75.09629,2020,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7150467,NJ,Gloucester,Woodbury,Source1,3,39.85063,-75.09629,2020,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7165777,NJ,Gloucester,Newfield,Source1,4,39.54482,-75.04881,2020,18,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7165787,NJ,Gloucester,Newfield,Source1,4,39.54482,-75.04881,2020,19,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7165792,NJ,Gloucester,Newfield,Source1,4,39.54482,-75.04881,2020,19,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7165794,NJ,Gloucester,Newfield,Source1,4,39.54482,-75.04881,2020,19,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7165797,NJ,Gloucester,Newfield,Source1,4,39.54482,-75.04881,2020,20,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7165802,NJ,Gloucester,Newfield,Source1,4,39.54482,-75.04881,2020,20,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7165808,NJ,Gloucester,Newfield,Source1,4,39.54482,-75.04881,2020,20,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7165811,NJ,Gloucester,Newfield,Source1,4,39.54482,-75.04881,2020,20,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7165813,NJ,Gloucester,Newfield,Source1,4,39.54482,-75.04881,2020,20,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7165818,NJ,Gloucester,Newfield,Source1,4,39.54482,-75.04881,2020,21,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7165836,NJ,Gloucester,Newfield,Source1,4,39.54482,-75.04881,2020,22,Thursday,Cloudy,True,False,False,False,False,False,False
+A-7168232,NJ,Gloucester,Newfield,Source1,4,39.54482,-75.04881,2020,0,Friday,Cloudy,True,False,False,False,False,False,False
+A-7173129,NJ,Gloucester,Swedesboro,Source1,3,39.75484,-75.27699,2020,8,Monday,Rain,False,False,False,False,False,False,False
+A-7173140,NJ,Gloucester,Swedesboro,Source1,3,39.75484,-75.27699,2020,7,Monday,Rain,False,False,False,False,False,False,False
+A-7173196,NJ,Gloucester,Swedesboro,Source1,3,39.75484,-75.27699,2020,8,Monday,Rain,False,False,False,False,False,False,False
+A-7173236,NJ,Gloucester,Swedesboro,Source1,3,39.75484,-75.27699,2020,8,Monday,Rain,False,False,False,False,False,False,False
+A-7186092,NJ,Gloucester,Williamstown,Source1,4,39.61116,-74.90554,2020,9,Monday,Cloudy,True,False,False,False,False,False,False
+A-7188277,NJ,Gloucester,Franklinville,Source1,3,39.6335,-75.09495,2020,12,Tuesday,Rain,False,False,False,False,False,False,False
+A-7188310,NJ,Gloucester,Franklinville,Source1,3,39.6335,-75.09495,2020,13,Tuesday,Rain,False,False,False,False,False,False,False
+A-7188313,NJ,Gloucester,Franklinville,Source1,3,39.6335,-75.09495,2020,13,Tuesday,Rain,False,False,False,False,False,False,False
+A-7188332,NJ,Gloucester,Malaga,Source1,3,39.5778,-75.07066,2020,14,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7188381,NJ,Gloucester,Malaga,Source1,3,39.5778,-75.07066,2020,15,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7190360,NJ,Gloucester,Woodbury,Source1,4,39.82862,-75.08949,2020,12,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7190361,NJ,Gloucester,Woodbury,Source1,4,39.8282,-75.10033,2020,12,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7190385,NJ,Gloucester,Woodbury,Source1,4,39.82862,-75.08949,2020,13,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7190390,NJ,Gloucester,Woodbury,Source1,4,39.82862,-75.08949,2020,13,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7190391,NJ,Gloucester,Woodbury,Source1,4,39.8282,-75.10033,2020,13,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7190408,NJ,Gloucester,Woodbury,Source1,4,39.8282,-75.10033,2020,13,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7190409,NJ,Gloucester,Woodbury,Source1,4,39.82862,-75.08949,2020,13,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7190422,NJ,Gloucester,Woodbury,Source1,4,39.8282,-75.10033,2020,14,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7190424,NJ,Gloucester,Woodbury,Source1,4,39.82862,-75.08949,2020,14,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7193004,NJ,Gloucester,Blackwood,Source1,3,39.75989000000001,-75.04764,2020,21,Thursday,Rain,True,False,False,False,False,False,False
+A-7195350,NJ,Gloucester,Woodbury,Source1,4,39.86,-75.13726,2020,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-7195461,NJ,Gloucester,Woodbury,Source1,4,39.85986,-75.13750999999998,2020,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-7195475,NJ,Gloucester,Woodbury,Source1,4,39.85986,-75.13750999999998,2020,19,Friday,Rain,False,False,False,False,False,False,False
+A-7221550,NJ,Gloucester,Mullica Hill,Source1,3,39.72012,-75.15764,2020,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7241991,NJ,Gloucester,Sewell,Source1,4,39.76259,-75.10847,2020,15,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7310355,NJ,Gloucester,Westville,Source1,3,39.85689,-75.16219,2019,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7333619,NJ,Gloucester,Sewell,Source1,4,39.75462,-75.13387,2019,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7333620,NJ,Gloucester,Sewell,Source1,4,39.75644000000001,-75.13067,2019,17,Wednesday,Rain,False,False,True,False,False,False,False
+A-7345305,NJ,Gloucester,Clayton,Source1,3,39.63904,-75.09788,2019,15,Friday,Cloudy,False,False,True,False,False,False,False
+A-7358646,NJ,Gloucester,Sewell,Source1,4,39.75626,-75.12991,2019,16,Monday,Cloudy,False,False,True,False,False,False,False
+A-7395930,NJ,Gloucester,Blackwood,Source1,3,39.760554,-75.047748,2019,22,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7398614,NJ,Gloucester,Woodbury,Source1,3,39.83696,-75.09167,2019,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7422633,NJ,Gloucester,Malaga,Source1,3,39.5798,-75.0702,2019,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7422634,NJ,Gloucester,Malaga,Source1,3,39.58228,-75.0744,2019,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7425460,NJ,Gloucester,Blackwood,Source1,3,39.76694000000001,-75.0468,2019,7,Sunday,Rain,False,False,False,False,False,False,False
+A-7429655,NJ,Gloucester,Woodbury,Source1,3,39.850735,-75.096705,2019,17,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7432302,NJ,Gloucester,Blackwood,Source1,3,39.77019,-75.04894,2019,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-7432926,NJ,Gloucester,Westville,Source1,3,39.860279,-75.118274,2019,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7434062,NJ,Gloucester,Williamstown,Source1,4,39.648032,-74.947293,2019,11,Thursday,Cloudy,True,False,False,False,False,False,False
+A-7434085,NJ,Gloucester,Williamstown,Source1,4,39.70971,-75.01305,2019,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7436312,NJ,Gloucester,Gibbstown,Source1,3,39.81433,-75.26141,2019,7,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-7437211,NJ,Gloucester,Williamstown,Source1,4,39.672388,-74.977886,2019,18,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-7463196,NJ,Gloucester,Newfield,Source1,4,39.557595,-75.008975,2019,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7463197,NJ,Gloucester,Newfield,Source1,4,39.548069,-74.979336,2019,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7463839,NJ,Gloucester,Bridgeport,Source1,3,39.81022,-75.35242,2019,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7476206,NJ,Gloucester,Sewell,Source1,4,39.770803,-75.117954,2018,13,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7481774,NJ,Gloucester,Swedesboro,Source1,4,39.80428,-75.31034,2018,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7481785,NJ,Gloucester,Swedesboro,Source1,4,39.80428,-75.31034,2018,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7483801,NJ,Gloucester,Gibbstown,Source1,4,39.820062,-75.240624,2018,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-7483913,NJ,Gloucester,Blackwood,Source1,3,39.768066,-75.04894,2018,22,Friday,Rain,False,False,False,False,False,False,False
+A-7483916,NJ,Gloucester,Woodbury,Source1,4,39.82798,-75.08634,2018,22,Friday,Rain,False,False,False,False,False,False,False
+A-7490433,NJ,Gloucester,Bridgeport,Source1,3,39.81022,-75.35242,2018,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7492300,NJ,Gloucester,Woodbury,Source1,3,39.82826,-75.08663,2018,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7495570,NJ,Gloucester,Sewell,Source1,4,39.733983,-75.149948,2018,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7495916,NJ,Gloucester,Woodbury,Source1,3,39.8263,-75.10406,2018,10,Monday,Rain,False,False,False,False,False,False,False
+A-7498194,NJ,Gloucester,Mullica Hill,Source1,4,39.709824,-75.154338,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7506250,NJ,Gloucester,Woodbury,Source1,3,39.8263,-75.10406,2018,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7510472,NJ,Gloucester,Paulsboro,Source1,4,39.831289,-75.236425,2018,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7510474,NJ,Gloucester,Paulsboro,Source1,4,39.834428,-75.221544,2018,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7513221,NJ,Gloucester,Sewell,Source1,3,39.79078,-75.11554,2018,4,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7524846,NJ,Gloucester,Monroeville,Source1,3,39.65001,-75.12019000000002,2018,4,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7526047,NJ,Gloucester,Swedesboro,Source1,3,39.780905,-75.33685600000003,2018,4,Saturday,Rain,False,False,False,False,False,False,False
+A-7526093,NJ,Gloucester,Sewell,Source1,3,39.7966,-75.11664,2018,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7526094,NJ,Gloucester,Sewell,Source1,3,39.79212,-75.112,2018,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7526331,NJ,Gloucester,Williamstown,Source1,4,39.617625,-74.91915,2018,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7526332,NJ,Gloucester,Williamstown,Source1,4,39.62451,-74.92572,2018,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7533277,NJ,Gloucester,Williamstown,Source1,4,39.66793,-74.97216,2018,15,Monday,Rain,True,False,False,False,False,False,False
+A-7537380,NJ,Gloucester,Woodbury,Source1,3,39.82906,-75.08698000000003,2018,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7542916,NJ,Gloucester,Woodbury,Source1,4,39.84885,-75.14447,2018,11,Saturday,Cloudy,True,True,False,False,False,True,False
+A-7558076,NJ,Gloucester,Woodbury,Source1,4,39.846851,-75.146199,2018,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7558077,NJ,Gloucester,Woodbury,Source1,4,39.851114,-75.142903,2018,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7558078,NJ,Gloucester,Woodbury,Source1,4,39.846851,-75.146199,2018,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7558080,NJ,Gloucester,Woodbury,Source1,4,39.851114,-75.142903,2018,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7558088,NJ,Gloucester,Woodbury,Source1,4,39.846851,-75.146199,2018,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7558089,NJ,Gloucester,Woodbury,Source1,4,39.851114,-75.142903,2018,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7558094,NJ,Gloucester,Woodbury,Source1,4,39.851114,-75.142903,2018,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7558095,NJ,Gloucester,Woodbury,Source1,4,39.846851,-75.146199,2018,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7563265,NJ,Gloucester,Gibbstown,Source1,3,39.81495,-75.25881,2018,1,Sunday,Rain,False,False,False,False,False,False,False
+A-7570354,NJ,Gloucester,Woodbury,Source1,4,39.83313,-75.15696,2018,16,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-7576368,NJ,Gloucester,Newfield,Source1,4,39.56227,-75.02344000000002,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7576369,NJ,Gloucester,Newfield,Source1,4,39.56659000000001,-75.037201,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7576835,NJ,Gloucester,Bridgeport,Source1,3,39.81022,-75.35242,2018,15,Friday,Sin dato,False,False,False,False,False,False,False
+A-7590306,NJ,Gloucester,Clarksboro,Source1,3,39.81719,-75.24937,2018,14,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7597730,NJ,Gloucester,Blackwood,Source1,3,39.75989000000001,-75.04764,2018,15,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-7599130,NJ,Gloucester,Woodbury,Source1,4,39.82853,-75.12486,2018,22,Saturday,Rain,True,True,False,False,False,False,False
+A-7599131,NJ,Gloucester,Westville,Source1,4,39.871101,-75.12565,2018,22,Saturday,Rain,False,False,False,False,False,False,False
+A-7601338,NJ,Gloucester,Blackwood,Source1,4,39.77019,-75.04894,2018,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-7605763,NJ,Gloucester,Williamstown,Source1,4,39.625146,-74.926209,2018,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7605776,NJ,Gloucester,Sewell,Source1,4,39.7835,-75.10178,2018,16,Thursday,Cloudy,True,False,False,False,False,False,False
+A-7605777,NJ,Gloucester,Sewell,Source1,4,39.790341,-75.09988299999998,2018,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7607043,NJ,Gloucester,Swedesboro,Source1,4,39.758564,-75.290389,2018,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-7607044,NJ,Gloucester,Swedesboro,Source1,4,39.7568,-75.27631,2018,8,Monday,Cloudy,True,True,False,False,False,False,False
+A-7607586,NJ,Gloucester,Thorofare,Source1,3,39.83827,-75.19819,2018,13,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-7607609,NJ,Gloucester,Bridgeport,Source1,3,39.81022,-75.35242,2018,14,Tuesday,Rain,False,False,False,False,False,False,False
+A-7618491,NJ,Gloucester,Williamstown,Source1,4,39.68961,-75.01789000000002,2018,16,Monday,Cloudy,True,False,False,False,False,False,False
+A-7618494,NJ,Gloucester,Williamstown,Source1,4,39.691535,-75.030474,2018,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-7618501,NJ,Gloucester,Williamstown,Source1,3,39.69476,-75.05225,2018,19,Monday,Cloudy,True,False,False,False,False,False,False
+A-7618502,NJ,Gloucester,Williamstown,Source1,3,39.69476,-75.05225,2018,19,Monday,Cloudy,True,False,False,False,False,False,False
+A-7621695,NJ,Gloucester,Swedesboro,Source1,4,39.77747100000001,-75.33901,2018,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-7622281,NJ,Gloucester,Williamstown,Source1,4,39.62451,-74.92572,2018,22,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7622282,NJ,Gloucester,Williamstown,Source1,4,39.617969,-74.91965400000002,2018,22,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7624478,NJ,Gloucester,Blackwood,Source1,4,39.77062100000001,-75.05035600000002,2018,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7626300,NJ,Gloucester,Bridgeport,Source1,4,39.80571,-75.34969,2018,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7626301,NJ,Gloucester,Swedesboro,Source1,4,39.777453,-75.339004,2018,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7635708,NJ,Gloucester,Mullica Hill,Source1,4,39.7334,-75.20624000000002,2018,18,Sunday,Cloudy,True,False,False,False,False,False,False
+A-7635709,NJ,Gloucester,Mullica Hill,Source1,4,39.73303,-75.206,2018,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7635710,NJ,Gloucester,Mullica Hill,Source1,4,39.729184,-75.190758,2018,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7635711,NJ,Gloucester,Mullica Hill,Source1,4,39.73303,-75.206,2018,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7640923,NJ,Gloucester,Westville,Source1,3,39.85953,-75.12231,2017,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7646114,NJ,Gloucester,Mullica Hill,Source1,3,39.722701,-75.153336,2017,21,Monday,Cloudy,False,False,True,False,False,False,False
+A-7652325,NJ,Gloucester,Woodbury,Source1,3,39.830348,-75.08851899999998,2017,17,Saturday,Rain,False,False,False,False,False,False,False
+A-7653296,NJ,Gloucester,Bridgeport,Source1,3,39.81022,-75.35242,2017,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7655964,NJ,Gloucester,Westville,Source1,4,39.87144,-75.12911,2017,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-7655966,NJ,Gloucester,Westville,Source1,4,39.867941,-75.135902,2017,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-7659939,NJ,Gloucester,Sewell,Source1,4,39.758135,-75.127626,2017,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7662901,NJ,Gloucester,Westville,Source1,3,39.85884,-75.12522,2017,7,Wednesday,Rain,False,False,True,False,False,False,False
+A-7664064,NJ,Gloucester,Swedesboro,Source1,3,39.75982,-75.36319,2017,14,Sunday,Cloudy,False,False,True,False,False,False,False
+A-7666605,NJ,Gloucester,Williamstown,Source1,4,39.68949,-74.99288,2017,17,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-7666631,NJ,Gloucester,Newfield,Source1,4,39.54482,-75.04881,2017,21,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-7673338,NJ,Gloucester,Malaga,Source1,4,39.57179,-75.054,2017,18,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7673809,NJ,Gloucester,Sewell,Source1,4,39.78305,-75.1019,2017,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-7673810,NJ,Gloucester,Sewell,Source1,4,39.7835,-75.10178,2017,16,Friday,Cloudy,True,False,False,False,False,False,False
+A-7674333,NJ,Gloucester,Glassboro,Source1,4,39.69837,-75.14792,2017,5,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7684781,NJ,Gloucester,Malaga,Source1,3,39.58337,-75.07255,2017,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7686374,NJ,Gloucester,Paulsboro,Source1,3,39.823007,-75.233644,2017,23,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7696300,NJ,Gloucester,Mullica Hill,Source1,4,39.716251,-75.15531,2017,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7701323,NJ,Gloucester,Williamstown,Source1,4,39.674297,-74.979617,2017,23,Monday,Cloudy,False,False,False,False,False,False,False
+A-7701324,NJ,Gloucester,Williamstown,Source1,4,39.66793,-74.97216,2017,23,Monday,Cloudy,True,False,False,False,False,False,False
+A-7701815,NJ,Gloucester,Swedesboro,Source1,3,39.77636,-75.34151999999997,2017,22,Tuesday,Rain,False,False,True,False,False,False,False
+A-7702201,NJ,Gloucester,Swedesboro,Source1,3,39.77636,-75.34151999999997,2017,23,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7713901,NJ,Gloucester,Paulsboro,Source1,3,39.8298,-75.21913,2019,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7713909,NJ,Gloucester,Paulsboro,Source1,3,39.8298,-75.21913,2019,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7735040,NJ,Gloucester,Woodbury,Source1,3,39.82257,-75.10441,2019,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-7738365,NJ,Gloucester,Gibbstown,Source1,3,39.80754,-75.2915,2019,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-7739164,NJ,Gloucester,Franklinville,Source1,3,39.63364,-75.09448,2019,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7759906,NJ,Gloucester,Westville,Source1,3,39.85953,-75.12231,2019,20,Wednesday,Storm,False,False,False,False,False,False,False
+A-7765331,NJ,Gloucester,Woodbury,Source1,3,39.82948,-75.0874,2019,10,Monday,Clear / Fair,False,False,True,False,False,False,False

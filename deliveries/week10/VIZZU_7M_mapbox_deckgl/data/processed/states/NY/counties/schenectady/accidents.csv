@@ -1,0 +1,753 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-195018,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2016,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-195209,NY,Schenectady,Schenectady,Source2,3,42.78212,-73.923378,2016,22,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-195361,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2016,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-195903,NY,Schenectady,Schenectady,Source2,3,42.797615,-73.931206,2016,7,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-196407,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2016,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-196867,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2016,2,Sunday,Rain,False,False,False,False,False,False,False
+A-196871,NY,Schenectady,Schenectady,Source2,3,42.793526,-74.016754,2016,3,Sunday,Rain,False,False,False,False,False,False,False
+A-196874,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2016,5,Sunday,Rain,False,False,False,False,False,False,False
+A-196875,NY,Schenectady,Schenectady,Source2,3,42.783768,-74.028046,2016,7,Sunday,Rain,False,False,False,False,False,False,False
+A-197000,NY,Schenectady,Duanesburg,Source2,3,42.76207,-74.114388,2016,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-197380,NY,Schenectady,Schenectady,Source2,3,42.797615,-73.931206,2016,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-197463,NY,Schenectady,Schenectady,Source2,3,42.797615,-73.931206,2016,8,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-198307,NY,Schenectady,Schenectady,Source2,3,42.782036,-73.923386,2016,15,Thursday,Rain,False,False,True,False,False,False,False
+A-199152,NY,Schenectady,Schenectady,Source2,3,42.779713,-73.923798,2017,6,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-201136,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2017,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-201231,NY,Schenectady,Schenectady,Source2,3,42.790054,-74.015701,2017,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-201232,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2017,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-201525,NY,Schenectady,Duanesburg,Source2,3,42.76207,-74.114388,2017,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-201530,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2017,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-202344,NY,Schenectady,Duanesburg,Source2,3,42.76207,-74.114388,2016,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-202630,NY,Schenectady,Duanesburg,Source2,3,42.76207,-74.114388,2016,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-202641,NY,Schenectady,Schenectady,Source2,3,42.790264,-74.015785,2016,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-202847,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2016,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-202957,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2016,14,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-202962,NY,Schenectady,Schenectady,Source2,3,42.797615,-73.931206,2016,15,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-202971,NY,Schenectady,Duanesburg,Source2,3,42.76207,-74.114388,2016,15,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-202976,NY,Schenectady,Schenectady,Source2,3,42.783768,-74.028046,2016,16,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-202991,NY,Schenectady,Schenectady,Source2,3,42.797615,-73.931206,2016,16,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-203009,NY,Schenectady,Duanesburg,Source2,3,42.76207,-74.114388,2016,17,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-204260,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2016,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-204478,NY,Schenectady,Duanesburg,Source2,3,42.76207,-74.114388,2016,7,Wednesday,Rain,False,False,False,False,False,False,False
+A-204532,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2016,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-204590,NY,Schenectady,Schenectady,Source2,3,42.790451,-74.01609,2016,17,Wednesday,Rain,False,False,False,False,False,False,False
+A-206800,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2016,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-207881,NY,Schenectady,Schenectady,Source2,3,42.782036,-73.923386,2016,15,Monday,Cloudy,False,False,True,False,False,False,False
+A-208380,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2016,1,Friday,Cloudy,False,False,False,False,False,False,False
+A-208565,NY,Schenectady,Duanesburg,Source2,3,42.76207,-74.114388,2016,20,Saturday,Cloudy,False,False,False,False,False,False,False
+A-208779,NY,Schenectady,Schenectady,Source2,3,42.796371,-73.928741,2016,22,Monday,Cloudy,False,False,True,False,False,False,False
+A-212227,NY,Schenectady,Duanesburg,Source2,3,42.76207,-74.114388,2016,3,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-212992,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2016,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-213182,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2016,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-213223,NY,Schenectady,Schenectady,Source2,3,42.789051,-74.015236,2016,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-213237,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2016,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-213706,NY,Schenectady,Schenectady,Source2,3,42.796631,-73.929535,2016,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-213867,NY,Schenectady,Duanesburg,Source2,3,42.76207,-74.114388,2016,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-215401,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2016,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-215864,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2016,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-216385,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2016,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-216592,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2016,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-217680,NY,Schenectady,Duanesburg,Source2,3,42.76207,-74.114388,2016,13,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-218829,NY,Schenectady,Schenectady,Source2,3,42.783768,-74.028046,2016,19,Sunday,Cloudy,False,False,False,False,False,False,False
+A-219202,NY,Schenectady,Duanesburg,Source2,3,42.76207,-74.114388,2016,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-220437,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2016,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-220828,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2016,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-326233,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2017,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-326882,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2017,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-326917,NY,Schenectady,Schenectady,Source2,3,42.771038,-73.92675,2017,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-327174,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2017,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-327567,NY,Schenectady,Duanesburg,Source2,3,42.76207,-74.114388,2017,13,Tuesday,Rain,False,False,False,False,False,False,False
+A-327601,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2017,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-328475,NY,Schenectady,Duanesburg,Source2,3,42.76207,-74.114388,2017,8,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-328561,NY,Schenectady,Schenectady,Source2,3,42.770554,-73.926849,2017,18,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-328588,NY,Schenectady,Schenectady,Source2,3,42.782036,-73.923386,2017,23,Sunday,Snow / Ice,False,False,True,False,False,False,False
+A-328620,NY,Schenectady,Schenectady,Source2,3,42.782036,-73.923386,2017,7,Monday,Snow / Ice,False,False,True,False,False,False,False
+A-328681,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2017,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-370510,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2017,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-370725,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2017,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-371233,NY,Schenectady,Schenectady,Source2,3,42.783768,-74.028046,2017,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-372196,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2017,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-372483,NY,Schenectady,Schenectady,Source2,3,42.783768,-74.028046,2017,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-372484,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2017,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-372552,NY,Schenectady,Schenectady,Source2,3,42.790394,-74.015831,2017,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-373120,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2017,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-373477,NY,Schenectady,Schenectady,Source3,3,42.782036,-73.923386,2017,14,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-373821,NY,Schenectady,Schenectady,Source2,3,42.782036,-73.923386,2017,15,Friday,Cloudy,False,False,True,False,False,False,False
+A-374175,NY,Schenectady,Duanesburg,Source2,3,42.76207,-74.114388,2017,13,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-374616,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2017,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-374619,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2017,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-375129,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2017,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-375130,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2017,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-375309,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2017,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-375359,NY,Schenectady,Schenectady,Source2,3,42.787506,-74.014526,2017,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-375370,NY,Schenectady,Duanesburg,Source2,3,42.76207,-74.114388,2017,11,Friday,Rain,False,False,False,False,False,False,False
+A-375545,NY,Schenectady,Schenectady,Source2,3,42.797615,-73.931206,2017,7,Monday,Rain,False,False,False,False,False,False,False
+A-375968,NY,Schenectady,Schenectady,Source2,3,42.782036,-73.923386,2017,15,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-376174,NY,Schenectady,Schenectady,Source2,3,42.797321,-73.93024399999999,2017,8,Friday,Rain,False,False,False,False,False,False,False
+A-376175,NY,Schenectady,Schenectady,Source2,3,42.782036,-73.923386,2017,8,Friday,Rain,False,False,True,False,False,False,False
+A-419854,NY,Schenectady,Duanesburg,Source2,3,42.76207,-74.114388,2017,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-420118,NY,Schenectady,Schenectady,Source2,3,42.782036,-73.923386,2017,15,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-420508,NY,Schenectady,Duanesburg,Source2,3,42.76207,-74.114388,2017,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-420607,NY,Schenectady,Duanesburg,Source2,3,42.76207,-74.114388,2017,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-420732,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2017,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-420747,NY,Schenectady,Duanesburg,Source2,3,42.76207,-74.114388,2017,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-421273,NY,Schenectady,Schenectady,Source2,3,42.797615,-73.931206,2017,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-421547,NY,Schenectady,Duanesburg,Source2,3,42.76207,-74.114388,2017,16,Wednesday,Rain,False,False,False,False,False,False,False
+A-421810,NY,Schenectady,Schenectady,Source2,3,42.789993,-74.01567800000002,2017,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-421867,NY,Schenectady,Duanesburg,Source2,3,42.76207,-74.114388,2017,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-421872,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2017,2,Saturday,Cloudy,False,False,False,False,False,False,False
+A-421924,NY,Schenectady,Schenectady,Source2,3,42.797615,-73.931206,2017,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-422048,NY,Schenectady,Schenectady,Source2,3,42.797615,-73.931206,2017,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-423030,NY,Schenectady,Schenectady,Source2,3,42.782036,-73.923386,2017,12,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-423031,NY,Schenectady,Schenectady,Source2,3,42.782036,-73.923386,2017,12,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-423064,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2017,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-423320,NY,Schenectady,Schenectady,Source2,3,42.797615,-73.931206,2017,13,Friday,Rain,False,False,False,False,False,False,False
+A-446825,NY,Schenectady,Duanesburg,Source2,3,42.76207,-74.114388,2017,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-475364,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2017,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-475882,NY,Schenectady,Schenectady,Source2,3,42.783768,-74.028046,2017,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-476411,NY,Schenectady,Schenectady,Source2,3,42.797615,-73.931206,2017,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-476634,NY,Schenectady,Schenectady,Source2,3,42.783768,-74.028046,2017,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-477026,NY,Schenectady,Duanesburg,Source2,3,42.76207,-74.114388,2017,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-477117,NY,Schenectady,Schenectady,Source2,3,42.771038,-73.92675,2017,15,Monday,Rain,False,False,False,False,False,False,False
+A-478114,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2017,15,Tuesday,Rain,False,False,False,False,False,False,False
+A-478213,NY,Schenectady,Schenectady,Source2,3,42.771038,-73.92675,2017,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-478219,NY,Schenectady,Schenectady,Source2,3,42.771038,-73.92675,2017,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-478534,NY,Schenectady,Schenectady,Source2,3,42.782143,-73.923378,2017,17,Friday,Rain,False,False,True,False,False,False,False
+A-479119,NY,Schenectady,Schenectady,Source2,3,42.782036,-73.923386,2017,7,Friday,Cloudy,False,False,True,False,False,False,False
+A-503647,NY,Schenectady,Schenectady,Source2,3,42.797615,-73.931206,2017,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-504098,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2017,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-504857,NY,Schenectady,Schenectady,Source2,3,42.783768,-74.028046,2017,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-527622,NY,Schenectady,Schenectady,Source2,3,42.813477,-73.97618100000003,2022,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-578801,NY,Schenectady,Schenectady,Source2,4,42.782143,-73.922882,2022,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-682895,NY,Schenectady,Schenectady,Source2,3,42.789932,-74.015999,2022,22,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-722077,NY,Schenectady,Schenectady,Source2,3,42.789932,-74.015999,2022,8,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-753292,NY,Schenectady,Schenectady,Source2,3,42.787029,-74.01393900000002,2022,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-807890,NY,Schenectady,Schenectady,Source2,3,42.789932,-74.015999,2021,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-824340,NY,Schenectady,Schenectady,Source2,3,42.789932,-74.015999,2021,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-840142,NY,Schenectady,Schenectady,Source2,3,42.789932,-74.015999,2021,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-877139,NY,Schenectady,Schenectady,Source2,3,42.771217,-73.926727,2021,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-894331,NY,Schenectady,Schenectady,Source2,3,42.840942,-74.008453,2021,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-972703,NY,Schenectady,Schenectady,Source2,3,42.790508,-74.016121,2021,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-1080854,NY,Schenectady,Schenectady,Source2,3,42.789932,-74.015999,2021,15,Thursday,Rain,False,False,False,False,False,False,False
+A-1098399,NY,Schenectady,Schenectady,Source2,3,42.811275,-73.95018,2021,11,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-1103956,NY,Schenectady,Schenectady,Source2,3,42.797649,-73.931664,2021,20,Friday,Rain,False,False,False,False,False,False,False
+A-1180830,NY,Schenectady,Schenectady,Source2,3,42.797649,-73.931664,2021,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-1221809,NY,Schenectady,Schenectady,Source2,3,42.797722,-73.93109100000002,2020,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1224262,NY,Schenectady,Schenectady,Source2,3,42.782104,-74.007874,2020,5,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1232452,NY,Schenectady,Schenectady,Source2,3,42.797649,-73.931664,2020,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1242699,NY,Schenectady,Schenectady,Source2,3,42.838852,-74.001442,2020,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1250463,NY,Schenectady,Schenectady,Source2,3,42.797932,-73.93338,2020,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1260389,NY,Schenectady,Schenectady,Source2,3,42.80552700000001,-73.948128,2020,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1311440,NY,Schenectady,Duanesburg,Source2,3,42.761654,-74.11438000000003,2020,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1314990,NY,Schenectady,Schenectady,Source2,3,42.789932,-74.015999,2020,9,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1315574,NY,Schenectady,Schenectady,Source2,3,42.782143,-73.922882,2020,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1340962,NY,Schenectady,Schenectady,Source2,3,42.783257,-74.027924,2020,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1342849,NY,Schenectady,Schenectady,Source2,3,42.840942,-74.008453,2020,15,Friday,Rain,False,False,False,False,False,False,False
+A-1353815,NY,Schenectady,Schenectady,Source2,3,42.783257,-74.027924,2020,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1357001,NY,Schenectady,Schenectady,Source2,3,42.811275,-73.95018,2020,21,Monday,Rain,False,False,True,False,False,False,False
+A-1377377,NY,Schenectady,Schenectady,Source2,3,42.78418,-74.02845,2020,15,Sunday,Clear / Fair,False,False,False,True,False,False,False
+A-1377812,NY,Schenectady,Schenectady,Source2,3,42.789932,-74.015999,2020,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1383635,NY,Schenectady,Schenectady,Source2,3,42.81546,-73.982124,2020,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1390967,NY,Schenectady,Schenectady,Source2,3,42.771721,-73.927208,2020,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1397742,NY,Schenectady,Schenectady,Source2,3,42.782143,-73.922882,2020,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1406309,NY,Schenectady,Schenectady,Source2,3,42.840942,-74.008453,2020,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1413337,NY,Schenectady,Schenectady,Source2,3,42.81546,-73.982124,2020,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1426074,NY,Schenectady,Duanesburg,Source2,3,42.763077,-74.113754,2020,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1440458,NY,Schenectady,Schenectady,Source2,3,42.81546,-73.982124,2020,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-1442112,NY,Schenectady,Duanesburg,Source2,3,42.762466,-74.114655,2020,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1444684,NY,Schenectady,Schenectady,Source2,3,42.789932,-74.015999,2020,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1444691,NY,Schenectady,Schenectady,Source2,3,42.771217,-73.926727,2020,18,Thursday,Storm,False,False,False,False,False,False,False
+A-1447523,NY,Schenectady,Schenectady,Source2,3,42.813477,-73.97618100000003,2020,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1453456,NY,Schenectady,Schenectady,Source2,3,42.783257,-74.027924,2020,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1453457,NY,Schenectady,Schenectady,Source2,3,42.771217,-73.926727,2020,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1453767,NY,Schenectady,Duanesburg,Source2,3,42.761654,-74.11438000000003,2020,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-1465350,NY,Schenectady,Schenectady,Source2,3,42.789932,-74.015999,2020,11,Monday,Rain,False,False,False,False,False,False,False
+A-1471596,NY,Schenectady,Duanesburg,Source2,3,42.761654,-74.11438000000003,2020,0,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1475250,NY,Schenectady,Schenectady,Source2,3,42.840942,-74.008453,2020,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1482886,NY,Schenectady,Schenectady,Source2,3,42.783257,-74.027924,2020,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1492183,NY,Schenectady,Duanesburg,Source2,3,42.763077,-74.113754,2020,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1492184,NY,Schenectady,Schenectady,Source2,3,42.783257,-74.027924,2020,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1497672,NY,Schenectady,Schenectady,Source2,3,42.813911,-73.954514,2020,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1505158,NY,Schenectady,Schenectady,Source2,3,42.840942,-74.008453,2020,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1505162,NY,Schenectady,Schenectady,Source2,3,42.783257,-74.027924,2020,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1511438,NY,Schenectady,Schenectady,Source2,3,42.807899,-73.866249,2020,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1526766,NY,Schenectady,Schenectady,Source2,3,42.81546,-73.982124,2020,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-1540590,NY,Schenectady,Schenectady,Source2,3,42.840942,-74.008453,2020,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1551192,NY,Schenectady,Schenectady,Source2,3,42.789932,-74.015999,2020,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1567334,NY,Schenectady,Schenectady,Source2,3,42.840942,-74.008453,2020,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1569633,NY,Schenectady,Schenectady,Source2,3,42.789932,-74.015999,2020,2,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-1578233,NY,Schenectady,Schenectady,Source2,3,42.840942,-74.008453,2020,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1586864,NY,Schenectady,Schenectady,Source2,3,42.80552700000001,-73.948128,2020,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1595138,NY,Schenectady,Schenectady,Source2,3,42.813911,-73.954514,2020,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1595139,NY,Schenectady,Schenectady,Source2,3,42.789932,-74.015999,2020,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1599791,NY,Schenectady,Duanesburg,Source2,3,42.763077,-74.113754,2020,15,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-1599799,NY,Schenectady,Schenectady,Source2,3,42.813911,-73.954514,2020,17,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-1599803,NY,Schenectady,Schenectady,Source2,3,42.771217,-73.926727,2020,19,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-1599804,NY,Schenectady,Schenectady,Source2,3,42.782143,-73.922882,2020,19,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-1599805,NY,Schenectady,Schenectady,Source2,3,42.81546,-73.982124,2020,19,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-1599807,NY,Schenectady,Duanesburg,Source2,3,42.763077,-74.113754,2020,19,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-1599809,NY,Schenectady,Schenectady,Source2,3,42.797649,-73.931664,2020,21,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-1600576,NY,Schenectady,Schenectady,Source2,3,42.81546,-73.982124,2020,3,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1600578,NY,Schenectady,Schenectady,Source2,3,42.838322,-74.01371,2020,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1604956,NY,Schenectady,Delanson,Source2,3,42.730938,-74.18557,2020,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1607286,NY,Schenectady,Schenectady,Source2,3,42.811275,-73.95018,2020,12,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1612510,NY,Schenectady,Schenectady,Source2,3,42.783257,-74.027924,2020,9,Sunday,Rain,False,False,False,False,False,False,False
+A-1631895,NY,Schenectady,Schenectady,Source2,3,42.782143,-73.922882,2020,7,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1631915,NY,Schenectady,Schenectady,Source2,3,42.789932,-74.015999,2020,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1637270,NY,Schenectady,Schenectady,Source2,3,42.782143,-73.922882,2020,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1637271,NY,Schenectady,Schenectady,Source2,3,42.813911,-73.954514,2020,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1638643,NY,Schenectady,Duanesburg,Source2,3,42.761654,-74.11438000000003,2020,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-1645652,NY,Schenectady,Schenectady,Source2,3,42.782143,-73.922882,2020,7,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1670420,NY,Schenectady,Schenectady,Source2,3,42.80552700000001,-73.948128,2020,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1670421,NY,Schenectady,Schenectady,Source2,3,42.771217,-73.926727,2020,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1675061,NY,Schenectady,Schenectady,Source2,3,42.80552700000001,-73.948128,2020,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1679094,NY,Schenectady,Schenectady,Source2,3,42.80552700000001,-73.948128,2019,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1682413,NY,Schenectady,Schenectady,Source2,3,42.783257,-74.027924,2019,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1683168,NY,Schenectady,Duanesburg,Source2,3,42.763077,-74.113754,2019,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-1686554,NY,Schenectady,Schenectady,Source2,3,42.840942,-74.008453,2019,19,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1687588,NY,Schenectady,Schenectady,Source2,3,42.81546,-73.982124,2019,17,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1700565,NY,Schenectady,Schenectady,Source2,3,42.783257,-74.027924,2019,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1710731,NY,Schenectady,Schenectady,Source2,3,42.828423,-73.89166999999998,2019,10,Thursday,Cloudy,True,False,False,False,False,False,False
+A-1713457,NY,Schenectady,Schenectady,Source2,3,42.78302,-73.923317,2019,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-1717047,NY,Schenectady,Duanesburg,Source2,3,42.763077,-74.113754,2019,6,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1720455,NY,Schenectady,Schenectady,Source2,3,42.813911,-73.954514,2019,6,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1731524,NY,Schenectady,Schenectady,Source2,3,42.811275,-73.95018,2019,22,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-1732341,NY,Schenectady,Schenectady,Source2,3,42.840942,-74.008453,2019,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1732345,NY,Schenectady,Schenectady,Source2,3,42.813911,-73.954514,2019,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1736204,NY,Schenectady,Schenectady,Source2,3,42.814011,-73.95871700000002,2019,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1739470,NY,Schenectady,Schenectady,Source2,3,42.840942,-74.008453,2019,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1747308,NY,Schenectady,Schenectady,Source2,3,42.813911,-73.954514,2019,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-1759497,NY,Schenectady,Schenectady,Source2,3,42.80552700000001,-73.948128,2019,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1768917,NY,Schenectady,Schenectady,Source2,3,42.813477,-73.97618100000003,2019,18,Tuesday,Rain,False,False,False,False,False,False,False
+A-1780345,NY,Schenectady,Schenectady,Source2,3,42.783257,-74.027924,2019,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1791444,NY,Schenectady,Schenectady,Source2,3,42.782143,-73.922882,2019,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-1794862,NY,Schenectady,Schenectady,Source2,3,42.813477,-73.97618100000003,2019,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1798058,NY,Schenectady,Schenectady,Source2,3,42.840942,-74.008453,2019,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1800662,NY,Schenectady,Schenectady,Source2,3,42.783558,-74.028435,2019,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1809869,NY,Schenectady,Schenectady,Source2,3,42.790016,-74.015694,2019,9,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1809873,NY,Schenectady,Schenectady,Source2,3,42.813911,-73.954514,2019,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1816365,NY,Schenectady,Schenectady,Source2,3,42.840942,-74.008453,2019,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1829193,NY,Schenectady,Duanesburg,Source2,3,42.762505,-74.114548,2019,7,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1834591,NY,Schenectady,Schenectady,Source2,3,42.797649,-73.931664,2019,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1837370,NY,Schenectady,Schenectady,Source2,3,42.789932,-74.015999,2019,23,Friday,Cloudy,False,False,False,False,False,False,False
+A-1840340,NY,Schenectady,Duanesburg,Source2,3,42.763077,-74.113754,2019,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1841130,NY,Schenectady,Schenectady,Source2,3,42.840942,-74.008453,2019,10,Sunday,Rain,False,False,False,False,False,False,False
+A-1855696,NY,Schenectady,Schenectady,Source2,3,42.80552700000001,-73.948128,2019,9,Tuesday,Rain,False,False,False,False,False,False,False
+A-1865623,NY,Schenectady,Schenectady,Source2,3,42.811275,-73.95018,2019,21,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-1866468,NY,Schenectady,Schenectady,Source2,3,42.838001,-74.012665,2019,2,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1872568,NY,Schenectady,Schenectady,Source2,3,42.840942,-74.008453,2019,0,Monday,Cloudy,False,False,False,False,False,False,False
+A-1875691,NY,Schenectady,Schenectady,Source2,3,42.812611,-73.95179,2019,17,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-1878172,NY,Schenectady,Schenectady,Source2,3,42.81546,-73.982124,2019,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1880671,NY,Schenectady,Schenectady,Source2,3,42.80552700000001,-73.948128,2019,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1886303,NY,Schenectady,Schenectady,Source2,3,42.813911,-73.954514,2019,0,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1887563,NY,Schenectady,Schenectady,Source2,3,42.782143,-73.922882,2019,16,Monday,Rain,False,False,False,False,False,False,False
+A-1887566,NY,Schenectady,Schenectady,Source2,3,42.771496,-73.975487,2019,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-1889000,NY,Schenectady,Schenectady,Source2,3,42.771217,-73.926727,2019,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1891499,NY,Schenectady,Schenectady,Source2,3,42.813911,-73.954514,2019,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1902422,NY,Schenectady,Schenectady,Source2,3,42.797649,-73.931664,2019,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1904861,NY,Schenectady,Schenectady,Source2,3,42.789932,-74.015999,2019,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1904863,NY,Schenectady,Schenectady,Source2,3,42.771217,-73.926727,2019,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1916042,NY,Schenectady,Schenectady,Source2,3,42.771217,-73.926727,2019,7,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1916049,NY,Schenectady,Schenectady,Source2,3,42.814011,-73.95871700000002,2019,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1926795,NY,Schenectady,Schenectady,Source2,3,42.80151400000001,-73.941422,2019,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1934551,NY,Schenectady,Schenectady,Source2,3,42.783257,-74.027924,2019,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1937089,NY,Schenectady,Schenectady,Source2,3,42.789497,-74.015457,2019,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1941885,NY,Schenectady,Schenectady,Source2,3,42.813911,-73.954514,2019,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-1954334,NY,Schenectady,Schenectady,Source2,3,42.813911,-73.954514,2019,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1966293,NY,Schenectady,Schenectady,Source2,3,42.80552700000001,-73.948128,2019,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1966973,NY,Schenectady,Schenectady,Source2,3,42.781818,-73.922722,2019,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-1969320,NY,Schenectady,Schenectady,Source2,3,42.812611,-73.95179,2019,9,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-1979747,NY,Schenectady,Duanesburg,Source2,3,42.761654,-74.11438000000003,2019,16,Monday,Rain,False,False,False,False,False,False,False
+A-1984134,NY,Schenectady,Schenectady,Source2,3,42.813477,-73.97618100000003,2019,0,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1986434,NY,Schenectady,Schenectady,Source2,3,42.771217,-73.926727,2019,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1992189,NY,Schenectady,Duanesburg,Source2,3,42.761654,-74.11438000000003,2019,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1992194,NY,Schenectady,Schenectady,Source2,3,42.782143,-73.922882,2019,21,Monday,Rain,False,False,False,False,False,False,False
+A-1994159,NY,Schenectady,Schenectady,Source2,3,42.797649,-73.931664,2019,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2021641,NY,Schenectady,Schenectady,Source2,3,42.80552700000001,-73.948128,2019,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2026426,NY,Schenectady,Schenectady,Source2,3,42.840942,-74.008453,2019,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-2028762,NY,Schenectady,Schenectady,Source2,3,42.840942,-74.008453,2019,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2035703,NY,Schenectady,Schenectady,Source2,3,42.840942,-74.008453,2019,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2040390,NY,Schenectady,Schenectady,Source2,3,42.783257,-74.027924,2019,4,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2041903,NY,Schenectady,Schenectady,Source2,3,42.813911,-73.954514,2019,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-2046432,NY,Schenectady,Schenectady,Source2,3,42.812794,-73.969101,2019,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2057106,NY,Schenectady,Schenectady,Source2,3,42.840942,-74.008453,2019,11,Tuesday,Rain,False,False,False,False,False,False,False
+A-2057107,NY,Schenectady,Duanesburg,Source2,3,42.761654,-74.11438000000003,2019,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2061813,NY,Schenectady,Schenectady,Source2,3,42.797791,-73.931557,2019,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2067274,NY,Schenectady,Schenectady,Source2,3,42.797649,-73.931664,2019,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2079559,NY,Schenectady,Schenectady,Source2,3,42.811275,-73.95018,2019,13,Sunday,Cloudy,False,False,True,False,False,False,False
+A-2089436,NY,Schenectady,Duanesburg,Source2,3,42.761654,-74.11438000000003,2019,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2096498,NY,Schenectady,Schenectady,Source2,3,42.770653,-73.926834,2019,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2109560,NY,Schenectady,Schenectady,Source2,3,42.770706,-73.92662800000002,2019,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2110491,NY,Schenectady,Schenectady,Source2,3,42.814701,-73.980972,2019,2,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2125990,NY,Schenectady,Duanesburg,Source2,3,42.762226,-74.114029,2019,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2128262,NY,Schenectady,Schenectady,Source2,3,42.80616,-73.949272,2019,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2130526,NY,Schenectady,Schenectady,Source2,3,42.840942,-74.008453,2019,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2139880,NY,Schenectady,Duanesburg,Source2,3,42.762444,-74.11350999999998,2019,20,Friday,Rain,False,False,False,False,False,False,False
+A-2139881,NY,Schenectady,Schenectady,Source2,3,42.783257,-74.027924,2019,20,Friday,Rain,False,False,False,False,False,False,False
+A-2139885,NY,Schenectady,Schenectady,Source2,3,42.81546,-73.982124,2019,22,Friday,Cloudy,False,False,False,False,False,False,False
+A-2147025,NY,Schenectady,Schenectady,Source2,3,42.841316,-74.008163,2019,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2149441,NY,Schenectady,Duanesburg,Source2,3,42.762268,-74.114357,2019,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2149452,NY,Schenectady,Pattersonville,Source2,3,42.885159,-74.075851,2019,17,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2155950,NY,Schenectady,Schenectady,Source2,3,42.814804,-73.980637,2019,10,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-2167389,NY,Schenectady,Schenectady,Source2,3,42.840942,-74.008453,2019,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-2180123,NY,Schenectady,Schenectady,Source2,3,42.840942,-74.008453,2019,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-2180126,NY,Schenectady,Schenectady,Source2,3,42.790562,-74.01589200000002,2019,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2187052,NY,Schenectady,Schenectady,Source2,3,42.789932,-74.015999,2019,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2191801,NY,Schenectady,Schenectady,Source2,3,42.840942,-74.008453,2019,23,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2192535,NY,Schenectady,Schenectady,Source2,3,42.840942,-74.008453,2019,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2195445,NY,Schenectady,Duanesburg,Source2,3,42.762268,-74.114357,2019,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2205760,NY,Schenectady,Schenectady,Source2,3,42.814182,-73.957581,2019,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2208167,NY,Schenectady,Schenectady,Source2,3,42.781818,-73.922722,2019,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2227877,NY,Schenectady,Schenectady,Source2,3,42.783463,-74.02810699999998,2019,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2232830,NY,Schenectady,Duanesburg,Source2,3,42.762268,-74.114357,2019,5,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2235201,NY,Schenectady,Schenectady,Source2,3,42.790005,-74.015686,2019,5,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2245578,NY,Schenectady,Delanson,Source2,3,42.734344,-74.179253,2019,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-2249260,NY,Schenectady,Duanesburg,Source2,3,42.762268,-74.114357,2019,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2254672,NY,Schenectady,Schenectady,Source2,3,42.845612,-74.006271,2019,6,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-2254674,NY,Schenectady,Schenectady,Source2,3,42.815083,-73.980553,2019,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2254676,NY,Schenectady,Schenectady,Source2,3,42.797714,-73.931076,2019,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2254682,NY,Schenectady,Schenectady,Source2,3,42.782425,-73.923363,2019,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2254689,NY,Schenectady,Schenectady,Source2,3,42.812801,-73.95210300000002,2019,17,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-2278769,NY,Schenectady,Schenectady,Source2,3,42.805363,-73.948029,2019,23,Tuesday,Rain,True,True,False,False,False,False,False
+A-2281690,NY,Schenectady,Schenectady,Source2,3,42.814182,-73.957581,2019,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2281699,NY,Schenectady,Schenectady,Source2,3,42.815083,-73.980553,2019,8,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2281702,NY,Schenectady,Schenectady,Source2,3,42.812511,-73.95184300000003,2019,8,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-2281706,NY,Schenectady,Schenectady,Source2,3,42.841316,-74.008163,2019,9,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2287163,NY,Schenectady,Schenectady,Source2,3,42.783463,-74.02810699999998,2019,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-2289533,NY,Schenectady,Schenectady,Source2,3,42.797802,-73.931854,2019,4,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2289537,NY,Schenectady,Schenectady,Source2,3,42.782696,-74.030922,2019,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2291150,NY,Schenectady,Schenectady,Source2,3,42.783463,-74.02810699999998,2019,6,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2291160,NY,Schenectady,Schenectady,Source2,3,42.78240200000001,-73.923004,2019,7,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2291163,NY,Schenectady,Schenectady,Source2,3,42.805363,-73.948029,2019,7,Monday,Snow / Ice,True,True,False,False,False,False,False
+A-2291164,NY,Schenectady,Schenectady,Source2,3,42.814182,-73.957581,2019,8,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2295593,NY,Schenectady,Schenectady,Source2,3,42.841316,-74.008163,2019,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2303115,NY,Schenectady,Schenectady,Source2,3,42.801067,-73.940628,2019,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2308927,NY,Schenectady,Schenectady,Source2,3,42.790005,-74.015686,2019,18,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2308932,NY,Schenectady,Schenectady,Source2,3,42.841316,-74.008163,2019,20,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2311507,NY,Schenectady,Schenectady,Source2,3,42.792938,-74.016472,2019,10,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-2320921,NY,Schenectady,Schenectady,Source2,3,42.841316,-74.008163,2019,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2320926,NY,Schenectady,Schenectady,Source2,3,42.796276,-73.928871,2019,20,Monday,Cloudy,False,False,True,False,False,False,False
+A-2334142,NY,Schenectady,Schenectady,Source2,3,42.83839,-74.012901,2019,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2346843,NY,Schenectady,Schenectady,Source2,3,42.770943,-73.926743,2019,22,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-2347741,NY,Schenectady,Schenectady,Source2,3,42.841316,-74.008163,2019,15,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-2348581,NY,Schenectady,Schenectady,Source2,3,42.815083,-73.980553,2019,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-2356090,NY,Schenectady,Schenectady,Source2,3,42.783463,-74.02810699999998,2019,16,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2363064,NY,Schenectady,Schenectady,Source2,3,42.805363,-73.948029,2019,7,Monday,Clear / Fair,True,True,False,False,False,False,False
+A-2377454,NY,Schenectady,Schenectady,Source2,3,42.797802,-73.931854,2018,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2383803,NY,Schenectady,Duanesburg,Source2,3,42.762268,-74.114357,2018,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2386075,NY,Schenectady,Schenectady,Source2,3,42.790562,-74.01589200000002,2018,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2386078,NY,Schenectady,Schenectady,Source2,3,42.788754,-74.01505999999998,2018,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2387128,NY,Schenectady,Duanesburg,Source2,3,42.762268,-74.114357,2018,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-2389436,NY,Schenectady,Schenectady,Source2,3,42.814861,-73.98091099999998,2018,21,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-2394366,NY,Schenectady,Schenectady,Source2,3,42.80616,-73.949272,2018,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2394368,NY,Schenectady,Schenectady,Source2,3,42.812614,-73.95255999999998,2018,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2399703,NY,Schenectady,Schenectady,Source2,3,42.770943,-73.926743,2018,10,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-2399706,NY,Schenectady,Schenectady,Source2,3,42.841316,-74.008163,2018,11,Sunday,Rain,False,False,False,False,False,False,False
+A-2399708,NY,Schenectady,Duanesburg,Source2,3,42.762669,-74.114166,2018,11,Sunday,Rain,False,False,False,False,False,False,False
+A-2399711,NY,Schenectady,Schenectady,Source2,3,42.841316,-74.008163,2018,12,Sunday,Rain,False,False,False,False,False,False,False
+A-2399714,NY,Schenectady,Schenectady,Source2,3,42.789745,-74.01557199999998,2018,12,Sunday,Rain,False,False,False,False,False,False,False
+A-2399716,NY,Schenectady,Schenectady,Source2,3,42.781136,-73.92356099999998,2018,13,Sunday,Rain,False,False,True,False,False,False,False
+A-2399717,NY,Schenectady,Schenectady,Source2,3,42.789745,-74.01557199999998,2018,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2402520,NY,Schenectady,Schenectady,Source2,3,42.815083,-73.980553,2018,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2402521,NY,Schenectady,Schenectady,Source2,3,42.812794,-73.969101,2018,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2405071,NY,Schenectady,Schenectady,Source2,3,42.841316,-74.008163,2018,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2409256,NY,Schenectady,Schenectady,Source2,3,42.78240200000001,-73.923004,2018,6,Friday,Rain,False,False,False,False,False,False,False
+A-2409266,NY,Schenectady,Schenectady,Source2,3,42.79042800000001,-74.015846,2018,17,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2421604,NY,Schenectady,Schenectady,Source2,3,42.815083,-73.980553,2018,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-2421606,NY,Schenectady,Schenectady,Source2,3,42.841316,-74.008163,2018,18,Monday,Rain,False,False,False,False,False,False,False
+A-2423584,NY,Schenectady,Schenectady,Source2,3,42.838245,-74.01280200000002,2018,21,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2423586,NY,Schenectady,Schenectady,Source2,3,42.838245,-74.01280200000002,2018,21,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2444514,NY,Schenectady,Duanesburg,Source2,3,42.76207,-74.114388,2018,17,Friday,Rain,False,False,False,False,False,False,False
+A-2448599,NY,Schenectady,Schenectady,Source2,3,42.800941,-73.940712,2018,7,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-2448600,NY,Schenectady,Schenectady,Source2,3,42.814716,-73.981064,2018,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2455001,NY,Schenectady,Schenectady,Source2,3,42.813255,-73.953239,2018,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2455004,NY,Schenectady,Schenectady,Source2,3,42.797615,-73.931206,2018,7,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2461071,NY,Schenectady,Schenectady,Source2,3,42.771038,-73.92675,2018,6,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2475311,NY,Schenectady,Schenectady,Source2,3,42.81486500000001,-73.980995,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2481324,NY,Schenectady,Schenectady,Source2,3,42.838245,-74.01280200000002,2018,8,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2481330,NY,Schenectady,Schenectady,Source2,3,42.782532,-74.030815,2018,10,Tuesday,Rain,False,False,False,False,False,False,False
+A-2484065,NY,Schenectady,Schenectady,Source2,3,42.838158,-74.012474,2018,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2487839,NY,Schenectady,Schenectady,Source2,3,42.812714,-73.952202,2018,22,Sunday,Cloudy,False,False,True,False,False,False,False
+A-2513155,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2018,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-2515881,NY,Schenectady,Schenectady,Source2,3,42.78162,-73.922882,2018,9,Saturday,Rain,False,False,False,False,False,False,False
+A-2515885,NY,Schenectady,Duanesburg,Source2,3,42.76207,-74.114388,2018,23,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2542025,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2018,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2542033,NY,Schenectady,Schenectady,Source2,3,42.811375,-73.950539,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2548026,NY,Schenectady,Duanesburg,Source2,3,42.761787,-74.116264,2018,11,Saturday,Rain,False,False,False,False,False,False,False
+A-2548029,NY,Schenectady,Schenectady,Source2,3,42.803997,-73.947113,2018,12,Saturday,Rain,False,False,False,False,False,False,False
+A-2548031,NY,Schenectady,Schenectady,Source2,3,42.814362,-73.95920600000002,2018,13,Saturday,Rain,False,False,False,False,False,False,False
+A-2555599,NY,Schenectady,Schenectady,Source2,3,42.838245,-74.01280200000002,2018,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-2555601,NY,Schenectady,Schenectady,Source2,3,42.838245,-74.01280200000002,2018,22,Friday,Cloudy,False,False,False,False,False,False,False
+A-2568973,NY,Schenectady,Schenectady,Source2,3,42.81486500000001,-73.980995,2018,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2571515,NY,Schenectady,Schenectady,Source2,3,42.814362,-73.95920600000002,2018,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2572297,NY,Schenectady,Schenectady,Source2,3,42.841629,-74.004463,2018,3,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2572302,NY,Schenectady,Schenectady,Source2,3,42.811386,-73.950546,2018,9,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2575736,NY,Schenectady,Schenectady,Source2,3,42.811863,-73.950951,2018,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2581195,NY,Schenectady,Schenectady,Source2,3,42.811184,-73.950401,2018,7,Thursday,Cloudy,False,False,True,False,False,False,False
+A-2581197,NY,Schenectady,Schenectady,Source2,3,42.838627,-74.012764,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2583593,NY,Schenectady,Duanesburg,Source2,3,42.76207,-74.114388,2018,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-2583596,NY,Schenectady,Schenectady,Source2,3,42.838245,-74.01280200000002,2018,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2587854,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2018,8,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2604694,NY,Schenectady,Schenectady,Source2,3,42.81486500000001,-73.980995,2018,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2632671,NY,Schenectady,Schenectady,Source2,3,42.838245,-74.01280200000002,2018,15,Wednesday,Rain,False,False,False,False,False,False,False
+A-2632672,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2018,15,Wednesday,Rain,False,False,False,False,False,False,False
+A-2635193,NY,Schenectady,Schenectady,Source2,3,42.838245,-74.01280200000002,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2641820,NY,Schenectady,Schenectady,Source2,3,42.797615,-73.931206,2018,16,Monday,Rain,False,False,False,False,False,False,False
+A-2649142,NY,Schenectady,Schenectady,Source2,3,42.783768,-74.028046,2018,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2649151,NY,Schenectady,Schenectady,Source2,3,42.814362,-73.95636,2018,21,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-2658394,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2018,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2660860,NY,Schenectady,Schenectady,Source2,3,42.838245,-74.01280200000002,2018,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2665679,NY,Schenectady,Schenectady,Source2,3,42.838245,-74.01280200000002,2018,2,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2677222,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2687217,NY,Schenectady,Duanesburg,Source2,3,42.76207,-74.114388,2018,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2691365,NY,Schenectady,Schenectady,Source2,3,42.838245,-74.01280200000002,2018,19,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2692112,NY,Schenectady,Schenectady,Source2,3,42.796471,-73.928871,2018,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2692829,NY,Schenectady,Schenectady,Source2,3,42.838245,-74.01280200000002,2018,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2699658,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2018,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2699659,NY,Schenectady,Schenectady,Source2,3,42.81126,-73.950455,2018,17,Thursday,Cloudy,False,False,True,False,False,False,False
+A-2701914,NY,Schenectady,Schenectady,Source2,3,42.838245,-74.01280200000002,2018,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2709211,NY,Schenectady,Schenectady,Source2,3,42.796284,-73.928871,2018,9,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-2711499,NY,Schenectady,Duanesburg,Source2,3,42.762035,-74.114471,2018,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2711504,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2717865,NY,Schenectady,Schenectady,Source2,3,42.771038,-73.92675,2018,11,Monday,Rain,False,False,False,False,False,False,False
+A-2722584,NY,Schenectady,Schenectady,Source2,3,42.780109,-73.92532299999998,2018,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2724931,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2018,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2724932,NY,Schenectady,Schenectady,Source2,3,42.838245,-74.01280200000002,2018,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2727211,NY,Schenectady,Schenectady,Source2,3,42.805016,-73.948212,2018,13,Friday,Cloudy,True,False,False,False,False,False,False
+A-2727214,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2018,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2730892,NY,Schenectady,Schenectady,Source2,3,42.796284,-73.928871,2018,10,Monday,Cloudy,False,False,True,False,False,False,False
+A-2749340,NY,Schenectady,Schenectady,Source2,3,42.811539,-73.951035,2018,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-2749348,NY,Schenectady,Schenectady,Source2,3,42.838245,-74.01280200000002,2018,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-2751670,NY,Schenectady,Schenectady,Source2,3,42.838245,-74.01280200000002,2018,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2752456,NY,Schenectady,Schenectady,Source2,3,42.780502,-73.923508,2018,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2762872,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2018,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-2762884,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2018,0,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2765119,NY,Schenectady,Schenectady,Source2,3,42.838245,-74.01280200000002,2018,0,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2769275,NY,Schenectady,Schenectady,Source2,3,42.81486500000001,-73.980995,2018,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2769280,NY,Schenectady,Schenectady,Source2,3,42.838245,-74.01280200000002,2018,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2769284,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2018,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2771641,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2018,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2773874,NY,Schenectady,Schenectady,Source2,3,42.813206,-73.96619399999999,2018,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2773885,NY,Schenectady,Schenectady,Source2,3,42.811607,-73.950912,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2773886,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2018,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2776160,NY,Schenectady,Duanesburg,Source2,3,42.76207,-74.114388,2018,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2782411,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2018,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2784823,NY,Schenectady,Schenectady,Source2,3,42.801064,-73.940628,2018,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2784830,NY,Schenectady,Schenectady,Source2,3,42.838245,-74.01280200000002,2018,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2787200,NY,Schenectady,Schenectady,Source2,3,42.782036,-73.923386,2018,8,Thursday,Cloudy,False,False,True,False,False,False,False
+A-2789530,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2018,5,Friday,Sin dato,False,False,False,False,False,False,False
+A-2794374,NY,Schenectady,Schenectady,Source2,3,42.796249,-73.928833,2018,16,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-2797038,NY,Schenectady,Schenectady,Source2,3,42.783768,-74.028046,2018,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2797040,NY,Schenectady,Schenectady,Source2,3,42.81287800000001,-73.969597,2018,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2802529,NY,Schenectady,Schenectady,Source2,3,42.811489,-73.95063,2018,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-2805121,NY,Schenectady,Schenectady,Source2,3,42.796371,-73.928741,2018,22,Saturday,Cloudy,False,False,True,False,False,False,False
+A-2806489,NY,Schenectady,Schenectady,Source2,3,42.78975300000001,-74.0158,2018,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-2811598,NY,Schenectady,Schenectady,Source2,3,42.792999,-74.016449,2018,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2829245,NY,Schenectady,Schenectady,Source2,3,42.805016,-73.948212,2018,20,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-2835255,NY,Schenectady,Schenectady,Source2,3,42.838245,-74.01280200000002,2018,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2838751,NY,Schenectady,Schenectady,Source2,3,42.838245,-74.01280200000002,2018,22,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2841232,NY,Schenectady,Schenectady,Source2,3,42.783768,-74.028046,2018,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2846492,NY,Schenectady,Schenectady,Source2,3,42.825485,-74.013672,2018,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-2849830,NY,Schenectady,Schenectady,Source2,3,42.814362,-73.95636,2018,22,Sunday,Cloudy,False,False,True,False,False,False,False
+A-2858495,NY,Schenectady,Schenectady,Source2,3,42.805016,-73.948212,2018,5,Monday,Snow / Ice,True,False,False,False,False,False,False
+A-2868651,NY,Schenectady,Schenectady,Source2,3,42.782036,-73.923386,2018,10,Friday,Cloudy,False,False,True,False,False,False,False
+A-2868655,NY,Schenectady,Schenectady,Source2,3,42.814362,-73.95636,2018,18,Friday,Cloudy,False,False,True,False,False,False,False
+A-2880261,NY,Schenectady,Schenectady,Source2,3,42.797615,-73.931206,2018,15,Thursday,Rain,False,False,False,False,False,False,False
+A-2882854,NY,Schenectady,Schenectady,Source2,3,42.805016,-73.948212,2018,8,Friday,Cloudy,True,False,False,False,False,False,False
+A-2892170,NY,Schenectady,Schenectady,Source2,3,42.805016,-73.948212,2018,21,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-2894784,NY,Schenectady,Schenectady,Source2,3,42.841042,-74.003624,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2900943,NY,Schenectady,Schenectady,Source2,3,42.81287800000001,-73.969597,2018,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2910064,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2018,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2910067,NY,Schenectady,Schenectady,Source2,3,42.838245,-74.01280200000002,2018,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2912764,NY,Schenectady,Schenectady,Source2,3,42.838245,-74.01280200000002,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2915377,NY,Schenectady,Schenectady,Source2,3,42.814362,-73.95636,2018,17,Saturday,Rain,False,False,True,False,False,False,False
+A-2922125,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2018,11,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2922130,NY,Schenectady,Duanesburg,Source2,3,42.76207,-74.114388,2018,11,Friday,Rain,False,False,False,False,False,False,False
+A-2922140,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2018,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-2925216,NY,Schenectady,Schenectady,Source2,3,42.814362,-73.95920600000002,2018,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2925888,NY,Schenectady,Schenectady,Source2,3,42.805016,-73.948212,2018,14,Monday,Cloudy,True,False,False,False,False,False,False
+A-2940850,NY,Schenectady,Schenectady,Source2,3,42.812794,-73.95211,2018,12,Tuesday,Snow / Ice,False,False,True,False,False,False,False
+A-2946243,NY,Schenectady,Schenectady,Source2,3,42.838245,-74.01280200000002,2018,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2972539,NY,Schenectady,Schenectady,Source2,3,42.838245,-74.01280200000002,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2972543,NY,Schenectady,Schenectady,Source2,3,42.838245,-74.01280200000002,2018,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2980412,NY,Schenectady,Schenectady,Source2,3,42.814362,-73.95636,2018,7,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-2982988,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2018,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2982989,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2018,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2985428,NY,Schenectady,Schenectady,Source2,3,42.796371,-73.928741,2018,19,Friday,Cloudy,False,False,True,False,False,False,False
+A-2989630,NY,Schenectady,Duanesburg,Source2,3,42.76207,-74.114388,2018,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-2995074,NY,Schenectady,Schenectady,Source2,3,42.842766,-74.01673100000002,2018,14,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3000757,NY,Schenectady,Schenectady,Source2,3,42.812664,-73.951897,2018,7,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-3000758,NY,Schenectady,Schenectady,Source2,3,42.797615,-73.931206,2018,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-3012872,NY,Schenectady,Schenectady,Source2,3,42.81296500000001,-73.969597,2018,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3019098,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2018,20,Monday,Rain,False,False,False,False,False,False,False
+A-3040058,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2018,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3042367,NY,Schenectady,Schenectady,Source2,3,42.814362,-73.95636,2018,8,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-3042374,NY,Schenectady,Schenectady,Source2,3,42.805016,-73.948212,2018,9,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-3042377,NY,Schenectady,Schenectady,Source2,3,42.838245,-74.01280200000002,2018,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3044747,NY,Schenectady,Schenectady,Source2,3,42.805016,-73.948212,2018,15,Thursday,Snow / Ice,True,False,False,False,False,False,False
+A-3047473,NY,Schenectady,Schenectady,Source2,3,42.838245,-74.01280200000002,2018,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-3051102,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2018,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-3057006,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2018,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3059412,NY,Schenectady,Schenectady,Source2,3,42.838245,-74.01280200000002,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3065101,NY,Schenectady,Schenectady,Source2,3,42.812038,-73.951302,2018,8,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-3065103,NY,Schenectady,Schenectady,Source2,3,42.81486500000001,-73.980995,2018,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3065768,NY,Schenectady,Schenectady,Source2,3,42.814705,-73.981003,2018,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3066433,NY,Schenectady,Schenectady,Source2,3,42.814362,-73.95636,2018,7,Monday,Cloudy,False,False,True,False,False,False,False
+A-3068769,NY,Schenectady,Schenectady,Source2,3,42.838245,-74.01280200000002,2018,11,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3071573,NY,Schenectady,Schenectady,Source2,3,42.795982,-73.92858100000002,2018,6,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-3074335,NY,Schenectady,Schenectady,Source2,3,42.771099,-73.926353,2018,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3088026,NY,Schenectady,Schenectady,Source2,3,42.838245,-74.01280200000002,2018,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3090386,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2018,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3091749,NY,Schenectady,Schenectady,Source2,3,42.838245,-74.01280200000002,2018,23,Monday,Cloudy,False,False,False,False,False,False,False
+A-3096776,NY,Schenectady,Schenectady,Source2,3,42.788773,-74.01508299999998,2017,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3111941,NY,Schenectady,Schenectady,Source2,3,42.81486500000001,-73.980995,2017,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3111947,NY,Schenectady,Schenectady,Source2,3,42.812237,-73.951347,2017,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3121833,NY,Schenectady,Schenectady,Source2,3,42.805016,-73.948212,2017,8,Tuesday,Snow / Ice,True,False,False,False,False,False,False
+A-3130705,NY,Schenectady,Schenectady,Source2,3,42.814362,-73.95636,2017,8,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-3130706,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2017,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3133396,NY,Schenectady,Schenectady,Source2,3,42.805016,-73.948212,2017,17,Saturday,Cloudy,True,False,False,False,False,False,False
+A-3134678,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2017,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-3137547,NY,Schenectady,Schenectady,Source2,3,42.838245,-74.01280200000002,2017,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3145948,NY,Schenectady,Schenectady,Source2,3,42.805016,-73.948212,2017,12,Friday,Snow / Ice,True,False,False,False,False,False,False
+A-3145958,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2017,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-3148383,NY,Schenectady,Duanesburg,Source2,3,42.76207,-74.114388,2017,8,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-3148386,NY,Schenectady,Pattersonville,Source2,3,42.886581,-74.07807199999998,2017,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3148387,NY,Schenectady,Duanesburg,Source2,3,42.771656,-74.098671,2017,13,Saturday,Rain,False,False,False,False,False,False,False
+A-3149488,NY,Schenectady,Schenectady,Source2,3,42.797615,-73.931206,2017,10,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-3155118,NY,Schenectady,Duanesburg,Source2,3,42.76207,-74.114388,2017,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-3157827,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2017,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3162682,NY,Schenectady,Schenectady,Source2,3,42.838245,-74.01280200000002,2017,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3175478,NY,Schenectady,Schenectady,Source2,3,42.797615,-73.931206,2017,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3178060,NY,Schenectady,Schenectady,Source2,3,42.838245,-74.01280200000002,2017,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3183699,NY,Schenectady,Schenectady,Source2,3,42.805016,-73.948212,2017,16,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-3185933,NY,Schenectady,Schenectady,Source2,3,42.805016,-73.948212,2017,8,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-3196918,NY,Schenectady,Schenectady,Source2,3,42.782036,-73.923386,2017,8,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-3199846,NY,Schenectady,Schenectady,Source2,3,42.838245,-74.01280200000002,2017,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3202506,NY,Schenectady,Duanesburg,Source2,3,42.762146,-74.114182,2017,17,Thursday,Sin dato,False,False,False,False,False,False,False
+A-3203909,NY,Schenectady,Schenectady,Source2,3,42.838245,-74.01280200000002,2017,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-3212795,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2017,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3216818,NY,Schenectady,Schenectady,Source2,3,42.838245,-74.01280200000002,2017,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3219468,NY,Schenectady,Schenectady,Source2,3,42.813023,-73.952507,2017,12,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-3225168,NY,Schenectady,Schenectady,Source2,3,42.81486500000001,-73.980995,2017,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3225175,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2017,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3230503,NY,Schenectady,Schenectady,Source2,3,42.771038,-73.92675,2017,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3230504,NY,Schenectady,Schenectady,Source2,3,42.841629,-74.004463,2017,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3232017,NY,Schenectady,Schenectady,Source2,3,42.838245,-74.01280200000002,2017,7,Monday,Rain,False,False,False,False,False,False,False
+A-3237570,NY,Schenectady,Schenectady,Source2,3,42.838245,-74.01280200000002,2017,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3237573,NY,Schenectady,Schenectady,Source2,3,42.81486500000001,-73.980995,2017,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3245759,NY,Schenectady,Schenectady,Source2,3,42.783768,-74.028046,2017,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3246414,NY,Schenectady,Schenectady,Source2,3,42.838245,-74.01280200000002,2017,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-3246415,NY,Schenectady,Schenectady,Source2,3,42.838245,-74.01280200000002,2017,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-3254295,NY,Schenectady,Schenectady,Source2,3,42.805016,-73.948212,2017,15,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-3254296,NY,Schenectady,Duanesburg,Source2,3,42.76207,-74.114388,2017,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3260837,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2017,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-3260841,NY,Schenectady,Schenectady,Source2,3,42.805016,-73.948212,2017,8,Monday,Cloudy,True,False,False,False,False,False,False
+A-3271112,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2017,0,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3274034,NY,Schenectady,Schenectady,Source2,3,42.800953,-73.940384,2017,17,Sunday,Rain,False,False,True,False,False,False,False
+A-3274548,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2017,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-3274550,NY,Schenectady,Duanesburg,Source2,3,42.76207,-74.114388,2017,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-3282471,NY,Schenectady,Duanesburg,Source2,3,42.76207,-74.114388,2017,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3294191,NY,Schenectady,Schenectady,Source2,3,42.81488,-73.956253,2017,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3301014,NY,Schenectady,Schenectady,Source2,3,42.783768,-74.028046,2017,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3309656,NY,Schenectady,Schenectady,Source2,3,42.811924,-73.95118000000002,2017,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-3313907,NY,Schenectady,Schenectady,Source2,3,42.814362,-73.95636,2017,10,Monday,Cloudy,False,False,True,False,False,False,False
+A-3313912,NY,Schenectady,Schenectady,Source3,3,42.841629,-74.004463,2017,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3313914,NY,Schenectady,Schenectady,Source2,3,42.805016,-73.948212,2017,17,Monday,Cloudy,True,False,False,False,False,False,False
+A-3325548,NY,Schenectady,Duanesburg,Source2,3,42.76207,-74.114388,2017,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3332573,NY,Schenectady,Schenectady,Source2,3,42.782036,-73.923386,2017,13,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-3348204,NY,Schenectady,Schenectady,Source3,3,42.797615,-73.931206,2017,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3350858,NY,Schenectady,Schenectady,Source2,3,42.783768,-74.028046,2017,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3365432,NY,Schenectady,Schenectady,Source2,3,42.783768,-74.028046,2017,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3367892,NY,Schenectady,Schenectady,Source2,3,42.797615,-73.931206,2017,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3376905,NY,Schenectady,Schenectady,Source2,3,42.814362,-73.95636,2017,19,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-3385383,NY,Schenectady,Schenectady,Source2,3,42.838245,-74.01280200000002,2017,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-3389307,NY,Schenectady,Schenectady,Source2,3,42.790554,-74.016129,2017,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3389313,NY,Schenectady,Schenectady,Source2,3,42.790276,-74.015785,2017,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3397862,NY,Schenectady,Schenectady,Source2,3,42.790497,-74.015869,2017,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3410169,NY,Schenectady,Schenectady,Source2,3,42.782036,-73.923386,2017,15,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-3447525,NY,Schenectady,Alplaus,Source1,4,42.866786,-73.898398,2016,8,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3447529,NY,Schenectady,Schenectady,Source1,4,42.86712,-73.90649,2016,8,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3454801,NY,Schenectady,Schenectady,Source1,4,42.860675,-73.934095,2016,7,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3454804,NY,Schenectady,Schenectady,Source1,4,42.853132,-73.941149,2016,7,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3461485,NY,Schenectady,Duanesburg,Source1,4,42.76106,-74.11686999999998,2017,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3461486,NY,Schenectady,Schenectady,Source1,4,42.786,-74.02489,2017,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3461493,NY,Schenectady,Schenectady,Source1,3,42.84055,-74.01451999999998,2017,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3461494,NY,Schenectady,Schenectady,Source1,3,42.78703,-74.01394,2017,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3461507,NY,Schenectady,Schenectady,Source1,4,42.786,-74.02489,2017,1,Monday,Cloudy,False,False,False,False,False,False,False
+A-3461509,NY,Schenectady,Duanesburg,Source1,4,42.76106,-74.11686999999998,2017,1,Monday,Cloudy,False,False,False,False,False,False,False
+A-3461515,NY,Schenectady,Schenectady,Source1,4,42.786,-74.02489,2017,2,Monday,Cloudy,False,False,False,False,False,False,False
+A-3461516,NY,Schenectady,Schenectady,Source1,3,42.78703,-74.01394,2017,2,Monday,Cloudy,False,False,False,False,False,False,False
+A-3461517,NY,Schenectady,Schenectady,Source1,3,42.7932,-74.01675999999998,2017,2,Monday,Cloudy,False,False,False,False,False,False,False
+A-3461518,NY,Schenectady,Duanesburg,Source1,4,42.76106,-74.11686999999998,2017,2,Monday,Cloudy,False,False,False,False,False,False,False
+A-3461521,NY,Schenectady,Schenectady,Source1,4,42.786,-74.02489,2017,3,Monday,Cloudy,False,False,False,False,False,False,False
+A-3469507,NY,Schenectady,Delanson,Source1,4,42.75095,-74.18366999999998,2016,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-3469509,NY,Schenectady,Delanson,Source1,4,42.7422,-74.18733,2016,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-3473395,NY,Schenectady,Delanson,Source1,4,42.76742,-74.18571999999998,2016,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3473397,NY,Schenectady,Duanesburg,Source1,4,42.76148,-74.1341,2016,11,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-3482604,NY,Schenectady,Schenectady,Source1,3,42.84989,-73.97894000000002,2016,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3482608,NY,Schenectady,Schenectady,Source1,3,42.860469,-73.981153,2016,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3493378,NY,Schenectady,Schenectady,Source1,4,42.88544,-73.92548000000002,2016,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-3493379,NY,Schenectady,Schenectady,Source1,4,42.881964,-73.927573,2016,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-3507664,NY,Schenectady,Schenectady,Source1,4,42.761566,-73.930522,2016,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-3507667,NY,Schenectady,Schenectady,Source1,4,42.76499,-73.93859,2016,16,Friday,Cloudy,False,True,False,False,False,False,False
+A-3516704,NY,Schenectady,Schenectady,Source1,3,42.86715,-73.903058,2016,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3516705,NY,Schenectady,Schenectady,Source1,3,42.866826,-73.898607,2016,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3516792,NY,Schenectady,Schenectady,Source1,4,42.85242,-74.00421,2016,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3516793,NY,Schenectady,Schenectady,Source1,4,42.847691,-73.999602,2016,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3517306,NY,Schenectady,Duanesburg,Source1,3,42.75053,-74.04824,2016,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3517307,NY,Schenectady,Duanesburg,Source1,3,42.75078,-74.04903,2016,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3517317,NY,Schenectady,Duanesburg,Source1,4,42.751524,-74.030314,2016,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3517318,NY,Schenectady,Duanesburg,Source1,4,42.75083,-74.04809,2016,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3517328,NY,Schenectady,Duanesburg,Source1,4,42.760552,-74.100931,2016,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3517329,NY,Schenectady,Duanesburg,Source1,4,42.75078,-74.04903,2016,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3517381,NY,Schenectady,Duanesburg,Source1,4,42.760552,-74.100934,2016,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3517419,NY,Schenectady,Duanesburg,Source1,4,42.75511,-74.06931999999998,2016,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3519258,NY,Schenectady,Schenectady,Source1,4,42.83301,-73.95683000000002,2016,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-3519259,NY,Schenectady,Schenectady,Source1,4,42.829944,-73.959618,2016,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-3520178,NY,Schenectady,Schenectady,Source1,4,42.771105,-73.926547,2016,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-3520319,NY,Schenectady,Schenectady,Source1,3,42.7932,-74.01675999999998,2016,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3520650,NY,Schenectady,Schenectady,Source1,4,42.78633,-73.93002,2016,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-3520652,NY,Schenectady,Schenectady,Source1,4,42.78968,-73.92963,2016,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-3562943,NY,Schenectady,Duanesburg,Source1,4,42.760934000000006,-74.117175,2017,1,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3571855,NY,Schenectady,Schenectady,Source1,4,42.79008,-73.98015,2017,17,Thursday,Cloudy,True,False,False,False,False,False,False
+A-3571856,NY,Schenectady,Schenectady,Source1,4,42.789494,-73.979079,2017,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3571905,NY,Schenectady,Schenectady,Source1,4,42.78889,-73.97805,2017,19,Thursday,Cloudy,False,True,False,False,False,False,False
+A-3573271,NY,Schenectady,Schenectady,Source1,4,42.89573,-73.980023,2017,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3573272,NY,Schenectady,Schenectady,Source1,4,42.92383,-74.0046,2017,8,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-3580135,NY,Schenectady,Schenectady,Source1,4,42.84992,-73.94269,2017,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3580139,NY,Schenectady,Schenectady,Source1,4,42.854246,-73.940134,2017,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3580939,NY,Schenectady,Schenectady,Source1,4,42.765742,-73.887612,2017,23,Thursday,Cloudy,True,False,False,False,False,False,False
+A-3580940,NY,Schenectady,Schenectady,Source1,4,42.763739,-73.885359,2017,23,Thursday,Cloudy,True,False,False,False,False,False,False
+A-3581447,NY,Schenectady,Schenectady,Source1,4,42.787871,-74.009095,2017,2,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3581448,NY,Schenectady,Schenectady,Source1,4,42.787818,-74.007003,2017,2,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3617498,NY,Schenectady,Duanesburg,Source1,4,42.75538,-74.07085,2017,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3632416,NY,Schenectady,Schenectady,Source1,4,42.84879,-73.88878000000003,2017,22,Sunday,Cloudy,False,True,False,False,False,False,False
+A-3632417,NY,Schenectady,Schenectady,Source1,4,42.82796,-73.89197,2017,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3633859,NY,Schenectady,Duanesburg,Source1,4,42.779143,-74.057456,2017,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-3633860,NY,Schenectady,Schenectady,Source1,4,42.778569,-74.068123,2017,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-3644155,NY,Schenectady,Duanesburg,Source1,4,42.7622,-74.11532,2017,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-3646781,NY,Schenectady,Schenectady,Source1,3,42.80315,-73.92973,2017,17,Thursday,Cloudy,True,False,False,False,False,False,False
+A-3646785,NY,Schenectady,Schenectady,Source1,3,42.80315,-73.92973,2017,17,Thursday,Cloudy,True,False,False,False,False,False,False
+A-3780990,NY,Schenectady,Delanson,Source1,4,42.76798,-74.182017,2022,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3787704,NY,Schenectady,Alplaus,Source1,4,42.867132,-73.902626,2022,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-3833479,NY,Schenectady,Esperance,Source1,4,42.760829,-74.247491,2022,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3949371,NY,Schenectady,Esperance,Source1,4,42.760829,-74.247491,2022,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3998928,NY,Schenectady,Duanesburg,Source1,4,42.750823,-74.048058,2022,13,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-4057014,NY,Schenectady,Alplaus,Source1,4,42.866726,-73.898022,2022,9,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-4060969,NY,Schenectady,Schenectady,Source1,4,42.77704,-73.837049,2022,18,Thursday,Cloudy,True,False,False,False,False,False,False
+A-4148721,NY,Schenectady,Schenectady,Source1,4,42.775079,-73.83034599999998,2022,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-4455824,NY,Schenectady,Delanson,Source1,4,42.767612,-74.184546,2022,17,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-4622374,NY,Schenectady,Delanson,Source1,4,42.76860900000001,-74.155523,2022,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4680654,NY,Schenectady,Delanson,Source1,4,42.763181,-74.217517,2022,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4791918,NY,Schenectady,Schenectady,Source1,4,42.867132,-73.903216,2022,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4806540,NY,Schenectady,Schenectady,Source1,4,42.849469,-73.942841,2022,5,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4825778,NY,Schenectady,Alplaus,Source1,4,42.86707,-73.90563900000002,2022,9,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-4841718,NY,Schenectady,Alplaus,Source1,4,42.866726,-73.898022,2022,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5036253,NY,Schenectady,Delanson,Source1,4,42.76737,-74.18604300000001,2022,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5336929,NY,Schenectady,Delanson,Source1,4,42.762788,-74.223903,2022,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5339065,NY,Schenectady,Alplaus,Source1,4,42.86707,-73.90563900000002,2022,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5555757,NY,Schenectady,Schenectady,Source1,4,42.79665112475015,-73.9291155334762,2021,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-5945591,NY,Schenectady,Schenectady,Source1,4,42.860119,-73.93468,2021,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6125868,NY,Schenectady,Pattersonville,Source1,4,42.877453,-74.097886,2021,23,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6176436,NY,Schenectady,Schenectady,Source1,4,42.778522,-73.84184599999998,2021,23,Friday,Cloudy,False,False,False,False,False,False,False
+A-6569913,NY,Schenectady,Delanson,Source1,4,42.733136,-74.191164,2021,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6619905,NY,Schenectady,Alplaus,Source1,4,42.867132,-73.902626,2020,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-6631890,NY,Schenectady,Schenectady,Source1,4,42.867132,-73.903216,2020,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-6653476,NY,Schenectady,Schenectady,Source1,4,42.771904,-73.948518,2020,10,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-6666217,NY,Schenectady,Schenectady,Source1,4,42.780501,-73.92351,2020,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6697014,NY,Schenectady,Schenectady,Source1,4,42.767148,-73.94166700000002,2020,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6703857,NY,Schenectady,Schenectady,Source1,4,42.7878,-74.009962,2020,5,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-6736274,NY,Schenectady,Schenectady,Source1,4,42.806708,-74.02334599999998,2020,19,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6741817,NY,Schenectady,Schenectady,Source1,4,42.797019,-74.018951,2020,19,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6773275,NY,Schenectady,Schenectady,Source1,4,42.806708,-74.02334599999998,2020,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6784939,NY,Schenectady,Schenectady,Source1,4,42.797019,-74.018951,2020,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6789877,NY,Schenectady,Schenectady,Source1,4,42.770618,-73.946667,2020,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6793382,NY,Schenectady,Schenectady,Source1,4,42.7878,-74.009962,2020,4,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-6798200,NY,Schenectady,Schenectady,Source1,4,42.764993,-73.938924,2020,10,Wednesday,Cloudy,False,True,False,False,False,False,False
+A-6799732,NY,Schenectady,Schenectady,Source1,4,42.771904,-73.948518,2020,10,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-7079553,NY,Schenectady,Duanesburg,Source1,3,42.76148,-74.1341,2020,13,Thursday,Cloudy,True,False,False,False,False,False,False
+A-7079554,NY,Schenectady,Duanesburg,Source1,3,42.76148,-74.1341,2020,13,Thursday,Cloudy,True,False,False,False,False,False,False
+A-7098672,NY,Schenectady,Schenectady,Source1,3,42.78288,-74.0304,2020,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-7107939,NY,Schenectady,Schenectady,Source1,4,42.78562,-73.93234,2020,0,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7107940,NY,Schenectady,Schenectady,Source1,4,42.7818,-73.92458,2020,0,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7108926,NY,Schenectady,Schenectady,Source1,4,42.78562,-73.93234,2020,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7108927,NY,Schenectady,Schenectady,Source1,4,42.7818,-73.92458,2020,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7124621,NY,Schenectady,Alplaus,Source1,4,42.86672,-73.89801,2020,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-7124622,NY,Schenectady,Schenectady,Source1,4,42.86712,-73.90649,2020,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-7124632,NY,Schenectady,Schenectady,Source1,4,42.86712,-73.90649,2020,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-7124633,NY,Schenectady,Schenectady,Source1,4,42.86892,-73.93143,2020,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-7124663,NY,Schenectady,Schenectady,Source1,4,42.86712,-73.90649,2020,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-7124664,NY,Schenectady,Schenectady,Source1,4,42.86911,-73.93268,2020,14,Friday,Cloudy,True,True,False,False,False,False,False
+A-7177420,NY,Schenectady,Schenectady,Source1,4,42.85871,-74.02689000000002,2020,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7177421,NY,Schenectady,Schenectady,Source1,4,42.85367,-74.02507,2020,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7177424,NY,Schenectady,Schenectady,Source1,4,42.85367,-74.02507,2020,0,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7177425,NY,Schenectady,Schenectady,Source1,4,42.85871,-74.02689000000002,2020,0,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7179547,NY,Schenectady,Schenectady,Source1,4,42.85367,-74.02507,2020,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7179548,NY,Schenectady,Schenectady,Source1,4,42.85871,-74.02689000000002,2020,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7179559,NY,Schenectady,Schenectady,Source1,4,42.85871,-74.02689000000002,2020,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7179560,NY,Schenectady,Schenectady,Source1,4,42.85367,-74.02507,2020,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7179563,NY,Schenectady,Schenectady,Source1,4,42.85367,-74.02507,2020,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7179566,NY,Schenectady,Schenectady,Source1,4,42.85871,-74.02689000000002,2020,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7179574,NY,Schenectady,Schenectady,Source1,4,42.85871,-74.02689000000002,2020,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7179575,NY,Schenectady,Schenectady,Source1,4,42.85367,-74.02507,2020,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7230648,NY,Schenectady,Schenectady,Source1,4,42.80533,-73.99056999999998,2020,16,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-7230649,NY,Schenectady,Schenectady,Source1,4,42.80021,-73.99906999999997,2020,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7237874,NY,Schenectady,Schenectady,Source1,4,42.83973,-74.01352,2020,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7301631,NY,Schenectady,Schenectady,Source1,4,42.79902,-73.93553,2019,11,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-7308713,NY,Schenectady,Duanesburg,Source1,4,42.76148,-74.1341,2019,14,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-7308716,NY,Schenectady,Delanson,Source1,4,42.76742,-74.18571999999998,2019,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7310279,NY,Schenectady,Schenectady,Source1,4,42.84876,-73.88886,2019,22,Thursday,Cloudy,False,True,False,False,False,False,False
+A-7343762,NY,Schenectady,Delanson,Source1,4,42.7676,-74.18453000000002,2019,4,Thursday,Rain,False,False,False,True,False,False,False
+A-7343763,NY,Schenectady,Delanson,Source1,4,42.76103,-74.24600000000002,2019,4,Thursday,Rain,True,False,False,False,False,False,False
+A-7385753,NY,Schenectady,Schenectady,Source1,3,42.803421,-73.945921,2019,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7430168,NY,Schenectady,Schenectady,Source1,4,42.846788,-74.021958,2019,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7430170,NY,Schenectady,Schenectady,Source1,3,42.83865,-74.01275,2019,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7454798,NY,Schenectady,Schenectady,Source1,3,42.78703,-74.01394,2019,18,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7466627,NY,Schenectady,Schenectady,Source1,4,42.78184,-74.006928,2019,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7485266,NY,Schenectady,Duanesburg,Source1,3,42.76022,-74.11395,2018,11,Sunday,Rain,False,False,False,False,False,False,False
+A-7485267,NY,Schenectady,Duanesburg,Source1,3,42.76023,-74.11362,2018,11,Sunday,Rain,False,False,False,False,False,False,False
+A-7488292,NY,Schenectady,Schenectady,Source1,4,42.807019,-74.02328,2018,16,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7488293,NY,Schenectady,Schenectady,Source1,4,42.797367,-74.019779,2018,16,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7499957,NY,Schenectady,Schenectady,Source1,3,42.80505,-73.94803,2018,7,Sunday,Cloudy,True,True,False,False,False,False,False
+A-7499959,NY,Schenectady,Schenectady,Source1,3,42.83845,-74.00104,2018,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7499960,NY,Schenectady,Schenectady,Source1,3,42.84153,-74.00409,2018,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7510382,NY,Schenectady,Schenectady,Source1,4,42.82515,-73.96159,2018,19,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-7510384,NY,Schenectady,Schenectady,Source1,4,42.823205,-73.958635,2018,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7511435,NY,Schenectady,Rotterdam Junction,Source1,4,42.87451,-74.04621999999998,2018,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7524821,NY,Schenectady,Schenectady,Source1,4,42.86706,-73.90612,2018,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7524822,NY,Schenectady,Alplaus,Source1,4,42.866786,-73.898398,2018,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7563918,NY,Schenectady,Schenectady,Source1,4,42.867421,-73.91638499999998,2018,1,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7563919,NY,Schenectady,Schenectady,Source1,4,42.867141,-73.903632,2018,1,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7591398,NY,Schenectady,Schenectady,Source1,4,42.784699,-73.92331999999998,2018,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-7600437,NY,Schenectady,Alplaus,Source1,4,42.866786,-73.898398,2018,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-7600438,NY,Schenectady,Schenectady,Source1,4,42.86706,-73.90612,2018,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-7602295,NY,Schenectady,Schenectady,Source1,4,42.835574,-73.986845,2018,18,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7602296,NY,Schenectady,Schenectady,Source1,4,42.835545,-73.986805,2018,18,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7605126,NY,Schenectady,Schenectady,Source1,4,42.859472,-74.027479,2018,4,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7605127,NY,Schenectady,Schenectady,Source1,4,42.858502,-74.026732,2018,4,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7621302,NY,Schenectady,Esperance,Source1,4,42.768231,-74.24614,2018,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7621303,NY,Schenectady,Esperance,Source1,4,42.7845,-74.23465999999998,2018,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7632456,NY,Schenectady,Schenectady,Source1,4,42.775165,-73.93466599999998,2018,5,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-7632457,NY,Schenectady,Schenectady,Source1,4,42.77871500000001,-73.933222,2018,5,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-7633877,NY,Schenectady,Schenectady,Source1,4,42.795014,-73.886701,2018,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7633882,NY,Schenectady,Schenectady,Source1,4,42.7826,-73.85431,2018,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7633883,NY,Schenectady,Schenectady,Source1,4,42.78528,-73.86310999999998,2018,20,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-7643286,NY,Schenectady,Delanson,Source1,3,42.7515,-74.16013000000002,2017,19,Tuesday,Rain,False,False,False,False,False,False,False
+A-7643287,NY,Schenectady,Delanson,Source1,3,42.7515,-74.16013000000002,2017,19,Tuesday,Rain,False,False,False,False,False,False,False
+A-7652271,NY,Schenectady,Delanson,Source1,4,42.75458,-74.14636,2017,6,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-7652272,NY,Schenectady,Duanesburg,Source1,4,42.76148,-74.1341,2017,6,Saturday,Snow / Ice,True,False,False,False,False,False,False
+A-7652282,NY,Schenectady,Schenectady,Source1,4,42.86712,-73.90649,2017,11,Saturday,Rain,False,False,False,False,False,False,False
+A-7658109,NY,Schenectady,Schenectady,Source1,4,42.868267,-73.97913,2017,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-7658110,NY,Schenectady,Schenectady,Source1,4,42.88269,-73.97941,2017,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-7663511,NY,Schenectady,Schenectady,Source1,4,42.804419,-73.931179,2017,14,Thursday,Sin dato,False,False,False,False,False,False,False
+A-7663512,NY,Schenectady,Schenectady,Source1,4,42.803794,-73.930464,2017,14,Thursday,Sin dato,False,False,False,False,False,False,False
+A-7691306,NY,Schenectady,Schenectady,Source1,4,42.837894,-73.990123,2017,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7691307,NY,Schenectady,Schenectady,Source1,4,42.843881,-73.996941,2017,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7709071,NY,Schenectady,Schenectady,Source1,3,42.83045,-74.01113000000002,2019,12,Monday,Cloudy,False,False,True,False,False,False,False
+A-7716140,NY,Schenectady,Duanesburg,Source1,3,42.76425,-74.11036,2019,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-7740141,NY,Schenectady,Schenectady,Source1,4,42.860435,-73.934366,2019,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7740142,NY,Schenectady,Schenectady,Source1,4,42.853522,-73.940789,2019,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7765293,NY,Schenectady,Schenectady,Source1,3,42.79652,-73.9292,2019,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-7767624,NY,Schenectady,Schenectady,Source1,4,42.840461,-73.94969,2019,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7767625,NY,Schenectady,Schenectady,Source1,4,42.842478,-73.948701,2019,17,Friday,Clear / Fair,False,False,False,False,False,False,False

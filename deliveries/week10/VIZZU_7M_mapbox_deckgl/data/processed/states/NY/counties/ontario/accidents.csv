@@ -1,0 +1,567 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-517251,NY,Ontario,Phelps,Source2,3,42.953896,-76.98111,2022,20,Saturday,Cloudy,False,False,False,False,False,False,False
+A-583838,NY,Ontario,Phelps,Source2,3,42.953896,-76.98111,2022,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-584014,NY,Ontario,Phelps,Source2,3,42.953896,-76.98111,2022,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-615214,NY,Ontario,Phelps,Source2,3,42.953896,-76.98111,2022,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-639164,NY,Ontario,Phelps,Source2,3,42.953896,-76.98111,2022,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-646079,NY,Ontario,Phelps,Source2,3,42.953896,-76.98111,2022,20,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-647597,NY,Ontario,Phelps,Source2,3,42.953896,-76.98111,2022,1,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-730052,NY,Ontario,Victor,Source2,3,43.013691,-77.439163,2022,8,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-757688,NY,Ontario,Shortsville,Source2,3,42.977615,-77.230499,2022,9,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-759459,NY,Ontario,Farmington,Source2,3,42.995644,-77.369102,2021,18,Thursday,Rain,False,False,True,False,False,False,False
+A-801706,NY,Ontario,Farmington,Source2,3,42.995644,-77.369102,2021,0,Sunday,Cloudy,False,False,True,False,False,False,False
+A-801707,NY,Ontario,Farmington,Source2,3,42.995644,-77.369102,2021,0,Sunday,Cloudy,False,False,True,False,False,False,False
+A-801870,NY,Ontario,Phelps,Source2,3,42.953896,-76.98111,2021,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-849393,NY,Ontario,Shortsville,Source2,3,42.977615,-77.230499,2021,5,Sunday,Cloudy,False,False,False,False,False,False,False
+A-884403,NY,Ontario,Farmington,Source2,3,42.995644,-77.369102,2021,17,Friday,Cloudy,False,False,True,False,False,False,False
+A-884540,NY,Ontario,Shortsville,Source2,3,42.977615,-77.230499,2021,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-912223,NY,Ontario,Farmington,Source3,3,42.995644,-77.369102,2021,13,Monday,Cloudy,False,False,True,False,False,False,False
+A-919356,NY,Ontario,Shortsville,Source2,3,42.977615,-77.230499,2021,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-938782,NY,Ontario,Farmington,Source2,3,42.995644,-77.369102,2021,11,Thursday,Cloudy,False,False,True,False,False,False,False
+A-980164,NY,Ontario,Shortsville,Source2,3,42.977615,-77.230499,2021,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-995408,NY,Ontario,Victor,Source2,3,43.012577,-77.43935400000002,2021,16,Monday,Rain,False,False,False,False,False,False,False
+A-1055479,NY,Ontario,Victor,Source2,3,42.996433,-77.380409,2021,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1073918,NY,Ontario,Victor,Source2,3,43.008522,-77.438339,2021,9,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-1115832,NY,Ontario,Farmington,Source2,3,42.995647,-77.36910999999998,2021,20,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-1120904,NY,Ontario,Farmington,Source2,3,42.995647,-77.36910999999998,2021,15,Friday,Cloudy,False,False,True,False,False,False,False
+A-1144806,NY,Ontario,Farmington,Source2,3,42.995647,-77.36910999999998,2021,14,Saturday,Snow / Ice,False,False,True,False,False,False,False
+A-1171154,NY,Ontario,Phelps,Source2,3,42.953896,-76.98111,2021,10,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1174059,NY,Ontario,Victor,Source2,3,43.012577,-77.43935400000002,2021,12,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1174060,NY,Ontario,Shortsville,Source2,3,42.977615,-77.230499,2021,15,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1205394,NY,Ontario,Farmington,Source2,3,42.995647,-77.36910999999998,2021,10,Monday,Snow / Ice,False,False,True,False,False,False,False
+A-1216708,NY,Ontario,Victor,Source2,3,43.012577,-77.43935400000002,2020,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1221363,NY,Ontario,Phelps,Source2,3,42.953896,-76.98111,2020,7,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1224282,NY,Ontario,Shortsville,Source2,3,42.977615,-77.230499,2020,4,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1227876,NY,Ontario,Phelps,Source2,3,42.953896,-76.98111,2020,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1235845,NY,Ontario,Victor,Source2,3,43.012577,-77.43935400000002,2020,12,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1250479,NY,Ontario,Victor,Source2,3,43.012577,-77.43935400000002,2020,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1250480,NY,Ontario,Farmington,Source2,3,42.995811,-77.367889,2020,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1254154,NY,Ontario,Phelps,Source2,3,42.953896,-76.98111,2020,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-1325736,NY,Ontario,Victor,Source2,3,43.012577,-77.43935400000002,2020,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-1334220,NY,Ontario,Shortsville,Source2,3,42.977615,-77.230499,2020,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1334221,NY,Ontario,Phelps,Source2,3,42.953896,-76.98111,2020,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1345546,NY,Ontario,Farmington,Source2,3,42.995647,-77.36910999999998,2020,17,Sunday,Cloudy,False,False,True,False,False,False,False
+A-1345547,NY,Ontario,Victor,Source2,3,43.012577,-77.43935400000002,2020,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1345549,NY,Ontario,Farmington,Source2,3,42.99588,-77.369598,2020,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1408507,NY,Ontario,Shortsville,Source2,3,42.977615,-77.230499,2020,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1419965,NY,Ontario,Farmington,Source2,3,42.995647,-77.36910999999998,2020,5,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-1421557,NY,Ontario,Farmington,Source2,3,42.995647,-77.36910999999998,2020,17,Thursday,Cloudy,False,False,True,False,False,False,False
+A-1433734,NY,Ontario,Phelps,Source2,3,42.953896,-76.98111,2020,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1446414,NY,Ontario,Farmington,Source2,3,42.995647,-77.36910999999998,2020,23,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-1466577,NY,Ontario,Farmington,Source2,3,42.995647,-77.36910999999998,2020,10,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-1475262,NY,Ontario,Shortsville,Source2,3,42.977615,-77.230499,2020,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1485417,NY,Ontario,Victor,Source2,3,43.012577,-77.43935400000002,2020,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1492683,NY,Ontario,Shortsville,Source2,3,42.977615,-77.230499,2020,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1501846,NY,Ontario,Victor,Source2,3,43.012577,-77.43935400000002,2020,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1503253,NY,Ontario,Victor,Source2,3,43.012577,-77.43935400000002,2020,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1505581,NY,Ontario,Phelps,Source2,3,42.953896,-76.98111,2020,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1505583,NY,Ontario,Shortsville,Source2,3,42.977615,-77.230499,2020,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1524933,NY,Ontario,Phelps,Source2,3,42.953896,-76.98111,2020,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1542627,NY,Ontario,Victor,Source2,3,43.012577,-77.43935400000002,2020,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-1569641,NY,Ontario,Victor,Source2,3,43.012577,-77.43935400000002,2020,2,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-1569642,NY,Ontario,Shortsville,Source2,3,42.977615,-77.230499,2020,7,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-1599827,NY,Ontario,Farmington,Source2,3,42.995647,-77.36910999999998,2020,12,Saturday,Snow / Ice,False,False,True,False,False,False,False
+A-1599828,NY,Ontario,Shortsville,Source2,3,42.977615,-77.230499,2020,12,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-1599831,NY,Ontario,Victor,Source2,3,43.012577,-77.43935400000002,2020,13,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-1612514,NY,Ontario,Farmington,Source2,3,42.995647,-77.36910999999998,2020,13,Sunday,Rain,False,False,True,False,False,False,False
+A-1624344,NY,Ontario,Shortsville,Source2,3,42.977615,-77.230499,2020,20,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1629382,NY,Ontario,Victor,Source2,3,43.012577,-77.43935400000002,2020,22,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1629383,NY,Ontario,Farmington,Source2,3,42.995647,-77.36910999999998,2020,22,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-1651210,NY,Ontario,Victor,Source2,3,43.012577,-77.43935400000002,2020,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1686573,NY,Ontario,Shortsville,Source2,3,42.977615,-77.230499,2019,9,Sunday,Rain,False,False,False,False,False,False,False
+A-1686574,NY,Ontario,Shortsville,Source2,3,42.977615,-77.230499,2019,10,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1686580,NY,Ontario,Victor,Source2,3,43.012577,-77.43935400000002,2019,12,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1686583,NY,Ontario,Shortsville,Source2,3,42.977615,-77.230499,2019,13,Sunday,Rain,False,False,False,False,False,False,False
+A-1686584,NY,Ontario,Farmington,Source2,3,42.995647,-77.36910999999998,2019,14,Sunday,Snow / Ice,False,False,True,False,False,False,False
+A-1716123,NY,Ontario,Phelps,Source2,3,42.953896,-76.98111,2019,12,Saturday,Rain,False,False,False,False,False,False,False
+A-1730766,NY,Ontario,Shortsville,Source2,3,42.977615,-77.230499,2019,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1732372,NY,Ontario,Phelps,Source2,3,42.953896,-76.98111,2019,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1750642,NY,Ontario,Phelps,Source2,3,42.953896,-76.98111,2019,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1750643,NY,Ontario,Victor,Source2,3,43.012577,-77.43935400000002,2019,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1751532,NY,Ontario,Farmington,Source2,3,42.995647,-77.36910999999998,2019,16,Monday,Cloudy,False,False,True,False,False,False,False
+A-1776954,NY,Ontario,Victor,Source2,3,43.012577,-77.43935400000002,2019,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-1794143,NY,Ontario,Victor,Source2,3,43.012577,-77.43935400000002,2019,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1794144,NY,Ontario,Shortsville,Source2,3,42.977615,-77.230499,2019,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1794867,NY,Ontario,Victor,Source2,3,43.012577,-77.43935400000002,2019,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1795671,NY,Ontario,Victor,Source2,3,43.012577,-77.43935400000002,2019,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-1800711,NY,Ontario,Shortsville,Source2,3,42.977615,-77.230499,2019,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1816384,NY,Ontario,Phelps,Source2,3,42.953896,-76.98111,2019,2,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1825119,NY,Ontario,Shortsville,Source2,3,42.977615,-77.230499,2019,2,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1825931,NY,Ontario,Farmington,Source2,3,42.995689,-77.37011700000002,2019,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1829231,NY,Ontario,Victor,Source2,3,43.012577,-77.43935400000002,2019,22,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1834616,NY,Ontario,Victor,Source2,3,43.012577,-77.43935400000002,2019,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1852485,NY,Ontario,Farmington,Source2,3,42.995647,-77.36910999999998,2019,18,Saturday,Cloudy,False,False,True,False,False,False,False
+A-1865626,NY,Ontario,Farmington,Source2,3,42.995644,-77.369034,2019,14,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-1871702,NY,Ontario,Farmington,Source2,3,42.995831,-77.368263,2019,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1886307,NY,Ontario,Victor,Source2,3,43.012577,-77.43935400000002,2019,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1887576,NY,Ontario,Victor,Source2,3,43.012577,-77.43935400000002,2019,7,Monday,Rain,False,False,False,False,False,False,False
+A-1893656,NY,Ontario,Shortsville,Source2,3,42.977615,-77.230499,2019,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1893665,NY,Ontario,Victor,Source2,3,43.012577,-77.43935400000002,2019,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1899190,NY,Ontario,Shortsville,Source2,3,42.977615,-77.230499,2019,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1909916,NY,Ontario,Victor,Source2,4,43.012577,-77.43935400000002,2019,2,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1909918,NY,Ontario,Shortsville,Source2,3,42.978382,-77.2295,2019,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-1931557,NY,Ontario,Victor,Source2,3,43.012577,-77.43935400000002,2019,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1931558,NY,Ontario,Farmington,Source2,3,42.995644,-77.369034,2019,12,Sunday,Cloudy,False,False,True,False,False,False,False
+A-1931561,NY,Ontario,Phelps,Source2,3,42.953896,-76.98111,2019,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1934581,NY,Ontario,Phelps,Source2,3,42.953896,-76.98111,2019,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1941916,NY,Ontario,Victor,Source2,3,43.012577,-77.43935400000002,2019,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-1954341,NY,Ontario,Victor,Source2,3,43.012577,-77.43935400000002,2019,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1961361,NY,Ontario,Shortsville,Source2,3,42.977615,-77.230499,2019,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1965603,NY,Ontario,Victor,Source2,3,43.012577,-77.43935400000002,2019,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1965605,NY,Ontario,Victor,Source2,3,43.012577,-77.43935400000002,2019,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1979044,NY,Ontario,Shortsville,Source2,3,42.977615,-77.230499,2019,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1990787,NY,Ontario,Victor,Source2,3,43.00893,-77.439087,2019,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2002779,NY,Ontario,Shortsville,Source2,3,42.977615,-77.230499,2019,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2016903,NY,Ontario,Victor,Source2,3,43.012577,-77.43935400000002,2019,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-2021665,NY,Ontario,Shortsville,Source2,3,42.977615,-77.230499,2019,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2024108,NY,Ontario,Phelps,Source2,4,42.953896,-76.98111,2019,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2024114,NY,Ontario,Phelps,Source2,3,42.953896,-76.98111,2019,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2026455,NY,Ontario,Shortsville,Source2,3,42.977615,-77.230499,2019,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2031783,NY,Ontario,Farmington,Source2,3,42.995792,-77.367538,2019,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2031784,NY,Ontario,Farmington,Source2,3,42.995899,-77.370102,2019,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2034054,NY,Ontario,Clifton Springs,Source2,3,42.973267,-77.13176700000002,2019,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2035723,NY,Ontario,Shortsville,Source2,3,42.978382,-77.229523,2019,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2041235,NY,Ontario,Phelps,Source2,3,42.954773,-76.98214,2019,7,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-2041237,NY,Ontario,Victor,Source2,3,43.012577,-77.43935400000002,2019,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2044170,NY,Ontario,Phelps,Source2,3,42.953896,-76.98111,2019,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2054805,NY,Ontario,Phelps,Source2,3,42.954754,-76.981071,2019,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2068022,NY,Ontario,Victor,Source2,3,43.012577,-77.43935400000002,2019,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-2070325,NY,Ontario,Farmington,Source2,3,42.995644,-77.369034,2019,5,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-2079565,NY,Ontario,Shortsville,Source2,3,42.977615,-77.230499,2019,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2080386,NY,Ontario,Victor,Source2,3,43.009052,-77.439339,2019,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-2082661,NY,Ontario,Phelps,Source2,3,42.95332,-76.98178100000001,2019,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2094186,NY,Ontario,Shortsville,Source2,3,42.978954,-77.233597,2019,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-2096504,NY,Ontario,Farmington,Source2,3,42.995625,-77.36904100000002,2019,7,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-2096505,NY,Ontario,Shortsville,Source2,3,42.978458,-77.231346,2019,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2102471,NY,Ontario,Shortsville,Source2,3,42.977615,-77.230499,2019,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2107330,NY,Ontario,Phelps,Source2,3,42.953072,-76.98120899999998,2019,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2107341,NY,Ontario,Shortsville,Source2,3,42.978462,-77.231499,2019,23,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2109567,NY,Ontario,Shortsville,Source2,3,42.977615,-77.230499,2019,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2109568,NY,Ontario,Farmington,Source2,3,42.995644,-77.369034,2019,9,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-2110507,NY,Ontario,Phelps,Source2,3,42.953896,-76.98111,2019,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2116419,NY,Ontario,Farmington,Source2,3,42.995846,-77.368675,2019,21,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-2116420,NY,Ontario,Phelps,Source2,3,42.954983,-76.980278,2019,21,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2118863,NY,Ontario,Victor,Source2,3,43.012577,-77.43935400000002,2019,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2121085,NY,Ontario,Shortsville,Source2,3,42.978519,-77.232552,2019,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-2121087,NY,Ontario,Farmington,Source2,3,42.995644,-77.369034,2019,17,Friday,Cloudy,False,False,True,False,False,False,False
+A-2121088,NY,Ontario,Phelps,Source2,3,42.954754,-76.981071,2019,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2123947,NY,Ontario,Phelps,Source2,3,42.953896,-76.98111,2019,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2124598,NY,Ontario,Phelps,Source2,3,42.953896,-76.98111,2019,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2128285,NY,Ontario,Farmington,Source2,3,42.995644,-77.369034,2019,10,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-2130552,NY,Ontario,Victor,Source2,3,43.012577,-77.43935400000002,2019,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2151956,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.43918599999998,2019,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2151957,NY,Ontario,Shortsville,Source2,3,42.978775,-77.229607,2019,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2151958,NY,Ontario,Shortsville,Source2,3,42.977764,-77.230453,2019,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2152727,NY,Ontario,Victor,Source2,3,43.007961,-77.43776700000002,2019,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2153477,NY,Ontario,Victor,Source2,3,43.014053,-77.44001800000002,2019,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-2166688,NY,Ontario,Shortsville,Source2,3,42.977764,-77.230453,2019,8,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2166696,NY,Ontario,Farmington,Source2,3,42.995792,-77.367538,2019,20,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2171950,NY,Ontario,Phelps,Source2,3,42.953896,-76.98111,2019,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2171951,NY,Ontario,Victor,Source2,3,43.012577,-77.43935400000002,2019,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2182325,NY,Ontario,Farmington,Source2,3,42.995644,-77.369034,2019,10,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-2184696,NY,Ontario,Farmington,Source2,3,42.995644,-77.369034,2019,9,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-2184701,NY,Ontario,Shortsville,Source2,3,42.977615,-77.230499,2019,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2193235,NY,Ontario,Shortsville,Source2,3,42.977615,-77.230499,2019,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2198515,NY,Ontario,Shortsville,Source2,3,42.978687,-77.22718,2019,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-2208185,NY,Ontario,Phelps,Source2,3,42.954124,-76.981544,2019,3,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2210479,NY,Ontario,Phelps,Source2,3,42.954681,-76.976784,2019,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2211272,NY,Ontario,Phelps,Source2,3,42.955009,-76.98150600000002,2019,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2225727,NY,Ontario,Farmington,Source2,3,42.995674,-77.369102,2019,11,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-2236026,NY,Ontario,Shortsville,Source2,3,42.978909,-77.232513,2019,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2236027,NY,Ontario,Farmington,Source2,3,42.995426,-77.36500500000002,2019,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2236028,NY,Ontario,Farmington,Source2,3,42.995674,-77.369102,2019,18,Sunday,Cloudy,False,False,True,False,False,False,False
+A-2238833,NY,Ontario,Victor,Source2,3,43.009106,-77.43944499999998,2019,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2247818,NY,Ontario,Farmington,Source2,3,42.995544,-77.367401,2019,8,Saturday,Rain,False,False,False,False,False,False,False
+A-2254735,NY,Ontario,Shortsville,Source2,3,42.977764,-77.230453,2019,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2254737,NY,Ontario,Farmington,Source2,3,42.995674,-77.369102,2019,11,Thursday,Cloudy,False,False,True,False,False,False,False
+A-2257329,NY,Ontario,Phelps,Source2,3,42.954124,-76.981544,2019,23,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2272180,NY,Ontario,Victor,Source2,3,43.014053,-77.44001800000002,2019,0,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2278804,NY,Ontario,Farmington,Source3,3,42.995674,-77.369102,2019,9,Tuesday,Snow / Ice,False,False,True,False,False,False,False
+A-2278808,NY,Ontario,Victor,Source2,3,43.014053,-77.44001800000002,2019,11,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2278810,NY,Ontario,Phelps,Source2,3,42.954124,-76.981544,2019,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2278812,NY,Ontario,Farmington,Source2,3,42.995674,-77.369102,2019,13,Tuesday,Snow / Ice,False,False,True,False,False,False,False
+A-2278814,NY,Ontario,Phelps,Source2,3,42.954124,-76.981544,2019,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2290296,NY,Ontario,Farmington,Source2,3,42.995674,-77.369102,2019,17,Sunday,Cloudy,False,False,True,False,False,False,False
+A-2300843,NY,Ontario,Shortsville,Source2,3,42.977764,-77.230453,2019,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-2300852,NY,Ontario,Clifton Springs,Source2,3,42.973316,-77.172852,2019,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2303821,NY,Ontario,Victor,Source2,3,43.00884600000001,-77.439339,2019,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2308976,NY,Ontario,Shortsville,Source2,3,42.978447,-77.23107900000002,2019,15,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2308977,NY,Ontario,Farmington,Source2,3,42.99577,-77.367165,2019,16,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2308981,NY,Ontario,Farmington,Source2,3,42.995674,-77.369102,2019,18,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-2311515,NY,Ontario,Victor,Source2,3,42.9977,-77.40432,2019,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2314495,NY,Ontario,Shortsville,Source2,3,42.977764,-77.230453,2019,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2320958,NY,Ontario,Victor,Source2,3,43.00832,-77.43836999999998,2019,21,Monday,Snow / Ice,False,False,True,False,False,False,False
+A-2320960,NY,Ontario,Phelps,Source2,3,42.954781,-76.982529,2019,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-2328180,NY,Ontario,Victor,Source2,3,43.014053,-77.44001800000002,2019,7,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2328181,NY,Ontario,Victor,Source2,3,43.019398,-77.443024,2019,7,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2330538,NY,Ontario,Farmington,Source2,3,42.995674,-77.369102,2019,14,Friday,Cloudy,False,False,True,False,False,False,False
+A-2344534,NY,Ontario,Victor,Source2,3,43.014053,-77.44001800000002,2019,7,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2346858,NY,Ontario,Farmington,Source2,3,42.995762,-77.367081,2019,10,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-2346860,NY,Ontario,Victor,Source2,3,43.00884600000001,-77.439339,2019,11,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-2346863,NY,Ontario,Victor,Source2,3,43.014053,-77.44001800000002,2019,15,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-2346864,NY,Ontario,Phelps,Source2,3,42.954124,-76.981544,2019,15,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-2346865,NY,Ontario,Farmington,Source2,3,42.995674,-77.369102,2019,17,Saturday,Snow / Ice,False,False,True,False,False,False,False
+A-2346867,NY,Ontario,Victor,Source2,3,43.014053,-77.44001800000002,2019,19,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-2347753,NY,Ontario,Shortsville,Source2,3,42.977764,-77.230453,2019,10,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2347754,NY,Ontario,Phelps,Source2,3,42.954124,-76.981544,2019,12,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-2347757,NY,Ontario,Phelps,Source2,3,42.954124,-76.981544,2019,21,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-2347759,NY,Ontario,Shortsville,Source2,3,42.977764,-77.230453,2019,21,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-2348622,NY,Ontario,Farmington,Source2,3,42.995674,-77.369102,2019,7,Monday,Snow / Ice,False,False,True,False,False,False,False
+A-2348623,NY,Ontario,Farmington,Source2,3,42.995674,-77.369102,2019,7,Monday,Snow / Ice,False,False,True,False,False,False,False
+A-2348625,NY,Ontario,Farmington,Source2,3,42.995674,-77.369102,2019,8,Monday,Snow / Ice,False,False,True,False,False,False,False
+A-2359139,NY,Ontario,Phelps,Source2,3,42.954124,-76.981544,2019,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-2362395,NY,Ontario,Phelps,Source2,3,42.954124,-76.981544,2019,10,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-2374337,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2383848,NY,Ontario,Shortsville,Source2,3,42.977764,-77.230453,2018,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-2394406,NY,Ontario,Phelps,Source2,3,42.954124,-76.981544,2018,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2399081,NY,Ontario,Shortsville,Source2,3,42.977764,-77.230453,2018,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2399082,NY,Ontario,Shortsville,Source2,3,42.977097,-77.232582,2018,13,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2399724,NY,Ontario,Shortsville,Source2,3,42.977764,-77.230453,2018,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2402546,NY,Ontario,Shortsville,Source2,3,42.977764,-77.230453,2018,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2402551,NY,Ontario,Victor,Source2,3,43.014053,-77.44001800000002,2018,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2421620,NY,Ontario,Shortsville,Source2,3,42.977764,-77.230453,2018,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-2423606,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2430374,NY,Ontario,Victor,Source2,3,43.007282,-77.43621800000003,2018,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2431106,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2431107,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2018,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2431109,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2018,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2431903,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-2435110,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2018,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2435111,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2018,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2441643,NY,Ontario,Victor,Source2,3,42.99612800000001,-77.37481700000002,2018,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2452201,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2018,15,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2461102,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2018,3,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2461141,NY,Ontario,Farmington,Source2,3,42.995609,-77.36835500000002,2018,7,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2461142,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2018,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-2463822,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2464677,NY,Ontario,Shortsville,Source2,3,42.978565,-77.224716,2018,11,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-2464678,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,18,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-2468225,NY,Ontario,Pittsford,Source2,3,43.014351,-77.471863,2018,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2473833,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2018,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2478669,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2018,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-2478698,NY,Ontario,Shortsville,Source2,3,42.978294,-77.227028,2018,20,Monday,Rain,False,False,False,False,False,False,False
+A-2481369,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,20,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2484141,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2018,18,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2484142,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2018,20,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2484143,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,20,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2491334,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,10,Tuesday,Rain,False,False,False,False,False,False,False
+A-2499926,NY,Ontario,Shortsville,Source2,3,42.99004,-77.320801,2018,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2503915,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-2515887,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2018,2,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2515888,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2018,4,Saturday,Rain,False,False,False,False,False,False,False
+A-2529047,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2018,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-2529051,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2018,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-2529052,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2018,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-2529103,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2018,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-2529104,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2018,22,Friday,Cloudy,False,False,False,False,False,False,False
+A-2532088,NY,Ontario,Victor,Source2,3,43.008068,-77.43789699999998,2018,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2536413,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2018,20,Tuesday,Rain,False,False,False,False,False,False,False
+A-2539283,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2018,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2539288,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2018,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2539289,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2018,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2539290,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2018,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2539322,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2018,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2542053,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2018,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2542054,NY,Ontario,Shortsville,Source2,3,42.978497,-77.23201,2018,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2548047,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,7,Saturday,Rain,False,False,False,False,False,False,False
+A-2548050,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2018,14,Saturday,Rain,False,False,False,False,False,False,False
+A-2548053,NY,Ontario,Victor,Source2,3,42.996647,-77.384651,2018,19,Saturday,Rain,False,False,False,False,False,False,False
+A-2548054,NY,Ontario,Phelps,Source2,3,42.963032,-77.044022,2018,19,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2549794,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2018,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-2552690,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2018,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2552691,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2018,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2552721,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2555640,NY,Ontario,Shortsville,Source2,3,42.978519,-77.232574,2018,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2555641,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2018,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-2558110,NY,Ontario,Farmington,Source2,3,42.99683,-77.368668,2018,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2558875,NY,Ontario,Victor,Source2,3,43.008362,-77.43806500000002,2018,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2566333,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2018,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2571532,NY,Ontario,Farmington,Source2,3,42.995712,-77.3703,2018,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2572315,NY,Ontario,Phelps,Source2,3,42.967308,-77.054413,2018,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2573115,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2018,7,Monday,Rain,False,False,False,False,False,False,False
+A-2581221,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2018,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2597957,NY,Ontario,Phelps,Source2,3,42.95472,-76.97728000000002,2018,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2600595,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2601905,NY,Ontario,Phelps,Source2,3,42.954769,-76.98155200000002,2018,6,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2601912,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2018,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2601914,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2018,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-2615530,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2018,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2616323,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2018,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2623781,NY,Ontario,Phelps,Source2,3,42.954769,-76.98155200000002,2018,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2623782,NY,Ontario,Phelps,Source2,3,42.954769,-76.98155200000002,2018,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2623788,NY,Ontario,Shortsville,Source2,3,42.978718,-77.22867600000002,2018,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-2623792,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2623793,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-2627684,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2018,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2635215,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2018,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2637739,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2640266,NY,Ontario,Shortsville,Source2,3,42.978779,-77.230148,2018,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2640267,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2644275,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,7,Tuesday,Rain,False,False,False,False,False,False,False
+A-2644283,NY,Ontario,Victor,Source2,3,42.99612800000001,-77.37481700000002,2018,9,Tuesday,Rain,False,False,False,False,False,False,False
+A-2644285,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2018,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2651758,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2018,5,Friday,Rain,False,False,False,False,False,False,False
+A-2651759,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2018,5,Friday,Rain,False,False,False,False,False,False,False
+A-2663313,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2018,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2663324,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2018,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2665727,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2018,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2665732,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2018,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2669549,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2018,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2674615,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2018,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2674617,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2018,20,Wednesday,Rain,False,False,False,False,False,False,False
+A-2677250,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2018,3,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2677251,NY,Ontario,Farmington,Source2,3,42.995609,-77.368378,2018,3,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2680738,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2018,2,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2687237,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2018,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2689286,NY,Ontario,Victor,Source2,3,43.009872,-77.441139,2018,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-2689287,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2018,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2691370,NY,Ontario,Phelps,Source2,3,42.954983,-76.98155200000002,2018,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2692849,NY,Ontario,Farmington,Source2,3,42.995838,-77.369194,2018,8,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-2692851,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2018,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2697516,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2018,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2697528,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2018,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2697529,NY,Ontario,Shortsville,Source2,3,42.978394,-77.229263,2018,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2701943,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-2701944,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2701946,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-2701947,NY,Ontario,Victor,Source2,3,43.008553000000006,-77.43878199999997,2018,18,Friday,Cloudy,False,False,True,False,False,False,False
+A-2704134,NY,Ontario,Phelps,Source2,3,42.954796,-76.983757,2018,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2704137,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2704856,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2018,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-2704857,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2018,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-2709235,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2018,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2709238,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2018,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2709240,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2714019,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2018,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2717209,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2018,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2717210,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2722620,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2722621,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2018,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2727236,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2018,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-2727243,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2018,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2729490,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2730924,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2018,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-2735572,NY,Ontario,Phelps,Source2,3,42.954971,-76.980682,2018,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2735586,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2018,14,Friday,Rain,False,False,False,False,False,False,False
+A-2735592,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2018,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2737974,NY,Ontario,Shortsville,Source2,3,42.978409,-77.229614,2018,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2737975,NY,Ontario,Shortsville,Source2,3,42.978497,-77.231926,2018,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2742074,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2018,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2742076,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2018,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2746905,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2018,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2749366,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2018,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-2749368,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2018,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2751675,NY,Ontario,Shortsville,Source2,3,42.978485,-77.231689,2018,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2753271,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2018,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2762917,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2018,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-2765126,NY,Ontario,Phelps,Source2,3,42.954762,-76.980972,2018,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2769312,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2018,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2771671,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2018,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2782431,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2782435,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2018,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2782436,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2784868,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2018,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2787239,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2789551,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2018,4,Friday,Sin dato,False,False,False,False,False,False,False
+A-2789558,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2018,15,Friday,Sin dato,False,False,False,False,False,False,False
+A-2797085,NY,Ontario,Victor,Source2,3,43.009235,-77.440208,2018,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2802558,NY,Ontario,Farmington,Source3,3,42.995564,-77.36749300000002,2018,7,Friday,Rain,False,False,False,False,False,False,False
+A-2802563,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-2802564,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-2805862,NY,Ontario,Victor,Source2,3,43.006336,-77.434738,2018,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2805865,NY,Ontario,Pittsford,Source2,3,43.014664,-77.477486,2018,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2808982,NY,Ontario,Shortsville,Source2,3,42.979321,-77.249214,2018,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2808985,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2808986,NY,Ontario,Victor,Source2,3,43.005356,-77.433266,2018,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2814182,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2814187,NY,Ontario,Clifton Springs,Source2,3,42.973331,-77.172874,2018,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2816887,NY,Ontario,Phelps,Source2,3,42.954769,-76.98155200000002,2018,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2816888,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2018,22,Friday,Cloudy,False,False,False,False,False,False,False
+A-2820436,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2018,0,Monday,Cloudy,False,False,False,False,False,False,False
+A-2829272,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,22,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2831997,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232559,2018,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2834477,NY,Ontario,Shortsville,Source2,3,42.97879,-77.23043100000002,2018,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2835260,NY,Ontario,Victor,Source2,3,43.008617,-77.438911,2018,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2836203,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2018,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2838790,NY,Ontario,Victor,Source2,3,43.01802100000001,-77.441742,2018,8,Tuesday,Rain,False,False,False,False,False,False,False
+A-2838795,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2841270,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2841271,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2018,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2841279,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2018,23,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2843887,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2018,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2843888,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2018,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2843920,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2018,0,Friday,Cloudy,False,False,False,False,False,False,False
+A-2846541,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2018,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2846544,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-2849105,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2849106,NY,Ontario,Victor,Source2,3,43.009392,-77.44005600000001,2018,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2849107,NY,Ontario,Shortsville,Source2,3,42.978878,-77.232506,2018,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2850525,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2018,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-2852229,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2871825,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2877669,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2018,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2886862,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2018,8,Monday,Rain,False,False,False,False,False,False,False
+A-2889618,NY,Ontario,Phelps,Source2,3,42.954769,-76.98155200000002,2018,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2894802,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2018,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2894803,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2018,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2904578,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2018,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2904588,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2904592,NY,Ontario,Shortsville,Source2,3,42.978405,-77.229568,2018,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2904593,NY,Ontario,Victor,Source2,3,43.006069,-77.434349,2018,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2907313,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2018,0,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2912792,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2018,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2919437,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2018,23,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2919438,NY,Ontario,Farmington,Source2,3,42.99369,-77.340843,2018,0,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2922151,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,1,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2925220,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2018,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2937390,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2018,8,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2943616,NY,Ontario,Victor,Source2,3,43.01802100000001,-77.441742,2018,6,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2943656,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,18,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2955594,NY,Ontario,Phelps,Source2,3,42.954769,-76.98155200000002,2018,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2955595,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2018,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2955600,NY,Ontario,Shortsville,Source2,3,42.978825,-77.23127,2018,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2955601,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2018,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2958484,NY,Ontario,Phelps,Source2,3,42.954746,-76.979599,2018,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2967047,NY,Ontario,Farmington,Source2,3,42.995617,-77.364983,2018,4,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2972580,NY,Ontario,Shortsville,Source2,3,42.978451,-77.230827,2018,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2980446,NY,Ontario,Farmington,Source2,3,42.995522,-77.36670699999998,2018,11,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2980447,NY,Ontario,Shortsville,Source2,3,42.979027,-77.236244,2018,13,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2980449,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2988066,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2018,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2989668,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-2995139,NY,Ontario,Phelps,Source2,3,42.954777,-76.982292,2018,10,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3003609,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,19,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-3003610,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2018,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3007984,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3042447,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2018,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3044790,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2018,12,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3057034,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2018,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3062379,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-3062386,NY,Ontario,Shortsville,Source2,3,42.982861,-77.284882,2018,19,Friday,Rain,False,False,False,False,False,False,False
+A-3062396,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2018,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-3066489,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-3066491,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,23,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-3071600,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3088046,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2018,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-3088060,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2018,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-3106317,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2017,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3121889,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2017,8,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3121898,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2017,8,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3124855,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2017,7,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3127861,NY,Ontario,Phelps,Source2,3,42.971127,-77.079567,2017,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3130748,NY,Ontario,Farmington,Source2,3,42.99577,-77.367859,2017,5,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3130749,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2017,5,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3130790,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2017,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-3130806,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2017,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-3134090,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2017,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3134095,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2017,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3146041,NY,Ontario,Clifton Springs,Source2,3,42.972839,-77.15361800000002,2017,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-3146045,NY,Ontario,Shortsville,Source2,3,42.978317,-77.22757,2017,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-3152876,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2017,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3190967,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2017,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-3197002,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2017,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3197009,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2017,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3202519,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2017,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3206191,NY,Ontario,Phelps,Source2,3,42.960796,-77.038933,2017,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3206192,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2017,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3206198,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2017,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3207073,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2017,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-3219498,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2017,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3219543,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2017,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3222372,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2017,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3228001,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2017,18,Friday,Sin dato,False,False,False,False,False,False,False
+A-3228005,NY,Ontario,Phelps,Source2,3,42.954762,-76.980774,2017,20,Friday,Sin dato,False,False,False,False,False,False,False
+A-3230509,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2017,15,Saturday,Sin dato,False,False,False,False,False,False,False
+A-3231214,NY,Ontario,Shortsville,Source2,3,42.978825,-77.231216,2017,18,Sunday,Sin dato,False,False,False,False,False,False,False
+A-3232103,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2017,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-3232106,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2017,18,Monday,Rain,False,False,False,False,False,False,False
+A-3232113,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2017,0,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3234799,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2017,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3234818,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2017,12,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-3276958,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2017,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3279784,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2017,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3279787,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2017,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-3283658,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2017,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-3283662,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2017,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3283664,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2017,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3283667,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2017,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-3301085,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2017,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3301097,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2017,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3306719,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2017,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3312695,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2017,2,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3328425,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2017,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3332634,NY,Ontario,Victor,Source2,3,42.995777,-77.371269,2017,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3335631,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2017,22,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3335632,NY,Ontario,Shortsville,Source2,3,42.978725,-77.228859,2017,0,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3338461,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2017,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3338504,NY,Ontario,Victor,Source2,3,42.996441,-77.380737,2017,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3338507,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2017,23,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3341530,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2017,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3341550,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2017,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-3344425,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2017,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3345941,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2017,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-3345945,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2017,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3347345,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2017,4,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3347346,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2017,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3350923,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2017,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3350939,NY,Ontario,Farmington,Source2,3,42.995514,-77.3666,2017,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3358934,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2017,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3358937,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2017,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3362687,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2017,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3362689,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2017,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3365495,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2017,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3367956,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2017,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3370462,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2017,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-3370486,NY,Ontario,Victor,Source2,3,43.00917800000001,-77.440086,2017,17,Friday,Rain,False,False,False,False,False,False,False
+A-3373520,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2017,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3376971,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2017,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-3376978,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2017,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3382559,NY,Ontario,Phelps,Source2,3,42.954788,-76.983002,2017,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3382583,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2017,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3385450,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2017,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-3392023,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2017,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3392064,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2017,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3394926,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2017,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3394964,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2017,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3397910,NY,Ontario,Victor,Source2,3,43.00898400000001,-77.439217,2017,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3400715,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2017,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-3400723,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2017,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3404011,NY,Ontario,Shortsville,Source2,3,42.973534,-77.180504,2017,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3404635,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2017,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3404638,NY,Ontario,Shortsville,Source2,3,42.978516,-77.232529,2017,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3404652,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2017,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-3404667,NY,Ontario,Phelps,Source2,3,42.954765,-76.98155200000002,2017,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3404671,NY,Ontario,Farmington,Source2,3,42.995564,-77.36749300000002,2017,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-3458433,NY,Ontario,Victor,Source1,3,43.00838,-77.43848,2017,12,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-3462135,NY,Ontario,Victor,Source1,3,42.99803,-77.4097,2017,15,Tuesday,Snow / Ice,False,False,True,False,False,False,False
+A-3462359,NY,Ontario,Farmington,Source1,3,42.99584,-77.36845,2017,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3472315,NY,Ontario,Phelps,Source1,3,42.95482,-76.98684,2016,22,Sunday,Snow / Ice,False,False,True,False,False,False,False
+A-3472318,NY,Ontario,Shortsville,Source1,4,42.97868,-77.23618,2016,0,Monday,Snow / Ice,False,False,True,False,False,False,False
+A-3600005,NY,Ontario,Phelps,Source1,4,42.95502000000001,-76.98184,2017,6,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-4643465,NY,Ontario,Victor,Source1,4,43.006785,-77.43541,2023,0,Saturday,Snow / Ice,False,False,True,False,False,False,False
+A-5543345,NY,Ontario,Clifton Springs,Source1,4,42.970173,-77.140146,2021,19,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-5816377,NY,Ontario,Geneva,Source1,4,42.839355,-76.978651,2021,20,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6133333,NY,Ontario,Clifton Springs,Source1,4,42.973712,-77.167005,2021,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7048787,NY,Ontario,Canandaigua,Source1,3,42.87822,-77.27457,2020,11,Monday,Cloudy,True,False,False,False,False,False,False
+A-7108932,NY,Ontario,Manchester,Source1,4,42.97494,-77.22815,2020,13,Tuesday,Rain,True,True,False,False,False,False,False
+A-7108933,NY,Ontario,Clifton Springs,Source1,4,42.9719,-77.18070999999998,2020,13,Tuesday,Rain,True,False,False,False,False,False,False
+A-7118929,NY,Ontario,Springwater,Source1,4,42.73012,-77.59023,2020,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7118930,NY,Ontario,Springwater,Source1,4,42.74443,-77.59668,2020,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7118933,NY,Ontario,Springwater,Source1,4,42.73012,-77.59023,2020,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7118934,NY,Ontario,Springwater,Source1,4,42.74443,-77.59668,2020,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7118937,NY,Ontario,Springwater,Source1,4,42.73012,-77.59023,2020,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7118938,NY,Ontario,Springwater,Source1,4,42.74443,-77.59668,2020,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7118939,NY,Ontario,Springwater,Source1,4,42.74443,-77.59668,2020,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7118940,NY,Ontario,Springwater,Source1,4,42.73012,-77.59023,2020,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7118941,NY,Ontario,Springwater,Source1,4,42.73012,-77.59023,2020,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7118942,NY,Ontario,Springwater,Source1,4,42.74443,-77.59668,2020,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7401158,NY,Ontario,Phelps,Source1,4,42.982005,-77.07916,2019,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7401159,NY,Ontario,Phelps,Source1,4,42.978087,-77.075998,2019,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7443372,NY,Ontario,Farmington,Source1,3,42.99584,-77.36845,2019,4,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7471958,NY,Ontario,Victor,Source1,4,43.019039,-77.441171,2019,13,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7503092,NY,Ontario,Shortsville,Source1,3,42.97833,-77.22825,2018,4,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-7531022,NY,Ontario,Shortsville,Source1,3,42.97833,-77.22825,2018,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7544430,NY,Ontario,Victor,Source1,3,42.99802,-77.4095,2018,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-7561862,NY,Ontario,Farmington,Source1,3,42.99584,-77.36845,2018,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7658651,NY,Ontario,Victor,Source1,3,43.00558,-77.43408000000002,2017,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7666520,NY,Ontario,Victor,Source1,4,43.00558,-77.43408000000002,2017,17,Tuesday,Cloudy,False,False,False,False,False,False,False

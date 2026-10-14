@@ -1,0 +1,353 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-567,OH,Clark,Springfield,Source2,3,39.896893,-83.723129,2016,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-569,OH,Clark,Springfield,Source2,3,39.896893,-83.723129,2016,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-221169,OH,Clark,Springfield,Source2,3,39.892044,-83.811821,2016,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-221170,OH,Clark,Springfield,Source2,3,39.890358,-83.757278,2016,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-221224,OH,Clark,Springfield,Source2,3,39.892044,-83.811821,2016,5,Tuesday,Rain,False,False,False,False,False,False,False
+A-221283,OH,Clark,Medway,Source2,3,39.865582,-83.99356800000002,2016,19,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-221531,OH,Clark,Medway,Source2,3,39.864468,-84.010132,2016,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-221619,OH,Clark,Medway,Source2,3,39.865582,-83.99356800000002,2016,9,Friday,Cloudy,False,False,True,False,False,False,False
+A-221919,OH,Clark,Medway,Source3,3,39.865582,-83.99356800000002,2016,4,Friday,Cloudy,False,False,True,False,False,False,False
+A-222043,OH,Clark,Medway,Source2,3,39.865582,-83.99356800000002,2016,9,Tuesday,Rain,False,False,True,False,False,False,False
+A-222492,OH,Clark,Springfield,Source2,3,39.888378,-83.935852,2016,15,Saturday,Rain,False,False,False,False,False,False,False
+A-222529,OH,Clark,New Carlisle,Source2,3,39.885365,-83.945839,2016,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-222898,OH,Clark,New Carlisle,Source2,3,39.885818,-83.94455699999997,2017,7,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-223135,OH,Clark,Springfield,Source2,3,39.896893,-83.723129,2017,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-223953,OH,Clark,Springfield,Source2,3,39.892044,-83.811821,2016,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-224104,OH,Clark,Medway,Source2,3,39.865582,-83.99356800000002,2016,18,Friday,Cloudy,False,False,True,False,False,False,False
+A-224317,OH,Clark,Springfield,Source2,3,39.892044,-83.811821,2016,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-224863,OH,Clark,Medway,Source2,3,39.865582,-83.99356800000002,2016,15,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-224894,OH,Clark,Springfield,Source2,3,39.896893,-83.723129,2016,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-226094,OH,Clark,Medway,Source2,3,39.865582,-83.99356800000002,2016,16,Thursday,Cloudy,False,False,True,False,False,False,False
+A-226254,OH,Clark,Springfield,Source2,3,39.892044,-83.811821,2016,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-226256,OH,Clark,Springfield,Source2,3,39.892044,-83.811821,2016,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-226343,OH,Clark,New Carlisle,Source2,3,39.885818,-83.94455699999997,2016,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-227133,OH,Clark,Springfield,Source2,3,39.895508,-83.85368299999998,2016,23,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-227134,OH,Clark,Springfield,Source2,3,39.895508,-83.85368299999998,2016,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-227443,OH,Clark,Springfield,Source2,3,39.895508,-83.85368299999998,2016,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-227446,OH,Clark,Springfield,Source2,3,39.895508,-83.85368299999998,2016,11,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-227447,OH,Clark,Springfield,Source2,3,39.895508,-83.85368299999998,2016,11,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-227783,OH,Clark,Medway,Source2,3,39.864529,-84.01430500000002,2016,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-227810,OH,Clark,South Charleston,Source2,3,39.912968,-83.702347,2016,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-227815,OH,Clark,Springfield,Source2,3,39.896893,-83.723129,2016,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-228120,OH,Clark,Enon,Source2,3,39.881504,-83.954475,2016,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-228344,OH,Clark,Medway,Source2,3,39.865582,-83.99356800000002,2016,10,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-228551,OH,Clark,Medway,Source2,3,39.865582,-83.99356800000002,2016,9,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-328776,OH,Clark,South Charleston,Source2,3,39.923939,-83.68807199999998,2017,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-328816,OH,Clark,Springfield,Source2,3,39.895508,-83.85368299999998,2017,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-376730,OH,Clark,South Vienna,Source2,3,39.933006,-83.61189300000002,2017,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-376885,OH,Clark,Springfield,Source2,3,39.895508,-83.85368299999998,2017,7,Tuesday,Rain,False,False,False,False,False,False,False
+A-423513,OH,Clark,Springfield,Source2,3,39.896893,-83.723129,2017,4,Friday,Rain,False,False,False,False,False,False,False
+A-423776,OH,Clark,Medway,Source2,3,39.865582,-83.99356800000002,2017,6,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-423803,OH,Clark,Medway,Source2,3,39.865582,-83.99356800000002,2017,8,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-423872,OH,Clark,Springfield,Source2,3,39.888378,-83.935852,2017,10,Saturday,Rain,False,False,False,False,False,False,False
+A-423932,OH,Clark,South Charleston,Source2,3,39.923939,-83.68807199999998,2017,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-448200,OH,Clark,Fairborn,Source2,3,39.876537,-83.966171,2017,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-479373,OH,Clark,New Carlisle,Source2,3,39.885818,-83.94455699999997,2017,12,Wednesday,Rain,False,False,False,False,False,False,False
+A-479393,OH,Clark,South Vienna,Source2,3,39.933006,-83.61189300000002,2017,10,Thursday,Sin dato,False,False,False,False,False,False,False
+A-479517,OH,Clark,Springfield,Source2,3,39.896893,-83.723129,2017,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-479775,OH,Clark,Medway,Source2,3,39.865582,-83.99356800000002,2017,9,Thursday,Rain,False,False,True,False,False,False,False
+A-516044,OH,Clark,Medway,Source2,3,39.868023,-83.986633,2022,4,Monday,Storm,False,False,False,False,False,False,False
+A-516999,OH,Clark,Springfield,Source2,4,39.889915,-83.930534,2022,19,Sunday,Rain,False,False,False,False,False,False,False
+A-536457,OH,Clark,South Vienna,Source2,3,39.934551,-83.640526,2022,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-537796,OH,Clark,Springfield,Source2,3,39.89257,-83.891418,2022,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-540638,OH,Clark,Medway,Source2,3,39.864399,-84.017365,2022,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-545966,OH,Clark,Springfield,Source2,3,39.874634,-83.971214,2022,16,Thursday,Rain,False,False,False,False,False,False,False
+A-553745,OH,Clark,Medway,Source2,3,39.867756,-83.987251,2022,18,Wednesday,Storm,False,False,False,False,False,False,False
+A-563188,OH,Clark,South Vienna,Source2,3,39.932762,-83.612381,2022,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-564232,OH,Clark,Springfield,Source2,3,39.899845,-83.853241,2022,9,Sunday,Storm,False,False,True,False,False,False,False
+A-564253,OH,Clark,Springfield,Source2,3,39.891193,-83.924911,2022,8,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-573025,OH,Clark,Springfield,Source2,3,39.891602,-83.810539,2022,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-583480,OH,Clark,Medway,Source2,3,39.86512800000001,-83.993851,2022,20,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-595920,OH,Clark,Medway,Source2,3,39.864731,-84.02359,2022,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-596629,OH,Clark,Springfield,Source2,3,39.891342,-83.925499,2022,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-605503,OH,Clark,Enon,Source2,3,39.881546,-83.954178,2022,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-639730,OH,Clark,Medway,Source2,3,39.86512800000001,-83.993851,2022,10,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-655108,OH,Clark,Springfield,Source2,3,39.873169,-83.974068,2022,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-686950,OH,Clark,Medway,Source2,3,39.865482,-83.99395799999998,2022,7,Monday,Rain,False,False,True,False,False,False,False
+A-703757,OH,Clark,Springfield,Source2,3,39.895355,-83.853569,2022,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-707968,OH,Clark,South Vienna,Source2,3,39.932762,-83.612381,2022,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-714866,OH,Clark,South Vienna,Source2,3,39.932762,-83.612381,2022,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-715073,OH,Clark,South Charleston,Source2,3,39.935436,-83.663666,2022,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-723287,OH,Clark,South Charleston,Source2,3,39.923176,-83.68798100000002,2022,15,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-729183,OH,Clark,Medway,Source2,3,39.864758,-83.998909,2022,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-736774,OH,Clark,Springfield,Source2,3,39.897713,-83.722107,2022,12,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-736783,OH,Clark,Springfield,Source2,3,39.889671,-83.930832,2022,12,Monday,Snow / Ice,False,False,True,False,False,False,False
+A-736784,OH,Clark,Springfield,Source2,3,39.891602,-83.810539,2022,12,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-745834,OH,Clark,Springfield,Source2,3,39.891602,-83.810539,2022,21,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-752657,OH,Clark,Medway,Source2,3,39.86512800000001,-83.993851,2022,10,Monday,Cloudy,False,False,True,False,False,False,False
+A-754621,OH,Clark,Springfield,Source2,3,39.886532,-83.941376,2022,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-762045,OH,Clark,Medway,Source2,3,39.86512800000001,-83.993851,2021,19,Tuesday,Rain,False,False,True,False,False,False,False
+A-766846,OH,Clark,Enon,Source2,3,39.881546,-83.954178,2021,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-820437,OH,Clark,Springfield,Source2,3,39.897713,-83.722107,2021,12,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-820440,OH,Clark,South Vienna,Source2,3,39.932762,-83.612381,2021,12,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-820958,OH,Clark,Enon,Source2,3,39.881546,-83.954178,2021,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-822450,OH,Clark,New Carlisle,Source2,3,39.883301,-83.95084399999998,2021,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-823867,OH,Clark,Enon,Source2,3,39.881546,-83.954178,2021,15,Thursday,Rain,False,False,False,False,False,False,False
+A-830977,OH,Clark,Medway,Source2,4,39.86512800000001,-83.993851,2021,6,Friday,Fog / Low visibility,False,False,True,False,False,False,False
+A-844914,OH,Clark,Medway,Source2,3,39.86512800000001,-83.993851,2021,20,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-846158,OH,Clark,Springfield,Source2,3,39.897713,-83.722107,2021,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-872206,OH,Clark,Springfield,Source2,3,39.891602,-83.810539,2021,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-888653,OH,Clark,Enon,Source2,3,39.881546,-83.954178,2021,19,Wednesday,Rain,False,False,False,False,False,False,False
+A-895774,OH,Clark,Springfield,Source2,3,39.89523300000001,-83.853157,2021,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-917693,OH,Clark,Enon,Source2,3,39.881546,-83.954178,2021,18,Tuesday,Rain,False,False,False,False,False,False,False
+A-933954,OH,Clark,Medway,Source2,3,39.86512800000001,-83.993851,2021,15,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-946663,OH,Clark,Medway,Source2,3,39.86512800000001,-83.993851,2021,16,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-948505,OH,Clark,Enon,Source2,3,39.881546,-83.954178,2021,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-960318,OH,Clark,Springfield,Source2,3,39.89523300000001,-83.853157,2021,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-963528,OH,Clark,South Charleston,Source2,3,39.923176,-83.68798100000002,2021,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-984120,OH,Clark,South Vienna,Source2,3,39.932762,-83.612381,2021,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-991302,OH,Clark,Springfield,Source2,4,39.895355,-83.853569,2021,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1005185,OH,Clark,Enon,Source2,3,39.881546,-83.954178,2021,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1014451,OH,Clark,New Carlisle,Source2,3,39.879807,-83.959007,2021,8,Monday,Rain,False,False,False,False,False,False,False
+A-1034094,OH,Clark,Springfield,Source2,4,39.897713,-83.722107,2021,7,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1037074,OH,Clark,Enon,Source2,4,39.881546,-83.954178,2021,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1048155,OH,Clark,Springfield,Source2,3,39.89523300000001,-83.853157,2021,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1051414,OH,Clark,Springfield,Source2,3,39.895355,-83.853569,2021,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1055693,OH,Clark,Springfield,Source2,3,39.894997,-83.858032,2021,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1055730,OH,Clark,Fairborn,Source2,3,39.86454000000001,-83.991219,2021,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1057514,OH,Clark,Springfield,Source2,3,39.879601,-83.849487,2021,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1062294,OH,Clark,Springfield,Source2,4,39.895519,-83.8535,2021,7,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1062295,OH,Clark,Springfield,Source2,4,39.891602,-83.810539,2021,7,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1062296,OH,Clark,Springfield,Source2,3,39.891617,-83.810539,2021,7,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1062297,OH,Clark,New Carlisle,Source2,3,39.883301,-83.95084399999998,2021,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1062306,OH,Clark,Springfield,Source2,3,39.895355,-83.853569,2021,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1063525,OH,Clark,Springfield,Source2,3,39.891602,-83.810539,2021,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1072647,OH,Clark,Springfield,Source2,3,39.897713,-83.722107,2021,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1074147,OH,Clark,Springfield,Source2,3,39.89523300000001,-83.853157,2021,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1085558,OH,Clark,Medway,Source2,3,39.866371,-83.99353,2021,13,Monday,Rain,False,False,True,False,False,False,False
+A-1095427,OH,Clark,Springfield,Source2,3,39.891602,-83.810539,2021,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1096389,OH,Clark,Springfield,Source2,3,39.895355,-83.853569,2021,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1096407,OH,Clark,South Vienna,Source2,3,39.932762,-83.612381,2021,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1096416,OH,Clark,Medway,Source2,3,39.86512800000001,-83.993851,2021,17,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1118782,OH,Clark,Springfield,Source2,3,39.924294,-83.687775,2021,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-1133659,OH,Clark,Medway,Source2,3,39.864941,-84.045601,2021,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1144435,OH,Clark,Springfield,Source2,3,39.893417,-83.876137,2021,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1156966,OH,Clark,Enon,Source2,4,39.881546,-83.954178,2021,6,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1156973,OH,Clark,Springfield,Source2,3,39.89523300000001,-83.853157,2021,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1158846,OH,Clark,Springfield,Source2,3,39.897713,-83.722107,2021,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1163708,OH,Clark,New Carlisle,Source2,3,39.883301,-83.95084399999998,2021,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1169862,OH,Clark,South Charleston,Source2,3,39.923176,-83.68798100000002,2021,4,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1169895,OH,Clark,Springfield,Source2,3,39.895355,-83.853569,2021,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1185500,OH,Clark,Springfield,Source2,3,39.895355,-83.853569,2021,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1185511,OH,Clark,Springfield,Source2,3,39.895538,-83.852615,2021,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1208493,OH,Clark,South Charleston,Source2,3,39.935055,-83.648392,2020,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1214897,OH,Clark,Springfield,Source2,3,39.889671,-83.930832,2020,12,Friday,Snow / Ice,False,False,True,False,False,False,False
+A-1214901,OH,Clark,Springfield,Source2,3,39.89523300000001,-83.853157,2020,14,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1215486,OH,Clark,South Vienna,Source2,3,39.932762,-83.612381,2020,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1215487,OH,Clark,South Vienna,Source2,3,39.932762,-83.612381,2020,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1221905,OH,Clark,Enon,Source2,3,39.881546,-83.954178,2020,15,Saturday,Rain,False,False,False,False,False,False,False
+A-1224559,OH,Clark,Springfield,Source2,3,39.89523300000001,-83.853157,2020,12,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1224560,OH,Clark,Springfield,Source2,3,39.89523300000001,-83.853157,2020,12,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1226399,OH,Clark,Springfield,Source2,3,39.895355,-83.853569,2020,17,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1279671,OH,Clark,South Charleston,Source2,3,39.923176,-83.68798100000002,2020,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1297425,OH,Clark,Springfield,Source2,3,39.895355,-83.853569,2020,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1311644,OH,Clark,Springfield,Source2,3,39.897713,-83.722107,2020,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1324749,OH,Clark,Enon,Source2,3,39.881546,-83.954178,2020,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1363176,OH,Clark,Medway,Source2,3,39.86512800000001,-83.993851,2020,6,Thursday,Rain,False,False,True,False,False,False,False
+A-1363219,OH,Clark,Springfield,Source2,3,39.891602,-83.810539,2020,11,Thursday,Rain,False,False,False,False,False,False,False
+A-1380883,OH,Clark,Fairborn,Source2,3,39.86454000000001,-83.991219,2020,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1437737,OH,Clark,Springfield,Source2,3,39.890541,-83.809639,2020,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1463541,OH,Clark,Springfield,Source2,3,39.895355,-83.853569,2020,7,Friday,Rain,False,False,False,False,False,False,False
+A-1472553,OH,Clark,Enon,Source2,3,39.881546,-83.954178,2020,14,Monday,Rain,False,False,False,False,False,False,False
+A-1472579,OH,Clark,Springfield,Source2,3,39.897713,-83.722107,2020,20,Monday,Rain,False,False,False,False,False,False,False
+A-1472584,OH,Clark,Springfield,Source2,3,39.893742,-83.72649399999997,2020,21,Monday,Rain,False,False,False,False,False,False,False
+A-1510085,OH,Clark,Springfield,Source2,3,39.895531,-83.853127,2020,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1534421,OH,Clark,Springfield,Source2,3,39.89523300000001,-83.853157,2020,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1559777,OH,Clark,Springfield,Source2,3,39.891602,-83.810539,2020,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1588244,OH,Clark,Medway,Source2,3,39.865044,-83.993752,2020,7,Monday,Cloudy,False,False,True,False,False,False,False
+A-1588268,OH,Clark,South Charleston,Source2,3,39.923176,-83.68798100000002,2020,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1590595,OH,Clark,South Charleston,Source2,3,39.923176,-83.68798100000002,2020,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1595429,OH,Clark,Springfield,Source2,3,39.89523300000001,-83.853157,2020,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1607943,OH,Clark,Springfield,Source2,3,39.891747,-83.809044,2020,16,Friday,Rain,False,False,False,False,False,False,False
+A-1629665,OH,Clark,Springfield,Source2,3,39.891895,-83.810448,2020,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1641277,OH,Clark,Springfield,Source2,3,39.891602,-83.810539,2020,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1646071,OH,Clark,Springfield,Source2,3,39.891602,-83.810539,2020,15,Thursday,Rain,False,False,False,False,False,False,False
+A-1668508,OH,Clark,Springfield,Source2,3,39.891602,-83.810539,2020,22,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1690768,OH,Clark,Springfield,Source2,3,39.891602,-83.810539,2019,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1705550,OH,Clark,Springfield,Source2,3,39.891602,-83.810539,2019,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1720907,OH,Clark,Medway,Source2,3,39.865044,-83.993752,2019,18,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-1726212,OH,Clark,Medway,Source2,3,39.86528,-83.993843,2019,8,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-1747710,OH,Clark,Medway,Source2,3,39.86528,-83.993843,2019,17,Friday,Cloudy,False,False,True,False,False,False,False
+A-1757061,OH,Clark,Springfield,Source2,3,39.891636,-83.810699,2019,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1777314,OH,Clark,Springfield,Source2,3,39.897713,-83.722107,2019,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1813668,OH,Clark,Springfield,Source2,3,39.889671,-83.930832,2019,4,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-1813686,OH,Clark,Fairborn,Source2,3,39.86454000000001,-83.991219,2019,7,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1816846,OH,Clark,Medway,Source2,3,39.865044,-83.993752,2019,17,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-1856018,OH,Clark,Medway,Source2,3,39.865044,-83.993752,2019,8,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-1866978,OH,Clark,Enon,Source2,4,39.881546,-83.954178,2019,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1887813,OH,Clark,Springfield,Source2,3,39.895844,-83.723763,2019,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1902813,OH,Clark,Enon,Source2,3,39.888222,-83.935356,2019,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1912351,OH,Clark,Springfield,Source2,3,39.89523300000001,-83.853157,2019,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1946838,OH,Clark,Springfield,Source2,3,39.897713,-83.722107,2019,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1949046,OH,Clark,Springfield,Source2,3,39.89523300000001,-83.853157,2019,17,Wednesday,Rain,False,False,False,False,False,False,False
+A-1957431,OH,Clark,Medway,Source2,3,39.865044,-83.993752,2019,18,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-2000903,OH,Clark,Medway,Source2,3,39.865044,-83.993752,2019,17,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-2006728,OH,Clark,Springfield,Source2,3,39.895355,-83.853569,2019,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2024428,OH,Clark,Medway,Source2,3,39.865044,-83.993752,2019,8,Thursday,Fog / Low visibility,False,False,True,False,False,False,False
+A-2024451,OH,Clark,Springfield,Source2,3,39.891602,-83.810539,2019,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2079653,OH,Clark,Medway,Source2,3,39.864872,-84.039902,2019,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2135534,OH,Clark,Springfield,Source2,3,39.895191,-83.853157,2019,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2176824,OH,Clark,Springfield,Source2,3,39.89523300000001,-83.853157,2019,17,Friday,Rain,False,False,False,False,False,False,False
+A-2189687,OH,Clark,Springfield,Source2,3,39.89523300000001,-83.853157,2019,7,Friday,Rain,False,False,False,False,False,False,False
+A-2230725,OH,Clark,Medway,Source2,3,39.866901,-83.994652,2019,8,Thursday,Rain,False,False,False,False,False,False,False
+A-2247916,OH,Clark,Enon,Source2,3,39.882671,-83.951698,2019,17,Saturday,Rain,False,False,False,False,False,False,False
+A-2257857,OH,Clark,Springfield,Source2,3,39.895214,-83.85266899999998,2019,8,Friday,Snow / Ice,False,False,True,False,False,False,False
+A-2257885,OH,Clark,Springfield,Source2,3,39.896782,-83.723282,2019,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-2298617,OH,Clark,New Carlisle,Source2,3,39.884914,-83.947464,2019,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2301100,OH,Clark,Springfield,Source2,3,39.895214,-83.85266899999998,2019,6,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-2312631,OH,Clark,Springfield,Source2,3,39.89203300000001,-83.811386,2019,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2312633,OH,Clark,Springfield,Source2,3,39.89203300000001,-83.811386,2019,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2312634,OH,Clark,Springfield,Source2,3,39.895214,-83.85266899999998,2019,16,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-2332865,OH,Clark,Enon,Source2,3,39.888924,-83.933449,2019,9,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-2332866,OH,Clark,Enon,Source2,3,39.882679,-83.951706,2019,10,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-2332870,OH,Clark,Springfield,Source2,3,39.894939,-83.839249,2019,12,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-2347007,OH,Clark,Medway,Source2,3,39.865841,-83.993721,2019,14,Saturday,Rain,False,False,False,False,False,False,False
+A-2400548,OH,Clark,New Carlisle,Source2,3,39.884914,-83.947464,2018,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2430500,OH,Clark,Springfield,Source2,3,39.89444,-83.832916,2018,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2430501,OH,Clark,Springfield,Source2,3,39.895508,-83.85368299999998,2018,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2445061,OH,Clark,Springfield,Source2,3,39.895508,-83.85368299999998,2018,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-2477842,OH,Clark,Springfield,Source2,3,39.892044,-83.811821,2018,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2477848,OH,Clark,Springfield,Source2,3,39.892044,-83.811821,2018,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2477849,OH,Clark,Springfield,Source2,3,39.892044,-83.811821,2018,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2488940,OH,Clark,Medway,Source2,3,39.865582,-83.99356800000002,2018,7,Monday,Cloudy,False,False,True,False,False,False,False
+A-2517711,OH,Clark,Springfield,Source2,3,39.895508,-83.85368299999998,2018,7,Monday,Rain,False,False,False,False,False,False,False
+A-2550197,OH,Clark,Medway,Source2,3,39.865582,-83.99356800000002,2018,8,Monday,Cloudy,False,False,True,False,False,False,False
+A-2559739,OH,Clark,New Carlisle,Source2,3,39.885818,-83.94455699999997,2018,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-2563887,OH,Clark,Springfield,Source2,3,39.895508,-83.85368299999998,2018,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2563928,OH,Clark,Medway,Source2,3,39.865582,-83.99356800000002,2018,15,Wednesday,Rain,False,False,True,False,False,False,False
+A-2566664,OH,Clark,Medway,Source2,3,39.865582,-83.99356800000002,2018,18,Thursday,Cloudy,False,False,True,False,False,False,False
+A-2588293,OH,Clark,Springfield,Source2,3,39.895508,-83.85368299999998,2018,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2590705,OH,Clark,Springfield,Source2,3,39.895508,-83.85368299999998,2018,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2598305,OH,Clark,South Vienna,Source2,3,39.933006,-83.61189300000002,2018,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2598366,OH,Clark,Springfield,Source2,3,39.895508,-83.85368299999998,2018,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-2602341,OH,Clark,Springfield,Source2,3,39.895508,-83.85368299999998,2018,7,Monday,Rain,False,False,False,False,False,False,False
+A-2602364,OH,Clark,Medway,Source2,3,39.865582,-83.99356800000002,2018,8,Monday,Rain,False,False,True,False,False,False,False
+A-2602373,OH,Clark,New Carlisle,Source2,3,39.885818,-83.94455699999997,2018,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-2627964,OH,Clark,Medway,Source2,3,39.865582,-83.99356800000002,2018,14,Monday,Cloudy,False,False,True,False,False,False,False
+A-2633043,OH,Clark,Springfield,Source2,3,39.892044,-83.811821,2018,17,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-2652082,OH,Clark,Springfield,Source2,3,39.895508,-83.85368299999998,2018,13,Friday,Sin dato,False,False,False,False,False,False,False
+A-2663709,OH,Clark,Springfield,Source2,3,39.895508,-83.85368299999998,2018,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2683921,OH,Clark,Medway,Source2,3,39.865582,-83.99356800000002,2018,19,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-2725260,OH,Clark,Springfield,Source2,3,39.895508,-83.85368299999998,2018,17,Thursday,Sin dato,False,False,False,False,False,False,False
+A-2730295,OH,Clark,Springfield,Source2,3,39.89555,-83.850945,2018,15,Sunday,Sin dato,False,False,False,False,False,False,False
+A-2779305,OH,Clark,Springfield,Source2,3,39.895508,-83.85368299999998,2018,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2787652,OH,Clark,South Vienna,Source2,3,39.933006,-83.61189300000002,2018,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2814536,OH,Clark,Springfield,Source2,3,39.892044,-83.811821,2018,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2824221,OH,Clark,Medway,Source2,3,39.865582,-83.99356800000002,2018,6,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-2880587,OH,Clark,Medway,Source2,3,39.865582,-83.99356800000002,2018,6,Thursday,Cloudy,False,False,True,False,False,False,False
+A-2902061,OH,Clark,New Carlisle,Source2,3,39.885818,-83.94455699999997,2018,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2928811,OH,Clark,Springfield,Source2,3,39.895508,-83.85368299999998,2018,8,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-2949484,OH,Clark,Springfield,Source2,3,39.892044,-83.811821,2018,17,Friday,Sin dato,False,False,False,False,False,False,False
+A-2956140,OH,Clark,Springfield,Source2,3,39.895508,-83.85368299999998,2018,7,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2975565,OH,Clark,Springfield,Source2,3,39.895508,-83.85368299999998,2018,19,Thursday,Rain,False,False,False,False,False,False,False
+A-2995635,OH,Clark,Springfield,Source2,3,39.896893,-83.723129,2018,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3021801,OH,Clark,Springfield,Source2,3,39.896893,-83.723129,2018,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3026987,OH,Clark,Springfield,Source2,3,39.895508,-83.85368299999998,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3062762,OH,Clark,Springfield,Source2,3,39.89296,-83.811722,2018,11,Friday,Rain,False,False,False,False,False,False,False
+A-3062769,OH,Clark,Medway,Source2,3,39.865582,-83.99356800000002,2018,14,Friday,Snow / Ice,False,False,True,False,False,False,False
+A-3088358,OH,Clark,Fairborn,Source2,3,39.864979,-83.990852,2018,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-3088380,OH,Clark,Medway,Source2,3,39.865582,-83.99356800000002,2018,17,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-3088384,OH,Clark,New Carlisle,Source2,3,39.885818,-83.94455699999997,2018,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-3143793,OH,Clark,Medway,Source2,3,39.865582,-83.99356800000002,2017,20,Thursday,Cloudy,False,False,True,False,False,False,False
+A-3194678,OH,Clark,New Carlisle,Source2,3,39.885818,-83.94455699999997,2017,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3194726,OH,Clark,Fairborn,Source3,3,39.869255,-83.983795,2017,17,Monday,Cloudy,False,False,True,False,False,False,False
+A-3197426,OH,Clark,Springfield,Source2,3,39.892044,-83.811821,2017,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3246729,OH,Clark,Medway,Source2,3,39.865456,-83.994202,2017,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-3412708,OH,Clark,South Charleston,Source1,3,39.9239,-83.68767,2016,10,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3413427,OH,Clark,Springfield,Source1,3,39.89857,-83.72139,2016,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3413497,OH,Clark,Springfield,Source1,4,39.89087,-83.85382,2016,1,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-3413498,OH,Clark,Springfield,Source1,4,39.89862,-83.85353,2016,2,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3413587,OH,Clark,New Carlisle,Source1,4,39.887572,-84.047499,2016,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3413588,OH,Clark,New Carlisle,Source1,4,39.90803,-84.03969000000002,2016,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3445815,OH,Clark,Fairborn,Source1,4,39.86602,-83.99229,2016,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-3445816,OH,Clark,Medway,Source1,4,39.86508,-83.99941,2016,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-3445818,OH,Clark,Medway,Source1,4,39.86672,-83.99349000000002,2016,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-3451638,OH,Clark,Springfield,Source1,4,39.892432,-83.817759,2016,17,Saturday,Rain,False,False,False,False,False,False,False
+A-3465498,OH,Clark,Springfield,Source1,4,39.951261,-83.86435300000002,2016,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3465499,OH,Clark,Springfield,Source1,4,39.95687,-83.86470899999998,2016,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3480180,OH,Clark,New Carlisle,Source1,3,39.912237,-83.99990600000002,2016,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3480181,OH,Clark,New Carlisle,Source1,3,39.912252,-83.999782,2016,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3488681,OH,Clark,Springfield,Source1,3,39.89273,-83.81773000000003,2016,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3510238,OH,Clark,Enon,Source1,4,39.88944,-83.93101999999998,2016,8,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3522055,OH,Clark,Springfield,Source1,3,39.89555,-83.84997,2016,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-3523098,OH,Clark,Springfield,Source1,4,39.89962,-83.72031,2016,10,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-3523153,OH,Clark,Springfield,Source1,4,39.909143,-83.905514,2016,8,Monday,Rain,False,False,False,False,False,False,False
+A-3523223,OH,Clark,New Carlisle,Source1,4,39.909216,-84.038838,2016,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3523226,OH,Clark,New Carlisle,Source1,4,39.92547,-84.02979,2016,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3523419,OH,Clark,Yellow Springs,Source1,4,39.79943,-83.82429,2016,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3523420,OH,Clark,Yellow Springs,Source1,4,39.797357,-83.824529,2016,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3560689,OH,Clark,New Carlisle,Source1,4,39.995262,-84.001599,2017,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3560690,OH,Clark,New Carlisle,Source1,4,40.001451,-84.01854399999998,2017,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3577448,OH,Clark,Medway,Source1,4,39.86672,-83.99349000000002,2017,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-3581169,OH,Clark,Springfield,Source1,3,39.88842,-83.93579,2017,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-3581824,OH,Clark,Springfield,Source1,4,39.89391,-83.81159,2017,16,Monday,Rain,False,False,False,False,False,False,False
+A-3581826,OH,Clark,Springfield,Source1,4,39.88998,-83.81200000000003,2017,16,Monday,Rain,False,False,False,False,False,False,False
+A-3585228,OH,Clark,Springfield,Source1,4,39.88998,-83.81200000000003,2017,2,Friday,Rain,False,False,False,False,False,False,False
+A-3616137,OH,Clark,Springfield,Source1,4,39.989481,-83.924615,2017,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-3618296,OH,Clark,Springfield,Source1,4,39.99292,-83.73002,2017,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3626631,OH,Clark,New Carlisle,Source1,4,39.958686,-84.018147,2017,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3626633,OH,Clark,New Carlisle,Source1,4,39.96315,-84.01475,2017,23,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3626635,OH,Clark,New Carlisle,Source1,4,39.9659,-84.010811,2017,23,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3630299,OH,Clark,Springfield,Source1,4,39.960585,-83.760802,2017,18,Friday,Sin dato,False,False,False,False,False,False,False
+A-3630302,OH,Clark,Springfield,Source1,4,39.952382,-83.764539,2017,18,Friday,Sin dato,False,False,False,False,False,False,False
+A-3633994,OH,Clark,London,Source1,4,39.9804,-83.52176999999998,2017,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3786215,OH,Clark,Springfield,Source1,4,39.894914,-83.863282,2022,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3805014,OH,Clark,Springfield,Source1,4,39.885916,-83.944271,2022,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4197902,OH,Clark,Springfield,Source1,4,39.919699,-83.929106,2022,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4635789,OH,Clark,Springfield,Source1,4,39.895529,-83.848274,2022,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4638893,OH,Clark,South Vienna,Source1,4,39.958078,-83.615516,2022,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4753054,OH,Clark,New Carlisle,Source1,4,39.918971,-83.935546,2022,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5123094,OH,Clark,Springfield,Source1,4,39.885582,-83.944526,2022,3,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-7033828,OH,Clark,Medway,Source1,4,39.86471,-83.99986,2020,4,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7033829,OH,Clark,Fairborn,Source1,4,39.86946,-83.98277,2020,2,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7033833,OH,Clark,Fairborn,Source1,4,39.86946,-83.98277,2020,2,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7033834,OH,Clark,Fairborn,Source1,3,39.86946,-83.98277,2020,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7033835,OH,Clark,Medway,Source1,3,39.86471,-83.99986,2020,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7033836,OH,Clark,Medway,Source1,3,39.86471,-83.99986,2020,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7035392,OH,Clark,Medway,Source1,3,39.86494,-83.99987,2020,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-7122150,OH,Clark,Springfield,Source1,3,39.89091,-83.85416,2020,13,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7137890,OH,Clark,Springfield,Source1,4,40.02446,-83.80561999999998,2020,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7186258,OH,Clark,Springfield,Source1,3,39.89495,-83.85882,2020,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7186268,OH,Clark,Springfield,Source1,3,39.89495,-83.85882,2020,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7456040,OH,Clark,Springfield,Source1,4,39.89553,-83.8479,2019,14,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7457997,OH,Clark,Springfield,Source1,4,39.920847,-83.918921,2019,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7457998,OH,Clark,New Carlisle,Source1,4,39.919323,-83.932416,2019,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7483847,OH,Clark,Springfield,Source1,4,39.89988,-83.85324,2018,12,Friday,Cloudy,False,False,True,False,False,False,False
+A-7485676,OH,Clark,Springfield,Source1,4,39.876714,-83.813326,2018,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-7485677,OH,Clark,Springfield,Source1,4,39.88772700000001,-83.81218,2018,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-7485682,OH,Clark,Springfield,Source1,4,39.887728,-83.81218,2018,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7485683,OH,Clark,Springfield,Source1,4,39.876714,-83.813326,2018,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7504031,OH,Clark,Fairborn,Source1,4,39.854217,-83.99404,2018,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7504712,OH,Clark,Springfield,Source1,4,39.99292,-83.73002,2018,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-7504714,OH,Clark,Springfield,Source1,4,39.992011,-83.730343,2018,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-7513942,OH,Clark,Springfield,Source1,4,39.89143,-83.8061,2018,8,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7513967,OH,Clark,Springfield,Source1,4,39.92703,-83.68496999999998,2018,9,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7513986,OH,Clark,Enon,Source1,4,39.88142,-83.95466,2018,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7513987,OH,Clark,Enon,Source1,4,39.88142,-83.95466,2018,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7519363,OH,Clark,Springfield,Source1,4,39.89512,-83.844612,2018,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-7519369,OH,Clark,Springfield,Source1,4,39.89495,-83.85882,2018,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-7536948,OH,Clark,Springfield,Source1,4,39.89091,-83.85416,2018,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-7536949,OH,Clark,Springfield,Source1,4,39.890158,-83.853889,2018,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-7536960,OH,Clark,Springfield,Source1,4,39.89552,-83.85337,2018,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-7536968,OH,Clark,Springfield,Source1,4,39.895174,-83.853721,2018,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-7568934,OH,Clark,New Carlisle,Source1,4,39.99516,-84.00072,2018,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7568935,OH,Clark,New Carlisle,Source1,4,39.99512,-84.00062,2018,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7568936,OH,Clark,New Carlisle,Source1,4,39.99507,-84.00098,2018,22,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7569823,OH,Clark,Springfield,Source1,4,39.89032,-83.78941800000003,2018,20,Sunday,Sin dato,False,False,False,False,False,False,False
+A-7569826,OH,Clark,Springfield,Source1,4,39.89172,-83.81148,2018,22,Sunday,Sin dato,False,False,True,False,False,False,False
+A-7592845,OH,Clark,Medway,Source1,4,39.86471,-83.99986,2018,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7599312,OH,Clark,South Vienna,Source1,3,39.933841,-83.589161,2018,5,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-7611600,OH,Clark,Enon,Source1,3,39.88142,-83.95466,2018,13,Thursday,Rain,False,False,False,False,False,False,False
+A-7619036,OH,Clark,Springfield,Source1,4,39.89273,-83.81773000000003,2018,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7631964,OH,Clark,Medway,Source1,4,39.86014,-83.9938,2018,23,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-7638974,OH,Clark,Enon,Source1,4,39.88142,-83.95466,2018,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7640972,OH,Clark,Springfield,Source1,4,39.890495,-83.85419,2017,22,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7640973,OH,Clark,Springfield,Source1,4,39.874629,-83.84456899999998,2017,22,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7659966,OH,Clark,Medway,Source1,4,39.86637,-83.99353,2017,17,Wednesday,Rain,False,False,True,False,False,False,False
+A-7661649,OH,Clark,Springfield,Source1,3,39.89172,-83.81148,2017,10,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7663974,OH,Clark,Springfield,Source1,4,39.95227,-83.764588,2017,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7663975,OH,Clark,Springfield,Source1,4,39.9653,-83.75858000000002,2017,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7668221,OH,Clark,Springfield,Source1,4,39.83252,-83.86829,2017,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-7668222,OH,Clark,Springfield,Source1,4,39.840056,-83.863562,2017,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-7768818,OH,Clark,Springfield,Source1,4,39.89553,-83.8479,2019,4,Monday,Clear / Fair,False,False,True,False,False,False,False

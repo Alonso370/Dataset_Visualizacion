@@ -1,0 +1,391 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-525168,SC,Lee,Lamar,Source2,3,34.18996,-80.165756,2022,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-596371,SC,Lee,Bishopville,Source2,3,34.186409000000005,-80.211472,2022,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-607085,SC,Lee,Camden,Source2,3,34.213093,-80.421768,2022,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-608215,SC,Lee,Camden,Source2,3,34.213093,-80.421768,2022,23,Friday,Cloudy,False,False,False,False,False,False,False
+A-627199,SC,Lee,Camden,Source2,3,34.213093,-80.421768,2022,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-630858,SC,Lee,Camden,Source2,4,34.213093,-80.421768,2022,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-656906,SC,Lee,Bishopville,Source2,3,34.203636,-80.37091099999998,2022,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-673622,SC,Lee,Camden,Source2,3,34.213093,-80.421768,2022,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-683515,SC,Lee,Bishopville,Source2,3,34.187346999999995,-80.199699,2022,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-705225,SC,Lee,Camden,Source2,3,34.213322,-80.419136,2022,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-723689,SC,Lee,Lamar,Source2,3,34.196026,-80.114998,2022,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-742965,SC,Lee,Bishopville,Source3,3,34.194378,-80.28031899999998,2022,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-773596,SC,Lee,Bishopville,Source2,3,34.194378,-80.28031899999998,2021,7,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-833648,SC,Lee,Lamar,Source2,3,34.18996,-80.165756,2021,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-843710,SC,Lee,Bishopville,Source2,3,34.186409000000005,-80.211472,2021,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-1026384,SC,Lee,Lamar,Source2,3,34.18996,-80.165756,2021,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1054295,SC,Lee,Camden,Source2,3,34.213093,-80.421768,2021,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1087052,SC,Lee,Lamar,Source2,4,34.18996,-80.165756,2021,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1114865,SC,Lee,Bishopville,Source2,3,34.186096,-80.21463,2021,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1207404,SC,Lee,Camden,Source2,3,34.213093,-80.421768,2021,19,Saturday,Rain,False,False,False,False,False,False,False
+A-1248884,SC,Lee,Bishopville,Source2,3,34.186409000000005,-80.211472,2020,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1265576,SC,Lee,Bishopville,Source2,3,34.194378,-80.28031899999998,2020,9,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1271077,SC,Lee,Camden,Source2,4,34.213093,-80.421768,2020,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1281708,SC,Lee,Camden,Source2,3,34.213093,-80.421768,2020,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1289994,SC,Lee,Bishopville,Source2,3,34.194378,-80.28031899999998,2020,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1357689,SC,Lee,Camden,Source2,3,34.213093,-80.421768,2020,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-1372496,SC,Lee,Bishopville,Source2,3,34.194378,-80.28031899999998,2020,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1455364,SC,Lee,Camden,Source2,3,34.213093,-80.421768,2020,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1455381,SC,Lee,Bishopville,Source2,3,34.20776,-80.39606500000002,2020,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1455399,SC,Lee,Bishopville,Source2,3,34.194378,-80.28031899999998,2020,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1456590,SC,Lee,Bishopville,Source2,3,34.194378,-80.28031899999998,2020,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1469386,SC,Lee,Bishopville,Source2,3,34.186409000000005,-80.211472,2020,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1472790,SC,Lee,Bishopville,Source2,3,34.186409000000005,-80.211472,2020,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1485884,SC,Lee,Bishopville,Source2,3,34.186409000000005,-80.211472,2020,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1485897,SC,Lee,Camden,Source2,3,34.213093,-80.421768,2020,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1500847,SC,Lee,Camden,Source2,3,34.213093,-80.421768,2020,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1502250,SC,Lee,Camden,Source2,3,34.213093,-80.421768,2020,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1507366,SC,Lee,Bishopville,Source2,3,34.186409000000005,-80.211472,2020,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1554775,SC,Lee,Camden,Source2,3,34.213093,-80.421768,2020,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1560082,SC,Lee,Camden,Source2,3,34.213093,-80.421768,2020,11,Monday,Rain,False,False,False,False,False,False,False
+A-1587577,SC,Lee,Bishopville,Source2,3,34.194378,-80.28031899999998,2020,19,Sunday,Rain,False,False,False,False,False,False,False
+A-1593625,SC,Lee,Bishopville,Source2,3,34.214321000000005,-80.243942,2020,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1595816,SC,Lee,Bishopville,Source2,3,34.186409000000005,-80.211472,2020,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1598166,SC,Lee,Lamar,Source2,3,34.18996,-80.165756,2020,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1615984,SC,Lee,Bishopville,Source2,3,34.194378,-80.28031899999998,2020,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1622284,SC,Lee,Bishopville,Source2,3,34.194378,-80.28031899999998,2020,17,Friday,Rain,False,False,False,False,False,False,False
+A-1626774,SC,Lee,Camden,Source2,3,34.213093,-80.421768,2020,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1641873,SC,Lee,Lamar,Source2,3,34.18996,-80.165756,2020,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1646644,SC,Lee,Bishopville,Source2,3,34.186409000000005,-80.211472,2020,17,Thursday,Rain,False,False,False,False,False,False,False
+A-1680594,SC,Lee,Lamar,Source2,3,34.18996,-80.165756,2019,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1682641,SC,Lee,Camden,Source2,3,34.21315,-80.421104,2019,12,Sunday,Rain,False,False,False,False,False,False,False
+A-1683730,SC,Lee,Bishopville,Source2,3,34.194378,-80.28031899999998,2019,4,Monday,Rain,False,False,False,False,False,False,False
+A-1685452,SC,Lee,Lamar,Source2,3,34.18996,-80.165756,2019,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1714395,SC,Lee,Camden,Source2,3,34.213093,-80.421768,2019,13,Friday,Rain,False,False,False,False,False,False,False
+A-1733251,SC,Lee,Bishopville,Source2,3,34.194378,-80.28031899999998,2019,11,Monday,Rain,False,False,False,False,False,False,False
+A-1743220,SC,Lee,Camden,Source2,3,34.213093,-80.421768,2019,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1760478,SC,Lee,Lamar,Source2,3,34.18996,-80.165756,2019,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1798933,SC,Lee,Camden,Source2,4,34.213093,-80.421768,2019,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1814440,SC,Lee,Bishopville,Source2,3,34.186409000000005,-80.211472,2019,13,Tuesday,Rain,False,False,False,False,False,False,False
+A-1850518,SC,Lee,Camden,Source2,3,34.213093,-80.421768,2019,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1876634,SC,Lee,Bishopville,Source2,3,34.186409000000005,-80.211472,2019,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1883445,SC,Lee,Bishopville,Source2,3,34.186409000000005,-80.211472,2019,16,Friday,Storm,False,False,False,False,False,False,False
+A-1883448,SC,Lee,Bishopville,Source2,3,34.188564,-80.24047900000002,2019,16,Friday,Storm,False,False,False,False,False,False,False
+A-1883504,SC,Lee,Bishopville,Source2,3,34.194378,-80.28031899999998,2019,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1896898,SC,Lee,Lamar,Source2,3,34.18996,-80.165756,2019,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1896977,SC,Lee,Bishopville,Source2,3,34.187271,-80.21000699999998,2019,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1914434,SC,Lee,Camden,Source2,3,34.213093,-80.421768,2019,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1942677,SC,Lee,Bishopville,Source2,3,34.186409000000005,-80.211472,2019,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1966463,SC,Lee,Camden,Source2,3,34.213093,-80.421768,2019,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1978507,SC,Lee,Bishopville,Source2,3,34.194378,-80.28031899999998,2019,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1993003,SC,Lee,Bishopville,Source2,3,34.186409000000005,-80.211472,2019,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1997029,SC,Lee,Bishopville,Source2,3,34.186409000000005,-80.211472,2019,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2003717,SC,Lee,Bishopville,Source2,3,34.201747999999995,-80.35598,2019,13,Sunday,Storm,False,False,False,False,False,False,False
+A-2009408,SC,Lee,Bishopville,Source2,3,34.186409000000005,-80.211472,2019,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2027242,SC,Lee,Lamar,Source2,3,34.18996,-80.165756,2019,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-2028931,SC,Lee,Bishopville,Source2,3,34.186409000000005,-80.211472,2019,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2032541,SC,Lee,Lamar,Source2,3,34.18996,-80.165756,2019,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2047279,SC,Lee,Camden,Source2,3,34.213093,-80.421768,2019,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2062701,SC,Lee,Lamar,Source2,3,34.18996,-80.165756,2019,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2073401,SC,Lee,Bishopville,Source2,3,34.194443,-80.28098299999998,2019,12,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-2081198,SC,Lee,Bishopville,Source2,3,34.194378,-80.28031899999998,2019,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2082853,SC,Lee,Bishopville,Source2,3,34.194378,-80.28031899999998,2019,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2082868,SC,Lee,Lamar,Source2,3,34.18996,-80.165756,2019,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2082876,SC,Lee,Bishopville,Source2,3,34.194378,-80.28031899999998,2019,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2087982,SC,Lee,Bishopville,Source2,3,34.194561,-80.279984,2019,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2095088,SC,Lee,Lamar,Source2,3,34.190147,-80.163521,2019,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-2098844,SC,Lee,Bishopville,Source2,3,34.186409000000005,-80.211472,2019,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-2109856,SC,Lee,Bishopville,Source2,3,34.186409000000005,-80.211472,2019,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2110716,SC,Lee,Camden,Source2,3,34.213093,-80.421768,2019,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2110729,SC,Lee,Bishopville,Source2,3,34.194378,-80.28031899999998,2019,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2123431,SC,Lee,Camden,Source2,3,34.213093,-80.421768,2019,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2131309,SC,Lee,Camden,Source2,3,34.213093,-80.421768,2019,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2135994,SC,Lee,Bishopville,Source2,3,34.194378,-80.28031899999998,2019,6,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2140768,SC,Lee,Bishopville,Source2,3,34.186409000000005,-80.211472,2019,13,Friday,Storm,False,False,False,False,False,False,False
+A-2143022,SC,Lee,Bishopville,Source2,3,34.194546,-80.280479,2019,9,Tuesday,Rain,False,False,False,False,False,False,False
+A-2143026,SC,Lee,Bishopville,Source2,3,34.186413,-80.2117,2019,10,Tuesday,Rain,False,False,False,False,False,False,False
+A-2143048,SC,Lee,Bishopville,Source2,3,34.186413,-80.2117,2019,11,Tuesday,Rain,False,False,False,False,False,False,False
+A-2150399,SC,Lee,Bishopville,Source2,3,34.194546,-80.280479,2019,11,Friday,Rain,False,False,False,False,False,False,False
+A-2150400,SC,Lee,Bishopville,Source2,3,34.186413,-80.2117,2019,11,Friday,Rain,False,False,False,False,False,False,False
+A-2150437,SC,Lee,Bishopville,Source2,3,34.186413,-80.2117,2019,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-2159293,SC,Lee,Lamar,Source2,3,34.189999,-80.165588,2019,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2159351,SC,Lee,Lamar,Source2,3,34.189999,-80.165588,2019,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2164234,SC,Lee,Bishopville,Source2,3,34.194546,-80.280479,2019,15,Friday,Storm,False,False,False,False,False,False,False
+A-2166835,SC,Lee,Bishopville,Source2,3,34.186413,-80.2117,2019,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2170486,SC,Lee,Camden,Source2,3,34.213093,-80.421768,2019,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2177372,SC,Lee,Camden,Source2,3,34.213093,-80.421768,2019,14,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2218956,SC,Lee,Camden,Source2,3,34.212936,-80.422028,2019,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2248030,SC,Lee,Bishopville,Source2,3,34.186413,-80.2117,2019,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2248756,SC,Lee,Bishopville,Source2,3,34.191437,-80.260216,2019,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2264908,SC,Lee,Bishopville,Source2,3,34.186413,-80.2117,2019,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2264930,SC,Lee,Lamar,Source2,3,34.189999,-80.165588,2019,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2265067,SC,Lee,Bishopville,Source2,3,34.186413,-80.2117,2019,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2285298,SC,Lee,Camden,Source2,3,34.212936,-80.422028,2019,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2287847,SC,Lee,Camden,Source2,3,34.212936,-80.422028,2019,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-2287891,SC,Lee,Lamar,Source2,3,34.189999,-80.165588,2019,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-2307246,SC,Lee,Lamar,Source2,3,34.189999,-80.165588,2019,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2312976,SC,Lee,Bishopville,Source2,3,34.186413,-80.2117,2019,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2315169,SC,Lee,Camden,Source2,3,34.212936,-80.422028,2019,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2317703,SC,Lee,Bishopville,Source2,3,34.194717,-80.28096,2019,14,Friday,Rain,False,False,True,False,False,False,False
+A-2342792,SC,Lee,Bishopville,Source2,3,34.194546,-80.280479,2019,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2357138,SC,Lee,Bishopville,Source2,3,34.194546,-80.280479,2019,4,Thursday,Rain,False,False,False,False,False,False,False
+A-2386246,SC,Lee,Bishopville,Source2,3,34.194546,-80.280479,2018,7,Saturday,Rain,False,False,False,False,False,False,False
+A-2397655,SC,Lee,Camden,Source2,3,34.212936,-80.422028,2018,9,Friday,Rain,False,False,False,False,False,False,False
+A-2397676,SC,Lee,Lamar,Source2,3,34.189999,-80.165588,2018,10,Friday,Rain,False,False,False,False,False,False,False
+A-2408179,SC,Lee,Camden,Source2,3,34.212936,-80.422028,2018,14,Thursday,Rain,False,False,False,False,False,False,False
+A-2410351,SC,Lee,Camden,Source2,3,34.212936,-80.422028,2018,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-2410357,SC,Lee,Camden,Source2,3,34.212936,-80.422028,2018,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-2410467,SC,Lee,Bishopville,Source2,3,34.194546,-80.280479,2018,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-2415518,SC,Lee,Camden,Source2,3,34.212936,-80.422028,2018,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2419031,SC,Lee,Camden,Source2,3,34.212936,-80.422028,2018,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-2421188,SC,Lee,Bishopville,Source2,3,34.194546,-80.280479,2018,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2442569,SC,Lee,Bishopville,Source2,3,34.186481,-80.21186800000002,2018,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2455971,SC,Lee,Lamar,Source2,3,34.189785,-80.165665,2018,6,Wednesday,Rain,False,False,False,False,False,False,False
+A-2459132,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2018,8,Thursday,Rain,False,False,False,False,False,False,False
+A-2462073,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2018,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2462139,SC,Lee,Bishopville,Source2,3,34.18626,-80.21149399999999,2018,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2466396,SC,Lee,Lamar,Source2,3,34.189785,-80.165665,2018,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-2471880,SC,Lee,Lamar,Source2,3,34.189785,-80.165665,2018,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2471899,SC,Lee,Lamar,Source2,3,34.189785,-80.165665,2018,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2471955,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2018,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2498128,SC,Lee,Bishopville,Source2,3,34.18626,-80.21149399999999,2018,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2500960,SC,Lee,Bishopville,Source2,3,34.18626,-80.21149399999999,2018,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2510925,SC,Lee,Lamar,Source2,3,34.189785,-80.165665,2018,15,Wednesday,Rain,False,False,False,False,False,False,False
+A-2514186,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2018,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2514187,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2018,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2524300,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2018,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2540253,SC,Lee,Camden,Source2,3,34.213249,-80.42009,2018,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2542992,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2018,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2543003,SC,Lee,Lamar,Source2,3,34.189785,-80.165665,2018,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2546041,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2018,8,Friday,Rain,False,False,False,False,False,False,False
+A-2546168,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2018,16,Friday,Rain,False,False,False,False,False,False,False
+A-2546231,SC,Lee,Bishopville,Source2,3,34.18626,-80.21149399999999,2018,22,Friday,Cloudy,False,False,False,False,False,False,False
+A-2556528,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2018,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2556532,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2018,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2556558,SC,Lee,Bishopville,Source2,3,34.194424,-80.280762,2018,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-2556559,SC,Lee,Bishopville,Source2,3,34.195038000000004,-80.285255,2018,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-2579390,SC,Lee,Bishopville,Source2,3,34.18626,-80.21149399999999,2018,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2579418,SC,Lee,Lamar,Source2,3,34.189785,-80.165665,2018,14,Wednesday,Rain,False,False,False,False,False,False,False
+A-2579438,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2018,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2579475,SC,Lee,Bishopville,Source2,3,34.18626,-80.21149399999999,2018,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2579487,SC,Lee,Bishopville,Source2,3,34.194675,-80.280998,2018,19,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-2586537,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2018,4,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2587316,SC,Lee,Bishopville,Source2,3,34.213043,-80.421745,2018,10,Sunday,Rain,False,False,False,False,False,False,False
+A-2614086,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2018,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2624567,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2018,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-2627111,SC,Lee,Bishopville,Source2,3,34.189369,-80.244339,2018,15,Sunday,Storm,False,False,False,False,False,False,False
+A-2640453,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2018,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2645059,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2018,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2655169,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2018,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2655171,SC,Lee,Bishopville,Source2,3,34.192703,-80.268898,2018,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2664196,SC,Lee,Lamar,Source2,3,34.189785,-80.165665,2018,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2669007,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2018,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2669010,SC,Lee,Camden,Source2,3,34.213295,-80.416687,2018,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2675430,SC,Lee,Bishopville,Source2,3,34.18626,-80.21149399999999,2018,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2680096,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2018,12,Saturday,Sin dato,False,False,False,False,False,False,False
+A-2680941,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2018,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2680951,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2018,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2686258,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2018,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2686287,SC,Lee,Lamar,Source2,3,34.189785,-80.165665,2018,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2687918,SC,Lee,Bishopville,Source2,3,34.185158,-80.211136,2018,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2690171,SC,Lee,Bishopville,Source2,3,34.18626,-80.21149399999999,2018,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2695916,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2018,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2702769,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2018,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2710004,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2018,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2712384,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2018,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2716633,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2018,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2716645,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2018,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2716657,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2018,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2717377,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2018,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2717391,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2018,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2725700,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2018,13,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2728075,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2018,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2730386,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2018,15,Sunday,Rain,False,False,False,False,False,False,False
+A-2736531,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2018,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2736536,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2018,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2736561,SC,Lee,Lamar,Source2,3,34.189785,-80.165665,2018,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2739065,SC,Lee,Bishopville,Source2,3,34.191151,-80.256546,2018,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2745231,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2018,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2745262,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2018,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2750148,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2018,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-2751929,SC,Lee,Bishopville,Source2,3,34.194798,-80.326332,2018,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2752647,SC,Lee,Camden,Source2,3,34.213093,-80.421425,2018,9,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2752654,SC,Lee,Bishopville,Source2,3,34.194965,-80.319176,2018,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2752679,SC,Lee,Bishopville,Source2,3,34.188763,-80.240219,2018,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2752689,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2018,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2763747,SC,Lee,Bishopville,Source2,3,34.18626,-80.21149399999999,2018,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2765362,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2018,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2766315,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2018,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2770159,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2018,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2774659,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2018,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2778596,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2018,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2800698,SC,Lee,Camden,Source2,3,34.212761,-80.42315699999997,2018,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2800762,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2800789,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2018,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2803513,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2018,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2803522,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2018,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2815068,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2018,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2819865,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2018,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2819877,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2018,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2819898,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2018,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2824913,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2018,19,Tuesday,Rain,False,False,False,False,False,False,False
+A-2827524,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2018,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2827566,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2018,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2830225,SC,Lee,Bishopville,Source2,3,34.18996,-80.166061,2018,13,Thursday,Rain,False,False,False,False,False,False,False
+A-2832836,SC,Lee,Bishopville,Source2,3,34.18626,-80.21149399999999,2018,12,Friday,Rain,False,False,False,False,False,False,False
+A-2832910,SC,Lee,Bishopville,Source2,3,34.194546,-80.279884,2018,17,Friday,Rain,False,False,False,False,False,False,False
+A-2834765,SC,Lee,Bishopville,Source2,3,34.191662,-80.260094,2018,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2835536,SC,Lee,Bishopville,Source2,3,34.189529,-80.24707,2018,16,Sunday,Rain,False,False,False,False,False,False,False
+A-2844756,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2018,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2844782,SC,Lee,Bishopville,Source2,3,34.19426,-80.279625,2018,16,Thursday,Cloudy,False,False,True,False,False,False,False
+A-2844791,SC,Lee,Camden,Source2,3,34.212971,-80.422157,2018,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2844825,SC,Lee,Camden,Source2,3,34.213177,-80.42235600000002,2018,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2847521,SC,Lee,Bishopville,Source2,3,34.18626,-80.21149399999999,2018,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2849367,SC,Lee,Bishopville,Source2,3,34.194977,-80.31864200000003,2018,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2851107,SC,Lee,Bishopville,Source2,3,34.18626,-80.21149399999999,2018,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-2851128,SC,Lee,Bishopville,Source2,3,34.194225,-80.279434,2018,17,Monday,Cloudy,False,False,True,False,False,False,False
+A-2855573,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2018,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2857385,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2018,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2858017,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2018,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2859317,SC,Lee,Bishopville,Source3,3,34.194389,-80.280502,2018,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2859339,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2018,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2859355,SC,Lee,Camden,Source2,3,34.213234,-80.42205,2018,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2859361,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2018,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2859395,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2018,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2869372,SC,Lee,Bishopville,Source2,3,34.186512,-80.211449,2018,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2869410,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2018,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2871204,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2018,18,Saturday,Rain,False,False,False,False,False,False,False
+A-2871974,SC,Lee,Bishopville,Source2,3,34.192421,-80.266953,2018,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2876057,SC,Lee,Lamar,Source2,3,34.189785,-80.165665,2018,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2893057,SC,Lee,Lamar,Source2,3,34.189785,-80.165665,2018,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2895801,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2898512,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2018,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2898553,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2018,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2898570,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2018,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2905644,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2018,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2905669,SC,Lee,Bishopville,Source2,3,34.18626,-80.21149399999999,2018,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2913721,SC,Lee,Bishopville,Source2,3,34.194286,-80.2798,2018,18,Friday,Cloudy,False,False,True,False,False,False,False
+A-2917829,SC,Lee,Bishopville,Source2,3,34.186237,-80.212036,2018,18,Wednesday,Rain,False,False,False,False,False,False,False
+A-2920478,SC,Lee,Bishopville,Source2,3,34.18626,-80.21149399999999,2018,19,Thursday,Rain,False,False,False,False,False,False,False
+A-2931686,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2018,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2931718,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2018,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2934960,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2018,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2939188,SC,Lee,Camden,Source2,3,34.213181,-80.422325,2018,17,Monday,Rain,False,False,False,False,False,False,False
+A-2947420,SC,Lee,Lamar,Source2,3,34.189785,-80.165665,2018,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2952685,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2018,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2962442,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2018,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2967965,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2018,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2978730,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2018,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-2978824,SC,Lee,Bishopville,Source2,3,34.18626,-80.21149399999999,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2978836,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2018,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2989085,SC,Lee,Camden,Source2,3,34.212944,-80.422279,2018,12,Sunday,Rain,False,False,False,False,False,False,False
+A-2996091,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2018,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3003833,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2018,8,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3016232,SC,Lee,Lamar,Source2,3,34.189785,-80.165665,2018,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-3016285,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2018,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3018682,SC,Lee,Bishopville,Source2,3,34.19463,-80.280457,2018,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3024985,SC,Lee,Bishopville,Source2,3,34.194782000000004,-80.280159,2018,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3030335,SC,Lee,Camden,Source2,3,34.213127,-80.42115799999998,2018,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3033051,SC,Lee,Camden,Source2,3,34.211971000000005,-80.421494,2018,14,Sunday,Rain,False,False,False,False,False,False,False
+A-3043221,SC,Lee,Lamar,Source2,3,34.189785,-80.165665,2018,17,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3043233,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2018,19,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3045734,SC,Lee,Lamar,Source2,3,34.189785,-80.165665,2018,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3067236,SC,Lee,Bishopville,Source2,3,34.194412,-80.28068499999998,2018,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3107326,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2017,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3110056,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2017,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3116044,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2017,14,Friday,Rain,False,False,False,False,False,False,False
+A-3116071,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2017,15,Friday,Rain,False,False,False,False,False,False,False
+A-3116084,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2017,15,Friday,Rain,False,False,False,False,False,False,False
+A-3116107,SC,Lee,Bishopville,Source2,3,34.18626,-80.21149399999999,2017,16,Friday,Rain,False,False,False,False,False,False,False
+A-3116133,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2017,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-3116162,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2017,22,Friday,Rain,False,False,False,False,False,False,False
+A-3131816,SC,Lee,Bishopville,Source2,3,34.194523,-80.28139499999997,2017,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3138705,SC,Lee,Bishopville,Source2,3,34.213043,-80.421745,2017,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3141452,SC,Lee,Bishopville,Source2,3,34.194576,-80.280098,2017,13,Wednesday,Rain,False,False,False,False,False,False,False
+A-3141531,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2017,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3144327,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2017,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3150223,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2017,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3151542,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2017,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3151562,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2017,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3161039,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2017,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3165950,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2017,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3169450,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2017,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3173908,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2017,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3176394,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2017,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3178677,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2017,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3184319,SC,Lee,Lamar,Source2,3,34.189785,-80.165665,2017,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3191579,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2017,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3195412,SC,Lee,Bishopville,Source2,3,34.186577,-80.207718,2017,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3198046,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2017,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3198050,SC,Lee,Bishopville,Source2,3,34.205982,-80.389198,2017,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3198053,SC,Lee,Bishopville,Source2,3,34.202164,-80.35553,2017,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3200960,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2017,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3201011,SC,Lee,Bishopville,Source2,3,34.213108,-80.421288,2017,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3201024,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2017,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3201057,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2017,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3202978,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2017,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3202979,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2017,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3202986,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2017,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3206434,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2017,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3228914,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2017,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-3228921,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2017,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-3233131,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2017,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-3235897,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2017,20,Tuesday,Storm,False,False,False,False,False,False,False
+A-3243972,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2017,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3257936,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2017,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3258127,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2017,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3269449,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2017,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3272022,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2017,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3272070,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2017,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3277875,SC,Lee,Lamar,Source2,3,34.18993,-80.166275,2017,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3277934,SC,Lee,Bishopville,Source2,3,34.210209000000006,-80.421051,2017,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3277942,SC,Lee,Lamar,Source2,3,34.190079,-80.165413,2017,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3284241,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2017,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3284254,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2017,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3297878,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2017,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3299191,SC,Lee,Lamar,Source2,3,34.189785,-80.165665,2017,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-3310794,SC,Lee,Lamar,Source2,3,34.189785,-80.165665,2017,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3329201,SC,Lee,Lamar,Source2,3,34.189785,-80.165665,2017,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3330696,SC,Lee,Bishopville,Source2,3,34.18626,-80.21149399999999,2017,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3333659,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2017,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3339581,SC,Lee,Bishopville,Source2,3,34.18626,-80.21149399999999,2017,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3339585,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2017,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3347946,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2017,7,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3357243,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2017,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-3357296,SC,Lee,Bishopville,Source2,3,34.196056,-80.279984,2017,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3357336,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2017,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-3363640,SC,Lee,Lamar,Source2,3,34.189785,-80.165665,2017,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3363715,SC,Lee,Bishopville,Source2,3,34.194389,-80.280502,2017,12,Tuesday,Rain,False,False,False,False,False,False,False
+A-3363796,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2017,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3366395,SC,Lee,Lamar,Source2,3,34.189785,-80.165665,2017,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3373656,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2017,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3380725,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2017,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3383634,SC,Lee,Lamar,Source2,3,34.189785,-80.165665,2017,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3383638,SC,Lee,Bishopville,Source2,3,34.18626,-80.21149399999999,2017,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3386363,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2017,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3388252,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2017,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3388255,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2017,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3388256,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2017,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3390365,SC,Lee,Lamar,Source2,3,34.189785,-80.165665,2017,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3393156,SC,Lee,Bishopville,Source2,3,34.212044,-80.427582,2017,20,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-3404149,SC,Lee,Bishopville,Source2,3,34.213039,-80.421768,2017,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3480041,SC,Lee,Bishopville,Source1,4,34.19429,-80.28004,2016,4,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-3616397,SC,Lee,Bishopville,Source1,4,34.19429,-80.28004,2017,3,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-3990541,SC,Lee,Bishopville,Source1,4,34.147655,-80.23984499999997,2022,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4041260,SC,Lee,Bishopville,Source1,4,34.212139,-80.23056,2023,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4088424,SC,Lee,Lynchburg,Source1,4,34.007404,-80.17370600000002,2023,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5411774,SC,Lee,Rembert,Source1,4,34.123474,-80.477745,2022,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-5479618,SC,Lee,Camden,Source1,4,34.21225190146345,-80.42671322784221,2021,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5757153,SC,Lee,Bishopville,Source1,4,34.139801,-80.339065,2021,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5964174,SC,Lee,Camden,Source1,4,34.21225190146345,-80.42671322784221,2021,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6026576,SC,Lee,Bishopville,Source1,4,34.18600916846186,-80.216857194518,2021,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6080997,SC,Lee,Dalzell,Source1,4,34.12981,-80.418601,2021,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6144846,SC,Lee,Camden,Source1,4,34.211859000000004,-80.427308,2021,1,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6215420,SC,Lee,Rembert,Source1,4,34.130794,-80.446552,2021,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6221617,SC,Lee,Lynchburg,Source1,4,34.005856,-80.172859,2021,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6222258,SC,Lee,Dalzell,Source1,4,34.095794,-80.423164,2021,21,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6273449,SC,Lee,Rembert,Source1,4,34.145648,-80.468124,2021,19,Wednesday,Rain,False,False,False,False,False,False,False
+A-6341619,SC,Lee,Sumter,Source1,4,34.099353,-80.375793,2021,2,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-6345587,SC,Lee,Bishopville,Source1,4,34.203315,-80.31656600000002,2021,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6436650,SC,Lee,Lamar,Source1,4,34.215053999999995,-80.121669,2021,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6724133,SC,Lee,Lynchburg,Source1,4,34.024655,-80.089742,2020,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6724934,SC,Lee,Camden,Source1,4,34.188488,-80.445564,2020,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7223242,SC,Lee,Bishopville,Source1,4,34.214319,-80.243939,2020,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7223243,SC,Lee,Bishopville,Source1,4,34.214319,-80.243939,2020,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7488495,SC,Lee,Bishopville,Source1,3,34.19469,-80.28072,2018,8,Friday,Cloudy,False,False,True,False,False,False,False
+A-7488496,SC,Lee,Bishopville,Source1,3,34.186890000000005,-80.20619,2018,8,Friday,Cloudy,False,False,True,False,False,False,False
+A-7584643,SC,Lee,Bishopville,Source1,4,34.18626,-80.21775699999998,2018,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7588560,SC,Lee,Camden,Source1,3,34.213325,-80.41715,2018,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7627166,SC,Lee,Camden,Source1,4,34.21354,-80.41695,2018,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7710976,SC,Lee,Bishopville,Source1,3,34.21333,-80.41728,2019,17,Thursday,Cloudy,False,False,False,False,False,False,False

@@ -1,0 +1,351 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-523425,NY,Broome,Vestal,Source2,3,42.098949,-76.027618,2022,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-529203,NY,Broome,Lisle,Source2,4,42.342758,-75.979324,2022,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-543981,NY,Broome,Kirkwood,Source2,3,42.042767,-75.793076,2022,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-545896,NY,Broome,Kirkwood,Source2,3,42.097622,-75.81791700000002,2022,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-547240,NY,Broome,Binghamton,Source2,3,42.11134000000001,-75.913872,2022,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-551096,NY,Broome,Binghamton,Source2,3,42.11567700000001,-75.90325899999998,2022,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-593844,NY,Broome,Binghamton,Source2,3,42.11134000000001,-75.913872,2022,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-620561,NY,Broome,Lisle,Source2,3,42.342758,-75.979324,2022,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-632192,NY,Broome,Port Crane,Source2,3,42.16312,-75.771484,2022,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-659937,NY,Broome,Vestal,Source2,3,42.098949,-76.027618,2022,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-677868,NY,Broome,Binghamton,Source2,3,42.115276,-75.88580300000002,2022,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-682880,NY,Broome,Binghamton,Source2,3,42.106602,-75.835037,2022,20,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-683500,NY,Broome,Whitney Point,Source2,3,42.31966,-75.967934,2022,11,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-713410,NY,Broome,Binghamton,Source2,3,42.11134000000001,-75.913872,2022,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-719188,NY,Broome,Binghamton,Source2,3,42.115276,-75.88580300000002,2022,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-720513,NY,Broome,Binghamton,Source2,3,42.115276,-75.88580300000002,2022,9,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-721040,NY,Broome,Binghamton,Source2,3,42.108391,-75.85701800000002,2022,4,Friday,Other,False,False,False,False,False,False,False
+A-721461,NY,Broome,Binghamton,Source2,3,42.147541,-75.89135,2022,16,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-730490,NY,Broome,Harpursville,Source2,3,42.186649,-75.637642,2022,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-737871,NY,Broome,Kirkwood,Source2,3,42.042767,-75.793076,2022,19,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-758407,NY,Broome,Binghamton,Source2,3,42.163647,-75.87278,2021,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-763177,NY,Broome,Castle Creek,Source2,3,42.233059,-75.91507,2021,19,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-774025,NY,Broome,Whitney Point,Source2,3,42.31966,-75.967934,2021,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-791249,NY,Broome,Binghamton,Source2,3,42.119064,-75.943336,2021,16,Monday,Rain,False,False,False,False,False,False,False
+A-812655,NY,Broome,Binghamton,Source2,3,42.16431,-75.872856,2021,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-813633,NY,Broome,Binghamton,Source3,3,42.115276,-75.88580300000002,2021,17,Thursday,Rain,False,False,False,False,False,False,False
+A-813683,NY,Broome,Binghamton,Source2,3,42.115276,-75.88580300000002,2021,17,Thursday,Rain,False,False,False,False,False,False,False
+A-844048,NY,Broome,Binghamton,Source2,3,42.124737,-75.90484599999998,2021,14,Monday,Rain,False,False,False,False,False,False,False
+A-860971,NY,Broome,Binghamton,Source2,3,42.145111,-75.892792,2021,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-863726,NY,Broome,Whitney Point,Source2,3,42.31966,-75.967934,2021,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-867843,NY,Broome,Kirkwood,Source2,3,42.042767,-75.793076,2021,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-874533,NY,Broome,Vestal,Source2,3,42.092251,-76.042938,2021,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-884886,NY,Broome,Port Crane,Source2,3,42.163269,-75.77154499999997,2021,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-887392,NY,Broome,Kirkwood,Source2,3,42.042767,-75.793076,2021,14,Thursday,Rain,False,False,False,False,False,False,False
+A-887393,NY,Broome,Binghamton,Source2,3,42.115276,-75.88580300000002,2021,15,Thursday,Rain,False,False,False,False,False,False,False
+A-891162,NY,Broome,Johnson City,Source2,3,42.120007,-75.946655,2021,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-922472,NY,Broome,Binghamton,Source2,3,42.11567700000001,-75.903313,2021,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-930550,NY,Broome,Binghamton,Source2,3,42.106602,-75.835037,2021,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-935098,NY,Broome,Kirkwood,Source2,3,42.097622,-75.817902,2021,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-938783,NY,Broome,Binghamton,Source2,3,42.106377,-75.832413,2021,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-953989,NY,Broome,Binghamton,Source2,3,42.115276,-75.88580300000002,2021,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-960150,NY,Broome,Binghamton,Source2,3,42.115276,-75.88580300000002,2021,20,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-971827,NY,Broome,Binghamton,Source3,3,42.115276,-75.88580300000002,2021,20,Sunday,Rain,False,False,False,False,False,False,False
+A-974393,NY,Broome,Binghamton,Source2,3,42.106377,-75.832413,2021,17,Thursday,Rain,False,False,False,False,False,False,False
+A-977399,NY,Broome,Johnson City,Source2,3,42.120007,-75.946655,2021,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-991146,NY,Broome,Binghamton,Source2,3,42.113956,-75.928162,2021,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-993801,NY,Broome,Kirkwood,Source2,3,42.097622,-75.817902,2021,10,Tuesday,Rain,False,False,False,False,False,False,False
+A-993803,NY,Broome,Binghamton,Source2,3,42.107224,-75.850052,2021,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-997959,NY,Broome,Binghamton,Source2,3,42.112862,-75.911026,2021,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1007439,NY,Broome,Johnson City,Source2,3,42.120007,-75.946655,2021,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-1021951,NY,Broome,Whitney Point,Source2,3,42.31966,-75.967934,2021,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1029121,NY,Broome,Harpursville,Source2,3,42.186489,-75.70339200000002,2021,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1030752,NY,Broome,Binghamton,Source2,3,42.124737,-75.90484599999998,2021,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1046188,NY,Broome,Kirkwood,Source2,3,42.09761,-75.816467,2021,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1059021,NY,Broome,Binghamton,Source2,3,42.11567700000001,-75.903313,2021,10,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1080853,NY,Broome,Lisle,Source2,3,42.342758,-75.979324,2021,14,Thursday,Rain,False,False,False,False,False,False,False
+A-1120030,NY,Broome,Whitney Point,Source2,3,42.31966,-75.967934,2021,4,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1171142,NY,Broome,Kirkwood,Source2,3,42.042767,-75.793076,2021,23,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1177496,NY,Broome,Johnson City,Source2,3,42.120007,-75.946655,2021,19,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1199962,NY,Broome,Binghamton,Source2,3,42.125263,-75.904915,2021,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-1206799,NY,Broome,Binghamton,Source2,3,42.158855,-75.896683,2021,22,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1207273,NY,Broome,Kirkwood,Source2,3,42.042767,-75.793076,2021,4,Saturday,Rain,False,False,False,False,False,False,False
+A-1207275,NY,Broome,Binghamton,Source2,3,42.115276,-75.88580300000002,2021,13,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-1208337,NY,Broome,Chenango Forks,Source2,3,42.236519,-75.84787,2020,21,Thursday,Cloudy,False,True,False,False,False,False,True
+A-1219855,NY,Broome,Kirkwood,Source2,3,42.042767,-75.793076,2020,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-1221358,NY,Broome,Castle Creek,Source2,3,42.233059,-75.91507,2020,13,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1226015,NY,Broome,Kirkwood,Source2,3,42.097622,-75.817902,2020,16,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1226018,NY,Broome,Binghamton,Source2,3,42.125263,-75.904915,2020,17,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1235829,NY,Broome,Binghamton,Source2,3,42.151592,-75.89649200000002,2020,16,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1284683,NY,Broome,Binghamton,Source2,3,42.125263,-75.904915,2020,0,Monday,Cloudy,False,False,False,False,False,False,False
+A-1288230,NY,Broome,Whitney Point,Source2,3,42.31966,-75.967934,2020,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1294430,NY,Broome,Whitney Point,Source2,3,42.31966,-75.967934,2020,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1297253,NY,Broome,Kirkwood,Source2,3,42.042767,-75.793076,2020,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1300271,NY,Broome,Binghamton,Source2,3,42.125263,-75.904915,2020,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1311438,NY,Broome,Binghamton,Source2,3,42.115673,-75.903938,2020,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1317811,NY,Broome,Binghamton,Source2,3,42.11134000000001,-75.913872,2020,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-1324665,NY,Broome,Johnson City,Source2,3,42.11702,-75.99185200000002,2020,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1327337,NY,Broome,Johnson City,Source2,3,42.120007,-75.946655,2020,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1351864,NY,Broome,Johnson City,Source2,3,42.121441,-75.968147,2020,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1394827,NY,Broome,Binghamton,Source2,3,42.115276,-75.88580300000002,2020,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1396325,NY,Broome,Binghamton,Source2,3,42.115276,-75.88580300000002,2020,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1426071,NY,Broome,Kirkwood,Source2,3,42.042767,-75.793076,2020,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-1432154,NY,Broome,Harpursville,Source2,3,42.186249,-75.70369699999998,2020,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1437525,NY,Broome,Kirkwood,Source2,3,42.042767,-75.793076,2020,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1447524,NY,Broome,Binghamton,Source2,3,42.12674000000001,-75.905968,2020,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1478093,NY,Broome,Binghamton,Source2,3,42.115276,-75.88580300000002,2020,18,Friday,Rain,False,False,False,False,False,False,False
+A-1505575,NY,Broome,Vestal,Source2,3,42.092121,-76.042923,2020,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1526767,NY,Broome,Kirkwood,Source2,3,42.042767,-75.793076,2020,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1552278,NY,Broome,Kirkwood,Source2,3,42.097622,-75.817902,2020,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1557729,NY,Broome,Binghamton,Source2,3,42.113956,-75.928162,2020,19,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1560833,NY,Broome,Whitney Point,Source2,3,42.31966,-75.967934,2020,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1567336,NY,Broome,Endicott,Source2,3,42.112339,-76.004814,2020,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1569637,NY,Broome,Castle Creek,Source2,3,42.233471,-75.91544300000002,2020,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1634638,NY,Broome,Whitney Point,Source2,3,42.31966,-75.967934,2020,8,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1638639,NY,Broome,Windsor,Source2,3,42.055016,-75.615211,2020,8,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1645659,NY,Broome,Kirkwood,Source2,3,42.042767,-75.793076,2020,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1650573,NY,Broome,Binghamton,Source2,4,42.145351,-75.892593,2020,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1686553,NY,Broome,Johnson City,Source2,3,42.11758,-75.99044,2019,17,Sunday,Snow / Ice,False,False,True,False,False,False,False
+A-1700559,NY,Broome,Johnson City,Source2,3,42.120007,-75.946655,2019,2,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-1717051,NY,Broome,Johnson City,Source2,3,42.120125,-75.969688,2019,12,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1720476,NY,Broome,Binghamton,Source2,3,42.115673,-75.90392299999998,2019,0,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1723190,NY,Broome,Binghamton,Source2,3,42.118771,-75.910179,2019,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1747310,NY,Broome,Harpursville,Source2,3,42.186649,-75.637642,2019,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1751504,NY,Broome,Binghamton,Source2,3,42.155342,-75.89651500000002,2019,23,Monday,Cloudy,False,False,False,False,False,False,False
+A-1753893,NY,Broome,Whitney Point,Source2,3,42.329105,-75.965767,2019,6,Tuesday,Clear / Fair,True,False,False,False,False,True,False
+A-1780963,NY,Broome,Binghamton,Source2,3,42.13641,-75.902992,2019,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-1806355,NY,Broome,Johnson City,Source2,3,42.11758,-75.99044,2019,12,Friday,Snow / Ice,False,False,True,False,False,False,False
+A-1849755,NY,Broome,Windsor,Source2,3,42.085995,-75.696526,2019,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-1926797,NY,Broome,Kirkwood,Source2,3,42.042767,-75.793076,2019,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1946550,NY,Broome,Kirkwood,Source2,3,42.042767,-75.793076,2019,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1952078,NY,Broome,Kirkwood,Source2,3,42.097622,-75.817902,2019,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1959246,NY,Broome,Vestal,Source2,3,42.092121,-76.042923,2019,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1966971,NY,Broome,Whitney Point,Source2,3,42.31966,-75.967934,2019,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2004293,NY,Broome,Whitney Point,Source2,3,42.31966,-75.967934,2019,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2026419,NY,Broome,Binghamton,Source2,3,42.115276,-75.88580300000002,2019,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-2026429,NY,Broome,Binghamton,Source2,3,42.115673,-75.90392299999998,2019,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-2029529,NY,Broome,Kirkwood,Source2,3,42.097622,-75.817902,2019,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-2031741,NY,Broome,Kirkwood,Source2,3,42.042767,-75.793076,2019,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2034040,NY,Broome,Johnson City,Source2,3,42.120007,-75.946655,2019,17,Wednesday,Rain,False,False,False,False,False,False,False
+A-2041900,NY,Broome,Binghamton,Source2,3,42.11134000000001,-75.913872,2019,15,Monday,Rain,False,False,False,False,False,False,False
+A-2097882,NY,Broome,Kirkwood,Source2,3,42.097622,-75.817902,2019,17,Monday,Rain,False,False,False,False,False,False,False
+A-2125994,NY,Broome,Castle Creek,Source2,3,42.233059,-75.91507,2019,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2251484,NY,Broome,Binghamton,Source2,3,42.115353000000006,-75.885384,2019,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2251485,NY,Broome,Binghamton,Source3,3,42.115349,-75.885292,2019,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2254685,NY,Broome,Kirkwood,Source2,3,42.09808,-75.818649,2019,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2257227,NY,Broome,Endicott,Source2,3,42.114918,-75.999786,2019,3,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2269392,NY,Broome,Vestal,Source2,3,42.091995,-76.04338800000002,2019,5,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2308925,NY,Broome,Binghamton,Source2,3,42.115177,-75.88533000000002,2019,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2344509,NY,Broome,Binghamton,Source2,3,42.125156,-75.905098,2019,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-2427331,NY,Broome,Castle Creek,Source2,3,42.233109000000006,-75.915375,2018,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-2431102,NY,Broome,Binghamton,Source2,3,42.115093,-75.89724,2018,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2444510,NY,Broome,Port Crane,Source2,3,42.187397,-75.708618,2018,14,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2452141,NY,Broome,Whitney Point,Source2,3,42.32,-75.97043599999998,2018,5,Tuesday,Rain,False,False,False,False,False,False,False
+A-2471169,NY,Broome,Binghamton,Source2,3,42.104614,-75.83087900000002,2018,14,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2471170,NY,Broome,Binghamton,Source2,3,42.115204,-75.88533000000002,2018,15,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2549735,NY,Broome,Binghamton,Source2,3,42.115204,-75.88533000000002,2018,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-2555598,NY,Broome,Lisle,Source2,3,42.338436,-75.978561,2018,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2571516,NY,Broome,Harpursville,Source2,3,42.187725,-75.70359,2018,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2640257,NY,Broome,Binghamton,Source2,3,42.115364,-75.885292,2018,10,Saturday,Rain,False,False,False,False,False,False,False
+A-2680730,NY,Broome,Kirkwood,Source2,3,42.09777800000001,-75.818352,2018,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2680731,NY,Broome,Kirkwood,Source2,3,42.095577,-75.813751,2018,6,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-2717206,NY,Broome,Whitney Point,Source2,3,42.320683,-75.970917,2018,20,Sunday,Rain,False,False,False,False,False,False,False
+A-2720190,NY,Broome,Kirkwood,Source2,3,42.095291,-75.814201,2018,13,Tuesday,Rain,False,False,False,False,False,False,False
+A-2773880,NY,Broome,Kirkwood,Source2,3,42.042557,-75.793015,2018,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2797045,NY,Broome,Binghamton,Source2,3,42.123055,-75.906174,2018,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2799848,NY,Broome,Binghamton,Source2,3,42.142155,-75.900864,2018,22,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2829243,NY,Broome,Binghamton,Source2,3,42.115204,-75.889648,2018,6,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2852162,NY,Broome,Binghamton,Source2,3,42.152851,-75.896454,2018,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2860973,NY,Broome,Whitney Point,Source2,3,42.320889,-75.971428,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2889596,NY,Broome,Binghamton,Source2,3,42.159286,-75.898041,2018,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2894787,NY,Broome,Windsor,Source2,3,42.086262,-75.69686899999998,2018,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2964354,NY,Broome,Port Crane,Source2,3,42.167236,-75.833221,2018,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2980409,NY,Broome,Castle Creek,Source2,3,42.233109000000006,-75.915375,2018,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2988871,NY,Broome,Castle Creek,Source2,3,42.233109000000006,-75.915375,2018,11,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-2988872,NY,Broome,Whitney Point,Source2,3,42.321159,-75.97123,2018,13,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-2995076,NY,Broome,Binghamton,Source2,3,42.115204,-75.88533000000002,2018,14,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3039251,NY,Broome,Harpursville,Source2,3,42.186752,-75.637474,2018,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3044742,NY,Broome,Binghamton,Source2,3,42.115093,-75.89724,2018,12,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3062343,NY,Broome,Port Crane,Source2,3,42.163311,-75.771919,2018,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-3066438,NY,Broome,Port Crane,Source2,3,42.167236,-75.833221,2018,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-3068773,NY,Broome,Binghamton,Source2,3,42.115086,-75.908562,2018,14,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3071577,NY,Broome,Binghamton,Source2,3,42.115204,-75.889648,2018,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3074337,NY,Broome,Whitney Point,Source2,3,42.32,-75.97043599999998,2018,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3103644,NY,Broome,Windsor,Source2,3,42.094276,-75.75702700000002,2017,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3103649,NY,Broome,Johnson City,Source2,3,42.119892,-75.96880300000002,2017,19,Monday,Cloudy,False,False,True,False,False,False,False
+A-3157207,NY,Broome,Binghamton,Source2,3,42.092056,-75.947647,2017,16,Saturday,Fog / Low visibility,True,False,False,False,False,False,False
+A-3162676,NY,Broome,Kirkwood,Source2,3,42.097298,-75.81826,2017,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3183702,NY,Broome,Harpursville,Source2,3,42.187206,-75.704369,2017,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3206185,NY,Broome,Binghamton,Source2,3,42.115364,-75.885292,2017,19,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3240512,NY,Broome,Harpursville,Source2,3,42.186752,-75.637474,2017,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3240515,NY,Broome,Binghamton,Source2,3,42.115204,-75.889648,2017,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3322610,NY,Broome,Lisle,Source2,3,42.396999,-76.005676,2017,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3344418,NY,Broome,Binghamton,Source2,3,42.123901,-75.905556,2017,5,Thursday,Cloudy,False,False,True,False,False,False,False
+A-3356162,NY,Broome,Binghamton,Source2,3,42.164932,-75.89621,2017,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-3359499,NY,Broome,Harpursville,Source2,3,42.186752,-75.637474,2017,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3394889,NY,Broome,Binghamton,Source3,3,42.123901,-75.905556,2017,17,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-3454756,NY,Broome,Port Crane,Source1,4,42.16187,-75.77519000000002,2016,1,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3458678,NY,Broome,Marathon,Source1,4,42.401062,-76.00934699999998,2017,2,Thursday,Rain,False,False,False,False,False,False,False
+A-3472336,NY,Broome,Binghamton,Source1,3,42.11522,-75.88962,2016,4,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-3473045,NY,Broome,Port Crane,Source1,3,42.16593,-75.82753000000002,2016,15,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-3476473,NY,Broome,Kirkwood,Source1,4,42.09615,-75.814339,2016,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3476475,NY,Broome,Binghamton,Source1,4,42.114853,-75.900772,2016,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3476500,NY,Broome,Binghamton,Source1,4,42.114853,-75.900772,2016,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3479062,NY,Broome,Kirkwood,Source1,3,42.09584,-75.81396,2016,15,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-3482124,NY,Broome,Port Crane,Source1,4,42.17766,-75.73624000000002,2016,3,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3482125,NY,Broome,Port Crane,Source1,4,42.19444,-75.70931999999998,2016,3,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3482831,NY,Broome,Windsor,Source1,4,42.05016,-75.49996,2016,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3483637,NY,Broome,Kirkwood,Source1,3,42.04527,-75.79456,2016,8,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-3493273,NY,Broome,Johnson City,Source1,4,42.11967,-75.95008,2016,17,Thursday,Cloudy,False,False,True,False,False,False,False
+A-3496335,NY,Broome,Harpursville,Source1,4,42.19039,-75.61609,2016,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3496336,NY,Broome,Harpursville,Source1,4,42.18939,-75.62016,2016,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3504467,NY,Broome,Binghamton,Source1,4,42.102232,-75.89824300000002,2016,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-3509616,NY,Broome,Whitney Point,Source1,4,42.31967,-75.96749,2016,23,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3516959,NY,Broome,Kirkwood,Source1,4,42.101135,-75.80690200000002,2016,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-3517043,NY,Broome,Whitney Point,Source1,4,42.32002,-75.96839,2016,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3520421,NY,Broome,Windsor,Source1,4,42.07392,-75.64771999999998,2016,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3520632,NY,Broome,Binghamton,Source1,3,42.14388,-75.89397,2016,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3563228,NY,Broome,Vestal,Source1,4,42.05289000000001,-76.03052,2017,7,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-3563233,NY,Broome,Vestal,Source1,4,42.06604,-76.036904,2017,7,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-3571438,NY,Broome,Windsor,Source1,3,42.08615,-75.6994,2017,14,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3571441,NY,Broome,Windsor,Source1,3,42.08596,-75.69353000000002,2017,14,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-3579846,NY,Broome,Harpursville,Source1,4,42.18715,-75.64201,2017,13,Tuesday,Fog / Low visibility,False,False,True,False,False,False,False
+A-3580061,NY,Broome,Whitney Point,Source1,3,42.31967,-75.96749,2017,0,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3598408,NY,Broome,Binghamton,Source1,3,42.103306,-75.848327,2017,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3598410,NY,Broome,Binghamton,Source1,3,42.104055,-75.850727,2017,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3598418,NY,Broome,Binghamton,Source1,3,42.104055,-75.850727,2017,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3615847,NY,Broome,Kirkwood,Source1,3,42.09584,-75.81396,2017,17,Thursday,Cloudy,False,False,True,False,False,False,False
+A-3646571,NY,Broome,Binghamton,Source1,3,42.12819,-75.90453000000002,2017,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3732433,NY,Broome,Port Crane,Source1,4,42.175783,-75.745037,2023,19,Sunday,Rain,False,False,False,False,False,False,False
+A-3898436,NY,Broome,Binghamton,Source1,4,42.162506,-75.877402,2022,16,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-3906038,NY,Broome,Windsor,Source1,4,41.998888,-75.602802,2022,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4198225,NY,Broome,Binghamton,Source1,4,42.216459,-75.912696,2023,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4326232,NY,Broome,Binghamton,Source1,4,42.16279149035376,-75.86451172792499,2022,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4447908,NY,Broome,Binghamton,Source1,4,42.230207,-75.914075,2023,3,Monday,Cloudy,False,False,False,False,False,False,False
+A-4449993,NY,Broome,Binghamton,Source1,4,42.14553952197005,-75.89240670167973,2022,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4551223,NY,Broome,Maine,Source1,4,42.213367223538334,-76.03799700700742,2022,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4567013,NY,Broome,Port Crane,Source1,4,42.16601014117162,-75.82773327791294,2021,22,Thursday,Fog / Low visibility,False,False,True,False,False,False,False
+A-4740378,NY,Broome,Binghamton,Source1,4,42.103983,-75.850484,2022,0,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4777039,NY,Broome,Binghamton,Source1,4,42.163601,-75.87464399999998,2022,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4808976,NY,Broome,Binghamton,Source1,4,42.162506,-75.877402,2022,16,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-5191052,NY,Broome,Binghamton,Source1,4,42.11517692,-75.89298606,2022,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5306100,NY,Broome,Binghamton,Source1,4,42.11517692,-75.89298606,2022,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5385349,NY,Broome,Glen Aubrey,Source1,4,42.22499728182685,-76.02080941164006,2022,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5463884,NY,Broome,Binghamton,Source1,4,42.211821,-75.91065400000002,2023,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5486358,NY,Broome,Kirkwood,Source1,4,42.097644,-75.818074,2021,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5563483,NY,Broome,Vestal,Source1,4,42.093308,-75.952648,2021,5,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5670933,NY,Broome,Kirkwood,Source1,4,42.040179,-75.79105,2021,22,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-5791020,NY,Broome,Endicott,Source1,4,42.12347800000001,-76.067814,2021,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5825480,NY,Broome,Endicott,Source1,4,42.091725,-76.090405,2021,0,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-5929088,NY,Broome,Vestal,Source1,4,42.09532100000001,-76.00422900000002,2021,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-5962000,NY,Broome,Kirkwood,Source1,4,42.066875,-75.80354200000002,2021,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6010773,NY,Broome,Vestal,Source1,4,42.087075,-76.04942,2021,15,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-6019680,NY,Broome,Johnson City,Source1,4,42.117375,-75.97912,2021,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6019681,NY,Broome,Johnson City,Source1,4,42.117375,-75.97912,2021,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6036978,NY,Broome,Johnson City,Source1,4,42.105046,-75.96479699999998,2021,0,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6037378,NY,Broome,Conklin,Source1,4,42.086422,-75.830124,2021,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6040660,NY,Broome,Chenango Forks,Source1,4,42.263651,-75.878158,2021,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6070291,NY,Broome,Endicott,Source1,4,42.091618,-76.092065,2021,0,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-6272719,NY,Broome,Johnson City,Source1,4,42.102434,-75.961704,2021,0,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6447105,NY,Broome,Binghamton,Source1,4,42.161825,-75.89341999999998,2021,18,Tuesday,Snow / Ice,True,False,False,False,False,False,False
+A-6453054,NY,Broome,Whitney Point,Source1,4,42.292057,-75.92178299999998,2021,11,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-6516565,NY,Broome,Whitney Point,Source1,4,42.298989,-75.92841999999997,2021,11,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-6573750,NY,Broome,Binghamton,Source1,4,42.161762,-75.893473,2021,18,Tuesday,Snow / Ice,True,False,False,False,False,False,False
+A-6686679,NY,Broome,Windsor,Source1,4,42.049982,-75.50209,2020,20,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6710527,NY,Broome,Conklin,Source1,4,42.012136,-75.783746,2020,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6740162,NY,Broome,Vestal,Source1,4,42.068532,-76.102478,2020,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6755107,NY,Broome,Conklin,Source1,4,42.010309,-75.78030799999998,2020,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6778532,NY,Broome,Endicott,Source1,4,42.109061,-76.011797,2020,2,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-6983094,NY,Broome,Vestal,Source1,3,42.09545,-76.00433000000002,2020,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6983095,NY,Broome,Vestal,Source1,3,42.09535,-76.00426999999998,2020,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6983115,NY,Broome,Vestal,Source1,3,42.09545,-76.00433000000002,2020,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6983117,NY,Broome,Vestal,Source1,3,42.09535,-76.00426999999998,2020,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6988108,NY,Broome,Binghamton,Source1,4,42.11137,-75.91053000000002,2020,15,Friday,Rain,True,True,False,False,False,False,False
+A-6988109,NY,Broome,Binghamton,Source1,4,42.10448,-75.91581,2020,15,Friday,Rain,False,False,False,False,False,False,False
+A-6993230,NY,Broome,Binghamton,Source1,3,42.09873,-75.91459,2020,16,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-6993231,NY,Broome,Binghamton,Source1,3,42.0987,-75.91254,2020,16,Monday,Clear / Fair,True,False,False,False,False,True,False
+A-6993241,NY,Broome,Binghamton,Source1,3,42.09873,-75.91459,2020,16,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-6993242,NY,Broome,Binghamton,Source1,3,42.0987,-75.91254,2020,16,Monday,Clear / Fair,True,False,False,False,False,True,False
+A-7013547,NY,Broome,Castle Creek,Source1,3,42.23062,-75.91417,2020,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7013551,NY,Broome,Castle Creek,Source1,4,42.23062,-75.91417,2020,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7013555,NY,Broome,Castle Creek,Source1,4,42.23062,-75.91417,2020,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7021247,NY,Broome,Johnson City,Source1,3,42.11316,-75.95007,2020,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-7021248,NY,Broome,Johnson City,Source1,3,42.11316,-75.95007,2020,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-7021268,NY,Broome,Johnson City,Source1,3,42.11316,-75.95007,2020,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-7021269,NY,Broome,Johnson City,Source1,3,42.11316,-75.95007,2020,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-7021288,NY,Broome,Johnson City,Source1,3,42.11316,-75.95007,2020,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-7021289,NY,Broome,Johnson City,Source1,3,42.11316,-75.95007,2020,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-7023711,NY,Broome,Binghamton,Source1,3,42.09154,-75.94598,2020,15,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-7023717,NY,Broome,Binghamton,Source1,3,42.09154,-75.94598,2020,15,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-7030067,NY,Broome,Port Crane,Source1,3,42.18707,-75.70881999999997,2020,17,Friday,Storm,False,False,True,False,False,False,False
+A-7030078,NY,Broome,Whitney Point,Source1,3,42.29734000000001,-75.9285,2020,19,Friday,Rain,False,False,False,False,False,False,False
+A-7048826,NY,Broome,Lisle,Source1,3,42.25621,-76.01131,2020,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-7048827,NY,Broome,Lisle,Source1,3,42.25621,-76.01131,2020,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-7056912,NY,Broome,Windsor,Source1,3,42.05444,-75.61434,2020,15,Thursday,Rain,False,False,False,False,False,False,False
+A-7074380,NY,Broome,Vestal,Source1,3,42.09545,-76.00433000000002,2020,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7074415,NY,Broome,Endicott,Source1,3,42.10034,-76.04433,2020,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7074416,NY,Broome,Endicott,Source1,3,42.09514,-76.06531,2020,17,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-7074428,NY,Broome,Endicott,Source1,3,42.10034,-76.04433,2020,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7074430,NY,Broome,Endicott,Source1,3,42.09514,-76.06531,2020,17,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-7093436,NY,Broome,Binghamton,Source1,3,42.12427,-75.90536,2020,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7093482,NY,Broome,Endicott,Source1,4,42.19136,-76.06148,2020,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7093483,NY,Broome,Endicott,Source1,4,42.14879000000001,-76.06747,2020,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7119846,NY,Broome,Endicott,Source1,3,42.10592000000001,-76.06683000000002,2020,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7119847,NY,Broome,Endicott,Source1,3,42.10592000000001,-76.06683000000002,2020,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7137792,NY,Broome,Whitney Point,Source1,3,42.39611,-75.95761,2020,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7137793,NY,Broome,Whitney Point,Source1,3,42.39611,-75.95761,2020,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7137794,NY,Broome,Whitney Point,Source1,3,42.39611,-75.95761,2020,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7137795,NY,Broome,Whitney Point,Source1,3,42.39611,-75.95761,2020,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7150394,NY,Broome,Whitney Point,Source1,3,42.28645,-76.00703,2020,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7150395,NY,Broome,Whitney Point,Source1,3,42.27598,-76.00312,2020,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7150396,NY,Broome,Whitney Point,Source1,3,42.27598,-76.00312,2020,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7150397,NY,Broome,Whitney Point,Source1,3,42.28645,-76.00703,2020,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7152392,NY,Broome,Whitney Point,Source1,3,42.28674,-75.89175,2020,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-7152393,NY,Broome,Whitney Point,Source1,3,42.28674,-75.89175,2020,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-7152423,NY,Broome,Whitney Point,Source1,3,42.28674,-75.89175,2020,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-7152424,NY,Broome,Whitney Point,Source1,3,42.28674,-75.89175,2020,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-7175367,NY,Broome,Binghamton,Source1,3,42.1071,-75.93724,2020,16,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-7175368,NY,Broome,Binghamton,Source1,3,42.1071,-75.93724,2020,16,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-7246525,NY,Broome,Endicott,Source1,4,42.1811,-76.06489,2020,23,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7287379,NY,Broome,Binghamton,Source1,3,42.15944,-75.8975,2019,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7317555,NY,Broome,Johnson City,Source1,4,42.11646,-75.96818,2019,14,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-7394572,NY,Broome,Binghamton,Source1,4,42.16393,-75.86938,2019,7,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7394573,NY,Broome,Binghamton,Source1,4,42.14091,-75.901136,2019,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7394590,NY,Broome,Port Crane,Source1,4,42.18707,-75.70881999999997,2019,17,Monday,Rain,False,False,True,False,False,False,False
+A-7394591,NY,Broome,Harpursville,Source1,4,42.1874,-75.64191,2019,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-7394592,NY,Broome,Harpursville,Source1,4,42.1874,-75.64191,2019,17,Monday,Rain,False,False,False,False,False,False,False
+A-7394593,NY,Broome,Binghamton,Source1,4,42.1393,-75.90196,2019,17,Monday,Rain,False,False,True,False,False,False,False
+A-7394594,NY,Broome,Harpursville,Source1,4,42.18625,-75.7037,2019,17,Monday,Rain,False,False,False,False,False,False,False
+A-7394600,NY,Broome,Binghamton,Source1,4,42.16287,-75.8767,2019,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-7414628,NY,Broome,Binghamton,Source1,4,42.09518,-75.911913,2019,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7414629,NY,Broome,Binghamton,Source1,4,42.0987,-75.91254,2019,15,Wednesday,Clear / Fair,True,False,False,False,False,True,False
+A-7414630,NY,Broome,Binghamton,Source1,4,42.0987,-75.91254,2019,15,Wednesday,Clear / Fair,True,False,False,False,False,True,False
+A-7414631,NY,Broome,Binghamton,Source1,4,42.0987,-75.91254,2019,15,Wednesday,Clear / Fair,True,False,False,False,False,True,False
+A-7438218,NY,Broome,Johnson City,Source1,4,42.11765,-75.99047,2019,3,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7438220,NY,Broome,Vestal,Source1,3,42.09252,-76.03814,2019,3,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7448948,NY,Broome,Windsor,Source1,3,42.08615,-75.6994,2019,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-7461757,NY,Broome,Endicott,Source1,4,42.192646,-76.061111,2019,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7461758,NY,Broome,Endicott,Source1,4,42.18002,-76.065676,2019,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7479761,NY,Broome,Johnson City,Source1,3,42.11983,-75.94682,2018,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-7498877,NY,Broome,Windsor,Source1,3,42.08596,-75.69353000000002,2018,14,Friday,Snow / Ice,False,False,True,False,False,False,False
+A-7508060,NY,Broome,Binghamton,Source1,4,42.103306,-75.848327,2018,23,Saturday,Rain,False,False,False,False,False,False,False
+A-7508061,NY,Broome,Binghamton,Source1,4,42.103888,-75.871716,2018,23,Saturday,Rain,False,True,False,True,False,False,False
+A-7512466,NY,Broome,Windsor,Source1,3,42.05434,-75.61381,2018,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7563390,NY,Broome,Binghamton,Source1,3,42.11917,-75.94323,2018,1,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7570281,NY,Broome,Binghamton,Source1,4,42.11134000000001,-75.91386999999997,2018,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7571996,NY,Broome,Glen Aubrey,Source1,4,42.236868,-76.014261,2018,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7580210,NY,Broome,Johnson City,Source1,4,42.12318,-75.97116,2018,21,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7583178,NY,Broome,Endicott,Source1,3,42.190336,-76.061802,2018,3,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7583179,NY,Broome,Endicott,Source1,3,42.194896,-76.060441,2018,3,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7584169,NY,Broome,Windsor,Source1,4,42.09335,-75.75475,2018,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7601259,NY,Broome,Castle Creek,Source1,4,42.234386,-75.91494300000002,2018,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-7633861,NY,Broome,Binghamton,Source1,3,42.11516,-75.89484,2018,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7642669,NY,Broome,Johnson City,Source1,3,42.12029,-75.97468,2017,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-7643279,NY,Broome,Binghamton,Source1,3,42.11267,-75.92056,2017,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-7649195,NY,Broome,Vestal,Source1,4,42.09244,-76.038717,2017,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-7665734,NY,Broome,Lisle,Source1,4,42.356407,-76.043297,2017,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7665735,NY,Broome,Lisle,Source1,4,42.357231,-76.045562,2017,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7667564,NY,Broome,Johnson City,Source1,3,42.11751,-75.99041,2017,16,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7687933,NY,Broome,Harpursville,Source1,4,42.18715,-75.64201,2017,4,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7692004,NY,Broome,Harpursville,Source1,4,42.18534,-75.69648000000002,2017,23,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7711427,NY,Broome,Johnson City,Source1,3,42.11646,-75.96818,2019,15,Friday,Rain,False,False,False,False,False,False,False
+A-7717231,NY,Broome,Binghamton,Source1,3,42.11276,-75.92098,2019,19,Friday,Rain,False,False,False,False,False,False,False
+A-7727229,NY,Broome,Endicott,Source1,4,42.18002,-76.065676,2019,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-7727230,NY,Broome,Endicott,Source1,4,42.192646,-76.061111,2019,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-7732590,NY,Broome,Binghamton,Source1,4,42.104204,-75.888223,2019,4,Monday,Clear / Fair,True,True,False,False,False,False,False
+A-7733781,NY,Broome,Johnson City,Source1,3,42.119674,-75.950004,2019,17,Wednesday,Rain,False,False,True,False,False,False,False
+A-7733782,NY,Broome,Binghamton,Source1,3,42.11917,-75.94323,2019,17,Wednesday,Rain,False,False,False,False,False,False,False
+A-7749739,NY,Broome,Endicott,Source1,3,42.09491,-76.060591,2019,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7749740,NY,Broome,Endicott,Source1,3,42.0951,-76.06455,2019,20,Thursday,Clear / Fair,False,False,False,False,False,True,False
+A-7768505,NY,Broome,Johnson City,Source1,4,42.11765,-75.99047,2019,22,Sunday,Clear / Fair,False,False,True,False,False,False,False

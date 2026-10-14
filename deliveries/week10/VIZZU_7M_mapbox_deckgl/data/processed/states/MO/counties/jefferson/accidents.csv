@@ -1,0 +1,623 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-167585,MO,Jefferson,Arnold,Source2,3,38.41555,-90.388817,2016,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-167643,MO,Jefferson,Arnold,Source2,3,38.442059,-90.379898,2016,7,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-167800,MO,Jefferson,Arnold,Source2,3,38.41555,-90.388817,2016,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-168620,MO,Jefferson,Arnold,Source2,3,38.442059,-90.379898,2016,6,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-171845,MO,Jefferson,Arnold,Source2,3,38.442059,-90.379898,2016,13,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-173155,MO,Jefferson,Arnold,Source2,3,38.442059,-90.379898,2016,8,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-173920,MO,Jefferson,Arnold,Source2,3,38.41555,-90.388817,2016,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-175208,MO,Jefferson,Arnold,Source2,3,38.41555,-90.388817,2016,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-176932,MO,Jefferson,Arnold,Source2,3,38.41555,-90.388817,2016,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-178339,MO,Jefferson,Arnold,Source2,3,38.440647,-90.381783,2016,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-324419,MO,Jefferson,Arnold,Source2,3,38.442059,-90.379898,2017,5,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-365167,MO,Jefferson,Arnold,Source2,3,38.41555,-90.388817,2017,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-417697,MO,Jefferson,Arnold,Source2,3,38.41555,-90.388817,2017,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-471243,MO,Jefferson,Arnold,Source2,3,38.442059,-90.379898,2017,4,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-501836,MO,Jefferson,Arnold,Source2,3,38.41555,-90.388817,2017,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-517456,MO,Jefferson,Imperial,Source2,3,38.368904,-90.383255,2022,9,Saturday,Rain,False,False,False,False,False,False,False
+A-522372,MO,Jefferson,Herculaneum,Source2,3,38.255219,-90.402626,2022,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-526348,MO,Jefferson,Festus,Source2,3,38.19733,-90.40007,2022,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-534920,MO,Jefferson,Herculaneum,Source2,3,38.255219,-90.402626,2022,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-534998,MO,Jefferson,Arnold,Source2,3,38.416561,-90.388458,2022,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-537375,MO,Jefferson,Festus,Source2,3,38.157719,-90.35791,2022,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-543168,MO,Jefferson,Fenton,Source2,3,38.469952,-90.431557,2022,10,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-544968,MO,Jefferson,Festus,Source2,3,38.19733,-90.40007,2022,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-569805,MO,Jefferson,Arnold,Source2,3,38.416561,-90.388458,2022,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-570908,MO,Jefferson,Pevely,Source2,4,38.287655,-90.403503,2022,11,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-574802,MO,Jefferson,Imperial,Source2,3,38.369682,-90.38282,2022,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-581956,MO,Jefferson,Imperial,Source2,3,38.369682,-90.38282,2022,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-582402,MO,Jefferson,Festus,Source2,3,38.213177,-90.405556,2022,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-590497,MO,Jefferson,Barnhart,Source2,3,38.347977,-90.395912,2022,8,Friday,Rain,False,False,False,False,False,False,False
+A-590594,MO,Jefferson,Barnhart,Source2,3,38.347977,-90.395912,2022,8,Friday,Rain,False,False,False,False,False,False,False
+A-592278,MO,Jefferson,Herculaneum,Source2,3,38.255219,-90.402626,2022,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-605052,MO,Jefferson,Imperial,Source2,3,38.369682,-90.38282,2022,7,Wednesday,Storm,False,False,False,False,False,False,False
+A-614788,MO,Jefferson,Festus,Source2,3,38.213177,-90.405556,2022,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-618825,MO,Jefferson,Festus,Source2,3,38.157719,-90.35791,2022,6,Wednesday,Rain,False,False,False,False,False,False,False
+A-618942,MO,Jefferson,Barnhart,Source2,3,38.346771,-90.395149,2022,7,Wednesday,Rain,False,False,False,False,False,False,False
+A-619102,MO,Jefferson,Pevely,Source2,3,38.287655,-90.403503,2022,4,Wednesday,Rain,False,False,False,False,False,False,False
+A-626288,MO,Jefferson,Barnhart,Source2,3,38.347977,-90.395912,2022,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-635259,MO,Jefferson,Festus,Source2,3,38.19733,-90.40007,2022,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-665205,MO,Jefferson,Arnold,Source2,3,38.44215,-90.380028,2022,15,Thursday,Rain,True,False,False,False,False,False,False
+A-665995,MO,Jefferson,Herculaneum,Source2,3,38.256748,-90.402679,2022,7,Thursday,Rain,False,False,False,False,False,False,False
+A-667328,MO,Jefferson,Arnold,Source2,3,38.44215,-90.380028,2022,5,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-671535,MO,Jefferson,Arnold,Source3,3,38.416561,-90.388458,2022,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-672730,MO,Jefferson,Imperial,Source2,3,38.369682,-90.38282,2022,6,Friday,Rain,False,False,False,False,False,False,False
+A-697505,MO,Jefferson,Barnhart,Source2,3,38.347977,-90.395912,2022,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-697964,MO,Jefferson,Barnhart,Source2,3,38.347977,-90.395912,2022,13,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-699783,MO,Jefferson,Imperial,Source2,3,38.369682,-90.38282,2022,15,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-718961,MO,Jefferson,Arnold,Source2,3,38.416561,-90.388458,2022,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-723232,MO,Jefferson,Arnold,Source2,3,38.445538,-90.379097,2022,16,Thursday,Snow / Ice,False,False,True,False,False,False,False
+A-724483,MO,Jefferson,Festus,Source2,3,38.19733,-90.40007,2022,21,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-724919,MO,Jefferson,Herculaneum,Source2,3,38.262508,-90.402351,2022,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-729607,MO,Jefferson,Arnold,Source2,3,38.41415,-90.389343,2022,9,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-731049,MO,Jefferson,Pevely,Source2,3,38.287655,-90.403503,2022,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-742733,MO,Jefferson,Festus,Source2,3,38.213177,-90.405556,2022,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-743176,MO,Jefferson,Herculaneum,Source2,3,38.255219,-90.402626,2022,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-754924,MO,Jefferson,Pevely,Source2,3,38.287655,-90.403503,2022,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-756079,MO,Jefferson,Arnold,Source2,3,38.44215,-90.380028,2022,21,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-763138,MO,Jefferson,Barnhart,Source2,3,38.347977,-90.395912,2021,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-768289,MO,Jefferson,Festus,Source2,3,38.19733,-90.40007,2021,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-768405,MO,Jefferson,Imperial,Source2,3,38.369682,-90.38282,2021,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-776848,MO,Jefferson,Pevely,Source2,3,38.308144,-90.402382,2021,7,Thursday,Rain,False,False,False,False,False,False,False
+A-787244,MO,Jefferson,Festus,Source2,3,38.22757,-90.404701,2021,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-790925,MO,Jefferson,Pevely,Source2,3,38.287655,-90.403503,2021,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-796578,MO,Jefferson,Herculaneum,Source2,3,38.255219,-90.402626,2021,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-798581,MO,Jefferson,Fenton,Source2,3,38.495884,-90.444321,2021,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-806564,MO,Jefferson,Imperial,Source2,3,38.369682,-90.38282,2021,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-830858,MO,Jefferson,Herculaneum,Source2,3,38.255219,-90.402626,2021,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-833338,MO,Jefferson,Barnhart,Source2,3,38.349823,-90.395012,2021,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-854102,MO,Jefferson,Herculaneum,Source2,3,38.252537,-90.402473,2021,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-854425,MO,Jefferson,Festus,Source2,3,38.213177,-90.405556,2021,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-857191,MO,Jefferson,Herculaneum,Source2,3,38.255219,-90.402626,2021,16,Thursday,Storm,False,False,False,False,False,False,False
+A-870121,MO,Jefferson,Barnhart,Source2,3,38.347977,-90.395912,2021,6,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-872304,MO,Jefferson,Pevely,Source2,3,38.287655,-90.403503,2021,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-872305,MO,Jefferson,Barnhart,Source2,3,38.347977,-90.395912,2021,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-873932,MO,Jefferson,Imperial,Source2,3,38.369682,-90.38282,2021,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-880006,MO,Jefferson,Imperial,Source2,3,38.369682,-90.38282,2021,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-880177,MO,Jefferson,Imperial,Source2,3,38.369682,-90.38282,2021,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-881971,MO,Jefferson,Imperial,Source2,3,38.366753,-90.384872,2021,16,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-884117,MO,Jefferson,Herculaneum,Source2,3,38.255219,-90.402626,2021,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-884954,MO,Jefferson,Barnhart,Source2,3,38.347977,-90.395912,2021,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-890702,MO,Jefferson,Barnhart,Source2,3,38.32085,-90.401428,2021,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-892615,MO,Jefferson,Pevely,Source2,3,38.267105,-90.402916,2021,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-894542,MO,Jefferson,Festus,Source2,3,38.213177,-90.405556,2021,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-900210,MO,Jefferson,Festus,Source2,3,38.19733,-90.40007,2021,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-900615,MO,Jefferson,Arnold,Source2,3,38.416561,-90.388458,2021,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-901898,MO,Jefferson,Festus,Source2,3,38.213177,-90.405556,2021,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-914002,MO,Jefferson,Imperial,Source2,3,38.369682,-90.38282,2021,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-916973,MO,Jefferson,Imperial,Source2,3,38.360348,-90.38884,2021,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-921572,MO,Jefferson,Pevely,Source2,3,38.267948,-90.403343,2021,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-938086,MO,Jefferson,Imperial,Source2,3,38.369682,-90.38282,2021,20,Thursday,Storm,False,False,False,False,False,False,False
+A-941472,MO,Jefferson,Festus,Source2,3,38.19622,-90.398956,2021,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-941949,MO,Jefferson,Pevely,Source2,3,38.285393,-90.403069,2021,15,Tuesday,Storm,False,False,False,False,False,False,False
+A-943192,MO,Jefferson,Imperial,Source2,3,38.369682,-90.38282,2021,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-955195,MO,Jefferson,Arnold,Source2,3,38.416561,-90.388458,2021,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-980316,MO,Jefferson,Festus,Source2,3,38.213177,-90.405556,2021,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-983027,MO,Jefferson,Herculaneum,Source2,3,38.25494000000001,-90.402443,2021,7,Thursday,Rain,False,False,False,False,False,False,False
+A-987606,MO,Jefferson,Herculaneum,Source2,3,38.255219,-90.402626,2021,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-990233,MO,Jefferson,Herculaneum,Source2,3,38.255219,-90.402626,2021,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-998803,MO,Jefferson,Festus,Source2,3,38.172619,-90.374825,2021,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1003987,MO,Jefferson,Arnold,Source2,3,38.444031,-90.379288,2021,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1003991,MO,Jefferson,Herculaneum,Source2,3,38.255219,-90.402626,2021,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1006673,MO,Jefferson,Pevely,Source2,3,38.287655,-90.403503,2021,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1008284,MO,Jefferson,Arnold,Source2,3,38.416561,-90.388458,2021,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1013279,MO,Jefferson,Festus,Source2,3,38.213177,-90.405556,2021,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1019300,MO,Jefferson,Herculaneum,Source2,4,38.255219,-90.402626,2021,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1020958,MO,Jefferson,Arnold,Source2,3,38.448586,-90.377838,2021,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1026484,MO,Jefferson,Festus,Source2,3,38.194019,-90.397133,2021,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-1034190,MO,Jefferson,Imperial,Source2,3,38.369682,-90.38282,2021,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1042555,MO,Jefferson,Arnold,Source2,3,38.44215,-90.380028,2021,20,Monday,Rain,True,False,False,False,False,False,False
+A-1043562,MO,Jefferson,Herculaneum,Source2,3,38.255219,-90.402626,2021,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1043565,MO,Jefferson,Herculaneum,Source2,3,38.255219,-90.402626,2021,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1044107,MO,Jefferson,Pevely,Source2,3,38.287655,-90.403503,2021,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1046910,MO,Jefferson,Festus,Source2,3,38.174061,-90.446648,2021,18,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-1061369,MO,Jefferson,Pevely,Source2,3,38.287655,-90.403503,2021,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-1071523,MO,Jefferson,Imperial,Source2,3,38.369682,-90.38282,2021,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-1074638,MO,Jefferson,Festus,Source2,3,38.19733,-90.40007,2021,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1074641,MO,Jefferson,Arnold,Source2,3,38.445435,-90.379128,2021,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1097033,MO,Jefferson,Herculaneum,Source2,3,38.255219,-90.402626,2021,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1099114,MO,Jefferson,Arnold,Source2,3,38.423885,-90.385719,2021,6,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-1099117,MO,Jefferson,Arnold,Source2,3,38.416561,-90.388458,2021,8,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-1106375,MO,Jefferson,Herculaneum,Source2,3,38.255219,-90.402626,2021,18,Thursday,Rain,False,False,False,False,False,False,False
+A-1107984,MO,Jefferson,Herculaneum,Source2,3,38.2635,-90.402664,2021,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1116425,MO,Jefferson,Festus,Source2,3,38.23243,-90.403519,2021,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1117841,MO,Jefferson,Herculaneum,Source2,4,38.255219,-90.402626,2021,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1117843,MO,Jefferson,Pevely,Source2,3,38.287655,-90.403503,2021,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1119188,MO,Jefferson,Imperial,Source2,3,38.369682,-90.38282,2021,19,Monday,Rain,False,False,False,False,False,False,False
+A-1126192,MO,Jefferson,Barnhart,Source2,3,38.347977,-90.395912,2021,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1132716,MO,Jefferson,Festus,Source2,3,38.236229,-90.403374,2021,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1143613,MO,Jefferson,Pevely,Source2,3,38.308262,-90.402367,2021,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-1150939,MO,Jefferson,Arnold,Source2,3,38.422577,-90.3862,2021,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1150944,MO,Jefferson,Arnold,Source2,3,38.44215,-90.380028,2021,11,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-1159255,MO,Jefferson,Festus,Source2,3,38.225769,-90.405075,2021,6,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1159272,MO,Jefferson,Arnold,Source2,3,38.432266,-90.38324,2021,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1160934,MO,Jefferson,Arnold,Source2,3,38.432575,-90.382874,2021,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1165560,MO,Jefferson,Herculaneum,Source2,3,38.255219,-90.402626,2021,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1168821,MO,Jefferson,Arnold,Source2,3,38.416561,-90.388458,2021,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1178159,MO,Jefferson,Arnold,Source2,3,38.422661,-90.386169,2021,11,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1178163,MO,Jefferson,Barnhart,Source2,3,38.347977,-90.395912,2021,12,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1179862,MO,Jefferson,Pevely,Source2,3,38.287041,-90.402908,2021,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1179864,MO,Jefferson,Imperial,Source2,3,38.369682,-90.38282,2021,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1181463,MO,Jefferson,Arnold,Source2,3,38.412334,-90.389122,2021,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-1182565,MO,Jefferson,Festus,Source2,3,38.220001,-90.406357,2021,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1187376,MO,Jefferson,Festus,Source2,3,38.187672,-90.39164,2021,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1187383,MO,Jefferson,Arnold,Source2,3,38.44215,-90.380028,2021,16,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-1191196,MO,Jefferson,Barnhart,Source2,3,38.325539,-90.401009,2021,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1197039,MO,Jefferson,Arnold,Source2,3,38.44215,-90.380028,2021,17,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-1203257,MO,Jefferson,Arnold,Source2,3,38.439098,-90.387375,2021,6,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-1206043,MO,Jefferson,Herculaneum,Source2,4,38.255219,-90.402626,2021,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-1211703,MO,Jefferson,Barnhart,Source2,3,38.324112,-90.400894,2020,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1212988,MO,Jefferson,Arnold,Source2,3,38.416561,-90.388458,2020,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1212989,MO,Jefferson,Arnold,Source2,3,38.416561,-90.388458,2020,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1217350,MO,Jefferson,Herculaneum,Source2,3,38.255219,-90.402626,2020,16,Wednesday,Rain,False,False,False,False,False,False,False
+A-1218980,MO,Jefferson,Arnold,Source2,3,38.416561,-90.388458,2020,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1256506,MO,Jefferson,Pevely,Source2,3,38.287655,-90.403503,2020,15,Saturday,Rain,False,False,False,False,False,False,False
+A-1266182,MO,Jefferson,Pevely,Source2,4,38.286293,-90.402969,2020,13,Saturday,Rain,False,False,False,False,False,False,False
+A-1267416,MO,Jefferson,Pevely,Source2,3,38.287655,-90.403503,2020,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1269463,MO,Jefferson,Herculaneum,Source2,3,38.263542,-90.402405,2020,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1295178,MO,Jefferson,Herculaneum,Source2,3,38.255219,-90.402626,2020,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1299467,MO,Jefferson,Barnhart,Source2,3,38.347977,-90.395912,2020,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1300988,MO,Jefferson,Barnhart,Source2,3,38.347977,-90.395912,2020,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1305597,MO,Jefferson,Imperial,Source2,3,38.369682,-90.38282,2020,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1306188,MO,Jefferson,Festus,Source2,3,38.213177,-90.405556,2020,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1316919,MO,Jefferson,Herculaneum,Source2,4,38.255219,-90.402626,2020,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1321989,MO,Jefferson,Imperial,Source2,3,38.369682,-90.38282,2020,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1325389,MO,Jefferson,Pevely,Source2,3,38.287655,-90.403503,2020,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1347056,MO,Jefferson,Pevely,Source2,3,38.287655,-90.403503,2020,14,Monday,Rain,False,False,False,False,False,False,False
+A-1352662,MO,Jefferson,Imperial,Source2,3,38.369682,-90.38282,2020,6,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1354637,MO,Jefferson,Arnold,Source2,3,38.443405,-90.379486,2020,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1354640,MO,Jefferson,Pevely,Source2,4,38.287655,-90.403503,2020,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-1357845,MO,Jefferson,Imperial,Source2,3,38.369682,-90.38282,2020,15,Monday,Rain,False,False,False,False,False,False,False
+A-1363887,MO,Jefferson,Pevely,Source2,3,38.287655,-90.403503,2020,13,Thursday,Rain,False,False,False,False,False,False,False
+A-1382764,MO,Jefferson,Arnold,Source2,3,38.416561,-90.388458,2020,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1387246,MO,Jefferson,Barnhart,Source2,3,38.347977,-90.395912,2020,17,Wednesday,Storm,False,False,False,False,False,False,False
+A-1390147,MO,Jefferson,Festus,Source2,3,38.19733,-90.40007,2020,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1396931,MO,Jefferson,Pevely,Source2,3,38.287655,-90.403503,2020,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1405391,MO,Jefferson,Herculaneum,Source2,3,38.255219,-90.402626,2020,6,Thursday,Rain,False,False,False,False,False,False,False
+A-1409668,MO,Jefferson,Arnold,Source2,3,38.416561,-90.388458,2020,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-1409669,MO,Jefferson,Arnold,Source2,3,38.416561,-90.388458,2020,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-1414021,MO,Jefferson,Arnold,Source2,3,38.416561,-90.388458,2020,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1414022,MO,Jefferson,Imperial,Source2,3,38.369682,-90.38282,2020,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1422223,MO,Jefferson,Fenton,Source2,3,38.490063,-90.487442,2020,13,Thursday,Cloudy,True,False,False,False,False,False,False
+A-1423884,MO,Jefferson,Arnold,Source2,3,38.416561,-90.388458,2020,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1436748,MO,Jefferson,Barnhart,Source2,3,38.347977,-90.395912,2020,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1436749,MO,Jefferson,Barnhart,Source2,3,38.347977,-90.395912,2020,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1441188,MO,Jefferson,Barnhart,Source2,3,38.347977,-90.395912,2020,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-1443835,MO,Jefferson,Imperial,Source2,3,38.369682,-90.38282,2020,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1445243,MO,Jefferson,Barnhart,Source2,3,38.34581,-90.396843,2020,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1445244,MO,Jefferson,Barnhart,Source2,3,38.347977,-90.395912,2020,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1450990,MO,Jefferson,Arnold,Source2,3,38.44215,-90.380028,2020,18,Thursday,Storm,True,False,False,False,False,False,False
+A-1450993,MO,Jefferson,Imperial,Source2,3,38.369682,-90.38282,2020,19,Thursday,Storm,False,False,False,False,False,False,False
+A-1456791,MO,Jefferson,Pevely,Source2,3,38.287655,-90.403503,2020,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1456792,MO,Jefferson,Barnhart,Source2,3,38.347977,-90.395912,2020,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1462742,MO,Jefferson,Pevely,Source2,3,38.287655,-90.403503,2020,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1463917,MO,Jefferson,Festus,Source2,3,38.213436,-90.405739,2020,7,Friday,Rain,True,False,False,False,False,False,False
+A-1463918,MO,Jefferson,Herculaneum,Source2,3,38.255219,-90.402626,2020,7,Friday,Rain,False,False,False,False,False,False,False
+A-1467039,MO,Jefferson,Arnold,Source2,3,38.44215,-90.380028,2020,22,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-1471732,MO,Jefferson,Imperial,Source2,3,38.369682,-90.38282,2020,18,Saturday,Rain,False,False,False,False,False,False,False
+A-1474477,MO,Jefferson,Festus,Source2,3,38.19733,-90.40007,2020,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1475839,MO,Jefferson,Arnold,Source2,3,38.44215,-90.380028,2020,16,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-1475843,MO,Jefferson,Barnhart,Source2,3,38.350029,-90.393562,2020,21,Wednesday,Rain,False,False,False,False,False,False,False
+A-1480627,MO,Jefferson,Barnhart,Source2,3,38.347977,-90.395912,2020,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1484519,MO,Jefferson,Pevely,Source2,3,38.287655,-90.403503,2020,20,Monday,Rain,False,False,False,False,False,False,False
+A-1494728,MO,Jefferson,Pevely,Source2,3,38.287655,-90.403503,2020,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1496832,MO,Jefferson,Imperial,Source2,3,38.369682,-90.38282,2020,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1497231,MO,Jefferson,Festus,Source2,3,38.213177,-90.405556,2020,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1498241,MO,Jefferson,Imperial,Source2,3,38.369682,-90.38282,2020,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1503863,MO,Jefferson,Festus,Source2,3,38.196972,-90.397263,2020,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-1503870,MO,Jefferson,Pevely,Source2,3,38.287121,-90.402901,2020,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1507604,MO,Jefferson,Festus,Source2,3,38.167488,-90.450851,2020,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1510527,MO,Jefferson,Arnold,Source2,3,38.44215,-90.380028,2020,15,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-1521774,MO,Jefferson,Arnold,Source2,3,38.416561,-90.388458,2020,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1528908,MO,Jefferson,Festus,Source2,3,38.19733,-90.40007,2020,8,Saturday,Rain,False,False,False,False,False,False,False
+A-1528911,MO,Jefferson,Herculaneum,Source2,3,38.255219,-90.402626,2020,9,Saturday,Rain,False,False,False,False,False,False,False
+A-1530507,MO,Jefferson,Festus,Source2,3,38.19733,-90.40007,2020,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-1532065,MO,Jefferson,Barnhart,Source2,3,38.347977,-90.395912,2020,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1533474,MO,Jefferson,Imperial,Source2,3,38.369682,-90.38282,2020,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1534793,MO,Jefferson,Barnhart,Source2,3,38.347977,-90.395912,2020,7,Thursday,Storm,False,False,False,False,False,False,False
+A-1534811,MO,Jefferson,Imperial,Source2,3,38.369682,-90.38282,2020,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1537488,MO,Jefferson,Arnold,Source2,3,38.44215,-90.380028,2020,12,Sunday,Rain,True,False,False,False,False,False,False
+A-1541068,MO,Jefferson,Arnold,Source2,3,38.44215,-90.380028,2020,11,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-1549407,MO,Jefferson,Herculaneum,Source2,3,38.255219,-90.402626,2020,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1554909,MO,Jefferson,Arnold,Source2,3,38.416561,-90.388458,2020,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1556000,MO,Jefferson,Arnold,Source2,3,38.416561,-90.388458,2020,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1558233,MO,Jefferson,Festus,Source2,3,38.216496,-90.40625,2020,7,Friday,Rain,False,False,False,False,False,False,False
+A-1564950,MO,Jefferson,Pevely,Source2,3,38.287655,-90.403503,2020,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1568966,MO,Jefferson,Imperial,Source2,3,38.369682,-90.38282,2020,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1581450,MO,Jefferson,Pevely,Source2,3,38.287655,-90.403503,2020,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1585688,MO,Jefferson,Pevely,Source2,3,38.287655,-90.403503,2020,7,Friday,Rain,False,False,False,False,False,False,False
+A-1585689,MO,Jefferson,Pevely,Source2,3,38.287655,-90.403503,2020,7,Friday,Rain,False,False,False,False,False,False,False
+A-1596082,MO,Jefferson,Herculaneum,Source2,3,38.255219,-90.402626,2020,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1600110,MO,Jefferson,Festus,Source2,3,38.213177,-90.405556,2020,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1622438,MO,Jefferson,Arnold,Source2,3,38.416561,-90.388458,2020,8,Friday,Rain,False,False,False,False,False,False,False
+A-1622443,MO,Jefferson,Pevely,Source2,3,38.286797,-90.403221,2020,22,Friday,Cloudy,False,False,False,False,False,False,False
+A-1624540,MO,Jefferson,Festus,Source2,3,38.19733,-90.40007,2020,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1639637,MO,Jefferson,Pevely,Source2,3,38.287655,-90.403503,2020,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-1646788,MO,Jefferson,Arnold,Source2,3,38.416561,-90.388458,2020,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1662796,MO,Jefferson,Arnold,Source2,3,38.44215,-90.380028,2020,16,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-1669152,MO,Jefferson,Barnhart,Source2,3,38.347977,-90.395912,2020,8,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1674561,MO,Jefferson,Imperial,Source2,3,38.369682,-90.38282,2020,23,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1688840,MO,Jefferson,Herculaneum,Source2,3,38.255219,-90.402626,2019,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-1717270,MO,Jefferson,Imperial,Source2,3,38.369682,-90.38282,2019,14,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1718983,MO,Jefferson,Pevely,Source2,3,38.287655,-90.403503,2019,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-1718986,MO,Jefferson,Arnold,Source2,3,38.416561,-90.388458,2019,10,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1721714,MO,Jefferson,Herculaneum,Source2,3,38.255219,-90.402626,2019,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1721719,MO,Jefferson,Fenton,Source2,3,38.490063,-90.487442,2019,16,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-1726919,MO,Jefferson,Festus,Source2,3,38.213177,-90.405556,2019,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1726933,MO,Jefferson,Arnold,Source2,3,38.447056,-90.378624,2019,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1738127,MO,Jefferson,Festus,Source2,3,38.157719,-90.35791,2019,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1743350,MO,Jefferson,Imperial,Source2,3,38.369682,-90.38282,2019,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1743354,MO,Jefferson,Arnold,Source2,3,38.44215,-90.380028,2019,17,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-1743358,MO,Jefferson,Imperial,Source2,3,38.369682,-90.38282,2019,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1748496,MO,Jefferson,Barnhart,Source2,3,38.347977,-90.395912,2019,7,Friday,Rain,False,False,False,False,False,False,False
+A-1755155,MO,Jefferson,Arnold,Source2,3,38.416531,-90.388168,2019,8,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-1760748,MO,Jefferson,Pevely,Source2,3,38.287655,-90.403503,2019,6,Thursday,Sin dato,False,False,False,False,False,False,False
+A-1767394,MO,Jefferson,Arnold,Source2,3,38.416561,-90.388458,2019,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1782142,MO,Jefferson,Arnold,Source2,3,38.44215,-90.380028,2019,8,Monday,Cloudy,True,False,False,False,False,False,False
+A-1792758,MO,Jefferson,Imperial,Source2,3,38.369682,-90.38282,2019,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1796658,MO,Jefferson,Arnold,Source2,3,38.416561,-90.388458,2019,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-1796659,MO,Jefferson,Festus,Source2,3,38.213177,-90.405556,2019,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-1823672,MO,Jefferson,Festus,Source2,3,38.19733,-90.40007,2019,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1825406,MO,Jefferson,Barnhart,Source2,3,38.337788,-90.398682,2019,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1825408,MO,Jefferson,Pevely,Source2,3,38.287655,-90.403503,2019,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1830268,MO,Jefferson,Pevely,Source2,3,38.287655,-90.403503,2019,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1830280,MO,Jefferson,Imperial,Source2,3,38.369682,-90.38282,2019,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1841436,MO,Jefferson,Imperial,Source2,3,38.369682,-90.38282,2019,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1845834,MO,Jefferson,Festus,Source2,3,38.213177,-90.405556,2019,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1848282,MO,Jefferson,Bloomsdale,Source2,3,38.095425,-90.301399,2019,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1854293,MO,Jefferson,Festus,Source2,4,38.197426,-90.399666,2019,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1861862,MO,Jefferson,Fenton,Source2,3,38.469952,-90.431557,2019,12,Thursday,Cloudy,True,False,False,False,False,False,False
+A-1865843,MO,Jefferson,Festus,Source2,3,38.197426,-90.399666,2019,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1876875,MO,Jefferson,Pevely,Source2,3,38.285542,-90.403679,2019,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1879306,MO,Jefferson,Arnold,Source2,3,38.44215,-90.380028,2019,9,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-1881415,MO,Jefferson,Imperial,Source2,3,38.369682,-90.38282,2019,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1883630,MO,Jefferson,Imperial,Source2,3,38.369682,-90.38282,2019,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1890127,MO,Jefferson,Arnold,Source2,3,38.44215,-90.380028,2019,6,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-1897101,MO,Jefferson,Festus,Source2,3,38.197426,-90.399666,2019,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1903549,MO,Jefferson,Pevely,Source2,3,38.287655,-90.403503,2019,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1913155,MO,Jefferson,Arnold,Source2,3,38.416794,-90.388367,2019,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1914727,MO,Jefferson,Arnold,Source2,3,38.416794,-90.388367,2019,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-1919415,MO,Jefferson,Arnold,Source2,3,38.434593,-90.382515,2019,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1930251,MO,Jefferson,Arnold,Source2,3,38.44215,-90.380028,2019,18,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-1933086,MO,Jefferson,Herculaneum,Source2,3,38.255219,-90.402626,2019,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-1942940,MO,Jefferson,Arnold,Source2,3,38.416794,-90.388367,2019,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1945311,MO,Jefferson,Barnhart,Source2,3,38.347977,-90.395912,2019,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1953962,MO,Jefferson,Herculaneum,Source2,3,38.255219,-90.402626,2019,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1967996,MO,Jefferson,Hillsboro,Source2,3,38.268604,-90.552757,2019,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1970259,MO,Jefferson,Festus,Source2,3,38.213623,-90.405449,2019,16,Tuesday,Storm,True,False,False,False,False,False,False
+A-1970261,MO,Jefferson,Pevely,Source2,3,38.287655,-90.403503,2019,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1980644,MO,Jefferson,Pevely,Source2,3,38.292976,-90.404755,2019,5,Monday,Storm,False,False,False,False,False,False,False
+A-1980650,MO,Jefferson,Pevely,Source2,3,38.287655,-90.403503,2019,7,Monday,Rain,False,False,False,False,False,False,False
+A-1997127,MO,Jefferson,Herculaneum,Source2,3,38.255219,-90.402626,2019,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2007419,MO,Jefferson,Herculaneum,Source2,3,38.255219,-90.402626,2019,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2013070,MO,Jefferson,Arnold,Source2,3,38.416794,-90.388367,2019,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2013071,MO,Jefferson,Arnold,Source2,3,38.416794,-90.388367,2019,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2017877,MO,Jefferson,Arnold,Source2,3,38.416794,-90.388367,2019,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2032643,MO,Jefferson,Pevely,Source2,3,38.287655,-90.403503,2019,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2032656,MO,Jefferson,Imperial,Source2,3,38.369682,-90.38282,2019,19,Tuesday,Storm,False,False,False,False,False,False,False
+A-2039114,MO,Jefferson,Barnhart,Source2,3,38.347977,-90.395912,2019,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-2039115,MO,Jefferson,Imperial,Source2,3,38.369682,-90.38282,2019,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-2039117,MO,Jefferson,Barnhart,Source2,3,38.347977,-90.395912,2019,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2039119,MO,Jefferson,Arnold,Source2,3,38.44215,-90.380028,2019,19,Friday,Cloudy,True,False,False,False,False,False,False
+A-2049820,MO,Jefferson,Festus,Source2,3,38.197426,-90.399666,2019,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2053548,MO,Jefferson,Pevely,Source2,3,38.287655,-90.403503,2019,8,Saturday,Storm,False,False,False,False,False,False,False
+A-2058181,MO,Jefferson,Arnold,Source2,3,38.44215,-90.380028,2019,5,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-2058192,MO,Jefferson,Herculaneum,Source2,4,38.255219,-90.402626,2019,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2058196,MO,Jefferson,Arnold,Source2,3,38.416096,-90.388611,2019,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2066811,MO,Jefferson,Pevely,Source2,3,38.287655,-90.403503,2019,7,Saturday,Rain,False,False,False,False,False,False,False
+A-2071176,MO,Jefferson,Festus,Source2,3,38.197426,-90.399666,2019,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2092730,MO,Jefferson,Imperial,Source2,3,38.369682,-90.38282,2019,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2096706,MO,Jefferson,Pevely,Source2,3,38.287655,-90.403503,2019,9,Saturday,Rain,False,False,False,False,False,False,False
+A-2096716,MO,Jefferson,Festus,Source2,3,38.213177,-90.405556,2019,15,Saturday,Rain,False,False,False,False,False,False,False
+A-2101107,MO,Jefferson,Imperial,Source2,3,38.369682,-90.38282,2019,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2112637,MO,Jefferson,Arnold,Source2,3,38.44215,-90.380028,2019,14,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-2122004,MO,Jefferson,Imperial,Source2,3,38.369682,-90.38282,2019,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2126984,MO,Jefferson,Arnold,Source2,3,38.416794,-90.388367,2019,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2143282,MO,Jefferson,Arnold,Source2,3,38.416569,-90.388481,2019,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2145706,MO,Jefferson,Herculaneum,Source2,3,38.255184,-90.402611,2019,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2145710,MO,Jefferson,Imperial,Source2,3,38.369461,-90.382957,2019,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2148023,MO,Jefferson,Pevely,Source2,3,38.298824,-90.406059,2019,9,Thursday,Rain,False,False,False,False,False,False,False
+A-2148024,MO,Jefferson,Pevely,Source2,3,38.298824,-90.406059,2019,9,Thursday,Rain,False,False,False,False,False,False,False
+A-2152972,MO,Jefferson,Herculaneum,Source2,3,38.255184,-90.402611,2019,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2152973,MO,Jefferson,Festus,Source2,3,38.213223,-90.40554,2019,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2157039,MO,Jefferson,Pevely,Source2,3,38.280506,-90.403572,2019,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2159491,MO,Jefferson,Arnold,Source2,3,38.416569,-90.388481,2019,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2166144,MO,Jefferson,Festus,Source2,3,38.157543,-90.357651,2019,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2166146,MO,Jefferson,Arnold,Source2,3,38.416569,-90.388481,2019,21,Saturday,Rain,False,False,False,False,False,False,False
+A-2168371,MO,Jefferson,Pevely,Source2,3,38.298965,-90.405746,2019,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2172917,MO,Jefferson,Barnhart,Source2,3,38.347614,-90.396774,2019,0,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2177569,MO,Jefferson,Festus,Source2,3,38.213177,-90.405556,2019,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2181087,MO,Jefferson,Arnold,Source2,3,38.44215,-90.380028,2019,0,Monday,Cloudy,True,False,False,False,False,False,False
+A-2183426,MO,Jefferson,Festus,Source2,3,38.240932,-90.402977,2019,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2188028,MO,Jefferson,Festus,Source2,3,38.213177,-90.405556,2019,13,Thursday,Rain,False,False,False,False,False,False,False
+A-2188030,MO,Jefferson,Pevely,Source2,3,38.287655,-90.403503,2019,14,Thursday,Rain,False,False,False,False,False,False,False
+A-2188032,MO,Jefferson,Barnhart,Source2,3,38.347977,-90.395912,2019,14,Thursday,Rain,False,False,False,False,False,False,False
+A-2196533,MO,Jefferson,Imperial,Source2,3,38.369461,-90.382957,2019,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-2204222,MO,Jefferson,Arnold,Source2,3,38.416569,-90.388481,2019,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2209076,MO,Jefferson,Pevely,Source2,3,38.310471,-90.402397,2019,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-2221194,MO,Jefferson,Arnold,Source2,3,38.44213900000001,-90.380096,2019,8,Friday,Cloudy,True,False,False,False,False,False,False
+A-2233975,MO,Jefferson,Barnhart,Source2,3,38.348328,-90.39566,2019,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2239801,MO,Jefferson,Pevely,Source2,3,38.287037,-90.402908,2019,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2239813,MO,Jefferson,Imperial,Source2,3,38.368938,-90.38414,2019,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2242120,MO,Jefferson,Pevely,Source2,3,38.278553,-90.404076,2019,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2244402,MO,Jefferson,Imperial,Source2,3,38.369461,-90.382957,2019,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2250104,MO,Jefferson,Pevely,Source2,3,38.283703,-90.403542,2019,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2252638,MO,Jefferson,Festus,Source2,3,38.197166,-90.399521,2019,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-2262493,MO,Jefferson,Arnold,Source2,3,38.44399600000001,-90.401253,2019,19,Monday,Cloudy,True,False,False,False,False,False,False
+A-2270492,MO,Jefferson,Pevely,Source2,3,38.287281,-90.403481,2019,7,Thursday,Cloudy,True,False,False,False,False,False,False
+A-2275517,MO,Jefferson,Festus,Source2,3,38.197166,-90.399521,2019,6,Sunday,Rain,False,False,False,False,False,False,False
+A-2285571,MO,Jefferson,Arnold,Source2,3,38.416569,-90.388481,2019,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2289834,MO,Jefferson,Arnold,Source2,3,38.416569,-90.388481,2019,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2307424,MO,Jefferson,Arnold,Source2,3,38.44213900000001,-90.380096,2019,18,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-2331461,MO,Jefferson,Arnold,Source2,3,38.44213900000001,-90.380096,2019,16,Friday,Snow / Ice,True,False,False,False,False,False,False
+A-2333020,MO,Jefferson,Bloomsdale,Source2,3,38.095726,-90.301559,2019,8,Saturday,Snow / Ice,False,False,True,False,False,False,False
+A-2347196,MO,Jefferson,Arnold,Source2,3,38.416569,-90.388481,2019,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2348029,MO,Jefferson,Barnhart,Source2,3,38.348328,-90.39566,2019,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2354455,MO,Jefferson,Herculaneum,Source2,3,38.245209,-90.402855,2019,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2369390,MO,Jefferson,Herculaneum,Source2,3,38.255184,-90.402611,2019,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2382682,MO,Jefferson,Pevely,Source2,3,38.28706,-90.402908,2018,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2390691,MO,Jefferson,Festus,Source2,3,38.20225900000001,-90.403473,2018,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2417015,MO,Jefferson,Pevely,Source2,3,38.287281,-90.403481,2018,10,Thursday,Rain,True,False,False,False,False,False,False
+A-2422413,MO,Jefferson,Arnold,Source2,3,38.416569,-90.388481,2018,8,Monday,Rain,False,False,False,False,False,False,False
+A-2422415,MO,Jefferson,Pevely,Source2,3,38.272007,-90.404022,2018,9,Monday,Rain,False,False,False,False,False,False,False
+A-2422422,MO,Jefferson,Festus,Source2,3,38.213223,-90.40554,2018,9,Monday,Rain,False,False,False,False,False,False,False
+A-2428759,MO,Jefferson,Herculaneum,Source2,3,38.255199,-90.402435,2018,17,Friday,Rain,False,False,False,False,False,False,False
+A-2431337,MO,Jefferson,Herculaneum,Source2,3,38.255199,-90.402435,2018,7,Sunday,Rain,False,False,False,False,False,False,False
+A-2431342,MO,Jefferson,Pevely,Source2,3,38.287182,-90.402878,2018,13,Sunday,Rain,False,False,False,False,False,False,False
+A-2453488,MO,Jefferson,Arnold,Source2,3,38.440937,-90.380524,2018,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2459422,MO,Jefferson,Arnold,Source2,3,38.42128,-90.38694,2018,4,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2476004,MO,Jefferson,Barnhart,Source2,3,38.348515,-90.395599,2018,17,Friday,Rain,False,False,False,False,False,False,False
+A-2482460,MO,Jefferson,Festus,Source2,3,38.212238,-90.406128,2018,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2482461,MO,Jefferson,Festus,Source2,3,38.212284,-90.406143,2018,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2485648,MO,Jefferson,Arnold,Source2,3,38.41555,-90.388817,2018,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2487994,MO,Jefferson,Imperial,Source2,3,38.36956,-90.382851,2018,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2489755,MO,Jefferson,Arnold,Source2,3,38.41555,-90.388817,2018,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-2498333,MO,Jefferson,Barnhart,Source2,3,38.330837,-90.40007,2018,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2502879,MO,Jefferson,Arnold,Source2,3,38.41555,-90.388817,2018,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2527460,MO,Jefferson,Herculaneum,Source2,3,38.255199,-90.402435,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2537663,MO,Jefferson,Barnhart,Source2,3,38.347748,-90.395889,2018,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2564667,MO,Jefferson,Arnold,Source2,3,38.442059,-90.379898,2018,11,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-2570001,MO,Jefferson,Arnold,Source2,3,38.445095,-90.378693,2018,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-2570003,MO,Jefferson,Arnold,Source2,3,38.41555,-90.388817,2018,23,Friday,Rain,False,False,False,False,False,False,False
+A-2571733,MO,Jefferson,Arnold,Source2,3,38.41555,-90.388817,2018,8,Saturday,Rain,False,False,False,False,False,False,False
+A-2582061,MO,Jefferson,Imperial,Source2,3,38.36956,-90.382851,2018,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2582066,MO,Jefferson,Barnhart,Source2,3,38.347775,-90.395882,2018,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2593756,MO,Jefferson,Imperial,Source2,3,38.36956,-90.382851,2018,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2601431,MO,Jefferson,Herculaneum,Source2,3,38.256355,-90.402039,2018,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2624823,MO,Jefferson,Barnhart,Source2,3,38.348515,-90.395599,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2638765,MO,Jefferson,Herculaneum,Source2,3,38.255199,-90.402435,2018,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2647597,MO,Jefferson,Barnhart,Source2,3,38.348515,-90.395599,2018,5,Wednesday,Rain,False,False,False,False,False,False,False
+A-2647602,MO,Jefferson,Herculaneum,Source2,3,38.255199,-90.402435,2018,7,Wednesday,Rain,False,False,False,False,False,False,False
+A-2647609,MO,Jefferson,Arnold,Source2,3,38.41555,-90.388817,2018,17,Wednesday,Rain,False,False,False,False,False,False,False
+A-2654373,MO,Jefferson,Imperial,Source2,3,38.36956,-90.382851,2018,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2673095,MO,Jefferson,Imperial,Source2,3,38.36956,-90.382851,2018,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2673096,MO,Jefferson,Festus,Source2,3,38.160027,-90.3591,2018,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2675595,MO,Jefferson,Pevely,Source2,3,38.289555,-90.403481,2018,12,Wednesday,Rain,False,False,False,False,False,False,False
+A-2690235,MO,Jefferson,Barnhart,Source2,3,38.348515,-90.395599,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2702857,MO,Jefferson,Imperial,Source2,3,38.36956,-90.382851,2018,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2715029,MO,Jefferson,Imperial,Source2,3,38.36956,-90.382851,2018,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2715031,MO,Jefferson,Herculaneum,Source2,3,38.255199,-90.402435,2018,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2730422,MO,Jefferson,Barnhart,Source2,3,38.348515,-90.395599,2018,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2730424,MO,Jefferson,Pevely,Source2,3,38.287182,-90.402878,2018,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2736701,MO,Jefferson,Arnold,Source3,3,38.412094,-90.389107,2018,12,Friday,Cloudy,False,False,True,False,False,False,False
+A-2736704,MO,Jefferson,Pevely,Source2,3,38.287182,-90.402878,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2751985,MO,Jefferson,Herculaneum,Source2,3,38.255199,-90.402435,2018,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2761520,MO,Jefferson,Festus,Source2,3,38.197422,-90.400002,2018,19,Thursday,Rain,False,False,False,False,False,False,False
+A-2761521,MO,Jefferson,Festus,Source2,3,38.197422,-90.400002,2018,20,Thursday,Rain,False,False,False,False,False,False,False
+A-2761522,MO,Jefferson,Festus,Source2,3,38.197422,-90.400002,2018,20,Thursday,Rain,False,False,False,False,False,False,False
+A-2765451,MO,Jefferson,Arnold,Source2,3,38.418983,-90.38781,2018,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2770269,MO,Jefferson,Imperial,Source2,3,38.36956,-90.382851,2018,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2783399,MO,Jefferson,Imperial,Source2,3,38.36956,-90.382851,2018,5,Tuesday,Rain,False,False,False,False,False,False,False
+A-2788252,MO,Jefferson,Festus,Source2,3,38.196999,-90.399986,2018,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2803635,MO,Jefferson,Pevely,Source2,3,38.287182,-90.402878,2018,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-2810067,MO,Jefferson,Arnold,Source2,3,38.41555,-90.388817,2018,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2822380,MO,Jefferson,Arnold,Source2,3,38.442059,-90.379898,2018,6,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-2833063,MO,Jefferson,Herculaneum,Source2,3,38.255199,-90.402435,2018,5,Friday,Rain,False,False,False,False,False,False,False
+A-2833066,MO,Jefferson,Herculaneum,Source2,3,38.255199,-90.402435,2018,6,Friday,Rain,False,False,False,False,False,False,False
+A-2833074,MO,Jefferson,Imperial,Source2,3,38.36956,-90.382851,2018,8,Friday,Rain,False,False,False,False,False,False,False
+A-2839792,MO,Jefferson,Arnold,Source2,3,38.41555,-90.388817,2018,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2853324,MO,Jefferson,Arnold,Source2,3,38.41555,-90.388817,2018,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2857452,MO,Jefferson,Festus,Source2,3,38.197422,-90.400002,2018,20,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2887991,MO,Jefferson,Festus,Source2,3,38.174019,-90.446632,2018,6,Monday,Cloudy,True,False,False,False,False,False,False
+A-2900516,MO,Jefferson,Pevely,Source2,3,38.287182,-90.402878,2018,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2903100,MO,Jefferson,Herculaneum,Source2,3,38.255047,-90.398827,2018,7,Monday,Rain,False,False,False,False,False,False,False
+A-2908472,MO,Jefferson,Arnold,Source2,3,38.461826,-90.423836,2018,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2911207,MO,Jefferson,Festus,Source2,3,38.157951,-90.357521,2018,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2913876,MO,Jefferson,Pevely,Source2,3,38.287182,-90.402878,2018,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2913890,MO,Jefferson,Arnold,Source2,3,38.41555,-90.388817,2018,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2923088,MO,Jefferson,Arnold,Source2,3,38.442059,-90.379898,2018,14,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-2926870,MO,Jefferson,Barnhart,Source2,3,38.348515,-90.395599,2018,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2929627,MO,Jefferson,Herculaneum,Source2,3,38.255199,-90.402435,2018,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2935260,MO,Jefferson,Festus,Source2,3,38.197422,-90.400002,2018,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2937626,MO,Jefferson,Arnold,Source2,3,38.41555,-90.388817,2018,13,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-2971585,MO,Jefferson,Herculaneum,Source2,3,38.254807,-90.40274,2018,12,Tuesday,Rain,False,False,False,False,False,False,False
+A-2979009,MO,Jefferson,Festus,Source2,3,38.212315,-90.391724,2018,16,Friday,Clear / Fair,False,False,False,True,False,False,False
+A-2984054,MO,Jefferson,Herculaneum,Source2,3,38.265862,-90.402725,2018,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2999055,MO,Jefferson,Arnold,Source2,3,38.41555,-90.388817,2018,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3002027,MO,Jefferson,Imperial,Source2,3,38.369556,-90.383118,2018,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3006497,MO,Jefferson,Festus,Source2,3,38.213467,-90.405411,2018,7,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-3011381,MO,Jefferson,Imperial,Source2,3,38.367661,-90.384529,2018,7,Wednesday,Rain,False,False,False,False,False,False,False
+A-3019934,MO,Jefferson,Festus,Source2,3,38.197422,-90.400002,2018,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-3032395,MO,Jefferson,Herculaneum,Source2,3,38.255199,-90.402435,2018,15,Saturday,Rain,False,False,False,False,False,False,False
+A-3043381,MO,Jefferson,Herculaneum,Source2,3,38.255199,-90.402435,2018,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3043382,MO,Jefferson,Herculaneum,Source2,3,38.255199,-90.402435,2018,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3060738,MO,Jefferson,Barnhart,Source2,3,38.348515,-90.395599,2018,7,Thursday,Rain,False,False,False,False,False,False,False
+A-3067413,MO,Jefferson,Fenton,Source2,3,38.494644,-90.478745,2018,11,Monday,Cloudy,True,False,False,False,False,False,False
+A-3075872,MO,Jefferson,Herculaneum,Source2,3,38.255199,-90.402435,2018,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3083993,MO,Jefferson,Festus,Source2,3,38.174019,-90.446632,2018,18,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-3113215,MO,Jefferson,Arnold,Source2,3,38.442059,-90.379898,2017,7,Thursday,Cloudy,True,False,False,False,False,False,False
+A-3141749,MO,Jefferson,Arnold,Source2,3,38.41555,-90.388817,2017,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3153685,MO,Jefferson,Barnhart,Source2,3,38.348515,-90.395599,2017,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3176618,MO,Jefferson,Pevely,Source2,3,38.287182,-90.402878,2017,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3176619,MO,Jefferson,Barnhart,Source2,3,38.348515,-90.395599,2017,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3184587,MO,Jefferson,Barnhart,Source2,3,38.348515,-90.395599,2017,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3186955,MO,Jefferson,Arnold,Source2,3,38.442059,-90.379898,2017,17,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-3215651,MO,Jefferson,Arnold,Source2,3,38.41555,-90.388817,2017,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3226333,MO,Jefferson,Pevely,Source2,3,38.287182,-90.402878,2017,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3258293,MO,Jefferson,Arnold,Source2,3,38.41555,-90.388817,2017,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3269678,MO,Jefferson,Herculaneum,Source2,3,38.255199,-90.402435,2017,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3275580,MO,Jefferson,Barnhart,Source2,3,38.348515,-90.395599,2017,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-3315087,MO,Jefferson,Festus,Source2,3,38.197422,-90.400002,2017,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3315088,MO,Jefferson,Arnold,Source2,3,38.41555,-90.388817,2017,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-3328660,MO,Jefferson,Festus,Source2,3,38.197708,-90.399567,2017,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3329241,MO,Jefferson,Arnold,Source2,3,38.41555,-90.388817,2017,7,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3354653,MO,Jefferson,Herculaneum,Source2,3,38.263611,-90.402702,2017,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3363964,MO,Jefferson,Arnold,Source2,3,38.41555,-90.388817,2017,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3386643,MO,Jefferson,Arnold,Source2,3,38.442059,-90.379898,2017,12,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-3425727,MO,Jefferson,Fenton,Source1,4,38.484467,-90.44399,2016,13,Thursday,Cloudy,True,False,False,False,False,False,False
+A-3433187,MO,Jefferson,Fenton,Source1,4,38.469272,-90.430761,2016,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-3447038,MO,Jefferson,Arnold,Source1,3,38.4222,-90.38661,2016,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3449152,MO,Jefferson,Pevely,Source1,4,38.29122,-90.40419,2016,12,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-3451413,MO,Jefferson,Barnhart,Source1,4,38.346082,-90.396459,2016,18,Friday,Rain,False,False,False,False,False,False,False
+A-3451443,MO,Jefferson,Barnhart,Source1,4,38.34894600000001,-90.395427,2016,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-3451444,MO,Jefferson,Pevely,Source1,4,38.309555,-90.399474,2016,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-3451446,MO,Jefferson,Barnhart,Source1,4,38.322916,-90.401243,2016,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-3456011,MO,Jefferson,Arnold,Source1,3,38.4222,-90.38661,2017,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3456288,MO,Jefferson,Arnold,Source1,3,38.43865,-90.38098,2017,6,Thursday,Snow / Ice,False,False,True,False,False,False,False
+A-3461899,MO,Jefferson,Pevely,Source1,4,38.271806,-90.403992,2017,0,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3466473,MO,Jefferson,Pevely,Source1,3,38.28391,-90.40322,2016,7,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-3466593,MO,Jefferson,Arnold,Source1,4,38.442068,-90.379949,2016,12,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-3468266,MO,Jefferson,Festus,Source1,4,38.20047,-90.40287,2016,2,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3484886,MO,Jefferson,Arnold,Source1,3,38.4222,-90.38661,2016,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3486404,MO,Jefferson,Imperial,Source1,3,38.37239,-90.38137,2016,12,Wednesday,Rain,False,False,False,False,False,False,False
+A-3488536,MO,Jefferson,Arnold,Source1,3,38.43865,-90.38098,2016,14,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-3497632,MO,Jefferson,Arnold,Source1,3,38.406503,-90.386626,2016,5,Friday,Rain,False,False,False,False,False,False,False
+A-3502246,MO,Jefferson,Arnold,Source1,3,38.44863,-90.37811,2016,14,Sunday,Rain,False,False,False,False,False,False,False
+A-3510157,MO,Jefferson,Arnold,Source1,3,38.404559000000006,-90.386009,2016,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3510159,MO,Jefferson,Arnold,Source1,3,38.401645,-90.384057,2016,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3561069,MO,Jefferson,Arnold,Source1,3,38.44863,-90.37811,2017,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3572192,MO,Jefferson,Festus,Source1,3,38.20047,-90.40287,2017,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3601410,MO,Jefferson,Arnold,Source1,3,38.4222,-90.38661,2017,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3605703,MO,Jefferson,Arnold,Source1,3,38.411277,-90.388959,2017,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3615363,MO,Jefferson,Imperial,Source1,3,38.3672,-90.3843,2017,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3626299,MO,Jefferson,Arnold,Source1,4,38.43899,-90.38741,2017,18,Thursday,Cloudy,True,False,False,False,False,False,False
+A-3628184,MO,Jefferson,Arnold,Source1,3,38.43865,-90.38098,2017,4,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-3634741,MO,Jefferson,Arnold,Source1,3,38.43865,-90.38098,2017,15,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-3640113,MO,Jefferson,Fenton,Source1,4,38.492713,-90.444258,2017,5,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3641236,MO,Jefferson,Fenton,Source1,3,38.463096,-90.425066,2017,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3725982,MO,Jefferson,High Ridge,Source1,4,38.476808,-90.519655,2022,23,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3868665,MO,Jefferson,High Ridge,Source1,4,38.489835,-90.487715,2022,23,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3922131,MO,Jefferson,High Ridge,Source1,4,38.48981738,-90.48778653,2022,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4002041,MO,Jefferson,Dittmer,Source1,4,38.328757,-90.703241,2022,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4023355,MO,Jefferson,High Ridge,Source1,4,38.486224,-90.49455,2022,23,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4187288,MO,Jefferson,High Ridge,Source1,4,38.485097,-90.502858,2022,23,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-4236641,MO,Jefferson,Festus,Source1,4,38.20971,-90.404803,2022,6,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-4259543,MO,Jefferson,Dittmer,Source1,4,38.287395,-90.754289,2023,7,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-4557719,MO,Jefferson,Dittmer,Source1,4,38.328454,-90.705156,2022,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4621207,MO,Jefferson,Arnold,Source1,4,38.438805,-90.380919,2022,20,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-4621208,MO,Jefferson,Arnold,Source1,4,38.42246175,-90.38622737,2022,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4713116,MO,Jefferson,Fenton,Source1,4,38.490654,-90.485279,2022,23,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4754882,MO,Jefferson,Dittmer,Source1,4,38.285998,-90.755515,2023,7,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-4796704,MO,Jefferson,Barnhart,Source1,4,38.33903400000001,-90.398403,2023,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-5070313,MO,Jefferson,High Ridge,Source1,4,38.458197,-90.530412,2022,23,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5176103,MO,Jefferson,Festus,Source1,4,38.137394,-90.325965,2022,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5419739,MO,Jefferson,High Ridge,Source1,4,38.454415,-90.53445,2022,23,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5432990,MO,Jefferson,High Ridge,Source1,4,38.463793,-90.525114,2022,23,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-5498177,MO,Jefferson,Cedar Hill,Source1,4,38.348824,-90.649502,2021,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5605188,MO,Jefferson,Dittmer,Source1,4,38.334539,-90.673474,2021,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5663200,MO,Jefferson,High Ridge,Source1,4,38.46381068211334,-90.52542328791368,2021,13,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-5688918,MO,Jefferson,High Ridge,Source1,4,38.451043,-90.539029,2021,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5915493,MO,Jefferson,House Springs,Source1,4,38.405225,-90.587577,2021,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6022875,MO,Jefferson,High Ridge,Source1,4,38.464478,-90.525103,2021,13,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-6051275,MO,Jefferson,Cedar Hill,Source1,4,38.354716,-90.649238,2021,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6070323,MO,Jefferson,House Springs,Source1,4,38.40067,-90.590813,2021,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6093159,MO,Jefferson,High Ridge,Source1,4,38.454728,-90.534466,2021,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6103993,MO,Jefferson,House Springs,Source1,4,38.40739600000001,-90.586119,2021,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6115221,MO,Jefferson,Festus,Source1,4,38.18454000000001,-90.440131,2021,21,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6165742,MO,Jefferson,Herculaneum,Source1,4,38.25833201390143,-90.40238499598313,2021,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6296154,MO,Jefferson,Dittmer,Source1,4,38.335846,-90.680085,2021,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6585696,MO,Jefferson,Pevely,Source1,4,38.287283,-90.402876,2020,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-6740676,MO,Jefferson,Imperial,Source1,3,38.36728,-90.38454,2020,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-6978259,MO,Jefferson,Festus,Source1,3,38.20928,-90.40502,2020,17,Sunday,Storm,False,False,False,False,False,False,False
+A-6986807,MO,Jefferson,Imperial,Source1,3,38.37239,-90.38137,2020,19,Thursday,Storm,False,False,False,False,False,False,False
+A-6991127,MO,Jefferson,Imperial,Source1,3,38.36729,-90.38454,2020,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6994066,MO,Jefferson,Fenton,Source1,3,38.47729,-90.43874,2020,14,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-6998615,MO,Jefferson,De Soto,Source1,3,38.10576,-90.48285,2020,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6998712,MO,Jefferson,Pevely,Source1,3,38.28392,-90.40352,2020,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7008370,MO,Jefferson,Dittmer,Source1,4,38.33365,-90.66774,2020,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7008371,MO,Jefferson,Dittmer,Source1,4,38.33365,-90.66774,2020,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7010151,MO,Jefferson,Festus,Source1,3,38.19203,-90.39578,2020,5,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7010262,MO,Jefferson,Festus,Source1,3,38.19156,-90.41518,2020,15,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-7014724,MO,Jefferson,Pevely,Source1,3,38.28392,-90.40352,2020,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7017150,MO,Jefferson,Herculaneum,Source1,3,38.2522,-90.40278,2020,7,Friday,Rain,False,False,False,False,False,False,False
+A-7024609,MO,Jefferson,Arnold,Source1,3,38.43865,-90.38098,2020,22,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7028703,MO,Jefferson,Fenton,Source1,3,38.47064,-90.43203,2020,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7031072,MO,Jefferson,Festus,Source1,3,38.19202,-90.39576,2020,3,Friday,Cloudy,False,False,False,False,False,False,False
+A-7032927,MO,Jefferson,Imperial,Source1,3,38.36728,-90.38454,2020,18,Saturday,Storm,False,False,False,False,False,False,False
+A-7040976,MO,Jefferson,Imperial,Source1,4,38.3672,-90.3843,2020,21,Wednesday,Rain,False,False,False,False,False,False,False
+A-7045789,MO,Jefferson,Arnold,Source1,3,38.43869,-90.38124,2020,0,Friday,Cloudy,False,False,False,False,False,False,False
+A-7047912,MO,Jefferson,Festus,Source1,3,38.19172,-90.41527,2020,17,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-7050029,MO,Jefferson,Pevely,Source1,3,38.28392,-90.40352,2020,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7060791,MO,Jefferson,Festus,Source1,3,38.16331,-90.45526,2020,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7060796,MO,Jefferson,Festus,Source1,3,38.17385,-90.4468,2020,12,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7063173,MO,Jefferson,Herculaneum,Source1,3,38.25224,-90.40247,2020,20,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7064595,MO,Jefferson,Fenton,Source1,3,38.47715,-90.43897,2020,16,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-7068829,MO,Jefferson,High Ridge,Source1,3,38.45447,-90.53444,2020,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7069148,MO,Jefferson,Imperial,Source1,3,38.3672,-90.3843,2020,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7070477,MO,Jefferson,Festus,Source1,4,38.20921,-90.40501,2020,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7072748,MO,Jefferson,High Ridge,Source1,3,38.48536,-90.5026,2020,8,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-7075535,MO,Jefferson,Arnold,Source1,3,38.41719000000001,-90.38848,2020,23,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7075539,MO,Jefferson,Arnold,Source1,3,38.41719000000001,-90.38848,2020,23,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7077963,MO,Jefferson,Arnold,Source1,3,38.41719000000001,-90.38848,2020,0,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7077964,MO,Jefferson,Arnold,Source1,3,38.41246,-90.3894,2020,0,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7077965,MO,Jefferson,Arnold,Source1,3,38.41719000000001,-90.38848,2020,0,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7080757,MO,Jefferson,High Ridge,Source1,3,38.49001,-90.4872,2020,12,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7080831,MO,Jefferson,Barnhart,Source1,3,38.34428,-90.39688,2020,17,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7083484,MO,Jefferson,Pevely,Source1,3,38.28391,-90.40322,2020,19,Friday,Cloudy,False,False,True,False,False,False,False
+A-7091865,MO,Jefferson,Festus,Source1,4,38.17401,-90.44676,2020,9,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-7097179,MO,Jefferson,Pevely,Source1,4,38.28392,-90.40352,2020,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7097181,MO,Jefferson,Pevely,Source1,3,38.28391,-90.40322,2020,11,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7097253,MO,Jefferson,Arnold,Source1,3,38.41247,-90.38914,2020,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7097312,MO,Jefferson,Fenton,Source1,3,38.49457,-90.47896,2020,19,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7127924,MO,Jefferson,Fenton,Source1,4,38.46251,-90.42429,2020,16,Saturday,Cloudy,True,False,False,False,False,False,False
+A-7127927,MO,Jefferson,Arnold,Source1,4,38.46128,-90.42316,2020,16,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-7127940,MO,Jefferson,Fenton,Source1,3,38.50068,-90.46089,2020,20,Saturday,Cloudy,True,False,False,False,False,False,False
+A-7129083,MO,Jefferson,House Springs,Source1,3,38.44713,-90.5435,2020,20,Sunday,Cloudy,False,False,False,True,False,False,False
+A-7136704,MO,Jefferson,Fenton,Source1,3,38.49023,-90.48732,2020,12,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-7136718,MO,Jefferson,Festus,Source1,4,38.19531,-90.40472,2020,14,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7138662,MO,Jefferson,Pevely,Source1,4,38.28391,-90.40352,2020,0,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7151337,MO,Jefferson,Arnold,Source1,3,38.46132,-90.42682,2020,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7164211,MO,Jefferson,Herculaneum,Source1,4,38.25224,-90.40247,2020,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7185286,MO,Jefferson,Imperial,Source1,3,38.36728,-90.38454,2020,1,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7185292,MO,Jefferson,Imperial,Source1,3,38.37239,-90.38137,2020,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7187055,MO,Jefferson,Fenton,Source1,3,38.47715,-90.43897,2020,17,Monday,Cloudy,True,False,False,False,False,False,False
+A-7196202,MO,Jefferson,Pevely,Source1,3,38.28391,-90.40322,2020,19,Friday,Storm,False,False,True,False,False,False,False
+A-7197717,MO,Jefferson,Herculaneum,Source1,3,38.2522,-90.40278,2020,11,Saturday,Rain,False,False,False,False,False,False,False
+A-7202900,MO,Jefferson,Arnold,Source1,3,38.41562,-90.3889,2020,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7205035,MO,Jefferson,Arnold,Source1,3,38.43869,-90.38124,2020,3,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7308923,MO,Jefferson,Festus,Source1,3,38.1558,-90.35631,2019,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7433079,MO,Jefferson,Imperial,Source1,3,38.367296,-90.384535,2019,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7436484,MO,Jefferson,Festus,Source1,4,38.19302,-90.39663,2019,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-7442337,MO,Jefferson,Pevely,Source1,3,38.29122,-90.40419,2019,7,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7452517,MO,Jefferson,Festus,Source1,4,38.21719,-90.40606,2019,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7470505,MO,Jefferson,Arnold,Source1,4,38.43865,-90.38098,2019,8,Sunday,Cloudy,False,False,True,False,False,False,False
+A-7481008,MO,Jefferson,Festus,Source1,3,38.20047,-90.40287,2018,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7485818,MO,Jefferson,Festus,Source1,4,38.240099,-90.403022,2018,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7523388,MO,Jefferson,Arnold,Source1,4,38.441731,-90.380828,2018,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7544539,MO,Jefferson,Arnold,Source1,3,38.447369,-90.378253,2018,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7547272,MO,Jefferson,Arnold,Source1,3,38.447369,-90.378253,2018,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7571818,MO,Jefferson,Festus,Source1,4,38.19302,-90.39663,2018,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7600721,MO,Jefferson,Arnold,Source1,3,38.43865,-90.38098,2018,14,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7603682,MO,Jefferson,Arnold,Source1,3,38.43899,-90.38741,2018,4,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-7610786,MO,Jefferson,Herculaneum,Source1,4,38.25838,-90.40266,2018,12,Tuesday,Rain,False,False,True,False,False,False,False
+A-7627870,MO,Jefferson,Barnhart,Source1,3,38.35315,-90.39332,2018,15,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7630253,MO,Jefferson,Cedar Hill,Source1,4,38.378121,-90.6257,2018,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7635732,MO,Jefferson,Arnold,Source1,4,38.4222,-90.38661,2018,0,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7642156,MO,Jefferson,Fenton,Source1,4,38.484578000000006,-90.443723,2017,17,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7645752,MO,Jefferson,Imperial,Source1,4,38.37239,-90.38137,2017,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7646710,MO,Jefferson,Arnold,Source1,4,38.46132,-90.42682,2017,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7647991,MO,Jefferson,Arnold,Source1,3,38.41247,-90.38914,2017,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7647999,MO,Jefferson,Arnold,Source1,4,38.434096,-90.382664,2017,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7651461,MO,Jefferson,Herculaneum,Source1,4,38.25224,-90.40247,2017,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7670754,MO,Jefferson,Arnold,Source1,3,38.447369,-90.378253,2017,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7700666,MO,Jefferson,House Springs,Source1,4,38.398566,-90.59237,2017,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7704857,MO,Jefferson,Arnold,Source1,3,38.44863,-90.37811,2019,23,Sunday,Rain,False,False,False,False,False,False,False
+A-7705931,MO,Jefferson,Pevely,Source1,3,38.28391,-90.40322,2019,8,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7708633,MO,Jefferson,Imperial,Source1,3,38.372555,-90.380983,2019,22,Saturday,Rain,False,False,False,False,False,False,False
+A-7712877,MO,Jefferson,Arnold,Source1,3,38.44863,-90.37811,2019,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7719123,MO,Jefferson,Festus,Source1,4,38.174068,-90.446743,2019,11,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-7722675,MO,Jefferson,Imperial,Source1,3,38.37239,-90.38137,2019,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7732390,MO,Jefferson,Arnold,Source1,3,38.41247,-90.38914,2019,1,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7733335,MO,Jefferson,Pevely,Source1,3,38.29122,-90.40419,2019,5,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7768993,MO,Jefferson,High Ridge,Source1,4,38.45537,-90.53374,2019,16,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-7777446,MO,Jefferson,Imperial,Source1,3,38.37239,-90.38137,2019,13,Friday,Clear / Fair,False,False,False,False,False,False,False

@@ -1,0 +1,849 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-179373,MI,Ingham,Lansing,Source2,3,42.725925,-84.569778,2016,19,Tuesday,Cloudy,False,True,False,False,False,False,False
+A-179413,MI,Ingham,Lansing,Source3,3,42.725288,-84.586632,2016,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-179540,MI,Ingham,Okemos,Source2,3,42.678493,-84.43283100000002,2016,9,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-180557,MI,Ingham,Williamston,Source2,3,42.665813,-84.282127,2016,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-182468,MI,Ingham,Okemos,Source2,3,42.678276,-84.432564,2017,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-182670,MI,Ingham,Holt,Source2,3,42.6758,-84.49568199999999,2017,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-182767,MI,Ingham,Williamston,Source2,3,42.659424,-84.198128,2017,12,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-183148,MI,Ingham,Williamston,Source2,3,42.665813,-84.282127,2017,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-183155,MI,Ingham,Okemos,Source2,3,42.678493,-84.43283100000002,2017,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-184150,MI,Ingham,Williamston,Source2,3,42.665272,-84.282127,2016,15,Sunday,Cloudy,False,False,True,False,False,False,False
+A-184706,MI,Ingham,Okemos,Source2,3,42.678493,-84.43283100000002,2016,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-185003,MI,Ingham,Williamston,Source2,3,42.659424,-84.198128,2016,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-185014,MI,Ingham,Lansing,Source2,3,42.689503,-84.502937,2016,8,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-185171,MI,Ingham,Williamston,Source2,3,42.665813,-84.282127,2016,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-185258,MI,Ingham,Webberville,Source2,3,42.651173,-84.161598,2016,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-185278,MI,Ingham,Williamston,Source2,3,42.659424,-84.198128,2016,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-185645,MI,Ingham,Williamston,Source2,3,42.665611,-84.321304,2016,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-186290,MI,Ingham,Mason,Source2,3,42.671043,-84.365257,2016,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-186340,MI,Ingham,Lansing,Source3,3,42.725651,-84.538071,2016,16,Monday,Rain,False,False,False,False,False,False,False
+A-187914,MI,Ingham,Williamston,Source2,3,42.665813,-84.282127,2016,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-188721,MI,Ingham,Webberville,Source2,3,42.65162700000001,-84.17234,2016,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-188811,MI,Ingham,Williamston,Source2,3,42.659424,-84.198128,2016,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-189759,MI,Ingham,Mason,Source2,3,42.677895,-84.45830500000002,2016,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-189806,MI,Ingham,Williamston,Source2,3,42.665813,-84.282127,2016,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-190173,MI,Ingham,East Lansing,Source2,3,42.75531,-84.442162,2016,8,Wednesday,Clear / Fair,True,True,False,False,False,False,False
+A-190532,MI,Ingham,Williamston,Source2,3,42.659424,-84.198128,2016,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-190576,MI,Ingham,Lansing,Source2,3,42.723976,-84.51374799999998,2016,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-190747,MI,Ingham,Williamston,Source2,3,42.670269,-84.361641,2016,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-190751,MI,Ingham,Okemos,Source2,3,42.678493,-84.43283100000002,2016,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-191020,MI,Ingham,Lansing,Source2,3,42.725533,-84.544838,2016,17,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-191299,MI,Ingham,Williamston,Source2,3,42.659424,-84.198128,2016,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-191770,MI,Ingham,Lansing,Source2,3,42.724152,-84.50843,2016,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-192382,MI,Ingham,Okemos,Source2,3,42.672729,-84.37264300000002,2016,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-192457,MI,Ingham,Webberville,Source2,3,42.651955,-84.177483,2016,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-192609,MI,Ingham,Lansing,Source2,3,42.666233,-84.541199,2016,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-192872,MI,Ingham,Lansing,Source2,3,42.70874,-84.547997,2016,20,Tuesday,Clear / Fair,False,False,False,False,False,True,False
+A-193649,MI,Ingham,Holt,Source2,3,42.677742,-84.489609,2016,8,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-193830,MI,Ingham,Lansing,Source2,3,42.689503,-84.502937,2016,8,Monday,Cloudy,False,False,True,False,False,False,False
+A-324872,MI,Ingham,Lansing,Source2,3,42.66497800000001,-84.589111,2017,20,Saturday,Cloudy,False,False,False,False,False,False,False
+A-325046,MI,Ingham,Holt,Source2,3,42.6758,-84.49568199999999,2017,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-325382,MI,Ingham,Williamston,Source2,3,42.665813,-84.282127,2017,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-325448,MI,Ingham,Lansing,Source2,3,42.725533,-84.544838,2017,13,Thursday,Cloudy,False,False,True,False,False,False,False
+A-325860,MI,Ingham,Williamston,Source2,3,42.665813,-84.282097,2017,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-367748,MI,Ingham,Okemos,Source2,3,42.678493,-84.43283100000002,2017,16,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-368233,MI,Ingham,Williamston,Source2,3,42.665813,-84.282127,2017,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-368242,MI,Ingham,Williamston,Source2,3,42.659424,-84.198128,2017,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-368736,MI,Ingham,Holt,Source2,3,42.6758,-84.49568199999999,2017,2,Monday,Cloudy,False,False,False,False,False,False,False
+A-368738,MI,Ingham,Okemos,Source2,3,42.678493,-84.43283100000002,2017,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-369318,MI,Ingham,Lansing,Source2,3,42.740864,-84.555374,2017,19,Saturday,Cloudy,False,True,False,False,False,False,False
+A-369437,MI,Ingham,Lansing,Source2,3,42.725651,-84.538071,2017,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-369785,MI,Ingham,Lansing,Source2,3,42.724152,-84.50843,2017,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-369858,MI,Ingham,Lansing,Source2,3,42.725925,-84.569778,2017,17,Tuesday,Clear / Fair,False,True,False,False,False,False,False
+A-418106,MI,Ingham,Lansing,Source2,3,42.66497800000001,-84.589111,2017,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-418388,MI,Ingham,Williamston,Source2,3,42.659424,-84.198128,2017,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-418448,MI,Ingham,Williamston,Source2,3,42.665813,-84.282127,2017,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-418520,MI,Ingham,Williamston,Source2,3,42.665813,-84.282127,2017,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-418521,MI,Ingham,Okemos,Source2,3,42.678493,-84.43283100000002,2017,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-418761,MI,Ingham,Lansing,Source2,3,42.725533,-84.544838,2017,14,Thursday,Cloudy,False,False,True,False,False,False,False
+A-418851,MI,Ingham,Williamston,Source2,3,42.665813,-84.282127,2017,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-419102,MI,Ingham,Williamston,Source2,3,42.659424,-84.198128,2017,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-445404,MI,Ingham,Williamston,Source2,3,42.659424,-84.198128,2017,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-446092,MI,Ingham,Lansing,Source2,3,42.689503,-84.502937,2017,13,Saturday,Cloudy,False,False,True,False,False,False,False
+A-446271,MI,Ingham,Okemos,Source2,3,42.678493,-84.43283100000002,2017,17,Wednesday,Rain,False,False,False,False,False,False,False
+A-472748,MI,Ingham,Williamston,Source2,3,42.659424,-84.198128,2017,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-473333,MI,Ingham,Lansing,Source2,3,42.661926,-84.532608,2017,3,Saturday,Cloudy,False,False,False,False,False,False,False
+A-473456,MI,Ingham,Lansing,Source2,3,42.663979,-84.533852,2017,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-473458,MI,Ingham,Lansing,Source2,3,42.662052,-84.534088,2017,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-473772,MI,Ingham,Williamston,Source2,3,42.665802,-84.281479,2017,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-474108,MI,Ingham,Williamston,Source2,3,42.665813,-84.282547,2017,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-474231,MI,Ingham,Holt,Source2,3,42.6758,-84.49568199999999,2017,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-474656,MI,Ingham,Okemos,Source2,3,42.678493,-84.43283100000002,2017,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-501933,MI,Ingham,Lansing,Source2,3,42.704926,-84.50527199999998,2017,9,Monday,Rain,False,False,False,False,False,False,False
+A-502720,MI,Ingham,Lansing,Source2,3,42.704506,-84.505646,2017,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-565377,MI,Ingham,Holt,Source2,4,42.676338,-84.494743,2022,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-577130,MI,Ingham,Holt,Source2,3,42.67757,-84.495041,2022,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-627473,MI,Ingham,Lansing,Source2,4,42.679451,-84.54805,2022,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-640621,MI,Ingham,Williamston,Source2,3,42.665825,-84.281387,2022,17,Friday,Rain,False,False,False,False,False,False,False
+A-647441,MI,Ingham,Williamston,Source2,3,42.65942800000001,-84.198326,2022,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-651264,MI,Ingham,Lansing,Source2,3,42.740849,-84.509743,2022,17,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-656422,MI,Ingham,Lansing,Source2,3,42.726074,-84.563438,2022,16,Friday,Rain,False,False,False,False,False,False,False
+A-677452,MI,Ingham,Holt,Source2,3,42.674591,-84.493057,2022,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-703413,MI,Ingham,Mason,Source2,4,42.678291,-84.433418,2022,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-713546,MI,Ingham,Holt,Source2,3,42.676338,-84.494743,2022,7,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-731376,MI,Ingham,Lansing,Source2,3,42.725948,-84.57495899999998,2022,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-747298,MI,Ingham,Lansing,Source2,3,42.725185,-84.510025,2022,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-761422,MI,Ingham,Mason,Source3,3,42.678291,-84.433418,2021,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-772871,MI,Ingham,Williamston,Source2,3,42.665825,-84.281387,2021,5,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-781298,MI,Ingham,Lansing,Source2,3,42.726074,-84.563438,2021,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-787378,MI,Ingham,Williamston,Source2,3,42.666222,-84.313156,2021,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-787863,MI,Ingham,Lansing,Source2,3,42.693066,-84.502922,2021,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-796925,MI,Ingham,Lansing,Source2,3,42.693848,-84.502922,2021,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-801861,MI,Ingham,Williamston,Source2,3,42.65942800000001,-84.198326,2021,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-808541,MI,Ingham,Lansing,Source2,3,42.734612,-84.556976,2021,14,Monday,Clear / Fair,True,True,False,False,False,False,False
+A-813771,MI,Ingham,Lansing,Source2,3,42.739754,-84.50975799999998,2021,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-813985,MI,Ingham,Lansing,Source2,3,42.70385,-84.50563000000002,2021,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-820510,MI,Ingham,Mason,Source2,3,42.678291,-84.433418,2021,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-822175,MI,Ingham,Lansing,Source2,3,42.72105,-84.505089,2021,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-822245,MI,Ingham,Lansing,Source2,3,42.723316,-84.50730899999998,2021,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-837905,MI,Ingham,Lansing,Source2,3,42.659985,-84.558212,2021,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-848329,MI,Ingham,Williamston,Source2,3,42.66523400000001,-84.28141,2021,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-849784,MI,Ingham,Williamston,Source2,3,42.665825,-84.281387,2021,20,Sunday,Rain,False,False,False,False,False,False,False
+A-861436,MI,Ingham,Williamston,Source2,3,42.659039,-84.198677,2021,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-864724,MI,Ingham,Lansing,Source2,3,42.724159,-84.508049,2021,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-868595,MI,Ingham,Mason,Source2,3,42.678291,-84.433418,2021,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-869601,MI,Ingham,Williamston,Source2,4,42.665825,-84.281387,2021,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-877440,MI,Ingham,Lansing,Source2,3,42.690189,-84.503288,2021,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-891329,MI,Ingham,Lansing,Source2,3,42.725803000000006,-84.55201,2021,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-891331,MI,Ingham,Lansing,Source2,3,42.72184,-84.505585,2021,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-892298,MI,Ingham,Williamston,Source2,3,42.659039,-84.198677,2021,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-892573,MI,Ingham,Williamston,Source2,3,42.665802,-84.281387,2021,15,Monday,Rain,False,False,False,False,False,False,False
+A-893625,MI,Ingham,Lansing,Source3,3,42.726101,-84.56738299999998,2021,7,Monday,Clear / Fair,False,True,False,False,False,False,False
+A-896839,MI,Ingham,Lansing,Source2,3,42.7258,-84.54233599999998,2021,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-910537,MI,Ingham,Lansing,Source2,3,42.725658,-84.585228,2021,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-912120,MI,Ingham,Williamston,Source3,3,42.665825,-84.281387,2021,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-914259,MI,Ingham,Lansing,Source2,3,42.725899,-84.566139,2021,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-920799,MI,Ingham,Williamston,Source2,3,42.666122,-84.304443,2021,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-922272,MI,Ingham,Williamston,Source2,3,42.65942800000001,-84.198326,2021,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-928668,MI,Ingham,Lansing,Source2,4,42.7258,-84.54233599999998,2021,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-929073,MI,Ingham,Lansing,Source2,3,42.720535,-84.504204,2021,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-929541,MI,Ingham,Lansing,Source2,3,42.691605,-84.548019,2021,1,Saturday,Clear / Fair,False,True,False,False,False,False,False
+A-930050,MI,Ingham,Lansing,Source2,3,42.726074,-84.563438,2021,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-949795,MI,Ingham,Lansing,Source2,3,42.724236,-84.508942,2021,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-955514,MI,Ingham,Holt,Source2,3,42.676338,-84.494743,2021,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-955933,MI,Ingham,Lansing,Source2,3,42.6922,-84.503281,2021,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-978830,MI,Ingham,Williamston,Source2,3,42.65942800000001,-84.198326,2021,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-983855,MI,Ingham,Lansing,Source2,3,42.723202,-84.505539,2021,11,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-989389,MI,Ingham,Williamston,Source2,3,42.665157,-84.275589,2021,15,Friday,Rain,False,False,False,False,False,False,False
+A-1003182,MI,Ingham,Williamston,Source2,3,42.65942800000001,-84.198326,2021,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1023519,MI,Ingham,Holt,Source2,3,42.676338,-84.494743,2021,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1024646,MI,Ingham,Lansing,Source2,3,42.66468,-84.588882,2021,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1025569,MI,Ingham,Williamston,Source2,3,42.665825,-84.281387,2021,12,Friday,Rain,False,False,False,False,False,False,False
+A-1029097,MI,Ingham,Lansing,Source2,3,42.726032,-84.551872,2021,7,Wednesday,Rain,False,False,False,False,False,False,False
+A-1029105,MI,Ingham,Lansing,Source2,3,42.737942,-84.510139,2021,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1046161,MI,Ingham,Williamston,Source2,3,42.65942800000001,-84.198326,2021,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1046162,MI,Ingham,Lansing,Source2,3,42.7258,-84.54233599999998,2021,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1046169,MI,Ingham,Lansing,Source2,3,42.663685,-84.533951,2021,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1062206,MI,Ingham,Lansing,Source2,3,42.663685,-84.533951,2021,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1068250,MI,Ingham,Lansing,Source2,3,42.690594,-84.503288,2021,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-1075375,MI,Ingham,Williamston,Source2,3,42.65942800000001,-84.198326,2021,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1076875,MI,Ingham,Williamston,Source2,3,42.666046,-84.29898100000003,2021,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-1089531,MI,Ingham,Mason,Source2,4,42.678291,-84.433418,2021,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1110240,MI,Ingham,Williamston,Source2,3,42.665825,-84.281387,2021,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1144794,MI,Ingham,Mason,Source2,3,42.678291,-84.433418,2021,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1154633,MI,Ingham,Mason,Source2,3,42.677963,-84.453354,2021,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1179153,MI,Ingham,Mason,Source2,3,42.678291,-84.433418,2021,7,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1238983,MI,Ingham,Holt,Source2,3,42.676331,-84.494736,2020,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-1249446,MI,Ingham,Mason,Source2,3,42.678291,-84.433418,2020,22,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1249447,MI,Ingham,Mason,Source2,3,42.678291,-84.433418,2020,23,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1255792,MI,Ingham,Holt,Source2,3,42.676338,-84.494743,2020,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1277408,MI,Ingham,Lansing,Source2,3,42.690281,-84.503288,2020,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1306546,MI,Ingham,Lansing,Source2,3,42.690594,-84.502655,2020,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1308170,MI,Ingham,Lansing,Source2,3,42.66542800000001,-84.593887,2020,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1319495,MI,Ingham,Williamston,Source2,3,42.665825,-84.281387,2020,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1330702,MI,Ingham,Holt,Source2,3,42.676338,-84.494743,2020,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1385351,MI,Ingham,Lansing,Source2,3,42.725185,-84.510025,2020,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1386634,MI,Ingham,Lansing,Source2,3,42.733929,-84.510223,2020,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1390956,MI,Ingham,Holt,Source2,3,42.676338,-84.494743,2020,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1393328,MI,Ingham,Lansing,Source2,3,42.72517,-84.539757,2020,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1411925,MI,Ingham,Lansing,Source2,3,42.744884000000006,-84.508408,2020,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1427590,MI,Ingham,Lansing,Source2,3,42.724041,-84.51931,2020,9,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-1448849,MI,Ingham,Williamston,Source2,3,42.65942800000001,-84.198326,2020,20,Wednesday,Rain,False,False,False,False,False,False,False
+A-1467797,MI,Ingham,Lansing,Source2,3,42.744946,-84.50864399999998,2020,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1509842,MI,Ingham,Williamston,Source2,3,42.665237,-84.28151700000002,2020,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1522931,MI,Ingham,Holt,Source2,3,42.676014,-84.49469,2020,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1584542,MI,Ingham,Williamston,Source2,3,42.665825,-84.281387,2020,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-1602596,MI,Ingham,Lansing,Source2,3,42.726543,-84.534912,2020,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1613150,MI,Ingham,Williamston,Source2,3,42.665825,-84.281387,2020,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-1615107,MI,Ingham,Lansing,Source2,3,42.690594,-84.502655,2020,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1615108,MI,Ingham,Lansing,Source2,3,42.690594,-84.502655,2020,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1631804,MI,Ingham,East Lansing,Source2,3,42.74691,-84.473747,2020,16,Thursday,Snow / Ice,False,True,False,False,False,False,False
+A-1634548,MI,Ingham,Lansing,Source2,3,42.663799,-84.53357700000002,2020,2,Friday,Cloudy,False,False,False,False,False,False,False
+A-1684917,MI,Ingham,East Lansing,Source2,4,42.724586,-84.507645,2019,5,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1687534,MI,Ingham,Lansing,Source2,3,42.66468,-84.588882,2019,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-1692823,MI,Ingham,Lansing,Source2,3,42.690594,-84.502655,2019,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1701453,MI,Ingham,Lansing,Source2,3,42.661041,-84.53235600000002,2019,4,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1701454,MI,Ingham,Lansing,Source2,3,42.664982,-84.534409,2019,4,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1705071,MI,Ingham,Lansing,Source2,3,42.72578,-84.563133,2019,9,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1713421,MI,Ingham,Williamston,Source2,3,42.65942800000001,-84.198326,2019,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1713425,MI,Ingham,Williamston,Source2,3,42.65942800000001,-84.198326,2019,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-1720394,MI,Ingham,Lansing,Source2,3,42.72501,-84.510094,2019,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1720395,MI,Ingham,Williamston,Source2,3,42.665794,-84.280952,2019,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1723159,MI,Ingham,Williamston,Source2,3,42.665825,-84.281387,2019,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1736972,MI,Ingham,Lansing,Source2,3,42.725807,-84.542503,2019,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1747252,MI,Ingham,Lansing,Source2,3,42.72501,-84.510094,2019,13,Friday,Rain,False,False,False,False,False,False,False
+A-1747275,MI,Ingham,Holt,Source2,3,42.674591,-84.493057,2019,21,Friday,Rain,False,False,False,False,False,False,False
+A-1762114,MI,Ingham,Lansing,Source2,3,42.725807,-84.542503,2019,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1768890,MI,Ingham,Lansing,Source2,3,42.724041,-84.51931,2019,19,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-1794114,MI,Ingham,Lansing,Source2,3,42.72501,-84.510094,2019,20,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1822107,MI,Ingham,Lansing,Source2,3,42.663944,-84.534019,2019,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1822111,MI,Ingham,Lansing,Source2,3,42.74099,-84.505028,2019,17,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-1834551,MI,Ingham,Lansing,Source2,3,42.726158,-84.581902,2019,15,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1847100,MI,Ingham,Mason,Source2,3,42.678291,-84.433418,2019,14,Wednesday,Rain,False,False,False,False,False,False,False
+A-1847102,MI,Ingham,Lansing,Source2,3,42.663944,-84.534019,2019,16,Wednesday,Rain,False,False,False,False,False,False,False
+A-1847103,MI,Ingham,Lansing,Source2,3,42.663944,-84.534019,2019,16,Wednesday,Rain,False,False,False,False,False,False,False
+A-1871675,MI,Ingham,Williamston,Source2,3,42.665825,-84.281387,2019,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1880625,MI,Ingham,Mason,Source2,3,42.678291,-84.433418,2019,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1880635,MI,Ingham,Mason,Source2,3,42.678291,-84.433418,2019,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1899180,MI,Ingham,Williamston,Source2,3,42.665825,-84.281387,2019,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1907371,MI,Ingham,Lansing,Source2,3,42.690594,-84.502655,2019,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1909873,MI,Ingham,Holt,Source2,3,42.675999,-84.49472,2019,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1909874,MI,Ingham,Mason,Source2,3,42.678291,-84.433418,2019,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-1916010,MI,Ingham,Lansing,Source2,3,42.72493400000001,-84.510109,2019,8,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1926765,MI,Ingham,Lansing,Source2,3,42.726074,-84.563438,2019,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1934516,MI,Ingham,Lansing,Source2,3,42.669231,-84.583771,2019,9,Tuesday,Cloudy,True,True,False,False,False,True,False
+A-1939446,MI,Ingham,Lansing,Source2,3,42.66468,-84.588882,2019,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1944257,MI,Ingham,Lansing,Source2,3,42.72493400000001,-84.510109,2019,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1946485,MI,Ingham,Williamston,Source2,3,42.665825,-84.281387,2019,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1957058,MI,Ingham,Holt,Source2,3,42.675999,-84.49472,2019,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1961298,MI,Ingham,Lansing,Source2,3,42.723419,-84.507446,2019,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1965578,MI,Ingham,Lansing,Source2,3,42.725311,-84.52565799999998,2019,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1971476,MI,Ingham,Lansing,Source2,3,42.72493400000001,-84.510109,2019,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1986395,MI,Ingham,Holt,Source2,3,42.675999,-84.49472,2019,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1998316,MI,Ingham,Mason,Source2,3,42.678291,-84.433418,2019,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2000530,MI,Ingham,Williamston,Source2,3,42.65942800000001,-84.198326,2019,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2008589,MI,Ingham,Lansing,Source3,3,42.689507,-84.50322,2019,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2010928,MI,Ingham,Lansing,Source2,3,42.687328,-84.503242,2019,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2021603,MI,Ingham,Lansing,Source2,3,42.742264,-84.509537,2019,11,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-2041827,MI,Ingham,Lansing,Source2,3,42.745075,-84.508583,2019,6,Monday,Rain,False,False,True,False,False,False,False
+A-2048668,MI,Ingham,Lansing,Source2,3,42.74398,-84.50927,2019,15,Thursday,Rain,False,False,False,False,False,False,False
+A-2072412,MI,Ingham,Holt,Source2,3,42.675999,-84.49472,2019,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2072431,MI,Ingham,Williamston,Source2,3,42.665825,-84.281387,2019,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2078764,MI,Ingham,Holt,Source2,3,42.675999,-84.49472,2019,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2083399,MI,Ingham,Williamston,Source2,3,42.665825,-84.281387,2019,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2097840,MI,Ingham,Williamston,Source2,3,42.665825,-84.281387,2019,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-2102422,MI,Ingham,Holt,Source2,3,42.675999,-84.49472,2019,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2116306,MI,Ingham,Lansing,Source2,3,42.66468,-84.588882,2019,4,Wednesday,Storm,False,False,False,False,False,False,False
+A-2118784,MI,Ingham,Lansing,Source2,3,42.690594,-84.502655,2019,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2123239,MI,Ingham,Holt,Source2,3,42.676964,-84.49633,2019,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2130449,MI,Ingham,Lansing,Source2,3,42.760956,-84.509674,2019,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2149410,MI,Ingham,Lansing,Source2,3,42.665623,-84.518433,2019,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2176493,MI,Ingham,Williamston,Source2,3,42.665825,-84.281387,2019,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2193172,MI,Ingham,Williamston,Source2,3,42.65942800000001,-84.198326,2019,11,Monday,Other,False,False,False,False,False,False,False
+A-2198419,MI,Ingham,Lansing,Source2,3,42.727283,-84.510216,2019,8,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2220273,MI,Ingham,Lansing,Source2,3,42.72073,-84.504456,2019,18,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2241040,MI,Ingham,Lansing,Source2,3,42.726013,-84.556549,2019,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2254574,MI,Ingham,Lansing,Source2,4,42.725796,-84.584641,2019,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2257159,MI,Ingham,Lansing,Source2,3,42.72559,-84.509827,2019,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-2261491,MI,Ingham,Lansing,Source2,3,42.723511,-84.50843,2019,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2272098,MI,Ingham,Holt,Source2,3,42.675732,-84.495476,2019,12,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2281588,MI,Ingham,Williamston,Source2,4,42.665733,-84.282471,2019,5,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2291033,MI,Ingham,Webberville,Source2,3,42.659237,-84.198265,2019,7,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2306427,MI,Ingham,Lansing,Source2,3,42.690784,-84.502914,2019,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2346814,MI,Ingham,Lansing,Source2,3,42.665821,-84.5914,2019,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2350452,MI,Ingham,Lansing,Source2,3,42.741562,-84.509743,2019,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2353318,MI,Ingham,Holt,Source2,3,42.675732,-84.495476,2019,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2363007,MI,Ingham,Lansing,Source2,3,42.70483,-84.505287,2019,9,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2363010,MI,Ingham,Webberville,Source2,3,42.659237,-84.198265,2019,10,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2365607,MI,Ingham,Mason,Source2,3,42.678288,-84.433167,2019,10,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2381497,MI,Ingham,Lansing,Source2,3,42.680408,-84.49951899999998,2018,11,Thursday,Other,False,False,True,False,False,False,False
+A-2381506,MI,Ingham,Lansing,Source2,3,42.690269,-84.50293,2018,12,Thursday,Other,False,False,False,False,False,False,False
+A-2387073,MI,Ingham,Lansing,Source2,3,42.72073,-84.504456,2018,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2396686,MI,Ingham,Webberville,Source2,3,42.659237,-84.198265,2018,10,Friday,Rain,False,False,False,False,False,False,False
+A-2402488,MI,Ingham,Lansing,Source2,3,42.725414,-84.512939,2018,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2423517,MI,Ingham,Holt,Source2,3,42.6758,-84.49568199999999,2018,8,Wednesday,Rain,False,False,False,False,False,False,False
+A-2427286,MI,Ingham,East Lansing,Source2,3,42.760101,-84.508965,2018,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-2447784,MI,Ingham,East Lansing,Source2,3,42.760807,-84.509254,2018,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2460991,MI,Ingham,Okemos,Source2,3,42.678493,-84.43283100000002,2018,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-2471132,MI,Ingham,Mason,Source2,3,42.678089,-84.46266899999998,2018,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2503821,MI,Ingham,Lansing,Source2,3,42.740902,-84.529808,2018,1,Monday,Cloudy,False,True,False,False,False,False,False
+A-2515870,MI,Ingham,Lansing,Source2,3,42.66497800000001,-84.589111,2018,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2532069,MI,Ingham,Lansing,Source2,4,42.705944,-84.548004,2018,20,Saturday,Cloudy,False,True,False,False,False,False,False
+A-2533559,MI,Ingham,Lansing,Source2,3,42.742966,-84.57058,2018,7,Monday,Clear / Fair,False,True,False,False,False,False,False
+A-2563480,MI,Ingham,Williamston,Source2,3,42.665813,-84.282127,2018,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2563481,MI,Ingham,Okemos,Source2,3,42.678493,-84.43283100000002,2018,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2586224,MI,Ingham,Lansing,Source2,3,42.723976,-84.51374799999998,2018,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2587826,MI,Ingham,Holt,Source2,3,42.6758,-84.49568199999999,2018,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2595307,MI,Ingham,Mason,Source2,3,42.677769,-84.467247,2018,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2595308,MI,Ingham,Holt,Source2,3,42.6758,-84.49568199999999,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2612927,MI,Ingham,Holt,Source2,3,42.6758,-84.49568199999999,2018,18,Friday,Rain,False,False,False,False,False,False,False
+A-2623734,MI,Ingham,Williamston,Source2,3,42.659424,-84.198128,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2623735,MI,Ingham,Williamston,Source2,3,42.665272,-84.282372,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2627606,MI,Ingham,Lansing,Source2,3,42.724152,-84.50843,2018,11,Monday,Rain,False,False,False,False,False,False,False
+A-2627607,MI,Ingham,Lansing,Source2,3,42.724152,-84.50843,2018,11,Monday,Rain,False,False,False,False,False,False,False
+A-2627613,MI,Ingham,Lansing,Source2,3,42.72626500000001,-84.510269,2018,11,Monday,Rain,False,False,False,False,False,False,False
+A-2630091,MI,Ingham,Lansing,Source2,3,42.723976,-84.51374799999998,2018,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2630092,MI,Ingham,Lansing,Source2,3,42.725651,-84.538071,2018,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2644213,MI,Ingham,Lansing,Source2,3,42.661186,-84.535248,2018,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2649123,MI,Ingham,Williamston,Source2,3,42.660164,-84.200958,2018,16,Thursday,Rain,False,False,False,False,False,False,False
+A-2651699,MI,Ingham,Williamston,Source2,3,42.659424,-84.198128,2018,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-2658360,MI,Ingham,Williamston,Source2,3,42.665813,-84.282127,2018,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2672013,MI,Ingham,Lansing,Source2,3,42.725857,-84.560051,2018,14,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-2689216,MI,Ingham,East Lansing,Source2,3,42.728008,-84.457123,2018,11,Friday,Clear / Fair,False,True,False,False,False,False,False
+A-2744304,MI,Ingham,Lansing,Source2,3,42.726051,-84.560036,2018,12,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-2746801,MI,Ingham,Williamston,Source2,3,42.659424,-84.198128,2018,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2746827,MI,Ingham,Lansing,Source2,3,42.725376,-84.585739,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2749307,MI,Ingham,Williamston,Source2,3,42.665813,-84.282127,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2766929,MI,Ingham,Lansing,Source2,3,42.725533,-84.544838,2018,17,Monday,Cloudy,False,False,True,False,False,False,False
+A-2811521,MI,Ingham,Lansing,Source2,3,42.689503,-84.502937,2018,7,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-2811541,MI,Ingham,Williamston,Source2,3,42.666134,-84.23835,2018,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2823860,MI,Ingham,Okemos,Source2,3,42.678493,-84.43283100000002,2018,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2843791,MI,Ingham,Lansing,Source2,3,42.724747,-84.5429,2018,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2843821,MI,Ingham,Okemos,Source2,3,42.678493,-84.43283100000002,2018,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2843828,MI,Ingham,Williamston,Source2,3,42.659424,-84.198128,2018,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2846452,MI,Ingham,Lansing,Source2,3,42.724194,-84.509132,2018,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2892103,MI,Ingham,Holt,Source2,3,42.6772,-84.493011,2018,2,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2922079,MI,Ingham,Okemos,Source2,3,42.678493,-84.43283100000002,2018,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2928364,MI,Ingham,Williamston,Source2,3,42.665813,-84.282127,2018,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2938088,MI,Ingham,Williamston,Source2,3,42.665813,-84.282127,2018,10,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2968506,MI,Ingham,Lansing,Source2,3,42.725288,-84.586632,2018,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2988023,MI,Ingham,Williamston,Source2,3,42.665813,-84.282127,2018,15,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-2988794,MI,Ingham,Lansing,Source2,3,42.740837,-84.510483,2018,9,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-3000596,MI,Ingham,Webberville,Source2,3,42.65887100000001,-84.197014,2018,14,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3007935,MI,Ingham,Lansing,Source2,3,42.661926,-84.532608,2018,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3010614,MI,Ingham,Lansing,Source2,3,42.725925,-84.569778,2018,12,Wednesday,Clear / Fair,False,True,False,False,False,False,False
+A-3015335,MI,Ingham,Lansing,Source2,3,42.66497800000001,-84.589111,2018,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-3015349,MI,Ingham,Williamston,Source2,3,42.661892,-84.203163,2018,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-3015357,MI,Ingham,Williamston,Source2,3,42.659424,-84.198128,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-3021347,MI,Ingham,Lansing,Source2,3,42.720177,-84.60083,2018,15,Tuesday,Rain,False,False,False,False,False,False,False
+A-3032846,MI,Ingham,Lansing,Source2,3,42.741001,-84.572823,2018,18,Sunday,Clear / Fair,False,True,False,False,False,False,False
+A-3059382,MI,Ingham,Lansing,Source2,3,42.725925,-84.569778,2018,18,Thursday,Rain,False,True,False,False,False,False,False
+A-3065063,MI,Ingham,Lansing,Source2,3,42.742966,-84.57058,2018,13,Saturday,Cloudy,False,True,False,False,False,False,False
+A-3091038,MI,Ingham,Lansing,Source2,3,42.661926,-84.532608,2018,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3111869,MI,Ingham,Lansing,Source2,3,42.725651,-84.538071,2017,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3117799,MI,Ingham,Lansing,Source2,3,42.723885,-84.50705,2017,16,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-3121734,MI,Ingham,Lansing,Source2,3,42.689503,-84.502937,2017,9,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-3121765,MI,Ingham,Mason,Source2,3,42.677734,-84.470467,2017,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3124648,MI,Ingham,Lansing,Source2,3,42.725651,-84.538071,2017,10,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3150660,MI,Ingham,Williamston,Source2,3,42.665813,-84.282127,2017,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3152781,MI,Ingham,Williamston,Source2,3,42.659424,-84.198128,2017,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3202474,MI,Ingham,Okemos,Source2,3,42.672123,-84.36994200000002,2017,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3209985,MI,Ingham,Okemos,Source2,3,42.678493,-84.43283100000002,2017,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3222262,MI,Ingham,Lansing,Source2,3,42.740799,-84.510139,2017,12,Wednesday,Rain,False,True,False,False,False,False,False
+A-3225096,MI,Ingham,Lansing,Source2,3,42.660477,-84.531174,2017,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3245740,MI,Ingham,Holt,Source2,3,42.6758,-84.49568199999999,2017,11,Sunday,Rain,False,False,False,False,False,False,False
+A-3245745,MI,Ingham,Lansing,Source2,3,42.720482,-84.504951,2017,15,Sunday,Rain,False,False,False,False,False,False,False
+A-3246346,MI,Ingham,Lansing,Source2,3,42.743656,-84.544632,2017,10,Monday,Clear / Fair,True,True,False,False,False,False,False
+A-3248947,MI,Ingham,Okemos,Source2,3,42.678493,-84.43283100000002,2017,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3285298,MI,Ingham,Lansing,Source2,3,42.725925,-84.569778,2017,17,Tuesday,Clear / Fair,False,True,False,False,False,False,False
+A-3328406,MI,Ingham,Williamston,Source2,3,42.66581,-84.282036,2017,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3353349,MI,Ingham,Webberville,Source2,3,42.658909,-84.19709,2017,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3353350,MI,Ingham,Okemos,Source2,3,42.678493,-84.43283100000002,2017,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3376815,MI,Ingham,Lansing,Source2,3,42.689503,-84.502937,2017,6,Tuesday,Rain,False,False,True,False,False,False,False
+A-3397806,MI,Ingham,Williamston,Source2,3,42.66581,-84.28208199999997,2017,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3446418,MI,Ingham,Lansing,Source1,4,42.6658,-84.602049,2016,19,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-3447974,MI,Ingham,Williamston,Source1,4,42.66177,-84.2042,2016,11,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3449457,MI,Ingham,Webberville,Source1,4,42.663379,-84.19838,2016,8,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3449459,MI,Ingham,Webberville,Source1,4,42.66936,-84.19869,2016,8,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3450086,MI,Ingham,Lansing,Source1,4,42.7261,-84.56676999999998,2016,12,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3453958,MI,Ingham,Lansing,Source1,3,42.665687,-84.51823,2016,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3457129,MI,Ingham,Lansing,Source1,3,42.72549,-84.50981999999998,2017,8,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-3457131,MI,Ingham,Lansing,Source1,3,42.725797,-84.551886,2017,8,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-3457197,MI,Ingham,Lansing,Source1,4,42.68041,-84.49951999999998,2017,18,Saturday,Snow / Ice,False,False,True,False,False,False,False
+A-3457198,MI,Ingham,Holt,Source1,4,42.677426,-84.486705,2017,18,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-3460255,MI,Ingham,Okemos,Source1,4,42.67846,-84.43802600000002,2017,23,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3467553,MI,Ingham,Lansing,Source1,4,42.693476,-84.50328,2016,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3467749,MI,Ingham,Lansing,Source1,4,42.695548,-84.54805999999998,2016,4,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3467750,MI,Ingham,Lansing,Source1,4,42.691661,-84.54802,2016,4,Sunday,Clear / Fair,False,True,False,False,False,False,False
+A-3468191,MI,Ingham,Lansing,Source1,4,42.66861,-84.54364,2016,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3468193,MI,Ingham,Lansing,Source1,4,42.67175200000001,-84.54535600000001,2016,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3468821,MI,Ingham,Stockbridge,Source1,4,42.46848,-84.19009,2016,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3468822,MI,Ingham,Stockbridge,Source1,4,42.48964,-84.1901,2016,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3469241,MI,Ingham,Williamston,Source1,4,42.70888,-84.361424,2016,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3469243,MI,Ingham,Okemos,Source1,4,42.70995,-84.36515,2016,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3470257,MI,Ingham,Lansing,Source1,4,42.69751,-84.56734,2016,17,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-3470258,MI,Ingham,Lansing,Source1,4,42.705334,-84.56756800000002,2016,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3470704,MI,Ingham,Lansing,Source1,4,42.7232,-84.50554,2016,16,Tuesday,Fog / Low visibility,False,False,True,False,False,False,False
+A-3472314,MI,Ingham,Holt,Source1,3,42.67769000000001,-84.48921,2016,22,Sunday,Cloudy,False,False,True,False,False,False,False
+A-3473225,MI,Ingham,Lansing,Source1,4,42.68302,-84.56814,2016,20,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-3477395,MI,Ingham,Holt,Source1,4,42.67769000000001,-84.48921,2016,2,Friday,Cloudy,False,False,True,False,False,False,False
+A-3483610,MI,Ingham,Lansing,Source1,4,42.66192,-84.53163,2016,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3483618,MI,Ingham,Lansing,Source1,4,42.671767,-84.545364,2016,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3483619,MI,Ingham,Lansing,Source1,4,42.66607,-84.54189000000002,2016,7,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-3483621,MI,Ingham,Lansing,Source1,4,42.66718,-84.54266,2016,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3483623,MI,Ingham,Lansing,Source1,4,42.66718,-84.54266,2016,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3484071,MI,Ingham,Lansing,Source1,4,42.73734,-84.51021999999998,2016,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3490370,MI,Ingham,East Lansing,Source1,4,42.723709,-84.506498,2016,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3491371,MI,Ingham,Lansing,Source1,4,42.680388,-84.570102,2016,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-3492062,MI,Ingham,Lansing,Source1,3,42.73059,-84.51061999999997,2016,17,Monday,Cloudy,False,False,True,False,False,False,False
+A-3493890,MI,Ingham,East Lansing,Source1,4,42.72918,-84.46146999999998,2016,13,Sunday,Cloudy,False,True,False,False,True,False,False
+A-3496098,MI,Ingham,Lansing,Source1,4,42.689446,-84.56758,2016,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3498530,MI,Ingham,Holt,Source1,3,42.67033,-84.49024,2016,17,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-3498532,MI,Ingham,Holt,Source1,3,42.67423,-84.49479000000002,2016,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3498547,MI,Ingham,Lansing,Source1,3,42.68958,-84.50294,2016,18,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-3501833,MI,Ingham,Lansing,Source1,4,42.72555,-84.56730999999998,2016,17,Thursday,Cloudy,True,True,False,False,False,False,False
+A-3506159,MI,Ingham,Lansing,Source1,4,42.67756,-84.57267,2016,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3506160,MI,Ingham,Lansing,Source1,4,42.67382,-84.57758000000003,2016,19,Monday,Clear / Fair,False,False,False,False,False,True,False
+A-3506636,MI,Ingham,Lansing,Source1,4,42.69295,-84.56752,2016,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3506637,MI,Ingham,Lansing,Source1,4,42.69116,-84.56755,2016,20,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-3506873,MI,Ingham,Mason,Source1,4,42.57738,-84.4277,2016,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3506875,MI,Ingham,Mason,Source1,4,42.57473,-84.41846,2016,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3510039,MI,Ingham,Lansing,Source1,4,42.74508,-84.50858000000002,2016,17,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-3510624,MI,Ingham,East Lansing,Source1,4,42.739983,-84.501231,2016,17,Monday,Clear / Fair,False,True,False,False,False,False,False
+A-3510626,MI,Ingham,East Lansing,Source1,4,42.740719,-84.50415500000003,2016,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3573682,MI,Ingham,East Lansing,Source1,4,42.74691,-84.47591,2017,8,Thursday,Clear / Fair,False,True,False,False,False,False,False
+A-3577777,MI,Ingham,Lansing,Source1,4,42.74081,-84.5465,2017,12,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-3581729,MI,Ingham,East Lansing,Source1,4,42.763794,-84.433461,2017,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-3584856,MI,Ingham,East Lansing,Source1,4,42.752124,-84.447512,2017,20,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-3584857,MI,Ingham,East Lansing,Source1,4,42.74822,-84.460072,2017,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3585454,MI,Ingham,Lansing,Source1,4,42.762862,-84.576892,2017,16,Friday,Cloudy,False,True,False,False,False,False,False
+A-3596624,MI,Ingham,Lansing,Source1,4,42.726323,-84.529759,2017,10,Tuesday,Rain,False,False,True,False,False,False,False
+A-3597955,MI,Ingham,Lansing,Source1,4,42.700299,-84.56737,2017,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3597958,MI,Ingham,Lansing,Source1,4,42.692959,-84.56752,2017,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3599533,MI,Ingham,Lansing,Source1,3,42.74085,-84.51098,2017,17,Thursday,Cloudy,True,True,False,False,False,False,False
+A-3599820,MI,Ingham,Lansing,Source1,4,42.705334,-84.56756800000002,2017,23,Friday,Cloudy,False,False,False,False,False,False,False
+A-3599821,MI,Ingham,Lansing,Source1,4,42.701544,-84.5674,2017,23,Friday,Cloudy,False,False,False,False,False,False,False
+A-3600310,MI,Ingham,Lansing,Source1,4,42.701544,-84.5674,2017,23,Monday,Cloudy,False,False,False,False,False,False,False
+A-3600311,MI,Ingham,Lansing,Source1,4,42.709107,-84.5678,2017,23,Monday,Cloudy,False,False,False,False,False,False,False
+A-3601439,MI,Ingham,Lansing,Source1,4,42.726026,-84.553421,2017,18,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3601957,MI,Ingham,East Lansing,Source1,4,42.727863,-84.456581,2017,23,Sunday,Clear / Fair,False,True,False,False,False,False,False
+A-3602024,MI,Ingham,Lansing,Source1,4,42.7232,-84.50554,2017,7,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-3602025,MI,Ingham,Lansing,Source1,4,42.72302,-84.5053,2017,7,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-3603755,MI,Ingham,Lansing,Source1,4,42.74085,-84.51098,2017,23,Friday,Cloudy,True,True,False,False,False,False,False
+A-3613196,MI,Ingham,Lansing,Source1,4,42.74293,-84.572799,2017,19,Monday,Clear / Fair,False,True,False,False,False,False,False
+A-3613450,MI,Ingham,Lansing,Source1,3,42.73734,-84.51021999999998,2017,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3626179,MI,Ingham,Webberville,Source1,4,42.65694000000001,-84.1931,2017,14,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-3626791,MI,Ingham,Williamston,Source1,4,42.706841,-84.355464,2017,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3626792,MI,Ingham,Williamston,Source1,4,42.705287,-84.35094699999998,2017,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3628104,MI,Ingham,Lansing,Source1,4,42.740821,-84.547123,2017,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3628555,MI,Ingham,Lansing,Source1,4,42.66294,-84.52893,2017,3,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3629763,MI,Ingham,Lansing,Source1,4,42.7433,-84.50941999999998,2017,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3629899,MI,Ingham,Webberville,Source1,4,42.60029,-84.19386,2017,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3629901,MI,Ingham,Webberville,Source1,4,42.60029,-84.19386,2017,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3630001,MI,Ingham,Lansing,Source1,4,42.68302,-84.56814,2017,17,Thursday,Cloudy,True,False,False,False,False,False,False
+A-3630002,MI,Ingham,Lansing,Source1,4,42.681012,-84.56952700000002,2017,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3630554,MI,Ingham,Lansing,Source1,3,42.74508,-84.50858000000002,2017,8,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-3630788,MI,Ingham,Lansing,Source1,4,42.681012,-84.569528,2017,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-3630789,MI,Ingham,Lansing,Source1,4,42.68302,-84.56814,2017,17,Monday,Cloudy,True,False,False,False,False,False,False
+A-3634303,MI,Ingham,Lansing,Source1,4,42.727227,-84.569749,2017,16,Monday,Clear / Fair,False,True,False,False,False,False,False
+A-3635016,MI,Ingham,Lansing,Source1,4,42.72524,-84.58669,2017,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3641936,MI,Ingham,Williamston,Source1,4,42.66515,-84.27515,2017,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3642805,MI,Ingham,East Lansing,Source1,3,42.71934,-84.50439,2017,7,Wednesday,Rain,False,False,True,False,False,False,False
+A-3643048,MI,Ingham,Lansing,Source1,4,42.738391,-84.51021999999998,2017,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3643055,MI,Ingham,Lansing,Source1,4,42.74508,-84.50858000000002,2017,20,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-3645418,MI,Ingham,Lansing,Source1,4,42.722481,-84.597516,2017,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3663672,MI,Ingham,East Lansing,Source1,4,42.756222,-84.507674,2023,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3694482,MI,Ingham,Williamston,Source1,4,42.665225,-84.212975,2023,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-3699554,MI,Ingham,Lansing,Source1,4,42.72614121,-84.58229184,2023,5,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-3711125,MI,Ingham,Lansing,Source1,4,42.745325,-84.508463,2022,8,Wednesday,Rain,False,False,True,False,False,False,False
+A-3759833,MI,Ingham,Lansing,Source1,4,42.716008,-84.50533,2022,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3762258,MI,Ingham,Lansing,Source1,4,42.725813,-84.55147099999998,2023,21,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3822774,MI,Ingham,Lansing,Source1,4,42.766822,-84.59088299999998,2023,16,Wednesday,Clear / Fair,False,True,False,False,False,False,False
+A-3857700,MI,Ingham,Lansing,Source1,4,42.724038362299325,-84.51931357343426,2022,16,Wednesday,Rain,False,False,True,False,False,False,False
+A-3863245,MI,Ingham,Lansing,Source1,4,42.724152,-84.50842800000002,2023,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3864268,MI,Ingham,Lansing,Source1,4,42.67929912,-84.49880004,2022,23,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-3883656,MI,Ingham,Lansing,Source1,4,42.693795,-84.50327,2023,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3918469,MI,Ingham,Williamston,Source1,4,42.66517996767681,-84.26767945249429,2022,6,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3947741,MI,Ingham,Lansing,Source1,4,42.731462716852505,-84.51062321622604,2022,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3967324,MI,Ingham,Lansing,Source1,4,42.72585,-84.557289,2022,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4042377,MI,Ingham,East Lansing,Source1,4,42.75522700000001,-84.507628,2022,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4117263,MI,Ingham,Leslie,Source1,4,42.451289,-84.443685,2023,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4126224,MI,Ingham,Lansing,Source1,4,42.72605538347853,-84.56010460813255,2022,16,Friday,Rain,False,False,True,False,False,False,False
+A-4138078,MI,Ingham,Lansing,Source1,4,42.689469,-84.567565,2022,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4293110,MI,Ingham,Lansing,Source1,4,42.668334,-84.543461,2022,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-4313335,MI,Ingham,Lansing,Source1,4,42.667237,-84.542733,2022,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-4315145,MI,Ingham,Lansing,Source1,4,42.708408,-84.54799399999997,2022,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4334434,MI,Ingham,Lansing,Source1,4,42.731462716852505,-84.51062321622604,2022,16,Friday,Rain,False,False,False,False,False,False,False
+A-4399454,MI,Ingham,Lansing,Source1,4,42.725840806757326,-84.5100438590788,2022,14,Tuesday,Rain,False,False,True,False,False,False,False
+A-4433260,MI,Ingham,Lansing,Source1,4,42.66305566,-84.52849746,2022,21,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-4460694,MI,Ingham,Lansing,Source1,4,42.723266,-84.505746,2022,15,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-4469736,MI,Ingham,East Lansing,Source1,4,42.746876,-84.483698,2022,10,Friday,Clear / Fair,True,True,False,False,False,False,False
+A-4471986,MI,Ingham,Williamston,Source1,4,42.66517996767681,-84.26767945249429,2022,15,Tuesday,Rain,False,False,False,False,False,False,False
+A-4541595,MI,Ingham,Lansing,Source1,4,42.740899,-84.513812,2022,21,Tuesday,Clear / Fair,False,True,False,False,False,False,False
+A-4552808,MI,Ingham,Lansing,Source1,4,42.733373,-84.544676,2022,8,Tuesday,Clear / Fair,True,True,False,False,False,True,False
+A-4581957,MI,Ingham,Leslie,Source1,4,42.45128989199423,-84.44367527921466,2022,15,Tuesday,Rain,False,False,False,False,False,False,False
+A-4591762,MI,Ingham,Lansing,Source1,4,42.740805,-84.506702,2022,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4601530,MI,Ingham,Lansing,Source1,4,42.72586,-84.538071,2022,7,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4620510,MI,Ingham,Okemos,Source1,4,42.67847800000001,-84.432436,2022,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4636281,MI,Ingham,Lansing,Source1,4,42.689469,-84.567565,2022,11,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4654276,MI,Ingham,Lansing,Source1,4,42.73397,-84.51059000000002,2022,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4678473,MI,Ingham,Lansing,Source1,4,42.674046,-84.577297,2022,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4808441,MI,Ingham,Lansing,Source1,4,42.733588,-84.548229,2022,6,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4813827,MI,Ingham,Lansing,Source1,4,42.724038362299325,-84.51931357343426,2022,16,Wednesday,Rain,False,False,True,False,False,False,False
+A-4889767,MI,Ingham,Mason,Source1,4,42.593086,-84.46378,2022,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4966743,MI,Ingham,Lansing,Source1,4,42.72599101046215,-84.55145716626858,2022,14,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-5030841,MI,Ingham,Lansing,Source1,4,42.72309422,-84.50545192,2023,8,Thursday,Snow / Ice,False,False,True,False,False,False,False
+A-5103630,MI,Ingham,Lansing,Source1,4,42.704632,-84.505645,2022,10,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-5160826,MI,Ingham,Lansing,Source1,4,42.6886117456308,-84.5028984542632,2022,17,Wednesday,Rain,False,False,False,False,False,False,False
+A-5171704,MI,Ingham,Lansing,Source1,4,42.669045,-84.509203,2022,1,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5183184,MI,Ingham,Okemos,Source1,4,42.678262,-84.450638,2022,6,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-5242431,MI,Ingham,Lansing,Source1,4,42.71651,-84.54629399999997,2022,13,Monday,Cloudy,True,True,False,False,False,False,False
+A-5243394,MI,Ingham,Lansing,Source1,4,42.76603103,-84.51165318,2023,8,Thursday,Rain,False,False,True,False,False,False,False
+A-5264188,MI,Ingham,East Lansing,Source1,4,42.755185,-84.507976,2023,1,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5285932,MI,Ingham,Lansing,Source1,4,42.725935,-84.572361,2022,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5296910,MI,Ingham,Okemos,Source1,4,42.678417,-84.441133,2022,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5333065,MI,Ingham,Lansing,Source1,4,42.756988,-84.561908,2022,10,Friday,Snow / Ice,False,True,False,False,False,False,False
+A-5376570,MI,Ingham,Holt,Source1,4,42.67511487,-84.49459434,2022,17,Thursday,Cloudy,False,False,True,False,False,False,False
+A-5426447,MI,Ingham,Lansing,Source1,4,42.73682713488228,-84.5102369781279,2022,17,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-5531946,MI,Ingham,Lansing,Source1,4,42.725938,-84.5754,2021,13,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-5539431,MI,Ingham,Lansing,Source1,4,42.722367,-84.596316,2021,0,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5546323,MI,Ingham,Lansing,Source1,4,42.725840806757326,-84.5494616027615,2021,10,Monday,Rain,False,False,False,False,False,False,False
+A-5589366,MI,Ingham,Mason,Source1,4,42.67743229845677,-84.41944956739226,2021,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-5596353,MI,Ingham,Mason,Source1,4,42.678174,-84.441934,2021,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5665076,MI,Ingham,Williamston,Source1,4,42.665587663447056,-84.21281218488592,2021,14,Friday,Rain,False,False,False,False,False,False,False
+A-5678440,MI,Ingham,Lansing,Source1,4,42.740829,-84.54798100000002,2021,3,Monday,Clear / Fair,False,True,False,False,False,False,False
+A-5686980,MI,Ingham,Lansing,Source1,4,42.731462716852505,-84.51062321622604,2021,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5687414,MI,Ingham,Lansing,Source1,4,42.763598,-84.57949,2021,15,Thursday,Cloudy,False,True,False,False,False,False,False
+A-5692352,MI,Ingham,Lansing,Source1,4,42.725840806757326,-84.5100438590788,2021,20,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-5722552,MI,Ingham,Leslie,Source1,4,42.4412262437704,-84.4436323638704,2021,5,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-5724478,MI,Ingham,Okemos,Source1,4,42.676327,-84.398833,2021,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5744494,MI,Ingham,Lansing,Source1,4,42.722767,-84.506796,2021,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5760581,MI,Ingham,Lansing,Source1,4,42.69915,-84.548039,2021,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5762475,MI,Ingham,Lansing,Source1,4,42.765707,-84.586851,2021,17,Thursday,Cloudy,False,True,False,False,False,False,False
+A-5802684,MI,Ingham,Lansing,Source1,4,42.725840806757326,-84.5100438590788,2021,15,Saturday,Snow / Ice,False,False,True,False,False,False,False
+A-5836856,MI,Ingham,Lansing,Source1,4,42.69446969011929,-84.50328469236132,2021,15,Thursday,Rain,False,False,True,False,False,False,False
+A-5837292,MI,Ingham,Lansing,Source1,4,42.68599390963227,-84.5029199119353,2021,15,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-5873816,MI,Ingham,Mason,Source1,4,42.67816185930881,-84.44193720777302,2021,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5874785,MI,Ingham,Lansing,Source1,4,42.764846,-84.583811,2021,15,Thursday,Cloudy,False,True,False,False,False,False,False
+A-5921816,MI,Ingham,Lansing,Source1,4,42.724038362299325,-84.51931357343426,2021,21,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-5928638,MI,Ingham,Lansing,Source1,4,42.682198,-84.499973,2021,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5941605,MI,Ingham,Mason,Source1,4,42.51375317553274,-84.44341778714922,2021,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5962015,MI,Ingham,Lansing,Source1,4,42.720285,-84.504862,2021,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5970214,MI,Ingham,Holt,Source1,4,42.676359414850815,-84.49601054151299,2021,15,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-5998200,MI,Ingham,Leslie,Source1,4,42.46116042116899,-84.44352507550981,2021,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6007705,MI,Ingham,East Lansing,Source1,4,42.72461771944654,-84.50772643048998,2021,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6040375,MI,Ingham,Lansing,Source1,4,42.76603102663629,-84.51165318448773,2021,5,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-6065556,MI,Ingham,Lansing,Source1,4,42.719126,-84.54556600000002,2021,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6126524,MI,Ingham,Lansing,Source1,4,42.733367,-84.51025899999998,2021,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6201008,MI,Ingham,Lansing,Source1,4,42.7262485025276,-84.52937722165808,2021,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-6204271,MI,Ingham,Lansing,Source1,4,42.67524361590064,-84.4964826102996,2021,21,Sunday,Rain,False,False,True,False,False,False,False
+A-6310122,MI,Ingham,Lansing,Source1,4,42.717559,-84.546002,2021,14,Thursday,Cloudy,False,True,False,False,False,False,False
+A-6398959,MI,Ingham,Williamston,Source1,4,42.666639,-84.336215,2021,10,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-6418119,MI,Ingham,Williamston,Source1,4,42.688671,-84.219966,2021,13,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-6541056,MI,Ingham,Webberville,Source1,4,42.651811,-84.177471,2021,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6643398,MI,Ingham,East Lansing,Source1,4,42.725797,-84.509378,2020,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-6647645,MI,Ingham,Mason,Source1,4,42.57068,-84.453138,2020,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6657635,MI,Ingham,Lansing,Source1,4,42.745324,-84.508455,2020,4,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-6659272,MI,Ingham,Lansing,Source1,4,42.665888,-84.541758,2020,16,Monday,Cloudy,True,False,False,False,False,False,False
+A-6662855,MI,Ingham,Lansing,Source1,4,42.723094,-84.50545100000002,2020,15,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-6706545,MI,Ingham,Holt,Source1,4,42.670286,-84.490088,2020,18,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-6716252,MI,Ingham,Lansing,Source1,4,42.704622,-84.505274,2020,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6731027,MI,Ingham,Okemos,Source1,4,42.678204,-84.426702,2020,1,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6745100,MI,Ingham,Mason,Source1,4,42.563718,-84.445545,2020,12,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-6752355,MI,Ingham,Lansing,Source1,4,42.666252,-84.54016999999997,2020,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-6777312,MI,Ingham,Lansing,Source1,4,42.723094,-84.50545100000002,2020,15,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-6798455,MI,Ingham,Lansing,Source1,4,42.667604,-84.54298100000003,2020,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-6948607,MI,Ingham,East Lansing,Source1,4,42.725797,-84.509378,2020,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-6963151,MI,Ingham,Lansing,Source1,4,42.704622,-84.505274,2020,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6993187,MI,Ingham,Williamston,Source1,3,42.66573,-84.27543,2020,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-7009270,MI,Ingham,Okemos,Source1,4,42.67822,-84.42721999999998,2020,0,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7011746,MI,Ingham,Okemos,Source1,4,42.67822,-84.42721999999998,2020,0,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7035126,MI,Ingham,Lansing,Source1,4,42.72578,-84.53849,2020,9,Monday,Rain,False,False,True,False,False,False,False
+A-7035129,MI,Ingham,Lansing,Source1,4,42.72578,-84.53849,2020,10,Monday,Rain,False,False,True,False,False,False,False
+A-7042255,MI,Ingham,Lansing,Source1,4,42.72555,-84.56979,2020,17,Thursday,Cloudy,True,True,False,False,False,False,False
+A-7042264,MI,Ingham,Lansing,Source1,4,42.72555,-84.56979,2020,18,Thursday,Cloudy,True,True,False,False,False,False,False
+A-7044607,MI,Ingham,Webberville,Source1,4,42.65653,-84.19357,2020,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-7054310,MI,Ingham,Webberville,Source1,3,42.65653,-84.19357,2020,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7065537,MI,Ingham,Lansing,Source1,4,42.7244,-84.56733,2020,3,Monday,Clear / Fair,False,True,False,False,False,False,False
+A-7082255,MI,Ingham,Lansing,Source1,4,42.66385,-84.58154999999998,2020,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7088090,MI,Ingham,Lansing,Source1,3,42.72629000000001,-84.52959,2020,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7088095,MI,Ingham,Lansing,Source1,3,42.72629000000001,-84.52959,2020,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7101783,MI,Ingham,Webberville,Source1,3,42.65694000000001,-84.1931,2020,18,Saturday,Cloudy,False,False,True,False,False,False,False
+A-7104769,MI,Ingham,Lansing,Source1,4,42.68191,-84.56878,2020,23,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7119820,MI,Ingham,Lansing,Source1,4,42.74086,-84.51326,2020,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7179646,MI,Ingham,Lansing,Source1,4,42.71642,-84.60319,2020,16,Thursday,Cloudy,True,True,False,False,False,False,False
+A-7179647,MI,Ingham,Lansing,Source1,4,42.71642,-84.60319,2020,16,Thursday,Cloudy,True,True,False,False,False,False,False
+A-7201881,MI,Ingham,Lansing,Source1,4,42.72629000000001,-84.52959,2020,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7201882,MI,Ingham,Lansing,Source1,4,42.72629000000001,-84.52959,2020,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7201889,MI,Ingham,Lansing,Source1,4,42.72629000000001,-84.52959,2020,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7213777,MI,Ingham,Mason,Source1,4,42.52952,-84.44346,2020,4,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7230662,MI,Ingham,Mason,Source1,4,42.56934,-84.45195,2020,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-7231642,MI,Ingham,Lansing,Source1,3,42.7262,-84.5292,2020,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7234571,MI,Ingham,Lansing,Source1,3,42.73734,-84.51021999999998,2020,18,Friday,Rain,False,False,False,False,False,False,False
+A-7238679,MI,Ingham,Lansing,Source1,4,42.69739000000001,-84.54804,2020,4,Sunday,Fog / Low visibility,True,False,False,False,False,False,False
+A-7238680,MI,Ingham,Lansing,Source1,4,42.69912,-84.54804,2020,4,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7245748,MI,Ingham,Holt,Source1,4,42.67033,-84.49024,2020,23,Saturday,Cloudy,False,False,True,False,False,False,False
+A-7265855,MI,Ingham,Lansing,Source1,4,42.6638,-84.53358,2020,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-7269881,MI,Ingham,Lansing,Source1,3,42.72549,-84.50981999999998,2020,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7272297,MI,Ingham,Lansing,Source1,4,42.69739000000001,-84.54804,2020,13,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-7272298,MI,Ingham,Lansing,Source1,4,42.69912,-84.54804,2020,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7285340,MI,Ingham,Lansing,Source1,4,42.66927,-84.54404,2019,21,Monday,Fog / Low visibility,True,False,False,False,False,False,False
+A-7285341,MI,Ingham,Lansing,Source1,4,42.66927,-84.54404,2019,21,Monday,Fog / Low visibility,True,False,False,False,False,False,False
+A-7295643,MI,Ingham,Lansing,Source1,4,42.7232,-84.50554,2019,8,Tuesday,Snow / Ice,False,False,True,False,False,False,False
+A-7295644,MI,Ingham,East Lansing,Source1,4,42.71934,-84.50439,2019,8,Tuesday,Snow / Ice,False,False,True,False,False,False,False
+A-7313953,MI,Ingham,Lansing,Source1,4,42.71191,-84.54776,2019,7,Saturday,Cloudy,True,True,False,False,False,False,False
+A-7313959,MI,Ingham,Lansing,Source1,3,42.66531,-84.59565,2019,20,Saturday,Cloudy,False,False,True,False,False,False,False
+A-7317546,MI,Ingham,Williamston,Source1,4,42.66577,-84.27929,2019,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7317548,MI,Ingham,Williamston,Source1,4,42.66597,-84.29308,2019,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7322238,MI,Ingham,Webberville,Source1,4,42.65902,-84.19739,2019,0,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7323886,MI,Ingham,Williamston,Source1,4,42.67621,-84.21901,2019,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7323887,MI,Ingham,Williamston,Source1,4,42.69327,-84.22032,2019,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7336386,MI,Ingham,Lansing,Source1,3,42.74165,-84.51021,2019,14,Friday,Rain,False,False,False,False,False,False,False
+A-7336433,MI,Ingham,Lansing,Source1,4,42.74086,-84.5335,2019,0,Saturday,Cloudy,False,True,False,False,False,False,False
+A-7339769,MI,Ingham,Lansing,Source1,4,42.72616,-84.58224,2019,4,Monday,Cloudy,False,False,True,False,False,False,False
+A-7339789,MI,Ingham,Lansing,Source1,3,42.72691,-84.56979,2019,16,Monday,Cloudy,False,True,False,False,False,False,False
+A-7345296,MI,Ingham,Lansing,Source1,4,42.67945,-84.54805,2019,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7351868,MI,Ingham,Lansing,Source1,4,42.72509,-84.50949,2019,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7351869,MI,Ingham,Lansing,Source1,4,42.72392,-84.51018,2019,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7351871,MI,Ingham,Lansing,Source1,4,42.72392,-84.51018,2019,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7351872,MI,Ingham,Lansing,Source1,4,42.72493,-84.50933,2019,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7359876,MI,Ingham,Webberville,Source1,4,42.65756,-84.19568000000002,2019,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7359888,MI,Ingham,Williamston,Source1,4,42.66177,-84.2042,2019,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7359889,MI,Ingham,Williamston,Source1,4,42.66177,-84.2042,2019,11,Tuesday,Rain,False,False,False,False,False,False,False
+A-7362943,MI,Ingham,Lansing,Source1,3,42.7232,-84.50554,2019,10,Thursday,Rain,False,False,True,False,False,False,False
+A-7362944,MI,Ingham,Lansing,Source1,3,42.72006,-84.50426,2019,10,Thursday,Rain,False,False,False,False,False,False,False
+A-7362960,MI,Ingham,East Lansing,Source1,4,42.74055,-84.50346,2019,18,Thursday,Snow / Ice,True,True,False,False,False,False,False
+A-7362963,MI,Ingham,Lansing,Source1,4,42.69016,-84.54799999999999,2019,20,Thursday,Snow / Ice,True,False,False,False,False,False,False
+A-7367077,MI,Ingham,East Lansing,Source1,4,42.72937,-84.46219,2019,9,Sunday,Cloudy,True,True,False,False,False,False,False
+A-7367078,MI,Ingham,East Lansing,Source1,4,42.72907,-84.46105,2019,9,Sunday,Cloudy,False,True,False,False,True,False,False
+A-7372540,MI,Ingham,Lansing,Source1,4,42.72404,-84.51931,2019,5,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7377485,MI,Ingham,Lansing,Source1,4,42.73059,-84.51061999999997,2019,6,Monday,Snow / Ice,False,False,True,False,False,False,False
+A-7380067,MI,Ingham,Williamston,Source1,4,42.66572,-84.27481999999998,2019,1,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7383473,MI,Ingham,Leslie,Source1,4,42.45144000000001,-84.44371,2019,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7398573,MI,Ingham,Lansing,Source1,3,42.68041,-84.49951999999998,2019,16,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7399764,MI,Ingham,East Lansing,Source1,3,42.75524,-84.50763,2019,16,Friday,Rain,False,False,False,False,False,False,False
+A-7414616,MI,Ingham,Lansing,Source1,3,42.74508,-84.50858000000002,2019,9,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7415966,MI,Ingham,Lansing,Source1,3,42.72017,-84.50480999999998,2019,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7417347,MI,Ingham,Okemos,Source1,4,42.7178,-84.40985,2019,18,Friday,Cloudy,True,True,False,False,False,False,False
+A-7421918,MI,Ingham,Lansing,Source1,4,42.68041,-84.49951999999998,2019,9,Monday,Snow / Ice,False,False,True,False,False,False,False
+A-7424440,MI,Ingham,Mason,Source1,4,42.67813,-84.44138000000002,2019,0,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7425735,MI,Ingham,East Lansing,Source1,3,42.75043400000001,-84.50796,2019,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-7425741,MI,Ingham,Lansing,Source1,4,42.711559,-84.56745,2019,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7427493,MI,Ingham,Williamston,Source1,4,42.660576,-84.200552,2019,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7428544,MI,Ingham,Lansing,Source1,4,42.741347,-84.504064,2019,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7428545,MI,Ingham,Lansing,Source1,4,42.740889,-84.50565,2019,8,Saturday,Cloudy,False,True,False,False,False,False,False
+A-7431286,MI,Ingham,Lansing,Source1,3,42.74085,-84.50974000000002,2019,15,Friday,Cloudy,True,True,False,False,False,False,False
+A-7437468,MI,Ingham,East Lansing,Source1,4,42.74477,-84.49364,2019,10,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-7437469,MI,Ingham,East Lansing,Source1,4,42.74688,-84.48374,2019,10,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-7438231,MI,Ingham,Lansing,Source1,4,42.737344,-84.51058,2019,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-7438251,MI,Ingham,Lansing,Source1,3,42.73059,-84.51061999999997,2019,17,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7443861,MI,Ingham,Leslie,Source1,4,42.49066,-84.44384000000002,2019,18,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-7446098,MI,Ingham,Webberville,Source1,4,42.65772,-84.19473,2019,5,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7448960,MI,Ingham,Lansing,Source1,4,42.66294,-84.52809,2019,9,Monday,Cloudy,False,False,True,False,False,False,False
+A-7452396,MI,Ingham,Lansing,Source1,4,42.66531,-84.59565,2019,2,Sunday,Cloudy,False,False,True,False,False,False,False
+A-7452397,MI,Ingham,Lansing,Source1,4,42.66294,-84.52893,2019,2,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7455975,MI,Ingham,Lansing,Source1,4,42.742211,-84.50935799999998,2019,20,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-7460467,MI,Ingham,Lansing,Source1,4,42.701264,-84.54803000000003,2019,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7460468,MI,Ingham,Lansing,Source1,4,42.703712,-84.54802,2019,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7463788,MI,Ingham,Lansing,Source1,4,42.67344,-84.4986,2019,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7467163,MI,Ingham,Lansing,Source1,4,42.74107,-84.60107099999998,2019,15,Tuesday,Cloudy,False,False,False,False,True,False,False
+A-7470649,MI,Ingham,Lansing,Source1,3,42.67241,-84.50109,2019,14,Monday,Snow / Ice,False,False,True,False,False,False,False
+A-7470655,MI,Ingham,Lansing,Source1,3,42.66531,-84.59565,2019,15,Monday,Snow / Ice,False,False,True,False,False,False,False
+A-7471981,MI,Ingham,Lansing,Source1,4,42.68302,-84.56814,2019,17,Wednesday,Fog / Low visibility,True,False,False,False,False,False,False
+A-7471982,MI,Ingham,Lansing,Source1,4,42.68302,-84.56814,2019,17,Wednesday,Fog / Low visibility,True,False,False,False,False,False,False
+A-7476999,MI,Ingham,Lansing,Source1,4,42.68041,-84.49951999999998,2018,12,Thursday,Other,False,False,True,False,False,False,False
+A-7479408,MI,Ingham,Williamston,Source1,4,42.70975,-84.36442199999998,2018,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7479409,MI,Ingham,Williamston,Source1,4,42.708826,-84.361273,2018,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7485557,MI,Ingham,Mason,Source1,4,42.593425,-84.463522,2018,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7485559,MI,Ingham,Lansing,Source1,4,42.72657,-84.5833,2018,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7486277,MI,Ingham,Lansing,Source1,3,42.72404,-84.51931,2018,18,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7486282,MI,Ingham,East Lansing,Source1,4,42.744027,-84.495269,2018,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7488284,MI,Ingham,Lansing,Source1,4,42.72652,-84.53285,2018,12,Friday,Cloudy,False,True,False,False,False,False,True
+A-7488287,MI,Ingham,Lansing,Source1,4,42.72574,-84.55037,2018,14,Friday,Cloudy,False,False,True,False,False,False,False
+A-7488289,MI,Ingham,Lansing,Source1,4,42.72574,-84.55037,2018,15,Friday,Cloudy,False,False,True,False,False,False,False
+A-7490930,MI,Ingham,Lansing,Source1,4,42.66192,-84.53163,2018,22,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7493539,MI,Ingham,Lansing,Source1,4,42.74508,-84.50858000000002,2018,17,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7494570,MI,Ingham,Lansing,Source1,3,42.744924,-84.50837800000002,2018,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-7496582,MI,Ingham,Lansing,Source1,4,42.74250900000001,-84.509791,2018,3,Tuesday,Rain,False,True,False,False,False,False,False
+A-7501090,MI,Ingham,East Lansing,Source1,4,42.74689,-84.484555,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7504612,MI,Ingham,Lansing,Source1,4,42.739367,-84.510562,2018,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-7504614,MI,Ingham,Lansing,Source1,4,42.739367,-84.510562,2018,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-7515461,MI,Ingham,Lansing,Source1,4,42.694005,-84.50291999999997,2018,10,Saturday,Rain,False,False,False,False,False,False,False
+A-7515740,MI,Ingham,Lansing,Source1,4,42.74086,-84.532012,2018,22,Sunday,Cloudy,False,True,False,False,False,False,False
+A-7516548,MI,Ingham,East Lansing,Source1,4,42.74688,-84.48374,2018,19,Tuesday,Clear / Fair,True,True,False,False,False,False,False
+A-7519298,MI,Ingham,Lansing,Source1,4,42.762809,-84.5104,2018,8,Monday,Rain,False,False,False,False,False,False,False
+A-7519306,MI,Ingham,Lansing,Source1,4,42.72353,-84.50596,2018,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7519319,MI,Ingham,Lansing,Source1,4,42.71912,-84.56736,2018,20,Monday,Cloudy,False,True,False,False,False,False,False
+A-7522734,MI,Ingham,Lansing,Source1,4,42.702751,-84.54802,2018,15,Saturday,Rain,False,False,False,False,False,False,False
+A-7522735,MI,Ingham,Lansing,Source1,4,42.700873,-84.54803000000003,2018,15,Saturday,Rain,False,False,False,False,False,False,False
+A-7522737,MI,Ingham,Lansing,Source1,4,42.702751,-84.54802,2018,0,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7522738,MI,Ingham,Lansing,Source1,4,42.700873,-84.54803000000003,2018,0,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7524819,MI,Ingham,Mason,Source1,4,42.563951,-84.388645,2018,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7524820,MI,Ingham,Mason,Source1,4,42.558415,-84.375421,2018,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7528050,MI,Ingham,Lansing,Source1,4,42.694077,-84.56751,2018,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7528051,MI,Ingham,Lansing,Source1,4,42.688524,-84.56759,2018,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7528871,MI,Ingham,Lansing,Source1,3,42.74739,-84.5465,2018,20,Sunday,Clear / Fair,True,True,False,False,False,False,False
+A-7531882,MI,Ingham,Lansing,Source1,4,42.72702,-84.51015,2018,18,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7531885,MI,Ingham,East Lansing,Source1,4,42.74688,-84.48374,2018,20,Friday,Clear / Fair,True,True,False,False,False,False,False
+A-7531886,MI,Ingham,East Lansing,Source1,4,42.74691,-84.473291,2018,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7532680,MI,Ingham,Lansing,Source1,4,42.672256,-84.502166,2018,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7532681,MI,Ingham,Lansing,Source1,4,42.67939000000001,-84.49884,2018,17,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-7535080,MI,Ingham,Lansing,Source1,4,42.7262,-84.5292,2018,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7536295,MI,Ingham,Lansing,Source1,4,42.716411,-84.603206,2018,7,Saturday,Fog / Low visibility,True,True,False,False,False,False,False
+A-7536546,MI,Ingham,Lansing,Source1,4,42.66923,-84.58377,2018,19,Sunday,Clear / Fair,True,True,False,False,False,True,False
+A-7536547,MI,Ingham,Lansing,Source1,4,42.66923,-84.58377,2018,19,Sunday,Clear / Fair,True,True,False,False,False,True,False
+A-7538473,MI,Ingham,Okemos,Source1,3,42.72209,-84.42755,2018,12,Thursday,Rain,True,True,False,False,False,False,False
+A-7538474,MI,Ingham,Okemos,Source1,3,42.72209,-84.42755,2018,12,Thursday,Rain,True,True,False,False,False,False,False
+A-7538491,MI,Ingham,Lansing,Source1,4,42.760391,-84.54279,2018,18,Thursday,Clear / Fair,False,True,False,False,False,False,False
+A-7538492,MI,Ingham,Lansing,Source1,4,42.763795,-84.54278000000002,2018,18,Thursday,Clear / Fair,False,True,False,False,False,False,False
+A-7539034,MI,Ingham,Leslie,Source1,3,42.45671,-84.44374,2018,4,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7542909,MI,Ingham,Lansing,Source1,4,42.741425,-84.50653199999998,2018,17,Saturday,Cloudy,False,True,False,False,False,False,False
+A-7543583,MI,Ingham,Lansing,Source1,4,42.721877,-84.60015200000002,2018,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7544940,MI,Ingham,Lansing,Source1,3,42.73059,-84.51061999999997,2018,11,Monday,Rain,False,False,True,False,False,False,False
+A-7550684,MI,Ingham,Lansing,Source1,4,42.740858,-84.513028,2018,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7550685,MI,Ingham,Lansing,Source1,4,42.74068,-84.51018,2018,20,Tuesday,Cloudy,False,True,False,False,False,False,False
+A-7552284,MI,Ingham,Lansing,Source1,4,42.74107,-84.60107099999998,2018,18,Friday,Cloudy,False,False,False,False,True,False,False
+A-7552832,MI,Ingham,Lansing,Source1,4,42.69415,-84.50327,2018,9,Saturday,Rain,False,False,False,False,False,False,False
+A-7552841,MI,Ingham,Lansing,Source1,4,42.713905,-84.50558000000002,2018,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7552842,MI,Ingham,Lansing,Source1,4,42.713905,-84.50558000000002,2018,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7553239,MI,Ingham,Lansing,Source1,4,42.7244,-84.56976999999998,2018,23,Monday,Clear / Fair,False,True,False,False,False,False,False
+A-7557770,MI,Ingham,Lansing,Source1,4,42.66531,-84.59565,2018,3,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7559411,MI,Ingham,Lansing,Source1,4,42.67175200000001,-84.54535600000001,2018,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7560003,MI,Ingham,Lansing,Source1,4,42.74508,-84.50858000000002,2018,5,Friday,Cloudy,False,False,True,False,False,False,False
+A-7564468,MI,Ingham,Lansing,Source1,4,42.679457,-84.54805,2018,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7564469,MI,Ingham,Lansing,Source1,4,42.685546,-84.54803000000003,2018,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7565393,MI,Ingham,East Lansing,Source1,4,42.725456,-84.448134,2018,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-7565885,MI,Ingham,Lansing,Source1,3,42.72578,-84.53849,2018,15,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7566273,MI,Ingham,Lansing,Source1,4,42.73059,-84.51061999999997,2018,1,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7566734,MI,Ingham,Lansing,Source1,4,42.710148,-84.54799999999999,2018,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-7566735,MI,Ingham,Lansing,Source1,4,42.704146,-84.54800999999998,2018,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-7567356,MI,Ingham,Holt,Source1,3,42.677427,-84.48670200000002,2018,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7567778,MI,Ingham,Lansing,Source1,4,42.7261,-84.56676999999998,2018,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7567783,MI,Ingham,Mason,Source1,4,42.57919,-84.452836,2018,15,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-7567784,MI,Ingham,Mason,Source1,4,42.57919,-84.449469,2018,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7570287,MI,Ingham,Lansing,Source1,3,42.73059,-84.51061999999997,2018,17,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7572083,MI,Ingham,Williamston,Source1,4,42.66523,-84.281275,2018,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7572234,MI,Ingham,Lansing,Source1,4,42.725922,-84.568946,2018,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-7573793,MI,Ingham,Lansing,Source1,4,42.714232,-84.56743,2018,5,Friday,Rain,False,False,False,False,False,False,False
+A-7573829,MI,Ingham,Williamston,Source1,3,42.67137,-84.207853,2018,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7573830,MI,Ingham,Williamston,Source1,3,42.676601,-84.22097600000002,2018,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7575332,MI,Ingham,East Lansing,Source1,4,42.758522,-84.508351,2018,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7578086,MI,Ingham,Lansing,Source1,3,42.726942,-84.510511,2018,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7580627,MI,Ingham,Webberville,Source1,4,42.662319,-84.19830999999998,2018,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7582689,MI,Ingham,Lansing,Source1,4,42.72425,-84.514178,2018,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7586120,MI,Ingham,Mason,Source1,4,42.67782,-84.42538,2018,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7586123,MI,Ingham,Williamston,Source1,3,42.66177,-84.2042,2018,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7587074,MI,Ingham,Williamston,Source1,4,42.66581,-84.281637,2018,7,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7588637,MI,Ingham,Lansing,Source1,4,42.7262,-84.5292,2018,2,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7588638,MI,Ingham,Lansing,Source1,4,42.72595,-84.57496,2018,2,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7591165,MI,Ingham,Okemos,Source1,4,42.67817,-84.42655,2018,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7591931,MI,Ingham,Lansing,Source1,4,42.725909,-84.58511,2018,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7592795,MI,Ingham,Mason,Source1,4,42.526958,-84.44345,2018,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7592796,MI,Ingham,Mason,Source1,4,42.520378,-84.443211,2018,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7592797,MI,Ingham,Mason,Source1,4,42.526958,-84.44345,2018,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7592798,MI,Ingham,Leslie,Source1,4,42.451491,-84.44348000000002,2018,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7595950,MI,Ingham,Mason,Source1,4,42.677588,-84.421892,2018,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7596558,MI,Ingham,Lansing,Source1,4,42.762862,-84.576892,2018,17,Monday,Clear / Fair,False,True,False,False,False,False,False
+A-7598180,MI,Ingham,East Lansing,Source1,4,42.74688,-84.483762,2018,22,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-7598629,MI,Ingham,Lansing,Source1,4,42.66768,-84.58584,2018,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7598630,MI,Ingham,Lansing,Source1,4,42.669236,-84.583762,2018,6,Friday,Clear / Fair,True,True,False,False,False,True,False
+A-7599851,MI,Ingham,Lansing,Source1,4,42.66367,-84.5337,2018,19,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-7599853,MI,Ingham,Lansing,Source1,4,42.66569000000001,-84.5382,2018,19,Thursday,Snow / Ice,True,False,False,False,False,False,False
+A-7601263,MI,Ingham,Lansing,Source1,4,42.74083,-84.50636999999998,2018,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7601264,MI,Ingham,East Lansing,Source1,4,42.74072,-84.50416,2018,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7601276,MI,Ingham,Okemos,Source1,4,42.721644,-84.42486600000002,2018,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7601277,MI,Ingham,Okemos,Source1,4,42.720257,-84.41896700000002,2018,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7602307,MI,Ingham,Lansing,Source1,4,42.69739000000001,-84.54804,2018,19,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-7604495,MI,Ingham,Lansing,Source1,4,42.74508,-84.50858000000002,2018,7,Tuesday,Snow / Ice,False,False,True,False,False,False,False
+A-7604505,MI,Ingham,Mason,Source1,4,42.558415,-84.375421,2018,8,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-7604506,MI,Ingham,Mason,Source1,4,42.561266,-84.381258,2018,8,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-7606261,MI,Ingham,Lansing,Source1,4,42.713071,-84.54739000000002,2018,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7607011,MI,Ingham,Lansing,Source1,4,42.691698,-84.50291999999997,2018,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7612618,MI,Ingham,Lansing,Source1,4,42.72567,-84.53966,2018,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7614458,MI,Ingham,Lansing,Source1,4,42.74508,-84.50858000000002,2018,12,Saturday,Snow / Ice,False,False,True,False,False,False,False
+A-7614459,MI,Ingham,Lansing,Source1,4,42.76572,-84.51153000000002,2018,12,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-7615500,MI,Ingham,Webberville,Source1,3,42.65694000000001,-84.1931,2018,18,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7617400,MI,Ingham,Holt,Source1,4,42.67507,-84.49467,2018,9,Friday,Snow / Ice,False,False,True,False,False,False,False
+A-7617415,MI,Ingham,Williamston,Source1,4,42.66572,-84.27481999999998,2018,11,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-7617433,MI,Ingham,Lansing,Source1,4,42.74250900000001,-84.509791,2018,15,Friday,Snow / Ice,False,True,False,False,False,False,False
+A-7617434,MI,Ingham,Lansing,Source1,4,42.740853,-84.51015,2018,15,Friday,Snow / Ice,False,True,False,False,False,False,False
+A-7617455,MI,Ingham,Lansing,Source1,3,42.76572,-84.51153000000002,2018,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-7618935,MI,Ingham,Holt,Source1,4,42.67769000000001,-84.48921,2018,18,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7620607,MI,Ingham,Williamston,Source1,4,42.66515,-84.27403000000002,2018,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-7620609,MI,Ingham,Williamston,Source1,4,42.659866,-84.199122,2018,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-7625780,MI,Ingham,Lansing,Source1,4,42.74085,-84.511985,2017,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7626901,MI,Ingham,Lansing,Source1,3,42.674756,-84.576326,2018,19,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7626902,MI,Ingham,Lansing,Source1,3,42.674762,-84.576318,2018,19,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7629881,MI,Ingham,Williamston,Source1,4,42.72929,-84.22299,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7631792,MI,Ingham,Lansing,Source1,4,42.73059,-84.51061999999997,2018,9,Friday,Snow / Ice,False,False,True,False,False,False,False
+A-7632748,MI,Ingham,Mason,Source1,4,42.518749,-84.44344,2018,14,Monday,Snow / Ice,False,False,True,False,False,False,False
+A-7633262,MI,Ingham,Lansing,Source1,4,42.72395,-84.51041,2018,15,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-7635691,MI,Ingham,Williamston,Source1,3,42.66572,-84.27481999999998,2018,17,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7635692,MI,Ingham,Lansing,Source1,4,42.740047,-84.51021,2018,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7637076,MI,Ingham,Mason,Source1,3,42.56934,-84.451951,2018,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7637079,MI,Ingham,Mason,Source1,4,42.59569000000001,-84.46505,2018,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7637092,MI,Ingham,Lansing,Source1,4,42.742272,-84.509568,2018,16,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-7637093,MI,Ingham,Mason,Source1,4,42.585009,-84.45286999999998,2018,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7637094,MI,Ingham,Mason,Source1,4,42.58224000000001,-84.45286,2018,17,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-7637096,MI,Ingham,Holt,Source1,4,42.644089,-84.4789,2018,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7638384,MI,Ingham,Lansing,Source1,4,42.68958,-84.50294,2018,8,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7640852,MI,Ingham,Lansing,Source1,4,42.74222,-84.50939,2017,15,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-7642404,MI,Ingham,Lansing,Source1,4,42.74232,-84.509613,2017,14,Saturday,Clear / Fair,True,True,False,False,False,False,False
+A-7650551,MI,Ingham,Okemos,Source1,4,42.715859,-84.399565,2017,12,Wednesday,Clear / Fair,False,True,False,False,False,False,False
+A-7650552,MI,Ingham,Okemos,Source1,4,42.715872,-84.39964,2017,12,Wednesday,Clear / Fair,False,True,False,False,False,False,False
+A-7650553,MI,Ingham,Lansing,Source1,4,42.664,-84.5843,2017,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7655217,MI,Ingham,East Lansing,Source1,4,42.76483,-84.431289,2017,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-7655667,MI,Ingham,Lansing,Source1,4,42.7232,-84.50554,2017,22,Saturday,Cloudy,False,False,True,False,False,False,False
+A-7660933,MI,Ingham,Lansing,Source1,4,42.69415,-84.50327,2017,23,Friday,Rain,False,False,False,False,False,False,False
+A-7662197,MI,Ingham,Lansing,Source1,4,42.72397,-84.513341,2017,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7665736,MI,Ingham,Lansing,Source1,4,42.67939000000001,-84.49884,2017,18,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-7671621,MI,Ingham,Mason,Source1,4,42.677543,-84.482336,2017,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7671703,MI,Ingham,Lansing,Source1,4,42.74081,-84.5465,2017,10,Monday,Clear / Fair,True,True,False,False,False,False,False
+A-7672777,MI,Ingham,Lansing,Source1,4,42.725538,-84.547771,2017,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7678403,MI,Ingham,Lansing,Source1,4,42.697391,-84.54804,2017,16,Sunday,Cloudy,True,False,False,False,False,False,False
+A-7678404,MI,Ingham,Lansing,Source1,4,42.697391,-84.54804,2017,16,Sunday,Cloudy,True,False,False,False,False,False,False
+A-7678773,MI,Ingham,Lansing,Source1,4,42.723281,-84.56733,2017,14,Tuesday,Cloudy,False,True,False,False,False,False,False
+A-7681021,MI,Ingham,Lansing,Source1,4,42.74089,-84.55846700000002,2017,4,Sunday,Clear / Fair,False,True,False,False,False,False,False
+A-7681560,MI,Ingham,East Lansing,Source1,4,42.74054,-84.503421,2017,13,Tuesday,Clear / Fair,True,True,False,False,False,False,False
+A-7683420,MI,Ingham,Lansing,Source1,4,42.672113,-84.545536,2017,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7684682,MI,Ingham,Lansing,Source1,4,42.67814,-84.57209,2017,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7684683,MI,Ingham,Lansing,Source1,4,42.67814,-84.57209,2017,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7685723,MI,Ingham,Lansing,Source1,4,42.726903,-84.54472,2017,8,Friday,Clear / Fair,True,False,False,False,False,True,False
+A-7685758,MI,Ingham,Lansing,Source1,4,42.677423,-84.572824,2017,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7685764,MI,Ingham,Lansing,Source1,4,42.677423,-84.572824,2017,23,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7685765,MI,Ingham,Lansing,Source1,4,42.67814,-84.57209,2017,23,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7686455,MI,Ingham,Lansing,Source1,4,42.722551,-84.50630100000002,2017,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-7686936,MI,Ingham,Lansing,Source1,4,42.739819,-84.54652,2017,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7686948,MI,Ingham,Mason,Source1,4,42.59645,-84.4655,2017,21,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7687431,MI,Ingham,Lansing,Source1,4,42.68302,-84.56814,2017,10,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-7687432,MI,Ingham,Lansing,Source1,4,42.680372,-84.57011700000002,2017,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7689020,MI,Ingham,Webberville,Source1,3,42.656691,-84.192571,2017,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7693758,MI,Ingham,Lansing,Source1,4,42.69292,-84.50328,2017,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7696777,MI,Ingham,East Lansing,Source1,4,42.725258,-84.44641700000003,2017,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7697310,MI,Ingham,Lansing,Source1,4,42.72378,-84.54531,2017,2,Friday,Cloudy,False,True,False,False,False,False,False
+A-7697311,MI,Ingham,Lansing,Source1,4,42.715913,-84.54646899999999,2017,2,Friday,Cloudy,False,False,False,False,False,False,False
+A-7699864,MI,Ingham,East Lansing,Source1,4,42.72363,-84.50632,2017,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7699866,MI,Ingham,Williamston,Source1,3,42.683631,-84.255663,2017,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7699867,MI,Ingham,Williamston,Source1,3,42.680259,-84.239226,2017,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7706487,MI,Ingham,Lansing,Source1,4,42.7262,-84.5292,2019,0,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-7707218,MI,Ingham,Lansing,Source1,4,42.686442,-84.56761999999998,2019,0,Friday,Cloudy,False,False,False,False,False,False,False
+A-7711407,MI,Ingham,Stockbridge,Source1,4,42.50124,-84.19017,2019,7,Friday,Rain,False,False,False,False,False,True,False
+A-7711408,MI,Ingham,Stockbridge,Source1,4,42.46848,-84.19009,2019,7,Friday,Rain,False,False,False,False,False,False,False
+A-7714840,MI,Ingham,East Lansing,Source1,4,42.73336,-84.49446,2019,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-7715492,MI,Ingham,Lansing,Source1,4,42.716649,-84.602561,2019,5,Sunday,Cloudy,False,True,False,False,False,False,False
+A-7715493,MI,Ingham,Lansing,Source1,4,42.720821,-84.595141,2019,5,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7718901,MI,Ingham,Williamston,Source1,4,42.691189,-84.220171,2019,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7718903,MI,Ingham,Williamston,Source1,4,42.70762,-84.22142,2019,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7718906,MI,Ingham,East Lansing,Source1,4,42.74714,-84.46464,2019,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7719521,MI,Ingham,Lansing,Source1,4,42.719699,-84.545514,2019,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7719522,MI,Ingham,Lansing,Source1,4,42.715913,-84.54646899999999,2019,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7719531,MI,Ingham,East Lansing,Source1,4,42.73713,-84.490747,2019,18,Wednesday,Clear / Fair,False,True,False,False,False,False,False
+A-7719532,MI,Ingham,East Lansing,Source1,4,42.737288,-84.491326,2019,18,Wednesday,Clear / Fair,False,True,False,False,False,False,False
+A-7720710,MI,Ingham,Lansing,Source1,3,42.721789,-84.505686,2019,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-7722466,MI,Ingham,Williamston,Source1,4,42.6845,-84.259976,2019,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7722467,MI,Ingham,Williamston,Source1,4,42.684691,-84.260882,2019,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7723605,MI,Ingham,Webberville,Source1,4,42.662321,-84.19830999999998,2019,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7724631,MI,Ingham,Lansing,Source1,3,42.7261,-84.56676999999998,2019,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7726059,MI,Ingham,Lansing,Source1,3,42.66385,-84.58154999999998,2019,7,Wednesday,Rain,False,False,False,False,False,False,False
+A-7727239,MI,Ingham,Mason,Source1,3,42.678191,-84.43114399999997,2019,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-7729209,MI,Ingham,Lansing,Source1,4,42.68297000000001,-84.54805999999998,2019,12,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-7729210,MI,Ingham,Lansing,Source1,4,42.685616,-84.54803000000003,2019,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7730699,MI,Ingham,Lansing,Source1,4,42.74508,-84.50858000000002,2019,0,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7733175,MI,Ingham,East Lansing,Source1,4,42.761066,-84.43724499999998,2019,11,Tuesday,Cloudy,False,True,False,False,False,False,False
+A-7734985,MI,Ingham,Lansing,Source1,4,42.66718,-84.54266,2019,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7734986,MI,Ingham,Lansing,Source1,4,42.669961,-84.544405,2019,22,Friday,Clear / Fair,False,False,False,False,True,False,False
+A-7735767,MI,Ingham,Lansing,Source1,3,42.7232,-84.50554,2019,9,Sunday,Cloudy,False,False,True,False,False,False,False
+A-7739586,MI,Ingham,Lansing,Source1,4,42.66192,-84.53163,2019,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7741234,MI,Ingham,Williamston,Source1,4,42.66519,-84.278438,2019,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-7743757,MI,Ingham,Lansing,Source1,4,42.723968,-84.511238,2019,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7745811,MI,Ingham,Lansing,Source1,4,42.66294,-84.52809,2019,4,Saturday,Cloudy,False,False,True,False,False,False,False
+A-7749726,MI,Ingham,East Lansing,Source1,4,42.74036,-84.50269899999998,2019,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7749727,MI,Ingham,Lansing,Source1,4,42.740859,-84.505957,2019,13,Thursday,Clear / Fair,False,True,False,False,False,False,False
+A-7754552,MI,Ingham,Lansing,Source1,3,42.74262,-84.509463,2019,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7757661,MI,Ingham,Lansing,Source1,3,42.718211,-84.50490699999997,2019,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7758201,MI,Ingham,Lansing,Source1,4,42.71191,-84.54776,2019,2,Saturday,Clear / Fair,True,True,False,False,False,False,False
+A-7758202,MI,Ingham,Lansing,Source1,4,42.716754,-84.546222,2019,2,Saturday,Clear / Fair,True,True,False,False,False,False,False
+A-7760834,MI,Ingham,Williamston,Source1,3,42.66596,-84.291907,2019,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-7760837,MI,Ingham,East Lansing,Source1,3,42.760556,-84.509529,2019,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-7764761,MI,Ingham,Leslie,Source1,4,42.44576,-84.44341999999997,2019,7,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-7765291,MI,Ingham,Lansing,Source1,4,42.7262,-84.5292,2019,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-7768807,MI,Ingham,Lansing,Source1,3,42.718432,-84.50487,2019,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7770436,MI,Ingham,Lansing,Source1,4,42.715178,-84.546711,2019,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7770437,MI,Ingham,Lansing,Source1,3,42.69415,-84.50327,2019,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7776245,MI,Ingham,Lansing,Source1,4,42.705965,-84.54800999999998,2019,13,Wednesday,Cloudy,False,True,False,False,False,False,False
+A-7776246,MI,Ingham,Lansing,Source1,4,42.703715,-84.54802,2019,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7776247,MI,Ingham,Lansing,Source1,4,42.704134,-84.54800999999998,2019,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7776249,MI,Ingham,Lansing,Source1,4,42.705965,-84.54800999999998,2019,15,Wednesday,Cloudy,False,True,False,False,False,False,False
+A-7776263,MI,Ingham,Williamston,Source1,4,42.681163,-84.24363699999998,2019,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7776264,MI,Ingham,Williamston,Source1,4,42.68213400000001,-84.24839,2019,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False

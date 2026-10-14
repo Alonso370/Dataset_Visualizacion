@@ -1,0 +1,558 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-160047,IA,Linn,Cedar Rapids,Source2,3,41.926865,-91.670113,2016,5,Wednesday,Rain,False,False,True,False,False,False,False
+A-160054,IA,Linn,Cedar Rapids,Source2,3,41.984062,-91.664223,2016,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-160224,IA,Linn,Marion,Source2,3,41.991016,-91.550308,2016,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-160273,IA,Linn,Cedar Rapids,Source2,3,41.890663,-91.670761,2016,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-160288,IA,Linn,Cedar Rapids,Source2,3,41.956013,-91.670692,2016,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-160802,IA,Linn,Cedar Rapids,Source2,3,41.890663,-91.670761,2016,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-160915,IA,Linn,Cedar Rapids,Source2,3,41.890663,-91.670761,2016,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-160965,IA,Linn,Cedar Rapids,Source2,3,42.034691,-91.676079,2016,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-161022,IA,Linn,Cedar Rapids,Source2,3,41.926853,-91.670113,2016,21,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-161103,IA,Linn,Cedar Rapids,Source2,3,41.88974,-91.670708,2016,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-161131,IA,Linn,Cedar Rapids,Source2,3,41.956013,-91.670692,2016,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-161133,IA,Linn,Cedar Rapids,Source2,3,41.979485,-91.67131,2016,8,Monday,Clear / Fair,False,False,False,True,False,False,False
+A-161382,IA,Linn,Cedar Rapids,Source2,3,41.890663,-91.670761,2016,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-161559,IA,Linn,Cedar Rapids,Source2,3,41.945114,-91.670334,2016,23,Sunday,Cloudy,False,False,False,False,False,False,False
+A-161563,IA,Linn,Center Point,Source2,3,42.170792,-91.779495,2016,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-161668,IA,Linn,Cedar Rapids,Source2,3,42.021503,-91.668411,2017,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-162114,IA,Linn,Cedar Rapids,Source2,3,41.945114,-91.670334,2017,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-162370,IA,Linn,Cedar Rapids,Source2,3,42.092476,-91.701401,2016,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-162400,IA,Linn,Cedar Rapids,Source2,3,41.984062,-91.664223,2016,7,Wednesday,Rain,False,False,False,False,False,False,False
+A-162509,IA,Linn,Center Point,Source2,3,42.170792,-91.779495,2016,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-162746,IA,Linn,Hiawatha,Source2,3,42.045479,-91.684731,2016,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-162802,IA,Linn,Cedar Rapids,Source2,3,41.970993,-91.673431,2016,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-162853,IA,Linn,Cedar Rapids,Source2,3,42.02169,-91.668518,2016,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-163007,IA,Linn,Cedar Rapids,Source2,3,41.979485,-91.67131,2016,9,Thursday,Clear / Fair,False,False,False,True,False,False,False
+A-163079,IA,Linn,Cedar Rapids,Source2,3,41.984062,-91.664223,2016,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-163230,IA,Linn,Cedar Rapids,Source2,3,41.931847,-91.543068,2016,15,Sunday,Rain,False,False,False,False,False,False,False
+A-163245,IA,Linn,Hiawatha,Source2,3,42.045479,-91.684731,2016,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-163313,IA,Linn,Cedar Rapids,Source2,3,41.970993,-91.673431,2016,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-163370,IA,Linn,Cedar Rapids,Source2,3,41.926865,-91.670113,2016,9,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-163433,IA,Linn,Cedar Rapids,Source2,3,42.028156,-91.673027,2016,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-163471,IA,Linn,Cedar Rapids,Source2,3,41.926552,-91.669769,2016,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-163479,IA,Linn,Cedar Rapids,Source2,3,41.945114,-91.670334,2016,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-163680,IA,Linn,Cedar Rapids,Source2,3,41.978115,-91.674797,2016,18,Friday,Cloudy,False,False,True,False,False,False,False
+A-163904,IA,Linn,Cedar Rapids,Source2,3,41.979485,-91.67131,2016,11,Friday,Cloudy,False,False,False,True,False,False,False
+A-163905,IA,Linn,Cedar Rapids,Source2,3,42.011723,-91.666687,2016,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-163911,IA,Linn,Cedar Rapids,Source2,3,41.979485,-91.67131,2016,15,Friday,Cloudy,False,False,False,True,False,False,False
+A-163918,IA,Linn,Cedar Rapids,Source2,3,41.984062,-91.664223,2016,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-163946,IA,Linn,Cedar Rapids,Source2,3,41.979362,-91.671227,2016,9,Monday,Clear / Fair,False,False,False,True,False,False,False
+A-164127,IA,Linn,Cedar Rapids,Source2,3,41.926865,-91.669922,2016,18,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-164165,IA,Linn,Cedar Rapids,Source2,3,42.034691,-91.676079,2016,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-164261,IA,Linn,Cedar Rapids,Source2,3,41.970993,-91.673431,2016,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-164305,IA,Linn,Cedar Rapids,Source2,3,41.984062,-91.664223,2016,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-164651,IA,Linn,Cedar Rapids,Source2,3,42.092476,-91.701401,2016,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-164891,IA,Linn,Cedar Rapids,Source2,3,41.979485,-91.67131,2016,17,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-165105,IA,Linn,Cedar Rapids,Source2,3,41.926865,-91.670113,2016,12,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-165203,IA,Linn,Cedar Rapids,Source2,3,42.006943,-91.665955,2016,15,Sunday,Rain,False,False,False,False,False,False,False
+A-165653,IA,Linn,Cedar Rapids,Source2,3,42.021503,-91.668411,2016,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-165934,IA,Linn,Cedar Rapids,Source2,3,41.956013,-91.670692,2016,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-165964,IA,Linn,Cedar Rapids,Source2,3,41.932556,-91.54335,2016,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-165986,IA,Linn,Cedar Rapids,Source2,3,41.961697,-91.670616,2016,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-166598,IA,Linn,Cedar Rapids,Source2,3,41.926865,-91.670113,2016,13,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-166646,IA,Linn,Cedar Rapids,Source2,3,41.963806,-91.7948,2016,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-167114,IA,Linn,Cedar Rapids,Source2,3,41.89053300000001,-91.671074,2016,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-323624,IA,Linn,Cedar Rapids,Source2,3,41.970993,-91.673431,2017,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-323913,IA,Linn,Cedar Rapids,Source2,3,41.956013,-91.670692,2017,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-323925,IA,Linn,Cedar Rapids,Source2,3,41.890663,-91.670761,2017,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-363879,IA,Linn,Cedar Rapids,Source2,3,41.890663,-91.670761,2017,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-363931,IA,Linn,Cedar Rapids,Source2,3,41.976589,-91.673111,2017,17,Tuesday,Clear / Fair,True,True,False,False,False,True,False
+A-364107,IA,Linn,Cedar Rapids,Source2,3,41.956013,-91.670692,2017,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-364357,IA,Linn,Cedar Rapids,Source2,3,42.011723,-91.666687,2017,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-364380,IA,Linn,Cedar Rapids,Source2,3,41.995609,-91.666748,2017,7,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-364396,IA,Linn,Cedar Rapids,Source2,3,41.945114,-91.670334,2017,8,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-364406,IA,Linn,Center Point,Source2,3,42.170792,-91.779495,2017,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-364407,IA,Linn,Center Point,Source2,3,42.170792,-91.779495,2017,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-364408,IA,Linn,Cedar Rapids,Source2,3,42.092476,-91.701401,2017,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-364524,IA,Linn,Cedar Rapids,Source2,3,42.028156,-91.673027,2017,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-364533,IA,Linn,Cedar Rapids,Source2,3,41.890663,-91.670761,2017,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-364736,IA,Linn,Cedar Rapids,Source2,3,41.975571,-91.676163,2017,13,Saturday,Clear / Fair,True,True,False,False,False,False,False
+A-415388,IA,Linn,Cedar Rapids,Source2,3,41.890663,-91.670761,2017,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-415669,IA,Linn,Hiawatha,Source2,3,42.045479,-91.684731,2017,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-415675,IA,Linn,Cedar Rapids,Source2,3,41.984062,-91.664223,2017,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-415831,IA,Linn,Cedar Rapids,Source2,3,41.885956,-91.670555,2017,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-415846,IA,Linn,Cedar Rapids,Source2,3,41.926865,-91.670113,2017,9,Monday,Cloudy,False,False,True,False,False,False,False
+A-415920,IA,Linn,Cedar Rapids,Source2,3,41.890663,-91.670761,2017,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-415944,IA,Linn,Cedar Rapids,Source2,3,41.926865,-91.670113,2017,18,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-415947,IA,Linn,Cedar Rapids,Source2,3,41.984192,-91.664436,2017,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-415959,IA,Linn,Cedar Rapids,Source2,3,42.034691,-91.676079,2017,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-444265,IA,Linn,Cedar Rapids,Source2,3,42.021503,-91.668411,2017,16,Wednesday,Rain,False,False,False,False,False,False,False
+A-444324,IA,Linn,Cedar Rapids,Source2,3,41.926865,-91.670113,2017,16,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-444430,IA,Linn,Cedar Rapids,Source2,3,41.975571,-91.676163,2017,9,Saturday,Rain,True,True,False,False,False,False,False
+A-470368,IA,Linn,Cedar Rapids,Source2,3,41.984062,-91.664223,2017,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-470518,IA,Linn,Cedar Rapids,Source2,3,41.995609,-91.666748,2017,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-470539,IA,Linn,Cedar Rapids,Source2,3,42.011723,-91.666687,2017,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-470653,IA,Linn,Cedar Rapids,Source2,3,42.011723,-91.666687,2017,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-470666,IA,Linn,Cedar Rapids,Source2,3,41.995609,-91.666748,2017,6,Wednesday,Rain,False,False,False,False,False,False,False
+A-470691,IA,Linn,Cedar Rapids,Source2,3,41.986782,-91.66198,2017,13,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-470710,IA,Linn,Cedar Rapids,Source2,3,41.992783,-91.664268,2017,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-470783,IA,Linn,Cedar Rapids,Source2,3,41.934437,-91.669289,2017,16,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-500635,IA,Linn,Cedar Rapids,Source2,3,42.028156,-91.673027,2017,12,Wednesday,Rain,False,False,False,False,False,False,False
+A-500802,IA,Linn,Cedar Rapids,Source2,3,42.028156,-91.673027,2017,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-500810,IA,Linn,Cedar Rapids,Source2,3,42.092476,-91.701401,2017,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-500942,IA,Linn,Cedar Rapids,Source2,3,41.890663,-91.670761,2017,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-500979,IA,Linn,Cedar Rapids,Source2,3,41.975571,-91.676163,2017,11,Saturday,Clear / Fair,True,True,False,False,False,False,False
+A-500980,IA,Linn,Cedar Rapids,Source2,3,41.979485,-91.67131,2017,12,Saturday,Clear / Fair,False,False,False,True,False,False,False
+A-531872,IA,Linn,Cedar Rapids,Source3,3,41.980148,-91.670052,2022,7,Saturday,Rain,False,True,False,False,False,False,False
+A-532631,IA,Linn,Cedar Rapids,Source2,3,41.92701,-91.660057,2022,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-541611,IA,Linn,Cedar Rapids,Source2,3,41.976185,-91.676361,2022,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-550680,IA,Linn,Cedar Rapids,Source2,3,41.965618,-91.670837,2022,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-571586,IA,Linn,Cedar Rapids,Source3,3,41.978867,-91.672607,2022,11,Friday,Rain,False,False,False,False,False,False,False
+A-571608,IA,Linn,Cedar Rapids,Source2,3,41.997566,-91.667084,2022,10,Friday,Rain,False,False,False,False,False,False,False
+A-583498,IA,Linn,Marion,Source2,3,42.01990900000001,-91.550224,2022,16,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-592858,IA,Linn,Cedar Rapids,Source2,3,41.951263,-91.671059,2022,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-594920,IA,Linn,Cedar Rapids,Source2,3,41.92712,-91.670067,2022,17,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-599285,IA,Linn,Fairfax,Source2,3,41.931511,-91.773438,2022,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-608014,IA,Linn,Cedar Rapids,Source3,3,41.956379,-91.670715,2022,13,Saturday,Storm,False,False,False,False,False,False,False
+A-610336,IA,Linn,Cedar Rapids,Source2,3,41.956379,-91.670715,2022,8,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-613946,IA,Linn,Hiawatha,Source2,3,42.0518,-91.695641,2022,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-626945,IA,Linn,Cedar Rapids,Source2,3,41.926762,-91.540337,2022,16,Thursday,Rain,False,False,False,False,False,False,False
+A-645993,IA,Linn,Cedar Rapids,Source2,3,41.956902,-91.670975,2022,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-651242,IA,Linn,Cedar Rapids,Source2,3,41.956379,-91.670715,2022,15,Wednesday,Rain,False,False,False,False,False,False,False
+A-669244,IA,Linn,Cedar Rapids,Source2,3,42.00865200000001,-91.666405,2022,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-672925,IA,Linn,Cedar Rapids,Source2,3,41.983978,-91.664703,2022,5,Friday,Rain,False,False,False,False,False,False,False
+A-679898,IA,Linn,Cedar Rapids,Source2,3,41.995766,-91.666183,2022,17,Friday,Clear / Fair,False,True,False,True,False,False,False
+A-702783,IA,Linn,Cedar Rapids,Source2,3,41.928375,-91.672279,2022,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-702971,IA,Linn,Cedar Rapids,Source2,3,41.928375,-91.672279,2022,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-726794,IA,Linn,Cedar Rapids,Source2,3,41.890717,-91.670952,2022,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-728555,IA,Linn,Cedar Rapids,Source2,3,41.895779,-91.671486,2022,7,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-738151,IA,Linn,Cedar Rapids,Source3,3,41.964874,-91.670578,2022,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-738459,IA,Linn,Cedar Rapids,Source3,3,42.00865200000001,-91.666405,2022,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-738895,IA,Linn,Cedar Rapids,Source2,3,41.927105,-91.669418,2022,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-757623,IA,Linn,Cedar Rapids,Source2,3,41.94875,-91.671112,2022,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-758034,IA,Linn,Cedar Rapids,Source2,3,41.956379,-91.670715,2022,11,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-759290,IA,Linn,Cedar Rapids,Source2,3,41.892891,-91.671928,2021,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-777268,IA,Linn,Cedar Rapids,Source2,3,42.030376,-91.673706,2021,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-790123,IA,Linn,Cedar Rapids,Source2,3,41.92836,-91.672287,2021,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-790124,IA,Linn,Cedar Rapids,Source2,3,41.945477,-91.670555,2021,9,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-795415,IA,Linn,Cedar Rapids,Source2,3,41.960159,-91.670647,2021,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-800285,IA,Linn,Cedar Rapids,Source2,3,41.995766,-91.666183,2021,17,Monday,Clear / Fair,False,True,False,True,False,False,False
+A-867382,IA,Linn,Cedar Rapids,Source2,3,41.978249,-91.673607,2021,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-868490,IA,Linn,Cedar Rapids,Source2,3,41.981262,-91.66732,2021,5,Friday,Rain,False,False,False,False,False,False,False
+A-868491,IA,Linn,Cedar Rapids,Source2,3,41.980148,-91.670052,2021,6,Friday,Rain,False,True,False,False,False,False,False
+A-869665,IA,Linn,Cedar Rapids,Source3,3,41.980148,-91.670052,2021,4,Friday,Rain,False,True,False,False,False,False,False
+A-877105,IA,Linn,Cedar Rapids,Source2,3,41.956379,-91.670715,2021,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-905125,IA,Linn,Cedar Rapids,Source2,3,41.980148,-91.670052,2021,16,Friday,Clear / Fair,False,True,False,False,False,False,False
+A-928238,IA,Linn,Cedar Rapids,Source2,3,41.980034,-91.669334,2021,8,Monday,Rain,False,False,False,False,False,False,False
+A-930225,IA,Linn,Center Point,Source2,3,42.170761,-91.779587,2021,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-931646,IA,Linn,Cedar Rapids,Source2,3,42.00865200000001,-91.666405,2021,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-932386,IA,Linn,Cedar Rapids,Source2,3,41.92889,-91.669876,2021,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-959539,IA,Linn,Cedar Rapids,Source2,3,41.945477,-91.670555,2021,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-983141,IA,Linn,Cedar Rapids,Source2,3,41.92733,-91.662712,2021,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-988618,IA,Linn,Cedar Rapids,Source2,3,41.890717,-91.670952,2021,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-997160,IA,Linn,Cedar Rapids,Source2,3,41.890717,-91.670952,2021,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1008421,IA,Linn,Cedar Rapids,Source2,4,41.890717,-91.670952,2021,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1017734,IA,Linn,Cedar Rapids,Source2,3,41.890717,-91.670952,2021,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1022804,IA,Linn,Cedar Rapids,Source2,3,42.00865200000001,-91.666405,2021,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1026617,IA,Linn,Cedar Rapids,Source2,3,42.032761,-91.675926,2021,12,Friday,Rain,False,False,False,False,False,False,False
+A-1048738,IA,Linn,Cedar Rapids,Source2,3,41.892891,-91.671928,2021,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1051894,IA,Linn,Cedar Rapids,Source2,3,41.927109,-91.669617,2021,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1051895,IA,Linn,Cedar Rapids,Source2,3,41.890717,-91.670952,2021,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1079970,IA,Linn,Cedar Rapids,Source2,3,41.891869,-91.671165,2021,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-1084597,IA,Linn,Cedar Rapids,Source2,3,42.019802,-91.667435,2021,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1088709,IA,Linn,Cedar Rapids,Source2,3,41.945477,-91.670555,2021,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-1090316,IA,Linn,Cedar Rapids,Source2,3,41.97118,-91.673882,2021,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1090320,IA,Linn,Cedar Rapids,Source2,4,41.956379,-91.670715,2021,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1090321,IA,Linn,Cedar Rapids,Source2,3,41.970551,-91.673859,2021,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1097233,IA,Linn,Cedar Rapids,Source2,3,41.928467,-91.669922,2021,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1102330,IA,Linn,Cedar Rapids,Source2,3,41.985271,-91.664673,2021,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1113381,IA,Linn,Cedar Rapids,Source2,3,41.985271,-91.664673,2021,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1124721,IA,Linn,Cedar Rapids,Source2,4,41.978249,-91.673607,2021,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1127484,IA,Linn,Cedar Rapids,Source2,3,41.890717,-91.670952,2021,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1131318,IA,Linn,Cedar Rapids,Source2,3,42.092335,-91.701546,2021,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1140877,IA,Linn,Cedar Rapids,Source2,3,42.00865200000001,-91.666405,2021,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1144582,IA,Linn,Cedar Rapids,Source2,3,41.922379,-91.670593,2021,15,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1161191,IA,Linn,Cedar Rapids,Source2,3,41.978249,-91.673607,2021,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1161241,IA,Linn,Cedar Rapids,Source2,3,41.995766,-91.666183,2021,15,Tuesday,Clear / Fair,False,True,False,True,False,False,False
+A-1165743,IA,Linn,Cedar Rapids,Source2,3,41.984715,-91.664139,2021,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1165745,IA,Linn,Cedar Rapids,Source2,3,42.092335,-91.701546,2021,13,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1182592,IA,Linn,Cedar Rapids,Source2,3,42.00865200000001,-91.666405,2021,6,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1184379,IA,Linn,Center Point,Source2,3,42.191158,-91.811813,2021,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1187514,IA,Linn,Cedar Rapids,Source2,3,41.935337,-91.669197,2021,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1197127,IA,Linn,Cedar Rapids,Source2,3,41.984715,-91.664139,2021,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1207027,IA,Linn,Cedar Rapids,Source2,3,41.92733,-91.662712,2021,6,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1211895,IA,Linn,Cedar Rapids,Source2,3,41.968536,-91.672066,2020,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1214551,IA,Linn,Cedar Rapids,Source2,3,41.956379,-91.670715,2020,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1214554,IA,Linn,Cedar Rapids,Source2,3,41.956379,-91.670715,2020,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1217454,IA,Linn,Palo,Source2,3,42.012974,-91.765411,2020,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1225237,IA,Linn,Cedar Rapids,Source2,3,41.981396,-91.667618,2020,15,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1231988,IA,Linn,Cedar Rapids,Source2,3,41.969074,-91.671761,2020,8,Saturday,Snow / Ice,False,True,False,False,False,False,False
+A-1236635,IA,Linn,Cedar Rapids,Source2,3,41.945477,-91.670555,2020,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1248316,IA,Linn,Cedar Rapids,Source2,3,41.978249,-91.673607,2020,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1267517,IA,Linn,Cedar Rapids,Source2,3,41.92683,-91.669922,2020,15,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1267529,IA,Linn,Cedar Rapids,Source2,3,41.92733,-91.662712,2020,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1307385,IA,Linn,Hiawatha,Source2,3,42.035332,-91.67598,2020,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1309016,IA,Linn,Cedar Rapids,Source2,3,41.92683,-91.669922,2020,19,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-1309018,IA,Linn,Cedar Rapids,Source2,3,41.926762,-91.540337,2020,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1312349,IA,Linn,Cedar Rapids,Source2,3,42.00865200000001,-91.666405,2020,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1312355,IA,Linn,Cedar Rapids,Source2,3,42.011822,-91.666435,2020,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1323936,IA,Linn,Cedar Rapids,Source2,3,41.92704000000001,-91.663315,2020,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1345145,IA,Linn,Cedar Rapids,Source2,3,41.984715,-91.664139,2020,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1347167,IA,Linn,Cedar Rapids,Source2,3,41.945477,-91.670555,2020,14,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1357989,IA,Linn,Cedar Rapids,Source2,3,41.92741,-91.669739,2020,6,Monday,Cloudy,False,False,True,False,False,False,False
+A-1358002,IA,Linn,Cedar Rapids,Source2,3,41.995766,-91.666183,2020,7,Monday,Cloudy,False,True,False,True,False,False,False
+A-1358018,IA,Linn,Cedar Rapids,Source2,3,41.975174,-91.676407,2020,9,Monday,Cloudy,False,False,True,False,False,False,False
+A-1359856,IA,Linn,Cedar Rapids,Source2,3,42.00865200000001,-91.666405,2020,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1359858,IA,Linn,Hiawatha,Source2,3,42.034798,-91.676125,2020,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1372708,IA,Linn,Cedar Rapids,Source2,3,42.00865200000001,-91.666405,2020,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1374375,IA,Linn,Cedar Rapids,Source2,3,41.994194,-91.665939,2020,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1378579,IA,Linn,Cedar Rapids,Source2,3,42.092335,-91.701546,2020,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1417943,IA,Linn,Center Point,Source2,3,42.170761,-91.779587,2020,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1417944,IA,Linn,Cedar Rapids,Source2,3,41.890717,-91.670952,2020,13,Monday,Storm,False,False,False,False,False,False,False
+A-1417948,IA,Linn,Cedar Rapids,Source2,3,42.092335,-91.701546,2020,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1417949,IA,Linn,Cedar Rapids,Source2,3,42.092335,-91.701546,2020,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1417950,IA,Linn,Cedar Rapids,Source2,3,41.92733,-91.662712,2020,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1417951,IA,Linn,Cedar Rapids,Source2,3,41.92593,-91.667473,2020,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1417952,IA,Linn,Cedar Rapids,Source2,3,41.92593,-91.667473,2020,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1417953,IA,Linn,Center Point,Source2,3,42.140373,-91.738487,2020,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1422330,IA,Linn,Cedar Rapids,Source2,3,41.862434,-91.669151,2020,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1425031,IA,Linn,Hiawatha,Source2,3,42.045177,-91.684555,2020,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1451102,IA,Linn,Cedar Rapids,Source2,3,42.019802,-91.667435,2020,15,Thursday,Rain,False,False,False,False,False,False,False
+A-1451109,IA,Linn,Cedar Rapids,Source2,3,41.926762,-91.540337,2020,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1452493,IA,Linn,Cedar Rapids,Source2,3,41.984715,-91.664139,2020,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1461011,IA,Linn,Cedar Rapids,Source2,3,42.023849,-91.669632,2020,12,Tuesday,Rain,False,False,False,False,False,False,False
+A-1470966,IA,Linn,Cedar Rapids,Source2,3,41.92733,-91.662712,2020,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1470975,IA,Linn,Cedar Rapids,Source2,3,41.88800000000001,-91.671349,2020,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1470976,IA,Linn,Cedar Rapids,Source2,3,41.892891,-91.671928,2020,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1484645,IA,Linn,Cedar Rapids,Source2,3,41.945477,-91.670555,2020,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-1492352,IA,Linn,Cedar Rapids,Source2,3,41.984715,-91.664139,2020,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1496890,IA,Linn,Cedar Rapids,Source2,3,41.969074,-91.671761,2020,7,Saturday,Cloudy,False,True,False,False,False,False,False
+A-1517988,IA,Linn,Cedar Rapids,Source2,3,41.978069,-91.673904,2020,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1519958,IA,Linn,Cedar Rapids,Source2,3,42.00865200000001,-91.666405,2020,16,Monday,Rain,False,False,False,False,False,False,False
+A-1523919,IA,Linn,Cedar Rapids,Source2,3,41.969074,-91.671761,2020,15,Wednesday,Cloudy,False,True,False,False,False,False,False
+A-1525809,IA,Linn,Cedar Rapids,Source2,4,41.969074,-91.671761,2020,7,Thursday,Fog / Low visibility,False,True,False,False,False,False,False
+A-1525839,IA,Linn,Cedar Rapids,Source2,3,41.890717,-91.670952,2020,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1529529,IA,Linn,Cedar Rapids,Source2,3,41.956379,-91.670715,2020,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1539984,IA,Linn,Cedar Rapids,Source2,3,41.891537,-91.672768,2020,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1556050,IA,Linn,Cedar Rapids,Source2,3,41.92733,-91.662712,2020,4,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1556051,IA,Linn,Cedar Rapids,Source2,3,41.926914,-91.669922,2020,4,Wednesday,Fog / Low visibility,False,False,True,False,False,False,False
+A-1556105,IA,Linn,Cedar Rapids,Source2,3,41.945477,-91.670555,2020,7,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1566019,IA,Linn,Cedar Rapids,Source2,3,42.019802,-91.667435,2020,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1573980,IA,Linn,Cedar Rapids,Source2,3,41.978069,-91.673904,2020,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1579326,IA,Linn,Cedar Rapids,Source2,3,42.092335,-91.701546,2020,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1583573,IA,Linn,Cedar Rapids,Source2,3,41.92857,-91.667137,2020,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1591491,IA,Linn,Cedar Rapids,Source2,3,41.969074,-91.671761,2020,17,Tuesday,Cloudy,False,True,False,False,False,False,False
+A-1593947,IA,Linn,Cedar Rapids,Source2,3,42.00865200000001,-91.666405,2020,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1598546,IA,Linn,Cedar Rapids,Source2,3,41.95023,-91.671082,2020,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1598565,IA,Linn,Cedar Rapids,Source2,3,41.995766,-91.666298,2020,14,Friday,Snow / Ice,False,True,False,True,False,False,False
+A-1603880,IA,Linn,Cedar Rapids,Source2,3,41.927143,-91.670067,2020,8,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-1606152,IA,Linn,Cedar Rapids,Source2,3,41.978069,-91.673904,2020,17,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1609745,IA,Linn,Cedar Rapids,Source2,3,42.02182,-91.668587,2020,12,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1633338,IA,Linn,Cedar Rapids,Source2,3,41.978069,-91.673904,2020,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1659263,IA,Linn,Cedar Rapids,Source2,3,41.984715,-91.664139,2020,17,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1669283,IA,Linn,Marion,Source2,3,42.035568,-91.550285,2020,6,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-1677793,IA,Linn,Mount Vernon,Source2,3,41.916248,-91.423088,2020,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-1679483,IA,Linn,Cedar Rapids,Source2,3,41.969074,-91.671761,2019,8,Thursday,Fog / Low visibility,False,True,False,False,False,False,False
+A-1689003,IA,Linn,Hiawatha,Source2,3,42.04184,-91.678741,2019,17,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-1703988,IA,Linn,Cedar Rapids,Source2,3,41.984715,-91.664139,2019,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-1709286,IA,Linn,Cedar Rapids,Source2,3,41.967442,-91.671272,2019,9,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-1709291,IA,Linn,Cedar Rapids,Source2,3,41.989277,-91.661736,2019,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1721899,IA,Linn,Cedar Rapids,Source2,4,42.019802,-91.667435,2019,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1721901,IA,Linn,Cedar Rapids,Source2,4,41.995724,-91.666512,2019,7,Tuesday,Cloudy,False,True,False,False,False,False,False
+A-1724581,IA,Linn,Cedar Rapids,Source2,3,41.92733,-91.662712,2019,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1731091,IA,Linn,Hiawatha,Source2,3,42.038368,-91.6772,2019,15,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-1735524,IA,Linn,Cedar Rapids,Source3,3,41.97794,-91.67514,2019,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1755305,IA,Linn,Cedar Rapids,Source2,3,41.995766,-91.666298,2019,8,Tuesday,Clear / Fair,False,True,False,True,False,False,False
+A-1767588,IA,Linn,Cedar Rapids,Source2,3,41.890717,-91.670952,2019,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-1778194,IA,Linn,Cedar Rapids,Source2,4,41.890717,-91.670952,2019,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1784865,IA,Linn,Cedar Rapids,Source2,3,41.969074,-91.671761,2019,6,Tuesday,Fog / Low visibility,False,True,False,False,False,False,False
+A-1784888,IA,Linn,Cedar Rapids,Source2,3,42.007034,-91.666428,2019,8,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1787564,IA,Linn,Cedar Rapids,Source2,3,41.986729,-91.661987,2019,20,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-1790162,IA,Linn,Toddville,Source2,3,42.095303,-91.70179,2019,5,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1799326,IA,Linn,Cedar Rapids,Source2,3,41.928539,-91.669914,2019,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1807794,IA,Linn,Cedar Rapids,Source2,3,41.996738,-91.667419,2019,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1811993,IA,Linn,Hiawatha,Source2,3,42.039879,-91.67765,2019,3,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1812029,IA,Linn,Cedar Rapids,Source2,3,41.97879,-91.672829,2019,6,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1823902,IA,Linn,Cedar Rapids,Source2,3,41.890717,-91.670952,2019,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1854447,IA,Linn,Cedar Rapids,Source2,3,41.995766,-91.666298,2019,12,Monday,Clear / Fair,False,True,False,True,False,False,False
+A-1862034,IA,Linn,Cedar Rapids,Source2,3,41.94875,-91.671112,2019,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1876978,IA,Linn,Marion,Source2,3,42.019512,-91.550079,2019,8,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-1890269,IA,Linn,Cedar Rapids,Source2,3,42.028702,-91.673103,2019,18,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-1892408,IA,Linn,Cedar Rapids,Source2,3,41.890717,-91.670952,2019,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1897262,IA,Linn,Center Point,Source2,3,42.170761,-91.779587,2019,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1908705,IA,Linn,Cedar Rapids,Source2,3,41.984154,-91.664085,2019,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1908706,IA,Linn,Cedar Rapids,Source2,3,41.92733,-91.662712,2019,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1911152,IA,Linn,Cedar Rapids,Source2,3,41.978855,-91.671684,2019,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1947657,IA,Linn,Cedar Rapids,Source2,3,42.026279,-91.67234,2019,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1956086,IA,Linn,Cedar Rapids,Source2,3,41.888729,-91.669823,2019,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1956087,IA,Linn,Cedar Rapids,Source2,3,41.890717,-91.670952,2019,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1956088,IA,Linn,Cedar Rapids,Source2,3,41.893089,-91.670303,2019,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1962365,IA,Linn,Hiawatha,Source2,3,42.035332,-91.67598,2019,3,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1968134,IA,Linn,Fairfax,Source2,3,41.92746,-91.782211,2019,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1968140,IA,Linn,Hiawatha,Source2,3,42.045177,-91.684555,2019,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-1979337,IA,Linn,Cedar Rapids,Source2,3,42.00865200000001,-91.666405,2019,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2001736,IA,Linn,Cedar Rapids,Source2,3,41.995766,-91.666298,2019,11,Friday,Clear / Fair,False,True,False,True,False,False,False
+A-2013328,IA,Linn,Cedar Rapids,Source2,3,42.028702,-91.673103,2019,22,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-2016428,IA,Linn,Cedar Rapids,Source2,3,42.00865200000001,-91.666405,2019,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2029006,IA,Linn,Cedar Rapids,Source2,3,41.980995,-91.667664,2019,18,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-2043038,IA,Linn,Marion,Source2,3,42.035568,-91.550285,2019,13,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-2043046,IA,Linn,Cedar Rapids,Source2,3,42.030376,-91.673706,2019,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-2103534,IA,Linn,Cedar Rapids,Source2,3,41.984715,-91.664139,2019,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2131693,IA,Linn,Cedar Rapids,Source2,3,41.890717,-91.670952,2019,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2131711,IA,Linn,Cedar Rapids,Source2,4,41.984715,-91.664139,2019,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2181193,IA,Linn,Cedar Rapids,Source2,3,41.956902,-91.670975,2019,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2188155,IA,Linn,Springville,Source2,3,42.04948,-91.443268,2019,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2188164,IA,Linn,Cedar Rapids,Source2,3,41.994709,-91.665619,2019,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2199587,IA,Linn,Cedar Rapids,Source2,3,41.980022,-91.669983,2019,17,Monday,Cloudy,False,True,False,False,False,False,False
+A-2209218,IA,Linn,Cedar Rapids,Source2,3,41.958652,-91.670883,2019,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-2221321,IA,Linn,Cedar Rapids,Source2,3,41.979649,-91.670425,2019,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2224630,IA,Linn,Cedar Rapids,Source2,3,41.980022,-91.669983,2019,9,Monday,Clear / Fair,False,True,False,False,False,False,False
+A-2231586,IA,Linn,Cedar Rapids,Source2,3,42.004948,-91.666138,2019,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2237705,IA,Linn,Cedar Rapids,Source2,3,41.954411,-91.670372,2019,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-2239949,IA,Linn,Cedar Rapids,Source2,3,42.03075,-91.67366,2019,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2246682,IA,Linn,Cedar Rapids,Source2,3,41.944595,-91.670349,2019,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-2250255,IA,Linn,Cedar Rapids,Source2,3,42.011257,-91.666573,2019,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2252896,IA,Linn,Cedar Rapids,Source2,3,41.985405,-91.663742,2019,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-2255812,IA,Linn,Cedar Rapids,Source2,3,42.004948,-91.666138,2019,10,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2255813,IA,Linn,Cedar Rapids,Source2,3,41.979542,-91.671204,2019,10,Thursday,Snow / Ice,False,False,False,True,False,False,False
+A-2255815,IA,Linn,Cedar Rapids,Source2,3,41.970802,-91.673286,2019,11,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2255819,IA,Linn,Cedar Rapids,Source2,3,41.983562,-91.664658,2019,15,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2255821,IA,Linn,Cedar Rapids,Source2,3,41.995655,-91.665489,2019,16,Thursday,Snow / Ice,False,True,False,False,False,False,True
+A-2260371,IA,Linn,Cedar Rapids,Source2,3,42.004948,-91.666138,2019,16,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2270876,IA,Linn,Hiawatha,Source2,3,42.043598,-91.681732,2019,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2290605,IA,Linn,Cedar Rapids,Source2,3,41.985432,-91.664642,2019,12,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-2299522,IA,Linn,Cedar Rapids,Source2,3,41.969009,-91.671722,2019,8,Thursday,Clear / Fair,False,True,False,True,False,False,False
+A-2299527,IA,Linn,Cedar Rapids,Source2,3,41.969032,-91.672249,2019,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2301957,IA,Linn,Cedar Rapids,Source2,3,42.024387,-91.670273,2019,8,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2322093,IA,Linn,Cedar Rapids,Source2,3,42.034683,-91.676254,2019,9,Monday,Rain,False,False,False,False,False,False,False
+A-2322112,IA,Linn,Cedar Rapids,Source2,3,41.969032,-91.672249,2019,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-2322117,IA,Linn,Cedar Rapids,Source2,3,41.969109,-91.672066,2019,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2322118,IA,Linn,Cedar Rapids,Source2,3,41.92729600000001,-91.666481,2019,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2322119,IA,Linn,Cedar Rapids,Source2,3,41.92857,-91.667137,2019,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2322120,IA,Linn,Cedar Rapids,Source2,3,41.944595,-91.670349,2019,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2333093,IA,Linn,Cedar Rapids,Source2,3,41.944595,-91.670349,2019,18,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-2354730,IA,Linn,Cedar Rapids,Source2,3,41.926704,-91.65522,2019,6,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2354769,IA,Linn,Cedar Rapids,Source2,3,41.980022,-91.669983,2019,9,Wednesday,Snow / Ice,False,True,False,False,False,False,False
+A-2357721,IA,Linn,Cedar Rapids,Source2,3,41.97963,-91.670959,2019,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2357722,IA,Linn,Cedar Rapids,Source2,3,41.980789,-91.669067,2019,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2360439,IA,Linn,Cedar Rapids,Source2,3,41.98283,-91.665611,2019,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-2362027,IA,Linn,Cedar Rapids,Source2,3,41.969032,-91.672249,2019,6,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2362666,IA,Linn,Cedar Rapids,Source2,3,41.891258,-91.671127,2019,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2364362,IA,Linn,Cedar Rapids,Source2,3,41.944595,-91.670349,2019,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-2364392,IA,Linn,Cedar Rapids,Source2,3,41.969032,-91.672249,2019,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-2367088,IA,Linn,Cedar Rapids,Source2,3,41.891258,-91.671127,2019,10,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2380645,IA,Linn,Cedar Rapids,Source2,3,41.944595,-91.670349,2018,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2382840,IA,Linn,Cedar Rapids,Source2,3,41.927391,-91.669739,2018,16,Thursday,Cloudy,False,False,True,False,False,False,False
+A-2399989,IA,Linn,Cedar Rapids,Source2,3,41.977291,-91.675041,2018,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2399991,IA,Linn,Cedar Rapids,Source2,3,41.891262,-91.671051,2018,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2412293,IA,Linn,Cedar Rapids,Source2,3,41.887505,-91.670624,2018,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2419421,IA,Linn,Cedar Rapids,Source2,3,41.985405,-91.663742,2018,6,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2419435,IA,Linn,Cedar Rapids,Source2,3,41.944595,-91.670349,2018,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-2422607,IA,Linn,Cedar Rapids,Source2,3,41.954182,-91.670807,2018,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-2425430,IA,Linn,Cedar Rapids,Source2,3,41.945114,-91.670334,2018,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2429015,IA,Linn,Cedar Rapids,Source2,3,41.890663,-91.670761,2018,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-2430746,IA,Linn,Cedar Rapids,Source2,3,41.995609,-91.666748,2018,14,Saturday,Rain,False,False,False,False,False,False,False
+A-2440075,IA,Linn,Cedar Rapids,Source2,3,41.970993,-91.673431,2018,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2450750,IA,Linn,Cedar Rapids,Source2,3,42.011723,-91.666687,2018,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-2450761,IA,Linn,Cedar Rapids,Source2,3,41.944668,-91.670624,2018,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-2453656,IA,Linn,Cedar Rapids,Source2,3,41.934181,-91.669312,2018,8,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-2456467,IA,Linn,Cedar Rapids,Source2,3,41.975571,-91.676163,2018,21,Wednesday,Clear / Fair,True,True,False,False,False,False,False
+A-2485934,IA,Linn,Cedar Rapids,Source2,3,41.926865,-91.670113,2018,10,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-2551227,IA,Linn,Cedar Rapids,Source2,3,41.970993,-91.673431,2018,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2562138,IA,Linn,Cedar Rapids,Source2,3,41.934097,-91.669319,2018,8,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-2564793,IA,Linn,Cedar Rapids,Source2,3,41.984062,-91.664223,2018,7,Wednesday,Rain,False,False,False,False,False,False,False
+A-2567472,IA,Linn,Cedar Rapids,Source2,3,41.890663,-91.670761,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2599266,IA,Linn,Cedar Rapids,Source2,3,41.926865,-91.670113,2018,18,Friday,Cloudy,False,False,True,False,False,False,False
+A-2654426,IA,Linn,Cedar Rapids,Source2,3,41.984062,-91.664223,2018,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2655272,IA,Linn,Cedar Rapids,Source2,3,41.890663,-91.670761,2018,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2656869,IA,Linn,Cedar Rapids,Source2,3,41.995609,-91.666748,2018,6,Monday,Rain,False,False,False,False,False,False,False
+A-2656872,IA,Linn,Cedar Rapids,Source2,3,42.006943,-91.665955,2018,6,Monday,Rain,False,False,False,False,False,False,False
+A-2668431,IA,Linn,Cedar Rapids,Source2,3,41.890663,-91.670761,2018,7,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2670624,IA,Linn,Cedar Rapids,Source2,3,42.027302,-91.672157,2018,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2694027,IA,Linn,Cedar Rapids,Source2,3,41.936817,-91.714325,2018,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-2717466,IA,Linn,Cedar Rapids,Source2,3,41.956013,-91.670692,2018,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2731936,IA,Linn,Cedar Rapids,Source2,3,42.092476,-91.701401,2018,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2750447,IA,Linn,Cedar Rapids,Source2,3,41.947201,-91.670441,2018,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-2763972,IA,Linn,Cedar Rapids,Source2,3,41.926865,-91.670113,2018,14,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-2766411,IA,Linn,Cedar Rapids,Source2,3,41.997421,-91.666817,2018,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2772706,IA,Linn,Cedar Rapids,Source2,3,41.975571,-91.676163,2018,21,Wednesday,Rain,True,True,False,False,False,False,False
+A-2810155,IA,Linn,Marion,Source2,3,42.02005,-91.565758,2018,13,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-2815417,IA,Linn,Cedar Rapids,Source2,3,41.984062,-91.664223,2018,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2850109,IA,Linn,Cedar Rapids,Source2,3,41.995609,-91.666748,2018,7,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2859834,IA,Linn,Cedar Rapids,Source2,3,42.006943,-91.665955,2018,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2886412,IA,Linn,Cedar Rapids,Source2,3,41.976864,-91.676407,2018,20,Sunday,Cloudy,False,True,False,False,False,False,False
+A-2896153,IA,Linn,Cedar Rapids,Source2,3,41.984062,-91.664223,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2920737,IA,Linn,Cedar Rapids,Source2,3,41.942314,-91.747772,2018,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2927127,IA,Linn,Cedar Rapids,Source2,3,41.926865,-91.670113,2018,15,Monday,Snow / Ice,False,False,True,False,False,False,False
+A-2935391,IA,Linn,Hiawatha,Source2,3,42.041363,-91.678299,2018,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2935414,IA,Linn,Hiawatha,Source2,3,42.045479,-91.684731,2018,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2950343,IA,Linn,Cedar Rapids,Source2,3,42.011723,-91.666687,2018,20,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2950344,IA,Linn,Cedar Rapids,Source2,3,41.890663,-91.670761,2018,20,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2957057,IA,Linn,Cedar Rapids,Source2,3,41.945114,-91.670334,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2971715,IA,Linn,Cedar Rapids,Source2,3,41.945114,-91.670334,2018,18,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2976430,IA,Linn,Cedar Rapids,Source2,3,41.938126,-91.714912,2018,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2991107,IA,Linn,Cedar Rapids,Source2,3,41.975571,-91.676163,2018,12,Monday,Snow / Ice,True,True,False,False,False,False,False
+A-2996655,IA,Linn,Cedar Rapids,Source2,3,41.926865,-91.670113,2018,20,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-3004862,IA,Linn,Cedar Rapids,Source2,3,41.926865,-91.670113,2018,17,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-3006667,IA,Linn,Cedar Rapids,Source2,3,41.984516,-91.66407,2018,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3011552,IA,Linn,Cedar Rapids,Source2,3,41.995609,-91.666748,2018,17,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3016634,IA,Linn,Cedar Rapids,Source2,3,41.970993,-91.673431,2018,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3022858,IA,Linn,Cedar Rapids,Source2,3,41.890663,-91.670761,2018,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3027923,IA,Linn,Cedar Rapids,Source2,3,41.926865,-91.670113,2018,19,Thursday,Rain,False,False,True,False,False,False,False
+A-3038981,IA,Linn,Cedar Rapids,Source2,3,41.995609,-91.666748,2017,9,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3041229,IA,Linn,Cedar Rapids,Source2,3,41.984062,-91.664223,2018,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3041263,IA,Linn,Cedar Rapids,Source2,3,41.956013,-91.670692,2018,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3041269,IA,Linn,Cedar Rapids,Source2,3,42.009075,-91.666687,2018,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3041283,IA,Linn,Cedar Rapids,Source2,3,42.006943,-91.665955,2018,23,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3046256,IA,Linn,Cedar Rapids,Source2,3,41.995609,-91.666748,2018,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3055476,IA,Linn,Cedar Rapids,Source2,3,41.890663,-91.670761,2018,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3060952,IA,Linn,Cedar Rapids,Source2,3,41.958027,-91.670959,2018,15,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3063976,IA,Linn,Cedar Rapids,Source2,3,41.956013,-91.670692,2018,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3073134,IA,Linn,Center Point,Source2,3,42.170792,-91.779495,2018,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3073201,IA,Linn,Cedar Rapids,Source2,3,42.006943,-91.665955,2018,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3081373,IA,Linn,Hiawatha,Source2,3,42.045479,-91.684731,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3092932,IA,Linn,Cedar Rapids,Source2,3,41.890663,-91.670761,2018,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3113407,IA,Linn,Cedar Rapids,Source2,3,41.975571,-91.676163,2017,17,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-3144636,IA,Linn,Cedar Rapids,Source2,3,41.890995,-91.670776,2017,17,Thursday,Rain,False,False,False,False,False,False,False
+A-3147150,IA,Linn,Cedar Rapids,Source2,3,41.926865,-91.670113,2017,8,Friday,Cloudy,False,False,True,False,False,False,False
+A-3147153,IA,Linn,Cedar Rapids,Source2,3,41.926865,-91.670113,2017,8,Friday,Cloudy,False,False,True,False,False,False,False
+A-3149186,IA,Linn,Cedar Rapids,Source2,3,41.979485,-91.67131,2017,10,Sunday,Snow / Ice,False,False,False,True,False,False,False
+A-3150320,IA,Linn,Cedar Rapids,Source2,3,42.006943,-91.665955,2017,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3151795,IA,Linn,Cedar Rapids,Source2,3,41.995609,-91.666748,2017,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3154072,IA,Linn,Cedar Rapids,Source2,3,41.92413300000001,-91.670097,2017,12,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3154084,IA,Linn,Cedar Rapids,Source2,3,42.024014,-91.669708,2017,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3156175,IA,Linn,Hiawatha,Source2,3,42.045479,-91.684731,2017,4,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3156198,IA,Linn,Cedar Rapids,Source2,3,41.922237,-91.670616,2017,13,Friday,Snow / Ice,False,False,True,False,False,False,False
+A-3159063,IA,Linn,Cedar Rapids,Source2,3,41.890663,-91.670761,2017,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3163883,IA,Linn,Cedar Rapids,Source2,3,41.958008,-91.671303,2017,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3163889,IA,Linn,Cedar Rapids,Source2,3,41.890663,-91.670761,2017,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3176754,IA,Linn,Cedar Rapids,Source2,3,42.021503,-91.668411,2017,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3176798,IA,Linn,Cedar Rapids,Source2,3,42.028324,-91.66803,2017,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3184767,IA,Linn,Cedar Rapids,Source2,3,42.021503,-91.668411,2017,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3189665,IA,Linn,Cedar Rapids,Source2,3,41.894566,-91.671074,2017,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3191838,IA,Linn,Cedar Rapids,Source2,3,42.024014,-91.669708,2017,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-3218030,IA,Linn,Cedar Rapids,Source2,3,41.945114,-91.670334,2017,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-3220803,IA,Linn,Cedar Rapids,Source2,3,41.926865,-91.670113,2017,17,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-3229237,IA,Linn,Cedar Rapids,Source2,3,41.975571,-91.676163,2017,15,Friday,Rain,True,True,False,False,False,False,False
+A-3236207,IA,Linn,Cedar Rapids,Source2,3,42.092476,-91.701401,2017,17,Tuesday,Rain,False,False,False,False,False,False,False
+A-3241855,IA,Linn,Cedar Rapids,Source2,3,41.932549,-91.669159,2017,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3241875,IA,Linn,Cedar Rapids,Source2,4,41.890663,-91.670761,2017,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3245389,IA,Linn,Cedar Rapids,Source2,3,41.904961,-91.672226,2017,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3255672,IA,Linn,Cedar Rapids,Source2,3,42.024014,-91.669708,2017,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3295729,IA,Linn,Cedar Rapids,Source2,3,41.94247100000001,-91.6698,2017,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3295753,IA,Linn,Cedar Rapids,Source2,3,41.890663,-91.670761,2017,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3297348,IA,Linn,Cedar Rapids,Source2,3,41.926865,-91.670113,2017,15,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-3315209,IA,Linn,Cedar Rapids,Source2,3,41.970993,-91.673431,2017,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3318146,IA,Linn,Cedar Rapids,Source2,3,42.02124,-91.655632,2017,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3318147,IA,Linn,Cedar Rapids,Source2,3,41.956013,-91.670692,2017,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3324099,IA,Linn,Cedar Rapids,Source2,3,41.970993,-91.673431,2017,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3324123,IA,Linn,Cedar Rapids,Source2,3,41.995609,-91.666748,2017,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3342929,IA,Linn,Center Point,Source2,3,42.170792,-91.779495,2017,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3342950,IA,Linn,Cedar Rapids,Source2,3,41.890663,-91.670761,2017,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3359151,IA,Linn,Cedar Rapids,Source2,3,41.926865,-91.670113,2017,6,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-3390646,IA,Linn,Cedar Rapids,Source2,3,42.092476,-91.701401,2017,7,Monday,Rain,False,False,False,False,False,False,False
+A-3390683,IA,Linn,Cedar Rapids,Source2,3,41.975571,-91.676163,2017,20,Monday,Rain,True,True,False,False,False,False,False
+A-3425719,IA,Linn,Marion,Source1,4,42.034606,-91.55018,2016,11,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3426047,IA,Linn,Cedar Rapids,Source1,3,41.98673,-91.66199,2016,8,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-3426791,IA,Linn,Cedar Rapids,Source1,3,41.98673,-91.66199,2016,8,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-3430824,IA,Linn,Marion,Source1,4,42.034606,-91.55018,2016,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3430833,IA,Linn,Cedar Rapids,Source1,4,41.923375,-91.670173,2016,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3430838,IA,Linn,Cedar Rapids,Source1,4,41.926499,-91.619782,2016,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3431305,IA,Linn,Center Point,Source1,4,42.1675,-91.77457,2016,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-3432284,IA,Linn,Marion,Source1,3,42.022586,-91.55032,2016,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3433837,IA,Linn,Cedar Rapids,Source1,4,41.98098,-91.66813,2016,3,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-3437125,IA,Linn,Cedar Rapids,Source1,4,41.96263,-91.78254,2016,8,Saturday,Cloudy,False,False,True,False,False,False,False
+A-3443149,IA,Linn,Springville,Source1,4,42.04953,-91.44374,2016,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-3510687,IA,Linn,Cedar Rapids,Source1,3,42.02152,-91.66872,2016,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3510731,IA,Linn,Cedar Rapids,Source1,3,42.02857,-91.6583,2016,12,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-3510762,IA,Linn,Marion,Source1,3,42.02136,-91.5501,2016,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3510890,IA,Linn,Cedar Rapids,Source1,4,41.96359,-91.791353,2016,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3567701,IA,Linn,Mount Vernon,Source1,4,41.916274,-91.423236,2017,8,Friday,Rain,False,False,False,False,False,False,False
+A-3567702,IA,Linn,Cedar Rapids,Source1,4,41.925852,-91.526008,2017,8,Friday,Rain,False,False,False,False,False,False,False
+A-3567708,IA,Linn,Mount Vernon,Source1,4,41.916274,-91.423236,2017,8,Friday,Rain,False,False,False,False,False,False,False
+A-3567712,IA,Linn,Cedar Rapids,Source1,4,41.925852,-91.526008,2017,8,Friday,Rain,False,False,False,False,False,False,False
+A-3567722,IA,Linn,Mount Vernon,Source1,4,41.916274,-91.423236,2017,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-3567728,IA,Linn,Cedar Rapids,Source1,4,41.925852,-91.526008,2017,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-3567739,IA,Linn,Cedar Rapids,Source1,4,41.9261,-91.53348,2017,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-3567740,IA,Linn,Mount Vernon,Source1,4,41.91625,-91.42309,2017,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-3570514,IA,Linn,Cedar Rapids,Source1,4,41.959034,-91.554959,2017,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3570529,IA,Linn,Cedar Rapids,Source1,4,41.959034,-91.554959,2017,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3595384,IA,Linn,Mount Vernon,Source1,3,41.916173,-91.423693,2017,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3595385,IA,Linn,Mount Vernon,Source1,3,41.916957,-91.443664,2017,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3595389,IA,Linn,Mount Vernon,Source1,3,41.916957,-91.443664,2017,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3595390,IA,Linn,Mount Vernon,Source1,3,41.916173,-91.423693,2017,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3612109,IA,Linn,Cedar Rapids,Source1,3,41.97913,-91.67234,2017,9,Saturday,Rain,False,False,False,False,False,False,False
+A-3624596,IA,Linn,Marion,Source1,4,42.09471,-91.55038,2017,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3624610,IA,Linn,Marion,Source1,4,42.07198,-91.55049,2017,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3776443,IA,Linn,Cedar Rapids,Source1,4,41.981231,-91.667386,2023,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-3849472,IA,Linn,Cedar Rapids,Source1,4,41.92701459,-91.6605556,2022,17,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-3938745,IA,Linn,Cedar Rapids,Source1,4,41.967559,-91.671054,2022,20,Sunday,Snow / Ice,False,False,True,False,False,False,False
+A-4140153,IA,Linn,Marion,Source1,4,42.018431,-91.614358,2022,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4160307,IA,Linn,Cedar Rapids,Source1,4,41.94903016,-91.67111278,2022,20,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4181875,IA,Linn,Cedar Rapids,Source1,4,42.028342,-91.643408,2022,13,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-4205454,IA,Linn,Cedar Rapids,Source1,4,41.979339,-91.67093,2022,8,Friday,Clear / Fair,False,False,False,True,False,False,False
+A-4298887,IA,Linn,Fairfax,Source1,4,41.893176,-91.813682,2022,16,Wednesday,Clear / Fair,False,True,False,False,False,False,True
+A-4665112,IA,Linn,Marion,Source1,4,42.020045,-91.566194,2022,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4828943,IA,Linn,Cedar Rapids,Source1,4,41.922236,-91.670302,2022,16,Saturday,Cloudy,False,False,True,False,False,False,False
+A-5241583,IA,Linn,Marion,Source1,4,42.094692,-91.550395,2022,23,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5331479,IA,Linn,Cedar Rapids,Source1,4,41.92975,-91.669784,2022,15,Thursday,Rain,False,False,False,False,False,False,False
+A-5334970,IA,Linn,Fairfax,Source1,4,41.932412,-91.771487,2023,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5500478,IA,Linn,Cedar Rapids,Source1,4,41.97529435137761,-91.67615532831344,2021,0,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-5503860,IA,Linn,Marion,Source1,4,42.035528,-91.545298,2021,18,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-5648099,IA,Linn,Marion,Source1,4,42.042532,-91.512829,2021,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5759573,IA,Linn,Marion,Source1,4,42.020455,-91.56155,2021,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5877664,IA,Linn,Cedar Rapids,Source1,4,41.978179,-91.674681,2021,15,Thursday,Cloudy,True,True,True,False,False,False,False
+A-5974009,IA,Linn,Cedar Rapids,Source1,4,41.93242192248376,-91.67006134943163,2021,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6005176,IA,Linn,Cedar Rapids,Source1,4,41.98346972445496,-91.665254830877,2021,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6221976,IA,Linn,Walford,Source1,4,41.884813,-91.824469,2021,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6423604,IA,Linn,Mount Vernon,Source1,4,41.918019,-91.481742,2021,10,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6477278,IA,Linn,Hiawatha,Source1,4,42.045352,-91.684962,2021,2,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6502045,IA,Linn,Cedar Rapids,Source1,4,41.88611,-91.670569,2021,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-6518687,IA,Linn,Cedar Rapids,Source1,4,41.988579,-91.661608,2021,19,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6530444,IA,Linn,Cedar Rapids,Source1,4,41.927015,-91.676292,2021,5,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-6533626,IA,Linn,Cedar Rapids,Source1,4,41.961625,-91.780804,2021,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6553516,IA,Linn,Toddville,Source1,4,42.096486,-91.70183,2021,17,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-6568935,IA,Linn,Cedar Rapids,Source1,4,41.927253,-91.670064,2021,19,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-6571869,IA,Linn,Cedar Rapids,Source1,4,41.96087479571361,-91.6709196563164,2021,18,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-6578543,IA,Linn,Cedar Rapids,Source1,4,41.926864,-91.669739,2020,1,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6609931,IA,Linn,Cedar Rapids,Source1,4,41.930655,-91.669384,2020,2,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6623074,IA,Linn,Cedar Rapids,Source1,4,41.986323,-91.661885,2020,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6623137,IA,Linn,Cedar Rapids,Source1,4,41.965193,-91.670844,2021,6,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6660966,IA,Linn,Cedar Rapids,Source1,4,41.947163,-91.748317,2020,1,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-6723189,IA,Linn,Cedar Rapids,Source1,4,41.873397,-91.670204,2020,22,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6723190,IA,Linn,Cedar Rapids,Source1,4,41.875487,-91.670386,2020,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6790897,IA,Linn,Ely,Source1,4,41.925255,-91.579102,2020,1,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6807430,IA,Linn,Cedar Rapids,Source1,4,41.926714,-91.656993,2020,1,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6812342,IA,Linn,Cedar Rapids,Source1,4,41.890661,-91.670761,2020,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6857821,IA,Linn,Center Point,Source1,4,42.186868,-91.802685,2020,23,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6860281,IA,Linn,Cedar Rapids,Source1,4,41.930655,-91.669384,2020,2,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6933203,IA,Linn,Cedar Rapids,Source1,4,41.926864,-91.669739,2020,1,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6944070,IA,Linn,Cedar Rapids,Source1,4,41.965193,-91.670844,2021,6,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6963917,IA,Linn,Cedar Rapids,Source1,4,41.875487,-91.670386,2020,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6975559,IA,Linn,Cedar Rapids,Source1,4,41.926714,-91.656993,2020,1,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6989335,IA,Linn,Cedar Rapids,Source1,3,41.9814,-91.66762,2020,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6989343,IA,Linn,Cedar Rapids,Source1,3,41.9814,-91.66762,2020,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7024551,IA,Linn,Cedar Rapids,Source1,4,42.02855,-91.67885,2020,17,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7024559,IA,Linn,Cedar Rapids,Source1,4,42.02855,-91.67885,2020,17,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7024560,IA,Linn,Cedar Rapids,Source1,3,42.02855,-91.67885,2020,18,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7024562,IA,Linn,Cedar Rapids,Source1,4,42.02855,-91.67885,2020,18,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7089236,IA,Linn,Marion,Source1,3,42.03563,-91.55016,2020,16,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-7145279,IA,Linn,Cedar Rapids,Source1,3,42.01701,-91.66692,2020,15,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7145280,IA,Linn,Cedar Rapids,Source1,3,42.01702,-91.66692,2020,15,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7149357,IA,Linn,Palo,Source1,4,42.00062,-91.77442,2020,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7149358,IA,Linn,Palo,Source1,4,42.00062,-91.77449,2020,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7178488,IA,Linn,Cedar Rapids,Source1,3,41.94232,-91.66977,2020,7,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7178500,IA,Linn,Cedar Rapids,Source1,3,41.94232,-91.66977,2020,7,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7200763,IA,Linn,Cedar Rapids,Source1,3,42.0258,-91.62141,2020,16,Monday,Cloudy,True,True,False,False,False,False,False
+A-7231841,IA,Linn,Cedar Rapids,Source1,3,41.94875,-91.67111,2020,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7276367,IA,Linn,Marion,Source1,3,42.03564,-91.55044,2020,6,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7281471,IA,Linn,Mount Vernon,Source1,4,41.91603,-91.42128,2020,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-7281472,IA,Linn,Mount Vernon,Source1,4,41.91683,-91.4079,2020,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-7360082,IA,Linn,Cedar Rapids,Source1,3,41.97136,-91.67402,2019,8,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7435814,IA,Linn,Cedar Rapids,Source1,3,42.003264,-91.6667,2019,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7458070,IA,Linn,Cedar Rapids,Source1,4,41.92702,-91.66082,2019,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7615138,IA,Linn,Cedar Rapids,Source1,4,41.895611,-91.67116,2018,13,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-7619201,IA,Linn,Central City,Source1,3,42.154611,-91.549931,2018,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7619203,IA,Linn,Central City,Source1,3,42.154644,-91.54993,2018,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7619211,IA,Linn,Central City,Source1,3,42.154611,-91.549931,2018,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7657840,IA,Linn,Cedar Rapids,Source1,4,41.92245,-91.67027,2017,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7657841,IA,Linn,Cedar Rapids,Source1,4,41.92245,-91.67027,2017,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7657843,IA,Linn,Cedar Rapids,Source1,4,41.92702,-91.66082,2017,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7659604,IA,Linn,Cedar Rapids,Source1,4,41.93222,-91.67017,2017,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7659605,IA,Linn,Cedar Rapids,Source1,4,41.93419,-91.66929,2017,16,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7692041,IA,Linn,Cedar Rapids,Source1,4,41.96429000000001,-91.813527,2017,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7701452,IA,Linn,Cedar Rapids,Source1,4,41.925941,-91.604388,2017,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7701454,IA,Linn,Cedar Rapids,Source1,4,41.925941,-91.604388,2017,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7768985,IA,Linn,Cedar Rapids,Source1,4,41.927,-91.659003,2019,1,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7768986,IA,Linn,Cedar Rapids,Source1,4,41.927,-91.659003,2019,2,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7768987,IA,Linn,Cedar Rapids,Source1,4,41.92693,-91.67408,2019,2,Monday,Clear / Fair,False,False,False,False,False,False,False

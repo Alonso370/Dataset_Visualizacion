@@ -1,0 +1,521 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-515743,NC,Orange,Hillsborough,Source2,3,36.059048,-79.128395,2022,8,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-516823,NC,Orange,Hillsborough,Source2,3,36.059006,-79.128075,2022,4,Monday,Sin dato,False,False,False,False,False,False,False
+A-532314,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2022,16,Friday,Sin dato,False,False,False,False,False,False,False
+A-533548,NC,Orange,Durham,Source3,3,36.038467,-79.01007800000002,2022,17,Thursday,Sin dato,False,False,False,False,False,False,False
+A-539432,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2022,18,Thursday,Sin dato,False,False,False,False,False,False,False
+A-545994,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2022,16,Thursday,Sin dato,False,False,False,False,False,False,False
+A-547058,NC,Orange,Efland,Source2,3,36.073662,-79.169884,2022,16,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-551230,NC,Orange,Mebane,Source2,3,36.079338,-79.22449499999998,2022,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-557905,NC,Orange,Chapel Hill,Source2,3,35.99712,-79.07621800000003,2022,17,Friday,Sin dato,False,False,False,False,False,False,False
+A-559208,NC,Orange,Durham,Source2,3,36.03875,-79.014267,2022,18,Thursday,Sin dato,False,False,True,False,False,False,False
+A-564576,NC,Orange,Efland,Source2,3,36.073219,-79.165428,2022,13,Saturday,Sin dato,False,False,False,False,False,False,False
+A-564577,NC,Orange,Efland,Source2,3,36.073219,-79.165428,2022,13,Saturday,Sin dato,False,False,False,False,False,False,False
+A-570412,NC,Orange,Efland,Source2,3,36.073219,-79.165428,2022,13,Sunday,Sin dato,False,False,False,False,False,False,False
+A-582008,NC,Orange,Efland,Source2,3,36.073574,-79.167976,2022,14,Monday,Sin dato,False,False,False,False,False,False,False
+A-584737,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2022,16,Thursday,Sin dato,False,False,False,False,False,False,False
+A-589252,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2022,14,Sunday,Sin dato,False,False,False,False,False,False,False
+A-597985,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2022,17,Thursday,Sin dato,False,False,False,False,False,False,False
+A-598340,NC,Orange,Hillsborough,Source2,3,36.052174,-79.12146800000002,2022,12,Thursday,Sin dato,False,False,False,False,False,False,False
+A-603246,NC,Orange,Hillsborough,Source3,3,36.057037,-79.10405,2022,15,Thursday,Sin dato,False,False,False,False,False,False,False
+A-606870,NC,Orange,Efland,Source2,3,36.073219,-79.165428,2022,19,Monday,Sin dato,False,False,False,False,False,False,False
+A-606895,NC,Orange,Efland,Source2,3,36.07206,-79.156982,2022,17,Monday,Sin dato,False,False,False,False,False,False,False
+A-607141,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2022,13,Monday,Sin dato,False,False,False,False,False,False,False
+A-608923,NC,Orange,Chapel Hill,Source2,3,35.971317,-79.06255300000002,2022,12,Friday,Sin dato,False,False,False,False,False,False,False
+A-614984,NC,Orange,Efland,Source2,3,36.073429,-79.164658,2022,18,Saturday,Sin dato,False,False,False,False,False,False,False
+A-620490,NC,Orange,Efland,Source3,3,36.072792,-79.15966800000002,2022,5,Monday,Sin dato,False,False,False,False,False,False,False
+A-621045,NC,Orange,Chapel Hill,Source2,3,35.971317,-79.06255300000002,2022,14,Monday,Sin dato,False,False,False,False,False,False,False
+A-621092,NC,Orange,Hillsborough,Source2,3,36.058559,-79.082909,2022,14,Monday,Sin dato,False,False,False,False,False,False,False
+A-622055,NC,Orange,Durham,Source2,3,36.038609,-79.010681,2022,15,Sunday,Sin dato,False,False,False,False,False,False,False
+A-635375,NC,Orange,Efland,Source2,3,36.073448,-79.169289,2022,7,Thursday,Sin dato,False,False,True,False,False,False,False
+A-637864,NC,Orange,Hillsborough,Source2,3,36.059006,-79.128075,2022,8,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-647447,NC,Orange,Efland,Source2,3,36.07254,-79.15924100000002,2022,18,Sunday,Sin dato,False,False,False,False,False,False,False
+A-648298,NC,Orange,Hillsborough,Source2,4,36.059006,-79.128075,2022,21,Friday,Sin dato,False,False,False,False,False,False,False
+A-648424,NC,Orange,Hillsborough,Source2,3,36.059006,-79.128075,2022,19,Friday,Sin dato,False,False,False,False,False,False,False
+A-650939,NC,Orange,Mebane,Source2,3,36.079224,-79.224487,2022,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-659433,NC,Orange,Chapel Hill,Source2,3,35.964176,-79.02063000000003,2022,7,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-663865,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2022,18,Friday,Sin dato,False,False,False,False,False,False,False
+A-670778,NC,Orange,Hillsborough,Source2,3,36.058559,-79.082909,2022,16,Sunday,Sin dato,False,False,False,False,False,False,False
+A-670801,NC,Orange,Chapel Hill,Source2,3,36.009624,-79.084,2022,15,Sunday,Sin dato,False,False,False,False,False,False,False
+A-672083,NC,Orange,Efland,Source2,3,36.072807,-79.1595,2022,15,Friday,Sin dato,False,False,False,False,False,False,False
+A-674618,NC,Orange,Mebane,Source2,3,36.079338,-79.22449499999998,2022,20,Wednesday,Rain,False,False,False,False,False,False,False
+A-674647,NC,Orange,Mebane,Source2,3,36.079338,-79.22449499999998,2022,19,Wednesday,Rain,False,False,False,False,False,False,False
+A-675262,NC,Orange,Chapel Hill,Source2,3,35.98588200000001,-79.07463100000002,2022,11,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-679175,NC,Orange,Chapel Hill,Source2,3,35.968361,-79.05526,2022,20,Saturday,Sin dato,False,False,False,False,False,False,False
+A-679987,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2022,18,Friday,Sin dato,False,False,False,False,False,False,False
+A-695264,NC,Orange,Hillsborough,Source2,3,36.059006,-79.128075,2022,22,Saturday,Sin dato,False,False,False,False,False,False,False
+A-710643,NC,Orange,Hillsborough,Source2,3,36.059006,-79.128075,2022,18,Monday,Sin dato,False,False,False,False,False,False,False
+A-721343,NC,Orange,Durham,Source3,3,36.038467,-79.01007800000002,2022,18,Friday,Sin dato,False,False,False,False,False,False,False
+A-732241,NC,Orange,Mebane,Source2,3,36.079338,-79.22449499999998,2022,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-733843,NC,Orange,Efland,Source2,3,36.069904,-79.152176,2022,5,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-746066,NC,Orange,Hillsborough,Source2,3,36.036667,-79.097511,2022,10,Sunday,Sin dato,False,False,False,False,False,False,False
+A-764832,NC,Orange,Hillsborough,Source2,3,36.023518,-79.088425,2021,10,Sunday,Sin dato,False,False,False,False,False,False,False
+A-777852,NC,Orange,Hillsborough,Source2,3,36.031902,-79.09105699999998,2021,6,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-782684,NC,Orange,Mebane,Source2,3,36.079338,-79.22449499999998,2021,7,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-798958,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2021,15,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-799073,NC,Orange,Mebane,Source2,3,36.075275,-79.260429,2021,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-799502,NC,Orange,Mebane,Source2,3,36.078125,-79.238312,2021,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-805399,NC,Orange,Durham,Source2,3,36.037895,-78.99385799999997,2021,16,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-807031,NC,Orange,Chapel Hill,Source2,3,35.971317,-79.06255300000002,2021,14,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-810177,NC,Orange,Chapel Hill,Source2,3,35.971317,-79.06255300000002,2021,19,Saturday,Sin dato,False,False,False,False,False,False,False
+A-811648,NC,Orange,Hillsborough,Source2,3,36.054516,-79.124016,2021,14,Friday,Sin dato,False,False,False,False,False,False,False
+A-820581,NC,Orange,Chapel Hill,Source2,3,36.009624,-79.084,2021,9,Saturday,Sin dato,False,False,False,False,False,False,False
+A-821598,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2021,18,Friday,Sin dato,False,False,False,False,False,False,False
+A-828660,NC,Orange,Hillsborough,Source2,3,36.058559,-79.082909,2021,17,Monday,Sin dato,False,False,False,False,False,False,False
+A-831551,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2021,17,Friday,Sin dato,False,False,False,False,False,False,False
+A-832146,NC,Orange,Chapel Hill,Source2,3,35.984943,-79.074463,2021,13,Friday,Sin dato,False,False,False,False,False,False,False
+A-839297,NC,Orange,Chapel Hill,Source2,3,35.961388,-79.015434,2021,8,Monday,Sin dato,False,False,False,False,False,False,False
+A-842148,NC,Orange,Hillsborough,Source2,3,36.058559,-79.082909,2021,21,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-853182,NC,Orange,Hillsborough,Source2,3,36.06345,-79.139198,2021,16,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-874129,NC,Orange,Hillsborough,Source2,3,36.023266,-79.088615,2021,7,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-878977,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2021,14,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-889885,NC,Orange,Efland,Source2,3,36.073631,-79.174171,2021,9,Wednesday,Sin dato,False,False,True,False,False,False,False
+A-894654,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2021,22,Friday,Sin dato,False,False,False,False,False,False,False
+A-896429,NC,Orange,Hillsborough,Source2,3,36.036667,-79.097511,2021,22,Thursday,Sin dato,False,False,False,False,False,False,False
+A-923830,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2021,13,Thursday,Sin dato,False,False,False,False,False,False,False
+A-941986,NC,Orange,Durham,Source3,3,36.038467,-79.01007800000002,2021,14,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-951009,NC,Orange,Mebane,Source2,3,36.080444,-79.223648,2021,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-960193,NC,Orange,Chapel Hill,Source2,4,36.009624,-79.084,2021,3,Saturday,Sin dato,False,False,False,False,False,False,False
+A-960388,NC,Orange,Efland,Source2,3,36.073608,-79.17363,2021,13,Saturday,Sin dato,False,False,False,False,False,False,False
+A-960393,NC,Orange,Efland,Source2,3,36.073608,-79.17363,2021,13,Saturday,Sin dato,False,False,False,False,False,False,False
+A-968802,NC,Orange,Efland,Source2,3,36.073219,-79.165428,2021,18,Sunday,Sin dato,False,False,False,False,False,False,False
+A-968807,NC,Orange,Mebane,Source2,3,36.079338,-79.22449499999998,2021,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-971928,NC,Orange,Efland,Source2,3,36.071854,-79.156982,2021,13,Sunday,Sin dato,False,False,False,False,False,False,False
+A-971929,NC,Orange,Hillsborough,Source2,3,36.072895,-79.159607,2021,13,Sunday,Sin dato,False,False,False,False,False,False,False
+A-971930,NC,Orange,Durham,Source2,3,35.95433,-79.002762,2021,13,Sunday,Sin dato,False,False,False,False,False,False,False
+A-973073,NC,Orange,Hillsborough,Source2,3,36.059006,-79.128075,2021,17,Friday,Sin dato,False,False,False,False,False,False,False
+A-980983,NC,Orange,Hillsborough,Source2,3,36.057037,-79.10405,2021,16,Friday,Sin dato,False,False,False,False,False,False,False
+A-997461,NC,Orange,Chapel Hill,Source2,3,36.009624,-79.084,2021,10,Saturday,Sin dato,False,False,False,False,False,False,False
+A-997467,NC,Orange,Chapel Hill,Source2,3,35.971317,-79.06255300000002,2021,14,Saturday,Sin dato,False,False,False,False,False,False,False
+A-1000132,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2021,5,Thursday,Sin dato,False,False,False,False,False,False,False
+A-1006603,NC,Orange,Hillsborough,Source2,3,36.059006,-79.128075,2021,12,Sunday,Sin dato,False,False,False,False,False,False,False
+A-1009603,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2021,17,Thursday,Sin dato,False,False,False,False,False,False,False
+A-1014515,NC,Orange,Efland,Source2,3,36.073669,-79.170227,2021,10,Monday,Sin dato,False,False,False,False,False,False,False
+A-1025227,NC,Orange,Chapel Hill,Source2,3,36.009624,-79.084,2021,17,Saturday,Sin dato,False,False,False,False,False,False,False
+A-1031060,NC,Orange,Efland,Source2,3,36.073219,-79.165428,2021,19,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-1032700,NC,Orange,Chapel Hill,Source2,3,35.95927000000001,-79.011475,2021,8,Monday,Sin dato,False,False,False,False,False,False,False
+A-1043488,NC,Orange,Hillsborough,Source3,3,36.05759000000001,-79.122681,2021,10,Sunday,Sin dato,False,False,False,False,False,False,False
+A-1052689,NC,Orange,Hillsborough,Source2,4,36.059006,-79.128075,2021,4,Sunday,Sin dato,False,False,False,False,False,False,False
+A-1063619,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2021,18,Friday,Sin dato,False,False,False,False,False,False,False
+A-1063639,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2021,19,Friday,Sin dato,False,False,False,False,False,False,False
+A-1065269,NC,Orange,Efland,Source2,3,36.073219,-79.165428,2021,13,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-1067004,NC,Orange,Hillsborough,Source2,3,36.059006,-79.128075,2021,14,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-1077165,NC,Orange,Mebane,Source2,3,36.079338,-79.22449499999998,2021,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-1077166,NC,Orange,Chapel Hill,Source2,3,36.009624,-79.084,2021,12,Monday,Sin dato,False,False,False,False,False,False,False
+A-1085639,NC,Orange,Mebane,Source2,3,36.079338,-79.22449499999998,2021,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1096459,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2021,20,Thursday,Sin dato,False,False,False,False,False,False,False
+A-1096518,NC,Orange,Hillsborough,Source2,3,36.036526,-79.09626800000002,2021,18,Friday,Sin dato,False,False,False,False,False,False,False
+A-1122762,NC,Orange,Efland,Source2,3,36.073219,-79.165428,2021,18,Thursday,Sin dato,False,False,False,False,False,False,False
+A-1133711,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2021,7,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-1140444,NC,Orange,Hillsborough,Source2,3,36.059006,-79.128075,2021,7,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-1140454,NC,Orange,Hillsborough,Source2,3,36.05759000000001,-79.122681,2021,14,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-1144457,NC,Orange,Chapel Hill,Source2,3,36.009624,-79.084,2021,16,Sunday,Sin dato,False,False,False,False,False,False,False
+A-1145788,NC,Orange,Hillsborough,Source2,3,36.058559,-79.082909,2021,17,Friday,Sin dato,False,False,False,False,False,False,False
+A-1163721,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2021,9,Sunday,Sin dato,False,False,False,False,False,False,False
+A-1205664,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2021,8,Monday,Sin dato,False,False,False,False,False,False,False
+A-1206919,NC,Orange,Durham,Source2,3,36.039883,-79.026489,2021,14,Sunday,Sin dato,False,False,False,False,False,False,False
+A-1231158,NC,Orange,Chapel Hill,Source2,3,35.971317,-79.06255300000002,2020,9,Sunday,Sin dato,False,False,False,False,False,False,False
+A-1248185,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2020,14,Saturday,Sin dato,False,False,False,False,False,False,False
+A-1254494,NC,Orange,Hillsborough,Source2,3,36.036667,-79.097511,2020,20,Monday,Sin dato,False,False,False,False,False,False,False
+A-1260659,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2020,14,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-1266077,NC,Orange,Efland,Source2,3,36.072617,-79.159561,2020,18,Saturday,Sin dato,False,False,False,False,False,False,False
+A-1316430,NC,Orange,Durham,Source2,3,36.038147,-78.988174,2020,6,Monday,Sin dato,False,False,False,False,False,False,False
+A-1318154,NC,Orange,Chapel Hill,Source2,3,35.971317,-79.06255300000002,2020,20,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-1332733,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2020,14,Friday,Sin dato,False,False,False,False,False,False,False
+A-1334993,NC,Orange,Hillsborough,Source2,3,36.059006,-79.128075,2020,20,Sunday,Sin dato,False,False,False,False,False,False,False
+A-1345032,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2020,9,Saturday,Sin dato,False,False,False,False,False,False,False
+A-1363387,NC,Orange,Chapel Hill,Source2,3,35.971317,-79.06255300000002,2020,21,Thursday,Sin dato,False,False,False,False,False,False,False
+A-1370475,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2020,4,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-1373916,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2020,19,Friday,Sin dato,False,False,False,False,False,False,False
+A-1378082,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2020,20,Monday,Sin dato,False,False,False,False,False,False,False
+A-1379489,NC,Orange,Mebane,Source2,3,36.075195,-79.260651,2020,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1384269,NC,Orange,Hillsborough,Source2,3,36.057037,-79.10405,2020,18,Monday,Sin dato,False,False,False,False,False,False,False
+A-1398013,NC,Orange,Hillsborough,Source2,3,36.058559,-79.082909,2020,16,Friday,Sin dato,False,False,False,False,False,False,False
+A-1398025,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2020,18,Friday,Sin dato,False,False,False,False,False,False,False
+A-1400532,NC,Orange,Hillsborough,Source2,4,36.059097,-79.082832,2020,8,Monday,Sin dato,False,False,False,False,False,False,False
+A-1400557,NC,Orange,Chapel Hill,Source2,3,36.009624,-79.084,2020,13,Monday,Sin dato,False,False,False,False,False,False,False
+A-1413599,NC,Orange,Chapel Hill,Source2,3,35.971317,-79.06255300000002,2020,17,Thursday,Sin dato,False,False,False,False,False,False,False
+A-1429346,NC,Orange,Efland,Source2,3,36.07214000000001,-79.157814,2020,6,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-1433846,NC,Orange,Mebane,Source2,3,36.079338,-79.22449499999998,2020,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1449073,NC,Orange,Hillsborough,Source2,3,36.059402,-79.12956199999998,2020,5,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-1503476,NC,Orange,Hillsborough,Source2,3,36.010117,-79.084694,2020,13,Friday,Sin dato,False,False,False,False,False,False,False
+A-1516063,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2020,18,Friday,Sin dato,False,False,False,False,False,False,False
+A-1517868,NC,Orange,Hillsborough,Source2,3,36.057037,-79.10405,2020,9,Saturday,Sin dato,False,False,False,False,False,False,False
+A-1558923,NC,Orange,Hillsborough,Source2,3,36.059006,-79.128075,2020,9,Saturday,Sin dato,False,False,False,False,False,False,False
+A-1564551,NC,Orange,Mebane,Source2,3,36.079338,-79.22449499999998,2020,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1580941,NC,Orange,Chapel Hill,Source2,3,36.009624,-79.084,2020,20,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-1582933,NC,Orange,Mebane,Source2,3,36.079338,-79.22449499999998,2020,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1588336,NC,Orange,Mebane,Source2,3,36.079338,-79.22449499999998,2020,9,Monday,Rain,False,False,False,False,False,False,False
+A-1605474,NC,Orange,Chapel Hill,Source2,3,35.970886,-79.062004,2020,19,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-1613540,NC,Orange,Efland,Source2,3,36.072971,-79.160072,2020,19,Monday,Sin dato,False,False,True,False,False,False,False
+A-1639009,NC,Orange,Hillsborough,Source2,3,36.021969,-79.08833299999998,2020,8,Monday,Sin dato,False,False,False,False,False,False,False
+A-1654163,NC,Orange,Efland,Source2,3,36.073498,-79.166275,2020,8,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-1693434,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2019,21,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-1703077,NC,Orange,Hillsborough,Source2,3,36.058559,-79.082909,2019,17,Monday,Sin dato,False,False,False,False,False,False,False
+A-1717178,NC,Orange,Chapel Hill,Source2,3,36.009624,-79.084,2019,14,Sunday,Sin dato,False,False,False,False,False,False,False
+A-1717179,NC,Orange,Chapel Hill,Source2,3,35.971317,-79.06255300000002,2019,14,Sunday,Sin dato,False,False,False,False,False,False,False
+A-1747851,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2019,17,Friday,Sin dato,False,False,False,False,False,False,False
+A-1766684,NC,Orange,Hillsborough,Source2,3,36.059006,-79.128075,2019,8,Monday,Sin dato,False,False,False,False,False,False,False
+A-1769477,NC,Orange,Chapel Hill,Source2,3,36.009624,-79.084,2019,9,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-1777362,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2019,7,Friday,Sin dato,False,False,False,False,False,False,False
+A-1789361,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2019,17,Thursday,Sin dato,False,False,False,False,False,False,False
+A-1794971,NC,Orange,Hillsborough,Source2,3,36.036556,-79.097595,2019,14,Sunday,Sin dato,False,False,False,False,False,False,False
+A-1816898,NC,Orange,Chapel Hill,Source2,3,35.971317,-79.06255300000002,2019,7,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-1822711,NC,Orange,Chapel Hill,Source2,3,35.971317,-79.06255300000002,2019,17,Friday,Sin dato,False,False,False,False,False,False,False
+A-1825246,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2019,16,Saturday,Sin dato,False,False,False,False,False,False,False
+A-1825251,NC,Orange,Durham,Source2,3,36.038414,-79.01007800000002,2019,17,Saturday,Sin dato,False,False,False,False,False,False,False
+A-1826044,NC,Orange,Hillsborough,Source2,3,36.059006,-79.128075,2019,16,Sunday,Sin dato,False,False,False,False,False,False,False
+A-1852629,NC,Orange,Hillsborough,Source2,3,36.059006,-79.128075,2019,16,Saturday,Sin dato,False,False,False,False,False,False,False
+A-1852630,NC,Orange,Efland,Source2,3,36.073219,-79.165428,2019,16,Saturday,Sin dato,False,False,False,False,False,False,False
+A-1853654,NC,Orange,Durham,Source2,4,35.967857,-79.027527,2019,5,Monday,Sin dato,False,False,False,False,False,False,False
+A-1856071,NC,Orange,Hillsborough,Source2,3,36.058559,-79.082909,2019,7,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-1856077,NC,Orange,Hillsborough,Source2,3,36.059006,-79.128075,2019,8,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-1856089,NC,Orange,Hillsborough,Source2,3,36.059006,-79.128075,2019,9,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-1863679,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2019,16,Friday,Sin dato,False,False,False,False,False,False,False
+A-1863691,NC,Orange,Chapel Hill,Source2,3,35.971317,-79.06255300000002,2019,17,Friday,Sin dato,False,False,False,False,False,False,False
+A-1876206,NC,Orange,Hillsborough,Source2,3,36.057037,-79.10405,2019,9,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-1881000,NC,Orange,Efland,Source2,3,36.072704,-79.15995,2019,18,Thursday,Sin dato,False,False,False,False,False,False,False
+A-1896532,NC,Orange,Durham,Source2,3,36.03891,-79.01020799999998,2019,17,Friday,Sin dato,False,False,False,False,False,False,False
+A-1898499,NC,Orange,Efland,Source2,3,36.073219,-79.165428,2019,9,Saturday,Sin dato,False,False,False,False,False,False,False
+A-1907888,NC,Orange,Durham,Source2,3,36.039185,-79.02350600000003,2019,8,Thursday,Sin dato,False,False,False,False,False,False,False
+A-1914049,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2019,5,Monday,Sin dato,False,False,False,False,False,False,False
+A-1916631,NC,Orange,Hillsborough,Source2,3,36.058559,-79.082909,2019,18,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-1919342,NC,Orange,Chapel Hill,Source2,3,35.971317,-79.06255300000002,2019,14,Sunday,Sin dato,False,False,False,False,False,False,False
+A-1920347,NC,Orange,Mebane,Source2,3,36.079338,-79.22449499999998,2019,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1927247,NC,Orange,Hillsborough,Source2,3,36.072906,-79.159599,2019,8,Thursday,Sin dato,False,False,False,False,False,False,False
+A-1937486,NC,Orange,Chapel Hill,Source2,3,35.971317,-79.06255300000002,2019,7,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-1944723,NC,Orange,Efland,Source2,3,36.073219,-79.165428,2019,8,Monday,Sin dato,False,False,False,False,False,False,False
+A-1949144,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2019,22,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-1969775,NC,Orange,Chapel Hill,Source2,3,36.009624,-79.084,2019,13,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-1972023,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2019,18,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-1974230,NC,Orange,Hillsborough,Source2,3,36.059006,-79.128075,2019,8,Thursday,Sin dato,False,False,False,False,False,False,False
+A-1974271,NC,Orange,Chapel Hill,Source2,3,36.009624,-79.084,2019,14,Thursday,Sin dato,False,False,False,False,False,False,False
+A-2006854,NC,Orange,Efland,Source2,3,36.073219,-79.165428,2019,15,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-2026900,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2019,19,Friday,Sin dato,False,False,False,False,False,False,False
+A-2034271,NC,Orange,Hillsborough,Source2,3,36.036556,-79.097595,2019,11,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-2046878,NC,Orange,Chapel Hill,Source2,3,36.009624,-79.084,2019,15,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-2064718,NC,Orange,Hillsborough,Source2,3,36.059006,-79.128075,2019,7,Friday,Sin dato,False,False,False,False,False,False,False
+A-2070734,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2019,15,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-2075103,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2019,10,Thursday,Sin dato,False,False,False,False,False,False,False
+A-2075137,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2019,17,Thursday,Sin dato,False,False,False,False,False,False,False
+A-2080812,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2019,15,Friday,Sin dato,False,False,False,False,False,False,False
+A-2109729,NC,Orange,Chapel Hill,Source2,3,35.969337,-79.033867,2019,11,Saturday,Sin dato,False,False,False,False,False,False,False
+A-2119374,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2019,16,Thursday,Sin dato,False,False,False,False,False,False,False
+A-2119375,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2019,16,Thursday,Sin dato,False,False,False,False,False,False,False
+A-2140304,NC,Orange,Durham,Source2,3,36.038467,-79.01007800000002,2019,10,Friday,Sin dato,False,False,False,False,False,False,False
+A-2158829,NC,Orange,Durham,Source2,3,36.038406,-79.011749,2019,9,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-2161265,NC,Orange,Hillsborough,Source2,3,36.058517,-79.082901,2019,6,Thursday,Sin dato,False,False,False,False,False,False,False
+A-2167737,NC,Orange,Hillsborough,Source2,4,36.058559,-79.082909,2019,8,Monday,Sin dato,False,False,False,False,False,False,False
+A-2174551,NC,Orange,Chapel Hill,Source2,3,35.971317,-79.06255300000002,2019,15,Thursday,Sin dato,False,False,False,False,False,False,False
+A-2220601,NC,Orange,Durham,Source2,3,36.038406,-79.011749,2019,7,Friday,Sin dato,False,False,False,False,False,False,False
+A-2230762,NC,Orange,Mebane,Source2,3,36.079338,-79.224518,2019,6,Thursday,Rain,False,False,False,False,False,False,False
+A-2249610,NC,Orange,Durham,Source2,3,36.038406,-79.011749,2019,12,Thursday,Sin dato,False,False,False,False,False,False,False
+A-2291586,NC,Orange,Hillsborough,Source2,3,36.059345,-79.12844100000002,2019,14,Monday,Sin dato,False,False,False,False,False,False,False
+A-2314875,NC,Orange,Chapel Hill,Source2,3,35.970898,-79.062035,2019,17,Thursday,Sin dato,False,False,False,False,False,False,False
+A-2337140,NC,Orange,Chapel Hill,Source2,3,35.971279,-79.062569,2019,9,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-2387606,NC,Orange,Chapel Hill,Source2,3,35.971279,-79.062569,2018,17,Monday,Sin dato,False,False,False,False,False,False,False
+A-2421970,NC,Orange,Durham,Source2,3,36.038559,-79.008308,2018,16,Monday,Sin dato,False,False,False,False,False,False,False
+A-2428003,NC,Orange,Hillsborough,Source2,3,36.059391,-79.130432,2018,15,Friday,Sin dato,False,False,False,False,False,False,False
+A-2455583,NC,Orange,Durham,Source2,3,36.038357,-79.008545,2018,16,Wednesday,Sin dato,False,False,True,False,False,False,False
+A-2458682,NC,Orange,Durham,Source2,3,36.038357,-79.008545,2018,13,Thursday,Sin dato,False,False,True,False,False,False,False
+A-2466118,NC,Orange,Chapel Hill,Source2,3,35.971214,-79.06279,2018,18,Monday,Sin dato,False,False,False,False,False,False,False
+A-2471530,NC,Orange,Hillsborough,Source2,3,36.059391,-79.130432,2018,8,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-2477132,NC,Orange,Mebane,Source2,3,36.079201,-79.22506700000002,2018,10,Saturday,Rain,False,False,False,False,False,False,False
+A-2526549,NC,Orange,Hillsborough,Source2,3,36.058872,-79.082375,2018,1,Thursday,Sin dato,False,False,False,False,False,False,False
+A-2529729,NC,Orange,Durham,Source2,3,36.038357,-79.008545,2018,15,Friday,Sin dato,False,False,True,False,False,False,False
+A-2534164,NC,Orange,Hillsborough,Source2,3,36.056942,-79.104141,2018,10,Monday,Sin dato,False,False,False,False,False,False,False
+A-2561428,NC,Orange,Hillsborough,Source2,3,36.058872,-79.082375,2018,10,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-2576253,NC,Orange,Durham,Source2,3,36.038357,-79.008545,2018,14,Tuesday,Sin dato,False,False,True,False,False,False,False
+A-2590818,NC,Orange,Hillsborough,Source2,3,36.059391,-79.130432,2018,13,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-2598463,NC,Orange,Chapel Hill,Source2,3,35.971214,-79.06279,2018,14,Friday,Sin dato,False,False,False,False,False,False,False
+A-2608145,NC,Orange,Durham,Source2,3,36.038357,-79.008545,2018,17,Wednesday,Sin dato,False,False,True,False,False,False,False
+A-2624236,NC,Orange,Durham,Source2,3,36.038357,-79.008545,2018,15,Friday,Sin dato,False,False,True,False,False,False,False
+A-2626344,NC,Orange,Hillsborough,Source2,3,36.05928400000001,-79.12838,2018,14,Saturday,Sin dato,False,False,False,False,False,False,False
+A-2628082,NC,Orange,Mebane,Source2,3,36.079422,-79.224663,2018,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-2638152,NC,Orange,Durham,Source2,3,36.038357,-79.008545,2018,8,Friday,Sin dato,False,False,True,False,False,False,False
+A-2638230,NC,Orange,Durham,Source2,3,36.038357,-79.008545,2018,18,Friday,Sin dato,False,False,True,False,False,False,False
+A-2642195,NC,Orange,Efland,Source2,3,36.072662,-79.159752,2018,8,Monday,Sin dato,False,False,False,False,False,False,False
+A-2656223,NC,Orange,Hillsborough,Source2,3,36.059391,-79.130432,2018,14,Monday,Sin dato,False,False,False,False,False,False,False
+A-2669904,NC,Orange,Efland,Source2,3,36.073673,-79.169853,2018,9,Monday,Sin dato,False,False,False,False,False,False,False
+A-2718273,NC,Orange,Chapel Hill,Source2,3,35.971214,-79.06279,2018,8,Monday,Sin dato,False,False,False,False,False,False,False
+A-2733582,NC,Orange,Chapel Hill,Source2,3,35.870277,-79.06955,2018,7,Thursday,Sin dato,False,False,False,False,False,False,False
+A-2736063,NC,Orange,Chapel Hill,Source2,3,36.009426,-79.084335,2018,13,Friday,Sin dato,False,False,False,False,False,False,False
+A-2736104,NC,Orange,Durham,Source2,3,36.038357,-79.008545,2018,16,Friday,Sin dato,False,False,True,False,False,False,False
+A-2744907,NC,Orange,Chapel Hill,Source2,3,36.009426,-79.084335,2018,18,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-2747339,NC,Orange,Durham,Source2,3,36.038357,-79.008545,2018,8,Thursday,Sin dato,False,False,True,False,False,False,False
+A-2752584,NC,Orange,Durham,Source2,3,35.953224,-79.001366,2018,14,Sunday,Sin dato,False,False,False,False,False,False,False
+A-2776640,NC,Orange,Durham,Source2,3,36.038357,-79.008545,2018,15,Friday,Sin dato,False,False,True,False,False,False,False
+A-2782822,NC,Orange,Durham,Source2,3,36.038357,-79.008545,2018,13,Tuesday,Sin dato,False,False,True,False,False,False,False
+A-2803038,NC,Orange,Mebane,Source2,3,36.079391,-79.22245799999997,2018,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2803054,NC,Orange,Hillsborough,Source2,3,36.058872,-79.082375,2018,19,Friday,Sin dato,False,False,False,False,False,False,False
+A-2806966,NC,Orange,Chapel Hill,Source2,3,35.971214,-79.06279,2018,17,Monday,Sin dato,False,False,False,False,False,False,False
+A-2814558,NC,Orange,Efland,Source2,3,36.072662,-79.159752,2018,4,Thursday,Sin dato,False,False,False,False,False,False,False
+A-2819749,NC,Orange,Hillsborough,Source2,3,36.037006,-79.097473,2018,13,Saturday,Sin dato,False,False,False,False,False,False,False
+A-2820577,NC,Orange,Chapel Hill,Source2,3,35.971214,-79.06279,2018,15,Sunday,Sin dato,False,False,False,False,False,False,False
+A-2827052,NC,Orange,Efland,Source2,3,36.073673,-79.169853,2018,13,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-2827121,NC,Orange,Hillsborough,Source2,3,36.059391,-79.130432,2018,19,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-2834589,NC,Orange,Hillsborough,Source2,3,36.059391,-79.130432,2018,11,Saturday,Sin dato,False,False,False,False,False,False,False
+A-2835369,NC,Orange,Chapel Hill,Source2,3,35.971214,-79.06279,2018,12,Sunday,Sin dato,False,False,False,False,False,False,False
+A-2841764,NC,Orange,Durham,Source2,3,36.038357,-79.008545,2018,18,Wednesday,Sin dato,False,False,True,False,False,False,False
+A-2850781,NC,Orange,Hillsborough,Source2,3,36.059391,-79.130432,2018,15,Monday,Sin dato,False,False,False,False,False,False,False
+A-2880762,NC,Orange,Hillsborough,Source2,3,36.058872,-79.082375,2018,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2883345,NC,Orange,Efland,Source2,3,36.072662,-79.159752,2018,9,Friday,Sin dato,False,False,False,False,False,False,False
+A-2883363,NC,Orange,Hillsborough,Source2,3,36.059391,-79.130432,2018,11,Friday,Sin dato,False,False,False,False,False,False,False
+A-2883375,NC,Orange,Hillsborough,Source2,3,36.059391,-79.130432,2018,12,Friday,Sin dato,False,False,False,False,False,False,False
+A-2883406,NC,Orange,Durham,Source2,3,36.038357,-79.008545,2018,16,Friday,Sin dato,False,False,True,False,False,False,False
+A-2907719,NC,Orange,Hillsborough,Source2,3,36.059391,-79.130432,2018,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2934527,NC,Orange,Mebane,Source2,3,36.079422,-79.224663,2018,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2937465,NC,Orange,Efland,Source2,3,36.073673,-79.169853,2018,16,Sunday,Sin dato,False,False,False,False,False,False,False
+A-2946736,NC,Orange,Mebane,Source2,3,36.079422,-79.224663,2018,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2946871,NC,Orange,Hillsborough,Source2,3,36.037006,-79.097473,2018,18,Thursday,Sin dato,False,False,False,False,False,False,False
+A-2952577,NC,Orange,Chapel Hill,Source2,3,36.009426,-79.084335,2018,14,Sunday,Sin dato,False,False,False,False,False,False,False
+A-2975677,NC,Orange,Chapel Hill,Source2,3,35.971214,-79.06279,2018,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2983294,NC,Orange,Efland,Source2,3,36.072578,-79.15864599999998,2018,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2988996,NC,Orange,Efland,Source2,3,36.073673,-79.169853,2018,15,Sunday,Rain,False,False,False,False,False,False,False
+A-2992811,NC,Orange,Chapel Hill,Source2,3,35.893631,-79.057487,2018,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2998471,NC,Orange,Hillsborough,Source2,3,36.059391,-79.130432,2018,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3008474,NC,Orange,Hillsborough,Source2,3,36.05905900000001,-79.128563,2018,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3008481,NC,Orange,Hillsborough,Source2,3,36.059391,-79.130432,2018,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3018599,NC,Orange,Durham,Source2,3,36.038357,-79.008545,2018,16,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-3019431,NC,Orange,Durham,Source2,3,36.038357,-79.008545,2018,8,Monday,Cloudy,False,False,True,False,False,False,False
+A-3019436,NC,Orange,Durham,Source2,3,36.038357,-79.008545,2018,9,Monday,Rain,False,False,True,False,False,False,False
+A-3054554,NC,Orange,Hillsborough,Source2,3,36.037006,-79.097473,2018,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3062951,NC,Orange,Durham,Source2,3,36.038357,-79.008545,2018,18,Friday,Cloudy,False,False,True,False,False,False,False
+A-3074656,NC,Orange,Chapel Hill,Source2,3,36.009426,-79.084335,2018,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3074693,NC,Orange,Mebane,Source2,3,36.079422,-79.224663,2018,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3085886,NC,Orange,Mebane,Source2,3,36.079422,-79.224663,2018,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3118810,NC,Orange,Hillsborough,Source2,3,36.058872,-79.082375,2017,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3122444,NC,Orange,Chapel Hill,Source2,3,36.009426,-79.084335,2017,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3125359,NC,Orange,Efland,Source2,3,36.073673,-79.169861,2017,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3131333,NC,Orange,Durham,Source2,3,36.038357,-79.008545,2017,11,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-3165480,NC,Orange,Mebane,Source2,3,36.079422,-79.224663,2017,22,Friday,Rain,False,False,False,False,False,False,False
+A-3167539,NC,Orange,Hillsborough,Source2,3,36.059391,-79.130432,2017,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3173464,NC,Orange,Hillsborough,Source2,3,36.059391,-79.130432,2017,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3175900,NC,Orange,Durham,Source2,3,36.038357,-79.008545,2017,18,Thursday,Cloudy,False,False,True,False,False,False,False
+A-3180761,NC,Orange,Hillsborough,Source2,3,36.059391,-79.130432,2017,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3180764,NC,Orange,Efland,Source2,3,36.072662,-79.159752,2017,16,Sunday,Rain,False,False,False,False,False,False,False
+A-3180765,NC,Orange,Mebane,Source2,3,36.079422,-79.224663,2017,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3186192,NC,Orange,Hillsborough,Source2,3,36.058872,-79.082375,2017,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3186193,NC,Orange,Hillsborough,Source2,4,36.058872,-79.082375,2017,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3193740,NC,Orange,Hillsborough,Source2,3,36.059391,-79.130432,2017,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3194793,NC,Orange,Chapel Hill,Source2,3,36.009426,-79.084335,2017,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3205763,NC,Orange,Chapel Hill,Source2,3,35.971214,-79.06279,2017,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3207616,NC,Orange,Mebane,Source2,3,36.079422,-79.224663,2017,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3217278,NC,Orange,Hillsborough,Source2,3,36.056942,-79.104141,2017,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3222836,NC,Orange,Hillsborough,Source2,3,36.058872,-79.082375,2017,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3225653,NC,Orange,Mebane,Source2,3,36.079422,-79.224663,2017,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3228419,NC,Orange,Mebane,Source2,3,36.079422,-79.224663,2017,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-3228439,NC,Orange,Efland,Source2,3,36.072662,-79.159752,2017,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3232640,NC,Orange,Hillsborough,Source2,3,36.058872,-79.082375,2017,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3238078,NC,Orange,Hillsborough,Source2,3,36.059391,-79.130432,2017,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3238080,NC,Orange,Hillsborough,Source2,3,36.059391,-79.130432,2017,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3249485,NC,Orange,Chapel Hill,Source2,3,35.971214,-79.06279,2017,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3260324,NC,Orange,Chapel Hill,Source2,3,36.009426,-79.084335,2017,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3266570,NC,Orange,Durham,Source2,3,36.038357,-79.008545,2017,5,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-3266571,NC,Orange,Durham,Source2,3,36.038357,-79.008545,2017,5,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-3273576,NC,Orange,Chapel Hill,Source2,3,35.971214,-79.06279,2017,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3294803,NC,Orange,Hillsborough,Source2,3,36.037006,-79.097473,2017,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3301621,NC,Orange,Hillsborough,Source2,3,36.059391,-79.130432,2017,10,Tuesday,Rain,False,False,False,False,False,False,False
+A-3323143,NC,Orange,Mebane,Source2,3,36.079422,-79.224663,2017,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3326033,NC,Orange,Durham,Source2,3,36.038357,-79.008545,2017,7,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-3344723,NC,Orange,Mebane,Source2,3,36.080395,-79.223564,2017,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3373605,NC,Orange,Chapel Hill,Source2,3,36.009426,-79.084335,2017,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3377388,NC,Orange,Hillsborough,Source2,3,36.059391,-79.130432,2017,6,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3380118,NC,Orange,Chapel Hill,Source2,3,36.009426,-79.084335,2017,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3382990,NC,Orange,Durham,Source2,3,36.038357,-79.008545,2017,7,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-3385951,NC,Orange,Hillsborough,Source2,3,36.058872,-79.082375,2017,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-3451332,NC,Orange,Efland,Source1,3,36.07351,-79.16660999999998,2016,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-3456209,NC,Orange,Cedar Grove,Source1,4,36.242395,-79.190169,2017,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3457130,NC,Orange,Hillsborough,Source1,3,36.05929,-79.12524,2017,8,Saturday,Other,False,False,False,False,False,False,False
+A-3457143,NC,Orange,Hillsborough,Source1,3,36.07178,-79.15623000000002,2017,10,Saturday,Snow / Ice,False,False,True,False,False,False,False
+A-3463628,NC,Orange,Mebane,Source1,4,36.07912,-79.21985,2016,2,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3469926,NC,Orange,Hillsborough,Source1,3,36.059273,-79.126705,2016,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3469927,NC,Orange,Hillsborough,Source1,3,36.05958,-79.13031,2016,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3472337,NC,Orange,Hillsborough,Source1,3,36.05929,-79.12524,2016,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3472361,NC,Orange,Hillsborough,Source1,3,36.05929,-79.12524,2016,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3472363,NC,Orange,Hillsborough,Source1,3,36.05906,-79.12573,2016,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3476235,NC,Orange,Durham,Source1,4,36.038901,-79.018036,2016,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3487687,NC,Orange,Hillsborough,Source1,3,36.03697,-79.0974,2016,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-3490233,NC,Orange,Chapel Hill,Source1,4,35.947228,-79.007265,2016,13,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-3490956,NC,Orange,Cedar Grove,Source1,4,36.20435,-79.15046,2016,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3490957,NC,Orange,Cedar Grove,Source1,4,36.198348,-79.142361,2016,12,Thursday,Cloudy,False,False,False,True,False,False,False
+A-3572460,NC,Orange,Chapel Hill,Source1,3,35.9104,-79.02679,2017,12,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-3573527,NC,Orange,Mebane,Source1,3,36.07889,-79.22901,2017,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3576801,NC,Orange,Hillsborough,Source1,4,36.0345,-79.093,2017,23,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-3578412,NC,Orange,Carrboro,Source1,4,35.91759000000001,-79.09423000000002,2017,10,Friday,Cloudy,True,True,False,False,False,False,False
+A-3578414,NC,Orange,Carrboro,Source1,4,35.919182,-79.098575,2017,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-3583068,NC,Orange,Hillsborough,Source1,4,36.05785,-79.07881,2017,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3600960,NC,Orange,Hillsborough,Source1,3,36.057811,-79.090147,2017,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3601938,NC,Orange,Efland,Source1,4,36.07148,-79.15604,2017,18,Sunday,Rain,False,False,False,False,False,False,False
+A-3614427,NC,Orange,Hillsborough,Source1,3,36.05906,-79.12573,2017,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-3614428,NC,Orange,Hillsborough,Source1,3,36.06057,-79.13323000000003,2017,20,Friday,Cloudy,False,False,True,False,False,False,False
+A-3632910,NC,Orange,Hillsborough,Source1,4,36.05737,-79.077421,2017,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3681617,NC,Orange,Efland,Source1,4,36.0812,-79.167022,2023,21,Monday,Sin dato,False,False,False,False,False,False,False
+A-3688721,NC,Orange,Chapel Hill,Source1,4,35.969322,-79.033855,2023,2,Thursday,Sin dato,False,False,False,False,False,False,False
+A-3688928,NC,Orange,Efland,Source1,4,36.081195,-79.168945,2023,21,Monday,Sin dato,False,False,False,False,False,False,False
+A-3693790,NC,Orange,Chapel Hill,Source1,4,35.97463489,-79.06797051,2023,15,Sunday,Sin dato,False,False,False,False,False,False,False
+A-3755328,NC,Orange,Chapel Hill,Source1,4,35.903554,-79.102975,2022,14,Monday,Sin dato,False,False,False,False,False,False,False
+A-3793292,NC,Orange,Hillsborough,Source1,4,36.057996,-79.078671,2022,2,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-3807653,NC,Orange,Hillsborough,Source1,4,36.12461,-79.116166,2022,2,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-3851046,NC,Orange,Hillsborough,Source1,4,36.058454,-79.082107,2022,4,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-3862153,NC,Orange,Chapel Hill,Source1,4,35.96742000000001,-79.104163,2023,21,Friday,Sin dato,False,False,False,False,False,False,False
+A-3878093,NC,Orange,Mebane,Source1,4,36.091588,-79.24683399999998,2022,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3957990,NC,Orange,Rougemont,Source1,4,36.214138,-79.00168599999998,2022,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3980341,NC,Orange,Hillsborough,Source1,4,36.088142,-79.063683,2022,22,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-4012382,NC,Orange,Efland,Source1,4,35.996665,-79.20499699999998,2023,11,Thursday,Sin dato,False,False,False,True,False,False,False
+A-4013017,NC,Orange,Hillsborough,Source1,4,36.055703,-79.097819,2023,1,Monday,Sin dato,False,False,False,False,False,False,False
+A-4013352,NC,Orange,Rougemont,Source1,4,36.206126,-78.990394,2022,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4023614,NC,Orange,Mebane,Source1,4,36.092027,-79.24789,2022,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4081224,NC,Orange,Hillsborough,Source1,4,36.081864,-79.080223,2022,6,Friday,Sin dato,False,False,False,False,False,False,False
+A-4081920,NC,Orange,Hillsborough,Source1,4,36.071547,-79.065747,2022,23,Friday,Sin dato,False,False,False,False,False,False,False
+A-4107146,NC,Orange,Hillsborough,Source1,4,36.098598,-79.101838,2022,15,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-4155635,NC,Orange,Hillsborough,Source1,4,36.0608303545186,-79.13367390594894,2022,20,Friday,Sin dato,False,False,True,False,False,False,False
+A-4173334,NC,Orange,Hillsborough,Source1,4,36.058425,-79.080424,2022,2,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-4210364,NC,Orange,Hillsborough,Source1,4,36.069954,-79.06380300000002,2022,23,Friday,Sin dato,False,False,False,False,False,False,False
+A-4218149,NC,Orange,Hillsborough,Source1,4,36.139204,-79.121205,2022,18,Monday,Sin dato,False,False,False,False,False,False,False
+A-4221426,NC,Orange,Rougemont,Source1,4,36.206494,-78.99068299999998,2022,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4227730,NC,Orange,Hillsborough,Source1,4,36.059559,-79.082889,2022,4,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-4269615,NC,Orange,Chapel Hill,Source1,4,35.89451500000001,-79.057186,2022,4,Monday,Sin dato,False,False,False,False,False,False,False
+A-4277333,NC,Orange,Rougemont,Source1,4,36.194803,-79.021984,2022,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-4302242,NC,Orange,Chapel Hill,Source1,4,35.939321,-79.056926,2022,3,Thursday,Sin dato,True,True,False,False,False,False,False
+A-4314721,NC,Orange,Efland,Source1,4,36.081183,-79.182462,2022,4,Friday,Sin dato,False,False,False,False,False,False,False
+A-4349624,NC,Orange,Chapel Hill,Source1,4,35.90152,-79.100729,2022,14,Monday,Sin dato,True,False,False,False,False,False,False
+A-4357522,NC,Orange,Chapel Hill,Source1,4,35.972575,-79.063427,2023,21,Monday,Sin dato,True,False,False,False,False,False,False
+A-4384345,NC,Orange,Hillsborough,Source1,4,36.108147,-79.110162,2022,20,Monday,Sin dato,False,False,False,False,False,False,False
+A-4387375,NC,Orange,Hillsborough,Source1,4,36.156058,-79.017375,2022,21,Sunday,Sin dato,False,False,False,False,False,False,False
+A-4405759,NC,Orange,Chapel Hill,Source1,4,35.894443,-79.057789,2022,4,Monday,Sin dato,True,True,False,False,False,False,False
+A-4441935,NC,Orange,Efland,Source1,4,36.081179,-79.181441,2022,4,Friday,Sin dato,False,False,False,False,False,False,False
+A-4484116,NC,Orange,Hillsborough,Source1,4,36.097407,-79.10222399999998,2022,15,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-4594925,NC,Orange,Hillsborough,Source1,4,36.086666,-79.066475,2022,22,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-4601507,NC,Orange,Hillsborough,Source1,4,36.1368978021806,-79.12060618362845,2022,18,Monday,Sin dato,False,False,False,False,False,False,False
+A-4654518,NC,Orange,Hillsborough,Source1,4,36.0608303545186,-79.13367390594894,2022,20,Friday,Sin dato,False,False,True,False,False,False,False
+A-4670528,NC,Orange,Chapel Hill,Source1,4,36.006151,-79.082291,2022,2,Thursday,Sin dato,False,False,True,False,False,False,False
+A-4706711,NC,Orange,Hillsborough,Source1,4,36.059559,-79.082889,2022,4,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-4737886,NC,Orange,Hillsborough,Source1,4,35.976019,-79.193617,2022,13,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-4748461,NC,Orange,Hillsborough,Source1,4,36.081987,-79.079536,2022,6,Friday,Sin dato,True,False,False,False,False,False,False
+A-4760646,NC,Orange,Hillsborough,Source1,4,36.068378,-79.09279000000002,2022,16,Friday,Sin dato,False,False,False,False,False,False,False
+A-4774632,NC,Orange,Hillsborough,Source1,4,36.155691,-79.01751999999998,2022,21,Sunday,Sin dato,False,False,False,False,False,False,False
+A-4793331,NC,Orange,Chapel Hill,Source1,4,35.938814,-79.056826,2022,3,Thursday,Sin dato,False,False,False,False,False,False,False
+A-4832313,NC,Orange,Efland,Source1,4,36.081183,-79.182462,2022,4,Friday,Sin dato,False,False,False,False,False,False,False
+A-4833524,NC,Orange,Rougemont,Source1,4,36.196544,-79.022175,2022,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-4835828,NC,Orange,Chapel Hill,Source1,4,35.924026,-79.115791,2022,8,Thursday,Sin dato,False,False,False,False,False,False,False
+A-4841171,NC,Orange,Hillsborough,Source1,4,36.156058,-79.017375,2022,21,Sunday,Sin dato,False,False,False,False,False,False,False
+A-4904780,NC,Orange,Chapel Hill,Source1,4,35.901318,-79.102689,2022,14,Monday,Sin dato,False,False,False,False,False,False,False
+A-4940495,NC,Orange,Hillsborough,Source1,4,36.108809,-79.1104,2022,20,Monday,Sin dato,False,False,False,False,False,False,False
+A-4950081,NC,Orange,Chapel Hill,Source1,4,35.893862,-79.057536,2022,4,Monday,Sin dato,False,False,False,False,False,False,False
+A-5009284,NC,Orange,Chapel Hill,Source1,4,35.923956,-79.115551,2022,8,Thursday,Sin dato,False,False,False,False,False,False,False
+A-5012337,NC,Orange,Mebane,Source1,4,36.061719,-79.222427,2023,21,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-5023837,NC,Orange,Chapel Hill,Source1,4,35.901691,-79.10089599999998,2022,14,Monday,Sin dato,True,False,False,False,False,False,False
+A-5103113,NC,Orange,Chapel Hill,Source1,4,35.968336,-79.10614699999998,2023,21,Friday,Sin dato,False,False,False,False,False,False,False
+A-5123944,NC,Orange,Hillsborough,Source1,4,36.122439,-79.115321,2022,2,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-5185322,NC,Orange,Hillsborough,Source1,4,36.069356,-79.063114,2022,23,Friday,Sin dato,True,False,False,False,False,False,False
+A-5239347,NC,Orange,Efland,Source1,4,36.071280240840565,-79.1555821891825,2022,20,Friday,Sin dato,False,False,False,False,False,False,False
+A-5241011,NC,Orange,Hillsborough,Source1,4,36.082335,-79.08022,2022,6,Friday,Sin dato,False,False,False,False,False,False,False
+A-5252095,NC,Orange,Hillsborough,Source1,4,36.068113,-79.095987,2022,16,Friday,Sin dato,False,False,False,False,False,False,False
+A-5257049,NC,Orange,Efland,Source1,4,36.080714,-79.182448,2022,4,Friday,Sin dato,False,False,False,False,False,False,False
+A-5265144,NC,Orange,Efland,Source1,4,36.004415,-79.206162,2023,11,Thursday,Sin dato,False,False,False,False,False,False,False
+A-5275576,NC,Orange,Rougemont,Source1,4,36.207898,-78.987225,2022,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5278864,NC,Orange,Hillsborough,Source1,4,36.05583072,-79.0999639,2023,1,Monday,Sin dato,False,False,False,False,False,False,False
+A-5293399,NC,Orange,Hillsborough,Source1,4,35.976069,-79.193887,2022,13,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-5346441,NC,Orange,Hillsborough,Source1,4,36.081987,-79.079536,2022,6,Friday,Sin dato,True,False,False,False,False,False,False
+A-5394576,NC,Orange,Hillsborough,Source1,4,36.159243,-79.021137,2022,21,Sunday,Sin dato,False,False,False,False,False,False,False
+A-5395701,NC,Orange,Mebane,Source1,4,36.06048,-79.22251800000002,2023,21,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-5421636,NC,Orange,Hillsborough,Source1,4,36.068728,-79.062434,2022,23,Friday,Sin dato,False,False,False,False,False,False,False
+A-5437045,NC,Orange,Rougemont,Source1,4,36.206126,-78.990394,2022,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5449660,NC,Orange,Hillsborough,Source1,4,36.15445,-78.96758299999998,2023,18,Friday,Sin dato,False,False,False,False,False,False,False
+A-5467652,NC,Orange,Hillsborough,Source1,4,36.069954,-79.06380300000002,2021,9,Thursday,Sin dato,False,False,False,False,False,False,False
+A-5498984,NC,Orange,Chapel Hill,Source1,4,35.922627,-79.18222800000002,2021,23,Saturday,Sin dato,False,False,False,False,False,False,False
+A-5511594,NC,Orange,Hillsborough,Source1,4,36.069356,-79.063114,2021,8,Thursday,Sin dato,True,False,False,False,False,False,False
+A-5566244,NC,Orange,Chapel Hill,Source1,4,35.931018,-79.205291,2021,22,Thursday,Sin dato,False,False,False,False,False,False,False
+A-5573349,NC,Orange,Hillsborough,Source1,4,36.110729,-79.097866,2021,6,Thursday,Sin dato,False,False,False,False,False,False,False
+A-5648340,NC,Orange,Chapel Hill,Source1,4,36.009269,-79.084562,2021,9,Saturday,Sin dato,False,False,False,False,False,False,False
+A-5746994,NC,Orange,Chapel Hill,Source1,4,35.923988,-79.183769,2021,23,Saturday,Sin dato,False,False,False,False,False,False,False
+A-5768066,NC,Orange,Chapel Hill,Source1,4,35.9538638590052,-79.00246024094102,2021,17,Tuesday,Sin dato,False,False,True,False,False,False,False
+A-5810699,NC,Orange,Chapel Hill,Source1,4,35.929523,-79.202252,2021,22,Thursday,Sin dato,False,False,False,False,False,False,False
+A-5842221,NC,Orange,Hillsborough,Source1,4,36.05784773809405,-79.0787422653242,2021,7,Sunday,Sin dato,False,False,False,False,False,False,False
+A-5963608,NC,Orange,Hillsborough,Source1,4,36.054217,-79.079111,2021,2,Wednesday,Sin dato,True,False,False,False,False,False,False
+A-5991335,NC,Orange,Hurdle Mills,Source1,4,36.180581,-79.10970999999998,2021,8,Thursday,Rain,False,False,False,False,False,False,False
+A-6038670,NC,Orange,Chapel Hill,Source1,4,36.003963,-79.066074,2021,18,Saturday,Sin dato,False,False,False,False,False,False,False
+A-6049524,NC,Orange,Mebane,Source1,4,36.103532,-79.255503,2021,13,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-6111816,NC,Orange,Efland,Source1,4,36.071280240840565,-79.1555821891825,2021,18,Sunday,Sin dato,False,False,False,False,False,False,False
+A-6170029,NC,Orange,Hillsborough,Source1,4,36.111244,-79.097701,2021,6,Thursday,Sin dato,False,False,False,True,False,False,False
+A-6234501,NC,Orange,Durham,Source1,4,36.03857874853116,-79.01396155319684,2021,8,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-6282612,NC,Orange,Chapel Hill,Source1,4,36.00297,-79.066227,2021,18,Saturday,Sin dato,False,False,False,False,False,False,False
+A-6321735,NC,Orange,Hurdle Mills,Source1,4,36.180563,-79.109987,2021,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6322386,NC,Orange,Mebane,Source1,4,36.104193,-79.255641,2021,13,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-6380248,NC,Orange,Chapel Hill,Source1,4,35.929723,-79.202565,2021,14,Monday,Sin dato,False,False,False,True,False,False,False
+A-6420471,NC,Orange,Chapel Hill,Source1,4,35.922078000000006,-79.186018,2021,19,Friday,Sin dato,False,False,False,False,False,False,False
+A-6428815,NC,Orange,Chapel Hill,Source1,4,35.92207,-79.187271,2021,19,Friday,Sin dato,False,False,False,True,False,False,False
+A-6460250,NC,Orange,Chapel Hill,Source1,4,35.934448,-79.200144,2021,14,Monday,Sin dato,False,False,False,False,False,False,False
+A-6591379,NC,Orange,Hillsborough,Source1,4,36.058641,-79.086874,2020,7,Friday,Sin dato,False,False,True,False,False,False,False
+A-6643109,NC,Orange,Chapel Hill,Source1,4,36.011667,-79.070012,2020,2,Sunday,Sin dato,False,False,False,False,False,False,False
+A-6703015,NC,Orange,Chapel Hill,Source1,4,35.87491400000001,-79.042191,2020,7,Sunday,Sin dato,False,False,False,False,False,False,False
+A-6784764,NC,Orange,Chapel Hill,Source1,4,36.008839,-79.067847,2020,2,Sunday,Sin dato,False,False,False,False,False,False,False
+A-6797323,NC,Orange,Chapel Hill,Source1,4,35.876726,-79.044794,2020,7,Sunday,Sin dato,False,False,False,False,False,False,False
+A-7024247,NC,Orange,Hillsborough,Source1,3,36.05902,-79.08583,2020,17,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-7070859,NC,Orange,Hurdle Mills,Source1,4,36.16892,-79.04836999999998,2020,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7075018,NC,Orange,Chapel Hill,Source1,3,36.00875999999999,-79.0854,2020,17,Tuesday,Sin dato,False,False,False,True,False,False,False
+A-7075047,NC,Orange,Chapel Hill,Source1,3,36.00875999999999,-79.0854,2020,17,Tuesday,Sin dato,False,False,False,True,False,False,False
+A-7094011,NC,Orange,Hillsborough,Source1,4,36.1436,-79.12214,2020,2,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-7094012,NC,Orange,Hillsborough,Source1,4,36.14197,-79.12179,2020,2,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-7094067,NC,Orange,Hillsborough,Source1,3,36.05902,-79.08583,2020,10,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-7108011,NC,Orange,Chapel Hill,Source1,4,35.89241,-79.11366,2020,11,Monday,Sin dato,False,False,False,False,False,False,False
+A-7108012,NC,Orange,Chapel Hill,Source1,4,35.89241,-79.11366,2020,11,Monday,Sin dato,False,False,False,False,False,False,False
+A-7131285,NC,Orange,Hillsborough,Source1,3,36.05887,-79.08667,2020,12,Monday,Sin dato,False,False,False,False,False,False,False
+A-7131297,NC,Orange,Hillsborough,Source1,3,36.05887,-79.08667,2020,13,Monday,Sin dato,False,False,False,False,False,False,False
+A-7138375,NC,Orange,Hillsborough,Source1,3,36.06079,-79.13302,2020,17,Thursday,Sin dato,False,False,False,False,False,False,False
+A-7138399,NC,Orange,Hillsborough,Source1,3,36.06015,-79.13171,2020,17,Thursday,Sin dato,False,False,False,False,False,False,False
+A-7389831,NC,Orange,Mebane,Source1,4,36.093538,-79.25574399999998,2019,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7439648,NC,Orange,Mebane,Source1,3,36.07912,-79.21985,2019,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7463228,NC,Orange,Chapel Hill,Source1,4,35.923761,-79.17635600000001,2019,19,Tuesday,Sin dato,True,False,False,False,False,False,False
+A-7466697,NC,Orange,Chapel Hill,Source1,4,35.993818,-79.072092,2019,4,Monday,Sin dato,False,False,False,False,False,False,False
+A-7466698,NC,Orange,Chapel Hill,Source1,4,35.989126,-79.070617,2019,4,Monday,Sin dato,False,False,False,False,False,False,False
+A-7481835,NC,Orange,Hillsborough,Source1,4,36.136459,-79.120474,2018,16,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-7507021,NC,Orange,Chapel Hill,Source1,4,35.930111,-79.20324699999998,2018,9,Thursday,Sin dato,False,False,False,False,False,False,False
+A-7507022,NC,Orange,Chapel Hill,Source1,4,35.93150100000001,-79.20694,2018,9,Thursday,Sin dato,False,False,False,False,False,False,False
+A-7515779,NC,Orange,Chapel Hill,Source1,4,35.969381,-79.058203,2018,5,Sunday,Sin dato,False,False,False,False,False,False,False
+A-7515781,NC,Orange,Hillsborough,Source1,4,36.03763,-79.10181999999998,2018,6,Sunday,Sin dato,False,False,True,False,False,False,False
+A-7529573,NC,Orange,Hillsborough,Source1,3,36.058773,-79.086361,2018,10,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-7529574,NC,Orange,Hillsborough,Source1,3,36.05834,-79.07961999999998,2018,10,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-7547442,NC,Orange,Efland,Source1,3,36.07317000000001,-79.16331,2018,8,Monday,Sin dato,False,False,False,False,False,False,False
+A-7552315,NC,Orange,Durham,Source1,4,36.03843,-79.00631,2018,17,Friday,Sin dato,False,False,True,False,False,False,False
+A-7553245,NC,Orange,Efland,Source1,3,36.07317000000001,-79.16331,2018,9,Monday,Sin dato,False,False,False,False,False,False,False
+A-7553246,NC,Orange,Hillsborough,Source1,3,36.05906,-79.12573,2018,9,Monday,Sin dato,False,False,False,False,False,False,False
+A-7575422,NC,Orange,Durham,Source1,3,36.03843,-79.00631,2018,13,Tuesday,Sin dato,False,False,True,False,False,False,False
+A-7580298,NC,Orange,Hillsborough,Source1,4,36.01289000000001,-79.08598,2018,11,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-7617634,NC,Orange,Durham,Source1,3,36.03843,-79.00631,2018,17,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7623491,NC,Orange,Chapel Hill,Source1,3,35.93575999999999,-79.02344000000002,2018,18,Thursday,Clear / Fair,False,True,False,False,False,False,False
+A-7627086,NC,Orange,Chapel Hill,Source1,4,35.99932000000001,-79.107288,2018,20,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7627087,NC,Orange,Hillsborough,Source1,4,36.00013,-79.107467,2018,20,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7634056,NC,Orange,Chapel Hill,Source1,4,35.89836500000001,-79.0362,2018,15,Wednesday,Snow / Ice,True,True,False,False,False,False,False
+A-7634706,NC,Orange,Mebane,Source1,3,36.07889,-79.22901,2018,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7647252,NC,Orange,Durham,Source1,4,36.035569,-79.005302,2017,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7647253,NC,Orange,Durham,Source1,4,36.035471,-79.004806,2017,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7662397,NC,Orange,Hillsborough,Source1,4,36.07178,-79.15623000000002,2017,0,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7663065,NC,Orange,Chapel Hill,Source1,4,35.924335,-79.03819200000002,2017,0,Thursday,Cloudy,False,True,False,False,True,False,False
+A-7663066,NC,Orange,Chapel Hill,Source1,4,35.917015,-79.045744,2017,0,Thursday,Cloudy,True,True,False,False,False,False,False
+A-7667759,NC,Orange,Hillsborough,Source1,4,36.05834,-79.07961999999998,2017,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7668275,NC,Orange,Mebane,Source1,3,36.07912,-79.21985,2017,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-7677890,NC,Orange,Hillsborough,Source1,4,36.05906,-79.12573,2017,17,Friday,Storm,False,False,False,False,False,False,False
+A-7680947,NC,Orange,Hillsborough,Source1,4,36.049183,-79.118633,2017,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7687083,NC,Orange,Efland,Source1,3,36.07362,-79.17389,2017,18,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7689190,NC,Orange,Hillsborough,Source1,3,36.01289000000001,-79.08598,2017,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7689191,NC,Orange,Chapel Hill,Source1,3,36.00640999999999,-79.08216999999998,2017,21,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7697519,NC,Orange,Durham,Source1,4,36.03856500000001,-79.00958,2017,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7701330,NC,Orange,Chapel Hill,Source1,4,36.03463,-79.0541,2017,6,Monday,Cloudy,False,False,False,True,False,False,False
+A-7701331,NC,Orange,Chapel Hill,Source1,4,36.037717,-79.058637,2017,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-7704820,NC,Orange,Efland,Source1,3,36.07351,-79.16660999999998,2019,20,Sunday,Sin dato,False,False,False,False,False,False,False
+A-7721285,NC,Orange,Hillsborough,Source1,3,36.05834,-79.07961999999998,2019,19,Saturday,Sin dato,False,False,False,False,False,False,False
+A-7721286,NC,Orange,Hillsborough,Source1,3,36.058773,-79.086361,2019,20,Saturday,Sin dato,False,False,False,False,False,False,False
+A-7721287,NC,Orange,Hillsborough,Source1,4,36.05871,-79.08665,2019,16,Saturday,Sin dato,False,False,False,False,False,False,False
+A-7721295,NC,Orange,Hillsborough,Source1,3,36.05834,-79.07961999999998,2019,20,Saturday,Sin dato,False,False,False,False,False,False,False
+A-7721296,NC,Orange,Hillsborough,Source1,3,36.05834,-79.07961999999998,2019,20,Saturday,Sin dato,False,False,False,False,False,False,False
+A-7726197,NC,Orange,Durham,Source1,3,36.03844,-79.006568,2019,9,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-7726200,NC,Orange,Hillsborough,Source1,4,36.060081,-79.132145,2019,11,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-7726201,NC,Orange,Hillsborough,Source1,4,36.05906,-79.12573,2019,11,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-7754628,NC,Orange,Durham,Source1,4,36.04601,-79.02278000000003,2019,0,Saturday,Sin dato,False,False,False,False,False,False,False
+A-7754629,NC,Orange,Durham,Source1,4,36.046944,-79.024702,2019,0,Saturday,Sin dato,False,False,False,False,False,False,False
+A-7768535,NC,Orange,Durham,Source1,4,36.051456,-79.035728,2019,0,Monday,Sin dato,False,False,False,False,False,False,False
+A-7768536,NC,Orange,Durham,Source1,4,36.048412,-79.027775,2019,0,Monday,Sin dato,False,False,False,False,False,False,False
+A-7774743,NC,Orange,Mebane,Source1,3,36.07912,-79.21985,2019,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7774744,NC,Orange,Mebane,Source1,4,36.076347,-79.19907099999998,2019,19,Saturday,Clear / Fair,False,False,False,False,False,False,False

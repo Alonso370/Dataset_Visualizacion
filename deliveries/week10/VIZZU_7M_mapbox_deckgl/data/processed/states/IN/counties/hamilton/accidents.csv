@@ -1,0 +1,603 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-524643,IN,Hamilton,Indianapolis,Source2,3,39.933949,-86.15799,2022,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-533392,IN,Hamilton,Noblesville,Source2,3,39.991047,-85.886177,2022,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-538461,IN,Hamilton,Carmel,Source2,3,39.927219,-86.178329,2022,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-544283,IN,Hamilton,Indianapolis,Source2,3,39.927715,-86.134354,2022,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-548223,IN,Hamilton,Indianapolis,Source2,3,39.933949,-86.15799,2022,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-555281,IN,Hamilton,Fishers,Source2,3,39.942036,-86.01866899999996,2022,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-558114,IN,Hamilton,Indianapolis,Source2,3,39.933949,-86.15799,2022,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-565164,IN,Hamilton,Indianapolis,Source2,3,39.932697,-86.025681,2022,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-565763,IN,Hamilton,Fishers,Source2,3,39.954666,-86.008942,2022,6,Friday,Sin dato,False,False,False,False,False,False,False
+A-574765,IN,Hamilton,Indianapolis,Source2,3,39.927361,-86.02930500000002,2022,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-575031,IN,Hamilton,Indianapolis,Source2,3,39.933949,-86.15799,2022,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-583038,IN,Hamilton,Carmel,Source2,3,39.963589,-86.15765400000002,2022,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-583539,IN,Hamilton,Fishers,Source2,3,39.942036,-86.01866899999996,2022,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-583748,IN,Hamilton,Fishers,Source2,3,39.942097,-86.018814,2022,15,Friday,Clear / Fair,False,True,False,False,False,False,False
+A-585946,IN,Hamilton,Indianapolis,Source2,3,39.941738,-86.01879100000002,2022,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-586786,IN,Hamilton,Indianapolis,Source2,3,39.933949,-86.15799,2022,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-594973,IN,Hamilton,Indianapolis,Source2,3,39.930115,-86.16484799999998,2022,15,Monday,Rain,False,False,False,False,False,False,False
+A-600999,IN,Hamilton,Carmel,Source2,3,39.927124,-86.178078,2022,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-608053,IN,Hamilton,Noblesville,Source2,3,39.990704,-85.923996,2022,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-608889,IN,Hamilton,Fishers,Source2,4,39.951389,-86.011986,2022,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-624074,IN,Hamilton,Indianapolis,Source2,3,39.930145,-86.161415,2022,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-634548,IN,Hamilton,Fishers,Source2,3,39.965111,-86.00155600000002,2022,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-639618,IN,Hamilton,Carmel,Source2,3,39.929813,-86.174095,2022,19,Sunday,Cloudy,False,False,False,False,False,False,False
+A-644964,IN,Hamilton,Fishers,Source2,3,39.942036,-86.01866899999996,2022,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-650983,IN,Hamilton,Fishers,Source2,3,39.941948,-86.018631,2022,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-653694,IN,Hamilton,Noblesville,Source2,3,39.99087100000001,-85.92453,2022,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-660080,IN,Hamilton,Indianapolis,Source2,3,39.93018,-86.158089,2022,10,Wednesday,Rain,False,False,False,False,False,False,False
+A-661352,IN,Hamilton,Noblesville,Source2,3,39.990692,-85.925629,2022,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-667243,IN,Hamilton,Carmel,Source2,3,39.930256,-86.170464,2022,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-669563,IN,Hamilton,Indianapolis,Source2,3,39.93405900000001,-86.158005,2022,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-680900,IN,Hamilton,Indianapolis,Source2,3,39.93405900000001,-86.158005,2022,7,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-682687,IN,Hamilton,Noblesville,Source2,3,39.990673,-85.923988,2022,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-699406,IN,Hamilton,Fishers,Source2,3,39.942036,-86.01866899999996,2022,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-706215,IN,Hamilton,Fishers,Source2,3,39.954666,-86.008942,2022,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-718792,IN,Hamilton,Noblesville,Source2,3,39.972496,-85.96669,2022,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-722321,IN,Hamilton,Indianapolis,Source2,3,39.930389,-86.15843199999998,2022,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-722379,IN,Hamilton,Fishers,Source2,3,39.965111,-86.00155600000002,2022,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-722978,IN,Hamilton,Noblesville,Source2,3,39.972458,-85.96619399999999,2022,19,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-723535,IN,Hamilton,Indianapolis,Source2,3,39.938061,-86.021446,2022,11,Thursday,Cloudy,False,False,True,False,False,False,False
+A-723769,IN,Hamilton,Fishers,Source2,3,39.942036,-86.01866899999996,2022,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-738302,IN,Hamilton,Indianapolis,Source2,3,39.93405900000001,-86.158005,2022,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-738780,IN,Hamilton,Indianapolis,Source2,3,39.930389,-86.157623,2022,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-745827,IN,Hamilton,Noblesville,Source3,3,39.990673,-85.923988,2022,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-746007,IN,Hamilton,Indianapolis,Source2,3,39.93405900000001,-86.158005,2022,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-747675,IN,Hamilton,Fishers,Source2,3,39.964794,-86.001755,2022,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-748721,IN,Hamilton,Fishers,Source2,3,39.965111,-86.00155600000002,2022,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-790606,IN,Hamilton,Indianapolis,Source2,3,39.928974,-86.02840400000002,2021,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-793061,IN,Hamilton,Fishers,Source2,3,39.942036,-86.01866899999996,2021,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-797425,IN,Hamilton,Noblesville,Source2,3,39.990696,-85.924088,2021,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-810596,IN,Hamilton,Indianapolis,Source2,3,39.93405900000001,-86.158005,2021,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-835690,IN,Hamilton,Indianapolis,Source2,3,39.93405900000001,-86.158005,2021,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-845005,IN,Hamilton,Fishers,Source3,4,39.968079,-85.98812099999998,2021,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-848327,IN,Hamilton,Indianapolis,Source2,3,39.93405900000001,-86.158005,2021,16,Friday,Rain,False,False,False,False,False,False,False
+A-868008,IN,Hamilton,Indianapolis,Source2,3,39.941486,-86.018967,2021,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-883410,IN,Hamilton,Fishers,Source2,3,39.972198,-85.96672099999998,2021,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-894119,IN,Hamilton,Indianapolis,Source2,3,39.930439,-86.027328,2021,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-904843,IN,Hamilton,Noblesville,Source2,3,39.990803,-85.92498,2021,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-937939,IN,Hamilton,Fishers,Source3,3,39.942036,-86.01866899999996,2021,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-939266,IN,Hamilton,Noblesville,Source2,3,39.990673,-85.923988,2021,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-953600,IN,Hamilton,Indianapolis,Source2,3,39.93405900000001,-86.158005,2021,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-953795,IN,Hamilton,Indianapolis,Source2,3,39.93405900000001,-86.158005,2021,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-964680,IN,Hamilton,Indianapolis,Source2,3,39.93405900000001,-86.158005,2021,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-966658,IN,Hamilton,Indianapolis,Source2,3,39.93405900000001,-86.158005,2021,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-976109,IN,Hamilton,Fishers,Source2,3,39.965111,-86.00155600000002,2021,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-980882,IN,Hamilton,Fishers,Source2,3,39.954666,-86.008942,2021,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-984074,IN,Hamilton,Fishers,Source2,3,39.954666,-86.008942,2021,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-985581,IN,Hamilton,Indianapolis,Source2,3,39.93405900000001,-86.158005,2021,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-985584,IN,Hamilton,Indianapolis,Source2,3,39.93037,-86.162094,2021,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-987137,IN,Hamilton,Noblesville,Source2,3,39.990673,-85.923988,2021,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-997443,IN,Hamilton,Noblesville,Source2,3,39.990673,-85.923988,2021,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1001748,IN,Hamilton,Fishers,Source2,3,39.954666,-86.008942,2021,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1007712,IN,Hamilton,Indianapolis,Source2,3,39.93405900000001,-86.158005,2021,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-1012789,IN,Hamilton,Fishers,Source2,3,39.954666,-86.008942,2021,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1012790,IN,Hamilton,Fishers,Source2,3,39.965111,-86.00155600000002,2021,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1022169,IN,Hamilton,Fishers,Source2,3,39.957748,-86.008133,2021,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1022176,IN,Hamilton,Fishers,Source2,3,39.954666,-86.008942,2021,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1025871,IN,Hamilton,Indianapolis,Source2,3,39.93405900000001,-86.158005,2021,15,Friday,Rain,False,False,False,False,False,False,False
+A-1032637,IN,Hamilton,Indianapolis,Source2,3,39.93405900000001,-86.158005,2021,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1046407,IN,Hamilton,Noblesville,Source2,3,39.990704,-85.92400400000002,2021,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1049733,IN,Hamilton,Fishers,Source2,3,39.954666,-86.008942,2021,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1066917,IN,Hamilton,Noblesville,Source2,3,39.990673,-85.923988,2021,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1074106,IN,Hamilton,Indianapolis,Source2,3,39.93405900000001,-86.158005,2021,17,Wednesday,Rain,False,False,False,False,False,False,False
+A-1077078,IN,Hamilton,Fishers,Source2,3,39.942036,-86.01866899999996,2021,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1079434,IN,Hamilton,Indianapolis,Source2,3,39.93405900000001,-86.158005,2021,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1082585,IN,Hamilton,Fishers,Source2,3,39.954666,-86.008942,2021,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1082590,IN,Hamilton,Noblesville,Source2,3,39.990673,-85.923988,2021,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1125743,IN,Hamilton,Noblesville,Source2,3,39.990673,-85.923988,2021,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1125745,IN,Hamilton,Fishers,Source2,3,39.942036,-86.01866899999996,2021,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1143220,IN,Hamilton,Indianapolis,Source2,3,39.93346,-86.157433,2021,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-1160428,IN,Hamilton,Noblesville,Source2,3,39.990673,-85.923988,2021,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1171466,IN,Hamilton,Indianapolis,Source2,3,39.940762,-86.019775,2021,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-1174191,IN,Hamilton,Noblesville,Source2,3,39.990673,-85.923988,2021,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-1200125,IN,Hamilton,Fishers,Source2,3,39.954666,-86.008942,2021,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-1214445,IN,Hamilton,Fishers,Source2,3,39.942036,-86.01866899999996,2020,14,Saturday,Sin dato,False,False,False,False,False,False,False
+A-1222661,IN,Hamilton,Indianapolis,Source2,3,39.927361,-86.02959399999996,2020,9,Friday,Sin dato,False,False,False,False,False,False,False
+A-1232649,IN,Hamilton,Fishers,Source2,3,39.954666,-86.008942,2020,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1248161,IN,Hamilton,Noblesville,Source2,3,39.990673,-85.923988,2020,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1248163,IN,Hamilton,Fishers,Source2,3,39.942036,-86.01866899999996,2020,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1252487,IN,Hamilton,Indianapolis,Source2,3,39.941509,-86.15844,2020,6,Tuesday,Rain,False,True,False,False,False,False,False
+A-1252516,IN,Hamilton,Noblesville,Source2,3,39.991524,-85.880814,2020,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1257118,IN,Hamilton,Fishers,Source2,3,39.954666,-86.008942,2020,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-1272672,IN,Hamilton,Fishers,Source2,3,39.954666,-86.008942,2020,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1288342,IN,Hamilton,Noblesville,Source2,3,39.990673,-85.923988,2020,14,Monday,Storm,False,False,False,False,False,False,False
+A-1297397,IN,Hamilton,Fishers,Source2,3,39.954666,-86.008942,2020,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1325904,IN,Hamilton,Fishers,Source2,3,39.954666,-86.008942,2020,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1343130,IN,Hamilton,Indianapolis,Source2,3,39.93405900000001,-86.158005,2020,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1352055,IN,Hamilton,Fishers,Source2,3,39.954666,-86.008942,2020,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1352056,IN,Hamilton,Fishers,Source2,3,39.954666,-86.008942,2020,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1352063,IN,Hamilton,Noblesville,Source2,3,39.990673,-85.923988,2020,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1363151,IN,Hamilton,Indianapolis,Source2,3,39.93405900000001,-86.158005,2020,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1365196,IN,Hamilton,Noblesville,Source2,3,39.990673,-85.923988,2020,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-1367224,IN,Hamilton,Indianapolis,Source2,3,39.930519,-86.145477,2020,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-1367226,IN,Hamilton,Indianapolis,Source2,3,39.930538,-86.15763100000002,2020,17,Monday,Cloudy,False,False,True,False,False,False,False
+A-1386799,IN,Hamilton,Fishers,Source2,3,39.95697,-86.007607,2020,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1409152,IN,Hamilton,Indianapolis,Source2,3,39.93405900000001,-86.158005,2020,16,Monday,Storm,False,False,False,False,False,False,False
+A-1416828,IN,Hamilton,Indianapolis,Source2,3,39.93405900000001,-86.158005,2020,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1436279,IN,Hamilton,Indianapolis,Source2,3,39.932629,-86.159576,2020,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1440662,IN,Hamilton,Indianapolis,Source2,3,39.93405900000001,-86.158005,2020,13,Friday,Storm,False,False,False,False,False,False,False
+A-1440663,IN,Hamilton,Indianapolis,Source2,3,39.93405900000001,-86.158005,2020,14,Friday,Storm,False,False,False,False,False,False,False
+A-1443393,IN,Hamilton,Fishers,Source2,3,39.955139,-86.009697,2020,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1450517,IN,Hamilton,Noblesville,Source2,3,39.990673,-85.923988,2020,8,Thursday,Rain,False,False,False,False,False,False,False
+A-1460248,IN,Hamilton,Indianapolis,Source2,3,39.93405900000001,-86.158005,2020,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1460710,IN,Hamilton,Indianapolis,Source2,3,39.93405900000001,-86.158005,2020,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1464731,IN,Hamilton,Fishers,Source2,3,39.942036,-86.01866899999996,2020,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1469159,IN,Hamilton,Indianapolis,Source2,3,39.93405900000001,-86.158005,2020,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1485574,IN,Hamilton,Noblesville,Source2,3,39.990448,-85.925758,2020,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1491769,IN,Hamilton,Noblesville,Source2,3,39.990673,-85.923988,2020,9,Saturday,Storm,False,False,False,False,False,False,False
+A-1513761,IN,Hamilton,Indianapolis,Source2,3,39.92815,-86.029007,2020,16,Thursday,Sin dato,False,False,False,False,False,False,False
+A-1525092,IN,Hamilton,Noblesville,Source2,4,39.990673,-85.923988,2020,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1528792,IN,Hamilton,Noblesville,Source2,3,39.990673,-85.923988,2020,11,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-1533014,IN,Hamilton,Noblesville,Source2,3,39.990601,-85.924782,2020,12,Wednesday,Rain,False,False,False,False,False,False,False
+A-1533021,IN,Hamilton,Noblesville,Source2,3,39.990673,-85.923988,2020,19,Wednesday,Rain,False,False,False,False,False,False,False
+A-1534401,IN,Hamilton,Noblesville,Source2,3,39.990673,-85.923988,2020,13,Thursday,Rain,False,False,False,False,False,False,False
+A-1535840,IN,Hamilton,Indianapolis,Source2,3,39.93405900000001,-86.158005,2020,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-1549058,IN,Hamilton,Noblesville,Source2,3,39.990673,-85.923988,2020,21,Wednesday,Storm,False,False,False,False,False,False,False
+A-1568546,IN,Hamilton,Noblesville,Source2,3,39.990673,-85.923988,2020,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1605296,IN,Hamilton,Indianapolis,Source2,3,39.930374,-86.16107199999998,2020,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1607841,IN,Hamilton,Indianapolis,Source2,3,39.93405900000001,-86.158005,2020,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-1615370,IN,Hamilton,Indianapolis,Source2,3,39.93405900000001,-86.158005,2020,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1617536,IN,Hamilton,Fishers,Source2,3,39.951431,-86.011955,2020,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1621643,IN,Hamilton,Fishers,Source2,3,39.942036,-86.01866899999996,2020,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-1625643,IN,Hamilton,Fishers,Source2,3,39.954666,-86.008942,2020,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1629616,IN,Hamilton,Fishers,Source2,3,39.954666,-86.008942,2020,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1638884,IN,Hamilton,Noblesville,Source2,3,39.990673,-85.923988,2020,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-1641232,IN,Hamilton,Indianapolis,Source2,3,39.937904,-86.021866,2020,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1641249,IN,Hamilton,Noblesville,Source2,3,39.990673,-85.923988,2020,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1641250,IN,Hamilton,Noblesville,Source2,3,39.990673,-85.923988,2020,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1651271,IN,Hamilton,Fishers,Source2,3,39.929661,-86.027618,2020,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1654086,IN,Hamilton,Indianapolis,Source2,3,39.93405900000001,-86.158005,2020,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1658390,IN,Hamilton,Fishers,Source2,3,39.954666,-86.008942,2020,8,Thursday,Sin dato,False,False,False,False,False,False,False
+A-1677040,IN,Hamilton,Indianapolis,Source2,3,39.93405900000001,-86.158005,2020,18,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1682504,IN,Hamilton,Fishers,Source2,3,39.965111,-86.00155600000002,2019,8,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1690680,IN,Hamilton,Indianapolis,Source2,3,39.93405900000001,-86.158005,2019,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1690684,IN,Hamilton,Indianapolis,Source2,3,39.93405900000001,-86.158005,2019,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1690688,IN,Hamilton,Indianapolis,Source2,3,39.93405900000001,-86.158005,2019,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1720808,IN,Hamilton,Fishers,Source2,3,39.954666,-86.008942,2019,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1720813,IN,Hamilton,Indianapolis,Source2,3,39.94125,-86.019676,2019,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1720819,IN,Hamilton,Indianapolis,Source2,3,39.941162,-86.019485,2019,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1726169,IN,Hamilton,Indianapolis,Source2,3,39.93405900000001,-86.158005,2019,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1762468,IN,Hamilton,Indianapolis,Source2,3,39.93405900000001,-86.158005,2019,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1786490,IN,Hamilton,Fishers,Source2,3,39.954666,-86.008942,2019,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1791749,IN,Hamilton,Indianapolis,Source2,3,39.930756,-86.02709200000002,2019,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1791757,IN,Hamilton,Fishers,Source2,3,39.942036,-86.01866899999996,2019,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1791761,IN,Hamilton,Indianapolis,Source2,3,39.92968,-86.027885,2019,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1794950,IN,Hamilton,Fishers,Source2,3,39.942036,-86.01866899999996,2019,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1806753,IN,Hamilton,Carmel,Source2,3,39.928452,-86.176834,2019,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1813649,IN,Hamilton,Indianapolis,Source2,3,39.93405900000001,-86.158005,2019,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1813663,IN,Hamilton,Indianapolis,Source2,3,39.930111,-86.16503900000002,2019,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1816784,IN,Hamilton,Fishers,Source2,3,39.954666,-86.008942,2019,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1822519,IN,Hamilton,Indianapolis,Source2,3,39.93405900000001,-86.158005,2019,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1826016,IN,Hamilton,Noblesville,Source2,3,39.990673,-85.923988,2019,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1834913,IN,Hamilton,Indianapolis,Source2,3,39.928989,-86.028992,2019,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1834914,IN,Hamilton,Indianapolis,Source2,3,39.93405900000001,-86.158005,2019,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1834916,IN,Hamilton,Indianapolis,Source2,3,39.930538,-86.157883,2019,8,Thursday,Cloudy,False,False,True,False,False,False,False
+A-1834918,IN,Hamilton,Fishers,Source2,3,39.954666,-86.008942,2019,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1853576,IN,Hamilton,Indianapolis,Source2,3,39.92802,-86.029106,2019,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1869669,IN,Hamilton,Indianapolis,Source2,3,39.940109,-86.020256,2019,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-1876050,IN,Hamilton,Noblesville,Source2,3,39.990635,-85.924309,2019,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1876067,IN,Hamilton,Indianapolis,Source2,3,39.934105,-86.15795899999998,2019,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1878497,IN,Hamilton,Fishers,Source2,3,39.954647,-86.008957,2019,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1900136,IN,Hamilton,Indianapolis,Source2,3,39.934105,-86.15795899999998,2019,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1905209,IN,Hamilton,Indianapolis,Source2,3,39.934105,-86.15795899999998,2019,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1924775,IN,Hamilton,Noblesville,Source2,3,39.990635,-85.924309,2019,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1932324,IN,Hamilton,Indianapolis,Source2,3,39.934105,-86.15795899999998,2019,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-1934844,IN,Hamilton,Fishers,Source2,3,39.954647,-86.008957,2019,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1937393,IN,Hamilton,Indianapolis,Source2,3,39.934105,-86.15795899999998,2019,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1939792,IN,Hamilton,Indianapolis,Source2,3,39.93042,-86.155586,2019,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1957374,IN,Hamilton,Fishers,Source2,3,39.954647,-86.008957,2019,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1961645,IN,Hamilton,Fishers,Source2,3,39.954647,-86.008957,2019,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1969654,IN,Hamilton,Noblesville,Source2,3,39.990635,-85.924309,2019,18,Tuesday,Rain,False,False,False,False,False,False,False
+A-1974110,IN,Hamilton,Noblesville,Source2,3,39.99062,-85.924644,2019,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1988870,IN,Hamilton,Indianapolis,Source2,3,39.930389,-86.157875,2019,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2008930,IN,Hamilton,Fishers,Source2,3,39.942036,-86.01866899999996,2019,15,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-2008938,IN,Hamilton,Fishers,Source2,3,39.942036,-86.01866899999996,2019,17,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-2008941,IN,Hamilton,Indianapolis,Source2,3,39.934105,-86.15795899999998,2019,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2011632,IN,Hamilton,Fishers,Source2,3,39.954647,-86.008957,2019,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2011660,IN,Hamilton,Fishers,Source2,3,39.954647,-86.008957,2019,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2026694,IN,Hamilton,Fishers,Source2,3,39.95048900000001,-86.01265,2019,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2026695,IN,Hamilton,Fishers,Source2,3,39.950397,-86.012436,2019,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2042233,IN,Hamilton,Indianapolis,Source2,3,39.941509,-86.15844,2019,6,Monday,Fog / Low visibility,False,True,False,False,False,False,False
+A-2062173,IN,Hamilton,Indianapolis,Source2,3,39.934105,-86.15795899999998,2019,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2064629,IN,Hamilton,Indianapolis,Source2,3,39.934105,-86.15795899999998,2019,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2072793,IN,Hamilton,Indianapolis,Source2,3,39.930393,-86.15753199999996,2019,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2072814,IN,Hamilton,Noblesville,Source2,3,39.990635,-85.924309,2019,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2087470,IN,Hamilton,Indianapolis,Source2,3,39.930447,-86.153481,2019,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2087474,IN,Hamilton,Indianapolis,Source2,3,39.93087,-86.155243,2019,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2092016,IN,Hamilton,Indianapolis,Source2,3,39.930336,-86.165237,2019,7,Thursday,Rain,False,False,False,False,False,False,False
+A-2094509,IN,Hamilton,Indianapolis,Source2,3,39.934105,-86.15795899999998,2019,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-2102778,IN,Hamilton,Noblesville,Source2,3,39.990635,-85.924309,2019,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2105081,IN,Hamilton,Indianapolis,Source2,3,39.930515,-86.149513,2019,7,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2116708,IN,Hamilton,Indianapolis,Source2,3,39.93018,-86.15802,2019,6,Wednesday,Rain,False,False,False,False,False,False,False
+A-2119197,IN,Hamilton,Fishers,Source2,3,39.965111,-86.00155600000002,2019,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2121367,IN,Hamilton,Indianapolis,Source2,3,39.93042,-86.155586,2019,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-2128601,IN,Hamilton,Noblesville,Source2,3,39.990635,-85.924309,2019,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2130840,IN,Hamilton,Indianapolis,Source2,3,39.934105,-86.15795899999998,2019,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2149710,IN,Hamilton,Indianapolis,Source2,3,39.933926,-86.15786700000002,2019,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-2153805,IN,Hamilton,Indianapolis,Source2,3,39.933926,-86.15786700000002,2019,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-2161198,IN,Hamilton,Fishers,Source2,3,39.956711,-86.007858,2019,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2161199,IN,Hamilton,Noblesville,Source2,3,39.990692,-85.92415600000002,2019,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2161203,IN,Hamilton,Fishers,Source2,3,39.983883,-85.942955,2019,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2201042,IN,Hamilton,Indianapolis,Source2,3,39.93018,-86.158043,2019,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2203533,IN,Hamilton,Indianapolis,Source2,3,39.933926,-86.15786700000002,2019,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2206029,IN,Hamilton,Noblesville,Source2,3,39.990692,-85.92415600000002,2019,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2210559,IN,Hamilton,Indianapolis,Source2,3,39.933926,-86.15786700000002,2019,16,Saturday,Rain,False,False,False,False,False,False,False
+A-2245846,IN,Hamilton,Indianapolis,Source2,4,39.93030200000001,-86.146454,2019,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2257811,IN,Hamilton,Noblesville,Source2,3,39.990692,-85.92415600000002,2019,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2264551,IN,Hamilton,Indianapolis,Source2,3,39.930359,-86.16424599999998,2019,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2264565,IN,Hamilton,Fishers,Source2,3,39.942039,-86.018661,2019,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2267157,IN,Hamilton,Indianapolis,Source2,3,39.930405,-86.156921,2019,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2267160,IN,Hamilton,Noblesville,Source2,3,39.990536,-85.925232,2019,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2267161,IN,Hamilton,Noblesville,Source2,3,39.990536,-85.925232,2019,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2275364,IN,Hamilton,Noblesville,Source2,3,39.990692,-85.92415600000002,2019,15,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-2275365,IN,Hamilton,Indianapolis,Source2,3,39.933926,-86.15786700000002,2019,15,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-2295961,IN,Hamilton,Fishers,Source2,3,39.942039,-86.018661,2019,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2314721,IN,Hamilton,Fishers,Source2,3,39.956711,-86.007858,2019,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2332838,IN,Hamilton,Fishers,Source2,3,39.956711,-86.007858,2019,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2346989,IN,Hamilton,Indianapolis,Source2,3,39.933926,-86.15786700000002,2019,17,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-2346993,IN,Hamilton,Indianapolis,Source2,3,39.933926,-86.15786700000002,2019,19,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-2359465,IN,Hamilton,Fishers,Source2,3,39.956711,-86.007858,2019,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2363353,IN,Hamilton,Carmel,Source2,3,39.956032,-86.15843199999998,2019,7,Monday,Cloudy,False,True,False,False,False,False,False
+A-2370992,IN,Hamilton,Noblesville,Source2,3,39.990868,-85.924454,2018,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-2370995,IN,Hamilton,Noblesville,Source2,3,39.990868,-85.924454,2018,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-2397007,IN,Hamilton,Indianapolis,Source2,3,39.930389,-86.1577,2018,8,Friday,Rain,False,False,False,False,False,False,False
+A-2407819,IN,Hamilton,Indianapolis,Source2,3,39.933926,-86.15786700000002,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2414883,IN,Hamilton,Noblesville,Source2,3,39.990692,-85.92415600000002,2018,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2421853,IN,Hamilton,Indianapolis,Source2,3,39.930389,-86.157829,2018,14,Monday,Rain,False,False,False,False,False,False,False
+A-2427769,IN,Hamilton,Indianapolis,Source2,3,39.934322,-86.158783,2018,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-2439023,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2018,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2439026,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2018,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2441961,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2018,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2461528,IN,Hamilton,Fishers,Source2,3,39.942169,-86.018463,2018,17,Friday,Cloudy,False,True,False,False,False,False,False
+A-2463900,IN,Hamilton,Noblesville,Source2,3,39.989601,-85.929489,2018,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2478951,IN,Hamilton,Fishers,Source2,3,39.942169,-86.018463,2018,9,Monday,Cloudy,False,True,False,False,False,False,False
+A-2478958,IN,Hamilton,Fishers,Source2,3,39.942169,-86.018463,2018,14,Monday,Cloudy,False,True,False,False,False,False,False
+A-2478962,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2018,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-2478963,IN,Hamilton,Indianapolis,Source2,3,39.930935,-86.156311,2018,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-2478966,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2018,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-2487913,IN,Hamilton,Fishers,Source2,3,39.963436,-86.002892,2018,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2494410,IN,Hamilton,Fishers,Source2,3,39.956875,-86.007965,2018,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2497291,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2018,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2497314,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2504196,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2018,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2523504,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2018,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2529519,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2018,17,Friday,Rain,False,False,False,False,False,False,False
+A-2536772,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2018,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2555918,IN,Hamilton,Fishers,Source2,3,39.963436,-86.002892,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2555932,IN,Hamilton,Fishers,Source2,3,39.963436,-86.002892,2018,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2561299,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2018,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2561302,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2018,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2566603,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2018,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2588217,IN,Hamilton,Noblesville,Source2,3,39.990868,-85.924454,2018,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-2588223,IN,Hamilton,Noblesville,Source2,3,39.990868,-85.924454,2018,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-2598280,IN,Hamilton,Noblesville,Source2,3,39.990868,-85.924454,2018,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2601359,IN,Hamilton,Noblesville,Source2,3,39.990868,-85.924454,2018,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2624083,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2018,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2624089,IN,Hamilton,Noblesville,Source2,3,39.990868,-85.924454,2018,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2642113,IN,Hamilton,Fishers,Source2,3,39.963436,-86.002892,2018,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-2644527,IN,Hamilton,Fishers,Source2,3,39.942169,-86.018463,2018,7,Tuesday,Cloudy,False,True,False,False,False,False,False
+A-2649451,IN,Hamilton,Indianapolis,Source2,3,39.930195,-86.157852,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2651999,IN,Hamilton,Noblesville,Source2,3,39.990868,-85.924454,2018,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-2661136,IN,Hamilton,Fishers,Source2,3,39.942169,-86.018463,2018,7,Wednesday,Cloudy,False,True,False,False,False,False,False
+A-2663621,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2018,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2672351,IN,Hamilton,Fishers,Source2,3,39.942169,-86.018463,2018,7,Tuesday,Clear / Fair,False,True,False,False,False,False,False
+A-2674885,IN,Hamilton,Indianapolis,Source2,3,39.929211,-86.15699000000002,2018,8,Wednesday,Rain,False,False,False,False,False,False,False
+A-2680812,IN,Hamilton,Fishers,Source2,3,39.968868,-85.98092700000002,2018,8,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2689579,IN,Hamilton,Indianapolis,Source2,3,39.934322,-86.158783,2018,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2689602,IN,Hamilton,Fishers,Source2,3,39.95695900000001,-86.00790400000002,2018,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2699961,IN,Hamilton,Fishers,Source2,3,39.942169,-86.018463,2018,11,Thursday,Clear / Fair,False,True,False,False,False,False,False
+A-2707298,IN,Hamilton,Fishers,Source2,3,39.963112,-86.003456,2018,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2709548,IN,Hamilton,Noblesville,Source2,3,39.990868,-85.924454,2018,15,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-2709550,IN,Hamilton,Noblesville,Source2,3,39.990921,-85.924026,2018,16,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-2709555,IN,Hamilton,Noblesville,Source2,3,39.990894,-85.9216,2018,16,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-2711832,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2018,9,Thursday,Sin dato,False,False,False,False,False,False,False
+A-2714295,IN,Hamilton,Indianapolis,Source2,3,39.93037800000001,-86.158234,2018,18,Friday,Sin dato,False,False,False,False,False,False,False
+A-2720513,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2018,8,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2722947,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2018,18,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-2733490,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2018,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2738057,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2018,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2747249,IN,Hamilton,Fishers,Source2,3,39.963886,-86.002579,2018,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2747260,IN,Hamilton,Indianapolis,Source2,3,39.928455,-86.112411,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2747264,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2018,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2756031,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2758300,IN,Hamilton,Noblesville,Source2,3,39.990868,-85.924454,2018,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2758330,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2018,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2760767,IN,Hamilton,Fishers,Source2,3,39.942169,-86.018463,2018,7,Thursday,Clear / Fair,False,True,False,False,False,False,False
+A-2763182,IN,Hamilton,Fishers,Source2,3,39.942169,-86.018463,2018,7,Friday,Clear / Fair,False,True,False,False,False,False,False
+A-2763210,IN,Hamilton,Noblesville,Source2,3,39.990868,-85.924454,2018,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2774238,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2018,16,Thursday,Rain,False,False,False,False,False,False,False
+A-2776515,IN,Hamilton,Fishers,Source2,3,39.963436,-86.002892,2018,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-2780361,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2018,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2787598,IN,Hamilton,Fishers,Source2,3,39.963436,-86.002892,2018,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2802872,IN,Hamilton,Noblesville,Source2,3,39.990868,-85.924454,2018,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2821591,IN,Hamilton,Indianapolis,Source2,3,39.941715,-86.157578,2018,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2821595,IN,Hamilton,Fishers,Source2,3,39.956738,-86.00784300000002,2018,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-2824177,IN,Hamilton,Fishers,Source2,3,39.963436,-86.002892,2018,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2824207,IN,Hamilton,Fishers,Source2,3,39.956722,-86.007851,2018,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2829687,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2018,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2829693,IN,Hamilton,Carmel,Source2,3,39.926842,-86.17858100000002,2018,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2841575,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2018,16,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-2841589,IN,Hamilton,Fishers,Source2,3,39.963436,-86.002892,2018,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2841594,IN,Hamilton,Fishers,Source2,3,39.963436,-86.002892,2018,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2850689,IN,Hamilton,Fishers,Source2,3,39.942169,-86.018463,2018,13,Monday,Clear / Fair,False,True,False,False,False,False,False
+A-2871009,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2018,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2871025,IN,Hamilton,Fishers,Source2,3,39.956799,-86.008018,2018,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2880555,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2018,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2889841,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2018,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2892494,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2018,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2892502,IN,Hamilton,Noblesville,Source2,3,39.990868,-85.924438,2018,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2892503,IN,Hamilton,Fishers,Source2,3,39.972435,-85.966255,2018,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2910423,IN,Hamilton,Fishers,Source2,3,39.942169,-86.018463,2018,17,Thursday,Clear / Fair,False,True,False,False,False,False,False
+A-2919692,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2018,7,Thursday,Rain,False,False,False,False,False,False,False
+A-2926184,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2018,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2953420,IN,Hamilton,Indianapolis,Source2,3,39.930241,-86.17054,2018,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2959035,IN,Hamilton,Fishers,Source2,3,39.964092,-86.002708,2018,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2972849,IN,Hamilton,Fishers,Source2,3,39.942169,-86.018463,2018,8,Tuesday,Cloudy,False,True,False,False,False,False,False
+A-2985719,IN,Hamilton,Fishers,Source2,3,39.942169,-86.018463,2018,10,Friday,Clear / Fair,False,True,False,False,False,False,False
+A-2988120,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.15780600000002,2018,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2988121,IN,Hamilton,Fishers,Source2,3,39.963436,-86.002892,2018,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2998245,IN,Hamilton,Fishers,Source2,3,39.963436,-86.002892,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3001163,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-3032110,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2018,9,Saturday,Rain,False,False,False,False,False,False,False
+A-3038887,IN,Hamilton,Fishers,Source2,3,39.963436,-86.002892,2017,11,Sunday,Sin dato,False,False,False,False,False,False,False
+A-3042772,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2018,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3045174,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2018,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3045200,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3069260,IN,Hamilton,Indianapolis,Source2,3,39.930119,-86.164825,2018,16,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3077136,IN,Hamilton,Noblesville,Source2,3,39.990868,-85.924438,2018,10,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3085717,IN,Hamilton,Fishers,Source2,3,39.942169,-86.018463,2018,7,Thursday,Clear / Fair,False,True,False,False,False,False,False
+A-3085758,IN,Hamilton,Fishers,Source2,3,39.957352,-86.00739300000002,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3088245,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2018,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3088279,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2018,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3090446,IN,Hamilton,Fishers,Source2,3,39.956715,-86.007858,2018,19,Saturday,Sin dato,False,False,False,False,False,False,False
+A-3091084,IN,Hamilton,Fishers,Source2,3,39.942169,-86.018463,2018,16,Sunday,Clear / Fair,False,True,False,False,False,False,False
+A-3091955,IN,Hamilton,Indianapolis,Source2,3,39.930119,-86.164886,2018,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-3109345,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2017,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3112344,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2017,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3115167,IN,Hamilton,Fishers,Source2,3,39.963436,-86.002892,2017,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3118649,IN,Hamilton,Fishers,Source2,3,39.964432,-86.002426,2017,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3122304,IN,Hamilton,Indianapolis,Source2,3,39.927338,-86.029617,2017,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3125258,IN,Hamilton,Indianapolis,Source2,3,39.930305,-86.164375,2017,16,Wednesday,Rain,False,False,False,False,False,False,False
+A-3128229,IN,Hamilton,Fishers,Source2,3,39.963436,-86.002892,2017,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3135110,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2017,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-3202689,IN,Hamilton,Fishers,Source2,3,39.963436,-86.002892,2017,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3207463,IN,Hamilton,Noblesville,Source2,3,40.163021,-85.86331899999998,2017,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3207506,IN,Hamilton,Indianapolis,Source2,3,39.930264,-86.15151999999998,2017,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3207514,IN,Hamilton,Fishers,Source2,3,39.942169,-86.018463,2017,18,Monday,Clear / Fair,False,True,False,False,False,False,False
+A-3213217,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2017,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3216155,IN,Hamilton,Noblesville,Source2,3,39.990868,-85.924438,2017,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3219816,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2017,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3219820,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2017,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3225445,IN,Hamilton,Fishers,Source2,3,39.956547,-86.008202,2017,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3235111,IN,Hamilton,Carmel,Source2,3,39.926842,-86.17858100000002,2017,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3243399,IN,Hamilton,Fishers,Source2,3,39.957088,-86.007813,2017,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-3251930,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2017,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3257360,IN,Hamilton,Fishers,Source2,3,39.963436,-86.002892,2017,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3280080,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2017,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3280094,IN,Hamilton,Fishers,Source2,3,39.963436,-86.002892,2017,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3283138,IN,Hamilton,Noblesville,Source2,3,39.990868,-85.924438,2017,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3294596,IN,Hamilton,Noblesville,Source2,3,39.990868,-85.924438,2017,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3297176,IN,Hamilton,Noblesville,Source2,3,39.990868,-85.924438,2017,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3304205,IN,Hamilton,Fishers,Source2,3,39.969799,-85.97318299999998,2017,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3307056,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2017,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3310087,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2017,7,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3310166,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2017,19,Friday,Sin dato,False,False,False,False,False,False,False
+A-3323047,IN,Hamilton,Noblesville,Source2,3,39.990425,-85.92585799999998,2017,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3330216,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2017,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3330226,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2017,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3338930,IN,Hamilton,Fishers,Source2,3,39.963436,-86.002892,2017,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3341898,IN,Hamilton,Noblesville,Source2,3,39.990868,-85.924438,2017,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3344558,IN,Hamilton,Fishers,Source2,3,39.963436,-86.002892,2017,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3365817,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2017,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3370758,IN,Hamilton,Indianapolis,Source2,3,39.930405,-86.155991,2017,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-3373583,IN,Hamilton,Noblesville,Source2,3,39.990868,-85.924438,2017,16,Sunday,Sin dato,False,False,False,False,False,False,False
+A-3377290,IN,Hamilton,Noblesville,Source2,3,39.990868,-85.924438,2017,8,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-3379952,IN,Hamilton,Indianapolis,Source2,3,39.930382,-86.157845,2017,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3379966,IN,Hamilton,Fishers,Source2,3,39.963436,-86.002892,2017,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3388140,IN,Hamilton,Fishers,Source2,3,39.958767,-86.006355,2017,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3388750,IN,Hamilton,Noblesville,Source2,3,39.990868,-85.924438,2017,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3389623,IN,Hamilton,Noblesville,Source2,3,39.990868,-85.924438,2017,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3398293,IN,Hamilton,Noblesville,Source2,3,39.990868,-85.924438,2017,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3401047,IN,Hamilton,Fishers,Source2,3,39.963108,-86.003128,2017,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3413321,IN,Hamilton,Fishers,Source1,3,39.969853,-85.972976,2016,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-3413582,IN,Hamilton,Noblesville,Source1,4,40.046599,-85.99359,2016,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3446028,IN,Hamilton,Indianapolis,Source1,3,39.930516,-86.14941999999998,2016,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-3450816,IN,Hamilton,Carmel,Source1,4,39.963079,-86.15765,2016,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3451516,IN,Hamilton,Indianapolis,Source1,4,39.927246,-86.131686,2016,4,Saturday,Rain,False,False,False,False,False,False,False
+A-3461360,IN,Hamilton,Noblesville,Source1,4,39.99,-85.92888,2017,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3465992,IN,Hamilton,Fishers,Source1,3,39.961779,-86.00445,2016,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3468783,IN,Hamilton,Noblesville,Source1,4,39.9912,-85.91868000000002,2016,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3468794,IN,Hamilton,Noblesville,Source1,4,39.9912,-85.91868000000002,2016,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3470150,IN,Hamilton,Indianapolis,Source1,4,39.92696,-86.12659000000002,2016,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3471070,IN,Hamilton,Fishers,Source1,4,39.963427,-86.002934,2016,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3478720,IN,Hamilton,Noblesville,Source1,3,39.991498,-85.86845799999998,2016,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3480400,IN,Hamilton,Noblesville,Source1,4,40.12363,-85.94274,2016,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-3480403,IN,Hamilton,Noblesville,Source1,4,40.121675,-85.944074,2016,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-3484123,IN,Hamilton,Fishers,Source1,4,39.94798,-86.01413000000002,2016,0,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3498587,IN,Hamilton,Indianapolis,Source1,3,39.93011,-86.16551,2016,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3499242,IN,Hamilton,Noblesville,Source1,4,39.994393,-86.00389,2016,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3502195,IN,Hamilton,Indianapolis,Source1,3,39.930516,-86.14941999999998,2016,0,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3503324,IN,Hamilton,Fishers,Source1,4,39.94775,-86.01437,2016,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3503341,IN,Hamilton,Fishers,Source1,4,39.94775,-86.01437,2016,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3503344,IN,Hamilton,Fishers,Source1,3,39.94775,-86.01437,2016,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3505665,IN,Hamilton,Indianapolis,Source1,3,39.93612,-86.15804,2016,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3505797,IN,Hamilton,Fishers,Source1,3,39.966944,-85.996482,2016,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3510196,IN,Hamilton,Carmel,Source1,4,40.008144,-86.12729300000002,2016,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3522636,IN,Hamilton,Fishers,Source1,3,39.95776,-85.91866999999998,2016,7,Wednesday,Clear / Fair,True,True,False,False,False,False,False
+A-3522637,IN,Hamilton,Fishers,Source1,3,39.95776,-85.91866999999998,2016,7,Wednesday,Clear / Fair,True,True,False,False,False,False,False
+A-3523236,IN,Hamilton,Noblesville,Source1,3,39.9893,-85.93041,2016,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3523389,IN,Hamilton,Noblesville,Source1,4,39.9893,-85.93041,2016,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3523390,IN,Hamilton,Noblesville,Source1,4,39.990492,-85.925521,2016,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3558314,IN,Hamilton,Noblesville,Source1,3,39.9893,-85.93041,2017,16,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3558323,IN,Hamilton,Fishers,Source1,3,39.978161,-85.954311,2017,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-3562305,IN,Hamilton,Noblesville,Source1,4,39.9912,-85.91868000000002,2017,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3562473,IN,Hamilton,Fishers,Source1,3,39.977183,-85.956365,2017,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3563080,IN,Hamilton,Fishers,Source1,4,39.94775,-86.01437,2017,5,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3570765,IN,Hamilton,Indianapolis,Source1,3,39.930516,-86.14941999999998,2017,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3571667,IN,Hamilton,Fishers,Source1,3,39.96524,-86.00157,2017,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3572533,IN,Hamilton,Atlanta,Source1,4,40.1777,-85.86277,2017,7,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3575159,IN,Hamilton,Noblesville,Source1,4,39.9912,-85.91868000000002,2017,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3575279,IN,Hamilton,Noblesville,Source1,3,39.986964,-85.936536,2017,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3579493,IN,Hamilton,Fishers,Source1,3,39.982002,-85.946884,2017,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3584764,IN,Hamilton,Fishers,Source1,3,39.96524,-86.00157,2017,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3585179,IN,Hamilton,Carmel,Source1,3,39.928536,-86.17627,2017,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3602724,IN,Hamilton,Indianapolis,Source1,3,39.930257,-86.17045,2017,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3603119,IN,Hamilton,Fishers,Source1,4,39.94879,-86.01355,2017,1,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3615843,IN,Hamilton,Carmel,Source1,3,39.951105,-86.15791999999998,2017,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3616799,IN,Hamilton,Noblesville,Source1,3,39.99183,-85.86440999999998,2017,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3619249,IN,Hamilton,Noblesville,Source1,4,39.9893,-85.93041,2017,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3619334,IN,Hamilton,Fishers,Source1,3,39.96524,-86.00157,2017,6,Thursday,Sin dato,False,False,False,False,False,False,False
+A-3626553,IN,Hamilton,Fishers,Source1,3,39.94879,-86.01355,2017,17,Friday,Sin dato,False,False,False,False,False,False,False
+A-3628558,IN,Hamilton,Carmel,Source1,4,40.00082,-86.1272,2017,4,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3628559,IN,Hamilton,Carmel,Source1,4,40.020746,-86.131538,2017,4,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3632668,IN,Hamilton,Fishers,Source1,3,39.968157,-85.98535,2017,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-3633551,IN,Hamilton,Indianapolis,Source1,3,39.92825,-86.13619,2017,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3642180,IN,Hamilton,Indianapolis,Source1,3,39.93032,-86.16572,2017,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3643614,IN,Hamilton,Fishers,Source1,3,39.96660900000001,-85.99842199999998,2017,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-3644345,IN,Hamilton,Fishers,Source1,3,39.94879,-86.01355,2017,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3646071,IN,Hamilton,Fishers,Source1,4,39.930179,-86.027231,2017,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3668059,IN,Hamilton,Arcadia,Source1,4,40.158131,-86.128108,2023,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3812912,IN,Hamilton,Cicero,Source1,4,40.128113,-86.127985,2022,12,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3852470,IN,Hamilton,Westfield,Source1,4,40.09707,-86.127833,2022,1,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3899545,IN,Hamilton,Cicero,Source1,4,40.16188,-85.939548,2022,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3971768,IN,Hamilton,Noblesville,Source1,4,40.02640128116595,-85.88140368420656,2022,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4160418,IN,Hamilton,Noblesville,Source1,4,40.031885,-85.91086999999997,2022,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4701434,IN,Hamilton,Noblesville,Source1,4,39.98985886554723,-85.92940449673685,2022,17,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-4718078,IN,Hamilton,Indianapolis,Source1,4,39.93048548679385,-86.14659905392578,2022,0,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-4721833,IN,Hamilton,Indianapolis,Source1,4,39.93029236774478,-86.16453766781729,2022,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-4766637,IN,Hamilton,Arcadia,Source1,4,40.160254,-86.127853,2022,13,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-4823674,IN,Hamilton,Noblesville,Source1,4,40.141063,-85.88887700000002,2022,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4890181,IN,Hamilton,Noblesville,Source1,4,40.147223,-85.939526,2022,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4953053,IN,Hamilton,Cicero,Source1,4,40.152569,-85.939534,2022,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4978411,IN,Hamilton,Indianapolis,Source1,4,39.938982724952986,-86.15764975506707,2022,4,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4995267,IN,Hamilton,Noblesville,Source1,4,39.992042,-85.86226500000002,2022,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5047425,IN,Hamilton,Indianapolis,Source1,4,39.930105,-86.166016,2022,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5352373,IN,Hamilton,Arcadia,Source1,4,40.130897,-86.128259,2022,12,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-5356801,IN,Hamilton,Noblesville,Source1,4,40.133901,-85.901738,2022,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5402891,IN,Hamilton,Indianapolis,Source1,4,39.946497,-86.157894,2022,4,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5575176,IN,Hamilton,Noblesville,Source1,4,40.04321,-86.070945,2021,18,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-5772572,IN,Hamilton,Noblesville,Source1,4,40.04351,-86.039591,2021,21,Tuesday,Clear / Fair,True,True,False,False,False,False,False
+A-5796995,IN,Hamilton,Fishers,Source1,4,39.975501,-85.960424,2021,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5818295,IN,Hamilton,Westfield,Source1,4,40.042019,-86.202565,2021,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5821449,IN,Hamilton,Noblesville,Source1,4,40.043503045844815,-86.03958964306813,2021,18,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-5866202,IN,Hamilton,Noblesville,Source1,4,40.04369000000001,-85.977929,2021,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5922513,IN,Hamilton,Westfield,Source1,4,40.04215121250133,-86.19196057278542,2021,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5947912,IN,Hamilton,Noblesville,Source1,4,40.0430309770582,-86.08986496884302,2021,18,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-5962469,IN,Hamilton,Noblesville,Source1,4,40.04329600000001,-85.976258,2021,18,Wednesday,Cloudy,False,True,False,False,False,False,False
+A-5982096,IN,Hamilton,Westfield,Source1,4,40.04215121250133,-86.19196057278542,2021,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6016121,IN,Hamilton,Noblesville,Source1,4,40.045867,-85.98806,2021,18,Wednesday,Clear / Fair,False,True,False,False,False,False,False
+A-6021794,IN,Hamilton,Noblesville,Source1,4,40.044759,-85.98325600000003,2021,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6061315,IN,Hamilton,Cicero,Source1,4,40.101497,-86.127831,2021,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6062828,IN,Hamilton,Westfield,Source1,4,40.042313,-86.17964,2021,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6075805,IN,Hamilton,Westfield,Source1,4,40.042883,-86.108012,2021,18,Wednesday,Cloudy,False,True,False,False,False,False,False
+A-6077493,IN,Hamilton,Noblesville,Source1,4,40.043339,-86.05716,2021,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6090101,IN,Hamilton,Westfield,Source1,4,40.069902,-86.128023,2021,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6122767,IN,Hamilton,Arcadia,Source1,4,40.131171,-86.128258,2021,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6122875,IN,Hamilton,Westfield,Source1,4,40.04215121250133,-86.19196057278542,2021,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6129154,IN,Hamilton,Noblesville,Source1,4,40.04363179187753,-85.97169756848349,2021,18,Wednesday,Cloudy,False,True,False,False,False,False,False
+A-6186885,IN,Hamilton,Noblesville,Source1,4,40.045623,-86.014735,2021,21,Tuesday,Clear / Fair,True,True,False,False,False,False,True
+A-6226695,IN,Hamilton,Westfield,Source1,4,40.088521241950566,-86.12773776013313,2021,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6234402,IN,Hamilton,Noblesville,Source1,4,40.043267,-85.975825,2021,18,Wednesday,Cloudy,False,True,False,False,False,False,False
+A-6270317,IN,Hamilton,Noblesville,Source1,4,40.043164,-86.077453,2021,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6276862,IN,Hamilton,Noblesville,Source1,4,40.045627,-85.98893699999998,2021,18,Wednesday,Clear / Fair,False,True,False,False,False,False,False
+A-6291917,IN,Hamilton,Noblesville,Source1,4,39.99091029148106,-85.91481327969593,2021,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6316205,IN,Hamilton,Westfield,Source1,4,40.042551,-86.13606800000002,2021,18,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-6335457,IN,Hamilton,Westfield,Source1,4,40.043027,-86.092393,2021,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6529350,IN,Hamilton,Fishers,Source1,4,39.966133,-85.99964399999998,2021,1,Friday,Cloudy,False,False,False,False,False,False,False
+A-6812884,IN,Hamilton,Fishers,Source1,4,39.985228,-86.003742,2020,12,Monday,Sin dato,False,False,False,False,False,False,False
+A-6985801,IN,Hamilton,Noblesville,Source1,3,39.9869,-85.93668000000002,2020,8,Thursday,Rain,False,False,False,False,False,False,False
+A-6995687,IN,Hamilton,Indianapolis,Source1,3,39.93002,-86.17174,2020,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7016007,IN,Hamilton,Noblesville,Source1,3,40.00082,-86.00395999999998,2020,7,Friday,Rain,True,True,False,False,False,False,False
+A-7028154,IN,Hamilton,Indianapolis,Source1,3,39.93027,-86.14841,2020,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7030470,IN,Hamilton,Carmel,Source1,3,39.99999,-86.03383000000002,2020,18,Friday,Cloudy,True,True,False,False,False,False,False
+A-7040294,IN,Hamilton,Fishers,Source1,3,39.97882,-86.00369,2020,17,Wednesday,Cloudy,False,True,False,False,False,False,False
+A-7051854,IN,Hamilton,Noblesville,Source1,3,39.98389,-85.94237,2020,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7064286,IN,Hamilton,Indianapolis,Source1,4,39.9419,-86.01895,2020,5,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7064293,IN,Hamilton,Indianapolis,Source1,4,39.9419,-86.01895,2020,6,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7064296,IN,Hamilton,Indianapolis,Source1,4,39.9419,-86.01895,2020,6,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7064300,IN,Hamilton,Indianapolis,Source1,4,39.9419,-86.01895,2020,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7067446,IN,Hamilton,Indianapolis,Source1,3,39.93027,-86.14915,2020,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7067534,IN,Hamilton,Indianapolis,Source1,3,39.93027,-86.14915,2020,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7069479,IN,Hamilton,Cicero,Source1,3,40.10149000000001,-86.12783,2020,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7072178,IN,Hamilton,Westfield,Source1,3,40.08804,-86.1278,2020,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7082668,IN,Hamilton,Indianapolis,Source1,3,39.93055,-86.14804000000002,2020,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-7091013,IN,Hamilton,Carmel,Source1,3,39.96149000000001,-86.12677,2020,12,Tuesday,Clear / Fair,False,True,False,False,False,False,False
+A-7091057,IN,Hamilton,Noblesville,Source1,3,40.0008,-85.97098000000003,2020,13,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-7096561,IN,Hamilton,Fishers,Source1,3,40.00022,-86.01926,2020,18,Thursday,Cloudy,True,True,False,False,False,False,False
+A-7096573,IN,Hamilton,Fishers,Source1,3,39.94888,-86.01383,2020,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7096595,IN,Hamilton,Fishers,Source1,3,39.94888,-86.01383,2020,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7096603,IN,Hamilton,Indianapolis,Source1,3,39.93684,-86.02264,2020,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7101870,IN,Hamilton,Indianapolis,Source1,3,39.93054,-86.14842,2020,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7245752,IN,Hamilton,Noblesville,Source1,4,39.9912,-85.91868000000002,2020,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7262769,IN,Hamilton,Indianapolis,Source1,3,39.93124,-86.02675,2020,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7262770,IN,Hamilton,Indianapolis,Source1,3,39.93124,-86.02675,2020,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7281380,IN,Hamilton,Indianapolis,Source1,3,39.93039,-86.15845999999998,2020,19,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7384551,IN,Hamilton,Noblesville,Source1,4,40.04316,-86.079571,2019,19,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-7438365,IN,Hamilton,Atlanta,Source1,4,40.191824,-86.128209,2019,0,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7440450,IN,Hamilton,Indianapolis,Source1,3,39.93124,-86.02675,2019,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7441354,IN,Hamilton,Carmel,Source1,3,39.927879,-86.177136,2019,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7443908,IN,Hamilton,Indianapolis,Source1,3,39.938786,-86.02122299999998,2019,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7448620,IN,Hamilton,Indianapolis,Source1,3,39.93054,-86.14809,2019,23,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7450158,IN,Hamilton,Fishers,Source1,3,39.948879,-86.01383100000002,2019,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7452110,IN,Hamilton,Noblesville,Source1,4,39.99094,-85.91983,2019,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7462203,IN,Hamilton,Fishers,Source1,3,39.983016,-85.944767,2019,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7474130,IN,Hamilton,Fishers,Source1,3,39.965019,-86.001501,2018,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-7487826,IN,Hamilton,Indianapolis,Source1,3,39.93011,-86.16551,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7487872,IN,Hamilton,Fishers,Source1,3,39.948879,-86.01383100000002,2018,0,Friday,Cloudy,False,False,False,False,False,False,False
+A-7492617,IN,Hamilton,Indianapolis,Source1,3,39.93011,-86.16551,2018,3,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7497490,IN,Hamilton,Indianapolis,Source1,3,39.93011,-86.16551,2018,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7497539,IN,Hamilton,Atlanta,Source1,4,40.2172,-86.12821,2018,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7497540,IN,Hamilton,Arcadia,Source1,4,40.188429,-86.12791999999997,2018,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7498200,IN,Hamilton,Indianapolis,Source1,3,39.93011,-86.16551,2018,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7500003,IN,Hamilton,Sheridan,Source1,4,40.04166,-86.233376,2018,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7508842,IN,Hamilton,Fishers,Source1,3,39.948879,-86.01383100000002,2018,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-7512564,IN,Hamilton,Fishers,Source1,3,39.951649,-86.011798,2018,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7512566,IN,Hamilton,Indianapolis,Source1,3,39.937303,-86.021998,2018,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7516074,IN,Hamilton,Indianapolis,Source1,3,39.927246,-86.131686,2018,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7526084,IN,Hamilton,Fishers,Source1,3,39.96524,-86.00157,2018,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7536952,IN,Hamilton,Noblesville,Source1,3,39.99,-85.92888,2018,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-7561946,IN,Hamilton,Noblesville,Source1,3,39.9912,-85.91868000000002,2018,16,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-7563168,IN,Hamilton,Indianapolis,Source1,3,39.93124,-86.02675,2018,0,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7587205,IN,Hamilton,Fishers,Source1,3,39.96524,-86.00157,2018,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7587208,IN,Hamilton,Fishers,Source1,3,39.96524,-86.00157,2018,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7591468,IN,Hamilton,Noblesville,Source1,4,39.99203,-85.86224,2018,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-7595384,IN,Hamilton,Westfield,Source1,4,40.0419,-86.21560699999998,2018,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7595385,IN,Hamilton,Westfield,Source1,4,40.04178,-86.22216999999998,2018,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7595397,IN,Hamilton,Westfield,Source1,4,40.04178,-86.22216999999998,2018,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7604610,IN,Hamilton,Fishers,Source1,3,39.967982,-85.98899,2018,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7606754,IN,Hamilton,Noblesville,Source1,3,39.9912,-85.91868000000002,2018,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7625970,IN,Hamilton,Noblesville,Source1,4,39.99,-85.92888,2018,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7626945,IN,Hamilton,Indianapolis,Source1,3,39.93054,-86.14809,2018,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7627523,IN,Hamilton,Indianapolis,Source1,4,39.93011,-86.16551,2018,6,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-7632773,IN,Hamilton,Indianapolis,Source1,3,39.93124,-86.02675,2018,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-7638975,IN,Hamilton,Fishers,Source1,3,39.930179,-86.027231,2018,21,Saturday,Sin dato,False,False,False,False,False,False,False
+A-7652865,IN,Hamilton,Westfield,Source1,4,40.04175,-86.22464000000002,2017,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7654231,IN,Hamilton,Arcadia,Source1,4,40.1748,-86.12812,2017,19,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-7659440,IN,Hamilton,Noblesville,Source1,4,40.043553,-86.03950999999998,2017,18,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-7659441,IN,Hamilton,Noblesville,Source1,4,40.044569,-86.036002,2017,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7660493,IN,Hamilton,Fishers,Source1,3,39.94879,-86.01355,2017,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7662899,IN,Hamilton,Carmel,Source1,3,39.92937,-86.174664,2017,3,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7662900,IN,Hamilton,Indianapolis,Source1,3,39.93026,-86.169987,2017,3,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7665886,IN,Hamilton,Noblesville,Source1,3,39.991149,-85.881232,2017,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7671089,IN,Hamilton,Fishers,Source1,3,39.96524,-86.00157,2017,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-7671098,IN,Hamilton,Fishers,Source1,4,39.96133,-86.00496,2017,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-7671099,IN,Hamilton,Fishers,Source1,4,39.962229,-86.00412,2017,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-7673318,IN,Hamilton,Fishers,Source1,3,39.943117,-86.018052,2017,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7679908,IN,Hamilton,Noblesville,Source1,3,39.9893,-85.93041,2017,23,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7683424,IN,Hamilton,Sheridan,Source1,4,40.0416,-86.238858,2017,3,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7686507,IN,Hamilton,Indianapolis,Source1,3,39.928434,-86.13577,2017,9,Monday,Sin dato,False,False,False,False,False,False,False
+A-7691925,IN,Hamilton,Carmel,Source1,4,40.011755,-86.128033,2017,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7692735,IN,Hamilton,Fishers,Source1,3,39.970537,-85.970812,2017,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7693270,IN,Hamilton,Noblesville,Source1,4,40.043312,-85.97568199999998,2017,9,Wednesday,Clear / Fair,False,True,False,False,False,False,False
+A-7693274,IN,Hamilton,Noblesville,Source1,4,40.04379,-85.972444,2017,10,Wednesday,Clear / Fair,False,True,False,False,False,False,False
+A-7693275,IN,Hamilton,Noblesville,Source1,4,40.043312,-85.97568199999998,2017,10,Wednesday,Clear / Fair,False,True,False,False,False,False,False
+A-7694458,IN,Hamilton,Indianapolis,Source1,3,39.93011,-86.16551,2017,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-7696262,IN,Hamilton,Indianapolis,Source1,3,39.93054,-86.14809,2017,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7710219,IN,Hamilton,Noblesville,Source1,3,40.043477,-85.994877,2019,8,Wednesday,Clear / Fair,False,False,False,True,False,False,False
+A-7723076,IN,Hamilton,Noblesville,Source1,3,39.99149,-85.884989,2019,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7729958,IN,Hamilton,Indianapolis,Source1,3,39.93054,-86.14809,2019,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7739653,IN,Hamilton,Noblesville,Source1,3,39.991159,-85.880241,2019,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7743145,IN,Hamilton,Indianapolis,Source1,3,39.93054,-86.14809,2019,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7756643,IN,Hamilton,Indianapolis,Source1,3,39.93124,-86.02675,2019,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7776305,IN,Hamilton,Noblesville,Source1,3,39.99226,-85.86225,2019,16,Wednesday,Cloudy,False,False,False,False,False,False,False

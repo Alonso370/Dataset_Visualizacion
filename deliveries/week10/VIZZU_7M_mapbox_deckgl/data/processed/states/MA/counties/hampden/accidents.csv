@@ -1,0 +1,423 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-194781,MA,Hampden,Palmer,Source2,3,42.172337,-72.33168,2016,5,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-194814,MA,Hampden,Palmer,Source2,3,42.172337,-72.33168,2016,6,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-195009,MA,Hampden,Palmer,Source2,3,42.172337,-72.33168,2016,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-195715,MA,Hampden,Springfield,Source2,3,42.107468,-72.60260799999998,2016,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-195912,MA,Hampden,Holyoke,Source2,3,42.174274,-72.64408900000002,2016,8,Monday,Rain,False,False,False,False,False,False,False
+A-196814,MA,Hampden,Chicopee,Source2,3,42.135635,-72.61367800000002,2016,7,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-197998,MA,Hampden,Westfield,Source2,3,42.144371,-72.732132,2016,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-198973,MA,Hampden,Palmer,Source2,3,42.172337,-72.33168,2017,7,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-199015,MA,Hampden,Springfield,Source2,3,42.122776,-72.608231,2017,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-199843,MA,Hampden,Springfield,Source2,3,42.076893,-72.580536,2017,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-199863,MA,Hampden,Chicopee,Source2,3,42.154175,-72.61084,2017,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-199921,MA,Hampden,Holyoke,Source2,3,42.200199,-72.63859599999998,2017,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-200362,MA,Hampden,West Springfield,Source2,3,42.136459,-72.629852,2017,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-201416,MA,Hampden,West Springfield,Source2,3,42.136124,-72.625679,2017,5,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-201567,MA,Hampden,Ludlow,Source2,3,42.168209,-72.472427,2017,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-202743,MA,Hampden,Springfield,Source2,3,42.082172,-72.578979,2016,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-202920,MA,Hampden,Palmer,Source2,3,42.172337,-72.33168,2016,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-204205,MA,Hampden,Russell,Source2,3,42.167938,-72.858582,2016,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-204701,MA,Hampden,Holyoke,Source2,3,42.200199,-72.63859599999998,2016,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-204862,MA,Hampden,Longmeadow,Source2,3,42.033878,-72.589417,2016,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-206290,MA,Hampden,Westfield,Source2,3,42.14492,-72.735344,2016,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-206744,MA,Hampden,Springfield,Source2,3,42.117939,-72.584908,2016,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-206967,MA,Hampden,Springfield,Source2,3,42.0774,-72.580162,2016,6,Friday,Cloudy,False,False,True,False,False,False,False
+A-207272,MA,Hampden,Palmer,Source2,3,42.172337,-72.33168,2016,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-207537,MA,Hampden,Springfield,Source2,3,42.096748,-72.587135,2016,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-207698,MA,Hampden,Chicopee,Source2,3,42.140697,-72.612648,2016,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-208646,MA,Hampden,Chicopee,Source2,3,42.134308,-72.609589,2016,7,Monday,Rain,False,False,False,False,False,False,False
+A-209494,MA,Hampden,West Springfield,Source2,3,42.152813,-72.648003,2016,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-209614,MA,Hampden,Springfield,Source2,3,42.111515,-72.606606,2016,8,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-209746,MA,Hampden,Springfield,Source2,3,42.08886,-72.581177,2016,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-210461,MA,Hampden,Springfield,Source2,3,42.14542,-72.549263,2016,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-210948,MA,Hampden,Ludlow,Source2,3,42.168209,-72.472427,2016,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-211038,MA,Hampden,Chicopee,Source2,3,42.163662,-72.602295,2016,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-211818,MA,Hampden,Springfield,Source2,3,42.081955,-72.57914699999998,2016,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-212537,MA,Hampden,Springfield,Source2,3,42.087009,-72.580727,2016,6,Tuesday,Rain,False,False,False,False,False,False,False
+A-212978,MA,Hampden,Springfield,Source2,3,42.14542,-72.549263,2016,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-213684,MA,Hampden,Longmeadow,Source2,3,42.04171,-72.588486,2016,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-213874,MA,Hampden,Springfield,Source2,3,42.096851,-72.587006,2016,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-214618,MA,Hampden,Chicopee,Source2,3,42.169369,-72.589157,2016,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-214685,MA,Hampden,Springfield,Source2,3,42.089748,-72.581787,2016,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-214754,MA,Hampden,Springfield,Source2,3,42.122776,-72.608231,2016,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-215556,MA,Hampden,Springfield,Source2,3,42.126862,-72.56691,2016,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-215788,MA,Hampden,Holyoke,Source2,3,42.200199,-72.63859599999998,2016,11,Thursday,Rain,False,False,False,False,False,False,False
+A-215843,MA,Hampden,Longmeadow,Source2,3,42.074463,-72.582565,2016,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-216955,MA,Hampden,Ludlow,Source2,3,42.168209,-72.472427,2016,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-217073,MA,Hampden,Springfield,Source2,3,42.107765,-72.603157,2016,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-217708,MA,Hampden,Springfield,Source2,3,42.107765,-72.603157,2016,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-218292,MA,Hampden,West Springfield,Source2,3,42.152672,-72.647926,2016,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-218305,MA,Hampden,Longmeadow,Source2,3,42.074898,-72.583122,2016,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-218315,MA,Hampden,Chicopee,Source2,3,42.156849,-72.548454,2016,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-218908,MA,Hampden,Springfield,Source2,3,42.096748,-72.587135,2016,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-219499,MA,Hampden,Chicopee,Source2,3,42.161442,-72.534874,2016,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-219840,MA,Hampden,West Springfield,Source2,3,42.162418,-72.646446,2016,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-220576,MA,Hampden,Ludlow,Source2,3,42.168007,-72.47222099999998,2016,14,Thursday,Cloudy,False,False,True,False,False,False,False
+A-326687,MA,Hampden,Chicopee,Source2,3,42.134308,-72.609589,2017,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-326981,MA,Hampden,West Springfield,Source2,3,42.162418,-72.646446,2017,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-327647,MA,Hampden,West Springfield,Source2,3,42.136265,-72.6259,2017,5,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-327698,MA,Hampden,Springfield,Source2,3,42.126862,-72.56691,2017,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-327810,MA,Hampden,West Springfield,Source2,3,42.153816,-72.638611,2017,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-327814,MA,Hampden,Springfield,Source2,3,42.14542,-72.549263,2017,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-327981,MA,Hampden,Holyoke,Source2,3,42.200199,-72.63859599999998,2017,8,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-327988,MA,Hampden,Holyoke,Source2,3,42.216747,-72.63295,2017,8,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-327989,MA,Hampden,Chicopee,Source2,3,42.134308,-72.609589,2017,8,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-370312,MA,Hampden,Springfield,Source2,3,42.087666,-72.58073399999998,2017,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-370344,MA,Hampden,Springfield,Source2,3,42.111515,-72.606606,2017,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-370348,MA,Hampden,Holyoke,Source2,3,42.174274,-72.64408900000002,2017,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-370434,MA,Hampden,Blandford,Source2,3,42.182598,-72.920479,2017,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-371145,MA,Hampden,Springfield,Source2,3,42.127182,-72.566231,2017,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-371148,MA,Hampden,Springfield,Source2,3,42.107765,-72.603157,2017,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-372100,MA,Hampden,Ludlow,Source2,3,42.168209,-72.472427,2017,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-373750,MA,Hampden,Brimfield,Source2,3,42.170204,-72.264053,2017,8,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-374090,MA,Hampden,West Springfield,Source2,3,42.162502,-72.646385,2017,4,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-374092,MA,Hampden,Ludlow,Source2,3,42.168209,-72.472427,2017,5,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-374229,MA,Hampden,Brimfield,Source2,3,42.152401,-72.154411,2017,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-374564,MA,Hampden,Springfield,Source2,3,42.111515,-72.606606,2017,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-374896,MA,Hampden,Springfield,Source2,3,42.117939,-72.584908,2017,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-376059,MA,Hampden,Springfield,Source2,3,42.111515,-72.606606,2017,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-376308,MA,Hampden,Longmeadow,Source2,3,42.036465,-72.588921,2017,22,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-420533,MA,Hampden,Springfield,Source2,3,42.100887,-72.592232,2017,7,Monday,Fog / Low visibility,False,False,False,False,False,True,False
+A-420944,MA,Hampden,West Springfield,Source2,3,42.13623,-72.625046,2017,13,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-422031,MA,Hampden,Westfield,Source2,3,42.14492,-72.735344,2017,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-422032,MA,Hampden,Ludlow,Source2,3,42.157661,-72.412262,2017,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-422814,MA,Hampden,Chicopee,Source2,3,42.134308,-72.609589,2017,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-422827,MA,Hampden,West Springfield,Source2,3,42.135983,-72.622986,2017,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-422828,MA,Hampden,Chicopee,Source2,3,42.154175,-72.61084,2017,7,Tuesday,Rain,False,False,False,False,False,False,False
+A-475766,MA,Hampden,Springfield,Source2,3,42.087666,-72.58073399999998,2017,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-475805,MA,Hampden,Springfield,Source2,3,42.122776,-72.608231,2017,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-476052,MA,Hampden,Ludlow,Source2,3,42.165668,-72.431435,2017,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-503242,MA,Hampden,Springfield,Source2,3,42.077354,-72.58019300000002,2017,17,Friday,Cloudy,False,False,True,False,False,False,False
+A-503371,MA,Hampden,Holyoke,Source2,3,42.212906,-72.633064,2017,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-503567,MA,Hampden,Palmer,Source2,3,42.172337,-72.33168,2017,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-504743,MA,Hampden,Holyoke,Source2,3,42.24152,-72.629196,2017,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-505022,MA,Hampden,Brimfield,Source2,3,42.171497,-72.261475,2017,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-530493,MA,Hampden,Chicopee,Source2,3,42.134892,-72.61039699999998,2022,12,Monday,Rain,False,False,False,False,False,False,False
+A-550451,MA,Hampden,Springfield,Source2,4,42.11179,-72.606812,2022,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-553134,MA,Hampden,West Springfield,Source2,3,42.153271,-72.648392,2022,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-565146,MA,Hampden,Chicopee,Source2,3,42.154972,-72.610596,2022,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-565237,MA,Hampden,Chicopee,Source2,3,42.153358,-72.61128199999997,2022,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-565394,MA,Hampden,Palmer,Source2,3,42.17067700000001,-72.33045200000002,2022,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-601077,MA,Hampden,West Springfield,Source2,3,42.153278,-72.648193,2022,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-629212,MA,Hampden,Holyoke,Source2,3,42.200687,-72.638527,2022,7,Wednesday,Rain,False,False,False,False,False,False,False
+A-653708,MA,Hampden,Springfield,Source2,3,42.117847,-72.584137,2022,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-653816,MA,Hampden,West Springfield,Source2,3,42.136242,-72.626251,2022,16,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-689690,MA,Hampden,Palmer,Source2,3,42.17067700000001,-72.33045200000002,2022,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-707811,MA,Hampden,West Springfield,Source2,3,42.136871,-72.62988299999998,2022,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-707886,MA,Hampden,Springfield,Source2,3,42.08157,-72.579437,2022,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-719373,MA,Hampden,Springfield,Source2,3,42.125221,-72.60804,2022,13,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-728386,MA,Hampden,Palmer,Source2,3,42.17067700000001,-72.33045200000002,2022,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-754674,MA,Hampden,Wilbraham,Source2,3,42.150986,-72.459427,2022,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-766009,MA,Hampden,Russell,Source2,3,42.164909,-72.85123399999998,2021,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-766580,MA,Hampden,Palmer,Source2,3,42.15411,-72.386093,2021,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-767720,MA,Hampden,Palmer,Source2,3,42.17067700000001,-72.33045200000002,2021,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-777551,MA,Hampden,Chicopee,Source2,3,42.170322,-72.580826,2021,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-792271,MA,Hampden,Chicopee,Source2,3,42.163692,-72.544136,2021,8,Monday,Rain,False,False,False,False,False,False,False
+A-794997,MA,Hampden,Springfield,Source2,3,42.08239,-72.579163,2021,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-797386,MA,Hampden,Springfield,Source2,3,42.120941,-72.60964200000002,2021,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-800753,MA,Hampden,Palmer,Source2,3,42.17067700000001,-72.33045200000002,2021,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-807201,MA,Hampden,Chicopee,Source2,3,42.163452,-72.6026,2021,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-808217,MA,Hampden,Palmer,Source2,3,42.17067700000001,-72.33045200000002,2021,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-822011,MA,Hampden,Russell,Source2,3,42.161541,-72.830742,2021,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-829172,MA,Hampden,Westfield,Source2,3,42.144951,-72.734749,2021,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-853267,MA,Hampden,Springfield,Source2,3,42.1292,-72.561424,2021,17,Tuesday,Rain,False,False,False,False,False,False,False
+A-931695,MA,Hampden,Blandford,Source2,3,42.171371,-72.898453,2021,14,Thursday,Rain,False,False,False,False,False,False,False
+A-932256,MA,Hampden,Blandford,Source2,3,42.197071,-72.93543199999998,2021,7,Thursday,Rain,False,False,True,False,False,False,False
+A-935864,MA,Hampden,Chicopee,Source2,3,42.181496,-72.606522,2021,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-960699,MA,Hampden,Chicopee,Source2,4,42.169117,-72.582726,2021,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-978838,MA,Hampden,Chicopee,Source2,3,42.161308,-72.540054,2021,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-983865,MA,Hampden,Russell,Source2,3,42.167931,-72.858589,2021,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-991143,MA,Hampden,Blandford,Source2,3,42.181587,-72.919365,2021,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-997949,MA,Hampden,Chicopee,Source2,3,42.168964,-72.573174,2021,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-997950,MA,Hampden,Chicopee,Source2,3,42.16255200000001,-72.542824,2021,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1007433,MA,Hampden,Palmer,Source2,3,42.171173,-72.330704,2021,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1016826,MA,Hampden,Holyoke,Source2,3,42.200687,-72.638527,2021,11,Friday,Storm,False,False,False,False,False,False,False
+A-1040182,MA,Hampden,Chicopee,Source2,3,42.158199,-72.610237,2021,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1053677,MA,Hampden,Springfield,Source2,3,42.101913,-72.59432199999998,2021,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-1060609,MA,Hampden,Ludlow,Source2,3,42.16864,-72.473793,2021,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-1095716,MA,Hampden,Holyoke,Source2,3,42.21719,-72.632736,2021,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1110259,MA,Hampden,Russell,Source2,3,42.167931,-72.858589,2021,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1147017,MA,Hampden,Chicopee,Source2,3,42.16255200000001,-72.542824,2021,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1156654,MA,Hampden,Chicopee,Source2,3,42.13287,-72.609375,2021,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1158569,MA,Hampden,Russell,Source2,3,42.165661,-72.85234100000002,2021,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1160182,MA,Hampden,Springfield,Source2,3,42.101913,-72.59432199999998,2021,14,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1179224,MA,Hampden,Wilbraham,Source2,3,42.1572,-72.408173,2021,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1201441,MA,Hampden,West Springfield,Source2,3,42.15337,-72.643761,2021,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1234142,MA,Hampden,Springfield,Source2,3,42.127262,-72.566383,2020,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1268484,MA,Hampden,Ludlow,Source2,3,42.168236,-72.472321,2020,12,Thursday,Rain,False,False,False,False,False,False,False
+A-1270494,MA,Hampden,Chicopee,Source2,3,42.16255200000001,-72.542824,2020,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1291035,MA,Hampden,Blandford,Source2,3,42.177078,-72.91579399999998,2020,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1294417,MA,Hampden,Westfield,Source2,3,42.144951,-72.734749,2020,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-1308191,MA,Hampden,Holyoke,Source2,3,42.212341,-72.63295,2020,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1313113,MA,Hampden,West Springfield,Source2,3,42.157532,-72.639923,2020,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1317804,MA,Hampden,Chicopee,Source2,3,42.163383,-72.542732,2020,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1337335,MA,Hampden,West Springfield,Source2,3,42.15337,-72.643761,2020,15,Tuesday,Rain,False,False,False,False,False,False,False
+A-1367045,MA,Hampden,West Springfield,Source2,3,42.15337,-72.643761,2020,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-1382148,MA,Hampden,Chicopee,Source2,3,42.13287,-72.609375,2020,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1406293,MA,Hampden,Brimfield,Source2,3,42.146877,-72.14373,2020,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-1413328,MA,Hampden,Chicopee,Source2,3,42.13287,-72.609375,2020,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1421530,MA,Hampden,Springfield,Source2,3,42.120941,-72.60964200000002,2020,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1462259,MA,Hampden,Westfield,Source2,3,42.144951,-72.734749,2020,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1478081,MA,Hampden,Palmer,Source2,3,42.17067700000001,-72.33045200000002,2020,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1483379,MA,Hampden,Holyoke,Source2,3,42.174381,-72.643433,2020,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1505155,MA,Hampden,Chicopee,Source2,3,42.16255200000001,-72.542824,2020,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1509861,MA,Hampden,Russell,Source2,3,42.170403,-72.87661700000002,2020,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1534229,MA,Hampden,Springfield,Source2,3,42.08157,-72.579437,2020,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1560822,MA,Hampden,Russell,Source2,3,42.16964,-72.873238,2020,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1565529,MA,Hampden,Chicopee,Source2,3,42.153358,-72.61128199999997,2020,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1595134,MA,Hampden,Springfield,Source2,3,42.101742,-72.594124,2020,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1602626,MA,Hampden,Springfield,Source2,3,42.127262,-72.566383,2020,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1604925,MA,Hampden,Holyoke,Source2,3,42.200687,-72.638527,2020,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1604926,MA,Hampden,Springfield,Source2,3,42.14677,-72.55085,2020,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1604942,MA,Hampden,Holyoke,Source2,3,42.200687,-72.638527,2020,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1612508,MA,Hampden,West Springfield,Source2,3,42.157532,-72.639923,2020,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1613156,MA,Hampden,West Springfield,Source2,3,42.157532,-72.639923,2020,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-1629333,MA,Hampden,Springfield,Source2,3,42.101742,-72.594124,2020,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1629337,MA,Hampden,Longmeadow,Source2,3,42.041622,-72.58847,2020,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1637892,MA,Hampden,Chicopee,Source2,3,42.170322,-72.580826,2020,9,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1645628,MA,Hampden,Ludlow,Source2,3,42.167152,-72.482224,2020,6,Thursday,Rain,False,False,False,False,False,False,False
+A-1663912,MA,Hampden,Westfield,Source2,3,42.156017,-72.791985,2020,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1670406,MA,Hampden,Blandford,Source2,3,42.19252,-72.931602,2020,10,Thursday,Cloudy,False,False,True,False,False,False,False
+A-1686539,MA,Hampden,Palmer,Source2,3,42.17067700000001,-72.33045200000002,2019,14,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1698025,MA,Hampden,Holyoke,Source2,3,42.174381,-72.643433,2019,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-1702373,MA,Hampden,Blandford,Source2,3,42.182747,-72.92067,2019,12,Monday,Rain,False,False,False,False,False,False,False
+A-1707849,MA,Hampden,Brimfield,Source2,3,42.147011,-72.14421800000002,2019,4,Wednesday,Other,False,False,False,False,False,False,False
+A-1720437,MA,Hampden,Springfield,Source2,4,42.08284,-72.579193,2019,15,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1725827,MA,Hampden,Palmer,Source2,4,42.17067700000001,-72.33045200000002,2019,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1728357,MA,Hampden,West Springfield,Source2,3,42.142593,-72.63909100000002,2019,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1732326,MA,Hampden,Springfield,Source2,3,42.101742,-72.594124,2019,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1753873,MA,Hampden,Holyoke,Source2,3,42.215027,-72.634682,2019,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1753882,MA,Hampden,West Springfield,Source2,3,42.153652,-72.63887,2019,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1762133,MA,Hampden,Springfield,Source2,3,42.120941,-72.60964200000002,2019,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-1771696,MA,Hampden,West Springfield,Source2,3,42.15353,-72.64067800000002,2019,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1788702,MA,Hampden,Holyoke,Source2,3,42.25404,-72.62039200000002,2019,9,Thursday,Rain,False,False,False,False,False,False,False
+A-1791427,MA,Hampden,Ludlow,Source2,3,42.16864,-72.473793,2019,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-1860556,MA,Hampden,Holyoke,Source2,3,42.215164,-72.632339,2019,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1869347,MA,Hampden,Longmeadow,Source2,3,42.057484,-72.58908100000002,2019,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-1869349,MA,Hampden,Russell,Source2,3,42.167931,-72.858589,2019,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1880652,MA,Hampden,Chicopee,Source2,3,42.168221,-72.592567,2019,13,Thursday,Rain,False,False,False,False,False,False,False
+A-1880661,MA,Hampden,Chicopee,Source2,3,42.16255200000001,-72.542824,2019,18,Thursday,Rain,False,False,False,False,False,False,False
+A-1882637,MA,Hampden,West Springfield,Source2,3,42.153885,-72.631332,2019,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1893629,MA,Hampden,Holyoke,Source2,3,42.215027,-72.634682,2019,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1932010,MA,Hampden,West Springfield,Source2,3,42.136242,-72.626251,2019,20,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-1948663,MA,Hampden,Blandford,Source2,3,42.182907,-72.921379,2019,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1984123,MA,Hampden,Palmer,Source2,3,42.17067700000001,-72.33045200000002,2019,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1986415,MA,Hampden,Ludlow,Source2,3,42.16864,-72.473793,2019,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2019160,MA,Hampden,Springfield,Source2,3,42.127262,-72.566383,2019,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2026416,MA,Hampden,Chicopee,Source3,3,42.16255200000001,-72.542824,2019,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2038112,MA,Hampden,Springfield,Source2,3,42.127262,-72.566383,2019,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2046419,MA,Hampden,Holyoke,Source2,3,42.174381,-72.643433,2019,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2051019,MA,Hampden,Holyoke,Source2,3,42.218704,-72.633499,2019,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2054725,MA,Hampden,Palmer,Source2,3,42.17067700000001,-72.33045200000002,2019,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-2054729,MA,Hampden,Palmer,Source2,3,42.167397,-72.353447,2019,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-2079554,MA,Hampden,Springfield,Source2,3,42.120941,-72.60964200000002,2019,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2089420,MA,Hampden,Springfield,Source2,3,42.127262,-72.566383,2019,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2094127,MA,Hampden,Chicopee,Source2,3,42.16132,-72.542107,2019,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-2111582,MA,Hampden,Blandford,Source2,3,42.198563,-72.937485,2019,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-2125979,MA,Hampden,Chicopee,Source2,3,42.135509000000006,-72.610191,2019,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2128257,MA,Hampden,Chicopee,Source2,3,42.170368,-72.581482,2019,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2128258,MA,Hampden,Chicopee,Source2,3,42.170368,-72.581482,2019,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2132771,MA,Hampden,Holyoke,Source2,3,42.219097,-72.634125,2019,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2158415,MA,Hampden,Longmeadow,Source2,3,42.060287,-72.589203,2019,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2158417,MA,Hampden,Springfield,Source2,3,42.10146,-72.59264399999998,2019,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2187038,MA,Hampden,Springfield,Source2,3,42.11943400000001,-72.609238,2019,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2205743,MA,Hampden,Springfield,Source2,3,42.121094,-72.609367,2019,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2208151,MA,Hampden,Springfield,Source2,3,42.088848,-72.581253,2019,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-2208157,MA,Hampden,Palmer,Source2,3,42.171131,-72.330933,2019,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-2222354,MA,Hampden,Holyoke,Source2,3,42.201248,-72.638351,2019,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2254660,MA,Hampden,Springfield,Source2,3,42.11946500000001,-72.609398,2019,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2293226,MA,Hampden,Chicopee,Source2,3,42.169373,-72.578423,2019,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2298245,MA,Hampden,Blandford,Source2,3,42.183838,-72.92276,2019,4,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2300811,MA,Hampden,Westfield,Source2,3,42.144974,-72.73494000000002,2019,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-2304296,MA,Hampden,Palmer,Source2,3,42.172176,-72.332123,2019,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2306455,MA,Hampden,Chicopee,Source2,3,42.170052,-72.580383,2019,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2320917,MA,Hampden,Chicopee,Source2,3,42.1581,-72.610168,2019,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-2323397,MA,Hampden,Chicopee,Source2,3,42.160255,-72.547546,2019,7,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-2323407,MA,Hampden,Holyoke,Source2,3,42.241688,-72.62944,2019,18,Tuesday,Rain,False,False,False,False,False,False,False
+A-2328114,MA,Hampden,Springfield,Source2,3,42.127144,-72.566353,2019,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2342056,MA,Hampden,Longmeadow,Source2,3,42.07471500000001,-72.583626,2019,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2350542,MA,Hampden,Springfield,Source2,3,42.082397,-72.579163,2019,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2353343,MA,Hampden,Springfield,Source2,3,42.11946500000001,-72.609398,2019,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2375022,MA,Hampden,West Springfield,Source2,3,42.135925,-72.621964,2018,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-2389412,MA,Hampden,Springfield,Source2,3,42.108326,-72.599014,2018,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2394357,MA,Hampden,West Springfield,Source2,3,42.162373,-72.646034,2018,15,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2400215,MA,Hampden,Chicopee,Source2,3,42.15332,-72.611168,2018,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-2431093,MA,Hampden,Springfield,Source2,3,42.126862,-72.56691,2018,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2435077,MA,Hampden,Blandford,Source2,3,42.222183,-72.965622,2018,12,Tuesday,Rain,False,False,False,False,False,False,False
+A-2438529,MA,Hampden,West Springfield,Source2,3,42.136044,-72.62146,2018,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2461026,MA,Hampden,Palmer,Source2,3,42.172337,-72.33168,2018,4,Friday,Rain,False,False,False,False,False,False,False
+A-2461046,MA,Hampden,Palmer,Source2,3,42.172337,-72.33168,2018,8,Friday,Rain,False,False,False,False,False,False,False
+A-2471164,MA,Hampden,Chicopee,Source2,3,42.159389,-72.54789699999998,2018,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2499885,MA,Hampden,Holyoke,Source2,3,42.200199,-72.63859599999998,2018,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-2499886,MA,Hampden,Springfield,Source2,3,42.082554,-72.579002,2018,13,Friday,Cloudy,False,False,False,False,False,True,False
+A-2499892,MA,Hampden,Holyoke,Source2,3,42.200199,-72.63859599999998,2018,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-2515877,MA,Hampden,Chicopee,Source2,3,42.154175,-72.61084,2018,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2516639,MA,Hampden,Palmer,Source2,3,42.153889,-72.385414,2018,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2517230,MA,Hampden,Holyoke,Source2,3,42.265774,-72.612183,2018,10,Monday,Rain,False,False,False,False,False,False,False
+A-2532072,MA,Hampden,Springfield,Source2,3,42.126862,-72.56691,2018,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2536337,MA,Hampden,Springfield,Source2,3,42.126862,-72.56691,2018,20,Tuesday,Rain,False,False,False,False,False,False,False
+A-2542024,MA,Hampden,Springfield,Source2,3,42.126862,-72.56691,2018,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2548005,MA,Hampden,Westfield,Source2,3,42.14492,-72.735344,2018,7,Saturday,Rain,False,False,False,False,False,False,False
+A-2578555,MA,Hampden,Springfield,Source3,3,42.087814,-72.581039,2018,12,Wednesday,Rain,False,False,True,False,False,False,False
+A-2587849,MA,Hampden,Springfield,Source2,3,42.101101,-72.592476,2018,12,Monday,Cloudy,True,True,False,False,False,False,False
+A-2592882,MA,Hampden,Holyoke,Source2,3,42.200199,-72.63859599999998,2018,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2592885,MA,Hampden,Springfield,Source2,3,42.087666,-72.58073399999998,2018,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2600584,MA,Hampden,Palmer,Source2,3,42.172337,-72.33168,2018,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2601860,MA,Hampden,Longmeadow,Source2,3,42.057533,-72.58908100000002,2018,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-2637700,MA,Hampden,West Springfield,Source2,3,42.136105,-72.625298,2018,12,Friday,Cloudy,False,False,True,False,False,False,False
+A-2660854,MA,Hampden,Palmer,Source2,3,42.172337,-72.33168,2018,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2683609,MA,Hampden,Springfield,Source2,3,42.100857,-72.59219399999998,2018,8,Tuesday,Cloudy,False,False,False,False,False,True,False
+A-2701902,MA,Hampden,Palmer,Source2,3,42.172337,-72.33168,2018,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2707019,MA,Hampden,Palmer,Source2,3,42.172337,-72.33168,2018,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2755622,MA,Hampden,Palmer,Source2,3,42.172337,-72.33168,2018,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2755639,MA,Hampden,West Springfield,Source2,3,42.153816,-72.638611,2018,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2766108,MA,Hampden,Holyoke,Source2,3,42.216747,-72.63295,2018,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2799835,MA,Hampden,Westfield,Source2,3,42.14492,-72.735344,2018,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2836150,MA,Hampden,Ludlow,Source2,3,42.168209,-72.472427,2018,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2850489,MA,Hampden,Chicopee,Source2,3,42.16177,-72.54534100000002,2018,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-2894772,MA,Hampden,Westfield,Source2,4,42.144764,-72.733582,2018,7,Thursday,Rain,False,False,False,False,False,False,False
+A-2894777,MA,Hampden,Palmer,Source2,3,42.172337,-72.33168,2018,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2910052,MA,Hampden,Holyoke,Source2,3,42.216747,-72.63295,2018,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2912753,MA,Hampden,Springfield,Source2,3,42.107765,-72.603157,2018,17,Friday,Rain,False,False,False,False,False,False,False
+A-2919380,MA,Hampden,Russell,Source2,3,42.16555,-72.851913,2018,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2919382,MA,Hampden,Russell,Source2,3,42.165211,-72.851395,2018,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2919385,MA,Hampden,Russell,Source2,3,42.165565,-72.851929,2018,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2940827,MA,Hampden,Blandford,Source2,3,42.226723,-72.971825,2018,12,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2961421,MA,Hampden,Springfield,Source2,3,42.082523,-72.579002,2018,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2961429,MA,Hampden,West Springfield,Source2,3,42.136219,-72.624802,2018,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2982968,MA,Hampden,Springfield,Source2,3,42.081188,-72.579048,2018,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2988045,MA,Hampden,Springfield,Source2,3,42.101101,-72.592476,2018,8,Saturday,Clear / Fair,True,True,False,False,False,False,False
+A-2988053,MA,Hampden,Chicopee,Source2,3,42.154175,-72.61084,2018,22,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2992309,MA,Hampden,Springfield,Source2,3,42.119244,-72.585175,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2992316,MA,Hampden,Ludlow,Source2,3,42.168228000000006,-72.472252,2018,10,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2992317,MA,Hampden,Palmer,Source2,3,42.172337,-72.33168,2018,10,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2995067,MA,Hampden,Palmer,Source2,3,42.172337,-72.33168,2018,22,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3000744,MA,Hampden,Chicopee,Source2,3,42.169674,-72.577881,2018,13,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3019082,MA,Hampden,Springfield,Source2,3,42.082523,-72.579002,2018,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-3019088,MA,Hampden,Springfield,Source2,3,42.123013,-72.573021,2018,14,Monday,Rain,False,False,False,False,False,False,False
+A-3039247,MA,Hampden,Springfield,Source2,3,42.098907,-72.590012,2018,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3040029,MA,Hampden,West Springfield,Source2,3,42.161728,-72.644463,2018,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3042348,MA,Hampden,Springfield,Source2,3,42.077236,-72.580292,2018,8,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-3044693,MA,Hampden,Westfield,Source2,3,42.14492,-72.735344,2018,7,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3044694,MA,Hampden,Palmer,Source2,3,42.172337,-72.33168,2018,8,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3044707,MA,Hampden,Blandford,Source3,3,42.22662,-72.972115,2018,13,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3062330,MA,Hampden,Palmer,Source2,3,42.172337,-72.33168,2018,9,Friday,Rain,False,False,False,False,False,False,False
+A-3071533,MA,Hampden,Westfield,Source2,3,42.14492,-72.735344,2018,5,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3076481,MA,Hampden,Longmeadow,Source2,3,42.057526,-72.58908100000002,2018,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3077092,MA,Hampden,Longmeadow,Source2,3,42.074905,-72.58354200000002,2018,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3082683,MA,Hampden,Springfield,Source2,3,42.082523,-72.579002,2018,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3088011,MA,Hampden,Holyoke,Source2,3,42.216747,-72.63295,2018,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3124767,MA,Hampden,Chicopee,Source2,3,42.18145,-72.605637,2017,16,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-3165085,MA,Hampden,Chicopee,Source2,3,42.18145,-72.605637,2017,20,Friday,Cloudy,False,False,True,False,False,False,False
+A-3188405,MA,Hampden,Holyoke,Source2,3,42.174274,-72.64408900000002,2017,12,Thursday,Rain,False,False,False,False,False,False,False
+A-3188406,MA,Hampden,Holyoke,Source2,3,42.181057,-72.64149499999998,2017,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3199811,MA,Hampden,Springfield,Source2,3,42.081429,-72.579163,2017,7,Wednesday,Rain,False,False,False,False,False,False,False
+A-3216801,MA,Hampden,Ludlow,Source2,3,42.168095,-72.47058100000002,2017,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-3225147,MA,Hampden,Holyoke,Source2,3,42.217686,-72.633308,2017,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3237562,MA,Hampden,Springfield,Source2,3,42.126862,-72.56691,2017,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3254261,MA,Hampden,Springfield,Source2,3,42.111515,-72.606606,2017,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3257003,MA,Hampden,Springfield,Source2,3,42.112614,-72.607079,2017,13,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-3260815,MA,Hampden,West Springfield,Source2,3,42.136143,-72.62616,2017,3,Monday,Cloudy,False,False,True,False,False,False,False
+A-3260820,MA,Hampden,Chicopee,Source2,3,42.161728,-72.542114,2017,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-3268620,MA,Hampden,Chicopee,Source3,3,42.134308,-72.609589,2017,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3274540,MA,Hampden,Blandford,Source2,3,42.182842,-72.921356,2017,10,Monday,Rain,False,False,False,False,False,False,False
+A-3279696,MA,Hampden,Longmeadow,Source2,3,42.074703,-72.583649,2017,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-3283592,MA,Hampden,West Springfield,Source2,3,42.162418,-72.646446,2017,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3288253,MA,Hampden,Palmer,Source2,3,42.172337,-72.33168,2017,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3297733,MA,Hampden,Springfield,Source2,3,42.126862,-72.56691,2017,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3322574,MA,Hampden,Palmer,Source2,3,42.172337,-72.33168,2017,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3335522,MA,Hampden,Chicopee,Source2,3,42.161728,-72.542114,2017,7,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3348184,MA,Hampden,Springfield,Source2,3,42.122776,-72.608231,2017,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3348187,MA,Hampden,Springfield,Source2,3,42.14542,-72.549263,2017,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3374106,MA,Hampden,Ludlow,Source2,3,42.15982800000001,-72.41914399999997,2017,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-3376878,MA,Hampden,Chicopee,Source2,3,42.153622,-72.611122,2017,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3391966,MA,Hampden,Springfield,Source2,3,42.118958,-72.583771,2017,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3391967,MA,Hampden,Springfield,Source2,3,42.079838,-72.579353,2017,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3410135,MA,Hampden,Westfield,Source2,3,42.14492,-72.735344,2017,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3470066,MA,Hampden,Ludlow,Source1,3,42.16854,-72.46961999999998,2016,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3495616,MA,Hampden,Springfield,Source1,4,42.07644000000001,-72.58094,2016,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3613720,MA,Hampden,Springfield,Source1,4,42.10411,-72.59845,2017,21,Wednesday,Cloudy,False,True,False,False,False,False,True
+A-3614064,MA,Hampden,Springfield,Source1,4,42.10411,-72.59845,2017,21,Wednesday,Cloudy,False,True,False,False,False,False,True
+A-3634498,MA,Hampden,Agawam,Source1,3,42.07482,-72.62653,2017,1,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3970166,MA,Hampden,Russell,Source1,4,42.16785550097385,-72.85859227145741,2022,11,Friday,Other,False,False,False,False,False,False,False
+A-5771027,MA,Hampden,Holyoke,Source1,4,42.2169291971101,-72.6326429840439,2021,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6038432,MA,Hampden,Westfield,Source1,4,42.144326,-72.73101,2021,10,Monday,Storm,False,False,False,False,False,False,False
+A-6620833,MA,Hampden,Springfield,Source1,4,42.081981,-72.57987800000002,2020,4,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-6736116,MA,Hampden,Palmer,Source1,4,42.20290900000001,-72.263049,2020,1,Sunday,Cloudy,False,False,False,True,False,False,False
+A-6838653,MA,Hampden,West Springfield,Source1,4,42.115605,-72.623242,2020,4,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-6864089,MA,Hampden,Springfield,Source1,4,42.081981,-72.57987800000002,2020,4,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7021228,MA,Hampden,Chicopee,Source1,3,42.16783,-72.57852,2020,14,Monday,Cloudy,True,False,False,False,False,False,False
+A-7029984,MA,Hampden,Chicopee,Source1,3,42.13723,-72.60993,2020,8,Friday,Cloudy,False,False,True,False,False,False,False
+A-7035220,MA,Hampden,Palmer,Source1,3,42.17239,-72.33204,2020,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-7037649,MA,Hampden,Springfield,Source1,3,42.11147,-72.60642,2020,7,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7037656,MA,Hampden,Agawam,Source1,3,42.08021,-72.58941999999998,2020,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7048734,MA,Hampden,Springfield,Source1,3,42.1162,-72.58856999999998,2020,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7048743,MA,Hampden,Chicopee,Source1,3,42.1771,-72.60854,2020,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7054281,MA,Hampden,Springfield,Source1,3,42.10631,-72.60125,2020,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7054284,MA,Hampden,Springfield,Source1,3,42.1153,-72.60835,2020,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7056896,MA,Hampden,West Springfield,Source1,3,42.15382,-72.63549,2020,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7056902,MA,Hampden,Chicopee,Source1,3,42.13274000000001,-72.60857,2020,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7071890,MA,Hampden,Agawam,Source1,3,42.07259000000001,-72.63541,2020,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7071910,MA,Hampden,Springfield,Source1,3,42.09291,-72.58278,2020,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7082353,MA,Hampden,Springfield,Source1,3,42.10792,-72.59926999999998,2020,15,Friday,Cloudy,False,False,True,False,True,False,False
+A-7086836,MA,Hampden,Springfield,Source1,3,42.10792,-72.59926999999998,2020,13,Sunday,Cloudy,False,False,True,False,True,False,False
+A-7090732,MA,Hampden,Chicopee,Source1,3,42.13271,-72.60875,2020,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7098675,MA,Hampden,Chicopee,Source1,3,42.13882,-72.61106,2020,9,Friday,Cloudy,False,False,True,False,False,False,False
+A-7103438,MA,Hampden,Springfield,Source1,3,42.07875,-72.57956999999998,2020,14,Sunday,Cloudy,False,False,True,False,False,False,False
+A-7103439,MA,Hampden,Springfield,Source1,3,42.09712,-72.58766,2020,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7121673,MA,Hampden,Longmeadow,Source1,3,42.07343,-72.58610999999998,2020,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7121682,MA,Hampden,Longmeadow,Source1,3,42.07343,-72.58610999999998,2020,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7121686,MA,Hampden,Longmeadow,Source1,3,42.07343,-72.58610999999998,2020,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7121691,MA,Hampden,Longmeadow,Source1,3,42.07343,-72.58610999999998,2020,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7121695,MA,Hampden,Springfield,Source1,4,42.08157,-72.57944,2020,23,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7121696,MA,Hampden,Springfield,Source1,4,42.08991,-72.5818,2020,23,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7121699,MA,Hampden,Longmeadow,Source1,4,42.07343,-72.58610999999998,2020,16,Thursday,Rain,False,False,False,False,False,False,False
+A-7121700,MA,Hampden,Longmeadow,Source1,4,42.07343,-72.58610999999998,2020,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7121703,MA,Hampden,Longmeadow,Source1,4,42.07343,-72.58610999999998,2020,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7121706,MA,Hampden,Springfield,Source1,4,42.09931,-72.59042,2020,17,Thursday,Cloudy,False,False,False,False,False,True,False
+A-7121718,MA,Hampden,Longmeadow,Source1,4,42.07343,-72.58610999999998,2020,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7121725,MA,Hampden,Longmeadow,Source1,4,42.07343,-72.58610999999998,2020,16,Thursday,Rain,False,False,False,False,False,False,False
+A-7121730,MA,Hampden,Longmeadow,Source1,4,42.07343,-72.58610999999998,2020,16,Thursday,Rain,False,False,False,False,False,False,False
+A-7121734,MA,Hampden,Longmeadow,Source1,4,42.07343,-72.58610999999998,2020,16,Thursday,Rain,False,False,False,False,False,False,False
+A-7121744,MA,Hampden,Longmeadow,Source1,4,42.07343,-72.58610999999998,2020,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7121753,MA,Hampden,Longmeadow,Source1,4,42.07343,-72.58610999999998,2020,17,Thursday,Rain,False,False,False,False,False,False,False
+A-7130318,MA,Hampden,Palmer,Source1,3,42.17239,-72.33204,2020,22,Monday,Rain,False,False,False,False,False,False,False
+A-7146405,MA,Hampden,Springfield,Source1,3,42.10208,-72.59355,2020,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7150414,MA,Hampden,Palmer,Source1,3,42.17222,-72.33195,2020,17,Thursday,Rain,False,False,False,False,False,False,False
+A-7150415,MA,Hampden,Palmer,Source1,3,42.17222,-72.33195,2020,17,Thursday,Rain,False,False,False,False,False,False,False
+A-7150424,MA,Hampden,Palmer,Source1,3,42.17222,-72.33195,2020,17,Thursday,Rain,False,False,False,False,False,False,False
+A-7152312,MA,Hampden,Chicopee,Source1,3,42.18527,-72.60675,2020,9,Friday,Rain,False,False,False,False,False,False,False
+A-7152331,MA,Hampden,Chicopee,Source1,3,42.18501,-72.60656999999998,2020,10,Friday,Rain,False,False,False,False,False,False,False
+A-7170642,MA,Hampden,Springfield,Source1,3,42.10504,-72.59951,2020,6,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7171724,MA,Hampden,Springfield,Source1,3,42.07875,-72.57956999999998,2020,9,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7171725,MA,Hampden,Springfield,Source1,3,42.07875,-72.57956999999998,2020,9,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7238694,MA,Hampden,West Springfield,Source1,3,42.14544,-72.6412,2020,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7305478,MA,Hampden,Blandford,Source1,3,42.17231,-72.90460999999998,2019,14,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7305481,MA,Hampden,Blandford,Source1,3,42.17231,-72.90460999999998,2019,15,Monday,Rain,False,False,False,False,False,False,False
+A-7354810,MA,Hampden,Westfield,Source1,3,42.13903,-72.69413,2019,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-7408176,MA,Hampden,Holyoke,Source1,4,42.202848,-72.63886600000002,2019,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7408177,MA,Hampden,Holyoke,Source1,4,42.17432,-72.64183,2019,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7408178,MA,Hampden,Holyoke,Source1,4,42.200931,-72.63980600000002,2019,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7408179,MA,Hampden,Holyoke,Source1,4,42.201309,-72.63835999999998,2019,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7409491,MA,Hampden,Brimfield,Source1,3,42.17684600000001,-72.25023,2019,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-7409494,MA,Hampden,Palmer,Source1,4,42.1707,-72.26337099999998,2019,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-7409495,MA,Hampden,Palmer,Source1,3,42.168513,-72.26771,2019,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-7423812,MA,Hampden,Springfield,Source1,3,42.127681,-72.60839,2019,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7424414,MA,Hampden,Springfield,Source1,4,42.12202,-72.60880999999998,2019,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7424422,MA,Hampden,Springfield,Source1,4,42.10966,-72.59829,2019,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-7424423,MA,Hampden,Springfield,Source1,4,42.11131,-72.59549,2019,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-7424425,MA,Hampden,Springfield,Source1,4,42.11354,-72.59226,2019,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-7426966,MA,Hampden,Springfield,Source1,3,42.080603,-72.57915899999998,2019,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7457946,MA,Hampden,Blandford,Source1,3,42.19783,-72.936396,2019,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7457947,MA,Hampden,Blandford,Source1,3,42.200861,-72.941241,2019,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7458448,MA,Hampden,Chicopee,Source1,3,42.158855,-72.609167,2019,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-7503093,MA,Hampden,Westfield,Source1,3,42.14537,-72.73782,2018,4,Friday,Snow / Ice,False,False,True,False,False,False,False
+A-7518990,MA,Hampden,Ludlow,Source1,3,42.162959,-72.42623,2018,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7522731,MA,Hampden,Springfield,Source1,4,42.126331,-72.567,2018,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7570266,MA,Hampden,Palmer,Source1,3,42.15494,-72.3735,2018,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7582710,MA,Hampden,Monson,Source1,4,42.03217,-72.32131,2018,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7616170,MA,Hampden,Russell,Source1,3,42.158433,-72.82221700000002,2018,16,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7620068,MA,Hampden,Palmer,Source1,3,42.167411,-72.353424,2018,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7734956,MA,Hampden,Ludlow,Source1,3,42.16854,-72.46961999999998,2019,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-7766443,MA,Hampden,West Springfield,Source1,4,42.15393,-72.63551,2019,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7766446,MA,Hampden,West Springfield,Source1,3,42.15393,-72.63551,2019,16,Wednesday,Cloudy,False,False,False,False,False,False,False

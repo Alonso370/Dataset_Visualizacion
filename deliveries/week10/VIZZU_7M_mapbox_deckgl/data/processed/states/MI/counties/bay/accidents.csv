@@ -1,0 +1,285 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-188088,MI,Bay,Linwood,Source2,3,43.739052,-84.01718100000002,2016,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-188793,MI,Bay,Linwood,Source2,3,43.739052,-84.01718100000002,2016,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-189294,MI,Bay,Kawkawlin,Source2,3,43.719727,-84.01245899999998,2016,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-189303,MI,Bay,Bay City,Source2,3,43.57960900000001,-83.895653,2016,0,Monday,Cloudy,False,False,False,False,False,False,False
+A-189905,MI,Bay,Pinconning,Source2,3,43.852753,-84.020332,2016,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-190014,MI,Bay,Bay City,Source2,3,43.580242,-83.910362,2016,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-190452,MI,Bay,Pinconning,Source2,3,43.817753,-84.020706,2016,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-190884,MI,Bay,Bay City,Source2,3,43.540634,-83.94516,2016,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-193035,MI,Bay,Bay City,Source3,3,43.598091,-83.91532099999998,2016,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-193222,MI,Bay,Bay City,Source2,3,43.55931500000001,-83.948425,2016,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-193742,MI,Bay,Pinconning,Source2,3,43.874866,-84.022087,2016,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-324844,MI,Bay,Bay City,Source2,3,43.55931500000001,-83.948425,2017,3,Saturday,Cloudy,False,False,False,False,False,False,False
+A-324845,MI,Bay,Bay City,Source2,3,43.55931500000001,-83.948425,2017,3,Saturday,Cloudy,False,False,False,False,False,False,False
+A-418911,MI,Bay,Bay City,Source2,3,43.641518,-83.93094599999998,2017,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-419284,MI,Bay,Pinconning,Source2,3,43.853992,-84.020767,2017,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-473763,MI,Bay,Bay City,Source2,3,43.579586,-83.893539,2017,13,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-473856,MI,Bay,Linwood,Source2,3,43.739052,-84.01718100000002,2017,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-474351,MI,Bay,Bay City,Source2,3,43.55905900000001,-83.94828000000003,2017,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-474555,MI,Bay,Bay City,Source2,3,43.618938,-83.948601,2017,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-502778,MI,Bay,Bay City,Source2,3,43.55931500000001,-83.948425,2017,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-539729,MI,Bay,Kawkawlin,Source2,3,43.688801,-83.963966,2022,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-745111,MI,Bay,Bay City,Source2,3,43.595989,-83.992302,2022,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-761505,MI,Bay,Bay City,Source2,3,43.615829,-83.947678,2021,7,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-762263,MI,Bay,Bay City,Source2,3,43.59365800000001,-83.948151,2021,16,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-848764,MI,Bay,Kawkawlin,Source2,3,43.667858,-84.010773,2021,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-903813,MI,Bay,Linwood,Source2,3,43.738716,-84.016396,2021,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-916504,MI,Bay,Kawkawlin,Source2,3,43.669052,-84.01254300000002,2021,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-933750,MI,Bay,Bay City,Source2,3,43.59473,-83.948471,2021,17,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-951805,MI,Bay,Pinconning,Source2,3,43.85313,-84.020317,2021,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-988838,MI,Bay,Kawkawlin,Source2,3,43.667858,-84.010773,2021,11,Saturday,Rain,False,False,False,False,False,False,False
+A-1052564,MI,Bay,Kawkawlin,Source2,3,43.667858,-84.010773,2021,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1076877,MI,Bay,Bay City,Source3,3,43.627048,-83.95854200000002,2021,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-1193418,MI,Bay,Bay City,Source2,3,43.596069,-83.992302,2021,13,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1224236,MI,Bay,Bay City,Source2,4,43.618309,-83.947632,2020,17,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1224238,MI,Bay,Bay City,Source2,4,43.559486,-83.947334,2020,19,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1492170,MI,Bay,Linwood,Source2,3,43.738716,-84.016396,2020,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1504669,MI,Bay,Kawkawlin,Source2,3,43.667858,-84.010773,2020,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1631764,MI,Bay,Linwood,Source2,3,43.73875,-83.976288,2020,6,Thursday,Snow / Ice,True,False,False,False,False,False,False
+A-1631772,MI,Bay,Linwood,Source2,3,43.724319,-83.972923,2020,6,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1643304,MI,Bay,Pinconning,Source2,3,43.817799,-83.96672099999998,2020,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1764529,MI,Bay,Linwood,Source2,3,43.738716,-84.016396,2019,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1798006,MI,Bay,Bay City,Source2,3,43.617489,-83.914497,2019,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1941856,MI,Bay,Bay City,Source2,3,43.59576,-83.94899000000002,2019,12,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1959187,MI,Bay,Bay City,Source2,3,43.618309,-83.94743299999998,2019,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2002765,MI,Bay,Kawkawlin,Source2,3,43.665653000000006,-84.011276,2019,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2016165,MI,Bay,Bay City,Source2,3,43.59576,-83.94899000000002,2019,11,Sunday,Cloudy,False,False,True,False,False,False,False
+A-2107243,MI,Bay,Bay City,Source2,3,43.59576,-83.94899000000002,2019,15,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-2139827,MI,Bay,Bay City,Source2,3,43.618309,-83.94743299999998,2019,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-2227853,MI,Bay,Bay City,Source2,3,43.525639,-83.973137,2019,14,Wednesday,Rain,False,False,False,False,False,False,False
+A-2269339,MI,Bay,Bay City,Source2,3,43.55991,-83.947937,2019,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2291099,MI,Bay,Bay City,Source2,3,43.595791,-83.948601,2019,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2303100,MI,Bay,Bay City,Source2,3,43.559818,-83.94754,2019,12,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2452045,MI,Bay,Bay City,Source3,3,43.59722100000001,-83.898048,2018,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2452048,MI,Bay,Bay City,Source2,3,43.55931500000001,-83.948425,2018,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2452078,MI,Bay,Bay City,Source2,3,43.55931500000001,-83.948425,2018,9,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2477666,MI,Bay,Pinconning,Source2,3,43.854347,-84.02076,2018,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2515872,MI,Bay,Kawkawlin,Source2,3,43.667503,-84.011955,2018,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2532057,MI,Bay,Bay City,Source2,3,43.559711,-83.945801,2018,12,Saturday,Rain,False,False,False,False,False,False,False
+A-2532060,MI,Bay,Bay City,Source2,3,43.559574,-83.945763,2018,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2578511,MI,Bay,Bay City,Source3,3,43.613274,-83.94747199999998,2018,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2641803,MI,Bay,Bay City,Source2,3,43.595905,-83.948387,2018,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-2658340,MI,Bay,Bay City,Source2,3,43.596107,-83.889229,2018,9,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-2665642,MI,Bay,Bay City,Source2,3,43.584419,-83.94880699999999,2018,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-2826521,MI,Bay,Bay City,Source2,3,43.597012,-83.950333,2018,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2849085,MI,Bay,Linwood,Source2,3,43.739052,-84.01718100000002,2018,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2967036,MI,Bay,Bay City,Source2,3,43.595905,-83.948387,2018,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3021332,MI,Bay,Bay City,Source2,3,43.57960900000001,-83.895653,2018,8,Tuesday,Rain,False,False,False,False,False,False,False
+A-3215399,MI,Bay,Bay City,Source2,3,43.594051,-83.888405,2017,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3215405,MI,Bay,Pinconning,Source2,3,43.849731,-83.966064,2017,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3356115,MI,Bay,Bay City,Source2,3,43.571213,-83.948982,2017,17,Friday,Rain,False,False,False,False,False,False,False
+A-3356117,MI,Bay,Bay City,Source2,3,43.595905,-83.948387,2017,17,Friday,Rain,False,False,False,False,False,False,False
+A-3373492,MI,Bay,Pinconning,Source2,3,43.832157,-84.020844,2017,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3447748,MI,Bay,Bay City,Source1,3,43.59595,-83.99533000000002,2016,17,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-3450036,MI,Bay,Bay City,Source1,3,43.580038,-83.85691800000002,2016,10,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3457966,MI,Bay,Essexville,Source1,4,43.58888,-83.73957,2017,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3461082,MI,Bay,Linwood,Source1,4,43.730783,-83.974437,2017,12,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3461083,MI,Bay,Linwood,Source1,4,43.73875,-83.97629,2017,12,Friday,Fog / Low visibility,True,False,False,False,False,False,False
+A-3469624,MI,Bay,Linwood,Source1,4,43.730783,-83.974437,2016,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3483385,MI,Bay,Bay City,Source1,4,43.598731,-83.914201,2016,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3487498,MI,Bay,Bay City,Source1,4,43.59876,-83.91528000000002,2016,9,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-3493043,MI,Bay,Bay City,Source1,4,43.65186,-83.94318,2016,8,Thursday,Cloudy,True,False,False,False,False,False,False
+A-3496304,MI,Bay,Essexville,Source1,4,43.59413,-83.80941999999997,2016,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3496306,MI,Bay,Essexville,Source1,4,43.59421,-83.79991,2016,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3505746,MI,Bay,Bay City,Source1,3,43.59739,-83.90428,2016,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3507724,MI,Bay,Kawkawlin,Source1,4,43.66756,-83.95159,2016,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3507725,MI,Bay,Kawkawlin,Source1,4,43.65267,-83.94376,2016,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3572783,MI,Bay,Bay City,Source1,4,43.596054,-83.94753399999998,2017,20,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-3573072,MI,Bay,Auburn,Source1,4,43.59671,-84.06572,2017,16,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-3574137,MI,Bay,Bay City,Source1,4,43.595042,-83.888266,2017,12,Friday,Cloudy,True,False,False,False,False,False,False
+A-3602638,MI,Bay,Kawkawlin,Source1,4,43.702829,-83.96857,2017,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3602642,MI,Bay,Linwood,Source1,4,43.710435,-83.968556,2017,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3602809,MI,Bay,Bay City,Source1,4,43.598759,-83.91525899999998,2017,7,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-3614938,MI,Bay,Kawkawlin,Source1,4,43.695766,-83.967471,2017,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3616369,MI,Bay,Bay City,Source1,4,43.641532,-83.930994,2017,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3616370,MI,Bay,Bay City,Source1,4,43.637943,-83.925414,2017,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3619377,MI,Bay,Bay City,Source1,4,43.595639,-83.951089,2017,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3619379,MI,Bay,Bay City,Source1,4,43.59586,-83.98905,2017,8,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-3626135,MI,Bay,Auburn,Source1,3,43.59653,-84.06572,2017,11,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-3631685,MI,Bay,Bay City,Source1,4,43.597344,-83.899682,2017,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3646671,MI,Bay,Bay City,Source1,4,43.62152,-83.91431999999998,2017,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3660643,MI,Bay,Bay City,Source1,4,43.579641,-83.898415,2023,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-3968177,MI,Bay,Bay City,Source1,4,43.595028000000006,-83.88826,2022,20,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-3992734,MI,Bay,Bay City,Source1,4,43.594819,-83.915424,2022,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4016091,MI,Bay,Bay City,Source1,4,43.597338,-83.900257,2022,14,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-4016092,MI,Bay,Bay City,Source1,4,43.597338,-83.900257,2022,14,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-4042098,MI,Bay,Bay City,Source1,4,43.595606088430415,-83.95272374113105,2022,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4480779,MI,Bay,Pinconning,Source1,4,43.803436,-83.967169,2022,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4622078,MI,Bay,Bay City,Source1,4,43.598035,-83.88778,2022,20,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-5132866,MI,Bay,Auburn,Source1,4,43.59699000000001,-84.085716,2022,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-5144778,MI,Bay,Bay City,Source1,4,43.597784,-83.884529,2022,20,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-5159650,MI,Bay,Bay City,Source1,4,43.595969,-83.995915,2022,7,Thursday,Fog / Low visibility,False,False,True,False,False,False,False
+A-5201637,MI,Bay,Bay City,Source1,4,43.557023,-83.947084,2022,12,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-5254951,MI,Bay,Bay City,Source1,4,43.596175,-83.915382,2022,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5344532,MI,Bay,Kawkawlin,Source1,4,43.703001,-83.968538,2022,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5443996,MI,Bay,Kawkawlin,Source1,4,43.688776,-83.963923,2022,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5674218,MI,Bay,Bay City,Source1,4,43.595606088430415,-83.95272374113105,2021,16,Thursday,Rain,False,False,False,False,False,False,False
+A-5862489,MI,Bay,Auburn,Source1,4,43.59773039797021,-84.13936257322244,2021,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6692105,MI,Bay,Bay City,Source1,4,43.600412,-83.94796,2020,1,Friday,Cloudy,False,False,False,False,False,False,False
+A-7033801,MI,Bay,Kawkawlin,Source1,3,43.66229000000001,-84.00709,2020,19,Sunday,Rain,False,False,True,False,False,False,False
+A-7059713,MI,Bay,Midland,Source1,4,43.60914,-84.16396999999998,2020,0,Saturday,Cloudy,False,False,True,False,False,False,False
+A-7062652,MI,Bay,Midland,Source1,4,43.60914,-84.16396999999998,2020,2,Saturday,Cloudy,False,False,True,False,False,False,False
+A-7098815,MI,Bay,Linwood,Source1,3,43.7325,-84.01529000000002,2020,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7098816,MI,Bay,Linwood,Source1,3,43.7325,-84.01529000000002,2020,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7211394,MI,Bay,Bay City,Source1,3,43.5415,-83.94515,2020,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7219894,MI,Bay,Kawkawlin,Source1,4,43.69586,-83.9675,2020,14,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7219895,MI,Bay,Kawkawlin,Source1,4,43.6888,-83.96396999999997,2020,14,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7228311,MI,Bay,Bay City,Source1,4,43.59735,-83.90104000000002,2020,13,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-7241966,MI,Bay,Linwood,Source1,4,43.73708,-84.01648,2020,23,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7251267,MI,Bay,Linwood,Source1,3,43.73875,-83.97629,2020,13,Thursday,Snow / Ice,True,False,False,False,False,False,False
+A-7251268,MI,Bay,Linwood,Source1,3,43.7243,-83.97291,2020,13,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-7251321,MI,Bay,Bay City,Source1,4,43.56111,-83.94929,2020,0,Friday,Snow / Ice,False,False,True,False,False,False,False
+A-7258101,MI,Bay,Essexville,Source1,4,43.59482,-83.8472,2020,13,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-7265101,MI,Bay,Pinconning,Source1,3,43.89371,-83.96609000000002,2020,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7265102,MI,Bay,Pinconning,Source1,3,43.89906,-83.96614,2020,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7265105,MI,Bay,Pinconning,Source1,3,43.89906,-83.96614,2020,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7295656,MI,Bay,Kawkawlin,Source1,4,43.70305,-83.96857,2019,11,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-7295659,MI,Bay,Kawkawlin,Source1,4,43.6888,-83.96396999999997,2019,11,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-7300219,MI,Bay,Pinconning,Source1,4,43.8534,-83.96587,2019,17,Thursday,Cloudy,True,False,False,False,False,False,False
+A-7318912,MI,Bay,Bay City,Source1,4,43.59595,-83.99571,2019,2,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-7328987,MI,Bay,Bay City,Source1,3,43.59504,-83.88824,2019,14,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-7354812,MI,Bay,Bay City,Source1,4,43.59603,-83.98904,2019,0,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-7354813,MI,Bay,Bay City,Source1,3,43.59595,-83.99571,2019,22,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7361382,MI,Bay,Essexville,Source1,4,43.59425,-83.83367,2019,13,Wednesday,Rain,False,False,False,False,False,False,False
+A-7361383,MI,Bay,Essexville,Source1,4,43.59429,-83.84031,2019,13,Wednesday,Rain,False,False,False,False,False,False,False
+A-7367085,MI,Bay,Bay City,Source1,4,43.55838,-83.94974,2019,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7367086,MI,Bay,Bay City,Source1,4,43.55745,-83.95061,2019,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7369432,MI,Bay,Bay City,Source1,4,43.61571,-83.91457,2019,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7369433,MI,Bay,Bay City,Source1,4,43.61749,-83.9145,2019,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7369436,MI,Bay,Pinconning,Source1,4,43.89631,-83.96611,2019,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7369437,MI,Bay,Pinconning,Source1,4,43.89625,-83.96611,2019,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7377506,MI,Bay,Bay City,Source1,4,43.52252,-83.88266,2019,15,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-7382923,MI,Bay,Midland,Source1,4,43.60938,-84.16415,2019,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7383216,MI,Bay,Kawkawlin,Source1,4,43.66504000000001,-83.95045,2019,17,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7389718,MI,Bay,Bay City,Source1,4,43.6241,-83.95456,2019,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7389720,MI,Bay,Bay City,Source1,4,43.6241,-83.95456,2019,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7394597,MI,Bay,Bay City,Source1,4,43.596568,-83.894867,2019,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-7406918,MI,Bay,Bay City,Source1,4,43.579599,-83.89455600000002,2019,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7428008,MI,Bay,Bay City,Source1,4,43.57961,-83.89783,2019,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-7429610,MI,Bay,Bay City,Source1,4,43.579854,-83.90090699999998,2019,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7429611,MI,Bay,Bay City,Source1,4,43.57961,-83.89782199999998,2019,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7430166,MI,Bay,Essexville,Source1,4,43.59422,-83.77955,2019,3,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7430167,MI,Bay,Essexville,Source1,4,43.59209,-83.75962,2019,3,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7433401,MI,Bay,Bay City,Source1,4,43.575718,-83.89361,2019,23,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7435634,MI,Bay,Bay City,Source1,3,43.55812,-83.94646999999998,2019,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7447534,MI,Bay,Bay City,Source1,4,43.59601,-83.88811700000002,2019,16,Friday,Snow / Ice,True,False,False,False,False,False,False
+A-7448575,MI,Bay,Bay City,Source1,4,43.59479,-83.88499,2019,16,Sunday,Cloudy,True,False,False,False,False,False,False
+A-7448991,MI,Bay,Bay City,Source1,3,43.59971,-83.94829,2019,16,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7451501,MI,Bay,Bay City,Source1,4,43.597421,-83.879977,2019,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7451502,MI,Bay,Bay City,Source1,4,43.597529,-83.881332,2019,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7455973,MI,Bay,Bay City,Source1,4,43.624516,-83.955651,2019,15,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7459862,MI,Bay,Bay City,Source1,3,43.555023,-83.951481,2019,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7470052,MI,Bay,Pinconning,Source1,4,43.86777,-83.96624,2019,19,Saturday,Cloudy,True,False,False,False,False,False,False
+A-7484855,MI,Bay,Bay City,Source1,4,43.583058,-83.91568000000002,2018,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7485260,MI,Bay,Bay City,Source1,4,43.62754,-83.95944,2018,8,Sunday,Fog / Low visibility,False,False,True,False,False,False,False
+A-7485563,MI,Bay,Bay City,Source1,4,43.562858,-83.89384,2018,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-7485564,MI,Bay,Bay City,Source1,4,43.554718,-83.89403,2018,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-7490926,MI,Bay,Bay City,Source1,4,43.628176,-83.91424599999998,2018,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7490927,MI,Bay,Pinconning,Source1,4,43.856112,-83.96581,2018,18,Thursday,Rain,False,False,False,False,False,False,False
+A-7501095,MI,Bay,Bay City,Source1,4,43.522505,-83.88266,2018,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7501096,MI,Bay,Bay City,Source1,4,43.56484,-83.89381999999998,2018,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7501097,MI,Bay,Bay City,Source1,3,43.549346,-83.94494,2018,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7505405,MI,Bay,Bay City,Source1,4,43.637943,-83.925414,2018,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7505406,MI,Bay,Bay City,Source1,4,43.640396,-83.92918900000002,2018,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7505415,MI,Bay,Bay City,Source1,4,43.637943,-83.925414,2018,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7513911,MI,Bay,Bay City,Source1,4,43.58018,-83.9058,2018,15,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7514703,MI,Bay,Bay City,Source1,4,43.596148,-83.892719,2018,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-7514704,MI,Bay,Bay City,Source1,4,43.59643300000001,-83.894194,2018,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-7515735,MI,Bay,Midland,Source1,4,43.59791,-84.15205,2018,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7515738,MI,Bay,Midland,Source1,4,43.59791,-84.15205,2018,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7519896,MI,Bay,Essexville,Source1,4,43.58888,-83.73957,2018,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7519897,MI,Bay,Essexville,Source1,4,43.59048,-83.74962,2018,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7524232,MI,Bay,Bay City,Source1,4,43.59744,-83.91530999999998,2018,18,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7526295,MI,Bay,Bay City,Source1,3,43.5893,-83.94864,2018,17,Sunday,Rain,False,False,False,False,False,False,False
+A-7532674,MI,Bay,Bay City,Source1,4,43.58031,-83.91573000000002,2018,7,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-7532675,MI,Bay,Bay City,Source1,4,43.577299,-83.923412,2018,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7534446,MI,Bay,Kawkawlin,Source1,4,43.704031,-83.96856,2018,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7534447,MI,Bay,Kawkawlin,Source1,4,43.695766,-83.967471,2018,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7543147,MI,Bay,Bay City,Source1,4,43.592508,-83.867133,2018,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7543148,MI,Bay,Bay City,Source1,4,43.594378000000006,-83.86726,2018,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7543149,MI,Bay,Bay City,Source1,4,43.592537,-83.867134,2018,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7543150,MI,Bay,Bay City,Source1,4,43.595399,-83.86725,2018,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7544061,MI,Bay,Kawkawlin,Source1,4,43.66992800000001,-84.01276999999997,2018,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7547427,MI,Bay,Bay City,Source1,3,43.5918,-83.94823000000002,2018,16,Monday,Cloudy,False,False,True,False,False,False,False
+A-7551701,MI,Bay,Bay City,Source1,4,43.59736,-83.90026,2018,19,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7551702,MI,Bay,Bay City,Source1,4,43.596042,-83.891355,2018,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7551703,MI,Bay,Bay City,Source1,4,43.59736,-83.90026,2018,20,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7552271,MI,Bay,Bay City,Source1,4,43.5968,-83.94804,2018,11,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7555896,MI,Bay,Pinconning,Source1,3,43.85939000000001,-84.02074,2018,19,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7558861,MI,Bay,Bay City,Source1,4,43.595118,-83.85106,2018,12,Wednesday,Clear / Fair,False,True,False,False,False,False,True
+A-7563130,MI,Bay,Bay City,Source1,4,43.596552,-83.89478299999998,2018,14,Saturday,Rain,False,False,False,False,False,False,False
+A-7568294,MI,Bay,Bay City,Source1,4,43.616555,-83.91454,2018,15,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7568295,MI,Bay,Bay City,Source1,4,43.612339,-83.914716,2018,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7571598,MI,Bay,Pinconning,Source1,4,43.85939000000001,-84.02074,2018,13,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7573807,MI,Bay,Bay City,Source1,4,43.59292,-83.91547,2018,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7576292,MI,Bay,Bay City,Source1,4,43.587746,-83.890406,2018,22,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7577184,MI,Bay,Bay City,Source1,4,43.613091,-83.91469000000002,2018,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7580619,MI,Bay,Bay City,Source1,4,43.596217,-83.893038,2018,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7580620,MI,Bay,Bay City,Source1,4,43.59711,-83.897667,2018,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7582142,MI,Bay,Kawkawlin,Source1,4,43.688722,-83.963921,2018,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7583194,MI,Bay,Bay City,Source1,4,43.59971,-83.94829,2018,14,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7586105,MI,Bay,Auburn,Source1,4,43.59681,-84.08624,2018,11,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7587007,MI,Bay,Kawkawlin,Source1,4,43.70995900000001,-83.96840999999998,2018,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7587917,MI,Bay,Bay City,Source1,4,43.58149,-83.91571,2018,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7587918,MI,Bay,Bay City,Source1,4,43.592906,-83.91547,2018,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7587923,MI,Bay,Bay City,Source1,4,43.58149,-83.91571,2018,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7588646,MI,Bay,Pinconning,Source1,4,43.782919,-83.972811,2018,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7608112,MI,Bay,Bay City,Source1,4,43.590793,-83.9486,2018,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7608113,MI,Bay,Bay City,Source1,4,43.565018,-83.949124,2018,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7608114,MI,Bay,Bay City,Source1,4,43.590793,-83.9486,2018,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7610990,MI,Bay,Auburn,Source1,4,43.59671,-84.06572,2018,16,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7617414,MI,Bay,Bay City,Source1,4,43.61251,-83.94744,2018,11,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-7628833,MI,Bay,Linwood,Source1,4,43.76651,-83.976485,2018,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7628834,MI,Bay,Pinconning,Source1,4,43.782919,-83.972811,2018,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7632763,MI,Bay,Bay City,Source1,4,43.62754,-83.95944,2018,22,Monday,Cloudy,False,False,True,False,False,False,False
+A-7641873,MI,Bay,Pinconning,Source1,4,43.854469,-83.965861,2017,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7648270,MI,Bay,Linwood,Source1,4,43.730783,-83.974437,2017,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-7648271,MI,Bay,Linwood,Source1,4,43.756717,-83.977406,2017,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-7655761,MI,Bay,Linwood,Source1,4,43.730744,-83.974429,2017,14,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7655762,MI,Bay,Linwood,Source1,4,43.717139,-83.970964,2017,14,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7655764,MI,Bay,Linwood,Source1,4,43.730744,-83.974429,2017,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7655765,MI,Bay,Linwood,Source1,4,43.730744,-83.974429,2017,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7655766,MI,Bay,Bay City,Source1,4,43.5974,-83.905389,2017,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7656339,MI,Bay,Bay City,Source1,4,43.601302,-83.91519100000002,2017,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7658919,MI,Bay,Bay City,Source1,4,43.56557,-83.84434,2017,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-7672208,MI,Bay,Bay City,Source1,4,43.594049,-83.8884,2017,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7672209,MI,Bay,Bay City,Source1,4,43.590787,-83.888879,2017,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7674426,MI,Bay,Bay City,Source1,4,43.564835,-83.940653,2017,17,Monday,Rain,False,False,False,False,False,False,False
+A-7676160,MI,Bay,Bay City,Source1,4,43.59589,-83.990931,2017,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-7676877,MI,Bay,Bay City,Source1,3,43.5918,-83.94823000000002,2017,16,Monday,Cloudy,False,False,True,False,False,False,False
+A-7677757,MI,Bay,Bay City,Source1,3,43.61251,-83.94744,2017,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7681998,MI,Bay,Midland,Source1,4,43.60949,-84.16438000000002,2017,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7691334,MI,Bay,Bay City,Source1,3,43.5918,-83.94823000000002,2017,18,Friday,Cloudy,False,False,True,False,False,False,False
+A-7693236,MI,Bay,Bay City,Source1,4,43.615733,-83.91457,2017,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7694962,MI,Bay,Kawkawlin,Source1,4,43.673857,-83.955149,2017,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7696761,MI,Bay,Midland,Source1,4,43.598054,-84.153248,2017,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7696765,MI,Bay,Auburn,Source1,4,43.597041,-84.088763,2017,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7711439,MI,Bay,Bay City,Source1,4,43.596661,-83.895317,2019,0,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7712598,MI,Bay,Bay City,Source1,3,43.534744,-83.968417,2019,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7717225,MI,Bay,Bay City,Source1,3,43.60055,-83.94793,2019,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-7724185,MI,Bay,Bay City,Source1,3,43.619677,-83.914399,2019,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7724186,MI,Bay,Bay City,Source1,3,43.62073,-83.91436,2019,13,Friday,Clear / Fair,False,False,False,True,False,False,False
+A-7725544,MI,Bay,Pinconning,Source1,4,43.807158,-83.967058,2019,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7727249,MI,Bay,Linwood,Source1,4,43.709824,-83.968374,2019,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-7727252,MI,Bay,Linwood,Source1,4,43.71939,-83.971498,2019,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-7727253,MI,Bay,Linwood,Source1,4,43.709824,-83.968374,2019,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-7733183,MI,Bay,Bay City,Source1,4,43.613091,-83.91469000000002,2019,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7733783,MI,Bay,Bay City,Source1,4,43.55269000000001,-83.893606,2019,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7733784,MI,Bay,Bay City,Source1,4,43.545714,-83.889678,2019,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7742105,MI,Bay,Bay City,Source1,3,43.61251,-83.94744,2019,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-7744175,MI,Bay,Linwood,Source1,3,43.74441,-84.0173,2019,13,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7746118,MI,Bay,Linwood,Source1,4,43.76540900000001,-83.976713,2019,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7746119,MI,Bay,Pinconning,Source1,4,43.781971,-83.97300899999998,2019,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7746121,MI,Bay,Linwood,Source1,4,43.73875,-83.97629,2019,17,Sunday,Cloudy,True,False,False,False,False,False,False
+A-7752825,MI,Bay,Bay City,Source1,3,43.547674,-83.957849,2019,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7758209,MI,Bay,Pinconning,Source1,4,43.84918,-84.02081,2019,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7760823,MI,Bay,Essexville,Source1,4,43.594241,-83.838109,2019,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7760824,MI,Bay,Essexville,Source1,4,43.59422,-83.837041,2019,13,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7764242,MI,Bay,Bay City,Source1,3,43.59876,-83.91528000000002,2019,15,Friday,Cloudy,True,False,False,False,False,False,False
+A-7768229,MI,Bay,Kawkawlin,Source1,4,43.669507,-84.01311199999998,2019,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7771728,MI,Bay,Bay City,Source1,3,43.5918,-83.94823000000002,2019,13,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7774237,MI,Bay,Linwood,Source1,4,43.753163,-83.977204,2019,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7774239,MI,Bay,Linwood,Source1,4,43.73875,-83.97629,2019,22,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7776831,MI,Bay,Kawkawlin,Source1,4,43.677252,-83.957373,2019,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7776832,MI,Bay,Kawkawlin,Source1,4,43.674708,-83.955699,2019,17,Thursday,Cloudy,False,False,False,False,False,False,False

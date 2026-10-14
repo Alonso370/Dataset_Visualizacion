@@ -1,0 +1,525 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-757737,NY,Oneida,Verona,Source2,3,43.122143,-75.584129,2022,4,Saturday,Rain,False,False,False,False,False,False,False
+A-762479,NY,Oneida,Verona,Source2,3,43.122143,-75.584129,2021,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-847643,NY,Oneida,Utica,Source2,3,43.111881,-75.204376,2021,8,Friday,Rain,False,False,False,False,False,False,False
+A-968521,NY,Oneida,Westmoreland,Source2,3,43.123272,-75.401398,2021,8,Sunday,Rain,False,False,False,False,False,False,False
+A-968749,NY,Oneida,Utica,Source2,3,43.112701,-75.21057900000002,2021,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-986904,NY,Oneida,Utica,Source2,3,43.112701,-75.21057900000002,2021,17,Monday,Storm,False,False,False,False,False,False,False
+A-1023533,NY,Oneida,Utica,Source2,3,43.11488,-75.210022,2021,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-1023536,NY,Oneida,Utica,Source2,3,43.111,-75.206001,2021,23,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1064979,NY,Oneida,Verona,Source2,3,43.122143,-75.584129,2021,16,Wednesday,Rain,False,False,False,False,False,False,False
+A-1089548,NY,Oneida,Waterville,Source2,3,42.945728,-75.36643199999997,2021,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1125585,NY,Oneida,Utica,Source2,3,43.112701,-75.21057900000002,2021,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1142990,NY,Oneida,Utica,Source2,3,43.112701,-75.21057900000002,2021,14,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1150249,NY,Oneida,Westmoreland,Source2,3,43.123272,-75.401398,2021,5,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1153943,NY,Oneida,Westmoreland,Source2,3,43.123272,-75.401398,2021,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1173431,NY,Oneida,Utica,Source2,3,43.112701,-75.21057900000002,2021,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1183654,NY,Oneida,Utica,Source2,3,43.112701,-75.21057900000002,2021,23,Friday,Cloudy,False,False,False,False,False,False,False
+A-1204020,NY,Oneida,Utica,Source2,3,43.112701,-75.21057900000002,2021,15,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1207272,NY,Oneida,Utica,Source2,3,43.112701,-75.21057900000002,2021,2,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1207688,NY,Oneida,Verona,Source2,3,43.122143,-75.584129,2021,21,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1276604,NY,Oneida,Utica,Source2,3,43.112701,-75.21057900000002,2020,4,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1321235,NY,Oneida,Verona,Source2,3,43.122143,-75.584129,2020,22,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1324664,NY,Oneida,Utica,Source2,3,43.112701,-75.21057900000002,2020,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1360757,NY,Oneida,Utica,Source2,3,43.112701,-75.21057900000002,2020,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1370191,NY,Oneida,Verona,Source2,3,43.122204,-75.583748,2020,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1375750,NY,Oneida,Verona,Source2,3,43.122204,-75.583748,2020,13,Friday,Storm,False,False,False,False,False,False,False
+A-1408502,NY,Oneida,Utica,Source2,3,43.112675,-75.210442,2020,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1419955,NY,Oneida,Westmoreland,Source2,3,43.123272,-75.401398,2020,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1427621,NY,Oneida,Utica,Source2,3,43.112675,-75.210442,2020,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1433724,NY,Oneida,Westmoreland,Source2,3,43.122719,-75.389206,2020,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1466561,NY,Oneida,Verona,Source2,3,43.123596,-75.58332800000002,2020,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1470214,NY,Oneida,Verona,Source2,3,43.122204,-75.583748,2020,17,Friday,Rain,False,False,False,False,False,False,False
+A-1476668,NY,Oneida,Westmoreland,Source2,3,43.123272,-75.401398,2020,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1482882,NY,Oneida,Westmoreland,Source2,3,43.123272,-75.401398,2020,4,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1497255,NY,Oneida,Verona,Source2,3,43.122204,-75.583748,2020,8,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1506970,NY,Oneida,Westmoreland,Source2,3,43.123272,-75.401398,2020,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1509865,NY,Oneida,Utica,Source2,3,43.112675,-75.210442,2020,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1518928,NY,Oneida,Utica,Source2,3,43.10796,-75.23706800000002,2020,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1522942,NY,Oneida,Waterville,Source2,3,42.919285,-75.410896,2020,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1522943,NY,Oneida,Utica,Source2,3,43.081749,-75.228821,2020,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1537900,NY,Oneida,Verona,Source2,3,43.122204,-75.583748,2020,15,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1539385,NY,Oneida,Westmoreland,Source2,3,43.123272,-75.401398,2020,11,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1582501,NY,Oneida,Sylvan Beach,Source2,3,43.19809,-75.728889,2020,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1599789,NY,Oneida,Verona,Source2,3,43.122204,-75.583748,2020,13,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-1600577,NY,Oneida,Verona,Source2,3,43.122204,-75.583748,2020,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1602661,NY,Oneida,Verona,Source2,3,43.122204,-75.583748,2020,22,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1674134,NY,Oneida,Westmoreland,Source2,3,43.123272,-75.401398,2020,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1681616,NY,Oneida,Verona,Source2,3,43.122204,-75.583748,2019,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1683165,NY,Oneida,Verona,Source2,3,43.123806,-75.58078,2019,12,Monday,Rain,False,False,False,False,False,False,False
+A-1686550,NY,Oneida,Utica,Source2,3,43.112675,-75.210442,2019,12,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1731521,NY,Oneida,Verona,Source2,3,43.122204,-75.583748,2019,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1736208,NY,Oneida,Utica,Source2,3,43.112675,-75.210442,2019,21,Sunday,Rain,False,False,False,False,False,False,False
+A-1780344,NY,Oneida,Utica,Source2,3,43.112675,-75.210442,2019,9,Sunday,Rain,False,False,False,False,False,False,False
+A-1794853,NY,Oneida,Utica,Source2,3,43.112675,-75.210442,2019,3,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1800661,NY,Oneida,Utica,Source2,3,43.112675,-75.210442,2019,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1813230,NY,Oneida,Westmoreland,Source2,3,43.123272,-75.401398,2019,5,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1819239,NY,Oneida,Utica,Source2,3,43.112675,-75.210442,2019,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1831771,NY,Oneida,Utica,Source2,3,43.091694,-75.26679200000002,2019,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1852477,NY,Oneida,Utica,Source2,3,43.112675,-75.210442,2019,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1878170,NY,Oneida,Utica,Source2,3,43.091309,-75.26775400000002,2019,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1891502,NY,Oneida,Verona,Source2,3,43.122204,-75.58371,2019,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1904868,NY,Oneida,Verona,Source2,3,43.122204,-75.58371,2019,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1919935,NY,Oneida,Verona,Source2,3,43.122204,-75.58371,2019,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-1919936,NY,Oneida,Verona,Source2,3,43.122204,-75.58371,2019,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-1934546,NY,Oneida,Westmoreland,Source2,3,43.124023,-75.40126,2019,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1961341,NY,Oneida,Utica,Source2,3,43.112675,-75.210442,2019,0,Friday,Rain,False,False,False,False,False,False,False
+A-1965597,NY,Oneida,Westmoreland,Source2,3,43.123272,-75.401398,2019,20,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1991490,NY,Oneida,Verona,Source2,3,43.122204,-75.58371,2019,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2004299,NY,Oneida,Utica,Source2,3,43.112675,-75.210442,2019,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2015467,NY,Oneida,Utica,Source2,3,43.113605,-75.209587,2019,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2019171,NY,Oneida,Verona,Source2,3,43.122204,-75.58371,2019,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2021640,NY,Oneida,Westmoreland,Source2,3,43.123272,-75.401398,2019,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2026430,NY,Oneida,Westmoreland,Source2,3,43.123272,-75.401398,2019,22,Friday,Storm,False,False,False,False,False,False,False
+A-2028764,NY,Oneida,Marcy,Source2,3,43.125069,-75.242073,2019,14,Sunday,Rain,False,False,False,False,False,False,False
+A-2031744,NY,Oneida,Westmoreland,Source2,3,43.123272,-75.401398,2019,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2031752,NY,Oneida,Westmoreland,Source2,3,43.123947,-75.402283,2019,21,Tuesday,Rain,False,False,False,False,False,False,False
+A-2034041,NY,Oneida,Utica,Source2,3,43.111969,-75.205383,2019,21,Wednesday,Rain,False,False,False,False,False,False,False
+A-2035700,NY,Oneida,Utica,Source3,3,43.101898,-75.240997,2019,15,Thursday,Cloudy,True,False,False,False,False,False,False
+A-2044142,NY,Oneida,Utica,Source2,3,43.112675,-75.210442,2019,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2051043,NY,Oneida,Utica,Source2,3,43.112129,-75.205299,2019,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2053256,NY,Oneida,Westmoreland,Source2,3,43.12380200000001,-75.401237,2019,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2053980,NY,Oneida,Westmoreland,Source2,3,43.123272,-75.401398,2019,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2061815,NY,Oneida,Verona,Source2,3,43.122204,-75.58371,2019,10,Thursday,Rain,False,False,False,False,False,False,False
+A-2064213,NY,Oneida,Utica,Source2,3,43.112675,-75.210442,2019,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2079556,NY,Oneida,Verona,Source2,3,43.124191,-75.579697,2019,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2079560,NY,Oneida,Marcy,Source2,3,43.125122,-75.242439,2019,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2094137,NY,Oneida,Verona,Source2,3,43.122204,-75.58371,2019,10,Friday,Rain,False,False,False,False,False,False,False
+A-2094138,NY,Oneida,Utica,Source2,3,43.112675,-75.210442,2019,10,Friday,Rain,False,False,False,False,False,False,False
+A-2109559,NY,Oneida,Utica,Source2,3,43.112675,-75.210442,2019,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2111596,NY,Oneida,Westmoreland,Source2,3,43.123276,-75.39546999999997,2019,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-2118826,NY,Oneida,Utica,Source2,3,43.112675,-75.210442,2019,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2139874,NY,Oneida,Verona,Source2,3,43.122204,-75.58371,2019,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-2149445,NY,Oneida,Verona,Source2,3,43.122551,-75.58354200000002,2019,15,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2151952,NY,Oneida,Verona,Source2,3,43.122551,-75.58354200000002,2019,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2152722,NY,Oneida,Utica,Source2,3,43.111969,-75.205383,2019,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2153448,NY,Oneida,Utica,Source2,3,43.11362800000001,-75.210678,2019,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-2160960,NY,Oneida,Utica,Source2,3,43.11362800000001,-75.210678,2019,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2165814,NY,Oneida,Verona,Source2,4,43.124126,-75.580185,2019,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2191799,NY,Oneida,Verona,Source2,3,43.122204,-75.58371,2019,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2191800,NY,Oneida,Verona,Source2,3,43.122204,-75.58371,2019,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2213821,NY,Oneida,Verona,Source2,3,43.124001,-75.58828000000003,2019,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2222360,NY,Oneida,Westmoreland,Source2,3,43.124004,-75.401108,2019,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2223637,NY,Oneida,Verona,Source2,3,43.123573,-75.585136,2019,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-2225650,NY,Oneida,Westmoreland,Source2,3,43.12347000000001,-75.401237,2019,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2232835,NY,Oneida,Utica,Source2,3,43.11362800000001,-75.210678,2019,7,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2232838,NY,Oneida,Utica,Source2,3,43.11362800000001,-75.210678,2019,9,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2260023,NY,Oneida,Verona,Source2,3,43.122551,-75.58354200000002,2019,5,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2269394,NY,Oneida,Verona,Source2,3,43.122551,-75.58354200000002,2019,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2284326,NY,Oneida,Utica,Source2,3,43.11362800000001,-75.210678,2019,4,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2295607,NY,Oneida,Westmoreland,Source2,3,43.122818,-75.392471,2019,23,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2304325,NY,Oneida,Utica,Source2,3,43.114777,-75.212212,2019,22,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2304326,NY,Oneida,Westmoreland,Source2,3,43.12347000000001,-75.401237,2019,22,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2306457,NY,Oneida,Utica,Source2,3,43.10659,-75.23846400000002,2019,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2332723,NY,Oneida,Westmoreland,Source2,3,43.12347000000001,-75.401237,2019,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2346835,NY,Oneida,Utica,Source2,3,43.11362800000001,-75.210678,2019,16,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-2346842,NY,Oneida,Verona,Source2,3,43.122551,-75.58354200000002,2019,21,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-2348571,NY,Oneida,Verona,Source2,3,43.122551,-75.58354200000002,2019,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-2348579,NY,Oneida,Utica,Source2,3,43.121864,-75.230789,2019,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2350553,NY,Oneida,Verona,Source2,3,43.122551,-75.58354200000002,2019,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2353363,NY,Oneida,Utica,Source2,3,43.11362800000001,-75.210678,2019,16,Wednesday,Rain,False,False,False,False,False,False,False
+A-2356089,NY,Oneida,Utica,Source2,3,43.11362800000001,-75.210678,2019,15,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2359073,NY,Oneida,Westmoreland,Source2,3,43.12347000000001,-75.401237,2019,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-2374331,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2018,21,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2381543,NY,Oneida,Utica,Source2,3,43.113964,-75.210403,2018,6,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2381544,NY,Oneida,Westmoreland,Source2,3,43.123684,-75.400391,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2383800,NY,Oneida,Verona,Source2,3,43.122551,-75.58354200000002,2018,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2386610,NY,Oneida,Westmoreland,Source2,3,43.123665,-75.398674,2018,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2386612,NY,Oneida,Verona,Source2,3,43.122551,-75.58354200000002,2018,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2386613,NY,Oneida,Verona,Source2,3,43.123814,-75.580704,2018,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2387122,NY,Oneida,Utica,Source2,3,43.11362800000001,-75.210678,2018,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-2412628,NY,Oneida,Verona,Source2,3,43.122551,-75.58354200000002,2018,19,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2412629,NY,Oneida,Verona,Source2,3,43.122551,-75.58354200000002,2018,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2413221,NY,Oneida,Utica,Source2,3,43.11362800000001,-75.210678,2018,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-2413223,NY,Oneida,Utica,Source2,3,43.112129,-75.205299,2018,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-2414836,NY,Oneida,Westmoreland,Source2,3,43.12347000000001,-75.401237,2018,0,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2418283,NY,Oneida,Whitesboro,Source2,3,43.130013,-75.300735,2018,5,Friday,Rain,False,False,False,False,False,False,False
+A-2418290,NY,Oneida,Westmoreland,Source2,3,43.12347000000001,-75.401237,2018,11,Friday,Rain,False,False,False,False,False,False,False
+A-2430364,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2018,9,Saturday,Rain,False,False,False,False,False,False,False
+A-2431819,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2018,3,Monday,Cloudy,False,False,False,False,False,False,False
+A-2431827,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2018,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-2444504,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2018,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2447813,NY,Oneida,Verona,Source2,3,43.124081,-75.58013199999998,2018,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2452142,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2018,7,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2452143,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2018,7,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2452160,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2018,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2454996,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2018,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2454999,NY,Oneida,Utica,Source2,3,43.101662,-75.219788,2018,6,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-2457969,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2018,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2461074,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2018,8,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2477002,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2018,0,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2478626,NY,Oneida,Utica,Source2,3,43.112217,-75.206085,2018,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-2481321,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2018,6,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2481325,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2018,8,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2491295,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2018,20,Tuesday,Rain,False,False,False,False,False,False,False
+A-2496975,NY,Oneida,Westmoreland,Source2,3,43.124378,-75.40553299999998,2018,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2499894,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2018,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2517241,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2018,23,Monday,Cloudy,False,False,False,False,False,False,False
+A-2517242,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2018,23,Monday,Cloudy,False,False,False,False,False,False,False
+A-2520117,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2520128,NY,Oneida,Westmoreland,Source2,3,43.123001,-75.394958,2018,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2529042,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2018,0,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2542028,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2548021,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2018,8,Saturday,Rain,False,False,False,False,False,False,False
+A-2549728,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2018,4,Monday,Rain,False,False,False,False,False,False,False
+A-2558099,NY,Oneida,Utica,Source2,3,43.121967,-75.23082,2018,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2563525,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2018,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2566310,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2018,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2572305,NY,Oneida,Verona,Source2,3,43.123856,-75.58225999999998,2018,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2586241,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2018,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2590289,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2018,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2601272,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2018,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2604691,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2018,7,Tuesday,Rain,False,False,False,False,False,False,False
+A-2616290,NY,Oneida,Westmoreland,Source2,3,43.124668,-75.406189,2018,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2623765,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2018,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-2627658,NY,Oneida,Verona,Source2,3,43.124599,-75.588768,2018,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-2627662,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2018,19,Monday,Rain,False,False,False,False,False,False,False
+A-2632673,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2018,16,Wednesday,Rain,False,False,False,False,False,False,False
+A-2632674,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2018,16,Wednesday,Rain,False,False,False,False,False,False,False
+A-2635204,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2018,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2641817,NY,Oneida,Rome,Source2,3,43.268845,-75.466339,2018,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-2646708,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2018,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2649149,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2018,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2651745,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2018,19,Friday,Rain,False,False,False,False,False,False,False
+A-2674594,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2018,21,Wednesday,Rain,False,False,False,False,False,False,False
+A-2674595,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2018,22,Wednesday,Rain,False,False,False,False,False,False,False
+A-2677213,NY,Oneida,Utica,Source2,3,43.112267,-75.20575699999998,2018,3,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2677225,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2018,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2681499,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2018,19,Monday,Rain,False,False,False,False,False,False,False
+A-2683618,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2018,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2692822,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2018,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2701905,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2018,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2717203,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2018,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2735554,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2018,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-2735560,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2018,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-2737964,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2018,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2738847,NY,Oneida,Westmoreland,Source2,3,43.12429,-75.404854,2018,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2744363,NY,Oneida,Utica,Source2,3,43.121662,-75.23062900000002,2018,0,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2752459,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2018,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2753200,NY,Oneida,Westmoreland,Source2,3,43.123737,-75.400673,2018,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2753203,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2018,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2753212,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2018,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2755647,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2018,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2758013,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2018,21,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2766117,NY,Oneida,Utica,Source2,3,43.11116,-75.20053100000001,2018,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2769276,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2771647,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2018,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2776158,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2018,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2779979,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2018,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2782399,NY,Oneida,Verona,Source2,3,43.124565,-75.588806,2018,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2784827,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2018,15,Wednesday,Rain,False,False,False,False,False,False,False
+A-2784834,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2018,20,Wednesday,Rain,False,False,False,False,False,False,False
+A-2784835,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2018,21,Wednesday,Rain,False,False,False,False,False,False,False
+A-2797041,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2018,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2797043,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2018,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2799845,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2018,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2811595,NY,Oneida,Utica,Source2,3,43.112637,-75.207314,2018,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2811604,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2018,23,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2819602,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2018,22,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2834466,NY,Oneida,Verona,Source2,3,43.123901,-75.589058,2018,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2834473,NY,Oneida,Utica,Source2,3,43.121662,-75.23062900000002,2018,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2835253,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2018,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2835254,NY,Oneida,Utica,Source2,3,43.119995,-75.225128,2018,19,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2843850,NY,Oneida,Westmoreland,Source2,3,43.124195,-75.402588,2018,3,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2843856,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2018,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2850502,NY,Oneida,Verona,Source2,3,43.124157,-75.58946999999998,2018,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-2875083,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2894783,NY,Oneida,Poland,Source2,3,43.217773,-75.104347,2018,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2922128,NY,Oneida,Utica,Source2,3,43.121845,-75.230499,2018,9,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2922132,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2018,16,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2922137,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2018,20,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2922139,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2018,21,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2928415,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2018,23,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2934020,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2018,20,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2936602,NY,Oneida,Verona,Source2,3,43.123798,-75.58085600000003,2018,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2940838,NY,Oneida,Westmoreland,Source2,3,43.123943,-75.40080999999998,2018,7,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2940848,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2018,9,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2940858,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2018,22,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2943565,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2018,21,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2961450,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2018,23,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2967044,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2018,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2988876,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2018,17,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-2988882,NY,Oneida,Utica,Source2,3,43.112022,-75.20542900000002,2018,20,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-2989631,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2018,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-2992330,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2018,7,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3010653,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2018,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3021396,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2018,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3029340,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2018,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-3040039,NY,Oneida,Utica,Source2,3,43.112022,-75.20542900000002,2018,3,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3040040,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2018,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3040062,NY,Oneida,Verona,Source2,3,43.12402,-75.589996,2018,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3042365,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2018,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3044722,NY,Oneida,Verona,Source2,3,43.123852,-75.582306,2018,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3044723,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2018,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3047477,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2018,16,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3047478,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2018,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-3050420,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2018,8,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3053982,NY,Oneida,Utica,Source2,3,43.112274,-75.20626800000002,2018,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3053983,NY,Oneida,Westmoreland,Source2,3,43.123825,-75.40136,2018,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3057010,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.400032,2018,21,Wednesday,Rain,False,False,False,False,False,False,False
+A-3071578,NY,Oneida,Verona,Source2,3,43.123894,-75.588974,2018,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3071581,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2018,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3077732,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2018,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-3088028,NY,Oneida,Utica,Source2,3,43.121662,-75.23062900000002,2018,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3103650,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2017,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-3111948,NY,Oneida,Utica,Source2,3,43.11285,-75.207848,2017,18,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3114818,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2017,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-3121831,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2017,7,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3130697,NY,Oneida,Utica,Source2,3,43.115444,-75.218536,2017,4,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3130703,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2017,7,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3133398,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2017,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3134671,NY,Oneida,Utica,Source2,3,43.114502,-75.211624,2017,16,Monday,Rain,False,False,False,False,False,False,False
+A-3140388,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2017,4,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3140389,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2017,5,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3140401,NY,Oneida,Utica,Source2,3,43.11517,-75.212822,2017,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3145943,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2017,11,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3145947,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2017,11,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3149492,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2017,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-3152823,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2017,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3155122,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2017,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3157829,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2017,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3165087,NY,Oneida,Westmoreland,Source2,3,43.123745,-75.400734,2017,3,Friday,Cloudy,False,False,False,False,False,False,False
+A-3168709,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2017,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-3173073,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2017,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3178050,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2017,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-3181251,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2017,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-3183688,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2017,3,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3196935,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2017,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3199838,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2017,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3205650,NY,Oneida,Verona,Source2,3,43.124008,-75.58828000000003,2017,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3206182,NY,Oneida,Utica,Source2,3,43.121861,-75.230537,2017,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3210056,NY,Oneida,Westmoreland,Source2,3,43.12383300000001,-75.401421,2017,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3215425,NY,Oneida,Utica,Source2,3,43.11835900000001,-75.22068,2017,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3216808,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2017,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3227899,NY,Oneida,Utica,Source2,3,43.112404,-75.20665,2017,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3227900,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2017,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3234752,NY,Oneida,Utica,Source2,3,43.121662,-75.23062900000002,2017,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3240507,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2017,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3240516,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2017,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3240521,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2017,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3245760,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2017,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3245761,NY,Oneida,Westmoreland,Source2,3,43.12389,-75.400452,2017,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3246421,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2017,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-3254298,NY,Oneida,Verona,Source2,3,43.123997,-75.589798,2017,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3254301,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2017,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3260235,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2017,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3260848,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2017,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-3263651,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2017,23,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3268633,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2017,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3273504,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2017,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3274035,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2017,18,Sunday,Rain,False,False,False,False,False,False,False
+A-3276900,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2017,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3288260,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2017,8,Wednesday,Rain,False,False,False,False,False,False,False
+A-3288265,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2017,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3291228,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2017,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3297089,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2017,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3306643,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2017,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3313911,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2017,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3316754,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2017,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3335553,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2017,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3356170,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2017,0,Saturday,Rain,False,False,False,False,False,False,False
+A-3358922,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2017,2,Saturday,Rain,False,False,False,False,False,False,False
+A-3358924,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2017,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3367893,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2017,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3370428,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2017,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3376899,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2017,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3385382,NY,Oneida,Verona,Source2,3,43.124218,-75.59013399999998,2017,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-3389314,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2017,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3391984,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2017,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3391985,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2017,18,Tuesday,Rain,False,False,False,False,False,False,False
+A-3391990,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2017,22,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3391991,NY,Oneida,Westmoreland,Source2,3,43.123837,-75.401436,2017,22,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3394885,NY,Oneida,Verona,Source2,3,43.123959,-75.589493,2017,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3404596,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2017,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3407325,NY,Oneida,Utica,Source2,3,43.112152,-75.20536,2017,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3446850,NY,Oneida,Verona,Source1,3,43.146724,-75.562764,2016,21,Monday,Rain,False,False,False,False,False,False,False
+A-3446894,NY,Oneida,Verona,Source1,4,43.16266,-75.55013000000002,2016,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3446896,NY,Oneida,Rome,Source1,4,43.172562,-75.53146600000002,2016,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3446912,NY,Oneida,Verona,Source1,3,43.16266,-75.55013000000002,2016,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3447176,NY,Oneida,Utica,Source1,4,43.072087,-75.284215,2016,13,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-3447178,NY,Oneida,Utica,Source1,4,43.0812,-75.29338,2016,13,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-3447179,NY,Oneida,New Hartford,Source1,4,43.09341,-75.31338000000002,2016,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3447181,NY,Oneida,Utica,Source1,4,43.08099,-75.29329,2016,13,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-3447182,NY,Oneida,Utica,Source1,4,43.08656,-75.28035,2016,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3454626,NY,Oneida,Poland,Source1,4,43.23071,-75.08833,2016,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3454935,NY,Oneida,Clinton,Source1,3,43.079877,-75.392101,2016,13,Thursday,Snow / Ice,True,False,False,False,False,False,False
+A-3458995,NY,Oneida,Utica,Source1,4,43.0887,-75.27544,2017,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3469559,NY,Oneida,Marcy,Source1,4,43.17114,-75.32408000000002,2016,11,Friday,Rain,False,False,False,False,False,False,False
+A-3482595,NY,Oneida,Verona,Source1,4,43.134817,-75.5981,2016,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3482597,NY,Oneida,Durhamville,Source1,4,43.145145,-75.652128,2016,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3486641,NY,Oneida,Rome,Source1,4,43.261029,-75.438845,2016,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3486643,NY,Oneida,Rome,Source1,4,43.24993,-75.44266999999998,2016,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3498039,NY,Oneida,Marcy,Source1,4,43.14155,-75.27483000000002,2016,6,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-3517041,NY,Oneida,Verona,Source1,3,43.12357,-75.58498,2016,9,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-3572937,NY,Oneida,Remsen,Source1,4,43.402802,-75.2171,2017,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3575905,NY,Oneida,Clinton,Source1,4,43.061816,-75.39066,2017,8,Thursday,Snow / Ice,False,False,False,True,False,False,False
+A-3575906,NY,Oneida,Clinton,Source1,4,43.07983,-75.39193,2017,8,Thursday,Snow / Ice,True,False,False,False,False,False,False
+A-3578658,NY,Oneida,Boonville,Source1,4,43.447177,-75.263421,2017,22,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3578659,NY,Oneida,Boonville,Source1,4,43.471399,-75.304045,2017,22,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3579959,NY,Oneida,Utica,Source1,4,43.123594,-75.229229,2017,17,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3579960,NY,Oneida,Utica,Source1,4,43.17547,-75.18111,2017,17,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3601349,NY,Oneida,Utica,Source1,4,43.080514,-75.29261600000002,2017,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3601352,NY,Oneida,New Hartford,Source1,4,43.07733,-75.30629,2017,15,Thursday,Cloudy,True,False,False,False,False,False,False
+A-3601387,NY,Oneida,New Hartford,Source1,4,43.07733,-75.30629,2017,16,Thursday,Cloudy,True,False,False,False,False,False,False
+A-3602480,NY,Oneida,Utica,Source1,4,43.10588,-75.23838,2017,10,Tuesday,Rain,False,False,False,False,False,False,False
+A-3602482,NY,Oneida,Utica,Source1,4,43.10522,-75.23631999999998,2017,10,Tuesday,Rain,False,False,False,False,False,False,False
+A-3602972,NY,Oneida,Utica,Source1,4,43.096625,-75.25293,2017,15,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-3615327,NY,Oneida,Utica,Source1,4,43.107978,-75.246184,2017,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3615328,NY,Oneida,Utica,Source1,4,43.10890300000001,-75.24939300000003,2017,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3615342,NY,Oneida,Utica,Source1,4,43.108588,-75.248273,2017,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3616341,NY,Oneida,Forestport,Source1,4,43.610047,-75.10221,2017,6,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3616342,NY,Oneida,Forestport,Source1,4,43.611105,-75.102285,2017,6,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3629686,NY,Oneida,Rome,Source1,4,43.254114,-75.533665,2017,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3629687,NY,Oneida,Rome,Source1,4,43.24746,-75.52231,2017,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3635092,NY,Oneida,Forestport,Source1,4,43.43927,-75.20361,2017,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3635093,NY,Oneida,Forestport,Source1,4,43.441875,-75.199802,2017,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3643118,NY,Oneida,Boonville,Source1,4,43.520962,-75.32573000000002,2017,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3643119,NY,Oneida,Boonville,Source1,4,43.48466,-75.3312,2017,7,Thursday,Cloudy,False,True,False,False,False,False,True
+A-3754773,NY,Oneida,Utica,Source1,4,43.111202,-75.199831,2022,19,Sunday,Cloudy,False,False,True,False,False,False,False
+A-3772246,NY,Oneida,Utica,Source1,4,43.092014,-75.26397800000002,2022,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3859188,NY,Oneida,Waterville,Source1,4,42.970523,-75.331445,2022,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3916543,NY,Oneida,Utica,Source1,4,43.112100362572136,-75.2052032943954,2022,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3976692,NY,Oneida,Utica,Source1,4,43.11941,-75.224455,2022,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4025504,NY,Oneida,Marcy,Source1,4,43.140306,-75.30138000000002,2022,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-4194911,NY,Oneida,Oriskany,Source1,4,43.158749,-75.331813,2022,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4279067,NY,Oneida,Westmoreland,Source1,4,43.118433,-75.40459799999998,2022,21,Thursday,Rain,False,False,False,False,False,False,False
+A-4347725,NY,Oneida,Forestport,Source1,4,43.439216,-75.20367399999998,2022,14,Wednesday,Rain,False,False,False,False,False,False,False
+A-4397667,NY,Oneida,Clinton,Source1,4,43.018587,-75.325793,2022,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4464748,NY,Oneida,Marcy,Source1,4,43.170873,-75.323833,2022,17,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-4693403,NY,Oneida,New Hartford,Source1,4,43.051004,-75.318587,2022,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4694308,NY,Oneida,Oriskany,Source1,4,43.159934,-75.332893,2022,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4704181,NY,Oneida,Verona,Source1,4,43.122721910271046,-75.59069037401395,2021,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4787953,NY,Oneida,Cassville,Source1,4,42.905393,-75.241584,2022,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4822253,NY,Oneida,Rome,Source1,4,43.189755677970936,-75.4520094391086,2022,10,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-4860940,NY,Oneida,Forestport,Source1,4,43.439601,-75.203124,2022,14,Wednesday,Rain,False,False,False,False,False,False,False
+A-4867920,NY,Oneida,Forestport,Source1,4,43.442057,-75.19946,2022,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4921303,NY,Oneida,Camden,Source1,4,43.3428990838845,-75.7851612564288,2021,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4962729,NY,Oneida,Verona,Source1,4,43.125368,-75.574528,2022,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5029237,NY,Oneida,Westmoreland,Source1,4,43.116256,-75.403802,2022,20,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-5170220,NY,Oneida,Remsen,Source1,4,43.311999,-75.11352099999998,2022,0,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5186310,NY,Oneida,Clinton,Source1,4,43.049692,-75.318632,2022,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5207388,NY,Oneida,New York Mills,Source1,4,43.097974,-75.302487,2022,17,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-5247554,NY,Oneida,New Hartford,Source1,4,43.07425900000001,-75.28594100000002,2022,13,Sunday,Snow / Ice,True,False,False,False,False,False,False
+A-5355299,NY,Oneida,Utica,Source1,4,43.082351,-75.289233,2022,1,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-5372217,NY,Oneida,Utica,Source1,4,43.116348,-75.23391099999998,2022,1,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5447768,NY,Oneida,Marcy,Source1,4,43.150711,-75.29769399999998,2022,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5544303,NY,Oneida,Clinton,Source1,4,43.079238,-75.391611,2021,18,Tuesday,Cloudy,False,False,False,True,False,False,False
+A-5587873,NY,Oneida,Blossvale,Source1,4,43.231834172996365,-75.72926402055869,2021,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-5618659,NY,Oneida,Whitesboro,Source1,4,43.13192,-75.301986,2021,23,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5637831,NY,Oneida,Clinton,Source1,4,43.032428,-75.404439,2021,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5640952,NY,Oneida,Utica,Source1,4,43.0965,-75.25324300000003,2021,7,Monday,Cloudy,True,True,False,False,False,False,True
+A-5667295,NY,Oneida,Clinton,Source1,4,43.05307030657266,-75.37113547289194,2021,12,Tuesday,Fog / Low visibility,False,False,False,True,True,False,False
+A-5731461,NY,Oneida,Whitesboro,Source1,4,43.122023,-75.294507,2021,1,Sunday,Rain,False,False,False,False,False,False,False
+A-5748008,NY,Oneida,Waterville,Source1,4,42.91789,-75.380324,2021,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5781714,NY,Oneida,Clinton,Source1,4,43.05869221666785,-75.36199450456921,2021,12,Tuesday,Fog / Low visibility,False,False,False,True,True,False,False
+A-5820731,NY,Oneida,Verona,Source1,4,43.128107,-75.547297,2021,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5822438,NY,Oneida,Clinton,Source1,4,43.0324,-75.396804,2021,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5839118,NY,Oneida,Remsen,Source1,4,43.308192,-75.15465999999998,2021,17,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-5848508,NY,Oneida,Blossvale,Source1,4,43.260768,-75.699164,2021,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5861648,NY,Oneida,Waterville,Source1,4,42.899399,-75.306247,2021,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5938938,NY,Oneida,Clinton,Source1,4,43.03242802599415,-75.40443778002067,2021,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5980437,NY,Oneida,Whitesboro,Source1,4,43.12347000000001,-75.295761,2021,1,Sunday,Rain,False,False,False,False,False,False,False
+A-6062412,NY,Oneida,Rome,Source1,4,43.286289,-75.415671,2021,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6064822,NY,Oneida,Rome,Source1,4,43.18767428377539,-75.48906683885818,2021,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-6113515,NY,Oneida,Bridgewater,Source1,4,42.87915,-75.251166,2021,19,Thursday,Sin dato,True,False,False,False,False,False,False
+A-6171813,NY,Oneida,West Winfield,Source1,4,42.88409,-75.201971,2021,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6193926,NY,Oneida,Clinton,Source1,4,43.079591989311794,-75.43156027757915,2021,19,Monday,Rain,False,False,False,False,False,False,False
+A-6256671,NY,Oneida,Rome,Source1,4,43.20938944795985,-75.4576528068759,2021,0,Monday,Cloudy,True,True,False,False,False,False,False
+A-6268925,NY,Oneida,Rome,Source1,4,43.202476,-75.403472,2021,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6286041,NY,Oneida,Whitesboro,Source1,4,43.132692,-75.302442,2021,23,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6298647,NY,Oneida,Marcy,Source1,4,43.125232457908986,-75.24099469148997,2021,10,Tuesday,Snow / Ice,False,False,True,False,False,False,False
+A-6312484,NY,Oneida,Rome,Source1,4,43.279641866477576,-75.42364239656723,2021,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6313204,NY,Oneida,Camden,Source1,4,43.349143266471145,-75.81194043123334,2021,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6317558,NY,Oneida,Utica,Source1,4,43.10924,-75.176099,2021,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6358436,NY,Oneida,New Hartford,Source1,4,43.080488,-75.319614,2021,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6383735,NY,Oneida,Rome,Source1,4,43.29888939836836,-75.47340273821126,2021,12,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-6451958,NY,Oneida,Oneida,Source1,4,43.078567,-75.634749,2021,13,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-6480020,NY,Oneida,Utica,Source1,4,43.08642,-75.280406,2021,3,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6562789,NY,Oneida,Oneida,Source1,4,43.088567,-75.631328,2021,13,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-6640968,NY,Oneida,Deansboro,Source1,4,43.003075,-75.425617,2020,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6664084,NY,Oneida,Cassville,Source1,4,42.87866,-75.246149,2020,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6674820,NY,Oneida,Westmoreland,Source1,4,43.123365,-75.39639100000002,2020,13,Friday,Cloudy,False,False,True,False,False,False,False
+A-6699008,NY,Oneida,Rome,Source1,4,43.20399999999999,-75.411433,2020,5,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6706394,NY,Oneida,Rome,Source1,4,43.269362,-75.562146,2020,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6708047,NY,Oneida,Vernon Center,Source1,4,43.072989,-75.478466,2020,23,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-6709347,NY,Oneida,Rome,Source1,4,43.208377,-75.45705699999998,2020,2,Wednesday,Clear / Fair,False,True,False,False,False,False,True
+A-6715898,NY,Oneida,Clinton,Source1,4,43.054048,-75.368291,2020,1,Friday,Clear / Fair,False,False,False,True,True,False,False
+A-6730863,NY,Oneida,Boonville,Source1,4,43.425188,-75.230435,2020,3,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6739348,NY,Oneida,Clinton,Source1,4,43.051831,-75.374651,2020,5,Friday,Clear / Fair,False,True,False,True,True,False,False
+A-6754621,NY,Oneida,Utica,Source1,4,43.124223,-75.229107,2020,2,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-6761959,NY,Oneida,Clinton,Source1,4,43.051831,-75.374651,2020,1,Friday,Clear / Fair,False,True,False,True,True,False,False
+A-6764704,NY,Oneida,Vernon,Source1,4,43.073626,-75.512498,2020,2,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6800598,NY,Oneida,Rome,Source1,4,43.247998,-75.52324,2020,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6805695,NY,Oneida,Vernon,Source1,4,43.075074,-75.458111,2020,1,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6829849,NY,Oneida,West Winfield,Source1,4,42.88409,-75.201971,2020,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6865221,NY,Oneida,Clinton,Source1,4,43.051831,-75.374651,2020,1,Friday,Clear / Fair,False,True,False,True,True,False,False
+A-6931865,NY,Oneida,Boonville,Source1,4,43.425188,-75.230435,2020,3,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6969330,NY,Oneida,Utica,Source1,4,43.124223,-75.229107,2020,2,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7059632,NY,Oneida,Vernon,Source1,3,43.12347000000001,-75.50055,2020,14,Friday,Cloudy,False,False,False,True,False,False,False
+A-7059633,NY,Oneida,Vernon,Source1,3,43.12347000000001,-75.50055,2020,14,Friday,Cloudy,False,False,False,True,False,False,False
+A-7115143,NY,Oneida,Utica,Source1,4,43.09392,-75.27521999999998,2020,0,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7115144,NY,Oneida,Utica,Source1,4,43.09448,-75.2812,2020,0,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7116506,NY,Oneida,Utica,Source1,4,43.09448,-75.2812,2020,2,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7224588,NY,Oneida,Clinton,Source1,4,43.07983,-75.39193,2020,19,Thursday,Cloudy,True,False,False,False,False,False,False
+A-7224589,NY,Oneida,Vernon,Source1,4,43.07966,-75.4314,2020,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7224595,NY,Oneida,Vernon,Source1,4,43.07966,-75.4314,2020,0,Friday,Cloudy,False,False,False,False,False,False,False
+A-7243167,NY,Oneida,Vernon,Source1,4,43.07315,-75.50206999999997,2020,22,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7243168,NY,Oneida,Vernon,Source1,4,43.07732,-75.52571999999998,2020,22,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7251279,NY,Oneida,Oriskany,Source1,4,43.16918,-75.34695,2020,11,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-7251280,NY,Oneida,Oriskany,Source1,4,43.17166,-75.36085,2020,11,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-7251283,NY,Oneida,Oriskany,Source1,4,43.17166,-75.36085,2020,13,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7251284,NY,Oneida,Oriskany,Source1,4,43.16918,-75.34695,2020,13,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7366029,NY,Oneida,Vernon,Source1,4,43.09032,-75.50121,2019,6,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7366030,NY,Oneida,Vernon,Source1,4,43.10172,-75.49877,2019,6,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7369452,NY,Oneida,Utica,Source1,4,43.10156,-75.24146999999998,2019,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7384526,NY,Oneida,Camden,Source1,4,43.281105,-75.710712,2019,15,Monday,Cloudy,False,False,False,True,False,False,False
+A-7384527,NY,Oneida,Camden,Source1,4,43.29373,-75.71733,2019,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-7404535,NY,Oneida,Woodgate,Source1,3,43.52073,-75.15453000000002,2019,14,Monday,Rain,False,False,False,False,False,False,False
+A-7414639,NY,Oneida,Oneida,Source1,4,43.097173,-75.620613,2019,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7414640,NY,Oneida,Verona,Source1,4,43.11396,-75.5979,2019,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7429593,NY,Oneida,Lee Center,Source1,4,43.327364,-75.477099,2019,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7429594,NY,Oneida,Rome,Source1,4,43.30348,-75.47319,2019,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7450114,NY,Oneida,New Hartford,Source1,4,43.07337,-75.28782,2019,1,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7450869,NY,Oneida,New Hartford,Source1,4,43.08997,-75.31065,2019,23,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7450870,NY,Oneida,New Hartford,Source1,4,43.08248,-75.325,2019,23,Thursday,Cloudy,True,False,False,False,False,False,False
+A-7451517,NY,Oneida,Utica,Source1,4,43.108952,-75.24940699999998,2019,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-7451518,NY,Oneida,Utica,Source1,4,43.108318,-75.24714399999998,2019,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-7460460,NY,Oneida,Rome,Source1,4,43.1387,-75.50069,2019,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7460461,NY,Oneida,Vernon,Source1,4,43.105458,-75.499052,2019,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7461761,NY,Oneida,Utica,Source1,4,43.115082,-75.212057,2019,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7463790,NY,Oneida,Utica,Source1,4,43.083269,-75.28818100000002,2019,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7467872,NY,Oneida,Utica,Source1,4,43.106341,-75.238897,2019,13,Wednesday,Rain,False,False,False,False,False,False,False
+A-7467873,NY,Oneida,Marcy,Source1,4,43.149651,-75.295552,2019,13,Wednesday,Rain,False,False,False,False,False,False,False
+A-7488285,NY,Oneida,Utica,Source1,4,43.08681,-75.27969,2018,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-7535068,NY,Oneida,Waterville,Source1,4,42.91388,-75.3789,2018,14,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7544760,NY,Oneida,Utica,Source1,4,43.0908,-75.2679,2018,5,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-7544761,NY,Oneida,Utica,Source1,4,43.09218,-75.26394,2018,5,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7550108,NY,Oneida,Boonville,Source1,4,43.48466,-75.3312,2018,18,Sunday,Clear / Fair,False,True,False,False,False,False,True
+A-7550109,NY,Oneida,Boonville,Source1,4,43.47696,-75.31833,2018,18,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-7568852,NY,Oneida,Utica,Source1,4,43.081558,-75.290181,2018,22,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7572218,NY,Oneida,Utica,Source1,4,43.10524,-75.17025,2018,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-7579633,NY,Oneida,Barneveld,Source1,4,43.28427,-75.1848,2018,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7579634,NY,Oneida,Barneveld,Source1,4,43.285938,-75.182019,2018,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7582715,NY,Oneida,Utica,Source1,4,43.081435,-75.29070300000002,2018,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7583680,NY,Oneida,Verona,Source1,4,43.12451,-75.57705,2018,5,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7587004,NY,Oneida,Barneveld,Source1,4,43.282633,-75.183021,2018,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7587005,NY,Oneida,Barneveld,Source1,4,43.264115,-75.185309,2018,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7592326,NY,Oneida,Whitesboro,Source1,4,43.125227,-75.297437,2018,20,Wednesday,Rain,False,False,False,False,False,False,False
+A-7592327,NY,Oneida,Whitesboro,Source1,4,43.122162,-75.294584,2018,20,Wednesday,Rain,False,False,False,False,False,False,False
+A-7611491,NY,Oneida,Utica,Source1,4,43.0908,-75.2679,2018,6,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7615467,NY,Oneida,Rome,Source1,4,43.20158,-75.42768000000002,2018,8,Tuesday,Snow / Ice,False,False,True,False,False,False,False
+A-7616749,NY,Oneida,Utica,Source1,4,43.111699,-75.20355500000002,2018,3,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7622836,NY,Oneida,Verona,Source1,4,43.12442,-75.57776,2018,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7655236,NY,Oneida,Utica,Source1,4,43.096625,-75.25293,2017,17,Friday,Cloudy,True,False,False,False,False,False,False
+A-7669940,NY,Oneida,Utica,Source1,4,43.09252,-75.26854,2017,1,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7676650,NY,Oneida,Forestport,Source1,4,43.490469,-75.16058000000002,2017,4,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7701223,NY,Oneida,Westmoreland,Source1,3,43.12326,-75.39719000000002,2017,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-7713224,NY,Oneida,Ava,Source1,4,43.400804,-75.486214,2019,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7715700,NY,Oneida,Utica,Source1,4,43.174481,-75.142078,2019,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-7715701,NY,Oneida,Utica,Source1,4,43.17467,-75.15245,2019,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-7742098,NY,Oneida,Waterville,Source1,4,42.91381,-75.37888000000002,2019,18,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-7742099,NY,Oneida,Waterville,Source1,4,42.912251,-75.353876,2019,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7743089,NY,Oneida,Rome,Source1,4,43.24785,-75.52295,2019,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7743090,NY,Oneida,Rome,Source1,4,43.25411500000001,-75.53366700000002,2019,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7773079,NY,Oneida,Rome,Source1,3,43.174207,-75.528148,2019,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7773080,NY,Oneida,Rome,Source1,3,43.17378,-75.528825,2019,15,Wednesday,Cloudy,False,False,False,False,False,False,False

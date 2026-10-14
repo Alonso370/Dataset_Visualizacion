@@ -1,0 +1,592 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-516061,VA,Wythe,Austinville,Source2,3,36.852409,-80.862709,2022,18,Monday,Sin dato,False,False,False,False,False,False,False
+A-516062,VA,Wythe,Wytheville,Source2,3,36.958858,-81.06411700000002,2022,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-517108,VA,Wythe,Wytheville,Source2,3,36.95685200000001,-81.056648,2022,13,Sunday,Rain,False,False,False,False,False,False,False
+A-517720,VA,Wythe,Max Meadows,Source2,4,36.945686,-80.94873,2022,20,Friday,Sin dato,False,False,False,False,False,False,False
+A-535634,VA,Wythe,Wytheville,Source2,3,36.938499,-81.155518,2022,18,Tuesday,Rain,False,False,False,False,False,False,False
+A-538057,VA,Wythe,Austinville,Source2,3,36.84825900000001,-80.860489,2022,10,Saturday,Sin dato,False,False,False,False,False,False,False
+A-543774,VA,Wythe,Wytheville,Source2,3,36.968296,-81.067131,2022,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-544126,VA,Wythe,Wytheville,Source2,3,36.947224,-81.051651,2022,7,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-544298,VA,Wythe,Wytheville,Source2,3,36.947155,-81.144341,2022,14,Saturday,Storm,False,False,False,False,False,False,False
+A-545122,VA,Wythe,Wytheville,Source3,3,36.955776,-81.11507399999998,2022,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-545715,VA,Wythe,Wytheville,Source2,3,36.938499,-81.155518,2022,19,Thursday,Storm,False,False,False,False,False,False,False
+A-546697,VA,Wythe,Wytheville,Source2,3,36.968296,-81.067131,2022,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-550664,VA,Wythe,Austinville,Source2,3,36.848194,-80.86036700000002,2022,17,Saturday,Sin dato,False,False,False,False,False,False,False
+A-552591,VA,Wythe,Rural Retreat,Source2,3,36.916367,-81.270241,2022,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-570624,VA,Wythe,Wytheville,Source2,3,36.938499,-81.155518,2022,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-571171,VA,Wythe,Wytheville,Source2,3,36.940563,-81.151634,2022,19,Friday,Storm,False,False,False,False,False,False,False
+A-572441,VA,Wythe,Wytheville,Source2,3,36.960197,-81.09878499999998,2022,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-574777,VA,Wythe,Wytheville,Source2,3,36.968296,-81.067131,2022,16,Tuesday,Storm,False,False,False,False,False,False,False
+A-583150,VA,Wythe,Wytheville,Source2,3,36.947567,-81.143578,2022,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-589656,VA,Wythe,Austinville,Source2,3,36.84825900000001,-80.860489,2022,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-596181,VA,Wythe,Wytheville,Source2,3,36.972195,-81.06732199999998,2022,13,Saturday,Cloudy,False,False,True,False,False,False,False
+A-599616,VA,Wythe,Max Meadows,Source2,3,36.945934,-80.90900400000002,2022,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-608580,VA,Wythe,Max Meadows,Source2,3,36.965485,-80.852135,2022,17,Friday,Rain,False,False,False,False,False,False,False
+A-610723,VA,Wythe,Max Meadows,Source2,3,36.945759,-80.948753,2022,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-612263,VA,Wythe,Draper,Source2,3,36.975632,-80.840958,2022,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-612429,VA,Wythe,Max Meadows,Source2,3,36.951141,-80.877083,2022,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-614650,VA,Wythe,Wytheville,Source2,3,36.969124,-81.066887,2022,19,Sunday,Cloudy,False,False,False,False,False,False,False
+A-616678,VA,Wythe,Wytheville,Source2,3,36.937328,-80.993874,2022,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-616679,VA,Wythe,Max Meadows,Source2,3,36.94841,-80.923714,2022,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-624898,VA,Wythe,Max Meadows,Source2,3,36.951317,-80.876213,2022,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-626244,VA,Wythe,Wytheville,Source2,4,36.961262,-81.063652,2022,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-626852,VA,Wythe,Wytheville,Source2,3,36.954826,-81.055183,2022,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-627239,VA,Wythe,Wytheville,Source2,4,36.937107,-80.99389599999998,2022,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-632186,VA,Wythe,Wytheville,Source2,3,36.938499,-81.155518,2022,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-632351,VA,Wythe,Wytheville,Source2,3,36.938499,-81.155518,2022,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-645214,VA,Wythe,Max Meadows,Source2,4,36.947983,-80.923973,2022,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-647759,VA,Wythe,Austinville,Source2,3,36.84825900000001,-80.860489,2022,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-648239,VA,Wythe,Max Meadows,Source2,3,36.946846,-80.92009,2022,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-663730,VA,Wythe,Austinville,Source2,3,36.84825900000001,-80.860489,2022,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-695348,VA,Wythe,Wytheville,Source2,3,36.961132,-81.06349200000002,2022,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-695397,VA,Wythe,Max Meadows,Source2,3,36.947983,-80.923965,2022,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-696013,VA,Wythe,Wytheville,Source2,3,36.961132,-81.06349200000002,2022,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-697971,VA,Wythe,Wytheville,Source2,3,36.961132,-81.06349200000002,2022,14,Thursday,Rain,False,False,False,False,False,False,False
+A-710644,VA,Wythe,Rural Retreat,Source2,3,36.916161,-81.272362,2022,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-729412,VA,Wythe,Wytheville,Source2,3,36.961132,-81.06349200000002,2022,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-739181,VA,Wythe,Wytheville,Source2,4,36.968296,-81.067131,2022,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-743089,VA,Wythe,Austinville,Source2,3,36.848751,-80.860893,2022,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-743594,VA,Wythe,Wytheville,Source2,3,36.960197,-81.09878499999998,2022,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-745925,VA,Wythe,Wytheville,Source3,3,36.961132,-81.06349200000002,2022,16,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-746471,VA,Wythe,Max Meadows,Source2,3,36.965668,-80.851677,2022,15,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-747999,VA,Wythe,Wytheville,Source2,3,36.961132,-81.06349200000002,2022,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-749433,VA,Wythe,Wytheville,Source2,3,36.97052,-81.067192,2022,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-756685,VA,Wythe,Wytheville,Source2,3,36.922729,-81.223076,2022,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-760151,VA,Wythe,Wytheville,Source3,3,36.948082,-81.051781,2021,8,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-764855,VA,Wythe,Austinville,Source2,3,36.84825900000001,-80.860489,2021,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-779483,VA,Wythe,Wytheville,Source2,3,36.961132,-81.06349200000002,2021,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-779643,VA,Wythe,Wytheville,Source2,3,36.961132,-81.06349200000002,2021,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-779707,VA,Wythe,Wytheville,Source2,3,36.953476,-81.120918,2021,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-789868,VA,Wythe,Wytheville,Source2,3,36.961132,-81.06349200000002,2021,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-798653,VA,Wythe,Rural Retreat,Source2,3,36.91747700000001,-81.256096,2021,2,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-802417,VA,Wythe,Austinville,Source2,3,36.853992,-80.863213,2021,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-802800,VA,Wythe,Wytheville,Source2,3,36.956562,-81.110504,2021,4,Friday,Rain,False,False,False,False,False,False,False
+A-809752,VA,Wythe,Wytheville,Source2,4,36.948082,-81.051781,2021,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-823360,VA,Wythe,Wytheville,Source2,3,36.937313,-80.993515,2021,22,Thursday,Rain,False,False,False,False,False,False,False
+A-828558,VA,Wythe,Rural Retreat,Source2,3,36.916283,-81.269211,2021,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-829169,VA,Wythe,Rural Retreat,Source2,3,36.915916,-81.273216,2021,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-851788,VA,Wythe,Rural Retreat,Source2,4,36.915916,-81.273216,2021,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-867426,VA,Wythe,Austinville,Source2,3,36.84825900000001,-80.860489,2021,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-870094,VA,Wythe,Max Meadows,Source2,3,36.962723,-80.854729,2021,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-877621,VA,Wythe,Wytheville,Source2,3,36.967651,-81.066223,2021,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-889856,VA,Wythe,Wytheville,Source3,3,36.947868,-81.052063,2021,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-912204,VA,Wythe,Max Meadows,Source2,3,36.947983,-80.923965,2021,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-912449,VA,Wythe,Wytheville,Source2,4,36.961132,-81.06349200000002,2021,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-942796,VA,Wythe,Wytheville,Source2,3,36.968296,-81.067131,2021,14,Saturday,Storm,False,False,False,False,False,False,False
+A-951258,VA,Wythe,Wytheville,Source2,3,36.939415,-81.15328199999998,2021,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-951420,VA,Wythe,Wytheville,Source2,3,36.937775,-80.997299,2021,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-951426,VA,Wythe,Max Meadows,Source2,3,36.945759,-80.948753,2021,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-951882,VA,Wythe,Max Meadows,Source2,3,36.94589600000001,-80.919579,2021,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-952033,VA,Wythe,Max Meadows,Source2,3,36.945759,-80.948753,2021,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-958245,VA,Wythe,Rural Retreat,Source2,3,36.916462,-81.267235,2021,21,Monday,Storm,False,False,False,False,False,False,False
+A-960024,VA,Wythe,Max Meadows,Source2,3,36.965435,-80.852051,2021,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-965160,VA,Wythe,Max Meadows,Source2,3,36.964447,-80.852837,2021,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-974726,VA,Wythe,Wytheville,Source2,3,36.959496,-81.100426,2021,22,Thursday,Cloudy,False,False,False,False,False,False,False
+A-984175,VA,Wythe,Wytheville,Source2,3,36.938499,-81.155518,2021,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-988513,VA,Wythe,Wytheville,Source2,3,36.950703,-81.129364,2021,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-988950,VA,Wythe,Max Meadows,Source2,3,36.947983,-80.923965,2021,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-988951,VA,Wythe,Max Meadows,Source2,3,36.947983,-80.923965,2021,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1007807,VA,Wythe,Austinville,Source2,3,36.848808,-80.860924,2021,13,Friday,Rain,False,False,False,False,False,False,False
+A-1007811,VA,Wythe,Wytheville,Source2,3,36.960197,-81.09878499999998,2021,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-1009552,VA,Wythe,Wytheville,Source2,3,36.980282,-81.071045,2021,6,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1009580,VA,Wythe,Wytheville,Source2,3,36.961407,-81.065002,2021,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1009607,VA,Wythe,Wytheville,Source2,3,36.965343,-81.080276,2021,18,Thursday,Rain,False,False,False,False,False,False,False
+A-1016378,VA,Wythe,Austinville,Source2,3,36.84825900000001,-80.860489,2021,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1017205,VA,Wythe,Wytheville,Source2,3,36.937218,-80.991295,2021,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1023725,VA,Wythe,Wytheville,Source2,3,36.938499,-81.155518,2021,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1029428,VA,Wythe,Max Meadows,Source2,3,36.947983,-80.923965,2021,15,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-1043491,VA,Wythe,Max Meadows,Source2,3,36.965797,-80.851555,2021,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1046461,VA,Wythe,Max Meadows,Source2,3,36.95995300000001,-80.857056,2021,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1048227,VA,Wythe,Wytheville,Source2,3,36.95948,-81.062164,2021,20,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-1049795,VA,Wythe,Wytheville,Source2,3,37.017448,-81.107147,2021,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1053977,VA,Wythe,Wytheville,Source2,3,36.926685,-81.205147,2021,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-1062804,VA,Wythe,Wytheville,Source2,3,36.938499,-81.155518,2021,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1063552,VA,Wythe,Wytheville,Source2,3,36.984161,-81.07306700000002,2021,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1066999,VA,Wythe,Wytheville,Source2,3,36.94294,-80.965195,2021,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1069922,VA,Wythe,Austinville,Source2,3,36.850136,-80.861588,2021,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1074191,VA,Wythe,Wytheville,Source2,3,36.961132,-81.06349200000002,2021,10,Wednesday,Rain,False,False,False,False,False,False,False
+A-1079580,VA,Wythe,Rural Retreat,Source2,3,36.916122,-81.272743,2021,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1087410,VA,Wythe,Wytheville,Source2,3,36.938499,-81.155518,2021,22,Saturday,Rain,False,False,False,False,False,False,False
+A-1094211,VA,Wythe,Max Meadows,Source2,4,36.948597,-80.923988,2021,12,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-1096437,VA,Wythe,Wytheville,Source2,3,36.964382,-81.072731,2021,11,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1098627,VA,Wythe,Wytheville,Source2,3,36.960197,-81.09878499999998,2021,11,Wednesday,Rain,False,False,False,False,False,False,False
+A-1110528,VA,Wythe,Wytheville,Source2,3,36.964512,-81.073059,2021,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1120067,VA,Wythe,Max Meadows,Source2,4,36.965435,-80.852051,2021,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1130821,VA,Wythe,Wytheville,Source2,3,36.938499,-81.155518,2021,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1138949,VA,Wythe,Austinville,Source2,4,36.84825900000001,-80.860489,2021,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1140433,VA,Wythe,Wytheville,Source2,3,36.96096,-81.063309,2021,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1140434,VA,Wythe,Wytheville,Source2,3,36.96064000000001,-81.095901,2021,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1141813,VA,Wythe,Wytheville,Source2,4,36.96096,-81.063309,2021,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1147511,VA,Wythe,Wytheville,Source2,3,36.960808,-81.097374,2021,20,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1177760,VA,Wythe,Wytheville,Source2,3,36.94046,-81.151756,2021,20,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1181052,VA,Wythe,Wytheville,Source2,3,36.960197,-81.09878499999998,2021,7,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1183886,VA,Wythe,Wytheville,Source2,3,36.960197,-81.09878499999998,2021,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1187049,VA,Wythe,Max Meadows,Source2,4,36.965435,-80.852051,2021,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1197877,VA,Wythe,Wytheville,Source2,3,36.964916,-81.081802,2021,5,Monday,Rain,False,False,False,False,False,False,False
+A-1215561,VA,Wythe,Rural Retreat,Source2,3,36.915916,-81.273216,2020,22,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1243003,VA,Wythe,Austinville,Source2,3,36.84825900000001,-80.860489,2020,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1244697,VA,Wythe,Max Meadows,Source2,3,36.950413,-80.88117199999998,2020,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1247676,VA,Wythe,Austinville,Source2,3,36.84825900000001,-80.860489,2020,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1265534,VA,Wythe,Wytheville,Source2,3,36.96096,-81.063309,2020,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1267054,VA,Wythe,Austinville,Source2,3,36.84825900000001,-80.860489,2020,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1276708,VA,Wythe,Max Meadows,Source2,3,36.948009000000006,-80.92446899999999,2020,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1276709,VA,Wythe,Max Meadows,Source2,3,36.948009000000006,-80.92446899999999,2020,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1276710,VA,Wythe,Max Meadows,Source2,3,36.948009000000006,-80.92446899999999,2020,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1297494,VA,Wythe,Max Meadows,Source2,4,36.965435,-80.852051,2020,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1316452,VA,Wythe,Max Meadows,Source2,3,36.948009000000006,-80.92446899999999,2020,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-1316476,VA,Wythe,Max Meadows,Source2,3,36.9459,-80.919579,2020,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-1318102,VA,Wythe,Max Meadows,Source2,3,36.945759,-80.948753,2020,10,Tuesday,Rain,False,False,False,False,False,False,False
+A-1326025,VA,Wythe,Max Meadows,Source2,3,36.96434,-80.852936,2020,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1335888,VA,Wythe,Wytheville,Source2,3,36.933331,-81.178841,2020,6,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1335909,VA,Wythe,Wytheville,Source2,3,36.938499,-81.155518,2020,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-1335930,VA,Wythe,Wytheville,Source2,3,36.960197,-81.09878499999998,2020,15,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1356461,VA,Wythe,Austinville,Source2,3,36.84825900000001,-80.860489,2020,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1363316,VA,Wythe,Wytheville,Source2,3,36.948082,-81.051781,2020,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1363322,VA,Wythe,Wytheville,Source2,3,36.960197,-81.09878499999998,2020,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1363337,VA,Wythe,Wytheville,Source2,3,36.96096,-81.063309,2020,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1363342,VA,Wythe,Wytheville,Source2,3,36.949417,-81.053345,2020,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1367329,VA,Wythe,Wytheville,Source2,3,36.948406,-81.052582,2020,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-1373841,VA,Wythe,Wytheville,Source2,3,36.968262,-81.066689,2020,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-1380977,VA,Wythe,Rural Retreat,Source2,3,36.915768,-81.27415500000002,2020,16,Wednesday,Rain,False,False,False,False,False,False,False
+A-1382403,VA,Wythe,Wytheville,Source2,4,36.937328,-80.993874,2020,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1382424,VA,Wythe,Wytheville,Source2,4,36.960197,-81.09878499999998,2020,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1384246,VA,Wythe,Rural Retreat,Source2,3,36.915928,-81.27285,2020,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-1395098,VA,Wythe,Wytheville,Source2,4,36.938499,-81.155518,2020,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1395099,VA,Wythe,Wytheville,Source2,3,36.938499,-81.155518,2020,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1396572,VA,Wythe,Wytheville,Source2,3,36.967899,-81.066597,2020,15,Thursday,Storm,False,False,False,False,False,False,False
+A-1405064,VA,Wythe,Max Meadows,Source2,3,36.948601,-80.923866,2020,11,Thursday,Cloudy,False,False,True,False,False,False,False
+A-1405092,VA,Wythe,Rural Retreat,Source2,3,36.915916,-81.273216,2020,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1406633,VA,Wythe,Rural Retreat,Source2,3,36.906975,-81.306877,2020,21,Friday,Storm,False,False,False,False,False,False,False
+A-1408054,VA,Wythe,Wytheville,Source2,3,36.96096,-81.063309,2020,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1409229,VA,Wythe,Wytheville,Source2,3,36.96096,-81.063309,2020,12,Monday,Storm,False,False,False,False,False,False,False
+A-1412147,VA,Wythe,Wytheville,Source2,3,36.936958,-80.989182,2020,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1413587,VA,Wythe,Austinville,Source2,3,36.84825900000001,-80.860489,2020,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1415059,VA,Wythe,Wytheville,Source2,4,36.947132,-81.05096400000002,2020,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-1417465,VA,Wythe,Max Meadows,Source2,4,36.948009000000006,-80.92446899999999,2020,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1417472,VA,Wythe,Austinville,Source2,3,36.847614,-80.860085,2020,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1417508,VA,Wythe,Max Meadows,Source2,3,36.950413,-80.88117199999998,2020,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1417513,VA,Wythe,Wytheville,Source2,3,36.947273,-81.051216,2020,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1421853,VA,Wythe,Austinville,Source2,4,36.84825900000001,-80.860489,2020,15,Thursday,Storm,False,False,False,False,False,False,False
+A-1424868,VA,Wythe,Austinville,Source2,3,36.84825900000001,-80.860489,2020,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1427891,VA,Wythe,Rural Retreat,Source2,3,36.916199,-81.270149,2020,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1442239,VA,Wythe,Austinville,Source2,3,36.84825900000001,-80.860489,2020,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1447732,VA,Wythe,Austinville,Source2,3,36.84825900000001,-80.860489,2020,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1450619,VA,Wythe,Austinville,Source2,3,36.847862,-80.86020699999997,2020,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1450625,VA,Wythe,Austinville,Source2,3,36.84825900000001,-80.860489,2020,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1481645,VA,Wythe,Wytheville,Source2,3,36.958858,-81.06411700000002,2020,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1485654,VA,Wythe,Wytheville,Source2,3,36.947292,-81.051247,2020,15,Tuesday,Rain,False,False,False,False,False,False,False
+A-1485663,VA,Wythe,Wytheville,Source2,3,36.959476,-81.062004,2020,20,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-1492262,VA,Wythe,Wytheville,Source2,3,36.96096,-81.063309,2020,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1504763,VA,Wythe,Max Meadows,Source2,4,36.948009000000006,-80.92446899999999,2020,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1505221,VA,Wythe,Wytheville,Source2,3,36.960197,-81.09878499999998,2020,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1507200,VA,Wythe,Max Meadows,Source2,4,36.965485,-80.852135,2020,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-1508670,VA,Wythe,Max Meadows,Source2,3,36.966011,-80.851646,2020,14,Wednesday,Rain,False,False,False,False,False,False,False
+A-1513822,VA,Wythe,Wytheville,Source2,3,36.938499,-81.155518,2020,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1539563,VA,Wythe,Draper,Source2,3,36.972721,-80.84503199999997,2020,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-1548081,VA,Wythe,Wytheville,Source2,3,36.971409,-81.067398,2020,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1552709,VA,Wythe,Rural Retreat,Source2,3,36.915916,-81.273216,2020,14,Sunday,Rain,False,False,False,False,False,False,False
+A-1552715,VA,Wythe,Wytheville,Source2,3,36.968056,-81.066643,2020,17,Sunday,Rain,False,False,False,False,False,False,False
+A-1573151,VA,Wythe,Max Meadows,Source2,3,36.948593,-80.924118,2020,6,Tuesday,Rain,False,False,True,False,False,False,False
+A-1575173,VA,Wythe,Wytheville,Source2,3,36.96096,-81.063309,2020,9,Saturday,Rain,False,False,False,False,False,False,False
+A-1578632,VA,Wythe,Wytheville,Source2,3,36.96096,-81.063309,2020,8,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1578644,VA,Wythe,Rural Retreat,Source2,3,36.915916,-81.273216,2020,8,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1586969,VA,Wythe,Max Meadows,Source2,3,36.948009000000006,-80.92446899999999,2020,7,Saturday,Rain,False,False,False,False,False,False,False
+A-1601383,VA,Wythe,Max Meadows,Source2,4,36.950413,-80.88117199999998,2020,2,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1605447,VA,Wythe,Wytheville,Source2,3,36.947933,-81.051071,2020,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1612601,VA,Wythe,Wytheville,Source2,3,36.958858,-81.06411700000002,2020,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1632372,VA,Wythe,Wytheville,Source2,3,36.937923,-81.157257,2020,4,Thursday,Rain,False,False,False,False,False,False,False
+A-1646111,VA,Wythe,Max Meadows,Source2,4,36.965435,-80.852051,2020,1,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1654195,VA,Wythe,Rural Retreat,Source2,3,36.91589000000001,-81.274597,2020,14,Tuesday,Rain,False,False,False,False,False,False,False
+A-1686793,VA,Wythe,Max Meadows,Source2,3,36.930321,-80.909874,2019,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1688183,VA,Wythe,Max Meadows,Source2,3,36.945744,-80.94839499999998,2019,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-1702997,VA,Wythe,Wytheville,Source2,3,36.947243,-81.051674,2019,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-1702999,VA,Wythe,Wytheville,Source2,3,36.96207800000001,-81.067131,2019,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-1713885,VA,Wythe,Rural Retreat,Source2,3,36.915916,-81.273216,2019,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-1713969,VA,Wythe,Max Meadows,Source2,3,36.95013,-80.88205699999997,2019,15,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1728892,VA,Wythe,Max Meadows,Source2,3,36.946136,-80.90541800000003,2019,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1735026,VA,Wythe,Wytheville,Source2,3,36.96096,-81.063309,2019,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1735030,VA,Wythe,Wytheville,Source2,3,36.949234,-81.053246,2019,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1747838,VA,Wythe,Max Meadows,Source2,3,36.95512,-80.862732,2019,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1749982,VA,Wythe,Rural Retreat,Source2,3,36.915916,-81.273216,2019,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1749989,VA,Wythe,Max Meadows,Source2,3,36.950581,-80.882553,2019,20,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1754442,VA,Wythe,Wytheville,Source2,4,36.938499,-81.155518,2019,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1762620,VA,Wythe,Wytheville,Source2,3,36.96096,-81.063309,2019,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1764677,VA,Wythe,Max Meadows,Source2,3,36.950413,-80.88117199999998,2019,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1769496,VA,Wythe,Wytheville,Source2,3,36.968296,-81.067131,2019,10,Tuesday,Rain,False,False,False,False,False,False,False
+A-1769516,VA,Wythe,Max Meadows,Source2,3,36.948009000000006,-80.92446899999999,2019,11,Tuesday,Rain,False,False,False,False,False,False,False
+A-1774877,VA,Wythe,Wytheville,Source2,3,36.93740800000001,-80.99650600000002,2019,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1774878,VA,Wythe,Wytheville,Source2,3,36.936981,-80.990997,2019,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1780472,VA,Wythe,Max Meadows,Source2,3,36.948009000000006,-80.92446899999999,2019,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1809116,VA,Wythe,Max Meadows,Source2,3,36.948009000000006,-80.92446899999999,2019,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1816951,VA,Wythe,Wytheville,Source2,3,36.937351,-80.99427800000002,2019,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1835147,VA,Wythe,Max Meadows,Source2,4,36.948009000000006,-80.92446899999999,2019,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1835152,VA,Wythe,Max Meadows,Source2,3,36.948009000000006,-80.92446899999999,2019,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1842484,VA,Wythe,Austinville,Source2,4,36.84825900000001,-80.860489,2019,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1847601,VA,Wythe,Wytheville,Source2,3,36.938499,-81.155518,2019,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1852599,VA,Wythe,Wytheville,Source2,4,36.960197,-81.09878499999998,2019,2,Saturday,Rain,False,False,False,False,False,False,False
+A-1852621,VA,Wythe,Wytheville,Source2,3,36.941429,-81.15065,2019,13,Saturday,Rain,False,False,False,False,False,False,False
+A-1853750,VA,Wythe,Wytheville,Source2,3,36.933159,-81.177933,2019,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-1865729,VA,Wythe,Max Meadows,Source2,3,36.948009000000006,-80.92446899999999,2019,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1872690,VA,Wythe,Max Meadows,Source2,3,36.948624,-80.924011,2019,14,Sunday,Cloudy,False,False,True,False,False,False,False
+A-1922570,VA,Wythe,Wytheville,Source2,3,36.959557,-81.062302,2019,18,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-1922574,VA,Wythe,Wytheville,Source2,3,36.96096,-81.063309,2019,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1924886,VA,Wythe,Rural Retreat,Source2,4,36.915916,-81.273216,2019,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1944703,VA,Wythe,Wytheville,Source2,3,36.968296,-81.067131,2019,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-1952382,VA,Wythe,Wytheville,Source2,3,37.004917,-81.09803000000002,2019,20,Friday,Storm,False,False,False,False,False,False,False
+A-1953780,VA,Wythe,Max Meadows,Source2,3,36.948009000000006,-80.92446899999999,2019,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1954444,VA,Wythe,Austinville,Source2,3,36.84825900000001,-80.860489,2019,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1959629,VA,Wythe,Wytheville,Source2,3,36.948036,-81.052216,2019,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1961691,VA,Wythe,Wytheville,Source2,3,36.968021,-81.06662800000002,2019,4,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1992573,VA,Wythe,Max Meadows,Source2,3,36.948009000000006,-80.92446899999999,2019,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2006859,VA,Wythe,Wytheville,Source2,3,36.939999,-81.15238199999997,2019,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2019596,VA,Wythe,Max Meadows,Source2,3,36.948177,-80.920822,2019,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2022016,VA,Wythe,Wytheville,Source2,3,36.961105,-81.064751,2019,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2026874,VA,Wythe,Wytheville,Source2,3,36.938499,-81.155518,2019,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2040501,VA,Wythe,Wytheville,Source2,3,36.938499,-81.155518,2019,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2042336,VA,Wythe,Max Meadows,Source2,3,36.94825,-80.922218,2019,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2042379,VA,Wythe,Max Meadows,Source2,3,36.950413,-80.88117199999998,2019,15,Monday,Rain,False,False,False,False,False,False,False
+A-2053383,VA,Wythe,Wytheville,Source2,3,36.937328,-80.993874,2019,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2055263,VA,Wythe,Wytheville,Source2,3,36.938499,-81.155518,2019,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-2057602,VA,Wythe,Austinville,Source2,3,36.849323,-80.861176,2019,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2059981,VA,Wythe,Max Meadows,Source2,4,36.95031,-80.88114200000003,2019,6,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2075114,VA,Wythe,Wytheville,Source2,3,36.938358,-81.15541800000003,2019,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2089878,VA,Wythe,Max Meadows,Source2,4,36.948009000000006,-80.92446899999999,2019,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2098405,VA,Wythe,Wytheville,Source2,3,36.944756,-81.027222,2019,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-2100631,VA,Wythe,Wytheville,Source2,3,36.970909000000006,-81.067001,2019,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2119398,VA,Wythe,Wytheville,Source2,4,36.960197,-81.09878499999998,2019,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2124058,VA,Wythe,Max Meadows,Source2,3,36.947926,-80.921204,2019,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2135702,VA,Wythe,Max Meadows,Source2,3,36.950413,-80.88117199999998,2019,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2142650,VA,Wythe,Rural Retreat,Source2,3,36.91626,-81.271339,2019,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2147485,VA,Wythe,Rural Retreat,Source2,3,36.91346400000001,-81.28478199999998,2019,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2163747,VA,Wythe,Max Meadows,Source2,3,36.950233,-80.88205,2019,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2167749,VA,Wythe,Rural Retreat,Source2,3,36.915916,-81.273216,2019,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-2176926,VA,Wythe,Wytheville,Source2,3,36.937069,-80.993263,2019,14,Friday,Storm,False,False,False,False,False,False,False
+A-2176950,VA,Wythe,Austinville,Source2,3,36.848461,-80.860497,2019,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2176952,VA,Wythe,Wytheville,Source2,3,36.938499,-81.155518,2019,17,Friday,Rain,False,False,False,False,False,False,False
+A-2189778,VA,Wythe,Wytheville,Source2,3,36.938499,-81.155518,2019,10,Friday,Rain,False,False,False,False,False,False,False
+A-2189786,VA,Wythe,Austinville,Source2,3,36.84951,-80.861275,2019,11,Friday,Rain,False,False,False,False,False,False,False
+A-2191952,VA,Wythe,Wytheville,Source2,3,36.946762,-81.03583499999998,2019,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2208635,VA,Wythe,Wytheville,Source2,3,36.938988,-81.154617,2019,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-2212190,VA,Wythe,Max Meadows,Source2,3,36.950233,-80.88205,2019,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2233241,VA,Wythe,Wytheville,Source2,3,36.938671,-81.002625,2019,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-2252089,VA,Wythe,Max Meadows,Source2,3,36.950233,-80.88205,2019,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-2257915,VA,Wythe,Max Meadows,Source2,3,36.950233,-80.88205,2019,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-2276598,VA,Wythe,Max Meadows,Source2,3,36.950233,-80.88205,2019,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-2284854,VA,Wythe,Wytheville,Source2,3,36.960358,-81.098732,2019,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2293673,VA,Wythe,Wytheville,Source2,3,36.995056,-81.080627,2019,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2293696,VA,Wythe,Max Meadows,Source2,3,36.947224,-80.934921,2019,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2293698,VA,Wythe,Max Meadows,Source2,3,36.948257,-80.92227199999998,2019,22,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2296088,VA,Wythe,Max Meadows,Source2,3,36.965187,-80.85231,2019,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2296089,VA,Wythe,Wytheville,Source2,3,36.948009000000006,-81.052376,2019,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2296090,VA,Wythe,Austinville,Source2,3,36.848095,-80.860443,2019,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2296143,VA,Wythe,Max Meadows,Source2,3,36.950214,-80.88164499999998,2019,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2301147,VA,Wythe,Wytheville,Source2,3,36.960358,-81.098732,2019,6,Friday,Rain,False,False,False,False,False,False,False
+A-2301265,VA,Wythe,Wytheville,Source2,3,36.941265,-81.150826,2019,22,Friday,Cloudy,False,False,False,False,False,False,False
+A-2303235,VA,Wythe,Wytheville,Source2,3,36.939899,-81.152519,2019,7,Saturday,Rain,False,False,False,False,False,False,False
+A-2321260,VA,Wythe,Austinville,Source2,3,36.848095,-80.860443,2019,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2339781,VA,Wythe,Wytheville,Source2,3,36.968861,-81.066986,2019,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2348989,VA,Wythe,Max Meadows,Source2,3,36.945747,-80.94873,2019,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2371219,VA,Wythe,Wytheville,Source2,3,36.941074,-81.148964,2018,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2373567,VA,Wythe,Austinville,Source2,3,36.850285,-80.86165600000002,2018,14,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2379843,VA,Wythe,Max Meadows,Source2,3,36.946671,-80.89981800000002,2018,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2386180,VA,Wythe,Max Meadows,Source2,3,36.950233,-80.88205,2018,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2386702,VA,Wythe,Max Meadows,Source2,3,36.945747,-80.94873,2018,9,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-2387574,VA,Wythe,Austinville,Source2,3,36.848095,-80.860443,2018,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-2387580,VA,Wythe,Austinville,Source2,3,36.848095,-80.860443,2018,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-2387581,VA,Wythe,Max Meadows,Source2,3,36.950233,-80.88205,2018,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-2387605,VA,Wythe,Rural Retreat,Source2,3,36.916,-81.272476,2018,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2389865,VA,Wythe,Max Meadows,Source2,3,36.965187,-80.85231,2018,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2407920,VA,Wythe,Max Meadows,Source2,3,36.947662,-80.894707,2018,18,Thursday,Rain,False,False,False,False,False,False,False
+A-2409757,VA,Wythe,Wytheville,Source2,3,36.948009000000006,-81.052376,2018,8,Friday,Rain,False,False,False,False,False,False,False
+A-2414894,VA,Wythe,Max Meadows,Source2,3,36.948975,-80.888046,2018,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2418707,VA,Wythe,Wytheville,Source2,3,36.94925300000001,-81.053566,2018,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-2420518,VA,Wythe,Max Meadows,Source2,3,36.948505,-80.921516,2018,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2421104,VA,Wythe,Max Meadows,Source2,3,36.945747,-80.94873,2018,8,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2435906,VA,Wythe,Wytheville,Source2,3,37.007412,-81.10045600000002,2018,8,Tuesday,Rain,False,False,False,False,False,False,False
+A-2442060,VA,Wythe,Wytheville,Source2,3,36.95742,-81.057968,2018,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2458632,VA,Wythe,Austinville,Source2,3,36.868279,-80.872185,2018,8,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2458648,VA,Wythe,Wytheville,Source2,3,36.937386,-80.994377,2018,9,Thursday,Rain,False,False,False,False,False,False,False
+A-2458649,VA,Wythe,Max Meadows,Source2,3,36.950684,-80.880341,2018,9,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2458664,VA,Wythe,Austinville,Source2,3,36.850525,-80.861778,2018,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2468708,VA,Wythe,Austinville,Source2,3,36.84990300000001,-80.861488,2018,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2477128,VA,Wythe,Max Meadows,Source2,3,36.948154,-80.92133299999998,2018,7,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-2477864,VA,Wythe,Max Meadows,Source2,3,36.948685,-80.921089,2018,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2477865,VA,Wythe,Max Meadows,Source2,3,36.948326,-80.92088299999998,2018,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2477868,VA,Wythe,Austinville,Source2,3,36.850296,-80.861664,2018,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2491804,VA,Wythe,Wytheville,Source2,3,36.950802,-81.129028,2018,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2510202,VA,Wythe,Wytheville,Source2,3,36.945232,-80.95258299999998,2018,17,Wednesday,Rain,False,False,False,False,False,False,False
+A-2510221,VA,Wythe,Max Meadows,Source2,3,36.947342,-80.93515,2018,18,Wednesday,Rain,False,False,False,False,False,False,False
+A-2523729,VA,Wythe,Max Meadows,Source2,3,36.947914,-80.920662,2018,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2529687,VA,Wythe,Wytheville,Source2,3,36.949036,-81.053436,2018,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2542644,VA,Wythe,Wytheville,Source2,3,36.967449,-81.066177,2018,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2542676,VA,Wythe,Wytheville,Source2,3,36.96122,-81.065002,2018,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2556160,VA,Wythe,Max Meadows,Source2,3,36.945923,-80.947571,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2559794,VA,Wythe,Austinville,Source2,3,36.850296,-80.861664,2018,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-2559802,VA,Wythe,Austinville,Source2,3,36.850296,-80.861664,2018,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-2566738,VA,Wythe,Wytheville,Source2,3,36.949036,-81.053436,2018,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2576240,VA,Wythe,Austinville,Source2,3,36.850296,-80.861664,2018,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2576256,VA,Wythe,Wytheville,Source2,3,36.949036,-81.053436,2018,15,Tuesday,Rain,False,False,False,False,False,False,False
+A-2579021,VA,Wythe,Austinville,Source2,3,36.849483,-80.861,2018,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2579079,VA,Wythe,Wytheville,Source2,3,36.957943,-81.105774,2018,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2583998,VA,Wythe,Wytheville,Source2,3,36.96534000000001,-81.07508100000003,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2608110,VA,Wythe,Austinville,Source2,3,36.850483,-80.861488,2018,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2608122,VA,Wythe,Austinville,Source2,3,36.850296,-80.861664,2018,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2610759,VA,Wythe,Wytheville,Source2,3,36.940613,-81.151901,2018,11,Thursday,Rain,False,False,False,False,False,False,False
+A-2610799,VA,Wythe,Max Meadows,Source2,3,36.965446,-80.852173,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2616776,VA,Wythe,Max Meadows,Source2,3,36.94825,-80.920868,2018,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2619220,VA,Wythe,Wytheville,Source2,3,36.93743900000001,-80.994835,2018,16,Wednesday,Rain,False,False,False,False,False,False,False
+A-2619225,VA,Wythe,Max Meadows,Source2,3,36.944748,-80.91947900000002,2018,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2619238,VA,Wythe,Max Meadows,Source2,3,36.965446,-80.852173,2018,21,Wednesday,Rain,False,False,False,False,False,False,False
+A-2619240,VA,Wythe,Max Meadows,Source2,3,36.950508,-80.88119499999998,2018,22,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2621626,VA,Wythe,Max Meadows,Source2,3,36.950508,-80.88119499999998,2018,4,Thursday,Rain,False,False,False,False,False,False,False
+A-2621666,VA,Wythe,Max Meadows,Source2,3,36.964943,-80.852638,2018,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2621724,VA,Wythe,Wytheville,Source2,3,36.966988,-81.066353,2018,19,Thursday,Rain,False,False,True,False,False,False,False
+A-2621728,VA,Wythe,Max Meadows,Source2,3,36.946426,-80.942245,2018,20,Thursday,Rain,False,False,False,False,False,False,False
+A-2624168,VA,Wythe,Wytheville,Source2,3,36.96703,-81.066078,2018,7,Friday,Rain,False,False,True,False,False,False,False
+A-2624172,VA,Wythe,Wytheville,Source2,3,36.947918,-81.05212399999998,2018,7,Friday,Rain,False,False,False,False,False,False,False
+A-2624180,VA,Wythe,Wytheville,Source2,3,36.940613,-81.151901,2018,8,Friday,Rain,False,False,False,False,False,False,False
+A-2624205,VA,Wythe,Wytheville,Source2,3,36.940613,-81.151901,2018,10,Friday,Rain,False,False,False,False,False,False,False
+A-2624211,VA,Wythe,Wytheville,Source2,3,36.949036,-81.053436,2018,11,Friday,Rain,False,False,False,False,False,False,False
+A-2624221,VA,Wythe,Austinville,Source2,3,36.85025,-80.861374,2018,13,Friday,Rain,False,False,False,False,False,False,False
+A-2633130,VA,Wythe,Max Meadows,Source2,3,36.948254,-80.922119,2018,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2644713,VA,Wythe,Wytheville,Source2,3,36.940475,-81.151741,2018,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2649620,VA,Wythe,Wytheville,Source2,3,36.945232,-80.95258299999998,2018,22,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2669974,VA,Wythe,Wytheville,Source2,3,36.966492,-81.06734499999997,2018,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2669983,VA,Wythe,Rural Retreat,Source2,3,36.915939,-81.271652,2018,19,Monday,Rain,False,False,False,False,False,False,False
+A-2675044,VA,Wythe,Rural Retreat,Source2,3,36.90921,-81.30014,2018,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2679997,VA,Wythe,Rural Retreat,Source2,3,36.915939,-81.271652,2018,14,Saturday,Sin dato,False,False,False,False,False,False,False
+A-2689709,VA,Wythe,Wytheville,Source2,3,36.949463,-81.053673,2018,12,Friday,Rain,False,False,False,False,False,False,False
+A-2693345,VA,Wythe,Wytheville,Source2,3,36.938324,-81.000557,2018,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2702356,VA,Wythe,Max Meadows,Source2,3,36.950626,-80.880615,2018,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-2705272,VA,Wythe,Wytheville,Source2,3,36.958862,-81.06411700000002,2018,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2723093,VA,Wythe,Austinville,Source2,3,36.850296,-80.861664,2018,17,Wednesday,Rain,False,False,False,False,False,False,False
+A-2731279,VA,Wythe,Wytheville,Source2,3,36.948418,-81.050552,2018,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-2731342,VA,Wythe,Austinville,Source2,3,36.870525,-80.872231,2018,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-2731343,VA,Wythe,Austinville,Source2,3,36.865116,-80.871262,2018,20,Monday,Rain,False,False,False,False,False,False,False
+A-2736112,VA,Wythe,Wytheville,Source2,3,36.949036,-81.053436,2018,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2736124,VA,Wythe,Wytheville,Source2,3,36.959679,-81.06244699999998,2018,18,Friday,Cloudy,False,False,True,False,False,False,False
+A-2736132,VA,Wythe,Wytheville,Source2,3,36.962921,-81.066406,2018,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-2747460,VA,Wythe,Max Meadows,Source2,3,36.950424,-80.88072199999998,2018,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2749863,VA,Wythe,Max Meadows,Source2,3,36.948154,-80.92133299999998,2018,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2758496,VA,Wythe,Wytheville,Source2,3,36.931725,-81.184853,2018,18,Wednesday,Rain,False,False,False,False,False,False,False
+A-2763314,VA,Wythe,Wytheville,Source2,3,36.97192,-81.06753499999998,2018,6,Friday,Cloudy,False,False,True,False,False,False,False
+A-2772025,VA,Wythe,Wytheville,Source2,3,36.943893,-80.959572,2018,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2780482,VA,Wythe,Wytheville,Source2,3,36.966885,-81.06633000000002,2018,16,Monday,Rain,False,False,False,False,False,False,False
+A-2780492,VA,Wythe,Wytheville,Source2,3,36.949036,-81.053436,2018,17,Monday,Rain,False,False,False,False,False,False,False
+A-2809431,VA,Wythe,Max Meadows,Source2,3,36.945698,-80.948898,2018,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2809439,VA,Wythe,Austinville,Source2,3,36.850296,-80.861664,2018,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2827024,VA,Wythe,Wytheville,Source2,3,36.949036,-81.053436,2018,10,Wednesday,Rain,False,False,False,False,False,False,False
+A-2827039,VA,Wythe,Wytheville,Source2,3,36.940475,-81.151741,2018,11,Wednesday,Rain,False,False,False,False,False,False,False
+A-2827118,VA,Wythe,Austinville,Source2,3,36.850376,-80.861435,2018,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2832379,VA,Wythe,Wytheville,Source2,3,36.949036,-81.053436,2018,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-2844410,VA,Wythe,Wytheville,Source2,3,36.937386,-80.994377,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2847038,VA,Wythe,Max Meadows,Source2,3,36.943588,-80.918274,2018,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-2847065,VA,Wythe,Wytheville,Source2,3,36.961044,-81.064575,2018,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-2849943,VA,Wythe,Wytheville,Source2,3,36.96122,-81.065002,2018,17,Sunday,Rain,False,False,False,False,False,False,False
+A-2849954,VA,Wythe,Max Meadows,Source2,3,36.965446,-80.852173,2018,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2850774,VA,Wythe,Wytheville,Source2,3,36.949036,-81.053436,2018,14,Monday,Rain,False,False,False,False,False,False,False
+A-2857940,VA,Wythe,Max Meadows,Source2,3,36.951164,-80.926994,2018,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2871063,VA,Wythe,Wytheville,Source2,3,36.949036,-81.053436,2018,18,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-2887263,VA,Wythe,Wytheville,Source2,3,36.940613,-81.151901,2018,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-2905039,VA,Wythe,Max Meadows,Source2,3,36.945698,-80.948898,2018,10,Tuesday,Rain,False,False,False,False,False,False,False
+A-2905040,VA,Wythe,Max Meadows,Source2,3,36.948154,-80.92133299999998,2018,10,Tuesday,Rain,False,False,False,False,False,False,False
+A-2910567,VA,Wythe,Wytheville,Source2,3,36.940613,-81.151901,2018,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2910571,VA,Wythe,Wytheville,Source2,3,36.948765,-81.052933,2018,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2919827,VA,Wythe,Max Meadows,Source2,3,36.946064,-80.949242,2018,7,Thursday,Rain,False,False,False,False,False,False,False
+A-2938611,VA,Wythe,Wytheville,Source2,3,36.940613,-81.151901,2018,8,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2949514,VA,Wythe,Wytheville,Source2,3,36.940613,-81.151901,2018,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2956238,VA,Wythe,Max Meadows,Source2,3,36.965446,-80.852173,2018,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2956302,VA,Wythe,Max Meadows,Source2,3,36.948154,-80.92133299999998,2018,20,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2956304,VA,Wythe,Max Meadows,Source2,3,36.950508,-80.88119499999998,2018,20,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2956307,VA,Wythe,Max Meadows,Source2,3,36.943573,-80.91825899999998,2018,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2959145,VA,Wythe,Wytheville,Source2,3,36.940613,-81.151901,2018,5,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2962053,VA,Wythe,Max Meadows,Source2,3,36.946953,-80.921257,2018,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2967142,VA,Wythe,Rural Retreat,Source2,3,36.916142,-81.272858,2018,15,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-2967149,VA,Wythe,Max Meadows,Source2,3,36.950508,-80.88119499999998,2018,19,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-2967151,VA,Wythe,Wytheville,Source2,3,36.940613,-81.151901,2018,19,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-2975663,VA,Wythe,Max Meadows,Source2,3,36.920673,-80.899918,2018,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2978305,VA,Wythe,Austinville,Source2,3,36.850296,-80.861664,2018,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-2980724,VA,Wythe,Wytheville,Source2,3,36.937386,-80.994377,2018,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2990267,VA,Wythe,Max Meadows,Source2,3,36.965446,-80.852173,2018,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2995734,VA,Wythe,Max Meadows,Source2,3,36.947243,-80.917191,2018,9,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3015889,VA,Wythe,Wytheville,Source2,3,36.96122,-81.065002,2018,16,Friday,Rain,False,False,False,False,False,False,False
+A-3021934,VA,Wythe,Max Meadows,Source2,3,36.948154,-80.92133299999998,2018,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3024536,VA,Wythe,Wytheville,Source2,3,36.96122,-81.065002,2018,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3024606,VA,Wythe,Max Meadows,Source2,3,36.946301,-80.918121,2018,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3024617,VA,Wythe,Max Meadows,Source2,3,36.950439,-80.881538,2018,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3029777,VA,Wythe,Max Meadows,Source2,3,36.950508,-80.88119499999998,2018,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-3057557,VA,Wythe,Wytheville,Source2,3,36.937195,-80.99472,2018,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3057579,VA,Wythe,Wytheville,Source2,3,36.937122,-80.993973,2018,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3069474,VA,Wythe,Wytheville,Source2,3,36.949036,-81.053436,2018,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3072174,VA,Wythe,Wytheville,Source2,3,36.960297,-81.099251,2018,8,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3092024,VA,Wythe,Wytheville,Source2,3,36.96122,-81.065002,2018,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-3092063,VA,Wythe,Wytheville,Source2,3,36.960674,-81.064796,2018,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3097501,VA,Wythe,Wytheville,Source2,3,36.938824,-81.15484599999998,2017,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3097502,VA,Wythe,Wytheville,Source2,3,36.940613,-81.151901,2017,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3106770,VA,Wythe,Max Meadows,Source2,3,36.948154,-80.92133299999998,2017,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3109604,VA,Wythe,Max Meadows,Source2,3,36.950508,-80.88119499999998,2017,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3115398,VA,Wythe,Max Meadows,Source2,3,36.945999,-80.920273,2017,12,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3115447,VA,Wythe,Austinville,Source2,3,36.850296,-80.861664,2017,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-3115471,VA,Wythe,Max Meadows,Source2,3,36.948154,-80.92133299999998,2017,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-3122547,VA,Wythe,Wytheville,Source2,3,36.940613,-81.151901,2017,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3140920,VA,Wythe,Wytheville,Source2,3,36.949036,-81.053436,2017,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3143824,VA,Wythe,Wytheville,Source2,3,36.937386,-80.994377,2017,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3146415,VA,Wythe,Austinville,Source2,3,36.85009,-80.861298,2017,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-3150142,VA,Wythe,Austinville,Source2,3,36.850296,-80.861664,2017,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3163105,VA,Wythe,Rural Retreat,Source2,3,36.915951,-81.27280400000002,2017,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3168989,VA,Wythe,Austinville,Source2,3,36.850296,-80.861664,2017,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3169009,VA,Wythe,Wytheville,Source2,3,36.937004,-80.99115,2017,8,Monday,Rain,False,False,False,False,False,False,False
+A-3171346,VA,Wythe,Max Meadows,Source2,3,36.965446,-80.852173,2017,18,Tuesday,Rain,False,False,False,False,False,False,False
+A-3181635,VA,Wythe,Wytheville,Source2,3,36.937386,-80.994377,2017,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-3194922,VA,Wythe,Wytheville,Source2,3,36.96703,-81.066078,2017,19,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-3200484,VA,Wythe,Max Meadows,Source2,3,36.947922,-80.920662,2017,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3200534,VA,Wythe,Austinville,Source2,3,36.850296,-80.861664,2017,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3207749,VA,Wythe,Austinville,Source2,3,36.850296,-80.861664,2017,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3216178,VA,Wythe,Max Meadows,Source2,3,36.948154,-80.92133299999998,2017,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3219973,VA,Wythe,Max Meadows,Source2,3,36.945698,-80.948898,2017,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3228453,VA,Wythe,Max Meadows,Source2,3,36.945698,-80.948898,2017,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3231350,VA,Wythe,Max Meadows,Source2,3,36.945698,-80.948898,2017,21,Sunday,Rain,False,False,False,False,False,False,False
+A-3238214,VA,Wythe,Austinville,Source2,3,36.850296,-80.861664,2017,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3240955,VA,Wythe,Max Meadows,Source2,3,36.945698,-80.948898,2017,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3241066,VA,Wythe,Wytheville,Source2,3,36.940613,-81.151901,2017,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3245874,VA,Wythe,Max Meadows,Source2,3,36.948154,-80.92133299999998,2017,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3252072,VA,Wythe,Austinville,Source2,3,36.850296,-80.861664,2017,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3257512,VA,Wythe,Max Meadows,Source2,3,36.948154,-80.92133299999998,2017,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3261407,VA,Wythe,Rural Retreat,Source2,3,36.916145,-81.27282,2017,15,Monday,Rain,False,False,False,False,False,False,False
+A-3261429,VA,Wythe,Wytheville,Source2,3,36.940613,-81.151901,2017,17,Monday,Rain,False,False,False,False,False,False,False
+A-3261435,VA,Wythe,Max Meadows,Source2,3,36.945698,-80.948898,2017,17,Monday,Rain,False,False,False,False,False,False,False
+A-3264032,VA,Wythe,Max Meadows,Source2,3,36.948154,-80.92133299999998,2017,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3301544,VA,Wythe,Wytheville,Source2,3,36.940613,-81.151901,2017,4,Tuesday,Rain,False,False,False,False,False,False,False
+A-3301545,VA,Wythe,Max Meadows,Source2,3,36.965446,-80.852173,2017,5,Tuesday,Rain,False,False,False,False,False,False,False
+A-3301643,VA,Wythe,Wytheville,Source2,3,36.94931,-81.053596,2017,11,Tuesday,Rain,False,False,False,False,False,False,False
+A-3320137,VA,Wythe,Max Meadows,Source2,3,36.965446,-80.852173,2017,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3333091,VA,Wythe,Wytheville,Source2,3,36.96703,-81.066078,2017,4,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-3344770,VA,Wythe,Max Meadows,Source2,3,36.950508,-80.88119499999998,2017,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3346236,VA,Wythe,Austinville,Source2,3,36.850296,-80.861664,2017,15,Friday,Rain,False,False,False,False,False,False,False
+A-3346244,VA,Wythe,Max Meadows,Source2,3,36.945698,-80.948898,2017,16,Friday,Rain,False,False,False,False,False,False,False
+A-3347402,VA,Wythe,Wytheville,Source2,3,36.949036,-81.053436,2017,18,Friday,Rain,False,False,False,False,False,False,False
+A-3348685,VA,Wythe,Wytheville,Source2,3,36.96122,-81.065002,2017,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3360704,VA,Wythe,Max Meadows,Source2,3,36.948154,-80.92133299999998,2017,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-3370807,VA,Wythe,Max Meadows,Source2,3,36.945698,-80.948898,2017,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-3370873,VA,Wythe,Wytheville,Source2,3,36.949036,-81.053436,2017,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-3373598,VA,Wythe,Wytheville,Source2,3,36.937386,-80.994377,2017,7,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3377390,VA,Wythe,Wytheville,Source2,3,36.96122,-81.065002,2017,6,Tuesday,Rain,False,False,False,False,False,False,False
+A-3377479,VA,Wythe,Wytheville,Source2,3,36.96703,-81.066078,2017,16,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-3388178,VA,Wythe,Rural Retreat,Source2,3,36.916107,-81.273193,2017,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3389781,VA,Wythe,Wytheville,Source2,3,36.948029,-81.052254,2017,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3395497,VA,Wythe,Max Meadows,Source2,3,36.948513,-80.923012,2017,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3405172,VA,Wythe,Max Meadows,Source2,3,36.945801,-80.948318,2017,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3446131,VA,Wythe,Wytheville,Source1,3,36.95661,-81.05642900000002,2016,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3446138,VA,Wythe,Wytheville,Source1,3,36.9611,-81.06474,2016,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3446380,VA,Wythe,Max Meadows,Source1,3,36.95108,-80.87831,2016,10,Sunday,Cloudy,False,False,True,False,False,False,False
+A-3475021,VA,Wythe,Wytheville,Source1,3,36.93741,-80.9965,2016,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3477950,VA,Wythe,Wytheville,Source1,4,36.93741,-80.9965,2016,0,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3479057,VA,Wythe,Wytheville,Source1,4,36.959263,-81.101233,2016,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3492551,VA,Wythe,Max Meadows,Source1,4,36.935681,-80.913881,2016,1,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3497897,VA,Wythe,Max Meadows,Source1,4,36.96543,-80.85219000000002,2016,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3502827,VA,Wythe,Max Meadows,Source1,3,36.947034,-80.937044,2016,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3504390,VA,Wythe,Max Meadows,Source1,4,36.88125,-80.8935,2016,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-3508212,VA,Wythe,Austinville,Source1,3,36.850803000000006,-80.861914,2016,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-3510456,VA,Wythe,Wytheville,Source1,4,36.96143,-81.09519,2016,10,Monday,Cloudy,False,False,True,False,False,False,False
+A-3571283,VA,Wythe,Wytheville,Source1,4,36.959,-81.10375,2017,3,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3666595,VA,Wythe,Rural Retreat,Source1,4,36.816841,-81.209816,2023,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-3670677,VA,Wythe,Rural Retreat,Source1,4,36.8166,-81.208963,2023,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-3707448,VA,Wythe,Wytheville,Source1,4,36.919457,-81.166478,2022,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3838655,VA,Wythe,Wytheville,Source1,4,36.944797,-81.02847299999998,2022,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3858636,VA,Wythe,Austinville,Source1,4,36.85345530492376,-80.86294770202227,2022,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3962899,VA,Wythe,Wytheville,Source1,4,37.007369,-81.10055200000002,2022,6,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-4151621,VA,Wythe,Cripple Creek,Source1,4,36.82759,-81.099866,2022,17,Monday,Sin dato,False,False,False,False,False,False,False
+A-4168825,VA,Wythe,Max Meadows,Source1,4,36.930127,-80.90969100000002,2022,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4219107,VA,Wythe,Draper,Source1,4,36.975981,-80.840704,2022,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4225943,VA,Wythe,Max Meadows,Source1,4,36.883996,-80.900129,2022,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4256161,VA,Wythe,Wytheville,Source1,4,36.97252,-81.067695,2022,19,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4256162,VA,Wythe,Wytheville,Source1,4,36.960712,-81.06488399999998,2022,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4277754,VA,Wythe,Wytheville,Source1,4,37.045796,-81.22720600000002,2022,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-4290203,VA,Wythe,Wytheville,Source1,4,36.963612,-81.08753,2022,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4291044,VA,Wythe,Crockett,Source1,4,36.879256,-81.216084,2022,21,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-4359678,VA,Wythe,Wytheville,Source1,4,37.024817,-81.106718,2022,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4410247,VA,Wythe,Austinville,Source1,4,36.867441,-80.872064,2022,16,Saturday,Sin dato,False,False,False,False,False,False,False
+A-4413786,VA,Wythe,Wytheville,Source1,4,36.890223,-81.135938,2022,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4437541,VA,Wythe,Max Meadows,Source1,4,36.881262,-80.893549,2022,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4536341,VA,Wythe,Cripple Creek,Source1,4,36.827936,-81.102907,2022,17,Monday,Sin dato,False,False,False,False,False,False,False
+A-4602897,VA,Wythe,Wytheville,Source1,4,36.939318,-81.153504,2022,14,Saturday,Storm,False,False,False,False,False,False,False
+A-4608076,VA,Wythe,Max Meadows,Source1,4,36.881262,-80.893549,2022,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4654626,VA,Wythe,Draper,Source1,4,36.975981,-80.840704,2022,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4671361,VA,Wythe,Wytheville,Source1,4,36.937805414023686,-80.99733710250379,2022,0,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4690680,VA,Wythe,Max Meadows,Source1,4,36.927647,-80.937947,2022,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4723909,VA,Wythe,Max Meadows,Source1,4,36.911094,-80.888489,2022,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4765132,VA,Wythe,Wytheville,Source1,4,36.956308,-81.113275,2022,4,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4777263,VA,Wythe,Barren Springs,Source1,4,36.915308,-80.80818199999999,2022,12,Tuesday,Rain,False,False,False,False,False,False,False
+A-4780495,VA,Wythe,Wytheville,Source1,4,36.948412,-81.14236899999999,2023,9,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-4805831,VA,Wythe,Wytheville,Source1,4,36.893185,-81.132527,2022,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4829562,VA,Wythe,Crockett,Source1,4,36.87677100000001,-81.218327,2022,21,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-4869472,VA,Wythe,Max Meadows,Source1,4,36.919262,-80.94885699999998,2022,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4873478,VA,Wythe,Max Meadows,Source1,4,36.919455,-80.94845600000002,2022,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4880468,VA,Wythe,Rural Retreat,Source1,4,36.91566109639685,-81.27626538237917,2022,9,Thursday,Rain,False,False,False,False,False,False,False
+A-4898107,VA,Wythe,Wytheville,Source1,4,36.937223,-80.990981,2022,19,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4929755,VA,Wythe,Wytheville,Source1,4,36.936989,-80.990933,2022,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5041973,VA,Wythe,Wytheville,Source1,4,36.93611025792629,-81.16833329162041,2022,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-5057858,VA,Wythe,Wytheville,Source1,4,36.932102,-81.174074,2022,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5106764,VA,Wythe,Wytheville,Source1,4,36.941407,-81.023905,2022,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5188836,VA,Wythe,Max Meadows,Source1,4,36.927017,-80.93719200000002,2022,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5192534,VA,Wythe,Max Meadows,Source1,4,36.881433,-80.893435,2022,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5299189,VA,Wythe,Wytheville,Source1,4,36.955813,-81.113099,2023,1,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5405845,VA,Wythe,Wytheville,Source1,4,36.937223,-80.990981,2022,19,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5468297,VA,Wythe,Crockett,Source1,4,36.86437700000001,-81.172106,2021,10,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-5524019,VA,Wythe,Rural Retreat,Source1,4,36.90094113332319,-81.32471680602396,2021,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5634649,VA,Wythe,Wytheville,Source1,4,36.869953,-81.168894,2021,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5686767,VA,Wythe,Max Meadows,Source1,4,36.946366,-80.94923399999998,2021,17,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-5730521,VA,Wythe,Wytheville,Source1,4,36.96301817876356,-81.06937050780739,2021,8,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-5745713,VA,Wythe,Wytheville,Source1,4,36.955813,-81.113099,2021,18,Thursday,Rain,False,False,False,False,False,False,False
+A-5764038,VA,Wythe,Max Meadows,Source1,4,36.94632410985496,-80.94594597777869,2021,6,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-5778145,VA,Wythe,Max Meadows,Source1,4,36.93842100000001,-80.979736,2021,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5922767,VA,Wythe,Wytheville,Source1,4,36.947416,-81.056304,2021,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5979249,VA,Wythe,Rural Retreat,Source1,4,36.91654086095373,-81.27308964690555,2021,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6017209,VA,Wythe,Wytheville,Source1,4,36.936462,-80.99342299999998,2021,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6052741,VA,Wythe,Wytheville,Source1,4,36.96329712850111,-81.0874164100595,2021,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-6065014,VA,Wythe,Max Meadows,Source1,4,36.949672,-80.884511,2021,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6072986,VA,Wythe,Wytheville,Source1,4,36.937531,-80.982434,2021,8,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6101035,VA,Wythe,Wytheville,Source1,4,36.947972,-81.056764,2021,18,Saturday,Clear / Fair,False,False,True,True,False,False,False
+A-6128169,VA,Wythe,Wytheville,Source1,4,36.95969223958512,-81.06125950774641,2021,19,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6136540,VA,Wythe,Austinville,Source1,4,36.85345530492376,-80.86294770202227,2021,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6152145,VA,Wythe,Hillsville,Source1,4,36.872625,-80.770771,2021,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6251999,VA,Wythe,Rural Retreat,Source1,4,36.915446519675655,-81.27334713897099,2021,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6271588,VA,Wythe,Wytheville,Source1,4,36.939307451072025,-81.15350604018614,2021,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6279947,VA,Wythe,Max Meadows,Source1,4,36.945743,-80.94865899999998,2021,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6414752,VA,Wythe,Max Meadows,Source1,4,36.949586,-80.880701,2021,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6463737,VA,Wythe,Max Meadows,Source1,4,36.951662,-80.87299200000002,2021,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6563974,VA,Wythe,Max Meadows,Source1,4,36.908035,-80.883967,2021,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6592235,VA,Wythe,Max Meadows,Source1,4,36.96318400000001,-80.854028,2020,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6608810,VA,Wythe,Max Meadows,Source1,4,36.904481,-80.878096,2020,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6609566,VA,Wythe,Max Meadows,Source1,4,36.904481,-80.878096,2020,1,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6641914,VA,Wythe,Wytheville,Source1,4,36.970099,-81.066795,2020,22,Sunday,Rain,False,False,False,False,False,False,False
+A-6689172,VA,Wythe,Max Meadows,Source1,4,36.973461,-80.932348,2020,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6796747,VA,Wythe,Max Meadows,Source1,4,36.967842,-80.927518,2020,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7341080,VA,Wythe,Wytheville,Source1,3,36.95425,-81.12018,2019,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7477186,VA,Wythe,Wytheville,Source1,4,36.95913,-81.10169,2018,17,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7479153,VA,Wythe,Max Meadows,Source1,4,36.94825,-80.9282,2018,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7479154,VA,Wythe,Max Meadows,Source1,4,36.94812,-80.92130999999998,2018,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7479940,VA,Wythe,Rural Retreat,Source1,4,36.9164,-81.26988,2018,16,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7484933,VA,Wythe,Max Meadows,Source1,3,36.94825,-80.92086,2018,5,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7484934,VA,Wythe,Max Meadows,Source1,3,36.94653,-80.91327,2018,5,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7484947,VA,Wythe,Max Meadows,Source1,4,36.94812,-80.92130999999998,2018,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7484948,VA,Wythe,Max Meadows,Source1,4,36.947807,-80.931152,2018,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7540680,VA,Wythe,Austinville,Source1,4,36.85278,-80.86289000000002,2018,18,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7544114,VA,Wythe,Max Meadows,Source1,3,36.96702,-80.8507,2018,15,Thursday,Rain,False,False,True,False,False,False,False
+A-7557848,VA,Wythe,Wytheville,Source1,4,37.017293,-81.106951,2018,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7557862,VA,Wythe,Max Meadows,Source1,4,36.94825,-80.9282,2018,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7557863,VA,Wythe,Max Meadows,Source1,4,36.94502,-80.91966,2018,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7565957,VA,Wythe,Austinville,Source1,4,36.865912,-80.87162,2018,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-7568952,VA,Wythe,Max Meadows,Source1,3,36.96386,-80.85339,2018,22,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7584264,VA,Wythe,Wytheville,Source1,3,36.94603,-81.04665,2018,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-7593850,VA,Wythe,Austinville,Source1,4,36.84931,-80.85672,2018,23,Sunday,Rain,False,False,False,False,False,False,False
+A-7609889,VA,Wythe,Wytheville,Source1,3,36.94062,-81.15189000000002,2018,0,Sunday,Rain,False,False,False,False,False,False,False
+A-7616948,VA,Wythe,Wytheville,Source1,4,36.93212,-81.17401,2018,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7616949,VA,Wythe,Wytheville,Source1,4,36.93212,-81.17401,2018,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7624052,VA,Wythe,Max Meadows,Source1,4,36.950224,-80.88264000000002,2018,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-7633412,VA,Wythe,Wytheville,Source1,3,36.951504,-81.054051,2018,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7665892,VA,Wythe,Max Meadows,Source1,4,36.94632,-80.94605,2017,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7699383,VA,Wythe,Wytheville,Source1,4,36.94525,-80.95134,2017,5,Wednesday,Rain,False,False,True,False,False,False,False
+A-7701128,VA,Wythe,Austinville,Source1,4,36.84722,-80.86012,2017,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7773178,VA,Wythe,Wytheville,Source1,4,36.96069,-81.06482,2019,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7773179,VA,Wythe,Wytheville,Source1,4,36.959481,-81.100479,2019,6,Wednesday,Cloudy,False,False,False,False,False,False,False

@@ -1,0 +1,1023 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-527619,AZ,Pinal,Marana,Source2,3,32.506756,-111.268776,2022,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-539083,AZ,Pinal,Maricopa,Source2,3,33.002918,-111.753166,2022,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-549396,AZ,Pinal,Eloy,Source2,4,32.647545,-111.393089,2022,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-554421,AZ,Pinal,Casa Grande,Source2,3,32.819012,-111.683441,2022,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-557241,AZ,Pinal,Casa Grande,Source2,3,32.828804,-111.740273,2022,4,Sunday,Sin dato,False,False,False,False,False,False,False
+A-580766,AZ,Pinal,Maricopa,Source2,4,33.002918,-111.753166,2022,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-589447,AZ,Pinal,Eloy,Source2,3,32.777344,-111.619492,2022,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-591036,AZ,Pinal,Maricopa,Source3,3,33.117992,-111.84211,2022,20,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-604222,AZ,Pinal,Eloy,Source2,3,32.647545,-111.393089,2022,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-608150,AZ,Pinal,Red Rock,Source2,3,32.572887,-111.32438700000002,2022,5,Saturday,Sin dato,False,False,False,False,False,False,False
+A-620536,AZ,Pinal,Maricopa,Source2,3,32.834747,-112.133324,2022,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-622346,AZ,Pinal,Maricopa,Source2,3,33.002918,-111.753166,2022,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-632857,AZ,Pinal,Eloy,Source2,3,32.806629,-111.666588,2022,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-632858,AZ,Pinal,Casa Grande,Source2,3,32.81649,-111.681175,2022,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-659795,AZ,Pinal,Casa Grande,Source2,3,32.812584,-111.674599,2022,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-660133,AZ,Pinal,Eloy,Source2,3,32.809334,-111.670921,2022,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-666362,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2022,18,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-667839,AZ,Pinal,Stanfield,Source2,3,32.828342,-111.96032,2022,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-670739,AZ,Pinal,Casa Grande,Source2,4,32.827396,-111.77328500000002,2022,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-670787,AZ,Pinal,Casa Grande,Source2,3,32.827396,-111.77328500000002,2022,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-671056,AZ,Pinal,Casa Grande,Source2,3,32.834545,-111.724274,2022,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-673692,AZ,Pinal,Bapchule,Source2,3,33.203094,-111.907936,2022,9,Thursday,Sin dato,False,False,False,False,False,False,False
+A-676267,AZ,Pinal,Marana,Source2,3,32.572872,-111.322418,2022,14,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-689885,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2022,13,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-703763,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2022,12,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-711298,AZ,Pinal,Bapchule,Source2,3,33.177776,-111.887955,2022,6,Monday,Sin dato,False,False,False,False,False,False,False
+A-712754,AZ,Pinal,Sacaton,Source2,3,33.003712,-111.753189,2022,16,Friday,Sin dato,False,False,False,False,False,False,False
+A-742020,AZ,Pinal,Marana,Source2,3,32.506207,-111.270126,2022,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-756178,AZ,Pinal,Maricopa,Source2,3,33.002846000000005,-111.753044,2022,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-766130,AZ,Pinal,Casa Grande,Source2,3,32.820587,-111.683807,2021,8,Friday,Sin dato,False,False,False,False,False,False,False
+A-773309,AZ,Pinal,Casa Grande,Source2,3,32.835701,-111.685753,2021,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-777452,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2021,16,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-783187,AZ,Pinal,Maricopa,Source2,4,33.117992,-111.84211,2021,13,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-785487,AZ,Pinal,Eloy,Source2,3,32.647545,-111.393089,2021,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-792864,AZ,Pinal,Casa Grande,Source2,4,32.827396,-111.77328500000002,2021,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-795345,AZ,Pinal,Casa Grande,Source2,3,32.833298,-111.685562,2021,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-801908,AZ,Pinal,Eloy,Source2,3,32.777344,-111.619492,2021,5,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-802169,AZ,Pinal,Maricopa,Source2,3,33.106407,-111.833351,2021,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-822095,AZ,Pinal,Marana,Source2,3,32.506756,-111.268776,2021,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-826146,AZ,Pinal,Maricopa,Source2,3,33.030254,-111.774773,2021,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-837022,AZ,Pinal,Casa Grande,Source2,3,32.881271000000005,-111.687378,2021,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-843064,AZ,Pinal,Maricopa,Source2,3,33.024601000000004,-111.770805,2021,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-845935,AZ,Pinal,Maricopa,Source2,3,33.064518,-111.801109,2021,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-872124,AZ,Pinal,Casa Grande,Source2,3,32.93832800000001,-111.700829,2021,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-883409,AZ,Pinal,Marana,Source2,3,32.506756,-111.268776,2021,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-893908,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2021,9,Sunday,Cloudy,False,False,True,False,False,False,False
+A-907473,AZ,Pinal,Eloy,Source2,3,32.647545,-111.393089,2021,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-923429,AZ,Pinal,Maricopa,Source2,3,33.002918,-111.753166,2021,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-923710,AZ,Pinal,Maricopa,Source2,3,33.002918,-111.753166,2021,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-959750,AZ,Pinal,Casa Grande,Source2,4,32.828045,-111.860298,2021,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-960292,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2021,7,Saturday,Rain,False,False,True,False,False,False,False
+A-960345,AZ,Pinal,Casa Grande,Source2,3,32.835701,-111.685753,2021,9,Saturday,Rain,False,False,False,False,False,False,False
+A-979589,AZ,Pinal,Red Rock,Source2,3,32.572887,-111.32438700000002,2021,13,Monday,Sin dato,False,False,False,False,False,False,False
+A-983479,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2021,3,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-985020,AZ,Pinal,Eloy,Source2,3,32.647545,-111.393089,2021,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-990748,AZ,Pinal,Maricopa,Source2,4,33.002918,-111.753166,2021,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1004491,AZ,Pinal,Marana,Source2,3,32.506699,-111.268532,2021,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1023203,AZ,Pinal,Eloy,Source2,3,32.76313,-111.51570900000002,2021,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1025425,AZ,Pinal,Eloy,Source2,3,32.734894,-111.550293,2021,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1028776,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2021,13,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-1039797,AZ,Pinal,Gold Canyon,Source2,3,33.33585,-111.440498,2021,21,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-1041523,AZ,Pinal,Casa Grande,Source2,3,32.93832800000001,-111.700829,2021,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1041525,AZ,Pinal,Maricopa,Source2,3,33.002918,-111.753166,2021,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1043749,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2021,11,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-1045763,AZ,Pinal,Maricopa,Source2,4,33.117992,-111.84211,2021,4,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1054972,AZ,Pinal,Maricopa,Source2,3,33.002918,-111.753166,2021,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1054974,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2021,15,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1061890,AZ,Pinal,Coolidge,Source2,3,33.066799,-111.80246,2021,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1062551,AZ,Pinal,Maricopa,Source2,3,33.08453,-112.03804,2021,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1080510,AZ,Pinal,Maricopa,Source2,3,33.002918,-111.753166,2021,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1080514,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2021,14,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1085034,AZ,Pinal,Casa Grande,Source2,3,32.833439,-111.686256,2021,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1087672,AZ,Pinal,Casa Grande,Source2,3,32.817169,-111.681755,2021,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1087673,AZ,Pinal,Coolidge,Source2,3,33.063179,-111.799675,2021,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1089100,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2021,13,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1093619,AZ,Pinal,Casa Grande,Source2,3,32.812584,-111.674599,2021,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1097761,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2021,11,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-1103683,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2021,11,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-1109911,AZ,Pinal,Maricopa,Source2,4,33.002918,-111.753166,2021,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1113793,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2021,12,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1113798,AZ,Pinal,Eloy,Source2,3,32.735149,-111.550133,2021,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1113805,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2021,16,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1115417,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2021,11,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-1123595,AZ,Pinal,Casa Grande,Source2,3,32.93832800000001,-111.700829,2021,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1126499,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2021,13,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-1127767,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2021,13,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-1133145,AZ,Pinal,Coolidge,Source2,3,33.024261,-111.769272,2021,15,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-1138315,AZ,Pinal,Eloy,Source2,4,32.724747,-111.516266,2021,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1138337,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2021,12,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1138339,AZ,Pinal,Maricopa,Source2,3,33.002918,-111.753166,2021,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1139804,AZ,Pinal,Superior,Source2,3,33.31308,-111.04891200000002,2021,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1151464,AZ,Pinal,Maricopa,Source2,4,33.117241,-111.841286,2021,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1164554,AZ,Pinal,Coolidge,Source2,3,33.081309999999995,-111.813622,2021,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1172517,AZ,Pinal,Casa Grande,Source2,3,32.93832800000001,-111.700829,2021,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1172519,AZ,Pinal,Casa Grande,Source2,3,32.881363,-111.687096,2021,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1173255,AZ,Pinal,Red Rock,Source2,3,32.572666,-111.325417,2021,6,Sunday,Sin dato,False,False,False,False,False,False,False
+A-1182006,AZ,Pinal,Maricopa,Source2,3,33.002918,-111.753166,2021,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-1182007,AZ,Pinal,Maricopa,Source2,4,33.002918,-111.753166,2021,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-1182014,AZ,Pinal,Eloy,Source2,3,32.647545,-111.393089,2021,15,Monday,Rain,False,False,False,False,False,False,False
+A-1190378,AZ,Pinal,Casa Grande,Source2,3,32.938004,-111.700539,2021,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1190379,AZ,Pinal,Maricopa,Source2,3,33.002918,-111.753166,2021,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1192972,AZ,Pinal,Marana,Source2,3,32.506756,-111.268776,2021,23,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1194574,AZ,Pinal,Marana,Source2,4,32.505112,-111.269722,2021,1,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1194581,AZ,Pinal,Marana,Source2,3,32.506207,-111.270126,2021,1,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1215014,AZ,Pinal,Eloy,Source2,4,32.724284999999995,-111.516113,2020,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1233720,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2020,16,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1233734,AZ,Pinal,Casa Grande,Source2,3,32.932659,-111.75673700000002,2020,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1235419,AZ,Pinal,Gold Canyon,Source2,3,33.35112,-111.457695,2020,5,Thursday,Rain,False,False,False,False,False,False,False
+A-1235435,AZ,Pinal,Casa Grande,Source2,3,32.833824,-111.6856,2020,7,Thursday,Rain,False,False,False,False,False,False,False
+A-1237048,AZ,Pinal,Eloy,Source2,3,32.725063,-111.515648,2020,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1240865,AZ,Pinal,Eloy,Source2,4,32.777344,-111.619492,2020,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1251903,AZ,Pinal,Eloy,Source2,3,32.806629,-111.666588,2020,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1256644,AZ,Pinal,Maricopa,Source2,3,33.002918,-111.753166,2020,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1263425,AZ,Pinal,Maricopa,Source2,3,33.002918,-111.753166,2020,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1267997,AZ,Pinal,Coolidge,Source2,3,33.120028999999995,-111.843002,2020,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1297044,AZ,Pinal,Maricopa,Source2,3,33.003815,-111.753822,2020,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1305754,AZ,Pinal,Casa Grande,Source2,3,32.828053000000004,-111.825981,2020,23,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1311081,AZ,Pinal,Maricopa,Source2,3,32.834747,-112.133324,2020,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1325011,AZ,Pinal,Maricopa,Source2,4,33.002918,-111.753166,2020,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1332085,AZ,Pinal,Marana,Source2,3,32.572872,-111.322418,2020,17,Thursday,Clear / Fair,False,False,False,True,False,False,False
+A-1333825,AZ,Pinal,Maricopa,Source2,3,33.002918,-111.753166,2020,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1336928,AZ,Pinal,Marana,Source2,3,32.519901000000004,-111.278488,2020,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1338732,AZ,Pinal,Maricopa,Source2,3,33.002918,-111.753166,2020,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1344467,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2020,17,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1345863,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2020,11,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-1374840,AZ,Pinal,Maricopa,Source2,3,33.040291,-112.021294,2020,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1380453,AZ,Pinal,Maricopa,Source2,3,33.002918,-111.753166,2020,18,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-1400090,AZ,Pinal,Casa Grande,Source2,4,32.93832800000001,-111.700829,2020,10,Sunday,Sin dato,False,False,False,False,False,False,False
+A-1414469,AZ,Pinal,Gold Canyon,Source2,3,33.357578000000004,-111.467438,2020,5,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-1415881,AZ,Pinal,Casa Grande,Source2,4,32.93832800000001,-111.700829,2020,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1415883,AZ,Pinal,Maricopa,Source2,3,33.003212,-111.753342,2020,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1421194,AZ,Pinal,Eloy,Source2,3,32.812462,-111.674446,2020,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1422811,AZ,Pinal,Maricopa,Source2,3,33.002918,-111.753166,2020,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1425150,AZ,Pinal,Maricopa,Source2,3,33.002918,-111.753166,2020,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1431861,AZ,Pinal,Casa Grande,Source2,3,32.93832800000001,-111.700829,2020,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1431875,AZ,Pinal,Tucson,Source2,3,32.66333,-111.051277,2020,13,Thursday,Clear / Fair,False,False,False,True,False,False,False
+A-1431891,AZ,Pinal,Casa Grande,Source2,3,32.93832800000001,-111.700829,2020,21,Thursday,Storm,False,False,False,False,False,False,False
+A-1444286,AZ,Pinal,Maricopa,Source2,4,33.117992,-111.84211,2020,21,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-1448585,AZ,Pinal,Picacho,Source2,3,32.711029,-111.49279,2020,18,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-1468721,AZ,Pinal,San Manuel,Source2,3,32.663784,-110.683403,2020,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1469909,AZ,Pinal,Casa Grande,Source2,3,32.827396,-111.77328500000002,2020,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1476340,AZ,Pinal,Casa Grande,Source2,3,32.835339000000005,-111.686119,2020,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1476348,AZ,Pinal,Casa Grande,Source2,3,32.835358,-111.686119,2020,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1488184,AZ,Pinal,Maricopa,Source2,3,33.002918,-111.753166,2020,3,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1506632,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2020,11,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-1517350,AZ,Pinal,Maricopa,Source2,3,33.002918,-111.753166,2020,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1533915,AZ,Pinal,Marana,Source2,3,32.506756,-111.268776,2020,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1537241,AZ,Pinal,Superior,Source2,3,33.290813,-111.096947,2020,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1544444,AZ,Pinal,Casa Grande,Source2,3,32.828053000000004,-111.825981,2020,12,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-1565719,AZ,Pinal,Maricopa,Source2,4,33.117992,-111.84211,2020,7,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-1575414,AZ,Pinal,Marana,Source2,4,32.505966,-111.26857,2020,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1604448,AZ,Pinal,Stanfield,Source2,3,32.828342,-111.96032,2020,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1612164,AZ,Pinal,Maricopa,Source2,3,33.002918,-111.753166,2020,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1623166,AZ,Pinal,Maricopa,Source2,3,33.002918,-111.753166,2020,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1628493,AZ,Pinal,Eloy,Source2,3,32.710438,-111.490746,2020,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-1628522,AZ,Pinal,Queen Creek,Source2,3,33.103092,-111.713257,2020,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1640378,AZ,Pinal,Maricopa,Source2,4,33.117992,-111.84211,2020,5,Monday,Cloudy,False,False,True,False,False,False,False
+A-1682193,AZ,Pinal,Eloy,Source2,3,32.621243,-111.362968,2019,19,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1684609,AZ,Pinal,Casa Grande,Source2,3,32.879696,-111.686867,2019,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-1704568,AZ,Pinal,Eloy,Source2,3,32.647545,-111.393089,2019,9,Monday,Rain,False,False,False,False,False,False,False
+A-1715614,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2019,18,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1719866,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2019,10,Monday,Cloudy,False,False,True,False,False,False,False
+A-1719873,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2019,15,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-1731201,AZ,Pinal,Casa Grande,Source3,3,32.833874,-111.685997,2019,5,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1750337,AZ,Pinal,Eloy,Source2,3,32.735149,-111.550133,2019,5,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1753409,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2019,16,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-1756036,AZ,Pinal,Maricopa,Source2,3,33.123009,-112.017677,2019,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1765041,AZ,Pinal,Eloy,Source2,3,32.647545,-111.393089,2019,4,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1778981,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2019,12,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1809496,AZ,Pinal,Casa Grande,Source2,3,32.835186,-111.685715,2019,8,Saturday,Sin dato,False,False,False,False,False,False,False
+A-1809498,AZ,Pinal,Casa Grande,Source2,3,32.811787,-111.674881,2019,9,Saturday,Sin dato,False,False,False,False,False,False,False
+A-1821514,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2019,5,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-1836807,AZ,Pinal,Eloy,Source2,3,32.81242,-111.674332,2019,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1839856,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2019,19,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1840855,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2019,8,Saturday,Cloudy,False,False,True,False,False,False,False
+A-1857540,AZ,Pinal,Casa Grande,Source2,3,32.828053000000004,-111.825981,2019,7,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-1862630,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2019,22,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-1871199,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2019,12,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1871210,AZ,Pinal,Maricopa,Source2,4,33.117992,-111.84211,2019,16,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1872220,AZ,Pinal,Eloy,Source2,3,32.623489,-111.365311,2019,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1872953,AZ,Pinal,Marana,Source2,3,32.572338,-111.322083,2019,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1875187,AZ,Pinal,Apache Junction,Source2,3,33.38877100000001,-111.580582,2019,9,Monday,Cloudy,True,True,False,False,False,False,False
+A-1877657,AZ,Pinal,Marana,Source2,3,32.506756,-111.268776,2019,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1885319,AZ,Pinal,Casa Grande,Source2,3,32.93832800000001,-111.700829,2019,5,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1886681,AZ,Pinal,Eloy,Source2,4,32.735149,-111.550133,2019,4,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1890966,AZ,Pinal,Marana,Source2,3,32.506207,-111.270126,2019,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1893097,AZ,Pinal,Superior,Source2,3,33.290813,-111.096947,2019,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1893098,AZ,Pinal,Eloy,Source2,3,32.777344,-111.619492,2019,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1923994,AZ,Pinal,Eloy,Source2,3,32.812462,-111.674446,2019,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1926207,AZ,Pinal,Eloy,Source2,3,32.647545,-111.393089,2019,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1928706,AZ,Pinal,Marana,Source2,3,32.506207,-111.270126,2019,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1931823,AZ,Pinal,Chandler,Source2,3,33.162048,-111.875832,2019,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1936571,AZ,Pinal,Casa Grande,Source2,3,32.93832800000001,-111.700829,2019,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1941411,AZ,Pinal,Casa Grande,Source2,3,32.93832800000001,-111.700829,2019,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1941413,AZ,Pinal,Casa Grande,Source2,3,32.879696,-111.686867,2019,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1943808,AZ,Pinal,Maricopa,Source2,3,33.00589,-111.755478,2019,6,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1948194,AZ,Pinal,Eloy,Source2,3,32.812462,-111.674446,2019,4,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-1948233,AZ,Pinal,Casa Grande,Source2,3,32.93391,-111.697166,2019,15,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-1948242,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2019,17,Tuesday,Sin dato,False,False,True,False,False,False,False
+A-1950409,AZ,Pinal,Maricopa,Source2,3,33.002918,-111.753166,2019,10,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-1954094,AZ,Pinal,Eloy,Source2,3,32.812462,-111.674446,2019,5,Saturday,Sin dato,False,False,False,False,False,False,False
+A-1958720,AZ,Pinal,Coolidge,Source2,3,32.95895,-111.524101,2019,5,Tuesday,Sin dato,False,False,False,True,False,False,False
+A-1958742,AZ,Pinal,Apache Junction,Source2,3,33.37925,-111.490562,2019,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1958754,AZ,Pinal,Casa Grande,Source2,3,32.940411,-111.703468,2019,13,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-1966046,AZ,Pinal,Maricopa,Source2,3,32.834747,-112.133324,2019,4,Saturday,Sin dato,False,False,False,False,False,False,False
+A-1968753,AZ,Pinal,Red Rock,Source2,3,32.572887,-111.32438700000002,2019,14,Monday,Sin dato,False,False,False,False,False,False,False
+A-1971010,AZ,Pinal,Casa Grande,Source2,3,32.879696,-111.686867,2019,21,Monday,Sin dato,False,False,False,False,False,False,False
+A-1990378,AZ,Pinal,Casa Grande,Source2,3,32.879696,-111.686867,2019,20,Friday,Sin dato,False,False,False,False,False,False,False
+A-1991203,AZ,Pinal,Oracle,Source2,3,32.621731,-110.797958,2019,5,Saturday,Sin dato,False,False,False,False,False,False,False
+A-1991887,AZ,Pinal,Eloy,Source2,3,32.647545,-111.393089,2019,8,Sunday,Sin dato,False,False,False,False,False,False,False
+A-1995827,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2019,20,Tuesday,Sin dato,False,False,True,False,False,False,False
+A-1995828,AZ,Pinal,Marana,Source2,3,32.506424,-111.269119,2019,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1997840,AZ,Pinal,Marana,Source2,3,32.506756,-111.268776,2019,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1997845,AZ,Pinal,Eloy,Source2,3,32.721916,-111.514305,2019,5,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-2003287,AZ,Pinal,Stanfield,Source2,3,32.828342,-111.96032,2019,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2003987,AZ,Pinal,Eloy,Source2,3,32.710033,-111.490494,2019,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2014561,AZ,Pinal,Casa Grande,Source2,3,32.833328,-111.685562,2019,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2014569,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2019,5,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-2014576,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2019,7,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-2018683,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2019,16,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-2021170,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2019,20,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-2039858,AZ,Pinal,Eloy,Source2,3,32.812462,-111.674446,2019,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2058967,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2019,6,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-2058979,AZ,Pinal,Casa Grande,Source2,3,32.879696,-111.686867,2019,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2066994,AZ,Pinal,Marana,Source2,3,32.506756,-111.268776,2019,6,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2067676,AZ,Pinal,Eloy,Source2,3,32.722343,-111.514725,2019,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2067677,AZ,Pinal,Eloy,Source2,4,32.70995300000001,-111.490555,2019,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2071983,AZ,Pinal,Gold Canyon,Source2,3,33.366489,-111.477982,2019,14,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-2071984,AZ,Pinal,Gold Canyon,Source2,3,33.366489,-111.477982,2019,14,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-2074296,AZ,Pinal,Eloy,Source2,3,32.723347,-111.516289,2019,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2074297,AZ,Pinal,Eloy,Source2,3,32.723347,-111.516289,2019,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2074304,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2019,7,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-2076119,AZ,Pinal,Maricopa,Source2,3,33.002918,-111.753166,2019,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2079352,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2019,12,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-2083135,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2019,13,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-2083841,AZ,Pinal,Miami,Source2,3,33.34193,-111.006493,2019,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2091216,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2019,13,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-2095965,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2019,14,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-2097557,AZ,Pinal,Coolidge,Source2,3,33.031654,-111.77541399999998,2019,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2127711,AZ,Pinal,Maricopa,Source2,3,33.117992,-111.84211,2019,14,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-2127720,AZ,Pinal,Maricopa,Source2,3,32.834747,-112.133324,2019,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2129961,AZ,Pinal,Marana,Source2,3,32.506664,-111.268906,2019,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2129963,AZ,Pinal,Eloy,Source2,3,32.647545,-111.393089,2019,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2141766,AZ,Pinal,Maricopa,Source2,3,32.834747,-112.133324,2019,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2146487,AZ,Pinal,Casa Grande,Source2,3,32.815723,-111.679138,2019,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2157923,AZ,Pinal,Maricopa,Source2,3,33.118008,-111.842125,2019,13,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-2178270,AZ,Pinal,Casa Grande,Source2,3,32.879696,-111.686867,2019,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2179744,AZ,Pinal,Casa Grande,Source2,3,32.879696,-111.686867,2019,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2179745,AZ,Pinal,Casa Grande,Source2,3,32.811523,-111.674446,2019,10,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-2186541,AZ,Pinal,Casa Grande,Source2,3,32.827396,-111.77328500000002,2019,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2191324,AZ,Pinal,Casa Grande,Source2,3,32.879696,-111.686867,2019,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2192294,AZ,Pinal,Eloy,Source2,3,32.777344,-111.619492,2019,4,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2202641,AZ,Pinal,Casa Grande,Source2,3,32.939602,-111.70224,2019,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2210934,AZ,Pinal,Marana,Source2,3,32.505501,-111.268723,2019,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2210936,AZ,Pinal,Maricopa,Source2,3,33.118008,-111.842125,2019,13,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-2219780,AZ,Pinal,Casa Grande,Source2,3,32.82756,-111.773674,2019,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2234737,AZ,Pinal,Marana,Source2,4,32.505783,-111.268486,2019,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2242869,AZ,Pinal,Casa Grande,Source2,3,32.879162,-111.686958,2019,20,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-2245108,AZ,Pinal,Casa Grande,Source2,3,32.809653999999995,-111.67144,2019,21,Thursday,Sin dato,False,False,False,False,False,False,False
+A-2248347,AZ,Pinal,Maricopa,Source2,3,32.834755,-112.13353700000002,2019,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2248353,AZ,Pinal,Eloy,Source2,3,32.807152,-111.667908,2019,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2253575,AZ,Pinal,Maricopa,Source2,3,33.002739,-111.753151,2019,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2253605,AZ,Pinal,Maricopa,Source2,3,33.118008,-111.842125,2019,15,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-2253607,AZ,Pinal,Maricopa,Source2,3,33.118008,-111.842125,2019,15,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-2256492,AZ,Pinal,Maricopa,Source2,3,33.118008,-111.842125,2019,20,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-2263364,AZ,Pinal,Eloy,Source2,3,32.64753,-111.393066,2019,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-2268821,AZ,Pinal,Eloy,Source2,3,32.778511,-111.621307,2019,6,Wednesday,Rain,False,False,False,False,False,False,False
+A-2273975,AZ,Pinal,Maricopa,Source2,3,33.118008,-111.842125,2019,5,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-2274001,AZ,Pinal,Coolidge,Source2,3,33.022964,-111.76813500000002,2019,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2278216,AZ,Pinal,Maricopa,Source2,3,33.002739,-111.753151,2019,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2289009,AZ,Pinal,Maricopa,Source2,3,33.002739,-111.753151,2019,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2289018,AZ,Pinal,Eloy,Source2,3,32.775890000000004,-111.61776,2019,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2289027,AZ,Pinal,Casa Grande,Source2,3,32.879162,-111.686958,2019,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2290016,AZ,Pinal,Casa Grande,Source2,3,32.833214,-111.685944,2019,6,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2303584,AZ,Pinal,Maricopa,Source2,3,33.115318,-111.840218,2019,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2303586,AZ,Pinal,Eloy,Source2,3,32.735199,-111.550095,2019,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2303587,AZ,Pinal,Maricopa,Source2,3,33.001507000000004,-111.751938,2019,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2303588,AZ,Pinal,Maricopa,Source2,3,33.003292,-111.753403,2019,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2303590,AZ,Pinal,Maricopa,Source2,3,33.118008,-111.842125,2019,16,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-2308246,AZ,Pinal,Casa Grande,Source2,3,32.93819000000001,-111.700432,2019,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2310976,AZ,Pinal,Maricopa,Source2,3,33.118008,-111.842125,2019,13,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-2319593,AZ,Pinal,Eloy,Source2,3,32.647839000000005,-111.393234,2019,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2320434,AZ,Pinal,Marana,Source2,3,32.506561,-111.269188,2019,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2325251,AZ,Pinal,Casa Grande,Source2,3,32.815723,-111.679138,2019,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2329999,AZ,Pinal,Eloy,Source2,3,32.735199,-111.550095,2019,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2333182,AZ,Pinal,Eloy,Source2,3,32.775890000000004,-111.61776,2019,6,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2333887,AZ,Pinal,Casa Grande,Source2,3,32.833565,-111.685974,2019,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2335878,AZ,Pinal,Eloy,Source2,3,32.735199,-111.550095,2019,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-2343842,AZ,Pinal,Maricopa,Source2,3,33.118008,-111.842125,2019,4,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-2343846,AZ,Pinal,Maricopa,Source2,3,33.002815000000005,-111.753021,2019,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2348117,AZ,Pinal,Coolidge,Source2,3,33.20381500000001,-111.908043,2019,5,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2362718,AZ,Pinal,Marana,Source2,3,32.573116,-111.323387,2019,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2362728,AZ,Pinal,Maricopa,Source2,3,33.118008,-111.842125,2019,19,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-2370229,AZ,Pinal,Maricopa,Source2,3,33.118008,-111.842125,2019,20,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-2372851,AZ,Pinal,Eloy,Source2,3,32.723122,-111.515892,2018,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-2374744,AZ,Pinal,Maricopa,Source2,3,32.828109999999995,-111.963593,2018,7,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-2374754,AZ,Pinal,Eloy,Source2,3,32.735134,-111.550774,2018,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2377085,AZ,Pinal,Eloy,Source2,3,32.713425,-111.498459,2018,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2378998,AZ,Pinal,Maricopa,Source2,3,33.00589,-111.755478,2018,6,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-2379058,AZ,Pinal,Marana,Source2,3,32.505501,-111.268723,2018,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2396444,AZ,Pinal,Casa Grande,Source2,3,32.93819000000001,-111.700432,2018,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2396488,AZ,Pinal,Casa Grande,Source2,4,32.93784,-111.70078999999998,2018,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2400068,AZ,Pinal,Maricopa,Source2,3,33.118008,-111.842125,2018,18,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-2400069,AZ,Pinal,Maricopa,Source2,3,33.118008,-111.842125,2018,19,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-2404750,AZ,Pinal,Maricopa,Source2,3,33.118008,-111.842125,2018,9,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-2404797,AZ,Pinal,Maricopa,Source2,3,33.118008,-111.842125,2018,18,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-2408867,AZ,Pinal,Marana,Source2,3,32.505501,-111.268723,2018,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2412409,AZ,Pinal,Marana,Source2,3,32.505501,-111.268723,2018,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2412411,AZ,Pinal,Maricopa,Source2,3,33.002739,-111.753151,2018,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2412414,AZ,Pinal,Maricopa,Source2,3,33.002449,-111.752182,2018,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2414449,AZ,Pinal,Maricopa,Source2,3,33.118008,-111.842125,2018,14,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-2414458,AZ,Pinal,Eloy,Source2,3,32.711948,-111.495064,2018,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2414463,AZ,Pinal,Eloy,Source2,3,32.64753,-111.393066,2018,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2415134,AZ,Pinal,Marana,Source2,3,32.505501,-111.268723,2018,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2415890,AZ,Pinal,Maricopa,Source2,3,33.118008,-111.842125,2018,11,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-2417803,AZ,Pinal,Eloy,Source2,3,32.723267,-111.515602,2018,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2420042,AZ,Pinal,Casa Grande,Source2,3,32.879162,-111.686958,2018,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2420825,AZ,Pinal,Maricopa,Source2,3,33.118008,-111.842125,2018,6,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-2420827,AZ,Pinal,Casa Grande,Source2,3,32.879162,-111.686958,2018,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2420833,AZ,Pinal,Eloy,Source2,3,32.807152,-111.667908,2018,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2426397,AZ,Pinal,Casa Grande,Source2,3,32.879639000000005,-111.686745,2018,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2429690,AZ,Pinal,Eloy,Source2,3,32.734959,-111.550369,2018,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2429703,AZ,Pinal,Casa Grande,Source2,3,32.833023,-111.68557,2018,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2429716,AZ,Pinal,Maricopa,Source2,3,33.117737,-111.842094,2018,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2431517,AZ,Pinal,Maricopa,Source2,3,33.117737,-111.842094,2018,7,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2434323,AZ,Pinal,Eloy,Source2,3,32.647507,-111.393341,2018,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2434324,AZ,Pinal,Maricopa,Source2,3,33.117737,-111.842094,2018,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2434368,AZ,Pinal,Casa Grande,Source2,3,32.879639000000005,-111.686745,2018,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2437793,AZ,Pinal,Eloy,Source2,3,32.647507,-111.393341,2018,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2437830,AZ,Pinal,Maricopa,Source2,3,33.003215999999995,-111.752884,2018,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2443754,AZ,Pinal,Marana,Source2,3,32.572895,-111.322983,2018,23,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2443760,AZ,Pinal,Maricopa,Source2,3,33.117737,-111.842094,2018,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2447198,AZ,Pinal,Maricopa,Source2,3,32.828109999999995,-111.963593,2018,10,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-2451505,AZ,Pinal,Eloy,Source2,3,32.734959,-111.550369,2018,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2457228,AZ,Pinal,Eloy,Source2,3,32.713425,-111.498459,2018,23,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2457267,AZ,Pinal,Maricopa,Source2,3,33.118618,-111.842766,2018,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2457275,AZ,Pinal,Eloy,Source2,3,32.647507,-111.393341,2018,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2457279,AZ,Pinal,Casa Grande,Source2,3,32.833023,-111.68557,2018,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2460463,AZ,Pinal,Eloy,Source2,3,32.713425,-111.498459,2018,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2464341,AZ,Pinal,Maricopa,Source2,3,33.003215999999995,-111.752884,2018,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2464353,AZ,Pinal,Eloy,Source2,3,32.723537,-111.515823,2018,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2467521,AZ,Pinal,Maricopa,Source2,3,33.117737,-111.842094,2018,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2470474,AZ,Pinal,Eloy,Source2,3,32.647507,-111.393341,2018,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2473097,AZ,Pinal,Maricopa,Source2,3,33.117737,-111.842094,2018,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2473125,AZ,Pinal,Maricopa,Source2,3,33.003215999999995,-111.752884,2018,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2478270,AZ,Pinal,Maricopa,Source2,3,33.117737,-111.842094,2018,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2478276,AZ,Pinal,Maricopa,Source2,3,33.117737,-111.842094,2018,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2478278,AZ,Pinal,Maricopa,Source2,3,33.003418,-111.753052,2018,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2480637,AZ,Pinal,Maricopa,Source2,3,33.003215999999995,-111.752884,2018,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2480705,AZ,Pinal,Casa Grande,Source2,3,32.879639000000005,-111.686745,2018,16,Monday,Sin dato,False,False,False,False,False,False,False
+A-2487013,AZ,Pinal,Maricopa,Source2,3,33.003215999999995,-111.752884,2018,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2493364,AZ,Pinal,Maricopa,Source2,3,32.834446,-112.133224,2018,7,Tuesday,Rain,False,False,False,False,False,False,False
+A-2493397,AZ,Pinal,Casa Grande,Source2,3,32.828335,-111.740097,2018,14,Tuesday,Rain,False,False,False,False,False,False,False
+A-2503600,AZ,Pinal,Eloy,Source2,3,32.713425,-111.498459,2018,8,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2508682,AZ,Pinal,Casa Grande,Source2,3,32.938774,-111.701515,2018,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2515254,AZ,Pinal,Casa Grande,Source2,3,32.834717,-111.685707,2018,5,Friday,Rain,False,False,False,False,False,False,False
+A-2515281,AZ,Pinal,Eloy,Source2,3,32.651077,-111.398201,2018,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2515292,AZ,Pinal,Marana,Source2,3,32.572895,-111.322983,2018,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2516275,AZ,Pinal,Eloy,Source2,3,32.723122,-111.515892,2018,7,Saturday,Rain,False,False,False,False,False,False,False
+A-2516278,AZ,Pinal,Marana,Source2,3,32.506485,-111.269165,2018,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2516964,AZ,Pinal,Eloy,Source2,3,32.735035,-111.550545,2018,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2519496,AZ,Pinal,Maricopa,Source2,3,33.003215999999995,-111.752884,2018,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-2525263,AZ,Pinal,Maricopa,Source2,3,33.003215999999995,-111.752884,2018,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2528349,AZ,Pinal,Maricopa,Source2,3,32.828109999999995,-111.963593,2018,19,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-2541324,AZ,Pinal,Casa Grande,Source2,3,32.938213,-111.700691,2018,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2547304,AZ,Pinal,Coolidge,Source2,3,33.120701000000004,-111.84346,2018,17,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2548619,AZ,Pinal,Casa Grande,Source2,3,32.833023,-111.68557,2018,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2551958,AZ,Pinal,Eloy,Source2,3,32.734959,-111.550369,2018,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2554903,AZ,Pinal,Maricopa,Source2,3,33.003215999999995,-111.752884,2018,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2554905,AZ,Pinal,Maricopa,Source2,3,33.003215999999995,-111.752884,2018,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2560499,AZ,Pinal,Maricopa,Source2,3,33.153099,-111.869347,2018,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2572732,AZ,Pinal,Maricopa,Source2,3,33.117737,-111.842094,2018,4,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2582895,AZ,Pinal,Casa Grande,Source2,3,32.833332,-111.685944,2018,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2586829,AZ,Pinal,Eloy,Source2,3,32.734959,-111.550369,2018,5,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2592125,AZ,Pinal,Eloy,Source2,3,32.647507,-111.393341,2018,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2594587,AZ,Pinal,Maricopa,Source2,3,32.834446,-112.133224,2018,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2594591,AZ,Pinal,Eloy,Source2,3,32.809017,-111.67103600000002,2018,12,Wednesday,Rain,False,False,False,False,False,False,False
+A-2594595,AZ,Pinal,Marana,Source2,3,32.506485,-111.269165,2018,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2594600,AZ,Pinal,Casa Grande,Source2,3,32.833023,-111.68557,2018,13,Wednesday,Rain,False,False,False,False,False,False,False
+A-2597254,AZ,Pinal,Marana,Source2,3,32.573906,-111.323891,2018,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2597255,AZ,Pinal,Marana,Source2,3,32.506485,-111.269165,2018,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2597259,AZ,Pinal,Eloy,Source2,3,32.713425,-111.498459,2018,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2597261,AZ,Pinal,Eloy,Source2,3,32.776974,-111.619385,2018,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2604010,AZ,Pinal,Marana,Source2,3,32.506485,-111.269165,2018,20,Monday,Sin dato,False,False,False,False,False,False,False
+A-2609543,AZ,Pinal,Casa Grande,Source2,3,32.938213,-111.700691,2018,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2612331,AZ,Pinal,Maricopa,Source2,3,33.003215999999995,-111.752884,2018,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2614964,AZ,Pinal,Casa Grande,Source2,3,32.879639000000005,-111.686745,2018,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2614966,AZ,Pinal,Casa Grande,Source2,3,32.879639000000005,-111.686745,2018,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2615920,AZ,Pinal,Eloy,Source2,3,32.713425,-111.498459,2018,6,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2623040,AZ,Pinal,Coolidge,Source2,3,33.061466,-111.798363,2018,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2629419,AZ,Pinal,Maricopa,Source2,3,33.11824,-111.842056,2018,9,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-2639538,AZ,Pinal,Coolidge,Source2,3,33.183876,-111.89266200000002,2018,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-2653570,AZ,Pinal,Casa Grande,Source2,3,32.938213,-111.700691,2018,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2654627,AZ,Pinal,Eloy,Source2,3,32.647507,-111.393341,2018,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2655439,AZ,Pinal,Maricopa,Source2,3,33.19017,-111.897934,2018,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2680351,AZ,Pinal,Casa Grande,Source2,3,32.879639000000005,-111.686745,2018,6,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2681124,AZ,Pinal,Eloy,Source2,3,32.734959,-111.550369,2018,7,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2681126,AZ,Pinal,Marana,Source2,3,32.506485,-111.269165,2018,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2683007,AZ,Pinal,Coolidge,Source2,3,33.14135,-111.859871,2018,5,Monday,Sin dato,False,False,False,False,False,False,False
+A-2688654,AZ,Pinal,Eloy,Source2,3,32.74057,-111.560799,2018,4,Thursday,Sin dato,False,False,False,False,False,False,False
+A-2691824,AZ,Pinal,Casa Grande,Source2,3,32.938213,-111.700691,2018,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2691830,AZ,Pinal,Maricopa,Source2,3,33.003215999999995,-111.752884,2018,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2694564,AZ,Pinal,Eloy,Source2,3,32.713425,-111.498459,2018,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2701253,AZ,Pinal,Coolidge,Source2,3,33.195183,-111.901398,2018,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2701254,AZ,Pinal,Casa Grande,Source2,3,32.848824,-111.686935,2018,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2704457,AZ,Pinal,Maricopa,Source2,3,33.003215999999995,-111.752884,2018,5,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2708622,AZ,Pinal,Maricopa,Source2,3,33.117737,-111.842094,2018,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2721844,AZ,Pinal,Coolidge,Source2,3,33.003582,-111.751785,2018,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2734931,AZ,Pinal,Maricopa,Source2,3,33.117737,-111.842094,2018,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2741396,AZ,Pinal,Eloy,Source2,3,32.713425,-111.498459,2018,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2743663,AZ,Pinal,Coolidge,Source2,3,33.043591,-111.784821,2018,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2748642,AZ,Pinal,Eloy,Source2,3,32.734959,-111.550369,2018,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2751028,AZ,Pinal,Eloy,Source2,3,32.734745000000004,-111.549118,2018,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2752166,AZ,Pinal,Casa Grande,Source2,3,32.879639000000005,-111.686745,2018,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2757414,AZ,Pinal,Marana,Source2,3,32.506485,-111.269165,2018,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2762197,AZ,Pinal,Maricopa,Source2,3,33.117737,-111.842094,2018,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2765793,AZ,Pinal,Eloy,Source2,3,32.647507,-111.393341,2018,8,Saturday,Rain,False,False,False,False,False,False,False
+A-2765794,AZ,Pinal,Marana,Source2,3,32.576446999999995,-111.326027,2018,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2766570,AZ,Pinal,Eloy,Source2,3,32.71143,-111.493027,2018,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2766584,AZ,Pinal,Eloy,Source2,3,32.721947,-111.51556399999998,2018,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2768583,AZ,Pinal,Superior,Source2,3,33.274952,-111.235107,2018,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2773194,AZ,Pinal,Eloy,Source2,3,32.713425,-111.498459,2018,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2773203,AZ,Pinal,Maricopa,Source2,3,33.117737,-111.842094,2018,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2778795,AZ,Pinal,Casa Grande,Source2,3,32.879639000000005,-111.686745,2018,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2779532,AZ,Pinal,Maricopa,Source2,3,33.190147,-111.897919,2018,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2779533,AZ,Pinal,Maricopa,Source2,3,33.148891,-111.866104,2018,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2784197,AZ,Pinal,Eloy,Source2,3,32.734959,-111.550369,2018,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2791238,AZ,Pinal,Casa Grande,Source2,3,32.850390999999995,-111.687012,2018,5,Friday,Sin dato,False,False,False,False,False,False,False
+A-2791246,AZ,Pinal,Eloy,Source2,3,32.719467,-111.509209,2018,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2799025,AZ,Pinal,Maricopa,Source2,3,33.003215999999995,-111.752884,2018,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2804496,AZ,Pinal,Marana,Source2,3,32.506485,-111.269165,2018,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2805591,AZ,Pinal,Casa Grande,Source2,3,32.818034999999995,-111.679108,2018,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2808279,AZ,Pinal,Maricopa,Source2,3,33.117737,-111.842094,2018,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2808289,AZ,Pinal,Maricopa,Source2,3,33.003215999999995,-111.752884,2018,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2818894,AZ,Pinal,Casa Grande,Source2,3,32.833023,-111.68557,2018,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2820099,AZ,Pinal,Maricopa,Source2,3,33.003215999999995,-111.752884,2018,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2820902,AZ,Pinal,Casa Grande,Source2,3,32.938419,-111.700859,2018,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2828569,AZ,Pinal,Maricopa,Source2,3,33.190178,-111.998436,2018,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2840624,AZ,Pinal,Maricopa,Source2,3,33.117737,-111.842094,2018,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2845807,AZ,Pinal,Casa Grande,Source2,3,32.77948,-111.623413,2018,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2845828,AZ,Pinal,Maricopa,Source2,3,33.123432,-112.017578,2018,13,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-2849583,AZ,Pinal,Eloy,Source2,3,32.647507,-111.393341,2018,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2854114,AZ,Pinal,Maricopa,Source2,3,32.834446,-112.133224,2018,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2874421,AZ,Pinal,Maricopa,Source2,3,33.117737,-111.842094,2018,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2877018,AZ,Pinal,Casa Grande,Source2,3,32.77948,-111.623413,2018,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2884767,AZ,Pinal,Maricopa,Source2,3,33.002796000000004,-111.752983,2018,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2896843,AZ,Pinal,Casa Grande,Source2,3,32.938213,-111.700691,2018,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2899602,AZ,Pinal,Casa Grande,Source2,3,32.879639000000005,-111.686745,2018,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2899625,AZ,Pinal,Casa Grande,Source2,3,32.879639000000005,-111.686745,2018,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2906644,AZ,Pinal,Kearny,Source2,3,33.1964,-111.054176,2018,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2912055,AZ,Pinal,Maricopa,Source2,3,33.002434,-111.752693,2018,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2912058,AZ,Pinal,Maricopa,Source2,3,33.002968,-111.752686,2018,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2912124,AZ,Pinal,Maricopa,Source2,3,33.117737,-111.842094,2018,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2914764,AZ,Pinal,Casa Grande,Source2,3,32.827884999999995,-111.77433,2018,4,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-2915873,AZ,Pinal,Maricopa,Source2,3,33.003215999999995,-111.752884,2018,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2924843,AZ,Pinal,Coolidge,Source2,3,33.190234999999994,-111.897568,2018,12,Saturday,Sin dato,False,False,False,False,False,False,False
+A-2933577,AZ,Pinal,Eloy,Source2,3,32.713264,-111.498016,2018,19,Thursday,Sin dato,False,False,False,False,False,False,False
+A-2936095,AZ,Pinal,Maricopa,Source2,3,33.117737,-111.842094,2018,12,Friday,Sin dato,False,False,False,False,False,False,False
+A-2937067,AZ,Pinal,Maricopa,Source2,3,32.834446,-112.133224,2018,7,Saturday,Sin dato,False,False,False,False,False,False,False
+A-2937773,AZ,Pinal,Eloy,Source2,3,32.734959,-111.550369,2018,12,Sunday,Sin dato,False,False,False,False,False,False,False
+A-2940120,AZ,Pinal,Marana,Source2,3,32.506485,-111.269165,2018,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2940124,AZ,Pinal,Maricopa,Source2,3,33.003215999999995,-111.752884,2018,20,Monday,Sin dato,False,False,False,False,False,False,False
+A-2950990,AZ,Pinal,Maricopa,Source2,3,33.117737,-111.842094,2018,16,Friday,Sin dato,False,False,False,False,False,False,False
+A-2984822,AZ,Pinal,Eloy,Source2,3,32.713425,-111.498459,2018,12,Thursday,Sin dato,False,False,False,False,False,False,False
+A-2988527,AZ,Pinal,Casa Grande,Source2,3,32.833023,-111.68557,2018,18,Saturday,Sin dato,False,False,False,False,False,False,False
+A-2991735,AZ,Pinal,Maricopa,Source2,3,33.117737,-111.842094,2018,6,Monday,Sin dato,False,False,False,False,False,False,False
+A-2994388,AZ,Pinal,Maricopa,Source2,3,33.003215999999995,-111.752884,2018,14,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-2994401,AZ,Pinal,Maricopa,Source2,3,32.834446,-112.133224,2018,17,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-2997313,AZ,Pinal,Maricopa,Source2,3,33.117737,-111.842094,2018,9,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-3014774,AZ,Pinal,Maricopa,Source2,3,33.117908,-111.841797,2018,13,Thursday,Rain,False,False,False,False,False,False,False
+A-3017370,AZ,Pinal,Marana,Source2,3,32.506485,-111.269165,2018,17,Friday,Rain,False,False,False,False,False,False,False
+A-3018302,AZ,Pinal,Coolidge,Source2,3,33.119152,-111.84141499999998,2018,13,Saturday,Sin dato,False,False,False,False,False,False,False
+A-3020867,AZ,Pinal,Maricopa,Source2,3,33.003215999999995,-111.752884,2018,4,Monday,Sin dato,False,False,False,False,False,False,False
+A-3031469,AZ,Pinal,Eloy,Source2,3,32.734959,-111.550369,2018,4,Friday,Sin dato,False,False,False,False,False,False,False
+A-3032573,AZ,Pinal,Maricopa,Source2,3,33.00346,-111.753082,2018,13,Saturday,Sin dato,False,False,False,False,False,False,False
+A-3032576,AZ,Pinal,Maricopa,Source2,3,33.003215999999995,-111.752884,2018,14,Saturday,Sin dato,False,False,False,False,False,False,False
+A-3038195,AZ,Pinal,Eloy,Source2,3,32.647507,-111.393341,2018,5,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-3041845,AZ,Pinal,Eloy,Source2,3,32.647507,-111.393341,2018,22,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-3044111,AZ,Pinal,Maricopa,Source2,3,33.117737,-111.842094,2018,4,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-3044113,AZ,Pinal,Eloy,Source2,3,32.647507,-111.393341,2018,4,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-3049275,AZ,Pinal,Marana,Source2,3,32.572895,-111.322983,2018,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3049286,AZ,Pinal,Marana,Source2,3,32.572895,-111.322983,2018,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3049305,AZ,Pinal,Eloy,Source2,3,32.713425,-111.498459,2018,16,Friday,Sin dato,False,False,False,False,False,False,False
+A-3049316,AZ,Pinal,Maricopa,Source2,3,33.003215999999995,-111.752884,2018,19,Friday,Sin dato,False,False,False,False,False,False,False
+A-3050739,AZ,Pinal,Maricopa,Source2,3,33.003215999999995,-111.752884,2018,15,Sunday,Sin dato,False,False,False,False,False,False,False
+A-3064562,AZ,Pinal,Maricopa,Source2,3,33.117737,-111.842094,2018,7,Friday,Sin dato,False,False,False,False,False,False,False
+A-3068240,AZ,Pinal,Eloy,Source2,3,32.776974,-111.619385,2018,13,Monday,Sin dato,False,False,False,False,False,False,False
+A-3068260,AZ,Pinal,Marana,Source2,3,32.572895,-111.322983,2018,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3068278,AZ,Pinal,Casa Grande,Source2,3,32.827884999999995,-111.860504,2018,19,Monday,Sin dato,False,False,False,False,False,False,False
+A-3068279,AZ,Pinal,Casa Grande,Source2,3,32.827884999999995,-111.860504,2018,22,Monday,Sin dato,False,False,False,False,False,False,False
+A-3073826,AZ,Pinal,Casa Grande,Source2,3,32.938354,-111.701164,2018,9,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-3076168,AZ,Pinal,Eloy,Source2,3,32.734959,-111.550369,2018,16,Friday,Sin dato,False,False,False,False,False,False,False
+A-3076173,AZ,Pinal,Casa Grande,Source2,3,32.879639000000005,-111.686745,2018,16,Friday,Sin dato,False,False,False,False,False,False,False
+A-3076177,AZ,Pinal,Casa Grande,Source2,3,32.938213,-111.700691,2018,17,Friday,Sin dato,False,False,False,False,False,False,False
+A-3079486,AZ,Pinal,Eloy,Source2,3,32.713425,-111.498459,2018,13,Monday,Sin dato,False,False,False,False,False,False,False
+A-3089879,AZ,Pinal,Eloy,Source2,3,32.809017,-111.67103600000002,2018,11,Friday,Sin dato,False,False,False,False,False,False,False
+A-3089887,AZ,Pinal,Casa Grande,Source2,3,32.833023,-111.68557,2018,12,Friday,Sin dato,False,False,False,False,False,False,False
+A-3091332,AZ,Pinal,Marana,Source2,3,32.506485,-111.269165,2018,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3093529,AZ,Pinal,Eloy,Source2,3,32.647507,-111.393341,2018,4,Monday,Sin dato,False,False,False,False,False,False,False
+A-3096142,AZ,Pinal,Maricopa,Source2,3,32.828109999999995,-111.963593,2018,19,Tuesday,Sin dato,False,False,True,False,False,False,False
+A-3099030,AZ,Pinal,Casa Grande,Source2,3,32.938213,-111.700691,2017,5,Thursday,Sin dato,False,False,False,False,False,False,False
+A-3099061,AZ,Pinal,Maricopa,Source2,3,33.117737,-111.842094,2017,15,Thursday,Sin dato,False,False,False,False,False,False,False
+A-3102024,AZ,Pinal,Eloy,Source2,3,32.713169,-111.498589,2017,10,Friday,Sin dato,False,False,False,True,False,False,False
+A-3102059,AZ,Pinal,Marana,Source2,3,32.506485,-111.269165,2017,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3102853,AZ,Pinal,Maricopa,Source2,3,33.117737,-111.842094,2017,10,Saturday,Sin dato,False,False,False,False,False,False,False
+A-3105664,AZ,Pinal,Casa Grande,Source2,3,32.879639000000005,-111.686745,2017,16,Monday,Sin dato,False,False,False,False,False,False,False
+A-3105674,AZ,Pinal,Eloy,Source2,3,32.809017,-111.67103600000002,2017,20,Monday,Sin dato,False,False,False,False,False,False,False
+A-3111230,AZ,Pinal,Maricopa,Source2,3,33.117737,-111.842094,2017,4,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-3111239,AZ,Pinal,Maricopa,Source2,3,33.003215999999995,-111.752884,2017,6,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-3118139,AZ,Pinal,Maricopa,Source2,3,33.116749,-111.841339,2017,6,Saturday,Sin dato,False,False,False,False,False,False,False
+A-3119612,AZ,Pinal,Maricopa,Source2,3,33.005013,-111.754341,2017,11,Sunday,Sin dato,False,False,False,False,False,False,False
+A-3124031,AZ,Pinal,Eloy,Source2,3,32.713425,-111.498459,2017,10,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-3132783,AZ,Pinal,Maricopa,Source2,3,33.003215999999995,-111.752884,2017,6,Friday,Sin dato,False,False,False,False,False,False,False
+A-3132784,AZ,Pinal,Maricopa,Source2,3,33.117737,-111.842094,2017,6,Friday,Sin dato,False,False,False,False,False,False,False
+A-3134342,AZ,Pinal,Maricopa,Source2,3,32.834446,-112.133224,2017,7,Sunday,Sin dato,False,False,False,False,False,False,False
+A-3134345,AZ,Pinal,Eloy,Source2,3,32.647507,-111.393341,2017,11,Sunday,Sin dato,False,False,False,False,False,False,False
+A-3136842,AZ,Pinal,Maricopa,Source2,3,33.117737,-111.842094,2017,12,Monday,Sin dato,False,False,False,False,False,False,False
+A-3142554,AZ,Pinal,Eloy,Source2,3,32.734959,-111.550369,2017,5,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-3145372,AZ,Pinal,Coolidge,Source2,3,33.1432,-111.861298,2017,12,Thursday,Sin dato,False,False,False,False,False,False,False
+A-3148741,AZ,Pinal,Maricopa,Source2,3,33.003215999999995,-111.752884,2017,11,Saturday,Sin dato,False,False,False,False,False,False,False
+A-3148742,AZ,Pinal,Maricopa,Source2,3,33.000275,-111.750954,2017,12,Saturday,Sin dato,False,False,False,False,False,False,False
+A-3149248,AZ,Pinal,Stanfield,Source2,3,32.828415,-111.966568,2017,7,Sunday,Sin dato,False,False,False,False,False,False,False
+A-3149774,AZ,Pinal,Maricopa,Source2,3,33.117737,-111.842094,2017,0,Monday,Sin dato,False,False,False,False,False,False,False
+A-3149778,AZ,Pinal,Eloy,Source2,3,32.776974,-111.619385,2017,21,Monday,Sin dato,False,False,False,False,False,False,False
+A-3154505,AZ,Pinal,Casa Grande,Source2,3,32.819401,-111.68325,2017,11,Thursday,Sin dato,False,False,False,False,False,False,False
+A-3154506,AZ,Pinal,Casa Grande,Source2,3,32.833317,-111.685577,2017,11,Thursday,Sin dato,False,False,False,False,False,False,False
+A-3162084,AZ,Pinal,Maricopa,Source2,3,33.117737,-111.842094,2017,15,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-3162106,AZ,Pinal,Maricopa,Source2,3,33.117737,-111.842094,2017,18,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-3164485,AZ,Pinal,Maricopa,Source2,3,33.003215999999995,-111.752884,2017,20,Thursday,Sin dato,False,False,False,False,False,False,False
+A-3166855,AZ,Pinal,Maricopa,Source2,3,33.117737,-111.842094,2017,12,Friday,Sin dato,False,False,False,False,False,False,False
+A-3166857,AZ,Pinal,Casa Grande,Source2,3,32.827884999999995,-111.77433,2017,12,Friday,Sin dato,False,False,True,False,False,False,False
+A-3166877,AZ,Pinal,Marana,Source2,3,32.572895,-111.322983,2017,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3167826,AZ,Pinal,Chandler,Source2,3,33.149094,-111.865837,2017,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3167828,AZ,Pinal,Eloy,Source2,3,32.809017,-111.67103600000002,2017,16,Saturday,Sin dato,False,False,False,False,False,False,False
+A-3170314,AZ,Pinal,Casa Grande,Source2,3,32.833023,-111.68557,2017,4,Monday,Sin dato,False,False,False,False,False,False,False
+A-3172514,AZ,Pinal,Eloy,Source2,3,32.734959,-111.550369,2017,13,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-3177244,AZ,Pinal,Maricopa,Source2,3,33.003215999999995,-111.752884,2017,6,Thursday,Sin dato,False,False,False,False,False,False,False
+A-3180401,AZ,Pinal,Coolidge,Source2,3,33.116446999999994,-111.840668,2017,11,Saturday,Sin dato,False,False,False,False,False,False,False
+A-3185337,AZ,Pinal,Eloy,Source2,3,32.647507,-111.393341,2017,21,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-3187647,AZ,Pinal,Eloy,Source2,3,32.734959,-111.550369,2017,5,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-3192333,AZ,Pinal,Casa Grande,Source2,3,32.938213,-111.700691,2017,18,Friday,Sin dato,False,False,False,False,False,False,False
+A-3196177,AZ,Pinal,Maricopa,Source2,3,33.117737,-111.842094,2017,4,Monday,Sin dato,False,False,False,False,False,False,False
+A-3201952,AZ,Pinal,Maricopa,Source2,3,33.117737,-111.842094,2017,13,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-3203475,AZ,Pinal,Casa Grande,Source2,3,32.879639000000005,-111.686745,2017,8,Thursday,Sin dato,False,False,False,False,False,False,False
+A-3203479,AZ,Pinal,Coolidge,Source2,3,33.190639000000004,-111.897881,2017,10,Thursday,Sin dato,False,False,False,False,False,False,False
+A-3203485,AZ,Pinal,Casa Grande,Source2,3,32.833023,-111.68557,2017,12,Thursday,Sin dato,False,False,False,False,False,False,False
+A-3203498,AZ,Pinal,Eloy,Source2,3,32.647507,-111.393341,2017,17,Thursday,Sin dato,False,False,False,False,False,False,False
+A-3205267,AZ,Pinal,Marana,Source2,3,32.572895,-111.322983,2017,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3205272,AZ,Pinal,Coolidge,Source2,3,33.028053,-111.772629,2017,11,Friday,Sin dato,False,False,False,False,False,False,False
+A-3205979,AZ,Pinal,Maricopa,Source2,3,33.007954,-111.756721,2017,12,Saturday,Sin dato,False,False,False,False,False,False,False
+A-3206657,AZ,Pinal,Casa Grande,Source2,3,32.938213,-111.700691,2017,10,Sunday,Sin dato,False,False,False,False,False,False,False
+A-3209306,AZ,Pinal,Casa Grande,Source2,3,32.833023,-111.68557,2017,14,Monday,Sin dato,False,False,False,False,False,False,False
+A-3214932,AZ,Pinal,Maricopa,Source2,3,33.003616,-111.753647,2017,15,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-3215813,AZ,Pinal,Maricopa,Source2,3,33.003215999999995,-111.752884,2017,10,Saturday,Sin dato,False,False,False,False,False,False,False
+A-3215822,AZ,Pinal,Eloy,Source2,3,32.616478,-111.35936,2017,17,Saturday,Sin dato,False,False,False,False,False,False,False
+A-3224442,AZ,Pinal,Maricopa,Source2,3,33.003215999999995,-111.752884,2017,14,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-3227196,AZ,Pinal,Casa Grande,Source2,3,32.827884999999995,-111.860504,2017,15,Thursday,Sin dato,False,False,False,False,False,False,False
+A-3227210,AZ,Pinal,Casa Grande,Source2,3,32.828335,-111.740097,2017,21,Thursday,Sin dato,False,False,False,False,False,False,False
+A-3229903,AZ,Pinal,Maricopa,Source2,3,33.117737,-111.842094,2017,17,Friday,Sin dato,False,False,False,False,False,False,False
+A-3229912,AZ,Pinal,Eloy,Source2,3,32.713425,-111.498459,2017,21,Friday,Sin dato,False,False,False,False,False,False,False
+A-3230908,AZ,Pinal,Eloy,Source2,3,32.809017,-111.67103600000002,2017,18,Saturday,Sin dato,False,False,False,False,False,False,False
+A-3231615,AZ,Pinal,Maricopa,Source2,3,33.003215999999995,-111.752884,2017,5,Sunday,Sin dato,False,False,False,False,False,False,False
+A-3231620,AZ,Pinal,Maricopa,Source2,3,33.003215999999995,-111.752884,2017,9,Sunday,Sin dato,False,False,False,False,False,False,False
+A-3236895,AZ,Pinal,Marana,Source2,3,32.534424,-111.290176,2017,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3239827,AZ,Pinal,Eloy,Source2,3,32.647507,-111.393341,2017,14,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-3239844,AZ,Pinal,Marana,Source2,3,32.506485,-111.269165,2017,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3244612,AZ,Pinal,Eloy,Source2,3,32.713425,-111.498459,2017,16,Friday,Sin dato,False,False,False,False,False,False,False
+A-3245450,AZ,Pinal,Eloy,Source2,3,32.717979,-111.507622,2017,5,Saturday,Sin dato,False,False,False,False,False,False,False
+A-3246033,AZ,Pinal,Eloy,Source2,3,32.719101,-111.508942,2017,4,Sunday,Sin dato,False,False,False,False,False,False,False
+A-3246043,AZ,Pinal,Casa Grande,Source2,3,32.938213,-111.700691,2017,15,Sunday,Sin dato,False,False,False,False,False,False,False
+A-3250966,AZ,Pinal,Eloy,Source2,3,32.647507,-111.393341,2017,13,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-3250970,AZ,Pinal,Marana,Source2,3,32.576195,-111.325806,2017,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3253531,AZ,Pinal,Eloy,Source2,3,32.776974,-111.619385,2017,5,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-3259008,AZ,Pinal,Maricopa,Source2,3,33.117737,-111.842094,2017,17,Friday,Sin dato,False,False,False,False,False,False,False
+A-3265658,AZ,Pinal,Eloy,Source2,3,32.734959,-111.550369,2017,16,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-3265659,AZ,Pinal,Marana,Source2,4,32.506485,-111.269165,2017,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3265663,AZ,Pinal,Eloy,Source2,3,32.647507,-111.393341,2017,18,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-3270453,AZ,Pinal,Maricopa,Source2,3,33.06953,-111.804977,2017,15,Thursday,Sin dato,False,False,False,False,False,False,False
+A-3274298,AZ,Pinal,Maricopa,Source2,3,33.003215999999995,-111.752884,2017,5,Sunday,Sin dato,False,False,False,False,False,False,False
+A-3274304,AZ,Pinal,Casa Grande,Source2,3,32.833023,-111.68557,2017,14,Sunday,Sin dato,False,False,False,False,False,False,False
+A-3274306,AZ,Pinal,Eloy,Source2,3,32.776974,-111.619385,2017,14,Sunday,Sin dato,False,False,False,False,False,False,False
+A-3276262,AZ,Pinal,Maricopa,Source2,3,33.117737,-111.842094,2017,15,Monday,Sin dato,False,False,False,False,False,False,False
+A-3276268,AZ,Pinal,Maricopa,Source2,3,33.003215999999995,-111.752884,2017,17,Monday,Sin dato,False,False,False,False,False,False,False
+A-3279075,AZ,Pinal,Coolidge,Source2,3,33.06105,-111.688492,2017,15,Thursday,Sin dato,False,False,False,False,False,False,False
+A-3279098,AZ,Pinal,Eloy,Source2,3,32.726387,-111.521675,2017,20,Thursday,Sin dato,False,False,False,False,False,False,False
+A-3281824,AZ,Pinal,Maricopa,Source2,3,33.003215999999995,-111.752884,2017,16,Friday,Sin dato,False,False,False,False,False,False,False
+A-3293557,AZ,Pinal,Maricopa,Source2,3,33.117737,-111.842094,2017,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3296547,AZ,Pinal,Eloy,Source2,3,32.809017,-111.67103600000002,2017,20,Friday,Sin dato,False,False,False,False,False,False,False
+A-3297447,AZ,Pinal,Coolidge,Source2,3,33.114155,-111.838921,2017,4,Saturday,Sin dato,False,False,False,False,False,False,False
+A-3297448,AZ,Pinal,Maricopa,Source2,3,33.005184,-111.754486,2017,5,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3312114,AZ,Pinal,Eloy,Source2,3,32.647507,-111.393341,2017,12,Friday,Sin dato,False,False,False,False,False,False,False
+A-3312153,AZ,Pinal,Casa Grande,Source2,3,32.879639000000005,-111.686745,2017,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3318881,AZ,Pinal,Maricopa,Source2,3,33.093628,-111.82354,2017,16,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-3324910,AZ,Pinal,Casa Grande,Source2,3,32.817776,-111.679382,2017,19,Thursday,Sin dato,False,False,False,False,False,False,False
+A-3327805,AZ,Pinal,Casa Grande,Source2,4,32.938213,-111.700691,2017,15,Friday,Sin dato,False,False,False,False,False,False,False
+A-3329405,AZ,Pinal,Casa Grande,Source2,3,32.83276,-111.68589,2017,14,Sunday,Sin dato,False,False,False,False,False,False,False
+A-3329406,AZ,Pinal,Casa Grande,Source2,3,32.83276,-111.68589,2017,14,Sunday,Sin dato,False,False,False,False,False,False,False
+A-3329408,AZ,Pinal,Marana,Source2,3,32.572895,-111.322983,2017,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3334731,AZ,Pinal,Eloy,Source2,3,32.713425,-111.498459,2017,7,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-3337728,AZ,Pinal,Eloy,Source2,3,32.647507,-111.393341,2017,12,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-3340673,AZ,Pinal,Eloy,Source2,3,32.734959,-111.550369,2017,15,Thursday,Sin dato,False,False,False,False,False,False,False
+A-3340678,AZ,Pinal,Eloy,Source2,3,32.647507,-111.393341,2017,15,Thursday,Sin dato,False,False,False,False,False,False,False
+A-3345734,AZ,Pinal,Maricopa,Source2,3,33.117737,-111.842094,2017,3,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3345765,AZ,Pinal,Maricopa,Source2,3,32.830902,-112.032295,2017,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3350205,AZ,Pinal,Maricopa,Source2,3,33.042629,-111.784286,2017,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3355507,AZ,Pinal,Maricopa,Source2,3,33.117737,-111.842094,2017,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3355518,AZ,Pinal,Maricopa,Source2,3,33.002289000000005,-111.751785,2017,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3367334,AZ,Pinal,Eloy,Source2,3,32.713425,-111.498459,2017,15,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-3372423,AZ,Pinal,Eloy,Source2,3,32.809017,-111.67103600000002,2017,11,Friday,Sin dato,False,False,False,False,False,False,False
+A-3372439,AZ,Pinal,Casa Grande,Source2,3,32.827884999999995,-111.77433,2017,14,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-3376310,AZ,Pinal,Casa Grande,Source2,3,32.879639000000005,-111.686745,2017,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3379048,AZ,Pinal,Maricopa,Source2,3,33.117737,-111.842094,2017,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3391393,AZ,Pinal,Marana,Source2,3,32.506485,-111.269165,2017,3,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3397205,AZ,Pinal,Maricopa,Source2,3,33.003215999999995,-111.752884,2017,3,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3397255,AZ,Pinal,Maricopa,Source2,3,33.117737,-111.842094,2017,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3400083,AZ,Pinal,Apache Junction,Source2,3,33.384003,-111.497154,2017,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3402858,AZ,Pinal,Maricopa,Source2,3,33.003215999999995,-111.752884,2017,19,Friday,Sin dato,False,False,False,False,False,False,False
+A-3406592,AZ,Pinal,Marana,Source2,3,32.506485,-111.269165,2017,3,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3406620,AZ,Pinal,Eloy,Source2,3,32.776974,-111.619385,2017,18,Monday,Sin dato,False,False,False,False,False,False,False
+A-3406624,AZ,Pinal,Eloy,Source2,3,32.734959,-111.550369,2017,19,Monday,Sin dato,False,False,False,False,False,False,False
+A-3409515,AZ,Pinal,Superior,Source2,3,33.296432,-111.087982,2017,13,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-3412127,AZ,Pinal,Casa Grande,Source2,3,32.819401,-111.68325,2017,3,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3412187,AZ,Pinal,Casa Grande,Source2,3,32.827884999999995,-111.860504,2017,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3412188,AZ,Pinal,Casa Grande,Source2,3,32.938213,-111.700691,2017,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3511055,AZ,Pinal,Coolidge,Source1,4,32.976597,-111.524,2016,10,Thursday,Sin dato,False,False,False,True,False,False,False
+A-3511131,AZ,Pinal,Maricopa,Source1,3,32.880272,-112.049281,2016,2,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-3511526,AZ,Pinal,Maricopa,Source1,4,33.000122,-112.04811,2016,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3511527,AZ,Pinal,Casa Grande,Source1,4,32.879779,-111.631947,2016,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3511587,AZ,Pinal,Eloy,Source1,3,32.60779,-111.35213,2016,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3511704,AZ,Pinal,Maricopa,Source1,4,33.127052,-112.01556399999998,2016,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3511723,AZ,Pinal,Maricopa,Source1,4,33.117490000000004,-111.84189,2016,14,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-3511845,AZ,Pinal,Eloy,Source1,4,32.762075,-111.595407,2017,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3511881,AZ,Pinal,Coolidge,Source1,4,33.00257,-111.52575,2017,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3511882,AZ,Pinal,Coolidge,Source1,4,33.00257,-111.52402,2017,7,Saturday,Clear / Fair,True,True,False,False,False,False,False
+A-3512122,AZ,Pinal,Coolidge,Source1,4,33.00241,-111.558673,2017,7,Thursday,Cloudy,False,False,False,True,False,False,False
+A-3512123,AZ,Pinal,Coolidge,Source1,4,33.00244,-111.553833,2017,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3512411,AZ,Pinal,Maricopa,Source1,4,32.83412,-112.13348,2016,15,Monday,Sin dato,False,False,False,False,False,False,False
+A-3512416,AZ,Pinal,Laveen,Source1,4,33.126995,-112.01586100000002,2016,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-3512779,AZ,Pinal,Coolidge,Source1,3,33.039419,-111.781369,2016,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3512862,AZ,Pinal,Oracle,Source1,4,32.62099,-110.80126,2016,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3512925,AZ,Pinal,Coolidge,Source1,3,33.118759999999995,-111.84244,2016,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3513045,AZ,Pinal,Casa Grande,Source1,4,32.95415,-111.75663,2016,17,Thursday,Sin dato,False,False,False,True,False,False,False
+A-3513066,AZ,Pinal,Oracle,Source1,4,32.590369,-110.968113,2016,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3513067,AZ,Pinal,Oracle,Source1,4,32.609545000000004,-110.98672,2016,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3513123,AZ,Pinal,Maricopa,Source1,4,32.985620000000004,-112.04801,2016,7,Monday,Sin dato,False,False,False,False,False,False,False
+A-3513124,AZ,Pinal,Maricopa,Source1,4,32.939279,-112.049099,2016,7,Monday,Sin dato,False,False,False,False,False,False,False
+A-3513235,AZ,Pinal,Maricopa,Source1,4,32.997801,-111.748518,2016,13,Thursday,Sin dato,False,False,False,False,False,False,False
+A-3513511,AZ,Pinal,Coolidge,Source1,4,33.02922,-111.64632,2016,8,Friday,Sin dato,False,False,False,True,False,False,False
+A-3513512,AZ,Pinal,Coolidge,Source1,4,33.021275,-111.635747,2016,8,Friday,Sin dato,False,False,False,False,False,False,False
+A-3513558,AZ,Pinal,Maricopa,Source1,4,33.122411,-112.017986,2016,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-3513619,AZ,Pinal,Superior,Source1,4,33.303396,-111.089087,2016,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3513620,AZ,Pinal,Superior,Source1,4,33.335751,-111.024121,2016,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3513726,AZ,Pinal,Superior,Source1,4,33.243883000000004,-111.09605,2016,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3513727,AZ,Pinal,Kearny,Source1,4,33.18397,-111.04358,2016,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3513823,AZ,Pinal,Apache Junction,Source1,3,33.365132,-111.563471,2016,8,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-3513824,AZ,Pinal,Apache Junction,Source1,4,33.37885,-111.56347,2016,8,Wednesday,Clear / Fair,True,True,False,False,False,False,False
+A-3514422,AZ,Pinal,Apache Junction,Source1,4,33.386509999999994,-111.580501,2016,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-3514451,AZ,Pinal,Oracle,Source1,3,32.555282,-110.932906,2016,10,Tuesday,Rain,False,False,False,False,False,False,False
+A-3514505,AZ,Pinal,Coolidge,Source1,3,33.118759999999995,-111.84244,2016,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3514523,AZ,Pinal,Coolidge,Source1,4,33.00257,-111.52402,2016,10,Thursday,Rain,True,True,False,False,False,False,False
+A-3514524,AZ,Pinal,Coolidge,Source1,4,33.0027,-111.47323,2016,10,Thursday,Rain,True,False,False,False,False,False,False
+A-3514926,AZ,Pinal,Coolidge,Source1,3,32.988054,-111.52399,2016,12,Monday,Clear / Fair,True,True,False,False,False,False,False
+A-3514927,AZ,Pinal,Coolidge,Source1,3,32.97764,-111.524,2016,12,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-3515149,AZ,Pinal,Oracle,Source1,3,32.62073,-110.80238,2016,15,Wednesday,Rain,False,False,False,False,False,False,False
+A-3515532,AZ,Pinal,Eloy,Source1,4,32.72268,-111.51524,2016,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3515535,AZ,Pinal,Eloy,Source1,4,32.725851,-111.520601,2016,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3515762,AZ,Pinal,Coolidge,Source1,3,33.00258,-111.47323,2016,8,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-3515855,AZ,Pinal,Superior,Source1,3,33.31454,-111.04156,2016,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3515856,AZ,Pinal,Superior,Source1,3,33.31561,-111.03638,2016,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3515862,AZ,Pinal,Eloy,Source1,4,32.65091,-111.39858,2016,17,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-3515892,AZ,Pinal,Superior,Source1,4,33.28125,-111.16682,2016,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3515899,AZ,Pinal,Superior,Source1,3,33.28426,-111.14066,2016,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3515901,AZ,Pinal,Superior,Source1,3,33.28125,-111.16682,2016,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3515983,AZ,Pinal,Apache Junction,Source1,4,33.38673,-111.5222,2016,21,Thursday,Cloudy,False,False,True,False,False,False,False
+A-3585999,AZ,Pinal,Apache Junction,Source1,3,33.38653,-111.5634,2017,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3586030,AZ,Pinal,Marana,Source1,4,32.57691,-111.32639,2017,3,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3586178,AZ,Pinal,Marana,Source1,4,32.57289,-111.32297,2017,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3586312,AZ,Pinal,Casa Grande,Source1,4,32.82792,-111.82556,2017,22,Saturday,Sin dato,False,False,False,False,False,False,False
+A-3586313,AZ,Pinal,Maricopa,Source1,4,32.87487,-112.04946,2017,22,Saturday,Sin dato,False,False,False,False,False,False,False
+A-3586314,AZ,Pinal,Maricopa,Source1,4,32.87936,-112.031898,2017,22,Saturday,Sin dato,False,False,False,False,False,False,False
+A-3586516,AZ,Pinal,Casa Grande,Source1,3,32.869558000000005,-111.686889,2017,14,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-3586517,AZ,Pinal,Casa Grande,Source1,3,32.88329,-111.68708,2017,14,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-3586598,AZ,Pinal,Coolidge,Source1,4,33.00274,-111.497912,2017,12,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-3586696,AZ,Pinal,Maricopa,Source1,4,33.107669,-111.834324,2017,1,Saturday,Sin dato,False,False,False,False,False,False,False
+A-3586803,AZ,Pinal,Apache Junction,Source1,4,33.424068,-111.58068,2017,11,Thursday,Cloudy,False,False,False,True,False,False,False
+A-3586842,AZ,Pinal,Apache Junction,Source1,3,33.418,-111.5461,2017,2,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3605974,AZ,Pinal,Gold Canyon,Source1,4,33.25771,-111.29936399999998,2017,0,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3606011,AZ,Pinal,Coolidge,Source1,4,32.976597,-111.524,2017,10,Thursday,Clear / Fair,False,False,False,True,False,False,False
+A-3606012,AZ,Pinal,Coolidge,Source1,4,32.97967,-111.524,2017,10,Thursday,Clear / Fair,False,False,False,True,False,False,False
+A-3619614,AZ,Pinal,San Tan Valley,Source1,4,33.173777,-111.576592,2017,21,Saturday,Sin dato,False,False,False,False,False,False,False
+A-3619615,AZ,Pinal,Queen Creek,Source1,4,33.177327000000005,-111.581486,2017,21,Saturday,Clear / Fair,True,True,False,False,False,False,False
+A-3619637,AZ,Pinal,Superior,Source1,4,33.231303000000004,-111.344059,2017,23,Monday,Sin dato,False,False,False,False,False,False,False
+A-3619638,AZ,Pinal,Florence,Source1,4,33.11152,-111.366836,2017,23,Monday,Sin dato,False,False,False,False,False,False,False
+A-3619765,AZ,Pinal,Casa Grande,Source1,3,32.88329,-111.68708,2017,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3619786,AZ,Pinal,Marana,Source1,4,32.50932,-111.27053,2017,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3619787,AZ,Pinal,Marana,Source1,4,32.5064,-111.26878,2017,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3619789,AZ,Pinal,Marana,Source1,4,32.510845,-111.271376,2017,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3619792,AZ,Pinal,Marana,Source1,4,32.56568,-111.3168,2017,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3619793,AZ,Pinal,Marana,Source1,4,32.56568,-111.3168,2017,23,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3635281,AZ,Pinal,Oracle,Source1,4,32.629546000000005,-111.003558,2017,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-3635289,AZ,Pinal,Coolidge,Source1,4,33.002738,-111.467339,2017,16,Friday,Sin dato,False,False,False,False,False,False,False
+A-3635290,AZ,Pinal,Florence,Source1,4,33.011842,-111.415862,2017,16,Friday,Sin dato,False,False,False,False,False,False,False
+A-3635306,AZ,Pinal,Apache Junction,Source1,4,33.40783,-111.556836,2017,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3635307,AZ,Pinal,Apache Junction,Source1,4,33.40784,-111.555602,2017,23,Saturday,Clear / Fair,False,False,False,True,False,False,False
+A-3635482,AZ,Pinal,Superior,Source1,4,33.238236,-111.095302,2017,16,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-3635483,AZ,Pinal,Kearny,Source1,4,33.200367,-111.056232,2017,16,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-3635740,AZ,Pinal,Oracle,Source1,4,32.62451,-110.74967,2017,10,Friday,Cloudy,False,False,False,True,False,False,False
+A-3635838,AZ,Pinal,Eloy,Source1,3,32.748544,-111.573647,2017,2,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-3635887,AZ,Pinal,Laveen,Source1,3,33.173426,-112.00467,2017,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3647336,AZ,Pinal,Coolidge,Source1,4,33.159585,-111.780477,2017,18,Friday,Sin dato,False,False,False,False,False,False,False
+A-3647337,AZ,Pinal,Coolidge,Source1,4,33.17009,-111.79301,2017,18,Friday,Sin dato,True,False,False,False,False,False,False
+A-3647347,AZ,Pinal,Tucson,Source1,4,32.523175,-110.927848,2017,23,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3647350,AZ,Pinal,Maricopa,Source1,4,33.110634999999995,-111.83661399999998,2017,8,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3647685,AZ,Pinal,Casa Grande,Source1,4,32.82793,-111.81865,2017,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3647688,AZ,Pinal,Casa Grande,Source1,4,32.82792,-111.82556,2017,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3691315,AZ,Pinal,Laveen,Source1,4,33.122014,-112.018462,2023,23,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3710330,AZ,Pinal,Coolidge,Source1,4,33.002467,-111.575955,2022,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3732467,AZ,Pinal,Maricopa,Source1,4,33.107439279398406,-112.02577471679676,2022,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3743383,AZ,Pinal,Oracle,Source1,4,32.622559,-110.790369,2022,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3809073,AZ,Pinal,Miami,Source1,4,33.344002,-110.997183,2022,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3813470,AZ,Pinal,Superior,Source1,4,33.125925,-111.360285,2022,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3827204,AZ,Pinal,Picacho,Source1,4,32.650851,-111.397881,2022,1,Thursday,Sin dato,False,False,False,False,False,False,False
+A-3841411,AZ,Pinal,Casa Grande,Source1,4,32.879693,-111.610493,2022,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3859976,AZ,Pinal,Coolidge,Source1,4,33.002552,-111.601117,2023,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3860164,AZ,Pinal,Eloy,Source1,4,32.728947400890696,-111.52887940353618,2022,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3875740,AZ,Pinal,Superior,Source1,4,33.31306815131515,-111.04895710892175,2022,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3901825,AZ,Pinal,Coolidge,Source1,4,33.002553000000006,-111.601155,2022,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3904581,AZ,Pinal,Sacaton,Source1,4,33.01384091361516,-111.68007016128692,2022,17,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-3908640,AZ,Pinal,Eloy,Source1,4,32.792398,-111.515408,2022,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3909885,AZ,Pinal,Florence,Source1,4,32.86455,-111.244175,2022,1,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3922560,AZ,Pinal,Superior,Source1,4,33.290568,-111.097439,2022,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3950682,AZ,Pinal,Casa Grande,Source1,4,32.879806,-111.636454,2023,1,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4058149,AZ,Pinal,Florence,Source1,4,32.630585,-111.004487,2022,23,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4080326,AZ,Pinal,Eloy,Source1,4,32.774421000000004,-111.614621,2022,6,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-4164199,AZ,Pinal,Picacho,Source1,4,32.704068,-111.480654,2022,15,Thursday,Sin dato,False,False,False,False,False,False,False
+A-4168665,AZ,Pinal,Florence,Source1,4,33.122479,-111.361018,2022,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4187017,AZ,Pinal,Bapchule,Source1,4,33.118505,-111.842249,2022,12,Monday,Sin dato,False,False,False,False,False,False,False
+A-4269734,AZ,Pinal,Casa Grande,Source1,4,32.879681,-111.617253,2023,12,Monday,Rain,False,False,False,False,False,False,False
+A-4269735,AZ,Pinal,Casa Grande,Source1,4,32.879662,-111.619111,2022,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4276874,AZ,Pinal,Maricopa,Source1,4,33.0580651758525,-111.9712722296144,2022,8,Monday,Clear / Fair,False,True,False,False,False,False,False
+A-4278552,AZ,Pinal,Eloy,Source1,4,32.728947400890696,-111.52887940353618,2022,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4282445,AZ,Pinal,Gold Canyon,Source1,4,33.255293,-111.338843,2022,8,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-4308522,AZ,Pinal,Casa Grande,Source1,4,32.879762,-111.629831,2023,1,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4314617,AZ,Pinal,Maricopa,Source1,4,33.072331,-112.065595,2022,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4337481,AZ,Pinal,Laveen,Source1,4,33.105987,-112.026813,2022,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4340522,AZ,Pinal,Maricopa,Source1,4,33.077564,-112.150772,2022,18,Friday,Rain,False,False,False,False,False,False,False
+A-4437195,AZ,Pinal,Superior,Source1,4,33.127542,-111.360042,2022,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4460898,AZ,Pinal,Coolidge,Source1,4,32.923018,-111.515019,2023,20,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4517842,AZ,Pinal,Coolidge,Source1,4,33.019965,-111.637996,2022,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4637719,AZ,Pinal,Coolidge,Source1,4,33.002581,-111.523997,2022,8,Tuesday,Clear / Fair,True,True,False,False,False,False,False
+A-4662326,AZ,Pinal,Maricopa,Source1,4,33.115575,-112.021545,2022,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4687466,AZ,Pinal,Coolidge,Source1,4,33.00254,-111.596905,2023,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4692728,AZ,Pinal,Coolidge,Source1,4,33.002581,-111.523997,2022,8,Tuesday,Clear / Fair,True,True,False,False,False,False,False
+A-4772031,AZ,Pinal,Casa Grande,Source1,4,32.879693,-111.610493,2023,12,Monday,Rain,False,False,False,False,False,False,False
+A-4823372,AZ,Pinal,Coolidge,Source1,4,33.01778912528507,-111.63116812652764,2022,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4855127,AZ,Pinal,Florence,Source1,4,33.118167,-111.362631,2022,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4857549,AZ,Pinal,Casa Grande,Source1,4,32.879449,-111.549638,2022,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4884815,AZ,Pinal,Casa Grande,Source1,4,32.93327,-111.696648,2022,4,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-4904868,AZ,Pinal,Florence,Source1,4,33.18951487525373,-111.35050177521065,2022,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4906482,AZ,Pinal,Picacho,Source1,4,32.653042,-111.401225,2022,19,Monday,Sin dato,False,False,False,False,False,False,False
+A-4918716,AZ,Pinal,Superior,Source1,4,33.238674402078445,-111.3429272169526,2022,16,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-4930294,AZ,Pinal,Apache Junction,Source1,4,33.38651776297862,-111.56973481125084,2022,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4963044,AZ,Pinal,Picacho,Source1,4,32.676771,-111.436277,2022,17,Monday,Sin dato,False,False,False,False,False,False,False
+A-4983408,AZ,Pinal,Coolidge,Source1,4,33.187331,-111.840948,2022,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5045357,AZ,Pinal,Coolidge,Source1,4,33.162279,-111.84093500000002,2022,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5089183,AZ,Pinal,Casa Grande,Source1,4,32.879464,-111.545367,2022,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5091951,AZ,Pinal,Maricopa,Source1,4,32.828415,-111.964702,2022,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5120431,AZ,Pinal,Coolidge,Source1,4,33.019965,-111.637996,2022,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5129446,AZ,Pinal,Coolidge,Source1,4,33.100111,-111.828102,2023,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5160202,AZ,Pinal,Gold Canyon,Source1,4,33.255293,-111.338843,2022,5,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-5167913,AZ,Pinal,Maricopa,Source1,4,32.830764,-112.042467,2022,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5174389,AZ,Pinal,Superior,Source1,4,33.311235,-111.0556,2023,1,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5188393,AZ,Pinal,Coolidge,Source1,4,33.002463,-111.548335,2022,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5224598,AZ,Pinal,Maricopa,Source1,4,33.160032033762164,-111.87466978973448,2022,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5230860,AZ,Pinal,Casa Grande,Source1,4,32.780181,-111.624546,2022,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5246266,AZ,Pinal,Superior,Source1,4,33.147892,-111.356911,2022,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5272913,AZ,Pinal,Apache Junction,Source1,4,33.386725,-111.556266,2022,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5278939,AZ,Pinal,Florence,Source1,4,33.03132,-111.379137,2022,22,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-5289636,AZ,Pinal,Florence,Source1,4,32.859924,-111.239793,2022,1,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5328911,AZ,Pinal,Stanfield,Source1,4,32.828505,-111.972057,2022,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5335413,AZ,Pinal,Coolidge,Source1,4,33.084244,-111.706284,2022,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5369507,AZ,Pinal,Oracle,Source1,4,32.634277000000004,-111.007288,2022,23,Monday,Cloudy,False,False,False,False,False,False,False
+A-5380687,AZ,Pinal,Superior,Source1,4,33.127542,-111.360042,2022,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5430970,AZ,Pinal,Gold Canyon,Source1,4,33.25695633872386,-111.33790612167672,2022,5,Thursday,Clear / Fair,False,False,False,True,False,False,False
+A-5493590,AZ,Pinal,Maricopa,Source1,4,33.0879342554422,-112.0359456533812,2021,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5580987,AZ,Pinal,Casa Grande,Source1,4,32.836938,-111.686254,2021,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5603725,AZ,Pinal,Coolidge,Source1,4,33.005990999999995,-111.751209,2021,18,Sunday,Clear / Fair,False,False,False,True,False,False,False
+A-5634509,AZ,Pinal,Winkelman,Source1,4,32.787065000000005,-110.670219,2021,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5649622,AZ,Pinal,Casa Grande,Source1,4,32.87616848929941,-111.6871511930862,2021,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5652012,AZ,Pinal,Marana,Source1,4,32.588566,-111.335951,2021,3,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5710862,AZ,Pinal,Coolidge,Source1,4,33.20136,-111.835421,2021,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5725669,AZ,Pinal,Coolidge,Source1,4,33.118071,-111.841933,2021,6,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-5817150,AZ,Pinal,Coolidge,Source1,4,33.1690871713964,-111.79177880233864,2021,23,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5829395,AZ,Pinal,San Tan Valley,Source1,4,33.241228,-111.342541,2021,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5829462,AZ,Pinal,Maricopa,Source1,4,32.83029198630891,-112.0170199865722,2021,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5935432,AZ,Pinal,Florence,Source1,4,32.954943,-111.330185,2021,2,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5965515,AZ,Pinal,Maricopa,Source1,4,33.160032033762164,-111.87466978973448,2021,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-6001379,AZ,Pinal,Eloy,Source1,4,32.821408510051626,-111.5152966970848,2021,2,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6062855,AZ,Pinal,Casa Grande,Source1,4,32.879624,-111.685954,2021,23,Monday,Sin dato,True,True,False,False,False,False,False
+A-6088998,AZ,Pinal,Casa Grande,Source1,4,32.967504,-111.724223,2021,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6100736,AZ,Pinal,Marana,Source1,4,32.503304,-111.26763,2021,3,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6113830,AZ,Pinal,Coolidge,Source1,4,33.06105,-111.688492,2021,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6127132,AZ,Pinal,Kearny,Source1,4,33.18400025351913,-111.04359269089198,2021,23,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6175537,AZ,Pinal,Florence,Source1,4,32.943844,-111.319602,2021,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6187746,AZ,Pinal,Kearny,Source1,4,33.216272592386176,-111.06565117783038,2021,22,Wednesday,Rain,False,False,False,False,False,False,False
+A-6198554,AZ,Pinal,Eloy,Source1,4,32.82478,-111.515307,2021,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6217251,AZ,Pinal,Coolidge,Source1,4,33.175642,-111.840943,2021,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6224183,AZ,Pinal,Casa Grande,Source1,4,32.981122,-111.735136,2021,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6252255,AZ,Pinal,Coolidge,Source1,4,33.17026,-111.84094,2021,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6267762,AZ,Pinal,Florence,Source1,4,32.932561,-111.308845,2021,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6295881,AZ,Pinal,Florence,Source1,4,33.007569000000004,-111.43231000000002,2021,1,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6301035,AZ,Pinal,Florence,Source1,4,33.05715900000001,-111.379117,2021,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6309131,AZ,Pinal,Coolidge,Source1,4,33.005990999999995,-111.751209,2021,6,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-6315742,AZ,Pinal,San Manuel,Source1,4,32.66305088981312,-110.68507790512712,2021,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6323981,AZ,Pinal,Bapchule,Source1,4,33.10752511008688,-112.02598929351794,2021,19,Sunday,Sin dato,False,False,False,True,False,False,False
+A-6375007,AZ,Pinal,Eloy,Source1,4,32.774415999999995,-111.614624,2021,3,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-6390570,AZ,Pinal,Coolidge,Source1,4,33.001202,-111.523965,2021,0,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6411058,AZ,Pinal,Eloy,Source1,4,32.72802472098957,-111.52525305694807,2021,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6442500,AZ,Pinal,Coolidge,Source1,4,33.169086,-111.79178799999998,2021,0,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6473715,AZ,Pinal,San Manuel,Source1,4,32.663043,-110.685084,2021,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6503664,AZ,Pinal,Marana,Source1,4,32.549007,-111.302807,2021,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6508472,AZ,Pinal,Casa Grande,Source1,4,32.879638,-111.686743,2021,17,Monday,Rain,False,False,False,False,False,False,False
+A-6528513,AZ,Pinal,Coolidge,Source1,4,33.021528,-111.636095,2021,0,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-6568847,AZ,Pinal,Marana,Source1,4,32.549007,-111.302807,2021,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6599859,AZ,Pinal,Coolidge,Source1,4,33.002581,-111.523997,2020,13,Tuesday,Clear / Fair,True,True,False,False,False,False,False
+A-6602540,AZ,Pinal,Maricopa,Source1,4,33.00015,-112.047854,2020,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6629636,AZ,Pinal,Coolidge,Source1,4,33.120151,-111.840977,2020,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6634532,AZ,Pinal,Florence,Source1,4,33.079136,-111.374684,2020,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6665484,AZ,Pinal,Florence,Source1,4,32.987576000000004,-111.36123,2020,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6701573,AZ,Pinal,Coolidge,Source1,4,33.002410999999995,-111.558585,2020,12,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-6752570,AZ,Pinal,Florence,Source1,4,32.786411,-111.170686,2020,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6752767,AZ,Pinal,Coolidge,Source1,4,33.132158000000004,-111.840916,2020,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6778068,AZ,Pinal,Apache Junction,Source1,4,33.386517,-111.56997,2020,3,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-6778509,AZ,Pinal,Marana,Source1,4,32.55138400000001,-111.304368,2020,3,Saturday,Clear / Fair,False,False,False,True,False,False,False
+A-6779123,AZ,Pinal,Chandler,Source1,4,33.204016,-111.841091,2020,11,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-6823197,AZ,Pinal,Apache Junction,Source1,4,33.38671,-111.557525,2020,3,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-6832568,AZ,Pinal,Coolidge,Source1,4,33.132154,-111.840938,2020,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6913120,AZ,Pinal,Apache Junction,Source1,4,33.386517,-111.56997,2020,3,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-6982152,AZ,Pinal,Queen Creek,Source1,4,33.20297,-111.63405,2020,9,Tuesday,Clear / Fair,True,True,False,False,False,False,False
+A-7073340,AZ,Pinal,Apache Junction,Source1,4,33.38596,-111.52872,2020,14,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-7073357,AZ,Pinal,Apache Junction,Source1,4,33.38591,-111.56337,2020,18,Monday,Clear / Fair,True,True,False,False,False,False,False
+A-7089737,AZ,Pinal,Coolidge,Source1,4,33.00257,-111.52402,2020,22,Monday,Clear / Fair,True,True,False,False,False,False,False
+A-7109281,AZ,Pinal,Apache Junction,Source1,4,33.386477,-111.56337,2020,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7128130,AZ,Pinal,Superior,Source1,3,33.2933,-111.08904,2020,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7128131,AZ,Pinal,Superior,Source1,4,33.31285,-111.04957,2020,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7128132,AZ,Pinal,Superior,Source1,4,33.304320000000004,-111.0835,2020,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7128133,AZ,Pinal,Superior,Source1,4,33.2933,-111.08904,2020,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7132287,AZ,Pinal,Apache Junction,Source1,4,33.40782,-111.54607,2020,15,Monday,Cloudy,True,True,False,False,False,False,False
+A-7132296,AZ,Pinal,Apache Junction,Source1,4,33.40782,-111.54607,2020,20,Monday,Cloudy,True,True,False,False,False,False,False
+A-7132330,AZ,Pinal,Apache Junction,Source1,4,33.40782,-111.54607,2020,20,Monday,Cloudy,True,True,False,False,False,False,False
+A-7134850,AZ,Pinal,Eloy,Source1,3,32.6478,-111.39317,2020,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7134851,AZ,Pinal,Eloy,Source1,3,32.6478,-111.39317,2020,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7156247,AZ,Pinal,San Tan Valley,Source1,4,33.16111,-111.56296,2020,20,Sunday,Clear / Fair,True,True,False,False,False,False,False
+A-7156248,AZ,Pinal,San Tan Valley,Source1,4,33.16111,-111.56296,2020,20,Sunday,Clear / Fair,True,True,False,False,False,False,False
+A-7164559,AZ,Pinal,Queen Creek,Source1,4,33.12183,-111.73963,2020,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7164560,AZ,Pinal,Coolidge,Source1,4,33.16867,-111.79125,2020,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7178870,AZ,Pinal,Kearny,Source1,4,33.18183,-111.04203,2020,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7181076,AZ,Pinal,Maricopa,Source1,3,33.12339,-112.01747,2020,7,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7189455,AZ,Pinal,San Tan Valley,Source1,4,33.24899,-111.34134,2020,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7197902,AZ,Pinal,Maricopa,Source1,4,33.20412,-111.90872,2020,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7197905,AZ,Pinal,Maricopa,Source1,4,33.20412,-111.90872,2020,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7197910,AZ,Pinal,Maricopa,Source1,4,33.20412,-111.90872,2020,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7210565,AZ,Pinal,Coolidge,Source1,4,33.118759999999995,-111.84244,2020,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7210566,AZ,Pinal,Coolidge,Source1,4,33.13958,-111.85851,2020,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7242311,AZ,Pinal,Maricopa,Source1,4,33.122890000000005,-112.01774,2020,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7248081,AZ,Pinal,Queen Creek,Source1,3,33.11999,-111.73367,2020,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7248082,AZ,Pinal,Queen Creek,Source1,4,33.12127,-111.73749,2020,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7248087,AZ,Pinal,Maricopa,Source1,4,33.01052,-111.75875,2020,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7257246,AZ,Pinal,Maricopa,Source1,4,33.139509999999994,-111.85887,2020,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7260047,AZ,Pinal,Maricopa,Source1,3,33.117490000000004,-111.84189,2020,7,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7264311,AZ,Pinal,Apache Junction,Source1,4,33.41535,-111.5721,2020,15,Saturday,Clear / Fair,True,True,False,False,False,False,False
+A-7264312,AZ,Pinal,Apache Junction,Source1,4,33.41508,-111.58045,2020,15,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-7275342,AZ,Pinal,Eloy,Source1,4,32.77605,-111.61723,2020,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7277636,AZ,Pinal,Apache Junction,Source1,4,33.37873,-111.56355,2020,22,Thursday,Cloudy,True,True,False,False,False,False,False
+A-7285659,AZ,Pinal,Apache Junction,Source1,4,33.39264,-111.56338999999998,2019,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-7285667,AZ,Pinal,Eloy,Source1,4,32.74864,-111.51588,2019,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-7285668,AZ,Pinal,Eloy,Source1,4,32.77813,-111.51547,2019,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-7307665,AZ,Pinal,Apache Junction,Source1,4,33.42235,-111.55039,2019,16,Tuesday,Cloudy,False,False,False,True,False,False,False
+A-7309154,AZ,Pinal,Superior,Source1,4,33.29261,-111.09309,2019,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7309155,AZ,Pinal,Superior,Source1,4,33.303940000000004,-111.08481,2019,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7320841,AZ,Pinal,Apache Junction,Source1,3,33.40782,-111.54607,2019,17,Thursday,Cloudy,True,True,False,False,False,False,False
+A-7338094,AZ,Pinal,Marana,Source1,4,32.575790000000005,-111.32508,2019,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7338096,AZ,Pinal,Eloy,Source1,4,32.64417,-111.38758,2019,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7350740,AZ,Pinal,Eloy,Source1,4,32.7374,-111.55552,2019,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7361849,AZ,Pinal,Maricopa,Source1,4,33.08388,-112.03812,2019,13,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7375908,AZ,Pinal,Apache Junction,Source1,4,33.43686,-111.52125,2019,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7386038,AZ,Pinal,Stanfield,Source1,4,32.82841,-111.96445,2019,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7387370,AZ,Pinal,Maricopa,Source1,4,32.996841,-111.756195,2019,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7387371,AZ,Pinal,Coolidge,Source1,4,33.00473,-111.75198,2019,18,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-7388586,AZ,Pinal,Kearny,Source1,3,33.079768,-110.924594,2019,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7392915,AZ,Pinal,Apache Junction,Source1,4,33.386720000000004,-111.54042,2019,4,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7392916,AZ,Pinal,Apache Junction,Source1,4,33.386540000000004,-111.55254,2019,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7392917,AZ,Pinal,Apache Junction,Source1,4,33.386720000000004,-111.54042,2019,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7398798,AZ,Pinal,Eloy,Source1,4,32.80599,-111.66618,2019,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7402872,AZ,Pinal,Eloy,Source1,4,32.72783,-111.52316,2019,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7402873,AZ,Pinal,Eloy,Source1,4,32.73236,-111.5431,2019,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7402874,AZ,Pinal,Eloy,Source1,4,32.72783,-111.52316,2019,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7414925,AZ,Pinal,Maricopa,Source1,4,33.11573,-111.8426,2019,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7422242,AZ,Pinal,Gold Canyon,Source1,4,33.296579,-111.391219,2019,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-7426084,AZ,Pinal,Apache Junction,Source1,3,33.41506,-111.559604,2019,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-7429927,AZ,Pinal,Maricopa,Source1,3,33.055325,-112.049025,2019,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7432633,AZ,Pinal,Coolidge,Source1,4,33.117553,-111.728375,2019,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7439908,AZ,Pinal,Casa Grande,Source1,4,32.876789,-111.51519,2019,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-7448397,AZ,Pinal,Coolidge,Source1,4,33.123585,-111.846166,2019,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7449924,AZ,Pinal,Apache Junction,Source1,3,33.36535,-111.56356,2019,16,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-7449925,AZ,Pinal,Apache Junction,Source1,3,33.36535,-111.56356,2019,16,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-7455128,AZ,Pinal,Coolidge,Source1,3,33.118759999999995,-111.84244,2019,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7456314,AZ,Pinal,San Manuel,Source1,4,32.66461,-110.68144,2019,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7457841,AZ,Pinal,Coolidge,Source1,4,33.185925,-111.894238,2019,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7458239,AZ,Pinal,Gold Canyon,Source1,4,33.336009999999995,-111.44021,2019,22,Saturday,Rain,True,False,False,False,False,False,False
+A-7460229,AZ,Pinal,Coolidge,Source1,4,33.172468,-111.795992,2019,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7460230,AZ,Pinal,Coolidge,Source1,4,33.17009,-111.79301,2019,10,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7464992,AZ,Pinal,Maricopa,Source1,3,33.06478,-112.04786599999998,2019,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7471033,AZ,Pinal,Superior,Source1,4,33.2994,-111.09059,2019,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7475537,AZ,Pinal,Maricopa,Source1,4,32.87941,-111.92921,2018,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7475538,AZ,Pinal,Casa Grande,Source1,4,32.8794,-111.912093,2018,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7475539,AZ,Pinal,Maricopa,Source1,4,32.87941,-111.92921,2018,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7477513,AZ,Pinal,Eloy,Source1,3,32.65091,-111.39858,2018,22,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7483327,AZ,Pinal,Maricopa,Source1,4,33.00589,-111.75548,2018,11,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7486623,AZ,Pinal,Eloy,Source1,3,32.72014,-111.51129,2018,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7488738,AZ,Pinal,Marana,Source1,4,32.515865000000005,-111.274664,2018,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7488739,AZ,Pinal,Eloy,Source1,4,32.65091,-111.39858,2018,14,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7488740,AZ,Pinal,Eloy,Source1,4,32.660963,-111.411905,2018,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7492778,AZ,Pinal,Superior,Source1,4,33.239000000000004,-111.342883,2018,12,Sunday,Clear / Fair,False,False,False,True,False,False,False
+A-7492780,AZ,Pinal,Superior,Source1,4,33.194821000000005,-111.349691,2018,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7492783,AZ,Pinal,Superior,Source1,4,33.194821000000005,-111.349691,2018,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7502896,AZ,Pinal,Eloy,Source1,3,32.71391,-111.49988,2018,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7510869,AZ,Pinal,Maricopa,Source1,3,33.049699,-111.789295,2018,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7512024,AZ,Pinal,Winkelman,Source1,4,32.939474,-110.73826499999998,2018,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7513568,AZ,Pinal,Superior,Source1,4,33.305938,-111.078578,2018,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7513569,AZ,Pinal,Superior,Source1,4,33.307793,-111.072849,2018,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7516292,AZ,Pinal,Maricopa,Source1,3,33.00589,-111.75548,2018,4,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7519165,AZ,Pinal,Eloy,Source1,3,32.77386,-111.6144,2018,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7530564,AZ,Pinal,Kearny,Source1,3,33.193904,-111.053188,2018,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7540896,AZ,Pinal,Apache Junction,Source1,4,33.38086,-111.56345,2018,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7550162,AZ,Pinal,Coolidge,Source1,3,32.94429,-111.515942,2018,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7550163,AZ,Pinal,Coolidge,Source1,3,32.946386,-111.51698600000002,2018,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7551881,AZ,Pinal,Eloy,Source1,4,32.690542,-111.458999,2018,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7551884,AZ,Pinal,Eloy,Source1,4,32.72268,-111.51524,2018,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7551890,AZ,Pinal,Laveen,Source1,4,33.124881,-112.016963,2018,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7555834,AZ,Pinal,Casa Grande,Source1,4,32.83333,-111.68556,2018,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7557228,AZ,Pinal,Superior,Source1,4,33.175492,-111.352657,2018,18,Thursday,Sin dato,False,False,False,False,False,False,False
+A-7558702,AZ,Pinal,Maricopa,Source1,4,32.8343,-112.12953,2018,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7560354,AZ,Pinal,Coolidge,Source1,4,33.06735,-111.69585,2018,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7560355,AZ,Pinal,Coolidge,Source1,4,33.117553,-111.728375,2018,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7560630,AZ,Pinal,Maricopa,Source1,4,33.115699,-111.840511,2018,5,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7563365,AZ,Pinal,Oracle,Source1,4,32.616473,-110.82138700000002,2018,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7563366,AZ,Pinal,Oracle,Source1,4,32.579557,-110.912895,2018,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7569878,AZ,Pinal,Maricopa,Source1,4,33.00589,-111.75548,2018,8,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7569879,AZ,Pinal,Coolidge,Source1,4,33.118759999999995,-111.84244,2018,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7572520,AZ,Pinal,Maricopa,Source1,4,33.150161,-111.86709,2018,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7581891,AZ,Pinal,Maricopa,Source1,3,33.145827000000004,-112.00695,2018,17,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7582125,AZ,Pinal,Coolidge,Source1,3,33.06106,-111.68848,2018,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7584036,AZ,Pinal,San Tan Valley,Source1,4,33.249,-111.56326,2018,13,Thursday,Cloudy,True,True,False,False,False,False,False
+A-7584516,AZ,Pinal,Gold Canyon,Source1,4,33.25796,-111.30365,2018,20,Friday,Clear / Fair,False,False,False,True,False,False,False
+A-7584733,AZ,Pinal,Maricopa,Source1,4,33.00065,-111.7508,2018,0,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7590978,AZ,Pinal,Maricopa,Source1,3,33.04588,-111.78679,2018,3,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7591239,AZ,Pinal,Eloy,Source1,4,32.70904,-111.4882,2018,0,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7593122,AZ,Pinal,Casa Grande,Source1,4,32.94247,-111.70458,2018,16,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7593123,AZ,Pinal,Casa Grande,Source1,4,32.8759,-111.68683,2018,16,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7594174,AZ,Pinal,Eloy,Source1,4,32.72268,-111.51524,2018,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-7594175,AZ,Pinal,Eloy,Source1,4,32.720042,-111.511103,2018,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7594176,AZ,Pinal,Eloy,Source1,4,32.720042,-111.511103,2018,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7613687,AZ,Pinal,Laveen,Source1,3,33.124881,-112.016963,2018,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7625588,AZ,Pinal,Coolidge,Source1,4,33.01129,-111.62253,2018,21,Tuesday,Rain,False,False,False,False,False,False,False
+A-7628606,AZ,Pinal,Casa Grande,Source1,3,32.8759,-111.68683,2018,4,Friday,Sin dato,False,False,False,False,False,False,False
+A-7628921,AZ,Pinal,Eloy,Source1,4,32.72002,-111.51106,2018,22,Saturday,Sin dato,False,False,False,False,False,False,False
+A-7629572,AZ,Pinal,Oracle,Source1,4,32.561533000000004,-110.930058,2018,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-7629573,AZ,Pinal,Oracle,Source1,4,32.57956,-110.91289,2018,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-7629580,AZ,Pinal,Maricopa,Source1,3,33.084859,-112.037858,2018,18,Monday,Sin dato,False,False,False,False,False,False,False
+A-7632299,AZ,Pinal,Kearny,Source1,4,33.183781,-111.043341,2018,16,Friday,Sin dato,False,False,False,False,False,False,False
+A-7632300,AZ,Pinal,Superior,Source1,4,33.245227,-111.09607,2018,16,Friday,Sin dato,False,False,False,False,False,False,False
+A-7641697,AZ,Pinal,Maricopa,Source1,4,33.1234,-112.01747,2017,18,Wednesday,Sin dato,True,False,False,False,False,False,False
+A-7650956,AZ,Pinal,Oracle,Source1,3,32.632011,-110.739659,2017,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7654476,AZ,Pinal,Superior,Source1,4,33.28938,-111.09991,2017,20,Friday,Sin dato,False,False,True,False,False,False,False
+A-7663302,AZ,Pinal,Coolidge,Source1,4,33.203038,-111.840901,2017,15,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-7663897,AZ,Pinal,Kearny,Source1,4,33.034445,-110.879721,2017,12,Friday,Sin dato,False,False,False,False,False,False,False
+A-7663898,AZ,Pinal,Kearny,Source1,4,33.016690999999994,-110.843967,2017,12,Friday,Sin dato,False,False,False,False,False,False,False
+A-7665589,AZ,Pinal,Laveen,Source1,4,33.124881,-112.016963,2017,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7673111,AZ,Pinal,Coolidge,Source1,4,32.913174,-111.51508,2017,13,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-7673112,AZ,Pinal,Coolidge,Source1,4,32.902009,-111.51511,2017,13,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-7673115,AZ,Pinal,Casa Grande,Source1,4,32.82051,-111.68955,2017,14,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-7677591,AZ,Pinal,San Manuel,Source1,3,32.764868,-110.655088,2017,23,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7677592,AZ,Pinal,Eloy,Source1,3,32.655644,-111.405124,2017,0,Thursday,Sin dato,False,False,False,False,False,False,False
+A-7683555,AZ,Pinal,Marana,Source1,4,32.56963,-111.31968,2017,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7683557,AZ,Pinal,Oracle,Source1,4,32.555568,-110.932954,2017,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7686082,AZ,Pinal,Casa Grande,Source1,4,32.884788,-111.68677,2017,16,Friday,Sin dato,False,False,False,False,False,False,False
+A-7688319,AZ,Pinal,Gold Canyon,Source1,4,33.358208000000005,-111.468537,2017,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7695520,AZ,Pinal,Coolidge,Source1,4,33.006,-111.75122,2017,23,Sunday,Sin dato,False,False,False,True,False,False,False
+A-7695521,AZ,Pinal,Casa Grande,Source1,4,32.991842,-111.75677,2017,23,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7699697,AZ,Pinal,Coolidge,Source1,4,33.118759999999995,-111.84244,2017,0,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-7704926,AZ,Pinal,Maricopa,Source1,4,33.117490000000004,-111.84189,2019,19,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7709436,AZ,Pinal,Eloy,Source1,4,32.64417,-111.38758,2019,2,Monday,Cloudy,False,False,False,False,False,False,False
+A-7712997,AZ,Pinal,Oracle,Source1,4,32.59506,-110.97384,2019,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7715218,AZ,Pinal,Eloy,Source1,4,32.720273,-111.510865,2019,22,Friday,Cloudy,False,False,False,False,False,False,False
+A-7715224,AZ,Pinal,Eloy,Source1,4,32.645132000000004,-111.389062,2019,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7715225,AZ,Pinal,Eloy,Source1,4,32.725119,-111.519214,2019,22,Friday,Cloudy,False,False,False,False,False,False,False
+A-7715226,AZ,Pinal,Eloy,Source1,4,32.645132000000004,-111.389062,2019,22,Friday,Cloudy,False,False,False,False,False,False,False
+A-7715227,AZ,Pinal,Eloy,Source1,4,32.72268,-111.51524,2019,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7715461,AZ,Pinal,Eloy,Source1,4,32.647744,-111.393084,2019,0,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7715462,AZ,Pinal,Eloy,Source1,4,32.725119,-111.519214,2019,0,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7715463,AZ,Pinal,Eloy,Source1,3,32.72268,-111.51524,2019,2,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7715464,AZ,Pinal,Casa Grande,Source1,4,32.77936,-111.62324,2019,2,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7715469,AZ,Pinal,Casa Grande,Source1,4,32.77936,-111.62324,2019,4,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7715470,AZ,Pinal,Casa Grande,Source1,3,32.77936,-111.62324,2019,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7719875,AZ,Pinal,Coolidge,Source1,3,33.098213,-111.826611,2019,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7722799,AZ,Pinal,Apache Junction,Source1,4,33.436809999999994,-111.576484,2019,16,Tuesday,Cloudy,False,False,False,True,False,False,False
+A-7722806,AZ,Pinal,Apache Junction,Source1,4,33.436809999999994,-111.576484,2019,17,Tuesday,Cloudy,False,False,False,True,False,False,False
+A-7735935,AZ,Pinal,Eloy,Source1,4,32.80941,-111.67105,2019,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7744494,AZ,Pinal,Apache Junction,Source1,4,33.393370000000004,-111.57178600000002,2019,15,Friday,Other,False,True,False,True,False,False,False
+A-7745581,AZ,Pinal,Maricopa,Source1,4,33.12498,-112.01665,2019,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-7750063,AZ,Pinal,Casa Grande,Source1,3,32.8423,-111.68632,2019,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7750065,AZ,Pinal,Casa Grande,Source1,3,32.8759,-111.68683,2019,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7758381,AZ,Pinal,Maricopa,Source1,4,32.835212,-112.177571,2019,3,Saturday,Sin dato,False,False,False,False,False,False,False
+A-7758383,AZ,Pinal,Maricopa,Source1,4,32.8759,-112.04931100000002,2019,5,Saturday,Sin dato,False,False,False,False,False,False,False
+A-7760593,AZ,Pinal,Miami,Source1,4,33.350571,-110.989628,2019,19,Thursday,Sin dato,False,False,False,False,False,False,False
+A-7761504,AZ,Pinal,Stanfield,Source1,4,32.8284,-111.958549,2019,6,Saturday,Sin dato,False,False,False,False,False,False,False
+A-7762290,AZ,Pinal,Maricopa,Source1,3,32.876403,-112.049316,2019,20,Monday,Sin dato,False,False,False,False,False,False,False
+A-7762291,AZ,Pinal,Maricopa,Source1,3,32.87506,-112.04914,2019,20,Monday,Sin dato,False,False,False,False,False,False,False
+A-7762861,AZ,Pinal,Apache Junction,Source1,3,33.390667,-111.580632,2019,16,Tuesday,Other,False,False,False,False,False,False,False
+A-7767383,AZ,Pinal,Maricopa,Source1,3,33.00065,-111.7508,2019,1,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7776555,AZ,Pinal,Eloy,Source1,4,32.726379,-111.51941200000002,2019,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False

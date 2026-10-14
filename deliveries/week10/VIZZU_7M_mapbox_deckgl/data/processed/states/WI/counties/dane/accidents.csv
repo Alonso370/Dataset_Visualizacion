@@ -1,0 +1,901 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-517928,WI,Dane,Marshall,Source2,3,43.109131,-89.082695,2022,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-531463,WI,Dane,Windsor,Source2,3,43.193657,-89.343094,2022,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-534226,WI,Dane,Madison,Source2,3,43.103409,-89.28409599999998,2022,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-543625,WI,Dane,Marshall,Source2,3,43.109131,-89.082695,2022,6,Monday,Rain,False,False,False,False,False,False,False
+A-544096,WI,Dane,Cottage Grove,Source2,3,43.001625,-89.200508,2022,7,Sunday,Rain,False,False,False,False,False,False,False
+A-553195,WI,Dane,Windsor,Source2,3,43.193657,-89.343094,2022,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-557478,WI,Dane,Madison,Source2,3,43.103409,-89.28409599999998,2022,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-571475,WI,Dane,Marshall,Source2,3,43.109131,-89.082695,2022,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-611269,WI,Dane,Madison,Source2,3,43.035252,-89.44158900000002,2022,15,Wednesday,Rain,False,False,False,False,False,False,False
+A-614442,WI,Dane,Madison,Source3,3,43.034729,-89.455391,2022,6,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-641107,WI,Dane,Deforest,Source2,3,43.250469,-89.377785,2022,11,Friday,Rain,False,False,False,False,False,False,False
+A-658450,WI,Dane,Madison,Source2,3,43.040623,-89.378304,2022,8,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-662629,WI,Dane,Madison,Source2,3,43.140911,-89.297668,2022,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-662820,WI,Dane,Madison,Source2,3,43.135792,-89.29528,2022,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-681279,WI,Dane,Madison,Source2,3,43.044018,-89.35419499999998,2022,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-686953,WI,Dane,Deforest,Source2,3,43.250469,-89.377785,2022,7,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-695737,WI,Dane,Deforest,Source2,3,43.194706,-89.324432,2022,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-703769,WI,Dane,Windsor,Source2,3,43.193657,-89.343094,2022,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-704942,WI,Dane,Madison,Source2,3,43.103409,-89.28409599999998,2022,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-706546,WI,Dane,Madison,Source2,3,43.035252,-89.44158900000002,2022,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-736897,WI,Dane,Deforest,Source2,3,43.250469,-89.377785,2022,9,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-737046,WI,Dane,Madison,Source2,3,43.10014,-89.286278,2022,8,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-778898,WI,Dane,Madison,Source2,3,43.135792,-89.29528,2021,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-784264,WI,Dane,Madison,Source2,3,43.135792,-89.29528,2021,17,Friday,Rain,False,False,False,False,False,False,False
+A-790656,WI,Dane,Cottage Grove,Source2,3,43.11021,-89.19094799999998,2021,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-797557,WI,Dane,Madison,Source2,3,43.094269,-89.285362,2021,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-800126,WI,Dane,Edgerton,Source2,3,42.87314600000001,-89.055679,2021,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-802118,WI,Dane,Madison,Source2,3,43.053204,-89.502914,2021,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-802683,WI,Dane,Madison,Source2,3,43.126438,-89.310501,2021,20,Friday,Cloudy,True,True,False,False,False,False,False
+A-811189,WI,Dane,Madison,Source2,3,43.135792,-89.29528,2021,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-823703,WI,Dane,Madison,Source2,3,43.128174,-89.291527,2021,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-838634,WI,Dane,Madison,Source2,3,43.034481,-89.406654,2021,21,Monday,Cloudy,False,False,True,False,False,False,False
+A-842324,WI,Dane,Madison,Source2,3,43.134911,-89.293983,2021,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-858316,WI,Dane,Madison,Source2,3,43.135792,-89.29528,2021,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-867474,WI,Dane,Madison,Source2,3,43.036705,-89.452766,2021,13,Sunday,Cloudy,True,True,False,False,False,False,False
+A-868306,WI,Dane,Madison,Source2,3,43.104439,-89.280159,2021,6,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-870932,WI,Dane,Madison,Source2,3,43.047256,-89.276649,2021,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-874404,WI,Dane,Madison,Source2,3,43.047256,-89.276649,2021,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-874835,WI,Dane,Madison,Source2,3,43.079933,-89.282051,2021,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-889494,WI,Dane,Cottage Grove,Source2,3,43.109829,-89.19825,2021,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-893797,WI,Dane,Edgerton,Source2,3,42.87314600000001,-89.055679,2021,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-895119,WI,Dane,Windsor,Source2,3,43.193657,-89.343094,2021,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-896114,WI,Dane,Madison,Source2,3,43.141979,-89.299423,2021,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-902655,WI,Dane,Cottage Grove,Source2,3,43.001625,-89.200508,2021,8,Monday,Rain,False,False,False,False,False,False,False
+A-904520,WI,Dane,Madison,Source2,3,43.135792,-89.29528,2021,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-911014,WI,Dane,Madison,Source2,3,43.103165,-89.285675,2021,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-913516,WI,Dane,Cottage Grove,Source2,3,43.001625,-89.200508,2021,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-913941,WI,Dane,Madison,Source2,3,43.136543,-89.29576899999998,2021,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-914220,WI,Dane,Madison,Source2,3,43.135792,-89.29528,2021,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-918295,WI,Dane,Marshall,Source2,3,43.1101,-89.045242,2021,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-929625,WI,Dane,Verona,Source2,3,42.97715,-89.51168100000002,2021,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-942471,WI,Dane,Stoughton,Source2,3,43.003445,-89.20554399999996,2021,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-961199,WI,Dane,Madison,Source2,3,43.137871,-89.298691,2021,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-963289,WI,Dane,Oregon,Source2,3,42.95211,-89.378105,2021,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-971099,WI,Dane,Sun Prairie,Source2,3,43.109722,-89.199844,2021,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-978110,WI,Dane,Madison,Source2,3,43.035118,-89.420074,2021,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-981439,WI,Dane,Madison,Source2,3,43.102798,-89.34506999999998,2021,7,Friday,Cloudy,True,True,False,False,False,True,False
+A-984616,WI,Dane,Mount Horeb,Source2,3,43.068298,-89.72917199999998,2021,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-990291,WI,Dane,Madison,Source2,3,43.044849,-89.324471,2021,7,Friday,Rain,False,False,False,False,False,False,False
+A-994624,WI,Dane,Madison,Source2,3,43.047256,-89.276649,2021,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1000658,WI,Dane,Windsor,Source2,3,43.194813,-89.330696,2021,11,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-1002339,WI,Dane,Cottage Grove,Source2,4,43.001278000000006,-89.19929499999998,2021,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1002340,WI,Dane,Edgerton,Source2,4,42.919147,-89.08563199999998,2021,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1008337,WI,Dane,Stoughton,Source2,3,42.904072,-89.230637,2021,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1010063,WI,Dane,Madison,Source2,3,43.034481,-89.406654,2021,14,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-1015044,WI,Dane,Marshall,Source2,3,43.109131,-89.082695,2021,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1022729,WI,Dane,Madison,Source2,3,43.129597,-89.29233599999998,2021,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1028324,WI,Dane,Madison,Source2,3,43.060268,-89.522079,2021,14,Thursday,Cloudy,True,False,False,False,False,False,False
+A-1029889,WI,Dane,Madison,Source2,3,43.047256,-89.276649,2021,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1035788,WI,Dane,Cottage Grove,Source2,3,42.998081,-89.188866,2021,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-1037528,WI,Dane,Deforest,Source2,3,43.194706,-89.324432,2021,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1037577,WI,Dane,Madison,Source2,4,43.135792,-89.29528,2021,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1042574,WI,Dane,Deforest,Source2,3,43.194561,-89.349663,2021,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-1045283,WI,Dane,McFarland,Source2,3,43.023941,-89.25168599999998,2021,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-1047000,WI,Dane,Madison,Source2,3,43.025261,-89.382706,2021,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1048680,WI,Dane,Marshall,Source2,3,43.109131,-89.082695,2021,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1079960,WI,Dane,Edgerton,Source2,3,42.86042,-89.058098,2021,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-1090266,WI,Dane,Madison,Source2,3,43.091564,-89.28578900000002,2021,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1091769,WI,Dane,Marshall,Source2,3,43.119801,-89.079712,2021,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1091770,WI,Dane,Marshall,Source2,3,43.13464000000001,-89.070549,2021,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1094630,WI,Dane,Madison,Source2,3,43.034477,-89.401978,2021,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-1102247,WI,Dane,Deforest,Source2,3,43.250469,-89.377785,2021,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1123237,WI,Dane,Madison,Source2,3,43.043324,-89.369194,2021,5,Thursday,Cloudy,False,False,True,False,False,False,False
+A-1126221,WI,Dane,Madison,Source2,3,43.100395,-89.348724,2021,16,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-1132761,WI,Dane,Middleton,Source2,3,43.096199,-89.540283,2021,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1151122,WI,Dane,Madison,Source2,3,43.135792,-89.29528,2021,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1159292,WI,Dane,Deforest,Source2,3,43.25066,-89.377769,2021,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1179891,WI,Dane,Deforest,Source2,3,43.273319,-89.396469,2021,9,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1180008,WI,Dane,Cottage Grove,Source2,3,42.995937,-89.150887,2021,9,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1180046,WI,Dane,Edgerton,Source2,3,42.87314600000001,-89.055679,2021,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1180057,WI,Dane,Cottage Grove,Source2,3,43.001625,-89.200508,2021,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1180058,WI,Dane,Stoughton,Source2,3,42.991505,-89.13780200000002,2021,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1182582,WI,Dane,Edgerton,Source2,3,42.87314600000001,-89.055679,2021,6,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1206107,WI,Dane,Madison,Source2,3,43.135792,-89.29528,2021,8,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1214147,WI,Dane,Deforest,Source2,3,43.250332,-89.377579,2020,16,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1214546,WI,Dane,Madison,Source2,3,43.047256,-89.276649,2020,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1219036,WI,Dane,Madison,Source2,3,43.135792,-89.29528,2020,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1223267,WI,Dane,Cottage Grove,Source2,3,43.109745,-89.19912,2020,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1233177,WI,Dane,Madison,Source2,3,43.133129,-89.300919,2020,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-1247792,WI,Dane,Marshall,Source2,3,43.109131,-89.082695,2020,9,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1253148,WI,Dane,Madison,Source2,3,43.105396,-89.244591,2020,8,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1259472,WI,Dane,Madison,Source2,3,43.044521,-89.280159,2020,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1271497,WI,Dane,Madison,Source2,3,43.062283,-89.309547,2020,9,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-1275202,WI,Dane,Marshall,Source2,3,43.109131,-89.082695,2020,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1275203,WI,Dane,Marshall,Source2,3,43.109131,-89.082695,2020,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1278388,WI,Dane,Madison,Source2,3,43.047558,-89.27583299999998,2020,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-1280256,WI,Dane,Madison,Source2,3,43.048241,-89.275818,2020,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1280257,WI,Dane,Deerfield,Source2,3,43.108742,-89.143478,2020,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1285473,WI,Dane,Sun Prairie,Source2,3,43.10942100000001,-89.202301,2020,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-1301001,WI,Dane,Windsor,Source2,3,43.193657,-89.343094,2020,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1302882,WI,Dane,Madison,Source2,3,43.04847,-89.281418,2020,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1307342,WI,Dane,Cottage Grove,Source2,3,43.001625,-89.200508,2020,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1307348,WI,Dane,Madison,Source2,4,43.135792,-89.29528,2020,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-1307349,WI,Dane,Deforest,Source2,3,43.17894,-89.324211,2020,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1312302,WI,Dane,Madison,Source2,3,43.104439,-89.280159,2020,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1343900,WI,Dane,Madison,Source2,3,43.103409,-89.28409599999998,2020,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-1348930,WI,Dane,Deforest,Source2,3,43.250469,-89.377785,2020,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1350998,WI,Dane,Madison,Source2,3,43.101971,-89.286636,2020,21,Wednesday,Rain,False,False,False,False,False,False,False
+A-1366018,WI,Dane,Sun Prairie,Source2,3,43.109722,-89.199844,2020,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-1367862,WI,Dane,Madison,Source2,3,43.135792,-89.29528,2020,13,Monday,Rain,False,False,False,False,False,False,False
+A-1367865,WI,Dane,Madison,Source2,3,43.135792,-89.29528,2020,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1374325,WI,Dane,Madison,Source2,3,43.047256,-89.276649,2020,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1378531,WI,Dane,Madison,Source2,3,43.062279,-89.309395,2020,14,Monday,Cloudy,True,False,False,False,False,False,False
+A-1382842,WI,Dane,Verona,Source2,3,42.961262,-89.480942,2020,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1384626,WI,Dane,Madison,Source2,3,43.015514,-89.47273299999998,2020,9,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-1390176,WI,Dane,Deforest,Source2,3,43.207413,-89.35709399999998,2020,22,Friday,Cloudy,False,False,False,False,False,False,False
+A-1402606,WI,Dane,Middleton,Source2,3,43.11174000000001,-89.517189,2020,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1407076,WI,Dane,Madison,Source2,3,43.135792,-89.29528,2020,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-1414062,WI,Dane,Madison,Source2,3,43.135792,-89.29528,2020,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1417897,WI,Dane,Cottage Grove,Source2,3,43.001625,-89.200508,2020,15,Monday,Rain,False,False,False,False,False,False,False
+A-1422239,WI,Dane,Windsor,Source2,3,43.193657,-89.343094,2020,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1429947,WI,Dane,Cottage Grove,Source2,3,43.035568,-89.22575400000002,2020,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1431474,WI,Dane,Madison,Source2,3,43.116898,-89.32457,2020,15,Thursday,Cloudy,True,True,False,False,False,False,False
+A-1438237,WI,Dane,Madison,Source2,3,43.047256,-89.276649,2020,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1445297,WI,Dane,Cottage Grove,Source2,3,43.001625,-89.200508,2020,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1459535,WI,Dane,Cottage Grove,Source2,3,43.10873400000001,-89.173187,2020,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-1463982,WI,Dane,Deerfield,Source2,3,43.108955,-89.082695,2020,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1469546,WI,Dane,Madison,Source2,3,43.049301,-89.279381,2020,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1472089,WI,Dane,Madison,Source2,3,43.103409,-89.28409599999998,2020,14,Sunday,Rain,False,False,False,False,False,False,False
+A-1480679,WI,Dane,Madison,Source2,3,43.04847,-89.281418,2020,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1483544,WI,Dane,Madison,Source2,3,43.135792,-89.29528,2020,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1498298,WI,Dane,Deerfield,Source2,3,43.108818,-89.163353,2020,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1498309,WI,Dane,Marshall,Source2,3,43.109131,-89.082695,2020,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-1501059,WI,Dane,Windsor,Source2,3,43.193657,-89.343094,2020,16,Wednesday,Rain,False,False,False,False,False,False,False
+A-1503895,WI,Dane,Windsor,Source2,3,43.19545,-89.344872,2020,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1506263,WI,Dane,Madison,Source2,3,43.045994,-89.307259,2020,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-1527664,WI,Dane,Edgerton,Source2,3,42.919453,-89.085426,2020,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-1529521,WI,Dane,Madison,Source2,3,43.047031,-89.277863,2020,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1534879,WI,Dane,Mount Horeb,Source2,3,43.001305,-89.761002,2020,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1542061,WI,Dane,Windsor,Source2,3,43.19059,-89.33979000000002,2020,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1545214,WI,Dane,Deforest,Source2,3,43.250469,-89.377785,2020,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-1566737,WI,Dane,Windsor,Source2,3,43.193657,-89.343094,2020,11,Monday,Rain,False,False,False,False,False,False,False
+A-1569016,WI,Dane,Edgerton,Source2,3,42.934116,-89.088181,2020,8,Wednesday,Rain,False,False,False,False,False,False,False
+A-1571745,WI,Dane,Madison,Source2,3,43.051983,-89.27667199999998,2020,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1583485,WI,Dane,Deforest,Source2,3,43.250504,-89.377678,2020,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1598413,WI,Dane,Windsor,Source2,3,43.192169,-89.343117,2020,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-1598519,WI,Dane,Edgerton,Source2,3,42.87314600000001,-89.055679,2020,17,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1598523,WI,Dane,Madison,Source2,3,43.135792,-89.29528,2020,18,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1609607,WI,Dane,Madison,Source2,3,43.126747,-89.29100799999998,2020,7,Thursday,Snow / Ice,False,False,True,False,False,False,False
+A-1627200,WI,Dane,Edgerton,Source2,3,42.87314600000001,-89.055679,2020,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-1646894,WI,Dane,Edgerton,Source2,3,42.919453,-89.085426,2020,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1649388,WI,Dane,Marshall,Source2,3,43.109131,-89.082695,2020,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1652773,WI,Dane,Madison,Source2,3,43.053204,-89.502914,2020,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-1663470,WI,Dane,Deforest,Source2,3,43.231747,-89.368103,2020,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1680810,WI,Dane,Madison,Source2,3,43.047256,-89.276649,2019,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-1684118,WI,Dane,Edgerton,Source2,3,42.919453,-89.085426,2019,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-1686998,WI,Dane,Madison,Source2,3,43.047256,-89.276649,2019,18,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1724515,WI,Dane,Madison,Source2,3,43.035191,-89.454704,2019,13,Wednesday,Clear / Fair,False,False,False,False,True,False,False
+A-1738234,WI,Dane,Cottage Grove,Source2,3,43.001671,-89.20060699999998,2019,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1740839,WI,Dane,Madison,Source2,3,43.047256,-89.276649,2019,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1743466,WI,Dane,Middleton,Source2,3,43.096199,-89.540283,2019,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1743473,WI,Dane,Madison,Source2,3,43.11536,-89.326859,2019,22,Wednesday,Cloudy,False,True,False,False,True,False,False
+A-1752646,WI,Dane,Sun Prairie,Source2,3,43.197121,-89.210892,2019,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-1752707,WI,Dane,Madison,Source2,3,43.035847,-89.393929,2019,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1755288,WI,Dane,Madison,Source2,3,43.135792,-89.29528,2019,19,Tuesday,Rain,False,False,False,False,False,False,False
+A-1775625,WI,Dane,Deforest,Source2,4,43.178844,-89.32435600000002,2019,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1784850,WI,Dane,Madison,Source2,3,43.060268,-89.522079,2019,7,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-1796686,WI,Dane,Windsor,Source2,3,43.193657,-89.343094,2019,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-1820682,WI,Dane,Mc Farland,Source2,3,43.020279,-89.245689,2019,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1827955,WI,Dane,Madison,Source2,3,43.135792,-89.29528,2019,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-1850915,WI,Dane,Madison,Source2,3,43.044804,-89.323044,2019,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-1856816,WI,Dane,Edgerton,Source2,3,42.919254,-89.08496099999998,2019,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1864433,WI,Dane,Edgerton,Source2,3,42.919254,-89.08496099999998,2019,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-1872825,WI,Dane,Madison,Source2,3,43.129772,-89.292404,2019,7,Sunday,Rain,False,False,False,False,False,False,False
+A-1872827,WI,Dane,Madison,Source2,3,43.137161,-89.296181,2019,9,Sunday,Rain,False,False,False,False,False,False,False
+A-1876945,WI,Dane,Madison,Source2,3,43.047203,-89.276848,2019,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1876966,WI,Dane,Stoughton,Source2,3,43.003052,-89.202827,2019,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1881497,WI,Dane,Marshall,Source2,3,43.109131,-89.082695,2019,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1886497,WI,Dane,Deforest,Source2,3,43.248692,-89.377579,2019,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1888301,WI,Dane,Marshall,Source2,3,43.109131,-89.082695,2019,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-1901015,WI,Dane,Madison,Source2,3,43.102531,-89.283188,2019,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-1908585,WI,Dane,Windsor,Source2,3,43.193657,-89.343086,2019,5,Thursday,Rain,False,False,False,False,False,False,False
+A-1908680,WI,Dane,Madison,Source2,3,43.103409,-89.28409599999998,2019,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1931715,WI,Dane,Madison,Source2,3,43.114449,-89.286591,2019,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1949747,WI,Dane,Mc Farland,Source2,3,43.037567,-89.271156,2019,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1951433,WI,Dane,Madison,Source2,3,43.13546,-89.295067,2019,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1951434,WI,Dane,Madison,Source2,3,43.13546,-89.295067,2019,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1951435,WI,Dane,Madison,Source2,3,43.13546,-89.295067,2019,15,Thursday,Storm,False,False,False,False,False,False,False
+A-1951437,WI,Dane,Madison,Source2,3,43.13546,-89.295067,2019,15,Thursday,Storm,False,False,False,False,False,False,False
+A-1954646,WI,Dane,Madison,Source2,3,43.10384000000001,-89.273933,2019,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1958106,WI,Dane,Madison,Source2,3,43.041374,-89.37513,2019,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1960206,WI,Dane,Madison,Source2,3,43.140911,-89.297668,2019,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1962363,WI,Dane,Edgerton,Source2,3,42.919254,-89.08496099999998,2019,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1985183,WI,Dane,Oregon,Source2,3,42.917881,-89.366692,2019,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2001714,WI,Dane,Mc Farland,Source2,3,43.019081,-89.243645,2019,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2003094,WI,Dane,Stoughton,Source2,3,43.003361,-89.20530699999998,2019,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2003097,WI,Dane,Madison,Source2,3,43.103973,-89.27735899999998,2019,19,Saturday,Cloudy,False,False,True,False,False,False,False
+A-2005341,WI,Dane,Madison,Source2,3,43.047203,-89.276848,2019,22,Monday,Storm,False,False,False,False,False,False,False
+A-2009796,WI,Dane,Madison,Source2,3,43.103409,-89.28409599999998,2019,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2013235,WI,Dane,Marshall,Source2,3,43.109173,-89.08270300000002,2019,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-2017968,WI,Dane,Madison,Source2,3,43.047203,-89.276848,2019,14,Monday,Rain,False,False,False,False,False,False,False
+A-2022741,WI,Dane,Deforest,Source2,3,43.250469,-89.377785,2019,14,Wednesday,Rain,False,False,False,False,False,False,False
+A-2022742,WI,Dane,Deforest,Source2,3,43.250168,-89.377785,2019,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2027548,WI,Dane,Windsor,Source2,3,43.19437,-89.344513,2019,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-2030570,WI,Dane,Marshall,Source2,3,43.109131,-89.082695,2019,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-2052092,WI,Dane,Cottage Grove,Source2,3,43.001671,-89.20060699999998,2019,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-2060615,WI,Dane,Madison,Source2,3,43.046871,-89.275864,2019,10,Wednesday,Rain,False,False,False,False,False,False,False
+A-2062996,WI,Dane,Cambridge,Source2,3,43.008724,-89.02243,2019,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2062997,WI,Dane,Madison,Source2,3,43.103409,-89.28409599999998,2019,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2065449,WI,Dane,Madison,Source2,3,43.120831,-89.288895,2019,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-2067539,WI,Dane,Madison,Source2,3,43.13546,-89.295067,2019,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2069099,WI,Dane,Cottage Grove,Source2,3,43.109295,-89.199425,2019,9,Monday,Rain,False,True,False,False,False,False,False
+A-2079185,WI,Dane,Madison,Source2,3,43.130501,-89.292694,2019,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2079186,WI,Dane,Mc Farland,Source2,3,43.02018,-89.245522,2019,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2079851,WI,Dane,Mc Farland,Source2,3,43.013088,-89.233307,2019,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2079860,WI,Dane,Deerfield,Source2,3,43.10894,-89.083694,2019,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2082960,WI,Dane,Sun Prairie,Source2,3,43.109673,-89.199783,2019,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2085988,WI,Dane,Marshall,Source2,3,43.109131,-89.082695,2019,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-2099018,WI,Dane,Madison,Source2,3,43.047203,-89.276848,2019,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2105939,WI,Dane,Edgerton,Source2,3,42.919254,-89.08496099999998,2019,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2108439,WI,Dane,Madison,Source2,3,43.064442,-89.391273,2019,16,Friday,Cloudy,False,True,False,False,False,False,False
+A-2110810,WI,Dane,Deforest,Source2,3,43.19743,-89.347717,2019,15,Sunday,Cloudy,False,False,True,False,False,False,False
+A-2122113,WI,Dane,Madison,Source2,3,43.13546,-89.295067,2019,11,Friday,Rain,False,False,False,False,False,False,False
+A-2123492,WI,Dane,Deforest,Source2,3,43.243244,-89.37346600000002,2019,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2123514,WI,Dane,Marshall,Source2,3,43.109131,-89.082695,2019,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2141035,WI,Dane,Edgerton,Source2,3,42.919254,-89.08496099999998,2019,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2154690,WI,Dane,Marshall,Source2,3,43.109112,-89.083115,2019,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2162065,WI,Dane,Madison,Source2,3,43.103832,-89.280563,2019,10,Thursday,Rain,False,False,False,False,False,False,False
+A-2178993,WI,Dane,Madison,Source2,3,43.043194,-89.369019,2019,13,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-2192140,WI,Dane,Madison,Source2,3,43.037369,-89.392151,2019,17,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-2209186,WI,Dane,Marshall,Source2,3,43.109112,-89.083115,2019,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-2226760,WI,Dane,Marshall,Source2,3,43.109112,-89.083115,2019,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2229015,WI,Dane,Deforest,Source2,3,43.250088,-89.377563,2019,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2270833,WI,Dane,Madison,Source2,3,43.103832,-89.280563,2019,12,Thursday,Rain,False,False,False,False,False,False,False
+A-2280293,WI,Dane,Marshall,Source2,3,43.109112,-89.083115,2019,10,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2280294,WI,Dane,Madison,Source2,3,43.05292100000001,-89.505669,2019,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2280295,WI,Dane,Marshall,Source2,3,43.109112,-89.083115,2019,10,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2282885,WI,Dane,Deforest,Source2,3,43.223576,-89.364655,2019,7,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2285702,WI,Dane,Madison,Source2,3,43.045059,-89.281242,2019,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2285703,WI,Dane,Madison,Source2,3,43.0485,-89.27986899999998,2019,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2285713,WI,Dane,Madison,Source2,3,43.10014,-89.286278,2019,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2290584,WI,Dane,Cottage Grove,Source2,3,43.110516,-89.19088,2019,8,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-2292142,WI,Dane,Madison,Source2,3,43.103832,-89.280563,2019,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-2292146,WI,Dane,Cottage Grove,Source2,3,43.001263,-89.20047,2019,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-2326904,WI,Dane,Edgerton,Source2,3,42.919323,-89.08506,2019,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2331493,WI,Dane,Deforest,Source2,3,43.250088,-89.377563,2019,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-2354693,WI,Dane,Madison,Source2,3,43.136005,-89.295395,2019,9,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-2380607,WI,Dane,Madison,Source2,3,43.101971,-89.286636,2018,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2390837,WI,Dane,Madison,Source2,3,43.046021,-89.268967,2018,10,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-2393350,WI,Dane,Edgerton,Source2,3,42.873119,-89.055687,2018,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2422548,WI,Dane,Madison,Source2,3,43.109257,-89.285522,2018,15,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2446269,WI,Dane,Madison,Source2,3,43.104321,-89.282249,2018,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-2459493,WI,Dane,Windsor,Source2,3,43.194592,-89.34474200000002,2018,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2478002,WI,Dane,Windsor,Source2,3,43.194592,-89.34474200000002,2018,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2485721,WI,Dane,Deforest,Source2,3,43.250595,-89.377678,2018,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2489872,WI,Dane,Madison,Source2,3,43.137367,-89.296059,2018,8,Monday,Rain,False,False,False,False,False,False,False
+A-2505134,WI,Dane,Cottage Grove,Source2,3,43.001659,-89.200317,2018,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-2514524,WI,Dane,Edgerton,Source2,3,42.921013,-89.08510600000002,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2518615,WI,Dane,Madison,Source2,3,43.137367,-89.296059,2018,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2535050,WI,Dane,Edgerton,Source2,3,42.872974,-89.055817,2018,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-2535053,WI,Dane,Madison,Source2,3,43.137367,-89.296059,2018,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2546481,WI,Dane,Madison,Source2,3,43.137367,-89.296059,2018,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-2548469,WI,Dane,Madison,Source2,3,43.137367,-89.296059,2018,11,Saturday,Rain,False,False,False,False,False,False,False
+A-2551124,WI,Dane,Madison,Source2,3,43.111546,-89.285721,2018,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-2554147,WI,Dane,Madison,Source2,3,43.104321,-89.282249,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2554148,WI,Dane,Madison,Source2,3,43.061394,-89.276855,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2567403,WI,Dane,Cottage Grove,Source2,3,43.001659,-89.200317,2018,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2567415,WI,Dane,Cottage Grove,Source2,3,43.001659,-89.200317,2018,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2570111,WI,Dane,Deerfield,Source2,3,43.108932,-89.083115,2018,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2574257,WI,Dane,Deerfield,Source2,3,43.108932,-89.083115,2018,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-2574272,WI,Dane,Edgerton,Source2,3,42.921013,-89.08510600000002,2018,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2586665,WI,Dane,Madison,Source2,3,43.103516,-89.26320600000004,2018,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2593882,WI,Dane,Deerfield,Source2,3,43.108932,-89.083115,2018,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2601437,WI,Dane,Arlington,Source2,3,43.278362,-89.400925,2018,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2614324,WI,Dane,Stoughton,Source2,3,43.012733,-89.232712,2018,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-2615746,WI,Dane,Madison,Source2,3,43.104321,-89.282249,2018,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2622385,WI,Dane,Edgerton,Source2,3,42.873276,-89.055717,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2624913,WI,Dane,Madison,Source2,3,43.089535,-89.36910999999998,2018,16,Friday,Cloudy,True,True,False,False,True,False,False
+A-2647652,WI,Dane,Deforest,Source2,3,43.249756,-89.37718199999998,2018,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2650196,WI,Dane,Windsor,Source2,3,43.194458,-89.343887,2018,17,Thursday,Storm,False,False,False,False,False,False,False
+A-2650270,WI,Dane,Edgerton,Source2,3,42.87558,-89.058701,2018,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2652822,WI,Dane,Madison,Source2,3,43.137367,-89.296059,2018,5,Friday,Rain,False,False,False,False,False,False,False
+A-2652826,WI,Dane,Madison,Source2,3,43.134796,-89.297501,2018,6,Friday,Rain,False,False,False,False,False,False,False
+A-2652827,WI,Dane,Madison,Source2,3,43.136322,-89.29412099999998,2018,6,Friday,Rain,False,False,False,False,False,False,False
+A-2652828,WI,Dane,Madison,Source2,3,43.137806,-89.298546,2018,6,Friday,Rain,False,False,False,False,False,False,False
+A-2652829,WI,Dane,Madison,Source2,3,43.140797,-89.29727199999998,2018,6,Friday,Rain,False,False,False,False,False,False,False
+A-2652833,WI,Dane,Cottage Grove,Source2,3,43.10981,-89.19586899999999,2018,7,Friday,Rain,False,False,False,False,False,False,False
+A-2654412,WI,Dane,Madison,Source2,3,43.137367,-89.296059,2018,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2675687,WI,Dane,Madison,Source2,3,43.084557,-89.28379100000002,2018,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2681017,WI,Dane,Mc Farland,Source2,3,43.020947,-89.24713100000002,2018,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2731926,WI,Dane,Sun Prairie,Source2,3,43.109741,-89.199265,2018,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2734302,WI,Dane,Madison,Source2,3,43.04319,-89.370087,2018,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2739158,WI,Dane,Stoughton,Source2,3,43.004261,-89.207932,2018,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2748055,WI,Dane,Edgerton,Source2,3,42.921013,-89.08510600000002,2018,22,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2750409,WI,Dane,Madison,Source2,3,43.049175,-89.277748,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2752043,WI,Dane,Stoughton,Source2,3,42.992008,-89.13871800000004,2018,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2752761,WI,Dane,Madison,Source2,3,43.049175,-89.277748,2018,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2765523,WI,Dane,Deerfield,Source2,3,43.108452,-89.08354200000002,2018,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2774907,WI,Dane,Cottage Grove,Source2,3,43.001659,-89.200317,2018,13,Thursday,Rain,False,False,False,False,False,False,False
+A-2777202,WI,Dane,Deforest,Source2,3,43.179047,-89.324272,2018,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-2783440,WI,Dane,Deforest,Source2,3,43.250595,-89.377678,2018,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2783490,WI,Dane,Edgerton,Source2,3,42.918282,-89.085503,2018,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2801006,WI,Dane,Madison,Source2,3,43.106712,-89.319519,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2807654,WI,Dane,Madison,Source2,3,43.045929,-89.306725,2018,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2812765,WI,Dane,Madison,Source2,3,42.986324,-89.386398,2018,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2822471,WI,Dane,Deerfield,Source2,3,43.108932,-89.083115,2018,4,Monday,Rain,False,False,False,False,False,False,False
+A-2822478,WI,Dane,Deerfield,Source2,3,43.108932,-89.083115,2018,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-2822492,WI,Dane,Deerfield,Source2,3,43.108932,-89.083115,2018,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-2827888,WI,Dane,Edgerton,Source2,3,42.872974,-89.055817,2018,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2830498,WI,Dane,Deforest,Source2,3,43.221378,-89.363472,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2833202,WI,Dane,Edgerton,Source2,3,42.872974,-89.055817,2018,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2833203,WI,Dane,Edgerton,Source2,3,42.921013,-89.08510600000002,2018,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2835618,WI,Dane,Cottage Grove,Source2,3,43.001659,-89.200317,2018,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2835619,WI,Dane,Cottage Grove,Source2,3,43.001659,-89.200317,2018,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2845108,WI,Dane,Cottage Grove,Source2,3,43.001659,-89.200317,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2853412,WI,Dane,Madison,Source2,3,43.044701,-89.32414200000002,2018,6,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-2853413,WI,Dane,Cottage Grove,Source2,3,42.996162,-89.150803,2018,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2855959,WI,Dane,Madison,Source2,3,43.104321,-89.282249,2018,8,Wednesday,Rain,False,False,False,False,False,False,False
+A-2855965,WI,Dane,Edgerton,Source2,3,42.921013,-89.08510600000002,2018,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2855966,WI,Dane,Madison,Source2,3,43.103416,-89.26750899999998,2018,22,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2867433,WI,Dane,Madison,Source2,3,43.053078,-89.503212,2018,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2873712,WI,Dane,Madison,Source2,3,43.049175,-89.277748,2018,8,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2881443,WI,Dane,Madison,Source2,3,43.137367,-89.296059,2018,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2890780,WI,Dane,Marshall,Source2,3,43.109489,-89.056877,2018,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2890791,WI,Dane,Madison,Source2,3,43.131943,-89.292488,2018,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2896076,WI,Dane,Cottage Grove,Source2,3,43.001659,-89.200317,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2896085,WI,Dane,Madison,Source2,3,43.106373,-89.316322,2018,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2903207,WI,Dane,Cottage Grove,Source2,3,43.001659,-89.200317,2018,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-2903212,WI,Dane,Madison,Source2,3,43.035213,-89.422752,2018,14,Monday,Cloudy,True,False,False,False,False,False,False
+A-2905965,WI,Dane,Edgerton,Source2,3,42.921062,-89.085098,2018,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2927076,WI,Dane,Madison,Source2,3,43.107563,-89.28286700000002,2018,19,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2927077,WI,Dane,Deforest,Source2,3,43.179485,-89.321404,2018,19,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2927081,WI,Dane,Cottage Grove,Source2,3,43.001659,-89.200317,2018,20,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2942118,WI,Dane,Windsor,Source2,3,43.194592,-89.34474200000002,2018,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2947584,WI,Dane,Madison,Source2,3,43.073513,-89.280312,2018,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2954249,WI,Dane,Madison,Source2,3,43.104321,-89.282249,2018,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-2962717,WI,Dane,Madison,Source2,3,43.137367,-89.296059,2018,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2962728,WI,Dane,Deforest,Source2,3,43.179047,-89.324272,2018,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2973721,WI,Dane,Madison,Source3,3,43.08456,-89.283516,2018,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2979082,WI,Dane,Madison,Source2,3,43.049175,-89.277748,2018,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-2993554,WI,Dane,Madison,Source2,3,43.08778,-89.284805,2018,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2993556,WI,Dane,Madison,Source2,3,43.07917,-89.282097,2018,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3002138,WI,Dane,Sun Prairie,Source2,3,43.109741,-89.199265,2018,5,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3002163,WI,Dane,Madison,Source2,3,43.049175,-89.277748,2018,11,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3004013,WI,Dane,Deerfield,Source2,3,43.108772,-89.154259,2018,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3011486,WI,Dane,Madison,Source2,3,43.046947,-89.275871,2018,16,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3048564,WI,Dane,Madison,Source2,3,43.040348,-89.378288,2018,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3058235,WI,Dane,Madison,Source2,3,43.137367,-89.296059,2018,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3066036,WI,Dane,Stoughton,Source2,3,43.005245,-89.210785,2018,21,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-3067501,WI,Dane,Deforest,Source2,3,43.254578,-89.38002,2018,18,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-3067633,WI,Dane,Edgerton,Source2,3,42.919048,-89.082893,2018,16,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-3078869,WI,Dane,Cottage Grove,Source2,3,43.001659,-89.200317,2018,21,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-3086631,WI,Dane,Madison,Source2,3,43.153477,-89.306,2018,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3135988,WI,Dane,Windsor,Source2,3,43.194592,-89.34474200000002,2017,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-3147127,WI,Dane,Deforest,Source2,3,43.178493,-89.327354,2017,10,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3148605,WI,Dane,Madison,Source2,3,43.104321,-89.282249,2017,8,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-3149162,WI,Dane,Madison,Source2,3,43.049175,-89.277748,2017,6,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3151772,WI,Dane,Deerfield,Source2,3,43.108944,-89.082565,2017,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3166181,WI,Dane,Windsor,Source2,3,43.194489,-89.34494000000002,2017,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-3171988,WI,Dane,Stoughton,Source2,3,43.00148400000001,-89.200645,2017,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3180318,WI,Dane,Deerfield,Source2,3,43.108932,-89.083115,2017,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3189624,WI,Dane,Madison,Source2,3,43.104321,-89.282249,2017,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3193275,WI,Dane,Madison,Source2,3,43.137367,-89.296059,2017,20,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3198539,WI,Dane,Edgerton,Source2,3,42.872658,-89.05544300000004,2017,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3206527,WI,Dane,Cambridge,Source2,3,42.967102,-89.105659,2017,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3208538,WI,Dane,Verona,Source2,3,42.979343,-89.51203199999998,2017,19,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-3215677,WI,Dane,Edgerton,Source2,3,42.873505,-89.056,2017,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3216303,WI,Dane,Madison,Source2,3,43.038391,-89.272446,2017,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3216306,WI,Dane,Edgerton,Source2,3,42.872974,-89.055817,2017,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3231493,WI,Dane,Edgerton,Source2,3,42.921013,-89.08510600000002,2017,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3233424,WI,Dane,Edgerton,Source2,3,42.921013,-89.08510600000002,2017,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-3247614,WI,Dane,Madison,Source2,3,43.049175,-89.277748,2017,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3260416,WI,Dane,Madison,Source2,3,43.037983,-89.271812,2017,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3264931,WI,Dane,Stoughton,Source2,3,43.001373,-89.200333,2017,7,Tuesday,Rain,False,False,False,False,False,False,False
+A-3267405,WI,Dane,Edgerton,Source2,3,42.921089,-89.085403,2017,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3272286,WI,Dane,Edgerton,Source2,3,42.921013,-89.08510600000002,2017,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-3286755,WI,Dane,Cottage Grove,Source2,3,43.001293,-89.200089,2017,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3286764,WI,Dane,Deforest,Source2,3,43.179047,-89.324272,2017,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3308007,WI,Dane,Madison,Source2,3,43.107578,-89.28286700000002,2017,8,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3308014,WI,Dane,Edgerton,Source2,3,42.917213,-89.08551800000002,2017,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3311132,WI,Dane,Windsor,Source2,3,43.194592,-89.34474200000002,2017,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-3313484,WI,Dane,Madison,Source2,3,43.049175,-89.277748,2017,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3318110,WI,Dane,Madison,Source2,3,43.137367,-89.296059,2017,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3324063,WI,Dane,Mc Farland,Source2,3,43.030491,-89.260132,2017,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3326963,WI,Dane,Cottage Grove,Source2,3,43.001659,-89.200317,2017,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-3339706,WI,Dane,Deforest,Source2,3,43.250233,-89.377464,2017,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3339791,WI,Dane,Madison,Source2,3,43.049175,-89.277748,2017,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3346701,WI,Dane,Stoughton,Source2,3,42.979404,-89.121437,2017,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-3347581,WI,Dane,Cottage Grove,Source2,3,43.001526,-89.199928,2017,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3347582,WI,Dane,Stoughton,Source2,3,42.99585,-89.149948,2017,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3359149,WI,Dane,Sun Prairie,Source2,3,43.109741,-89.199265,2017,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3359722,WI,Dane,Edgerton,Source2,3,42.872974,-89.055817,2017,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3364074,WI,Dane,Madison,Source2,3,43.049175,-89.277748,2017,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3366701,WI,Dane,Madison,Source2,3,43.036983,-89.45285799999998,2017,9,Wednesday,Clear / Fair,True,True,False,False,False,False,False
+A-3371780,WI,Dane,Edgerton,Source2,3,42.92136,-89.085091,2017,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-3371781,WI,Dane,Edgerton,Source2,3,42.872974,-89.055817,2017,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-3371784,WI,Dane,Madison,Source2,3,43.049175,-89.277748,2017,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-3373709,WI,Dane,Madison,Source2,3,43.0495,-89.277733,2017,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3375406,WI,Dane,Deerfield,Source2,3,43.108932,-89.083115,2017,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-3378276,WI,Dane,Madison,Source2,3,43.106915,-89.285576,2017,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3383867,WI,Dane,Madison,Source2,3,43.048523,-89.27777900000002,2017,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3383884,WI,Dane,Edgerton,Source2,3,42.921013,-89.08510600000002,2017,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3383890,WI,Dane,Edgerton,Source2,3,42.921013,-89.08510600000002,2017,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3386737,WI,Dane,Madison,Source2,3,43.137367,-89.296059,2017,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-3390635,WI,Dane,Madison,Source2,3,43.049175,-89.277748,2017,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-3402022,WI,Dane,Deforest,Source2,3,43.179047,-89.324272,2017,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-3408820,WI,Dane,Madison,Source2,3,43.104321,-89.282249,2017,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3445806,WI,Dane,Stoughton,Source1,4,42.95164000000001,-89.2792,2016,0,Friday,Cloudy,False,False,False,False,False,False,False
+A-3445807,WI,Dane,Stoughton,Source1,4,42.948839,-89.269878,2016,0,Friday,Cloudy,False,False,False,False,False,False,False
+A-3446890,WI,Dane,Edgerton,Source1,4,42.92329,-89.08536,2016,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3446899,WI,Dane,Edgerton,Source1,4,42.92329,-89.08536,2016,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3446901,WI,Dane,Edgerton,Source1,4,42.874517,-89.057126,2016,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3456518,WI,Dane,Madison,Source1,3,43.04456,-89.32753000000002,2017,15,Thursday,Cloudy,False,False,True,False,False,False,False
+A-3459861,WI,Dane,Marshall,Source1,4,43.16398,-89.06688,2017,0,Tuesday,Rain,False,False,False,False,False,False,False
+A-3459862,WI,Dane,Marshall,Source1,4,43.13423,-89.070775,2017,0,Tuesday,Rain,False,False,False,False,False,False,False
+A-3459896,WI,Dane,Cambridge,Source1,4,42.993234,-89.07184000000002,2017,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3460269,WI,Dane,Madison,Source1,3,43.10643,-89.32117,2017,0,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3461910,WI,Dane,Deerfield,Source1,4,43.03635,-89.110097,2017,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3461912,WI,Dane,Cottage Grove,Source1,4,43.030753,-89.150565,2017,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3462341,WI,Dane,Stoughton,Source1,4,42.959854,-89.2817,2017,7,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3462344,WI,Dane,Stoughton,Source1,4,42.96766,-89.28274,2017,7,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3463078,WI,Dane,Waunakee,Source1,4,43.18818,-89.54557,2016,3,Friday,Cloudy,False,False,False,False,False,False,False
+A-3463079,WI,Dane,Waunakee,Source1,4,43.18818,-89.54557,2016,3,Friday,Cloudy,False,False,False,False,False,False,False
+A-3463538,WI,Dane,Madison,Source1,4,43.05189,-89.27763,2016,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3463574,WI,Dane,Windsor,Source1,3,43.19465,-89.34085,2016,13,Saturday,Cloudy,True,False,False,False,False,False,False
+A-3466754,WI,Dane,Sun Prairie,Source1,4,43.1087,-89.20688,2016,23,Wednesday,Rain,False,False,True,False,False,False,False
+A-3471597,WI,Dane,Madison,Source1,4,43.10548,-89.34046,2016,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3472019,WI,Dane,Stoughton,Source1,4,42.93949,-89.25056,2016,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-3472020,WI,Dane,Stoughton,Source1,4,42.942292,-89.254227,2016,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-3472335,WI,Dane,Madison,Source1,4,43.05306,-89.50675,2016,2,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-3472779,WI,Dane,Madison,Source1,3,43.14294,-89.30006999999998,2016,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-3473391,WI,Dane,Madison,Source1,3,43.102282,-89.31652,2016,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3473759,WI,Dane,Madison,Source1,3,43.04523,-89.31232,2016,9,Thursday,Cloudy,False,False,True,False,False,False,False
+A-3474038,WI,Dane,Belleville,Source1,4,42.90366,-89.51583000000002,2016,2,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3474039,WI,Dane,Belleville,Source1,4,42.90021,-89.51813,2016,2,Saturday,Cloudy,False,False,False,True,False,False,False
+A-3475381,WI,Dane,Deerfield,Source1,4,43.097623,-89.08061,2016,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3475383,WI,Dane,Deerfield,Source1,4,43.083,-89.07553,2016,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3475391,WI,Dane,Deerfield,Source1,4,43.097623,-89.08061,2016,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3476775,WI,Dane,Deerfield,Source1,4,43.033235,-89.130251,2016,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3476776,WI,Dane,Deerfield,Source1,4,43.03083,-89.15006,2016,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3477253,WI,Dane,Madison,Source1,4,43.11107,-89.28596,2016,1,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3477254,WI,Dane,Madison,Source1,4,43.10622,-89.28556999999998,2016,1,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3477292,WI,Dane,Madison,Source1,4,43.05189,-89.27763,2016,6,Friday,Rain,False,False,False,False,False,False,False
+A-3478638,WI,Dane,Waunakee,Source1,4,43.1406,-89.51988,2016,12,Tuesday,Sin dato,True,True,False,False,False,False,False
+A-3478641,WI,Dane,Waunakee,Source1,4,43.16003,-89.53229,2016,12,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-3479203,WI,Dane,Sun Prairie,Source1,4,43.18756,-89.229496,2016,19,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-3479204,WI,Dane,Sun Prairie,Source1,4,43.18734,-89.23243000000002,2016,19,Wednesday,Clear / Fair,True,True,False,False,False,False,False
+A-3480328,WI,Dane,Sun Prairie,Source1,4,43.192797,-89.285742,2016,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-3481767,WI,Dane,Cambridge,Source1,4,43.020275,-89.055217,2016,7,Friday,Rain,False,False,False,False,False,False,False
+A-3481827,WI,Dane,Cambridge,Source1,4,43.020275,-89.055217,2016,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-3481831,WI,Dane,Cambridge,Source1,4,43.020409,-89.056882,2016,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-3481964,WI,Dane,Stoughton,Source1,4,43.00263,-89.20395,2016,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-3482030,WI,Dane,Edgerton,Source1,4,42.91624,-89.08521999999998,2016,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3482031,WI,Dane,Cottage Grove,Source1,4,43.000213,-89.196943,2016,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3482035,WI,Dane,Cottage Grove,Source1,4,43.000194,-89.19689,2016,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3482036,WI,Dane,Edgerton,Source1,4,42.91624,-89.08521999999998,2016,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3482053,WI,Dane,Madison,Source1,3,43.03545,-89.43212,2016,2,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3482079,WI,Dane,Madison,Source1,3,43.03545,-89.43212,2016,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3483286,WI,Dane,Madison,Source1,4,43.14351,-89.28808000000002,2016,8,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-3487010,WI,Dane,Deforest,Source1,3,43.19735,-89.34764,2016,14,Friday,Cloudy,False,False,True,False,False,False,False
+A-3487237,WI,Dane,Deforest,Source1,3,43.27299,-89.39617,2016,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3488629,WI,Dane,Deerfield,Source1,4,43.033245,-89.130151,2016,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3490305,WI,Dane,Mc Farland,Source1,4,42.972437,-89.287945,2016,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3490306,WI,Dane,Stoughton,Source1,4,42.968973,-89.283553,2016,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3491105,WI,Dane,Madison,Source1,4,43.05189,-89.27763,2016,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3493887,WI,Dane,Sun Prairie,Source1,4,43.18744,-89.23442,2016,11,Sunday,Cloudy,True,True,False,False,False,False,False
+A-3495971,WI,Dane,Sun Prairie,Source1,4,43.18734,-89.23243000000002,2016,19,Friday,Cloudy,True,True,False,False,False,False,False
+A-3496184,WI,Dane,Mc Farland,Source1,4,42.99787,-89.30721,2016,0,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3496185,WI,Dane,Mc Farland,Source1,4,42.99066,-89.30725,2016,0,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3497961,WI,Dane,Sun Prairie,Source1,3,43.19184,-89.283176,2016,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-3497962,WI,Dane,Sun Prairie,Source1,3,43.192774,-89.28568299999998,2016,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-3498994,WI,Dane,Madison,Source1,4,43.106426,-89.320523,2016,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3499752,WI,Dane,Cottage Grove,Source1,4,43.00165,-89.20038000000002,2016,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-3500181,WI,Dane,Madison,Source1,3,43.10418,-89.31671,2016,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3500192,WI,Dane,Cambridge,Source1,3,42.968551,-89.107515,2016,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3500508,WI,Dane,Waunakee,Source1,4,43.19522,-89.36543,2016,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3500510,WI,Dane,Deforest,Source1,4,43.194572,-89.36115699999998,2016,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-3500843,WI,Dane,Sun Prairie,Source1,4,43.18691,-89.26445,2016,10,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-3504847,WI,Dane,Madison,Source1,3,43.03517,-89.43956999999997,2016,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3505326,WI,Dane,Marshall,Source1,4,43.167513,-89.064053,2016,16,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-3505327,WI,Dane,Marshall,Source1,4,43.16753,-89.06409000000002,2016,16,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-3506423,WI,Dane,Madison,Source1,3,43.03517,-89.43956999999997,2016,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3506544,WI,Dane,Madison,Source1,3,43.047432,-89.294227,2016,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3508037,WI,Dane,Madison,Source1,3,43.045973,-89.307486,2016,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-3508886,WI,Dane,Oregon,Source1,4,42.897614,-89.347842,2016,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3510155,WI,Dane,Stoughton,Source1,3,42.996049,-89.150316,2016,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3559327,WI,Dane,Madison,Source1,4,43.061411,-89.30926,2017,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3563135,WI,Dane,Madison,Source1,3,43.104184,-89.31641,2017,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3563147,WI,Dane,Madison,Source1,4,43.106684,-89.329264,2017,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3573779,WI,Dane,Madison,Source1,4,43.128792,-89.325399,2017,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3573780,WI,Dane,Madison,Source1,4,43.119442,-89.32475,2017,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3573944,WI,Dane,Madison,Source1,3,43.066478,-89.39416700000002,2017,23,Thursday,Rain,False,False,False,False,False,False,False
+A-3573949,WI,Dane,Madison,Source1,4,43.1718,-89.32455999999998,2017,0,Friday,Rain,True,False,False,False,False,False,False
+A-3573950,WI,Dane,Madison,Source1,4,43.166152,-89.32431,2017,0,Friday,Rain,False,False,False,False,False,False,False
+A-3574270,WI,Dane,Madison,Source1,4,43.10643,-89.32117,2017,17,Friday,Rain,False,False,False,False,False,False,False
+A-3576803,WI,Dane,Madison,Source1,4,43.04054,-89.2469,2017,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3577770,WI,Dane,Deforest,Source1,4,43.21117,-89.32285999999998,2017,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3577771,WI,Dane,Deforest,Source1,4,43.222662,-89.32292,2017,11,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-3578762,WI,Dane,Madison,Source1,4,43.07209,-89.30951,2017,23,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3578763,WI,Dane,Madison,Source1,4,43.07463,-89.31005999999998,2017,23,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3580599,WI,Dane,Marshall,Source1,4,43.17141,-89.14734,2017,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3580604,WI,Dane,Sun Prairie,Source1,4,43.181105,-89.166023,2017,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3582869,WI,Dane,Madison,Source1,4,43.140099,-89.389037,2017,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3582873,WI,Dane,Madison,Source1,4,43.137371,-89.380664,2017,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3582950,WI,Dane,Madison,Source1,4,43.140097,-89.389032,2017,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3582974,WI,Dane,Madison,Source1,4,43.137817,-89.382501,2017,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3582975,WI,Dane,Madison,Source1,4,43.136151,-89.376963,2017,14,Thursday,Cloudy,False,False,False,True,False,False,False
+A-3583391,WI,Dane,Sun Prairie,Source1,4,43.18741,-89.236733,2017,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-3585569,WI,Dane,Mc Farland,Source1,3,43.012151,-89.3034,2017,23,Friday,Cloudy,False,True,False,False,False,False,False
+A-3585570,WI,Dane,Verona,Source1,3,42.97406,-89.54003,2017,23,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3599886,WI,Dane,Madison,Source1,4,43.06707,-89.39499,2017,20,Saturday,Cloudy,True,True,False,False,False,False,False
+A-3599926,WI,Dane,Madison,Source1,4,43.03506,-89.41412,2017,4,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3603048,WI,Dane,Verona,Source1,4,42.987983,-89.603575,2017,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3603321,WI,Dane,Deforest,Source1,4,43.1977,-89.32443,2017,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3603714,WI,Dane,Blue Mounds,Source1,3,43.01045,-89.82003900000002,2017,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-3605338,WI,Dane,Sun Prairie,Source1,4,43.18993,-89.23002,2017,23,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3614535,WI,Dane,Waunakee,Source1,4,43.15415,-89.40424,2017,1,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-3616201,WI,Dane,Madison,Source1,4,43.140577,-89.298176,2017,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-3616390,WI,Dane,Marshall,Source1,4,43.10926,-89.07885999999998,2017,0,Sunday,Fog / Low visibility,False,False,True,False,False,False,False
+A-3618560,WI,Dane,Madison,Source1,3,43.11107,-89.28596,2017,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-3618561,WI,Dane,Madison,Source1,3,43.10622,-89.28556999999998,2017,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-3626290,WI,Dane,Madison,Source1,4,43.04703,-89.27586,2017,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3626295,WI,Dane,Madison,Source1,4,43.05189,-89.27763,2017,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3626305,WI,Dane,Madison,Source1,3,43.10651,-89.31081,2017,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3631977,WI,Dane,Edgerton,Source1,4,42.89818,-89.07755999999998,2017,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-3632735,WI,Dane,Madison,Source1,4,43.04703,-89.27586,2017,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3632736,WI,Dane,Madison,Source1,4,43.04847,-89.28142,2017,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3632819,WI,Dane,Madison,Source1,4,43.04703,-89.27586,2017,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3633949,WI,Dane,Edgerton,Source1,3,42.86714,-89.0487,2017,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-3641988,WI,Dane,Oregon,Source1,4,42.89644000000001,-89.34753,2017,2,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3641989,WI,Dane,Oregon,Source1,4,42.902741,-89.350187,2017,2,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3736911,WI,Dane,Sun Prairie,Source1,4,43.21536,-89.166371,2022,3,Monday,Cloudy,False,False,False,False,False,False,False
+A-3749688,WI,Dane,Waunakee,Source1,4,43.191553000000006,-89.411723,2022,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3769491,WI,Dane,Madison,Source1,4,43.00419,-89.384272,2022,23,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3815386,WI,Dane,Sun Prairie,Source1,4,43.188611,-89.27436999999998,2022,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3857477,WI,Dane,Sun Prairie,Source1,4,43.187399,-89.23443,2022,15,Saturday,Snow / Ice,True,True,False,False,False,False,False
+A-3864740,WI,Dane,Madison,Source1,4,43.046851,-89.273328,2022,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-3888393,WI,Dane,Middleton,Source1,4,43.093914,-89.577906,2023,5,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3992538,WI,Dane,Madison,Source1,4,43.034961,-89.393417,2023,20,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-4019657,WI,Dane,Madison,Source1,4,43.047548,-89.29117,2022,5,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4095247,WI,Dane,Windsor,Source1,4,43.194617,-89.341953,2023,17,Saturday,Snow / Ice,False,True,False,False,False,False,True
+A-4104212,WI,Dane,Deforest,Source1,4,43.194518,-89.293481,2022,17,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-4153736,WI,Dane,Sun Prairie,Source1,4,43.187218,-89.233848,2022,0,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4164717,WI,Dane,Stoughton,Source1,4,42.951622,-89.279174,2022,0,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4204093,WI,Dane,Mazomanie,Source1,4,43.16774,-89.773772,2022,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4217891,WI,Dane,Madison,Source1,4,43.07345,-89.309933,2022,14,Monday,Cloudy,True,True,False,False,False,False,False
+A-4234004,WI,Dane,Cottage Grove,Source1,4,42.999947,-89.195402,2023,11,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-4244296,WI,Dane,Sun Prairie,Source1,4,43.108645,-89.213587,2022,21,Saturday,Rain,False,False,False,False,False,False,False
+A-4249715,WI,Dane,Deforest,Source1,4,43.254489,-89.38029,2022,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-4253366,WI,Dane,Belleville,Source1,4,42.925696,-89.521549,2022,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4259692,WI,Dane,Sun Prairie,Source1,4,43.187493,-89.2323,2022,7,Thursday,Cloudy,True,False,False,False,False,False,False
+A-4272285,WI,Dane,Middleton,Source1,4,43.093553,-89.579219,2023,5,Sunday,Cloudy,False,True,False,False,False,False,True
+A-4284982,WI,Dane,McFarland,Source1,4,43.025939,-89.299586,2022,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-4307291,WI,Dane,Deforest,Source1,4,43.194586,-89.345034,2022,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4307826,WI,Dane,Oregon,Source1,4,42.896425,-89.34751899999998,2022,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-4358806,WI,Dane,Mazomanie,Source1,4,43.16774,-89.773772,2022,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4395204,WI,Dane,Madison,Source1,4,43.048325,-89.477475,2022,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4433613,WI,Dane,Deforest,Source1,4,43.176357,-89.32068000000002,2022,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4439663,WI,Dane,Sun Prairie,Source1,4,43.180907,-89.186829,2022,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4519570,WI,Dane,Stoughton,Source1,4,42.9395,-89.250567,2022,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4527638,WI,Dane,Middleton,Source1,4,43.096825,-89.51687,2022,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4528255,WI,Dane,Cambridge,Source1,4,43.020785,-89.061992,2023,17,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-4587136,WI,Dane,Sun Prairie,Source1,4,43.189637,-89.277167,2022,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4592660,WI,Dane,Windsor,Source1,4,43.194637,-89.341125,2022,9,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-4622210,WI,Dane,Edgerton,Source1,4,42.91552663,-89.08531308,2023,11,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-4625799,WI,Dane,Deerfield,Source1,4,43.082976,-89.07549300000002,2023,4,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-4643569,WI,Dane,Stoughton,Source1,4,42.956154,-89.281309,2022,0,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4738993,WI,Dane,Belleville,Source1,4,42.92602,-89.521796,2022,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4873576,WI,Dane,Sun Prairie,Source1,4,43.163048,-89.265455,2023,20,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4919360,WI,Dane,Windsor,Source1,4,43.194682,-89.34034799999998,2022,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4963056,WI,Dane,Madison,Source1,4,43.106654,-89.32725699999997,2022,16,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-5002673,WI,Dane,Middleton,Source1,4,43.093553,-89.579219,2023,5,Sunday,Cloudy,False,True,False,False,False,False,True
+A-5005941,WI,Dane,Black Earth,Source1,4,43.154142,-89.767892,2022,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5007148,WI,Dane,Madison,Source1,4,43.108109235558,-89.28562045054774,2022,6,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5017757,WI,Dane,Cambridge,Source1,4,43.021179,-89.06705,2023,17,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-5020322,WI,Dane,Waunakee,Source1,4,43.186938,-89.55479,2022,1,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-5083783,WI,Dane,Deforest,Source1,4,43.185356,-89.333163,2022,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5113278,WI,Dane,Madison,Source1,4,43.106371,-89.315925,2022,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5173186,WI,Dane,Deforest,Source1,4,43.194666,-89.303728,2022,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5186296,WI,Dane,Deerfield,Source1,4,43.091844,-89.080209,2023,4,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-5194699,WI,Dane,Oregon,Source1,4,42.89765300000001,-89.34784499999998,2022,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5237182,WI,Dane,Windsor,Source1,4,43.194637,-89.341125,2022,9,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-5260208,WI,Dane,Deforest,Source1,4,43.181333,-89.32735699999998,2022,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5352141,WI,Dane,Deforest,Source1,4,43.27574600000001,-89.398585,2022,17,Friday,Rain,False,False,False,False,False,False,False
+A-5354212,WI,Dane,Stoughton,Source1,4,42.94882,-89.269582,2022,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5429113,WI,Dane,Stoughton,Source1,4,42.99219,-89.138357,2022,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-6989250,WI,Dane,Madison,Source1,3,43.17183,-89.32455999999998,2020,8,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-6994046,WI,Dane,Madison,Source1,3,43.07395,-89.28044,2020,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-6996248,WI,Dane,Madison,Source1,3,43.04338,-89.36919,2020,14,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-6996264,WI,Dane,Madison,Source1,3,43.0349,-89.40993,2020,14,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-6996268,WI,Dane,Madison,Source1,3,43.0349,-89.40993,2020,15,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7006611,WI,Dane,Madison,Source1,3,43.04818,-89.47774,2020,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-7006628,WI,Dane,Cottage Grove,Source1,3,43.11003,-89.19374,2020,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-7006647,WI,Dane,Madison,Source1,3,43.03476,-89.40992,2020,16,Friday,Cloudy,False,False,True,False,False,False,False
+A-7010263,WI,Dane,Madison,Source1,3,43.07395,-89.28044,2020,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7010298,WI,Dane,Madison,Source1,3,43.03478,-89.44363,2020,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7017165,WI,Dane,Madison,Source1,3,43.03502,-89.45496,2020,9,Friday,Cloudy,False,False,False,False,True,False,False
+A-7017211,WI,Dane,Madison,Source1,3,43.12123,-89.28904,2020,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7017262,WI,Dane,Cottage Grove,Source1,3,43.11003,-89.19374,2020,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-7022346,WI,Dane,Madison,Source1,3,43.04549,-89.2713,2020,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-7022363,WI,Dane,Madison,Source1,3,43.04719,-89.28735,2020,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-7024545,WI,Dane,Waunakee,Source1,3,43.19522,-89.36543,2020,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7040887,WI,Dane,Marshall,Source1,3,43.1109,-89.01213,2020,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7049856,WI,Dane,Madison,Source1,3,43.05189,-89.27665,2020,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-7049857,WI,Dane,Marshall,Source1,3,43.1109,-89.01213,2020,8,Monday,Rain,False,False,False,False,False,False,False
+A-7049903,WI,Dane,Madison,Source1,3,43.12673,-89.291,2020,16,Monday,Rain,False,False,True,False,False,False,False
+A-7055352,WI,Dane,Madison,Source1,3,43.05257,-89.50325,2020,14,Wednesday,Clear / Fair,True,True,False,False,False,False,False
+A-7058030,WI,Dane,Madison,Source1,3,43.03918,-89.38204,2020,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7058054,WI,Dane,Madison,Source1,3,43.03545,-89.43212,2020,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7068647,WI,Dane,Madison,Source1,3,43.13041,-89.2922,2020,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7072739,WI,Dane,Cottage Grove,Source1,3,43.11029,-89.19378,2020,7,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7072778,WI,Dane,Madison,Source1,3,43.10548,-89.34046,2020,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7072780,WI,Dane,Madison,Source1,3,43.10548,-89.34046,2020,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7072849,WI,Dane,Marshall,Source1,3,43.10926,-89.07885999999998,2020,18,Monday,Cloudy,False,False,True,False,False,False,False
+A-7075323,WI,Dane,Windsor,Source1,3,43.19461,-89.34311,2020,9,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-7078057,WI,Dane,Madison,Source1,3,43.16462,-89.31196,2020,14,Wednesday,Rain,False,False,False,False,False,False,False
+A-7078067,WI,Dane,Madison,Source1,3,43.12673,-89.291,2020,15,Wednesday,Rain,False,False,True,False,False,False,False
+A-7080836,WI,Dane,Madison,Source1,3,43.03918,-89.38204,2020,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7083329,WI,Dane,Windsor,Source1,4,43.19059,-89.33979000000002,2020,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-7083356,WI,Dane,Windsor,Source1,4,43.19059,-89.33979000000002,2020,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7083357,WI,Dane,Marshall,Source1,3,43.10963,-89.06166999999998,2020,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7083360,WI,Dane,Windsor,Source1,4,43.19059,-89.33979000000002,2020,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7083364,WI,Dane,Deforest,Source1,3,43.17648,-89.32083,2020,10,Friday,Cloudy,False,False,True,False,False,False,False
+A-7083365,WI,Dane,Windsor,Source1,4,43.19059,-89.33979000000002,2020,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-7083366,WI,Dane,Windsor,Source1,4,43.19059,-89.33979000000002,2020,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-7089193,WI,Dane,Madison,Source1,3,43.10598,-89.31631,2020,13,Monday,Cloudy,True,False,False,False,False,False,False
+A-7091985,WI,Dane,Madison,Source1,3,43.03493,-89.44362,2020,18,Tuesday,Clear / Fair,False,True,False,False,False,False,False
+A-7094642,WI,Dane,Madison,Source1,3,43.07399,-89.28018,2020,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7099913,WI,Dane,Madison,Source1,3,43.08491,-89.26675999999998,2020,11,Friday,Cloudy,True,True,False,False,False,False,False
+A-7109123,WI,Dane,Madison,Source1,3,43.03545,-89.43212,2020,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7120526,WI,Dane,Madison,Source1,3,43.12673,-89.291,2020,8,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-7120527,WI,Dane,Madison,Source1,3,43.12673,-89.291,2020,8,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-7120528,WI,Dane,Madison,Source1,3,43.13041,-89.2922,2020,8,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7120529,WI,Dane,Madison,Source1,3,43.14184,-89.29884,2020,8,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7123033,WI,Dane,Madison,Source1,3,43.03933,-89.38212,2020,12,Thursday,Storm,False,False,False,False,False,False,False
+A-7123040,WI,Dane,Mount Horeb,Source1,4,43.00332,-89.76494,2020,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7123050,WI,Dane,Mount Horeb,Source1,3,43.00314,-89.76507,2020,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7151339,WI,Dane,Belleville,Source1,4,42.90022,-89.51812,2020,16,Thursday,Clear / Fair,False,False,False,True,False,False,False
+A-7151342,WI,Dane,Belleville,Source1,4,42.86399,-89.53296,2020,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7153493,WI,Dane,Deforest,Source1,3,43.21542,-89.36125,2020,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-7158174,WI,Dane,Madison,Source1,3,43.03478,-89.44363,2020,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-7166380,WI,Dane,Deforest,Source1,3,43.19459000000001,-89.3467,2020,12,Thursday,Cloudy,True,False,False,False,False,False,False
+A-7174291,WI,Dane,Sun Prairie,Source1,3,43.16127,-89.26746999999997,2020,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-7178477,WI,Dane,Madison,Source1,3,43.03933,-89.38212,2020,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7182846,WI,Dane,Madison,Source1,3,43.04538,-89.31248000000002,2020,16,Friday,Cloudy,False,False,True,False,False,False,False
+A-7187043,WI,Dane,Madison,Source1,3,43.04549,-89.2713,2020,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-7196171,WI,Dane,Edgerton,Source1,3,42.91626,-89.08553,2020,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-7196175,WI,Dane,Edgerton,Source1,3,42.8723,-89.05676,2020,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-7196178,WI,Dane,Edgerton,Source1,3,42.8723,-89.05676,2020,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-7205038,WI,Dane,Madison,Source1,4,43.06228,-89.30926,2020,7,Wednesday,Fog / Low visibility,True,False,False,False,False,False,False
+A-7205039,WI,Dane,Madison,Source1,4,43.08327,-89.31130999999998,2020,7,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7205040,WI,Dane,Madison,Source1,4,43.07344000000001,-89.31057,2020,7,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7205041,WI,Dane,Madison,Source1,4,43.07327,-89.30879,2020,7,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7205062,WI,Dane,Edgerton,Source1,3,42.93412,-89.08818000000002,2020,8,Wednesday,Rain,False,False,False,False,False,False,False
+A-7205064,WI,Dane,Edgerton,Source1,3,42.93412,-89.08818000000002,2020,8,Wednesday,Rain,False,False,False,False,False,False,False
+A-7205072,WI,Dane,Deforest,Source1,3,43.2465,-89.37566,2020,10,Wednesday,Rain,False,False,False,False,False,False,False
+A-7218960,WI,Dane,Waunakee,Source1,4,43.18846,-89.49348,2020,5,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7218961,WI,Dane,Waunakee,Source1,4,43.19033,-89.4833,2020,5,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7223380,WI,Dane,Black Earth,Source1,4,43.13165,-89.7236,2020,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7223381,WI,Dane,Black Earth,Source1,4,43.13488,-89.73266,2020,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7235595,WI,Dane,Deforest,Source1,3,43.19487,-89.32448000000002,2020,21,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-7235597,WI,Dane,Deforest,Source1,3,43.1977,-89.32443,2020,21,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-7250116,WI,Dane,Madison,Source1,3,43.10521,-89.24403000000002,2020,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7253582,WI,Dane,Waunakee,Source1,4,43.15401,-89.4042,2020,23,Friday,Cloudy,True,False,False,False,False,False,False
+A-7257138,WI,Dane,Mount Horeb,Source1,4,43.00314,-89.76507,2020,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7282483,WI,Dane,Madison,Source1,3,43.05804000000001,-89.52083,2020,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7289186,WI,Dane,Stoughton,Source1,3,42.96137,-89.28179,2019,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7289192,WI,Dane,Stoughton,Source1,4,42.95608,-89.28133000000003,2019,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7289193,WI,Dane,Stoughton,Source1,4,42.96137,-89.28179,2019,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7298355,WI,Dane,Madison,Source1,3,43.04807,-89.47749,2019,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7300454,WI,Dane,Madison,Source1,3,43.11676,-89.3246,2019,18,Thursday,Cloudy,True,True,False,False,False,False,False
+A-7322510,WI,Dane,Belleville,Source1,4,42.92568,-89.52157,2019,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7322511,WI,Dane,Belleville,Source1,4,42.90378,-89.51583000000002,2019,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7339942,WI,Dane,Cambridge,Source1,3,43.0035,-89.01625,2019,8,Monday,Cloudy,False,True,False,False,False,False,False
+A-7353493,WI,Dane,Deforest,Source1,4,43.19735,-89.34764,2019,6,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7366227,WI,Dane,Madison,Source1,3,43.03506,-89.41412,2019,20,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7402803,WI,Dane,Madison,Source1,4,43.07989600000001,-89.376976,2019,4,Saturday,Clear / Fair,False,True,False,True,False,False,False
+A-7422084,WI,Dane,Madison,Source1,4,43.12671,-89.35509,2019,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7424644,WI,Dane,Deforest,Source1,3,43.195497,-89.324416,2019,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-7425202,WI,Dane,Madison,Source1,4,43.13757,-89.29539,2019,22,Saturday,Rain,False,False,False,False,False,False,False
+A-7435440,WI,Dane,Madison,Source1,3,43.10264,-89.27558,2019,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7437261,WI,Dane,Waunakee,Source1,4,43.18842,-89.49304000000002,2019,23,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7440641,WI,Dane,Madison,Source1,4,43.04549,-89.2713,2019,22,Tuesday,Rain,False,False,False,False,False,False,False
+A-7446336,WI,Dane,Oregon,Source1,4,42.970126,-89.38631,2019,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7446337,WI,Dane,Madison,Source1,4,42.971905,-89.38659100000002,2019,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7449186,WI,Dane,Marshall,Source1,4,43.10926,-89.07885999999998,2019,10,Monday,Cloudy,False,False,True,False,False,False,False
+A-7449704,WI,Dane,Madison,Source1,3,43.045884,-89.307905,2019,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7455726,WI,Dane,Marshall,Source1,4,43.226799,-89.06819,2019,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7466423,WI,Dane,Madison,Source1,4,43.105476,-89.340464,2019,2,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7467354,WI,Dane,Madison,Source1,3,43.101382,-89.31654,2019,11,Tuesday,Rain,False,False,False,False,False,False,False
+A-7468735,WI,Dane,Madison,Source1,3,43.0352,-89.39726,2019,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7470509,WI,Dane,Madison,Source1,3,43.035,-89.44803,2019,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7470512,WI,Dane,Madison,Source1,3,43.03545,-89.43212,2019,23,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-7470841,WI,Dane,Madison,Source1,3,43.0374,-89.38953000000002,2019,5,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-7471490,WI,Dane,Deforest,Source1,3,43.24658,-89.3754,2019,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7476354,WI,Dane,Madison,Source1,3,43.09763,-89.28426,2018,10,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7478457,WI,Dane,Edgerton,Source1,4,42.87536,-89.05849,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-7481986,WI,Dane,Cambridge,Source1,3,43.003442,-89.015939,2018,1,Wednesday,Cloudy,False,True,False,False,False,False,False
+A-7485002,WI,Dane,Madison,Source1,4,43.04549,-89.2713,2018,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7487424,WI,Dane,Deerfield,Source1,4,43.10837,-89.08293,2018,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7487953,WI,Dane,Madison,Source1,4,43.03462,-89.4022,2018,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7487954,WI,Dane,Cambridge,Source1,4,43.003586,-89.016699,2018,16,Thursday,Cloudy,False,True,False,False,False,False,False
+A-7493192,WI,Dane,Madison,Source1,4,43.0438,-89.350143,2018,21,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-7502681,WI,Dane,Edgerton,Source1,4,42.87782,-89.06088000000003,2018,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7505725,WI,Dane,Madison,Source1,3,43.10643,-89.32117,2018,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7505731,WI,Dane,Madison,Source1,3,43.04508,-89.32011999999997,2018,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7506443,WI,Dane,Madison,Source1,3,43.0392,-89.45821,2018,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7508584,WI,Dane,Madison,Source1,4,43.035042,-89.438971,2018,19,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7509854,WI,Dane,Verona,Source1,3,42.981531,-89.512201,2018,22,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7510657,WI,Dane,Madison,Source1,3,43.0392,-89.45821,2018,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7518290,WI,Dane,Madison,Source1,3,43.057625,-89.520445,2018,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-7518324,WI,Dane,Madison,Source1,3,43.14670200000001,-89.302595,2018,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-7520855,WI,Dane,Waunakee,Source1,4,43.19268,-89.38665999999998,2018,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7520856,WI,Dane,Waunakee,Source1,4,43.19268,-89.38665999999998,2018,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7521660,WI,Dane,Sun Prairie,Source1,3,43.170101,-89.257069,2018,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7522419,WI,Dane,Deerfield,Source1,4,43.0365,-89.10723,2018,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-7523009,WI,Dane,Marshall,Source1,4,43.1734,-89.10432,2018,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7523010,WI,Dane,Marshall,Source1,4,43.172863,-89.112686,2018,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7523012,WI,Dane,Marshall,Source1,4,43.172863,-89.112686,2018,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7523013,WI,Dane,Marshall,Source1,4,43.1734,-89.10432,2018,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7523949,WI,Dane,Madison,Source1,3,43.04425,-89.30501,2018,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7525733,WI,Dane,Deerfield,Source1,4,43.089856,-89.07998,2018,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-7525734,WI,Dane,Deerfield,Source1,4,43.076362,-89.074298,2018,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-7534064,WI,Dane,Cottage Grove,Source1,4,43.03076,-89.1948,2018,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7541370,WI,Dane,Stoughton,Source1,4,42.96888,-89.28349,2018,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7541372,WI,Dane,Stoughton,Source1,4,42.948839,-89.269874,2018,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7541373,WI,Dane,Stoughton,Source1,4,42.95164000000001,-89.2792,2018,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7542530,WI,Dane,Madison,Source1,3,43.1053,-89.29815,2018,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-7544568,WI,Dane,Sun Prairie,Source1,4,43.180977,-89.164907,2018,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-7544569,WI,Dane,Sun Prairie,Source1,4,43.181178,-89.169507,2018,22,Friday,Cloudy,False,False,False,False,False,False,False
+A-7544882,WI,Dane,Mc Farland,Source1,4,43.03587,-89.226567,2018,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7549546,WI,Dane,Madison,Source1,4,43.13301,-89.29395,2018,7,Friday,Rain,False,False,False,False,False,False,False
+A-7549547,WI,Dane,Madison,Source1,4,43.13432,-89.29945,2018,7,Friday,Rain,False,False,True,False,False,False,False
+A-7549549,WI,Dane,Madison,Source1,4,43.13689,-89.29661,2018,7,Friday,Rain,False,False,True,False,False,False,False
+A-7549550,WI,Dane,Madison,Source1,4,43.14072,-89.29191,2018,7,Friday,Rain,False,False,False,False,False,False,False
+A-7556588,WI,Dane,Madison,Source1,3,43.06674,-89.39453,2018,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7557162,WI,Dane,Madison,Source1,3,43.032409,-89.45866099999998,2018,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7558632,WI,Dane,Sun Prairie,Source1,4,43.183259,-89.21282099999998,2018,21,Tuesday,Clear / Fair,False,True,False,False,False,False,False
+A-7558633,WI,Dane,Sun Prairie,Source1,4,43.1833,-89.21319,2018,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7559656,WI,Dane,Madison,Source1,3,43.04379,-89.354601,2018,22,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7560208,WI,Dane,Sun Prairie,Source1,4,43.18741,-89.236733,2018,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-7563665,WI,Dane,Sun Prairie,Source1,4,43.18734,-89.23243000000002,2018,14,Monday,Cloudy,True,True,False,False,False,False,False
+A-7565838,WI,Dane,Sun Prairie,Source1,4,43.18326,-89.21283000000003,2018,17,Sunday,Cloudy,False,True,False,False,False,False,False
+A-7565839,WI,Dane,Sun Prairie,Source1,4,43.18326,-89.21283000000003,2018,17,Sunday,Cloudy,False,True,False,False,False,False,False
+A-7565843,WI,Dane,Sun Prairie,Source1,4,43.183298,-89.213176,2018,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7566936,WI,Dane,Edgerton,Source1,4,42.919829,-89.08511,2018,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7569415,WI,Dane,Deforest,Source1,3,43.24524,-89.37493,2018,10,Friday,Rain,False,False,False,False,False,False,False
+A-7569419,WI,Dane,Waunakee,Source1,4,43.19522,-89.36543,2018,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-7569420,WI,Dane,Waunakee,Source1,4,43.19201,-89.411373,2018,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-7574175,WI,Dane,Cottage Grove,Source1,4,43.00015,-89.19603000000002,2018,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7576519,WI,Dane,Madison,Source1,3,43.03545,-89.43212,2018,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7579666,WI,Dane,Cross Plains,Source1,4,43.0954,-89.61169,2018,13,Sunday,Clear / Fair,False,True,False,False,False,False,True
+A-7579667,WI,Dane,Cross Plains,Source1,4,43.09540300000001,-89.611705,2018,13,Sunday,Clear / Fair,False,True,False,False,False,False,True
+A-7580365,WI,Dane,Fitchburg,Source1,4,43.022806,-89.469666,2018,1,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7580368,WI,Dane,Cottage Grove,Source1,4,43.00015,-89.19603000000002,2018,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7581290,WI,Dane,Waunakee,Source1,4,43.19268,-89.38665999999998,2018,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7581291,WI,Dane,Waunakee,Source1,4,43.19268,-89.38665999999998,2018,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7584653,WI,Dane,Deforest,Source1,4,43.247063,-89.322835,2018,14,Saturday,Cloudy,False,False,True,False,False,False,False
+A-7584654,WI,Dane,Deforest,Source1,4,43.25862,-89.32470500000002,2018,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7586740,WI,Dane,Belleville,Source1,4,42.865558,-89.597426,2018,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7586742,WI,Dane,Belleville,Source1,4,42.8661,-89.60239,2018,8,Friday,Clear / Fair,False,False,False,True,False,False,False
+A-7587112,WI,Dane,Cambridge,Source1,4,43.020154,-89.053605,2018,5,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7587113,WI,Dane,Cambridge,Source1,4,43.01094000000001,-89.02453,2018,5,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7587330,WI,Dane,Mc Farland,Source1,4,43.04046,-89.24658000000002,2018,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-7587334,WI,Dane,Dane,Source1,4,43.23722,-89.46151,2018,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7587651,WI,Dane,Cottage Grove,Source1,3,42.998823,-89.16274,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7588072,WI,Dane,Edgerton,Source1,4,42.91624,-89.08521999999998,2018,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7588073,WI,Dane,Stoughton,Source1,4,42.992202,-89.138364,2018,13,Wednesday,Rain,False,False,False,False,False,False,False
+A-7588115,WI,Dane,Cambridge,Source1,3,42.965907,-89.104122,2018,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7588116,WI,Dane,Stoughton,Source1,3,42.982025,-89.125211,2018,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7588568,WI,Dane,Madison,Source1,4,43.123468,-89.325149,2018,5,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7588569,WI,Dane,Madison,Source1,4,43.116924,-89.324464,2018,5,Sunday,Cloudy,True,True,False,False,False,False,False
+A-7588922,WI,Dane,Mc Farland,Source1,4,42.971643,-89.286775,2018,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-7588923,WI,Dane,Stoughton,Source1,4,42.966719,-89.282274,2018,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-7589399,WI,Dane,Verona,Source1,4,42.98832700000001,-89.618768,2018,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7589994,WI,Dane,Madison,Source1,3,43.03565,-89.45022,2018,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7589998,WI,Dane,Columbus,Source1,4,43.256281,-89.068209,2018,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7589999,WI,Dane,Columbus,Source1,4,43.274723,-89.0687,2018,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7590876,WI,Dane,Verona,Source1,4,42.929527,-89.53365600000002,2018,23,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7590877,WI,Dane,Verona,Source1,4,42.937089,-89.543211,2018,23,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7590891,WI,Dane,Madison,Source1,3,43.03565,-89.45022,2018,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-7592543,WI,Dane,Madison,Source1,4,43.060941,-89.471992,2018,14,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-7592545,WI,Dane,Madison,Source1,4,43.06083,-89.473513,2018,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7592548,WI,Dane,Madison,Source1,4,43.061763,-89.472462,2018,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7592549,WI,Dane,Madison,Source1,4,43.059213,-89.471734,2018,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7593435,WI,Dane,Deerfield,Source1,3,43.10889,-89.08626,2018,16,Friday,Rain,False,False,True,False,False,False,False
+A-7593436,WI,Dane,Stoughton,Source1,3,43.003554,-89.20658399999998,2018,16,Friday,Rain,False,False,False,False,False,False,False
+A-7597396,WI,Dane,Edgerton,Source1,3,42.908095,-89.084478,2018,22,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7599138,WI,Dane,Deforest,Source1,4,43.1945,-89.2935,2018,9,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-7599540,WI,Dane,Cottage Grove,Source1,4,43.109811,-89.199265,2018,22,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7605380,WI,Dane,Mc Farland,Source1,4,42.99066,-89.30725,2018,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7606940,WI,Dane,Madison,Source1,4,43.04396,-89.35023000000002,2018,2,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7614542,WI,Dane,Stoughton,Source1,4,42.932251,-89.25045,2018,18,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-7614708,WI,Dane,Mc Farland,Source1,4,43.025013,-89.253555,2018,0,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-7614741,WI,Dane,Blue Mounds,Source1,4,43.010245,-89.836453,2018,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7615804,WI,Dane,Waunakee,Source1,4,43.192071,-89.435913,2018,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7615814,WI,Dane,Madison,Source1,4,43.038863,-89.45742299999998,2018,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7615819,WI,Dane,Stoughton,Source1,4,42.95164000000001,-89.2792,2018,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7616524,WI,Dane,Black Earth,Source1,4,43.126858,-89.750024,2018,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7616525,WI,Dane,Black Earth,Source1,4,43.130668,-89.74811,2018,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7617030,WI,Dane,Mount Horeb,Source1,3,43.00363,-89.76563,2018,0,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7617093,WI,Dane,Stoughton,Source1,4,42.919153,-89.150366,2018,22,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-7618687,WI,Dane,Verona,Source1,4,42.97336,-89.51921,2018,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7618688,WI,Dane,Verona,Source1,4,42.975242,-89.551264,2018,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7618705,WI,Dane,Verona,Source1,4,42.9731,-89.531079,2018,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7622473,WI,Dane,Belleville,Source1,4,42.92791,-89.52723,2018,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7622474,WI,Dane,Belleville,Source1,4,42.929395,-89.533119,2018,15,Tuesday,Cloudy,False,True,False,False,False,False,False
+A-7622475,WI,Dane,Belleville,Source1,4,42.927294,-89.527393,2018,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7622476,WI,Dane,Belleville,Source1,4,42.92791,-89.52723,2018,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7625845,WI,Dane,Madison,Source1,4,43.10656,-89.33351,2017,4,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7627817,WI,Dane,Madison,Source1,3,43.0471,-89.30247,2018,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7628520,WI,Dane,Madison,Source1,3,43.03918,-89.38204,2018,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7630971,WI,Dane,Brooklyn,Source1,4,42.87999,-89.35089,2018,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7633522,WI,Dane,Stoughton,Source1,4,42.948839,-89.269878,2018,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7633523,WI,Dane,Stoughton,Source1,4,42.95164000000001,-89.2792,2018,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7636140,WI,Dane,Cottage Grove,Source1,3,42.999627,-89.166319,2018,21,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-7638013,WI,Dane,Edgerton,Source1,3,42.86714,-89.0487,2018,2,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7638997,WI,Dane,Cottage Grove,Source1,4,43.03076,-89.1948,2018,1,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7638998,WI,Dane,Cottage Grove,Source1,4,43.03265,-89.20604,2018,1,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-7644278,WI,Dane,Cottage Grove,Source1,3,43.00015,-89.19603000000002,2017,20,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7647394,WI,Dane,Madison,Source1,3,43.04578,-89.30660999999998,2017,14,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7653486,WI,Dane,Madison,Source1,3,43.14184,-89.29884,2017,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7653487,WI,Dane,Madison,Source1,3,43.13757,-89.29539,2017,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7653488,WI,Dane,Madison,Source1,3,43.03506,-89.41412,2017,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7655445,WI,Dane,Sauk City,Source1,4,43.230605,-89.680903,2017,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-7655446,WI,Dane,Sauk City,Source1,4,43.22916,-89.67904399999998,2017,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-7660170,WI,Dane,Belleville,Source1,3,42.860468,-89.561004,2017,21,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-7661141,WI,Dane,Madison,Source1,3,43.126003,-89.310902,2017,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-7661142,WI,Dane,Madison,Source1,3,43.126545,-89.310572,2017,20,Friday,Cloudy,True,True,False,False,False,False,False
+A-7661446,WI,Dane,Black Earth,Source1,4,43.148661,-89.76078100000002,2017,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7661448,WI,Dane,Middleton,Source1,4,43.095952,-89.547074,2017,16,Saturday,Clear / Fair,False,True,False,False,False,False,True
+A-7661449,WI,Dane,Middleton,Source1,4,43.095786,-89.551549,2017,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7670283,WI,Dane,Mc Farland,Source1,4,43.017244,-89.301084,2017,18,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-7670284,WI,Dane,Mc Farland,Source1,4,43.01467,-89.30215,2017,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7671261,WI,Dane,Madison,Source1,4,43.073172,-89.309647,2017,14,Friday,Cloudy,True,True,False,False,False,False,False
+A-7671262,WI,Dane,Madison,Source1,4,43.074217,-89.310017,2017,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-7673935,WI,Dane,Edgerton,Source1,4,42.91624,-89.08521999999998,2017,1,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7673936,WI,Dane,Edgerton,Source1,4,42.91624,-89.08521999999998,2017,2,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7673937,WI,Dane,Stoughton,Source1,4,43.00263,-89.20395,2017,2,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7674285,WI,Dane,Sauk City,Source1,4,43.24996,-89.72136,2017,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7674286,WI,Dane,Sauk City,Source1,4,43.265712,-89.7154,2017,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7675538,WI,Dane,Sauk City,Source1,4,43.26636,-89.71455,2017,12,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-7678333,WI,Dane,Edgerton,Source1,4,42.917381,-89.08551,2017,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7680976,WI,Dane,Edgerton,Source1,4,42.917381,-89.08551,2017,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7682697,WI,Dane,Madison,Source1,3,43.03565,-89.45022,2017,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7682698,WI,Dane,Oregon,Source1,4,42.913961,-89.36361099999998,2017,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7683889,WI,Dane,Madison,Source1,3,43.04377,-89.35906999999997,2017,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-7691563,WI,Dane,Marshall,Source1,4,43.117224,-89.081457,2017,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-7691564,WI,Dane,Marshall,Source1,4,43.121099,-89.078765,2017,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-7691573,WI,Dane,Marshall,Source1,4,43.117224,-89.081457,2017,8,Friday,Rain,False,False,False,False,False,False,False
+A-7691574,WI,Dane,Marshall,Source1,4,43.121099,-89.078765,2017,8,Friday,Rain,False,False,False,False,False,False,False
+A-7694586,WI,Dane,Arlington,Source1,3,43.280885,-89.403453,2017,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-7694637,WI,Dane,Belleville,Source1,4,42.865558,-89.597426,2017,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-7695964,WI,Dane,Madison,Source1,3,43.104184,-89.31641,2017,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7700695,WI,Dane,Cross Plains,Source1,4,43.112769,-89.647798,2017,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-7700696,WI,Dane,Cross Plains,Source1,4,43.11291,-89.648134,2017,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-7712113,WI,Dane,Verona,Source1,4,42.974316,-89.546402,2019,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7712114,WI,Dane,Verona,Source1,4,42.962876,-89.54849,2019,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7712908,WI,Dane,Stoughton,Source1,4,42.993876,-89.142935,2019,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-7714048,WI,Dane,Madison,Source1,3,43.041064,-89.37662399999998,2019,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7715390,WI,Dane,Brooklyn,Source1,4,42.849682,-89.334806,2019,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7715391,WI,Dane,Brooklyn,Source1,4,42.862658,-89.349423,2019,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7722692,WI,Dane,Columbus,Source1,4,43.26526,-89.11045,2019,23,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7729400,WI,Dane,Mount Horeb,Source1,4,42.96226,-89.6733,2019,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7735870,WI,Dane,Madison,Source1,4,43.12376,-89.3145,2019,23,Sunday,Cloudy,True,True,False,False,False,False,False
+A-7744753,WI,Dane,Madison,Source1,3,43.036,-89.394191,2019,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7745888,WI,Dane,Deforest,Source1,3,43.180855,-89.327072,2019,20,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7746171,WI,Dane,Mc Farland,Source1,4,43.02258,-89.29929,2019,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7749877,WI,Dane,Mount Horeb,Source1,4,42.955012,-89.663744,2019,2,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7749878,WI,Dane,Mount Horeb,Source1,4,42.955012,-89.663744,2019,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7749879,WI,Dane,Verona,Source1,4,42.94298,-89.64643000000002,2019,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7753014,WI,Dane,Mount Horeb,Source1,4,43.00338,-89.76054,2019,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-7753015,WI,Dane,Mount Horeb,Source1,4,43.003069,-89.76037,2019,11,Monday,Cloudy,False,True,False,False,False,False,False
+A-7754423,WI,Dane,Deforest,Source1,3,43.25813,-89.38287,2019,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7758291,WI,Dane,Mazomanie,Source1,4,43.18207,-89.73928000000002,2019,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7766700,WI,Dane,Madison,Source1,3,43.045541,-89.273093,2019,23,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7767834,WI,Dane,Cottage Grove,Source1,4,43.03298,-89.20709000000002,2019,1,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7767861,WI,Dane,Mazomanie,Source1,3,43.18207,-89.73928000000002,2019,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7768570,WI,Dane,Marshall,Source1,4,43.109751,-89.08344,2019,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7770070,WI,Dane,Middleton,Source1,4,43.096408,-89.53466800000002,2019,8,Wednesday,Clear / Fair,True,False,False,False,False,False,True
+A-7770073,WI,Dane,Sun Prairie,Source1,4,43.18102800000001,-89.180718,2019,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7770074,WI,Dane,Sun Prairie,Source1,4,43.18081,-89.19858,2019,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7770686,WI,Dane,Madison,Source1,4,43.0873,-89.36618,2019,6,Thursday,Clear / Fair,True,True,False,False,True,True,False
+A-7771794,WI,Dane,Madison,Source1,4,43.10451,-89.34178299999998,2019,2,Sunday,Storm,True,True,False,False,True,False,False
+A-7771806,WI,Dane,Cottage Grove,Source1,4,43.00015,-89.19603000000002,2019,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7772176,WI,Dane,Oregon,Source1,4,42.911546,-89.357676,2019,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-7772177,WI,Dane,Oregon,Source1,4,42.903477,-89.35061800000003,2019,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-7773312,WI,Dane,Deforest,Source1,3,43.24915,-89.37716,2019,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7773865,WI,Dane,Mount Horeb,Source1,4,42.929054,-89.808643,2019,0,Friday,Cloudy,False,False,False,False,False,False,False
+A-7774995,WI,Dane,Sun Prairie,Source1,3,43.16471,-89.26378000000003,2019,8,Sunday,Rain,False,False,True,False,False,False,False

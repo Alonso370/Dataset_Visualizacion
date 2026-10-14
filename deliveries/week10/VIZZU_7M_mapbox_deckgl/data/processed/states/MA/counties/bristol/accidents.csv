@@ -1,0 +1,957 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-196580,MA,Bristol,Seekonk,Source2,3,41.801834,-71.330238,2016,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-196590,MA,Bristol,Seekonk,Source2,3,41.803398,-71.332535,2016,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-196591,MA,Bristol,Raynham,Source2,3,41.958828,-71.06897,2016,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-196701,MA,Bristol,Fall River,Source2,3,41.681297,-71.123886,2016,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-196724,MA,Bristol,Westport,Source2,3,41.679684,-71.107552,2016,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-196734,MA,Bristol,Westport,Source2,3,41.679684,-71.107552,2016,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-197006,MA,Bristol,Attleboro,Source2,3,41.933926,-71.319092,2016,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-197018,MA,Bristol,Raynham,Source2,3,41.92067700000001,-71.033783,2016,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-197024,MA,Bristol,Mansfield,Source2,3,42.00631,-71.224457,2016,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-197125,MA,Bristol,Attleboro Falls,Source2,3,41.969238,-71.296066,2016,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-197431,MA,Bristol,Mansfield,Source2,3,42.000919,-71.211685,2016,6,Thursday,Cloudy,False,False,True,False,False,False,False
+A-198594,MA,Bristol,Attleboro,Source2,3,41.902092,-71.356789,2017,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-198900,MA,Bristol,Attleboro,Source2,3,41.90239,-71.35582,2017,18,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-198921,MA,Bristol,Attleboro Falls,Source2,3,41.969238,-71.296066,2017,5,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-199223,MA,Bristol,Mansfield,Source2,3,42.023911,-71.260338,2017,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-199291,MA,Bristol,Attleboro,Source2,3,41.955456,-71.304367,2017,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-199829,MA,Bristol,North Attleboro,Source2,3,41.990379,-71.29280899999998,2017,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-202157,MA,Bristol,Swansea,Source2,3,41.774086,-71.261826,2016,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-202859,MA,Bristol,Norton,Source2,3,41.982201,-71.159683,2016,6,Thursday,Sin dato,False,False,False,False,False,False,False
+A-203478,MA,Bristol,Attleboro,Source2,3,41.955456,-71.304367,2016,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-203693,MA,Bristol,North Dartmouth,Source2,3,41.657055,-71.036957,2016,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-203871,MA,Bristol,Fall River,Source2,3,41.702297,-71.15728,2016,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-204822,MA,Bristol,Swansea,Source2,3,41.749565,-71.218452,2016,4,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-204950,MA,Bristol,Somerset,Source2,3,41.726101,-71.186234,2016,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-205482,MA,Bristol,Attleboro,Source2,3,41.895985,-71.374664,2016,14,Tuesday,Rain,False,False,False,False,False,False,False
+A-205523,MA,Bristol,Foxboro,Source2,3,42.026302,-71.256927,2016,17,Tuesday,Rain,False,False,True,False,False,False,False
+A-205999,MA,Bristol,Somerset,Source2,3,41.728592,-71.188538,2016,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-206166,MA,Bristol,Westport,Source2,3,41.671757,-71.085144,2016,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-206453,MA,Bristol,Attleboro Falls,Source2,3,41.969238,-71.296066,2016,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-206504,MA,Bristol,Attleboro,Source2,3,41.955456,-71.304367,2016,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-206573,MA,Bristol,New Bedford,Source2,3,41.652496,-70.95423100000002,2016,11,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-207209,MA,Bristol,Foxboro,Source2,3,42.026615,-71.256523,2016,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-207332,MA,Bristol,Foxboro,Source2,3,42.026356,-71.25705699999997,2016,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-207746,MA,Bristol,Fall River,Source2,3,41.702297,-71.15728,2016,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-207780,MA,Bristol,Attleboro Falls,Source2,3,41.969318,-71.295509,2016,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-209781,MA,Bristol,Westport,Source2,3,41.673332,-71.090492,2016,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-209882,MA,Bristol,Attleboro Falls,Source2,3,41.969006,-71.296143,2016,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-209890,MA,Bristol,Attleboro Falls,Source2,3,41.969238,-71.296066,2016,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-209928,MA,Bristol,Attleboro,Source2,3,41.933788,-71.319199,2016,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-209942,MA,Bristol,Seekonk,Source2,3,41.801834,-71.330238,2016,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-210430,MA,Bristol,North Dartmouth,Source2,3,41.654716,-70.98793,2016,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-210637,MA,Bristol,New Bedford,Source2,3,41.653301,-70.953346,2016,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-211283,MA,Bristol,Attleboro,Source2,3,41.90239,-71.35582,2016,6,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-211429,MA,Bristol,Attleboro Falls,Source2,3,41.969238,-71.296066,2016,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-211437,MA,Bristol,Foxboro,Source2,3,42.026615,-71.257637,2016,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-211911,MA,Bristol,Attleboro,Source2,3,41.954536,-71.304413,2016,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-213149,MA,Bristol,Attleboro,Source2,3,41.915901,-71.334999,2016,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-213321,MA,Bristol,Somerset,Source2,3,41.726101,-71.186234,2016,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-213850,MA,Bristol,Attleboro Falls,Source2,3,41.969238,-71.296066,2016,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-214360,MA,Bristol,Fall River,Source2,3,41.696617,-71.149895,2016,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-214370,MA,Bristol,Fall River,Source2,3,41.696617,-71.149895,2016,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-214564,MA,Bristol,Mansfield,Source2,3,42.007229,-71.224808,2016,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-214933,MA,Bristol,Attleboro,Source2,3,41.95507,-71.30520600000001,2016,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-215736,MA,Bristol,Attleboro,Source2,3,41.961586,-71.299667,2016,9,Thursday,Rain,False,False,False,False,False,False,False
+A-216195,MA,Bristol,Attleboro,Source2,3,41.955456,-71.304367,2016,9,Tuesday,Rain,False,False,False,False,False,False,False
+A-217309,MA,Bristol,Mansfield,Source2,3,42.02599,-71.25872,2016,16,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-217479,MA,Bristol,New Bedford,Source2,3,41.654118,-70.92801700000003,2016,7,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-217822,MA,Bristol,New Bedford,Source2,3,41.654118,-70.92801700000003,2016,15,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-218106,MA,Bristol,Westport,Source2,3,41.661945,-71.068985,2016,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-218340,MA,Bristol,Seekonk,Source2,3,41.801834,-71.330238,2016,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-218348,MA,Bristol,Attleboro,Source2,3,41.90239,-71.35582,2016,14,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-218538,MA,Bristol,Raynham,Source2,3,41.946316,-71.021034,2016,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-218970,MA,Bristol,Attleboro Falls,Source2,3,41.969238,-71.296066,2016,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-219196,MA,Bristol,New Bedford,Source2,3,41.654751,-70.923447,2016,16,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-219520,MA,Bristol,Seekonk,Source2,3,41.803558,-71.33287,2016,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-219598,MA,Bristol,Attleboro,Source2,3,41.895866,-71.374794,2016,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-219914,MA,Bristol,North Dartmouth,Source2,3,41.655029,-70.988586,2016,5,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-220034,MA,Bristol,Raynham,Source2,3,41.96048,-71.08916500000002,2016,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-220690,MA,Bristol,Somerset,Source2,3,41.730232,-71.190376,2016,9,Friday,Rain,False,False,False,False,False,False,False
+A-220725,MA,Bristol,Mansfield,Source2,3,42.021976,-71.246864,2016,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-220880,MA,Bristol,Norton,Source2,3,41.982201,-71.159683,2016,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-326656,MA,Bristol,Attleboro Falls,Source2,3,41.969238,-71.296066,2017,17,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-326843,MA,Bristol,Seekonk,Source2,3,41.801834,-71.330238,2017,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-326844,MA,Bristol,Attleboro,Source2,3,41.898403,-71.369247,2017,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-327332,MA,Bristol,Attleboro,Source2,3,41.902706,-71.354713,2017,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-327568,MA,Bristol,Seekonk,Source2,3,41.801834,-71.330238,2017,13,Tuesday,Rain,False,False,False,False,False,False,False
+A-328125,MA,Bristol,Taunton,Source2,3,41.962254,-71.123283,2017,13,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-370271,MA,Bristol,Somerset,Source2,3,41.709141,-71.170357,2017,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-370273,MA,Bristol,Norton,Source2,3,41.982201,-71.159683,2017,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-370861,MA,Bristol,Mansfield,Source2,3,42.00631,-71.224457,2017,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-371102,MA,Bristol,Attleboro,Source2,3,41.945328,-71.311157,2017,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-371118,MA,Bristol,Foxboro,Source2,3,42.026043,-71.257347,2017,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-372077,MA,Bristol,Attleboro Falls,Source2,3,41.969238,-71.296066,2017,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-373106,MA,Bristol,Somerset,Source2,3,41.728592,-71.188538,2017,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-373335,MA,Bristol,Somerset,Source2,3,41.728592,-71.188538,2017,19,Tuesday,Rain,False,False,False,False,False,False,False
+A-374256,MA,Bristol,Attleboro Falls,Source2,3,41.969238,-71.296066,2017,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-374576,MA,Bristol,North Dartmouth,Source2,3,41.657581,-71.040871,2017,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-374662,MA,Bristol,New Bedford,Source2,3,41.652134,-70.948959,2017,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-375143,MA,Bristol,Mansfield,Source2,3,42.025486,-71.255135,2017,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-375165,MA,Bristol,Mansfield,Source2,3,42.02232,-71.263901,2017,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-375987,MA,Bristol,Attleboro,Source2,3,41.955456,-71.304367,2017,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-376122,MA,Bristol,Taunton,Source2,3,41.962254,-71.123283,2017,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-376321,MA,Bristol,Attleboro,Source2,3,41.898087,-71.370308,2017,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-420063,MA,Bristol,Attleboro Falls,Source2,3,41.969238,-71.296066,2017,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-420327,MA,Bristol,Attleboro Falls,Source2,3,41.969238,-71.296066,2017,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-420866,MA,Bristol,Norton,Source2,3,41.982525,-71.160049,2017,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-421000,MA,Bristol,North Attleboro,Source2,3,41.991596,-71.293198,2017,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-421558,MA,Bristol,Norton,Source2,3,41.982201,-71.159683,2017,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-421956,MA,Bristol,Attleboro,Source2,3,41.898403,-71.369247,2017,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-421971,MA,Bristol,Attleboro,Source2,3,41.934093,-71.319763,2017,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-422113,MA,Bristol,Westport,Source2,3,41.664879,-71.07309000000002,2017,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-422236,MA,Bristol,Attleboro,Source2,3,41.955456,-71.304367,2017,8,Wednesday,Rain,False,False,False,False,False,False,False
+A-422548,MA,Bristol,Swansea,Source2,3,41.774086,-71.261826,2017,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-422727,MA,Bristol,Attleboro,Source2,3,41.934093,-71.319763,2017,7,Monday,Rain,False,False,False,False,False,False,False
+A-447122,MA,Bristol,Seekonk,Source2,3,41.801834,-71.330238,2017,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-447286,MA,Bristol,North Dartmouth,Source2,3,41.657055,-71.036957,2017,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-475036,MA,Bristol,Attleboro,Source2,3,41.966194,-71.296745,2017,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-475532,MA,Bristol,Norton,Source2,3,41.991386,-71.17270699999997,2017,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-475997,MA,Bristol,Raynham,Source2,3,41.958828,-71.06897,2017,16,Friday,Rain,False,False,False,False,False,False,False
+A-476166,MA,Bristol,Attleboro,Source2,3,41.90239,-71.35582,2017,6,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-476331,MA,Bristol,Attleboro,Source2,3,41.951977,-71.306129,2017,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-476598,MA,Bristol,Attleboro,Source2,3,41.934093,-71.319763,2017,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-476794,MA,Bristol,Attleboro,Source2,3,41.898731,-71.368156,2017,6,Friday,Sin dato,False,False,False,False,False,False,False
+A-476903,MA,Bristol,Mansfield,Source2,3,42.009769,-71.229561,2017,18,Friday,Rain,False,False,False,False,False,False,False
+A-477193,MA,Bristol,Mansfield,Source2,3,42.02412,-71.25212900000002,2017,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-477245,MA,Bristol,Somerset,Source2,3,41.728592,-71.188538,2017,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-477472,MA,Bristol,Attleboro,Source2,3,41.934093,-71.319763,2017,5,Thursday,Sin dato,False,False,False,False,False,False,False
+A-478422,MA,Bristol,Mansfield,Source2,3,42.000385,-71.21102900000002,2017,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-503200,MA,Bristol,Attleboro,Source2,3,41.902245,-71.35629300000002,2017,14,Friday,Sin dato,False,False,True,False,False,False,False
+A-503974,MA,Bristol,Foxboro,Source2,3,42.026455,-71.256752,2017,6,Saturday,Cloudy,False,False,True,False,False,False,False
+A-504296,MA,Bristol,Foxboro,Source2,3,42.026188,-71.257141,2017,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-513872,MA,Bristol,Attleboro,Source2,3,41.902306,-71.35593399999998,2022,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-521490,MA,Bristol,New Bedford,Source2,3,41.654556,-70.92134899999998,2022,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-526288,MA,Bristol,North Attleboro,Source2,3,41.995972,-71.29169499999998,2022,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-536702,MA,Bristol,North Attleboro,Source2,3,41.94905900000001,-71.346298,2022,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-539692,MA,Bristol,Attleboro,Source2,3,41.955566,-71.305656,2022,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-547847,MA,Bristol,Attleboro Falls,Source2,3,41.970291,-71.295868,2022,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-553156,MA,Bristol,Attleboro Falls,Source2,3,41.970291,-71.295868,2022,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-556552,MA,Bristol,Mansfield,Source2,3,42.013355,-71.276596,2022,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-558021,MA,Bristol,Fall River,Source2,3,41.697556,-71.15029100000002,2022,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-560978,MA,Bristol,Fall River,Source2,3,41.681774,-71.121063,2022,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-563319,MA,Bristol,Norton,Source2,3,41.982189,-71.159821,2022,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-563671,MA,Bristol,Westport,Source2,3,41.674561,-71.093071,2022,6,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-575122,MA,Bristol,Seekonk,Source2,3,41.801952,-71.330376,2022,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-577761,MA,Bristol,Westport,Source2,3,41.679771,-71.10791,2022,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-604519,MA,Bristol,Norton,Source2,3,41.982189,-71.159821,2022,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-614268,MA,Bristol,Attleboro,Source2,3,41.955566,-71.305656,2022,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-617188,MA,Bristol,Fall River,Source2,3,41.681133,-71.125458,2022,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-619128,MA,Bristol,Attleboro,Source2,3,41.929981,-71.322189,2022,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-624918,MA,Bristol,Attleboro Falls,Source2,3,41.970291,-71.295868,2022,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-634078,MA,Bristol,Attleboro,Source2,3,41.955566,-71.305656,2022,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-635704,MA,Bristol,Attleboro Falls,Source2,3,41.970291,-71.295868,2022,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-635877,MA,Bristol,Attleboro,Source2,3,41.955566,-71.305656,2022,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-637990,MA,Bristol,Attleboro,Source2,3,41.955566,-71.305656,2022,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-639211,MA,Bristol,Attleboro Falls,Source2,3,41.970291,-71.295868,2022,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-643008,MA,Bristol,Swansea,Source2,3,41.774063,-71.262215,2022,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-643845,MA,Bristol,Attleboro Falls,Source2,3,41.970291,-71.295868,2022,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-646578,MA,Bristol,Raynham,Source2,3,41.942619,-71.016998,2022,4,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-650119,MA,Bristol,Mansfield,Source2,3,42.024487,-71.251839,2022,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-651375,MA,Bristol,North Dartmouth,Source2,3,41.657055,-71.037727,2022,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-667723,MA,Bristol,Fall River,Source2,3,41.681591,-71.126083,2022,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-677696,MA,Bristol,Raynham,Source2,3,41.906002,-71.042404,2022,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-689499,MA,Bristol,Attleboro,Source2,3,41.902306,-71.35593399999998,2022,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-690830,MA,Bristol,Norton,Source2,3,41.982189,-71.159821,2022,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-694519,MA,Bristol,Mansfield,Source2,3,42.003475,-71.217766,2022,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-694688,MA,Bristol,Attleboro,Source2,3,41.933937,-71.318993,2022,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-696334,MA,Bristol,Swansea,Source2,3,41.74987,-71.218338,2022,11,Friday,Snow / Ice,False,False,True,False,False,False,False
+A-696459,MA,Bristol,Fall River,Source2,3,41.6856,-71.13707,2022,10,Friday,Rain,False,False,False,False,False,False,False
+A-696686,MA,Bristol,Swansea,Source2,3,41.74987,-71.218338,2022,8,Friday,Snow / Ice,False,False,True,False,False,False,False
+A-696751,MA,Bristol,Westport,Source2,3,41.674145,-71.09251400000002,2022,7,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-696910,MA,Bristol,Fall River,Source2,3,41.69743,-71.150246,2022,7,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-696962,MA,Bristol,Attleboro,Source2,3,41.933937,-71.318993,2022,7,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-707329,MA,Bristol,Fairhaven,Source2,3,41.662369,-70.858177,2022,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-721273,MA,Bristol,North Attleboro,Source2,3,41.952984,-71.379814,2022,18,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-721414,MA,Bristol,Mansfield,Source2,3,42.003475,-71.217766,2022,16,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-721443,MA,Bristol,Attleboro Falls,Source2,3,41.970291,-71.295868,2022,17,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-722493,MA,Bristol,Attleboro,Source2,3,41.955566,-71.305656,2022,6,Friday,Rain,False,False,False,False,False,False,False
+A-724013,MA,Bristol,Westport,Source2,3,41.680481,-71.11779,2022,8,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-724300,MA,Bristol,Attleboro Falls,Source2,3,41.970291,-71.295868,2022,6,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-728614,MA,Bristol,Fall River,Source2,3,41.702076,-71.159203,2022,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-728796,MA,Bristol,Mansfield,Source2,3,42.003475,-71.217766,2022,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-731810,MA,Bristol,Attleboro,Source2,3,41.933994,-71.319824,2022,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-737407,MA,Bristol,North Attleboro,Source2,3,41.993996,-71.292236,2022,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-741992,MA,Bristol,Fall River,Source2,3,41.681362,-71.12440500000002,2022,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-756088,MA,Bristol,Norton,Source2,4,41.982189,-71.159821,2022,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-769146,MA,Bristol,Mansfield,Source2,3,42.02676,-71.253571,2021,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-770399,MA,Bristol,Attleboro,Source2,3,41.951412,-71.306473,2021,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-770487,MA,Bristol,Norton,Source2,3,41.982616,-71.1595,2021,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-777825,MA,Bristol,Attleboro,Source2,3,41.955566,-71.305656,2021,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-787065,MA,Bristol,Seekonk,Source2,3,41.801952,-71.330376,2021,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-796611,MA,Bristol,Westport,Source2,3,41.674145,-71.09251400000002,2021,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-813269,MA,Bristol,North Attleboro,Source2,3,41.99543,-71.292419,2021,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-816872,MA,Bristol,Attleboro,Source2,3,41.933937,-71.318993,2021,5,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-817266,MA,Bristol,Fall River,Source2,3,41.6856,-71.13707,2021,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-819013,MA,Bristol,North Attleboro,Source2,3,41.99049,-71.292778,2021,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-820021,MA,Bristol,Mansfield,Source2,3,42.009762,-71.280357,2021,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-826865,MA,Bristol,Raynham,Source2,4,41.959229,-71.06888599999998,2021,7,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-835269,MA,Bristol,Attleboro,Source2,3,41.902306,-71.35593399999998,2021,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-841849,MA,Bristol,Attleboro Falls,Source2,3,41.970291,-71.295868,2021,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-844099,MA,Bristol,Seekonk,Source2,3,41.801952,-71.330376,2021,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-845076,MA,Bristol,Attleboro Falls,Source2,3,41.970291,-71.295868,2021,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-848610,MA,Bristol,Seekonk,Source2,3,41.801952,-71.330376,2021,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-855759,MA,Bristol,Attleboro,Source2,3,41.914181,-71.334778,2021,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-859714,MA,Bristol,Attleboro,Source2,3,41.901012,-71.360405,2021,6,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-860581,MA,Bristol,Attleboro,Source2,3,41.930233,-71.321991,2021,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-862680,MA,Bristol,North Dartmouth,Source2,3,41.655018,-70.98782299999998,2021,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-863515,MA,Bristol,New Bedford,Source2,3,41.65279,-70.953362,2021,16,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-863601,MA,Bristol,New Bedford,Source2,3,41.653061,-70.936981,2021,16,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-863821,MA,Bristol,North Attleboro,Source2,3,41.994217,-71.292732,2021,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-874163,MA,Bristol,North Dartmouth,Source2,3,41.657055,-71.037727,2021,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-883958,MA,Bristol,Attleboro,Source2,3,41.933937,-71.318993,2021,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-890333,MA,Bristol,North Dartmouth,Source2,3,41.654884,-70.988586,2021,7,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-892886,MA,Bristol,North Attleboro,Source2,3,41.996052,-71.292213,2021,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-892978,MA,Bristol,North Attleboro,Source2,3,41.996052,-71.292213,2021,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-893449,MA,Bristol,New Bedford,Source2,3,41.654259,-70.92710100000002,2021,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-898822,MA,Bristol,Attleboro,Source2,3,41.933937,-71.318993,2021,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-898823,MA,Bristol,Attleboro,Source2,3,41.955566,-71.305656,2021,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-904590,MA,Bristol,Attleboro,Source2,3,41.933937,-71.318993,2021,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-908156,MA,Bristol,Attleboro Falls,Source2,3,41.970291,-71.295868,2021,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-908517,MA,Bristol,Attleboro,Source2,3,41.955566,-71.305656,2021,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-909315,MA,Bristol,Attleboro,Source2,3,41.902306,-71.35593399999998,2021,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-911339,MA,Bristol,Attleboro Falls,Source2,3,41.970291,-71.295868,2021,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-915125,MA,Bristol,North Attleboro,Source2,3,41.949345,-71.345062,2021,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-918010,MA,Bristol,Attleboro,Source2,3,41.955566,-71.305656,2021,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-924357,MA,Bristol,Attleboro Falls,Source2,3,41.970291,-71.295868,2021,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-931990,MA,Bristol,Raynham,Source2,3,41.95911,-71.069122,2021,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-933945,MA,Bristol,New Bedford,Source2,3,41.654556,-70.92134899999998,2021,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-935347,MA,Bristol,Attleboro,Source2,3,41.955566,-71.305656,2021,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-957597,MA,Bristol,Westport,Source2,3,41.674145,-71.09251400000002,2021,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-957788,MA,Bristol,Attleboro,Source2,3,41.933937,-71.318993,2021,16,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-963872,MA,Bristol,Attleboro Falls,Source2,3,41.970291,-71.295868,2021,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-969540,MA,Bristol,Attleboro Falls,Source2,3,41.970291,-71.295868,2021,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-982381,MA,Bristol,Fall River,Source2,3,41.681774,-71.121063,2021,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-982388,MA,Bristol,Westport,Source2,3,41.674145,-71.09251400000002,2021,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-984021,MA,Bristol,Somerset,Source2,3,41.729649,-71.18985,2021,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-985304,MA,Bristol,Attleboro,Source2,3,41.955566,-71.305656,2021,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-985307,MA,Bristol,Attleboro Falls,Source2,3,41.971142,-71.297249,2021,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-997893,MA,Bristol,Norton,Source2,3,41.982189,-71.159821,2021,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-999746,MA,Bristol,Swansea,Source2,3,41.774063,-71.262215,2021,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1004815,MA,Bristol,Raynham,Source2,3,41.95911,-71.069122,2021,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1027481,MA,Bristol,Attleboro,Source2,3,41.933937,-71.318993,2021,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1030669,MA,Bristol,Attleboro,Source2,3,41.955566,-71.305656,2021,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1041821,MA,Bristol,Attleboro,Source2,3,41.95575,-71.303551,2021,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1046135,MA,Bristol,Taunton,Source2,3,41.870331,-71.054459,2021,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1055403,MA,Bristol,Attleboro,Source2,3,41.933937,-71.318993,2021,16,Thursday,Sin dato,False,False,False,False,False,False,False
+A-1075500,MA,Bristol,New Bedford,Source2,3,41.654259,-70.92710100000002,2021,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1079135,MA,Bristol,Attleboro Falls,Source2,3,41.970291,-71.295868,2021,6,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1098340,MA,Bristol,Attleboro Falls,Source2,3,41.970291,-71.295868,2021,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1103901,MA,Bristol,Attleboro,Source2,3,41.902306,-71.35593399999998,2021,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1107171,MA,Bristol,Mansfield,Source2,3,42.003475,-71.217766,2021,5,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1107178,MA,Bristol,Attleboro Falls,Source2,3,41.970291,-71.295868,2021,6,Wednesday,Rain,False,False,False,False,False,False,False
+A-1110209,MA,Bristol,Mansfield,Source2,3,42.007736,-71.28364599999998,2021,6,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-1112646,MA,Bristol,Seekonk,Source2,3,41.801952,-71.330376,2021,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-1122482,MA,Bristol,Attleboro,Source2,3,41.902306,-71.35593399999998,2021,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1129004,MA,Bristol,Attleboro,Source2,3,41.902306,-71.35593399999998,2021,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1134728,MA,Bristol,Norton,Source2,3,41.98710300000001,-71.165352,2021,6,Monday,Rain,False,False,False,False,False,False,False
+A-1148663,MA,Bristol,Attleboro,Source2,3,41.898746,-71.368546,2021,15,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1150136,MA,Bristol,Attleboro,Source2,3,41.902306,-71.35593399999998,2021,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1150144,MA,Bristol,Attleboro Falls,Source2,3,41.970291,-71.295868,2021,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1154756,MA,Bristol,New Bedford,Source2,3,41.65057,-70.951691,2021,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-1160077,MA,Bristol,Raynham,Source2,3,41.9561,-71.038261,2021,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1169565,MA,Bristol,Attleboro Falls,Source2,3,41.970291,-71.295868,2021,4,Tuesday,Rain,False,False,False,False,False,False,False
+A-1171061,MA,Bristol,North Attleboro,Source2,3,41.949345,-71.345062,2021,16,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1179106,MA,Bristol,Attleboro,Source2,3,41.902306,-71.35593399999998,2021,16,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1180906,MA,Bristol,Fairhaven,Source2,4,41.657764,-70.888,2021,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1188091,MA,Bristol,Mansfield,Source2,3,42.003475,-71.217766,2021,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1208427,MA,Bristol,Fall River,Source2,3,41.6856,-71.13707,2020,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1218237,MA,Bristol,Mansfield,Source2,3,42.007912,-71.282928,2020,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1235766,MA,Bristol,Attleboro,Source2,3,41.933937,-71.318993,2020,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1240593,MA,Bristol,Somerset,Source2,3,41.725784,-71.186066,2020,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1252238,MA,Bristol,Attleboro,Source2,3,41.940281,-71.314049,2020,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1252407,MA,Bristol,Fall River,Source2,3,41.702076,-71.159203,2020,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1255779,MA,Bristol,Attleboro,Source2,4,41.933937,-71.318993,2020,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1258674,MA,Bristol,Attleboro,Source2,3,41.897419,-71.369766,2020,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1262102,MA,Bristol,Mansfield,Source2,3,42.003475,-71.217766,2020,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1266622,MA,Bristol,Attleboro,Source2,3,41.933937,-71.318993,2020,4,Friday,Rain,False,False,False,False,False,False,False
+A-1272299,MA,Bristol,Attleboro,Source2,3,41.902306,-71.35593399999998,2020,4,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-1290967,MA,Bristol,North Attleboro,Source2,3,41.949192,-71.345787,2020,14,Thursday,Rain,False,False,False,False,False,False,False
+A-1306674,MA,Bristol,Fall River,Source2,3,41.681774,-71.121063,2020,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1308132,MA,Bristol,Attleboro Falls,Source2,3,41.970291,-71.295868,2020,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1313069,MA,Bristol,Attleboro,Source2,3,41.902306,-71.35593399999998,2020,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-1313251,MA,Bristol,North Dartmouth,Source2,3,41.657055,-71.037727,2020,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1317746,MA,Bristol,Attleboro Falls,Source2,3,41.970291,-71.295868,2020,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1317749,MA,Bristol,Swansea,Source2,3,41.774063,-71.262215,2020,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1321185,MA,Bristol,North Attleboro,Source2,3,41.949444,-71.34384200000002,2020,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1327433,MA,Bristol,New Bedford,Source2,3,41.65279,-70.953362,2020,16,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-1328892,MA,Bristol,Attleboro,Source2,3,41.902306,-71.35593399999998,2020,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1339129,MA,Bristol,Attleboro Falls,Source2,3,41.970291,-71.295868,2020,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1351784,MA,Bristol,Attleboro Falls,Source2,3,41.970291,-71.295868,2020,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1384003,MA,Bristol,Attleboro,Source2,3,41.955566,-71.305656,2020,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1393277,MA,Bristol,Attleboro,Source2,3,41.933937,-71.318993,2020,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1393312,MA,Bristol,Attleboro,Source2,3,41.955566,-71.305656,2020,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1394770,MA,Bristol,Attleboro Falls,Source2,3,41.970291,-71.295868,2020,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1403531,MA,Bristol,Swansea,Source2,3,41.74987,-71.218338,2020,9,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-1404789,MA,Bristol,Norton,Source2,3,41.982189,-71.159821,2020,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1408914,MA,Bristol,Raynham,Source2,3,41.957214,-71.044128,2020,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1418595,MA,Bristol,Foxboro,Source2,3,42.026402,-71.257164,2020,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1423101,MA,Bristol,Attleboro Falls,Source2,3,41.970291,-71.295868,2020,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1423102,MA,Bristol,Attleboro,Source2,3,41.955566,-71.305656,2020,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1427741,MA,Bristol,Fall River,Source2,3,41.702076,-71.159203,2020,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1430665,MA,Bristol,Attleboro,Source2,3,41.955566,-71.305656,2020,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1430667,MA,Bristol,Attleboro,Source2,3,41.933937,-71.318993,2020,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1432122,MA,Bristol,Attleboro,Source2,3,41.933937,-71.318993,2020,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1440371,MA,Bristol,Attleboro,Source2,3,41.933517,-71.319397,2020,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-1440372,MA,Bristol,Attleboro,Source2,3,41.955566,-71.305656,2020,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-1443185,MA,Bristol,Somerset,Source2,3,41.72482700000001,-71.185417,2020,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1451800,MA,Bristol,Attleboro,Source2,3,41.955212,-71.30452,2020,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-1458844,MA,Bristol,Seekonk,Source2,3,41.801952,-71.330376,2020,7,Friday,Rain,False,False,False,False,False,False,False
+A-1458849,MA,Bristol,North Attleboro,Source2,3,42.005985,-71.285988,2020,8,Friday,Rain,False,False,False,False,False,False,False
+A-1463350,MA,Bristol,Attleboro,Source2,3,41.933937,-71.318993,2020,16,Friday,Rain,False,False,False,False,False,False,False
+A-1471626,MA,Bristol,Somerset,Source2,3,41.729649,-71.18985,2020,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1492164,MA,Bristol,Attleboro,Source2,3,41.955944,-71.30403100000002,2020,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1492600,MA,Bristol,Attleboro,Source2,3,41.902306,-71.35593399999998,2020,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-1496439,MA,Bristol,Attleboro,Source2,3,41.898746,-71.368546,2020,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1500441,MA,Bristol,Raynham,Source2,3,41.95911,-71.069122,2020,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1501920,MA,Bristol,Westport,Source2,3,41.674145,-71.09251400000002,2020,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1508358,MA,Bristol,Taunton,Source2,3,41.96244,-71.124413,2020,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1513468,MA,Bristol,Swansea,Source2,3,41.774063,-71.262215,2020,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1520783,MA,Bristol,Raynham,Source2,3,41.905804,-71.041939,2020,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1531374,MA,Bristol,Attleboro,Source2,3,41.934055,-71.319344,2020,6,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1534174,MA,Bristol,Mansfield,Source2,3,42.003334,-71.217651,2020,8,Thursday,Rain,False,False,False,False,False,False,False
+A-1537838,MA,Bristol,Mansfield,Source2,3,42.003334,-71.217651,2020,17,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1543765,MA,Bristol,Westport,Source2,3,41.679695,-71.109329,2020,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1547869,MA,Bristol,Seekonk,Source2,3,41.801952,-71.330376,2020,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1556707,MA,Bristol,North Dartmouth,Source2,3,41.657055,-71.037727,2020,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1563092,MA,Bristol,New Bedford,Source3,3,41.654259,-70.92710100000002,2020,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1564378,MA,Bristol,North Dartmouth,Source2,3,41.657108,-71.03756,2020,15,Friday,Rain,False,False,False,False,False,False,False
+A-1567397,MA,Bristol,Fall River,Source2,3,41.682121,-71.130402,2020,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1570759,MA,Bristol,Attleboro,Source2,3,41.955601,-71.305862,2020,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1572743,MA,Bristol,Seekonk,Source2,3,41.801952,-71.330376,2020,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1576015,MA,Bristol,Attleboro Falls,Source2,3,41.970264,-71.295998,2020,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-1578128,MA,Bristol,Attleboro Falls,Source2,3,41.970264,-71.295998,2020,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1580279,MA,Bristol,Foxboro,Source2,3,42.026386,-71.257133,2020,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1607076,MA,Bristol,Attleboro Falls,Source2,3,41.970264,-71.295998,2020,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1607092,MA,Bristol,Attleboro Falls,Source2,3,41.970264,-71.295998,2020,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1607140,MA,Bristol,Attleboro,Source2,3,41.90247700000001,-71.355949,2020,8,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1615074,MA,Bristol,Norton,Source2,3,41.98225,-71.159637,2020,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1619346,MA,Bristol,Attleboro Falls,Source2,3,41.969131,-71.296066,2020,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1624999,MA,Bristol,Attleboro,Source2,3,41.90247700000001,-71.355949,2020,8,Monday,Cloudy,False,False,True,False,False,False,False
+A-1625477,MA,Bristol,Swansea,Source2,3,41.74987,-71.218338,2020,6,Monday,Cloudy,False,False,True,False,False,False,False
+A-1625479,MA,Bristol,Westport,Source2,3,41.674236,-71.092438,2020,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1629496,MA,Bristol,New Bedford,Source2,3,41.654259,-70.92710100000002,2020,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1643233,MA,Bristol,Rehoboth,Source2,3,41.778736,-71.27816800000002,2020,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1643286,MA,Bristol,Swansea,Source2,3,41.774063,-71.262215,2020,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1650622,MA,Bristol,North Dartmouth,Source2,3,41.657055,-71.037727,2020,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1656254,MA,Bristol,Westport,Source2,3,41.674236,-71.092438,2020,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1666108,MA,Bristol,Attleboro Falls,Source2,3,41.976486,-71.29441800000002,2020,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1670319,MA,Bristol,Seekonk,Source2,3,41.801952,-71.330376,2020,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1670602,MA,Bristol,Westport,Source2,3,41.680119,-71.110939,2020,8,Thursday,Rain,False,False,False,False,False,False,False
+A-1690217,MA,Bristol,Attleboro,Source2,3,41.903149,-71.35414899999998,2019,5,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1692762,MA,Bristol,Attleboro,Source2,3,41.955555,-71.30430600000003,2019,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1692767,MA,Bristol,Mansfield,Source2,3,41.999207,-71.20443,2019,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1705331,MA,Bristol,New Bedford,Source2,3,41.654259,-70.92710100000002,2019,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1707781,MA,Bristol,Attleboro,Source2,3,41.90247700000001,-71.355949,2019,8,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-1707800,MA,Bristol,Attleboro,Source2,3,41.898746,-71.368546,2019,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1717861,MA,Bristol,Mansfield,Source2,3,42.010529,-71.280579,2019,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1717862,MA,Bristol,Attleboro,Source2,3,41.90247700000001,-71.355949,2019,5,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-1720345,MA,Bristol,Swansea,Source2,3,41.774063,-71.262215,2019,6,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1720355,MA,Bristol,Mansfield,Source2,3,42.003334,-71.217651,2019,9,Tuesday,Rain,False,False,False,False,False,False,False
+A-1720663,MA,Bristol,Swansea,Source2,3,41.74987,-71.218338,2019,6,Tuesday,Snow / Ice,False,False,True,False,False,False,False
+A-1725746,MA,Bristol,Attleboro Falls,Source2,3,41.970264,-71.295998,2019,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1731500,MA,Bristol,Norton,Source2,3,41.98225,-71.159637,2019,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1734856,MA,Bristol,Fairhaven,Source2,3,41.657818,-70.888313,2019,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1736894,MA,Bristol,Attleboro Falls,Source2,3,41.970337,-71.29599,2019,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-1736901,MA,Bristol,Attleboro,Source2,3,41.934498,-71.31860400000002,2019,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-1739394,MA,Bristol,Taunton,Source2,3,41.96244,-71.124413,2019,11,Tuesday,Rain,False,False,False,False,False,False,False
+A-1762094,MA,Bristol,Norton,Source2,3,41.98225,-71.159637,2019,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1774215,MA,Bristol,Attleboro,Source2,3,41.955601,-71.305862,2019,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1783371,MA,Bristol,Attleboro Falls,Source2,3,41.970264,-71.295998,2019,6,Tuesday,Rain,False,False,False,False,False,False,False
+A-1788584,MA,Bristol,Attleboro,Source2,3,41.95388,-71.30238299999998,2019,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1788591,MA,Bristol,Attleboro,Source2,3,41.934055,-71.319344,2019,7,Thursday,Rain,False,False,False,False,False,False,False
+A-1795828,MA,Bristol,New Bedford,Source2,3,41.652546,-70.953278,2019,22,Monday,Cloudy,False,False,True,False,False,False,False
+A-1797968,MA,Bristol,Attleboro,Source2,3,41.934055,-71.319344,2019,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1803726,MA,Bristol,Somerset,Source2,3,41.729649,-71.18985,2019,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1810550,MA,Bristol,Attleboro,Source2,3,41.955082,-71.30459599999998,2019,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-1813089,MA,Bristol,Attleboro Falls,Source2,3,41.970264,-71.295998,2019,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1813093,MA,Bristol,Attleboro,Source2,3,41.95388,-71.30238299999998,2019,5,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1816273,MA,Bristol,North Attleboro,Source2,3,41.949387,-71.34603100000002,2019,7,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-1816301,MA,Bristol,Attleboro,Source2,3,41.902458,-71.355576,2019,18,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-1819429,MA,Bristol,Somerset,Source2,3,41.729649,-71.18985,2019,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1825906,MA,Bristol,Attleboro,Source2,3,41.90247700000001,-71.355949,2019,14,Sunday,Snow / Ice,False,False,True,False,False,False,False
+A-1829074,MA,Bristol,Swansea,Source2,3,41.774063,-71.262215,2019,7,Tuesday,Rain,False,False,False,False,False,False,False
+A-1829082,MA,Bristol,Seekonk,Source2,3,41.801952,-71.330376,2019,8,Tuesday,Rain,False,False,False,False,False,False,False
+A-1829393,MA,Bristol,New Bedford,Source2,3,41.652546,-70.953278,2019,4,Tuesday,Rain,False,False,True,False,False,False,False
+A-1837269,MA,Bristol,Attleboro,Source2,3,41.955601,-71.305862,2019,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-1840306,MA,Bristol,Attleboro,Source2,3,41.934162,-71.318878,2019,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1844516,MA,Bristol,Swansea,Source2,3,41.774063,-71.262215,2019,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1847299,MA,Bristol,New Bedford,Source2,3,41.652546,-70.953278,2019,11,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-1863100,MA,Bristol,Raynham,Source2,3,41.959015,-71.069275,2019,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1863122,MA,Bristol,Attleboro,Source2,3,41.955544,-71.30589300000003,2019,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1863127,MA,Bristol,Attleboro,Source2,3,41.934139,-71.319275,2019,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1866378,MA,Bristol,Norton,Source2,3,41.997585,-71.19928,2019,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1866412,MA,Bristol,Seekonk,Source2,3,41.801968,-71.33040600000002,2019,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1869270,MA,Bristol,Mansfield,Source2,3,42.005383,-71.222321,2019,6,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1878071,MA,Bristol,North Attleboro,Source2,3,41.94939,-71.345772,2019,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1884963,MA,Bristol,Somerset,Source2,3,41.729649,-71.18985,2019,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1888927,MA,Bristol,Attleboro,Source2,3,41.93399,-71.319824,2019,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1891439,MA,Bristol,Raynham,Source2,3,41.954079,-71.070358,2019,8,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-1896010,MA,Bristol,Attleboro Falls,Source2,3,41.970337,-71.29599,2019,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1902343,MA,Bristol,Taunton,Source2,3,41.96244,-71.124413,2019,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1904762,MA,Bristol,Attleboro Falls,Source2,3,41.970337,-71.29599,2019,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1913664,MA,Bristol,Attleboro,Source2,3,41.898827,-71.368279,2019,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1921988,MA,Bristol,Attleboro Falls,Source2,3,41.970337,-71.29599,2019,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1922259,MA,Bristol,Somerset,Source2,3,41.729649,-71.18985,2019,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1924427,MA,Bristol,Attleboro,Source2,3,41.89460800000001,-71.375984,2019,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1924664,MA,Bristol,Fall River,Source2,3,41.697704,-71.151146,2019,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1926698,MA,Bristol,Attleboro Falls,Source2,3,41.970337,-71.29599,2019,6,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1926973,MA,Bristol,Fall River,Source2,3,41.702007,-71.159325,2019,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1941839,MA,Bristol,Attleboro Falls,Source2,3,41.970337,-71.29599,2019,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1944218,MA,Bristol,Attleboro Falls,Source2,3,41.970337,-71.29599,2019,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1948876,MA,Bristol,North Dartmouth,Source2,3,41.65472000000001,-70.988579,2019,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1954952,MA,Bristol,Attleboro,Source2,3,41.955566,-71.304298,2019,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1959128,MA,Bristol,North Attleboro,Source2,3,41.94935200000001,-71.344955,2019,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1963356,MA,Bristol,Attleboro,Source2,3,41.955544,-71.30589300000003,2019,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-1963360,MA,Bristol,North Attleboro,Source2,3,41.949085,-71.345428,2019,10,Friday,Cloudy,False,False,True,False,False,False,False
+A-1967141,MA,Bristol,Westport,Source2,3,41.680119,-71.110939,2019,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1969224,MA,Bristol,Attleboro,Source2,3,41.933643,-71.319298,2019,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1971425,MA,Bristol,Attleboro,Source2,3,41.955544,-71.30589300000003,2019,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1971426,MA,Bristol,Norton,Source2,3,41.98225,-71.159637,2019,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1971447,MA,Bristol,Attleboro,Source2,3,41.95509000000001,-71.30499300000002,2019,17,Wednesday,Storm,False,False,False,False,False,False,False
+A-1973709,MA,Bristol,Attleboro Falls,Source2,3,41.970337,-71.29599,2019,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1981790,MA,Bristol,Mansfield,Source2,3,42.003334,-71.217651,2019,8,Tuesday,Rain,False,False,False,False,False,False,False
+A-1981811,MA,Bristol,Attleboro Falls,Source2,3,41.970337,-71.29599,2019,12,Tuesday,Rain,False,False,False,False,False,False,False
+A-1992130,MA,Bristol,Norton,Source2,3,41.982674,-71.15956899999998,2019,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1996136,MA,Bristol,Mansfield,Source2,3,42.003334,-71.217651,2019,17,Wednesday,Rain,False,False,False,False,False,False,False
+A-2000750,MA,Bristol,Fall River,Source2,3,41.702007,-71.159325,2019,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2010897,MA,Bristol,Attleboro Falls,Source2,3,41.970337,-71.29599,2019,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-2011396,MA,Bristol,New Bedford,Source2,3,41.652561,-70.953445,2019,5,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-2016831,MA,Bristol,Attleboro,Source2,3,41.955544,-71.30589300000003,2019,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2021582,MA,Bristol,Attleboro,Source2,3,41.934139,-71.319275,2019,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2029423,MA,Bristol,Attleboro,Source2,3,41.902489,-71.355896,2019,6,Monday,Cloudy,False,False,True,False,False,False,False
+A-2033971,MA,Bristol,Attleboro Falls,Source2,3,41.970337,-71.29599,2019,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2038014,MA,Bristol,Attleboro,Source2,3,41.934139,-71.319275,2019,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-2038042,MA,Bristol,Attleboro,Source2,3,41.955437,-71.30438199999998,2019,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2046641,MA,Bristol,Fall River,Source2,3,41.696754,-71.15005500000002,2019,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2051235,MA,Bristol,Westport,Source2,3,41.674236,-71.092438,2019,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2051236,MA,Bristol,Swansea,Source2,3,41.74987,-71.218338,2019,10,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-2051238,MA,Bristol,Westport,Source2,3,41.674236,-71.092438,2019,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2054671,MA,Bristol,Attleboro Falls,Source2,3,41.970337,-71.29599,2019,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2061718,MA,Bristol,North Attleboro,Source2,3,41.94935200000001,-71.344955,2019,9,Thursday,Rain,False,False,False,False,False,False,False
+A-2084746,MA,Bristol,Attleboro Falls,Source2,3,41.970337,-71.29599,2019,6,Monday,Rain,False,False,False,False,False,False,False
+A-2094043,MA,Bristol,Mansfield,Source2,3,42.003334,-71.217651,2019,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-2097250,MA,Bristol,Fall River,Source2,3,41.702007,-71.159325,2019,14,Sunday,Rain,False,False,False,False,False,False,False
+A-2104689,MA,Bristol,Attleboro,Source2,3,41.902489,-71.355896,2019,6,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-2104699,MA,Bristol,Attleboro,Source2,3,41.934139,-71.319275,2019,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2111795,MA,Bristol,Westport,Source2,3,41.674236,-71.092438,2019,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2113856,MA,Bristol,Attleboro Falls,Source2,3,41.970337,-71.29599,2019,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2113861,MA,Bristol,Attleboro,Source2,3,41.95507,-71.30526,2019,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2116273,MA,Bristol,Attleboro,Source2,3,41.955544,-71.30589300000003,2019,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2128158,MA,Bristol,Attleboro,Source2,3,41.92997,-71.322197,2019,7,Wednesday,Rain,False,False,False,False,False,False,False
+A-2135152,MA,Bristol,Attleboro,Source2,3,41.934139,-71.319275,2019,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2139772,MA,Bristol,Attleboro,Source2,3,41.934139,-71.319275,2019,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-2144850,MA,Bristol,Fall River,Source2,3,41.696297,-71.149704,2019,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2146927,MA,Bristol,Attleboro Falls,Source2,3,41.970184,-71.29570799999998,2019,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2149345,MA,Bristol,Attleboro,Source2,3,41.955498,-71.30342900000002,2019,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2153369,MA,Bristol,Attleboro,Source2,3,41.902386,-71.356705,2019,9,Monday,Rain,False,False,False,False,False,False,False
+A-2158350,MA,Bristol,Attleboro Falls,Source2,3,41.970184,-71.29570799999998,2019,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2169893,MA,Bristol,Swansea,Source2,3,41.74987,-71.218338,2019,11,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-2169896,MA,Bristol,Fall River,Source2,3,41.685665,-71.13709300000002,2019,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2169897,MA,Bristol,Fall River,Source2,3,41.685661,-71.137489,2019,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2174107,MA,Bristol,Attleboro Falls,Source2,3,41.970337,-71.29599,2019,7,Thursday,Rain,False,False,False,False,False,False,False
+A-2174108,MA,Bristol,Foxboro,Source2,3,42.026814,-71.25621,2019,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2174112,MA,Bristol,Attleboro,Source2,3,41.955544,-71.30589300000003,2019,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2176675,MA,Bristol,Somerset,Source2,3,41.729649,-71.18985,2019,17,Friday,Rain,False,False,False,False,False,False,False
+A-2184603,MA,Bristol,Attleboro,Source2,3,41.934139,-71.319275,2019,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2189285,MA,Bristol,Attleboro,Source2,3,41.955544,-71.30589300000003,2019,6,Friday,Rain,False,False,False,False,False,False,False
+A-2189291,MA,Bristol,Attleboro,Source2,3,41.934139,-71.319275,2019,7,Friday,Rain,False,False,False,False,False,False,False
+A-2193142,MA,Bristol,Attleboro,Source2,3,41.955307,-71.303871,2019,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2195377,MA,Bristol,Attleboro,Source2,3,41.903595,-71.356216,2019,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2195675,MA,Bristol,New Bedford,Source2,3,41.65255,-70.953484,2019,7,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-2195677,MA,Bristol,Fall River,Source2,3,41.703457,-71.159126,2019,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2198369,MA,Bristol,Norton,Source2,3,41.98246,-71.159775,2019,5,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2203382,MA,Bristol,Fall River,Source2,3,41.682331,-71.131302,2019,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2205653,MA,Bristol,Attleboro Falls,Source2,3,41.970184,-71.29570799999998,2019,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2211890,MA,Bristol,Attleboro,Source2,3,41.955498,-71.30342900000002,2019,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2215882,MA,Bristol,Mansfield,Source2,3,42.002758,-71.216492,2019,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2218157,MA,Bristol,Attleboro,Source2,3,41.902519,-71.35584300000002,2019,8,Thursday,Cloudy,False,False,True,False,False,False,False
+A-2223543,MA,Bristol,Attleboro Falls,Source2,3,41.970184,-71.29570799999998,2019,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2223565,MA,Bristol,Swansea,Source2,3,41.774273,-71.26175699999997,2019,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2227812,MA,Bristol,Attleboro,Source2,3,41.955498,-71.30342900000002,2019,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2227814,MA,Bristol,Raynham,Source2,3,41.959072,-71.069389,2019,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2228071,MA,Bristol,North Dartmouth,Source2,3,41.654705,-70.987442,2019,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2232732,MA,Bristol,North Attleboro,Source2,3,41.949421,-71.345451,2019,5,Friday,Rain,False,False,False,False,False,False,False
+A-2236639,MA,Bristol,Attleboro Falls,Source2,3,41.970184,-71.29570799999998,2019,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-2240988,MA,Bristol,Attleboro,Source2,3,41.902847,-71.356033,2019,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2254896,MA,Bristol,Fall River,Source2,3,41.703457,-71.159126,2019,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2261449,MA,Bristol,North Attleboro,Source2,3,41.996239,-71.29214499999998,2019,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2261464,MA,Bristol,Attleboro Falls,Source2,3,41.971069,-71.297699,2019,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2278637,MA,Bristol,Attleboro Falls,Source2,3,41.970184,-71.29570799999998,2019,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2287343,MA,Bristol,North Dartmouth,Source2,3,41.65723,-71.037186,2019,4,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-2290947,MA,Bristol,Attleboro,Source2,3,41.955498,-71.30342900000002,2019,5,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2290955,MA,Bristol,Attleboro Falls,Source2,3,41.970184,-71.29570799999998,2019,7,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2291343,MA,Bristol,Fall River,Source2,3,41.68166400000001,-71.121307,2019,6,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2293110,MA,Bristol,Attleboro Falls,Source2,3,41.969444,-71.295975,2019,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2293112,MA,Bristol,Attleboro,Source2,3,41.934109,-71.319435,2019,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2293134,MA,Bristol,Attleboro,Source2,3,41.955498,-71.30342900000002,2019,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2295520,MA,Bristol,North Attleboro,Source2,3,42.006493,-71.284683,2019,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2298172,MA,Bristol,Attleboro,Source2,3,41.902519,-71.35584300000002,2019,8,Thursday,Cloudy,False,False,True,False,False,False,False
+A-2298487,MA,Bristol,Somerset,Source2,3,41.724697,-71.184998,2019,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2298492,MA,Bristol,New Bedford,Source2,3,41.6506,-70.95182,2019,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2300761,MA,Bristol,Attleboro Falls,Source2,3,41.970184,-71.29570799999998,2019,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-2304221,MA,Bristol,Attleboro,Source2,3,41.934109,-71.319435,2019,4,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2306388,MA,Bristol,Attleboro,Source2,3,41.902519,-71.35584300000002,2019,8,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-2306626,MA,Bristol,Somerset,Source2,3,41.727013,-71.187004,2019,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2308773,MA,Bristol,Seekonk,Source2,3,41.801922,-71.330299,2019,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2309106,MA,Bristol,Somerset,Source2,3,41.727013,-71.187004,2019,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2320026,MA,Bristol,New Bedford,Source2,3,41.65255,-70.953484,2019,21,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-2339066,MA,Bristol,Attleboro Falls,Source2,3,41.969318,-71.296013,2019,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2339098,MA,Bristol,Seekonk,Source2,3,41.801922,-71.330299,2019,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2346730,MA,Bristol,North Attleboro,Source2,3,41.949421,-71.345451,2019,17,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-2358987,MA,Bristol,Attleboro,Source2,3,41.89962,-71.371277,2019,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2365504,MA,Bristol,Attleboro,Source2,3,41.955498,-71.30342900000002,2019,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2370573,MA,Bristol,Attleboro Falls,Source2,3,41.969238,-71.296066,2018,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2381438,MA,Bristol,Attleboro Falls,Source2,3,41.970192,-71.295792,2018,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2381451,MA,Bristol,Attleboro,Source2,3,41.955498,-71.30342900000002,2018,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2391911,MA,Bristol,Attleboro Falls,Source2,3,41.970184,-71.29570799999998,2018,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2391922,MA,Bristol,Attleboro,Source2,3,41.934109,-71.319435,2018,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2400117,MA,Bristol,Attleboro,Source2,3,41.955498,-71.30342900000002,2018,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2402413,MA,Bristol,Attleboro,Source2,3,41.934109,-71.319435,2018,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2402416,MA,Bristol,Attleboro,Source2,3,41.902519,-71.35584300000002,2018,6,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-2409187,MA,Bristol,Attleboro Falls,Source2,3,41.970184,-71.29570799999998,2018,11,Friday,Rain,False,False,False,False,False,False,False
+A-2413166,MA,Bristol,Mansfield,Source2,3,42.005062,-71.222626,2018,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-2418212,MA,Bristol,Seekonk,Source2,3,41.802231,-71.330063,2018,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-2423948,MA,Bristol,North Dartmouth,Source2,3,41.657055,-71.036957,2018,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2427201,MA,Bristol,Swansea,Source2,3,41.774086,-71.261826,2018,6,Friday,Rain,False,False,False,False,False,False,False
+A-2431724,MA,Bristol,Attleboro Falls,Source2,3,41.969238,-71.296066,2018,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2431726,MA,Bristol,Raynham,Source2,3,41.906288,-71.04233599999998,2018,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-2441462,MA,Bristol,Attleboro,Source2,3,41.90239,-71.35582,2018,6,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-2444370,MA,Bristol,Norton,Source2,3,41.982204,-71.161484,2018,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2444815,MA,Bristol,North Dartmouth,Source2,3,41.654716,-70.98793,2018,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2458183,MA,Bristol,Fall River,Source2,3,41.702385,-71.157921,2018,19,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2460935,MA,Bristol,Norton,Source2,3,41.983624,-71.160629,2018,6,Friday,Rain,False,False,False,False,False,False,False
+A-2471070,MA,Bristol,Attleboro Falls,Source2,3,41.969238,-71.296066,2018,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2471100,MA,Bristol,Attleboro,Source2,3,41.902798,-71.355263,2018,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2475444,MA,Bristol,Somerset,Source2,3,41.728592,-71.188538,2018,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2478504,MA,Bristol,Attleboro,Source2,3,41.955456,-71.304367,2018,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-2478847,MA,Bristol,Westport,Source2,3,41.658398,-71.057884,2018,19,Monday,Rain,False,False,False,False,False,False,False
+A-2483919,MA,Bristol,Attleboro,Source2,3,41.955456,-71.304367,2018,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2483925,MA,Bristol,Seekonk,Source2,3,41.801834,-71.330238,2018,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2483962,MA,Bristol,Attleboro,Source2,3,41.910027,-71.3396,2018,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2484330,MA,Bristol,Somerset,Source2,3,41.728592,-71.188538,2018,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2488392,MA,Bristol,Attleboro,Source2,3,41.934093,-71.319763,2018,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-2488394,MA,Bristol,Attleboro,Source2,3,41.90239,-71.35582,2018,6,Monday,Cloudy,False,False,True,False,False,False,False
+A-2491163,MA,Bristol,Attleboro,Source2,3,41.955456,-71.304367,2018,5,Tuesday,Rain,False,False,False,False,False,False,False
+A-2491166,MA,Bristol,Attleboro,Source2,3,41.955456,-71.304367,2018,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2493946,MA,Bristol,Attleboro,Source2,3,41.934093,-71.319763,2018,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2506345,MA,Bristol,Mansfield,Source2,3,42.005451,-71.223206,2018,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2506371,MA,Bristol,Attleboro,Source2,3,41.955456,-71.304367,2018,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2513040,MA,Bristol,Attleboro,Source2,3,41.955456,-71.304367,2018,6,Friday,Rain,False,False,False,False,False,False,False
+A-2520014,MA,Bristol,Attleboro,Source2,3,41.934093,-71.319763,2018,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2522998,MA,Bristol,Attleboro,Source2,3,41.955456,-71.304367,2018,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2528900,MA,Bristol,Attleboro,Source2,3,41.90239,-71.35582,2018,4,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-2528901,MA,Bristol,Mansfield,Source2,3,42.000385,-71.21102900000002,2018,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2528907,MA,Bristol,Attleboro Falls,Source2,3,41.969238,-71.296066,2018,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2528931,MA,Bristol,Attleboro,Source2,3,41.934093,-71.319763,2018,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2528939,MA,Bristol,Norton,Source2,3,41.982201,-71.159683,2018,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2533520,MA,Bristol,Attleboro,Source2,3,41.934093,-71.319763,2018,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2539148,MA,Bristol,Attleboro,Source2,3,41.955456,-71.304367,2018,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2539149,MA,Bristol,Attleboro Falls,Source2,3,41.969238,-71.296066,2018,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2542315,MA,Bristol,Fairhaven,Source2,3,41.658527,-70.887794,2018,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2547963,MA,Bristol,Attleboro,Source2,3,41.898403,-71.369247,2018,12,Saturday,Rain,False,False,False,False,False,False,False
+A-2560852,MA,Bristol,Attleboro Falls,Source2,3,41.969238,-71.296066,2018,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2566204,MA,Bristol,Attleboro,Source2,3,41.955456,-71.304367,2018,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2568889,MA,Bristol,Attleboro Falls,Source2,3,41.969299,-71.295509,2018,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-2568893,MA,Bristol,Attleboro,Source2,3,41.934093,-71.319763,2018,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-2568895,MA,Bristol,Attleboro Falls,Source2,3,41.969238,-71.296066,2018,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-2575606,MA,Bristol,Attleboro,Source2,3,41.934093,-71.319763,2018,4,Tuesday,Rain,False,False,False,False,False,False,False
+A-2578469,MA,Bristol,Attleboro,Source2,3,41.934093,-71.319763,2018,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2581107,MA,Bristol,Mansfield,Source2,3,42.024746,-71.257324,2018,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2581355,MA,Bristol,Fairhaven,Source2,3,41.658527,-70.887794,2018,7,Thursday,Rain,False,False,False,False,False,False,False
+A-2587775,MA,Bristol,Attleboro Falls,Source2,3,41.969238,-71.296066,2018,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-2587785,MA,Bristol,North Attleboro,Source2,3,41.995651,-71.29181700000002,2018,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2590205,MA,Bristol,North Attleboro,Source2,3,41.996059,-71.291679,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2592781,MA,Bristol,North Attleboro,Source2,3,41.995537,-71.291847,2018,5,Wednesday,Rain,False,False,False,False,False,False,False
+A-2592789,MA,Bristol,North Attleboro,Source2,3,41.995537,-71.291847,2018,5,Wednesday,Rain,False,False,False,False,False,False,False
+A-2613181,MA,Bristol,Westport,Source2,3,41.673332,-71.090492,2018,8,Friday,Rain,False,False,False,False,False,False,False
+A-2618632,MA,Bristol,Attleboro,Source2,3,41.90287,-71.354988,2018,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2627581,MA,Bristol,Norton,Source2,3,41.978081,-71.154449,2018,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2627582,MA,Bristol,Raynham,Source2,3,41.959545,-71.068787,2018,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2632579,MA,Bristol,Attleboro,Source2,3,41.933662,-71.319298,2018,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2635117,MA,Bristol,Attleboro,Source2,3,41.955456,-71.304367,2018,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2635369,MA,Bristol,Fairhaven,Source2,3,41.658527,-70.887794,2018,7,Thursday,Storm,False,False,False,False,False,False,False
+A-2635375,MA,Bristol,New Bedford,Source2,3,41.654118,-70.92801700000003,2018,14,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-2641757,MA,Bristol,Attleboro Falls,Source2,3,41.969238,-71.296066,2018,6,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2646632,MA,Bristol,Attleboro Falls,Source2,3,41.969238,-71.296066,2018,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2646651,MA,Bristol,Norton,Source2,3,41.982201,-71.159683,2018,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2651668,MA,Bristol,Attleboro,Source2,3,41.934093,-71.319763,2018,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2660780,MA,Bristol,Seekonk,Source2,3,41.801834,-71.330238,2018,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2660801,MA,Bristol,Mansfield,Source2,3,42.00631,-71.224457,2018,17,Wednesday,Rain,False,False,False,False,False,False,False
+A-2663195,MA,Bristol,Attleboro Falls,Source2,3,41.969116,-71.295563,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2668790,MA,Bristol,Swansea,Source2,3,41.774086,-71.261826,2018,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2671961,MA,Bristol,North Attleboro,Source2,3,41.94938300000001,-71.34565699999997,2018,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2683545,MA,Bristol,Attleboro,Source2,3,41.933605,-71.32016800000002,2018,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2683548,MA,Bristol,North Attleboro,Source2,3,41.94938300000001,-71.34565699999997,2018,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2683563,MA,Bristol,Norton,Source2,3,41.982201,-71.159683,2018,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2692731,MA,Bristol,Attleboro Falls,Source2,3,41.969238,-71.296066,2018,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2697398,MA,Bristol,Attleboro,Source2,3,41.934093,-71.319763,2018,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2697406,MA,Bristol,Taunton,Source2,3,41.962254,-71.123283,2018,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2699570,MA,Bristol,North Attleboro,Source2,3,41.94938300000001,-71.34565699999997,2018,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2699576,MA,Bristol,Attleboro Falls,Source2,3,41.970116,-71.295296,2018,8,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-2699817,MA,Bristol,New Bedford,Source2,3,41.652229,-70.953331,2018,18,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-2699818,MA,Bristol,New Bedford,Source2,3,41.652229,-70.953331,2018,18,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-2707203,MA,Bristol,Somerset,Source2,3,41.728592,-71.188538,2018,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2709135,MA,Bristol,Attleboro,Source2,3,41.955456,-71.304367,2018,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2714159,MA,Bristol,Westport,Source2,3,41.673332,-71.090492,2018,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-2724842,MA,Bristol,Attleboro Falls,Source2,3,41.969238,-71.296066,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2727134,MA,Bristol,Attleboro,Source2,3,41.955456,-71.304367,2018,5,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2730818,MA,Bristol,North Attleboro,Source2,3,41.991432,-71.292686,2018,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2733096,MA,Bristol,Taunton,Source2,3,41.962254,-71.123283,2018,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2733128,MA,Bristol,Attleboro Falls,Source2,3,41.969238,-71.296066,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2735463,MA,Bristol,Attleboro,Source2,3,41.955456,-71.304367,2018,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2735788,MA,Bristol,New Bedford,Source2,3,41.654751,-70.923447,2018,15,Friday,Rain,False,False,True,False,False,False,False
+A-2741942,MA,Bristol,Seekonk,Source2,3,41.801834,-71.330238,2018,17,Tuesday,Rain,False,False,False,False,False,False,False
+A-2744235,MA,Bristol,Attleboro,Source2,3,41.955456,-71.304367,2018,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2744268,MA,Bristol,Attleboro,Source2,3,41.934093,-71.319763,2018,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2744574,MA,Bristol,Fall River,Source2,3,41.702385,-71.157921,2018,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2746779,MA,Bristol,Mansfield,Source2,3,42.006168,-71.223518,2018,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2749557,MA,Bristol,Fall River,Source2,3,41.684982,-71.136513,2018,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2755530,MA,Bristol,Attleboro,Source2,3,41.955456,-71.304367,2018,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2757940,MA,Bristol,Swansea,Source2,3,41.774086,-71.261826,2018,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2762792,MA,Bristol,Raynham,Source2,3,41.958828,-71.06897,2018,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-2762795,MA,Bristol,Foxboro,Source2,3,42.026592,-71.257584,2018,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-2769195,MA,Bristol,Attleboro,Source2,3,41.955456,-71.304367,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2773801,MA,Bristol,Taunton,Source2,3,41.962254,-71.123283,2018,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2776328,MA,Bristol,New Bedford,Source2,3,41.652229,-70.953331,2018,7,Friday,Cloudy,False,False,True,False,False,False,False
+A-2776336,MA,Bristol,New Bedford,Source2,3,41.652328,-70.954239,2018,9,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-2778439,MA,Bristol,Swansea,Source2,3,41.749866,-71.218773,2018,10,Saturday,Cloudy,False,False,True,False,False,False,False
+A-2779148,MA,Bristol,Attleboro,Source2,3,41.955456,-71.304367,2018,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2779865,MA,Bristol,Attleboro Falls,Source2,3,41.969238,-71.296066,2018,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-2782329,MA,Bristol,Raynham,Source2,3,41.958828,-71.06897,2018,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2784724,MA,Bristol,Attleboro Falls,Source2,3,41.969238,-71.296066,2018,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2787099,MA,Bristol,Attleboro,Source2,3,41.898403,-71.369247,2018,11,Thursday,Rain,False,False,False,False,False,False,False
+A-2789738,MA,Bristol,North Dartmouth,Source2,3,41.657055,-71.036957,2018,7,Friday,Sin dato,False,False,False,False,False,False,False
+A-2791805,MA,Bristol,Mansfield,Source2,3,42.000385,-71.21102900000002,2018,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-2794271,MA,Bristol,Attleboro,Source2,3,41.955456,-71.304367,2018,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2799742,MA,Bristol,Attleboro Falls,Source2,3,41.969238,-71.296066,2018,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2802422,MA,Bristol,Attleboro,Source2,3,41.955456,-71.304367,2018,7,Friday,Rain,False,False,False,False,False,False,False
+A-2802436,MA,Bristol,Attleboro,Source2,3,41.898403,-71.369247,2018,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2802438,MA,Bristol,Attleboro Falls,Source2,3,41.969238,-71.296066,2018,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2806393,MA,Bristol,Norton,Source2,3,41.982758,-71.15966,2018,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2806395,MA,Bristol,Attleboro,Source2,3,41.955914,-71.30546600000002,2018,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2806398,MA,Bristol,Raynham,Source2,3,41.958828,-71.06897,2018,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2808829,MA,Bristol,Attleboro,Source2,3,41.955456,-71.304367,2018,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2814054,MA,Bristol,Attleboro Falls,Source2,3,41.969238,-71.296066,2018,7,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2814348,MA,Bristol,Swansea,Source2,3,41.749866,-71.218773,2018,5,Thursday,Cloudy,False,False,True,False,False,False,False
+A-2816740,MA,Bristol,Attleboro,Source2,3,41.90239,-71.35582,2018,5,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-2829150,MA,Bristol,North Attleboro,Source2,3,41.991447,-71.292679,2018,6,Thursday,Rain,False,False,False,False,False,False,False
+A-2829156,MA,Bristol,Attleboro,Source2,3,41.955734,-71.303612,2018,7,Thursday,Rain,False,False,False,False,False,False,False
+A-2829162,MA,Bristol,Seekonk,Source2,3,41.801834,-71.330238,2018,8,Thursday,Rain,False,False,False,False,False,False,False
+A-2838923,MA,Bristol,New Bedford,Source2,3,41.652344,-70.954353,2018,5,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-2841149,MA,Bristol,Attleboro,Source2,3,41.933849,-71.319969,2018,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2846408,MA,Bristol,Attleboro Falls,Source2,3,41.969238,-71.296066,2018,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2846738,MA,Bristol,New Bedford,Source2,3,41.652424,-70.95367399999998,2018,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2849080,MA,Bristol,Taunton,Source2,3,41.962254,-71.123283,2018,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2849081,MA,Bristol,Taunton,Source2,3,41.962254,-71.123283,2018,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2852047,MA,Bristol,Attleboro Falls,Source2,3,41.969238,-71.296066,2018,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2852048,MA,Bristol,Attleboro,Source2,3,41.90239,-71.35582,2018,5,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-2854917,MA,Bristol,Swansea,Source2,3,41.749866,-71.218773,2018,9,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-2858441,MA,Bristol,Attleboro Falls,Source2,3,41.968468,-71.296318,2018,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-2863513,MA,Bristol,Attleboro,Source2,3,41.898403,-71.369247,2018,10,Wednesday,Rain,False,False,False,False,False,False,False
+A-2866363,MA,Bristol,New Bedford,Source2,3,41.654057,-70.928566,2018,14,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-2872349,MA,Bristol,Attleboro,Source2,3,41.955456,-71.304367,2018,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2877568,MA,Bristol,Seekonk,Source2,3,41.801834,-71.330238,2018,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2880182,MA,Bristol,Attleboro Falls,Source2,3,41.96994,-71.29534100000002,2018,6,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-2880183,MA,Bristol,Attleboro,Source2,3,41.934093,-71.319763,2018,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2894713,MA,Bristol,Attleboro Falls,Source2,3,41.969238,-71.296066,2018,16,Thursday,Rain,False,False,False,False,False,False,False
+A-2894715,MA,Bristol,Attleboro,Source2,3,41.955456,-71.304367,2018,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2894719,MA,Bristol,Attleboro Falls,Source2,3,41.969238,-71.296066,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2894720,MA,Bristol,Swansea,Source2,3,41.774086,-71.261826,2018,17,Thursday,Rain,False,False,False,False,False,False,False
+A-2904467,MA,Bristol,Attleboro Falls,Source2,3,41.969238,-71.296066,2018,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2909942,MA,Bristol,Attleboro,Source2,3,41.954811,-71.30423,2018,7,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2909943,MA,Bristol,Attleboro,Source2,3,41.955456,-71.304367,2018,7,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2909950,MA,Bristol,Seekonk,Source2,3,41.801834,-71.330238,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2912685,MA,Bristol,Raynham,Source2,3,41.958828,-71.06897,2018,16,Friday,Rain,False,False,False,False,False,False,False
+A-2919301,MA,Bristol,North Attleboro,Source2,3,41.995743,-71.291786,2018,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2919578,MA,Bristol,Swansea,Source2,3,41.749962,-71.22045899999998,2018,14,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-2922374,MA,Bristol,Fall River,Source2,3,41.702385,-71.157921,2018,15,Friday,Rain,False,False,False,False,False,False,False
+A-2928352,MA,Bristol,Attleboro,Source2,3,41.955456,-71.304367,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2933867,MA,Bristol,Attleboro,Source2,3,41.933697,-71.320091,2018,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-2933869,MA,Bristol,Attleboro,Source2,3,41.90239,-71.35582,2018,4,Friday,Cloudy,False,False,True,False,False,False,False
+A-2946163,MA,Bristol,Norton,Source2,3,41.982201,-71.159683,2018,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2946165,MA,Bristol,Norton,Source2,3,41.982201,-71.159683,2018,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2946167,MA,Bristol,Attleboro,Source2,3,41.955605,-71.30426800000002,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2953094,MA,Bristol,Raynham,Source2,3,41.958828,-71.06897,2018,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2953280,MA,Bristol,Westport,Source2,3,41.658585,-71.058235,2018,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2961354,MA,Bristol,Foxboro,Source2,3,42.026604,-71.256546,2018,8,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2968453,MA,Bristol,Attleboro,Source2,3,41.933556,-71.31938199999998,2018,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2980304,MA,Bristol,Foxboro,Source2,3,42.026402,-71.25715600000002,2018,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2989478,MA,Bristol,Attleboro,Source2,3,41.898403,-71.369247,2018,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2997826,MA,Bristol,Attleboro Falls,Source2,3,41.969238,-71.296066,2018,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2997831,MA,Bristol,Taunton,Source2,3,41.962254,-71.123283,2018,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3000993,MA,Bristol,New Bedford,Source2,3,41.652229,-70.953331,2018,7,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-3010566,MA,Bristol,Seekonk,Source2,3,41.801834,-71.330238,2018,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3010587,MA,Bristol,Norton,Source2,3,41.982201,-71.159683,2018,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3024045,MA,Bristol,Seekonk,Source2,3,41.801834,-71.330238,2018,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3029224,MA,Bristol,Swansea,Source2,3,41.774086,-71.261826,2018,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3029261,MA,Bristol,Foxboro,Source2,3,42.02634000000001,-71.256027,2018,18,Friday,Rain,False,False,False,False,False,False,False
+A-3033505,MA,Bristol,Attleboro,Source2,3,41.955456,-71.304367,2018,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-3033509,MA,Bristol,Attleboro,Source2,3,41.90239,-71.35582,2018,7,Monday,Cloudy,False,False,True,False,False,False,False
+A-3033511,MA,Bristol,Attleboro,Source2,3,41.955456,-71.304367,2018,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3033515,MA,Bristol,Swansea,Source2,3,41.77393,-71.261208,2018,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-3033518,MA,Bristol,Seekonk,Source2,3,41.801998,-71.330566,2018,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-3033521,MA,Bristol,Attleboro,Source2,3,41.955456,-71.304367,2018,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3045022,MA,Bristol,North Dartmouth,Source2,3,41.657372,-71.036911,2018,8,Thursday,Rain,False,False,False,False,False,False,False
+A-3047337,MA,Bristol,Foxboro,Source2,3,42.026409,-71.256821,2018,7,Friday,Cloudy,False,False,True,False,False,False,False
+A-3050926,MA,Bristol,Taunton,Source2,3,41.962254,-71.123283,2018,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-3065747,MA,Bristol,Attleboro,Source2,3,41.934093,-71.319763,2018,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3068610,MA,Bristol,Attleboro,Source2,3,41.956245,-71.303268,2018,5,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-3068611,MA,Bristol,Attleboro Falls,Source2,3,41.969063,-71.29612,2018,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3071443,MA,Bristol,Attleboro,Source2,3,41.900463,-71.357681,2018,15,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3074268,MA,Bristol,Attleboro,Source2,3,41.948017,-71.308784,2018,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3074284,MA,Bristol,North Attleboro,Source2,3,41.992424,-71.29255699999999,2018,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3074480,MA,Bristol,New Bedford,Source2,3,41.653744,-70.932335,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3080260,MA,Bristol,Swansea,Source2,3,41.749866,-71.218773,2018,8,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-3080265,MA,Bristol,Fall River,Source2,3,41.702385,-71.157921,2018,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-3082874,MA,Bristol,Fall River,Source2,3,41.696983,-71.149582,2018,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3087913,MA,Bristol,Attleboro Falls,Source2,3,41.969238,-71.296066,2018,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3088202,MA,Bristol,Fall River,Source2,3,41.695858,-71.149086,2018,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3094127,MA,Bristol,Taunton,Source2,3,41.962254,-71.123283,2018,4,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3094130,MA,Bristol,Attleboro,Source2,3,41.90239,-71.35582,2018,5,Tuesday,Snow / Ice,False,False,True,False,False,False,False
+A-3094138,MA,Bristol,Mansfield,Source2,3,42.006248,-71.22363299999998,2018,6,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3094510,MA,Bristol,Fall River,Source2,3,41.684982,-71.136513,2018,5,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3108905,MA,Bristol,Attleboro,Source2,3,41.934093,-71.319763,2017,6,Wednesday,Rain,False,False,False,False,False,False,False
+A-3108907,MA,Bristol,Attleboro,Source2,3,41.955456,-71.304367,2017,6,Wednesday,Rain,False,False,False,False,False,False,False
+A-3108912,MA,Bristol,Attleboro,Source2,3,41.955456,-71.304367,2017,7,Wednesday,Rain,False,False,False,False,False,False,False
+A-3108928,MA,Bristol,Attleboro,Source2,3,41.90239,-71.35582,2017,16,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-3120191,MA,Bristol,Westport,Source2,3,41.673332,-71.090492,2017,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-3120192,MA,Bristol,Fall River,Source2,3,41.680099,-71.1194,2017,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-3120194,MA,Bristol,New Bedford,Source2,3,41.652229,-70.953331,2017,17,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-3120195,MA,Bristol,New Bedford,Source2,3,41.654751,-70.923447,2017,18,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-3127529,MA,Bristol,Attleboro Falls,Source2,3,41.969238,-71.296066,2017,8,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3130558,MA,Bristol,Attleboro Falls,Source2,3,41.969238,-71.296066,2017,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3134575,MA,Bristol,Raynham,Source2,3,41.947071,-71.023064,2017,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-3134966,MA,Bristol,New Bedford,Source2,3,41.65405300000001,-70.955055,2017,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-3134969,MA,Bristol,North Dartmouth,Source2,3,41.655022,-70.987892,2017,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-3134970,MA,Bristol,Fairhaven,Source2,3,41.658806,-70.88559000000002,2017,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-3140303,MA,Bristol,Raynham,Source2,3,41.944511,-71.019081,2017,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3143313,MA,Bristol,Seekonk,Source2,3,41.801834,-71.330238,2017,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3149398,MA,Bristol,Swansea,Source2,3,41.770512,-71.24865,2017,1,Monday,Cloudy,False,False,False,False,False,False,False
+A-3149407,MA,Bristol,Swansea,Source2,3,41.773884,-71.26104000000002,2017,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3157787,MA,Bristol,Attleboro,Source2,3,41.936443,-71.31707800000002,2017,7,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-3160501,MA,Bristol,Somerset,Source2,3,41.728592,-71.188538,2017,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3165042,MA,Bristol,Raynham,Source2,3,41.958828,-71.06897,2017,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-3165058,MA,Bristol,Attleboro,Source2,3,41.902596,-71.35598,2017,18,Friday,Cloudy,False,False,True,False,False,False,False
+A-3168608,MA,Bristol,Attleboro,Source2,3,41.90239,-71.35582,2017,4,Monday,Cloudy,False,False,True,False,False,False,False
+A-3168609,MA,Bristol,North Attleboro,Source2,3,41.94938300000001,-71.34565699999997,2017,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-3173034,MA,Bristol,Seekonk,Source2,3,41.801834,-71.330238,2017,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3175419,MA,Bristol,Swansea,Source2,3,41.774086,-71.261826,2017,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3175420,MA,Bristol,Seekonk,Source2,3,41.801834,-71.330238,2017,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3181152,MA,Bristol,Attleboro,Source2,3,41.955456,-71.304367,2017,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-3183611,MA,Bristol,Attleboro,Source2,3,41.934093,-71.319763,2017,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3183625,MA,Bristol,Rehoboth,Source2,3,41.774677,-71.26252,2017,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3185903,MA,Bristol,Taunton,Source2,3,41.962254,-71.123283,2017,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3186155,MA,Bristol,Fall River,Source2,3,41.696617,-71.149895,2017,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3188371,MA,Bristol,Taunton,Source2,3,41.962254,-71.123283,2017,17,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3188662,MA,Bristol,Fall River,Source2,3,41.684982,-71.136513,2017,15,Thursday,Rain,False,False,False,False,False,False,False
+A-3196802,MA,Bristol,Mansfield,Source2,3,42.00631,-71.224457,2017,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3199706,MA,Bristol,Mansfield,Source2,3,42.000385,-71.21102900000002,2017,7,Wednesday,Rain,False,False,False,False,False,False,False
+A-3200055,MA,Bristol,New Bedford,Source2,3,41.652229,-70.953331,2017,8,Wednesday,Rain,False,False,True,False,False,False,False
+A-3202462,MA,Bristol,Norton,Source2,3,41.982201,-71.159683,2017,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3209957,MA,Bristol,Attleboro Falls,Source2,3,41.969238,-71.296066,2017,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3212641,MA,Bristol,Attleboro,Source2,3,41.955456,-71.304367,2017,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3212652,MA,Bristol,Swansea,Source2,3,41.774086,-71.261826,2017,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3225072,MA,Bristol,Attleboro,Source2,3,41.90239,-71.35582,2017,19,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-3225402,MA,Bristol,New Bedford,Source2,3,41.654953000000006,-70.91906,2017,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3227778,MA,Bristol,Raynham,Source2,3,41.958828,-71.06897,2017,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-3228195,MA,Bristol,North Dartmouth,Source2,3,41.657055,-71.036957,2017,7,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3234631,MA,Bristol,Raynham,Source2,3,41.958912,-71.070274,2017,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3234645,MA,Bristol,North Attleboro,Source2,3,41.949066,-71.345474,2017,16,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-3240397,MA,Bristol,Attleboro,Source2,3,41.955456,-71.304367,2017,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3240407,MA,Bristol,Attleboro Falls,Source2,3,41.969238,-71.296066,2017,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3251500,MA,Bristol,Attleboro Falls,Source2,3,41.969238,-71.296066,2017,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3257288,MA,Bristol,North Dartmouth,Source2,3,41.654716,-70.98793,2017,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3260750,MA,Bristol,North Attleboro,Source2,3,41.982098,-71.293785,2017,6,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3263567,MA,Bristol,Foxboro,Source2,3,42.026257,-71.257042,2017,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3263963,MA,Bristol,Fairhaven,Source2,3,41.658527,-70.887794,2017,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3266542,MA,Bristol,North Dartmouth,Source2,3,41.654716,-70.98833499999998,2017,13,Wednesday,Rain,False,False,False,False,False,False,False
+A-3266543,MA,Bristol,New Bedford,Source2,3,41.654118,-70.92801700000003,2017,14,Wednesday,Rain,False,False,True,False,False,False,False
+A-3268564,MA,Bristol,Taunton,Source2,3,41.962254,-71.123283,2017,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3271001,MA,Bristol,Attleboro,Source2,3,41.955456,-71.304367,2017,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3271008,MA,Bristol,Seekonk,Source2,3,41.801834,-71.330238,2017,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-3271032,MA,Bristol,Mansfield,Source2,3,42.000729,-71.210884,2017,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3271041,MA,Bristol,Seekonk,Source2,3,41.801834,-71.330238,2017,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-3271055,MA,Bristol,Seekonk,Source2,3,41.801834,-71.330238,2017,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-3271343,MA,Bristol,Fall River,Source2,3,41.681213,-71.123215,2017,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3285230,MA,Bristol,Attleboro,Source2,3,41.934093,-71.319763,2017,7,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-3291099,MA,Bristol,Attleboro,Source2,3,41.955456,-71.304367,2017,16,Thursday,Rain,False,False,False,False,False,False,False
+A-3303677,MA,Bristol,Seekonk,Source2,3,41.801834,-71.330238,2017,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3309903,MA,Bristol,North Dartmouth,Source2,3,41.657055,-71.036957,2017,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-3316613,MA,Bristol,Attleboro,Source2,3,41.955456,-71.304367,2017,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3316616,MA,Bristol,Attleboro,Source2,3,41.955555,-71.30373399999998,2017,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3317018,MA,Bristol,Fall River,Source2,3,41.702297,-71.15728,2017,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3319457,MA,Bristol,North Attleboro,Source2,3,41.949051,-71.346672,2017,4,Wednesday,Rain,False,False,False,False,False,False,False
+A-3325434,MA,Bristol,Seekonk,Source2,3,41.801834,-71.330238,2017,17,Friday,Rain,False,False,False,False,False,False,False
+A-3332452,MA,Bristol,North Attleboro,Source2,3,41.951839,-71.374107,2017,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3335429,MA,Bristol,Attleboro,Source2,3,41.955456,-71.304367,2017,8,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3335824,MA,Bristol,Fall River,Source2,3,41.696617,-71.149895,2017,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3348077,MA,Bristol,North Attleboro,Source2,3,41.979652,-71.294067,2017,8,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-3356050,MA,Bristol,Swansea,Source2,3,41.774086,-71.261826,2017,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3367791,MA,Bristol,Foxboro,Source2,3,42.026657,-71.257767,2017,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3385645,MA,Bristol,Westport,Source3,3,41.673653,-71.090446,2017,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-3392200,MA,Bristol,Fall River,Source2,3,41.684021,-71.137718,2017,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3394763,MA,Bristol,Norton,Source2,3,41.982201,-71.159683,2017,8,Wednesday,Rain,False,False,False,False,False,False,False
+A-3410073,MA,Bristol,Raynham,Source2,3,41.958828,-71.06897,2017,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3462883,MA,Bristol,Taunton,Source1,3,41.87007,-71.05601,2017,16,Thursday,Rain,False,False,False,False,False,False,False
+A-3478977,MA,Bristol,Westport,Source1,4,41.67426,-71.09326,2016,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3483152,MA,Bristol,Mansfield,Source1,3,42.02361,-71.26073000000002,2016,6,Thursday,Cloudy,False,False,True,False,False,False,False
+A-3504404,MA,Bristol,Raynham,Source1,3,41.90271,-71.04449,2016,13,Monday,Cloudy,False,False,True,False,False,False,False
+A-3517408,MA,Bristol,Fall River,Source1,3,41.75051,-71.11969,2016,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3517409,MA,Bristol,Fall River,Source1,3,41.741101,-71.124589,2016,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3518259,MA,Bristol,Raynham,Source1,4,41.903696,-71.005346,2016,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3518260,MA,Bristol,East Taunton,Source1,4,41.902684,-70.990845,2016,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3519488,MA,Bristol,Assonet,Source1,4,41.8045,-71.07592,2016,12,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-3521089,MA,Bristol,North Dartmouth,Source1,3,41.65501,-70.98803000000002,2016,13,Saturday,Cloudy,False,False,True,False,False,False,False
+A-3561313,MA,Bristol,Seekonk,Source1,3,41.80036,-71.32616999999998,2017,13,Tuesday,Rain,False,False,False,False,False,False,False
+A-3598827,MA,Bristol,Taunton,Source1,3,41.87153,-71.05575,2017,17,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-3598828,MA,Bristol,Taunton,Source1,3,41.87007,-71.05601,2017,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3598837,MA,Bristol,Taunton,Source1,3,41.872542,-71.055471,2017,18,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-3724369,MA,Bristol,Attleboro,Source1,4,41.929549,-71.32255699999997,2022,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3788816,MA,Bristol,Berkley,Source1,4,41.84770703,-71.062392,2022,19,Friday,Sin dato,False,False,False,False,False,False,False
+A-4549434,MA,Bristol,North Attleboro,Source1,4,41.967731,-71.33693199999998,2022,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4745604,MA,Bristol,North Dartmouth,Source1,4,41.656355,-71.018435,2022,2,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5156888,MA,Bristol,Raynham,Source1,4,41.905762,-71.035634,2022,3,Wednesday,Sin dato,True,False,False,False,False,False,False
+A-5187539,MA,Bristol,North Dartmouth,Source1,4,41.639402,-71.02816700000002,2022,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6985644,MA,Bristol,Seekonk,Source1,3,41.80036,-71.32616999999998,2020,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6990886,MA,Bristol,New Bedford,Source1,3,41.65213,-70.94869,2020,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6990895,MA,Bristol,New Bedford,Source1,3,41.65213,-70.94869,2020,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6992110,MA,Bristol,Taunton,Source1,3,41.86849,-71.05645,2020,17,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-6995427,MA,Bristol,Taunton,Source1,3,41.86853,-71.05662,2020,16,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-6995433,MA,Bristol,Taunton,Source1,3,41.86853,-71.05662,2020,16,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-6997546,MA,Bristol,Attleboro Falls,Source1,3,41.96927,-71.29547,2020,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6997552,MA,Bristol,Attleboro Falls,Source1,3,41.96997,-71.29531999999998,2020,6,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-6997553,MA,Bristol,Attleboro Falls,Source1,3,41.96927,-71.29547,2020,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7000010,MA,Bristol,Raynham,Source1,3,41.90277,-71.04467,2020,16,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7000022,MA,Bristol,Raynham,Source1,3,41.90277,-71.04467,2020,16,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7005313,MA,Bristol,Assonet,Source1,3,41.78459,-71.08026,2020,21,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7005314,MA,Bristol,Assonet,Source1,3,41.78459,-71.08026,2020,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-7005868,MA,Bristol,New Bedford,Source1,3,41.65213,-70.94869,2020,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-7005878,MA,Bristol,New Bedford,Source1,3,41.65213,-70.94869,2020,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-7005885,MA,Bristol,New Bedford,Source1,3,41.65213,-70.94869,2020,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-7005897,MA,Bristol,New Bedford,Source1,3,41.65213,-70.94869,2020,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-7007863,MA,Bristol,Mansfield,Source1,3,42.02414,-71.26135,2020,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7007864,MA,Bristol,Mansfield,Source1,3,42.02414,-71.26135,2020,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7007865,MA,Bristol,Mansfield,Source1,3,42.02414,-71.26135,2020,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7009165,MA,Bristol,Swansea,Source1,3,41.77296,-71.25583,2020,12,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7009166,MA,Bristol,Swansea,Source1,3,41.77296,-71.25583,2020,12,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7009167,MA,Bristol,Swansea,Source1,3,41.77296,-71.25583,2020,12,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7011808,MA,Bristol,Attleboro,Source1,3,41.92985,-71.3223,2020,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7011819,MA,Bristol,Attleboro,Source1,3,41.92985,-71.3223,2020,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7011829,MA,Bristol,Attleboro,Source1,4,41.89742,-71.36976999999997,2020,21,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7011830,MA,Bristol,Attleboro,Source1,4,41.89742,-71.36976999999997,2020,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7011831,MA,Bristol,Attleboro,Source1,4,41.89742,-71.36976999999997,2020,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7011832,MA,Bristol,Attleboro,Source1,4,41.89742,-71.36976999999997,2020,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7011833,MA,Bristol,Attleboro,Source1,4,41.89742,-71.36976999999997,2020,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7011834,MA,Bristol,Attleboro,Source1,4,41.89742,-71.36976999999997,2020,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7011835,MA,Bristol,Attleboro,Source1,4,41.89742,-71.36976999999997,2020,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7011836,MA,Bristol,Attleboro,Source1,4,41.89742,-71.36976999999997,2020,21,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7021607,MA,Bristol,Fairhaven,Source1,3,41.65861,-70.8891,2020,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-7021611,MA,Bristol,Fairhaven,Source1,3,41.65861,-70.8891,2020,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-7021620,MA,Bristol,Fairhaven,Source1,3,41.65861,-70.8891,2020,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-7021653,MA,Bristol,Fairhaven,Source1,3,41.65861,-70.8891,2020,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-7021658,MA,Bristol,Fairhaven,Source1,3,41.65861,-70.8891,2020,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-7025894,MA,Bristol,Taunton,Source1,3,41.86849,-71.05645,2020,16,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7030415,MA,Bristol,New Bedford,Source1,3,41.65197,-70.94866,2020,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7030421,MA,Bristol,New Bedford,Source1,3,41.65197,-70.94866,2020,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7037733,MA,Bristol,Taunton,Source1,3,41.86853,-71.05662,2020,15,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7037736,MA,Bristol,Taunton,Source1,3,41.86853,-71.05662,2020,15,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7037739,MA,Bristol,Taunton,Source1,3,41.86853,-71.05662,2020,15,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7044508,MA,Bristol,Mansfield,Source1,3,42.0064,-71.22458,2020,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7044518,MA,Bristol,Mansfield,Source1,3,42.0064,-71.22458,2020,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7051445,MA,Bristol,Assonet,Source1,3,41.8045,-71.07592,2020,1,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7059596,MA,Bristol,Swansea,Source1,3,41.77318,-71.2567,2020,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7060109,MA,Bristol,Fall River,Source1,3,41.70362,-71.16019,2020,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7065536,MA,Bristol,Mansfield,Source1,3,42.02361,-71.26073000000002,2020,1,Monday,Storm,False,False,True,False,False,False,False
+A-7068193,MA,Bristol,Attleboro,Source1,3,41.89823,-71.36934000000002,2020,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7070611,MA,Bristol,Attleboro Falls,Source1,3,41.96997,-71.29531999999998,2020,7,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7070612,MA,Bristol,Attleboro Falls,Source1,3,41.96997,-71.29531999999998,2020,7,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7071827,MA,Bristol,Taunton,Source1,3,41.86849,-71.05645,2020,10,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7071835,MA,Bristol,Taunton,Source1,3,41.86849,-71.05645,2020,10,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7074438,MA,Bristol,Attleboro,Source1,3,41.95492,-71.30413,2020,0,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7076891,MA,Bristol,Attleboro,Source1,3,41.95492,-71.30413,2020,0,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7076999,MA,Bristol,Attleboro,Source1,3,41.89823,-71.36934000000002,2020,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7077003,MA,Bristol,Attleboro,Source1,3,41.89823,-71.36934000000002,2020,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7077004,MA,Bristol,Attleboro,Source1,3,41.89823,-71.36934000000002,2020,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7077018,MA,Bristol,Attleboro,Source1,3,41.89823,-71.36934000000002,2020,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7079648,MA,Bristol,Mansfield,Source1,3,42.02361,-71.26073000000002,2020,20,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7085403,MA,Bristol,Fall River,Source1,3,41.68523,-71.13686,2020,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7085415,MA,Bristol,Fall River,Source1,3,41.68523,-71.13686,2020,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7098736,MA,Bristol,Seekonk,Source1,3,41.80036,-71.32616999999998,2020,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-7098758,MA,Bristol,Seekonk,Source1,3,41.80036,-71.32616999999998,2020,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-7098806,MA,Bristol,Taunton,Source1,3,41.86853,-71.05662,2020,18,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7108929,MA,Bristol,Taunton,Source1,3,41.86873,-71.05638,2020,7,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7122053,MA,Bristol,Fall River,Source1,3,41.70349,-71.1603,2020,10,Thursday,Rain,False,False,False,False,False,False,False
+A-7122061,MA,Bristol,Fall River,Source1,3,41.70349,-71.1603,2020,10,Thursday,Rain,False,False,False,False,False,False,False
+A-7122069,MA,Bristol,Fall River,Source1,3,41.70349,-71.1603,2020,10,Thursday,Rain,False,False,False,False,False,False,False
+A-7130205,MA,Bristol,Berkley,Source1,3,41.84528,-71.06334,2020,15,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-7130209,MA,Bristol,Berkley,Source1,3,41.84528,-71.06334,2020,15,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-7130216,MA,Bristol,Berkley,Source1,3,41.84528,-71.06334,2020,16,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-7130245,MA,Bristol,Attleboro,Source1,3,41.92985,-71.3223,2020,16,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-7130252,MA,Bristol,Attleboro,Source1,3,41.92985,-71.3223,2020,17,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-7130272,MA,Bristol,Attleboro,Source1,3,41.92985,-71.3223,2020,17,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-7130277,MA,Bristol,Attleboro,Source1,3,41.92985,-71.3223,2020,17,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-7143196,MA,Bristol,Attleboro,Source1,3,41.89426,-71.3763,2020,13,Sunday,Rain,False,False,False,False,False,False,False
+A-7157178,MA,Bristol,East Taunton,Source1,3,41.87078,-71.05368,2020,8,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7157179,MA,Bristol,East Taunton,Source1,3,41.87078,-71.05368,2020,8,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7160674,MA,Bristol,Seekonk,Source1,3,41.80653,-71.33888,2020,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7160681,MA,Bristol,Seekonk,Source1,3,41.80653,-71.33888,2020,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7165296,MA,Bristol,Attleboro,Source1,3,41.89426,-71.3763,2020,16,Thursday,Rain,False,False,False,False,False,False,False
+A-7165298,MA,Bristol,Attleboro,Source1,3,41.89613,-71.37451999999998,2020,17,Thursday,Rain,False,False,False,False,False,False,False
+A-7171733,MA,Bristol,Raynham,Source1,3,41.90277,-71.04467,2020,20,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7171734,MA,Bristol,Raynham,Source1,3,41.90277,-71.04467,2020,20,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7171735,MA,Bristol,Raynham,Source1,3,41.90277,-71.04467,2020,20,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7172903,MA,Bristol,Attleboro,Source1,3,41.89824,-71.36934000000002,2020,0,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7173353,MA,Bristol,Fall River,Source1,3,41.70183,-71.15619000000002,2020,11,Monday,Rain,False,False,False,False,False,False,False
+A-7175389,MA,Bristol,Attleboro,Source1,3,41.92985,-71.3223,2020,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7175391,MA,Bristol,Attleboro,Source1,3,41.92985,-71.3223,2020,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7179976,MA,Bristol,Westport,Source1,3,41.67365,-71.09144,2020,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7179977,MA,Bristol,Westport,Source1,3,41.67365,-71.09144,2020,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7179997,MA,Bristol,Westport,Source1,3,41.67365,-71.09144,2020,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7180010,MA,Bristol,Westport,Source1,3,41.67365,-71.09144,2020,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7183916,MA,Bristol,Seekonk,Source1,3,41.80005,-71.32646,2020,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7183917,MA,Bristol,Seekonk,Source1,3,41.80005,-71.32646,2020,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7183920,MA,Bristol,Seekonk,Source1,3,41.80005,-71.32646,2020,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7192590,MA,Bristol,New Bedford,Source1,3,41.65435,-70.92716,2020,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7197286,MA,Bristol,Assonet,Source1,3,41.8045,-71.07592,2020,11,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-7197287,MA,Bristol,Assonet,Source1,3,41.8045,-71.07592,2020,11,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-7201891,MA,Bristol,Berkley,Source1,3,41.84528,-71.06334,2020,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7213801,MA,Bristol,Mansfield,Source1,3,42.02343,-71.262417,2020,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7259423,MA,Bristol,Raynham,Source1,4,41.95581,-71.06985999999998,2020,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7259424,MA,Bristol,Raynham,Source1,4,41.95183,-71.07119,2020,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7259435,MA,Bristol,Raynham,Source1,3,41.95581,-71.06985999999998,2020,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7279458,MA,Bristol,Fall River,Source1,3,41.74331,-71.12114,2020,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7279459,MA,Bristol,Fall River,Source1,3,41.74902,-71.12026999999998,2020,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7318933,MA,Bristol,Seekonk,Source1,3,41.80376,-71.33418,2019,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7339822,MA,Bristol,North Dartmouth,Source1,3,41.6577,-71.043,2019,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-7369455,MA,Bristol,Assonet,Source1,3,41.8045,-71.07592,2019,23,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7425135,MA,Bristol,Raynham,Source1,3,41.928935,-71.028933,2019,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7428006,MA,Bristol,Mansfield,Source1,3,42.024323,-71.26108599999998,2019,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7446141,MA,Bristol,East Taunton,Source1,4,41.86404,-71.0439,2019,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7446142,MA,Bristol,East Taunton,Source1,4,41.843205,-71.012197,2019,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7448945,MA,Bristol,East Taunton,Source1,3,41.86526,-71.04533,2019,6,Monday,Cloudy,False,False,True,False,False,False,False
+A-7451482,MA,Bristol,Mansfield,Source1,4,42.00759,-71.28329699999998,2019,7,Friday,Cloudy,False,False,True,False,False,False,False
+A-7451487,MA,Bristol,Attleboro Falls,Source1,3,41.96997,-71.29531999999998,2019,8,Friday,Cloudy,False,False,True,False,False,False,False
+A-7474057,MA,Bristol,Attleboro,Source1,3,41.95434,-71.31184,2018,8,Monday,Cloudy,False,False,True,False,False,False,False
+A-7482794,MA,Bristol,Assonet,Source1,4,41.763632,-71.10184699999998,2018,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7482812,MA,Bristol,Fall River,Source1,4,41.75209,-71.1188,2018,5,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7482859,MA,Bristol,Fall River,Source1,3,41.75209,-71.1188,2018,15,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7507549,MA,Bristol,Somerset,Source1,3,41.726922,-71.186832,2018,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7508053,MA,Bristol,Mansfield,Source1,3,42.012127,-71.23294,2018,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7542322,MA,Bristol,Seekonk,Source1,3,41.789927,-71.304284,2018,14,Friday,Rain,False,False,False,False,False,False,False
+A-7542333,MA,Bristol,Seekonk,Source1,3,41.789927,-71.304284,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-7581081,MA,Bristol,Swansea,Source1,4,41.734044,-71.198736,2018,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7634469,MA,Bristol,Mansfield,Source1,3,42.010398,-71.279444,2018,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7643884,MA,Bristol,Attleboro,Source1,3,41.92985,-71.3223,2017,7,Wednesday,Rain,False,False,False,False,False,False,False
+A-7652752,MA,Bristol,Attleboro,Source1,3,41.90104,-71.36032,2017,0,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7655228,MA,Bristol,Taunton,Source1,3,41.882225,-71.05272099999998,2017,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7657693,MA,Bristol,Fairhaven,Source1,4,41.658461,-70.889649,2017,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7679310,MA,Bristol,Mansfield,Source1,3,42.02472,-71.25238,2017,17,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7692656,MA,Bristol,Taunton,Source1,4,41.868911,-71.05651,2017,13,Tuesday,Rain,False,False,False,False,False,False,False
+A-7709114,MA,Bristol,Fall River,Source1,3,41.75209,-71.1188,2019,7,Monday,Storm,False,False,True,False,False,False,False
+A-7721523,MA,Bristol,Westport,Source1,3,41.677953,-71.101546,2019,6,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7721524,MA,Bristol,Westport,Source1,3,41.68012,-71.11094,2019,6,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7727251,MA,Bristol,Taunton,Source1,4,41.87153,-71.05575,2019,14,Friday,Cloudy,False,False,True,False,False,False,False
+A-7738982,MA,Bristol,Raynham,Source1,3,41.94565,-71.02019,2019,22,Sunday,Cloudy,False,False,True,False,False,False,False
+A-7745821,MA,Bristol,Attleboro,Source1,3,41.9556,-71.30366,2019,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7745822,MA,Bristol,Attleboro,Source1,4,41.95518,-71.30396,2019,20,Saturday,Cloudy,False,False,False,False,False,False,False

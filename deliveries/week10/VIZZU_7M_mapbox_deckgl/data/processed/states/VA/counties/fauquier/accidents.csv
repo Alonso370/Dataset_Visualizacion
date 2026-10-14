@@ -1,0 +1,958 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-229632,VA,Fauquier,Marshall,Source2,3,38.858147,-77.844193,2016,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-230662,VA,Fauquier,Marshall,Source2,3,38.85817700000001,-77.84359,2016,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-230880,VA,Fauquier,Delaplane,Source2,3,38.895477,-77.912926,2016,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-236371,VA,Fauquier,The Plains,Source2,3,38.85022,-77.789101,2017,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-237905,VA,Fauquier,The Plains,Source2,3,38.850601,-77.78987099999998,2016,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-237956,VA,Fauquier,Marshall,Source2,3,38.859287,-77.867538,2016,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-242850,VA,Fauquier,The Plains,Source2,3,38.849754,-77.78920699999998,2016,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-244224,VA,Fauquier,The Plains,Source2,3,38.85022,-77.789101,2016,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-244997,VA,Fauquier,The Plains,Source2,3,38.85022,-77.789101,2016,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-246912,VA,Fauquier,Marshall,Source2,3,38.859287,-77.867538,2016,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-250155,VA,Fauquier,Markham,Source2,3,38.907394,-77.997795,2016,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-250637,VA,Fauquier,Delaplane,Source2,3,38.893406,-77.910591,2016,5,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-254077,VA,Fauquier,Delaplane,Source2,3,38.901199,-77.92588,2016,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-255183,VA,Fauquier,Marshall,Source2,3,38.85817700000001,-77.84359,2016,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-331172,VA,Fauquier,Marshall,Source2,3,38.85817700000001,-77.84359,2017,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-378395,VA,Fauquier,Delaplane,Source2,3,38.901199,-77.92588,2017,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-378400,VA,Fauquier,Delaplane,Source2,3,38.901199,-77.92588,2017,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-379176,VA,Fauquier,Markham,Source2,3,38.907085,-77.997261,2017,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-379231,VA,Fauquier,Marshall,Source2,3,38.858128,-77.844498,2017,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-380007,VA,Fauquier,Marshall,Source2,3,38.85817700000001,-77.84359,2017,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-381925,VA,Fauquier,The Plains,Source2,3,38.85022,-77.789101,2017,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-382435,VA,Fauquier,The Plains,Source2,3,38.85022,-77.789101,2017,22,Saturday,Rain,False,False,False,False,False,False,False
+A-382496,VA,Fauquier,Marshall,Source2,3,38.859287,-77.867538,2017,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-383636,VA,Fauquier,The Plains,Source2,3,38.85022,-77.789101,2017,15,Monday,Sin dato,False,False,False,False,False,False,False
+A-384293,VA,Fauquier,The Plains,Source2,3,38.84946400000001,-77.788612,2017,8,Friday,Rain,False,False,False,False,False,False,False
+A-426894,VA,Fauquier,Delaplane,Source2,3,38.895393,-77.91278100000002,2017,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-449506,VA,Fauquier,Delaplane,Source2,3,38.901199,-77.92588,2017,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-449672,VA,Fauquier,Markham,Source2,3,38.907066,-77.997757,2017,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-449731,VA,Fauquier,Delaplane,Source2,3,38.895393,-77.91278100000002,2017,5,Monday,Rain,False,False,False,False,False,False,False
+A-480594,VA,Fauquier,Marshall,Source2,3,38.859287,-77.867538,2017,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-480611,VA,Fauquier,Markham,Source2,3,38.907394,-77.997795,2017,15,Wednesday,Rain,False,False,False,False,False,False,False
+A-481973,VA,Fauquier,The Plains,Source2,3,38.85022,-77.789101,2017,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-482684,VA,Fauquier,Warrenton,Source2,3,38.777679,-77.681931,2017,17,Monday,Cloudy,False,False,False,True,False,False,False
+A-483205,VA,Fauquier,The Plains,Source2,3,38.85022,-77.789101,2017,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-483446,VA,Fauquier,Warrenton,Source2,3,38.723629,-77.781784,2017,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-483777,VA,Fauquier,The Plains,Source2,3,38.84993400000001,-77.78850600000001,2017,4,Thursday,Rain,False,False,False,False,False,False,False
+A-506010,VA,Fauquier,Delaplane,Source2,3,38.895393,-77.91278100000002,2017,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-506499,VA,Fauquier,Marshall,Source2,3,38.859356,-77.867798,2017,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-507417,VA,Fauquier,Delaplane,Source2,3,38.893276,-77.91201,2017,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-507726,VA,Fauquier,Delaplane,Source2,3,38.8839,-77.905914,2017,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-514183,VA,Fauquier,Marshall,Source2,3,38.872635,-77.89544699999998,2022,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-516022,VA,Fauquier,The Plains,Source2,3,38.850163,-77.789452,2022,6,Tuesday,Rain,False,False,False,False,False,False,False
+A-518511,VA,Fauquier,Markham,Source2,3,38.907043,-77.99855,2022,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-524865,VA,Fauquier,Markham,Source2,3,38.906956,-77.999847,2022,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-550525,VA,Fauquier,Markham,Source2,3,38.907043,-77.99855,2022,7,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-557480,VA,Fauquier,Delaplane,Source2,3,38.893456,-77.912041,2022,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-560755,VA,Fauquier,Marshall,Source3,3,38.858204,-77.850212,2022,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-562717,VA,Fauquier,Delaplane,Source2,3,38.90078,-77.924377,2022,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-564127,VA,Fauquier,Delaplane,Source2,4,38.89604600000001,-77.912621,2022,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-565007,VA,Fauquier,Delaplane,Source2,3,38.89604600000001,-77.912621,2022,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-570673,VA,Fauquier,Bealeton,Source2,3,38.583,-77.76780699999998,2022,10,Sunday,Cloudy,True,False,False,False,False,False,False
+A-581846,VA,Fauquier,Markham,Source2,3,38.907181,-77.995476,2022,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-583256,VA,Fauquier,Delaplane,Source2,3,38.894848,-77.91197199999998,2022,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-583257,VA,Fauquier,Delaplane,Source2,3,38.894848,-77.91197199999998,2022,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-585968,VA,Fauquier,Delaplane,Source2,3,38.900581,-77.923744,2022,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-595307,VA,Fauquier,Warrenton,Source2,3,38.620953,-77.80072,2022,9,Monday,Clear / Fair,True,False,False,False,True,False,False
+A-595762,VA,Fauquier,The Plains,Source2,3,38.850163,-77.789452,2022,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-596518,VA,Fauquier,The Plains,Source2,3,38.850826,-77.79143499999998,2022,22,Friday,Cloudy,False,False,False,False,False,False,False
+A-614623,VA,Fauquier,The Plains,Source2,3,38.850166,-77.79007,2022,19,Sunday,Rain,False,False,False,False,False,False,False
+A-629487,VA,Fauquier,Delaplane,Source2,3,38.89604600000001,-77.912621,2022,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-631628,VA,Fauquier,Marshall,Source2,3,38.85843300000001,-77.843994,2022,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-640125,VA,Fauquier,Marshall,Source2,3,38.859211,-77.867722,2022,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-647530,VA,Fauquier,The Plains,Source2,3,38.850163,-77.789452,2022,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-659138,VA,Fauquier,Delaplane,Source2,3,38.896271,-77.91435200000002,2022,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-679499,VA,Fauquier,Marshall,Source2,3,38.859211,-77.867722,2022,9,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-700694,VA,Fauquier,Bealeton,Source3,3,38.55978,-77.73912800000002,2022,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-700695,VA,Fauquier,Midland,Source2,3,38.569511,-77.760292,2022,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-700959,VA,Fauquier,Delaplane,Source2,3,38.89604600000001,-77.912621,2022,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-705762,VA,Fauquier,Marshall,Source2,3,38.8587,-77.840294,2022,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-730323,VA,Fauquier,Marshall,Source2,3,38.858704,-77.840233,2022,19,Friday,Rain,False,False,False,False,False,False,False
+A-734368,VA,Fauquier,The Plains,Source2,3,38.850758,-77.790176,2022,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-734947,VA,Fauquier,Delaplane,Source2,3,38.89604600000001,-77.912621,2022,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-735189,VA,Fauquier,Delaplane,Source2,3,38.906551,-77.917938,2022,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-746334,VA,Fauquier,Markham,Source2,3,38.911098,-78.064888,2022,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-771530,VA,Fauquier,The Plains,Source2,3,38.848984,-77.787643,2021,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-772374,VA,Fauquier,Bealeton,Source2,3,38.582031,-77.770462,2021,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-797261,VA,Fauquier,Marshall,Source2,3,38.858601,-77.86502800000002,2021,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-797615,VA,Fauquier,Marshall,Source2,3,38.859211,-77.867722,2021,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-804912,VA,Fauquier,Delaplane,Source2,3,38.894131,-77.911194,2021,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-805452,VA,Fauquier,Marshall,Source2,3,38.859211,-77.867722,2021,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-823989,VA,Fauquier,Marshall,Source2,3,38.873745,-77.897751,2021,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-829038,VA,Fauquier,Marshall,Source2,3,38.85843300000001,-77.843994,2021,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-837350,VA,Fauquier,Delaplane,Source2,3,38.901829,-77.92903100000002,2021,14,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-842030,VA,Fauquier,Broad Run,Source2,3,38.839024,-77.744606,2021,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-843758,VA,Fauquier,Upperville,Source2,3,38.99435,-77.884781,2021,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-857790,VA,Fauquier,The Plains,Source2,3,38.850163,-77.789452,2021,12,Friday,Rain,False,False,False,False,False,False,False
+A-857824,VA,Fauquier,The Plains,Source2,3,38.850163,-77.789452,2021,13,Friday,Rain,False,False,False,False,False,False,False
+A-860264,VA,Fauquier,Marshall,Source2,3,38.859211,-77.867722,2021,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-872653,VA,Fauquier,Markham,Source2,3,38.907043,-77.99855,2021,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-885151,VA,Fauquier,The Plains,Source2,3,38.84770200000001,-77.76804399999997,2021,10,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-889968,VA,Fauquier,Marshall,Source2,3,38.858044,-77.845512,2021,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-904297,VA,Fauquier,Delaplane,Source2,4,38.901829,-77.92903100000002,2021,7,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-915388,VA,Fauquier,Marshall,Source2,3,38.877037,-77.90345,2021,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-929151,VA,Fauquier,The Plains,Source2,3,38.849178,-77.78804000000002,2021,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-934170,VA,Fauquier,The Plains,Source2,3,38.850163,-77.789452,2021,12,Wednesday,Rain,False,False,False,False,False,False,False
+A-946750,VA,Fauquier,Bealeton,Source3,3,38.58004,-77.776543,2021,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-958190,VA,Fauquier,The Plains,Source2,3,38.849426,-77.788551,2021,20,Monday,Rain,False,False,False,False,False,False,False
+A-963709,VA,Fauquier,The Plains,Source2,3,38.848988,-77.786415,2021,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-974551,VA,Fauquier,The Plains,Source2,3,38.850163,-77.789452,2021,15,Thursday,Rain,False,False,False,False,False,False,False
+A-977598,VA,Fauquier,Marshall,Source2,3,38.87738,-77.903549,2021,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-989624,VA,Fauquier,Delaplane,Source2,3,38.89604600000001,-77.912621,2021,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-992357,VA,Fauquier,Bealeton,Source2,3,38.589512,-77.76992800000002,2021,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-993999,VA,Fauquier,The Plains,Source2,3,38.850163,-77.789452,2021,11,Tuesday,Rain,False,False,False,False,False,False,False
+A-1001698,VA,Fauquier,Marshall,Source3,3,38.858776,-77.838287,2021,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1007651,VA,Fauquier,Delaplane,Source3,3,38.892849,-77.910202,2021,8,Friday,Rain,False,False,False,False,False,False,False
+A-1009407,VA,Fauquier,Markham,Source2,3,38.90685300000001,-78.008987,2021,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1012768,VA,Fauquier,The Plains,Source2,3,38.850765,-77.790192,2021,21,Tuesday,Rain,False,False,False,False,False,False,False
+A-1044677,VA,Fauquier,Marshall,Source2,3,38.861156,-77.874084,2021,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1055654,VA,Fauquier,The Plains,Source2,3,38.851547,-77.791786,2021,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1063453,VA,Fauquier,Remington,Source2,3,38.55806,-77.802032,2021,14,Friday,Clear / Fair,False,False,False,True,False,False,False
+A-1077059,VA,Fauquier,Marshall,Source2,3,38.86013,-77.86908000000003,2021,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-1077060,VA,Fauquier,Marshall,Source2,3,38.85843300000001,-77.843994,2021,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-1079404,VA,Fauquier,The Plains,Source2,3,38.847359,-77.764717,2021,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-1082580,VA,Fauquier,Delaplane,Source2,3,38.901829,-77.92903100000002,2021,21,Wednesday,Rain,False,False,True,False,False,False,False
+A-1083990,VA,Fauquier,Warrenton,Source2,3,38.734776,-77.770477,2021,14,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-1088078,VA,Fauquier,Warrenton,Source2,3,38.737656,-77.766586,2021,17,Friday,Cloudy,True,False,False,False,False,False,False
+A-1105793,VA,Fauquier,Delaplane,Source2,3,38.89604600000001,-77.912621,2021,6,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1114404,VA,Fauquier,Delaplane,Source2,3,38.901829,-77.92903100000002,2021,14,Thursday,Rain,False,False,True,False,False,False,False
+A-1122636,VA,Fauquier,Marshall,Source2,3,38.85843300000001,-77.843994,2021,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1125739,VA,Fauquier,Markham,Source2,3,38.906857,-78.001823,2021,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1143189,VA,Fauquier,Markham,Source2,3,38.907043,-77.99855,2021,12,Monday,Rain,False,False,False,False,False,False,False
+A-1147327,VA,Fauquier,Delaplane,Source2,3,38.89604600000001,-77.912621,2021,9,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1147328,VA,Fauquier,The Plains,Source2,3,38.850075,-77.789879,2021,9,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1154007,VA,Fauquier,Broad Run,Source2,3,38.830013,-77.733559,2021,11,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-1172858,VA,Fauquier,The Plains,Source2,3,38.850754,-77.790176,2021,10,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1172903,VA,Fauquier,Markham,Source2,3,38.907043,-77.99855,2021,20,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1180954,VA,Fauquier,Markham,Source2,3,38.907112,-77.99678,2021,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-1180960,VA,Fauquier,Delaplane,Source2,3,38.89962,-77.921196,2021,20,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1199526,VA,Fauquier,Delaplane,Source2,4,38.901829,-77.92903100000002,2021,6,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-1202850,VA,Fauquier,Delaplane,Source2,3,38.89604600000001,-77.912621,2021,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1229590,VA,Fauquier,Delaplane,Source2,3,38.89604600000001,-77.912621,2020,9,Monday,Rain,False,False,False,False,False,False,False
+A-1229604,VA,Fauquier,Delaplane,Source2,3,38.89604600000001,-77.912621,2020,10,Monday,Rain,False,False,False,False,False,False,False
+A-1229622,VA,Fauquier,Warrenton,Source2,3,38.771412,-77.697998,2020,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-1237602,VA,Fauquier,Markham,Source2,3,38.907043,-77.99855,2020,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1246214,VA,Fauquier,Markham,Source2,3,38.907307,-77.999649,2020,7,Monday,Rain,False,False,False,False,False,False,False
+A-1248148,VA,Fauquier,Delaplane,Source2,3,38.89604600000001,-77.912621,2020,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1248149,VA,Fauquier,Marshall,Source2,3,38.85843300000001,-77.843994,2020,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1254373,VA,Fauquier,Markham,Source2,3,38.907043,-77.99855,2020,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-1266874,VA,Fauquier,Marshall,Source2,3,38.85843300000001,-77.843994,2020,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1279571,VA,Fauquier,The Plains,Source2,3,38.850185,-77.789009,2020,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1284846,VA,Fauquier,Marshall,Source2,3,38.862312,-77.877563,2020,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-1286427,VA,Fauquier,Linden,Source2,3,38.910805,-78.061806,2020,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1286442,VA,Fauquier,Marshall,Source2,3,38.85843300000001,-77.843994,2020,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1287047,VA,Fauquier,Marshall,Source2,4,38.85843300000001,-77.843994,2020,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1291313,VA,Fauquier,Marshall,Source2,3,38.858505,-77.844208,2020,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1297376,VA,Fauquier,Delaplane,Source2,3,38.901829,-77.92903100000002,2020,12,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-1305469,VA,Fauquier,The Plains,Source2,3,38.850163,-77.789452,2020,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1321387,VA,Fauquier,Warrenton,Source2,3,38.734776,-77.770477,2020,21,Thursday,Rain,True,False,False,False,False,False,False
+A-1321388,VA,Fauquier,Delaplane,Source2,3,38.901829,-77.92903100000002,2020,21,Thursday,Cloudy,False,False,True,False,False,False,False
+A-1325880,VA,Fauquier,Bealeton,Source2,3,38.581215,-77.802116,2020,13,Monday,Cloudy,False,False,False,True,False,False,False
+A-1327445,VA,Fauquier,Warrenton,Source2,3,38.677422,-77.7873,2020,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1357173,VA,Fauquier,Catlett,Source2,3,38.598423,-77.578064,2020,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-1357219,VA,Fauquier,Warrenton,Source2,3,38.750179,-77.814758,2020,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-1363064,VA,Fauquier,The Plains,Source2,3,38.850163,-77.789452,2020,11,Thursday,Rain,False,False,False,False,False,False,False
+A-1384183,VA,Fauquier,Marshall,Source2,3,38.860142,-77.871544,2020,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-1389587,VA,Fauquier,Delaplane,Source2,3,38.897045,-77.912766,2020,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1389590,VA,Fauquier,Delaplane,Source2,3,38.89604600000001,-77.912621,2020,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-1397874,VA,Fauquier,The Plains,Source2,3,38.849953,-77.788513,2020,5,Friday,Rain,False,False,False,False,False,False,False
+A-1421738,VA,Fauquier,Delaplane,Source2,3,38.89604600000001,-77.912621,2020,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1430899,VA,Fauquier,Delaplane,Source2,3,38.89604600000001,-77.912621,2020,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1442165,VA,Fauquier,Delaplane,Source2,3,38.902348,-77.93441,2020,9,Saturday,Rain,False,False,False,False,False,False,False
+A-1442182,VA,Fauquier,Markham,Source2,3,38.907867,-77.986427,2020,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1451990,VA,Fauquier,The Plains,Source2,3,38.849834,-77.789383,2020,23,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1457630,VA,Fauquier,Markham,Source2,3,38.907097,-77.99707,2020,7,Thursday,Rain,False,False,False,False,False,False,False
+A-1457639,VA,Fauquier,The Plains,Source2,3,38.850163,-77.789452,2020,9,Thursday,Rain,False,False,False,False,False,False,False
+A-1460235,VA,Fauquier,Markham,Source2,3,38.907043,-77.99855,2020,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1462388,VA,Fauquier,Marshall,Source2,4,38.858513,-77.844002,2020,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1478322,VA,Fauquier,Marshall,Source2,3,38.858631,-77.84184300000003,2020,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-1481533,VA,Fauquier,Marshall,Source2,3,38.860111,-77.871437,2020,20,Friday,Storm,False,False,False,False,False,False,False
+A-1483987,VA,Fauquier,The Plains,Source2,3,38.850807,-77.79140500000003,2020,19,Monday,Rain,False,False,False,False,False,False,False
+A-1488652,VA,Fauquier,Delaplane,Source2,3,38.894638,-77.912621,2020,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1494272,VA,Fauquier,Delaplane,Source2,3,38.901829,-77.92903100000002,2020,20,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-1500590,VA,Fauquier,The Plains,Source2,3,38.849579,-77.788857,2020,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1500603,VA,Fauquier,The Plains,Source2,3,38.84914000000001,-77.786743,2020,19,Wednesday,Storm,False,False,False,False,False,False,False
+A-1501975,VA,Fauquier,Delaplane,Source2,3,38.901691,-77.928207,2020,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1525070,VA,Fauquier,Bealeton,Source2,3,38.620647,-77.79985,2020,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1552685,VA,Fauquier,The Plains,Source2,3,38.855659,-77.801926,2020,22,Sunday,Rain,False,False,False,False,False,False,False
+A-1560938,VA,Fauquier,Warrenton,Source2,3,38.77170200000001,-77.822662,2020,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1569696,VA,Fauquier,Marshall,Source2,3,38.859097,-77.86682900000002,2020,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1588187,VA,Fauquier,Markham,Source2,3,38.907043,-77.99855,2020,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1599964,VA,Fauquier,Markham,Source2,3,38.907043,-77.99855,2020,11,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-1602921,VA,Fauquier,Markham,Source2,3,38.906719,-78.00148,2020,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1602922,VA,Fauquier,Markham,Source2,3,38.906872,-78.001465,2020,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1623633,VA,Fauquier,Markham,Source2,3,38.907043,-77.99855,2020,16,Saturday,Rain,False,False,False,False,False,False,False
+A-1632210,VA,Fauquier,Delaplane,Source2,3,38.901829,-77.92903100000002,2020,12,Thursday,Rain,False,False,True,False,False,False,False
+A-1695817,VA,Fauquier,Warrenton,Source2,3,38.64302100000001,-77.804672,2019,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1717148,VA,Fauquier,Warrenton,Source2,3,38.686398,-77.787163,2019,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1744968,VA,Fauquier,Marshall,Source2,3,38.85843300000001,-77.843994,2019,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1756922,VA,Fauquier,Delaplane,Source2,3,38.902363,-77.938171,2019,12,Wednesday,Rain,False,False,False,False,False,False,False
+A-1759788,VA,Fauquier,Marshall,Source2,4,38.859211,-77.867722,2019,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1794221,VA,Fauquier,Delaplane,Source2,3,38.89604600000001,-77.912621,2019,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1837603,VA,Fauquier,Markham,Source2,3,38.90728,-78.000153,2019,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-1853526,VA,Fauquier,The Plains,Source2,3,38.847752,-77.76268,2019,10,Monday,Rain,False,False,False,False,False,False,False
+A-1853528,VA,Fauquier,Broad Run,Source2,3,38.831429,-77.73571,2019,10,Monday,Rain,False,False,False,False,False,False,False
+A-1896364,VA,Fauquier,Delaplane,Source2,3,38.89604600000001,-77.912621,2019,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-1902715,VA,Fauquier,Marshall,Source2,3,38.859211,-77.867722,2019,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1937331,VA,Fauquier,The Plains,Source2,3,38.849792,-77.789299,2019,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1961579,VA,Fauquier,Marshall,Source2,3,38.85796,-77.847137,2019,15,Thursday,Storm,False,False,True,False,False,False,False
+A-1965660,VA,Fauquier,Marshall,Source2,3,38.858513,-77.844002,2019,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1974079,VA,Fauquier,Marshall,Source2,3,38.858219,-77.842331,2019,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2008880,VA,Fauquier,Delaplane,Source2,3,38.901829,-77.92903100000002,2019,15,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-2042219,VA,Fauquier,Catlett,Source2,3,38.7061,-77.693314,2019,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-2064584,VA,Fauquier,Marshall,Source2,3,38.859211,-77.867722,2019,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-2097260,VA,Fauquier,Marshall,Source2,3,38.85843300000001,-77.843994,2019,7,Sunday,Rain,False,False,False,False,False,False,False
+A-2153738,VA,Fauquier,The Plains,Source2,3,38.85060900000001,-77.789879,2019,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2161181,VA,Fauquier,The Plains,Source2,3,38.85060900000001,-77.789879,2019,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2169955,VA,Fauquier,Remington,Source2,3,38.55407,-77.78582,2019,17,Tuesday,Clear / Fair,False,True,False,False,False,False,True
+A-2189615,VA,Fauquier,Marshall,Source2,3,38.859158,-77.867981,2019,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-2195745,VA,Fauquier,Marshall,Source2,3,38.85843300000001,-77.843994,2019,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2228103,VA,Fauquier,The Plains,Source2,3,38.850468,-77.78999300000002,2019,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2235251,VA,Fauquier,Warrenton,Source2,3,38.763191,-77.812889,2019,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2267029,VA,Fauquier,The Plains,Source2,3,38.850468,-77.78999300000002,2019,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2272417,VA,Fauquier,Hume,Source2,3,38.80912,-77.996613,2019,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2282148,VA,Fauquier,Markham,Source2,3,38.907158,-77.997726,2019,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2291432,VA,Fauquier,Delaplane,Source2,3,38.901592,-77.927406,2019,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-2291434,VA,Fauquier,Delaplane,Source2,3,38.902466,-77.940453,2019,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-2326018,VA,Fauquier,Marshall,Source2,3,38.859112,-77.867813,2019,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2336979,VA,Fauquier,The Plains,Source2,3,38.856098,-77.803619,2019,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2356445,VA,Fauquier,The Plains,Source2,3,38.850422,-77.788986,2019,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2363335,VA,Fauquier,Delaplane,Source2,3,38.901539,-77.927429,2019,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2399169,VA,Fauquier,The Plains,Source2,3,38.849838,-77.78939100000002,2018,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2427753,VA,Fauquier,The Plains,Source2,3,38.84956,-77.788811,2018,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-2432198,VA,Fauquier,The Plains,Source2,3,38.85022,-77.789101,2018,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-2435649,VA,Fauquier,Marshall,Source2,3,38.858135,-77.84431500000002,2018,10,Tuesday,Rain,False,False,False,False,False,False,False
+A-2438925,VA,Fauquier,The Plains,Source2,3,38.84993400000001,-77.78965,2018,6,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2439000,VA,Fauquier,Delaplane,Source2,3,38.895393,-77.91278100000002,2018,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2452476,VA,Fauquier,Delaplane,Source2,3,38.895393,-77.91278100000002,2018,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2458329,VA,Fauquier,Marshall,Source2,3,38.859287,-77.867538,2018,9,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2458336,VA,Fauquier,The Plains,Source2,3,38.849857,-77.789429,2018,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2458398,VA,Fauquier,Broad Run,Source2,3,38.828735,-77.7314,2018,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2458404,VA,Fauquier,Linden,Source2,3,38.910446,-78.050652,2018,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2461459,VA,Fauquier,Delaplane,Source2,3,38.895393,-77.91278100000002,2018,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-2463885,VA,Fauquier,The Plains,Source2,3,38.85022,-77.789101,2018,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2468416,VA,Fauquier,Markham,Source2,3,38.907364,-77.998413,2018,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2471409,VA,Fauquier,The Plains,Source2,3,38.85022,-77.789101,2018,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2497266,VA,Fauquier,Markham,Source2,3,38.909382,-77.975937,2018,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2506751,VA,Fauquier,Marshall,Source2,3,38.87615200000001,-77.90166500000002,2018,19,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2509780,VA,Fauquier,Marshall,Source2,3,38.859287,-77.867538,2018,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2520445,VA,Fauquier,Marshall,Source2,3,38.858154,-77.829086,2018,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2536629,VA,Fauquier,Delaplane,Source2,3,38.901287,-77.926262,2018,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2536653,VA,Fauquier,Marshall,Source2,3,38.85817700000001,-77.84359,2018,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2573411,VA,Fauquier,Delaplane,Source2,3,38.895393,-77.91278100000002,2018,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-2573412,VA,Fauquier,Delaplane,Source2,3,38.895393,-77.91278100000002,2018,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-2613219,VA,Fauquier,Marshall,Source2,3,38.85817700000001,-77.84359,2018,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2619034,VA,Fauquier,Delaplane,Source2,3,38.9081,-77.965164,2018,20,Wednesday,Rain,False,False,False,False,False,False,False
+A-2623971,VA,Fauquier,Warrenton,Source2,3,38.686222,-77.787109,2018,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-2624035,VA,Fauquier,Delaplane,Source2,3,38.901199,-77.92588,2018,21,Friday,Rain,False,False,False,False,False,False,False
+A-2630379,VA,Fauquier,Markham,Source2,3,38.907394,-77.997795,2018,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2630384,VA,Fauquier,Markham,Source2,3,38.90678,-78.003197,2018,14,Tuesday,Rain,False,False,True,False,False,False,False
+A-2637996,VA,Fauquier,Markham,Source2,3,38.907394,-77.997795,2018,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-2642039,VA,Fauquier,Markham,Source2,3,38.907394,-77.997795,2018,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-2644494,VA,Fauquier,Fredericksburg,Source2,3,38.430321,-77.629288,2018,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2658595,VA,Fauquier,The Plains,Source2,3,38.849697,-77.78909300000002,2018,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2663518,VA,Fauquier,Marshall,Source2,3,38.859287,-77.867538,2018,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2663529,VA,Fauquier,Marshall,Source2,3,38.859287,-77.867538,2018,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2665893,VA,Fauquier,The Plains,Source2,3,38.85022,-77.789101,2018,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-2672325,VA,Fauquier,Marshall,Source2,3,38.871265,-77.89344799999998,2018,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2677524,VA,Fauquier,Delaplane,Source2,3,38.902653,-77.94032299999998,2018,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2677534,VA,Fauquier,The Plains,Source2,3,38.85022,-77.789101,2018,22,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2697741,VA,Fauquier,The Plains,Source2,3,38.85001,-77.789749,2018,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2707268,VA,Fauquier,Delaplane,Source2,3,38.895393,-77.91278100000002,2018,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2707269,VA,Fauquier,Delaplane,Source2,3,38.90094000000001,-77.92600999999998,2018,15,Tuesday,Cloudy,False,False,False,True,False,False,False
+A-2709436,VA,Fauquier,Warrenton,Source2,3,38.76236,-77.679764,2018,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2714186,VA,Fauquier,Broad Run,Source2,3,38.829151,-77.732101,2018,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2718080,VA,Fauquier,Marshall,Source2,3,38.857086,-77.814423,2018,7,Monday,Rain,False,False,False,False,False,False,False
+A-2718082,VA,Fauquier,The Plains,Source2,3,38.85022,-77.789101,2018,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-2718137,VA,Fauquier,The Plains,Source2,3,38.85022,-77.789101,2018,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-2718161,VA,Fauquier,Markham,Source2,3,38.907394,-77.997795,2018,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-2722868,VA,Fauquier,The Plains,Source2,3,38.85041,-77.78949,2018,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2738926,VA,Fauquier,Delaplane,Source2,3,38.901199,-77.92588,2018,8,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2763166,VA,Fauquier,Catlett,Source2,3,38.634979,-77.67600999999998,2018,16,Friday,Clear / Fair,False,True,False,True,False,False,True
+A-2767233,VA,Fauquier,Delaplane,Source2,3,38.901199,-77.92588,2018,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2771903,VA,Fauquier,Delaplane,Source2,3,38.895393,-77.91278100000002,2018,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2771905,VA,Fauquier,Delaplane,Source2,3,38.895393,-77.91278100000002,2018,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2774110,VA,Fauquier,Delaplane,Source2,3,38.901199,-77.92588,2018,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2774171,VA,Fauquier,Marshall,Source2,3,38.85817700000001,-77.84359,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2774172,VA,Fauquier,Marshall,Source2,3,38.859287,-77.867538,2018,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2785107,VA,Fauquier,Delaplane,Source2,3,38.903095,-77.94207800000002,2018,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2789771,VA,Fauquier,Markham,Source2,3,38.90741,-77.997437,2018,5,Friday,Sin dato,False,False,False,False,False,False,False
+A-2811825,VA,Fauquier,Delaplane,Source2,3,38.895393,-77.91278100000002,2018,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2836512,VA,Fauquier,Marshall,Source2,3,38.857834,-77.860275,2018,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2855022,VA,Fauquier,Marshall,Source2,3,38.868771,-77.888733,2018,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2868822,VA,Fauquier,Delaplane,Source2,3,38.895393,-77.91278100000002,2018,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-2938459,VA,Fauquier,Paris,Source2,3,39.012718,-77.960808,2018,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2955909,VA,Fauquier,Markham,Source2,3,38.907394,-77.997795,2018,10,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2998171,VA,Fauquier,The Plains,Source2,3,38.85022,-77.789101,2018,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3008222,VA,Fauquier,Warrenton,Source2,3,38.758003,-77.739487,2018,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3097099,VA,Fauquier,The Plains,Source2,3,38.85022,-77.789101,2017,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3143681,VA,Fauquier,Delaplane,Source2,3,38.895393,-77.91278100000002,2017,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3148439,VA,Fauquier,The Plains,Source2,3,38.85022,-77.789101,2017,19,Saturday,Rain,False,False,False,False,False,False,False
+A-3194524,VA,Fauquier,Delaplane,Source2,3,38.895393,-77.91278100000002,2017,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3200156,VA,Fauquier,Markham,Source2,3,38.906994,-77.998825,2017,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3204125,VA,Fauquier,Marshall,Source2,3,38.858528,-77.843971,2017,18,Friday,Sin dato,False,False,False,False,False,False,False
+A-3282528,VA,Fauquier,Delaplane,Source2,3,38.901199,-77.92588,2017,7,Saturday,Rain,False,False,False,False,False,False,False
+A-3304147,VA,Fauquier,Marshall,Source2,3,38.858852,-77.866844,2017,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3304148,VA,Fauquier,Marshall,Source2,3,38.860123,-77.870552,2017,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3314212,VA,Fauquier,Delaplane,Source2,3,38.909191,-77.972656,2017,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-3347358,VA,Fauquier,The Plains,Source2,3,38.85022,-77.789101,2017,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-3370690,VA,Fauquier,Markham,Source2,3,38.907394,-77.997795,2017,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-3448744,VA,Fauquier,The Plains,Source1,4,38.84751,-77.783286,2016,0,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3453630,VA,Fauquier,Delaplane,Source1,4,38.896532,-77.914826,2016,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3453634,VA,Fauquier,Delaplane,Source1,4,38.896555,-77.914867,2016,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3454086,VA,Fauquier,Catlett,Source1,4,38.63587,-77.67429,2016,18,Monday,Cloudy,False,False,False,True,False,False,False
+A-3454087,VA,Fauquier,Midland,Source1,4,38.61759,-77.7007,2016,18,Monday,Cloudy,False,False,False,True,False,False,False
+A-3470736,VA,Fauquier,Catlett,Source1,4,38.604985,-77.60446400000002,2016,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3473886,VA,Fauquier,Bealeton,Source1,4,38.585161,-77.80246700000002,2016,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-3473887,VA,Fauquier,Remington,Source1,4,38.53611,-77.81578,2016,10,Friday,Cloudy,True,False,False,False,False,False,False
+A-3480914,VA,Fauquier,Bealeton,Source1,3,38.578071,-77.78129200000002,2016,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3480915,VA,Fauquier,Bealeton,Source1,3,38.574423,-77.785826,2016,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3483537,VA,Fauquier,Warrenton,Source1,4,38.720635,-77.781371,2016,2,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3483539,VA,Fauquier,Warrenton,Source1,4,38.72041,-77.781362,2016,2,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3489516,VA,Fauquier,Warrenton,Source1,4,38.642308,-77.804711,2016,4,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3499782,VA,Fauquier,The Plains,Source1,3,38.856025,-77.805537,2016,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-3500084,VA,Fauquier,Warrenton,Source1,4,38.77756,-77.68191999999998,2016,15,Saturday,Cloudy,False,False,False,True,False,False,False
+A-3501088,VA,Fauquier,Broad Run,Source1,3,38.827743,-77.727886,2016,20,Tuesday,Rain,False,False,False,False,False,False,False
+A-3504694,VA,Fauquier,Warrenton,Source1,3,38.624529,-77.80059,2016,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3507421,VA,Fauquier,Bealeton,Source1,4,38.56277,-77.801063,2016,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3574376,VA,Fauquier,Bealeton,Source1,4,38.516719,-77.719216,2017,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3574377,VA,Fauquier,Bealeton,Source1,4,38.507831,-77.708704,2017,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3583567,VA,Fauquier,Marshall,Source1,4,38.86007,-77.87129,2017,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3583568,VA,Fauquier,Marshall,Source1,4,38.858324,-77.863849,2017,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3597571,VA,Fauquier,Warrenton,Source1,4,38.677165,-77.787419,2017,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3600094,VA,Fauquier,Delaplane,Source1,3,38.89411,-77.91117,2017,10,Monday,Rain,False,False,False,False,False,False,False
+A-3613282,VA,Fauquier,Catlett,Source1,4,38.669966,-77.629655,2017,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3626190,VA,Fauquier,Warrenton,Source1,3,38.766955,-77.816802,2017,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3626191,VA,Fauquier,Warrenton,Source1,3,38.757054,-77.813887,2017,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3631354,VA,Fauquier,Warrenton,Source1,3,38.761666,-77.812775,2017,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3631355,VA,Fauquier,Warrenton,Source1,3,38.764438,-77.813301,2017,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3634869,VA,Fauquier,Delaplane,Source1,4,38.90183,-77.92903000000003,2017,5,Thursday,Cloudy,False,False,True,False,False,False,False
+A-3683446,VA,Fauquier,Warrenton,Source1,4,38.607467,-77.83607099999998,2023,0,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3686885,VA,Fauquier,Warrenton,Source1,4,38.607089,-77.83715600000002,2023,0,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3688925,VA,Fauquier,Warrenton,Source1,4,38.714467,-77.797599,2023,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-3694787,VA,Fauquier,Delaplane,Source1,4,38.976166,-77.952575,2023,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3694892,VA,Fauquier,Bealeton,Source1,4,38.576074,-77.783788,2023,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3695816,VA,Fauquier,Warrenton,Source1,4,38.714318,-77.797229,2023,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-3697111,VA,Fauquier,Remington,Source1,4,38.56235,-77.801039,2023,17,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-3709889,VA,Fauquier,Warrenton,Source1,4,38.693722,-77.897873,2023,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3710126,VA,Fauquier,Bealeton,Source1,4,38.542179,-77.730478,2022,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3712100,VA,Fauquier,Marshall,Source1,4,38.864754,-77.85786,2022,15,Wednesday,Clear / Fair,False,True,False,True,False,False,False
+A-3717927,VA,Fauquier,Bealeton,Source1,4,38.569442,-77.760453,2022,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3720139,VA,Fauquier,Bealeton,Source1,4,38.586014,-77.76094,2023,16,Friday,Cloudy,True,False,False,False,False,False,False
+A-3722287,VA,Fauquier,Bealeton,Source1,4,38.569976,-77.76226,2022,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3724126,VA,Fauquier,Goldvein,Source1,4,38.443303,-77.648309,2022,13,Monday,Snow / Ice,False,False,False,True,False,False,False
+A-3742019,VA,Fauquier,Delaplane,Source1,4,38.934048,-77.933266,2022,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3745222,VA,Fauquier,Sumerduck,Source1,4,38.448303,-77.728099,2022,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3750584,VA,Fauquier,Catlett,Source1,4,38.627449,-77.66601700000002,2023,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3764205,VA,Fauquier,The Plains,Source1,4,38.913122,-77.787012,2022,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-3769241,VA,Fauquier,Warrenton,Source1,4,38.65873,-77.715515,2022,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-3772808,VA,Fauquier,Midland,Source1,4,38.625193,-77.684878,2023,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3789800,VA,Fauquier,Catlett,Source1,4,38.670196,-77.629426,2022,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3789881,VA,Fauquier,Marshall,Source1,4,38.8203,-77.863322,2022,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3790195,VA,Fauquier,The Plains,Source1,4,38.918588,-77.725645,2022,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3803055,VA,Fauquier,Warrenton,Source1,4,38.671999,-77.743741,2022,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3803352,VA,Fauquier,Warrenton,Source1,4,38.697267,-77.722438,2022,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3805861,VA,Fauquier,Bealeton,Source1,4,38.607188,-77.785646,2022,13,Monday,Rain,False,False,False,False,False,False,False
+A-3806989,VA,Fauquier,Midland,Source1,4,38.550907,-77.686788,2022,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3810778,VA,Fauquier,Warrenton,Source1,4,38.671844,-77.743661,2023,2,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3816870,VA,Fauquier,Warrenton,Source1,4,38.748529,-77.87347,2023,14,Tuesday,Rain,False,False,False,False,False,False,False
+A-3829715,VA,Fauquier,Marshall,Source1,4,38.859926,-77.846153,2022,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-3850886,VA,Fauquier,Catlett,Source1,4,38.598562,-77.57523499999998,2022,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-3854922,VA,Fauquier,Remington,Source1,4,38.55607,-77.83895799999998,2022,8,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-3858819,VA,Fauquier,Warrenton,Source1,4,38.628963,-77.8177,2022,9,Friday,Clear / Fair,True,False,False,True,False,False,False
+A-3858878,VA,Fauquier,Marshall,Source1,4,38.788854,-77.91399,2022,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3861205,VA,Fauquier,Warrenton,Source1,4,38.766244,-77.71956999999998,2023,20,Sunday,Rain,False,False,False,False,False,False,False
+A-3862993,VA,Fauquier,Bealeton,Source1,4,38.580451,-77.775346,2022,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3863415,VA,Fauquier,Marshall,Source1,4,38.712277,-77.928824,2022,18,Thursday,Storm,False,False,False,False,False,False,False
+A-3869010,VA,Fauquier,Warrenton,Source1,4,38.72395,-77.9103,2022,19,Friday,Rain,False,False,False,False,False,False,False
+A-3870666,VA,Fauquier,Warrenton,Source1,4,38.643085,-77.80515,2022,1,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3872134,VA,Fauquier,Broad Run,Source1,4,38.801145,-77.71069,2022,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3897881,VA,Fauquier,Delaplane,Source1,4,38.936463,-77.935213,2022,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3922738,VA,Fauquier,Delaplane,Source1,4,38.988423,-77.94874399999998,2022,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3927309,VA,Fauquier,Catlett,Source1,4,38.635906,-77.674275,2023,9,Saturday,Clear / Fair,False,False,False,True,False,False,False
+A-3928342,VA,Fauquier,Marshall,Source1,4,38.745225,-77.884458,2022,9,Thursday,Rain,False,False,False,False,False,False,False
+A-3931120,VA,Fauquier,Warrenton,Source1,4,38.702133,-77.807379,2022,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3932717,VA,Fauquier,Marshall,Source1,4,38.869109,-77.889325,2022,0,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3948809,VA,Fauquier,Warrenton,Source1,4,38.72831941,-77.80085206,2022,11,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-3956670,VA,Fauquier,Delaplane,Source1,4,38.894097,-77.91068299999998,2022,19,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3960151,VA,Fauquier,Bealeton,Source1,4,38.542617,-77.73078000000002,2022,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3963082,VA,Fauquier,Catlett,Source1,4,38.583386,-77.620222,2022,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3972468,VA,Fauquier,Midland,Source1,4,38.597296,-77.74759499999998,2022,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3980695,VA,Fauquier,The Plains,Source1,4,38.838143,-77.800685,2022,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3987990,VA,Fauquier,Delaplane,Source1,4,38.976166,-77.952575,2022,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3993263,VA,Fauquier,Broad Run,Source1,4,38.823102,-77.709618,2022,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3993438,VA,Fauquier,Middleburg,Source1,4,38.956879,-77.766537,2022,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4000751,VA,Fauquier,Warrenton,Source1,4,38.682567,-77.760061,2022,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4013157,VA,Fauquier,Catlett,Source1,4,38.659186,-77.637434,2022,13,Monday,Cloudy,False,False,False,True,False,False,False
+A-4023157,VA,Fauquier,Warrenton,Source1,4,38.725227,-77.69516999999998,2022,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4032226,VA,Fauquier,Midland,Source1,4,38.611206,-77.769419,2022,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-4033985,VA,Fauquier,Midland,Source1,4,38.624239,-77.745447,2022,20,Saturday,Storm,False,False,False,False,False,False,False
+A-4040089,VA,Fauquier,The Plains,Source1,4,38.781538,-77.824789,2022,3,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4064277,VA,Fauquier,Warrenton,Source1,4,38.763302,-77.68032099999998,2022,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4074365,VA,Fauquier,Catlett,Source1,4,38.587361,-77.57862,2023,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-4074674,VA,Fauquier,Delaplane,Source1,4,38.908437,-77.958984,2022,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4076330,VA,Fauquier,Delaplane,Source1,4,38.978621,-77.951397,2023,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-4093181,VA,Fauquier,Warrenton,Source1,4,38.643078,-77.804834,2022,1,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4095066,VA,Fauquier,Bealeton,Source1,4,38.59766,-77.74445300000002,2022,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4106108,VA,Fauquier,Midland,Source1,4,38.631667,-77.71859,2022,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4109357,VA,Fauquier,Bealeton,Source1,4,38.585173,-77.76243000000002,2023,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-4111153,VA,Fauquier,Warrenton,Source1,4,38.72946,-77.80189,2022,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4113748,VA,Fauquier,Warrenton,Source1,4,38.658163,-77.717233,2022,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-4120941,VA,Fauquier,Paris,Source1,4,39.00372863,-77.94813752,2023,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4125483,VA,Fauquier,Warrenton,Source1,4,38.719285,-77.81966700000002,2022,7,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4127316,VA,Fauquier,Catlett,Source1,4,38.629091,-77.668151,2023,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4145112,VA,Fauquier,Warrenton,Source1,4,38.658163,-77.717233,2022,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-4145841,VA,Fauquier,Catlett,Source1,4,38.598617,-77.57025300000002,2022,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4146325,VA,Fauquier,Warrenton,Source1,4,38.708812,-77.799575,2022,7,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-4149805,VA,Fauquier,Warrenton,Source1,4,38.649493,-77.869589,2022,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4158470,VA,Fauquier,Upperville,Source1,4,38.992896,-77.878951,2023,22,Friday,Cloudy,False,False,False,False,False,False,False
+A-4164516,VA,Fauquier,Sumerduck,Source1,4,38.459952,-77.727655,2022,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4167444,VA,Fauquier,Marshall,Source1,4,38.826155,-77.85956,2022,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4171600,VA,Fauquier,Warrenton,Source1,4,38.727556,-77.786357,2022,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-4172770,VA,Fauquier,Bealeton,Source1,4,38.599966,-77.800612,2022,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4175449,VA,Fauquier,Marshall,Source1,4,38.833647,-77.856178,2022,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4175531,VA,Fauquier,Delaplane,Source1,4,38.908437,-77.958984,2022,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-4176755,VA,Fauquier,The Plains,Source1,4,38.872544,-77.727464,2022,1,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4176936,VA,Fauquier,Warrenton,Source1,4,38.680636,-77.753196,2022,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4205089,VA,Fauquier,Broad Run,Source1,4,38.823892,-77.710451,2022,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4217546,VA,Fauquier,Remington,Source1,4,38.477152,-77.774742,2022,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4218274,VA,Fauquier,The Plains,Source1,4,38.916757,-77.728797,2022,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4219462,VA,Fauquier,Catlett,Source1,4,38.678198,-77.665605,2022,23,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4220029,VA,Fauquier,Catlett,Source1,4,38.634979,-77.676008,2023,9,Saturday,Clear / Fair,False,True,False,True,False,False,True
+A-4224553,VA,Fauquier,Hume,Source1,4,38.765119,-78.01083,2022,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4229301,VA,Fauquier,Nokesville,Source1,4,38.745672,-77.658378,2022,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4235961,VA,Fauquier,Bealeton,Source1,4,38.569267,-77.761303,2022,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4239612,VA,Fauquier,Delaplane,Source1,4,38.936681,-77.9341,2022,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4251126,VA,Fauquier,Broad Run,Source1,4,38.79975200000001,-77.711147,2022,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4260436,VA,Fauquier,Marshall,Source1,4,38.718131,-77.93859499999998,2022,18,Thursday,Storm,False,False,False,True,False,False,False
+A-4263628,VA,Fauquier,Warrenton,Source1,4,38.673111,-77.791476,2022,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4268059,VA,Fauquier,Midland,Source1,4,38.621466,-77.693309,2023,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4271315,VA,Fauquier,Warrenton,Source1,4,38.706854,-77.780225,2022,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4288363,VA,Fauquier,Midland,Source1,4,38.553044,-77.673794,2022,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4298334,VA,Fauquier,Midland,Source1,4,38.555282,-77.620221,2022,10,Friday,Rain,False,False,False,False,False,False,False
+A-4304093,VA,Fauquier,Bealeton,Source1,4,38.607188,-77.785646,2022,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4307017,VA,Fauquier,Warrenton,Source1,4,38.698332,-77.728082,2022,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4307756,VA,Fauquier,Warrenton,Source1,4,38.671999,-77.743741,2023,2,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4311684,VA,Fauquier,Warrenton,Source1,4,38.751825,-77.747855,2022,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-4312951,VA,Fauquier,Marshall,Source1,4,38.748354,-77.874504,2023,14,Tuesday,Rain,False,False,False,False,False,False,False
+A-4313355,VA,Fauquier,Catlett,Source1,4,38.542289,-77.56582399999998,2022,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4316531,VA,Fauquier,Broad Run,Source1,4,38.771763,-77.731024,2023,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4326763,VA,Fauquier,Midland,Source1,4,38.624805,-77.685404,2023,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4328172,VA,Fauquier,Warrenton,Source1,4,38.731118,-77.80206,2022,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4337182,VA,Fauquier,Warrenton,Source1,4,38.71392131,-77.78081059,2022,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-4342653,VA,Fauquier,Bealeton,Source1,4,38.581228,-77.802275,2023,10,Thursday,Cloudy,False,False,False,True,False,False,False
+A-4342654,VA,Fauquier,Bealeton,Source1,4,38.586868,-77.8023,2022,1,Sunday,Rain,False,False,False,False,False,False,False
+A-4346656,VA,Fauquier,Warrenton,Source1,4,38.73755900000001,-77.8006,2022,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-4349531,VA,Fauquier,Warrenton,Source1,4,38.70913624745032,-77.78216242753133,2022,12,Saturday,Cloudy,False,False,False,True,False,False,False
+A-4353678,VA,Fauquier,Bealeton,Source1,4,38.58003400000001,-77.77659200000002,2022,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4356100,VA,Fauquier,Warrenton,Source1,4,38.629805,-77.818667,2022,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4359490,VA,Fauquier,Bealeton,Source1,4,38.571449,-77.763847,2022,19,Wednesday,Cloudy,False,True,False,False,False,False,True
+A-4365174,VA,Fauquier,The Plains,Source1,4,38.83609600000001,-77.802621,2022,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4368222,VA,Fauquier,Bealeton,Source1,4,38.515548,-77.71826800000002,2022,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4371676,VA,Fauquier,Bealeton,Source1,4,38.490728,-77.697009,2023,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4402607,VA,Fauquier,Catlett,Source1,4,38.661672,-77.635932,2022,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-4405555,VA,Fauquier,The Plains,Source1,4,38.856107,-77.805963,2022,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4409262,VA,Fauquier,Warrenton,Source1,4,38.719285,-77.81966700000002,2022,7,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4413752,VA,Fauquier,Midland,Source1,4,38.619201,-77.75321,2022,20,Saturday,Storm,False,False,False,False,False,False,False
+A-4419282,VA,Fauquier,Delaplane,Source1,4,38.984733,-77.948926,2022,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4428513,VA,Fauquier,Markham,Source1,4,38.908797,-78.031439,2022,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4444080,VA,Fauquier,Nokesville,Source1,4,38.728785,-77.660609,2022,23,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4447386,VA,Fauquier,Bealeton,Source1,4,38.514203,-77.716957,2022,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4470530,VA,Fauquier,Bealeton,Source1,4,38.59739,-77.747129,2022,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4472699,VA,Fauquier,Marshall,Source1,4,38.866323,-77.854691,2022,15,Wednesday,Clear / Fair,True,True,False,False,False,False,False
+A-4473486,VA,Fauquier,Catlett,Source1,4,38.586965,-77.57860699999998,2023,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-4475456,VA,Fauquier,Midland,Source1,4,38.619062,-77.752983,2023,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4487441,VA,Fauquier,Bealeton,Source1,4,38.599931,-77.80076600000002,2022,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-4490254,VA,Fauquier,Midland,Source1,4,38.628055,-77.713926,2022,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4504607,VA,Fauquier,The Plains,Source1,4,38.86665,-77.818907,2022,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4510700,VA,Fauquier,Bealeton,Source1,4,38.476648,-77.680832,2022,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-4511102,VA,Fauquier,Midland,Source1,4,38.610453,-77.776262,2022,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-4516172,VA,Fauquier,Delaplane,Source1,4,38.936681,-77.9341,2022,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4519025,VA,Fauquier,Catlett,Source1,4,38.582656,-77.621818,2022,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4521929,VA,Fauquier,Catlett,Source1,4,38.72475,-77.695693,2022,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4522461,VA,Fauquier,Warrenton,Source1,4,38.683433,-77.837875,2022,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4523018,VA,Fauquier,Delaplane,Source1,4,38.934927,-77.933522,2022,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4523860,VA,Fauquier,The Plains,Source1,4,38.86665,-77.818907,2022,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4525046,VA,Fauquier,Catlett,Source1,4,38.598425,-77.570675,2022,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4525329,VA,Fauquier,Warrenton,Source1,4,38.635094,-77.676254,2022,23,Saturday,Clear / Fair,False,True,False,True,False,False,True
+A-4527585,VA,Fauquier,Bealeton,Source1,4,38.564761,-77.754122,2022,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4548634,VA,Fauquier,Warrenton,Source1,4,38.654185,-77.738504,2022,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4552636,VA,Fauquier,Marshall,Source1,4,38.86137100000001,-77.847934,2022,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-4556608,VA,Fauquier,Marshall,Source1,4,38.868782,-77.838394,2023,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4559934,VA,Fauquier,Bealeton,Source1,4,38.562755,-77.801374,2022,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4565232,VA,Fauquier,Paris,Source1,4,39.003321,-77.946954,2023,15,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-4573947,VA,Fauquier,Warrenton,Source1,4,38.648675,-77.87109,2022,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4590996,VA,Fauquier,Warrenton,Source1,4,38.722289,-77.805549,2022,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4593865,VA,Fauquier,Warrenton,Source1,4,38.757806,-77.677059,2022,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4602788,VA,Fauquier,Remington,Source1,4,38.479626,-77.776093,2022,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4608298,VA,Fauquier,Catlett,Source1,4,38.598437,-77.574843,2022,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-4613759,VA,Fauquier,Amissville,Source1,4,38.698435,-77.90502099999998,2023,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4614068,VA,Fauquier,Warrenton,Source1,4,38.700497,-77.821663,2022,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4615835,VA,Fauquier,Midland,Source1,4,38.554187,-77.671996,2022,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4617803,VA,Fauquier,Catlett,Source1,4,38.609637,-77.652334,2022,7,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4630798,VA,Fauquier,The Plains,Source1,4,38.956876,-77.744856,2022,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4636580,VA,Fauquier,Bealeton,Source1,4,38.518357,-77.71883299999998,2022,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4640152,VA,Fauquier,Marshall,Source1,4,38.825428,-77.921891,2022,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4643326,VA,Fauquier,Warrenton,Source1,4,38.708663,-77.799736,2022,7,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-4645893,VA,Fauquier,The Plains,Source1,4,38.833054,-77.819124,2023,23,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4653149,VA,Fauquier,Markham,Source1,4,38.90879988651796,-78.0314362045382,2022,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4655286,VA,Fauquier,Midland,Source1,4,38.582978,-77.76790799999998,2022,23,Monday,Fog / Low visibility,True,False,False,False,False,False,False
+A-4655417,VA,Fauquier,Catlett,Source1,4,38.678803,-77.666074,2022,23,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4666724,VA,Fauquier,The Plains,Source1,4,38.872619,-77.727762,2022,1,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4669668,VA,Fauquier,Warrenton,Source1,4,38.681482,-77.754147,2022,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4672192,VA,Fauquier,Marshall,Source1,4,38.832011,-77.857242,2022,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4673132,VA,Fauquier,Catlett,Source1,4,38.63035900000001,-77.669542,2022,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4674998,VA,Fauquier,Midland,Source1,4,38.555282,-77.620221,2022,10,Friday,Rain,False,False,False,False,False,False,False
+A-4683263,VA,Fauquier,Warrenton,Source1,4,38.720569,-77.82205,2022,7,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4683790,VA,Fauquier,Warrenton,Source1,4,38.71812701,-77.78098226,2022,21,Monday,Cloudy,False,False,True,False,False,False,False
+A-4699384,VA,Fauquier,Bealeton,Source1,4,38.591421,-77.75431999999998,2022,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4707243,VA,Fauquier,Broad Run,Source1,4,38.770312,-77.73106800000002,2023,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4707527,VA,Fauquier,Catlett,Source1,4,38.566786,-77.56804100000002,2023,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4722998,VA,Fauquier,Catlett,Source1,4,38.605449,-77.602236,2022,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4728808,VA,Fauquier,The Plains,Source1,4,38.86663,-77.817785,2022,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4736895,VA,Fauquier,Catlett,Source1,4,38.705821,-77.644216,2022,0,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4737305,VA,Fauquier,Warrenton,Source1,4,38.685707,-77.834476,2022,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4746958,VA,Fauquier,Bealeton,Source1,4,38.570855,-77.763228,2022,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4748608,VA,Fauquier,Broad Run,Source1,4,38.823892,-77.710451,2022,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4752743,VA,Fauquier,Delaplane,Source1,4,38.976897,-77.952269,2022,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4759236,VA,Fauquier,Midland,Source1,4,38.621288,-77.693761,2023,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4773226,VA,Fauquier,Broad Run,Source1,4,38.774913,-77.75336300000002,2022,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4777409,VA,Fauquier,Warrenton,Source1,4,38.750537,-77.706282,2022,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4782033,VA,Fauquier,Amissville,Source1,4,38.764729,-78.011252,2022,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4788860,VA,Fauquier,Warrenton,Source1,4,38.719591,-77.822211,2022,7,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4802630,VA,Fauquier,Catlett,Source1,4,38.703898,-77.65463000000003,2022,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4811170,VA,Fauquier,Catlett,Source1,4,38.603247,-77.603787,2022,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4819852,VA,Fauquier,Catlett,Source1,4,38.545747,-77.565566,2022,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4825423,VA,Fauquier,Midland,Source1,4,38.64917,-77.73104599999998,2022,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4834837,VA,Fauquier,Catlett,Source1,4,38.638166,-77.674419,2022,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4836173,VA,Fauquier,Broad Run,Source1,4,38.770312,-77.73106800000002,2023,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4843942,VA,Fauquier,Warrenton,Source1,4,38.731807,-77.730773,2022,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4858482,VA,Fauquier,Catlett,Source1,4,38.542289,-77.56582399999998,2023,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4858483,VA,Fauquier,Catlett,Source1,4,38.545747,-77.565566,2023,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4860378,VA,Fauquier,Bealeton,Source1,4,38.572522,-77.762522,2022,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4866938,VA,Fauquier,Warrenton,Source1,4,38.642718,-77.80459599999998,2022,1,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4872218,VA,Fauquier,The Plains,Source1,4,38.831542,-77.81173000000003,2022,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4890856,VA,Fauquier,Delaplane,Source1,4,38.892144,-77.909349,2022,18,Tuesday,Rain,False,False,False,False,False,False,False
+A-4893423,VA,Fauquier,Catlett,Source1,4,38.599768,-77.636201,2022,7,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4895227,VA,Fauquier,Remington,Source1,4,38.552894,-77.78698,2022,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4902184,VA,Fauquier,Warrenton,Source1,4,38.638213,-77.682078,2022,23,Saturday,Clear / Fair,False,True,False,False,False,False,True
+A-4906045,VA,Fauquier,Marshall,Source1,4,38.866392,-77.81899200000002,2022,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4923366,VA,Fauquier,Warrenton,Source1,4,38.728091,-77.80064300000002,2022,20,Thursday,Cloudy,False,True,False,False,False,False,False
+A-4928672,VA,Fauquier,The Plains,Source1,4,38.80862800000001,-77.81306,2022,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4929081,VA,Fauquier,Bealeton,Source1,4,38.600019,-77.800448,2023,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4931728,VA,Fauquier,Warrenton,Source1,4,38.6566078661029,-77.73911833726055,2022,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4933623,VA,Fauquier,Remington,Source1,4,38.532124,-77.809291,2022,5,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4936013,VA,Fauquier,Nokesville,Source1,4,38.728273,-77.66072199999998,2022,23,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4938944,VA,Fauquier,Catlett,Source1,4,38.686469,-77.62158000000002,2023,18,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4948233,VA,Fauquier,Midland,Source1,4,38.641468,-77.72700400000002,2022,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4973749,VA,Fauquier,Midland,Source1,4,38.619201,-77.75321,2023,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4986574,VA,Fauquier,Midland,Source1,4,38.625613,-77.717139,2022,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5007039,VA,Fauquier,The Plains,Source1,4,38.956606,-77.745025,2022,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5013892,VA,Fauquier,Warrenton,Source1,4,38.683024,-77.839507,2022,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5024888,VA,Fauquier,The Plains,Source1,4,38.916585,-77.786259,2022,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5027522,VA,Fauquier,Midland,Source1,4,38.553044,-77.673794,2022,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5029819,VA,Fauquier,Warrenton,Source1,4,38.659499,-77.71820799999998,2022,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-5031494,VA,Fauquier,Bealeton,Source1,4,38.590144,-77.755634,2022,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5035271,VA,Fauquier,The Plains,Source1,4,38.805213,-77.812559,2022,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5046496,VA,Fauquier,Midland,Source1,4,38.63077,-77.669843,2022,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5058162,VA,Fauquier,The Plains,Source1,4,38.866654,-77.819263,2022,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5068708,VA,Fauquier,Warrenton,Source1,4,38.72438,-77.910348,2022,19,Friday,Rain,False,False,False,False,False,False,False
+A-5070893,VA,Fauquier,Warrenton,Source1,4,38.777429,-77.68226,2022,12,Saturday,Cloudy,False,False,False,True,False,False,False
+A-5072500,VA,Fauquier,Warrenton,Source1,4,38.671844,-77.743661,2022,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5098935,VA,Fauquier,Warrenton,Source1,4,38.682951,-77.756906,2022,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5099276,VA,Fauquier,Warrenton,Source1,4,38.755163,-77.676187,2022,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5101173,VA,Fauquier,Marshall,Source1,4,38.864533,-77.858294,2022,15,Wednesday,Clear / Fair,False,True,False,False,False,False,False
+A-5104439,VA,Fauquier,Marshall,Source1,4,38.868337,-77.83912099999998,2023,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5108672,VA,Fauquier,Warrenton,Source1,4,38.700434,-77.824908,2022,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5126487,VA,Fauquier,Warrenton,Source1,4,38.724151,-77.790405,2022,22,Monday,Cloudy,True,False,False,False,False,False,False
+A-5129007,VA,Fauquier,Marshall,Source1,4,38.745298,-77.884152,2022,9,Thursday,Rain,False,False,False,False,False,False,False
+A-5131601,VA,Fauquier,Warrenton,Source1,4,38.766523,-77.815842,2022,21,Saturday,Clear / Fair,False,False,False,True,False,False,False
+A-5138231,VA,Fauquier,Warrenton,Source1,4,38.643078,-77.804834,2022,1,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5143217,VA,Fauquier,Fredericksburg,Source1,4,38.433974,-77.635464,2022,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5149796,VA,Fauquier,Broad Run,Source1,4,38.775075,-77.76091,2022,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5150567,VA,Fauquier,Delaplane,Source1,4,38.936463,-77.935213,2022,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5154046,VA,Fauquier,Marshall,Source1,4,38.71681,-77.937556,2022,18,Thursday,Storm,False,False,False,False,False,False,False
+A-5157571,VA,Fauquier,Delaplane,Source1,4,38.936681,-77.9341,2022,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5160458,VA,Fauquier,Delaplane,Source1,4,38.901106,-77.925529,2022,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5205237,VA,Fauquier,Warrenton,Source1,4,38.654422,-77.738568,2022,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5215750,VA,Fauquier,Catlett,Source1,4,38.604409,-77.604173,2022,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5223205,VA,Fauquier,Warrenton,Source1,4,38.731547,-77.72884499999998,2022,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5228473,VA,Fauquier,Catlett,Source1,4,38.610401,-77.652728,2022,7,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-5235177,VA,Fauquier,Remington,Source1,4,38.555943,-77.837873,2022,8,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-5243454,VA,Fauquier,Marshall,Source1,4,38.711956,-77.927746,2022,18,Thursday,Storm,False,False,False,False,False,False,False
+A-5248855,VA,Fauquier,The Plains,Source1,4,38.831375,-77.811959,2022,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5251923,VA,Fauquier,Middleburg,Source1,4,38.957463,-77.766139,2022,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5263774,VA,Fauquier,Catlett,Source1,4,38.660192,-77.63672,2022,4,Saturday,Clear / Fair,False,False,False,True,False,False,False
+A-5267593,VA,Fauquier,Catlett,Source1,4,38.604856,-77.643671,2022,7,Tuesday,Fog / Low visibility,False,False,False,True,False,False,False
+A-5275961,VA,Fauquier,Remington,Source1,4,38.552731,-77.787136,2022,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5276310,VA,Fauquier,Warrenton,Source1,4,38.762356,-77.679801,2022,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5276787,VA,Fauquier,Warrenton,Source1,4,38.749133,-77.707267,2022,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5284228,VA,Fauquier,Catlett,Source1,4,38.666486,-77.633051,2022,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5287599,VA,Fauquier,Marshall,Source1,4,38.866642,-77.818461,2022,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5292482,VA,Fauquier,The Plains,Source1,4,38.863484,-77.771711,2022,13,Wednesday,Cloudy,False,True,False,False,False,False,True
+A-5295451,VA,Fauquier,Catlett,Source1,4,38.705663,-77.648067,2022,0,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5305723,VA,Fauquier,Marshall,Source1,4,38.860614,-77.847162,2022,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-5310313,VA,Fauquier,Warrenton,Source1,4,38.702511,-77.806776,2022,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5310338,VA,Fauquier,Midland,Source1,4,38.628055,-77.713926,2022,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5310433,VA,Fauquier,Catlett,Source1,4,38.540482,-77.56681800000001,2023,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5310434,VA,Fauquier,Catlett,Source1,4,38.540482,-77.56681800000001,2023,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5327509,VA,Fauquier,Broad Run,Source1,4,38.76981,-77.733451,2023,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5327569,VA,Fauquier,Bealeton,Source1,4,38.562521,-77.80105,2022,17,Friday,Cloudy,True,False,False,False,False,False,False
+A-5338001,VA,Fauquier,Midland,Source1,4,38.590023,-77.727052,2022,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5341929,VA,Fauquier,Warrenton,Source1,4,38.75653300000001,-77.675983,2022,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5348238,VA,Fauquier,Warrenton,Source1,4,38.643078,-77.804834,2022,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5353231,VA,Fauquier,Bealeton,Source1,4,38.597851,-77.74233199999998,2022,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5359741,VA,Fauquier,Sumerduck,Source1,4,38.491159,-77.697035,2023,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5360229,VA,Fauquier,Sumerduck,Source1,4,38.452044,-77.7249,2022,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5366709,VA,Fauquier,Catlett,Source1,4,38.604409,-77.604173,2022,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5380549,VA,Fauquier,Warrenton,Source1,4,38.729331,-77.801648,2022,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5388182,VA,Fauquier,Catlett,Source1,4,38.635906,-77.674275,2022,19,Saturday,Clear / Fair,False,False,False,True,False,False,False
+A-5392466,VA,Fauquier,Marshall,Source1,4,38.788863,-77.914294,2022,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5394130,VA,Fauquier,Bealeton,Source1,4,38.47332700000001,-77.680479,2022,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-5395917,VA,Fauquier,Bealeton,Source1,4,38.57971,-77.7776,2022,20,Friday,Rain,False,False,False,False,False,False,False
+A-5399735,VA,Fauquier,Bealeton,Source1,4,38.54264000000001,-77.73056899999997,2022,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5409916,VA,Fauquier,Catlett,Source1,4,38.703267,-77.65704699999998,2022,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5428243,VA,Fauquier,Catlett,Source1,4,38.580371,-77.62614,2022,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5428763,VA,Fauquier,Upperville,Source1,4,38.992331,-77.876677,2023,22,Friday,Cloudy,False,False,False,False,False,False,False
+A-5428820,VA,Fauquier,Sumerduck,Source1,4,38.457771,-77.726941,2022,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5431669,VA,Fauquier,Nokesville,Source1,4,38.745769,-77.65795899999998,2022,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5445889,VA,Fauquier,Midland,Source1,4,38.58197,-77.726848,2022,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5460907,VA,Fauquier,Bealeton,Source1,4,38.60221266728113,-77.77823567353354,2022,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5477162,VA,Fauquier,Warrenton,Source1,4,38.724923,-77.893029,2021,0,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5477565,VA,Fauquier,Goldvein,Source1,4,38.450297,-77.649876,2021,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5488352,VA,Fauquier,Nokesville,Source1,4,38.737402,-77.68196999999998,2021,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5490647,VA,Fauquier,Middleburg,Source1,4,38.937294,-77.779059,2021,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5501445,VA,Fauquier,Warrenton,Source1,4,38.715856,-77.815218,2021,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5510612,VA,Fauquier,Warrenton,Source1,4,38.702133,-77.807379,2021,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5512469,VA,Fauquier,Markham,Source1,4,38.869522,-77.991596,2021,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5516817,VA,Fauquier,The Plains,Source1,4,38.887785,-77.801333,2021,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5529140,VA,Fauquier,Marshall,Source1,4,38.857367,-77.842396,2021,11,Saturday,Cloudy,False,False,False,True,False,False,False
+A-5530021,VA,Fauquier,Warrenton,Source1,4,38.700715,-77.775544,2021,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5530022,VA,Fauquier,Warrenton,Source1,4,38.699142,-77.775515,2021,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5537362,VA,Fauquier,Warrenton,Source1,4,38.629502,-77.81832299999998,2021,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5540010,VA,Fauquier,Catlett,Source1,4,38.676738,-77.626737,2021,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5545165,VA,Fauquier,Bealeton,Source1,4,38.583431,-77.766712,2021,19,Thursday,Rain,False,False,False,False,False,False,False
+A-5549059,VA,Fauquier,Catlett,Source1,4,38.634174,-77.62217,2021,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-5549393,VA,Fauquier,Bealeton,Source1,4,38.545823,-77.72456899999997,2021,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-5551960,VA,Fauquier,Bealeton,Source1,4,38.575749,-77.781421,2021,0,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5569885,VA,Fauquier,Marshall,Source1,4,38.719265,-77.938699,2021,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5572054,VA,Fauquier,The Plains,Source1,4,38.829072,-77.816237,2021,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5573858,VA,Fauquier,Bealeton,Source1,4,38.562521,-77.80105,2021,15,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-5574381,VA,Fauquier,Midland,Source1,4,38.52738976460205,-77.56327271424502,2021,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5578113,VA,Fauquier,Warrenton,Source1,4,38.657488,-77.71676,2021,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5579311,VA,Fauquier,Marshall,Source1,4,38.801429,-77.92769100000002,2021,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5590479,VA,Fauquier,Marshall,Source1,4,38.79616,-77.94351400000002,2021,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5602654,VA,Fauquier,Catlett,Source1,4,38.650975,-77.645613,2021,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5606056,VA,Fauquier,Catlett,Source1,4,38.709243,-77.68476,2021,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5611889,VA,Fauquier,Warrenton,Source1,4,38.636126,-77.825799,2021,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5635049,VA,Fauquier,The Plains,Source1,4,38.847282,-77.768867,2021,17,Wednesday,Rain,False,False,False,False,False,False,False
+A-5646884,VA,Fauquier,Warrenton,Source1,4,38.709322,-77.77852,2021,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5650705,VA,Fauquier,Marshall,Source1,4,38.95596,-77.816686,2021,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5669554,VA,Fauquier,Warrenton,Source1,4,38.646228,-77.864388,2021,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5671582,VA,Fauquier,Warrenton,Source1,4,38.734394,-77.68520600000002,2021,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5677176,VA,Fauquier,Warrenton,Source1,4,38.696112,-77.899506,2021,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5687346,VA,Fauquier,Warrenton,Source1,4,38.602977,-77.833329,2021,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5692158,VA,Fauquier,Linden,Source1,4,38.931178,-78.06105699999998,2021,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5692590,VA,Fauquier,Warrenton,Source1,4,38.633183,-77.847825,2021,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5702597,VA,Fauquier,Delaplane,Source1,4,38.908342,-77.970632,2021,14,Tuesday,Rain,False,False,False,False,False,False,False
+A-5714506,VA,Fauquier,Warrenton,Source1,4,38.700434,-77.824908,2021,17,Thursday,Storm,False,False,False,False,False,False,False
+A-5717902,VA,Fauquier,Warrenton,Source1,4,38.733859,-77.76353399999998,2021,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5721172,VA,Fauquier,Warrenton,Source1,4,38.724633,-77.90086600000002,2021,0,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5733366,VA,Fauquier,Markham,Source1,4,38.86922,-77.994897,2021,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5734195,VA,Fauquier,Sumerduck,Source1,4,38.456159,-77.662724,2021,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5752002,VA,Fauquier,Broad Run,Source1,4,38.820474,-77.732795,2021,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5757385,VA,Fauquier,Remington,Source1,4,38.479626,-77.776093,2021,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-5759847,VA,Fauquier,Warrenton,Source1,4,38.734485,-77.770973,2021,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5766865,VA,Fauquier,Marshall,Source1,4,38.85931849461145,-77.84526944123341,2021,14,Friday,Cloudy,False,False,False,True,False,False,False
+A-5770878,VA,Fauquier,Warrenton,Source1,4,38.654185,-77.738504,2021,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5777193,VA,Fauquier,Remington,Source1,4,38.539783,-77.77797199999998,2021,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5781197,VA,Fauquier,Catlett,Source1,4,38.655472,-77.64129,2021,12,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-5783826,VA,Fauquier,Midland,Source1,4,38.601522,-77.717025,2021,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5786557,VA,Fauquier,The Plains,Source1,4,38.829094,-77.81602099999998,2021,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5817731,VA,Fauquier,The Plains,Source1,4,38.848643,-77.758241,2021,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5820680,VA,Fauquier,The Plains,Source1,4,38.844287,-77.749928,2021,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5837500,VA,Fauquier,Catlett,Source1,4,38.686469,-77.62158000000002,2021,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5839575,VA,Fauquier,Warrenton,Source1,4,38.734334,-77.820899,2021,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5845143,VA,Fauquier,Midland,Source1,4,38.547915,-77.713296,2021,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5866052,VA,Fauquier,Warrenton,Source1,4,38.698604,-77.77550600000002,2021,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5866504,VA,Fauquier,Warrenton,Source1,4,38.73341,-77.743791,2021,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5871940,VA,Fauquier,Warrenton,Source1,4,38.693722,-77.897873,2021,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5876481,VA,Fauquier,Warrenton,Source1,4,38.677529,-77.78747800000002,2021,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5878469,VA,Fauquier,Delaplane,Source1,4,38.89257788639596,-77.91125178299944,2021,0,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5885898,VA,Fauquier,Warrenton,Source1,4,38.734394,-77.68520600000002,2021,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5889677,VA,Fauquier,Delaplane,Source1,4,38.907197,-77.918305,2021,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5898127,VA,Fauquier,Midland,Source1,4,38.527393,-77.563275,2021,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5952826,VA,Fauquier,Midland,Source1,4,38.549692,-77.697896,2021,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5966291,VA,Fauquier,Warrenton,Source1,4,38.73463,-77.764511,2021,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5969183,VA,Fauquier,Warrenton,Source1,4,38.639369,-77.85030400000002,2021,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5971229,VA,Fauquier,Midland,Source1,4,38.598306,-77.713554,2021,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5988572,VA,Fauquier,Warrenton,Source1,4,38.69926,-77.770802,2021,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5991990,VA,Fauquier,Broad Run,Source1,4,38.820728,-77.733758,2021,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5992974,VA,Fauquier,The Plains,Source1,4,38.947971,-77.74328299999998,2021,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5994714,VA,Fauquier,Marshall,Source1,4,38.727893,-77.945688,2021,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-6001598,VA,Fauquier,Warrenton,Source1,4,38.759914,-77.736671,2021,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6003804,VA,Fauquier,Catlett,Source1,4,38.715307,-77.70132199999998,2021,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6005557,VA,Fauquier,Remington,Source1,4,38.548817,-77.815335,2021,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6006711,VA,Fauquier,Goldvein,Source1,4,38.456013,-77.66294599999998,2021,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6008055,VA,Fauquier,Warrenton,Source1,4,38.702511,-77.806776,2021,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6008923,VA,Fauquier,Marshall,Source1,4,38.718131,-77.93859499999998,2021,9,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-6019797,VA,Fauquier,Bealeton,Source1,4,38.547232,-77.71985500000002,2021,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-6028766,VA,Fauquier,Warrenton,Source1,4,38.683116,-77.846262,2021,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6031149,VA,Fauquier,Marshall,Source1,4,38.718131,-77.93859499999998,2021,9,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-6033850,VA,Fauquier,Remington,Source1,4,38.47756500000001,-77.78033,2021,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-6037768,VA,Fauquier,Bealeton,Source1,4,38.619955,-77.7985,2021,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6047424,VA,Fauquier,Warrenton,Source1,4,38.735202,-77.75133000000002,2021,0,Tuesday,Rain,False,False,False,False,False,False,False
+A-6050123,VA,Fauquier,Delaplane,Source1,4,38.90233900000001,-77.936706,2021,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6050684,VA,Fauquier,Warrenton,Source1,4,38.730113,-77.811278,2021,11,Wednesday,Clear / Fair,False,True,False,False,False,False,False
+A-6050858,VA,Fauquier,Marshall,Source1,4,38.95437800000001,-77.817187,2021,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-6054697,VA,Fauquier,Remington,Source1,4,38.539201,-77.778992,2021,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6057242,VA,Fauquier,Warrenton,Source1,4,38.733077,-77.819773,2021,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6061485,VA,Fauquier,The Plains,Source1,4,38.848643,-77.758241,2021,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6062308,VA,Fauquier,Midland,Source1,4,38.617574,-77.700698,2021,17,Wednesday,Fog / Low visibility,False,False,False,True,False,False,False
+A-6085986,VA,Fauquier,Midland,Source1,4,38.52831,-77.564097,2021,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6092075,VA,Fauquier,Markham,Source1,4,38.907804,-77.986811,2021,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6093163,VA,Fauquier,Bealeton,Source1,4,38.547922,-77.715949,2021,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6097022,VA,Fauquier,Marshall,Source1,4,38.770583,-77.901964,2021,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6097810,VA,Fauquier,Warrenton,Source1,4,38.695513,-77.75931800000002,2021,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6110560,VA,Fauquier,Middleburg,Source1,4,38.938125,-77.778497,2021,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6117132,VA,Fauquier,Delaplane,Source1,4,38.89824271183539,-77.91798949204484,2021,8,Friday,Rain,False,False,False,False,False,False,False
+A-6120589,VA,Fauquier,Broad Run,Source1,4,38.829885,-77.733334,2021,2,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6138559,VA,Fauquier,Catlett,Source1,4,38.678868,-77.625675,2021,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6138560,VA,Fauquier,Catlett,Source1,4,38.686469,-77.62158000000002,2021,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-6147210,VA,Fauquier,Warrenton,Source1,4,38.695016,-77.788191,2021,21,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-6147494,VA,Fauquier,The Plains,Source1,4,38.888069,-77.80121,2021,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6163389,VA,Fauquier,Goldvein,Source1,4,38.45132,-77.649869,2021,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6167811,VA,Fauquier,Warrenton,Source1,4,38.628963,-77.8177,2021,13,Friday,Clear / Fair,True,False,False,True,False,False,False
+A-6170210,VA,Fauquier,Warrenton,Source1,4,38.68403077107104,-77.78739809952837,2021,20,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-6178950,VA,Fauquier,Bealeton,Source1,4,38.515548,-77.71826800000002,2021,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6184141,VA,Fauquier,Catlett,Source1,4,38.650975,-77.645613,2021,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6188482,VA,Fauquier,Marshall,Source1,4,38.729978,-77.947275,2021,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-6193083,VA,Fauquier,Bealeton,Source1,4,38.550807,-77.816019,2021,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6201212,VA,Fauquier,Bealeton,Source1,4,38.562729,-77.800763,2021,15,Wednesday,Clear / Fair,False,False,False,True,False,False,False
+A-6202389,VA,Fauquier,The Plains,Source1,4,38.82801175098977,-77.81591534577457,2021,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6208322,VA,Fauquier,Warrenton,Source1,4,38.657212,-77.71624399999997,2021,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6211037,VA,Fauquier,Delaplane,Source1,4,38.89380097370675,-77.91086554490131,2021,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6216096,VA,Fauquier,The Plains,Source1,4,38.847142,-77.76213100000002,2021,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6216702,VA,Fauquier,Marshall,Source1,4,38.798417,-77.941466,2021,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6221066,VA,Fauquier,Warrenton,Source1,4,38.703597,-77.87439599999998,2021,20,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6224327,VA,Fauquier,Broad Run,Source1,4,38.778557,-77.73585200000002,2021,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6235020,VA,Fauquier,Marshall,Source1,4,38.718695,-77.944649,2021,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6236115,VA,Fauquier,Bealeton,Source1,4,38.562912,-77.800536,2021,7,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-6237905,VA,Fauquier,Stafford,Source1,4,38.52693915348755,-77.56380915604801,2021,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6239244,VA,Fauquier,Warrenton,Source1,4,38.695326,-77.754582,2021,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6240600,VA,Fauquier,Warrenton,Source1,4,38.716252,-77.813926,2021,20,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-6248344,VA,Fauquier,Catlett,Source1,4,38.714875,-77.70083000000002,2021,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6249025,VA,Fauquier,Midland,Source1,4,38.617942,-77.701172,2021,17,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6267941,VA,Fauquier,Warrenton,Source1,4,38.76068400000001,-77.73658499999998,2021,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6270603,VA,Fauquier,Middleburg,Source1,4,38.943298,-77.741692,2021,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-6276334,VA,Fauquier,Warrenton,Source1,4,38.68301500000001,-77.84657299999998,2021,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6285105,VA,Fauquier,Bealeton,Source1,4,38.602569,-77.832392,2021,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6285893,VA,Fauquier,Marshall,Source1,4,38.767467,-77.89927800000002,2021,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6291824,VA,Fauquier,Catlett,Source1,4,38.707949,-77.680403,2021,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6292222,VA,Fauquier,Warrenton,Source1,4,38.733987,-77.751719,2021,0,Tuesday,Rain,False,False,False,False,False,False,False
+A-6293859,VA,Fauquier,Warrenton,Source1,4,38.69403004627851,-77.78851389847854,2021,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6295215,VA,Fauquier,Catlett,Source1,4,38.556784,-77.620643,2021,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6297099,VA,Fauquier,Warrenton,Source1,4,38.645455,-77.862768,2021,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6298296,VA,Fauquier,Marshall,Source1,4,38.953395,-77.817633,2021,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6326169,VA,Fauquier,Warrenton,Source1,4,38.694565,-77.754655,2021,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6327658,VA,Fauquier,Warrenton,Source1,4,38.728132,-77.813695,2021,11,Wednesday,Clear / Fair,False,True,False,True,False,False,False
+A-6339620,VA,Fauquier,Marshall,Source1,4,38.714387,-77.932294,2021,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6356833,VA,Fauquier,Midland,Source1,4,38.606202,-77.716932,2021,1,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6373180,VA,Fauquier,Delaplane,Source1,4,38.907693,-77.89878399999998,2021,1,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6381184,VA,Fauquier,Midland,Source1,4,38.607792,-77.714844,2021,1,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6381845,VA,Fauquier,Bealeton,Source1,4,38.476648,-77.680832,2021,3,Monday,Cloudy,False,False,False,False,False,False,False
+A-6393729,VA,Fauquier,Midland,Source1,4,38.541863,-77.658245,2021,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6403891,VA,Fauquier,Marshall,Source1,4,38.712277,-77.928824,2021,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6408852,VA,Fauquier,Broad Run,Source1,4,38.815417,-77.753281,2021,2,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6415601,VA,Fauquier,Midland,Source1,4,38.527334,-77.671927,2021,1,Tuesday,Rain,False,False,False,False,False,False,False
+A-6417669,VA,Fauquier,Warrenton,Source1,4,38.698332,-77.728082,2021,2,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6425077,VA,Fauquier,Broad Run,Source1,4,38.814941,-77.753641,2021,2,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6430445,VA,Fauquier,Broad Run,Source1,4,38.824767,-77.72930699999998,2021,3,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-6435508,VA,Fauquier,The Plains,Source1,4,38.85781400000001,-77.779782,2021,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-6443054,VA,Fauquier,Catlett,Source1,4,38.67931,-77.668205,2021,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6451233,VA,Fauquier,Delaplane,Source1,4,38.89689,-77.915521,2021,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6466478,VA,Fauquier,Midland,Source1,4,38.542311,-77.659267,2021,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6473104,VA,Fauquier,The Plains,Source1,4,38.858471,-77.779016,2021,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-6473774,VA,Fauquier,Catlett,Source1,4,38.599768,-77.636201,2021,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6482598,VA,Fauquier,Catlett,Source1,4,38.604856,-77.643671,2021,22,Sunday,Clear / Fair,False,False,False,True,False,False,False
+A-6502641,VA,Fauquier,Midland,Source1,4,38.555048,-77.67088199999998,2021,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6514123,VA,Fauquier,Hume,Source1,4,38.81832100000001,-78.002012,2021,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6531572,VA,Fauquier,Catlett,Source1,4,38.679097,-77.668299,2021,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6535461,VA,Fauquier,Hume,Source1,4,38.817996,-78.002416,2021,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6545369,VA,Fauquier,Upperville,Source1,4,38.94925300000001,-77.889552,2021,0,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6551349,VA,Fauquier,Warrenton,Source1,4,38.697267,-77.722438,2021,2,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6555855,VA,Fauquier,Upperville,Source1,4,38.94635,-77.881224,2021,0,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6560798,VA,Fauquier,Delaplane,Source1,4,38.905893,-77.901372,2021,1,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6599781,VA,Fauquier,Remington,Source1,4,38.536211,-77.815978,2020,11,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-6609394,VA,Fauquier,Warrenton,Source1,4,38.654555,-77.800675,2020,3,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6610240,VA,Fauquier,Warrenton,Source1,4,38.682567,-77.760061,2020,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6615510,VA,Fauquier,Catlett,Source1,4,38.584153,-77.609402,2020,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6626505,VA,Fauquier,Remington,Source1,4,38.531401,-77.818584,2020,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6628233,VA,Fauquier,Catlett,Source1,4,38.582656,-77.621818,2020,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6648093,VA,Fauquier,Marshall,Source1,4,38.805538,-77.934712,2020,2,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6655093,VA,Fauquier,Marshall,Source1,4,38.827033,-77.95522199999998,2020,0,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6664603,VA,Fauquier,Warrenton,Source1,4,38.68873,-77.786496,2020,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6666668,VA,Fauquier,Warrenton,Source1,4,38.72158,-77.87520699999997,2020,4,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6666892,VA,Fauquier,Marshall,Source1,4,38.82757,-77.95299399999998,2020,0,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6667560,VA,Fauquier,Warrenton,Source1,4,38.683024,-77.839507,2020,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6679885,VA,Fauquier,Warrenton,Source1,4,38.683433,-77.837875,2020,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6681544,VA,Fauquier,Warrenton,Source1,4,38.717911,-77.872967,2020,4,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6685557,VA,Fauquier,Marshall,Source1,4,38.801429,-77.92769100000002,2020,2,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6704978,VA,Fauquier,Remington,Source1,4,38.555943,-77.837873,2020,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-6709414,VA,Fauquier,Broad Run,Source1,4,38.829885,-77.733334,2020,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6710562,VA,Fauquier,Bealeton,Source1,4,38.569065,-77.759896,2020,7,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6721530,VA,Fauquier,Catlett,Source1,4,38.583386,-77.620222,2020,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6725913,VA,Fauquier,Warrenton,Source1,4,38.682951,-77.756906,2020,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6740015,VA,Fauquier,Warrenton,Source1,4,38.70333400000001,-77.87423199999998,2020,1,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6747357,VA,Fauquier,Catlett,Source1,4,38.584273,-77.60923100000002,2020,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6757199,VA,Fauquier,Catlett,Source1,4,38.572955,-77.56734200000002,2020,2,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6761940,VA,Fauquier,Goldvein,Source1,4,38.456013,-77.66294599999998,2020,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-6764093,VA,Fauquier,Bealeton,Source1,4,38.499915,-77.691873,2020,2,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6765051,VA,Fauquier,Remington,Source1,4,38.55607,-77.83895799999998,2020,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-6793026,VA,Fauquier,Markham,Source1,4,38.906942,-78.007056,2020,20,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-6796157,VA,Fauquier,Warrenton,Source1,4,38.73415900000001,-77.753918,2020,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6804354,VA,Fauquier,Marshall,Source1,4,38.86215,-77.876704,2020,23,Monday,Rain,False,False,False,False,False,False,False
+A-6814530,VA,Fauquier,Warrenton,Source1,4,38.704136,-77.792721,2020,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6816885,VA,Fauquier,Catlett,Source1,4,38.571148,-77.566233,2020,2,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6878448,VA,Fauquier,Warrenton,Source1,4,38.68873,-77.786496,2020,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6917324,VA,Fauquier,Markham,Source1,4,38.906942,-78.007056,2020,20,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-6979114,VA,Fauquier,Warrenton,Source1,3,38.75794000000001,-77.73944,2020,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-6979120,VA,Fauquier,Warrenton,Source1,3,38.75794000000001,-77.73944,2020,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-6979139,VA,Fauquier,Warrenton,Source1,3,38.75794000000001,-77.73944,2020,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-6995548,VA,Fauquier,Marshall,Source1,4,38.85689,-77.84206999999998,2020,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7016570,VA,Fauquier,Catlett,Source1,4,38.6702,-77.62946,2020,22,Friday,Rain,False,False,False,False,False,False,False
+A-7016572,VA,Fauquier,Catlett,Source1,4,38.63587,-77.67429,2020,22,Friday,Rain,False,False,False,True,False,False,False
+A-7018806,VA,Fauquier,Bealeton,Source1,3,38.62083,-77.8005,2020,13,Saturday,Cloudy,True,False,False,False,False,False,False
+A-7018807,VA,Fauquier,Bealeton,Source1,3,38.62089,-77.80072,2020,13,Saturday,Cloudy,True,False,False,False,True,False,False
+A-7018812,VA,Fauquier,Bealeton,Source1,3,38.6209,-77.8005,2020,13,Saturday,Cloudy,True,False,False,False,False,False,False
+A-7018813,VA,Fauquier,Bealeton,Source1,3,38.62089,-77.80072,2020,13,Saturday,Cloudy,True,False,False,False,True,False,False
+A-7045175,VA,Fauquier,The Plains,Source1,3,38.84884,-77.7861,2020,18,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7056983,VA,Fauquier,Delaplane,Source1,3,38.90119,-77.92586,2020,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7056997,VA,Fauquier,Delaplane,Source1,3,38.90119,-77.92586,2020,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7057404,VA,Fauquier,Catlett,Source1,3,38.63587,-77.67429,2020,19,Thursday,Clear / Fair,False,False,False,True,False,False,False
+A-7057408,VA,Fauquier,Catlett,Source1,3,38.63587,-77.67429,2020,19,Thursday,Clear / Fair,False,False,False,True,False,False,False
+A-7080027,VA,Fauquier,Delaplane,Source1,3,38.90135,-77.92577,2020,16,Thursday,Clear / Fair,False,False,False,True,False,False,False
+A-7085524,VA,Fauquier,Marshall,Source1,3,38.85877,-77.83896,2020,0,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7086843,VA,Fauquier,Marshall,Source1,3,38.85877,-77.83896,2020,0,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7096611,VA,Fauquier,Catlett,Source1,4,38.6702,-77.62946,2020,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7096622,VA,Fauquier,Catlett,Source1,4,38.6702,-77.62946,2020,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7096639,VA,Fauquier,Catlett,Source1,4,38.6702,-77.62946,2020,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7125133,VA,Fauquier,Midland,Source1,4,38.6041,-77.72015,2020,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7125135,VA,Fauquier,Bealeton,Source1,4,38.58599,-77.76095,2020,16,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7125176,VA,Fauquier,Bealeton,Source1,4,38.58599,-77.76095,2020,16,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7125179,VA,Fauquier,Midland,Source1,4,38.6041,-77.72015,2020,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7125208,VA,Fauquier,Bealeton,Source1,4,38.58599,-77.76095,2020,18,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7125209,VA,Fauquier,Midland,Source1,4,38.6041,-77.72015,2020,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7125213,VA,Fauquier,Midland,Source1,4,38.6041,-77.72015,2020,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7125215,VA,Fauquier,Bealeton,Source1,4,38.58599,-77.76095,2020,17,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7125248,VA,Fauquier,Midland,Source1,4,38.6041,-77.72015,2020,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7125249,VA,Fauquier,Bealeton,Source1,4,38.58599,-77.76095,2020,18,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7125283,VA,Fauquier,Midland,Source1,4,38.6041,-77.72015,2020,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7125284,VA,Fauquier,Bealeton,Source1,4,38.58599,-77.76095,2020,18,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7125311,VA,Fauquier,Midland,Source1,4,38.6041,-77.72015,2020,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7125312,VA,Fauquier,Bealeton,Source1,4,38.58599,-77.76095,2020,19,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7125320,VA,Fauquier,Bealeton,Source1,4,38.58599,-77.76095,2020,19,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7125321,VA,Fauquier,Midland,Source1,4,38.6041,-77.72015,2020,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7125336,VA,Fauquier,Bealeton,Source1,4,38.58599,-77.76095,2020,21,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7125338,VA,Fauquier,Midland,Source1,4,38.6041,-77.72015,2020,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7125370,VA,Fauquier,Bealeton,Source1,4,38.58599,-77.76095,2020,21,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7125371,VA,Fauquier,Midland,Source1,4,38.6041,-77.72015,2020,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7135965,VA,Fauquier,Warrenton,Source1,4,38.76633,-77.71698,2020,17,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-7135969,VA,Fauquier,Warrenton,Source1,4,38.76633,-77.71698,2020,17,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-7135980,VA,Fauquier,Warrenton,Source1,4,38.76633,-77.71698,2020,17,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-7135985,VA,Fauquier,Warrenton,Source1,4,38.76633,-77.71698,2020,17,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-7141899,VA,Fauquier,Warrenton,Source1,4,38.65281,-77.80149,2020,12,Saturday,Cloudy,False,False,True,False,False,False,False
+A-7141921,VA,Fauquier,Marshall,Source1,3,38.85876,-77.83906,2020,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7141924,VA,Fauquier,Marshall,Source1,3,38.85877,-77.83896,2020,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7148568,VA,Fauquier,Delaplane,Source1,4,38.91502,-77.922,2020,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7148569,VA,Fauquier,Delaplane,Source1,4,38.91502,-77.922,2020,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7188603,VA,Fauquier,Warrenton,Source1,4,38.793,-77.82,2020,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7188604,VA,Fauquier,Warrenton,Source1,4,38.793,-77.82,2020,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7188610,VA,Fauquier,Warrenton,Source1,3,38.793,-77.82,2020,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7188612,VA,Fauquier,Warrenton,Source1,3,38.793,-77.82,2020,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7188615,VA,Fauquier,Warrenton,Source1,3,38.793,-77.82,2020,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7198614,VA,Fauquier,Marshall,Source1,3,38.85833,-77.8402,2020,10,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7198616,VA,Fauquier,Marshall,Source1,3,38.85837,-77.83895,2020,10,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7204222,VA,Fauquier,Warrenton,Source1,4,38.76633,-77.71698,2020,12,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-7224632,VA,Fauquier,Paris,Source1,4,39.003343,-77.94694399999999,2020,18,Thursday,Cloudy,True,False,False,False,False,False,False
+A-7276279,VA,Fauquier,Catlett,Source1,4,38.63587,-77.67429,2020,0,Thursday,Rain,False,False,False,True,False,False,False
+A-7276280,VA,Fauquier,Catlett,Source1,4,38.63495,-77.67602,2020,0,Thursday,Rain,False,True,False,True,False,False,True
+A-7281334,VA,Fauquier,Upperville,Source1,4,38.98971,-77.86698,2020,3,Friday,Rain,False,False,False,False,False,False,False
+A-7281335,VA,Fauquier,Upperville,Source1,4,38.9894,-77.86584,2020,3,Friday,Rain,False,False,False,False,False,False,False
+A-7307224,VA,Fauquier,Bealeton,Source1,4,38.4766,-77.68084,2019,15,Tuesday,Rain,False,False,False,False,False,False,False
+A-7307225,VA,Fauquier,Goldvein,Source1,4,38.45626,-77.66258,2019,15,Tuesday,Rain,False,False,False,False,False,False,False
+A-7374057,VA,Fauquier,Middleburg,Source1,4,38.96977,-77.77783000000002,2019,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-7374061,VA,Fauquier,Catlett,Source1,4,38.63832,-77.66657,2019,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-7374062,VA,Fauquier,Catlett,Source1,4,38.63596,-77.67407,2019,13,Friday,Cloudy,False,False,False,True,False,False,False
+A-7374063,VA,Fauquier,Catlett,Source1,4,38.63832,-77.66657,2019,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-7378642,VA,Fauquier,Warrenton,Source1,4,38.70328,-77.87425,2019,5,Tuesday,Rain,False,False,False,False,False,False,False
+A-7389771,VA,Fauquier,Bealeton,Source1,4,38.58304,-77.76769,2019,9,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-7405447,VA,Fauquier,Warrenton,Source1,4,38.634949,-77.676025,2019,19,Tuesday,Clear / Fair,False,True,False,True,False,False,True
+A-7405448,VA,Fauquier,Catlett,Source1,4,38.640655,-77.659948,2019,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7450190,VA,Fauquier,Goldvein,Source1,3,38.454097,-77.660577,2019,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7457974,VA,Fauquier,Paris,Source1,4,39.00332,-77.94695,2019,10,Sunday,Cloudy,True,False,False,False,False,False,False
+A-7457975,VA,Fauquier,Paris,Source1,4,39.004516,-77.949527,2019,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7483807,VA,Fauquier,Warrenton,Source1,3,38.764424,-77.727492,2018,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-7489711,VA,Fauquier,Bealeton,Source1,4,38.57557,-77.801691,2018,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7490952,VA,Fauquier,Delaplane,Source1,3,38.915146,-77.92201999999997,2018,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7490953,VA,Fauquier,Delaplane,Source1,3,38.908561,-77.91909100000002,2018,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7496696,VA,Fauquier,Catlett,Source1,4,38.669966,-77.629655,2018,9,Tuesday,Rain,False,False,False,False,False,False,False
+A-7503225,VA,Fauquier,Catlett,Source1,4,38.63587,-77.67429,2018,5,Friday,Clear / Fair,False,False,False,True,False,False,False
+A-7504352,VA,Fauquier,Delaplane,Source1,3,38.88461,-77.9062,2018,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7504358,VA,Fauquier,Delaplane,Source1,3,38.879617,-77.905248,2018,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7504360,VA,Fauquier,Delaplane,Source1,3,38.88461,-77.9062,2018,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7504634,VA,Fauquier,Delaplane,Source1,3,38.89317,-77.9119,2018,0,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7515505,VA,Fauquier,Warrenton,Source1,3,38.766236,-77.723761,2018,19,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7515506,VA,Fauquier,Warrenton,Source1,3,38.766462,-77.71759,2018,19,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7519047,VA,Fauquier,Delaplane,Source1,3,38.888667,-77.90735600000002,2018,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7526692,VA,Fauquier,Bealeton,Source1,4,38.584339,-77.764119,2018,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-7533301,VA,Fauquier,Marshall,Source1,3,38.85873,-77.83979000000002,2018,17,Monday,Cloudy,False,False,True,False,False,False,False
+A-7556811,VA,Fauquier,Bealeton,Source1,4,38.571951,-77.80151,2018,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7557684,VA,Fauquier,The Plains,Source1,4,38.849884,-77.789485,2018,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7557803,VA,Fauquier,Delaplane,Source1,4,38.935616,-77.93379499999998,2018,9,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7563520,VA,Fauquier,Delaplane,Source1,4,38.908238,-77.968525,2018,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-7571690,VA,Fauquier,Midland,Source1,4,38.632089,-77.679144,2018,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7571691,VA,Fauquier,Midland,Source1,4,38.632089,-77.679144,2018,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7582776,VA,Fauquier,Warrenton,Source1,3,38.643616,-77.804888,2018,15,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-7582778,VA,Fauquier,Warrenton,Source1,3,38.642623,-77.804602,2018,15,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-7584204,VA,Fauquier,The Plains,Source1,4,38.80254,-77.81489300000001,2018,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-7584213,VA,Fauquier,The Plains,Source1,4,38.82956400000001,-77.816338,2018,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-7584242,VA,Fauquier,The Plains,Source1,4,38.802548,-77.814888,2018,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-7599922,VA,Fauquier,Warrenton,Source1,4,38.726053,-77.790662,2018,19,Thursday,Rain,False,False,False,False,False,False,False
+A-7600460,VA,Fauquier,Warrenton,Source1,4,38.642701,-77.804615,2018,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-7611022,VA,Fauquier,Bealeton,Source1,4,38.559536,-77.73868,2018,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7611023,VA,Fauquier,Bealeton,Source1,4,38.559914,-77.739848,2018,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7622241,VA,Fauquier,Bealeton,Source1,4,38.61434600000001,-77.80064,2018,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7622854,VA,Fauquier,Markham,Source1,4,38.90756,-77.99439,2018,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7628281,VA,Fauquier,Upperville,Source1,4,38.978692,-77.816425,2018,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-7628309,VA,Fauquier,Middleburg,Source1,4,38.974263,-77.797722,2018,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7635911,VA,Fauquier,Paris,Source1,4,38.997147,-77.94875,2018,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7642518,VA,Fauquier,Remington,Source1,4,38.557619,-77.80201,2017,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7642519,VA,Fauquier,Bealeton,Source1,4,38.56236,-77.80135,2017,18,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-7644007,VA,Fauquier,Middleburg,Source1,4,38.97418,-77.797174,2017,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7644008,VA,Fauquier,Middleburg,Source1,4,38.974263,-77.797722,2017,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7654872,VA,Fauquier,Bealeton,Source1,4,38.589717,-77.756135,2017,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7657731,VA,Fauquier,Midland,Source1,4,38.627473,-77.682911,2017,21,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7657732,VA,Fauquier,Midland,Source1,4,38.62155900000001,-77.693184,2017,21,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7684222,VA,Fauquier,The Plains,Source1,4,38.793322,-77.81992199999998,2017,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7684233,VA,Fauquier,Warrenton,Source1,4,38.785281,-77.822889,2017,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7684234,VA,Fauquier,The Plains,Source1,4,38.793322,-77.81992199999998,2017,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7684280,VA,Fauquier,The Plains,Source1,4,38.805055,-77.81298100000002,2017,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7684281,VA,Fauquier,The Plains,Source1,4,38.82907,-77.81621,2017,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7684282,VA,Fauquier,The Plains,Source1,4,38.82907,-77.81621,2017,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7689618,VA,Fauquier,Bealeton,Source1,4,38.607395,-77.8002,2017,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7698771,VA,Fauquier,Warrenton,Source1,4,38.75265,-77.746394,2017,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7714434,VA,Fauquier,Delaplane,Source1,4,38.90183,-77.92903000000003,2019,22,Thursday,Rain,False,False,True,False,False,False,False
+A-7719013,VA,Fauquier,The Plains,Source1,4,38.84833,-77.78615,2019,23,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7719598,VA,Fauquier,Warrenton,Source1,3,38.69257,-77.89478000000003,2019,15,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-7719599,VA,Fauquier,Warrenton,Source1,3,38.690866,-77.896074,2019,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7728546,VA,Fauquier,Warrenton,Source1,4,38.771497,-77.697176,2019,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7731846,VA,Fauquier,Bealeton,Source1,4,38.604394,-77.80046,2019,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7741281,VA,Fauquier,Bealeton,Source1,4,38.56236,-77.80135,2019,12,Friday,Cloudy,True,False,False,False,False,False,False
+A-7742668,VA,Fauquier,Catlett,Source1,4,38.676857,-77.626701,2019,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7742670,VA,Fauquier,Catlett,Source1,4,38.669966,-77.629655,2019,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7754357,VA,Fauquier,Warrenton,Source1,4,38.759062,-77.81339399999997,2019,19,Thursday,Rain,False,False,False,False,False,False,False
+A-7758525,VA,Fauquier,Middleburg,Source1,4,38.974431,-77.799027,2019,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7758526,VA,Fauquier,Middleburg,Source1,4,38.973537,-77.794758,2019,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7758527,VA,Fauquier,Middleburg,Source1,4,38.973537,-77.794758,2019,20,Sunday,Cloudy,False,False,False,False,False,False,False

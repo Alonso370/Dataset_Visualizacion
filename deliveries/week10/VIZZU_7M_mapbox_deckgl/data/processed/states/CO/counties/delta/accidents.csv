@@ -1,0 +1,47 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-563031,CO,Delta,Delta,Source2,3,38.717899,-108.055832,2022,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-640944,CO,Delta,Delta,Source2,3,38.762669,-108.08448,2022,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1407538,CO,Delta,Cedaredge,Source2,3,39.004459,-107.942978,2020,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1604355,CO,Delta,Delta,Source2,3,38.76038,-108.00872,2020,7,Tuesday,Rain,False,False,False,True,False,False,False
+A-3513031,CO,Delta,Delta,Source1,4,38.809933,-108.279494,2016,12,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3515677,CO,Delta,Hotchkiss,Source1,3,38.74487,-107.66919,2016,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3515678,CO,Delta,Hotchkiss,Source1,3,38.750436,-107.667244,2016,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3635475,CO,Delta,Delta,Source1,4,38.679882,-108.007168,2017,10,Tuesday,Clear / Fair,False,True,False,False,False,False,True
+A-3927881,CO,Delta,Delta,Source1,4,38.776897,-108.000123,2022,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3990433,CO,Delta,Crawford,Source1,4,38.716187,-107.6605,2022,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4004609,CO,Delta,Hotchkiss,Source1,4,38.798164,-107.727692,2022,0,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4038925,CO,Delta,Delta,Source1,4,38.748641,-108.069872,2022,11,Friday,Clear / Fair,True,True,False,False,False,False,False
+A-4067070,CO,Delta,Delta,Source1,4,38.762687,-108.078557,2022,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4190710,CO,Delta,Delta,Source1,4,38.748313,-108.06991399999998,2022,11,Friday,Clear / Fair,True,True,False,False,False,False,False
+A-4436660,CO,Delta,Hotchkiss,Source1,4,38.798441,-107.727147,2022,0,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4479366,CO,Delta,Delta,Source1,4,38.772879,-108.00231200000002,2022,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4681594,CO,Delta,Delta,Source1,4,38.76267100000001,-108.085473,2022,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4732415,CO,Delta,Austin,Source1,4,38.779572,-107.950768,2022,7,Thursday,Cloudy,False,False,False,True,False,False,False
+A-4867306,CO,Delta,Delta,Source1,4,38.689455,-108.014247,2023,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-5052108,CO,Delta,Crawford,Source1,4,38.722878,-107.660774,2022,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5203233,CO,Delta,Delta,Source1,4,38.756338,-108.148267,2023,13,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-5305521,CO,Delta,Delta,Source1,4,38.730647,-108.070366,2022,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5531126,CO,Delta,Delta,Source1,4,38.729115,-108.081093,2021,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5551688,CO,Delta,Delta,Source1,4,38.731842,-108.080072,2021,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5861246,CO,Delta,Delta,Source1,4,38.727951,-108.082954,2021,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6083230,CO,Delta,Delta,Source1,4,38.767872,-107.971329,2021,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-6200104,CO,Delta,Delta,Source1,4,38.771817,-107.966789,2021,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-6618324,CO,Delta,Delta,Source1,4,38.756099,-108.149098,2020,1,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-6747946,CO,Delta,Delta,Source1,4,38.751858,-108.15672,2020,1,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-6768253,CO,Delta,Delta,Source1,4,38.751858,-108.15672,2020,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6782074,CO,Delta,Delta,Source1,4,38.708905,-108.045633,2020,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6863180,CO,Delta,Delta,Source1,4,38.756099,-108.149098,2020,1,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-7116624,CO,Delta,Hotchkiss,Source1,4,38.80051,-107.74386,2020,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7116627,CO,Delta,Hotchkiss,Source1,4,38.80051,-107.74386,2020,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7232081,CO,Delta,Delta,Source1,4,38.76131,-108.00398,2020,9,Tuesday,Snow / Ice,False,True,False,False,False,False,True
+A-7367214,CO,Delta,Paonia,Source1,4,38.8734,-107.60888,2019,22,Sunday,Clear / Fair,False,False,False,True,False,False,False
+A-7367218,CO,Delta,Paonia,Source1,4,38.8734,-107.60888,2019,22,Sunday,Clear / Fair,False,False,False,True,False,False,False
+A-7525850,CO,Delta,Delta,Source1,4,38.76113,-108.00396,2018,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7525851,CO,Delta,Austin,Source1,4,38.77912,-107.9525,2018,11,Friday,Clear / Fair,False,False,False,True,False,False,False
+A-7569115,CO,Delta,Delta,Source1,4,38.76279,-108.101948,2018,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7569116,CO,Delta,Delta,Source1,4,38.76267,-108.084422,2018,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7569117,CO,Delta,Delta,Source1,4,38.762751,-108.109387,2018,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7585918,CO,Delta,Austin,Source1,4,38.791361,-107.927275,2018,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7585919,CO,Delta,Austin,Source1,4,38.77912,-107.9525,2018,15,Wednesday,Clear / Fair,False,False,False,True,False,False,False
+A-7682301,CO,Delta,Hotchkiss,Source1,4,38.7991,-107.71457,2017,16,Wednesday,Clear / Fair,False,False,False,True,False,False,False
+A-7682302,CO,Delta,Paonia,Source1,4,38.8801,-107.59788,2017,16,Wednesday,Clear / Fair,False,False,False,True,False,False,False

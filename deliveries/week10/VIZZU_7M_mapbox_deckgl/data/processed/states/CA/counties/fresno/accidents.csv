@@ -1,0 +1,798 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-1840,CA,Fresno,Mendota,Source2,3,36.602818,-120.583603,2016,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1845,CA,Fresno,Firebaugh,Source2,3,36.774387,-120.721519,2016,22,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-2830,CA,Fresno,Firebaugh,Source2,3,36.778355,-120.724655,2016,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3583,CA,Fresno,Mendota,Source2,3,36.60458,-120.585953,2016,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4628,CA,Fresno,Firebaugh,Source2,3,36.683414,-120.656273,2016,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4690,CA,Fresno,Firebaugh,Source2,3,36.848064,-120.772621,2016,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7641,CA,Fresno,Mendota,Source2,3,36.777916,-120.72393,2016,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7642,CA,Fresno,Firebaugh,Source2,3,36.688259,-120.659981,2016,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-8646,CA,Fresno,Mendota,Source2,3,36.68784,-120.660095,2016,18,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-9546,CA,Fresno,Firebaugh,Source2,3,36.781433,-120.726791,2017,22,Tuesday,Rain,False,False,True,False,False,False,False
+A-15706,CA,Fresno,Firebaugh,Source2,3,36.777901,-120.724335,2016,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-16434,CA,Fresno,Firebaugh,Source2,3,36.636501,-120.62072,2016,0,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-17845,CA,Fresno,Mendota,Source2,3,36.601963,-120.581917,2016,16,Sunday,Rain,False,False,True,False,False,False,False
+A-18386,CA,Fresno,Firebaugh,Source2,3,36.688259,-120.659981,2016,15,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-18529,CA,Fresno,Firebaugh,Source2,3,36.853661,-120.776459,2016,22,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-18558,CA,Fresno,Firebaugh,Source2,3,36.780231,-120.725525,2016,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-18925,CA,Fresno,Firebaugh,Source2,3,36.838615,-120.765694,2016,21,Saturday,Rain,False,False,False,False,False,False,False
+A-20980,CA,Fresno,Firebaugh,Source2,3,36.850311,-120.774155,2016,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-24150,CA,Fresno,Mendota,Source2,3,36.607204,-120.589394,2016,16,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-25037,CA,Fresno,Mendota,Source2,3,36.60458,-120.585953,2016,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-26321,CA,Fresno,Firebaugh,Source2,3,36.78521,-120.72937,2016,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-26951,CA,Fresno,Mendota,Source2,3,36.60458,-120.585953,2016,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-35960,CA,Fresno,Mendota,Source2,3,36.602169,-120.582108,2016,8,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-35978,CA,Fresno,Mendota,Source2,3,36.607204,-120.589394,2016,10,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-38002,CA,Fresno,Mendota,Source2,3,36.601963,-120.581917,2016,16,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-39166,CA,Fresno,Mendota,Source2,3,36.602818,-120.583603,2016,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-40562,CA,Fresno,Firebaugh,Source2,3,36.720711,-120.684692,2016,0,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-41750,CA,Fresno,Firebaugh,Source2,3,36.642597,-120.624954,2016,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-314459,CA,Fresno,Mendota,Source2,3,36.77776,-120.723824,2017,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-338200,CA,Fresno,Mendota,Source2,3,36.636353,-120.620163,2017,12,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-338310,CA,Fresno,Firebaugh,Source2,3,36.790962,-120.732918,2017,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-338718,CA,Fresno,Mendota,Source2,3,36.636353,-120.620163,2017,22,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-341666,CA,Fresno,Mendota,Source2,3,36.60641500000001,-120.587807,2017,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-342624,CA,Fresno,Firebaugh,Source2,3,36.683414,-120.656273,2017,0,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-397549,CA,Fresno,Mendota,Source2,3,36.777916,-120.72393,2017,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-397583,CA,Fresno,Firebaugh,Source2,3,36.774387,-120.721519,2017,1,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-398016,CA,Fresno,Firebaugh,Source2,3,36.642551,-120.625351,2017,15,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-455242,CA,Fresno,Firebaugh,Source2,3,36.847004,-120.771454,2017,4,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-455321,CA,Fresno,Mendota,Source2,3,36.63851500000001,-120.621216,2017,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-455422,CA,Fresno,Firebaugh,Source2,3,36.642338,-120.624756,2017,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-456257,CA,Fresno,Mendota,Source2,3,36.636353,-120.620163,2017,6,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-456496,CA,Fresno,Mendota,Source2,3,36.683025,-120.65641,2017,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-456720,CA,Fresno,Mendota,Source2,3,36.601971,-120.581924,2017,19,Sunday,Cloudy,False,False,True,False,False,False,False
+A-491440,CA,Fresno,Firebaugh,Source2,3,36.774387,-120.721519,2017,6,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-516366,CA,Fresno,Mendota,Source2,3,36.437901,-120.39633899999998,2022,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-530804,CA,Fresno,Mendota,Source2,3,36.530823,-120.487709,2022,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-539385,CA,Fresno,Mendota,Source2,3,36.52858,-120.484756,2022,16,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-542351,CA,Fresno,Selma,Source2,3,36.574478000000006,-119.626907,2022,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-545186,CA,Fresno,Kingsburg,Source3,3,36.529491,-119.575317,2022,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-575890,CA,Fresno,Fresno,Source2,3,36.725796,-119.784424,2022,12,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-582964,CA,Fresno,Firebaugh,Source2,3,36.850311,-120.773567,2022,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-605926,CA,Fresno,Firebaugh,Source2,3,36.848488,-120.772491,2022,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-605927,CA,Fresno,Firebaugh,Source2,3,36.850311,-120.773567,2022,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-606085,CA,Fresno,Mendota,Source3,3,36.6064,-120.587822,2022,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-606661,CA,Fresno,Huron,Source2,3,36.13763400000001,-120.15951499999998,2022,21,Monday,Sin dato,False,False,False,False,False,False,False
+A-606759,CA,Fresno,Coalinga,Source2,3,36.250759,-120.241493,2022,16,Monday,Sin dato,False,False,True,False,False,False,False
+A-606842,CA,Fresno,Huron,Source3,3,36.181561,-120.197968,2022,18,Monday,Sin dato,False,False,False,False,False,False,False
+A-647490,CA,Fresno,Coalinga,Source2,3,36.294079,-120.269241,2022,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-655234,CA,Fresno,Firebaugh,Source2,3,36.781429,-120.726799,2022,4,Sunday,Sin dato,False,False,True,False,False,False,False
+A-713861,CA,Fresno,Tranquillity,Source2,3,36.73455,-120.20507,2022,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-734638,CA,Fresno,Huron,Source2,3,36.140965,-120.162018,2022,16,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-736957,CA,Fresno,Fresno,Source2,3,36.687744,-119.753273,2022,7,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-748898,CA,Fresno,Huron,Source2,3,36.076542,-120.101311,2022,5,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-748899,CA,Fresno,Huron,Source2,3,36.076931,-120.101952,2022,5,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-757760,CA,Fresno,Coalinga,Source2,3,36.295341,-120.267868,2022,19,Saturday,Clear / Fair,False,False,False,True,False,False,False
+A-757810,CA,Fresno,Coalinga,Source2,3,36.250759,-120.241493,2022,18,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-757855,CA,Fresno,Coalinga,Source2,3,36.294224,-120.268929,2022,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-759203,CA,Fresno,Mendota,Source2,3,36.528572,-120.484772,2021,20,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-760422,CA,Fresno,Dinuba,Source2,3,36.574539,-119.368111,2021,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-763226,CA,Fresno,Firebaugh,Source2,3,36.849709,-120.773338,2021,16,Monday,Rain,False,False,False,False,False,False,False
+A-771203,CA,Fresno,Huron,Source2,3,36.079346,-120.10511,2021,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-773056,CA,Fresno,Kerman,Source2,3,36.734718,-120.114471,2021,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-792906,CA,Fresno,Mendota,Source2,3,36.533169,-120.491364,2021,15,Saturday,Fog / Low visibility,False,False,True,False,False,False,False
+A-804579,CA,Fresno,Coalinga,Source2,3,36.297131,-120.271362,2021,21,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-810335,CA,Fresno,Mendota,Source2,3,36.602833,-120.58358,2021,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-825227,CA,Fresno,Fresno,Source2,3,36.747856,-119.822884,2021,15,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-830607,CA,Fresno,Mendota,Source2,3,36.473866,-120.429642,2021,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-838245,CA,Fresno,Huron,Source2,3,36.076931,-120.101952,2021,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-849244,CA,Fresno,Firebaugh,Source2,3,36.846992,-120.771477,2021,15,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-859003,CA,Fresno,Mendota,Source2,3,36.435783,-120.394203,2021,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-868288,CA,Fresno,Coalinga,Source2,3,36.294586,-120.270393,2021,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-870483,CA,Fresno,Selma,Source2,3,36.575829,-119.629044,2021,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-872939,CA,Fresno,Huron,Source2,3,36.181427,-120.19828,2021,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-879515,CA,Fresno,Fresno,Source2,3,36.769852,-119.837936,2021,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-919460,CA,Fresno,Mendota,Source2,3,36.637897,-120.621376,2021,6,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-919750,CA,Fresno,Fowler,Source2,3,36.625813,-119.683372,2021,8,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-977219,CA,Fresno,Coalinga,Source2,3,36.330582,-120.300346,2021,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-979738,CA,Fresno,Coalinga,Source2,3,36.297073,-120.270721,2021,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-980051,CA,Fresno,Huron,Source3,3,36.13776,-120.159111,2021,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-992035,CA,Fresno,Huron,Source2,3,36.135384,-120.156479,2021,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-997273,CA,Fresno,Huron,Source2,3,36.0769,-120.101875,2021,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1006823,CA,Fresno,Coalinga,Source2,3,36.297131,-120.271362,2021,12,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-1006824,CA,Fresno,Coalinga,Source2,4,36.294617,-120.269264,2021,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1024541,CA,Fresno,Mendota,Source2,3,36.528584,-120.484756,2021,13,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-1060377,CA,Fresno,Kingsburg,Source2,3,36.527279,-119.572716,2021,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1070176,CA,Fresno,Firebaugh,Source2,3,36.639587,-120.62268799999998,2021,18,Sunday,Rain,False,False,False,False,False,False,False
+A-1075224,CA,Fresno,Huron,Source2,3,36.074463,-120.098473,2021,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1075225,CA,Fresno,Huron,Source2,3,36.140965,-120.162018,2021,9,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-1090911,CA,Fresno,Mendota,Source2,3,36.530823,-120.487709,2021,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1112035,CA,Fresno,Coalinga,Source2,3,36.297131,-120.271362,2021,5,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-1112530,CA,Fresno,Coalinga,Source2,3,36.418591,-120.379074,2021,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1144701,CA,Fresno,Squaw Valley,Source2,3,36.730412,-119.286743,2021,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1193178,CA,Fresno,Fresno,Source2,3,36.69241,-119.750687,2021,5,Friday,Cloudy,False,True,False,False,False,False,True
+A-1193196,CA,Fresno,Huron,Source2,3,36.13763400000001,-120.15951499999998,2021,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1193197,CA,Fresno,Huron,Source2,3,36.13763400000001,-120.15951499999998,2021,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1202572,CA,Fresno,Huron,Source2,3,36.076931,-120.101952,2021,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1212400,CA,Fresno,Sanger,Source2,3,36.705841,-119.45742,2020,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1222336,CA,Fresno,Firebaugh,Source2,3,36.683414,-120.656273,2020,16,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1248554,CA,Fresno,Coalinga,Source2,3,36.257889,-120.246468,2020,13,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-1256736,CA,Fresno,Kingsburg,Source2,3,36.534069,-119.581291,2020,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1258497,CA,Fresno,Fresno,Source2,3,36.757366,-119.829842,2020,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-1290818,CA,Fresno,Mendota,Source2,3,36.602833,-120.58358,2020,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1294091,CA,Fresno,Mendota,Source2,3,36.528584,-120.484756,2020,10,Wednesday,Fog / Low visibility,False,False,True,False,False,False,False
+A-1303474,CA,Fresno,Huron,Source2,3,36.077362,-120.103157,2020,8,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1305894,CA,Fresno,Coalinga,Source2,3,36.297073,-120.270721,2020,5,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1317622,CA,Fresno,Coalinga,Source2,3,36.297131,-120.271362,2020,10,Monday,Fog / Low visibility,False,False,True,False,False,False,False
+A-1330526,CA,Fresno,Coalinga,Source2,3,36.257889,-120.246468,2020,4,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-1383475,CA,Fresno,Firebaugh,Source2,3,36.778603,-120.724838,2020,5,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1387865,CA,Fresno,Fresno,Source2,3,36.753391,-119.724838,2020,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1418477,CA,Fresno,Huron,Source2,3,36.181553,-120.197983,2020,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1419792,CA,Fresno,Coalinga,Source2,3,36.370415,-120.33596,2020,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1424617,CA,Fresno,Mendota,Source2,3,36.607204,-120.589394,2020,4,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1425893,CA,Fresno,Firebaugh,Source2,3,36.720711,-120.684692,2020,5,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1441964,CA,Fresno,Kingsburg,Source2,3,36.527168,-119.572853,2020,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1441969,CA,Fresno,Mendota,Source2,3,36.601959,-120.581917,2020,16,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1443091,CA,Fresno,Huron,Source2,3,36.077229,-120.102959,2020,7,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1443097,CA,Fresno,Mendota,Source2,3,36.528584,-120.484756,2020,18,Sunday,Fog / Low visibility,False,False,True,False,False,False,False
+A-1447391,CA,Fresno,Mendota,Source3,3,36.533169,-120.491364,2020,14,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-1447397,CA,Fresno,Mendota,Source3,3,36.602833,-120.58358,2020,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1453657,CA,Fresno,Huron,Source2,3,36.140965,-120.162018,2020,5,Sunday,Cloudy,False,False,True,False,False,False,False
+A-1453658,CA,Fresno,Huron,Source2,3,36.181427,-120.19828,2020,5,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1458764,CA,Fresno,Coalinga,Source2,3,36.43552,-120.393311,2020,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1458765,CA,Fresno,Huron,Source2,3,36.076931,-120.101952,2020,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1464954,CA,Fresno,Coalinga,Source3,3,36.250759,-120.241493,2020,7,Saturday,Sin dato,False,False,True,False,False,False,False
+A-1465266,CA,Fresno,Coalinga,Source2,3,36.25428,-120.247345,2020,7,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1466447,CA,Fresno,Mendota,Source2,3,36.435783,-120.394203,2020,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1466448,CA,Fresno,Mendota,Source2,3,36.528584,-120.484756,2020,6,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-1477933,CA,Fresno,Coalinga,Source2,3,36.434502,-120.394493,2020,6,Thursday,Cloudy,False,False,False,True,False,False,False
+A-1483704,CA,Fresno,Mendota,Source2,3,36.683022,-120.656418,2020,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1489988,CA,Fresno,Coalinga,Source2,3,36.231277,-120.229652,2020,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1491557,CA,Fresno,Firebaugh,Source2,3,36.850311,-120.773567,2020,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1492077,CA,Fresno,Huron,Source2,3,36.076542,-120.101311,2020,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1496621,CA,Fresno,Mendota,Source2,3,36.435783,-120.394203,2020,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1505043,CA,Fresno,Huron,Source2,3,36.075523,-120.099617,2020,5,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1513307,CA,Fresno,Coalinga,Source2,3,36.295361,-120.267891,2020,12,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-1518247,CA,Fresno,Mendota,Source3,3,36.532444,-120.489868,2020,4,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1518249,CA,Fresno,Coalinga,Source2,3,36.294395,-120.269066,2020,6,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1524689,CA,Fresno,Fresno,Source2,3,36.757439,-119.829887,2020,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1528422,CA,Fresno,Huron,Source2,3,36.136032,-120.156586,2020,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1529740,CA,Fresno,Coalinga,Source2,3,36.203075,-120.211891,2020,4,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1548790,CA,Fresno,Mendota,Source2,3,36.49107,-120.445404,2020,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1548791,CA,Fresno,Mendota,Source2,3,36.531391,-120.4897,2020,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1553038,CA,Fresno,Huron,Source2,3,36.137287,-120.158661,2020,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1651026,CA,Fresno,Coalinga,Source2,3,36.297131,-120.271362,2020,5,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-1653467,CA,Fresno,Huron,Source2,3,36.13763400000001,-120.15951499999998,2020,13,Monday,Sin dato,False,False,False,False,False,False,False
+A-1670103,CA,Fresno,Fresno,Source2,3,36.721352,-119.813316,2020,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1676629,CA,Fresno,Coalinga,Source3,3,36.250759,-120.241493,2020,17,Thursday,Cloudy,False,False,True,False,False,False,False
+A-1681485,CA,Fresno,Mendota,Source3,3,36.438473,-120.396385,2019,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-1684788,CA,Fresno,Huron,Source2,3,36.13763400000001,-120.15951499999998,2019,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-1687343,CA,Fresno,Firebaugh,Source2,3,36.642323,-120.624786,2019,10,Sunday,Rain,False,False,False,False,False,False,False
+A-1687345,CA,Fresno,Firebaugh,Source2,3,36.688255,-120.65998799999998,2019,10,Sunday,Rain,False,False,False,False,False,False,False
+A-1687357,CA,Fresno,Huron,Source2,3,36.140965,-120.162018,2019,20,Sunday,Cloudy,False,False,True,False,False,False,False
+A-1695179,CA,Fresno,Huron,Source2,3,36.075115,-120.09893,2019,7,Wednesday,Rain,False,False,False,False,False,False,False
+A-1701233,CA,Fresno,Fresno,Source3,3,36.753288,-119.70108,2019,7,Saturday,Rain,False,False,False,False,False,False,False
+A-1731325,CA,Fresno,Firebaugh,Source3,3,36.835575,-120.76358799999998,2019,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1731326,CA,Fresno,Firebaugh,Source2,3,36.850311,-120.773567,2019,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1732120,CA,Fresno,Firebaugh,Source2,3,36.846992,-120.771477,2019,5,Sunday,Cloudy,False,False,True,False,False,False,False
+A-1732140,CA,Fresno,Mendota,Source2,3,36.437904,-120.39633899999998,2019,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1732142,CA,Fresno,Huron,Source3,3,36.140965,-120.162018,2019,12,Sunday,Rain,False,False,True,False,False,False,False
+A-1744430,CA,Fresno,Mendota,Source3,3,36.636349,-120.620178,2019,12,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-1751255,CA,Fresno,Coalinga,Source3,3,36.251072,-120.242165,2019,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1779235,CA,Fresno,Huron,Source3,3,36.135773,-120.15728,2019,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1797781,CA,Fresno,Fresno,Source2,3,36.752377,-119.790909,2019,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1803186,CA,Fresno,Fresno,Source3,3,36.748959,-119.776054,2019,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1809629,CA,Fresno,Coalinga,Source2,3,36.419384,-120.379784,2019,10,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1809630,CA,Fresno,Coalinga,Source3,3,36.43375800000001,-120.392166,2019,10,Saturday,Fog / Low visibility,False,False,True,False,False,False,False
+A-1821890,CA,Fresno,Mendota,Source2,3,36.68536,-120.659019,2019,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1824915,CA,Fresno,Coalinga,Source2,3,36.297131,-120.271362,2019,14,Friday,Cloudy,False,False,True,False,False,False,False
+A-1840127,CA,Fresno,Fresno,Source2,3,36.57627100000001,-119.772942,2019,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1840129,CA,Fresno,Huron,Source2,3,36.079346,-120.10511,2019,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1844337,CA,Fresno,Huron,Source2,3,36.075115,-120.09893,2019,15,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1849521,CA,Fresno,Coalinga,Source2,3,36.291691,-120.267319,2019,16,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-1849522,CA,Fresno,Coalinga,Source2,3,36.291691,-120.267319,2019,16,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-1849530,CA,Fresno,Mendota,Source2,3,36.604321,-120.585052,2019,19,Wednesday,Rain,False,False,False,False,False,False,False
+A-1849531,CA,Fresno,Mendota,Source2,3,36.607204,-120.589394,2019,20,Wednesday,Rain,False,False,True,False,False,False,False
+A-1886132,CA,Fresno,Coalinga,Source2,3,36.295361,-120.267891,2019,8,Sunday,Clear / Fair,False,False,False,True,False,False,False
+A-1886780,CA,Fresno,Firebaugh,Source3,3,36.835575,-120.76358799999998,2019,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1887391,CA,Fresno,Huron,Source3,3,36.13486500000001,-120.155998,2019,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1915817,CA,Fresno,Mendota,Source2,3,36.532444,-120.489876,2019,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-1915818,CA,Fresno,Coalinga,Source2,3,36.433762,-120.392166,2019,17,Monday,Other,False,False,True,False,False,False,False
+A-1931292,CA,Fresno,Mendota,Source2,3,36.437904,-120.39633899999998,2019,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1948454,CA,Fresno,Coalinga,Source2,3,36.291691,-120.267319,2019,14,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-1948456,CA,Fresno,Huron,Source2,3,36.136551,-120.157127,2019,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1951930,CA,Fresno,Mendota,Source2,3,36.636349,-120.620178,2019,15,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-1956860,CA,Fresno,Mendota,Source2,3,36.437904,-120.39633899999998,2019,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1978092,CA,Fresno,Coalinga,Source2,3,36.433762,-120.392166,2019,8,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1978107,CA,Fresno,Coalinga,Source2,3,36.250759,-120.241493,2019,17,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1993960,CA,Fresno,Firebaugh,Source2,3,36.642315,-120.625191,2019,17,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-2016022,CA,Fresno,Coalinga,Source2,3,36.257889,-120.246468,2019,4,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-2029295,CA,Fresno,Fresno,Source2,3,36.717232,-119.78498799999998,2019,6,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2050739,CA,Fresno,Clovis,Source2,3,36.812134,-119.729637,2019,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2050746,CA,Fresno,Fresno,Source2,3,36.67794,-119.785904,2019,17,Thursday,Cloudy,True,False,False,False,False,False,False
+A-2053002,CA,Fresno,Mendota,Source2,3,36.437904,-120.39633899999998,2019,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2053857,CA,Fresno,Huron,Source2,3,36.181553,-120.197983,2019,5,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2067117,CA,Fresno,Coalinga,Source2,3,36.252399,-120.243446,2019,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2076345,CA,Fresno,Mendota,Source2,3,36.68784,-120.660103,2019,20,Thursday,Cloudy,False,False,True,False,False,False,False
+A-2080173,CA,Fresno,Mendota,Source2,3,36.52887,-120.48571,2019,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2080174,CA,Fresno,Mendota,Source2,3,36.53015900000001,-120.489151,2019,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2083271,CA,Fresno,Huron,Source2,3,36.077202,-120.103401,2019,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2083991,CA,Fresno,Mendota,Source2,3,36.437904,-120.39633899999998,2019,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2083993,CA,Fresno,Coalinga,Source2,3,36.257889,-120.246468,2019,19,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-2084622,CA,Fresno,Coalinga,Source2,3,36.297131,-120.271362,2019,12,Sunday,Cloudy,False,False,True,False,False,False,False
+A-2093822,CA,Fresno,Coalinga,Source2,3,36.297131,-120.271362,2019,5,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-2096246,CA,Fresno,Mendota,Source2,3,36.607204,-120.589394,2019,13,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-2097009,CA,Fresno,Firebaugh,Source2,3,36.640572,-120.624359,2019,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2097667,CA,Fresno,Huron,Source2,3,36.139599,-120.161034,2019,9,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2099861,CA,Fresno,Mendota,Source2,3,36.636349,-120.620178,2019,4,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-2099874,CA,Fresno,Coalinga,Source2,3,36.433762,-120.392166,2019,10,Monday,Cloudy,False,False,True,False,False,False,False
+A-2102163,CA,Fresno,Huron,Source2,3,36.133839,-120.15506,2019,15,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-2109377,CA,Fresno,Coalinga,Source2,3,36.433762,-120.392166,2019,15,Friday,Cloudy,False,False,True,False,False,False,False
+A-2109380,CA,Fresno,Huron,Source2,3,36.07888,-120.105095,2019,17,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-2109381,CA,Fresno,Huron,Source2,3,36.1339,-120.155113,2019,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2109385,CA,Fresno,Coalinga,Source2,3,36.251072,-120.242165,2019,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2111278,CA,Fresno,Mendota,Source2,3,36.437904,-120.39633899999998,2019,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2124408,CA,Fresno,Coalinga,Source2,3,36.330894,-120.300179,2019,12,Sunday,Rain,False,False,False,False,False,False,False
+A-2124409,CA,Fresno,Mendota,Source2,3,36.43576,-120.39418,2019,12,Sunday,Rain,False,False,False,False,False,False,False
+A-2132509,CA,Fresno,Mendota,Source2,3,36.777901,-120.723946,2019,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2134937,CA,Fresno,Mendota,Source2,3,36.43576,-120.39418,2019,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2153248,CA,Fresno,Mendota,Source2,3,36.636349,-120.620178,2019,4,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-2160661,CA,Fresno,Coalinga,Source2,3,36.253666,-120.243256,2019,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2178484,CA,Fresno,Firebaugh,Source2,3,36.846992,-120.771477,2019,13,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-2186802,CA,Fresno,Coalinga,Source2,3,36.389301,-120.352364,2019,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2195103,CA,Fresno,Mendota,Source2,3,36.533169,-120.491364,2019,14,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-2232506,CA,Fresno,Huron,Source2,3,36.076626,-120.102043,2019,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2235855,CA,Fresno,Coalinga,Source2,3,36.257889,-120.246468,2019,14,Saturday,Cloudy,False,False,True,False,False,False,False
+A-2249053,CA,Fresno,Firebaugh,Source2,3,36.781429,-120.726799,2019,11,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-2256820,CA,Fresno,Coalinga,Source2,3,36.294399,-120.269081,2019,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2286701,CA,Fresno,Fresno,Source2,3,36.739773,-119.777428,2019,16,Thursday,Cloudy,False,False,True,False,False,False,False
+A-2286702,CA,Fresno,Firebaugh,Source2,3,36.853649,-120.776482,2019,17,Thursday,Cloudy,False,False,True,False,False,False,False
+A-2318956,CA,Fresno,Coalinga,Source2,3,36.433762,-120.392166,2019,17,Friday,Cloudy,False,False,True,False,False,False,False
+A-2319765,CA,Fresno,Mendota,Source2,3,36.605659,-120.587883,2019,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2325466,CA,Fresno,Fresno,Source2,3,36.77562,-119.78479,2019,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2336170,CA,Fresno,Huron,Source2,3,36.135773,-120.15728,2019,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2347576,CA,Fresno,Mendota,Source2,3,36.436729,-120.394836,2019,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2347577,CA,Fresno,Mendota,Source2,3,36.531181,-120.48822,2019,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2374226,CA,Fresno,Fresno,Source2,3,36.804379,-119.785141,2018,11,Saturday,Cloudy,False,False,True,False,False,False,False
+A-2374832,CA,Fresno,Huron,Source2,3,36.079342,-120.10511,2018,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2409031,CA,Fresno,Coalinga,Source2,3,36.250759,-120.241493,2018,16,Thursday,Cloudy,False,False,True,False,False,False,False
+A-2412521,CA,Fresno,Mendota,Source2,3,36.777901,-120.723946,2018,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2414683,CA,Fresno,Coalinga,Source2,3,36.257488,-120.245705,2018,4,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2415210,CA,Fresno,Huron,Source2,3,36.075115,-120.09893,2018,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2416047,CA,Fresno,Coalinga,Source2,3,36.294067,-120.268829,2018,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2418026,CA,Fresno,Fresno,Source2,3,36.777058,-119.784698,2018,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2420914,CA,Fresno,Coalinga,Source2,3,36.294399,-120.269081,2018,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2420915,CA,Fresno,Coalinga,Source2,3,36.37035,-120.335907,2018,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2426831,CA,Fresno,Mendota,Source2,3,36.777916,-120.72393,2018,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2431630,CA,Fresno,Mendota,Source2,3,36.530788,-120.48822,2018,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2448473,CA,Fresno,Mendota,Source2,3,36.639385,-120.622955,2018,6,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2465250,CA,Fresno,Mendota,Source2,3,36.636353,-120.620163,2018,5,Sunday,Fog / Low visibility,False,False,True,False,False,False,False
+A-2465264,CA,Fresno,Huron,Source2,3,36.137836,-120.158714,2018,14,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2478393,CA,Fresno,Firebaugh,Source2,3,36.853661,-120.776459,2018,10,Sunday,Cloudy,False,False,True,False,False,False,False
+A-2478394,CA,Fresno,Coalinga,Source2,3,36.254387,-120.241669,2018,10,Sunday,Cloudy,True,False,False,False,False,False,False
+A-2478402,CA,Fresno,Firebaugh,Source2,3,36.780231,-120.725525,2018,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2480977,CA,Fresno,Mendota,Source2,3,36.636353,-120.620163,2018,4,Monday,Fog / Low visibility,False,False,True,False,False,False,False
+A-2487461,CA,Fresno,Coalinga,Source2,3,36.297138,-120.271347,2018,6,Wednesday,Rain,False,False,True,False,False,False,False
+A-2493725,CA,Fresno,Coalinga,Source3,3,36.433754,-120.392174,2018,13,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-2499510,CA,Fresno,Coalinga,Source2,3,36.435516,-120.394203,2018,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2503697,CA,Fresno,Coalinga,Source2,3,36.295185,-120.270363,2018,6,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2506110,CA,Fresno,Coalinga,Source2,3,36.297138,-120.271347,2018,12,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-2512698,CA,Fresno,Huron,Source2,3,36.076584,-120.101372,2018,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2515607,CA,Fresno,Coalinga,Source2,3,36.297138,-120.271347,2018,19,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-2517068,CA,Fresno,Mendota,Source2,3,36.578388,-120.551224,2018,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2528634,CA,Fresno,Coalinga,Source2,3,36.254616,-120.24395,2018,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2549522,CA,Fresno,Mendota,Source2,3,36.63773,-120.622009,2018,9,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2549523,CA,Fresno,Mendota,Source2,3,36.639385,-120.622955,2018,9,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2549527,CA,Fresno,Huron,Source2,3,36.077209,-120.102921,2018,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2552275,CA,Fresno,Coalinga,Source2,3,36.257469,-120.245743,2018,11,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2557871,CA,Fresno,Firebaugh,Source2,3,36.835857,-120.76376299999998,2018,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2557899,CA,Fresno,Huron,Source2,3,36.1339,-120.155121,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2558682,CA,Fresno,Mendota,Source2,3,36.437908,-120.396332,2018,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2559336,CA,Fresno,Mendota,Source2,3,36.683025,-120.65641,2018,4,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2560654,CA,Fresno,Coalinga,Source2,3,36.295364,-120.267891,2018,11,Monday,Clear / Fair,False,False,False,True,False,False,False
+A-2565895,CA,Fresno,Coalinga,Source2,3,36.294205,-120.269325,2018,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2571292,CA,Fresno,Mendota,Source2,3,36.438473,-120.396393,2018,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2571294,CA,Fresno,Coalinga,Source2,3,36.254349,-120.244186,2018,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2572136,CA,Fresno,Fresno,Source2,3,36.790688,-119.784256,2018,8,Saturday,Cloudy,False,False,True,False,False,False,False
+A-2572845,CA,Fresno,Mendota,Source2,3,36.775818,-120.722939,2018,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2578166,CA,Fresno,Firebaugh,Source2,3,36.780231,-120.725525,2018,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2578178,CA,Fresno,Coalinga,Source2,3,36.251095,-120.242111,2018,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2580860,CA,Fresno,Mendota,Source2,3,36.607204,-120.589394,2018,16,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-2585917,CA,Fresno,Huron,Source2,3,36.076633,-120.102051,2018,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2585918,CA,Fresno,Huron,Source2,3,36.079342,-120.10511,2018,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2618319,CA,Fresno,Mendota,Source2,3,36.776367,-120.722404,2018,6,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2627382,CA,Fresno,Mendota,Source2,3,36.436237,-120.394844,2018,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2629742,CA,Fresno,Coalinga,Source2,3,36.433754,-120.392174,2018,5,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-2629753,CA,Fresno,Mendota,Source2,3,36.777916,-120.72393,2018,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2629772,CA,Fresno,Coalinga,Source2,3,36.297138,-120.271347,2018,17,Monday,Fog / Low visibility,False,False,True,False,False,False,False
+A-2629775,CA,Fresno,Huron,Source2,3,36.140965,-120.162018,2018,20,Monday,Fog / Low visibility,False,False,True,False,False,False,False
+A-2629777,CA,Fresno,Coalinga,Source2,3,36.257469,-120.245743,2018,20,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2632288,CA,Fresno,Mendota,Source2,3,36.639385,-120.622955,2018,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2634798,CA,Fresno,Coalinga,Source2,3,36.433754,-120.392174,2018,22,Tuesday,Fog / Low visibility,False,False,True,False,False,False,False
+A-2634801,CA,Fresno,Fresno,Source2,3,36.783798,-119.784698,2018,6,Wednesday,Fog / Low visibility,False,False,True,False,False,False,False
+A-2637358,CA,Fresno,Coalinga,Source2,3,36.433754,-120.392174,2018,16,Thursday,Fog / Low visibility,False,False,True,False,False,False,False
+A-2640947,CA,Fresno,Huron,Source2,3,36.076988,-120.101097,2018,5,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2640957,CA,Fresno,Huron,Source2,3,36.137753,-120.159096,2018,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2643910,CA,Fresno,Coalinga,Source2,3,36.433754,-120.392174,2018,10,Monday,Cloudy,False,False,True,False,False,False,False
+A-2654768,CA,Fresno,Selma,Source2,3,36.57283,-119.625427,2018,0,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2655577,CA,Fresno,Coalinga,Source2,3,36.254368,-120.24379,2018,16,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2658021,CA,Fresno,Firebaugh,Source2,3,36.853661,-120.776459,2018,16,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-2660558,CA,Fresno,Huron,Source2,3,36.17635300000001,-120.193947,2018,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2662929,CA,Fresno,Mendota,Source3,3,36.533161,-120.491379,2018,13,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-2674197,CA,Fresno,Mendota,Source2,3,36.63636,-120.620171,2018,4,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-2680485,CA,Fresno,Firebaugh,Source2,3,36.688259,-120.659981,2018,5,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2686963,CA,Fresno,Kerman,Source2,3,36.589138,-120.061462,2018,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2688915,CA,Fresno,Huron,Source2,3,36.076633,-120.102051,2018,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2691131,CA,Fresno,Huron,Source2,3,36.075108,-120.098946,2018,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2692555,CA,Fresno,Mendota,Source2,3,36.52887,-120.485703,2018,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2692560,CA,Fresno,Mendota,Source2,3,36.437908,-120.396332,2018,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2692561,CA,Fresno,Mendota,Source2,3,36.601734,-120.581619,2018,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2694828,CA,Fresno,Coalinga,Source2,3,36.257469,-120.245743,2018,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-2697166,CA,Fresno,Dinuba,Source2,3,36.589184,-119.376816,2018,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2699330,CA,Fresno,Coalinga,Source2,3,36.435516,-120.394203,2018,22,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2701567,CA,Fresno,Reedley,Source2,3,36.589405,-119.395027,2018,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2701571,CA,Fresno,Huron,Source2,3,36.137753,-120.159096,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2701572,CA,Fresno,Huron,Source2,3,36.076633,-120.102051,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2701579,CA,Fresno,Mendota,Source2,3,36.636353,-120.620163,2018,14,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-2706695,CA,Fresno,Huron,Source2,3,36.079342,-120.10511,2018,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-2708875,CA,Fresno,Firebaugh,Source2,3,36.774387,-120.721519,2018,5,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-2708888,CA,Fresno,Firebaugh,Source2,3,36.683414,-120.656273,2018,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2732836,CA,Fresno,Coalinga,Source2,3,36.433754,-120.392174,2018,16,Monday,Cloudy,False,False,True,False,False,False,False
+A-2735184,CA,Fresno,Huron,Source2,3,36.075108,-120.098946,2018,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2738622,CA,Fresno,Coalinga,Source2,3,36.250584,-120.241402,2018,4,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-2744045,CA,Fresno,Firebaugh,Source3,3,36.642338,-120.624756,2018,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2755298,CA,Fresno,Fresno,Source2,3,36.706524,-119.862389,2018,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2760086,CA,Fresno,Sanger,Source2,3,36.733612,-119.499023,2018,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2764829,CA,Fresno,Firebaugh,Source2,3,36.774387,-120.721519,2018,6,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-2764831,CA,Fresno,Fresno,Source2,3,36.792419,-119.784485,2018,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2765930,CA,Fresno,Coalinga,Source2,3,36.295887,-120.269966,2018,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2768916,CA,Fresno,Fowler,Source2,3,36.605381,-119.66304,2018,8,Monday,Clear / Fair,False,False,False,True,False,False,False
+A-2773516,CA,Fresno,Fresno,Source2,3,36.671661,-119.733665,2018,7,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-2775803,CA,Fresno,Kingsburg,Source2,3,36.51479000000001,-119.55773899999998,2018,8,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-2778086,CA,Fresno,Fresno,Source2,3,36.752937,-119.82711,2018,9,Friday,Cloudy,False,False,True,False,False,False,False
+A-2779677,CA,Fresno,Firebaugh,Source2,3,36.850845,-120.774086,2018,4,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2784482,CA,Fresno,Fowler,Source2,3,36.646439,-119.699974,2018,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2786806,CA,Fresno,Huron,Source2,3,36.140965,-120.162018,2018,5,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-2789182,CA,Fresno,Laton,Source2,3,36.474678,-119.636185,2018,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2789186,CA,Fresno,Coalinga,Source2,3,36.435516,-120.394203,2018,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2796687,CA,Fresno,Coalinga,Source2,3,36.433754,-120.392174,2018,9,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-2802123,CA,Fresno,Fresno,Source2,3,36.760265,-119.775299,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2808587,CA,Fresno,Coalinga,Source2,3,36.433754,-120.392174,2018,10,Monday,Cloudy,False,False,True,False,False,False,False
+A-2811214,CA,Fresno,Mendota,Source2,3,36.636353,-120.620163,2018,22,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-2816501,CA,Fresno,Firebaugh,Source2,3,36.642551,-120.625351,2018,21,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-2823531,CA,Fresno,Firebaugh,Source2,3,36.8521,-120.774956,2018,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2828908,CA,Fresno,Huron,Source2,3,36.1339,-120.155121,2018,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2831640,CA,Fresno,Firebaugh,Source2,3,36.683414,-120.656273,2018,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2835078,CA,Fresno,Firebaugh,Source2,3,36.781433,-120.726791,2018,9,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-2835876,CA,Fresno,Mendota,Source2,3,36.683422,-120.656281,2018,5,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2843500,CA,Fresno,Mendota,Source2,3,36.478363,-120.43421200000002,2018,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2843501,CA,Fresno,Coalinga,Source2,3,36.257896,-120.246437,2018,22,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-2849673,CA,Fresno,Mendota,Source2,3,36.437748,-120.396187,2018,6,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2851922,CA,Fresno,Firebaugh,Source2,3,36.774387,-120.721519,2018,15,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-2851926,CA,Fresno,Firebaugh,Source2,3,36.774387,-120.721519,2018,17,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-2851929,CA,Fresno,Mendota,Source2,3,36.439106,-120.396957,2018,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2854421,CA,Fresno,Mendota,Source2,3,36.437908,-120.396332,2018,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2857749,CA,Fresno,Mendota,Source2,3,36.437481,-120.39595,2018,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2874701,CA,Fresno,Coalinga,Source2,3,36.388744,-120.351875,2018,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-2874709,CA,Fresno,Firebaugh,Source2,3,36.847004,-120.771454,2018,7,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-2882470,CA,Fresno,Coalinga,Source2,3,36.297138,-120.271347,2018,7,Thursday,Cloudy,False,False,True,False,False,False,False
+A-2901430,CA,Fresno,Coalinga,Source2,3,36.29715,-120.271355,2018,6,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-2901433,CA,Fresno,Coalinga,Source2,3,36.202873,-120.211555,2018,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2904188,CA,Fresno,Huron,Source2,3,36.140965,-120.162018,2018,11,Monday,Cloudy,False,False,True,False,False,False,False
+A-2906923,CA,Fresno,Fresno,Source2,3,36.738525,-119.820549,2018,22,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-2912392,CA,Fresno,Fresno,Source2,3,36.808468,-119.785103,2018,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2916677,CA,Fresno,Firebaugh,Source2,3,36.778847,-120.724106,2018,4,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2924074,CA,Fresno,Mendota,Source2,3,36.437908,-120.396332,2018,5,Friday,Rain,False,False,False,False,False,False,False
+A-2925006,CA,Fresno,Huron,Source2,3,36.076633,-120.102051,2018,15,Saturday,Rain,False,False,False,False,False,False,False
+A-2925682,CA,Fresno,Mendota,Source2,3,36.553574,-120.517822,2018,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2930677,CA,Fresno,Coalinga,Source2,3,36.257896,-120.246437,2018,4,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-2930678,CA,Fresno,Mendota,Source2,3,36.533161,-120.491379,2018,4,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-2937175,CA,Fresno,Coalinga,Source2,3,36.254662,-120.243973,2018,12,Saturday,Rain,False,False,False,False,False,False,False
+A-2960986,CA,Fresno,Firebaugh,Source2,3,36.780014,-120.72538,2018,7,Wednesday,Rain,False,False,False,False,False,False,False
+A-2963930,CA,Fresno,Mendota,Source2,3,36.68594,-120.658218,2018,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2966668,CA,Fresno,Coalinga,Source2,3,36.257896,-120.246437,2018,7,Friday,Cloudy,False,False,True,False,False,False,False
+A-2966674,CA,Fresno,Mendota,Source2,3,36.533161,-120.491379,2018,10,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-2982618,CA,Fresno,Mendota,Source2,3,36.687172,-120.658875,2018,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2988638,CA,Fresno,Coalinga,Source2,3,36.330574,-120.300362,2018,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2994621,CA,Fresno,Coalinga,Source2,3,36.254139,-120.243637,2018,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3003229,CA,Fresno,Fresno,Source2,3,36.754856,-119.763512,2018,17,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3004264,CA,Fresno,Coalinga,Source2,3,36.254101,-120.244026,2018,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3012504,CA,Fresno,Fresno,Source2,3,36.753754,-119.779549,2018,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3015058,CA,Fresno,Mendota,Source2,3,36.77438400000001,-120.721519,2018,20,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-3021119,CA,Fresno,Firebaugh,Source2,3,36.835583,-120.763573,2018,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3026388,CA,Fresno,Coalinga,Source2,3,36.257896,-120.246437,2018,22,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-3031771,CA,Fresno,Coalinga,Source2,3,36.25494000000001,-120.244148,2018,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-3050263,CA,Fresno,Huron,Source2,3,36.076908,-120.101891,2018,13,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3050812,CA,Fresno,Mendota,Source2,3,36.530788,-120.48822,2018,6,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3053549,CA,Fresno,Huron,Source2,3,36.075932,-120.100296,2018,5,Monday,Rain,False,False,False,False,False,False,False
+A-3053558,CA,Fresno,Huron,Source2,3,36.075485,-120.100174,2018,6,Monday,Rain,False,False,False,False,False,False,False
+A-3059121,CA,Fresno,Coalinga,Source2,3,36.433754,-120.392174,2018,6,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-3065591,CA,Fresno,Coalinga,Source2,3,36.252197,-120.242821,2018,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3066196,CA,Fresno,Coalinga,Source2,3,36.257896,-120.246437,2018,8,Sunday,Fog / Low visibility,False,False,True,False,False,False,False
+A-3068442,CA,Fresno,Mendota,Source2,3,36.532448,-120.489868,2018,4,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3068462,CA,Fresno,Mendota,Source2,3,36.505615,-120.458809,2018,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-3068464,CA,Fresno,Mendota,Source2,3,36.453575,-120.41053,2018,16,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3076332,CA,Fresno,Mendota,Source2,3,36.636353,-120.620163,2018,11,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-3076932,CA,Fresno,Fresno,Source2,3,36.750248,-119.82505,2018,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3076939,CA,Fresno,Mendota,Source2,3,36.604218,-120.584915,2018,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3085133,CA,Fresno,Coalinga,Source2,3,36.433754,-120.392174,2018,22,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-3090857,CA,Fresno,Mendota,Source2,3,36.60641500000001,-120.587807,2018,1,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3093903,CA,Fresno,Coalinga,Source2,3,36.257469,-120.245743,2018,15,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3103372,CA,Fresno,Huron,Source2,3,36.076633,-120.102051,2017,7,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3108707,CA,Fresno,Coalinga,Source2,3,36.435516,-120.394203,2017,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3118215,CA,Fresno,Fresno,Source2,3,36.811718,-119.785156,2017,13,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3134398,CA,Fresno,Fresno,Source2,3,36.775623,-119.784851,2017,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3137170,CA,Fresno,Fresno,Source2,3,36.808468,-119.785103,2017,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-3143065,CA,Fresno,Coalinga,Source2,3,36.254349,-120.244186,2017,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3148148,CA,Fresno,Coalinga,Source2,3,36.338291,-120.307243,2017,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-3154760,CA,Fresno,Coalinga,Source3,3,36.250996,-120.241661,2017,9,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3156985,CA,Fresno,Huron,Source2,3,36.076073,-120.102043,2017,4,Friday,Cloudy,False,False,False,True,False,False,False
+A-3156999,CA,Fresno,Mendota,Source2,3,36.530788,-120.48822,2017,12,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3157627,CA,Fresno,Huron,Source2,3,36.076237,-120.101418,2017,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3167242,CA,Fresno,Parlier,Source2,3,36.611855,-119.502243,2017,8,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3167248,CA,Fresno,Fresno,Source2,3,36.82999,-119.82637,2017,10,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3172771,CA,Fresno,Huron,Source2,3,36.075108,-120.098946,2017,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3175105,CA,Fresno,Mendota,Source2,3,36.777916,-120.72393,2017,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3185630,CA,Fresno,Coalinga,Source2,3,36.254261,-120.241753,2017,22,Monday,Cloudy,True,False,False,False,False,False,False
+A-3193453,CA,Fresno,Mendota,Source2,3,36.533161,-120.491379,2017,6,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-3193455,CA,Fresno,Mendota,Source2,3,36.437908,-120.396332,2017,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3199448,CA,Fresno,Coalinga,Source2,3,36.291557,-120.267654,2017,10,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3203658,CA,Fresno,Fresno,Source2,3,36.832161,-119.917603,2017,22,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3203669,CA,Fresno,Firebaugh,Source2,3,36.642338,-120.624756,2017,8,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3203671,CA,Fresno,Mendota,Source2,3,36.52858,-120.48476399999998,2017,9,Thursday,Fog / Low visibility,False,False,True,False,False,False,False
+A-3203673,CA,Fresno,Mendota,Source2,3,36.720631,-120.685089,2017,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3203674,CA,Fresno,Mendota,Source2,3,36.578568,-120.55088,2017,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3203677,CA,Fresno,Mendota,Source2,3,36.636353,-120.620163,2017,12,Thursday,Fog / Low visibility,False,False,True,False,False,False,False
+A-3205496,CA,Fresno,Coalinga,Source2,3,36.202873,-120.211555,2017,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-3206056,CA,Fresno,Coalinga,Source2,3,36.294201,-120.268898,2017,15,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3206057,CA,Fresno,Coalinga,Source2,3,36.254349,-120.244186,2017,17,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3206771,CA,Fresno,Mendota,Source2,3,36.60641500000001,-120.587807,2017,4,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3206778,CA,Fresno,Mendota,Source2,3,36.607204,-120.589394,2017,8,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-3206779,CA,Fresno,Mendota,Source2,3,36.604843,-120.586304,2017,8,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3206784,CA,Fresno,Fresno,Source2,3,36.808468,-119.785103,2017,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3209667,CA,Fresno,Mendota,Source2,3,36.637547,-120.621086,2017,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3215190,CA,Fresno,Huron,Source2,3,36.076633,-120.102051,2017,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3215963,CA,Fresno,Fowler,Source2,3,36.638584,-119.69735,2017,5,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3244956,CA,Fresno,Mendota,Source2,3,36.548336,-120.511444,2017,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3245577,CA,Fresno,Mendota,Source2,3,36.607204,-120.589394,2017,6,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-3253882,CA,Fresno,Fowler,Source2,3,36.630238,-119.688568,2017,11,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3260056,CA,Fresno,Fresno,Source2,3,36.826065,-119.78495,2017,6,Saturday,Cloudy,False,False,True,False,False,False,False
+A-3263334,CA,Fresno,Huron,Source2,3,36.075108,-120.098946,2017,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3263339,CA,Fresno,Mendota,Source2,3,36.478363,-120.43421200000002,2017,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3274384,CA,Fresno,Mendota,Source2,3,36.68594,-120.658218,2017,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3283397,CA,Fresno,Mendota,Source2,3,36.683025,-120.65641,2017,11,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3285070,CA,Fresno,Coalinga,Source2,3,36.294632,-120.269165,2017,16,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3300682,CA,Fresno,Fowler,Source2,3,36.608173,-119.664078,2017,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-3300686,CA,Fresno,Sanger,Source2,3,36.735725,-119.609985,2017,18,Monday,Cloudy,True,False,False,False,False,False,False
+A-3306325,CA,Fresno,Firebaugh,Source2,3,36.777901,-120.724335,2017,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3313691,CA,Fresno,Huron,Source2,3,36.084476,-120.109978,2017,10,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3313692,CA,Fresno,Coalinga,Source2,3,36.202873,-120.211555,2017,10,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3329526,CA,Fresno,Coalinga,Source2,3,36.297138,-120.271347,2017,15,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-3329527,CA,Fresno,Coalinga,Source2,3,36.435516,-120.394203,2017,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3329528,CA,Fresno,Coalinga,Source2,3,36.296772,-120.271149,2017,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3332140,CA,Fresno,Mendota,Source2,3,36.532448,-120.489868,2017,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3344154,CA,Fresno,Firebaugh,Source2,3,36.774387,-120.721519,2017,5,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-3345864,CA,Fresno,Fresno,Source2,3,36.837502,-119.784874,2017,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3347302,CA,Fresno,Fresno,Source2,3,36.677948,-119.786079,2017,16,Thursday,Cloudy,True,False,False,False,False,False,False
+A-3348053,CA,Fresno,Coalinga,Source2,3,36.294205,-120.269325,2017,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3359888,CA,Fresno,Coalinga,Source2,3,36.295036,-120.269424,2017,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3359889,CA,Fresno,Coalinga,Source2,3,36.435936,-120.394119,2017,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3359893,CA,Fresno,Mendota,Source2,3,36.605282,-120.586327,2017,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3372699,CA,Fresno,Huron,Source2,3,36.076633,-120.102051,2017,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3372707,CA,Fresno,Coalinga,Source2,3,36.294529,-120.269524,2017,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3379261,CA,Fresno,Firebaugh,Source2,3,36.774387,-120.721519,2017,5,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-3379265,CA,Fresno,Firebaugh,Source3,3,36.780231,-120.725525,2017,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3382126,CA,Fresno,Firebaugh,Source2,3,36.8503,-120.772369,2017,10,Wednesday,Fog / Low visibility,False,False,False,True,False,False,False
+A-3387828,CA,Fresno,Firebaugh,Source2,3,36.683414,-120.656273,2017,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3394540,CA,Fresno,Coalinga,Source2,3,36.250751,-120.241508,2017,5,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-3397533,CA,Fresno,Coalinga,Source2,3,36.43306,-120.392014,2017,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3403220,CA,Fresno,Riverdale,Source2,3,36.401985,-119.869225,2017,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3403240,CA,Fresno,Fowler,Source2,3,36.593857,-119.648422,2017,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-3403851,CA,Fresno,Coalinga,Source2,3,36.435516,-120.394203,2017,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3403861,CA,Fresno,Coalinga,Source2,3,36.254047,-120.243996,2017,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3406982,CA,Fresno,Huron,Source2,3,36.076073,-120.102043,2017,12,Monday,Clear / Fair,False,False,False,True,False,False,False
+A-3413782,CA,Fresno,Fresno,Source1,4,36.771933,-119.83942,2016,8,Friday,Cloudy,True,False,False,False,False,False,False
+A-3413783,CA,Fresno,Fresno,Source1,4,36.77191,-119.84427,2016,8,Friday,Cloudy,True,True,False,False,False,False,False
+A-3414459,CA,Fresno,Fresno,Source1,3,36.80712,-119.73461,2016,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-3414654,CA,Fresno,Sanger,Source1,3,36.727523,-119.462885,2016,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3414913,CA,Fresno,Clovis,Source1,4,36.80831,-119.636922,2016,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3414914,CA,Fresno,Clovis,Source1,4,36.80828,-119.626911,2016,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3416280,CA,Fresno,Fresno,Source1,3,36.64444,-119.70412,2016,14,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-3416337,CA,Fresno,Huron,Source1,4,36.13384,-120.15506,2016,1,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-3416501,CA,Fresno,Selma,Source1,3,36.576366,-119.629638,2016,23,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3416502,CA,Fresno,Selma,Source1,3,36.57637,-119.629642,2016,23,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3416503,CA,Fresno,Fowler,Source1,3,36.60547,-119.65475,2016,23,Sunday,Clear / Fair,True,True,False,False,False,False,False
+A-3416504,CA,Fresno,Selma,Source1,3,36.58158,-119.62859,2016,23,Sunday,Clear / Fair,True,True,False,False,False,False,False
+A-3416786,CA,Fresno,Fresno,Source1,3,36.75486,-119.76787,2016,17,Thursday,Cloudy,False,False,True,False,False,False,False
+A-3525658,CA,Fresno,Fresno,Source1,4,36.73927,-119.82012,2016,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3525659,CA,Fresno,Fresno,Source1,4,36.73867,-119.8081,2016,15,Thursday,Cloudy,False,False,True,False,False,False,False
+A-3525660,CA,Fresno,Fresno,Source1,4,36.7397,-119.81012,2016,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3525662,CA,Fresno,Fresno,Source1,3,36.753054,-119.700216,2016,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3527255,CA,Fresno,Fresno,Source1,3,36.74513,-119.82089,2016,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-3528557,CA,Fresno,Firebaugh,Source1,3,36.847094,-120.771953,2016,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3529256,CA,Fresno,Fresno,Source1,4,36.7352,-119.934354,2017,17,Tuesday,Rain,False,False,False,False,False,False,False
+A-3530026,CA,Fresno,Fresno,Source1,3,36.753728,-119.781857,2017,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-3530610,CA,Fresno,Selma,Source1,3,36.553797,-119.604432,2017,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3534351,CA,Fresno,Fresno,Source1,3,36.7601,-119.83149,2016,6,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-3536954,CA,Fresno,Clovis,Source1,3,36.87382,-119.55733,2016,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3536956,CA,Fresno,Fresno,Source1,3,36.75306,-119.82719,2016,16,Thursday,Cloudy,False,False,True,False,False,False,False
+A-3537369,CA,Fresno,Fresno,Source1,3,36.71458,-119.78148,2016,19,Sunday,Rain,False,False,True,False,False,False,False
+A-3538861,CA,Fresno,Fresno,Source1,3,36.7647,-119.83428,2016,3,Wednesday,Clear / Fair,False,True,False,False,False,False,False
+A-3539800,CA,Fresno,Fresno,Source1,3,36.72191,-119.78906,2016,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3540087,CA,Fresno,Coalinga,Source1,4,36.14935,-120.62935,2016,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-3545649,CA,Fresno,Prather,Source1,4,37.01765,-119.52634,2016,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3545650,CA,Fresno,Prather,Source1,4,36.99887,-119.52593,2016,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3546777,CA,Fresno,Fresno,Source1,3,36.724989,-119.79273,2016,0,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3548265,CA,Fresno,Mendota,Source1,4,36.763137,-120.386719,2016,0,Tuesday,Clear / Fair,False,False,False,False,False,False,True
+A-3548266,CA,Fresno,Mendota,Source1,4,36.764861,-120.387226,2016,0,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-3548582,CA,Fresno,Kerman,Source1,4,36.73497,-120.02433700000002,2016,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3549241,CA,Fresno,Clovis,Source1,3,36.80859,-119.73191,2016,3,Tuesday,Clear / Fair,True,True,False,False,False,False,False
+A-3550220,CA,Fresno,Coalinga,Source1,3,36.434097,-120.392359,2016,5,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-3550408,CA,Fresno,Fresno,Source1,4,36.74076,-119.81417,2016,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3551718,CA,Fresno,Fresno,Source1,4,36.752054,-119.678206,2016,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3551720,CA,Fresno,Fresno,Source1,4,36.75339,-119.72484,2016,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3553405,CA,Fresno,Prather,Source1,4,36.969026,-119.528549,2016,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3553485,CA,Fresno,Fowler,Source1,3,36.6345,-119.69288,2016,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3554542,CA,Fresno,Coalinga,Source1,3,36.29169,-120.26732,2016,10,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-3555555,CA,Fresno,Coalinga,Source1,4,36.29695200000001,-120.271209,2016,3,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-3555941,CA,Fresno,Huron,Source1,3,36.25545,-120.06765,2016,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3555942,CA,Fresno,Huron,Source1,3,36.25545,-120.0484,2016,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3556090,CA,Fresno,Fresno,Source1,3,36.841745,-119.78482,2016,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3556472,CA,Fresno,Squaw Valley,Source1,4,36.75748,-119.15987,2016,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3566619,CA,Fresno,Huron,Source1,3,36.14115,-120.16219,2017,16,Friday,Cloudy,False,False,True,False,False,False,False
+A-3566620,CA,Fresno,Huron,Source1,3,36.07521,-120.09908,2017,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-3589881,CA,Fresno,Huron,Source1,4,36.07521,-120.09908,2017,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3590959,CA,Fresno,Fresno,Source1,3,36.7647,-119.83428,2017,7,Monday,Clear / Fair,False,True,False,False,False,False,False
+A-3607813,CA,Fresno,Fresno,Source1,4,36.76235,-119.77565,2017,3,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3607814,CA,Fresno,Fresno,Source1,4,36.75909,-119.77602,2017,3,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3610833,CA,Fresno,Laton,Source1,4,36.449333,-119.797591,2017,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3621082,CA,Fresno,Fresno,Source1,4,36.72142,-119.78548,2017,0,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3621887,CA,Fresno,Fresno,Source1,4,36.77226,-119.79735,2017,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3621888,CA,Fresno,Fresno,Source1,4,36.77227,-119.796921,2017,13,Friday,Clear / Fair,False,True,False,False,False,False,True
+A-3622080,CA,Fresno,Kerman,Source1,4,36.73457,-120.199785,2017,0,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3622081,CA,Fresno,Tranquillity,Source1,4,36.73455,-120.20507,2017,0,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3623002,CA,Fresno,Fresno,Source1,3,36.80532,-119.7362,2017,17,Thursday,Cloudy,False,False,True,False,False,False,False
+A-3636151,CA,Fresno,Mendota,Source1,3,36.52914000000001,-120.48606,2017,2,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3649625,CA,Fresno,Fowler,Source1,3,36.63852,-119.69723,2017,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-3650453,CA,Fresno,Fresno,Source1,4,36.72749,-119.79553,2017,5,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3712121,CA,Fresno,Fresno,Source1,4,36.763313,-119.775649,2022,0,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-3794604,CA,Fresno,Huron,Source1,4,36.342574,-120.103348,2022,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-3800424,CA,Fresno,Fresno,Source1,4,36.793974,-119.692433,2022,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3865236,CA,Fresno,Selma,Source1,4,36.475423,-119.636148,2023,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3889872,CA,Fresno,Clovis,Source1,4,36.86647,-119.684027,2022,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3910751,CA,Fresno,Fresno,Source1,4,36.706403,-119.880536,2023,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-3984844,CA,Fresno,Mendota,Source1,4,36.767068,-120.389167,2022,0,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4001696,CA,Fresno,Laton,Source1,4,36.441712,-119.636164,2022,0,Monday,Cloudy,False,False,False,False,False,False,False
+A-4036115,CA,Fresno,Firebaugh,Source1,4,36.858336,-120.449031,2022,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4054635,CA,Fresno,Selma,Source1,4,36.518155,-119.628965,2023,15,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-4098328,CA,Fresno,Fresno,Source1,4,36.808161,-119.877566,2022,9,Thursday,Fog / Low visibility,True,True,False,False,False,False,False
+A-4112547,CA,Fresno,Fresno,Source1,4,36.706782,-119.745638,2022,9,Wednesday,Fog / Low visibility,True,True,False,False,False,False,False
+A-4152563,CA,Fresno,Fresno,Source1,4,36.793972,-119.802376,2023,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4183973,CA,Fresno,Firebaugh,Source1,4,36.84701,-120.77146299999998,2022,14,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-4253957,CA,Fresno,Firebaugh,Source1,4,36.772551,-120.394531,2022,0,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4268097,CA,Fresno,Clovis,Source1,4,36.908258,-119.518048,2022,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4316458,CA,Fresno,Fresno,Source1,4,36.795017,-119.863333,2022,9,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4337222,CA,Fresno,Mendota,Source1,4,36.473761796777374,-120.42980074825078,2022,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4406027,CA,Fresno,Coalinga,Source1,4,36.25105300000001,-120.241689,2022,0,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4512898,CA,Fresno,Selma,Source1,4,36.5611589,-119.61288571,2022,0,Saturday,Fog / Low visibility,False,False,True,False,False,False,False
+A-4558551,CA,Fresno,Kerman,Source1,4,36.734723,-120.105409,2022,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4587472,CA,Fresno,Selma,Source1,4,36.485221,-119.630195,2023,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4589802,CA,Fresno,Fresno,Source1,4,36.795383,-119.863745,2022,9,Thursday,Fog / Low visibility,False,True,False,False,False,False,False
+A-4610315,CA,Fresno,Fresno,Source1,4,36.703294,-119.745652,2022,9,Wednesday,Fog / Low visibility,False,False,False,True,False,False,False
+A-4640699,CA,Fresno,Fresno,Source1,4,36.793979,-119.863037,2022,9,Thursday,Fog / Low visibility,False,True,False,False,False,False,False
+A-4713606,CA,Fresno,Fresno,Source1,4,36.79438233,-119.74697471,2023,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4742801,CA,Fresno,Fowler,Source1,4,36.606286,-119.662387,2022,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4841176,CA,Fresno,Fowler,Source1,4,36.630248,-119.688573,2022,11,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-4858782,CA,Fresno,Fresno,Source1,4,36.744961,-119.820724,2022,23,Monday,Cloudy,False,False,False,False,False,False,False
+A-4970341,CA,Fresno,Fresno,Source1,4,36.648869,-119.754799,2022,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5016639,CA,Fresno,Mendota,Source1,4,36.63636,-120.620174,2022,4,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-5051209,CA,Fresno,Coalinga,Source1,4,36.291683,-120.267315,2022,16,Monday,Cloudy,False,False,True,False,False,False,False
+A-5063336,CA,Fresno,Coalinga,Source1,4,36.370357,-120.335911,2022,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-5103416,CA,Fresno,Mendota,Source1,4,36.765285,-120.387433,2022,0,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-5103786,CA,Fresno,Firebaugh,Source1,4,36.82457,-120.43919,2022,0,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5127157,CA,Fresno,Fresno,Source1,4,36.808049,-119.887555,2022,16,Saturday,Clear / Fair,True,True,False,False,False,False,False
+A-5153004,CA,Fresno,Clovis,Source1,4,36.87377572042048,-119.68397498073728,2022,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5241319,CA,Fresno,Fresno,Source1,4,36.807832,-119.877059,2022,9,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-5290757,CA,Fresno,Fresno,Source1,4,36.7937,-119.863035,2022,9,Thursday,Fog / Low visibility,True,True,False,False,False,False,False
+A-5377063,CA,Fresno,Huron,Source1,4,36.25535,-120.103565,2022,0,Monday,Clear / Fair,False,False,False,False,False,True,False
+A-5426348,CA,Fresno,Mendota,Source1,4,36.763509,-120.386797,2022,20,Saturday,Fog / Low visibility,False,True,False,False,False,False,True
+A-5451314,CA,Fresno,Fresno,Source1,4,36.795156,-119.863732,2022,9,Thursday,Fog / Low visibility,False,True,False,False,False,False,False
+A-5517078,CA,Fresno,Kerman,Source1,4,36.691198,-120.060692,2021,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5533117,CA,Fresno,Fowler,Source1,4,36.626657,-119.684299,2021,23,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5599342,CA,Fresno,Mendota,Source1,4,36.688269,-120.65998799999998,2021,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5625442,CA,Fresno,Fresno,Source1,4,36.677933,-119.745716,2021,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5632160,CA,Fresno,Kingsburg,Source1,4,36.529271,-119.575391,2021,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5652209,CA,Fresno,Fresno,Source1,4,36.808437108818005,-119.73358511867649,2021,2,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5676602,CA,Fresno,Firebaugh,Source1,4,36.912655,-120.549672,2021,8,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5719595,CA,Fresno,Fresno,Source1,4,36.757298,-119.880238,2021,2,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5731933,CA,Fresno,Fresno,Source1,4,36.70674920064589,-119.77285265865434,2021,2,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-5757682,CA,Fresno,Coalinga,Source1,4,36.120842,-120.374953,2021,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5824993,CA,Fresno,Fresno,Source1,4,36.808223,-119.886856,2021,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5835263,CA,Fresno,Firebaugh,Source1,4,36.850596,-120.772564,2021,5,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-5855313,CA,Fresno,Selma,Source1,4,36.557983,-119.610811,2021,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5882257,CA,Fresno,Fresno,Source1,4,36.79620623571016,-119.86945509853425,2021,9,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-5887251,CA,Fresno,Selma,Source1,4,36.518157720391656,-119.62895750942408,2021,13,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-5903915,CA,Fresno,Mendota,Source1,4,36.686708,-120.657949,2021,16,Sunday,Clear / Fair,False,False,False,True,False,False,False
+A-6106208,CA,Fresno,Selma,Source1,4,36.548519,-119.610873,2021,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6125188,CA,Fresno,Firebaugh,Source1,4,36.88301,-120.491468,2021,8,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6155286,CA,Fresno,Firebaugh,Source1,4,36.774395,-120.721527,2021,10,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-6210684,CA,Fresno,Fresno,Source1,4,36.77406191808331,-119.84072327556686,2021,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6248605,CA,Fresno,Coalinga,Source1,4,36.137249,-120.240759,2021,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-6279577,CA,Fresno,Selma,Source1,4,36.490219,-119.700968,2021,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6301067,CA,Fresno,Kerman,Source1,4,36.691198,-120.060692,2021,8,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6350263,CA,Fresno,Prather,Source1,4,37.014081,-119.52683,2021,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6356283,CA,Fresno,Fowler,Source1,4,36.602121,-119.657474,2021,8,Wednesday,Fog / Low visibility,False,False,True,False,False,False,False
+A-6357438,CA,Fresno,Prather,Source1,4,36.989878,-119.528935,2021,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6385004,CA,Fresno,Fresno,Source1,4,36.707663,-119.718452,2021,6,Monday,Clear / Fair,True,True,False,False,False,False,False
+A-6418271,CA,Fresno,Prather,Source1,4,36.982008,-119.528149,2021,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6421366,CA,Fresno,Prather,Source1,4,37.037195,-119.514796,2021,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6427208,CA,Fresno,Fresno,Source1,4,36.851309,-119.786435,2021,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6441728,CA,Fresno,Prather,Source1,4,37.021725,-119.526782,2021,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6481265,CA,Fresno,Coalinga,Source1,4,36.065083,-120.218127,2021,4,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6488767,CA,Fresno,Firebaugh,Source1,4,36.642214,-120.625101,2021,6,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6495994,CA,Fresno,Kingsburg,Source1,4,36.515003,-119.55761,2021,0,Thursday,Fog / Low visibility,False,False,True,False,False,False,False
+A-6523973,CA,Fresno,Fresno,Source1,4,36.489557,-119.789517,2021,1,Sunday,Cloudy,True,False,False,False,False,False,False
+A-6553881,CA,Fresno,Prather,Source1,4,37.037195,-119.514796,2021,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6636341,CA,Fresno,Caruthers,Source1,4,36.489039,-119.789761,2020,16,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6641377,CA,Fresno,Coalinga,Source1,4,36.140839,-120.359255,2020,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6655547,CA,Fresno,Coalinga,Source1,4,36.254272,-120.249987,2020,8,Saturday,Clear / Fair,False,False,False,True,False,False,False
+A-6667838,CA,Fresno,Coalinga,Source1,4,36.254292,-120.24738899999998,2020,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6673839,CA,Fresno,Fresno,Source1,4,36.71383,-119.78431100000002,2020,19,Tuesday,Fog / Low visibility,False,False,True,False,False,False,False
+A-6675342,CA,Fresno,Coalinga,Source1,4,36.138711,-120.361226,2020,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6680764,CA,Fresno,Reedley,Source1,4,36.632999,-119.412921,2020,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6691070,CA,Fresno,Reedley,Source1,4,36.633042,-119.430752,2020,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6695419,CA,Fresno,Coalinga,Source1,4,36.254357,-120.243119,2020,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6698176,CA,Fresno,Fresno,Source1,4,36.670681,-119.745734,2020,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6707583,CA,Fresno,Coalinga,Source1,4,36.138711,-120.361226,2020,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6728294,CA,Fresno,Reedley,Source1,4,36.633042,-119.430752,2020,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6729225,CA,Fresno,Fresno,Source1,4,36.67806,-119.754706,2020,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6734564,CA,Fresno,Fresno,Source1,4,36.670683,-119.754753,2020,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6735621,CA,Fresno,Fresno,Source1,4,36.677933,-119.745716,2020,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6738648,CA,Fresno,Fresno,Source1,4,36.744021,-119.819759,2020,1,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6776832,CA,Fresno,Coalinga,Source1,4,36.246265,-120.315339,2020,8,Saturday,Clear / Fair,False,False,False,True,False,False,False
+A-6782517,CA,Fresno,Laton,Source1,4,36.445544,-119.798172,2020,16,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6804454,CA,Fresno,Coalinga,Source1,4,36.295341,-120.267902,2020,5,Saturday,Sin dato,False,False,False,True,False,False,False
+A-6826110,CA,Fresno,Fresno,Source1,4,36.738742,-119.808346,2020,1,Monday,Fog / Low visibility,False,False,True,False,False,False,False
+A-6879495,CA,Fresno,Coalinga,Source1,4,36.254292,-120.24738899999998,2020,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6881470,CA,Fresno,Fresno,Source1,4,36.71383,-119.78431100000002,2020,19,Tuesday,Fog / Low visibility,False,False,True,False,False,False,False
+A-6888217,CA,Fresno,Coalinga,Source1,4,36.254357,-120.243119,2020,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6972524,CA,Fresno,Fresno,Source1,4,36.744965,-119.820724,2020,22,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6980356,CA,Fresno,Caruthers,Source1,3,36.51836,-119.78607,2020,8,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-6982830,CA,Fresno,Sanger,Source1,4,36.73591,-119.62786,2020,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6982832,CA,Fresno,Sanger,Source1,3,36.73606,-119.63025,2020,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6985205,CA,Fresno,Selma,Source1,4,36.47479000000001,-119.63618,2020,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6985424,CA,Fresno,Selma,Source1,3,36.55547,-119.60607,2020,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6985432,CA,Fresno,Selma,Source1,3,36.55547,-119.60607,2020,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6995073,CA,Fresno,Fresno,Source1,3,36.4894,-119.78963,2020,8,Monday,Cloudy,True,False,False,False,False,False,False
+A-6995088,CA,Fresno,Fresno,Source1,3,36.4894,-119.78963,2020,8,Monday,Cloudy,True,False,False,False,False,False,False
+A-6999701,CA,Fresno,Kingsburg,Source1,3,36.52726,-119.57269,2020,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7011680,CA,Fresno,Reedley,Source1,3,36.60439,-119.48434,2020,17,Tuesday,Clear / Fair,True,True,False,False,False,False,False
+A-7015543,CA,Fresno,Fresno,Source1,4,36.74772,-119.82302,2020,6,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7015702,CA,Fresno,Fresno,Source1,3,36.77229000000001,-119.7454,2020,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7015704,CA,Fresno,Fresno,Source1,3,36.77229000000001,-119.7454,2020,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7015712,CA,Fresno,Fresno,Source1,3,36.77229000000001,-119.7454,2020,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7015718,CA,Fresno,Fresno,Source1,3,36.77229000000001,-119.7454,2020,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7015733,CA,Fresno,Fresno,Source1,3,36.77229000000001,-119.7454,2020,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7018507,CA,Fresno,Fresno,Source1,3,36.74786,-119.82289,2020,15,Friday,Cloudy,False,False,True,False,False,False,False
+A-7018521,CA,Fresno,Fresno,Source1,3,36.74779,-119.82284,2020,16,Friday,Cloudy,False,False,True,False,False,False,False
+A-7047174,CA,Fresno,Selma,Source1,3,36.56113,-119.61288,2020,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-7047184,CA,Fresno,Selma,Source1,3,36.56086,-119.61258,2020,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-7047194,CA,Fresno,Kingsburg,Source1,3,36.51484,-119.55744,2020,15,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7047202,CA,Fresno,Selma,Source1,3,36.56085,-119.61257,2020,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-7051281,CA,Fresno,Fresno,Source1,3,36.66127,-119.78576,2020,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7051283,CA,Fresno,Fresno,Source1,3,36.66127,-119.78576,2020,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7053773,CA,Fresno,Fowler,Source1,4,36.60188,-119.65718,2020,0,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7053776,CA,Fresno,Fowler,Source1,4,36.60188,-119.65718,2020,0,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7053782,CA,Fresno,Fowler,Source1,4,36.60188,-119.65718,2020,1,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7053786,CA,Fresno,Fowler,Source1,4,36.60188,-119.65718,2020,2,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7053859,CA,Fresno,Fresno,Source1,3,36.70474,-119.7721,2020,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7053862,CA,Fresno,Fresno,Source1,3,36.70436,-119.77174,2020,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7053875,CA,Fresno,Fresno,Source1,3,36.70338,-119.77078,2020,8,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7059231,CA,Fresno,Fowler,Source1,4,36.62311,-119.6804,2020,9,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7062405,CA,Fresno,Selma,Source1,3,36.54392,-119.59275,2020,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7068478,CA,Fresno,Fresno,Source1,3,36.74771,-119.82301,2020,15,Friday,Cloudy,False,False,True,False,False,False,False
+A-7068684,CA,Fresno,Fresno,Source1,3,36.72816,-119.79595,2020,15,Friday,Cloudy,False,False,True,False,False,False,False
+A-7074170,CA,Fresno,Selma,Source1,3,36.55547,-119.60607,2020,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7074200,CA,Fresno,Selma,Source1,3,36.55547,-119.60607,2020,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7079303,CA,Fresno,Selma,Source1,3,36.55547,-119.60607,2020,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7081905,CA,Fresno,Fresno,Source1,4,36.70338,-119.77078,2020,8,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7081998,CA,Fresno,Fresno,Source1,3,36.78681,-119.78449,2020,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7085003,CA,Fresno,Fresno,Source1,3,36.75349,-119.77979,2020,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-7085152,CA,Fresno,Fresno,Source1,3,36.56179,-119.78625,2020,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-7093052,CA,Fresno,Selma,Source1,3,36.5729,-119.62549,2020,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7101484,CA,Fresno,Fresno,Source1,3,36.75349,-119.77979,2020,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7135443,CA,Fresno,Fresno,Source1,3,36.70338,-119.77078,2020,6,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7135445,CA,Fresno,Fresno,Source1,3,36.70338,-119.77079,2020,7,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7152235,CA,Fresno,Fresno,Source1,3,36.77229000000001,-119.7454,2020,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7160201,CA,Fresno,Fresno,Source1,4,36.75284,-119.7003,2020,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-7160211,CA,Fresno,Fresno,Source1,4,36.75284,-119.7003,2020,14,Monday,Rain,False,False,False,False,False,False,False
+A-7160223,CA,Fresno,Fresno,Source1,4,36.75284,-119.7003,2020,14,Monday,Rain,False,False,False,False,False,False,False
+A-7189993,CA,Fresno,Clovis,Source1,3,36.8929,-119.52972,2020,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7190006,CA,Fresno,Clovis,Source1,3,36.89281,-119.52984,2020,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7194461,CA,Fresno,Fresno,Source1,4,36.75773,-119.7545,2020,19,Thursday,Cloudy,True,True,False,False,False,False,False
+A-7194464,CA,Fresno,Fresno,Source1,4,36.75773,-119.7545,2020,16,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-7194469,CA,Fresno,Fresno,Source1,4,36.75773,-119.7545,2020,16,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-7194475,CA,Fresno,Fresno,Source1,4,36.75773,-119.7545,2020,16,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-7194488,CA,Fresno,Fresno,Source1,4,36.75773,-119.7545,2020,16,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-7194503,CA,Fresno,Fresno,Source1,4,36.75773,-119.7545,2020,17,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-7194516,CA,Fresno,Fresno,Source1,4,36.75773,-119.7545,2020,17,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-7194526,CA,Fresno,Fresno,Source1,4,36.75773,-119.7545,2020,17,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-7194529,CA,Fresno,Fresno,Source1,4,36.75773,-119.7545,2020,18,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-7194539,CA,Fresno,Fresno,Source1,4,36.75773,-119.7545,2020,18,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-7194544,CA,Fresno,Fresno,Source1,4,36.75773,-119.7545,2020,19,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-7194549,CA,Fresno,Fresno,Source1,4,36.75773,-119.7545,2020,19,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-7194556,CA,Fresno,Fresno,Source1,4,36.75773,-119.7545,2020,19,Thursday,Cloudy,True,True,False,False,False,False,False
+A-7194559,CA,Fresno,Fresno,Source1,4,36.75773,-119.7545,2020,19,Thursday,Cloudy,True,True,False,False,False,False,False
+A-7194561,CA,Fresno,Fresno,Source1,4,36.75773,-119.7545,2020,19,Thursday,Cloudy,True,True,False,False,False,False,False
+A-7201600,CA,Fresno,Fresno,Source1,3,36.68657,-119.75199,2020,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-7206100,CA,Fresno,Fresno,Source1,4,36.72849,-119.79632,2020,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7209769,CA,Fresno,Fresno,Source1,3,36.80487,-119.78507,2020,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7209770,CA,Fresno,Fresno,Source1,3,36.80487,-119.78507,2020,23,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7214865,CA,Fresno,Sanger,Source1,4,36.73384,-119.5021,2020,11,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7245139,CA,Fresno,Sanger,Source1,4,36.73384,-119.5021,2020,2,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7314824,CA,Fresno,Fresno,Source1,4,36.80216,-119.73949,2019,5,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7423081,CA,Fresno,Fresno,Source1,3,36.73808,-119.84909,2019,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7437444,CA,Fresno,Fresno,Source1,3,36.837542,-119.78518,2019,5,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7441175,CA,Fresno,Fresno,Source1,3,36.71458,-119.78148,2019,22,Monday,Rain,False,False,True,False,False,False,False
+A-7441177,CA,Fresno,Fresno,Source1,3,36.7397,-119.81141,2019,22,Monday,Rain,False,False,False,False,False,False,False
+A-7445071,CA,Fresno,Fresno,Source1,3,36.760459,-119.775271,2019,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-7448929,CA,Fresno,Fresno,Source1,4,36.74363,-119.80993,2019,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7448930,CA,Fresno,Fresno,Source1,4,36.74243,-119.81253,2019,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7458412,CA,Fresno,Fresno,Source1,4,36.72582,-119.78442,2019,18,Sunday,Rain,False,False,True,False,False,False,False
+A-7471262,CA,Fresno,Fresno,Source1,3,36.75909,-119.77602,2019,18,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7471263,CA,Fresno,Fresno,Source1,3,36.76189,-119.77559,2019,18,Monday,Fog / Low visibility,False,False,True,False,False,False,False
+A-7475012,CA,Fresno,Clovis,Source1,3,36.84102,-119.67868,2018,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7476942,CA,Fresno,Fresno,Source1,3,36.73871,-119.81933,2018,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7481644,CA,Fresno,Fresno,Source1,4,36.75,-119.86203,2018,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7482663,CA,Fresno,Fresno,Source1,3,36.775505,-119.78517,2018,12,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7482680,CA,Fresno,Fresno,Source1,3,36.762054,-119.77528,2018,12,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7482681,CA,Fresno,Fresno,Source1,3,36.772685,-119.784729,2018,12,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7490111,CA,Fresno,Fresno,Source1,3,36.73683,-119.80546,2018,12,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7490353,CA,Fresno,Firebaugh,Source1,3,36.77441,-120.72154,2018,16,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7494435,CA,Fresno,Mendota,Source1,3,36.776242,-120.722816,2018,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7494506,CA,Fresno,Fresno,Source1,3,36.73867,-119.8081,2018,16,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7506097,CA,Fresno,Fresno,Source1,3,36.77931,-119.78457,2018,12,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7514622,CA,Fresno,Fresno,Source1,3,36.762182,-119.832742,2018,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7518637,CA,Fresno,Fresno,Source1,3,36.753148,-119.694902,2018,23,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7520524,CA,Fresno,Fresno,Source1,3,36.77595,-119.74903,2018,11,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7522688,CA,Fresno,Fresno,Source1,3,36.728101,-119.79588,2018,13,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7527977,CA,Fresno,Fresno,Source1,3,36.694435,-119.761495,2018,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7527999,CA,Fresno,Fresno,Source1,3,36.671789,-119.733769,2018,16,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7528008,CA,Fresno,Fresno,Source1,3,36.671789,-119.733769,2018,16,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7538442,CA,Fresno,Fresno,Source1,3,36.753145,-119.694942,2018,21,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7539563,CA,Fresno,Fowler,Source1,4,36.63457,-119.69295,2018,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7542274,CA,Fresno,Fresno,Source1,3,36.75333,-119.78431,2018,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7542276,CA,Fresno,Fresno,Source1,3,36.736799,-119.77765,2018,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7542289,CA,Fresno,Fresno,Source1,3,36.744932,-119.807486,2018,16,Thursday,Cloudy,False,False,False,False,False,False,True
+A-7545584,CA,Fresno,Fresno,Source1,3,36.753147,-119.694919,2018,22,Monday,Cloudy,False,False,True,False,False,False,False
+A-7550613,CA,Fresno,Friant,Source1,3,36.98417,-119.65961,2018,0,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7558834,CA,Fresno,Fresno,Source1,3,36.665506,-119.72719,2018,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7583622,CA,Fresno,Selma,Source1,3,36.57677,-119.54814,2018,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7586507,CA,Fresno,Fresno,Source1,3,36.75276,-119.78609,2018,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7588616,CA,Fresno,Huron,Source1,3,36.07907,-120.10532,2018,23,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-7588617,CA,Fresno,Selma,Source1,3,36.58097,-119.63469,2018,0,Sunday,Cloudy,False,False,True,False,False,False,False
+A-7591380,CA,Fresno,Fresno,Source1,3,36.82935,-119.91368,2018,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7595252,CA,Fresno,Fresno,Source1,3,36.74513,-119.82089,2018,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7601248,CA,Fresno,Fresno,Source1,4,36.756799,-119.750228,2018,3,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7603745,CA,Fresno,Mendota,Source1,4,36.52914000000001,-120.48606,2018,19,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7608044,CA,Fresno,Clovis,Source1,3,36.89291,-119.52971200000002,2018,3,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7608045,CA,Fresno,Clovis,Source1,3,36.8412,-119.66963,2018,3,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7609191,CA,Fresno,Mendota,Source1,4,36.53318,-120.49138,2018,3,Thursday,Rain,False,False,True,False,False,False,False
+A-7620040,CA,Fresno,Fresno,Source1,3,36.852132,-119.787451,2018,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7621195,CA,Fresno,Fresno,Source1,3,36.70349,-119.77055,2018,6,Friday,Cloudy,False,False,True,False,False,False,False
+A-7631750,CA,Fresno,Fresno,Source1,3,36.850837,-119.786199,2018,15,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7643168,CA,Fresno,Fresno,Source1,3,36.757474,-119.829702,2017,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-7650488,CA,Fresno,Fresno,Source1,3,36.7601,-119.83149,2017,16,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7655208,CA,Fresno,Fresno,Source1,4,36.68671,-119.75179,2017,18,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7656277,CA,Fresno,Fresno,Source1,3,36.75,-119.79798,2017,17,Monday,Cloudy,False,False,True,False,False,False,False
+A-7672702,CA,Fresno,Fresno,Source1,4,36.83334,-119.78484,2017,15,Tuesday,Fog / Low visibility,False,False,True,False,False,False,False
+A-7680872,CA,Fresno,Fresno,Source1,3,36.74513,-119.82089,2017,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7686425,CA,Fresno,Fresno,Source1,4,36.82925,-119.91394,2017,3,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7688408,CA,Fresno,Fresno,Source1,3,36.714182,-119.781361,2017,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7690066,CA,Fresno,Fresno,Source1,4,36.75909,-119.77602,2017,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7695619,CA,Fresno,Clovis,Source1,4,36.80845,-119.731724,2017,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-7705686,CA,Fresno,Squaw Valley,Source1,4,36.756424,-119.17967,2019,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-7705687,CA,Fresno,Kings Canyon National Pk,Source1,4,36.757335,-119.161558,2019,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7710149,CA,Fresno,Fresno,Source1,3,36.714182,-119.781361,2019,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7716096,CA,Fresno,Fresno,Source1,3,36.74617,-119.77662,2019,16,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7716114,CA,Fresno,Fresno,Source1,3,36.791751,-119.78436,2019,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7718065,CA,Fresno,Fresno,Source1,3,36.76189,-119.77559,2019,14,Saturday,Cloudy,False,False,True,False,False,False,False
+A-7720050,CA,Fresno,Fresno,Source1,3,36.75513,-119.74272,2019,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7724151,CA,Fresno,Fresno,Source1,3,36.7601,-119.83149,2019,18,Thursday,Rain,False,False,True,False,False,False,False
+A-7724152,CA,Fresno,Fresno,Source1,3,36.74473,-119.82054,2019,18,Thursday,Rain,False,False,False,False,False,False,False
+A-7729856,CA,Fresno,Fresno,Source1,3,36.742349,-119.777586,2019,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7754966,CA,Fresno,Huron,Source1,3,36.571116,-120.083861,2019,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7765796,CA,Fresno,Sanger,Source1,4,36.733598,-119.498503,2019,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7765797,CA,Fresno,Sanger,Source1,4,36.73138400000001,-119.472528,2019,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7769844,CA,Fresno,Fresno,Source1,3,36.71415,-119.78426,2019,17,Tuesday,Cloudy,False,False,False,False,False,False,False

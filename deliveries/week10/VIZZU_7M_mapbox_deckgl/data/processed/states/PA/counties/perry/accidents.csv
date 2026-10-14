@@ -1,0 +1,205 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-237948,PA,Perry,Newport,Source2,3,40.494797,-77.108467,2016,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1068442,PA,Perry,Marysville,Source2,3,40.334419,-76.923668,2021,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1334925,PA,Perry,Liverpool,Source2,3,40.569389,-76.992378,2020,13,Sunday,Cloudy,False,False,False,True,False,False,False
+A-1530025,PA,Perry,Marysville,Source2,3,40.345631,-76.93049599999998,2020,6,Monday,Clear / Fair,False,True,False,True,False,False,False
+A-3463686,PA,Perry,Newport,Source1,4,40.49546,-77.1133,2016,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3478466,PA,Perry,Newport,Source1,4,40.49572,-77.11525,2016,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3480840,PA,Perry,Duncannon,Source1,4,40.441411,-76.990449,2016,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3480841,PA,Perry,Duncannon,Source1,4,40.456048,-76.963503,2016,14,Tuesday,Cloudy,False,False,False,True,False,False,False
+A-3481589,PA,Perry,Newport,Source1,4,40.49546,-77.1133,2016,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3500203,PA,Perry,Liverpool,Source1,4,40.52806,-76.98626999999998,2016,19,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-3503327,PA,Perry,Duncannon,Source1,4,40.388614,-77.032041,2016,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3558491,PA,Perry,Duncannon,Source1,4,40.369925,-77.023969,2017,14,Saturday,Cloudy,False,False,False,True,False,False,False
+A-3617616,PA,Perry,New Bloomfield,Source1,4,40.415713,-77.18446999999998,2017,6,Thursday,Rain,False,False,False,True,False,False,False
+A-3617617,PA,Perry,New Bloomfield,Source1,4,40.41885,-77.18655,2017,6,Thursday,Rain,False,False,False,False,False,True,False
+A-3681006,PA,Perry,Newport,Source1,4,40.49551,-77.113699,2023,21,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-3730473,PA,Perry,New Bloomfield,Source1,4,40.436709,-77.163485,2023,2,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3763834,PA,Perry,Marysville,Source1,4,40.325809,-77.047852,2022,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3770236,PA,Perry,Newport,Source1,4,40.462191,-77.13908599999998,2022,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3789802,PA,Perry,Duncannon,Source1,4,40.362453,-77.019552,2022,9,Sunday,Clear / Fair,False,False,False,True,False,False,False
+A-3822037,PA,Perry,Liverpool,Source1,4,40.569377,-76.99239,2022,23,Wednesday,Clear / Fair,False,False,False,True,False,False,False
+A-3857057,PA,Perry,Ickesburg,Source1,4,40.411456,-77.450243,2022,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3878213,PA,Perry,Duncannon,Source1,4,40.39072700000001,-77.033202,2022,23,Saturday,Cloudy,False,False,True,False,False,False,False
+A-3921904,PA,Perry,Liverpool,Source1,4,40.618572,-76.954073,2022,23,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3934017,PA,Perry,Duncannon,Source1,4,40.42622209,-77.01058745,2022,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3941822,PA,Perry,Ickesburg,Source1,4,40.408216,-77.436486,2022,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4009532,PA,Perry,Ickesburg,Source1,4,40.408216,-77.436486,2022,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4012670,PA,Perry,Duncannon,Source1,4,40.38848400000001,-77.036291,2022,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4027354,PA,Perry,Landisburg,Source1,4,40.347518,-77.256552,2022,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-4041205,PA,Perry,Duncannon,Source1,4,40.429735,-77.003771,2022,22,Monday,Rain,False,False,False,False,False,False,False
+A-4049677,PA,Perry,Elliottsburg,Source1,4,40.436583,-77.29355699999998,2023,7,Tuesday,Rain,False,False,False,False,False,False,False
+A-4055211,PA,Perry,Newport,Source1,4,40.4690516,-77.13190913,2022,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4057826,PA,Perry,Newport,Source1,4,40.443507,-77.152644,2023,2,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4072407,PA,Perry,Liverpool,Source1,4,40.528704,-77.03755699999998,2022,23,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4095860,PA,Perry,Liverpool,Source1,4,40.579653,-76.982302,2022,12,Sunday,Clear / Fair,False,False,False,True,False,False,False
+A-4107385,PA,Perry,Ickesburg,Source1,4,40.464991,-77.381288,2022,19,Thursday,Rain,False,False,False,False,False,False,False
+A-4128037,PA,Perry,Duncannon,Source1,4,40.429624,-77.003895,2022,12,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-4150084,PA,Perry,Marysville,Source1,4,40.327501,-77.016502,2022,11,Monday,Clear / Fair,False,False,False,True,False,False,False
+A-4168534,PA,Perry,Newport,Source1,4,40.487205,-77.118695,2022,23,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4190234,PA,Perry,Duncannon,Source1,4,40.464696,-76.95273399999998,2022,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4222961,PA,Perry,Marysville,Source1,4,40.32232800000001,-77.081312,2022,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4276690,PA,Perry,Loysville,Source1,4,40.350755,-77.442351,2022,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-4316973,PA,Perry,Ickesburg,Source1,4,40.406332,-77.436759,2022,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4319144,PA,Perry,Shermans Dale,Source1,4,40.330911,-77.181399,2022,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4347403,PA,Perry,Shermans Dale,Source1,4,40.346822,-77.191082,2022,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4362325,PA,Perry,Marysville,Source1,4,40.326971,-77.033565,2022,20,Saturday,Clear / Fair,False,False,False,True,False,False,False
+A-4389910,PA,Perry,Millerstown,Source1,4,40.490349,-77.29462,2022,7,Tuesday,Cloudy,False,False,False,True,False,False,False
+A-4438804,PA,Perry,Marysville,Source1,4,40.326971,-77.033565,2022,20,Saturday,Clear / Fair,False,False,False,True,False,False,False
+A-4448085,PA,Perry,Landisburg,Source1,4,40.325704,-77.370902,2022,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4496538,PA,Perry,Duncannon,Source1,4,40.38898,-77.032238,2022,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4531356,PA,Perry,Shermans Dale,Source1,4,40.345128,-77.19130899999998,2022,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4542553,PA,Perry,New Bloomfield,Source1,4,40.375508,-77.153702,2022,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4547570,PA,Perry,Elliottsburg,Source1,4,40.436435,-77.30717800000002,2023,7,Tuesday,Rain,False,False,False,False,False,False,False
+A-4557241,PA,Perry,Marysville,Source1,4,40.326545,-77.038462,2022,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4594052,PA,Perry,Newport,Source1,4,40.469065,-77.13192099999998,2022,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4628435,PA,Perry,Ickesburg,Source1,4,40.41125,-77.443878,2022,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4636681,PA,Perry,Liverpool,Source1,4,40.576347,-76.986618,2022,23,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4640295,PA,Perry,Marysville,Source1,4,40.32702000000001,-77.02533100000002,2022,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4648319,PA,Perry,Ickesburg,Source1,4,40.408647,-77.43944,2022,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4659149,PA,Perry,Duncannon,Source1,4,40.385622,-77.030374,2022,9,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4687365,PA,Perry,Newport,Source1,4,40.464833,-77.1374,2022,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4699029,PA,Perry,New Bloomfield,Source1,4,40.415251,-77.177501,2022,7,Tuesday,Rain,False,False,False,True,False,False,False
+A-4708790,PA,Perry,Loysville,Source1,4,40.35041,-77.46937,2022,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-4729221,PA,Perry,Marysville,Source1,4,40.335805,-76.925692,2023,16,Sunday,Cloudy,False,False,False,True,False,False,False
+A-4750009,PA,Perry,Liverpool,Source1,4,40.574038,-76.989147,2022,12,Sunday,Clear / Fair,False,False,False,True,False,False,False
+A-4784780,PA,Perry,Shermans Dale,Source1,4,40.346229,-77.191446,2022,11,Tuesday,Cloudy,False,False,False,True,False,False,False
+A-4826080,PA,Perry,Liverpool,Source1,4,40.58117100000001,-76.98017,2022,6,Friday,Clear / Fair,False,False,False,True,False,False,False
+A-4840561,PA,Perry,Millerstown,Source1,4,40.477335,-77.318166,2022,7,Tuesday,Cloudy,False,False,False,True,False,False,False
+A-4914887,PA,Perry,Duncannon,Source1,4,40.369971,-77.023963,2022,23,Saturday,Cloudy,False,False,False,True,False,False,False
+A-4931771,PA,Perry,Duncannon,Source1,4,40.384713,-77.02979300000001,2022,22,Monday,Rain,False,False,True,False,False,False,False
+A-4931772,PA,Perry,Duncannon,Source1,4,40.388248,-77.03173000000002,2022,22,Monday,Rain,False,False,False,True,False,False,False
+A-4978785,PA,Perry,Liverpool,Source1,4,40.62132800000001,-76.95378199999998,2023,17,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-5009509,PA,Perry,Ickesburg,Source1,4,40.406332,-77.436759,2022,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5023915,PA,Perry,Duncannon,Source1,4,40.3907310960751,-77.03320383988842,2022,9,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-5036646,PA,Perry,Shermans Dale,Source1,4,40.36173,-77.171634,2022,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5063454,PA,Perry,Newport,Source1,4,40.464673,-77.13760500000002,2022,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5127453,PA,Perry,Ickesburg,Source1,4,40.411133,-77.444106,2022,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5146854,PA,Perry,Duncannon,Source1,4,40.42622209,-77.01058745,2022,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5189906,PA,Perry,New Bloomfield,Source1,4,40.411273,-77.174213,2022,7,Tuesday,Rain,False,False,False,True,False,False,False
+A-5261193,PA,Perry,Duncannon,Source1,4,40.362453,-77.019552,2022,9,Sunday,Clear / Fair,False,False,False,True,False,False,False
+A-5273843,PA,Perry,Duncannon,Source1,4,40.388048,-77.032761,2022,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5391220,PA,Perry,Duncannon,Source1,4,40.451813,-77.02261800000002,2022,4,Saturday,Cloudy,False,False,True,False,False,False,False
+A-5416462,PA,Perry,Landisburg,Source1,4,40.352969,-77.22691400000002,2022,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-5422876,PA,Perry,Duncannon,Source1,4,40.369971,-77.023963,2022,9,Sunday,Clear / Fair,False,False,False,True,False,False,False
+A-5439100,PA,Perry,Newport,Source1,4,40.460467,-77.142949,2022,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5525812,PA,Perry,Shermans Dale,Source1,4,40.343306,-77.189717,2021,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5546165,PA,Perry,Millerstown,Source1,4,40.544814,-77.153061,2021,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5557142,PA,Perry,Shermans Dale,Source1,4,40.340502,-77.185563,2021,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5586229,PA,Perry,Duncannon,Source1,4,40.35609841327497,-76.99895739518642,2021,12,Sunday,Cloudy,False,False,False,True,False,False,False
+A-5593251,PA,Perry,Shermans Dale,Source1,4,40.346227884100216,-77.1914327140942,2021,9,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-5593304,PA,Perry,Elliottsburg,Source1,4,40.40133118610191,-77.26168513261193,2021,23,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5604317,PA,Perry,Shermans Dale,Source1,4,40.319803,-77.165458,2021,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5612230,PA,Perry,Shermans Dale,Source1,4,40.32388,-77.17317800000002,2021,11,Saturday,Cloudy,False,False,False,True,False,False,False
+A-5621115,PA,Perry,Millerstown,Source1,4,40.51542162875883,-77.13004231416163,2021,23,Sunday,Clear / Fair,False,False,False,True,False,False,False
+A-5630333,PA,Perry,Liverpool,Source1,4,40.557266,-76.991186,2021,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5645694,PA,Perry,Duncannon,Source1,4,40.35457,-76.971369,2021,17,Friday,Clear / Fair,False,False,False,True,False,False,False
+A-5671421,PA,Perry,Millerstown,Source1,4,40.578844,-77.097431,2021,0,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-5675699,PA,Perry,Marysville,Source1,4,40.326397,-77.04033299999998,2021,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5676212,PA,Perry,Duncannon,Source1,4,40.363454,-77.020481,2021,23,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5714129,PA,Perry,Duncannon,Source1,4,40.355189,-76.964711,2021,15,Wednesday,Rain,False,False,False,False,False,False,False
+A-5739794,PA,Perry,Liverpool,Source1,4,40.544374,-76.98797900000002,2021,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5772832,PA,Perry,Duncannon,Source1,4,40.35457,-76.971369,2021,23,Sunday,Clear / Fair,False,False,False,True,False,False,False
+A-5783892,PA,Perry,Duncannon,Source1,4,40.3563559053404,-76.95595622025988,2021,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5786997,PA,Perry,New Germantown,Source1,4,40.260092,-77.663534,2021,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5793613,PA,Perry,New Germantown,Source1,4,40.263325,-77.66034300000003,2021,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5816710,PA,Perry,Liverpool,Source1,4,40.546113,-76.988501,2021,15,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-5855219,PA,Perry,Duncannon,Source1,4,40.35585800000001,-76.958013,2021,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5869806,PA,Perry,Duncannon,Source1,4,40.430598,-77.002711,2021,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5870768,PA,Perry,Elliottsburg,Source1,4,40.395231,-77.279951,2021,23,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5885317,PA,Perry,New Germantown,Source1,4,40.260092,-77.663534,2021,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5903642,PA,Perry,Duncannon,Source1,4,40.385622,-77.030374,2021,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5906257,PA,Perry,Duncannon,Source1,4,40.3563559053404,-76.95595622025988,2021,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5935683,PA,Perry,Loysville,Source1,4,40.370435,-77.403423,2021,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5971347,PA,Perry,Duncannon,Source1,4,40.40238261203573,-77.01758265458574,2021,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5976150,PA,Perry,Duncannon,Source1,4,40.354806,-76.976639,2021,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5992624,PA,Perry,Shermans Dale,Source1,4,40.319618,-77.165254,2021,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6026599,PA,Perry,Newport,Source1,4,40.46847,-77.131537,2021,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6036349,PA,Perry,Duncannon,Source1,4,40.39072700000001,-77.033202,2021,14,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-6064013,PA,Perry,Duncannon,Source1,4,40.35498261432478,-76.9807827469016,2021,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6074441,PA,Perry,Shermans Dale,Source1,4,40.323437,-77.170789,2021,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6083670,PA,Perry,Newport,Source1,4,40.478151,-77.044034,2021,11,Monday,Snow / Ice,False,False,True,False,False,False,False
+A-6093614,PA,Perry,Duncannon,Source1,4,40.354996,-76.967687,2021,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6118308,PA,Perry,Duncannon,Source1,4,40.488012,-76.952157,2021,1,Sunday,Fog / Low visibility,False,False,False,True,False,False,False
+A-6132986,PA,Perry,Shermans Dale,Source1,4,40.319803,-77.165458,2021,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6138382,PA,Perry,Duncannon,Source1,4,40.35497700000001,-76.980339,2021,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6139739,PA,Perry,New Germantown,Source1,4,40.255108,-77.669513,2021,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6146525,PA,Perry,Newport,Source1,4,40.495585,-77.11425600000003,2021,13,Wednesday,Rain,False,False,True,False,False,False,False
+A-6148705,PA,Perry,Shermans Dale,Source1,4,40.323388,-77.170467,2021,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6154113,PA,Perry,Shermans Dale,Source1,4,40.3518497941954,-77.21134543382067,2021,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6158747,PA,Perry,Liverpool,Source1,4,40.568941,-76.99268199999999,2021,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6168394,PA,Perry,Millerstown,Source1,4,40.549425,-77.154996,2021,0,Tuesday,Clear / Fair,False,True,False,True,False,True,False
+A-6174549,PA,Perry,Liverpool,Source1,4,40.546113,-76.988501,2021,15,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-6189237,PA,Perry,Loysville,Source1,4,40.381521,-77.409361,2021,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6194713,PA,Perry,Newport,Source1,4,40.50078749637365,-77.13045000993189,2021,23,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6200822,PA,Perry,Shermans Dale,Source1,4,40.31097292880864,-77.1527659889357,2021,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6201371,PA,Perry,Shermans Dale,Source1,4,40.330911,-77.181399,2021,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6239556,PA,Perry,Duncannon,Source1,4,40.432104,-77.000982,2021,15,Wednesday,Clear / Fair,False,False,False,True,False,False,False
+A-6242560,PA,Perry,Marysville,Source1,4,40.343494,-76.92983100000002,2021,17,Friday,Clear / Fair,True,True,False,False,False,False,False
+A-6248257,PA,Perry,Duncannon,Source1,4,40.3563559053404,-76.95595622025988,2021,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6272133,PA,Perry,Marysville,Source1,4,40.32702000000001,-77.02533100000002,2021,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6277172,PA,Perry,Millerstown,Source1,4,40.563339,-77.123172,2021,0,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-6288070,PA,Perry,Duncannon,Source1,4,40.356321,-76.95613,2021,15,Wednesday,Rain,False,False,False,False,False,False,False
+A-6296636,PA,Perry,Millerstown,Source1,4,40.549425,-77.154996,2021,0,Tuesday,Clear / Fair,False,True,False,True,False,True,False
+A-6323649,PA,Perry,Shermans Dale,Source1,4,40.319470166967776,-77.16503977738778,2021,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6337030,PA,Perry,Marysville,Source1,4,40.343494,-76.92983100000002,2021,12,Sunday,Cloudy,True,True,False,False,False,False,False
+A-6363394,PA,Perry,Liverpool,Source1,4,40.545908,-76.9883,2021,14,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-6390958,PA,Perry,Liverpool,Source1,4,40.569377,-76.99239,2021,14,Thursday,Clear / Fair,False,False,False,True,False,False,False
+A-6399485,PA,Perry,Shermans Dale,Source1,4,40.319618,-77.165254,2021,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6507979,PA,Perry,Shermans Dale,Source1,4,40.345128,-77.19130899999998,2021,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6554995,PA,Perry,Millerstown,Source1,4,40.541557,-77.14641400000002,2021,22,Sunday,Snow / Ice,False,False,True,False,False,False,False
+A-6588071,PA,Perry,Duncannon,Source1,4,40.355556,-76.934493,2020,0,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6618658,PA,Perry,New Bloomfield,Source1,4,40.387559,-77.140345,2020,16,Saturday,Clear / Fair,False,False,False,True,False,False,False
+A-6630374,PA,Perry,Landisburg,Source1,4,40.328274,-77.365252,2020,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6632405,PA,Perry,New Bloomfield,Source1,4,40.387555,-77.140341,2020,16,Saturday,Clear / Fair,False,False,False,True,False,False,False
+A-6719589,PA,Perry,Duncannon,Source1,4,40.429624,-77.003895,2020,5,Monday,Rain,False,False,True,False,False,False,False
+A-6731902,PA,Perry,Landisburg,Source1,4,40.305298,-77.27969300000002,2020,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6743720,PA,Perry,Marysville,Source1,4,40.352122,-76.932506,2020,0,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6757976,PA,Perry,Duncannon,Source1,4,40.356355,-76.955956,2020,0,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6758151,PA,Perry,Shermans Dale,Source1,4,40.395097,-77.15031,2020,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6772618,PA,Perry,Shermans Dale,Source1,4,40.388263,-77.14390300000002,2020,16,Saturday,Clear / Fair,False,False,False,True,False,False,False
+A-6789249,PA,Perry,Marysville,Source1,4,40.343494,-76.92983100000002,2020,5,Monday,Rain,True,True,False,False,False,False,False
+A-6789250,PA,Perry,Marysville,Source1,4,40.343494,-76.92983100000002,2020,5,Monday,Rain,True,True,False,False,False,False,False
+A-6790389,PA,Perry,New Bloomfield,Source1,4,40.400316,-77.113126,2020,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6817915,PA,Perry,Landisburg,Source1,4,40.329663,-77.286294,2020,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6820139,PA,Perry,Millerstown,Source1,4,40.545056,-77.153288,2020,6,Monday,Fog / Low visibility,False,False,True,False,False,False,False
+A-6820140,PA,Perry,Millerstown,Source1,4,40.545056,-77.153288,2020,6,Monday,Fog / Low visibility,False,False,True,False,False,False,False
+A-6916252,PA,Perry,Marysville,Source1,4,40.343494,-76.92983100000002,2020,5,Monday,Rain,True,True,False,False,False,False,False
+A-6921440,PA,Perry,Duncannon,Source1,4,40.429624,-77.003895,2020,5,Monday,Rain,False,False,True,False,False,False,False
+A-6924791,PA,Perry,Millerstown,Source1,4,40.545056,-77.153288,2020,6,Monday,Fog / Low visibility,False,False,True,False,False,False,False
+A-6980719,PA,Perry,Millerstown,Source1,3,40.54154000000001,-77.14686999999998,2020,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6980721,PA,Perry,Millerstown,Source1,4,40.5449,-77.15313,2020,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6980734,PA,Perry,Millerstown,Source1,4,40.5449,-77.15313,2020,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6980752,PA,Perry,Millerstown,Source1,4,40.5449,-77.15313,2020,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6980768,PA,Perry,Millerstown,Source1,4,40.5449,-77.15313,2020,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6980776,PA,Perry,Millerstown,Source1,4,40.5449,-77.15313,2020,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6980789,PA,Perry,Millerstown,Source1,4,40.5449,-77.15313,2020,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6980794,PA,Perry,Millerstown,Source1,4,40.5449,-77.15313,2020,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6980817,PA,Perry,Millerstown,Source1,4,40.5449,-77.15313,2020,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6980825,PA,Perry,Millerstown,Source1,4,40.5449,-77.15313,2020,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6988477,PA,Perry,Duncannon,Source1,3,40.48803,-76.95213000000003,2020,16,Friday,Rain,False,False,False,True,False,False,False
+A-6988480,PA,Perry,Duncannon,Source1,3,40.48806,-76.95201,2020,16,Friday,Rain,False,False,False,True,False,False,False
+A-7096196,PA,Perry,Newport,Source1,3,40.49407,-77.1032,2020,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7139981,PA,Perry,New Bloomfield,Source1,4,40.38613,-77.14305,2020,14,Friday,Cloudy,False,False,False,True,False,False,False
+A-7139985,PA,Perry,New Bloomfield,Source1,4,40.38613,-77.14305,2020,12,Friday,Clear / Fair,False,False,False,True,False,False,False
+A-7139996,PA,Perry,New Bloomfield,Source1,4,40.38613,-77.14305,2020,12,Friday,Cloudy,False,False,False,True,False,False,False
+A-7140007,PA,Perry,New Bloomfield,Source1,4,40.38613,-77.14305,2020,13,Friday,Cloudy,False,False,False,True,False,False,False
+A-7140028,PA,Perry,New Bloomfield,Source1,4,40.38613,-77.14305,2020,14,Friday,Cloudy,False,False,False,True,False,False,False
+A-7444438,PA,Perry,Duncannon,Source1,4,40.38483,-77.02986,2019,17,Monday,Snow / Ice,False,False,True,False,False,False,False
+A-7461779,PA,Perry,Duncannon,Source1,4,40.452472,-77.02261999999997,2019,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7461783,PA,Perry,Duncannon,Source1,4,40.452472,-77.02261999999997,2019,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7467991,PA,Perry,Millerstown,Source1,4,40.547939,-77.155119,2019,0,Thursday,Rain,False,False,False,False,False,False,False
+A-7467992,PA,Perry,Millerstown,Source1,4,40.547939,-77.155119,2019,0,Thursday,Rain,False,False,False,False,False,False,False
+A-7479103,PA,Perry,Marysville,Source1,4,40.339717,-76.929018,2018,11,Saturday,Cloudy,False,True,False,True,False,False,False
+A-7479104,PA,Perry,Marysville,Source1,4,40.337059,-76.92711899999998,2018,11,Saturday,Cloudy,False,False,False,True,False,False,False
+A-7479114,PA,Perry,Marysville,Source1,4,40.337059,-76.92711899999998,2018,13,Saturday,Cloudy,False,False,False,True,False,False,False
+A-7479115,PA,Perry,Marysville,Source1,4,40.339717,-76.929018,2018,13,Saturday,Cloudy,False,True,False,True,False,False,False
+A-7504757,PA,Perry,Duncannon,Source1,4,40.438501,-76.993769,2018,20,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7508453,PA,Perry,Millerstown,Source1,4,40.551518,-77.157928,2018,3,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7508454,PA,Perry,Millerstown,Source1,4,40.551518,-77.157928,2018,3,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7513926,PA,Perry,Marysville,Source1,4,40.3435,-76.92984,2018,2,Thursday,Cloudy,True,True,False,False,False,False,False
+A-7518106,PA,Perry,Newport,Source1,4,40.481099,-77.072051,2018,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-7518107,PA,Perry,Newport,Source1,4,40.49431,-77.105012,2018,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-7591184,PA,Perry,New Bloomfield,Source1,4,40.438863,-77.160748,2018,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7591185,PA,Perry,New Bloomfield,Source1,4,40.438862,-77.160751,2018,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7688544,PA,Perry,Marysville,Source1,4,40.3435,-76.92984,2017,19,Friday,Clear / Fair,True,True,False,False,False,False,False

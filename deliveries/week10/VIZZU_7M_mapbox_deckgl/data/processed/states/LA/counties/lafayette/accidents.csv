@@ -1,0 +1,534 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-513218,LA,Lafayette,Lafayette,Source2,3,30.295736,-92.025215,2022,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-529171,LA,Lafayette,Scott,Source2,3,30.247398,-92.10778,2022,13,Tuesday,Rain,False,False,False,False,False,False,False
+A-531715,LA,Lafayette,Lafayette,Source2,3,30.251343,-92.035919,2022,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-538834,LA,Lafayette,Carencro,Source2,4,30.322525,-92.034164,2022,7,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-565250,LA,Lafayette,Lafayette,Source2,3,30.251343,-92.035919,2022,15,Friday,Rain,False,False,False,False,False,False,False
+A-572497,LA,Lafayette,Scott,Source2,3,30.247398,-92.10778,2022,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-574051,LA,Lafayette,Lafayette,Source2,3,30.251268,-92.036369,2022,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-589540,LA,Lafayette,Scott,Source2,3,30.247398,-92.10778,2022,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-607827,LA,Lafayette,Scott,Source2,3,30.247398,-92.10778,2022,7,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-607868,LA,Lafayette,Scott,Source2,3,30.247398,-92.10778,2022,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-613797,LA,Lafayette,Lafayette,Source2,3,30.273483,-92.018875,2022,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-613816,LA,Lafayette,Lafayette,Source2,3,30.295736,-92.025215,2022,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-622812,LA,Lafayette,Duson,Source2,3,30.24752800000001,-92.141747,2022,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-664554,LA,Lafayette,Scott,Source2,3,30.247398,-92.10778,2022,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-673646,LA,Lafayette,Lafayette,Source2,3,30.259787,-92.015732,2022,12,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-681771,LA,Lafayette,Lafayette,Source2,3,30.274441,-92.018951,2022,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-691103,LA,Lafayette,Lafayette,Source2,3,30.262295,-92.01619,2022,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-706084,LA,Lafayette,Scott,Source2,3,30.247398,-92.10778,2022,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-710670,LA,Lafayette,Lafayette,Source2,3,30.295736,-92.025215,2022,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-768525,LA,Lafayette,Lafayette,Source2,3,30.267876,-91.993011,2021,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-773979,LA,Lafayette,Lafayette,Source2,3,30.262295,-92.01619,2021,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-793609,LA,Lafayette,Lafayette,Source2,3,30.277624,-92.019958,2021,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-793676,LA,Lafayette,Lafayette,Source2,3,30.295736,-92.025215,2021,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-811219,LA,Lafayette,Lafayette,Source2,3,30.262295,-92.01619,2021,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-812866,LA,Lafayette,Scott,Source2,3,30.246572,-92.066437,2021,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-843685,LA,Lafayette,Scott,Source2,3,30.246572,-92.066437,2021,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-853537,LA,Lafayette,Lafayette,Source2,3,30.273483,-92.018875,2021,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-865915,LA,Lafayette,Lafayette,Source2,3,30.251343,-92.035919,2021,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-884325,LA,Lafayette,Scott,Source2,3,30.247309,-92.141685,2021,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-888552,LA,Lafayette,Lafayette,Source2,3,30.259787,-92.015732,2021,18,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-926479,LA,Lafayette,Lafayette,Source2,3,30.258619,-92.015572,2021,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-931881,LA,Lafayette,Scott,Source2,4,30.246572,-92.066437,2021,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-956786,LA,Lafayette,Lafayette,Source2,3,30.259787,-92.015732,2021,5,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-957339,LA,Lafayette,Lafayette,Source2,3,30.259787,-92.015732,2021,9,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-961487,LA,Lafayette,Scott,Source2,3,30.247534,-92.142822,2021,11,Friday,Storm,False,False,False,False,False,False,False
+A-972383,LA,Lafayette,Lafayette,Source2,3,30.267876,-91.993011,2021,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-990423,LA,Lafayette,Lafayette,Source2,3,30.273483,-92.018875,2021,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-993041,LA,Lafayette,Lafayette,Source2,3,30.273483,-92.018875,2021,14,Wednesday,Storm,False,False,False,False,False,False,False
+A-1005820,LA,Lafayette,Lafayette,Source2,4,30.25996,-92.015038,2021,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1007122,LA,Lafayette,Lafayette,Source2,3,30.251343,-92.035919,2021,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1007123,LA,Lafayette,Lafayette,Source2,3,30.259390000000003,-92.015724,2021,14,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-1011829,LA,Lafayette,Lafayette,Source2,3,30.295736,-92.025215,2021,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1022841,LA,Lafayette,Scott,Source2,3,30.246572,-92.066437,2021,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1061523,LA,Lafayette,Lafayette,Source2,3,30.251801,-92.033699,2021,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-1113460,LA,Lafayette,Lafayette,Source2,3,30.267876,-91.993011,2021,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-1121704,LA,Lafayette,Lafayette,Source2,3,30.262295,-92.01619,2021,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1126254,LA,Lafayette,Scott,Source2,3,30.247398,-92.10778,2021,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1176619,LA,Lafayette,Lafayette,Source2,3,30.273483,-92.018875,2021,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1187556,LA,Lafayette,Lafayette,Source2,3,30.259787,-92.015732,2021,10,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-1188876,LA,Lafayette,Lafayette,Source2,3,30.267876,-91.993011,2021,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1188877,LA,Lafayette,Lafayette,Source2,3,30.261936,-92.014915,2021,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1191272,LA,Lafayette,Lafayette,Source2,3,30.273483,-92.018875,2021,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1202095,LA,Lafayette,Lafayette,Source2,3,30.261803000000004,-92.016045,2021,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1208053,LA,Lafayette,Lafayette,Source2,4,30.267876,-91.993011,2021,0,Friday,Cloudy,False,False,False,False,False,False,False
+A-1238277,LA,Lafayette,Lafayette,Source2,3,30.262295,-92.01619,2020,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1247824,LA,Lafayette,Lafayette,Source2,3,30.267876,-91.993011,2020,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1267586,LA,Lafayette,Lafayette,Source2,3,30.295736,-92.025215,2020,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1273525,LA,Lafayette,Lafayette,Source2,3,30.13792,-92.067543,2020,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1292965,LA,Lafayette,Lafayette,Source2,3,30.259390000000003,-92.015724,2020,7,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-1304666,LA,Lafayette,Lafayette,Source2,3,30.267876,-91.993011,2020,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-1306228,LA,Lafayette,Lafayette,Source2,3,30.259829,-92.014648,2020,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1317091,LA,Lafayette,Lafayette,Source2,3,30.251343,-92.035919,2020,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-1318817,LA,Lafayette,Lafayette,Source2,3,30.251343,-92.035919,2020,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1320481,LA,Lafayette,Scott,Source2,3,30.24301,-92.072182,2020,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1322165,LA,Lafayette,Lafayette,Source2,3,30.259390000000003,-92.015724,2020,7,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-1323973,LA,Lafayette,Lafayette,Source2,3,30.259787,-92.015732,2020,12,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1333439,LA,Lafayette,Lafayette,Source2,3,30.267876,-91.993011,2020,13,Friday,Rain,False,False,False,False,False,False,False
+A-1334495,LA,Lafayette,Lafayette,Source2,3,30.267876,-91.993011,2020,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1344042,LA,Lafayette,Lafayette,Source2,3,30.295736,-92.025215,2020,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-1344045,LA,Lafayette,Carencro,Source2,3,30.322525,-92.034164,2020,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-1347239,LA,Lafayette,Lafayette,Source2,3,30.259787,-92.015732,2020,7,Monday,Cloudy,False,False,True,False,False,False,False
+A-1349197,LA,Lafayette,Lafayette,Source2,3,30.260868,-92.015831,2020,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1349199,LA,Lafayette,Carencro,Source2,3,30.322903000000004,-92.034172,2020,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1349208,LA,Lafayette,Scott,Source2,4,30.247379,-92.108131,2020,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1349209,LA,Lafayette,Scott,Source2,3,30.246572,-92.066437,2020,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1351091,LA,Lafayette,Lafayette,Source2,3,30.259390000000003,-92.015724,2020,12,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-1367899,LA,Lafayette,Lafayette,Source2,4,30.259390000000003,-92.015724,2020,7,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-1372729,LA,Lafayette,Scott,Source2,3,30.24749000000001,-92.13279,2020,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1376357,LA,Lafayette,Lafayette,Source2,3,30.268167,-91.992424,2020,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1382920,LA,Lafayette,Lafayette,Source2,3,30.267834000000004,-91.992523,2020,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1388780,LA,Lafayette,Lafayette,Source2,3,30.267876,-91.993011,2020,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1391224,LA,Lafayette,Lafayette,Source2,3,30.262295,-92.01619,2020,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1391225,LA,Lafayette,Lafayette,Source2,3,30.262295,-92.01619,2020,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1391670,LA,Lafayette,Lafayette,Source2,3,30.267876,-91.993011,2020,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1397044,LA,Lafayette,Lafayette,Source2,3,30.267876,-91.993011,2020,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1402677,LA,Lafayette,Lafayette,Source2,3,30.259787,-92.015732,2020,10,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-1405574,LA,Lafayette,Lafayette,Source2,3,30.267876,-91.993011,2020,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1419290,LA,Lafayette,Lafayette,Source2,3,30.267876,-91.993011,2020,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1420813,LA,Lafayette,Duson,Source2,3,30.247393,-92.156891,2020,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1449661,LA,Lafayette,Scott,Source2,3,30.247398,-92.10778,2020,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1458295,LA,Lafayette,Lafayette,Source2,3,30.251141,-92.03669,2020,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1486251,LA,Lafayette,Lafayette,Source2,3,30.21903,-92.021271,2020,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1487810,LA,Lafayette,Lafayette,Source2,3,30.251249,-92.036423,2020,14,Wednesday,Storm,False,False,False,False,False,False,False
+A-1490934,LA,Lafayette,Lafayette,Source2,3,30.259787,-92.015732,2020,10,Friday,Cloudy,False,False,True,False,False,False,False
+A-1492359,LA,Lafayette,Lafayette,Source2,3,30.267876,-91.993011,2020,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1502578,LA,Lafayette,Lafayette,Source2,3,30.254663,-92.027367,2020,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1504017,LA,Lafayette,Lafayette,Source2,3,30.267876,-91.993011,2020,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1514675,LA,Lafayette,Lafayette,Source2,4,30.295773,-92.02507,2020,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1516817,LA,Lafayette,Lafayette,Source2,3,30.251343,-92.035919,2020,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1519991,LA,Lafayette,Lafayette,Source2,3,30.267876,-91.993011,2020,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-1521907,LA,Lafayette,Lafayette,Source2,3,30.273483,-92.018875,2020,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1529536,LA,Lafayette,Lafayette,Source2,3,30.26862,-91.992569,2020,8,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-1540016,LA,Lafayette,Scott,Source2,3,30.247398,-92.10778,2020,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1562555,LA,Lafayette,Lafayette,Source2,3,30.259787,-92.015732,2020,17,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-1569101,LA,Lafayette,Lafayette,Source2,3,30.20101,-92.015381,2020,10,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-1575818,LA,Lafayette,Lafayette,Source2,3,30.267876,-91.993011,2020,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1581603,LA,Lafayette,Lafayette,Source2,3,30.259390000000003,-92.015724,2020,6,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-1581605,LA,Lafayette,Lafayette,Source2,3,30.251343,-92.035919,2020,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1585874,LA,Lafayette,Lafayette,Source2,3,30.251343,-92.035919,2020,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-1585889,LA,Lafayette,Lafayette,Source2,3,30.267876,-91.993011,2020,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-1593984,LA,Lafayette,Lafayette,Source2,3,30.267876,-91.993011,2020,5,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1609815,LA,Lafayette,Lafayette,Source2,3,30.259390000000003,-92.015724,2020,15,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-1636123,LA,Lafayette,Lafayette,Source2,3,30.259390000000003,-92.015724,2020,6,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1649492,LA,Lafayette,Lafayette,Source2,3,30.250952,-92.036385,2020,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1649493,LA,Lafayette,Lafayette,Source2,3,30.251898,-92.034813,2020,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1652854,LA,Lafayette,Lafayette,Source2,3,30.267876,-91.993011,2020,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-1655062,LA,Lafayette,Lafayette,Source2,3,30.273483,-92.018875,2020,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1662842,LA,Lafayette,Lafayette,Source2,3,30.251343,-92.035919,2020,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1665105,LA,Lafayette,Scott,Source2,3,30.247326,-92.144791,2020,17,Monday,Rain,False,False,False,False,False,False,False
+A-1669386,LA,Lafayette,Lafayette,Source2,3,30.267876,-91.993011,2020,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1669387,LA,Lafayette,Carencro,Source2,3,30.322525,-92.034164,2020,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1680878,LA,Lafayette,Scott,Source2,4,30.247379,-92.10778,2019,1,Friday,Cloudy,False,False,False,False,False,False,False
+A-1682005,LA,Lafayette,Lafayette,Source2,3,30.267876,-91.993011,2019,7,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1682006,LA,Lafayette,Lafayette,Source2,3,30.259390000000003,-92.015724,2019,17,Saturday,Cloudy,False,False,True,False,False,False,False
+A-1691722,LA,Lafayette,Lafayette,Source2,3,30.262295,-92.01619,2019,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1696896,LA,Lafayette,Lafayette,Source2,3,30.295736,-92.025215,2019,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1700878,LA,Lafayette,Lafayette,Source2,3,30.259390000000003,-92.015724,2019,15,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-1704033,LA,Lafayette,Broussard,Source2,3,30.144939,-91.945953,2019,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-1716508,LA,Lafayette,Lafayette,Source2,3,30.262295,-92.01619,2019,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1760932,LA,Lafayette,Lafayette,Source2,3,30.267876,-91.993011,2019,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1760942,LA,Lafayette,Lafayette,Source2,3,30.267876,-91.993011,2019,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1763497,LA,Lafayette,Lafayette,Source2,3,30.267876,-91.993011,2019,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1763498,LA,Lafayette,Lafayette,Source2,3,30.267876,-91.993011,2019,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1764916,LA,Lafayette,Lafayette,Source2,3,30.267876,-91.993011,2019,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1767676,LA,Lafayette,Lafayette,Source2,3,30.259787,-92.015732,2019,10,Monday,Rain,False,False,True,False,False,False,False
+A-1779881,LA,Lafayette,Lafayette,Source2,3,30.267876,-91.993011,2019,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1782295,LA,Lafayette,Lafayette,Source2,3,30.295736,-92.025215,2019,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1784944,LA,Lafayette,Lafayette,Source2,3,30.251343,-92.035919,2019,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1787596,LA,Lafayette,Lafayette,Source2,3,30.218691,-92.00148,2019,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1790234,LA,Lafayette,Carencro,Source2,3,30.322525,-92.034164,2019,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1796838,LA,Lafayette,Lafayette,Source2,3,30.273483,-92.018875,2019,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1802208,LA,Lafayette,Lafayette,Source2,3,30.267876,-91.993011,2019,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1805015,LA,Lafayette,Lafayette,Source2,3,30.262295,-92.01619,2019,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1805016,LA,Lafayette,Lafayette,Source2,3,30.259390000000003,-92.015724,2019,18,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-1826198,LA,Lafayette,Lafayette,Source2,3,30.267876,-91.993011,2019,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1830530,LA,Lafayette,Carencro,Source2,3,30.322023,-92.033882,2019,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1840692,LA,Lafayette,Lafayette,Source2,3,30.267876,-91.993011,2019,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1841489,LA,Lafayette,Lafayette,Source2,3,30.267876,-91.993011,2019,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1862093,LA,Lafayette,Lafayette,Source2,3,30.267981,-91.994904,2019,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1862098,LA,Lafayette,Lafayette,Source2,3,30.267939,-91.992722,2019,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1864525,LA,Lafayette,Lafayette,Source2,3,30.259390000000003,-92.015724,2019,18,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1865930,LA,Lafayette,Scott,Source2,3,30.247398,-92.10778,2019,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1877034,LA,Lafayette,Lafayette,Source2,3,30.232161,-92.076012,2019,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1883820,LA,Lafayette,Lafayette,Source2,3,30.267939,-91.992722,2019,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-1912504,LA,Lafayette,Lafayette,Source2,3,30.267939,-91.992722,2019,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1917393,LA,Lafayette,Lafayette,Source2,3,30.267939,-91.992722,2019,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1918763,LA,Lafayette,Lafayette,Source2,3,30.258631,-92.013687,2019,12,Saturday,Rain,False,False,False,False,False,False,False
+A-1928091,LA,Lafayette,Lafayette,Source2,3,30.29529,-92.0252,2019,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1940803,LA,Lafayette,Broussard,Source2,3,30.15008,-91.96331,2019,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1943142,LA,Lafayette,Lafayette,Source2,3,30.273493,-92.018875,2019,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-1983082,LA,Lafayette,Lafayette,Source2,4,30.267939,-91.992722,2019,12,Tuesday,Rain,False,False,False,False,False,False,False
+A-1983083,LA,Lafayette,Lafayette,Source2,3,30.258631,-92.013687,2019,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1989760,LA,Lafayette,Lafayette,Source2,3,30.267939,-91.992722,2019,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2007574,LA,Lafayette,Lafayette,Source2,3,30.251268,-92.036369,2019,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2036813,LA,Lafayette,Lafayette,Source2,3,30.261904,-92.016113,2019,6,Thursday,Storm,False,False,False,False,False,False,False
+A-2047600,LA,Lafayette,Lafayette,Source2,3,30.273493,-92.018875,2019,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2050008,LA,Lafayette,Scott,Source2,3,30.246572,-92.066437,2019,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2056066,LA,Lafayette,Scott,Source2,3,30.246572,-92.066437,2019,9,Monday,Rain,False,False,False,False,False,False,False
+A-2058389,LA,Lafayette,Lafayette,Source2,3,30.267939,-91.992722,2019,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2063079,LA,Lafayette,Lafayette,Source2,3,30.268089,-91.991737,2019,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2063083,LA,Lafayette,Lafayette,Source2,3,30.295744,-92.025215,2019,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2075646,LA,Lafayette,Lafayette,Source2,3,30.188601,-92.014099,2019,8,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-2075652,LA,Lafayette,Lafayette,Source2,3,30.267939,-91.992722,2019,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2101288,LA,Lafayette,Broussard,Source2,3,30.117437,-91.943504,2019,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2103562,LA,Lafayette,Lafayette,Source2,3,30.291754,-92.024017,2019,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2103564,LA,Lafayette,Scott,Source2,3,30.246691,-92.100761,2019,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2106010,LA,Lafayette,Scott,Source2,3,30.246811,-92.066315,2019,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2110855,LA,Lafayette,Lafayette,Source2,3,30.268061,-91.992775,2019,7,Sunday,Storm,False,False,False,False,False,False,False
+A-2112789,LA,Lafayette,Scott,Source2,4,30.246813,-92.066467,2019,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-2112812,LA,Lafayette,Scott,Source2,3,30.24601,-92.065193,2019,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2129460,LA,Lafayette,Lafayette,Source2,3,30.275402000000003,-92.019173,2019,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2141125,LA,Lafayette,Scott,Source2,3,30.247398,-92.10778,2019,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2143459,LA,Lafayette,Lafayette,Source2,3,30.273405,-92.018997,2019,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2143462,LA,Lafayette,Lafayette,Source2,3,30.267824,-91.992989,2019,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2148223,LA,Lafayette,Carencro,Source2,3,30.322384000000003,-92.034149,2019,6,Thursday,Storm,False,False,False,False,False,False,False
+A-2148245,LA,Lafayette,Lafayette,Source2,3,30.259441,-92.015877,2019,11,Thursday,Storm,False,False,True,False,False,False,False
+A-2157268,LA,Lafayette,Carencro,Source2,3,30.322384000000003,-92.034149,2019,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2159763,LA,Lafayette,Lafayette,Source2,3,30.25120900000001,-92.035751,2019,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2168639,LA,Lafayette,Lafayette,Source2,3,30.261904,-92.016113,2019,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2177695,LA,Lafayette,Lafayette,Source2,3,30.251343,-92.035919,2019,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2181238,LA,Lafayette,Carencro,Source2,3,30.322359,-92.034126,2019,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2185862,LA,Lafayette,Lafayette,Source2,3,30.261904,-92.016113,2019,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2194356,LA,Lafayette,Lafayette,Source2,4,30.268061,-91.992775,2019,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-2199617,LA,Lafayette,Lafayette,Source2,3,30.29563,-92.025169,2019,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-2204403,LA,Lafayette,Lafayette,Source2,3,30.267824,-91.992989,2019,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2206960,LA,Lafayette,Lafayette,Source2,3,30.19915,-92.026627,2019,10,Thursday,Cloudy,True,False,False,False,False,False,False
+A-2212963,LA,Lafayette,Lafayette,Source2,3,30.251129,-92.036438,2019,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-2214953,LA,Lafayette,Scott,Source2,3,30.246729,-92.066383,2019,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2217079,LA,Lafayette,Scott,Source2,3,30.246729,-92.066383,2019,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2217086,LA,Lafayette,Lafayette,Source2,3,30.273878000000003,-92.018959,2019,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2217087,LA,Lafayette,Carencro,Source2,3,30.321718,-92.034073,2019,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2226834,LA,Lafayette,Carencro,Source2,3,30.322384000000003,-92.034149,2019,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2234127,LA,Lafayette,Lafayette,Source2,3,30.267824,-91.992989,2019,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2242262,LA,Lafayette,Lafayette,Source2,3,30.209564,-92.032539,2019,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2250349,LA,Lafayette,Carencro,Source2,3,30.323301,-92.034607,2019,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2255887,LA,Lafayette,Scott,Source2,3,30.246729,-92.066383,2019,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2277517,LA,Lafayette,Lafayette,Source2,3,30.295586,-92.023613,2019,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-2280436,LA,Lafayette,Lafayette,Source2,3,30.294102,-92.024796,2019,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2285793,LA,Lafayette,Scott,Source2,3,30.244949,-92.107185,2019,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2285800,LA,Lafayette,Lafayette,Source2,3,30.269241,-91.988022,2019,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2292253,LA,Lafayette,Lafayette,Source2,3,30.26732100000001,-92.017601,2019,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-2294409,LA,Lafayette,Lafayette,Source2,3,30.29563,-92.025169,2019,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2297034,LA,Lafayette,Lafayette,Source2,3,30.259521000000003,-92.015411,2019,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2307711,LA,Lafayette,Scott,Source2,3,30.247396,-92.10759,2019,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2310275,LA,Lafayette,Lafayette,Source2,3,30.259705,-92.015671,2019,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2324600,LA,Lafayette,Lafayette,Source2,3,30.29563,-92.025169,2019,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2324609,LA,Lafayette,Lafayette,Source2,3,30.251179,-92.035828,2019,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2343175,LA,Lafayette,Lafayette,Source2,3,30.23245,-92.032349,2019,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2343178,LA,Lafayette,Lafayette,Source2,3,30.259441,-92.015877,2019,13,Thursday,Cloudy,False,False,True,False,False,False,False
+A-2345688,LA,Lafayette,Lafayette,Source2,3,30.230551,-92.021843,2019,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-2352017,LA,Lafayette,Lafayette,Source2,3,30.229239,-92.062798,2019,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2357780,LA,Lafayette,Lafayette,Source2,3,30.259441,-92.015877,2019,15,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-2360518,LA,Lafayette,Carencro,Source2,3,30.322384000000003,-92.034149,2019,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2360519,LA,Lafayette,Carencro,Source2,3,30.321581,-92.034027,2019,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2380701,LA,Lafayette,Lafayette,Source2,3,30.267824,-91.992989,2018,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2388452,LA,Lafayette,Lafayette,Source2,3,30.259441,-92.015877,2018,6,Monday,Cloudy,False,False,True,False,False,False,False
+A-2390943,LA,Lafayette,Lafayette,Source2,3,30.267824,-91.992989,2018,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2408449,LA,Lafayette,Scott,Source2,3,30.247396,-92.10759,2018,11,Thursday,Rain,False,False,False,False,False,False,False
+A-2410850,LA,Lafayette,District C,Source2,3,30.251562,-92.034142,2018,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2417225,LA,Lafayette,Lafayette,Source2,3,30.267824,-91.992989,2018,17,Thursday,Rain,False,False,False,False,False,False,False
+A-2429055,LA,Lafayette,Carencro,Source2,3,30.322338,-92.033981,2018,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2430753,LA,Lafayette,Scott,Source2,3,30.247078,-92.066292,2018,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2431413,LA,Lafayette,Lafayette,Source2,3,30.26815,-91.991608,2018,7,Sunday,Rain,False,False,False,False,False,False,False
+A-2440157,LA,Lafayette,Lafayette,Source2,3,30.251041,-92.036232,2018,15,Wednesday,Rain,False,False,False,False,False,False,False
+A-2443095,LA,Lafayette,Lafayette,Source2,3,30.273369,-92.018707,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2450820,LA,Lafayette,Lafayette,Source2,3,30.259497,-92.015511,2018,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-2456518,LA,Lafayette,Scott,Source2,3,30.247078,-92.066292,2018,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2456525,LA,Lafayette,Lafayette,Source2,3,30.267918,-91.992386,2018,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2462527,LA,Lafayette,Lafayette,Source2,3,30.259497,-92.015511,2018,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2462534,LA,Lafayette,Scott,Source2,3,30.247105,-92.107681,2018,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2466883,LA,Lafayette,Lafayette,Source2,3,30.259497,-92.015511,2018,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-2469760,LA,Lafayette,Lafayette,Source2,3,30.202684,-92.018272,2018,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2472416,LA,Lafayette,Scott,Source2,3,30.248415,-92.107948,2018,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2472420,LA,Lafayette,Lafayette,Source2,3,30.251041,-92.036232,2018,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2480076,LA,Lafayette,Lafayette,Source2,3,30.267948,-91.992271,2018,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2501403,LA,Lafayette,Lafayette,Source2,3,30.259497,-92.015511,2018,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2505258,LA,Lafayette,Lafayette,Source2,3,30.251564,-92.013687,2018,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2530787,LA,Lafayette,Lafayette,Source2,3,30.259304,-92.015976,2018,15,Friday,Cloudy,False,False,True,False,False,False,False
+A-2537941,LA,Lafayette,Carencro,Source2,3,30.322338,-92.033981,2018,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-2556874,LA,Lafayette,Scott,Source2,3,30.247078,-92.066292,2018,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-2562239,LA,Lafayette,Lafayette,Source2,3,30.259329,-92.015907,2018,16,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-2562243,LA,Lafayette,Lafayette,Source2,3,30.251041,-92.036232,2018,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2567546,LA,Lafayette,Lafayette,Source2,3,30.273369,-92.018707,2018,14,Thursday,Storm,False,False,False,False,False,False,False
+A-2579870,LA,Lafayette,Scott,Source2,3,30.247105,-92.107681,2018,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2584791,LA,Lafayette,Lafayette,Source2,3,30.267948,-91.992271,2018,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2584792,LA,Lafayette,Carencro,Source2,3,30.321842,-92.033813,2018,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2609005,LA,Lafayette,Scott,Source2,3,30.247105,-92.107681,2018,12,Wednesday,Rain,False,False,False,False,False,False,False
+A-2619926,LA,Lafayette,Lafayette,Source2,3,30.267948,-91.992271,2018,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2636393,LA,Lafayette,Carencro,Source2,3,30.322338,-92.033981,2018,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2640553,LA,Lafayette,Lafayette,Source2,3,30.258398,-92.018204,2018,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2642953,LA,Lafayette,Lafayette,Source2,3,30.267948,-91.992271,2018,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-2647812,LA,Lafayette,Lafayette,Source2,3,30.271761,-92.018333,2018,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2652941,LA,Lafayette,Lafayette,Source2,3,30.247341,-92.034233,2018,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-2652947,LA,Lafayette,Scott,Source2,3,30.247078,-92.066292,2018,15,Friday,Rain,False,False,False,False,False,False,False
+A-2670674,LA,Lafayette,Scott,Source2,3,30.247078,-92.066292,2018,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-2673302,LA,Lafayette,Scott,Source2,3,30.24807,-92.065231,2018,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2675794,LA,Lafayette,Lafayette,Source2,3,30.259336,-92.015472,2018,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2675801,LA,Lafayette,Carencro,Source2,3,30.322338,-92.033981,2018,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2678503,LA,Lafayette,Carencro,Source2,3,30.322338,-92.033981,2018,7,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2690389,LA,Lafayette,Duson,Source2,3,30.243286,-92.193047,2018,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2698651,LA,Lafayette,Lafayette,Source2,3,30.267948,-91.992271,2018,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2700810,LA,Lafayette,Lafayette,Source2,3,30.204454,-92.034966,2018,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2700811,LA,Lafayette,Lafayette,Source2,3,30.217562,-92.004814,2018,8,Thursday,Cloudy,True,False,False,False,False,False,False
+A-2700812,LA,Lafayette,Lafayette,Source2,3,30.219437,-92.007477,2018,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2700813,LA,Lafayette,Broussard,Source2,3,30.101913,-91.941795,2018,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2704366,LA,Lafayette,Lafayette,Source2,3,30.267948,-91.992271,2018,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2705911,LA,Lafayette,Lafayette,Source2,3,30.267948,-91.992271,2018,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2712793,LA,Lafayette,Carencro,Source2,3,30.322338,-92.033981,2018,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2726019,LA,Lafayette,Lafayette,Source2,3,30.259497,-92.015511,2018,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2734385,LA,Lafayette,Scott,Source2,3,30.247105,-92.107681,2018,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2734389,LA,Lafayette,Scott,Source2,3,30.247105,-92.107681,2018,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2734391,LA,Lafayette,Lafayette,Source2,3,30.251041,-92.036232,2018,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2736875,LA,Lafayette,Lafayette,Source2,3,30.267948,-91.992271,2018,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-2759239,LA,Lafayette,Lafayette,Source2,3,30.267948,-91.992271,2018,14,Wednesday,Rain,False,False,False,False,False,False,False
+A-2759248,LA,Lafayette,Scott,Source2,3,30.247259000000003,-92.094604,2018,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2761684,LA,Lafayette,Scott,Source2,3,30.247105,-92.107681,2018,13,Thursday,Rain,False,False,False,False,False,False,False
+A-2761687,LA,Lafayette,Scott,Source2,3,30.247105,-92.107681,2018,14,Thursday,Storm,False,False,False,False,False,False,False
+A-2770482,LA,Lafayette,Lafayette,Source2,3,30.267948,-91.992271,2018,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2779466,LA,Lafayette,Scott,Source2,3,30.247078,-92.066292,2018,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2790750,LA,Lafayette,Lafayette,Source2,3,30.25139,-92.036057,2018,4,Friday,Sin dato,False,False,False,False,False,False,False
+A-2795726,LA,Lafayette,Lafayette,Source2,3,30.26037800000001,-92.017708,2018,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2795730,LA,Lafayette,Lafayette,Source2,3,30.267948,-91.992271,2018,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2798409,LA,Lafayette,Lafayette,Source2,3,30.273369,-92.018707,2018,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2801104,LA,Lafayette,Lafayette,Source2,3,30.295551,-92.025002,2018,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2801110,LA,Lafayette,Scott,Source2,3,30.247078,-92.066292,2018,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2803815,LA,Lafayette,Lafayette,Source2,3,30.267948,-91.992271,2018,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-2807721,LA,Lafayette,Scott,Source2,3,30.247105,-92.107681,2018,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2807729,LA,Lafayette,Scott,Source2,3,30.247105,-92.107681,2018,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2807735,LA,Lafayette,Carencro,Source2,3,30.322338,-92.033981,2018,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2810231,LA,Lafayette,Scott,Source2,3,30.247105,-92.107681,2018,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2815475,LA,Lafayette,Lafayette,Source2,3,30.251041,-92.036232,2018,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2815480,LA,Lafayette,Lafayette,Source2,3,30.251289,-92.036293,2018,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2825275,LA,Lafayette,Lafayette,Source2,3,30.267948,-91.992271,2018,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2828012,LA,Lafayette,Carencro,Source2,3,30.322266,-92.033958,2018,17,Wednesday,Rain,False,False,False,False,False,False,False
+A-2830685,LA,Lafayette,Lafayette,Source2,3,30.251041,-92.036232,2018,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2833276,LA,Lafayette,Scott,Source2,3,30.247078,-92.066292,2018,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2833288,LA,Lafayette,Lafayette,Source2,3,30.201468,-92.019073,2018,11,Friday,Cloudy,True,False,False,False,False,False,False
+A-2833296,LA,Lafayette,Lafayette,Source2,3,30.251041,-92.036232,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2837470,LA,Lafayette,Lafayette,Source2,3,30.232637,-92.062607,2018,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-2849476,LA,Lafayette,Lafayette,Source2,3,30.267948,-91.992271,2018,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2859875,LA,Lafayette,Lafayette,Source2,3,30.267948,-91.992271,2018,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-2862394,LA,Lafayette,Lafayette,Source2,3,30.259497,-92.015511,2018,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2873790,LA,Lafayette,Scott,Source2,3,30.247078,-92.066292,2018,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-2873791,LA,Lafayette,Scott,Source2,3,30.247105,-92.107681,2018,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-2873796,LA,Lafayette,Lafayette,Source2,3,30.259497,-92.015511,2018,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-2876432,LA,Lafayette,Lafayette,Source2,3,30.267948,-91.992271,2018,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2876439,LA,Lafayette,Lafayette,Source2,3,30.251377,-92.036087,2018,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2878938,LA,Lafayette,Lafayette,Source2,3,30.259497,-92.015511,2018,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2878940,LA,Lafayette,Carencro,Source2,3,30.322338,-92.033981,2018,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2888253,LA,Lafayette,Scott,Source2,3,30.246843,-92.068878,2018,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2888256,LA,Lafayette,Scott,Source2,3,30.247108,-92.108261,2018,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2888272,LA,Lafayette,Scott,Source2,3,30.247078,-92.066292,2018,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2890877,LA,Lafayette,Scott,Source2,3,30.247078,-92.066292,2018,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2890888,LA,Lafayette,Lafayette,Source2,3,30.295551,-92.025002,2018,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2896181,LA,Lafayette,Carencro,Source2,3,30.322458,-92.03434,2018,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2896197,LA,Lafayette,Lafayette,Source2,3,30.295551,-92.025002,2018,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2896201,LA,Lafayette,Lafayette,Source2,3,30.295551,-92.025002,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2908687,LA,Lafayette,Lafayette,Source2,3,30.267948,-91.992271,2018,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2908703,LA,Lafayette,Scott,Source2,3,30.247078,-92.066292,2018,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2911403,LA,Lafayette,Scott,Source2,3,30.247105,-92.107681,2018,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2916474,LA,Lafayette,Lafayette,Source2,3,30.267948,-91.992271,2018,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2918160,LA,Lafayette,Lafayette,Source2,3,30.267948,-91.992271,2018,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2918163,LA,Lafayette,Lafayette,Source2,3,30.295551,-92.025002,2018,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2933341,LA,Lafayette,Carencro,Source2,3,30.321955,-92.034172,2018,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2933346,LA,Lafayette,Scott,Source2,3,30.247105,-92.107681,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2935432,LA,Lafayette,Scott,Source2,3,30.247078,-92.066292,2018,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2935459,LA,Lafayette,Lafayette,Source2,3,30.250795,-92.036827,2018,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2935463,LA,Lafayette,Scott,Source2,3,30.247335,-92.107056,2018,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2947718,LA,Lafayette,Lafayette,Source2,3,30.251041,-92.036232,2018,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2950394,LA,Lafayette,Carencro,Source2,3,30.322338,-92.033981,2018,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2950401,LA,Lafayette,Scott,Source2,3,30.247078,-92.066292,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2950402,LA,Lafayette,Lafayette,Source2,3,30.250603,-92.037308,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2959979,LA,Lafayette,Scott,Source2,3,30.247078,-92.066292,2018,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2959982,LA,Lafayette,Scott,Source2,3,30.247105,-92.107681,2018,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2962859,LA,Lafayette,Scott,Source2,3,30.247105,-92.107681,2018,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2962861,LA,Lafayette,Scott,Source2,3,30.247078,-92.066292,2018,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2962867,LA,Lafayette,Lafayette,Source2,3,30.273369,-92.018707,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2962868,LA,Lafayette,Lafayette,Source2,3,30.273369,-92.018707,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2962870,LA,Lafayette,Scott,Source2,3,30.247105,-92.107681,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2968052,LA,Lafayette,Lafayette,Source2,3,30.267948,-91.992271,2018,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2969947,LA,Lafayette,Lafayette,Source2,3,30.254519,-92.01413,2018,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-2969949,LA,Lafayette,Lafayette,Source2,3,30.252192,-92.014084,2018,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-2976504,LA,Lafayette,Carencro,Source2,3,30.322338,-92.033981,2018,10,Thursday,Rain,False,False,False,False,False,False,False
+A-2991202,LA,Lafayette,Lafayette,Source2,3,30.294727,-92.025002,2018,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2991204,LA,Lafayette,Lafayette,Source2,3,30.181213,-92.099998,2018,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-2991211,LA,Lafayette,Lafayette,Source2,3,30.267948,-91.992271,2018,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-2996685,LA,Lafayette,Scott,Source2,3,30.247078,-92.066261,2018,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3006766,LA,Lafayette,Scott,Source2,3,30.247068,-92.065643,2018,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-3009333,LA,Lafayette,Carencro,Source2,3,30.322104,-92.035789,2018,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3014067,LA,Lafayette,Lafayette,Source2,3,30.273193,-92.012466,2018,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3016708,LA,Lafayette,Scott,Source2,3,30.247078,-92.066292,2018,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-3016711,LA,Lafayette,Lafayette,Source2,3,30.207409,-92.038223,2018,10,Friday,Cloudy,True,False,False,False,False,False,False
+A-3016716,LA,Lafayette,Scott,Source2,3,30.247105,-92.107681,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-3016720,LA,Lafayette,Lafayette,Source2,3,30.259254,-92.016762,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-3022924,LA,Lafayette,Duson,Source2,3,30.217773,-92.141937,2018,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3030726,LA,Lafayette,Scott,Source2,3,30.254108,-92.108147,2018,11,Friday,Rain,False,False,False,False,False,False,False
+A-3034920,LA,Lafayette,Lafayette,Source2,3,30.17946400000001,-92.007027,2018,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-3037586,LA,Lafayette,Carencro,Source2,3,30.322338,-92.033981,2018,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3037604,LA,Lafayette,Lafayette,Source2,3,30.270336,-92.018013,2018,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3041317,LA,Lafayette,Carencro,Source2,3,30.364286,-92.048073,2018,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3041320,LA,Lafayette,Lafayette,Source2,3,30.166483000000003,-92.037422,2018,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3058337,LA,Lafayette,Lafayette,Source2,3,30.218496,-92.012711,2018,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3060996,LA,Lafayette,Lafayette,Source2,3,30.295551,-92.025002,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3061004,LA,Lafayette,Youngsville,Source2,3,30.123829,-92.007408,2018,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3067767,LA,Lafayette,Lafayette,Source2,3,30.17499500000001,-92.070824,2018,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3073237,LA,Lafayette,Carencro,Source2,3,30.364286,-92.048073,2018,6,Wednesday,Rain,False,False,False,False,False,False,False
+A-3073246,LA,Lafayette,Carencro,Source2,3,30.322338,-92.033981,2018,8,Wednesday,Rain,False,False,False,False,False,False,False
+A-3089217,LA,Lafayette,Carencro,Source2,3,30.322338,-92.033981,2018,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3090652,LA,Lafayette,Lafayette,Source2,3,30.259497,-92.015511,2018,13,Saturday,Rain,False,False,False,False,False,False,False
+A-3095550,LA,Lafayette,Lafayette,Source2,3,30.273369,-92.018707,2018,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3095558,LA,Lafayette,Scott,Source2,3,30.247105,-92.107681,2018,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3105030,LA,Lafayette,Lafayette,Source2,3,30.225914000000003,-92.087006,2017,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-3105031,LA,Lafayette,Lafayette,Source2,3,30.275797,-92.066223,2017,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-3107810,LA,Lafayette,Lafayette,Source2,3,30.245516,-92.000397,2017,7,Tuesday,Fog / Low visibility,True,False,False,False,False,False,False
+A-3107812,LA,Lafayette,Lafayette,Source2,3,30.207268,-92.056564,2017,7,Tuesday,Fog / Low visibility,True,False,False,False,True,False,False
+A-3107818,LA,Lafayette,Scott,Source2,3,30.247105,-92.107681,2017,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3107819,LA,Lafayette,Scott,Source2,3,30.247078,-92.066292,2017,14,Tuesday,Rain,False,False,False,False,False,False,False
+A-3110520,LA,Lafayette,Lafayette,Source2,3,30.160742,-92.085182,2017,6,Wednesday,Rain,False,False,False,False,False,False,False
+A-3110522,LA,Lafayette,Lafayette,Source2,3,30.26177,-92.014633,2017,8,Wednesday,Rain,False,False,False,False,False,False,False
+A-3110537,LA,Lafayette,Lafayette,Source2,3,30.259497,-92.015511,2017,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3116565,LA,Lafayette,Carencro,Source2,3,30.364286,-92.048073,2017,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-3123397,LA,Lafayette,Scott,Source2,3,30.247105,-92.107681,2017,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3126361,LA,Lafayette,Scott,Source2,3,30.243851,-92.106209,2017,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3132227,LA,Lafayette,Lafayette,Source2,3,30.20241,-92.052025,2017,10,Friday,Cloudy,True,False,False,False,False,False,False
+A-3136207,LA,Lafayette,Lafayette,Source2,3,30.259768,-92.014839,2017,7,Monday,Cloudy,False,False,True,False,False,False,False
+A-3147202,LA,Lafayette,Lafayette,Source2,3,30.251041,-92.036232,2017,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-3161505,LA,Lafayette,Lafayette,Source2,3,30.295551,-92.025002,2017,8,Wednesday,Rain,False,False,False,False,False,False,False
+A-3161511,LA,Lafayette,Lafayette,Source2,3,30.210566,-92.092178,2017,10,Wednesday,Rain,False,False,False,False,False,False,False
+A-3161528,LA,Lafayette,Scott,Source2,3,30.247078,-92.066292,2017,16,Wednesday,Rain,False,False,False,False,False,False,False
+A-3166408,LA,Lafayette,Lafayette,Source2,3,30.251041,-92.036232,2017,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3166410,LA,Lafayette,Lafayette,Source2,3,30.259497,-92.015511,2017,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3169928,LA,Lafayette,Lafayette,Source2,3,30.256086,-92.014992,2017,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-3172076,LA,Lafayette,Carencro,Source2,3,30.322668,-92.032516,2017,7,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3174307,LA,Lafayette,Lafayette,Source2,3,30.259497,-92.015511,2017,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3179135,LA,Lafayette,Lafayette,Source2,3,30.199987,-92.001312,2017,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3179138,LA,Lafayette,Lafayette,Source2,3,30.267948,-91.992271,2017,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3182492,LA,Lafayette,Lafayette,Source2,3,30.267948,-91.992271,2017,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3184805,LA,Lafayette,Lafayette,Source2,3,30.210915000000004,-92.05127,2017,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3189720,LA,Lafayette,Lafayette,Source2,3,30.204252,-92.013466,2017,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3195696,LA,Lafayette,Lafayette,Source2,3,30.243052,-92.032471,2017,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3201412,LA,Lafayette,Lafayette,Source2,3,30.252941,-92.032532,2017,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3201418,LA,Lafayette,Lafayette,Source2,3,30.259497,-92.015511,2017,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3204878,LA,Lafayette,Lafayette,Source2,3,30.267948,-91.992271,2017,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3206540,LA,Lafayette,Lafayette,Source2,3,30.251041,-92.036232,2017,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3211525,LA,Lafayette,Lafayette,Source2,3,30.145918,-92.032539,2017,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3226579,LA,Lafayette,Lafayette,Source2,3,30.267948,-91.992271,2017,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3229315,LA,Lafayette,Lafayette,Source2,3,30.259497,-92.015511,2017,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3229332,LA,Lafayette,Lafayette,Source2,3,30.251041,-92.036232,2017,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3233519,LA,Lafayette,Lafayette,Source2,3,30.267925,-91.990028,2017,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-3233554,LA,Lafayette,Lafayette,Source2,3,30.199562,-92.016174,2017,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-3236265,LA,Lafayette,Lafayette,Source2,3,30.295551,-92.025002,2017,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3253066,LA,Lafayette,Lafayette,Source2,3,30.295551,-92.025002,2017,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3265114,LA,Lafayette,Scott,Source2,3,30.247078,-92.066292,2017,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3267508,LA,Lafayette,Carencro,Source2,3,30.322338,-92.033981,2017,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3267518,LA,Lafayette,Carencro,Source2,3,30.31863400000001,-92.033043,2017,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3269931,LA,Lafayette,Lafayette,Source2,3,30.273369,-92.018707,2017,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3272420,LA,Lafayette,Lafayette,Source2,3,30.267948,-91.992271,2017,18,Friday,Rain,False,False,False,False,False,False,False
+A-3273704,LA,Lafayette,Scott,Source2,3,30.247076,-92.066246,2017,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3275747,LA,Lafayette,Scott,Source2,3,30.247078,-92.066292,2017,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3275749,LA,Lafayette,Lafayette,Source2,3,30.251041,-92.036232,2017,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3275755,LA,Lafayette,Lafayette,Source2,3,30.259497,-92.015511,2017,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3275773,LA,Lafayette,Lafayette,Source2,3,30.267948,-91.992271,2017,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3278390,LA,Lafayette,Lafayette,Source2,3,30.295551,-92.025002,2017,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3278408,LA,Lafayette,Lafayette,Source2,3,30.267948,-91.992271,2017,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3281267,LA,Lafayette,Scott,Source2,3,30.247105,-92.107681,2017,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-3281270,LA,Lafayette,Lafayette,Source2,3,30.267948,-91.992271,2017,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3286910,LA,Lafayette,Scott,Source2,3,30.247078,-92.066292,2017,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3286912,LA,Lafayette,Scott,Source2,3,30.247105,-92.107681,2017,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3286913,LA,Lafayette,Scott,Source2,3,30.247105,-92.107681,2017,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3289876,LA,Lafayette,Scott,Source2,3,30.247105,-92.107681,2017,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3289895,LA,Lafayette,Lafayette,Source2,3,30.267948,-91.992271,2017,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3292797,LA,Lafayette,Lafayette,Source2,3,30.267948,-91.992271,2017,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3292841,LA,Lafayette,Scott,Source2,3,30.247105,-92.107681,2017,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3299654,LA,Lafayette,Lafayette,Source2,3,30.267948,-91.992271,2017,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3299680,LA,Lafayette,Scott,Source2,3,30.247105,-92.107681,2017,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3302455,LA,Lafayette,Scott,Source2,3,30.247105,-92.107681,2017,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3302459,LA,Lafayette,Carencro,Source2,3,30.322338,-92.033981,2017,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3308114,LA,Lafayette,Breaux Bridge,Source2,3,30.27203,-91.979034,2017,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3308115,LA,Lafayette,Lafayette,Source2,3,30.256605,-92.023254,2017,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3311339,LA,Lafayette,Scott,Source2,3,30.243851,-92.106209,2017,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-3311368,LA,Lafayette,Scott,Source2,3,30.247105,-92.107681,2017,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3315285,LA,Lafayette,Carencro,Source2,3,30.322338,-92.033981,2017,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3315289,LA,Lafayette,Lafayette,Source2,3,30.159147,-92.056534,2017,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-3318236,LA,Lafayette,Scott,Source2,3,30.247105,-92.107681,2017,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3318237,LA,Lafayette,Carencro,Source2,3,30.322338,-92.033981,2017,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3318255,LA,Lafayette,Carencro,Source2,3,30.322338,-92.033981,2017,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3334017,LA,Lafayette,Lafayette,Source2,3,30.181923,-92.006004,2017,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3339894,LA,Lafayette,Lafayette,Source2,3,30.267948,-91.992271,2017,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3339901,LA,Lafayette,Lafayette,Source2,3,30.295551,-92.025002,2017,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3339914,LA,Lafayette,Scott,Source2,3,30.247105,-92.107681,2017,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3339917,LA,Lafayette,Scott,Source2,3,30.247105,-92.107681,2017,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3343008,LA,Lafayette,Lafayette,Source2,3,30.251041,-92.036232,2017,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3343036,LA,Lafayette,Carencro,Source2,3,30.322338,-92.033981,2017,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-3346734,LA,Lafayette,Lafayette,Source2,3,30.251041,-92.036232,2017,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3354895,LA,Lafayette,Lafayette,Source2,3,30.251041,-92.036232,2017,17,Thursday,Rain,False,False,False,False,False,False,False
+A-3364192,LA,Lafayette,Lafayette,Source2,3,30.259497,-92.015511,2017,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3364220,LA,Lafayette,Carencro,Source2,3,30.364286,-92.048073,2017,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3371865,LA,Lafayette,Scott,Source2,3,30.247101,-92.107147,2017,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3375517,LA,Lafayette,Lafayette,Source2,3,30.259497,-92.015511,2017,14,Monday,Rain,False,False,False,False,False,False,False
+A-3375521,LA,Lafayette,Lafayette,Source2,3,30.295551,-92.025002,2017,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-3375540,LA,Lafayette,Lafayette,Source2,3,30.267948,-91.992271,2017,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3381127,LA,Lafayette,Lafayette,Source2,3,30.267948,-91.992271,2017,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3390707,LA,Lafayette,Lafayette,Source2,3,30.251041,-92.036232,2017,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3390732,LA,Lafayette,Scott,Source2,3,30.247105,-92.107681,2017,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-3393507,LA,Lafayette,Lafayette,Source2,3,30.13807700000001,-92.032562,2017,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3396524,LA,Lafayette,Lafayette,Source2,3,30.195976,-92.075233,2017,17,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-3411591,LA,Lafayette,Lafayette,Source2,3,30.259497,-92.015511,2017,15,Wednesday,Rain,False,False,False,False,False,False,False
+A-3437940,LA,Lafayette,Scott,Source1,4,30.2471,-92.06999,2016,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3557832,LA,Lafayette,Scott,Source1,4,30.24741,-92.120707,2017,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3569467,LA,Lafayette,Lafayette,Source1,4,30.25258,-92.03239,2017,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3595174,LA,Lafayette,Lafayette,Source1,4,30.24938,-92.040235,2017,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4266914,LA,Lafayette,Lafayette,Source1,4,30.258968,-92.015661,2023,8,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-4311471,LA,Lafayette,Broussard,Source1,4,30.118179,-91.943682,2022,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5101281,LA,Lafayette,Broussard,Source1,4,30.14418,-91.946083,2022,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5519829,LA,Lafayette,Duson,Source1,4,30.247662,-92.160991,2021,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5539432,LA,Lafayette,Scott,Source1,4,30.24706721291424,-92.10378527597376,2021,19,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-5587706,LA,Lafayette,Lafayette,Source1,4,30.25721669182655,-92.021087407627,2021,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5929719,LA,Lafayette,Lafayette,Source1,4,30.269879,-91.98684,2021,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5989330,LA,Lafayette,Carencro,Source1,4,30.30051827416277,-92.0269453521155,2021,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6081304,LA,Lafayette,Lafayette,Source1,4,30.243918,-92.011826,2021,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6100194,LA,Lafayette,Lafayette,Source1,4,30.261669,-92.010843,2021,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6112942,LA,Lafayette,Scott,Source1,4,30.24708867058636,-92.06986069635356,2021,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6192635,LA,Lafayette,Scott,Source1,4,30.247363,-92.111664,2021,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6458169,LA,Lafayette,Lafayette,Source1,4,30.29077649102072,-92.02338337854374,2021,19,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6675672,LA,Lafayette,Lafayette,Source1,4,30.266293,-91.997634,2020,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6780436,LA,Lafayette,Lafayette,Source1,4,30.254123,-92.014551,2020,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7004170,LA,Lafayette,Lafayette,Source1,3,30.25324,-92.03152,2020,5,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7004171,LA,Lafayette,Lafayette,Source1,3,30.25324,-92.03152,2020,5,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7004350,LA,Lafayette,Lafayette,Source1,4,30.26161,-92.01626,2020,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7004351,LA,Lafayette,Lafayette,Source1,4,30.25567,-92.0149,2020,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7038763,LA,Lafayette,Scott,Source1,4,30.24706,-92.10369,2020,10,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7038921,LA,Lafayette,Scott,Source1,4,30.24687,-92.07002,2020,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7058253,LA,Lafayette,Scott,Source1,4,30.24706,-92.10369,2020,15,Thursday,Rain,False,False,True,False,False,False,False
+A-7058278,LA,Lafayette,Scott,Source1,4,30.24706,-92.10369,2020,15,Thursday,Rain,False,False,True,False,False,False,False
+A-7191579,LA,Lafayette,Lafayette,Source1,3,30.2664,-91.99728,2020,22,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7191582,LA,Lafayette,Lafayette,Source1,4,30.26593,-91.99885,2020,22,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7191583,LA,Lafayette,Lafayette,Source1,4,30.26941,-91.98747,2020,23,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7211643,LA,Lafayette,Lafayette,Source1,4,30.29148,-92.02363,2020,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7253590,LA,Lafayette,Lafayette,Source1,4,30.25757,-92.02019,2020,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7278368,LA,Lafayette,Scott,Source1,3,30.24687,-92.07002,2020,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7290843,LA,Lafayette,Scott,Source1,4,30.24705,-92.06242,2019,2,Friday,Cloudy,False,False,True,False,False,False,False
+A-7428218,LA,Lafayette,Lafayette,Source1,4,30.269506,-91.988117,2019,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-7459518,LA,Lafayette,Lafayette,Source1,3,30.24939,-92.04021,2019,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7461939,LA,Lafayette,Lafayette,Source1,4,30.25757,-92.02019,2019,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7464083,LA,Lafayette,Lafayette,Source1,3,30.1382,-92.067987,2019,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7464084,LA,Lafayette,Lafayette,Source1,3,30.133727,-92.060073,2019,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7474336,LA,Lafayette,Lafayette,Source1,4,30.270194,-91.985863,2018,3,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7504100,LA,Lafayette,Lafayette,Source1,4,30.25757,-92.02019,2018,3,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7542972,LA,Lafayette,Lafayette,Source1,4,30.26161,-92.011,2018,4,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-7559703,LA,Lafayette,Carencro,Source1,4,30.35909,-92.04631,2018,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7568645,LA,Lafayette,Lafayette,Source1,4,30.25757,-92.02019,2018,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7578879,LA,Lafayette,Scott,Source1,4,30.2471,-92.070379,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7582521,LA,Lafayette,Lafayette,Source1,4,30.269491,-91.9872,2018,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7586819,LA,Lafayette,Carencro,Source1,4,30.35909,-92.04631,2018,15,Friday,Rain,False,False,False,False,False,False,False
+A-7592143,LA,Lafayette,Scott,Source1,4,30.24687,-92.07002,2018,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7604907,LA,Lafayette,Lafayette,Source1,4,30.25555,-92.01461,2018,23,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7621004,LA,Lafayette,Lafayette,Source1,4,30.24939,-92.04021,2018,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-7725364,LA,Lafayette,Scott,Source1,4,30.24687,-92.07002,2019,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-7725366,LA,Lafayette,Scott,Source1,4,30.24711,-92.11083,2019,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-7740922,LA,Lafayette,Lafayette,Source1,4,30.266735,-91.996216,2019,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7740931,LA,Lafayette,Lafayette,Source1,4,30.266735,-91.996216,2019,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7746619,LA,Lafayette,Lafayette,Source1,4,30.259792,-92.014736,2019,19,Monday,Cloudy,False,False,True,False,False,False,False
+A-7774773,LA,Lafayette,Lafayette,Source1,4,30.25979,-92.01474,2019,13,Saturday,Storm,False,False,True,False,False,False,False

@@ -1,0 +1,295 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-817605,OR,Yamhill,Dayton,Source2,4,45.127571,-123.11692,2021,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1293869,OR,Yamhill,Amity,Source2,3,45.086311,-123.209358,2020,13,Wednesday,Cloudy,False,True,False,False,False,False,True
+A-1383301,OR,Yamhill,Mcminnville,Source2,3,45.115582,-123.316742,2020,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1812776,OR,Yamhill,Grand Ronde,Source2,3,45.110332,-123.729279,2019,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1882212,OR,Yamhill,McMinnville,Source2,3,45.19022,-123.208199,2019,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2026012,OR,Yamhill,Amity,Source2,3,45.12162,-123.20593999999998,2019,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2242894,OR,Yamhill,Sheridan,Source2,3,45.084888,-123.413582,2019,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3162143,OR,Yamhill,Newberg,Source2,3,45.310032,-122.935509,2017,6,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-3321924,OR,Yamhill,Amity,Source2,3,45.13295,-123.206581,2017,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3534603,OR,Yamhill,Newberg,Source1,3,45.316567,-122.907478,2016,12,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3534604,OR,Yamhill,Newberg,Source1,3,45.316605,-122.9073,2016,12,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3535976,OR,Yamhill,Gaston,Source1,4,45.417162,-123.134233,2016,8,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3537103,OR,Yamhill,Amity,Source1,4,45.120663,-123.20604,2016,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3537104,OR,Yamhill,Amity,Source1,4,45.13252,-123.20652,2016,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3540771,OR,Yamhill,Newberg,Source1,4,45.316119,-122.911396,2016,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3540772,OR,Yamhill,Newberg,Source1,4,45.310049,-122.93541299999998,2016,7,Wednesday,Clear / Fair,True,True,False,False,False,False,False
+A-3542636,OR,Yamhill,Yamhill,Source1,4,45.354117,-123.171269,2016,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3542637,OR,Yamhill,Yamhill,Source1,4,45.354066,-123.171308,2016,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3544921,OR,Yamhill,Newberg,Source1,3,45.300444,-122.982343,2016,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3546641,OR,Yamhill,Newberg,Source1,4,45.367963,-122.95838700000002,2016,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3546642,OR,Yamhill,Newberg,Source1,4,45.367889,-122.958354,2016,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3550197,OR,Yamhill,Carlton,Source1,4,45.321392,-123.177332,2016,0,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3550198,OR,Yamhill,Carlton,Source1,4,45.319344,-123.176099,2016,0,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3551349,OR,Yamhill,Yamhill,Source1,3,45.34914600000001,-123.175734,2016,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3551350,OR,Yamhill,Yamhill,Source1,3,45.349091,-123.175767,2016,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3551362,OR,Yamhill,Yamhill,Source1,4,45.351438,-123.173902,2016,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3552137,OR,Yamhill,Salem,Source1,4,45.09909,-123.06696,2016,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-3553207,OR,Yamhill,Mcminnville,Source1,3,45.23297,-123.15846,2016,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3553213,OR,Yamhill,McMinnville,Source1,3,45.23246,-123.15839,2016,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3553215,OR,Yamhill,Mcminnville,Source1,3,45.23297,-123.15846,2016,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3553221,OR,Yamhill,McMinnville,Source1,4,45.23246,-123.15839,2016,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3553302,OR,Yamhill,Gaston,Source1,4,45.41721,-123.13428,2016,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-3564150,OR,Yamhill,Yamhill,Source1,4,45.340656,-123.152695,2017,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3564151,OR,Yamhill,Yamhill,Source1,4,45.341481,-123.163618,2017,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3606711,OR,Yamhill,McMinnville,Source1,4,45.153357,-123.268937,2017,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3606712,OR,Yamhill,McMinnville,Source1,4,45.153402,-123.268877,2017,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3608291,OR,Yamhill,Dayton,Source1,4,45.21222,-123.10577,2017,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3608292,OR,Yamhill,Dayton,Source1,4,45.203206,-123.126595,2017,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3637905,OR,Yamhill,Dayton,Source1,3,45.23771,-123.06348,2017,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-3637906,OR,Yamhill,Dundee,Source1,3,45.253499,-123.033799,2017,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-3638757,OR,Yamhill,Newberg,Source1,4,45.3468,-122.96348,2017,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3639553,OR,Yamhill,Newberg,Source1,4,45.366267,-122.958083,2017,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-3639560,OR,Yamhill,Newberg,Source1,4,45.366267,-122.958083,2017,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-3649604,OR,Yamhill,Dundee,Source1,4,45.271231,-123.01688,2017,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3649605,OR,Yamhill,Dundee,Source1,4,45.255824,-123.031837,2017,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3657781,OR,Yamhill,Sheridan,Source1,4,45.092177,-123.385542,2023,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3667305,OR,Yamhill,Sheridan,Source1,4,45.090994,-123.390204,2023,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3676800,OR,Yamhill,Newberg,Source1,4,45.277884,-122.94467,2023,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3698212,OR,Yamhill,Newberg,Source1,4,45.273154,-122.944095,2023,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3699409,OR,Yamhill,Sheridan,Source1,4,45.09365800000001,-123.379835,2023,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3725946,OR,Yamhill,Dayton,Source1,4,45.123955,-123.11703500000002,2022,2,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3733581,OR,Yamhill,Yamhill,Source1,4,45.373249,-123.157683,2022,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3775009,OR,Yamhill,McMinnville,Source1,4,45.176669,-123.237301,2023,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-3777372,OR,Yamhill,Mcminnville,Source1,4,45.202449,-123.129162,2023,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3822192,OR,Yamhill,Dayton,Source1,4,45.166181,-123.108225,2022,17,Monday,Rain,False,False,False,False,False,False,False
+A-3847150,OR,Yamhill,Dayton,Source1,4,45.236356,-123.075136,2022,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3862979,OR,Yamhill,Dayton,Source1,4,45.212572,-123.105004,2022,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3876977,OR,Yamhill,Mcminnville,Source1,4,45.200871,-123.139397,2023,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3924180,OR,Yamhill,McMinnville,Source1,4,45.157224,-123.2013,2022,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3960295,OR,Yamhill,Mcminnville,Source1,4,45.202313,-123.12964,2022,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4003083,OR,Yamhill,Grand Ronde,Source1,4,45.093745,-123.679332,2022,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4139193,OR,Yamhill,Mcminnville,Source1,4,45.179709,-123.209832,2022,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4158663,OR,Yamhill,Dundee,Source1,4,45.274534,-123.01386399999998,2022,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4187160,OR,Yamhill,Mcminnville,Source1,4,45.166782,-123.251597,2022,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4270389,OR,Yamhill,McMinnville,Source1,4,45.200876,-123.145727,2023,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4277480,OR,Yamhill,Dundee,Source1,4,45.264328000000006,-123.023332,2022,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4351516,OR,Yamhill,Newberg,Source1,4,45.346324,-122.962556,2022,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4351517,OR,Yamhill,Newberg,Source1,4,45.346845,-122.972262,2022,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4369930,OR,Yamhill,Dayton,Source1,4,45.232843,-123.066126,2023,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4394989,OR,Yamhill,Dundee,Source1,4,45.269995,-123.018165,2022,15,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-4438342,OR,Yamhill,Dundee,Source1,4,45.277388,-122.996328,2023,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4467607,OR,Yamhill,Mcminnville,Source1,4,45.20098400000001,-123.134765,2022,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4492308,OR,Yamhill,Dundee,Source1,4,45.2700769899117,-123.01884055078972,2022,5,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4502015,OR,Yamhill,Grand Ronde,Source1,4,45.09124,-123.675414,2022,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4525469,OR,Yamhill,Mcminnville,Source1,4,45.230539,-123.164875,2022,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4537437,OR,Yamhill,Amity,Source1,4,45.086302,-123.209371,2022,14,Thursday,Clear / Fair,False,True,False,False,False,False,True
+A-4538889,OR,Yamhill,Dundee,Source1,4,45.273676,-123.01461,2022,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4542069,OR,Yamhill,Dayton,Source1,4,45.214001,-123.101987,2022,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4590427,OR,Yamhill,McMinnville,Source1,4,45.190885,-123.20083,2023,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4671958,OR,Yamhill,McMinnville,Source1,4,45.172419,-123.243947,2022,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4863172,OR,Yamhill,Dayton,Source1,4,45.22826,-123.074654,2023,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4914779,OR,Yamhill,McMinnville,Source1,4,45.192458,-123.194187,2023,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4978269,OR,Yamhill,Yamhill,Source1,4,45.362272,-123.168259,2022,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4980668,OR,Yamhill,Salem,Source1,4,45.094873,-123.06691,2022,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4980905,OR,Yamhill,Dayton,Source1,4,45.127564,-123.116888,2022,2,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5023615,OR,Yamhill,McMinnville,Source1,4,45.230234,-123.166335,2022,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5033916,OR,Yamhill,Dayton,Source1,4,45.212908,-123.104269,2022,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5036811,OR,Yamhill,Dundee,Source1,4,45.265845,-123.021926,2022,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5049310,OR,Yamhill,Dayton,Source1,4,45.237855,-123.082466,2022,22,Monday,Clear / Fair,False,True,False,True,False,False,True
+A-5094863,OR,Yamhill,Mcminnville,Source1,4,45.251316,-123.163179,2022,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-5097291,OR,Yamhill,Carlton,Source1,4,45.255878,-123.16322,2022,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-5293598,OR,Yamhill,McMinnville,Source1,4,45.196562,-123.18639,2022,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5300553,OR,Yamhill,Dayton,Source1,4,45.181286,-123.086037,2022,15,Monday,Rain,False,False,False,False,False,False,False
+A-5439837,OR,Yamhill,Mcminnville,Source1,4,45.200871,-123.139397,2023,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5460796,OR,Yamhill,McMinnville,Source1,4,45.172321,-123.209615,2022,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5651534,OR,Yamhill,Mcminnville,Source1,4,45.223246,-123.194562,2021,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5859818,OR,Yamhill,Amity,Source1,4,45.116028,-123.2062,2021,21,Wednesday,Rain,False,False,False,False,False,False,False
+A-5928182,OR,Yamhill,Dayton,Source1,4,45.244351,-123.049146,2021,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5997788,OR,Yamhill,Mcminnville,Source1,4,45.204734,-123.198145,2021,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6122900,OR,Yamhill,Newberg,Source1,4,45.310031,-122.93551,2021,10,Friday,Clear / Fair,True,True,False,False,False,False,False
+A-6164610,OR,Yamhill,Amity,Source1,4,45.114549,-123.206207,2021,21,Wednesday,Rain,False,False,False,False,False,False,False
+A-6211310,OR,Yamhill,Dayton,Source1,4,45.220334,-123.089732,2021,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6312804,OR,Yamhill,Newberg,Source1,4,45.307974,-122.942014,2021,10,Friday,Clear / Fair,True,True,False,False,False,False,False
+A-6327067,OR,Yamhill,Dayton,Source1,4,45.238302,-123.06211299999998,2021,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6355370,OR,Yamhill,Dayton,Source1,4,45.12395024278105,-123.11703085840642,2021,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6426179,OR,Yamhill,Amity,Source1,4,45.116740464949046,-123.14586996973443,2021,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6460918,OR,Yamhill,Newberg,Source1,4,45.346324,-122.962556,2021,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6461155,OR,Yamhill,Amity,Source1,4,45.107256,-123.243137,2021,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6485847,OR,Yamhill,Grand Ronde,Source1,4,45.080026,-123.611895,2021,16,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6488363,OR,Yamhill,McMinnville,Source1,4,45.13105273225246,-123.29757571161603,2021,6,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-6498015,OR,Yamhill,Amity,Source1,4,45.116740464949046,-123.14586996973443,2021,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6498237,OR,Yamhill,Grand Ronde,Source1,4,45.080026,-123.611895,2021,16,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6591503,OR,Yamhill,McMinnville,Source1,4,45.202281,-123.201972,2020,22,Monday,Fog / Low visibility,True,True,False,False,False,False,False
+A-6632512,OR,Yamhill,Gaston,Source1,4,45.421504,-123.136273,2020,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6653597,OR,Yamhill,Willamina,Source1,4,45.07822,-123.48653,2020,13,Monday,Clear / Fair,False,True,False,False,False,False,True
+A-6694370,OR,Yamhill,Gaston,Source1,4,45.416881,-123.1339,2020,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6984873,OR,Yamhill,Dundee,Source1,3,45.27777,-122.99573,2020,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6984876,OR,Yamhill,Dundee,Source1,4,45.27062,-123.00876,2020,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6984877,OR,Yamhill,Dundee,Source1,4,45.2751,-122.99938,2020,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7004573,OR,Yamhill,Newberg,Source1,3,45.31655,-123.01787,2020,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7027184,OR,Yamhill,Dundee,Source1,3,45.2653,-123.02244,2020,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7027188,OR,Yamhill,Dundee,Source1,3,45.26173,-123.02603,2020,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7027189,OR,Yamhill,Dundee,Source1,3,45.25209,-123.03476,2020,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7027191,OR,Yamhill,Dundee,Source1,3,45.26287,-123.02487,2020,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7050662,OR,Yamhill,Salem,Source1,4,45.12896,-123.06154,2020,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7050663,OR,Yamhill,Salem,Source1,4,45.09868,-123.06696,2020,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7050688,OR,Yamhill,Salem,Source1,4,45.12896,-123.06154,2020,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7050690,OR,Yamhill,Salem,Source1,4,45.12896,-123.06154,2020,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7053270,OR,Yamhill,Salem,Source1,4,45.12896,-123.06154,2020,1,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7070012,OR,Yamhill,Newberg,Source1,3,45.34205,-122.97595,2020,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7100777,OR,Yamhill,Newberg,Source1,3,45.30034000000001,-122.97916,2020,17,Friday,Clear / Fair,True,True,False,False,False,True,False
+A-7102676,OR,Yamhill,Yamhill,Source1,3,45.34148,-123.1804,2020,23,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7108241,OR,Yamhill,Amity,Source1,3,45.13315,-123.20664,2020,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-7113927,OR,Yamhill,McMinnville,Source1,4,45.15338,-123.2689,2020,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-7113928,OR,Yamhill,Mcminnville,Source1,4,45.154,-123.26809,2020,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-7162109,OR,Yamhill,Sheridan,Source1,3,45.09631,-123.37821,2020,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7162111,OR,Yamhill,Sheridan,Source1,4,45.09815,-123.3856,2020,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7162112,OR,Yamhill,Sheridan,Source1,4,45.09613,-123.37489,2020,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7187489,OR,Yamhill,Carlton,Source1,3,45.27292,-123.17364,2020,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7187492,OR,Yamhill,McMinnville,Source1,4,45.25134,-123.1632,2020,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7187493,OR,Yamhill,Carlton,Source1,4,45.2733,-123.17382,2020,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7187511,OR,Yamhill,Carlton,Source1,4,45.2733,-123.17382,2020,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7187568,OR,Yamhill,Yamhill,Source1,3,45.35023,-123.17506000000002,2020,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7187572,OR,Yamhill,Yamhill,Source1,3,45.35023,-123.17506000000002,2020,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7187573,OR,Yamhill,Yamhill,Source1,3,45.35021,-123.17507,2020,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7203482,OR,Yamhill,Sheridan,Source1,4,45.08488,-123.41361,2020,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7203488,OR,Yamhill,Sheridan,Source1,4,45.08847,-123.40005,2020,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7214073,OR,Yamhill,Amity,Source1,3,45.10788,-123.24259,2020,23,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7215379,OR,Yamhill,Newberg,Source1,3,45.31819,-123.06042,2020,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7222262,OR,Yamhill,Dayton,Source1,3,45.23837,-123.06206,2020,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7236071,OR,Yamhill,Sheridan,Source1,3,45.09143,-123.38848,2020,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-7238041,OR,Yamhill,Sheridan,Source1,3,45.08552,-123.46368,2020,22,Friday,Cloudy,False,False,False,False,False,False,False
+A-7238046,OR,Yamhill,Sheridan,Source1,3,45.08551,-123.46387,2020,23,Friday,Rain,False,False,False,False,False,False,False
+A-7238894,OR,Yamhill,Newberg,Source1,3,45.3469,-122.97611,2020,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7240979,OR,Yamhill,Mcminnville,Source1,3,45.11107,-123.30455,2020,5,Tuesday,Rain,False,False,False,False,False,False,False
+A-7242323,OR,Yamhill,Mcminnville,Source1,4,45.11558,-123.31674,2020,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7243636,OR,Yamhill,Dundee,Source1,3,45.27025,-123.01972,2020,19,Thursday,Rain,False,False,False,False,False,False,False
+A-7250326,OR,Yamhill,Amity,Source1,3,45.13214,-123.20643,2020,0,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7252182,OR,Yamhill,Grand Ronde,Source1,3,45.1047,-123.71278999999998,2020,11,Thursday,Cloudy,False,False,False,False,False,True,False
+A-7271522,OR,Yamhill,Grand Ronde,Source1,3,45.10793,-123.736,2020,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-7285745,OR,Yamhill,Sheridan,Source1,3,45.09162,-123.38773,2019,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-7318005,OR,Yamhill,Yamhill,Source1,4,45.3461,-123.18424,2019,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7324077,OR,Yamhill,Carlton,Source1,3,45.28018,-123.17371,2019,22,Friday,Rain,False,False,False,False,False,False,False
+A-7326486,OR,Yamhill,Sheridan,Source1,4,45.09633,-123.3663,2019,21,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7340166,OR,Yamhill,Sheridan,Source1,3,45.09839,-123.3534,2019,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7382820,OR,Yamhill,Salem,Source1,3,45.08129,-123.06763,2019,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-7382826,OR,Yamhill,Dayton,Source1,4,45.09962,-123.06696,2019,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-7382837,OR,Yamhill,Dayton,Source1,4,45.09962,-123.06696,2019,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-7382838,OR,Yamhill,Dayton,Source1,4,45.09962,-123.06696,2019,15,Monday,Rain,False,False,False,False,False,False,False
+A-7382848,OR,Yamhill,Dayton,Source1,4,45.09962,-123.06696,2019,16,Monday,Rain,False,False,False,False,False,False,False
+A-7383119,OR,Yamhill,Salem,Source1,3,45.08129,-123.06763,2019,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7390053,OR,Yamhill,Newberg,Source1,4,45.305221,-122.97274,2019,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7393782,OR,Yamhill,Dayton,Source1,3,45.23108,-123.069421,2019,1,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7394846,OR,Yamhill,Carlton,Source1,3,45.300969,-123.17978,2019,3,Monday,Cloudy,False,False,False,False,False,False,False
+A-7394870,OR,Yamhill,Carlton,Source1,4,45.299368,-123.17982,2019,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-7394872,OR,Yamhill,Carlton,Source1,4,45.321392,-123.177332,2019,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-7394879,OR,Yamhill,Carlton,Source1,4,45.321392,-123.177332,2019,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-7394883,OR,Yamhill,Carlton,Source1,4,45.294274,-123.179524,2019,10,Monday,Clear / Fair,False,True,False,False,False,False,False
+A-7394889,OR,Yamhill,Carlton,Source1,4,45.321392,-123.177332,2019,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7396147,OR,Yamhill,Mcminnville,Source1,3,45.117183,-123.31471,2019,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7396152,OR,Yamhill,Mcminnville,Source1,4,45.11558,-123.31674,2019,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7396154,OR,Yamhill,Mcminnville,Source1,4,45.130937,-123.297813,2019,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7396160,OR,Yamhill,Mcminnville,Source1,4,45.130937,-123.297813,2019,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7402211,OR,Yamhill,Sheridan,Source1,3,45.079539,-123.434191,2019,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7405777,OR,Yamhill,Dundee,Source1,3,45.26994000000001,-123.0181,2019,21,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-7417719,OR,Yamhill,Salem,Source1,3,45.093312,-123.06692,2019,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-7417722,OR,Yamhill,Salem,Source1,4,45.09868,-123.06696,2019,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-7419876,OR,Yamhill,Sheridan,Source1,4,45.09941,-123.39519,2019,10,Sunday,Rain,False,False,False,False,False,False,False
+A-7419877,OR,Yamhill,Sheridan,Source1,4,45.099448,-123.392785,2019,7,Sunday,Rain,False,False,False,False,False,False,False
+A-7419882,OR,Yamhill,Sheridan,Source1,4,45.099448,-123.392784,2019,7,Sunday,Rain,False,False,False,False,False,False,False
+A-7419885,OR,Yamhill,Sheridan,Source1,4,45.099448,-123.392785,2019,10,Sunday,Rain,False,False,False,False,False,False,False
+A-7432238,OR,Yamhill,Grand Ronde,Source1,3,45.110318,-123.727277,2019,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7433238,OR,Yamhill,Amity,Source1,3,45.113491,-123.14947,2019,9,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7433242,OR,Yamhill,Dayton,Source1,4,45.12396,-123.11703,2019,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7433243,OR,Yamhill,Amity,Source1,4,45.11427,-123.190529,2019,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7433247,OR,Yamhill,Dayton,Source1,4,45.12396,-123.11703,2019,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7433794,OR,Yamhill,Sheridan,Source1,4,45.084708,-123.414279,2019,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7433795,OR,Yamhill,Sheridan,Source1,4,45.079904,-123.43279,2019,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7443817,OR,Yamhill,Sheridan,Source1,3,45.099414,-123.39513999999998,2019,19,Saturday,Cloudy,False,False,False,False,False,True,False
+A-7443829,OR,Yamhill,Sheridan,Source1,4,45.096985,-123.362149,2019,20,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7444099,OR,Yamhill,Sheridan,Source1,4,45.096985,-123.362149,2019,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7446592,OR,Yamhill,Amity,Source1,4,45.113493,-123.23887,2019,6,Wednesday,Cloudy,False,True,False,False,False,False,True
+A-7454557,OR,Yamhill,Dayton,Source1,4,45.212982,-123.104144,2019,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7457480,OR,Yamhill,Dayton,Source1,3,45.212982,-123.104144,2019,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-7458938,OR,Yamhill,Dundee,Source1,3,45.27793,-123.010934,2019,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-7458939,OR,Yamhill,Dundee,Source1,4,45.277014,-123.011751,2019,5,Monday,Cloudy,False,True,False,False,False,False,False
+A-7458942,OR,Yamhill,Dayton,Source1,3,45.128188,-123.116901,2019,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-7458947,OR,Yamhill,Dayton,Source1,4,45.12396,-123.11703,2019,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-7458952,OR,Yamhill,Newberg,Source1,4,45.287893,-122.973258,2019,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-7458953,OR,Yamhill,Dundee,Source1,4,45.26994000000001,-123.0181,2019,6,Monday,Cloudy,True,False,False,False,False,False,False
+A-7458995,OR,Yamhill,Dundee,Source1,4,45.26994000000001,-123.0181,2019,9,Monday,Cloudy,True,False,False,False,False,False,False
+A-7459008,OR,Yamhill,Newberg,Source1,4,45.287893,-122.973258,2019,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-7459020,OR,Yamhill,Newberg,Source1,4,45.287893,-122.973258,2019,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-7459021,OR,Yamhill,Newberg,Source1,4,45.287893,-122.973258,2019,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-7459053,OR,Yamhill,Newberg,Source1,4,45.287893,-122.973258,2019,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-7462846,OR,Yamhill,Mcminnville,Source1,3,45.107614,-123.329853,2019,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7462847,OR,Yamhill,Sheridan,Source1,4,45.100307,-123.344024,2019,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7484409,OR,Yamhill,Dayton,Source1,4,45.21258,-123.10501,2018,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7484410,OR,Yamhill,Dayton,Source1,4,45.22477,-123.08138999999998,2018,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7484422,OR,Yamhill,Dayton,Source1,4,45.22477,-123.08138999999998,2018,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7484423,OR,Yamhill,Dayton,Source1,4,45.22477,-123.08138999999998,2018,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7484442,OR,Yamhill,Dayton,Source1,4,45.22477,-123.08138999999998,2018,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7484460,OR,Yamhill,Dayton,Source1,4,45.22477,-123.08138999999998,2018,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7486876,OR,Yamhill,McMinnville,Source1,4,45.11545,-123.30671,2018,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7486900,OR,Yamhill,McMinnville,Source1,4,45.11545,-123.30671,2018,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7488229,OR,Yamhill,Yamhill,Source1,3,45.346119,-123.180286,2018,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7489222,OR,Yamhill,Dayton,Source1,4,45.24053,-123.09561399999998,2018,17,Saturday,Rain,False,True,False,True,False,False,True
+A-7489223,OR,Yamhill,Dayton,Source1,4,45.241594,-123.100795,2018,17,Saturday,Rain,False,False,False,False,False,False,False
+A-7499489,OR,Yamhill,Mcminnville,Source1,3,45.126875,-123.303027,2018,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-7500244,OR,Yamhill,Newberg,Source1,3,45.343462,-122.978908,2018,7,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7500945,OR,Yamhill,Dundee,Source1,3,45.282978,-123.006547,2018,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7506002,OR,Yamhill,Sheridan,Source1,3,45.095271,-123.372862,2018,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7512983,OR,Yamhill,Dundee,Source1,4,45.264092,-123.023572,2018,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7520404,OR,Yamhill,Mcminnville,Source1,3,45.22929,-123.17072,2018,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7521904,OR,Yamhill,Dayton,Source1,3,45.212982,-123.104144,2018,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7533570,OR,Yamhill,Salem,Source1,4,45.09616,-123.06693,2018,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-7533582,OR,Yamhill,Salem,Source1,4,45.09331,-123.06692,2018,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-7537744,OR,Yamhill,Mcminnville,Source1,4,45.244256,-123.128292,2018,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7537746,OR,Yamhill,Mcminnville,Source1,4,45.245869,-123.122359,2018,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7537749,OR,Yamhill,Mcminnville,Source1,4,45.245869,-123.122359,2018,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7537756,OR,Yamhill,Mcminnville,Source1,4,45.245869,-123.122359,2018,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7539381,OR,Yamhill,Dayton,Source1,3,45.111425,-123.106933,2018,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7548742,OR,Yamhill,Mcminnville,Source1,3,45.236779,-123.150665,2018,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7549736,OR,Yamhill,Newberg,Source1,3,45.312356,-122.924343,2018,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7551932,OR,Yamhill,Dayton,Source1,4,45.22004,-123.09028899999998,2018,10,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7551960,OR,Yamhill,Dayton,Source1,4,45.22463,-123.08263999999998,2018,14,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7553162,OR,Yamhill,Newberg,Source1,3,45.301952,-122.97278,2018,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7576102,OR,Yamhill,Mcminnville,Source1,4,45.217854,-123.197898,2018,2,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7592216,OR,Yamhill,Dayton,Source1,4,45.118054,-123.112011,2018,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7592217,OR,Yamhill,Dayton,Source1,4,45.12396,-123.11703,2018,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7609667,OR,Yamhill,Newberg,Source1,4,45.346409,-122.962728,2018,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-7620462,OR,Yamhill,Grand Ronde,Source1,4,45.079689,-123.596707,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7655123,OR,Yamhill,Dayton,Source1,3,45.214851,-123.064193,2017,3,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7666375,OR,Yamhill,Yamhill,Source1,4,45.33713,-123.140489,2017,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-7666376,OR,Yamhill,Yamhill,Source1,4,45.338266,-123.146886,2017,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-7697197,OR,Yamhill,Sheridan,Source1,4,45.098546,-123.35241299999998,2017,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7697198,OR,Yamhill,Sheridan,Source1,4,45.10256500000001,-123.338411,2017,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7699116,OR,Yamhill,Amity,Source1,4,45.074891,-123.2095,2017,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7707694,OR,Yamhill,Dayton,Source1,3,45.22004,-123.09028899999998,2019,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7707698,OR,Yamhill,Dayton,Source1,4,45.224892,-123.081146,2019,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7707699,OR,Yamhill,Dayton,Source1,4,45.22305,-123.08462,2019,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7707701,OR,Yamhill,Dayton,Source1,4,45.224892,-123.081146,2019,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7716495,OR,Yamhill,Dayton,Source1,4,45.22363,-123.08353,2019,21,Monday,Rain,False,False,False,False,False,False,False
+A-7716497,OR,Yamhill,Dayton,Source1,4,45.227978,-123.075296,2019,12,Monday,Rain,False,False,False,False,False,False,False
+A-7716518,OR,Yamhill,Dayton,Source1,4,45.227978,-123.075296,2019,21,Monday,Rain,False,False,False,False,False,False,False
+A-7716522,OR,Yamhill,Dayton,Source1,4,45.227978,-123.075296,2019,18,Monday,Rain,False,False,False,False,False,False,False
+A-7716526,OR,Yamhill,Dayton,Source1,4,45.21456,-123.10082,2019,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-7717965,OR,Yamhill,Dundee,Source1,3,45.278241,-122.995087,2019,3,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7719338,OR,Yamhill,Dayton,Source1,4,45.23629,-123.06372,2019,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7720555,OR,Yamhill,Dayton,Source1,4,45.23629,-123.06372,2019,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7732201,OR,Yamhill,Yamhill,Source1,3,45.379238,-123.147177,2019,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7732206,OR,Yamhill,McMinnville,Source1,4,45.19027,-123.21255,2019,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7732207,OR,Yamhill,McMinnville,Source1,4,45.19067,-123.20559,2019,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7741101,OR,Yamhill,Sheridan,Source1,3,45.087361,-123.404106,2019,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7760660,OR,Yamhill,Dayton,Source1,4,45.228385,-123.07453,2019,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7760661,OR,Yamhill,Dayton,Source1,4,45.23705,-123.06337,2019,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7761171,OR,Yamhill,Dayton,Source1,3,45.22004,-123.09028899999998,2019,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-7761172,OR,Yamhill,Dayton,Source1,4,45.22477,-123.08138999999998,2019,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7761173,OR,Yamhill,Dayton,Source1,4,45.21456,-123.10082,2019,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7761195,OR,Yamhill,Dayton,Source1,4,45.22477,-123.08138999999998,2019,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7761930,OR,Yamhill,Yamhill,Source1,3,45.338515,-123.147484,2019,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7761938,OR,Yamhill,Yamhill,Source1,4,45.339856,-123.150686,2019,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7761939,OR,Yamhill,Yamhill,Source1,4,45.341023,-123.154171,2019,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7761942,OR,Yamhill,Yamhill,Source1,4,45.341023,-123.154171,2019,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7762362,OR,Yamhill,Mcminnville,Source1,3,45.20092,-123.17548,2019,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7765630,OR,Yamhill,Amity,Source1,3,45.105137,-123.206669,2019,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7765635,OR,Yamhill,Amity,Source1,4,45.11457,-123.20624,2019,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7765636,OR,Yamhill,Amity,Source1,4,45.084009,-123.2094,2019,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7767420,OR,Yamhill,Newberg,Source1,4,45.346286,-122.96251399999998,2019,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7767422,OR,Yamhill,Newberg,Source1,4,45.34638,-122.96267,2019,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7767442,OR,Yamhill,Newberg,Source1,4,45.34638,-122.96267,2019,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7767449,OR,Yamhill,Newberg,Source1,4,45.346286,-122.96251399999998,2019,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7774134,OR,Yamhill,Mcminnville,Source1,3,45.234154,-123.152382,2019,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7774869,OR,Yamhill,Amity,Source1,3,45.113772,-123.171651,2019,10,Saturday,Cloudy,False,False,False,False,False,False,False

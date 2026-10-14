@@ -1,0 +1,382 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-526797,VA,Suffolk,Suffolk,Source2,3,36.765572,-76.603394,2022,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-543584,VA,Suffolk,Suffolk,Source2,3,36.886402,-76.429726,2022,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-585474,VA,Suffolk,Suffolk,Source3,3,36.763229,-76.487953,2022,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-607199,VA,Suffolk,Suffolk,Source2,3,36.887253,-76.42942,2022,11,Monday,Cloudy,False,False,True,False,False,False,False
+A-614671,VA,Suffolk,Suffolk,Source2,3,36.886402,-76.429726,2022,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-622140,VA,Suffolk,Suffolk,Source2,3,36.86771,-76.420868,2022,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-628441,VA,Suffolk,Suffolk,Source2,3,36.886402,-76.429726,2022,16,Wednesday,Storm,False,False,False,False,False,False,False
+A-694898,VA,Suffolk,Suffolk,Source2,3,36.886402,-76.429726,2022,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-704142,VA,Suffolk,Suffolk,Source2,4,36.886402,-76.429726,2022,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-707410,VA,Suffolk,Suffolk,Source3,3,36.887489,-76.429047,2022,19,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-709421,VA,Suffolk,Suffolk,Source2,3,36.887253,-76.42942,2022,14,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-717780,VA,Suffolk,Suffolk,Source2,3,36.887253,-76.42942,2022,15,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-726768,VA,Suffolk,Suffolk,Source2,3,36.886402,-76.429726,2022,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-734042,VA,Suffolk,Suffolk,Source2,3,36.92907,-76.40774499999998,2022,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-742070,VA,Suffolk,Suffolk,Source2,3,36.886349,-76.429474,2022,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-748391,VA,Suffolk,Suffolk,Source2,3,36.886402,-76.429726,2022,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-757330,VA,Suffolk,Suffolk,Source2,3,36.886402,-76.429726,2022,6,Monday,Rain,False,False,False,False,False,False,False
+A-757355,VA,Suffolk,Suffolk,Source2,3,36.886402,-76.429726,2022,6,Monday,Rain,False,False,False,False,False,False,False
+A-757410,VA,Suffolk,Suffolk,Source2,3,36.887253,-76.42942,2022,22,Sunday,Rain,False,False,True,False,False,False,False
+A-766883,VA,Suffolk,Suffolk,Source2,3,36.884556,-76.430458,2021,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-774087,VA,Suffolk,Suffolk,Source2,3,36.929237,-76.40765400000002,2021,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-797638,VA,Suffolk,Suffolk,Source2,3,36.88641,-76.429726,2021,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-802847,VA,Suffolk,Suffolk,Source2,3,36.886353,-76.429474,2021,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-809754,VA,Suffolk,Suffolk,Source2,3,36.886349,-76.429474,2021,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-818728,VA,Suffolk,Suffolk,Source2,3,36.92907,-76.40774499999998,2021,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-833257,VA,Suffolk,Suffolk,Source2,3,36.886402,-76.429726,2021,19,Thursday,Rain,False,False,False,False,False,False,False
+A-834732,VA,Suffolk,Suffolk,Source2,3,36.888985,-76.42871099999998,2021,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-835264,VA,Suffolk,Suffolk,Source2,3,36.886124,-76.429565,2021,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-838645,VA,Suffolk,Suffolk,Source2,3,36.886253,-76.429512,2021,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-844494,VA,Suffolk,Suffolk,Source2,3,36.85688,-76.431084,2021,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-845477,VA,Suffolk,Suffolk,Source2,4,36.886402,-76.429726,2021,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-854958,VA,Suffolk,Suffolk,Source2,3,36.929066,-76.40774499999998,2021,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-863161,VA,Suffolk,Suffolk,Source2,3,36.891644,-76.427399,2021,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-879261,VA,Suffolk,Suffolk,Source2,3,36.902168,-76.422943,2021,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-883585,VA,Suffolk,Suffolk,Source2,3,36.924263,-76.410751,2021,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-884976,VA,Suffolk,Suffolk,Source2,3,36.8867,-76.429337,2021,12,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-887184,VA,Suffolk,Suffolk,Source2,3,36.886517,-76.429413,2021,16,Thursday,Rain,False,False,False,False,False,False,False
+A-887626,VA,Suffolk,Suffolk,Source2,3,36.886402,-76.429726,2021,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-892539,VA,Suffolk,Suffolk,Source2,3,36.771099,-76.609978,2021,15,Monday,Cloudy,True,False,False,False,False,False,False
+A-894973,VA,Suffolk,Suffolk,Source2,3,36.889286,-76.428329,2021,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-903818,VA,Suffolk,Suffolk,Source2,3,36.897141,-76.425072,2021,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-934891,VA,Suffolk,Suffolk,Source2,3,36.886402,-76.429726,2021,15,Monday,Rain,False,False,False,False,False,False,False
+A-959240,VA,Suffolk,Suffolk,Source2,3,36.887253,-76.42942,2021,14,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-965117,VA,Suffolk,Suffolk,Source2,3,36.886402,-76.429726,2021,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-976308,VA,Suffolk,Suffolk,Source3,3,36.862076,-76.431259,2021,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-987302,VA,Suffolk,Suffolk,Source2,4,36.894585,-76.426079,2021,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-989862,VA,Suffolk,Suffolk,Source2,3,36.866077,-76.433456,2021,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-995778,VA,Suffolk,Suffolk,Source2,3,36.866146,-76.432457,2021,8,Monday,Rain,False,False,False,False,False,False,False
+A-1001933,VA,Suffolk,Suffolk,Source2,3,36.886402,-76.429726,2021,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1001937,VA,Suffolk,Suffolk,Source2,3,36.753456,-76.520607,2021,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1005297,VA,Suffolk,Suffolk,Source2,3,36.866077,-76.433456,2021,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1005310,VA,Suffolk,Suffolk,Source2,3,36.869049,-76.432671,2021,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1007022,VA,Suffolk,Suffolk,Source2,3,36.702198,-76.697281,2021,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1014599,VA,Suffolk,Suffolk,Source2,3,36.887253,-76.42942,2021,16,Monday,Cloudy,False,False,True,False,False,False,False
+A-1027907,VA,Suffolk,Suffolk,Source2,3,36.76498400000001,-76.555717,2021,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1029489,VA,Suffolk,Suffolk,Source2,3,36.724918,-76.635139,2021,12,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-1077209,VA,Suffolk,Suffolk,Source2,3,36.868519,-76.43480699999998,2021,4,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-1077235,VA,Suffolk,Suffolk,Source2,3,36.886402,-76.429726,2021,14,Monday,Rain,False,False,False,False,False,False,False
+A-1077236,VA,Suffolk,Suffolk,Source2,3,36.886402,-76.429726,2021,14,Monday,Rain,False,False,False,False,False,False,False
+A-1081212,VA,Suffolk,Suffolk,Source2,3,36.875763,-76.43351700000002,2021,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1094253,VA,Suffolk,Suffolk,Source2,3,36.728264,-76.630943,2021,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1098704,VA,Suffolk,Suffolk,Source2,4,36.886402,-76.429726,2021,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1106006,VA,Suffolk,Suffolk,Source2,3,36.697479,-76.710716,2021,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1116066,VA,Suffolk,Suffolk,Source2,3,36.886406,-76.429726,2021,5,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1116072,VA,Suffolk,Suffolk,Source2,3,36.869034,-76.432663,2021,6,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1118851,VA,Suffolk,Suffolk,Source2,3,36.697479,-76.710716,2021,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1120083,VA,Suffolk,Suffolk,Source2,3,36.865219,-76.430183,2021,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1130884,VA,Suffolk,Suffolk,Source2,3,36.767185,-76.585808,2021,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1141876,VA,Suffolk,Suffolk,Source2,3,36.886402,-76.429726,2021,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1149032,VA,Suffolk,Suffolk,Source2,3,36.924969,-76.410347,2021,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1150597,VA,Suffolk,Suffolk,Source2,3,36.925091,-76.40999599999998,2021,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1150598,VA,Suffolk,Suffolk,Source2,3,36.88784,-76.42890200000002,2021,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1157104,VA,Suffolk,Suffolk,Source2,4,36.886402,-76.429726,2021,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1174351,VA,Suffolk,Suffolk,Source2,3,36.766869,-76.58551,2021,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1177813,VA,Suffolk,Suffolk,Source2,3,36.886402,-76.429726,2021,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1183056,VA,Suffolk,Suffolk,Source2,3,36.925213,-76.409927,2021,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1200269,VA,Suffolk,Suffolk,Source2,3,36.886402,-76.429726,2021,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-1208629,VA,Suffolk,Suffolk,Source2,3,36.8839,-76.43073299999998,2020,16,Thursday,Rain,False,False,False,False,False,False,False
+A-1214060,VA,Suffolk,Suffolk,Source2,4,36.886402,-76.429726,2020,1,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1226520,VA,Suffolk,Suffolk,Source2,3,36.886402,-76.429726,2020,11,Wednesday,Rain,False,False,False,False,False,False,False
+A-1226532,VA,Suffolk,Suffolk,Source2,3,36.888165,-76.429039,2020,16,Wednesday,Rain,False,False,False,False,False,False,False
+A-1246453,VA,Suffolk,Suffolk,Source2,3,36.86903,-76.43070999999998,2020,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-1246465,VA,Suffolk,Suffolk,Source2,3,36.887253,-76.42942,2020,14,Monday,Cloudy,False,False,True,False,False,False,False
+A-1285064,VA,Suffolk,Suffolk,Source2,3,36.886517,-76.429413,2020,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1291725,VA,Suffolk,Suffolk,Source2,3,36.887253,-76.42942,2020,5,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-1294760,VA,Suffolk,Suffolk,Source2,3,36.887253,-76.42942,2020,13,Friday,Cloudy,False,False,True,False,False,False,False
+A-1329268,VA,Suffolk,Suffolk,Source2,3,36.767044,-76.58641800000002,2020,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1329313,VA,Suffolk,Suffolk,Source2,3,36.700924,-76.701561,2020,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1348323,VA,Suffolk,Suffolk,Source2,3,36.886402,-76.429726,2020,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1350324,VA,Suffolk,Suffolk,Source2,3,36.887253,-76.42942,2020,6,Wednesday,Fog / Low visibility,False,False,True,False,False,False,False
+A-1354233,VA,Suffolk,Suffolk,Source2,3,36.88784,-76.42890200000002,2020,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1361180,VA,Suffolk,Suffolk,Source2,3,36.886402,-76.429726,2020,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1373947,VA,Suffolk,Suffolk,Source2,4,36.887337,-76.42938199999998,2020,14,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1382461,VA,Suffolk,Suffolk,Source2,4,36.887253,-76.42942,2020,17,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-1413621,VA,Suffolk,Suffolk,Source2,4,36.887253,-76.42942,2020,5,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-1416283,VA,Suffolk,Suffolk,Source2,3,36.887337,-76.42938199999998,2020,13,Saturday,Storm,False,False,True,False,False,False,False
+A-1439355,VA,Suffolk,Suffolk,Source2,3,36.887337,-76.42938199999998,2020,21,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-1472691,VA,Suffolk,Suffolk,Source2,3,36.786007,-76.642944,2020,10,Monday,Rain,False,False,False,False,False,False,False
+A-1476962,VA,Suffolk,Suffolk,Source2,3,36.886517,-76.429413,2020,22,Thursday,Rain,False,False,False,False,False,False,False
+A-1480211,VA,Suffolk,Suffolk,Source2,4,36.887341,-76.429367,2020,21,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-1499337,VA,Suffolk,Suffolk,Source2,3,36.887337,-76.42938199999998,2020,19,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-1510193,VA,Suffolk,Suffolk,Source2,3,36.78006,-76.624779,2020,20,Thursday,Cloudy,True,False,False,False,False,True,False
+A-1516150,VA,Suffolk,Suffolk,Source2,3,36.875599,-76.43325,2020,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1525293,VA,Suffolk,Suffolk,Source2,3,36.869648,-76.433014,2020,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1535963,VA,Suffolk,Suffolk,Source2,3,36.88924,-76.428352,2020,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1585169,VA,Suffolk,Suffolk,Source2,4,36.887032,-76.429214,2020,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1603129,VA,Suffolk,Suffolk,Source2,4,36.867207,-76.432381,2020,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1626036,VA,Suffolk,Suffolk,Source2,3,36.866264,-76.43220500000002,2020,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1637998,VA,Suffolk,Suffolk,Source2,3,36.887337,-76.42938199999998,2020,7,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-1678742,VA,Suffolk,Suffolk,Source2,3,36.890636,-76.42779499999997,2019,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1688320,VA,Suffolk,Suffolk,Source2,3,36.701221,-76.700928,2019,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-1708532,VA,Suffolk,Suffolk,Source2,3,36.887253,-76.42942,2019,8,Wednesday,Rain,False,False,True,False,False,False,False
+A-1740051,VA,Suffolk,Suffolk,Source2,3,36.717789,-76.657173,2019,6,Tuesday,Rain,False,False,False,False,False,False,False
+A-1754494,VA,Suffolk,Suffolk,Source2,3,36.867638,-76.430527,2019,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1769621,VA,Suffolk,Suffolk,Source2,3,36.88855,-76.428886,2019,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1774935,VA,Suffolk,Suffolk,Source2,3,36.886829,-76.429237,2019,10,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-1792115,VA,Suffolk,Suffolk,Source2,3,36.888283,-76.428993,2019,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1829715,VA,Suffolk,Suffolk,Source2,3,36.887512,-76.42930600000003,2019,7,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-1832392,VA,Suffolk,Suffolk,Source2,3,36.88726,-76.42939799999998,2019,9,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-1840526,VA,Suffolk,Suffolk,Source2,3,36.688927,-76.755409,2019,19,Saturday,Rain,False,False,False,False,False,False,False
+A-1845348,VA,Suffolk,Suffolk,Source2,3,36.886471,-76.429428,2019,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1863728,VA,Suffolk,Suffolk,Source2,4,36.886879,-76.42955,2019,6,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1863795,VA,Suffolk,Suffolk,Source2,3,36.888111,-76.429062,2019,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1871834,VA,Suffolk,Suffolk,Source2,3,36.752529,-76.52091999999998,2019,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1878736,VA,Suffolk,Suffolk,Source2,3,36.766869,-76.58551,2019,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1881077,VA,Suffolk,Suffolk,Source2,3,36.869469,-76.432983,2019,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1916657,VA,Suffolk,Suffolk,Source2,4,36.887337,-76.42938199999998,2019,7,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-1922637,VA,Suffolk,Suffolk,Source2,3,36.899529,-76.424408,2019,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1922649,VA,Suffolk,Suffolk,Source2,3,36.861916,-76.431221,2019,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1935048,VA,Suffolk,Suffolk,Source2,3,36.887428,-76.42907,2019,7,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-1942400,VA,Suffolk,Suffolk,Source2,3,36.89724,-76.42546800000002,2019,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1989102,VA,Suffolk,Suffolk,Source2,3,36.886517,-76.429413,2019,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2034344,VA,Suffolk,Suffolk,Source2,3,36.888084,-76.428802,2019,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2070793,VA,Suffolk,Suffolk,Source2,4,36.866077,-76.433456,2019,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2085360,VA,Suffolk,Suffolk,Source2,3,36.865318,-76.43355600000002,2019,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2126540,VA,Suffolk,Suffolk,Source2,4,36.887253,-76.42942,2019,17,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-2133362,VA,Suffolk,Suffolk,Source2,3,36.887253,-76.42942,2019,14,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-2133369,VA,Suffolk,Suffolk,Source2,3,36.887253,-76.42942,2019,15,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-2145165,VA,Suffolk,Suffolk,Source2,4,36.886333,-76.429482,2019,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2170185,VA,Suffolk,Suffolk,Source2,3,36.887253,-76.42942,2019,8,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-2180587,VA,Suffolk,Suffolk,Source3,3,36.866077,-76.433456,2019,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-2206216,VA,Suffolk,Suffolk,Source2,3,36.890011,-76.429672,2019,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2216483,VA,Suffolk,Suffolk,Source2,3,36.886688,-76.429344,2019,18,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-2218668,VA,Suffolk,Suffolk,Source2,3,36.68882,-76.755791,2019,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2272612,VA,Suffolk,Suffolk,Source2,3,36.886993,-76.429199,2019,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2287661,VA,Suffolk,Suffolk,Source2,3,36.886517,-76.429413,2019,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2328627,VA,Suffolk,Suffolk,Source2,3,36.865742,-76.434448,2019,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2332902,VA,Suffolk,Suffolk,Source2,3,36.865742,-76.434448,2019,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2334667,VA,Suffolk,Suffolk,Source2,3,36.886993,-76.429199,2019,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-2392671,VA,Suffolk,Suffolk,Source2,3,36.855118,-76.43118299999998,2018,17,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-2445456,VA,Suffolk,Suffolk,Source2,3,36.868305,-76.43283100000002,2018,18,Friday,Cloudy,False,False,True,False,False,False,False
+A-2526859,VA,Suffolk,Suffolk,Source2,3,36.887337,-76.42938199999998,2018,17,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-2569560,VA,Suffolk,Suffolk,Source2,3,36.866638,-76.43227399999998,2018,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2576399,VA,Suffolk,Suffolk,Source2,3,36.887337,-76.42938199999998,2018,14,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-2613723,VA,Suffolk,Chesapeake,Source2,3,36.770683,-76.463806,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2635756,VA,Suffolk,Suffolk,Source2,3,36.887337,-76.42938199999998,2018,12,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-2652306,VA,Suffolk,Suffolk,Source2,3,36.87701,-76.43328100000002,2018,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2663900,VA,Suffolk,Suffolk,Source2,3,36.86623,-76.43248,2018,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2702475,VA,Suffolk,Suffolk,Source2,3,36.88675300000001,-76.429611,2018,16,Friday,Cloudy,False,False,True,False,False,False,False
+A-2717335,VA,Suffolk,Suffolk,Source2,3,36.872753,-76.43354000000002,2018,22,Sunday,Rain,False,False,False,False,False,False,False
+A-2740262,VA,Suffolk,Suffolk,Source2,3,36.887337,-76.42938199999998,2018,7,Monday,Cloudy,False,False,True,False,False,False,False
+A-2744969,VA,Suffolk,Suffolk,Source2,3,36.887337,-76.42938199999998,2018,8,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-2744995,VA,Suffolk,Suffolk,Source2,3,36.887337,-76.42938199999998,2018,11,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-2778504,VA,Suffolk,Suffolk,Source2,3,36.887337,-76.42938199999998,2018,12,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-2814719,VA,Suffolk,Suffolk,Source2,3,36.887337,-76.42938199999998,2018,8,Thursday,Cloudy,False,False,True,False,False,False,False
+A-2814736,VA,Suffolk,Suffolk,Source2,3,36.887337,-76.42938199999998,2018,10,Thursday,Cloudy,False,False,True,False,False,False,False
+A-2855361,VA,Suffolk,Suffolk,Source2,3,36.887337,-76.42938199999998,2018,17,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-2859114,VA,Suffolk,Suffolk,Source2,3,36.901737,-76.423164,2018,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-2880882,VA,Suffolk,Suffolk,Source2,3,36.886665,-76.429337,2018,14,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-2941552,VA,Suffolk,Suffolk,Source2,3,36.887329,-76.42938199999998,2018,6,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-2980882,VA,Suffolk,Suffolk,Source2,3,36.887329,-76.42938199999998,2018,6,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-3015967,VA,Suffolk,Suffolk,Source2,3,36.88806500000001,-76.4291,2018,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3021957,VA,Suffolk,Suffolk,Source2,3,36.887329,-76.42938199999998,2018,6,Tuesday,Fog / Low visibility,False,False,True,False,False,False,False
+A-3072492,VA,Suffolk,Suffolk,Source2,3,36.887337,-76.42938199999998,2018,19,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-3080773,VA,Suffolk,Suffolk,Source2,3,36.887337,-76.42938199999998,2018,21,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-3120412,VA,Suffolk,Suffolk,Source2,3,36.86647,-76.43225100000002,2017,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3146541,VA,Suffolk,Suffolk,Source2,3,36.887337,-76.42938199999998,2017,18,Friday,Rain,False,False,True,False,False,False,False
+A-3165588,VA,Suffolk,Suffolk,Source2,3,36.888298,-76.428696,2017,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3188856,VA,Suffolk,Suffolk,Source2,3,36.887337,-76.42938199999998,2017,5,Thursday,Cloudy,False,False,True,False,False,False,False
+A-3220054,VA,Suffolk,Suffolk,Source2,3,36.887337,-76.42938199999998,2017,6,Tuesday,Sin dato,False,False,True,False,False,False,False
+A-3220057,VA,Suffolk,Suffolk,Source2,3,36.871037,-76.433289,2017,6,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-3257686,VA,Suffolk,Suffolk,Source2,3,36.896923,-76.425606,2017,8,Friday,Sin dato,False,False,False,False,False,False,False
+A-3291967,VA,Suffolk,Suffolk,Source2,3,36.86743900000001,-76.432671,2017,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3297827,VA,Suffolk,Suffolk,Source2,3,36.89098,-76.427933,2017,11,Sunday,Cloudy,False,False,True,False,False,False,False
+A-3323302,VA,Suffolk,Suffolk,Source2,3,36.887337,-76.42938199999998,2017,6,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-3346294,VA,Suffolk,Suffolk,Source2,3,36.891922,-76.427261,2017,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-3363283,VA,Suffolk,Suffolk,Source2,3,36.86743900000001,-76.432671,2017,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3363316,VA,Suffolk,Suffolk,Source2,3,36.863068,-76.431519,2017,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3408226,VA,Suffolk,Suffolk,Source2,3,36.86743900000001,-76.432671,2017,19,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-3410805,VA,Suffolk,Suffolk,Source2,3,36.745937,-76.614052,2017,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3410890,VA,Suffolk,Suffolk,Source2,3,36.867123,-76.43261700000002,2017,16,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-3446137,VA,Suffolk,Suffolk,Source1,4,36.879169,-76.43229699999998,2016,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3453610,VA,Suffolk,Suffolk,Source1,4,36.89041,-76.42788,2016,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3460166,VA,Suffolk,Suffolk,Source1,4,36.892502,-76.427062,2017,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3462481,VA,Suffolk,Suffolk,Source1,4,36.88597,-76.42962,2017,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3482156,VA,Suffolk,Suffolk,Source1,3,36.902302,-76.42286999999997,2016,10,Monday,Sin dato,False,False,False,False,False,False,False
+A-3484084,VA,Suffolk,Suffolk,Source1,3,36.902306,-76.42286800000002,2016,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3497227,VA,Suffolk,Suffolk,Source1,4,36.902306,-76.42286800000002,2016,6,Thursday,Storm,False,False,False,False,False,False,False
+A-3497916,VA,Suffolk,Suffolk,Source1,4,36.902306,-76.42286800000002,2016,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3499443,VA,Suffolk,Suffolk,Source1,4,36.88275,-76.4309,2016,16,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-3577530,VA,Suffolk,Suffolk,Source1,4,36.879831,-76.424471,2017,20,Tuesday,Cloudy,False,True,False,False,False,False,False
+A-3577531,VA,Suffolk,Suffolk,Source1,4,36.88278,-76.426387,2017,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3577540,VA,Suffolk,Suffolk,Source1,4,36.88278,-76.426387,2017,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3580239,VA,Suffolk,Suffolk,Source1,4,36.752417,-76.525054,2017,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3580240,VA,Suffolk,Suffolk,Source1,4,36.751193,-76.524454,2017,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3582138,VA,Suffolk,Suffolk,Source1,4,36.86228,-76.46475,2017,10,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-3583392,VA,Suffolk,Suffolk,Source1,4,36.890455,-76.427863,2017,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-3615597,VA,Suffolk,Suffolk,Source1,4,36.901834,-76.423142,2017,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3626279,VA,Suffolk,Suffolk,Source1,4,36.901834,-76.423142,2017,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3629867,VA,Suffolk,Suffolk,Source1,4,36.901834,-76.423142,2017,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3641947,VA,Suffolk,Suffolk,Source1,4,36.89061,-76.42808000000002,2017,22,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3641950,VA,Suffolk,Suffolk,Source1,4,36.86226,-76.43131,2017,22,Saturday,Storm,False,False,True,False,False,False,False
+A-3646876,VA,Suffolk,Suffolk,Source1,3,36.87011500000001,-76.432845,2017,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-3672444,VA,Suffolk,Suffolk,Source1,4,36.764934,-76.606094,2023,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-3689421,VA,Suffolk,Suffolk,Source1,4,36.763784,-76.484865,2023,1,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-3759819,VA,Suffolk,Suffolk,Source1,4,36.867725,-76.43245,2022,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-3806968,VA,Suffolk,Suffolk,Source1,4,36.867011,-76.432339,2023,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3837320,VA,Suffolk,Suffolk,Source1,4,36.710663,-76.677295,2022,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3937581,VA,Suffolk,Suffolk,Source1,4,36.726533,-76.632276,2022,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3947726,VA,Suffolk,Suffolk,Source1,4,36.765222,-76.57005799999997,2022,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3991610,VA,Suffolk,Suffolk,Source1,4,36.687097,-76.761277,2022,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4053336,VA,Suffolk,Suffolk,Source1,4,36.901858,-76.423106,2022,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4093607,VA,Suffolk,Suffolk,Source1,4,36.686987,-76.761224,2022,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4096893,VA,Suffolk,Suffolk,Source1,4,36.867558,-76.426671,2023,6,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-4099780,VA,Suffolk,Suffolk,Source1,4,36.726737,-76.632047,2022,22,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-4104524,VA,Suffolk,Suffolk,Source1,4,36.867725,-76.43245,2022,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4119925,VA,Suffolk,Suffolk,Source1,4,36.899665,-76.424185,2023,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4121632,VA,Suffolk,Suffolk,Source1,4,36.720165,-76.65122,2022,8,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4145631,VA,Suffolk,Suffolk,Source1,4,36.924213,-76.41046300000002,2022,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-4151298,VA,Suffolk,Suffolk,Source1,4,36.924213,-76.41046300000002,2023,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4172625,VA,Suffolk,Suffolk,Source1,4,36.807246,-76.575716,2022,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4193460,VA,Suffolk,Suffolk,Source1,4,36.785983,-76.642878,2023,15,Tuesday,Rain,False,False,False,False,False,False,False
+A-4202513,VA,Suffolk,Suffolk,Source1,4,36.677963,-76.619361,2023,20,Wednesday,Rain,False,False,False,False,False,False,False
+A-4204401,VA,Suffolk,Suffolk,Source1,4,36.716495,-76.660418,2023,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-4205084,VA,Suffolk,Suffolk,Source1,4,36.7501,-76.612297,2022,18,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-4335811,VA,Suffolk,Suffolk,Source1,4,36.901702,-76.423503,2023,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4336074,VA,Suffolk,Suffolk,Source1,4,36.898939,-76.424493,2022,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4417410,VA,Suffolk,Suffolk,Source1,4,36.75982,-76.53403399999998,2023,18,Wednesday,Rain,False,False,False,False,False,False,False
+A-4528497,VA,Suffolk,Suffolk,Source1,4,36.898939,-76.424493,2022,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4557414,VA,Suffolk,Suffolk,Source1,4,36.755607,-76.51045,2022,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4589756,VA,Suffolk,Suffolk,Source1,4,36.861821,-76.431196,2022,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4653423,VA,Suffolk,Suffolk,Source1,4,36.716796,-76.659699,2022,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-4743439,VA,Suffolk,Suffolk,Source1,4,36.867667,-76.43270799999998,2023,3,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4818640,VA,Suffolk,Suffolk,Source1,4,36.756255,-76.531607,2022,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4838366,VA,Suffolk,Suffolk,Source1,4,36.674304,-76.625537,2023,20,Wednesday,Rain,False,False,False,False,False,False,False
+A-4880246,VA,Suffolk,Suffolk,Source1,4,36.885998,-76.42959300000003,2022,0,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4920707,VA,Suffolk,Suffolk,Source1,4,36.75982,-76.53403399999998,2023,14,Wednesday,Rain,False,False,False,False,False,False,False
+A-4922524,VA,Suffolk,Suffolk,Source1,4,36.702623,-76.695578,2023,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-4936124,VA,Suffolk,Suffolk,Source1,4,36.726141,-76.632871,2022,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-4938381,VA,Suffolk,Suffolk,Source1,4,36.861147,-76.431014,2022,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4970407,VA,Suffolk,Suffolk,Source1,4,36.78828,-76.654389,2022,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4987754,VA,Suffolk,Suffolk,Source1,4,36.766829,-76.58568000000002,2022,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5007354,VA,Suffolk,Suffolk,Source1,4,36.899161,-76.494591,2022,15,Saturday,Clear / Fair,False,True,False,False,False,False,False
+A-5102745,VA,Suffolk,Suffolk,Source1,4,36.656223,-76.637664,2022,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5119466,VA,Suffolk,Suffolk,Source1,4,36.717686,-76.657211,2022,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5206318,VA,Suffolk,Suffolk,Source1,4,36.865502,-76.432091,2022,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5206319,VA,Suffolk,Suffolk,Source1,4,36.867725,-76.43245,2022,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-5241968,VA,Suffolk,Suffolk,Source1,4,36.686067,-76.76520500000002,2022,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5372509,VA,Suffolk,Suffolk,Source1,4,36.901858,-76.423106,2022,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5403332,VA,Suffolk,Suffolk,Source1,4,36.717805,-76.65724399999998,2023,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5412376,VA,Suffolk,Suffolk,Source1,4,36.699891,-76.705794,2022,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-5418017,VA,Suffolk,Suffolk,Source1,4,36.725762,-76.633525,2022,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5437538,VA,Suffolk,Suffolk,Source1,4,36.745794,-76.61381899999998,2022,3,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5438385,VA,Suffolk,Suffolk,Source1,4,36.79425300000001,-76.681988,2022,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5537605,VA,Suffolk,Suffolk,Source1,4,36.75662,-76.508423,2021,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5603665,VA,Suffolk,Suffolk,Source1,4,36.898354,-76.424725,2021,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5641217,VA,Suffolk,Suffolk,Source1,4,36.901968,-76.423358,2021,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5755761,VA,Suffolk,Suffolk,Source1,4,36.765787,-76.60080400000002,2021,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5777357,VA,Suffolk,Suffolk,Source1,4,36.653082,-76.831241,2021,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5852195,VA,Suffolk,Suffolk,Source1,4,36.898354,-76.424725,2021,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5870881,VA,Suffolk,Suffolk,Source1,4,36.782453,-76.63341700000002,2021,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5902836,VA,Suffolk,Suffolk,Source1,4,36.898939,-76.424493,2021,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-5921629,VA,Suffolk,Suffolk,Source1,4,36.861821,-76.431196,2021,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5954292,VA,Suffolk,Suffolk,Source1,4,36.789382,-76.659429,2021,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6034590,VA,Suffolk,Suffolk,Source1,4,36.783759,-76.63319,2021,11,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-6089041,VA,Suffolk,Suffolk,Source1,4,36.765193,-76.481583,2021,14,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-6105526,VA,Suffolk,Suffolk,Source1,4,36.901858,-76.423106,2021,0,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6230627,VA,Suffolk,Suffolk,Source1,4,36.790486,-76.66452199999998,2021,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6451161,VA,Suffolk,Suffolk,Source1,4,36.894236,-76.42635600000001,2021,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-6505085,VA,Suffolk,Suffolk,Source1,4,36.751128,-76.52448000000003,2021,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-6518770,VA,Suffolk,Suffolk,Source1,4,36.930596,-76.406869,2021,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6737390,VA,Suffolk,Suffolk,Source1,4,36.559892,-76.750928,2020,1,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6751039,VA,Suffolk,Suffolk,Source1,4,36.898354,-76.424725,2020,23,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6751040,VA,Suffolk,Suffolk,Source1,4,36.890641,-76.427775,2020,23,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6788331,VA,Suffolk,Suffolk,Source1,4,36.550987,-76.738396,2020,1,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6844706,VA,Suffolk,Suffolk,Source1,4,36.695104,-76.725003,2021,1,Friday,Cloudy,False,False,False,False,False,False,False
+A-6855020,VA,Suffolk,Suffolk,Source1,4,36.890641,-76.427775,2020,23,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6959251,VA,Suffolk,Suffolk,Source1,4,36.890641,-76.427775,2020,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6968798,VA,Suffolk,Suffolk,Source1,4,36.898354,-76.424725,2020,23,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6969404,VA,Suffolk,Suffolk,Source1,4,36.890641,-76.427775,2020,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-7003641,VA,Suffolk,Suffolk,Source1,4,36.88107,-76.49172,2020,16,Thursday,Rain,False,False,False,False,False,False,False
+A-7009891,VA,Suffolk,Suffolk,Source1,4,36.86552,-76.43209,2020,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7026385,VA,Suffolk,Suffolk,Source1,3,36.86552,-76.43235,2020,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7026388,VA,Suffolk,Suffolk,Source1,3,36.86212,-76.4318,2020,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7094028,VA,Suffolk,Suffolk,Source1,3,36.88275,-76.4309,2020,6,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7104821,VA,Suffolk,Suffolk,Source1,4,36.72027,-76.6512,2020,6,Friday,Rain,False,False,False,False,False,False,False
+A-7125416,VA,Suffolk,Suffolk,Source1,3,36.86552,-76.43209,2020,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7125566,VA,Suffolk,Suffolk,Source1,3,36.72656,-76.63231,2020,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7136224,VA,Suffolk,Suffolk,Source1,3,36.86552,-76.43209,2020,15,Wednesday,Rain,False,False,False,False,False,False,False
+A-7163937,VA,Suffolk,Suffolk,Source1,3,36.86552,-76.43209,2020,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7229970,VA,Suffolk,Suffolk,Source1,4,36.9023,-76.42286999999997,2020,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7244466,VA,Suffolk,Suffolk,Source1,4,36.88744000000001,-76.42905999999998,2020,16,Friday,Cloudy,False,False,True,False,False,False,False
+A-7259717,VA,Suffolk,Suffolk,Source1,3,36.89381,-76.42655,2020,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7307278,VA,Suffolk,Suffolk,Source1,4,36.65018,-76.85139000000002,2019,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7316248,VA,Suffolk,Suffolk,Source1,4,36.9023,-76.42286999999997,2019,0,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7341079,VA,Suffolk,Suffolk,Source1,4,36.75637,-76.50926,2019,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7348925,VA,Suffolk,Suffolk,Source1,4,36.65755,-76.87756999999998,2019,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-7348929,VA,Suffolk,Suffolk,Source1,4,36.7011,-76.70085,2019,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-7399870,VA,Suffolk,Suffolk,Source1,4,36.902305,-76.42286800000002,2019,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-7417440,VA,Suffolk,Suffolk,Source1,3,36.65018,-76.85139000000002,2019,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-7417441,VA,Suffolk,Suffolk,Source1,3,36.65018,-76.85139000000002,2019,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-7418848,VA,Suffolk,Suffolk,Source1,4,36.902305,-76.42286800000002,2019,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7428864,VA,Suffolk,Suffolk,Source1,4,36.87154,-76.43333,2019,15,Sunday,Cloudy,False,False,True,False,False,False,False
+A-7449093,VA,Suffolk,Suffolk,Source1,4,36.64288,-76.65509,2019,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-7449094,VA,Suffolk,Suffolk,Source1,4,36.631376,-76.65575,2019,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-7461838,VA,Suffolk,Suffolk,Source1,3,36.882997,-76.431062,2019,13,Saturday,Cloudy,False,False,True,False,False,False,False
+A-7469443,VA,Suffolk,Suffolk,Source1,4,36.901375,-76.42338199999998,2019,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-7470762,VA,Suffolk,Suffolk,Source1,4,36.752799,-76.52506,2019,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7496843,VA,Suffolk,Suffolk,Source1,4,36.88275,-76.4309,2018,11,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7500050,VA,Suffolk,Suffolk,Source1,4,36.718604,-76.65537900000002,2018,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7533041,VA,Suffolk,Suffolk,Source1,4,36.702828,-76.69494399999998,2018,4,Sunday,Rain,False,False,False,False,False,False,False
+A-7540127,VA,Suffolk,Suffolk,Source1,3,36.867329,-76.43097,2018,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-7549897,VA,Suffolk,Suffolk,Source1,4,36.897006,-76.425288,2018,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7556046,VA,Suffolk,Suffolk,Source1,4,36.773434,-76.61384699999998,2018,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7556047,VA,Suffolk,Suffolk,Source1,4,36.770806,-76.609488,2018,17,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-7560589,VA,Suffolk,Suffolk,Source1,4,36.901375,-76.42338199999998,2018,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7564504,VA,Suffolk,Suffolk,Source1,3,36.86795,-76.48996,2018,16,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-7566381,VA,Suffolk,Suffolk,Source1,4,36.901375,-76.42338199999998,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7566382,VA,Suffolk,Suffolk,Source1,3,36.867153,-76.43435600000002,2018,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7566383,VA,Suffolk,Suffolk,Source1,4,36.76787,-76.5885,2018,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7585249,VA,Suffolk,Suffolk,Source1,4,36.901375,-76.42338199999998,2018,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7588792,VA,Suffolk,Suffolk,Source1,3,36.877449,-76.432877,2018,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-7592890,VA,Suffolk,Suffolk,Source1,4,36.867302,-76.428216,2018,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7604054,VA,Suffolk,Suffolk,Source1,4,36.76512,-76.55381,2018,20,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-7612769,VA,Suffolk,Suffolk,Source1,4,36.897006,-76.425288,2018,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7612772,VA,Suffolk,Suffolk,Source1,4,36.89347,-76.42668,2018,7,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7616378,VA,Suffolk,Suffolk,Source1,4,36.901375,-76.42338199999998,2018,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7620195,VA,Suffolk,Suffolk,Source1,4,36.887087,-76.429197,2018,8,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7620197,VA,Suffolk,Suffolk,Source1,4,36.887087,-76.429197,2018,8,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7620198,VA,Suffolk,Suffolk,Source1,4,36.86761,-76.42730999999998,2018,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7620199,VA,Suffolk,Suffolk,Source1,3,36.86761,-76.42730999999998,2018,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7620200,VA,Suffolk,Suffolk,Source1,4,36.867154,-76.434351,2018,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7624076,VA,Suffolk,Suffolk,Source1,4,36.894978,-76.426086,2018,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-7624500,VA,Suffolk,Suffolk,Source1,4,36.901375,-76.42338199999998,2018,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7625403,VA,Suffolk,Suffolk,Source1,4,36.890433,-76.427871,2018,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7626422,VA,Suffolk,Suffolk,Source1,3,36.88275,-76.4309,2018,15,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7628370,VA,Suffolk,Suffolk,Source1,4,36.866601,-76.435621,2018,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7635961,VA,Suffolk,Suffolk,Source1,4,36.893475,-76.42667800000002,2018,7,Monday,Cloudy,False,False,True,False,False,False,False
+A-7654244,VA,Suffolk,Suffolk,Source1,4,36.66664,-76.801674,2017,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7665777,VA,Suffolk,Suffolk,Source1,3,36.8698,-76.43304,2017,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7665778,VA,Suffolk,Suffolk,Source1,3,36.864609,-76.43190600000001,2017,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7665900,VA,Suffolk,Suffolk,Source1,3,36.890005,-76.429039,2017,22,Sunday,Sin dato,False,False,False,False,False,False,False
+A-7667811,VA,Suffolk,Suffolk,Source1,3,36.86552,-76.43209,2017,22,Thursday,Sin dato,False,False,False,False,False,False,False
+A-7684866,VA,Suffolk,Suffolk,Source1,4,36.89829,-76.424774,2017,23,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7686262,VA,Suffolk,Suffolk,Source1,4,36.901416,-76.42335899999998,2017,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7689170,VA,Suffolk,Suffolk,Source1,4,36.890433,-76.427871,2017,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7689171,VA,Suffolk,Suffolk,Source1,4,36.890433,-76.427871,2017,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7694510,VA,Suffolk,Suffolk,Source1,4,36.901375,-76.42338199999998,2017,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-7702819,VA,Suffolk,Suffolk,Source1,3,36.88275,-76.4309,2019,6,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7705842,VA,Suffolk,Suffolk,Source1,4,36.688904,-76.754991,2019,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7708055,VA,Suffolk,Suffolk,Source1,4,36.640772,-76.65619000000002,2019,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-7708056,VA,Suffolk,Suffolk,Source1,4,36.631376,-76.65575,2019,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-7710301,VA,Suffolk,Suffolk,Source1,4,36.694368,-76.721369,2019,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7714467,VA,Suffolk,Suffolk,Source1,3,36.713567,-76.66922199999998,2019,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7715784,VA,Suffolk,Suffolk,Source1,4,36.861919,-76.58051,2019,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-7723117,VA,Suffolk,Suffolk,Source1,4,36.76447,-76.60649000000002,2019,7,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7723118,VA,Suffolk,Suffolk,Source1,4,36.765949,-76.604049,2019,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7727409,VA,Suffolk,Suffolk,Source1,3,36.71392,-76.66825,2019,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-7728226,VA,Suffolk,Suffolk,Source1,3,36.56982100000001,-76.58233,2019,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-7728227,VA,Suffolk,Suffolk,Source1,3,36.590377,-76.58795699999997,2019,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-7732360,VA,Suffolk,Suffolk,Source1,4,36.893815,-76.426548,2019,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7737874,VA,Suffolk,Suffolk,Source1,4,36.897006,-76.425288,2019,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7741942,VA,Suffolk,Suffolk,Source1,4,36.901375,-76.42338199999998,2019,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7742192,VA,Suffolk,Suffolk,Source1,4,36.75301,-76.51876999999998,2019,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7742195,VA,Suffolk,Suffolk,Source1,4,36.76467,-76.55875999999998,2019,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7742202,VA,Suffolk,Suffolk,Source1,4,36.76467,-76.55875999999998,2019,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7745845,VA,Suffolk,Suffolk,Source1,4,36.65426400000001,-76.82364,2019,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7745846,VA,Suffolk,Suffolk,Source1,4,36.654763,-76.822051,2019,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7745848,VA,Suffolk,Suffolk,Source1,4,36.65426400000001,-76.82364,2019,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7752921,VA,Suffolk,Suffolk,Source1,3,36.713866,-76.66791500000002,2019,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7755036,VA,Suffolk,Suffolk,Source1,4,36.648366,-76.614714,2019,11,Saturday,Cloudy,False,False,False,False,False,False,False

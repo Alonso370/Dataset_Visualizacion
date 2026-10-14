@@ -1,0 +1,255 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-635562,VA,Henry,Martinsville,Source3,3,36.640968,-79.928703,2022,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1037139,VA,Henry,Bassett,Source2,3,36.793159,-79.93396,2021,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1086990,VA,Henry,Bassett,Source2,3,36.796349,-79.935654,2021,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1169941,VA,Henry,Fieldale,Source2,3,36.694588,-79.952614,2021,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1196715,VA,Henry,Martinsville,Source2,3,36.738029,-79.883553,2021,12,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-1215548,VA,Henry,Bassett,Source2,3,36.815578,-79.93557,2020,16,Thursday,Rain,False,False,False,False,False,False,False
+A-1325971,VA,Henry,Axton,Source2,3,36.658047,-79.707916,2020,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1354129,VA,Henry,Bassett,Source2,3,36.77829000000001,-79.938316,2020,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1361114,VA,Henry,Ridgeway,Source2,3,36.578972,-79.863182,2020,15,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-1450617,VA,Henry,Bassett,Source2,3,36.793159,-79.93396,2020,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1605456,VA,Henry,Martinsville,Source2,3,36.648911,-79.913223,2020,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1623682,VA,Henry,Martinsville,Source2,3,36.653179,-79.87447399999998,2020,19,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-1623684,VA,Henry,Martinsville,Source2,3,36.648911,-79.913223,2020,22,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1675413,VA,Henry,Axton,Source2,3,36.659584,-79.711853,2020,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1734979,VA,Henry,Fieldale,Source2,3,36.694775,-79.952461,2019,4,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2291564,VA,Henry,Fieldale,Source2,3,36.701118,-79.93244200000002,2019,12,Monday,Clear / Fair,False,True,False,False,False,False,True
+A-2421956,VA,Henry,Ridgeway,Source2,3,36.622684,-79.85925300000002,2018,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-2431208,VA,Henry,Stanleytown,Source2,3,36.74028,-79.95465899999998,2018,13,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-3301645,VA,Henry,Spencer,Source2,3,36.619938,-80.007324,2017,12,Tuesday,Rain,False,False,False,False,False,False,False
+A-3457284,VA,Henry,Martinsville,Source1,4,36.64967,-79.91356,2017,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3461399,VA,Henry,Fieldale,Source1,4,36.70112,-79.93244,2017,20,Saturday,Rain,False,True,False,False,False,False,True
+A-3468259,VA,Henry,Bassett,Source1,3,36.785713,-79.93559,2016,2,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3468260,VA,Henry,Bassett,Source1,3,36.797215,-79.93630999999998,2016,2,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3468261,VA,Henry,Bassett,Source1,4,36.786753,-79.935202,2016,3,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3477968,VA,Henry,Martinsville,Source1,4,36.69253,-79.82986,2016,6,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3485520,VA,Henry,Collinsville,Source1,3,36.73363300000001,-79.923905,2016,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3577425,VA,Henry,Ridgeway,Source1,4,36.559341,-79.826802,2017,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3577427,VA,Henry,Ridgeway,Source1,4,36.573645,-79.84722099999998,2017,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3578869,VA,Henry,Bassett,Source1,4,36.739669,-79.936318,2017,4,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-3578888,VA,Henry,Bassett,Source1,4,36.739669,-79.936318,2017,6,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-3602812,VA,Henry,Martinsville,Source1,3,36.631969,-79.885238,2017,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3628456,VA,Henry,Ridgeway,Source1,4,36.58704,-79.86343000000002,2017,17,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-3628458,VA,Henry,Ridgeway,Source1,4,36.57933,-79.86273,2017,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3647175,VA,Henry,Collinsville,Source1,4,36.7194,-79.91244,2017,4,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3647176,VA,Henry,Collinsville,Source1,4,36.717905,-79.9114,2017,4,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3652402,VA,Henry,Martinsville,Source1,4,36.70573,-79.824849,2023,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3661145,VA,Henry,Martinsville,Source1,4,36.708367,-79.82441700000003,2023,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3673018,VA,Henry,Bassett,Source1,4,36.751421,-79.979949,2023,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3676909,VA,Henry,Bassett,Source1,4,36.750826,-79.98013900000002,2023,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3735878,VA,Henry,Martinsville,Source1,4,36.704021,-79.907595,2022,23,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3736146,VA,Henry,Ridgeway,Source1,4,36.582252,-79.835355,2023,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3747590,VA,Henry,Ridgeway,Source1,4,36.579932,-79.857479,2022,14,Tuesday,Clear / Fair,False,True,False,False,False,False,False
+A-3762851,VA,Henry,Bassett,Source1,4,36.753651,-79.98185500000002,2022,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3765306,VA,Henry,Bassett,Source1,4,36.753682,-79.98085999999998,2022,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3772325,VA,Henry,Fieldale,Source1,4,36.694789,-79.946821,2022,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3782577,VA,Henry,Axton,Source1,4,36.732051,-79.694135,2022,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3793787,VA,Henry,Collinsville,Source1,4,36.714111,-79.906261,2022,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3808684,VA,Henry,Martinsville,Source1,4,36.703599,-79.759425,2022,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3818660,VA,Henry,Ridgeway,Source1,4,36.557121,-79.846612,2022,7,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3822950,VA,Henry,Martinsville,Source1,4,36.771119,-79.873136,2022,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-3828928,VA,Henry,Axton,Source1,4,36.749704,-79.69017,2022,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3850800,VA,Henry,Stanleytown,Source1,4,36.739879846397685,-79.93657708129915,2022,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3866863,VA,Henry,Ridgeway,Source1,4,36.625636,-79.847978,2022,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3889120,VA,Henry,Ridgeway,Source1,4,36.60514000000001,-79.951031,2022,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3903935,VA,Henry,Fieldale,Source1,4,36.708505,-79.942833,2022,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3912119,VA,Henry,Axton,Source1,4,36.659364,-79.71064799999998,2022,1,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3925295,VA,Henry,Ridgeway,Source1,4,36.579039,-79.863141,2022,0,Friday,Cloudy,True,False,False,False,False,False,False
+A-3950157,VA,Henry,Collinsville,Source1,4,36.713433,-79.908401,2022,21,Monday,Cloudy,True,False,False,False,False,False,False
+A-3952442,VA,Henry,Bassett,Source1,4,36.715582,-80.017275,2022,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3969920,VA,Henry,Collinsville,Source1,4,36.713433,-79.908401,2022,21,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-3976161,VA,Henry,Fieldale,Source1,4,36.705431,-79.929864,2022,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3977739,VA,Henry,Ridgeway,Source1,4,36.62274241429985,-79.85978007278509,2022,12,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-4009031,VA,Henry,Martinsville,Source1,4,36.681693,-79.793472,2022,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4029285,VA,Henry,Axton,Source1,4,36.659729,-79.71181899999998,2022,1,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4079744,VA,Henry,Bassett,Source1,4,36.723875,-80.08479799999998,2022,2,Monday,Cloudy,False,False,False,False,False,False,False
+A-4089750,VA,Henry,Martinsville,Source1,4,36.639706,-79.932186,2022,15,Monday,Rain,False,False,False,False,False,False,False
+A-4102429,VA,Henry,Bassett,Source1,4,36.763112,-80.036373,2022,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4113203,VA,Henry,Fieldale,Source1,4,36.701238,-79.934286,2022,1,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4115144,VA,Henry,Martinsville,Source1,4,36.64545800000001,-79.918934,2022,1,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4160083,VA,Henry,Martinsville,Source1,4,36.68904600000001,-79.907826,2022,22,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4176294,VA,Henry,Martinsville,Source1,4,36.78294,-79.898808,2022,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4187542,VA,Henry,Fieldale,Source1,4,36.69585,-79.947092,2022,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4191720,VA,Henry,Fieldale,Source1,4,36.69575,-80.006401,2022,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4192072,VA,Henry,Martinsville,Source1,4,36.665467,-79.882852,2023,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4214162,VA,Henry,Bassett,Source1,4,36.76300000000001,-80.02539499999997,2022,2,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4224375,VA,Henry,Ridgeway,Source1,4,36.576565,-79.861575,2022,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4228166,VA,Henry,Martinsville,Source1,4,36.702692,-79.90603399999998,2022,23,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4241527,VA,Henry,Martinsville,Source1,4,36.696175,-79.758537,2022,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4274713,VA,Henry,Martinsville,Source1,4,36.698543,-79.820515,2023,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4284804,VA,Henry,Ridgeway,Source1,4,36.58227700000001,-79.836137,2023,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4295149,VA,Henry,Ridgeway,Source1,4,36.626774,-79.859753,2022,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4313375,VA,Henry,Stanleytown,Source1,4,36.740333,-79.954572,2022,17,Saturday,Cloudy,True,False,False,False,False,False,False
+A-4321928,VA,Henry,Bassett,Source1,4,36.76300000000001,-80.02539499999997,2022,2,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4341563,VA,Henry,Stanleytown,Source1,4,36.73902,-79.940704,2022,23,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4364255,VA,Henry,Martinsville,Source1,4,36.642266,-79.92368499999998,2022,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4416692,VA,Henry,Ridgeway,Source1,4,36.578581,-79.863431,2022,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4438789,VA,Henry,Martinsville,Source1,4,36.701325,-79.809771,2022,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4468989,VA,Henry,Fieldale,Source1,4,36.70503,-79.93135799999997,2022,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4499419,VA,Henry,Martinsville,Source1,4,36.644292,-79.91942900000002,2022,1,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4557648,VA,Henry,Fieldale,Source1,4,36.703361,-79.93253399999998,2022,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4594587,VA,Henry,Bassett,Source1,4,36.762615,-80.038956,2022,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4597315,VA,Henry,Martinsville,Source1,4,36.641993,-79.935301,2022,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4610195,VA,Henry,Fieldale,Source1,4,36.701581,-79.93491800000002,2022,1,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4651894,VA,Henry,Martinsville,Source1,4,36.754612,-79.800978,2022,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-4657027,VA,Henry,Martinsville,Source1,4,36.689535,-79.909076,2022,22,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4666546,VA,Henry,Martinsville,Source1,4,36.74012000000001,-79.849763,2022,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4686540,VA,Henry,Ridgeway,Source1,4,36.550945,-79.895799,2023,21,Sunday,Rain,False,False,False,False,False,False,False
+A-4711287,VA,Henry,Martinsville,Source1,4,36.697023,-79.820812,2023,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4740740,VA,Henry,Martinsville,Source1,4,36.785653,-79.896925,2022,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4744253,VA,Henry,Ridgeway,Source1,4,36.623545,-79.86485,2022,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4746838,VA,Henry,Ridgeway,Source1,4,36.58722996694286,-79.86342787704531,2022,9,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-4746906,VA,Henry,Ridgeway,Source1,4,36.571485,-79.87179,2022,21,Friday,Clear / Fair,False,False,False,True,False,False,False
+A-4786543,VA,Henry,Bassett,Source1,4,36.760518,-80.019054,2022,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4806580,VA,Henry,Martinsville,Source1,4,36.645034,-79.96287099999998,2022,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4822864,VA,Henry,Martinsville,Source1,4,36.697849,-79.815668,2022,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4831338,VA,Henry,Ridgeway,Source1,4,36.613746,-79.85045600000002,2022,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4899763,VA,Henry,Collinsville,Source1,4,36.711498,-79.91994100000002,2022,2,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4915956,VA,Henry,Ridgeway,Source1,4,36.57150149,-79.87156033,2022,0,Friday,Cloudy,False,False,False,True,False,False,False
+A-4916500,VA,Henry,Martinsville,Source1,4,36.702692,-79.90603399999998,2022,23,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4924757,VA,Henry,Ridgeway,Source1,4,36.571480035607465,-79.87179636917173,2022,21,Friday,Clear / Fair,False,False,False,True,False,False,False
+A-4929880,VA,Henry,Ridgeway,Source1,4,36.579033136193374,-79.86312746963566,2022,7,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-4952410,VA,Henry,Martinsville,Source1,4,36.708066,-79.76269,2022,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4958871,VA,Henry,Axton,Source1,4,36.591144,-79.705742,2022,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4958942,VA,Henry,Bassett,Source1,4,36.767537,-79.935569,2022,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4979403,VA,Henry,Martinsville,Source1,4,36.762313,-79.799214,2022,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-5000804,VA,Henry,Fieldale,Source1,4,36.70110800000001,-79.932441,2022,22,Sunday,Clear / Fair,False,True,False,False,False,False,True
+A-5039936,VA,Henry,Martinsville,Source1,4,36.738743,-79.847503,2022,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5049383,VA,Henry,Bassett,Source1,4,36.766298,-80.021714,2022,2,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5089519,VA,Henry,Axton,Source1,4,36.750007,-79.69005600000001,2022,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5091474,VA,Henry,Martinsville,Source1,4,36.771812,-79.872272,2022,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-5122045,VA,Henry,Ridgeway,Source1,4,36.562989,-79.854678,2022,7,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-5128207,VA,Henry,Ridgeway,Source1,4,36.626213,-79.847329,2022,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5128573,VA,Henry,Martinsville,Source1,4,36.639526,-79.93210400000002,2022,15,Monday,Rain,False,False,False,False,False,False,False
+A-5139454,VA,Henry,Bassett,Source1,4,36.748609,-79.977428,2022,21,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-5150130,VA,Henry,Ridgeway,Source1,4,36.615238,-79.85090600000002,2022,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5158596,VA,Henry,Axton,Source1,4,36.729577,-79.69658100000002,2022,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5166693,VA,Henry,Fieldale,Source1,4,36.707968,-79.94044699999998,2022,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5166902,VA,Henry,Stanleytown,Source1,4,36.73902,-79.940704,2022,23,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5213844,VA,Henry,Bassett,Source1,4,36.71499,-80.01559499999998,2022,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5218468,VA,Henry,Spencer,Source1,4,36.617036,-80.02174000000002,2022,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5222927,VA,Henry,Bassett,Source1,4,36.793242,-79.933688,2023,8,Friday,Rain,False,False,False,False,False,False,False
+A-5250857,VA,Henry,Martinsville,Source1,4,36.7035,-79.905188,2022,23,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-5254162,VA,Henry,Axton,Source1,4,36.65182,-79.693943,2022,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5286082,VA,Henry,Ridgeway,Source1,4,36.575952,-79.863123,2022,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5293067,VA,Henry,Ridgeway,Source1,4,36.5715014932796,-79.87156033477844,2022,19,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-5319841,VA,Henry,Ridgeway,Source1,4,36.604058,-79.95108499999998,2022,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5354516,VA,Henry,Martinsville,Source1,4,36.696175,-79.758537,2022,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5364211,VA,Henry,Martinsville,Source1,4,36.643351,-79.964463,2022,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5422950,VA,Henry,Axton,Source1,4,36.670774,-79.737735,2022,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5428222,VA,Henry,Bassett,Source1,4,36.748163,-79.97595,2022,21,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-5451486,VA,Henry,Collinsville,Source1,4,36.711494,-79.920707,2022,2,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5460247,VA,Henry,Bassett,Source1,4,36.726027,-80.079954,2022,2,Monday,Cloudy,False,False,False,False,False,False,False
+A-5478424,VA,Henry,Fieldale,Source1,4,36.69504000000001,-79.97193399999998,2021,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5508210,VA,Henry,Axton,Source1,4,36.65455,-79.708704,2021,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5511546,VA,Henry,Axton,Source1,4,36.65039,-79.821726,2021,22,Friday,Cloudy,False,False,False,False,False,False,False
+A-5518272,VA,Henry,Fieldale,Source1,4,36.72884000000001,-79.95370799999998,2021,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5545513,VA,Henry,Martinsville,Source1,4,36.757532,-79.882287,2021,21,Friday,Rain,False,False,False,False,False,False,False
+A-5562695,VA,Henry,Martinsville,Source1,4,36.667698,-79.987765,2021,0,Saturday,Rain,False,False,False,False,False,False,False
+A-5570307,VA,Henry,Collinsville,Source1,4,36.732015,-79.914684,2021,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5571242,VA,Henry,Martinsville,Source1,4,36.690302,-79.90693,2021,23,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5578199,VA,Henry,Collinsville,Source1,4,36.731335,-79.91523000000002,2021,13,Friday,Cloudy,True,False,False,False,False,False,False
+A-5630389,VA,Henry,Martinsville,Source1,4,36.656773,-79.91508,2021,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5633590,VA,Henry,Stanleytown,Source1,4,36.740135,-79.954104,2021,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5634857,VA,Henry,Stanleytown,Source1,4,36.740333,-79.954572,2021,8,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-5688560,VA,Henry,Martinsville,Source1,4,36.640393,-79.960537,2021,22,Thursday,Rain,False,False,False,False,False,False,False
+A-5693451,VA,Henry,Bassett,Source1,4,36.757978,-80.058415,2021,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5699726,VA,Henry,Martinsville,Source1,4,36.65516495687172,-79.82351660690391,2021,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5707426,VA,Henry,Collinsville,Source1,4,36.724914,-79.917799,2021,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5719960,VA,Henry,Martinsville,Source1,4,36.759281,-79.722737,2021,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5724435,VA,Henry,Martinsville,Source1,4,36.683681,-79.80404,2021,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5736906,VA,Henry,Martinsville,Source1,4,36.744323,-79.883759,2021,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5766068,VA,Henry,Ridgeway,Source1,4,36.62188410741509,-79.85995173416204,2021,21,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-5789286,VA,Henry,Bassett,Source1,4,36.7508,-80.07090699999998,2021,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5806500,VA,Henry,Martinsville,Source1,4,36.667855,-79.98898299999998,2021,0,Saturday,Rain,False,False,False,False,False,False,False
+A-5823383,VA,Henry,Martinsville,Source1,4,36.757796,-79.88256,2021,21,Friday,Rain,False,False,False,False,False,False,False
+A-5851142,VA,Henry,Ridgeway,Source1,4,36.601991,-79.890158,2021,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5855328,VA,Henry,Ridgeway,Source1,4,36.604216,-79.890928,2021,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5855924,VA,Henry,Bassett,Source1,4,36.748068,-79.975352,2021,2,Friday,Cloudy,False,False,False,False,False,False,False
+A-5877364,VA,Henry,Bassett,Source1,4,36.752836,-79.978712,2021,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5882747,VA,Henry,Martinsville,Source1,4,36.645905,-79.932429,2021,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5934874,VA,Henry,Bassett,Source1,4,36.799854,-79.95270500000002,2021,23,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5964673,VA,Henry,Martinsville,Source1,4,36.691173,-79.963819,2021,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5966519,VA,Henry,Martinsville,Source1,4,36.640953,-79.961139,2021,22,Thursday,Rain,False,False,False,False,False,False,False
+A-5976456,VA,Henry,Bassett,Source1,4,36.750813,-80.072654,2021,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5990307,VA,Henry,Fieldale,Source1,4,36.724562,-79.952862,2021,23,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5995436,VA,Henry,Martinsville,Source1,4,36.628625,-79.95370600000003,2021,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6032971,VA,Henry,Fieldale,Source1,4,36.70520424825333,-79.93277907333406,2021,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6059536,VA,Henry,Martinsville,Source1,4,36.65482100000001,-79.91288399999998,2021,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6091926,VA,Henry,Collinsville,Source1,4,36.720225,-79.913505,2021,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6104772,VA,Henry,Axton,Source1,4,36.652757,-79.708298,2021,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6139346,VA,Henry,Bassett,Source1,4,36.793242,-79.933688,2021,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6168657,VA,Henry,Martinsville,Source1,4,36.701287,-79.90436,2021,23,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-6171291,VA,Henry,Fieldale,Source1,4,36.72337889653815,-79.93829369506865,2021,23,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6190482,VA,Henry,Fieldale,Source1,4,36.72981400000001,-79.956505,2021,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6219620,VA,Henry,Bassett,Source1,4,36.75733,-79.990041,2021,17,Saturday,Rain,False,False,False,False,False,False,False
+A-6232409,VA,Henry,Martinsville,Source1,4,36.656192,-79.91454300000002,2021,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6240985,VA,Henry,Fieldale,Source1,4,36.72337889653815,-79.93829369506865,2021,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6243558,VA,Henry,Martinsville,Source1,4,36.629937,-79.954252,2021,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6248588,VA,Henry,Martinsville,Source1,4,36.655033,-79.913131,2021,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6284366,VA,Henry,Bassett,Source1,4,36.76109,-79.988793,2021,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6289524,VA,Henry,Bassett,Source1,4,36.757638,-80.058201,2021,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6318937,VA,Henry,Martinsville,Source1,4,36.759557,-79.722587,2021,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6343581,VA,Henry,Bassett,Source1,4,36.751597,-80.081328,2021,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6344726,VA,Henry,Martinsville,Source1,4,36.652046,-79.909758,2021,7,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6352425,VA,Henry,Bassett,Source1,4,36.752624,-80.08222099999998,2021,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6361507,VA,Henry,Bassett,Source1,4,36.768932,-79.967249,2021,23,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6391006,VA,Henry,Bassett,Source1,4,36.806636,-79.938338,2021,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-6465003,VA,Henry,Martinsville,Source1,4,36.691125,-79.916085,2021,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-6505661,VA,Henry,Fieldale,Source1,4,36.721254,-79.944988,2021,21,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-6537950,VA,Henry,Martinsville,Source1,4,36.74012000000001,-79.849763,2021,0,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6544764,VA,Henry,Martinsville,Source1,4,36.738743,-79.847503,2021,0,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6575905,VA,Henry,Martinsville,Source1,4,36.667887,-79.93824599999998,2020,1,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6581927,VA,Henry,Martinsville,Source1,4,36.645987,-79.937639,2020,2,Friday,Cloudy,False,False,False,False,False,False,False
+A-6582704,VA,Henry,Collinsville,Source1,4,36.73905,-79.91622,2020,2,Monday,Cloudy,False,False,False,False,False,False,False
+A-6586053,VA,Henry,Martinsville,Source1,4,36.655164,-79.823516,2020,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6613196,VA,Henry,Martinsville,Source1,4,36.65447800000001,-79.876029,2020,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6636470,VA,Henry,Axton,Source1,4,36.649394,-79.82176700000002,2020,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6639084,VA,Henry,Ridgeway,Source1,4,36.619392,-79.910013,2020,21,Sunday,Sin dato,False,False,False,False,False,False,False
+A-6647321,VA,Henry,Martinsville,Source1,4,36.647056,-79.936452,2020,2,Friday,Cloudy,False,False,False,False,False,False,False
+A-6653649,VA,Henry,Martinsville,Source1,4,36.656717,-79.8778,2020,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6677357,VA,Henry,Spencer,Source1,4,36.622195,-79.98769300000002,2020,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6683200,VA,Henry,Martinsville,Source1,4,36.71388,-79.84175,2020,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6726839,VA,Henry,Martinsville,Source1,4,36.714001,-79.84635,2020,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6727169,VA,Henry,Bassett,Source1,4,36.76535,-79.946962,2020,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6738203,VA,Henry,Ridgeway,Source1,4,36.545833,-79.905321,2020,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6745948,VA,Henry,Martinsville,Source1,4,36.74012000000001,-79.849763,2020,1,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6751879,VA,Henry,Bassett,Source1,4,36.7508,-80.07090699999998,2020,2,Thursday,Rain,False,False,False,False,False,False,False
+A-6765543,VA,Henry,Bassett,Source1,4,36.749919,-80.070122,2020,2,Thursday,Rain,False,False,False,False,False,False,False
+A-6768346,VA,Henry,Martinsville,Source1,4,36.682909,-79.938358,2020,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6797771,VA,Henry,Collinsville,Source1,4,36.738971,-79.915476,2020,2,Monday,Cloudy,False,False,False,False,False,False,False
+A-6798427,VA,Henry,Collinsville,Source1,4,36.714765,-79.91566800000003,2020,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6811262,VA,Henry,Collinsville,Source1,4,36.714205,-79.914674,2020,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6822413,VA,Henry,Bassett,Source1,4,36.764625,-79.948098,2020,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6831320,VA,Henry,Martinsville,Source1,4,36.781908,-79.900673,2020,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6843344,VA,Henry,Martinsville,Source1,4,36.623677,-79.864473,2020,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6844808,VA,Henry,Martinsville,Source1,4,36.785653,-79.896925,2020,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6847447,VA,Henry,Martinsville,Source1,4,36.664926,-79.928917,2020,1,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7109031,VA,Henry,Martinsville,Source1,4,36.68906,-79.90782,2020,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7109034,VA,Henry,Martinsville,Source1,4,36.68906,-79.90782,2020,17,Tuesday,Rain,False,False,False,False,False,False,False
+A-7287446,VA,Henry,Martinsville,Source1,4,36.65279,-79.9207,2019,5,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7319026,VA,Henry,Bassett,Source1,4,36.76228,-79.99441,2019,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7319027,VA,Henry,Bassett,Source1,4,36.76251,-79.99568000000002,2019,7,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7427566,VA,Henry,Martinsville,Source1,4,36.64749000000001,-79.91093000000002,2019,2,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7435736,VA,Henry,Collinsville,Source1,4,36.714565,-79.90914599999998,2019,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7458013,VA,Henry,Bassett,Source1,3,36.752206,-80.06638199999998,2019,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7458017,VA,Henry,Martinsville,Source1,4,36.715824,-79.795007,2019,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7458018,VA,Henry,Martinsville,Source1,4,36.714106,-79.796223,2019,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7458019,VA,Henry,Martinsville,Source1,4,36.71055,-79.80193,2019,23,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7462208,VA,Henry,Ridgeway,Source1,4,36.62188,-79.85996999999998,2019,7,Sunday,Rain,True,False,False,False,False,False,False
+A-7552858,VA,Henry,Ridgeway,Source1,4,36.57162,-79.87146,2018,20,Saturday,Clear / Fair,False,False,False,True,False,False,False
+A-7552859,VA,Henry,Ridgeway,Source1,4,36.587113,-79.863422,2018,20,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-7566386,VA,Henry,Ridgeway,Source1,4,36.580266,-79.862282,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7566387,VA,Henry,Ridgeway,Source1,4,36.577871,-79.864479,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7575855,VA,Henry,Martinsville,Source1,4,36.67018,-79.88165,2018,14,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-7575856,VA,Henry,Martinsville,Source1,4,36.67018,-79.88165,2018,14,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-7577338,VA,Henry,Ridgeway,Source1,4,36.580155,-79.85746,2018,22,Monday,Clear / Fair,False,True,False,False,False,False,False
+A-7577339,VA,Henry,Ridgeway,Source1,4,36.582207,-79.859226,2018,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7606768,VA,Henry,Martinsville,Source1,4,36.697075,-79.899429,2018,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7606769,VA,Henry,Martinsville,Source1,4,36.694675,-79.896614,2018,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7642529,VA,Henry,Martinsville,Source1,4,36.678149,-79.774001,2017,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7664850,VA,Henry,Bassett,Source1,4,36.771478,-79.936594,2017,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7664851,VA,Henry,Bassett,Source1,4,36.76107,-79.93614000000002,2017,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7691478,VA,Henry,Ridgeway,Source1,4,36.57709000000001,-79.859471,2017,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-7738812,VA,Henry,Bassett,Source1,4,36.76177,-80.043133,2019,13,Saturday,Clear / Fair,False,False,False,False,False,False,False

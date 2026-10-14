@@ -1,0 +1,279 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-604736,OR,Deschutes,Bend,Source2,3,44.119049,-121.316757,2022,9,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-703798,OR,Deschutes,La Pine,Source2,3,43.717819,-121.472801,2022,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-743784,OR,Deschutes,La Pine,Source2,3,43.982323,-121.613678,2022,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1083538,OR,Deschutes,Redmond,Source2,3,44.210564,-121.221199,2021,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1501549,OR,Deschutes,Brothers,Source2,3,43.849018,-120.732018,2020,5,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-1719916,OR,Deschutes,Bend,Source2,3,44.054909,-121.263733,2019,5,Monday,Clear / Fair,True,True,False,False,False,False,False
+A-1800170,OR,Deschutes,Redmond,Source2,3,44.180569,-121.244522,2019,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1802882,OR,Deschutes,Terrebonne,Source2,3,44.359535,-121.178619,2019,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1860065,OR,Deschutes,La Pine,Source2,3,43.857151,-120.760498,2019,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2037504,OR,Deschutes,Redmond,Source2,3,44.312729,-121.171532,2019,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2037506,OR,Deschutes,Redmond,Source2,3,44.312729,-121.171532,2019,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2381338,OR,Deschutes,Redmond,Source3,3,44.272549,-121.16346,2018,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3394303,OR,Deschutes,Bend,Source2,3,44.067623,-121.30741100000002,2017,11,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-3525810,OR,Deschutes,La Pine,Source1,3,43.83834,-121.421839,2016,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-3525812,OR,Deschutes,Bend,Source1,3,43.83755,-121.4222,2016,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-3528366,OR,Deschutes,Bend,Source1,4,43.83755,-121.4222,2016,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-3528367,OR,Deschutes,Bend,Source1,4,43.86189,-121.4087,2016,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-3528798,OR,Deschutes,Redmond,Source1,4,44.26923,-121.200521,2016,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3528799,OR,Deschutes,Redmond,Source1,4,44.2692,-121.21277,2016,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3538896,OR,Deschutes,Bend,Source1,4,44.113991,-121.292229,2016,7,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3538897,OR,Deschutes,Bend,Source1,4,44.111831,-121.293436,2016,7,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3538975,OR,Deschutes,Bend,Source1,4,44.167347,-121.366428,2016,17,Sunday,Sin dato,False,False,False,False,False,False,False
+A-3538976,OR,Deschutes,Bend,Source1,4,44.159995,-121.35513600000002,2016,17,Sunday,Sin dato,False,False,False,False,False,False,False
+A-3548131,OR,Deschutes,Bend,Source1,4,43.992069,-121.335183,2016,8,Monday,Sin dato,False,False,False,False,False,False,False
+A-3548132,OR,Deschutes,Bend,Source1,4,43.962251,-121.347731,2016,8,Monday,Sin dato,False,False,False,False,False,False,False
+A-3548141,OR,Deschutes,Bend,Source1,4,43.99213,-121.33514,2016,9,Monday,Sin dato,False,False,False,False,False,False,False
+A-3552442,OR,Deschutes,Redmond,Source1,3,44.21432,-121.21827,2016,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3552445,OR,Deschutes,Redmond,Source1,3,44.210679,-121.221109,2016,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3553660,OR,Deschutes,Bend,Source1,4,43.98297,-121.09933999999998,2016,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3553661,OR,Deschutes,La Pine,Source1,4,43.871392,-120.848539,2016,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3592423,OR,Deschutes,Bend,Source1,4,43.923598,-121.351382,2017,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3592424,OR,Deschutes,Bend,Source1,4,43.989101,-121.337276,2017,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3608982,OR,Deschutes,Brothers,Source1,4,43.774921,-120.47069,2017,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3608984,OR,Deschutes,Brothers,Source1,4,43.84965,-120.73435,2017,14,Thursday,Cloudy,False,False,False,True,False,False,False
+A-3609829,OR,Deschutes,Bend,Source1,4,44.05792,-121.22253,2017,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3609830,OR,Deschutes,Bend,Source1,4,44.05534,-121.24346,2017,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3638342,OR,Deschutes,Redmond,Source1,4,44.31273,-121.17153,2017,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3638682,OR,Deschutes,La Pine,Source1,4,43.6472,-121.52279,2017,15,Friday,Clear / Fair,False,False,False,True,False,False,False
+A-3638683,OR,Deschutes,Bend,Source1,4,43.83755,-121.4222,2017,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3638751,OR,Deschutes,Bend,Source1,4,44.11752,-121.31576,2017,20,Saturday,Sin dato,False,False,False,False,False,False,False
+A-3638752,OR,Deschutes,Bend,Source1,4,44.10372,-121.30679,2017,20,Saturday,Sin dato,True,False,False,False,False,False,False
+A-3639369,OR,Deschutes,Sisters,Source1,3,44.298441,-121.561939,2017,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3647945,OR,Deschutes,Redmond,Source1,4,44.262079,-121.134532,2017,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3666866,OR,Deschutes,Bend,Source1,4,43.98731400000001,-121.338515,2023,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-3669401,OR,Deschutes,Bend,Source1,4,43.97033,-121.346443,2023,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-3678653,OR,Deschutes,La Pine,Source1,4,43.796231,-121.442455,2023,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3681329,OR,Deschutes,La Pine,Source1,4,43.804009,-121.437369,2023,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3689130,OR,Deschutes,La Pine,Source1,4,43.666993,-121.506495,2023,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3690195,OR,Deschutes,La Pine,Source1,4,43.665893,-121.507401,2023,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3694356,OR,Deschutes,Bend,Source1,4,43.988968,-121.33736100000002,2023,16,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-3711604,OR,Deschutes,Bend,Source1,4,44.086743,-121.30626200000002,2022,18,Monday,Sin dato,False,False,False,False,True,False,False
+A-3714635,OR,Deschutes,Bend,Source1,4,44.045972,-121.179257,2022,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3718648,OR,Deschutes,Redmond,Source1,4,44.291024,-121.166859,2022,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3731471,OR,Deschutes,Terrebonne,Source1,4,44.390733,-121.190031,2022,2,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3796853,OR,Deschutes,La Pine,Source1,4,43.732482,-121.469062,2022,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3839611,OR,Deschutes,Bend,Source1,4,44.098506,-121.301875,2022,21,Saturday,Sin dato,False,False,False,False,False,False,False
+A-3859820,OR,Deschutes,Bend,Source1,4,43.892711,-121.377106,2022,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3865448,OR,Deschutes,Redmond,Source1,4,44.327271,-121.116825,2023,0,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3885219,OR,Deschutes,Bend,Source1,4,44.045972,-121.179257,2022,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-3891664,OR,Deschutes,Bend,Source1,4,43.986788,-121.44078,2022,9,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3963695,OR,Deschutes,Redmond,Source1,4,44.279191,-121.268404,2022,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3976343,OR,Deschutes,La Pine,Source1,4,43.71995,-121.472176,2022,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3982178,OR,Deschutes,Bend,Source1,4,44.035335,-121.312001,2022,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4023968,OR,Deschutes,Terrebonne,Source1,4,44.322772,-121.174302,2022,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4070539,OR,Deschutes,La Pine,Source1,4,43.739604,-121.467142,2022,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4080795,OR,Deschutes,La Pine,Source1,4,43.70614000000001,-121.475721,2022,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4138418,OR,Deschutes,Redmond,Source1,4,44.273033,-121.250818,2022,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4200938,OR,Deschutes,La Pine,Source1,4,43.707228,-121.475434,2022,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4207484,OR,Deschutes,Bend,Source1,4,44.038621187000096,-121.3080203527388,2022,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4273435,OR,Deschutes,Redmond,Source1,4,44.262048,-121.130849,2022,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-4297301,OR,Deschutes,Redmond,Source1,4,44.262057,-121.143271,2022,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-4369225,OR,Deschutes,Redmond,Source1,4,44.298203,-121.173864,2022,14,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-4389453,OR,Deschutes,La Pine,Source1,4,43.984274,-121.497348,2022,9,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-4452472,OR,Deschutes,La Pine,Source1,4,43.654174,-121.517003,2022,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4457127,OR,Deschutes,Redmond,Source1,4,44.262057,-121.143271,2022,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-4498606,OR,Deschutes,Terrebonne,Source1,4,44.322772,-121.174302,2022,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4521606,OR,Deschutes,Redmond,Source1,4,44.280631,-121.270902,2022,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4577063,OR,Deschutes,Bend,Source1,4,44.09850954988433,-121.30186200084066,2022,15,Friday,Sin dato,False,False,False,False,False,False,False
+A-4611692,OR,Deschutes,Bend,Source1,4,44.06746029832807,-121.30724787654248,2022,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4621008,OR,Deschutes,Sisters,Source1,4,44.289379,-121.500568,2022,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-4639025,OR,Deschutes,Redmond,Source1,4,44.273069,-121.25332,2022,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4710011,OR,Deschutes,Sisters,Source1,4,44.291528,-121.433375,2023,9,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4747509,OR,Deschutes,Redmond,Source1,4,44.205197,-121.225262,2022,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-4779897,OR,Deschutes,La Pine,Source1,4,43.658261,-121.513648,2022,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4786659,OR,Deschutes,Bend,Source1,4,44.06988501527753,-121.306432485002,2022,15,Friday,Sin dato,False,False,True,False,False,False,False
+A-4846840,OR,Deschutes,Bend,Source1,4,43.809051,-121.434067,2023,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-4894117,OR,Deschutes,Redmond,Source1,4,44.298442,-121.167619,2022,12,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-4912395,OR,Deschutes,Bend,Source1,4,44.216486,-121.423175,2022,4,Thursday,Sin dato,False,False,False,False,False,False,False
+A-4913962,OR,Deschutes,Redmond,Source1,4,44.28488,-121.281211,2022,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4914054,OR,Deschutes,Bend,Source1,4,44.055327,-121.243456,2022,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4930312,OR,Deschutes,Bend,Source1,4,44.08782100000001,-121.306155,2022,17,Monday,Sin dato,False,False,False,False,False,False,False
+A-4938743,OR,Deschutes,Bend,Source1,4,44.224474,-121.446283,2022,0,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-4946431,OR,Deschutes,Bend,Source1,4,44.049253,-121.190284,2022,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-4949390,OR,Deschutes,Bend,Source1,4,43.98710131624228,-121.1064898961968,2022,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4956278,OR,Deschutes,Bend,Source1,4,43.96566510179536,-121.06801629008736,2022,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4972840,OR,Deschutes,Redmond,Source1,4,44.23323900000001,-121.202176,2023,8,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5053934,OR,Deschutes,Bend,Source1,4,44.06079,-121.293796,2022,1,Sunday,Clear / Fair,False,True,False,False,False,False,False
+A-5132908,OR,Deschutes,Redmond,Source1,4,44.327191,-121.113608,2023,0,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5153160,OR,Deschutes,Bend,Source1,4,43.998493,-121.392558,2022,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5165769,OR,Deschutes,La Pine,Source1,4,43.826885,-121.426209,2023,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-5209565,OR,Deschutes,Sisters,Source1,4,44.291479,-121.453173,2023,9,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5214249,OR,Deschutes,Bend,Source1,4,44.08235192277869,-121.30130410136556,2022,16,Friday,Sin dato,False,False,False,False,False,False,False
+A-5242715,OR,Deschutes,La Pine,Source1,4,43.72066,-121.471997,2022,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5349370,OR,Deschutes,Redmond,Source1,4,44.210594,-121.22125,2022,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-5403991,OR,Deschutes,Bend,Source1,4,44.216779,-121.423668,2022,4,Thursday,Sin dato,False,False,False,False,False,False,False
+A-5438313,OR,Deschutes,Bend,Source1,4,44.050174,-121.193405,2022,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-5466364,OR,Deschutes,La Pine,Source1,4,43.83754134157258,-121.42221808375632,2021,12,Sunday,Sin dato,False,False,False,False,False,False,False
+A-5518055,OR,Deschutes,La Pine,Source1,4,43.83754134157258,-121.42221808375632,2021,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5557821,OR,Deschutes,Bend,Source1,4,44.021383,-121.318929,2021,23,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-5639381,OR,Deschutes,Bend,Source1,4,44.065933,-121.30252,2021,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5665164,OR,Deschutes,Bend,Source1,4,44.067458,-121.307269,2021,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5674899,OR,Deschutes,Bend,Source1,4,44.077823,-121.304452,2021,5,Monday,Sin dato,True,True,False,False,False,False,False
+A-5712718,OR,Deschutes,Redmond,Source1,4,44.268876,-121.158685,2021,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5766219,OR,Deschutes,Bend,Source1,4,44.218713,-121.429222,2021,1,Thursday,Sin dato,False,False,False,False,False,False,False
+A-5819055,OR,Deschutes,Sisters,Source1,4,44.29147839525083,-121.453160046952,2021,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5868930,OR,Deschutes,Redmond,Source1,4,44.262057,-121.119494,2021,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5934035,OR,Deschutes,Bend,Source1,4,44.021383,-121.318929,2021,23,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-5972511,OR,Deschutes,Bend,Source1,4,43.87313,-121.400847,2021,4,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-5987850,OR,Deschutes,Redmond,Source1,4,44.268876,-121.158685,2021,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6172311,OR,Deschutes,Redmond,Source1,4,44.303945302752,-121.17333054484762,2021,10,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-6303285,OR,Deschutes,La Pine,Source1,4,44.307798,-121.705629,2021,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6303286,OR,Deschutes,La Pine,Source1,4,44.307798,-121.705629,2021,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6356410,OR,Deschutes,Sisters,Source1,4,44.289099,-121.410624,2021,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-6371286,OR,Deschutes,Bend,Source1,4,44.098506,-121.301875,2021,11,Sunday,Sin dato,False,False,False,False,False,False,False
+A-6394660,OR,Deschutes,Bend,Source1,4,44.145544,-121.331216,2021,2,Saturday,Sin dato,False,False,False,True,False,False,False
+A-6424235,OR,Deschutes,Bend,Source1,4,44.07256,-121.30446299999998,2021,11,Sunday,Sin dato,False,False,False,False,False,False,False
+A-6437741,OR,Deschutes,Redmond,Source1,4,44.262038,-121.130844,2021,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-6608663,OR,Deschutes,Bend,Source1,4,44.036688,-121.310443,2020,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6658449,OR,Deschutes,La Pine,Source1,4,44.306492,-121.711567,2020,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6691487,OR,Deschutes,Redmond,Source1,4,44.298731,-121.167773,2020,19,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-6747570,OR,Deschutes,Bend,Source1,4,44.098506,-121.301875,2020,9,Friday,Sin dato,False,False,False,False,False,False,False
+A-6755727,OR,Deschutes,La Pine,Source1,4,44.306492,-121.711567,2020,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6758886,OR,Deschutes,Sisters,Source1,4,44.306386,-121.663679,2020,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6759288,OR,Deschutes,Bend,Source1,4,44.012678,-121.32046499999998,2020,4,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-6778052,OR,Deschutes,Bend,Source1,4,44.065271,-121.307204,2020,2,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-6778053,OR,Deschutes,Bend,Source1,4,44.036688,-121.310443,2020,2,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6778620,OR,Deschutes,Redmond,Source1,4,44.298744,-121.167782,2020,19,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-6801229,OR,Deschutes,Sisters,Source1,4,44.306386,-121.663679,2020,3,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6831757,OR,Deschutes,Redmond,Source1,4,44.301097,-121.171789,2020,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6837171,OR,Deschutes,Redmond,Source1,4,44.3127,-121.171613,2020,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6841978,OR,Deschutes,Sisters,Source1,4,44.306386,-121.663679,2020,3,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6870757,OR,Deschutes,Bend,Source1,4,44.036688,-121.310443,2020,2,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6906545,OR,Deschutes,La Pine,Source1,4,44.306492,-121.711567,2020,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6984810,OR,Deschutes,Bend,Source1,3,44.1092,-121.31033,2020,17,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-6987271,OR,Deschutes,Bend,Source1,3,44.05794,-121.30721,2020,16,Thursday,Sin dato,False,False,False,False,False,False,False
+A-7050530,OR,Deschutes,Redmond,Source1,3,44.27555,-121.26215,2020,0,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7050531,OR,Deschutes,Redmond,Source1,3,44.27555,-121.26215,2020,0,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7064934,OR,Deschutes,Bend,Source1,3,44.02137000000001,-121.31877,2020,11,Sunday,Cloudy,True,False,False,False,False,False,False
+A-7064935,OR,Deschutes,Bend,Source1,3,43.99668,-121.33175,2020,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7108239,OR,Deschutes,Bend,Source1,3,43.87931,-120.91981,2020,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7108252,OR,Deschutes,Bend,Source1,4,43.87833,-120.91567,2020,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7108284,OR,Deschutes,Bend,Source1,4,43.87833,-120.91567,2020,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7108285,OR,Deschutes,Bend,Source1,4,43.87833,-120.91567,2020,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7108287,OR,Deschutes,Bend,Source1,4,43.87833,-120.91567,2020,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7151744,OR,Deschutes,Bend,Source1,4,44.06691,-121.30743,2020,22,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7156262,OR,Deschutes,La Pine,Source1,4,43.88228,-121.39014,2020,21,Saturday,Rain,False,False,False,False,False,False,False
+A-7218242,OR,Deschutes,Bend,Source1,3,43.81632000000001,-121.42934,2020,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7235933,OR,Deschutes,Bend,Source1,3,44.05407,-121.20621,2020,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7255004,OR,Deschutes,Redmond,Source1,3,44.26407,-121.152,2020,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7283678,OR,Deschutes,Bend,Source1,3,44.11185,-121.29343,2020,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7283681,OR,Deschutes,Terrebonne,Source1,3,44.33583,-121.17743,2020,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7290983,OR,Deschutes,Bend,Source1,3,44.11434000000001,-121.29186,2019,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-7296143,OR,Deschutes,Redmond,Source1,3,44.27259,-121.16988,2019,16,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-7311049,OR,Deschutes,Redmond,Source1,3,44.27207,-121.16264,2019,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7316609,OR,Deschutes,Bend,Source1,3,44.05534,-121.24345,2019,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7319389,OR,Deschutes,Bend,Source1,3,43.85807,-121.41139,2019,17,Wednesday,Other,False,False,False,False,False,False,False
+A-7369906,OR,Deschutes,Bend,Source1,4,44.18057,-121.24452,2019,20,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-7369907,OR,Deschutes,Bend,Source1,4,44.15951,-121.25949,2019,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7369910,OR,Deschutes,Bend,Source1,4,44.15951,-121.25949,2019,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7369912,OR,Deschutes,Bend,Source1,4,44.15951,-121.25949,2019,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7374449,OR,Deschutes,Bend,Source1,3,44.21649,-121.42317,2019,18,Friday,Sin dato,False,False,False,False,False,False,False
+A-7376945,OR,Deschutes,Bend,Source1,4,44.06765,-121.30742,2019,4,Monday,Sin dato,False,False,False,False,False,False,False
+A-7380705,OR,Deschutes,La Pine,Source1,3,43.91391,-121.3501,2019,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7380707,OR,Deschutes,La Pine,Source1,4,43.90826,-121.3554,2019,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7380712,OR,Deschutes,Bend,Source1,4,43.95366,-121.34905,2019,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7380733,OR,Deschutes,Bend,Source1,3,43.88488,-120.93971,2019,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7383099,OR,Deschutes,Bend,Source1,3,44.10278,-121.29913,2019,7,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-7383102,OR,Deschutes,Bend,Source1,4,44.10276,-121.29906,2019,7,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-7384078,OR,Deschutes,Bend,Source1,3,43.94205,-121.02722,2019,23,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7384360,OR,Deschutes,Brothers,Source1,4,43.84965,-120.73435,2019,9,Monday,Cloudy,False,False,False,True,False,False,False
+A-7384362,OR,Deschutes,La Pine,Source1,4,43.85708,-120.7603,2019,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-7386110,OR,Deschutes,Bend,Source1,3,44.07659,-121.30387,2019,22,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-7390144,OR,Deschutes,La Pine,Source1,4,43.6472,-121.52279,2019,14,Thursday,Cloudy,False,False,False,True,False,False,False
+A-7412601,OR,Deschutes,Redmond,Source1,4,44.272071,-121.16263899999998,2019,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-7422314,OR,Deschutes,Bend,Source1,3,44.00269,-121.32781,2019,8,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-7427865,OR,Deschutes,Redmond,Source1,3,44.260838,-121.178451,2019,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7430494,OR,Deschutes,Bend,Source1,4,44.056784,-121.284736,2019,2,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7431088,OR,Deschutes,Redmond,Source1,3,44.231653,-121.203627,2019,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7431090,OR,Deschutes,Redmond,Source1,4,44.239981,-121.195519,2019,10,Thursday,Rain,False,False,True,False,False,False,False
+A-7431091,OR,Deschutes,Redmond,Source1,4,44.214317,-121.218272,2019,10,Thursday,Rain,False,False,False,False,False,False,False
+A-7431594,OR,Deschutes,Bend,Source1,3,44.15735,-121.26097,2019,15,Friday,Sin dato,False,False,False,False,False,False,False
+A-7434505,OR,Deschutes,Bend,Source1,4,44.240465,-121.473343,2019,4,Friday,Sin dato,False,False,False,False,False,False,False
+A-7434506,OR,Deschutes,Bend,Source1,4,44.239119,-121.472429,2019,4,Friday,Sin dato,False,False,False,False,False,False,False
+A-7438665,OR,Deschutes,Bend,Source1,4,44.05017,-121.19341,2019,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-7438666,OR,Deschutes,Bend,Source1,4,44.043394,-121.168871,2019,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-7442644,OR,Deschutes,Bend,Source1,4,44.159881,-121.259232,2019,20,Thursday,Sin dato,False,False,False,False,False,False,False
+A-7442665,OR,Deschutes,Bend,Source1,3,44.139577,-121.273397,2019,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7442668,OR,Deschutes,Bend,Source1,3,44.139577,-121.273397,2019,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7453396,OR,Deschutes,Bend,Source1,3,44.05437,-121.30704,2019,7,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-7453493,OR,Deschutes,Bend,Source1,3,44.130688,-121.324578,2019,17,Monday,Sin dato,False,False,False,False,False,False,False
+A-7453557,OR,Deschutes,Bend,Source1,3,44.05437,-121.30704,2019,10,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-7455431,OR,Deschutes,Bend,Source1,4,44.16195,-121.2578,2019,21,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-7455478,OR,Deschutes,Bend,Source1,4,44.00777,-121.3239,2019,18,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-7460317,OR,Deschutes,Redmond,Source1,3,44.252951,-121.183639,2019,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7465803,OR,Deschutes,Bend,Source1,3,43.794936,-121.443309,2019,15,Friday,Rain,False,False,False,False,False,False,False
+A-7469804,OR,Deschutes,Brothers,Source1,3,43.761223,-120.43738799999998,2019,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7470602,OR,Deschutes,La Pine,Source1,4,43.861191,-120.773057,2019,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7470603,OR,Deschutes,La Pine,Source1,4,43.860391,-120.77054,2019,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7470606,OR,Deschutes,Brothers,Source1,4,43.856176,-120.757502,2019,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7471765,OR,Deschutes,Bend,Source1,3,44.06498,-121.30252,2019,10,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-7471767,OR,Deschutes,Bend,Source1,4,44.066639,-121.30253,2019,10,Tuesday,Cloudy,False,True,False,False,False,False,False
+A-7471786,OR,Deschutes,Bend,Source1,4,44.06765,-121.30253,2019,13,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-7473158,OR,Deschutes,La Pine,Source1,3,43.911653,-121.351586,2018,19,Friday,Sin dato,False,False,False,False,False,False,False
+A-7473172,OR,Deschutes,Bend,Source1,3,43.935649,-121.351803,2018,20,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-7476592,OR,Deschutes,Redmond,Source1,3,44.24242,-121.19315,2018,9,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7476595,OR,Deschutes,Redmond,Source1,4,44.24414,-121.191457,2018,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7476605,OR,Deschutes,Redmond,Source1,4,44.269295,-121.159204,2018,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7476606,OR,Deschutes,Redmond,Source1,4,44.214317,-121.218272,2018,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7476607,OR,Deschutes,Redmond,Source1,4,44.272494,-121.163292,2018,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7476613,OR,Deschutes,Redmond,Source1,4,44.24452,-121.19108,2018,12,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7489521,OR,Deschutes,Bend,Source1,3,43.883763,-120.935724,2018,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7490315,OR,Deschutes,Sisters,Source1,3,44.291461,-121.47751,2018,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7492136,OR,Deschutes,Sisters,Source1,3,44.29152,-121.43334,2018,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-7502941,OR,Deschutes,Redmond,Source1,3,44.262681,-121.177249,2018,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7502943,OR,Deschutes,Redmond,Source1,3,44.252216,-121.184122,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7506811,OR,Deschutes,Bend,Source1,3,44.05797000000001,-121.22057,2018,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7507293,OR,Deschutes,Sisters,Source1,3,44.286561,-121.536723,2018,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7512119,OR,Deschutes,Terrebonne,Source1,4,44.350039,-121.17876,2018,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-7512947,OR,Deschutes,Brothers,Source1,3,43.753586,-120.418802,2018,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7536156,OR,Deschutes,Terrebonne,Source1,3,44.330513,-121.176689,2018,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7545518,OR,Deschutes,Sisters,Source1,3,44.28802,-121.54075,2018,16,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7545923,OR,Deschutes,Redmond,Source1,4,44.239981,-121.195519,2018,12,Wednesday,Fog / Low visibility,False,False,True,False,False,False,False
+A-7545926,OR,Deschutes,Redmond,Source1,4,44.24242,-121.19315,2018,13,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7547191,OR,Deschutes,Sisters,Source1,4,44.242925,-121.474956,2018,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7547208,OR,Deschutes,Sisters,Source1,3,44.28786,-121.54042,2018,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7548654,OR,Deschutes,Redmond,Source1,4,44.2641,-121.15206,2018,10,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7549219,OR,Deschutes,Redmond,Source1,3,44.27302,-121.250764,2018,11,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7549221,OR,Deschutes,Redmond,Source1,4,44.27626,-121.26339,2018,11,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7549222,OR,Deschutes,Redmond,Source1,4,44.26921,-121.209323,2018,11,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7549226,OR,Deschutes,Redmond,Source1,4,44.27299,-121.249322,2018,12,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7552571,OR,Deschutes,Sisters,Source1,3,44.29152,-121.43334,2018,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7552585,OR,Deschutes,Sisters,Source1,4,44.29151,-121.444305,2018,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7552595,OR,Deschutes,Sisters,Source1,4,44.24078,-121.47355,2018,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7552598,OR,Deschutes,Sisters,Source1,4,44.24078,-121.47355,2018,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7552619,OR,Deschutes,Sisters,Source1,4,44.29151,-121.444305,2018,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7552622,OR,Deschutes,Sisters,Source1,4,44.29151,-121.444305,2018,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7552627,OR,Deschutes,Sisters,Source1,4,44.29151,-121.444305,2018,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7556901,OR,Deschutes,Bend,Source1,3,44.0285,-121.315996,2018,0,Wednesday,Clear / Fair,True,True,False,False,False,False,False
+A-7593884,OR,Deschutes,Bend,Source1,4,44.0579,-121.21918,2018,19,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7595666,OR,Deschutes,Bend,Source1,4,44.066641,-121.30743,2018,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7598496,OR,Deschutes,Bend,Source1,4,44.120921,-121.28744,2018,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7607961,OR,Deschutes,Bend,Source1,4,44.062156,-121.30721,2018,16,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-7644374,OR,Deschutes,La Pine,Source1,4,43.869967,-121.402331,2017,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7647515,OR,Deschutes,Bend,Source1,4,44.0549,-121.261422,2017,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7647516,OR,Deschutes,Bend,Source1,4,44.05534,-121.24346,2017,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7647517,OR,Deschutes,Bend,Source1,4,44.055084,-121.245512,2017,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7650976,OR,Deschutes,Bend,Source1,4,43.76791,-121.45293999999998,2017,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7650977,OR,Deschutes,Bend,Source1,4,43.797238,-121.441798,2017,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7657952,OR,Deschutes,Bend,Source1,4,44.18057,-121.24452,2017,15,Thursday,Sin dato,False,False,False,False,False,False,False
+A-7657953,OR,Deschutes,Redmond,Source1,4,44.205233,-121.225328,2017,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7666901,OR,Deschutes,Bend,Source1,4,44.10931,-121.29502,2017,8,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-7666902,OR,Deschutes,Bend,Source1,4,44.15861,-121.26011,2017,15,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-7668579,OR,Deschutes,Sisters,Source1,4,44.2937,-121.5579,2017,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7668581,OR,Deschutes,Sisters,Source1,4,44.299207,-121.562586,2017,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7673613,OR,Deschutes,Redmond,Source1,4,44.269295,-121.159204,2017,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7673614,OR,Deschutes,Redmond,Source1,4,44.271729,-121.162221,2017,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7689994,OR,Deschutes,Redmond,Source1,3,44.266388,-121.174831,2017,1,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7689996,OR,Deschutes,Redmond,Source1,3,44.26959,-121.17172,2017,2,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-7690009,OR,Deschutes,Bend,Source1,4,44.09146,-121.30496,2017,15,Tuesday,Sin dato,True,False,False,False,False,False,False
+A-7712507,OR,Deschutes,Bend,Source1,3,44.022051,-121.364103,2019,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7719393,OR,Deschutes,Bend,Source1,4,44.027977,-121.316454,2019,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7742964,OR,Deschutes,Bend,Source1,4,43.752153,-121.460024,2019,17,Tuesday,Cloudy,False,False,False,True,False,False,False
+A-7755159,OR,Deschutes,Bend,Source1,3,43.996761,-121.114531,2019,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7764109,OR,Deschutes,Redmond,Source1,3,44.269251,-121.191257,2019,15,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7765669,OR,Deschutes,Bend,Source1,4,44.055971,-121.30704,2019,17,Monday,Sin dato,False,False,False,False,False,False,False
+A-7765715,OR,Deschutes,Bend,Source1,3,43.907601,-121.35686,2019,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7774001,OR,Deschutes,Terrebonne,Source1,4,44.3513,-121.17875,2019,1,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7776118,OR,Deschutes,Redmond,Source1,4,44.242419,-121.193151,2019,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False

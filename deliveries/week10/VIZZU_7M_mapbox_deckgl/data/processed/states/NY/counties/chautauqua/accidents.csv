@@ -1,0 +1,492 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-656718,NY,Chautauqua,Ashville,Source2,3,42.151699,-79.406708,2022,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-722820,NY,Chautauqua,Westfield,Source2,3,42.338367,-79.587395,2022,20,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-724095,NY,Chautauqua,Ripley,Source2,3,42.259399,-79.743011,2022,8,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-733953,NY,Chautauqua,Dunkirk,Source2,3,42.461323,-79.305931,2022,14,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-757474,NY,Chautauqua,Irving,Source2,3,42.555794,-79.112297,2022,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-787652,NY,Chautauqua,Irving,Source2,3,42.555794,-79.112297,2021,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-809680,NY,Chautauqua,Irving,Source2,4,42.555794,-79.112297,2021,19,Sunday,Cloudy,False,False,False,False,False,False,False
+A-825709,NY,Chautauqua,Irving,Source2,4,42.555794,-79.112297,2021,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-849529,NY,Chautauqua,Irving,Source2,3,42.555084,-79.112679,2021,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-928520,NY,Chautauqua,Dunkirk,Source2,3,42.461323,-79.305931,2021,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-934676,NY,Chautauqua,Dunkirk,Source2,3,42.461323,-79.305931,2021,13,Monday,Rain,False,False,False,False,False,False,False
+A-963151,NY,Chautauqua,Ripley,Source2,3,42.26104,-79.744858,2021,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-971810,NY,Chautauqua,Silver Creek,Source2,3,42.551071,-79.108147,2021,15,Sunday,Rain,False,False,False,False,False,False,False
+A-972172,NY,Chautauqua,Ripley,Source3,3,42.26104,-79.744858,2021,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-975828,NY,Chautauqua,Irving,Source2,4,42.555794,-79.112297,2021,15,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-988408,NY,Chautauqua,Westfield,Source2,3,42.33730300000001,-79.585373,2021,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-999709,NY,Chautauqua,Irving,Source2,3,42.555794,-79.112297,2021,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1023478,NY,Chautauqua,Dunkirk,Source2,3,42.461323,-79.305931,2021,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1025525,NY,Chautauqua,Westfield,Source2,3,42.338367,-79.587395,2021,11,Friday,Rain,False,False,False,False,False,False,False
+A-1043407,NY,Chautauqua,Ripley,Source2,3,42.26104,-79.744858,2021,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1062685,NY,Chautauqua,Westfield,Source2,3,42.338367,-79.587395,2021,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1108779,NY,Chautauqua,Westfield,Source2,3,42.338337,-79.58719599999998,2021,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1120352,NY,Chautauqua,Westfield,Source2,3,42.338337,-79.58719599999998,2021,3,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1120824,NY,Chautauqua,Irving,Source2,3,42.555679,-79.112228,2021,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1144780,NY,Chautauqua,Irving,Source2,4,42.555679,-79.112228,2021,11,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-1151747,NY,Chautauqua,Westfield,Source2,3,42.338337,-79.58719599999998,2021,18,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1164716,NY,Chautauqua,Irving,Source2,3,42.555679,-79.112228,2021,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-1182960,NY,Chautauqua,Westfield,Source2,3,42.338337,-79.58719599999998,2021,19,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-1186732,NY,Chautauqua,Westfield,Source2,3,42.338337,-79.58719599999998,2021,4,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1186733,NY,Chautauqua,Westfield,Source2,3,42.338337,-79.58719599999998,2021,4,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1190615,NY,Chautauqua,Dunkirk,Source2,3,42.461323,-79.305931,2021,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1208277,NY,Chautauqua,Silver Creek,Source2,3,42.550568,-79.108765,2020,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1224117,NY,Chautauqua,Westfield,Source2,3,42.338337,-79.58719599999998,2020,4,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1249392,NY,Chautauqua,Irving,Source2,3,42.555679,-79.112228,2020,10,Thursday,Rain,False,False,False,False,False,False,False
+A-1275984,NY,Chautauqua,Irving,Source2,3,42.555679,-79.112228,2020,8,Sunday,Sin dato,False,False,False,False,False,False,False
+A-1276588,NY,Chautauqua,Dunkirk,Source2,3,42.461323,-79.305931,2020,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1282777,NY,Chautauqua,Irving,Source2,3,42.555679,-79.112228,2020,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1282778,NY,Chautauqua,Dunkirk,Source2,3,42.461323,-79.305931,2020,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1282780,NY,Chautauqua,Dunkirk,Source2,3,42.461941,-79.304688,2020,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1287643,NY,Chautauqua,Irving,Source2,3,42.555531,-79.11215200000002,2020,23,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1408479,NY,Chautauqua,Dunkirk,Source2,3,42.461323,-79.305931,2020,6,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1410380,NY,Chautauqua,Irving,Source2,3,42.555531,-79.11215200000002,2020,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1423097,NY,Chautauqua,Westfield,Source2,3,42.338337,-79.58719599999998,2020,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1424747,NY,Chautauqua,Westfield,Source2,3,42.338337,-79.58719599999998,2020,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1426001,NY,Chautauqua,Westfield,Source2,3,42.338337,-79.58719599999998,2020,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1426002,NY,Chautauqua,Dunkirk,Source2,3,42.461323,-79.305931,2020,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1460191,NY,Chautauqua,Dunkirk,Source2,3,42.461323,-79.305931,2020,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1471590,NY,Chautauqua,Dunkirk,Source2,3,42.461323,-79.305931,2020,10,Saturday,Sin dato,False,False,False,False,False,False,False
+A-1471929,NY,Chautauqua,Dunkirk,Source2,3,42.461323,-79.305931,2020,14,Sunday,Sin dato,False,False,False,False,False,False,False
+A-1479897,NY,Chautauqua,Dunkirk,Source2,4,42.461323,-79.305931,2020,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1504663,NY,Chautauqua,Dunkirk,Source2,3,42.461323,-79.305931,2020,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1505145,NY,Chautauqua,Westfield,Source2,3,42.338337,-79.58719599999998,2020,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1531373,NY,Chautauqua,Irving,Source2,3,42.555531,-79.11215200000002,2020,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1599707,NY,Chautauqua,Westfield,Source2,3,42.338337,-79.58719599999998,2020,8,Saturday,Other,False,False,False,False,False,False,False
+A-1599708,NY,Chautauqua,Irving,Source2,3,42.550861,-79.108398,2020,9,Saturday,Rain,False,False,False,False,False,False,False
+A-1599710,NY,Chautauqua,Irving,Source2,3,42.555531,-79.11215200000002,2020,10,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-1599712,NY,Chautauqua,Dunkirk,Source2,3,42.461323,-79.305931,2020,10,Saturday,Rain,False,False,False,False,False,False,False
+A-1599723,NY,Chautauqua,Dunkirk,Source2,3,42.461323,-79.305931,2020,15,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-1637874,NY,Chautauqua,Dunkirk,Source2,3,42.461323,-79.305931,2020,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1670295,NY,Chautauqua,Ripley,Source2,4,42.26104,-79.744858,2020,7,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1686491,NY,Chautauqua,Westfield,Source2,3,42.338337,-79.58719599999998,2019,8,Sunday,Rain,False,False,False,False,False,False,False
+A-1687454,NY,Chautauqua,Westfield,Source2,3,42.338337,-79.58719599999998,2019,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-1700524,NY,Chautauqua,Westfield,Source2,3,42.338337,-79.58719599999998,2019,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1716075,NY,Chautauqua,Irving,Source2,3,42.555531,-79.11215200000002,2019,14,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-1747188,NY,Chautauqua,Westfield,Source2,3,42.338337,-79.58719599999998,2019,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1762058,NY,Chautauqua,Westfield,Source2,3,42.338337,-79.58719599999998,2019,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1764509,NY,Chautauqua,Westfield,Source2,3,42.338337,-79.58719599999998,2019,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1794090,NY,Chautauqua,Westfield,Source2,3,42.338337,-79.58719599999998,2019,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1794091,NY,Chautauqua,Dunkirk,Source2,3,42.46212,-79.308624,2019,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1794816,NY,Chautauqua,Westfield,Source2,3,42.338337,-79.58719599999998,2019,4,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1794817,NY,Chautauqua,Ripley,Source2,3,42.26104,-79.744858,2019,4,Sunday,Rain,False,False,False,False,False,False,False
+A-1797962,NY,Chautauqua,Dunkirk,Source2,3,42.461323,-79.305931,2019,19,Tuesday,Rain,False,False,False,False,False,False,False
+A-1813086,NY,Chautauqua,Westfield,Source2,3,42.338337,-79.58719599999998,2019,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1813087,NY,Chautauqua,Dunkirk,Source2,4,42.461788,-79.306023,2019,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1816252,NY,Chautauqua,Westfield,Source2,3,42.338337,-79.58719599999998,2019,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1880573,NY,Chautauqua,Irving,Source2,3,42.555328,-79.112,2019,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1886275,NY,Chautauqua,Dunkirk,Source2,3,42.461323,-79.305931,2019,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1886924,NY,Chautauqua,Dunkirk,Source2,3,42.461323,-79.305931,2019,20,Sunday,Storm,False,False,False,False,False,False,False
+A-1912910,NY,Chautauqua,Dunkirk,Source2,3,42.461323,-79.305931,2019,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1913627,NY,Chautauqua,Dunkirk,Source2,3,42.461323,-79.305931,2019,3,Monday,Cloudy,False,False,False,False,False,False,False
+A-1913629,NY,Chautauqua,Dunkirk,Source2,3,42.461323,-79.305931,2019,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-1915964,NY,Chautauqua,Westfield,Source2,3,42.338345,-79.58717299999998,2019,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1919223,NY,Chautauqua,Westfield,Source2,3,42.338345,-79.58717299999998,2019,9,Sunday,Storm,False,False,False,False,False,False,False
+A-1931533,NY,Chautauqua,Dunkirk,Source2,3,42.461323,-79.305931,2019,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1936994,NY,Chautauqua,Dunkirk,Source2,3,42.461323,-79.305931,2019,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1952004,NY,Chautauqua,Dunkirk,Source2,3,42.461323,-79.305931,2019,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1954303,NY,Chautauqua,Westfield,Source2,3,42.338345,-79.58717299999998,2019,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1954304,NY,Chautauqua,Ripley,Source2,3,42.261703,-79.744316,2019,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1954307,NY,Chautauqua,Westfield,Source2,3,42.338345,-79.58717299999998,2019,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1966881,NY,Chautauqua,Dunkirk,Source2,3,42.461323,-79.305931,2019,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1969221,NY,Chautauqua,Irving,Source2,3,42.555328,-79.112,2019,23,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1984040,NY,Chautauqua,Westfield,Source2,3,42.338345,-79.58717299999998,2019,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2026342,NY,Chautauqua,Dunkirk,Source2,3,42.461323,-79.305931,2019,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-2038010,NY,Chautauqua,Westfield,Source2,3,42.339794,-79.586708,2019,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2041185,NY,Chautauqua,Irving,Source2,3,42.555328,-79.112,2019,7,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2041787,NY,Chautauqua,Dunkirk,Source2,3,42.462967,-79.29962900000002,2019,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-2053955,NY,Chautauqua,Westfield,Source2,3,42.338345,-79.58717299999998,2019,8,Sunday,Rain,False,False,False,False,False,False,False
+A-2053956,NY,Chautauqua,Dunkirk,Source2,3,42.461788,-79.306023,2019,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2066472,NY,Chautauqua,Portland,Source2,3,42.403526,-79.44628900000002,2019,2,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2067224,NY,Chautauqua,Westfield,Source2,3,42.338345,-79.58717299999998,2019,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2074782,NY,Chautauqua,Dunkirk,Source2,3,42.461323,-79.305931,2019,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2082619,NY,Chautauqua,Dunkirk,Source2,3,42.461807,-79.305847,2019,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2087082,NY,Chautauqua,Irving,Source2,3,42.555328,-79.112,2019,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2091672,NY,Chautauqua,Westfield,Source2,3,42.339394,-79.587891,2019,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2096476,NY,Chautauqua,Ripley,Source2,3,42.26104,-79.744858,2019,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2110458,NY,Chautauqua,Ripley,Source2,3,42.26104,-79.744858,2019,8,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2118731,NY,Chautauqua,Ripley,Source2,3,42.26104,-79.744858,2019,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2123901,NY,Chautauqua,Dunkirk,Source2,3,42.462368,-79.306107,2019,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2123902,NY,Chautauqua,Ripley,Source2,3,42.26104,-79.744858,2019,17,Sunday,Rain,False,False,False,False,False,False,False
+A-2152697,NY,Chautauqua,Irving,Source2,3,42.551189,-79.107651,2019,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2166634,NY,Chautauqua,Westfield,Source2,3,42.338089,-79.5867,2019,20,Sunday,Storm,False,False,False,False,False,False,False
+A-2169668,NY,Chautauqua,Irving,Source2,3,42.555328,-79.112,2019,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2174099,NY,Chautauqua,Irving,Source2,3,42.555328,-79.112,2019,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2197707,NY,Chautauqua,Westfield,Source2,3,42.338089,-79.5867,2019,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2197712,NY,Chautauqua,Dunkirk,Source2,3,42.461056,-79.306686,2019,18,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-2213731,NY,Chautauqua,Ripley,Source2,3,42.262711,-79.7425,2019,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2218150,NY,Chautauqua,Irving,Source2,3,42.552689,-79.105812,2019,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2222322,NY,Chautauqua,Westfield,Source2,3,42.338608,-79.583977,2019,8,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-2223534,NY,Chautauqua,Dunkirk,Source2,3,42.461056,-79.306686,2019,0,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2225584,NY,Chautauqua,Irving,Source2,3,42.55582800000001,-79.11212900000002,2019,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2227790,NY,Chautauqua,Westfield,Source2,3,42.33728,-79.586182,2019,21,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-2235988,NY,Chautauqua,Irving,Source2,3,42.55582800000001,-79.11212900000002,2019,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2235990,NY,Chautauqua,Dunkirk,Source2,3,42.46172,-79.30677,2019,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2238700,NY,Chautauqua,Westfield,Source2,3,42.337048,-79.5858,2019,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2254500,NY,Chautauqua,Dunkirk,Source2,3,42.461056,-79.306686,2019,9,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2259993,NY,Chautauqua,Irving,Source2,3,42.55582800000001,-79.11212900000002,2019,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2272039,NY,Chautauqua,Westfield,Source2,3,42.338089,-79.5867,2019,11,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2272040,NY,Chautauqua,Ripley,Source2,3,42.261284,-79.74514,2019,12,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2274570,NY,Chautauqua,Dunkirk,Source2,3,42.461056,-79.306686,2019,15,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-2275245,NY,Chautauqua,Ripley,Source2,3,42.284973,-79.691406,2019,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2278626,NY,Chautauqua,Dunkirk,Source2,3,42.461056,-79.306686,2019,8,Tuesday,Rain,False,False,False,False,False,False,False
+A-2278627,NY,Chautauqua,Irving,Source2,3,42.55582800000001,-79.11212900000002,2019,8,Tuesday,Rain,False,False,False,False,False,False,False
+A-2278633,NY,Chautauqua,Westfield,Source2,3,42.338089,-79.5867,2019,12,Tuesday,Rain,False,False,False,False,False,False,False
+A-2284233,NY,Chautauqua,Dunkirk,Source2,3,42.461056,-79.306686,2019,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2287099,NY,Chautauqua,Westfield,Source2,3,42.338089,-79.5867,2019,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-2290264,NY,Chautauqua,Ripley,Source2,3,42.261284,-79.74514,2019,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2290265,NY,Chautauqua,Ripley,Source2,3,42.261551,-79.74655899999998,2019,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2290929,NY,Chautauqua,Dunkirk,Source2,3,42.461056,-79.306686,2019,7,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2290932,NY,Chautauqua,Dunkirk,Source2,3,42.461056,-79.306686,2019,8,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2290940,NY,Chautauqua,Irving,Source2,3,42.551189,-79.107651,2019,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2295515,NY,Chautauqua,Westfield,Source2,3,42.338089,-79.5867,2019,1,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2300751,NY,Chautauqua,Irving,Source2,3,42.55582800000001,-79.11212900000002,2019,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2300755,NY,Chautauqua,Westfield,Source2,3,42.338089,-79.5867,2019,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2300756,NY,Chautauqua,Westfield,Source2,3,42.338089,-79.5867,2019,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2308734,NY,Chautauqua,Dunkirk,Source2,3,42.461056,-79.306686,2019,8,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2308742,NY,Chautauqua,Irving,Source2,3,42.547634,-79.11198399999998,2019,12,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-2319146,NY,Chautauqua,Westfield,Source2,3,42.338089,-79.5867,2019,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2319967,NY,Chautauqua,Westfield,Source2,3,42.338089,-79.5867,2019,0,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2330429,NY,Chautauqua,Dunkirk,Source2,3,42.461056,-79.306686,2019,23,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2332705,NY,Chautauqua,Westfield,Source2,3,42.338089,-79.5867,2019,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2341946,NY,Chautauqua,Ripley,Source2,3,42.261284,-79.74514,2019,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2346727,NY,Chautauqua,Irving,Source2,3,42.55582800000001,-79.11212900000002,2019,21,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-2348423,NY,Chautauqua,Dunkirk,Source2,3,42.461807,-79.305847,2019,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-2348424,NY,Chautauqua,Irving,Source2,3,42.551319,-79.10784100000002,2019,23,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2353129,NY,Chautauqua,Dunkirk,Source2,3,42.461056,-79.306686,2019,6,Wednesday,Rain,False,False,False,False,False,False,False
+A-2353132,NY,Chautauqua,Westfield,Source2,3,42.338089,-79.5867,2019,7,Wednesday,Rain,False,False,False,False,False,False,False
+A-2355973,NY,Chautauqua,Westfield,Source2,3,42.338089,-79.5867,2019,4,Thursday,Rain,False,False,False,False,False,False,False
+A-2355977,NY,Chautauqua,Dunkirk,Source2,3,42.461056,-79.306686,2019,8,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2358925,NY,Chautauqua,Dunkirk,Source2,3,42.461056,-79.306686,2019,5,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2358926,NY,Chautauqua,Dunkirk,Source2,3,42.461056,-79.306686,2019,5,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2358927,NY,Chautauqua,Irving,Source2,3,42.55582800000001,-79.11212900000002,2019,6,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2358930,NY,Chautauqua,Dunkirk,Source2,3,42.461056,-79.306686,2019,7,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2358931,NY,Chautauqua,Westfield,Source2,3,42.337578,-79.584923,2019,8,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2361653,NY,Chautauqua,Irving,Source2,3,42.551319,-79.10784100000002,2019,7,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-2361654,NY,Chautauqua,Dunkirk,Source2,3,42.461834,-79.305634,2019,7,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-2361656,NY,Chautauqua,Irving,Source2,3,42.551189,-79.107651,2019,8,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-2361658,NY,Chautauqua,Irving,Source2,3,42.55582800000001,-79.11212900000002,2019,9,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-2362337,NY,Chautauqua,Dunkirk,Source2,3,42.461056,-79.306686,2019,19,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-2362338,NY,Chautauqua,Irving,Source2,3,42.55582800000001,-79.11212900000002,2019,21,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-2362958,NY,Chautauqua,Irving,Source2,3,42.55582800000001,-79.11212900000002,2019,0,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2373373,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2018,18,Saturday,Rain,False,False,False,False,False,False,False
+A-2379198,NY,Chautauqua,Silver Creek,Source2,3,42.550877,-79.108032,2018,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2379199,NY,Chautauqua,Dunkirk,Source2,3,42.461056,-79.306686,2018,17,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2391902,NY,Chautauqua,Westfield,Source2,3,42.337406,-79.58596800000002,2018,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2399661,NY,Chautauqua,Dunkirk,Source2,3,42.461716,-79.306824,2018,10,Sunday,Rain,False,False,False,False,False,False,False
+A-2399663,NY,Chautauqua,Westfield,Source2,3,42.338089,-79.5867,2018,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2402411,NY,Chautauqua,Dunkirk,Source2,3,42.461056,-79.306686,2018,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2413148,NY,Chautauqua,Irving,Source2,3,42.551189,-79.107651,2018,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-2416131,NY,Chautauqua,Irving,Source2,3,42.55582800000001,-79.11212900000002,2018,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2416134,NY,Chautauqua,Westfield,Source2,3,42.338089,-79.5867,2018,0,Friday,Rain,False,False,False,False,False,False,False
+A-2420999,NY,Chautauqua,Ripley,Source2,3,42.261284,-79.74514,2018,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2421000,NY,Chautauqua,Ripley,Source2,3,42.261284,-79.74514,2018,8,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2423430,NY,Chautauqua,Ripley,Source2,3,42.262867,-79.742226,2018,22,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2427189,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2018,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-2434956,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2018,23,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2438407,NY,Chautauqua,Dunkirk,Source2,3,42.461803,-79.305916,2018,23,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2441445,NY,Chautauqua,Dunkirk,Source2,3,42.461258,-79.313705,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2441454,NY,Chautauqua,Dunkirk,Source2,3,42.461803,-79.305916,2018,22,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2441455,NY,Chautauqua,Ripley,Source2,3,42.26210800000001,-79.745216,2018,23,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2444363,NY,Chautauqua,Dunkirk,Source2,3,42.461803,-79.305916,2018,20,Friday,Rain,False,False,False,False,False,False,False
+A-2447759,NY,Chautauqua,Dunkirk,Source2,3,42.461739,-79.30660999999998,2018,8,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-2447761,NY,Chautauqua,Irving,Source2,3,42.551266,-79.107895,2018,10,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-2449286,NY,Chautauqua,Dunkirk,Source2,3,42.461803,-79.305916,2018,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-2457856,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2018,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2460912,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2018,4,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2464639,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2018,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2464640,NY,Chautauqua,Dunkirk,Source2,3,42.461803,-79.305916,2018,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2473764,NY,Chautauqua,Irving,Source2,3,42.551266,-79.107895,2018,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2473765,NY,Chautauqua,Ripley,Source2,3,42.261467,-79.74472,2018,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2481203,NY,Chautauqua,Ripley,Source2,3,42.261467,-79.74472,2018,6,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2481206,NY,Chautauqua,Irving,Source2,3,42.551266,-79.107895,2018,7,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2481209,NY,Chautauqua,Dunkirk,Source2,3,42.461803,-79.305916,2018,15,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2483905,NY,Chautauqua,Westfield,Source2,3,42.335011,-79.58985899999998,2018,6,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2487799,NY,Chautauqua,Dunkirk,Source2,3,42.461517,-79.30999,2018,8,Sunday,Cloudy,False,False,True,False,False,False,False
+A-2496844,NY,Chautauqua,Ripley,Source2,3,42.261467,-79.74472,2018,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2499785,NY,Chautauqua,Irving,Source2,3,42.551266,-79.107895,2018,3,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2506335,NY,Chautauqua,Dunkirk,Source2,3,42.461803,-79.305916,2018,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2528898,NY,Chautauqua,Dunkirk,Source2,3,42.461231,-79.314049,2018,23,Friday,Cloudy,False,False,False,False,False,False,False
+A-2532039,NY,Chautauqua,Ripley,Source2,3,42.262833,-79.74361400000002,2018,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2532041,NY,Chautauqua,Irving,Source2,3,42.551289,-79.107857,2018,14,Saturday,Rain,False,False,False,False,False,False,False
+A-2536232,NY,Chautauqua,Dunkirk,Source2,3,42.461281,-79.313469,2018,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2536233,NY,Chautauqua,Dunkirk,Source2,3,42.461803,-79.305916,2018,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2549618,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2018,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2552541,NY,Chautauqua,Westfield,Source2,3,42.335068,-79.589027,2018,22,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2559503,NY,Chautauqua,Dunkirk,Source2,3,42.461803,-79.305916,2018,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2572268,NY,Chautauqua,Dunkirk,Source2,3,42.461803,-79.305916,2018,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2572992,NY,Chautauqua,Westfield,Source2,3,42.33823,-79.584572,2018,6,Monday,Rain,False,False,False,False,False,False,False
+A-2572997,NY,Chautauqua,Irving,Source2,3,42.551266,-79.107895,2018,11,Monday,Rain,False,False,False,False,False,False,False
+A-2586192,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2018,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2592778,NY,Chautauqua,Ripley,Source2,3,42.261467,-79.74472,2018,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2601245,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2018,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2616189,NY,Chautauqua,Dunkirk,Source2,3,42.461803,-79.305916,2018,0,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2618600,NY,Chautauqua,Westfield,Source2,3,42.335503,-79.591103,2018,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2630035,NY,Chautauqua,Ripley,Source2,3,42.261467,-79.74472,2018,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2637624,NY,Chautauqua,Dunkirk,Source2,3,42.461803,-79.305916,2018,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2637627,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2018,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2641755,NY,Chautauqua,Irving,Source2,3,42.551968,-79.107025,2018,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2649044,NY,Chautauqua,Dunkirk,Source2,3,42.462292,-79.306717,2018,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2649047,NY,Chautauqua,Dunkirk,Source2,3,42.461803,-79.305916,2018,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2669451,NY,Chautauqua,Irving,Source2,3,42.551266,-79.107895,2018,8,Monday,Rain,False,False,False,False,False,False,False
+A-2671940,NY,Chautauqua,Dunkirk,Source2,3,42.461803,-79.305916,2018,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2671942,NY,Chautauqua,Dunkirk,Source2,3,42.461803,-79.305916,2018,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2687143,NY,Chautauqua,Ripley,Source2,3,42.274933,-79.715355,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2701808,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2018,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2704754,NY,Chautauqua,Irving,Source2,3,42.551266,-79.107895,2018,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2704756,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2018,19,Monday,Storm,False,False,False,False,False,False,False
+A-2706935,NY,Chautauqua,Irving,Source2,3,42.551266,-79.107895,2018,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2709128,NY,Chautauqua,Irving,Source2,3,42.551266,-79.107895,2018,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2713900,NY,Chautauqua,Irving,Source2,3,42.551266,-79.107895,2018,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2713904,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2018,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2724828,NY,Chautauqua,Irving,Source2,3,42.55112800000001,-79.107712,2018,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2730805,NY,Chautauqua,Ripley,Source2,3,42.261467,-79.74472,2018,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-2733080,NY,Chautauqua,Silver Creek,Source2,3,42.522301,-79.14505,2018,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2735425,NY,Chautauqua,Irving,Source2,3,42.551266,-79.107895,2018,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-2738809,NY,Chautauqua,Westfield,Source2,3,42.35002100000001,-79.549988,2018,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2739527,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2018,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-2744230,NY,Chautauqua,Irving,Source2,3,42.551266,-79.107895,2018,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2749220,NY,Chautauqua,Dunkirk,Source2,3,42.461803,-79.305916,2018,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2749221,NY,Chautauqua,Irving,Source2,3,42.551266,-79.107895,2018,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2751621,NY,Chautauqua,Irving,Source2,3,42.551266,-79.107895,2018,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2752422,NY,Chautauqua,Irving,Source2,3,42.551266,-79.107895,2018,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2755510,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2018,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2760289,NY,Chautauqua,Dunkirk,Source2,3,42.461803,-79.305916,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2760291,NY,Chautauqua,Irving,Source2,3,42.551266,-79.107895,2018,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2762759,NY,Chautauqua,Irving,Source2,3,42.551266,-79.107895,2018,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2766078,NY,Chautauqua,Ripley,Source2,3,42.262112,-79.745209,2018,8,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2766080,NY,Chautauqua,Dunkirk,Source2,3,42.461689,-79.307289,2018,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2769183,NY,Chautauqua,Irving,Source2,3,42.551266,-79.107895,2018,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2769186,NY,Chautauqua,Irving,Source2,3,42.551266,-79.107895,2018,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2771525,NY,Chautauqua,Irving,Source2,3,42.549866,-79.109604,2018,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2771526,NY,Chautauqua,Ripley,Source2,3,42.274933,-79.715355,2018,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2773767,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2018,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2778340,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2018,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2779147,NY,Chautauqua,Dunkirk,Source2,3,42.462364,-79.305984,2018,15,Sunday,Rain,False,False,False,False,False,False,False
+A-2787083,NY,Chautauqua,Irving,Source2,3,42.551266,-79.107895,2018,3,Thursday,Rain,False,False,False,False,False,False,False
+A-2789427,NY,Chautauqua,Irving,Source2,3,42.551266,-79.107895,2018,19,Friday,Sin dato,False,False,False,False,False,False,False
+A-2820409,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2018,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2835222,NY,Chautauqua,Irving,Source2,3,42.552227,-79.106705,2018,8,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2835224,NY,Chautauqua,Irving,Source2,3,42.551266,-79.107895,2018,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2841102,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2018,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2849076,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2018,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2850440,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2018,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-2880176,NY,Chautauqua,Dunkirk,Source2,3,42.461803,-79.305916,2018,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2885344,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2018,21,Saturday,Rain,False,False,False,False,False,False,False
+A-2886057,NY,Chautauqua,Dunkirk,Source2,3,42.461803,-79.305916,2018,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2889474,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2018,12,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2904449,NY,Chautauqua,Dunkirk,Source2,3,42.461803,-79.305916,2018,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2904454,NY,Chautauqua,Ripley,Source2,3,42.262112,-79.745201,2018,13,Tuesday,Rain,False,False,False,False,False,False,False
+A-2919274,NY,Chautauqua,Ripley,Source2,3,42.261467,-79.74472,2018,20,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2919281,NY,Chautauqua,Irving,Source2,3,42.551266,-79.107895,2018,0,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2924404,NY,Chautauqua,Irving,Source2,3,42.551266,-79.107895,2018,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2933857,NY,Chautauqua,Irving,Source2,3,42.551266,-79.107895,2018,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-2940688,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2943469,NY,Chautauqua,Dunkirk,Source2,3,42.462292,-79.306732,2018,7,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2943471,NY,Chautauqua,Westfield,Source2,3,42.334831,-79.59015699999998,2018,7,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2943481,NY,Chautauqua,Dunkirk,Source2,3,42.461803,-79.305916,2018,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2948986,NY,Chautauqua,Ripley,Source2,3,42.26210800000001,-79.745216,2018,14,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2975035,NY,Chautauqua,Dunkirk,Source2,3,42.461803,-79.305916,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2977847,NY,Chautauqua,Dunkirk,Source2,3,42.461586,-79.314163,2018,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-2985315,NY,Chautauqua,Dunkirk,Source2,3,42.461803,-79.305916,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2994852,NY,Chautauqua,Westfield,Source2,3,42.338619,-79.583923,2018,8,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3003469,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2018,17,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-3003471,NY,Chautauqua,Irving,Source2,3,42.551266,-79.107895,2018,18,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-3012745,NY,Chautauqua,Irving,Source2,3,42.551266,-79.107895,2018,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3026550,NY,Chautauqua,Westfield,Source2,3,42.334709,-79.58961500000002,2018,11,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3026551,NY,Chautauqua,Irving,Source2,3,42.551266,-79.107895,2018,11,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3044578,NY,Chautauqua,Irving,Source2,3,42.551266,-79.107895,2018,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3044581,NY,Chautauqua,Irving,Source2,3,42.55112800000001,-79.107712,2018,23,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3050918,NY,Chautauqua,Irving,Source2,3,42.551266,-79.107895,2018,9,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-3062147,NY,Chautauqua,Dunkirk,Source2,3,42.461258,-79.313705,2018,19,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3062148,NY,Chautauqua,Silver Creek,Source2,3,42.51199,-79.19851700000002,2018,19,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3065743,NY,Chautauqua,Irving,Source2,3,42.551266,-79.107895,2018,9,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3068604,NY,Chautauqua,Dunkirk,Source2,3,42.461803,-79.305916,2018,13,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3068606,NY,Chautauqua,Irving,Source2,3,42.551266,-79.107895,2018,16,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3075313,NY,Chautauqua,Irving,Source2,3,42.551266,-79.107895,2018,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3079914,NY,Chautauqua,Dunkirk,Source2,3,42.461803,-79.305916,2018,10,Tuesday,Rain,False,False,False,False,False,False,False
+A-3079916,NY,Chautauqua,Silver Creek,Source2,3,42.551079,-79.108124,2018,18,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3103502,NY,Chautauqua,Irving,Source2,3,42.551266,-79.107895,2017,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3111800,NY,Chautauqua,Dunkirk,Source2,3,42.461765,-79.30632,2017,14,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3111802,NY,Chautauqua,Ripley,Source2,3,42.262691,-79.74391899999998,2017,20,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3114699,NY,Chautauqua,Ripley,Source2,3,42.265362,-79.738792,2017,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3121633,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2017,8,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3121634,NY,Chautauqua,Dunkirk,Source2,3,42.461803,-79.305916,2017,9,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3121635,NY,Chautauqua,Dunkirk,Source2,3,42.461803,-79.305916,2017,9,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3121639,NY,Chautauqua,Westfield,Source2,3,42.335354,-79.589302,2017,14,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3127510,NY,Chautauqua,Dunkirk,Source2,3,42.461803,-79.305916,2017,6,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3130554,NY,Chautauqua,Dunkirk,Source2,3,42.461803,-79.305916,2017,19,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3133309,NY,Chautauqua,Portland,Source2,3,42.396229,-79.46345500000002,2017,11,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-3133310,NY,Chautauqua,Dunkirk,Source2,3,42.459282,-79.33000200000002,2017,12,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-3133311,NY,Chautauqua,Silver Creek,Source2,3,42.519505,-79.149658,2017,12,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-3133312,NY,Chautauqua,Silver Creek,Source2,3,42.50027100000001,-79.229256,2017,12,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-3133315,NY,Chautauqua,Irving,Source2,3,42.551266,-79.107895,2017,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3134043,NY,Chautauqua,Dunkirk,Source2,3,42.461872,-79.305252,2017,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3140270,NY,Chautauqua,Dunkirk,Source2,3,42.461803,-79.305916,2017,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3143297,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2017,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3145809,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2017,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-3149397,NY,Chautauqua,Ripley,Source2,3,42.261467,-79.74472,2017,16,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-3152691,NY,Chautauqua,Irving,Source2,3,42.551266,-79.107895,2017,0,Friday,Cloudy,False,False,False,False,False,False,False
+A-3154925,NY,Chautauqua,Irving,Source2,3,42.553005,-79.105743,2017,19,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3154926,NY,Chautauqua,Ripley,Source2,3,42.262115,-79.745186,2017,20,Friday,Sin dato,False,False,False,False,False,False,False
+A-3154927,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2017,22,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3157143,NY,Chautauqua,Ripley,Source2,3,42.261467,-79.74472,2017,8,Saturday,Sin dato,False,False,False,False,False,False,False
+A-3160216,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2017,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3162600,NY,Chautauqua,Irving,Source2,3,42.551266,-79.107895,2017,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3165007,NY,Chautauqua,Ripley,Source2,3,42.261467,-79.74472,2017,8,Friday,Rain,False,False,False,False,False,False,False
+A-3165010,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2017,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-3167475,NY,Chautauqua,Ripley,Source2,3,42.295551,-79.66816700000003,2017,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3168600,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2017,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-3168604,NY,Chautauqua,Dunkirk,Source2,3,42.461803,-79.305916,2017,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-3168606,NY,Chautauqua,Fredonia,Source2,3,42.445637,-79.37763199999998,2017,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-3168607,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2017,23,Monday,Cloudy,False,False,False,False,False,False,False
+A-3170906,NY,Chautauqua,Irving,Source2,3,42.551266,-79.107895,2017,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3170907,NY,Chautauqua,Irving,Source2,3,42.551266,-79.107895,2017,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3170913,NY,Chautauqua,Dunkirk,Source2,3,42.461803,-79.305916,2017,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3175371,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2017,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3175374,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2017,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3175375,NY,Chautauqua,Dunkirk,Source2,3,42.461803,-79.305916,2017,17,Thursday,Rain,False,False,False,False,False,False,False
+A-3181148,NY,Chautauqua,Dunkirk,Source2,3,42.461803,-79.305916,2017,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-3190845,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2017,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3193594,NY,Chautauqua,Ripley,Source2,3,42.262074,-79.745293,2017,15,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-3199695,NY,Chautauqua,Westfield,Source2,3,42.337204,-79.58551,2017,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3206155,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2017,19,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3206157,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2017,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3206926,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2017,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-3212625,NY,Chautauqua,Westfield,Source2,3,42.338181,-79.584648,2017,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3227760,NY,Chautauqua,Irving,Source2,3,42.55112800000001,-79.107712,2017,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-3234613,NY,Chautauqua,Westfield,Source2,3,42.33791400000001,-79.584343,2017,0,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3243067,NY,Chautauqua,Dunkirk,Source2,3,42.461803,-79.305916,2017,0,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3251487,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2017,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3259610,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2017,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3259612,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2017,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3259614,NY,Chautauqua,Dunkirk,Source2,3,42.461803,-79.305916,2017,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3259615,NY,Chautauqua,Westfield,Source2,3,42.338444,-79.584213,2017,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3260212,NY,Chautauqua,Silver Creek,Source2,3,42.512627,-79.168755,2017,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3273485,NY,Chautauqua,Dunkirk,Source2,3,42.47394600000001,-79.275734,2017,12,Saturday,Rain,False,False,False,False,False,False,False
+A-3276795,NY,Chautauqua,Dunkirk,Source2,3,42.461803,-79.305916,2017,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3283017,NY,Chautauqua,Dunkirk,Source2,3,42.461803,-79.305916,2017,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3285225,NY,Chautauqua,Ripley,Source2,3,42.261467,-79.74472,2017,23,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3294052,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2017,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-3297045,NY,Chautauqua,Ripley,Source2,3,42.261467,-79.74472,2017,9,Saturday,Sin dato,False,False,False,False,False,False,False
+A-3309486,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2017,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-3312663,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2017,6,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3325397,NY,Chautauqua,Dunkirk,Source2,3,42.461765,-79.30632,2017,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3325398,NY,Chautauqua,Dunkirk,Source2,3,42.461803,-79.305916,2017,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3335399,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2017,8,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-3341329,NY,Chautauqua,Dunkirk,Source2,3,42.461803,-79.305916,2017,14,Friday,Rain,False,False,False,False,False,False,False
+A-3347333,NY,Chautauqua,Dunkirk,Source2,3,42.461803,-79.305916,2017,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3360030,NY,Chautauqua,Dunkirk,Source2,3,42.461704,-79.30705999999998,2017,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-3379482,NY,Chautauqua,Dunkirk,Source2,3,42.462479,-79.30499300000002,2017,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3382322,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2017,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3382323,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2017,6,Thursday,Sin dato,False,False,False,False,False,False,False
+A-3382324,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2017,7,Thursday,Sin dato,False,False,False,False,False,False,False
+A-3382331,NY,Chautauqua,Ripley,Source2,3,42.261467,-79.74472,2017,20,Thursday,Rain,False,False,False,False,False,False,False
+A-3382332,NY,Chautauqua,Irving,Source2,3,42.551266,-79.107895,2017,22,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3385248,NY,Chautauqua,Irving,Source2,3,42.551266,-79.107895,2017,23,Friday,Cloudy,False,False,False,False,False,False,False
+A-3389208,NY,Chautauqua,Dunkirk,Source2,3,42.461803,-79.305916,2017,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3389209,NY,Chautauqua,Ripley,Source2,3,42.261467,-79.74472,2017,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-3389210,NY,Chautauqua,Westfield,Source2,3,42.334724,-79.59034,2017,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3391856,NY,Chautauqua,Irving,Source2,3,42.551266,-79.107895,2017,12,Tuesday,Rain,False,False,False,False,False,False,False
+A-3410040,NY,Chautauqua,Ripley,Source2,3,42.261467,-79.74472,2017,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3453884,NY,Chautauqua,Dunkirk,Source1,4,42.48832,-79.23683,2016,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-3453885,NY,Chautauqua,Dunkirk,Source1,4,42.482787,-79.248329,2016,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-3457255,NY,Chautauqua,Bemus Point,Source1,4,42.152,-79.38403000000002,2017,10,Sunday,Cloudy,False,False,True,False,False,False,False
+A-3473161,NY,Chautauqua,Gerry,Source1,4,42.19479000000001,-79.25046,2016,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3473162,NY,Chautauqua,Sinclairville,Source1,4,42.255117,-79.269275,2016,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3477169,NY,Chautauqua,Fredonia,Source1,4,42.435647,-79.41941800000002,2016,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3477172,NY,Chautauqua,Dunkirk,Source1,4,42.44715,-79.41054,2016,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3485836,NY,Chautauqua,Irving,Source1,4,42.59466,-79.09042,2016,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3488595,NY,Chautauqua,Jamestown,Source1,4,42.06014,-79.21602,2016,18,Wednesday,Storm,True,False,False,False,False,False,False
+A-3488596,NY,Chautauqua,Jamestown,Source1,4,42.070035,-79.22451099999998,2016,18,Wednesday,Storm,False,False,False,False,False,False,False
+A-3496601,NY,Chautauqua,Kennedy,Source1,4,42.13538,-79.12408,2016,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3496609,NY,Chautauqua,Falconer,Source1,4,42.13475,-79.156309,2016,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3496610,NY,Chautauqua,Kennedy,Source1,4,42.13538,-79.12408,2016,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3497611,NY,Chautauqua,Dunkirk,Source1,4,42.476001,-79.364797,2016,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-3501981,NY,Chautauqua,Ashville,Source1,4,42.11127000000001,-79.38563,2016,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-3501982,NY,Chautauqua,Ashville,Source1,4,42.10625,-79.37042,2016,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-3505871,NY,Chautauqua,Silver Creek,Source1,4,42.55272,-79.14206,2016,1,Friday,Cloudy,False,False,False,False,False,False,False
+A-3505872,NY,Chautauqua,Silver Creek,Source1,4,42.54861,-79.15063,2016,1,Friday,Cloudy,False,False,False,False,False,False,False
+A-3571521,NY,Chautauqua,Jamestown,Source1,4,41.99882,-79.34236999999997,2017,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3572217,NY,Chautauqua,Bemus Point,Source1,4,42.15136,-79.37006,2017,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3582875,NY,Chautauqua,Fredonia,Source1,4,42.449806,-79.309623,2017,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3582877,NY,Chautauqua,Fredonia,Source1,4,42.4505,-79.30796,2017,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3632900,NY,Chautauqua,Fredonia,Source1,4,42.410642,-79.397875,2017,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3632903,NY,Chautauqua,Fredonia,Source1,4,42.403885,-79.407193,2017,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3641841,NY,Chautauqua,Forestville,Source1,4,42.45796,-79.0963,2017,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3641842,NY,Chautauqua,Forestville,Source1,4,42.45813,-79.1418,2017,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3718177,NY,Chautauqua,Ashville,Source1,4,42.105276,-79.366937,2022,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3865341,NY,Chautauqua,Sherman,Source1,4,42.152428,-79.59269,2022,14,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-3921281,NY,Chautauqua,Fredonia,Source1,4,42.446131,-79.41175600000003,2022,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4271115,NY,Chautauqua,Jamestown,Source1,4,42.121457,-79.240933,2023,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4397430,NY,Chautauqua,Forestville,Source1,4,42.39565800000001,-79.206642,2022,22,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4444782,NY,Chautauqua,Fredonia,Source1,4,42.42172,-79.30544,2022,11,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-4494179,NY,Chautauqua,Bemus Point,Source1,4,42.15210556963848,-79.38526511154467,2022,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-4576153,NY,Chautauqua,Brocton,Source1,4,42.407642,-79.441231,2022,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4938725,NY,Chautauqua,Fredonia,Source1,4,42.409001,-79.275338,2022,22,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5004435,NY,Chautauqua,Clymer,Source1,4,42.0245,-79.69426899999998,2022,18,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-5080869,NY,Chautauqua,Portland,Source1,4,42.403923,-79.445867,2022,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5201818,NY,Chautauqua,Jamestown,Source1,4,42.119756,-79.275324,2022,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5225333,NY,Chautauqua,Ashville,Source1,4,42.111369,-79.38574,2022,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5293283,NY,Chautauqua,Jamestown,Source1,4,42.175681,-79.254875,2022,12,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-5310076,NY,Chautauqua,Clymer,Source1,4,42.023732,-79.68412,2022,18,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-5345594,NY,Chautauqua,Jamestown,Source1,4,42.125068,-79.273995,2023,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5423854,NY,Chautauqua,Bemus Point,Source1,4,42.15137600878642,-79.36756253204645,2022,15,Friday,Snow / Ice,False,False,True,False,False,False,False
+A-5424356,NY,Chautauqua,Jamestown,Source1,4,42.11406,-79.247117,2022,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5577392,NY,Chautauqua,Dunkirk,Source1,4,42.47171,-79.319833,2021,16,Saturday,Sin dato,False,False,False,False,False,False,False
+A-5666333,NY,Chautauqua,Jamestown,Source1,4,42.118828,-79.240899,2021,22,Friday,Cloudy,False,False,False,False,False,False,False
+A-5806013,NY,Chautauqua,Irving,Source1,4,42.556397,-79.101454,2021,15,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-5925890,NY,Chautauqua,Jamestown,Source1,4,42.133666,-79.24193299999997,2021,22,Friday,Cloudy,False,False,False,False,False,False,False
+A-6169662,NY,Chautauqua,Dunkirk,Source1,4,42.467852,-79.31756700000003,2021,18,Saturday,Sin dato,False,False,False,False,False,False,False
+A-6244634,NY,Chautauqua,Dunkirk,Source1,4,42.458950280940726,-79.3124806877169,2021,16,Saturday,Sin dato,True,False,False,False,False,False,False
+A-6732341,NY,Chautauqua,Falconer,Source1,4,42.134746,-79.15635400000002,2020,4,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6988121,NY,Chautauqua,Dunkirk,Source1,4,42.46494000000001,-79.3696,2020,17,Friday,Rain,False,False,False,False,False,False,False
+A-6988122,NY,Chautauqua,Fredonia,Source1,4,42.44615,-79.41174000000002,2020,17,Friday,Rain,False,False,False,False,False,False,False
+A-6988164,NY,Chautauqua,Dunkirk,Source1,4,42.46494000000001,-79.3696,2020,17,Friday,Rain,False,False,False,False,False,False,False
+A-6988165,NY,Chautauqua,Fredonia,Source1,4,42.44615,-79.41174000000002,2020,17,Friday,Rain,False,False,False,False,False,False,False
+A-7179599,NY,Chautauqua,Cassadaga,Source1,4,42.34857,-79.31056,2020,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7277432,NY,Chautauqua,Bemus Point,Source1,4,42.15177,-79.36801,2020,15,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-7277434,NY,Chautauqua,Jamestown,Source1,4,42.12726,-79.28529,2020,0,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-7277437,NY,Chautauqua,Bemus Point,Source1,4,42.14395,-79.35869,2020,18,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-7277438,NY,Chautauqua,Jamestown,Source1,4,42.12726,-79.28529,2020,18,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-7295640,NY,Chautauqua,Ashville,Source1,4,42.15158,-79.41095,2019,7,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7414601,NY,Chautauqua,Mayville,Source1,4,42.15652,-79.479715,2019,14,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7454783,NY,Chautauqua,Ripley,Source1,3,42.26235,-79.74309000000002,2019,17,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7469288,NY,Chautauqua,Westfield,Source1,3,42.33827,-79.58379000000002,2019,6,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-7493513,NY,Chautauqua,Ripley,Source1,4,42.26412,-79.74029,2018,0,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7497441,NY,Chautauqua,Falconer,Source1,4,42.13452,-79.154861,2018,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7497443,NY,Chautauqua,Kennedy,Source1,4,42.13485,-79.12575,2018,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7511445,NY,Chautauqua,Ripley,Source1,4,42.294168,-79.652964,2018,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7511446,NY,Chautauqua,Ripley,Source1,4,42.293163,-79.654515,2018,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7526302,NY,Chautauqua,Jamestown,Source1,4,42.09187,-79.240596,2018,22,Sunday,Rain,False,False,False,False,False,False,False
+A-7526303,NY,Chautauqua,Jamestown,Source1,4,42.095358,-79.243499,2018,22,Sunday,Rain,False,True,False,False,False,False,False
+A-7535065,NY,Chautauqua,Dunkirk,Source1,4,42.46487800000001,-79.369654,2018,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7535066,NY,Chautauqua,Dunkirk,Source1,4,42.462526,-79.383826,2018,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7546598,NY,Chautauqua,Silver Creek,Source1,3,42.546187,-79.17834599999998,2018,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7546599,NY,Chautauqua,Silver Creek,Source1,3,42.545568,-79.17264899999998,2018,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7555580,NY,Chautauqua,Forestville,Source1,4,42.45813,-79.1418,2018,15,Saturday,Sin dato,False,False,False,False,False,False,False
+A-7555581,NY,Chautauqua,Forestville,Source1,4,42.45796,-79.0963,2018,15,Saturday,Sin dato,False,False,False,False,False,False,False
+A-7583705,NY,Chautauqua,Dunkirk,Source1,4,42.462475,-79.38431,2018,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7583706,NY,Chautauqua,Fredonia,Source1,4,42.436263,-79.418992,2018,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7629102,NY,Chautauqua,Fredonia,Source1,4,42.41338,-79.30481,2018,8,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-7629103,NY,Chautauqua,Cassadaga,Source1,4,42.34934000000001,-79.31071999999998,2018,8,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-7631823,NY,Chautauqua,Irving,Source1,4,42.55299,-79.10579,2018,19,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-7646436,NY,Chautauqua,Ashville,Source1,4,42.15248,-79.40679,2017,14,Tuesday,Snow / Ice,False,False,False,True,False,False,False
+A-7646437,NY,Chautauqua,Ashville,Source1,4,42.139797,-79.400279,2017,14,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-7660413,NY,Chautauqua,Dunkirk,Source1,4,42.46487800000001,-79.369654,2017,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7660414,NY,Chautauqua,Dunkirk,Source1,4,42.462526,-79.383826,2017,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7661369,NY,Chautauqua,Brocton,Source1,4,42.41852,-79.44133000000002,2017,5,Saturday,Rain,False,False,False,False,False,False,False
+A-7661370,NY,Chautauqua,Portland,Source1,4,42.40617,-79.46302299999998,2017,5,Saturday,Rain,False,False,False,False,False,False,False
+A-7665215,NY,Chautauqua,Dunkirk,Source1,4,42.48832,-79.23683,2017,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7665216,NY,Chautauqua,Dunkirk,Source1,4,42.4679,-79.27549,2017,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7676188,NY,Chautauqua,Kennedy,Source1,4,42.171788,-79.073422,2017,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7676189,NY,Chautauqua,Kennedy,Source1,4,42.169921,-79.06477,2017,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7715697,NY,Chautauqua,Silver Creek,Source1,4,42.544065,-79.195943,2019,15,Monday,Rain,False,False,False,False,False,False,False
+A-7715698,NY,Chautauqua,Silver Creek,Source1,4,42.545603,-79.183581,2019,15,Monday,Rain,False,False,False,False,False,False,False
+A-7739143,NY,Chautauqua,Fredonia,Source1,4,42.427433,-79.306448,2019,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-7739144,NY,Chautauqua,Fredonia,Source1,4,42.421353,-79.30541,2019,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-7758779,NY,Chautauqua,Silver Creek,Source1,4,42.508438,-79.20864499999998,2019,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7760297,NY,Chautauqua,Frewsburg,Source1,4,42.08469,-79.119677,2019,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7764229,NY,Chautauqua,Kennedy,Source1,4,42.172052,-79.069963,2019,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7773088,NY,Chautauqua,Kennedy,Source1,4,42.135797,-79.12285200000002,2019,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7773089,NY,Chautauqua,Kennedy,Source1,4,42.15719,-79.10276,2019,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False

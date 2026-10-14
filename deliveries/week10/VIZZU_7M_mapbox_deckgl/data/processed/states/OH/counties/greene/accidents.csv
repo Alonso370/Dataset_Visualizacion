@@ -1,0 +1,312 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-284,OH,Greene,Dayton,Source2,3,39.736061,-84.093002,2016,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-356,OH,Greene,Fairborn,Source2,3,39.845287,-83.993217,2016,6,Wednesday,Rain,False,False,False,False,False,False,False
+A-370,OH,Greene,Fairborn,Source3,3,39.845287,-83.993217,2016,7,Wednesday,Rain,False,False,False,False,False,False,False
+A-221918,OH,Greene,Dayton,Source2,3,39.696018,-84.096947,2016,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-222128,OH,Greene,Dayton,Source2,3,39.696114,-84.09725999999998,2016,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-222178,OH,Greene,Dayton,Source2,3,39.736061,-84.093002,2016,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-222238,OH,Greene,Fairborn,Source2,3,39.816315,-84.000328,2016,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-222308,OH,Greene,Dayton,Source2,3,39.774315,-84.058701,2016,15,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-222312,OH,Greene,Fairborn,Source2,3,39.783092,-84.003952,2016,16,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-222334,OH,Greene,Fairborn,Source2,3,39.816315,-84.000328,2016,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-223112,OH,Greene,Dayton,Source2,3,39.736061,-84.093002,2017,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-223127,OH,Greene,Dayton,Source2,3,39.696018,-84.096947,2017,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-223145,OH,Greene,Dayton,Source2,3,39.656254,-84.109573,2017,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-223162,OH,Greene,Dayton,Source2,3,39.696018,-84.096947,2017,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-223226,OH,Greene,Dayton,Source2,3,39.696018,-84.096947,2017,8,Thursday,Rain,False,False,False,False,False,False,False
+A-223547,OH,Greene,Dayton,Source2,3,39.696018,-84.096947,2017,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-223593,OH,Greene,Dayton,Source2,3,39.736061,-84.093002,2017,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-223735,OH,Greene,Dayton,Source2,3,39.736061,-84.093002,2016,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-223904,OH,Greene,Dayton,Source2,3,39.772114,-84.077232,2016,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-224904,OH,Greene,Fairborn,Source2,3,39.775337,-84.051895,2016,8,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-224957,OH,Greene,Dayton,Source2,3,39.65992,-84.100479,2016,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-225104,OH,Greene,Dayton,Source2,3,39.77177,-84.07770500000002,2016,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-225116,OH,Greene,Dayton,Source2,3,39.696018,-84.096947,2016,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-225125,OH,Greene,Dayton,Source2,3,39.736061,-84.093002,2016,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-225196,OH,Greene,Dayton,Source2,3,39.736061,-84.093002,2016,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-225794,OH,Greene,Dayton,Source2,3,39.696018,-84.096947,2016,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-226152,OH,Greene,Fairborn,Source2,3,39.845287,-83.993217,2016,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-226537,OH,Greene,Dayton,Source2,3,39.769016,-84.090347,2016,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-226712,OH,Greene,Fairborn,Source2,3,39.775337,-84.051895,2016,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-226800,OH,Greene,Fairborn,Source2,3,39.784679,-84.010475,2016,18,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-227314,OH,Greene,Dayton,Source2,3,39.696018,-84.096947,2016,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-227444,OH,Greene,Fairborn,Source2,3,39.775665,-84.020134,2016,10,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-227778,OH,Greene,Dayton,Source2,3,39.696018,-84.096947,2016,7,Monday,Rain,False,False,False,False,False,False,False
+A-227975,OH,Greene,Dayton,Source2,3,39.685352,-84.099777,2016,21,Tuesday,Rain,False,False,False,False,False,False,False
+A-228085,OH,Greene,Dayton,Source2,3,39.736061,-84.093002,2016,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-328794,OH,Greene,Fairborn,Source2,3,39.845287,-83.993217,2017,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-328972,OH,Greene,Dayton,Source2,3,39.656254,-84.109573,2017,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-329093,OH,Greene,Dayton,Source2,3,39.696018,-84.096947,2017,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-329096,OH,Greene,Dayton,Source2,3,39.656254,-84.109573,2017,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-376860,OH,Greene,Dayton,Source2,3,39.736061,-84.093002,2017,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-376900,OH,Greene,Fairborn,Source2,3,39.775337,-84.051895,2017,17,Tuesday,Rain,False,False,False,False,False,False,False
+A-376937,OH,Greene,Dayton,Source2,3,39.736061,-84.093002,2017,8,Wednesday,Rain,False,False,False,False,False,False,False
+A-377120,OH,Greene,Dayton,Source2,3,39.736061,-84.093002,2017,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-377195,OH,Greene,Dayton,Source2,3,39.769016,-84.090347,2017,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-377216,OH,Greene,Fairborn,Source2,3,39.775337,-84.051895,2017,8,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-377348,OH,Greene,Dayton,Source2,3,39.769016,-84.090347,2017,7,Monday,Rain,False,False,False,False,False,False,False
+A-377372,OH,Greene,Fairborn,Source2,3,39.816315,-84.000328,2017,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-377378,OH,Greene,Fairborn,Source2,3,39.816315,-84.000328,2017,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-423721,OH,Greene,Dayton,Source2,3,39.696018,-84.096947,2017,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-423781,OH,Greene,Dayton,Source2,3,39.696018,-84.096947,2017,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-423810,OH,Greene,Sabina,Source2,3,39.557552,-83.71933,2017,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-423875,OH,Greene,Dayton,Source2,3,39.696018,-84.096947,2017,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-448266,OH,Greene,Fairborn,Source2,3,39.845287,-83.993217,2017,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-479561,OH,Greene,Fairborn,Source2,3,39.816311,-84.000328,2017,14,Friday,Rain,False,False,False,False,False,False,False
+A-479565,OH,Greene,Fairborn,Source2,3,39.782856,-84.004082,2017,15,Friday,Rain,False,False,False,False,False,False,False
+A-479620,OH,Greene,Fairborn,Source2,3,39.775337,-84.051895,2017,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-479759,OH,Greene,Dayton,Source2,3,39.769016,-84.090347,2017,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-505752,OH,Greene,Dayton,Source2,3,39.709637,-84.03022800000002,2017,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-518242,OH,Greene,Dayton,Source2,3,39.771538,-84.080269,2022,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-521963,OH,Greene,Dayton,Source2,3,39.7729,-84.07135,2022,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-531396,OH,Greene,Dayton,Source2,3,39.727242,-84.090775,2022,15,Sunday,Storm,False,False,False,False,False,False,False
+A-537961,OH,Greene,Xenia,Source2,3,39.700226,-83.90793599999998,2022,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-571536,OH,Greene,Dayton,Source2,3,39.737621,-84.093735,2022,14,Friday,Rain,False,False,False,False,False,False,False
+A-578488,OH,Greene,Dayton,Source2,3,39.693642,-84.098549,2022,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-582739,OH,Greene,Dayton,Source2,3,39.696041,-84.096992,2022,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-583050,OH,Greene,Fairborn,Source2,3,39.820644,-84.00013,2022,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-584812,OH,Greene,Dayton,Source2,3,39.735111,-84.092987,2022,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-587275,OH,Greene,Fairborn,Source2,3,39.817638,-84.00029,2022,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-595912,OH,Greene,Dayton,Source2,3,39.765984,-84.092598,2022,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-599237,OH,Greene,Dayton,Source2,3,39.722935,-84.091003,2022,18,Wednesday,Storm,False,False,False,False,False,False,False
+A-613886,OH,Greene,Dayton,Source2,3,39.69165,-84.09861,2022,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-624575,OH,Greene,Dayton,Source2,3,39.769157,-84.089554,2022,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-634678,OH,Greene,Dayton,Source2,3,39.714012,-84.092072,2022,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-634718,OH,Greene,Dayton,Source2,3,39.737621,-84.093735,2022,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-638589,OH,Greene,Dayton,Source2,3,39.742249,-84.09427600000002,2022,16,Monday,Rain,False,False,False,False,False,False,False
+A-640731,OH,Greene,Fairborn,Source2,3,39.799091,-84.002243,2022,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-640930,OH,Greene,Dayton,Source2,3,39.728413,-84.09066,2022,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-644981,OH,Greene,Dayton,Source2,3,39.68751500000001,-84.099838,2022,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-647057,OH,Greene,Dayton,Source2,3,39.76973,-84.088943,2022,8,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-647596,OH,Greene,Sabina,Source2,3,39.557644,-83.71884200000002,2022,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-666455,OH,Greene,Beavercreek,Source2,3,39.737598,-84.0914,2022,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-666456,OH,Greene,Dayton,Source2,3,39.742676,-84.094223,2022,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-668208,OH,Greene,Jamestown,Source2,3,39.57439,-83.691811,2022,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-710673,OH,Greene,Dayton,Source2,3,39.67964600000001,-84.10041,2022,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-718879,OH,Greene,Dayton,Source2,3,39.744637,-84.094246,2022,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-719241,OH,Greene,Dayton,Source2,3,39.73447,-84.08429699999998,2022,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-725052,OH,Greene,Dayton,Source2,3,39.774757,-84.054466,2022,17,Wednesday,Rain,False,False,False,False,False,False,False
+A-725143,OH,Greene,Dayton,Source2,3,39.774757,-84.054466,2022,14,Wednesday,Rain,False,False,False,False,False,False,False
+A-726653,OH,Greene,Dayton,Source2,3,39.696041,-84.096992,2022,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-745833,OH,Greene,Dayton,Source2,3,39.737621,-84.093735,2022,21,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-767564,OH,Greene,Dayton,Source2,3,39.737621,-84.093735,2021,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-776007,OH,Greene,Dayton,Source2,3,39.696041,-84.096992,2021,17,Thursday,Rain,False,False,False,False,False,False,False
+A-780771,OH,Greene,Dayton,Source2,3,39.696041,-84.096992,2021,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-788024,OH,Greene,Dayton,Source2,3,39.696041,-84.096992,2021,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-813405,OH,Greene,Dayton,Source2,3,39.737621,-84.093735,2021,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-821996,OH,Greene,Dayton,Source2,3,39.737621,-84.093735,2021,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-824130,OH,Greene,Fairborn,Source2,3,39.782906,-84.005318,2021,17,Thursday,Rain,False,False,False,False,False,False,False
+A-824868,OH,Greene,Xenia,Source2,3,39.700668,-83.998238,2021,8,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-831983,OH,Greene,Sabina,Source2,3,39.557644,-83.71884200000002,2021,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-838380,OH,Greene,Dayton,Source2,3,39.737621,-84.093735,2021,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-877125,OH,Greene,Fairborn,Source2,3,39.782906,-84.005318,2021,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-902456,OH,Greene,Sabina,Source2,3,39.557644,-83.71884200000002,2021,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-917171,OH,Greene,Dayton,Source2,3,39.747005,-84.09375,2021,8,Tuesday,Rain,False,False,False,False,False,False,False
+A-933875,OH,Greene,Dayton,Source2,3,39.774757,-84.054466,2021,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-934923,OH,Greene,Xenia,Source2,3,39.665154,-83.913483,2021,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-938736,OH,Greene,Dayton,Source2,3,39.696041,-84.096992,2021,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-940362,OH,Greene,Xenia,Source2,3,39.700668,-83.998238,2021,14,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-943465,OH,Greene,Sabina,Source2,3,39.557644,-83.71884200000002,2021,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-944345,OH,Greene,Fairborn,Source2,3,39.845047,-83.993309,2021,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-951111,OH,Greene,Sabina,Source2,3,39.557644,-83.71884200000002,2021,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-967676,OH,Greene,Dayton,Source2,3,39.737621,-84.093735,2021,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-969100,OH,Greene,Fairborn,Source2,3,39.815987,-84.000725,2021,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-982563,OH,Greene,Sabina,Source2,3,39.557644,-83.71884200000002,2021,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-982564,OH,Greene,Sabina,Source2,3,39.557644,-83.71884200000002,2021,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-985602,OH,Greene,Dayton,Source2,3,39.709423,-84.09251400000002,2021,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-998275,OH,Greene,Xenia,Source2,3,39.690113,-83.882942,2021,20,Friday,Storm,False,False,False,False,False,False,False
+A-1005194,OH,Greene,Dayton,Source2,3,39.696041,-84.096992,2021,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1007745,OH,Greene,Fairborn,Source2,3,39.815987,-84.000725,2021,15,Friday,Storm,False,False,False,False,False,False,False
+A-1011153,OH,Greene,Dayton,Source2,3,39.737621,-84.093735,2021,12,Wednesday,Rain,False,False,False,False,False,False,False
+A-1029373,OH,Greene,Fairborn,Source2,3,39.845047,-83.993309,2021,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1053941,OH,Greene,Dayton,Source2,3,39.737621,-84.093735,2021,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-1053942,OH,Greene,Dayton,Source2,3,39.737621,-84.093735,2021,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-1057511,OH,Greene,Dayton,Source2,3,39.737621,-84.093735,2021,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1109030,OH,Greene,Dayton,Source2,3,39.76788300000001,-84.09162099999998,2021,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1109040,OH,Greene,Dayton,Source2,3,39.769501,-84.089493,2021,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1128494,OH,Greene,Dayton,Source2,3,39.737621,-84.093735,2021,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1191828,OH,Greene,Jamestown,Source2,3,39.670864,-83.736641,2021,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-1214908,OH,Greene,Dayton,Source2,3,39.772961,-84.072548,2020,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-1359153,OH,Greene,Dayton,Source2,3,39.720592,-84.059166,2020,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1361015,OH,Greene,Dayton,Source2,3,39.737316,-84.09326899999998,2020,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1368810,OH,Greene,Sabina,Source2,3,39.557644,-83.71884200000002,2020,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1391060,OH,Greene,Sabina,Source2,3,39.557644,-83.71884200000002,2020,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1453917,OH,Greene,Dayton,Source2,3,39.696041,-84.096992,2020,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1453922,OH,Greene,Dayton,Source2,3,39.737621,-84.093735,2020,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1541774,OH,Greene,Dayton,Source2,3,39.737621,-84.093735,2020,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1593129,OH,Greene,Dayton,Source2,3,39.737621,-84.093735,2020,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1607897,OH,Greene,Dayton,Source2,3,39.696041,-84.096992,2020,18,Thursday,Rain,False,False,False,False,False,False,False
+A-1625777,OH,Greene,Fairborn,Source2,3,39.815987,-84.000725,2020,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1625781,OH,Greene,Fairborn,Source2,3,39.818581,-83.999786,2020,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1641283,OH,Greene,Fairborn,Source2,3,39.815987,-84.000725,2020,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1713793,OH,Greene,Dayton,Source2,3,39.737621,-84.093735,2019,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1726216,OH,Greene,Dayton,Source2,3,39.774757,-84.054466,2019,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1728783,OH,Greene,Dayton,Source2,3,39.696041,-84.096992,2019,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1732700,OH,Greene,Dayton,Source2,3,39.696041,-84.096992,2019,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1750737,OH,Greene,Dayton,Source2,3,39.774757,-84.054466,2019,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1751836,OH,Greene,Dayton,Source2,3,39.696041,-84.096992,2019,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1757039,OH,Greene,Dayton,Source2,3,39.774757,-84.054466,2019,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1822576,OH,Greene,Dayton,Source2,3,39.737621,-84.093735,2019,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1889382,OH,Greene,Dayton,Source2,3,39.77364,-84.06468199999998,2019,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1924845,OH,Greene,Dayton,Source2,3,39.696041,-84.096992,2019,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1929547,OH,Greene,Dayton,Source2,3,39.696041,-84.096992,2019,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2017183,OH,Greene,Jamestown,Source2,3,39.670746,-83.73710600000003,2019,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-2042269,OH,Greene,Fairborn,Source2,3,39.84164000000001,-83.99247,2019,7,Monday,Rain,False,False,False,False,False,False,False
+A-2153837,OH,Greene,Dayton,Source2,3,39.737,-84.094193,2019,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-2158750,OH,Greene,Dayton,Source2,3,39.737,-84.094193,2019,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2176827,OH,Greene,Dayton,Source2,3,39.695972,-84.097298,2019,17,Friday,Rain,False,False,False,False,False,False,False
+A-2208462,OH,Greene,Dayton,Source2,3,39.656273,-84.109306,2019,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-2243674,OH,Greene,Dayton,Source2,3,39.764374,-84.09270500000002,2019,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2269840,OH,Greene,Dayton,Source2,3,39.774906,-84.05378,2019,13,Thursday,Rain,False,False,False,False,False,False,False
+A-2321240,OH,Greene,Dayton,Source2,3,39.6726,-84.099663,2019,17,Monday,Rain,False,False,False,False,False,False,False
+A-2337052,OH,Greene,Dayton,Source2,3,39.737,-84.094193,2019,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2344884,OH,Greene,Dayton,Source2,3,39.737,-84.094193,2019,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-2351019,OH,Greene,Fairborn,Source2,3,39.816036,-84.000793,2019,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2379764,OH,Greene,Fairborn,Source2,3,39.816036,-84.000793,2018,7,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2387503,OH,Greene,Fairborn,Source2,3,39.81554000000001,-84.001762,2018,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-2387504,OH,Greene,Fairborn,Source2,3,39.816971,-84.00183100000002,2018,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-2400575,OH,Greene,Dayton,Source2,3,39.737,-84.094193,2018,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-2402956,OH,Greene,Dayton,Source2,3,39.696404,-84.09687,2018,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2427804,OH,Greene,Beavercreek,Source2,3,39.737431,-84.090912,2018,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-2427809,OH,Greene,Dayton,Source2,3,39.735535,-84.08988199999997,2018,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-2432377,OH,Greene,Dayton,Source3,3,39.739246,-84.095116,2018,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2458493,OH,Greene,Dayton,Source2,3,39.736061,-84.093002,2018,8,Thursday,Rain,False,False,False,False,False,False,False
+A-2494509,OH,Greene,Dayton,Source2,3,39.696018,-84.096947,2018,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2513596,OH,Greene,Dayton,Source2,3,39.696018,-84.096947,2018,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2616677,OH,Greene,Dayton,Source2,3,39.696018,-84.096947,2018,9,Tuesday,Rain,False,False,False,False,False,False,False
+A-2649508,OH,Greene,Dayton,Source2,3,39.656254,-84.109573,2018,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2658747,OH,Greene,Dayton,Source2,3,39.72937,-84.072838,2018,15,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-2672446,OH,Greene,Fairborn,Source2,3,39.845287,-83.993217,2018,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2699987,OH,Greene,Fairborn,Source2,3,39.845287,-83.993217,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2792229,OH,Greene,Dayton,Source2,3,39.735722,-84.09281899999998,2018,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2817200,OH,Greene,Dayton,Source2,3,39.736061,-84.093002,2018,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2820549,OH,Greene,Sabina,Source2,3,39.557552,-83.71933,2018,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2852532,OH,Greene,Fairborn,Source2,3,39.816315,-84.000328,2018,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2871030,OH,Greene,Fairborn,Source2,3,39.824181,-83.999901,2018,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2875415,OH,Greene,Dayton,Source2,3,39.656254,-84.109573,2018,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2897913,OH,Greene,Dayton,Source2,3,39.736061,-84.093002,2018,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2926212,OH,Greene,Dayton,Source2,3,39.736061,-84.093002,2018,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2941328,OH,Greene,Dayton,Source2,3,39.736061,-84.093002,2018,17,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2946691,OH,Greene,Dayton,Source2,3,39.736954,-84.09255999999998,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2949481,OH,Greene,Dayton,Source2,3,39.721069,-84.059837,2018,14,Friday,Cloudy,False,False,True,False,False,False,False
+A-2959046,OH,Greene,Dayton,Source2,3,39.736061,-84.093002,2018,4,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2959128,OH,Greene,Dayton,Source2,3,39.77177,-84.07770500000002,2018,8,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2971248,OH,Greene,Dayton,Source2,3,39.696018,-84.096947,2018,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2980696,OH,Greene,Dayton,Source2,3,39.696007,-84.097313,2018,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2995625,OH,Greene,Dayton,Source2,3,39.775043,-84.05184200000002,2018,8,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2995632,OH,Greene,Dayton,Source2,3,39.736156,-84.092682,2018,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2995649,OH,Greene,Dayton,Source2,3,39.736061,-84.093002,2018,14,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3026992,OH,Greene,Dayton,Source2,3,39.736061,-84.093002,2018,8,Thursday,Rain,False,False,False,False,False,False,False
+A-3051618,OH,Greene,Dayton,Source2,3,39.656254,-84.109573,2018,7,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-3078056,OH,Greene,Dayton,Source2,3,39.736061,-84.093002,2018,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-3083271,OH,Greene,Dayton,Source2,3,39.77177,-84.07770500000002,2018,14,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3143778,OH,Greene,Beavercreek,Source2,3,39.694477,-84.098396,2017,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3194736,OH,Greene,Dayton,Source2,3,39.656254,-84.109573,2017,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3207560,OH,Greene,Beavercreek,Source2,3,39.737431,-84.090912,2017,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-3213270,OH,Greene,Dayton,Source2,3,39.760124,-84.091957,2017,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3213280,OH,Greene,Fairborn,Source2,3,39.783092,-84.003952,2017,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3213303,OH,Greene,Dayton,Source2,3,39.722916,-84.091011,2017,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3254728,OH,Greene,Fairborn,Source2,3,39.816315,-84.000328,2017,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3285799,OH,Greene,Dayton,Source2,3,39.696018,-84.096947,2017,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3363065,OH,Greene,Dayton,Source2,3,39.656254,-84.109573,2017,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3389715,OH,Greene,Dayton,Source2,3,39.736378,-84.093163,2017,12,Monday,Cloudy,False,False,True,False,False,False,False
+A-3412673,OH,Greene,Fairborn,Source1,4,39.77572,-84.04815,2016,7,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3413048,OH,Greene,Jamestown,Source1,4,39.587784,-83.723939,2016,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3413049,OH,Greene,Jamestown,Source1,4,39.626237,-83.73105,2016,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3413072,OH,Greene,Dayton,Source1,4,39.833935,-84.061832,2016,7,Wednesday,Rain,False,False,False,False,False,False,False
+A-3413313,OH,Greene,Xenia,Source1,4,39.688148,-83.88431,2016,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-3413314,OH,Greene,Xenia,Source1,4,39.693164,-83.882745,2016,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-3445787,OH,Greene,Dayton,Source1,3,39.722329,-84.09125,2016,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3446329,OH,Greene,Xenia,Source1,4,39.5792,-83.86045,2016,23,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3446330,OH,Greene,Xenia,Source1,4,39.59587,-83.87200000000001,2016,23,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3446342,OH,Greene,Dayton,Source1,4,39.709011,-84.028692,2016,2,Sunday,Cloudy,True,False,False,False,False,False,False
+A-3453584,OH,Greene,Spring Valley,Source1,4,39.60219,-84.01286999999998,2016,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3453585,OH,Greene,Spring Valley,Source1,4,39.601023,-84.01779,2016,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3454273,OH,Greene,Xenia,Source1,4,39.701141,-83.999197,2016,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3456938,OH,Greene,Dayton,Source1,4,39.72798,-84.07,2017,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-3462209,OH,Greene,Dayton,Source1,3,39.74506,-84.09416,2017,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3465456,OH,Greene,Dayton,Source1,3,39.77035,-84.08671,2016,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3485084,OH,Greene,Xenia,Source1,4,39.7128,-83.87677,2016,9,Wednesday,Cloudy,False,True,False,False,False,False,False
+A-3485090,OH,Greene,Xenia,Source1,4,39.723017,-83.856104,2016,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3492016,OH,Greene,Dayton,Source1,3,39.76035,-84.09193,2016,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-3493749,OH,Greene,Alpha,Source1,4,39.709234,-84.028975,2016,0,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-3493750,OH,Greene,Dayton,Source1,4,39.72063,-84.0595,2016,0,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3506060,OH,Greene,Xenia,Source1,4,39.698826,-83.99378,2016,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3506061,OH,Greene,Xenia,Source1,4,39.668252,-83.95679399999999,2016,16,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-3522296,OH,Greene,Cedarville,Source1,4,39.717578,-83.77546600000002,2016,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3522297,OH,Greene,Cedarville,Source1,4,39.735019,-83.800919,2016,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3522398,OH,Greene,Dayton,Source1,4,39.708814,-84.028083,2016,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3523540,OH,Greene,Xenia,Source1,4,39.708702,-83.770412,2016,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3523541,OH,Greene,Cedarville,Source1,4,39.697729,-83.750407,2016,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3523570,OH,Greene,Dayton,Source1,4,39.84217,-84.03501999999997,2016,11,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-3558693,OH,Greene,Fairborn,Source1,4,39.84515,-83.99319,2017,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3562350,OH,Greene,Dayton,Source1,4,39.73566,-84.09299999999998,2017,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3572392,OH,Greene,Dayton,Source1,4,39.76035,-84.09193,2017,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3600756,OH,Greene,Dayton,Source1,3,39.65767,-84.104,2017,7,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-3601054,OH,Greene,Xenia,Source1,4,39.5792,-83.86045,2017,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3601058,OH,Greene,Xenia,Source1,4,39.5792,-83.86045,2017,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3601059,OH,Greene,Xenia,Source1,4,39.59587,-83.87200000000001,2017,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3602374,OH,Greene,Sabina,Source1,4,39.55571,-83.72251999999997,2017,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3626879,OH,Greene,Fairborn,Source1,4,39.81067,-84.00074000000002,2017,7,Monday,Cloudy,False,False,True,False,False,False,False
+A-3628455,OH,Greene,Jamestown,Source1,4,39.6973,-83.749022,2017,17,Friday,Sin dato,False,False,False,False,False,False,False
+A-3628463,OH,Greene,Jamestown,Source1,4,39.697352,-83.749189,2017,17,Friday,Sin dato,False,False,False,False,False,False,False
+A-3628527,OH,Greene,Jamestown,Source1,4,39.6973,-83.749022,2017,21,Friday,Sin dato,False,False,False,False,False,False,False
+A-3628529,OH,Greene,Cedarville,Source1,4,39.69774,-83.750439,2017,21,Friday,Sin dato,False,False,False,False,False,False,False
+A-3632907,OH,Greene,Cedarville,Source1,4,39.71788,-83.7757,2017,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3632909,OH,Greene,Cedarville,Source1,4,39.71788,-83.7757,2017,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3634611,OH,Greene,Fairborn,Source1,3,39.77583,-84.04706999999998,2017,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3876594,OH,Greene,Xenia,Source1,4,39.736814,-83.93606,2022,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3976650,OH,Greene,Xenia,Source1,4,39.580786,-83.8612,2022,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4448499,OH,Greene,Xenia,Source1,4,39.722619,-83.935723,2022,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4499672,OH,Greene,Jamestown,Source1,4,39.55976,-83.714543,2022,18,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-4795716,OH,Greene,Fairborn,Source1,4,39.776339,-84.039209,2023,3,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-6988272,OH,Greene,Dayton,Source1,4,39.65771,-84.10325,2020,12,Friday,Storm,False,False,False,False,False,False,False
+A-6988689,OH,Greene,Dayton,Source1,4,39.66174,-84.09964000000002,2020,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6988694,OH,Greene,Dayton,Source1,4,39.66174,-84.09964000000002,2020,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6993538,OH,Greene,Dayton,Source1,3,39.73157,-84.09056,2020,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7066929,OH,Greene,Xenia,Source1,4,39.7128,-83.87677,2020,8,Friday,Cloudy,False,True,False,False,False,False,False
+A-7066930,OH,Greene,Cedarville,Source1,4,39.74154,-83.80708,2020,8,Friday,Fog / Low visibility,True,True,False,False,False,False,False
+A-7067025,OH,Greene,Cedarville,Source1,4,39.74154,-83.80708,2020,8,Friday,Fog / Low visibility,True,True,False,False,False,False,False
+A-7067085,OH,Greene,Cedarville,Source1,4,39.74154,-83.80708,2020,8,Friday,Fog / Low visibility,True,True,False,False,False,False,False
+A-7067135,OH,Greene,Cedarville,Source1,4,39.74154,-83.80708,2020,9,Friday,Cloudy,True,True,False,False,False,False,False
+A-7067136,OH,Greene,Xenia,Source1,4,39.7128,-83.87677,2020,9,Friday,Cloudy,False,True,False,False,False,False,False
+A-7067200,OH,Greene,Xenia,Source1,4,39.7128,-83.87677,2020,10,Friday,Cloudy,False,True,False,False,False,False,False
+A-7067201,OH,Greene,Cedarville,Source1,4,39.74157,-83.80709,2020,10,Friday,Clear / Fair,True,True,False,False,False,False,False
+A-7188533,OH,Greene,Cedarville,Source1,4,39.73495,-83.80084000000002,2020,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7188535,OH,Greene,Cedarville,Source1,4,39.7179,-83.77571999999998,2020,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7482841,OH,Greene,Cedarville,Source1,4,39.735292,-83.80124,2018,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7482842,OH,Greene,Cedarville,Source1,4,39.735709,-83.801709,2018,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7495884,OH,Greene,Dayton,Source1,4,39.74386,-84.09439,2018,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-7498951,OH,Greene,Xenia,Source1,4,39.693693,-83.97385799999998,2018,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-7560579,OH,Greene,Dayton,Source1,4,39.737821,-84.09772199999998,2018,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7573919,OH,Greene,Xenia,Source1,4,39.695639,-83.985559,2018,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7573920,OH,Greene,Xenia,Source1,4,39.6953,-83.98408,2018,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7578578,OH,Greene,Dayton,Source1,4,39.836014,-84.060863,2018,12,Thursday,Rain,False,False,False,False,False,False,False
+A-7583741,OH,Greene,Cedarville,Source1,4,39.735012,-83.80091,2018,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7583744,OH,Greene,Cedarville,Source1,4,39.738629,-83.805018,2018,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7603627,OH,Greene,Sabina,Source1,3,39.55571,-83.72251999999997,2018,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7611066,OH,Greene,Dayton,Source1,4,39.74127,-84.09488,2018,14,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7614948,OH,Greene,Dayton,Source1,3,39.730711,-84.090707,2018,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-7614949,OH,Greene,Dayton,Source1,3,39.73438,-84.09429,2018,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-7627560,OH,Greene,Dayton,Source1,3,39.691521,-84.09864,2018,8,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7631936,OH,Greene,Fairborn,Source1,4,39.80940800000001,-84.00117,2018,18,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-7645136,OH,Greene,Jamestown,Source1,4,39.671719,-83.73683,2017,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7645137,OH,Greene,Xenia,Source1,4,39.708714,-83.770426,2017,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7662953,OH,Greene,Cedarville,Source1,4,39.783748,-83.818263,2017,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7662954,OH,Greene,Yellow Springs,Source1,4,39.792934,-83.824549,2017,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7664220,OH,Greene,Dayton,Source1,4,39.738685,-84.093871,2017,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-7664223,OH,Greene,Dayton,Source1,4,39.73537,-84.08758,2017,14,Monday,Cloudy,False,False,True,False,False,False,False
+A-7664233,OH,Greene,Dayton,Source1,4,39.73537,-84.08758,2017,14,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7664234,OH,Greene,Beavercreek,Source1,4,39.73797,-84.09238,2017,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7664235,OH,Greene,Beavercreek,Source1,4,39.73797,-84.09238,2017,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7664236,OH,Greene,Dayton,Source1,4,39.73438,-84.09429,2017,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7690846,OH,Greene,Dayton,Source1,4,39.73438,-84.09429,2017,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7690847,OH,Greene,Dayton,Source1,4,39.73804000000001,-84.09812,2017,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7690858,OH,Greene,Dayton,Source1,4,39.73438,-84.09429,2017,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7700579,OH,Greene,Dayton,Source1,3,39.691521,-84.09864,2017,23,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7701117,OH,Greene,Xenia,Source1,4,39.649819,-83.961241,2017,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7701777,OH,Greene,Dayton,Source1,4,39.70198,-84.09398,2017,14,Tuesday,Rain,False,False,False,False,False,False,False
+A-7701782,OH,Greene,Dayton,Source1,3,39.69059,-84.09891,2017,15,Tuesday,Rain,False,False,False,False,False,False,False
+A-7728601,OH,Greene,Cedarville,Source1,4,39.717617,-83.77549499999998,2019,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7728602,OH,Greene,Cedarville,Source1,4,39.735019,-83.800919,2019,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7753417,OH,Greene,Xenia,Source1,4,39.700781,-83.99830899999998,2019,6,Tuesday,Clear / Fair,True,False,False,False,False,False,False

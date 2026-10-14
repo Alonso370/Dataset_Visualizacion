@@ -1,0 +1,512 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-179174,MI,Livingston,Brighton,Source2,3,42.522331,-83.72084,2016,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-179187,MI,Livingston,Brighton,Source2,3,42.521965,-83.73107900000002,2016,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-179400,MI,Livingston,Brighton,Source2,3,42.523373,-83.752808,2016,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-180500,MI,Livingston,Fowlerville,Source2,3,42.646561,-84.072601,2016,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-180914,MI,Livingston,Brighton,Source2,3,42.548092,-83.789574,2016,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-182768,MI,Livingston,Brighton,Source2,3,42.548092,-83.789574,2017,12,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-182921,MI,Livingston,Howell,Source2,3,42.578876,-83.874191,2017,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-182968,MI,Livingston,Brighton,Source2,3,42.5224,-83.692734,2017,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-183635,MI,Livingston,Fowlerville,Source2,3,42.64888,-84.109055,2016,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-183712,MI,Livingston,Brighton,Source2,3,42.548092,-83.789574,2016,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-183741,MI,Livingston,Brighton,Source3,3,42.521484,-83.68915600000003,2016,15,Monday,Cloudy,False,False,True,False,False,False,False
+A-186301,MI,Livingston,Brighton,Source2,3,42.522026,-83.729614,2016,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-186399,MI,Livingston,Brighton,Source3,3,42.521484,-83.68915600000003,2016,6,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-186416,MI,Livingston,Brighton,Source2,3,42.521484,-83.68915600000003,2016,7,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-186899,MI,Livingston,Brighton,Source2,3,42.522575,-83.720078,2016,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-187090,MI,Livingston,Brighton,Source2,3,42.54438,-83.78250899999998,2016,14,Saturday,Cloudy,False,False,True,False,False,False,False
+A-187555,MI,Livingston,Brighton,Source2,3,42.522575,-83.720078,2016,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-188286,MI,Livingston,Brighton,Source2,3,42.52483,-83.760017,2016,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-188861,MI,Livingston,Howell,Source2,3,42.579052,-83.856438,2016,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-189315,MI,Livingston,Brighton,Source2,3,42.522224,-83.745018,2016,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-189413,MI,Livingston,Brighton,Source2,3,42.52282,-83.69516800000002,2016,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-189508,MI,Livingston,Brighton,Source2,3,42.522774,-83.749268,2016,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-190748,MI,Livingston,Fowlerville,Source2,3,42.646561,-84.072601,2016,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-191019,MI,Livingston,Brighton,Source2,3,42.522209,-83.737465,2016,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-191284,MI,Livingston,Howell,Source2,3,42.61552,-83.991905,2016,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-191336,MI,Livingston,Fowlerville,Source2,3,42.646561,-84.072601,2016,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-191802,MI,Livingston,Brighton,Source2,3,42.532528000000006,-83.765541,2016,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-192403,MI,Livingston,Howell,Source2,3,42.578888,-83.874001,2016,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-192813,MI,Livingston,Howell,Source2,3,42.578888,-83.874001,2016,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-192896,MI,Livingston,Brighton,Source2,3,42.521484,-83.68915600000003,2016,10,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-193110,MI,Livingston,Brighton,Source2,3,42.522388,-83.692688,2016,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-193688,MI,Livingston,Fowlerville,Source2,3,42.646561,-84.072601,2016,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-325786,MI,Livingston,Brighton,Source2,3,42.523373,-83.752808,2017,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-326080,MI,Livingston,Brighton,Source2,3,42.521484,-83.68915600000003,2017,6,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-367392,MI,Livingston,Whitmore Lake,Source2,3,42.44269600000001,-83.754112,2017,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-367661,MI,Livingston,Brighton,Source2,3,42.522575,-83.720078,2017,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-368395,MI,Livingston,Fowlerville,Source2,3,42.646561,-84.072601,2017,6,Tuesday,Rain,False,False,False,False,False,False,False
+A-368581,MI,Livingston,Howell,Source2,3,42.600903,-83.912529,2017,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-368701,MI,Livingston,Brighton,Source2,3,42.505405,-83.757912,2017,11,Saturday,Cloudy,False,False,True,False,False,False,False
+A-368758,MI,Livingston,Howell,Source2,3,42.579052,-83.856438,2017,6,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-417823,MI,Livingston,Brighton,Source2,3,42.523373,-83.752808,2017,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-418103,MI,Livingston,Brighton,Source2,3,42.523373,-83.752808,2017,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-418104,MI,Livingston,Brighton,Source2,3,42.522575,-83.720078,2017,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-418885,MI,Livingston,Brighton,Source2,3,42.521484,-83.68915600000003,2017,20,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-419595,MI,Livingston,Brighton,Source2,3,42.521484,-83.68915600000003,2017,6,Thursday,Cloudy,False,False,True,False,False,False,False
+A-445842,MI,Livingston,Brighton,Source2,3,42.548092,-83.789574,2017,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-445867,MI,Livingston,Brighton,Source2,3,42.548092,-83.789574,2017,16,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-446080,MI,Livingston,Brighton,Source2,3,42.466995,-83.75601999999998,2017,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-472947,MI,Livingston,Brighton,Source2,3,42.548092,-83.789574,2017,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-473265,MI,Livingston,Brighton,Source2,3,42.522575,-83.720078,2017,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-473565,MI,Livingston,Brighton,Source2,3,42.522717,-83.70946500000002,2017,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-473844,MI,Livingston,Brighton,Source2,3,42.522575,-83.720078,2017,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-474084,MI,Livingston,Howell,Source2,3,42.578876,-83.874191,2017,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-474879,MI,Livingston,Brighton,Source2,3,42.521484,-83.68915600000003,2017,5,Friday,Rain,False,False,True,False,False,False,False
+A-502308,MI,Livingston,Howell,Source2,3,42.61552,-83.991905,2017,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-502319,MI,Livingston,Fowlerville,Source2,3,42.646561,-84.072601,2017,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-502887,MI,Livingston,Howell,Source2,3,42.578876,-83.874191,2017,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-523790,MI,Livingston,Brighton,Source2,3,42.547737,-83.788933,2022,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-533594,MI,Livingston,Brighton,Source2,3,42.522949,-83.716904,2022,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-578483,MI,Livingston,Whitmore Lake,Source2,3,42.443005,-83.75457800000002,2022,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-578594,MI,Livingston,Fenton,Source2,3,42.676498,-83.760086,2022,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-585811,MI,Livingston,Brighton,Source2,3,42.466724,-83.755989,2022,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-634689,MI,Livingston,Fowlerville,Source2,3,42.646587,-84.072784,2022,16,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-639796,MI,Livingston,Brighton,Source2,3,42.521481,-83.68924,2022,8,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-662277,MI,Livingston,Brighton,Source2,3,42.547737,-83.788933,2022,13,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-694967,MI,Livingston,Fowlerville,Source2,3,42.646587,-84.072784,2022,19,Sunday,Cloudy,False,False,True,False,False,False,False
+A-703701,MI,Livingston,Howell,Source2,3,42.614674,-83.990707,2022,2,Saturday,Cloudy,False,False,False,False,False,False,False
+A-713891,MI,Livingston,Howell,Source2,3,42.578342,-83.85524000000002,2022,9,Friday,Rain,False,False,False,False,False,False,False
+A-714118,MI,Livingston,Howell,Source2,3,42.578342,-83.85524000000002,2022,7,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-722597,MI,Livingston,Brighton,Source2,3,42.526154,-83.756844,2022,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-728241,MI,Livingston,Fowlerville,Source2,3,42.646587,-84.072784,2022,14,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-733531,MI,Livingston,Brighton,Source2,3,42.526154,-83.756844,2022,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-737275,MI,Livingston,Howell,Source2,3,42.578415,-83.875031,2022,8,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-739326,MI,Livingston,Brighton,Source2,3,42.526154,-83.756844,2022,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-742138,MI,Livingston,Howell,Source2,3,42.578415,-83.875031,2022,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-744732,MI,Livingston,Fenton,Source2,3,42.769794,-83.751579,2022,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-751943,MI,Livingston,Brighton,Source2,3,42.633362,-83.748856,2022,19,Monday,Cloudy,True,False,False,False,False,False,False
+A-765781,MI,Livingston,Brighton,Source2,3,42.521957,-83.735771,2021,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-779620,MI,Livingston,Brighton,Source2,3,42.526154,-83.756844,2021,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-786040,MI,Livingston,Howell,Source2,3,42.609531,-83.978241,2021,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-786045,MI,Livingston,Howell,Source2,3,42.59853,-83.90625,2021,14,Thursday,Cloudy,True,True,False,False,False,False,False
+A-792907,MI,Livingston,Howell,Source3,3,42.591331,-83.934929,2021,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-802384,MI,Livingston,Howell,Source2,3,42.578415,-83.875031,2021,13,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-802435,MI,Livingston,Brighton,Source2,3,42.526154,-83.756844,2021,11,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-803216,MI,Livingston,Brighton,Source2,3,42.521481,-83.68924,2021,11,Friday,Cloudy,False,False,True,False,False,False,False
+A-805464,MI,Livingston,Brighton,Source2,3,42.444675,-83.75299100000002,2021,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-806927,MI,Livingston,Howell,Source2,3,42.576633,-83.854774,2021,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-807126,MI,Livingston,Howell,Source2,3,42.578342,-83.85524000000002,2021,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-809868,MI,Livingston,Brighton,Source2,3,42.547737,-83.788933,2021,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-813396,MI,Livingston,Brighton,Source3,3,42.525799,-83.76056700000002,2021,17,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-831054,MI,Livingston,Fowlerville,Source2,3,42.64653,-84.075539,2021,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-843145,MI,Livingston,Brighton,Source2,3,42.522987,-83.70193499999998,2021,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-849491,MI,Livingston,Howell,Source2,3,42.578415,-83.875031,2021,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-849518,MI,Livingston,Brighton,Source2,3,42.547737,-83.788933,2021,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-861117,MI,Livingston,Fowlerville,Source2,3,42.646587,-84.072784,2021,17,Thursday,Cloudy,False,False,True,False,False,False,False
+A-863464,MI,Livingston,Brighton,Source2,3,42.53054,-83.766747,2021,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-866972,MI,Livingston,Brighton,Source2,3,42.533524,-83.76718100000002,2021,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-867522,MI,Livingston,Brighton,Source2,3,42.526154,-83.756844,2021,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-867692,MI,Livingston,Howell,Source2,3,42.614674,-83.990707,2021,22,Saturday,Cloudy,False,False,False,False,False,False,False
+A-877808,MI,Livingston,Brighton,Source2,3,42.52200300000001,-83.73736600000002,2021,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-883869,MI,Livingston,Brighton,Source2,3,42.526154,-83.756844,2021,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-918438,MI,Livingston,Howell,Source3,3,42.591331,-83.934929,2021,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-921500,MI,Livingston,Howell,Source2,3,42.610653000000006,-83.983131,2021,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-924194,MI,Livingston,Howell,Source2,3,42.578415,-83.875031,2021,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-929772,MI,Livingston,Howell,Source2,3,42.578415,-83.875031,2021,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-930005,MI,Livingston,Brighton,Source2,3,42.526154,-83.756844,2021,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-932275,MI,Livingston,Brighton,Source2,3,42.442818,-83.754021,2021,14,Thursday,Cloudy,False,False,True,False,False,False,False
+A-936222,MI,Livingston,Brighton,Source2,3,42.526154,-83.756844,2021,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-956014,MI,Livingston,Brighton,Source2,3,42.522491,-83.722466,2021,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-959728,MI,Livingston,Fowlerville,Source2,3,42.646309,-84.072754,2021,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-964610,MI,Livingston,Brighton,Source2,3,42.523193,-83.70141600000002,2021,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-965670,MI,Livingston,Brighton,Source2,3,42.522251,-83.744225,2021,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-977383,MI,Livingston,Howell,Source2,3,42.614464,-83.990997,2021,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-978825,MI,Livingston,Fowlerville,Source2,3,42.646587,-84.072784,2021,16,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-985362,MI,Livingston,Brighton,Source2,3,42.445694,-83.75264,2021,5,Tuesday,Rain,False,False,False,False,False,False,False
+A-997356,MI,Livingston,Brighton,Source2,3,42.466724,-83.755989,2021,12,Saturday,Rain,False,False,False,False,False,False,False
+A-997940,MI,Livingston,Brighton,Source2,3,42.44701,-83.75241899999997,2021,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1012539,MI,Livingston,Brighton,Source2,3,42.511261,-83.75814799999998,2021,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1016807,MI,Livingston,Whitmore Lake,Source2,3,42.46204,-83.826492,2021,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-1018542,MI,Livingston,Brighton,Source2,3,42.521488,-83.68923199999998,2021,13,Thursday,Cloudy,False,False,True,False,False,False,False
+A-1018543,MI,Livingston,Howell,Source2,3,42.591331,-83.934929,2021,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1021934,MI,Livingston,Brighton,Source2,3,42.633327,-83.749146,2021,13,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-1034010,MI,Livingston,Fowlerville,Source2,3,42.646587,-84.072784,2021,12,Sunday,Cloudy,False,False,True,False,False,False,False
+A-1034011,MI,Livingston,Howell,Source2,3,42.578415,-83.875031,2021,17,Sunday,Rain,False,False,False,False,False,False,False
+A-1035000,MI,Livingston,Howell,Source2,4,42.614464,-83.990997,2021,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1036779,MI,Livingston,Brighton,Source2,3,42.545223,-83.78514100000002,2021,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1049523,MI,Livingston,Brighton,Source2,3,42.521481,-83.68924,2021,7,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-1083832,MI,Livingston,Brighton,Source2,3,42.522583,-83.753502,2021,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1092545,MI,Livingston,Fowlerville,Source2,3,42.64653,-84.075539,2021,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1101511,MI,Livingston,Brighton,Source2,3,42.522949,-83.716904,2021,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1118582,MI,Livingston,Howell,Source2,3,42.614674,-83.990707,2021,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-1137117,MI,Livingston,Brighton,Source2,3,42.443089,-83.753853,2021,17,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1141556,MI,Livingston,Brighton,Source2,3,42.52219,-83.731026,2021,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1145366,MI,Livingston,Brighton,Source2,3,42.54825200000001,-83.790184,2021,7,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1158544,MI,Livingston,Howell,Source2,3,42.591331,-83.934929,2021,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1174037,MI,Livingston,Brighton,Source2,3,42.526211,-83.756889,2021,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1185297,MI,Livingston,Brighton,Source2,3,42.521412,-83.689262,2021,8,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-1190623,MI,Livingston,Brighton,Source2,3,42.526211,-83.756889,2021,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1190629,MI,Livingston,Brighton,Source2,3,42.547718,-83.788818,2021,21,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1211205,MI,Livingston,Brighton,Source2,3,42.520401,-83.687088,2020,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1212515,MI,Livingston,Brighton,Source2,3,42.522949,-83.716904,2020,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-1294395,MI,Livingston,Howell,Source2,3,42.578415,-83.875031,2020,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1294402,MI,Livingston,Howell,Source2,3,42.578415,-83.875031,2020,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1319494,MI,Livingston,Brighton,Source2,3,42.526211,-83.756889,2020,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1334875,MI,Livingston,Brighton,Source2,4,42.522949,-83.716904,2020,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1368607,MI,Livingston,Brighton,Source2,3,42.521412,-83.689262,2020,13,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-1376989,MI,Livingston,Brighton,Source2,3,42.547718,-83.788818,2020,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1377370,MI,Livingston,Brighton,Source2,3,42.526211,-83.756889,2020,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1380710,MI,Livingston,Brighton,Source2,3,42.521412,-83.689262,2020,17,Wednesday,Rain,False,False,True,False,False,False,False
+A-1380711,MI,Livingston,Howell,Source2,3,42.615093,-83.991814,2020,17,Wednesday,Rain,False,False,True,False,False,False,False
+A-1404825,MI,Livingston,Whitmore Lake,Source2,3,42.441193,-83.754997,2020,17,Thursday,Cloudy,False,False,True,False,False,False,False
+A-1421521,MI,Livingston,Brighton,Source2,3,42.500561,-83.757942,2020,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1427603,MI,Livingston,Brighton,Source2,3,42.520947,-83.688469,2020,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1432147,MI,Livingston,Whitmore Lake,Source2,3,42.442291,-83.75383000000002,2020,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1437478,MI,Livingston,Whitmore Lake,Source2,3,42.443005,-83.75457800000002,2020,6,Wednesday,Rain,False,False,False,False,False,False,False
+A-1450315,MI,Livingston,Brighton,Source3,3,42.521412,-83.689262,2020,17,Thursday,Cloudy,False,False,True,False,False,False,False
+A-1464688,MI,Livingston,Howell,Source2,3,42.578342,-83.85524000000002,2020,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1479551,MI,Livingston,Howell,Source2,3,42.578415,-83.875031,2020,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1482874,MI,Livingston,Fowlerville,Source2,3,42.646587,-84.072784,2020,16,Saturday,Cloudy,False,False,True,False,False,False,False
+A-1487021,MI,Livingston,Fowlerville,Source2,3,42.646587,-84.072784,2020,17,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-1488509,MI,Livingston,Brighton,Source2,3,42.547718,-83.788818,2020,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1492640,MI,Livingston,Brighton,Source2,3,42.547718,-83.788818,2020,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-1522930,MI,Livingston,Fowlerville,Source2,3,42.646587,-84.072784,2020,17,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-1534203,MI,Livingston,Brighton,Source2,3,42.54789,-83.78924599999998,2020,17,Thursday,Rain,False,False,False,False,False,False,False
+A-1546637,MI,Livingston,Howell,Source2,3,42.60878,-83.974777,2020,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1547883,MI,Livingston,Brighton,Source2,3,42.548264,-83.790199,2020,7,Tuesday,Rain,False,False,False,False,False,False,False
+A-1615113,MI,Livingston,Brighton,Source2,3,42.53228,-83.76619699999998,2020,10,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-1615115,MI,Livingston,Brighton,Source2,3,42.526218,-83.75692,2020,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1623551,MI,Livingston,Howell,Source2,3,42.591331,-83.934929,2020,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1631767,MI,Livingston,Howell,Source2,3,42.578342,-83.85524000000002,2020,6,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1631774,MI,Livingston,Howell,Source2,3,42.579029,-83.85629300000002,2020,8,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1660441,MI,Livingston,Howell,Source2,3,42.585522,-83.926559,2020,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1668120,MI,Livingston,Brighton,Source2,3,42.547718,-83.788818,2020,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1668124,MI,Livingston,Howell,Source2,4,42.578373,-83.875031,2020,14,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1668128,MI,Livingston,Brighton,Source2,3,42.526218,-83.75692,2020,15,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1684956,MI,Livingston,Brighton,Source2,3,42.547718,-83.788818,2019,15,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1687521,MI,Livingston,Howell,Source2,3,42.578415,-83.875031,2019,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-1707823,MI,Livingston,Howell,Source2,4,42.591827,-83.935982,2019,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1732320,MI,Livingston,Howell,Source2,3,42.591331,-83.934929,2019,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1744637,MI,Livingston,Brighton,Source2,3,42.466724,-83.755989,2019,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1803410,MI,Livingston,Brighton,Source2,3,42.547718,-83.788818,2019,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1803425,MI,Livingston,Howell,Source2,3,42.612598,-83.987091,2019,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1809855,MI,Livingston,Brighton,Source2,3,42.521412,-83.689262,2019,9,Sunday,Cloudy,False,False,True,False,False,False,False
+A-1810646,MI,Livingston,Brighton,Source2,3,42.524658,-83.749222,2019,13,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1810649,MI,Livingston,Howell,Source2,3,42.612919,-83.99056999999998,2019,14,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1810664,MI,Livingston,Brighton,Source2,3,42.526218,-83.75692,2019,16,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1819157,MI,Livingston,Whitmore Lake,Source2,3,42.443005,-83.75457800000002,2019,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1819192,MI,Livingston,Brighton,Source2,3,42.547718,-83.788818,2019,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1819194,MI,Livingston,Howell,Source2,3,42.578415,-83.875031,2019,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1822101,MI,Livingston,Howell,Source2,3,42.614674,-83.990707,2019,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1826612,MI,Livingston,Howell,Source2,3,42.614361,-83.99033399999998,2019,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-1831729,MI,Livingston,Fenton,Source2,3,42.737061,-83.763962,2019,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1834526,MI,Livingston,Brighton,Source2,3,42.522949,-83.716904,2019,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1834553,MI,Livingston,Howell,Source2,3,42.591331,-83.934929,2019,16,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1873249,MI,Livingston,Fowlerville,Source2,3,42.646587,-84.072784,2019,15,Monday,Cloudy,False,False,True,False,False,False,False
+A-1875640,MI,Livingston,Brighton,Source2,3,42.525829,-83.756638,2019,6,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-1878121,MI,Livingston,Brighton,Source2,3,42.526218,-83.75692,2019,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1878126,MI,Livingston,Brighton,Source2,3,42.521412,-83.689262,2019,7,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-1878145,MI,Livingston,Howell,Source2,3,42.578415,-83.875031,2019,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1882623,MI,Livingston,Brighton,Source2,3,42.522949,-83.716904,2019,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-1882624,MI,Livingston,Howell,Source3,3,42.591331,-83.934929,2019,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1885677,MI,Livingston,Howell,Source2,3,42.578415,-83.875031,2019,17,Sunday,Rain,False,False,False,False,False,False,False
+A-1888956,MI,Livingston,Brighton,Source2,3,42.526218,-83.75692,2019,7,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1893596,MI,Livingston,Howell,Source2,3,42.578415,-83.875031,2019,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1907345,MI,Livingston,Brighton,Source2,3,42.547718,-83.788818,2019,7,Thursday,Rain,False,False,False,False,False,False,False
+A-1907351,MI,Livingston,Brighton,Source2,3,42.526218,-83.75692,2019,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1909877,MI,Livingston,Brighton,Source2,3,42.526218,-83.75692,2019,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-1946491,MI,Livingston,Howell,Source2,3,42.578415,-83.875031,2019,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1948640,MI,Livingston,Brighton,Source2,3,42.522949,-83.716904,2019,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1954981,MI,Livingston,Howell,Source2,3,42.578415,-83.875031,2019,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-1965575,MI,Livingston,Howell,Source2,3,42.614674,-83.990707,2019,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1971478,MI,Livingston,Fenton,Source2,3,42.676498,-83.760086,2019,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1981837,MI,Livingston,Howell,Source2,3,42.591331,-83.934929,2019,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2010963,MI,Livingston,Brighton,Source2,3,42.526218,-83.75692,2019,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2015451,MI,Livingston,Brighton,Source2,3,42.522949,-83.716904,2019,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2016861,MI,Livingston,Brighton,Source2,3,42.526218,-83.75692,2019,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2038099,MI,Livingston,Fenton,Source2,3,42.676498,-83.760086,2019,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2074825,MI,Livingston,Brighton,Source2,3,42.466724,-83.755989,2019,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2079545,MI,Livingston,Brighton,Source2,3,42.547718,-83.788818,2019,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2100127,MI,Livingston,Howell,Source2,3,42.578415,-83.875031,2019,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2100128,MI,Livingston,Fowlerville,Source2,3,42.646587,-84.072784,2019,13,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-2111532,MI,Livingston,Brighton,Source2,3,42.526218,-83.75692,2019,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-2123243,MI,Livingston,Brighton,Source2,3,42.521412,-83.689262,2019,16,Saturday,Cloudy,False,False,True,False,False,False,False
+A-2123246,MI,Livingston,Brighton,Source2,3,42.526218,-83.75692,2019,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2142220,MI,Livingston,Brighton,Source2,3,42.54756500000001,-83.78864300000002,2019,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2144641,MI,Livingston,Brighton,Source2,3,42.526474,-83.75729399999999,2019,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2171885,MI,Livingston,Brighton,Source2,3,42.526218,-83.75692,2019,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2200659,MI,Livingston,Brighton,Source2,3,42.522633,-83.717476,2019,10,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2203123,MI,Livingston,Brighton,Source2,3,42.54756500000001,-83.78864300000002,2019,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2205704,MI,Livingston,Brighton,Source3,3,42.521374,-83.689301,2019,7,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-2260876,MI,Livingston,Brighton,Source2,3,42.54756500000001,-83.78864300000002,2019,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2287128,MI,Livingston,Brighton,Source2,3,42.522633,-83.717476,2019,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-2291049,MI,Livingston,Howell,Source2,3,42.578663,-83.874191,2019,8,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2325743,MI,Livingston,Brighton,Source2,3,42.54756500000001,-83.78864300000002,2019,10,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2381480,MI,Livingston,Brighton,Source2,3,42.54756500000001,-83.78864300000002,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2381507,MI,Livingston,Howell,Source2,3,42.578663,-83.874191,2018,13,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2381524,MI,Livingston,Fowlerville,Source2,3,42.646503,-84.072289,2018,20,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2387079,MI,Livingston,Brighton,Source2,3,42.524338,-83.755936,2018,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-2427260,MI,Livingston,Brighton,Source2,3,42.522438,-83.692902,2018,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-2447797,MI,Livingston,Brighton,Source3,3,42.521484,-83.68915600000003,2018,14,Saturday,Snow / Ice,False,False,True,False,False,False,False
+A-2457924,MI,Livingston,Brighton,Source2,3,42.547657,-83.789322,2018,15,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2457925,MI,Livingston,Brighton,Source2,3,42.548092,-83.789574,2018,15,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2463790,MI,Livingston,Brighton,Source2,3,42.532246,-83.76621999999998,2018,14,Saturday,Cloudy,False,False,True,False,False,False,False
+A-2477664,MI,Livingston,Howell,Source2,3,42.61552,-83.991905,2018,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2484001,MI,Livingston,Howell,Source2,3,42.578876,-83.874191,2018,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2502550,MI,Livingston,Brighton,Source2,3,42.548092,-83.789574,2018,10,Saturday,Rain,False,False,False,False,False,False,False
+A-2539222,MI,Livingston,Howell,Source2,3,42.578876,-83.874191,2018,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2539237,MI,Livingston,Brighton,Source2,3,42.522575,-83.720078,2018,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2549678,MI,Livingston,Brighton,Source2,3,42.532246,-83.76621999999998,2018,8,Monday,Cloudy,False,False,True,False,False,False,False
+A-2566241,MI,Livingston,Fowlerville,Source2,3,42.646561,-84.072601,2018,6,Thursday,Rain,False,False,False,False,False,False,False
+A-2578523,MI,Livingston,Brighton,Source2,3,42.554539,-83.817451,2018,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2592835,MI,Livingston,Brighton,Source2,3,42.521484,-83.68915600000003,2018,7,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-2604653,MI,Livingston,Brighton,Source2,3,42.548092,-83.789574,2018,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2615500,MI,Livingston,Fowlerville,Source2,3,42.651764,-84.136688,2018,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2618657,MI,Livingston,Brighton,Source2,3,42.523502,-83.752724,2018,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2635174,MI,Livingston,Brighton,Source2,3,42.548092,-83.789574,2018,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2637664,MI,Livingston,Brighton,Source2,3,42.563412,-83.833603,2018,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-2654977,MI,Livingston,Brighton,Source2,3,42.548092,-83.789574,2018,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2655801,MI,Livingston,Brighton,Source2,3,42.523502,-83.752724,2018,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-2665634,MI,Livingston,Brighton,Source2,3,42.523502,-83.752724,2018,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2669482,MI,Livingston,Brighton,Source2,3,42.521484,-83.68915600000003,2018,6,Monday,Cloudy,False,False,True,False,False,False,False
+A-2671981,MI,Livingston,Fowlerville,Source2,3,42.646561,-84.072601,2018,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2674539,MI,Livingston,Brighton,Source2,3,42.532246,-83.76621999999998,2018,8,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-2677159,MI,Livingston,Brighton,Source2,3,42.521484,-83.68915600000003,2018,7,Thursday,Cloudy,False,False,True,False,False,False,False
+A-2692790,MI,Livingston,Brighton,Source2,3,42.521484,-83.68915600000003,2018,11,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-2695060,MI,Livingston,Brighton,Source2,3,42.521484,-83.68915600000003,2018,8,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-2699612,MI,Livingston,Howell,Source2,3,42.613907,-83.989243,2018,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2704789,MI,Livingston,Brighton,Source2,3,42.532246,-83.76621999999998,2018,10,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-2751649,MI,Livingston,Brighton,Source2,3,42.522575,-83.720078,2018,13,Saturday,Rain,False,False,False,False,False,False,False
+A-2751651,MI,Livingston,Brighton,Source2,3,42.521484,-83.68915600000003,2018,14,Saturday,Rain,False,False,True,False,False,False,False
+A-2751653,MI,Livingston,Brighton,Source2,3,42.521484,-83.68915600000003,2018,15,Saturday,Rain,False,False,True,False,False,False,False
+A-2760339,MI,Livingston,Brighton,Source2,3,42.532246,-83.76621999999998,2018,7,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-2802475,MI,Livingston,Brighton,Source2,3,42.521484,-83.68915600000003,2018,10,Friday,Cloudy,False,False,True,False,False,False,False
+A-2816793,MI,Livingston,Brighton,Source2,3,42.521484,-83.68915600000003,2018,12,Friday,Rain,False,False,True,False,False,False,False
+A-2819575,MI,Livingston,Brighton,Source2,3,42.548092,-83.789574,2018,13,Saturday,Rain,False,False,False,False,False,False,False
+A-2846421,MI,Livingston,Brighton,Source2,3,42.521484,-83.68915600000003,2018,8,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-2846429,MI,Livingston,Brighton,Source3,3,42.521484,-83.68915600000003,2018,9,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-2846456,MI,Livingston,Brighton,Source2,3,42.466995,-83.75601999999998,2018,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2854706,MI,Livingston,Howell,Source2,3,42.590813,-83.934227,2018,15,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-2872435,MI,Livingston,Howell,Source2,3,42.578876,-83.874191,2018,19,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2889539,MI,Livingston,Howell,Source2,3,42.579052,-83.856438,2018,7,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2919337,MI,Livingston,Howell,Source2,3,42.61552,-83.991905,2018,8,Thursday,Rain,False,False,False,False,False,False,False
+A-2967732,MI,Livingston,Howell,Source2,3,42.590813,-83.934227,2018,10,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-3010627,MI,Livingston,Howell,Source2,3,42.578876,-83.874191,2018,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3056960,MI,Livingston,Brighton,Source2,3,42.521484,-83.68915600000003,2018,16,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-3091037,MI,Livingston,Fowlerville,Source2,3,42.660645,-84.073174,2018,17,Sunday,Cloudy,True,False,False,False,False,False,False
+A-3091620,MI,Livingston,Howell,Source2,3,42.61552,-83.991905,2018,7,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-3103102,MI,Livingston,Fowlerville,Source2,3,42.646561,-84.072601,2017,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3118371,MI,Livingston,Brighton,Source2,3,42.521484,-83.68915600000003,2017,6,Monday,Cloudy,False,False,True,False,False,False,False
+A-3121741,MI,Livingston,Brighton,Source2,3,42.546562,-83.787674,2017,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3130666,MI,Livingston,Fowlerville,Source2,3,42.646561,-84.072601,2017,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-3149942,MI,Livingston,Brighton,Source2,3,42.521484,-83.68915600000003,2017,6,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-3155022,MI,Livingston,Brighton,Source2,3,42.521484,-83.68915600000003,2017,8,Friday,Cloudy,False,False,True,False,False,False,False
+A-3227832,MI,Livingston,Fowlerville,Source3,3,42.646561,-84.072601,2017,8,Friday,Rain,False,False,False,False,False,False,False
+A-3227871,MI,Livingston,Howell,Source2,3,42.578876,-83.874191,2017,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-3227872,MI,Livingston,Brighton,Source2,3,42.521484,-83.68915600000003,2017,18,Friday,Cloudy,False,False,True,False,False,False,False
+A-3245156,MI,Livingston,Brighton,Source2,3,42.521484,-83.68915600000003,2017,8,Saturday,Rain,False,False,True,False,False,False,False
+A-3245157,MI,Livingston,Howell,Source2,3,42.61552,-83.991905,2017,9,Saturday,Rain,False,False,False,False,False,False,False
+A-3251544,MI,Livingston,Howell,Source2,3,42.578876,-83.874191,2017,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3251559,MI,Livingston,Brighton,Source2,3,42.548092,-83.789574,2017,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3303699,MI,Livingston,Brighton,Source2,3,42.521484,-83.68915600000003,2017,7,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-3335503,MI,Livingston,Brighton,Source2,3,42.522575,-83.720078,2017,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3397833,MI,Livingston,Brighton,Source2,3,42.548092,-83.789574,2017,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3407240,MI,Livingston,Brighton,Source2,3,42.523071,-83.69903599999998,2017,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3407279,MI,Livingston,Brighton,Source2,3,42.548092,-83.789574,2017,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3447929,MI,Livingston,Fowlerville,Source1,4,42.646569,-84.0724,2016,10,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3447971,MI,Livingston,Fenton,Source1,3,42.67987,-83.76024,2016,11,Thursday,Cloudy,False,False,True,False,False,False,False
+A-3447985,MI,Livingston,Fenton,Source1,3,42.673485,-83.759534,2016,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3447986,MI,Livingston,Fenton,Source1,3,42.67987,-83.76024,2016,12,Thursday,Cloudy,False,False,True,False,False,False,False
+A-3451640,MI,Livingston,Brighton,Source1,3,42.55082,-83.7955,2016,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3465153,MI,Livingston,Brighton,Source1,3,42.52236,-83.72006999999998,2016,6,Thursday,Rain,False,False,False,False,False,False,False
+A-3476798,MI,Livingston,Brighton,Source1,4,42.53227,-83.76619000000002,2016,5,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-3477891,MI,Livingston,Fenton,Source1,4,42.680093,-83.75990999999998,2016,3,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3495617,MI,Livingston,Brighton,Source1,4,42.524823,-83.758434,2016,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3498533,MI,Livingston,Fowlerville,Source1,4,42.64637000000001,-84.07155,2016,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3506868,MI,Livingston,Howell,Source1,3,42.61219000000001,-83.98624000000002,2016,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3506884,MI,Livingston,Howell,Source1,4,42.59123,-83.93482,2016,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3561598,MI,Livingston,Brighton,Source1,3,42.524787,-83.758326,2017,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3572255,MI,Livingston,Fenton,Source1,4,42.680937,-83.75995,2017,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3572280,MI,Livingston,Whitmore Lake,Source1,4,42.42998400000001,-83.765896,2017,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3578710,MI,Livingston,Brighton,Source1,4,42.509576,-83.758347,2017,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3585663,MI,Livingston,Brighton,Source1,4,42.530497,-83.76482299999998,2017,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3597065,MI,Livingston,Brighton,Source1,3,42.50548,-83.75791,2017,10,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-3601927,MI,Livingston,Brighton,Source1,4,42.50903,-83.75833,2017,15,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-3614672,MI,Livingston,Brighton,Source1,3,42.55082,-83.7955,2017,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3614764,MI,Livingston,Brighton,Source1,3,42.537893,-83.770623,2017,16,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3628328,MI,Livingston,Brighton,Source1,3,42.52252,-83.71522,2017,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3634964,MI,Livingston,Brighton,Source1,4,42.549148,-83.791535,2017,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3643553,MI,Livingston,Howell,Source1,3,42.6126,-83.98709000000002,2017,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3690236,MI,Livingston,Brighton,Source1,4,42.552552,-83.747924,2023,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3697690,MI,Livingston,Pinckney,Source1,4,42.463868,-83.849488,2023,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-3787122,MI,Livingston,Howell,Source1,4,42.603517,-83.951593,2022,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3808130,MI,Livingston,Brighton,Source1,4,42.522228956019774,-83.7440264221013,2022,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-3811818,MI,Livingston,Brighton,Source1,4,42.47015118578687,-83.75582814176674,2022,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3816932,MI,Livingston,Howell,Source1,4,42.630364,-83.847656,2022,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3861349,MI,Livingston,Howell,Source1,4,42.583953,-83.904554,2022,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3913910,MI,Livingston,Brighton,Source1,4,42.550848,-83.795733,2022,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3913911,MI,Livingston,Brighton,Source1,4,42.546929,-83.78823100000002,2022,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3925144,MI,Livingston,Whitmore Lake,Source1,4,42.435692,-83.75912199999998,2022,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4022785,MI,Livingston,Brighton,Source1,4,42.46382117251175,-83.75580668409462,2022,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4033278,MI,Livingston,Fowlerville,Source1,4,42.647934,-84.10592,2022,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4046532,MI,Livingston,Brighton,Source1,4,42.509173,-83.758326,2022,21,Monday,Cloudy,False,False,True,False,False,False,False
+A-4061529,MI,Livingston,Fowlerville,Source1,4,42.646314,-84.072384,2022,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4093589,MI,Livingston,Fowlerville,Source1,4,42.646314,-84.072384,2022,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4175753,MI,Livingston,Brighton,Source1,4,42.58227700000001,-83.737702,2022,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4189703,MI,Livingston,Brighton,Source1,4,42.470007,-83.75619300000002,2022,0,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4197913,MI,Livingston,Brighton,Source1,4,42.5480639932511,-83.78951668699365,2022,14,Tuesday,Rain,False,False,False,False,False,False,False
+A-4217140,MI,Livingston,Brighton,Source1,4,42.505507,-83.758166,2022,13,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-4234788,MI,Livingston,Hartland,Source1,4,42.638272,-83.751288,2022,20,Sunday,Cloudy,False,False,True,False,False,False,False
+A-4264265,MI,Livingston,Brighton,Source1,4,42.51954674700489,-83.68495345075756,2022,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-4299617,MI,Livingston,Brighton,Source1,4,42.470007,-83.75619300000002,2022,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4342947,MI,Livingston,Brighton,Source1,4,42.522759,-83.753206,2022,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4376565,MI,Livingston,Brighton,Source1,4,42.495171,-83.75771,2022,23,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4385186,MI,Livingston,Brighton,Source1,4,42.582264,-83.738058,2022,19,Tuesday,Rain,False,False,False,False,False,False,False
+A-4456702,MI,Livingston,Fenton,Source1,4,42.67344117144263,-83.75951886137123,2022,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4484331,MI,Livingston,Brighton,Source1,4,42.628337144648405,-83.74859690626262,2022,20,Saturday,Snow / Ice,False,False,True,False,False,False,False
+A-4529171,MI,Livingston,Brighton,Source1,4,42.54497408846594,-83.78400206525906,2022,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4533576,MI,Livingston,Fowlerville,Source1,4,42.6465761659496,-84.07239317853893,2022,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4654557,MI,Livingston,Brighton,Source1,4,42.447234391963725,-83.75243782957193,2022,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4672245,MI,Livingston,Brighton,Source1,4,42.509379,-83.758093,2022,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4689375,MI,Livingston,Whitmore Lake,Source1,4,42.44120478609828,-83.75499129255411,2022,17,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-4702427,MI,Livingston,Howell,Source1,4,42.63049,-83.83636700000002,2022,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4732428,MI,Livingston,Brighton,Source1,4,42.44317889193324,-83.75378966291545,2022,15,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-4749351,MI,Livingston,Pinckney,Source1,4,42.464175,-83.851066,2023,16,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-4770662,MI,Livingston,Brighton,Source1,4,42.628781,-83.748977,2022,7,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4836938,MI,Livingston,Whitmore Lake,Source1,4,42.432434,-83.763464,2022,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4840909,MI,Livingston,Brighton,Source1,4,42.480067,-83.755569,2022,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4875297,MI,Livingston,Brighton,Source1,4,42.495171,-83.75771,2022,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4933100,MI,Livingston,Whitmore Lake,Source1,4,42.45248,-83.786153,2022,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4955754,MI,Livingston,Howell,Source1,4,42.6114,-83.985422,2022,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4991921,MI,Livingston,Hartland,Source1,4,42.638272,-83.751288,2022,20,Sunday,Cloudy,False,False,True,False,False,False,False
+A-4996242,MI,Livingston,Brighton,Source1,4,42.522267,-83.73903299999998,2022,22,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5013564,MI,Livingston,Fenton,Source1,4,42.66066,-83.759213,2022,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5019373,MI,Livingston,Brighton,Source1,4,42.522759,-83.753206,2022,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-5031618,MI,Livingston,Fowlerville,Source1,4,42.6465761659496,-84.07239317853893,2022,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5069224,MI,Livingston,Fenton,Source1,4,42.773064,-83.74927199999998,2023,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-5195504,MI,Livingston,Brighton,Source1,4,42.52791524,-83.76308083,2022,22,Saturday,Cloudy,False,False,True,False,False,False,False
+A-5202230,MI,Livingston,Howell,Source1,4,42.61490464190189,-83.99160504301075,2022,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5204268,MI,Livingston,Fenton,Source1,4,42.693066,-83.76079399999998,2022,20,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-5274763,MI,Livingston,Howell,Source1,4,42.58879065,-83.93506408,2022,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5315707,MI,Livingston,Brighton,Source1,4,42.534807,-83.75114599999998,2022,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5461602,MI,Livingston,Whitmore Lake,Source1,4,42.44120478609828,-83.75499129255411,2022,17,Friday,Cloudy,False,False,True,False,False,False,False
+A-5592967,MI,Livingston,Howell,Source1,4,42.611958,-83.98677099999998,2021,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5629493,MI,Livingston,Fenton,Source1,4,42.709919214045,-83.76241564710729,2021,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5691929,MI,Livingston,Fenton,Source1,4,42.74071097353581,-83.76393914182773,2021,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5832951,MI,Livingston,Brighton,Source1,4,42.532052,-83.766376,2021,18,Thursday,Cloudy,False,False,True,False,False,False,False
+A-5907848,MI,Livingston,Howell,Source1,4,42.578083276545634,-83.85384678800655,2021,19,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5937087,MI,Livingston,Brighton,Source1,4,42.50519156435725,-83.75788807829018,2021,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-6056050,MI,Livingston,Howell,Source1,4,42.63020396212277,-83.8559496398742,2021,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6083220,MI,Livingston,Brighton,Source1,4,42.52327800000001,-83.75667800000002,2021,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6095849,MI,Livingston,Howell,Source1,4,42.579241990840046,-83.8653266425902,2021,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6127478,MI,Livingston,Howell,Source1,4,42.584366,-83.91425500000003,2021,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6145210,MI,Livingston,Fenton,Source1,4,42.670544,-83.759738,2021,16,Saturday,Rain,False,False,False,False,False,False,False
+A-6277684,MI,Livingston,Howell,Source1,4,42.62994647005734,-83.8657772537047,2021,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6298177,MI,Livingston,Fowlerville,Source1,4,42.65053,-84.123329,2021,4,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6394424,MI,Livingston,Brighton,Source1,4,42.50519156435725,-83.75788807829018,2021,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-6398177,MI,Livingston,Brighton,Source1,4,42.628337,-83.74859599999998,2021,7,Saturday,Cloudy,False,False,True,False,False,False,False
+A-6611573,MI,Livingston,Brighton,Source1,4,42.443178,-83.753789,2020,3,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-6627817,MI,Livingston,Hartland,Source1,4,42.638272,-83.751279,2020,14,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-6644235,MI,Livingston,Fenton,Source1,4,42.709919,-83.762415,2020,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6688807,MI,Livingston,Fowlerville,Source1,4,42.646833,-84.056793,2020,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6700489,MI,Livingston,Brighton,Source1,4,42.530018,-83.753982,2020,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6732626,MI,Livingston,Brighton,Source1,4,42.525576,-83.756085,2020,14,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-6740305,MI,Livingston,Brighton,Source1,4,42.538236,-83.749562,2020,3,Friday,Cloudy,False,False,False,False,False,False,False
+A-6778254,MI,Livingston,Brighton,Source1,4,42.442892,-83.754132,2020,12,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-6784567,MI,Livingston,Whitmore Lake,Source1,4,42.440968,-83.75511999999998,2020,22,Friday,Cloudy,False,False,True,False,False,False,False
+A-6820120,MI,Livingston,Brighton,Source1,4,42.591527,-83.740155,2020,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6843054,MI,Livingston,Brighton,Source1,4,42.52222800000001,-83.744026,2020,1,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6941295,MI,Livingston,Brighton,Source1,4,42.443178,-83.753789,2020,3,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7054300,MI,Livingston,Brighton,Source1,3,42.44701,-83.75242,2020,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7054324,MI,Livingston,Fenton,Source1,3,42.73364,-83.76392,2020,18,Wednesday,Rain,False,False,False,False,False,False,False
+A-7064212,MI,Livingston,Fenton,Source1,4,42.73365,-83.76358,2020,4,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7098772,MI,Livingston,Whitmore Lake,Source1,3,42.44102,-83.7551,2020,15,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7121735,MI,Livingston,Brighton,Source1,3,42.53227,-83.76619000000002,2020,17,Thursday,Rain,False,False,True,False,False,False,False
+A-7121738,MI,Livingston,Brighton,Source1,3,42.52978,-83.76427,2020,17,Thursday,Rain,False,False,False,False,False,False,False
+A-7249832,MI,Livingston,Fenton,Source1,4,42.67705,-83.75973,2020,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7276220,MI,Livingston,Brighton,Source1,3,42.52311,-83.74684,2020,19,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-7285308,MI,Livingston,Brighton,Source1,4,42.50432,-83.75813000000002,2019,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7285311,MI,Livingston,Brighton,Source1,4,42.50892,-83.75832,2019,12,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7285313,MI,Livingston,Brighton,Source1,4,42.46355,-83.75534,2019,13,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7285314,MI,Livingston,Brighton,Source1,4,42.49516,-83.75771,2019,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7285316,MI,Livingston,Brighton,Source1,4,42.46773,-83.75598000000002,2019,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7285318,MI,Livingston,Brighton,Source1,4,42.50432,-83.75813000000002,2019,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7308712,MI,Livingston,Howell,Source1,3,42.61472,-83.99134000000002,2019,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7312150,MI,Livingston,Fenton,Source1,4,42.67987,-83.76024,2019,13,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7312151,MI,Livingston,Hartland,Source1,4,42.63807,-83.75119000000002,2019,13,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7342315,MI,Livingston,Brighton,Source1,4,42.62833,-83.74861999999997,2019,9,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7342319,MI,Livingston,Brighton,Source1,4,42.62833,-83.74861999999997,2019,7,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7347954,MI,Livingston,Howell,Source1,4,42.6126,-83.98709000000002,2019,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7370983,MI,Livingston,Brighton,Source1,4,42.50646,-83.75795,2019,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7374010,MI,Livingston,Howell,Source1,4,42.6126,-83.98709000000002,2019,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7377521,MI,Livingston,Brighton,Source1,4,42.52311,-83.74684,2019,16,Monday,Snow / Ice,False,False,True,False,False,False,False
+A-7377528,MI,Livingston,Howell,Source1,4,42.6128,-83.9923,2019,16,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-7377529,MI,Livingston,Howell,Source1,4,42.61472,-83.99134000000002,2019,16,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-7395817,MI,Livingston,Brighton,Source1,4,42.52306,-83.75301999999998,2019,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7398580,MI,Livingston,Howell,Source1,4,42.61472,-83.99134000000002,2019,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7398581,MI,Livingston,Howell,Source1,4,42.6128,-83.9923,2019,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7422569,MI,Livingston,Brighton,Source1,3,42.52276,-83.71427,2019,11,Tuesday,Snow / Ice,False,False,True,False,False,False,False
+A-7430737,MI,Livingston,Brighton,Source1,4,42.522651,-83.753279,2019,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7430739,MI,Livingston,Brighton,Source1,4,42.52138,-83.75406,2019,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7437164,MI,Livingston,Brighton,Source1,4,42.52276,-83.71427,2019,4,Sunday,Cloudy,False,False,True,False,False,False,False
+A-7450142,MI,Livingston,Brighton,Source1,4,42.530375,-83.75202900000002,2019,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7450143,MI,Livingston,Brighton,Source1,4,42.530375,-83.75202900000002,2019,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7450146,MI,Livingston,Brighton,Source1,4,42.522651,-83.753279,2019,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7459863,MI,Livingston,Brighton,Source1,3,42.54516,-83.7843,2019,10,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7477025,MI,Livingston,Fenton,Source1,4,42.73931,-83.76427,2018,22,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7498886,MI,Livingston,Brighton,Source1,3,42.626935,-83.74895,2018,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-7517214,MI,Livingston,Brighton,Source1,4,42.52024,-83.7548,2018,12,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7524213,MI,Livingston,Brighton,Source1,3,42.540202,-83.773505,2018,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7524225,MI,Livingston,Howell,Source1,3,42.578785,-83.865012,2018,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7528048,MI,Livingston,Brighton,Source1,3,42.4698,-83.75622,2018,13,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7530187,MI,Livingston,Brighton,Source1,4,42.5221,-83.74074,2018,19,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7534428,MI,Livingston,Brighton,Source1,3,42.53584,-83.76932,2018,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7534432,MI,Livingston,Howell,Source1,3,42.578139,-83.88148100000002,2018,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7539573,MI,Livingston,Fowlerville,Source1,4,42.64658,-84.082148,2018,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7540000,MI,Livingston,Brighton,Source1,3,42.52024,-83.7548,2018,15,Monday,Cloudy,False,False,True,False,False,False,False
+A-7543602,MI,Livingston,Howell,Source1,4,42.617083,-83.993627,2018,16,Wednesday,Rain,False,False,False,False,False,False,False
+A-7549402,MI,Livingston,Fowlerville,Source1,4,42.64653,-84.07516,2018,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-7549403,MI,Livingston,Fowlerville,Source1,4,42.65107800000001,-84.123173,2018,11,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7549892,MI,Livingston,Howell,Source1,3,42.62257,-83.89785,2018,21,Saturday,Cloudy,True,False,False,False,False,False,False
+A-7549893,MI,Livingston,Howell,Source1,3,42.62257,-83.89785,2018,21,Saturday,Cloudy,True,False,False,False,False,False,False
+A-7550290,MI,Livingston,Brighton,Source1,3,42.53584,-83.76932,2018,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-7557975,MI,Livingston,Brighton,Source1,3,42.52159,-83.6895,2018,12,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7566275,MI,Livingston,Howell,Source1,3,42.59307,-83.9376,2018,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7569673,MI,Livingston,Brighton,Source1,3,42.52276,-83.71427,2018,13,Saturday,Rain,False,False,True,False,False,False,False
+A-7570675,MI,Livingston,Brighton,Source1,3,42.44272,-83.75424,2018,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7587075,MI,Livingston,Brighton,Source1,4,42.46992,-83.7562,2018,8,Sunday,Cloudy,False,False,True,False,False,False,False
+A-7591403,MI,Livingston,Brighton,Source1,3,42.53584,-83.76932,2018,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-7599831,MI,Livingston,Howell,Source1,4,42.632,-83.77741,2018,7,Thursday,Rain,False,False,False,False,False,False,False
+A-7599832,MI,Livingston,Howell,Source1,4,42.631739,-83.78475,2018,7,Thursday,Rain,False,False,False,False,False,False,False
+A-7607509,MI,Livingston,Brighton,Source1,4,42.506765,-83.757965,2018,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7614830,MI,Livingston,Brighton,Source1,3,42.4466,-83.75282,2018,16,Monday,Cloudy,False,False,True,False,False,False,False
+A-7617408,MI,Livingston,Whitmore Lake,Source1,4,42.430547,-83.76565699999998,2018,10,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-7617436,MI,Livingston,Fowlerville,Source1,4,42.647191,-84.05672,2018,16,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-7623344,MI,Livingston,Fowlerville,Source1,4,42.646361,-84.071735,2018,10,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7641850,MI,Livingston,Howell,Source1,4,42.6126,-83.98709000000002,2017,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7643881,MI,Livingston,Fenton,Source1,4,42.737099,-83.76414,2017,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7646396,MI,Livingston,Brighton,Source1,4,42.4466,-83.75282,2017,7,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7649189,MI,Livingston,Howell,Source1,3,42.57866,-83.867947,2017,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-7654765,MI,Livingston,Brighton,Source1,3,42.52988,-83.75407,2017,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7662875,MI,Livingston,Fowlerville,Source1,4,42.64661,-84.0669,2017,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7671056,MI,Livingston,Howell,Source1,4,42.57805,-83.85377,2017,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-7672749,MI,Livingston,Howell,Source1,3,42.583894,-83.903971,2017,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7683499,MI,Livingston,Howell,Source1,4,42.6128,-83.9923,2017,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7683500,MI,Livingston,Howell,Source1,4,42.61472,-83.99134000000002,2017,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7687453,MI,Livingston,Brighton,Source1,3,42.522102,-83.740782,2017,16,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7689025,MI,Livingston,Brighton,Source1,3,42.52159,-83.6895,2017,12,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7689028,MI,Livingston,Brighton,Source1,3,42.52106,-83.68875,2017,13,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7715320,MI,Livingston,Howell,Source1,4,42.61472,-83.99134000000002,2019,0,Sunday,Rain,False,False,False,False,False,False,False
+A-7715491,MI,Livingston,Howell,Source1,4,42.61472,-83.99134000000002,2019,4,Sunday,Rain,False,False,False,False,False,False,False
+A-7724190,MI,Livingston,Whitmore Lake,Source1,3,42.44102,-83.7551,2019,19,Friday,Cloudy,False,False,True,False,False,False,False
+A-7727978,MI,Livingston,Brighton,Source1,3,42.52024,-83.7548,2019,13,Sunday,Rain,False,False,True,False,False,False,False
+A-7735486,MI,Livingston,Brighton,Source1,4,42.52106,-83.68875,2019,16,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-7735487,MI,Livingston,Brighton,Source1,4,42.52106,-83.68875,2019,15,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-7735488,MI,Livingston,Brighton,Source1,4,42.522232,-83.74373100000003,2019,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7743754,MI,Livingston,Whitmore Lake,Source1,3,42.441801,-83.754631,2019,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7745235,MI,Livingston,Brighton,Source1,3,42.53584,-83.76932,2019,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7748321,MI,Livingston,Fenton,Source1,4,42.736482,-83.764099,2019,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7751242,MI,Livingston,Brighton,Source1,4,42.52699000000001,-83.7555,2019,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-7751254,MI,Livingston,Brighton,Source1,4,42.5255,-83.75612,2019,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7751255,MI,Livingston,Brighton,Source1,4,42.52699000000001,-83.7555,2019,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7755512,MI,Livingston,Howell,Source1,3,42.578139,-83.88148100000002,2019,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-7759339,MI,Livingston,Brighton,Source1,4,42.5255,-83.75612,2019,0,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7759340,MI,Livingston,Brighton,Source1,4,42.52988,-83.75407,2019,0,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7759341,MI,Livingston,Brighton,Source1,4,42.52569,-83.75511999999998,2019,0,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7759342,MI,Livingston,Brighton,Source1,4,42.52239,-83.744244,2019,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7760309,MI,Livingston,Brighton,Source1,3,42.46355,-83.75534,2019,15,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7760332,MI,Livingston,Whitmore Lake,Source1,4,42.433152,-83.762567,2019,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7762550,MI,Livingston,Howell,Source1,3,42.59307,-83.9376,2019,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7772045,MI,Livingston,Brighton,Source1,3,42.52231,-83.74074,2019,17,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7776834,MI,Livingston,Brighton,Source1,3,42.442802,-83.754029,2019,19,Thursday,Cloudy,False,False,False,False,False,False,False

@@ -1,0 +1,679 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-1354,CA,Marin,San Quentin,Source2,3,37.944809,-122.48558,2016,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2600,CA,Marin,San Quentin,Source2,3,37.943432,-122.480415,2016,7,Saturday,Clear / Fair,False,True,False,True,False,False,False
+A-3613,CA,Marin,San Rafael,Source2,3,37.96146,-122.507957,2016,0,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-4106,CA,Marin,San Rafael,Source2,3,38.007011,-122.541573,2016,11,Monday,Clear / Fair,False,False,False,False,False,True,False
+A-4224,CA,Marin,San Quentin,Source2,3,37.943432,-122.480415,2016,8,Tuesday,Clear / Fair,False,True,False,True,False,False,False
+A-4752,CA,Marin,San Rafael,Source2,3,37.963692,-122.511826,2016,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4877,CA,Marin,San Quentin,Source2,3,37.943432,-122.480415,2016,21,Saturday,Clear / Fair,False,True,False,True,False,False,False
+A-5312,CA,Marin,San Rafael,Source2,3,37.942604,-122.477715,2016,9,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-6086,CA,Marin,San Rafael,Source2,3,37.962135,-122.51001,2016,20,Wednesday,Rain,False,False,False,False,False,False,False
+A-6460,CA,Marin,San Rafael,Source2,3,37.942604,-122.477715,2016,9,Friday,Cloudy,False,False,True,False,False,False,False
+A-6711,CA,Marin,Sausalito,Source2,3,37.833736,-122.483055,2016,16,Saturday,Rain,False,False,True,False,False,False,False
+A-7237,CA,Marin,Novato,Source2,3,38.070591,-122.539421,2016,12,Thursday,Rain,False,False,True,False,False,False,False
+A-8055,CA,Marin,San Rafael,Source2,3,37.976868,-122.52071399999998,2016,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-9438,CA,Marin,San Quentin,Source2,3,37.943432,-122.480415,2017,15,Tuesday,Rain,False,True,False,True,False,False,False
+A-9443,CA,Marin,San Rafael,Source2,3,37.95842,-122.503868,2017,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-10078,CA,Marin,San Rafael,Source2,3,37.962135,-122.51001,2017,22,Friday,Cloudy,False,False,False,False,False,False,False
+A-11093,CA,Marin,San Rafael,Source2,3,37.960262,-122.50573,2017,21,Friday,Clear / Fair,False,True,False,False,False,False,False
+A-11669,CA,Marin,San Rafael,Source2,3,37.942604,-122.477715,2017,22,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-12181,CA,Marin,San Rafael,Source2,3,37.944923,-122.485779,2017,2,Sunday,Rain,False,False,False,False,False,False,False
+A-13540,CA,Marin,San Quentin,Source2,3,37.944862,-122.484596,2016,16,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-13738,CA,Marin,Corte Madera,Source2,3,37.93515,-122.516548,2016,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-14465,CA,Marin,San Rafael,Source2,3,37.942604,-122.477715,2016,16,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-14687,CA,Marin,San Quentin,Source2,3,37.942596,-122.478271,2016,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-14725,CA,Marin,San Quentin,Source2,3,37.942596,-122.478271,2016,0,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-15547,CA,Marin,San Quentin,Source2,3,37.944862,-122.484596,2016,13,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-15593,CA,Marin,San Quentin,Source2,3,37.943432,-122.480415,2016,20,Monday,Clear / Fair,False,True,False,True,False,False,False
+A-17022,CA,Marin,San Rafael,Source2,3,37.943516,-122.480331,2016,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-17258,CA,Marin,San Rafael,Source2,3,37.943516,-122.480331,2016,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-22118,CA,Marin,San Quentin,Source2,3,37.944805,-122.485649,2016,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-22205,CA,Marin,Sausalito,Source2,3,37.833736,-122.483055,2016,20,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-22624,CA,Marin,San Quentin,Source2,3,37.942596,-122.478271,2016,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-23084,CA,Marin,San Quentin,Source2,3,37.944809,-122.48558,2016,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-23176,CA,Marin,San Quentin,Source2,3,37.943432,-122.480415,2016,9,Wednesday,Clear / Fair,False,True,False,True,False,False,False
+A-23774,CA,Marin,San Rafael,Source2,3,38.007011,-122.541573,2016,15,Saturday,Clear / Fair,False,False,False,False,False,True,False
+A-25371,CA,Marin,San Quentin,Source2,3,37.945858,-122.490585,2016,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-25374,CA,Marin,Corte Madera,Source2,3,37.925129,-122.514061,2016,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-25388,CA,Marin,Sausalito,Source2,3,37.850117,-122.489616,2016,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-26081,CA,Marin,San Rafael,Source2,3,37.9426,-122.477684,2016,13,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-26746,CA,Marin,San Rafael,Source2,3,37.943516,-122.480331,2016,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-26768,CA,Marin,San Rafael,Source2,3,38.023426,-122.53871200000002,2016,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-26831,CA,Marin,Corte Madera,Source2,3,37.923492,-122.513168,2016,18,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-27022,CA,Marin,San Rafael,Source2,3,37.961315,-122.50795,2016,18,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-27447,CA,Marin,San Rafael,Source2,3,37.962135,-122.51001,2016,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-29239,CA,Marin,San Rafael,Source2,3,37.942604,-122.477715,2016,10,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-29957,CA,Marin,San Quentin,Source2,3,37.944809,-122.48558,2016,0,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-31084,CA,Marin,San Quentin,Source2,3,37.944809,-122.48558,2016,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-31289,CA,Marin,San Quentin,Source2,3,37.944809,-122.48558,2016,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-31644,CA,Marin,Mill Valley,Source2,3,37.90270200000001,-122.515602,2016,16,Saturday,Clear / Fair,False,False,False,False,False,True,False
+A-31645,CA,Marin,San Rafael,Source2,3,37.962135,-122.51001,2016,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-31665,CA,Marin,San Rafael,Source2,3,37.962135,-122.51001,2016,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-31698,CA,Marin,Novato,Source2,3,38.115658,-122.564629,2016,9,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-32437,CA,Marin,Novato,Source2,3,38.117683,-122.564941,2016,20,Thursday,Clear / Fair,False,False,False,False,False,True,False
+A-33920,CA,Marin,Sausalito,Source2,3,37.83567,-122.484612,2016,3,Sunday,Rain,False,False,True,False,False,False,False
+A-34658,CA,Marin,San Rafael,Source2,3,37.945049,-122.484123,2016,12,Thursday,Cloudy,False,False,True,False,False,False,False
+A-34866,CA,Marin,San Quentin,Source2,3,37.946144,-122.491478,2016,1,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-35447,CA,Marin,San Rafael,Source2,3,37.942604,-122.477715,2016,22,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-35505,CA,Marin,San Quentin,Source2,3,37.943432,-122.480415,2016,10,Thursday,Cloudy,False,True,False,True,False,False,False
+A-36742,CA,Marin,Novato,Source2,3,38.066238,-122.537277,2016,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-37165,CA,Marin,San Rafael,Source2,3,37.961742,-122.509804,2016,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-38161,CA,Marin,San Rafael,Source2,3,37.942604,-122.477715,2016,12,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-38351,CA,Marin,Novato,Source2,3,38.070591,-122.539421,2016,11,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-38646,CA,Marin,San Rafael,Source2,3,37.942604,-122.477715,2016,21,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-39122,CA,Marin,San Rafael,Source2,3,37.942593,-122.477654,2016,16,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-39362,CA,Marin,San Rafael,Source2,3,37.958225,-122.50338,2016,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-39403,CA,Marin,San Quentin,Source2,3,37.943432,-122.480415,2016,2,Saturday,Clear / Fair,False,True,False,True,False,False,False
+A-39730,CA,Marin,Novato,Source2,3,38.092045,-122.559174,2016,10,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-39965,CA,Marin,San Rafael,Source2,3,37.96146,-122.507957,2016,20,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-41149,CA,Marin,San Quentin,Source2,3,37.944809,-122.48558,2016,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-42234,CA,Marin,San Rafael,Source2,3,37.960445,-122.509491,2016,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-42849,CA,Marin,Mill Valley,Source2,3,37.905861,-122.515129,2016,16,Monday,Sin dato,False,False,False,False,False,False,False
+A-314183,CA,Marin,San Quentin,Source2,3,37.945084,-122.489082,2017,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-314317,CA,Marin,San Quentin,Source2,3,37.942596,-122.478271,2017,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-314440,CA,Marin,Southeast Marin,Source2,3,37.885376,-122.516586,2017,5,Sunday,Sin dato,False,False,False,False,False,False,False
+A-314490,CA,Marin,San Rafael,Source2,3,37.942604,-122.477715,2017,11,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-314621,CA,Marin,Novato,Source2,3,38.080723,-122.54438799999998,2017,10,Tuesday,Clear / Fair,False,False,False,False,False,False,True
+A-315393,CA,Marin,San Quentin,Source2,3,37.944809,-122.48558,2017,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-315855,CA,Marin,San Quentin,Source2,3,37.943432,-122.480415,2017,9,Tuesday,Rain,False,True,False,True,False,False,False
+A-315930,CA,Marin,San Quentin,Source2,3,37.944809,-122.48558,2017,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-316476,CA,Marin,Novato,Source2,3,38.113682,-122.564308,2017,21,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-316567,CA,Marin,San Rafael,Source2,3,37.946487,-122.491051,2017,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-336575,CA,Marin,San Rafael,Source2,3,37.942604,-122.477715,2017,12,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-336934,CA,Marin,San Rafael,Source2,3,37.942604,-122.477715,2017,8,Friday,Rain,False,False,True,False,False,False,False
+A-339016,CA,Marin,San Rafael,Source2,3,37.96146,-122.507957,2017,22,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-339542,CA,Marin,Ross Valley,Source2,3,37.934399,-122.433899,2017,17,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-339650,CA,Marin,San Rafael,Source2,3,37.942604,-122.477715,2017,12,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-340015,CA,Marin,Sausalito,Source2,3,37.835037,-122.484428,2017,20,Saturday,Cloudy,False,False,False,False,False,False,False
+A-341158,CA,Marin,San Rafael,Source2,3,37.96146,-122.507957,2017,0,Tuesday,Fog / Low visibility,False,False,True,False,False,False,False
+A-341692,CA,Marin,San Quentin,Source2,3,37.942501,-122.477745,2017,11,Friday,Rain,False,False,True,False,False,False,False
+A-341889,CA,Marin,San Quentin,Source2,3,37.943432,-122.480415,2017,9,Saturday,Cloudy,False,True,False,True,False,False,False
+A-396878,CA,Marin,San Rafael,Source2,3,37.942604,-122.477715,2017,16,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-396939,CA,Marin,San Rafael,Source2,3,37.958225,-122.50338,2017,1,Thursday,Cloudy,False,False,False,False,False,False,False
+A-397341,CA,Marin,San Quentin,Source2,3,37.943432,-122.480415,2017,19,Friday,Cloudy,False,True,False,True,False,False,False
+A-399628,CA,Marin,San Rafael,Source2,3,37.96146,-122.507957,2017,4,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-399629,CA,Marin,San Quentin,Source2,3,37.945084,-122.489082,2017,4,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-400206,CA,Marin,San Rafael,Source2,3,37.942604,-122.477715,2017,9,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-400944,CA,Marin,San Quentin,Source2,3,37.943432,-122.480415,2017,15,Tuesday,Clear / Fair,False,True,False,True,False,False,False
+A-401585,CA,Marin,San Quentin,Source2,3,37.944752,-122.487404,2017,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-436891,CA,Marin,San Rafael,Source2,3,37.943516,-122.480331,2017,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-437635,CA,Marin,San Quentin,Source2,3,37.943432,-122.480415,2017,23,Wednesday,Clear / Fair,False,True,False,True,False,False,False
+A-438064,CA,Marin,San Rafael,Source2,3,37.962135,-122.51001,2017,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-438170,CA,Marin,San Rafael,Source2,3,37.961472,-122.50769,2017,12,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-454275,CA,Marin,San Rafael,Source2,3,37.964924,-122.51461,2017,17,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-454293,CA,Marin,San Quentin,Source2,3,37.943302,-122.480194,2017,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-454990,CA,Marin,San Rafael,Source2,3,37.962135,-122.51001,2017,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-455061,CA,Marin,San Quentin,Source2,3,37.945267,-122.489555,2017,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-455150,CA,Marin,San Rafael,Source2,3,38.021137,-122.539078,2017,9,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-455876,CA,Marin,San Rafael,Source2,3,37.942612,-122.47773,2017,14,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-456730,CA,Marin,San Quentin,Source2,3,37.942596,-122.478271,2017,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-456833,CA,Marin,San Quentin,Source2,3,37.942596,-122.478271,2017,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-457546,CA,Marin,San Rafael,Source2,3,37.942604,-122.477715,2017,9,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-457605,CA,Marin,San Rafael,Source2,3,37.962135,-122.51001,2017,0,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-457645,CA,Marin,San Rafael,Source2,3,37.942612,-122.47773,2017,7,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-457894,CA,Marin,San Quentin,Source2,3,37.944809,-122.48558,2017,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-491861,CA,Marin,San Rafael,Source2,3,37.967541,-122.518654,2017,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-491897,CA,Marin,San Rafael,Source2,3,37.943516,-122.480331,2017,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-492039,CA,Marin,San Rafael,Source2,3,37.94397,-122.480545,2017,12,Saturday,Clear / Fair,False,False,False,False,True,False,False
+A-493114,CA,Marin,San Rafael,Source2,3,37.960526,-122.504906,2017,18,Monday,Clear / Fair,True,True,False,False,False,False,False
+A-493121,CA,Marin,San Quentin,Source2,3,37.944809,-122.48558,2017,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-493684,CA,Marin,San Quentin,Source2,3,37.943432,-122.480415,2017,15,Sunday,Clear / Fair,False,True,False,True,False,False,False
+A-522110,CA,Marin,San Quentin,Source2,3,37.943947,-122.481773,2022,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-529150,CA,Marin,San Quentin,Source2,3,37.943024,-122.479324,2022,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-543868,CA,Marin,San Quentin,Source2,3,37.940868,-122.46946,2022,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-543938,CA,Marin,San Rafael,Source2,3,37.94429,-122.481644,2022,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-544805,CA,Marin,Ross Valley,Source2,3,37.935055,-122.444519,2022,11,Friday,Sin dato,False,False,False,False,False,False,False
+A-569786,CA,Marin,San Quentin,Source2,3,37.943947,-122.481773,2022,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-576966,CA,Marin,San Rafael,Source2,3,37.968391,-122.519814,2022,6,Saturday,Cloudy,False,False,False,True,False,False,False
+A-585055,CA,Marin,San Rafael,Source2,3,38.010303,-122.54213,2022,8,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-587340,CA,Marin,San Quentin,Source2,3,37.942627,-122.477814,2022,7,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-587993,CA,Marin,San Quentin,Source2,3,37.942589,-122.478271,2022,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-589666,CA,Marin,San Quentin,Source2,3,37.942871,-122.4795,2022,23,Friday,Cloudy,False,False,False,False,False,False,False
+A-595215,CA,Marin,Ross Valley,Source2,3,37.935055,-122.444527,2022,6,Monday,Sin dato,False,False,False,False,False,False,False
+A-609620,CA,Marin,San Rafael,Source3,3,37.961315,-122.508385,2022,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-612364,CA,Marin,San Rafael,Source2,3,38.02351,-122.538483,2022,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-617214,CA,Marin,San Quentin,Source2,3,37.943947,-122.481773,2022,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-635359,CA,Marin,Ross Valley,Source2,3,37.935055,-122.444519,2022,4,Thursday,Sin dato,False,False,False,False,False,False,False
+A-643393,CA,Marin,Ross Valley,Source2,3,37.935055,-122.444519,2022,13,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-647512,CA,Marin,Novato,Source2,3,38.082413,-122.549004,2022,13,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-658058,CA,Marin,San Rafael,Source2,3,37.944996,-122.484489,2022,0,Thursday,Cloudy,False,False,True,False,False,False,False
+A-680385,CA,Marin,Ross Valley,Source2,3,37.935055,-122.444519,2022,7,Friday,Sin dato,False,False,False,False,False,False,False
+A-680386,CA,Marin,San Rafael,Source2,3,37.944229,-122.481529,2022,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-707982,CA,Marin,San Quentin,Source2,3,37.934853,-122.44175,2022,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-714957,CA,Marin,San Quentin,Source2,3,37.940018,-122.46578999999998,2022,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-721212,CA,Marin,Ross Valley,Source2,3,37.935055,-122.444519,2022,15,Friday,Sin dato,False,False,False,False,False,False,False
+A-725446,CA,Marin,Ross Valley,Source2,3,37.935055,-122.444519,2022,9,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-730593,CA,Marin,Ross Valley,Source2,3,37.935055,-122.444519,2022,14,Friday,Sin dato,False,False,False,False,False,False,False
+A-733942,CA,Marin,San Rafael,Source2,3,37.961315,-122.508377,2022,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-736231,CA,Marin,San Rafael,Source2,3,37.961418,-122.508209,2022,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-736236,CA,Marin,Larkspur,Source2,3,37.942501,-122.51503,2022,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-751250,CA,Marin,San Rafael,Source2,3,37.945,-122.484604,2022,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-766533,CA,Marin,San Rafael,Source2,3,37.944828,-122.48558,2021,3,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-766989,CA,Marin,San Rafael,Source3,3,37.961315,-122.508377,2021,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-767151,CA,Marin,San Quentin,Source2,3,37.945953,-122.49183700000002,2021,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-767272,CA,Marin,San Quentin,Source2,3,37.945972,-122.490463,2021,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-781907,CA,Marin,Sausalito,Source2,3,37.835224,-122.48455,2021,4,Monday,Rain,False,False,False,False,False,False,False
+A-782793,CA,Marin,Novato,Source2,3,38.162247,-122.573997,2021,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-783735,CA,Marin,San Quentin,Source2,3,37.943947,-122.481773,2021,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-800936,CA,Marin,Corte Madera,Source2,3,37.931458,-122.516098,2021,8,Monday,Sin dato,False,False,True,False,False,False,False
+A-807354,CA,Marin,San Quentin,Source2,4,37.943947,-122.481773,2021,9,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-816561,CA,Marin,Sausalito,Source2,3,37.834919,-122.483894,2021,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-819309,CA,Marin,San Quentin,Source2,3,37.943947,-122.481773,2021,21,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-820847,CA,Marin,Mill Valley,Source2,3,37.875389,-122.510101,2021,23,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-825497,CA,Marin,Ross Valley,Source2,3,37.935055,-122.444519,2021,19,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-825692,CA,Marin,San Quentin,Source2,3,37.943947,-122.481773,2021,10,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-826556,CA,Marin,San Rafael,Source2,3,37.942745,-122.47834,2021,4,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-849257,CA,Marin,Ross Valley,Source2,3,37.935062,-122.444618,2021,15,Saturday,Sin dato,False,False,False,False,False,False,False
+A-854719,CA,Marin,Ross Valley,Source2,3,37.935074,-122.444794,2021,7,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-883714,CA,Marin,Novato,Source2,3,38.093208,-122.557632,2021,14,Saturday,Clear / Fair,True,True,False,False,False,False,False
+A-890386,CA,Marin,Ross Valley,Source2,3,37.935055,-122.444519,2021,15,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-900216,CA,Marin,San Quentin,Source3,3,37.942589,-122.478271,2021,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-915156,CA,Marin,San Rafael,Source2,4,37.961967,-122.510582,2021,17,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-926865,CA,Marin,Ross Valley,Source2,3,37.938763,-122.46156299999998,2021,8,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-930463,CA,Marin,Ross Valley,Source2,3,37.935055,-122.444519,2021,13,Friday,Sin dato,False,False,False,False,False,False,False
+A-937054,CA,Marin,Ross Valley,Source2,3,37.934956,-122.443192,2021,12,Friday,Sin dato,False,False,False,False,False,False,False
+A-942256,CA,Marin,San Rafael,Source2,3,37.94302,-122.478844,2021,7,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-959794,CA,Marin,Ross Valley,Source2,3,37.935055,-122.444511,2021,18,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-999415,CA,Marin,San Quentin,Source2,3,37.944061,-122.481461,2021,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1002841,CA,Marin,San Quentin,Source2,3,37.945091,-122.489082,2021,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1006205,CA,Marin,Sausalito,Source2,3,37.833073,-122.48143,2021,23,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1008910,CA,Marin,San Quentin,Source2,3,37.943947,-122.481773,2021,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1019946,CA,Marin,San Quentin,Source2,3,37.943947,-122.481773,2021,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1049293,CA,Marin,San Rafael,Source2,3,37.942703,-122.478149,2021,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1060332,CA,Marin,San Rafael,Source2,3,37.944229,-122.481529,2021,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1080608,CA,Marin,San Rafael,Source2,3,37.943497,-122.480309,2021,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1083619,CA,Marin,San Quentin,Source2,3,37.942589,-122.478271,2021,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1093752,CA,Marin,Ross Valley,Source2,3,37.935055,-122.444519,2021,15,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-1105314,CA,Marin,San Quentin,Source2,3,37.942486,-122.477661,2021,22,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-1115501,CA,Marin,San Rafael,Source2,3,37.94302,-122.478844,2021,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1122227,CA,Marin,San Rafael,Source2,3,37.94302,-122.478844,2021,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1126608,CA,Marin,San Quentin,Source3,3,37.942486,-122.477661,2021,16,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-1151603,CA,Marin,San Quentin,Source2,3,37.942589,-122.478271,2021,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1156393,CA,Marin,San Rafael,Source2,3,37.961418,-122.508209,2021,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-1163444,CA,Marin,Novato,Source2,3,38.10876500000001,-122.508598,2021,20,Monday,Cloudy,False,False,True,False,False,False,False
+A-1173317,CA,Marin,San Quentin,Source2,3,37.943947,-122.481773,2021,13,Sunday,Sin dato,False,False,False,False,False,False,False
+A-1182087,CA,Marin,San Rafael,Source2,3,37.96489,-122.514526,2021,21,Sunday,Sin dato,False,False,True,False,False,False,False
+A-1182174,CA,Marin,San Rafael,Source2,3,37.961418,-122.508209,2021,23,Sunday,Sin dato,False,False,False,False,False,False,False
+A-1203782,CA,Marin,San Quentin,Source2,4,37.943947,-122.481773,2021,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1207186,CA,Marin,San Quentin,Source2,3,37.945953,-122.49183700000002,2021,15,Sunday,Sin dato,False,False,False,False,False,False,False
+A-1214707,CA,Marin,San Rafael,Source2,4,37.961491,-122.507668,2020,7,Saturday,Cloudy,False,False,True,False,False,False,False
+A-1232268,CA,Marin,San Rafael,Source2,3,37.944828,-122.48558,2020,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1275766,CA,Marin,San Rafael,Source2,3,37.944229,-122.481529,2020,20,Sunday,Sin dato,False,False,False,False,False,False,False
+A-1286824,CA,Marin,San Quentin,Source2,3,37.945953,-122.49183700000002,2020,19,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1300075,CA,Marin,San Quentin,Source2,3,37.942589,-122.478271,2020,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1303445,CA,Marin,Novato,Source2,3,38.163013,-122.575043,2020,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1307922,CA,Marin,San Rafael,Source2,3,37.94302,-122.478844,2020,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1309634,CA,Marin,Petaluma,Source2,3,38.073318,-122.801437,2020,18,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-1319281,CA,Marin,Ross Valley,Source2,3,37.935055,-122.444519,2020,18,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-1358721,CA,Marin,Ross Valley,Source2,3,37.935055,-122.444519,2020,16,Monday,Sin dato,False,False,False,False,False,False,False
+A-1376809,CA,Marin,Ross Valley,Source2,3,37.935055,-122.444519,2020,14,Friday,Sin dato,False,False,False,False,False,False,False
+A-1386478,CA,Marin,San Rafael,Source2,3,37.961315,-122.508377,2020,16,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-1396112,CA,Marin,San Quentin,Source2,3,37.94603,-122.493713,2020,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1410215,CA,Marin,Ross Valley,Source2,3,37.935055,-122.444519,2020,7,Monday,Sin dato,False,False,False,False,False,False,False
+A-1422956,CA,Marin,Ross Valley,Source2,3,37.935055,-122.444519,2020,18,Thursday,Sin dato,False,False,False,False,False,False,False
+A-1425217,CA,Marin,San Quentin,Source2,3,37.944073,-122.48126200000002,2020,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1434530,CA,Marin,San Quentin,Source2,3,37.943947,-122.481773,2020,2,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1444433,CA,Marin,San Quentin,Source2,3,37.943947,-122.481773,2020,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1445850,CA,Marin,San Quentin,Source2,3,37.943947,-122.481773,2020,10,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1452919,CA,Marin,Ross Valley,Source2,3,37.935055,-122.444519,2020,6,Friday,Sin dato,False,False,False,False,False,False,False
+A-1468809,CA,Marin,Ross Valley,Source2,3,37.935055,-122.444519,2020,6,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-1470033,CA,Marin,San Rafael,Source2,3,37.943096,-122.479515,2020,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1472274,CA,Marin,San Rafael,Source3,3,37.961449,-122.50796499999998,2020,17,Sunday,Cloudy,False,False,True,False,False,False,False
+A-1479350,CA,Marin,San Rafael,Source2,3,37.944828,-122.48558,2020,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1479351,CA,Marin,Ross Valley,Source2,3,37.937344,-122.457085,2020,8,Friday,Sin dato,False,False,False,False,False,False,False
+A-1479352,CA,Marin,Ross Valley,Source2,3,37.935055,-122.444519,2020,9,Friday,Sin dato,False,False,False,False,False,False,False
+A-1493914,CA,Marin,San Rafael,Source2,3,38.032829,-122.534027,2020,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1498840,CA,Marin,Ross Valley,Source2,3,37.935055,-122.444519,2020,10,Monday,Sin dato,False,False,False,False,False,False,False
+A-1503027,CA,Marin,Ross Valley,Source2,3,37.935055,-122.444519,2020,13,Thursday,Sin dato,False,False,False,False,False,False,False
+A-1540434,CA,Marin,Sausalito,Source2,3,37.834919,-122.483894,2020,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1568223,CA,Marin,San Quentin,Source2,3,37.943947,-122.481773,2020,23,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1570033,CA,Marin,San Quentin,Source2,3,37.945065,-122.488998,2020,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1575932,CA,Marin,San Quentin,Source2,3,37.945953,-122.49183700000002,2020,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1575933,CA,Marin,San Quentin,Source2,3,37.943947,-122.481773,2020,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1614902,CA,Marin,Ross Valley,Source2,3,37.935104,-122.444519,2020,16,Monday,Sin dato,False,False,False,False,False,False,False
+A-1636996,CA,Marin,Ross Valley,Source2,3,37.935104,-122.444519,2020,13,Friday,Sin dato,False,False,False,False,False,False,False
+A-1637722,CA,Marin,Corte Madera,Source2,3,37.924793,-122.513908,2020,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1674886,CA,Marin,San Rafael,Source2,3,37.944229,-122.481529,2020,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1676604,CA,Marin,San Rafael,Source2,3,37.961418,-122.508209,2020,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1686289,CA,Marin,San Rafael,Source3,3,37.942619,-122.477715,2019,6,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-1687185,CA,Marin,San Rafael,Source2,3,37.942661,-122.477936,2019,1,Sunday,Fog / Low visibility,False,False,True,False,False,False,False
+A-1692549,CA,Marin,San Rafael,Source2,3,37.961323,-122.508392,2019,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1707593,CA,Marin,Novato,Source2,3,38.049229,-122.532425,2019,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1710235,CA,Marin,San Rafael,Source3,3,37.942619,-122.477715,2019,14,Wednesday,Fog / Low visibility,False,False,True,False,False,False,False
+A-1720030,CA,Marin,San Quentin,Source2,3,37.945091,-122.489082,2019,8,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1736673,CA,Marin,Ross Valley,Source2,3,37.935104,-122.444519,2019,12,Sunday,Sin dato,False,False,False,False,False,False,False
+A-1739150,CA,Marin,Corte Madera,Source3,3,37.930084,-122.51593,2019,8,Monday,Sin dato,False,False,False,False,False,False,False
+A-1768595,CA,Marin,Novato,Source2,3,38.06403,-122.535599,2019,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1776677,CA,Marin,San Rafael,Source2,3,37.961418,-122.508209,2019,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1776678,CA,Marin,San Rafael,Source2,3,37.963657,-122.511856,2019,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1793814,CA,Marin,Sausalito,Source2,3,37.834919,-122.483894,2019,23,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1810356,CA,Marin,San Rafael,Source3,3,37.997643,-122.534882,2019,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1815812,CA,Marin,San Quentin,Source2,3,37.943947,-122.481773,2019,0,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1815970,CA,Marin,San Rafael,Source2,3,37.961205,-122.510078,2019,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1818761,CA,Marin,Ross Valley,Source2,3,37.935104,-122.444519,2019,5,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-1821763,CA,Marin,San Quentin,Source2,3,37.945091,-122.489082,2019,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1852014,CA,Marin,San Rafael,Source2,3,37.96056,-122.504837,2019,14,Friday,Clear / Fair,True,True,False,False,False,False,False
+A-1855300,CA,Marin,San Quentin,Source2,3,37.943947,-122.481773,2019,23,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1857782,CA,Marin,San Rafael,Source2,3,37.944828,-122.48558,2019,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1860148,CA,Marin,San Rafael,Source3,3,37.944828,-122.48558,2019,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1865341,CA,Marin,San Quentin,Source2,3,37.945091,-122.489082,2019,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1888798,CA,Marin,San Rafael,Source2,3,37.961418,-122.508209,2019,17,Monday,Sin dato,False,False,False,False,False,False,False
+A-1898202,CA,Marin,Larkspur,Source2,3,37.94778400000001,-122.513298,2019,2,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1898207,CA,Marin,San Rafael,Source2,3,37.961449,-122.50796499999998,2019,15,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1919703,CA,Marin,San Rafael,Source2,3,37.961266,-122.509666,2019,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1924240,CA,Marin,San Quentin,Source2,3,37.942589,-122.478271,2019,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1948411,CA,Marin,San Quentin,Source2,3,37.942608,-122.478355,2019,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1954834,CA,Marin,San Rafael,Source2,3,37.94416,-122.48141499999998,2019,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1958980,CA,Marin,San Quentin,Source2,3,37.942589,-122.478271,2019,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1975751,CA,Marin,Ross Valley,Source2,3,37.935104,-122.444519,2019,17,Thursday,Sin dato,False,False,False,False,False,False,False
+A-1979534,CA,Marin,Stinson Beach,Source2,3,37.934662,-122.697357,2019,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1983794,CA,Marin,San Rafael,Source2,3,37.942783,-122.478523,2019,3,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1991246,CA,Marin,Ross Valley,Source2,3,37.937695,-122.458298,2019,23,Friday,Sin dato,False,False,False,False,False,False,False
+A-1998060,CA,Marin,Ross Valley,Source2,3,37.935177,-122.445625,2019,15,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-2004089,CA,Marin,San Rafael,Source2,3,37.997643,-122.534882,2019,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2016611,CA,Marin,San Rafael,Source2,3,37.944859,-122.484138,2019,9,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-2021383,CA,Marin,Ross Valley,Source2,3,37.935104,-122.444519,2019,21,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-2021392,CA,Marin,Novato,Source2,3,38.091469,-122.557388,2019,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2033688,CA,Marin,Ross Valley,Source2,3,37.934444,-122.434715,2019,18,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-2040065,CA,Marin,San Rafael,Source2,3,37.94399600000001,-122.481125,2019,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2046096,CA,Marin,Southeast Marin,Source2,3,37.885376,-122.516609,2019,17,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-2048255,CA,Marin,San Rafael,Source2,3,37.944828,-122.48558,2019,21,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-2053788,CA,Marin,San Rafael,Source2,3,37.943962,-122.481071,2019,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2054525,CA,Marin,San Quentin,Source2,3,37.942589,-122.478271,2019,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2074569,CA,Marin,San Rafael,Source2,3,37.961323,-122.508392,2019,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2074571,CA,Marin,San Rafael,Source2,3,37.96196,-122.50885,2019,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2076322,CA,Marin,San Rafael,Source2,3,37.959721,-122.509361,2019,14,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-2083971,CA,Marin,San Rafael,Source2,3,37.944828,-122.48558,2019,20,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2106937,CA,Marin,San Rafael,Source2,3,37.961449,-122.50796499999998,2019,7,Thursday,Cloudy,False,False,True,False,False,False,False
+A-2111061,CA,Marin,Sausalito,Source2,3,37.83420200000001,-122.483833,2019,2,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2134916,CA,Marin,San Rafael,Source2,3,37.961323,-122.508392,2019,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2137265,CA,Marin,San Rafael,Source2,3,37.943901,-122.480965,2019,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2149110,CA,Marin,San Quentin,Source2,3,37.942589,-122.478271,2019,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2152578,CA,Marin,San Rafael,Source2,3,37.963657,-122.511856,2019,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2167095,CA,Marin,Sausalito,Source2,3,37.834393,-122.483398,2019,2,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2167144,CA,Marin,San Quentin,Source2,3,37.942589,-122.478271,2019,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2205310,CA,Marin,Mill Valley,Source2,3,37.902588,-122.515778,2019,7,Wednesday,Cloudy,False,False,False,False,False,True,False
+A-2235713,CA,Marin,Sausalito,Source2,3,37.849239,-122.489388,2019,22,Friday,Rain,False,False,True,False,False,False,False
+A-2248985,CA,Marin,San Rafael,Source2,3,37.944828,-122.48558,2019,7,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2260641,CA,Marin,San Quentin,Source2,3,37.943867,-122.481468,2019,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2292910,CA,Marin,Novato,Source2,3,38.104191,-122.513519,2019,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2319668,CA,Marin,San Quentin,Source2,3,37.942589,-122.478271,2019,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2320659,CA,Marin,San Rafael,Source2,3,37.960876,-122.50695,2019,16,Sunday,Rain,False,False,False,False,False,False,False
+A-2320662,CA,Marin,San Rafael,Source2,3,37.960102,-122.505508,2019,19,Sunday,Rain,True,True,False,False,False,False,False
+A-2416006,CA,Marin,San Quentin,Source2,3,37.94381,-122.481033,2018,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2418012,CA,Marin,San Rafael,Source3,3,37.958965,-122.509224,2018,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2429904,CA,Marin,San Rafael,Source2,3,37.942604,-122.477715,2018,8,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-2444090,CA,Marin,San Rafael,Source2,3,37.962135,-122.51001,2018,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2444100,CA,Marin,San Rafael,Source2,3,37.962135,-122.51001,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2444101,CA,Marin,San Rafael,Source2,3,38.032207,-122.583778,2018,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2465235,CA,Marin,San Rafael,Source2,3,37.962135,-122.51001,2018,12,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2474941,CA,Marin,Corte Madera,Source2,3,37.925533,-122.514511,2018,20,Thursday,Sin dato,False,False,False,False,False,False,False
+A-2487433,CA,Marin,San Rafael,Source2,3,37.962135,-122.51001,2018,15,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-2496445,CA,Marin,San Rafael,Source2,3,37.943516,-122.480331,2018,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2496565,CA,Marin,San Rafael,Source2,3,37.962135,-122.51001,2018,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2503118,CA,Marin,San Quentin,Source2,3,37.944084,-122.481506,2018,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2515476,CA,Marin,San Rafael,Source2,3,37.943367,-122.480087,2018,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2515574,CA,Marin,San Rafael,Source2,3,37.958225,-122.50338,2018,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2585702,CA,Marin,Ross Valley,Source2,3,37.934399,-122.433914,2018,6,Friday,Sin dato,False,False,False,False,False,False,False
+A-2597523,CA,Marin,San Quentin,Source2,3,37.944546,-122.483002,2018,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2615189,CA,Marin,San Rafael,Source2,3,37.96146,-122.507957,2018,8,Friday,Cloudy,False,False,True,False,False,False,False
+A-2618301,CA,Marin,Larkspur,Source2,3,37.93935,-122.516403,2018,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2620659,CA,Marin,San Quentin,Source2,3,37.943432,-122.480415,2018,23,Tuesday,Cloudy,False,True,False,True,False,False,False
+A-2620716,CA,Marin,San Rafael,Source2,3,37.942604,-122.477715,2018,8,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-2623291,CA,Marin,San Rafael,Source2,3,37.94318,-122.479721,2018,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2627335,CA,Marin,Ross Valley,Source2,3,37.934399,-122.433899,2018,11,Sunday,Sin dato,False,False,False,False,False,False,False
+A-2629632,CA,Marin,San Rafael,Source3,3,37.942608,-122.477737,2018,8,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-2634778,CA,Marin,Corte Madera,Source2,3,37.92831,-122.515266,2018,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2674173,CA,Marin,San Rafael,Source2,3,38.010288,-122.542107,2018,7,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-2680454,CA,Marin,San Quentin,Source2,3,37.943432,-122.480415,2018,13,Saturday,Cloudy,False,True,False,True,False,False,False
+A-2694802,CA,Marin,Novato,Source2,3,38.117683,-122.564941,2018,6,Monday,Clear / Fair,False,False,False,False,False,True,False
+A-2699281,CA,Marin,San Rafael,Source2,3,37.943172,-122.479698,2018,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2716991,CA,Marin,Greenbrae,Source2,3,37.94872700000001,-122.528275,2018,12,Saturday,Clear / Fair,True,True,False,False,True,False,False
+A-2719729,CA,Marin,Ross Valley,Source2,3,37.934399,-122.433899,2018,7,Monday,Sin dato,False,False,False,False,False,False,False
+A-2719746,CA,Marin,San Rafael,Source2,3,37.942604,-122.477715,2018,8,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-2719769,CA,Marin,San Rafael,Source2,3,37.942841,-122.478806,2018,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2726661,CA,Marin,San Quentin,Source2,3,37.943432,-122.480415,2018,1,Thursday,Clear / Fair,False,True,False,True,False,False,False
+A-2762496,CA,Marin,Novato,Source2,3,38.18465,-122.600777,2018,2,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2764785,CA,Marin,San Rafael,Source2,3,37.942604,-122.477715,2018,16,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-2768806,CA,Marin,San Rafael,Source2,3,37.942604,-122.477715,2018,8,Monday,Cloudy,False,False,True,False,False,False,False
+A-2775616,CA,Marin,San Rafael,Source2,3,37.942604,-122.477715,2018,22,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-2775655,CA,Marin,Ross Valley,Source2,3,37.934399,-122.433899,2018,6,Thursday,Sin dato,False,False,False,False,False,False,False
+A-2777967,CA,Marin,San Rafael,Source2,3,37.942577,-122.47757,2018,8,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-2779620,CA,Marin,San Quentin,Source2,3,37.944775,-122.485985,2018,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2782025,CA,Marin,Ross Valley,Source2,3,37.942162,-122.475189,2018,13,Monday,Sin dato,False,False,False,False,False,False,False
+A-2804775,CA,Marin,San Quentin,Source2,3,37.942596,-122.478271,2018,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2826218,CA,Marin,San Rafael,Source2,3,37.962135,-122.51001,2018,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2831485,CA,Marin,Ross Valley,Source2,3,37.942577,-122.477577,2018,8,Thursday,Sin dato,False,False,True,False,False,False,False
+A-2831496,CA,Marin,Ross Valley,Source2,3,37.934399,-122.433914,2018,8,Thursday,Sin dato,False,False,False,False,False,False,False
+A-2831500,CA,Marin,Ross Valley,Source2,3,37.934399,-122.433914,2018,9,Thursday,Sin dato,False,False,False,False,False,False,False
+A-2854400,CA,Marin,San Rafael,Source2,3,37.986294,-122.5252,2018,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2870550,CA,Marin,San Quentin,Source2,3,37.946075,-122.490852,2018,15,Friday,Rain,False,False,False,False,False,False,False
+A-2870643,CA,Marin,Novato,Source2,3,38.079857,-122.546234,2018,13,Friday,Rain,False,False,True,False,False,False,False
+A-2879762,CA,Marin,San Quentin,Source2,3,37.942596,-122.478271,2018,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2891668,CA,Marin,San Quentin,Source2,3,37.942596,-122.478271,2018,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2894356,CA,Marin,San Quentin,Source2,3,37.944862,-122.484596,2018,16,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-2923946,CA,Marin,Ross Valley,Source2,3,37.934399,-122.433914,2018,6,Friday,Sin dato,False,False,False,False,False,False,False
+A-2940224,CA,Marin,San Quentin,Source2,3,37.942596,-122.478271,2018,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2940405,CA,Marin,Corte Madera,Source2,3,37.909565,-122.513779,2018,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-2945880,CA,Marin,San Rafael,Source2,3,37.962135,-122.51001,2018,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2951140,CA,Marin,San Rafael,Source2,3,37.946487,-122.491051,2018,22,Thursday,Rain,False,False,False,False,False,False,False
+A-2951229,CA,Marin,San Rafael,Source2,3,37.943165,-122.479683,2018,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-2951240,CA,Marin,San Rafael,Source2,3,37.943905,-122.480965,2018,9,Friday,Rain,False,False,False,False,False,False,False
+A-2951318,CA,Marin,San Quentin,Source2,3,37.942596,-122.478271,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2952237,CA,Marin,Novato,Source2,3,38.101646,-122.561455,2018,0,Saturday,Cloudy,False,False,True,False,False,False,False
+A-2960940,CA,Marin,San Rafael,Source2,3,37.962135,-122.51001,2018,21,Tuesday,Rain,False,False,False,False,False,False,False
+A-2963824,CA,Marin,San Rafael,Source2,3,37.946487,-122.491051,2018,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2966640,CA,Marin,San Rafael,Source3,3,37.965092,-122.513947,2018,6,Friday,Cloudy,False,True,False,True,False,False,False
+A-2966641,CA,Marin,Novato,Source2,3,38.088726,-122.555283,2018,6,Friday,Cloudy,False,False,True,False,False,False,False
+A-2977438,CA,Marin,San Rafael,Source2,3,37.944923,-122.485817,2018,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2977501,CA,Marin,San Quentin,Source2,3,37.944809,-122.48558,2018,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2985050,CA,Marin,San Rafael,Source2,3,37.943069,-122.478973,2018,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2991869,CA,Marin,San Rafael,Source2,3,37.942604,-122.477715,2018,7,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-2994607,CA,Marin,Mill Valley,Source2,3,37.90270200000001,-122.515602,2018,15,Tuesday,Clear / Fair,False,False,False,False,False,True,False
+A-3021089,CA,Marin,San Quentin,Source2,3,37.942596,-122.478271,2018,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-3028918,CA,Marin,San Quentin,Source2,3,37.943432,-122.480415,2018,7,Thursday,Clear / Fair,False,True,False,True,False,False,False
+A-3028998,CA,Marin,San Rafael,Source2,3,37.96146,-122.507957,2018,15,Thursday,Cloudy,False,False,True,False,False,False,False
+A-3035761,CA,Marin,San Rafael,Source2,3,37.944931,-122.485588,2018,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3041986,CA,Marin,San Quentin,Source2,3,37.943432,-122.480415,2018,16,Tuesday,Clear / Fair,False,True,False,True,False,False,False
+A-3047107,CA,Marin,San Rafael,Source2,3,38.007011,-122.541573,2018,22,Wednesday,Cloudy,False,False,False,False,False,True,False
+A-3047110,CA,Marin,Novato,Source2,3,38.163101,-122.57515,2018,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3049561,CA,Marin,Sausalito,Source2,3,37.841545,-122.486008,2018,20,Friday,Rain,False,False,False,False,False,False,False
+A-3071144,CA,Marin,San Rafael,Source2,3,37.942604,-122.477715,2018,9,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-3090843,CA,Marin,San Quentin,Source2,3,37.943626,-122.480728,2018,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3111505,CA,Marin,San Rafael,Source2,3,37.942604,-122.477715,2017,7,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-3114431,CA,Marin,Ross Valley,Source2,3,37.934399,-122.433899,2017,8,Thursday,Sin dato,False,False,False,False,False,False,False
+A-3117464,CA,Marin,San Rafael,Source2,3,37.942604,-122.477715,2017,5,Friday,Cloudy,False,False,True,False,False,False,False
+A-3117528,CA,Marin,San Quentin,Source2,3,37.942596,-122.478271,2017,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3137009,CA,Marin,San Quentin,Source2,3,37.943432,-122.480415,2017,23,Sunday,Clear / Fair,False,True,False,True,False,False,False
+A-3162296,CA,Marin,San Rafael,Source2,3,37.942726,-122.478325,2017,7,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3167205,CA,Marin,Novato,Source2,3,38.070621,-122.539436,2017,23,Thursday,Cloudy,False,False,True,False,False,False,False
+A-3183276,CA,Marin,San Quentin,Source2,3,37.944809,-122.48558,2017,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-3185529,CA,Marin,San Rafael,Source2,3,37.942604,-122.477715,2017,6,Tuesday,Fog / Low visibility,False,False,True,False,False,False,False
+A-3193429,CA,Marin,Sausalito,Source2,3,37.833736,-122.483055,2017,13,Saturday,Cloudy,False,False,True,False,False,False,False
+A-3194027,CA,Marin,Novato,Source2,3,38.165077,-122.577904,2017,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3196470,CA,Marin,San Quentin,Source3,3,37.944809,-122.48558,2017,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-3206765,CA,Marin,San Rafael,Source2,3,37.962135,-122.51001,2017,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3206766,CA,Marin,San Rafael,Source2,3,38.010288,-122.542107,2017,15,Sunday,Cloudy,False,False,True,False,False,False,False
+A-3221904,CA,Marin,San Rafael,Source2,3,37.962135,-122.51001,2017,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3230138,CA,Marin,San Rafael,Source2,3,37.946487,-122.491051,2017,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3230148,CA,Marin,San Quentin,Source2,3,37.943432,-122.480415,2017,8,Friday,Clear / Fair,False,True,False,True,False,False,False
+A-3230215,CA,Marin,San Quentin,Source2,3,37.942596,-122.478271,2017,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3237167,CA,Marin,San Rafael,Source2,3,37.96146,-122.507957,2017,17,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-3244857,CA,Marin,Sausalito,Source2,3,37.841862,-122.485603,2017,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3244869,CA,Marin,San Rafael,Source2,3,37.94498400000001,-122.484604,2017,14,Friday,Fog / Low visibility,False,False,True,False,False,False,False
+A-3251234,CA,Marin,San Rafael,Source2,3,37.959267,-122.505051,2017,5,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3253821,CA,Marin,Ross Valley,Source2,3,37.934399,-122.433899,2017,13,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-3260045,CA,Marin,San Rafael,Source2,3,37.959942,-122.505287,2017,13,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-3265862,CA,Marin,San Rafael,Source2,3,37.946487,-122.491051,2017,0,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3268272,CA,Marin,San Rafael,Source2,3,37.965652,-122.515396,2017,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3273815,CA,Marin,San Quentin,Source2,3,37.944862,-122.484596,2017,6,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-3282860,CA,Marin,San Rafael,Source2,3,37.943348,-122.480057,2017,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3287770,CA,Marin,San Rafael,Source2,3,37.946487,-122.491051,2017,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3293695,CA,Marin,San Rafael,Source2,3,37.943516,-122.480331,2017,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3293752,CA,Marin,San Quentin,Source2,3,37.943783,-122.480995,2017,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3312338,CA,Marin,San Quentin,Source2,3,37.942596,-122.478271,2017,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3322160,CA,Marin,San Quentin,Source2,3,37.943432,-122.480415,2017,14,Wednesday,Cloudy,False,True,False,True,False,False,False
+A-3338048,CA,Marin,San Rafael,Source3,3,37.942604,-122.477715,2017,15,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-3341016,CA,Marin,San Rafael,Source2,3,37.959229,-122.509438,2017,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3359299,CA,Marin,San Quentin,Source2,3,37.94606,-122.490837,2017,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3373297,CA,Marin,San Rafael,Source2,3,37.942745,-122.478409,2017,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3406930,CA,Marin,San Rafael,Source2,3,37.95919,-122.504166,2017,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3414140,CA,Marin,Nicasio,Source1,4,38.019529,-122.729951,2016,22,Friday,Clear / Fair,False,False,False,False,True,False,False
+A-3414141,CA,Marin,Nicasio,Source1,4,38.0499,-122.7589,2016,22,Friday,Clear / Fair,False,False,False,True,False,False,False
+A-3414769,CA,Marin,Sausalito,Source1,3,37.83266,-122.48145,2016,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3415817,CA,Marin,San Rafael,Source1,3,37.990007,-122.528537,2016,15,Monday,Cloudy,False,False,True,False,False,False,False
+A-3415971,CA,Marin,San Rafael,Source1,3,37.96127,-122.50736,2016,0,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3416138,CA,Marin,Novato,Source1,3,38.041578,-122.536772,2016,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3416185,CA,Marin,San Quentin,Source1,3,37.944826,-122.485603,2016,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3416190,CA,Marin,San Rafael,Source1,4,37.98463,-122.52518,2016,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3416191,CA,Marin,San Rafael,Source1,4,37.98072,-122.52266000000002,2016,18,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-3416565,CA,Marin,San Rafael,Source1,3,38.02265,-122.53889,2016,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3417250,CA,Marin,Ross Valley,Source1,4,37.934945,-122.442183,2016,20,Friday,Sin dato,False,False,False,False,False,False,False
+A-3417536,CA,Marin,Nicasio,Source1,4,38.04626,-122.77098,2016,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3417537,CA,Marin,Point Reyes Station,Source1,4,38.04049000000001,-122.78778,2016,11,Thursday,Cloudy,False,False,False,True,False,False,False
+A-3417547,CA,Marin,San Rafael,Source1,4,37.97143,-122.52224,2016,13,Thursday,Clear / Fair,True,True,False,False,False,True,False
+A-3417949,CA,Marin,San Rafael,Source1,3,38.038578,-122.536552,2016,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3523951,CA,Marin,Mill Valley,Source1,3,37.89968,-122.51585,2016,16,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-3524173,CA,Marin,Larkspur,Source1,3,37.950911,-122.51102,2016,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3524836,CA,Marin,San Rafael,Source1,3,38.02750800000001,-122.53791,2016,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3524839,CA,Marin,Novato,Source1,3,38.06218300000001,-122.533953,2016,19,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3525555,CA,Marin,Sausalito,Source1,3,37.83455,-122.48395,2016,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3525642,CA,Marin,San Rafael,Source1,3,38.00888,-122.54209,2016,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3525644,CA,Marin,San Rafael,Source1,3,37.99119,-122.52971,2016,15,Thursday,Cloudy,False,False,True,False,False,False,False
+A-3525762,CA,Marin,Sausalito,Source1,3,37.854813,-122.493642,2016,4,Friday,Cloudy,False,False,True,False,False,False,False
+A-3525994,CA,Marin,Novato,Source1,3,38.07057,-122.53942,2016,23,Friday,Cloudy,False,False,True,False,False,False,False
+A-3526708,CA,Marin,Novato,Source1,3,38.10143,-122.56148,2016,8,Thursday,Rain,False,False,False,False,False,False,False
+A-3527935,CA,Marin,Corte Madera,Source1,3,37.934188,-122.516402,2016,23,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3529830,CA,Marin,Sausalito,Source1,3,37.85468,-122.49358,2017,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3531258,CA,Marin,Mill Valley,Source1,3,37.878039,-122.514151,2017,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3533614,CA,Marin,Novato,Source1,3,38.09645,-122.56181,2016,6,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-3536198,CA,Marin,Corte Madera,Source1,3,37.92225,-122.512505,2016,6,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3539207,CA,Marin,San Rafael,Source1,3,37.96149000000001,-122.50767,2016,4,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-3539462,CA,Marin,Larkspur,Source1,3,37.94152,-122.51579,2016,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3540266,CA,Marin,San Rafael,Source1,3,37.99803,-122.535157,2016,8,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-3541889,CA,Marin,Fairfax,Source1,4,37.99130200000001,-122.592602,2016,1,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3541890,CA,Marin,Fairfax,Source1,4,37.995258,-122.595924,2016,1,Tuesday,Cloudy,True,False,False,False,False,True,False
+A-3544305,CA,Marin,San Rafael,Source1,4,37.99119,-122.52971,2016,8,Friday,Rain,False,False,True,False,False,False,False
+A-3544307,CA,Marin,San Rafael,Source1,4,37.996676,-122.534173,2016,8,Friday,Rain,False,False,False,False,False,False,False
+A-3544891,CA,Marin,Nicasio,Source1,4,38.02558,-122.736394,2016,1,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3547227,CA,Marin,Sausalito,Source1,3,37.86179,-122.50497,2016,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-3548370,CA,Marin,Mill Valley,Source1,4,37.89625,-122.63671,2016,11,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-3553253,CA,Marin,Sausalito,Source1,3,37.85929,-122.50045,2016,1,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3553478,CA,Marin,Mill Valley,Source1,4,37.88733,-122.54367,2016,19,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-3553480,CA,Marin,Mill Valley,Source1,4,37.886,-122.53748,2016,19,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-3553481,CA,Marin,Sausalito,Source1,3,37.847409000000006,-122.487379,2016,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3553900,CA,Marin,Novato,Source1,3,38.06835,-122.53859,2016,7,Friday,Fog / Low visibility,False,False,True,False,False,False,False
+A-3555323,CA,Marin,Mill Valley,Source1,3,37.89968,-122.51585,2016,15,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-3564731,CA,Marin,Novato,Source1,4,38.12097,-122.56579,2017,2,Thursday,Cloudy,False,False,True,False,True,False,True
+A-3565714,CA,Marin,Ross Valley,Source1,4,37.94248,-122.47761,2017,15,Tuesday,Sin dato,False,False,True,False,False,False,False
+A-3588071,CA,Marin,Sausalito,Source1,3,37.86059,-122.50264,2017,19,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3588823,CA,Marin,Ross Valley,Source1,3,37.94248,-122.47761,2017,13,Friday,Sin dato,False,False,True,False,False,False,False
+A-3591659,CA,Marin,San Rafael,Source1,4,38.03357000000001,-122.54026,2017,19,Friday,Clear / Fair,False,True,False,True,False,False,False
+A-3591660,CA,Marin,San Rafael,Source1,4,38.03357000000001,-122.54026,2017,19,Friday,Clear / Fair,False,True,False,True,False,False,False
+A-3591778,CA,Marin,San Rafael,Source1,3,37.98992,-122.52869,2017,11,Monday,Cloudy,False,False,True,False,False,False,False
+A-3610288,CA,Marin,San Rafael,Source1,3,38.033504,-122.537023,2017,2,Monday,Clear / Fair,False,False,False,False,False,True,False
+A-3610495,CA,Marin,Stinson Beach,Source1,4,37.9345,-122.69685,2017,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3611144,CA,Marin,Novato,Source1,3,38.051618,-122.531228,2017,22,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-3621597,CA,Marin,San Rafael,Source1,3,37.997788,-122.534749,2017,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3636881,CA,Marin,Mill Valley,Source1,4,37.904375,-122.604056,2017,13,Thursday,Cloudy,False,False,False,True,True,True,False
+A-3636884,CA,Marin,Mill Valley,Source1,4,37.904599,-122.603921,2017,13,Thursday,Cloudy,False,False,False,False,False,True,False
+A-3636988,CA,Marin,Sausalito,Source1,3,37.852728000000006,-122.49246399999998,2017,3,Friday,Cloudy,False,False,False,False,False,False,False
+A-3639278,CA,Marin,Novato,Source1,4,38.10306,-122.51428,2017,15,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-3648625,CA,Marin,San Rafael,Source1,3,37.989999,-122.528529,2017,19,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-3648632,CA,Marin,San Rafael,Source1,3,37.95955,-122.50933,2017,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3657035,CA,Marin,Sausalito,Source1,4,37.866994,-122.57729,2023,9,Thursday,Cloudy,False,False,False,True,False,False,False
+A-4136929,CA,Marin,San Rafael,Source1,4,37.991137,-122.529863,2022,18,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-4190307,CA,Marin,Mill Valley,Source1,4,37.89118300000001,-122.516705,2022,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4270985,CA,Marin,Sausalito,Source1,4,37.85274,-122.492466,2022,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4298559,CA,Marin,Sausalito,Source1,4,37.855227,-122.493843,2022,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4300464,CA,Marin,San Quentin,Source1,4,37.942603826341895,-122.47830033243903,2022,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4447766,CA,Marin,Mill Valley,Source1,4,37.887024,-122.547799,2022,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4471891,CA,Marin,Mill Valley,Source1,4,37.902794,-122.515811,2022,7,Tuesday,Cloudy,False,False,False,False,False,True,False
+A-4544744,CA,Marin,San Rafael,Source1,4,38.00963,-122.542098,2022,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4591554,CA,Marin,Muir Beach,Source1,4,37.864626,-122.574403,2022,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4625822,CA,Marin,Belvedere Tiburon,Source1,4,37.888822,-122.477587,2022,10,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-4771270,CA,Marin,Mill Valley,Source1,4,37.887182,-122.551362,2022,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5010446,CA,Marin,Sausalito,Source1,4,37.850091,-122.489645,2022,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5104897,CA,Marin,Bolinas,Source1,4,37.935629,-122.700006,2022,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5140892,CA,Marin,Sausalito,Source1,4,37.85524964,-122.49364257,2022,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5161537,CA,Marin,Belvedere Tiburon,Source1,4,37.892441,-122.482539,2022,10,Monday,Clear / Fair,True,True,False,False,False,False,False
+A-5308796,CA,Marin,Corte Madera,Source1,4,37.92711138707195,-122.51220345438712,2022,2,Sunday,Clear / Fair,True,True,False,False,False,False,False
+A-5633517,CA,Marin,Mill Valley,Source1,4,37.905796,-122.573249,2021,12,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-5911656,CA,Marin,San Rafael,Source1,4,37.992756,-122.538593,2021,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5950841,CA,Marin,Mill Valley,Source1,4,37.903896,-122.569642,2021,8,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6148970,CA,Marin,Mill Valley,Source1,4,37.903896,-122.569642,2021,8,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6298872,CA,Marin,Mill Valley,Source1,4,37.884135,-122.553726,2021,8,Sunday,Clear / Fair,False,False,False,True,False,False,False
+A-6508023,CA,Marin,Nicasio,Source1,4,38.025463,-122.664857,2021,5,Friday,Sin dato,False,False,False,False,False,False,False
+A-6987578,CA,Marin,Novato,Source1,3,38.17669,-122.5941,2020,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6987586,CA,Marin,Novato,Source1,3,38.17669,-122.5941,2020,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7002013,CA,Marin,San Rafael,Source1,3,37.97619,-122.52051000000002,2020,21,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7002017,CA,Marin,San Rafael,Source1,3,37.97619,-122.52051000000002,2020,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7011023,CA,Marin,Stinson Beach,Source1,4,37.93466,-122.69736,2020,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7013216,CA,Marin,San Rafael,Source1,3,37.96782,-122.51906,2020,19,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7013218,CA,Marin,San Rafael,Source1,3,37.96782,-122.51906,2020,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7020773,CA,Marin,San Rafael,Source1,3,37.96063,-122.50954,2020,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7029500,CA,Marin,Sausalito,Source1,3,37.83725,-122.48563,2020,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7029505,CA,Marin,Sausalito,Source1,3,37.83725,-122.48563,2020,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7029559,CA,Marin,Ross Valley,Source1,4,37.93972,-122.46479,2020,0,Friday,Sin dato,False,False,False,False,False,False,False
+A-7036883,CA,Marin,Novato,Source1,4,38.17657,-122.59424,2020,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-7036897,CA,Marin,Novato,Source1,4,38.17657,-122.59424,2020,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-7066599,CA,Marin,San Rafael,Source1,3,37.97619,-122.52051000000002,2020,0,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7087616,CA,Marin,Larkspur,Source1,3,37.93999,-122.51621000000002,2020,16,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7087619,CA,Marin,Larkspur,Source1,3,37.93999,-122.51621000000002,2020,16,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7095452,CA,Marin,Greenbrae,Source1,3,37.93713,-122.51668,2020,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7104276,CA,Marin,Novato,Source1,4,38.11348,-122.56462,2020,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7121161,CA,Marin,Novato,Source1,4,38.04491,-122.5342,2020,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7121178,CA,Marin,Novato,Source1,3,38.04491,-122.5342,2020,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7121181,CA,Marin,Novato,Source1,3,38.04492,-122.5342,2020,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7135167,CA,Marin,San Rafael,Source1,4,37.95847,-122.50929,2020,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7135168,CA,Marin,San Rafael,Source1,4,37.95847,-122.50929,2020,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7135188,CA,Marin,Sausalito,Source1,3,37.84355,-122.48564,2020,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7135194,CA,Marin,Sausalito,Source1,3,37.84355,-122.48564,2020,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7142739,CA,Marin,Sausalito,Source1,3,37.83032,-122.47974,2020,23,Friday,Cloudy,False,False,False,False,False,False,False
+A-7142746,CA,Marin,Sausalito,Source1,3,37.83032,-122.47974,2020,0,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7142763,CA,Marin,Sausalito,Source1,3,37.83037,-122.47975,2020,1,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7142764,CA,Marin,Sausalito,Source1,3,37.83032,-122.47974,2020,0,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7142770,CA,Marin,Sausalito,Source1,3,37.83032,-122.47974,2020,1,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7142772,CA,Marin,Sausalito,Source1,3,37.83032,-122.47974,2020,1,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7142774,CA,Marin,Sausalito,Source1,3,37.83031,-122.47984,2020,2,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7146047,CA,Marin,Ross Valley,Source1,3,37.93972,-122.46479,2020,23,Monday,Sin dato,False,False,False,False,False,False,False
+A-7159120,CA,Marin,Mill Valley,Source1,3,37.87904,-122.51444,2020,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-7183510,CA,Marin,Novato,Source1,4,38.06975,-122.53879,2020,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-7183515,CA,Marin,Novato,Source1,4,38.06975,-122.53879,2020,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-7183522,CA,Marin,Novato,Source1,4,38.06975,-122.53879,2020,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-7183528,CA,Marin,Novato,Source1,4,38.06975,-122.53879,2020,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-7183532,CA,Marin,Novato,Source1,4,38.06975,-122.53879,2020,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-7196781,CA,Marin,Sausalito,Source1,3,37.83393,-122.48354,2020,13,Friday,Clear / Fair,False,False,False,True,False,False,False
+A-7196784,CA,Marin,Novato,Source1,3,38.1767,-122.59409,2020,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7196787,CA,Marin,Novato,Source1,3,38.17666,-122.59405,2020,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7196791,CA,Marin,Sausalito,Source1,4,37.83393,-122.48354,2020,13,Friday,Clear / Fair,False,False,False,True,False,False,False
+A-7217012,CA,Marin,San Rafael,Source1,4,37.97158,-122.5241,2020,12,Friday,Clear / Fair,True,True,False,False,False,True,False
+A-7217013,CA,Marin,San Rafael,Source1,4,37.97084,-122.52428,2020,12,Friday,Clear / Fair,True,True,False,False,False,False,False
+A-7307987,CA,Marin,Novato,Source1,3,38.05146,-122.53126,2019,17,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7319614,CA,Marin,Sausalito,Source1,3,37.86179,-122.50497,2019,13,Wednesday,Rain,False,False,False,False,False,False,False
+A-7319616,CA,Marin,Sausalito,Source1,3,37.86179,-122.50497,2019,14,Wednesday,Rain,False,False,False,False,False,False,False
+A-7344317,CA,Marin,Novato,Source1,4,38.10786,-122.50919,2019,23,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7344320,CA,Marin,Novato,Source1,4,38.10786,-122.50919,2019,23,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7352635,CA,Marin,Belvedere Tiburon,Source1,4,37.8881,-122.44737,2019,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7352636,CA,Marin,Belvedere Tiburon,Source1,4,37.88872,-122.44955,2019,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7384978,CA,Marin,Sausalito,Source1,3,37.84942,-122.48946,2019,7,Monday,Cloudy,False,False,True,False,False,False,False
+A-7396258,CA,Marin,Corte Madera,Source1,4,37.93125,-122.51606,2019,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7424966,CA,Marin,Novato,Source1,3,38.06835,-122.53859,2019,7,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7426835,CA,Marin,Muir Beach,Source1,4,37.865039,-122.574819,2019,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7426837,CA,Marin,Sausalito,Source1,4,37.866991,-122.577182,2019,14,Tuesday,Fog / Low visibility,False,False,False,True,False,False,False
+A-7426839,CA,Marin,Sausalito,Source1,4,37.866991,-122.577182,2019,15,Tuesday,Cloudy,False,False,False,True,False,False,False
+A-7440290,CA,Marin,Sausalito,Source1,3,37.86561500000001,-122.507029,2019,20,Monday,Rain,False,False,False,False,False,False,False
+A-7442740,CA,Marin,Ross Valley,Source1,4,37.94248,-122.47761,2019,19,Thursday,Sin dato,False,False,True,False,False,False,False
+A-7446017,CA,Marin,Novato,Source1,3,38.07553,-122.54185,2019,1,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7450025,CA,Marin,Novato,Source1,4,38.10334,-122.51424,2019,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7454720,CA,Marin,Sausalito,Source1,3,37.852437,-122.492127,2019,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7457924,CA,Marin,San Rafael,Source1,3,38.000662,-122.536851,2019,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7461687,CA,Marin,Sausalito,Source1,3,37.875715,-122.51025,2019,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-7463630,CA,Marin,Sausalito,Source1,3,37.830757,-122.4798,2019,14,Tuesday,Rain,False,False,False,False,False,False,False
+A-7463647,CA,Marin,San Rafael,Source1,3,37.99119,-122.52971,2019,15,Tuesday,Rain,False,False,True,False,False,False,False
+A-7480465,CA,Marin,San Rafael,Source1,3,38.02265,-122.53889,2018,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-7480500,CA,Marin,Novato,Source1,3,38.07057,-122.53942,2018,17,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7480504,CA,Marin,Mill Valley,Source1,3,37.903347,-122.515554,2018,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7481460,CA,Marin,San Rafael,Source1,3,37.965829,-122.515749,2018,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7481486,CA,Marin,Mill Valley,Source1,3,37.903649,-122.515763,2018,18,Tuesday,Clear / Fair,False,True,False,True,False,False,False
+A-7483531,CA,Marin,Sausalito,Source1,3,37.869885,-122.507083,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7485542,CA,Marin,San Rafael,Source1,3,37.96823,-122.520381,2018,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7485543,CA,Marin,San Rafael,Source1,3,37.989999,-122.528529,2018,19,Sunday,Rain,False,False,True,False,False,False,False
+A-7486976,CA,Marin,Kentfield,Source1,3,37.95545,-122.54723,2018,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7486982,CA,Marin,Sausalito,Source1,3,37.848349,-122.488731,2018,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7490085,CA,Marin,San Rafael,Source1,3,38.03948,-122.53676000000002,2018,13,Monday,Rain,False,False,False,False,False,False,False
+A-7494310,CA,Marin,Greenbrae,Source1,3,37.94443,-122.51747,2018,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7502090,CA,Marin,San Rafael,Source1,3,38.00354,-122.53896,2018,16,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7502091,CA,Marin,Mill Valley,Source1,3,37.899677,-122.51585,2018,16,Wednesday,Fog / Low visibility,False,False,True,False,False,False,False
+A-7507441,CA,Marin,San Rafael,Source1,3,37.985531,-122.524451,2018,5,Thursday,Sin dato,False,False,False,False,False,False,False
+A-7507995,CA,Marin,Sausalito,Source1,3,37.843166,-122.485925,2018,5,Friday,Rain,False,False,False,False,False,False,False
+A-7508001,CA,Marin,Sausalito,Source1,3,37.855953,-122.494554,2018,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-7508016,CA,Marin,Mill Valley,Source1,3,37.87540900000001,-122.510127,2018,16,Friday,Sin dato,False,False,False,False,False,False,False
+A-7510216,CA,Marin,San Rafael,Source1,3,38.02224,-122.53898,2018,17,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-7510218,CA,Marin,Novato,Source1,3,38.07057,-122.53942,2018,17,Tuesday,Sin dato,False,False,True,False,False,False,False
+A-7511106,CA,Marin,San Rafael,Source1,3,37.963507,-122.511584,2018,15,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-7511107,CA,Marin,Larkspur,Source1,3,37.94882,-122.51245,2018,15,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-7511154,CA,Marin,San Rafael,Source1,4,37.977826,-122.522201,2018,17,Thursday,Cloudy,True,False,False,False,True,False,False
+A-7511155,CA,Marin,San Rafael,Source1,4,37.975091,-122.52315,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7513705,CA,Marin,Sausalito,Source1,3,37.835659,-122.48463999999998,2018,8,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7522875,CA,Marin,Sausalito,Source1,3,37.83505,-122.48445,2018,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7526272,CA,Marin,Sausalito,Source1,3,37.829144,-122.479604,2018,3,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7527136,CA,Marin,Sausalito,Source1,3,37.864127,-122.584422,2018,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-7527857,CA,Marin,Novato,Source1,3,38.11345,-122.56433,2018,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7540404,CA,Marin,San Rafael,Source1,4,37.94486,-122.48414,2018,6,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7541040,CA,Marin,Corte Madera,Source1,3,37.919893,-122.511371,2018,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7541043,CA,Marin,Novato,Source1,3,38.11345,-122.56433,2018,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7542795,CA,Marin,Larkspur,Source1,3,37.948221,-122.51303500000002,2018,8,Friday,Cloudy,False,False,True,False,False,False,False
+A-7546018,CA,Marin,Novato,Source1,3,38.06231,-122.53377,2018,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7549794,CA,Marin,San Rafael,Source1,3,37.99119,-122.52971,2018,14,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7551449,CA,Marin,Novato,Source1,3,38.11167,-122.56406,2018,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7553199,CA,Marin,Corte Madera,Source1,3,37.9231,-122.51297,2018,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7553202,CA,Marin,Corte Madera,Source1,4,37.9231,-122.51297,2018,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7562206,CA,Marin,San Rafael,Source1,4,37.97252,-122.522969,2018,16,Wednesday,Clear / Fair,True,True,False,True,False,True,False
+A-7565144,CA,Marin,Ross Valley,Source1,3,37.936716,-122.455139,2018,8,Thursday,Sin dato,False,False,False,False,False,False,False
+A-7565180,CA,Marin,Sausalito,Source1,3,37.83162,-122.48026000000002,2018,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7565191,CA,Marin,Novato,Source1,3,38.11345,-122.56433,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7565195,CA,Marin,Novato,Source1,3,38.11345,-122.56433,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7569578,CA,Marin,San Rafael,Source1,3,37.98992,-122.52869,2018,14,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7570206,CA,Marin,San Rafael,Source1,3,37.96823,-122.520381,2018,3,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7571540,CA,Marin,Novato,Source1,3,38.11345,-122.56433,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7572187,CA,Marin,San Rafael,Source1,4,37.98992,-122.52869,2018,23,Saturday,Cloudy,False,False,True,False,False,False,False
+A-7572199,CA,Marin,San Rafael,Source1,3,38.0295,-122.53768,2018,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7581959,CA,Marin,San Rafael,Source1,3,37.989999,-122.528529,2018,21,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7585970,CA,Marin,Sausalito,Source1,3,37.83396,-122.48337,2018,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7586914,CA,Marin,Sausalito,Source1,3,37.846089,-122.48667,2018,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-7591032,CA,Marin,Novato,Source1,3,38.07553,-122.54185,2018,13,Friday,Rain,False,False,True,False,False,False,False
+A-7591033,CA,Marin,Novato,Source1,3,38.08052,-122.54452,2018,13,Friday,Rain,False,False,False,False,False,False,False
+A-7592695,CA,Marin,San Rafael,Source1,3,37.944522,-122.482436,2018,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7599740,CA,Marin,Mill Valley,Source1,3,37.864947,-122.567636,2018,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7605012,CA,Marin,Corte Madera,Source1,3,37.9231,-122.51297,2018,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7606100,CA,Marin,San Rafael,Source1,3,38.01058,-122.54212,2018,9,Thursday,Rain,False,False,True,False,False,False,False
+A-7611363,CA,Marin,Mill Valley,Source1,3,37.9056,-122.51543999999998,2018,23,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7622091,CA,Marin,Nicasio,Source1,3,38.01449,-122.66373,2018,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-7622092,CA,Marin,Nicasio,Source1,3,38.01463,-122.66373,2018,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-7622676,CA,Marin,Sausalito,Source1,3,37.846089,-122.48667,2018,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7624347,CA,Marin,Novato,Source1,3,38.06835,-122.53859,2018,14,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7634953,CA,Marin,Sausalito,Source1,3,37.86179,-122.50497,2018,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7636244,CA,Marin,Corte Madera,Source1,3,37.93125,-122.51606,2018,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7636920,CA,Marin,Corte Madera,Source1,3,37.93996,-122.51601,2018,16,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7636925,CA,Marin,San Rafael,Source1,3,37.96779,-122.51907,2018,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7639697,CA,Marin,Marshall,Source1,4,38.16318,-122.89267,2018,18,Monday,Sin dato,False,False,False,False,False,False,False
+A-7639698,CA,Marin,Petaluma,Source1,4,38.092383,-122.817267,2018,18,Monday,Sin dato,False,False,False,False,False,False,False
+A-7639701,CA,Marin,Woodacre,Source1,4,38.01273,-122.63016,2018,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7647533,CA,Marin,Mill Valley,Source1,3,37.89171,-122.51667,2017,21,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7661268,CA,Marin,San Rafael,Source1,3,38.008156,-122.541975,2017,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7662696,CA,Marin,Nicasio,Source1,4,38.019527,-122.729956,2017,9,Tuesday,Clear / Fair,False,False,False,False,True,False,False
+A-7662697,CA,Marin,Nicasio,Source1,4,38.04981400000001,-122.75852,2017,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7662714,CA,Marin,San Rafael,Source1,3,37.965708,-122.515547,2017,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7668868,CA,Marin,San Quentin,Source1,4,37.943367,-122.501814,2017,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7678731,CA,Marin,San Rafael,Source1,3,37.960629,-122.50954,2017,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7680170,CA,Marin,San Rafael,Source1,4,37.9601,-122.53244,2017,15,Thursday,Cloudy,False,False,False,True,False,False,False
+A-7680171,CA,Marin,Greenbrae,Source1,4,37.95293,-122.53818,2017,15,Thursday,Cloudy,True,False,False,False,False,False,False
+A-7682351,CA,Marin,Sausalito,Source1,4,37.852755,-122.492494,2017,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7683318,CA,Marin,Ross Valley,Source1,3,37.94248,-122.47761,2017,21,Friday,Sin dato,False,False,True,False,False,False,False
+A-7703152,CA,Marin,Ross Valley,Source1,3,37.94248,-122.47761,2019,0,Thursday,Sin dato,False,False,True,False,False,False,False
+A-7704351,CA,Marin,Sausalito,Source1,3,37.835659,-122.48463999999998,2019,14,Friday,Cloudy,False,False,True,False,False,False,False
+A-7710081,CA,Marin,San Quentin,Source1,3,37.944925,-122.485987,2019,3,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7710694,CA,Marin,Novato,Source1,3,38.107681,-122.50933899999998,2019,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7710695,CA,Marin,Novato,Source1,4,38.08052,-122.54452,2019,1,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7710696,CA,Marin,Novato,Source1,4,38.07553,-122.54185,2019,1,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7711334,CA,Marin,Sausalito,Source1,3,37.835659,-122.48463999999998,2019,12,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7718349,CA,Marin,San Rafael,Source1,3,37.99119,-122.52971,2019,18,Sunday,Cloudy,False,False,True,False,False,False,False
+A-7724581,CA,Marin,San Rafael,Source1,4,37.980256,-122.522314,2019,17,Friday,Clear / Fair,False,False,False,False,True,False,False
+A-7724582,CA,Marin,San Rafael,Source1,4,37.981676,-122.523297,2019,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7724583,CA,Marin,San Rafael,Source1,4,37.980256,-122.522314,2019,19,Friday,Clear / Fair,False,False,False,False,True,False,False
+A-7727944,CA,Marin,Sausalito,Source1,3,37.85929,-122.50045,2019,23,Friday,Cloudy,False,False,False,False,False,False,False
+A-7729700,CA,Marin,Mill Valley,Source1,4,37.90099,-122.51575,2019,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7730496,CA,Marin,Mill Valley,Source1,3,37.89353,-122.55726,2019,15,Thursday,Clear / Fair,False,False,False,True,True,False,False
+A-7730497,CA,Marin,Mill Valley,Source1,3,37.899476,-122.562523,2019,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7732265,CA,Marin,San Quentin,Source1,4,37.946023,-122.493721,2019,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7732276,CA,Marin,Larkspur,Source1,3,37.945133,-122.514624,2019,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7741656,CA,Marin,Corte Madera,Source1,3,37.926594,-122.514761,2019,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7743006,CA,Marin,Larkspur,Source1,3,37.941955,-122.515671,2019,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7751786,CA,Marin,Mill Valley,Source1,3,37.898813,-122.515921,2019,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-7751808,CA,Marin,Mill Valley,Source1,3,37.898813,-122.515921,2019,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-7755497,CA,Marin,Novato,Source1,3,38.06131,-122.53317,2019,9,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7755498,CA,Marin,Novato,Source1,3,38.051196,-122.531081,2019,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7765249,CA,Marin,Mill Valley,Source1,3,37.88211,-122.52492,2019,15,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-7766347,CA,Marin,Sausalito,Source1,3,37.82584600000001,-122.479208,2019,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7774176,CA,Marin,Mill Valley,Source1,3,37.902548,-122.51563,2019,16,Thursday,Clear / Fair,False,False,False,False,False,False,False

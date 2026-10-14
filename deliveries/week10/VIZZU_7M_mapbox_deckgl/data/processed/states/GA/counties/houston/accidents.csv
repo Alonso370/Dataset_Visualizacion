@@ -1,0 +1,506 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-146682,GA,Houston,Perry,Source2,3,32.394585,-83.766144,2016,17,Monday,Rain,False,False,False,False,False,False,False
+A-147401,GA,Houston,Perry,Source2,3,32.431511,-83.757103,2016,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-147971,GA,Houston,Kathleen,Source2,3,32.429333,-83.579163,2016,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-148286,GA,Houston,Perry,Source2,3,32.431511,-83.757103,2016,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-149749,GA,Houston,Bonaire,Source2,3,32.548279,-83.597031,2017,13,Tuesday,Clear / Fair,True,True,False,False,False,False,False
+A-150472,GA,Houston,Bonaire,Source2,3,32.548279,-83.597031,2016,16,Thursday,Cloudy,True,True,False,False,False,False,False
+A-151441,GA,Houston,Perry,Source2,3,32.49324,-83.742775,2016,20,Saturday,Cloudy,False,False,False,False,False,False,False
+A-151811,GA,Houston,Perry,Source2,3,32.431511,-83.757103,2016,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-151955,GA,Houston,Perry,Source2,3,32.431511,-83.757103,2016,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-152009,GA,Houston,Perry,Source2,3,32.446857,-83.754707,2016,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-152135,GA,Houston,Perry,Source2,3,32.471786,-83.743912,2016,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-153756,GA,Houston,Perry,Source2,3,32.48888,-83.742661,2016,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-154420,GA,Houston,Perry,Source2,3,32.485233,-83.742317,2016,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-154520,GA,Houston,Perry,Source2,3,32.493252000000005,-83.742775,2016,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-154970,GA,Houston,Perry,Source2,3,32.471786,-83.743912,2016,19,Saturday,Cloudy,False,False,False,False,False,False,False
+A-155466,GA,Houston,Perry,Source2,3,32.471786,-83.743912,2016,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-157903,GA,Houston,Perry,Source2,3,32.454712,-83.708046,2016,10,Wednesday,Clear / Fair,False,False,False,True,False,False,False
+A-158183,GA,Houston,Perry,Source2,3,32.494877,-83.67935899999998,2016,8,Monday,Clear / Fair,False,False,False,True,False,False,False
+A-158995,GA,Houston,Perry,Source2,3,32.446857,-83.754707,2016,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-322724,GA,Houston,Warner Robins,Source2,3,32.659145,-83.618607,2017,10,Monday,Clear / Fair,True,True,False,False,False,False,False
+A-322866,GA,Houston,Bonaire,Source3,3,32.54377,-83.59650400000002,2017,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-363098,GA,Houston,Elko,Source2,3,32.354931,-83.768784,2017,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-414541,GA,Houston,Perry,Source2,3,32.431511,-83.757103,2017,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-443950,GA,Houston,Perry,Source2,3,32.446857,-83.754707,2017,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-468405,GA,Houston,Perry,Source2,3,32.431221,-83.757164,2017,16,Thursday,Storm,False,False,False,False,False,False,False
+A-468509,GA,Houston,Perry,Source2,3,32.510006,-83.74294300000003,2017,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-468511,GA,Houston,Perry,Source2,3,32.49324,-83.742775,2017,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-468652,GA,Houston,Perry,Source2,3,32.471786,-83.743912,2017,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-469419,GA,Houston,Perry,Source2,3,32.493252000000005,-83.74252299999998,2017,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-499478,GA,Houston,Perry,Source2,3,32.446857,-83.754707,2017,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-499866,GA,Houston,Perry,Source2,3,32.471786,-83.743912,2017,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-499940,GA,Houston,Perry,Source2,3,32.446857,-83.754707,2017,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-528904,GA,Houston,Perry,Source2,3,32.480701,-83.75885799999998,2022,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-532828,GA,Houston,Perry,Source2,3,32.503334,-83.742798,2022,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-539127,GA,Houston,Perry,Source2,3,32.49337,-83.74251600000002,2022,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-539888,GA,Houston,Warner Robins,Source2,3,32.615398,-83.598106,2022,10,Thursday,Cloudy,False,False,False,False,False,False,True
+A-558048,GA,Houston,Perry,Source2,3,32.447205,-83.75456199999998,2022,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-563137,GA,Houston,Perry,Source2,3,32.432682,-83.720688,2022,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-633658,GA,Houston,Perry,Source2,3,32.471581,-83.743973,2022,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-639974,GA,Houston,Perry,Source2,3,32.396,-83.765938,2022,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-642609,GA,Houston,Perry,Source2,3,32.454338,-83.75251,2022,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-648385,GA,Houston,Perry,Source2,3,32.493198,-83.742767,2022,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-658812,GA,Houston,Perry,Source2,3,32.431377000000005,-83.757286,2022,22,Wednesday,Storm,False,False,False,False,False,False,False
+A-697357,GA,Houston,Perry,Source2,3,32.493088,-83.742767,2022,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-703859,GA,Houston,Bonaire,Source2,3,32.554531,-83.642792,2022,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-746015,GA,Houston,Perry,Source2,3,32.447205,-83.75456199999998,2022,15,Sunday,Rain,False,False,False,False,False,False,False
+A-773177,GA,Houston,Perry,Source2,3,32.431377000000005,-83.757286,2021,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-776969,GA,Houston,Perry,Source2,4,32.43132,-83.756912,2021,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-810644,GA,Houston,Perry,Source2,3,32.507416,-83.743134,2021,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-816016,GA,Houston,Perry,Source2,3,32.471581,-83.743973,2021,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-913006,GA,Houston,Perry,Source2,3,32.431377000000005,-83.757286,2021,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-933435,GA,Houston,Perry,Source2,3,32.447205,-83.75456199999998,2021,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-947466,GA,Houston,Perry,Source2,3,32.49337,-83.74251600000002,2021,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-951434,GA,Houston,Perry,Source2,3,32.431377000000005,-83.757286,2021,15,Saturday,Storm,False,False,False,False,False,False,False
+A-969885,GA,Houston,Perry,Source2,3,32.431377000000005,-83.757286,2021,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-981343,GA,Houston,Elko,Source2,3,32.336044,-83.76754,2021,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-987578,GA,Houston,Perry,Source2,3,32.431377000000005,-83.757286,2021,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1002244,GA,Houston,Elko,Source2,3,32.336044,-83.76754,2021,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1002253,GA,Houston,Perry,Source2,4,32.431534,-83.756874,2021,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1002264,GA,Houston,Perry,Source2,4,32.428875,-83.75753,2021,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1008264,GA,Houston,Perry,Source2,3,32.431377000000005,-83.757286,2021,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-1014946,GA,Houston,Perry,Source2,3,32.431377000000005,-83.757286,2021,13,Monday,Rain,False,False,False,False,False,False,False
+A-1016445,GA,Houston,Perry,Source2,3,32.49337,-83.74251600000002,2021,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1037503,GA,Houston,Perry,Source2,3,32.447205,-83.75456199999998,2021,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1042530,GA,Houston,Perry,Source2,3,32.431377000000005,-83.757286,2021,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-1062891,GA,Houston,Elko,Source2,3,32.336044,-83.76754,2021,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1076016,GA,Houston,Elko,Source2,3,32.319118,-83.764526,2021,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1076024,GA,Houston,Perry,Source2,3,32.49403,-83.743401,2021,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1087083,GA,Houston,Perry,Source2,3,32.431377000000005,-83.757286,2021,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1103554,GA,Houston,Elko,Source2,4,32.336044,-83.76754,2021,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1117813,GA,Houston,Kathleen,Source2,3,32.499195,-83.66552,2021,8,Tuesday,Cloudy,False,False,False,True,False,False,False
+A-1121540,GA,Houston,Perry,Source2,3,32.431377000000005,-83.757286,2021,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-1192310,GA,Houston,Perry,Source2,3,32.429459,-83.75737,2021,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1201971,GA,Houston,Perry,Source2,3,32.446781,-83.75473000000002,2021,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1211678,GA,Houston,Elko,Source2,4,32.336369,-83.767708,2020,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1226848,GA,Houston,Warner Robins,Source2,3,32.618279,-83.644829,2020,7,Wednesday,Rain,True,True,False,False,False,False,False
+A-1226852,GA,Houston,Perry,Source2,3,32.484737,-83.742561,2020,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1226853,GA,Houston,Perry,Source2,3,32.484737,-83.742561,2020,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1234860,GA,Houston,Perry,Source2,3,32.431377000000005,-83.757286,2020,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1257704,GA,Houston,Bonaire,Source2,3,32.554489000000004,-83.662247,2020,19,Friday,Cloudy,True,False,False,False,False,False,False
+A-1292628,GA,Houston,Perry,Source2,3,32.45768,-83.750763,2020,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1302780,GA,Houston,Perry,Source2,4,32.471581,-83.743973,2020,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1381279,GA,Houston,Elko,Source2,4,32.336044,-83.76754,2020,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1388628,GA,Houston,Perry,Source2,3,32.447205,-83.75456199999998,2020,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1416359,GA,Houston,Elko,Source2,4,32.336044,-83.76754,2020,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1425650,GA,Houston,Perry,Source2,3,32.49337,-83.74251600000002,2020,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1426772,GA,Houston,Warner Robins,Source2,3,32.582439,-83.58740999999998,2020,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1435386,GA,Houston,Perry,Source2,3,32.447205,-83.75456199999998,2020,15,Monday,Storm,False,False,False,False,False,False,False
+A-1441158,GA,Houston,Perry,Source2,3,32.471581,-83.743973,2020,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-1456746,GA,Houston,Perry,Source2,3,32.447205,-83.75456199999998,2020,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1474473,GA,Houston,Perry,Source2,3,32.471581,-83.743973,2020,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1478713,GA,Houston,Perry,Source2,3,32.431141,-83.756958,2020,20,Friday,Rain,False,False,False,False,False,False,False
+A-1489186,GA,Houston,Perry,Source2,3,32.471581,-83.743973,2020,18,Thursday,Rain,False,False,False,False,False,False,False
+A-1492318,GA,Houston,Elko,Source2,3,32.336044,-83.76754,2020,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1545171,GA,Houston,Perry,Source2,3,32.44619,-83.75148,2020,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1547131,GA,Houston,Perry,Source2,3,32.49337,-83.74251600000002,2020,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1549406,GA,Houston,Perry,Source2,3,32.520618,-83.743546,2020,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1551613,GA,Houston,Bonaire,Source2,3,32.553329,-83.618431,2020,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1559401,GA,Houston,Perry,Source2,3,32.446808000000004,-83.754478,2020,16,Sunday,Storm,False,False,False,False,False,False,False
+A-1561283,GA,Houston,Perry,Source2,3,32.49337,-83.74251600000002,2020,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1570361,GA,Houston,Perry,Source2,3,32.513034999999995,-83.743286,2020,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1573806,GA,Houston,Perry,Source2,3,32.431999,-83.757011,2020,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1583431,GA,Houston,Perry,Source2,3,32.49337,-83.742538,2020,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1609242,GA,Houston,Elko,Source2,3,32.336044,-83.76754,2020,9,Friday,Rain,False,False,False,False,False,False,False
+A-1627070,GA,Houston,Perry,Source2,3,32.431377000000005,-83.757286,2020,23,Tuesday,Rain,False,False,False,False,False,False,False
+A-1667011,GA,Houston,Perry,Source2,3,32.493008,-83.74252299999998,2020,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1667030,GA,Houston,Perry,Source2,3,32.48917,-83.74234799999998,2020,7,Tuesday,Rain,False,False,True,False,False,False,False
+A-1677679,GA,Houston,Perry,Source2,3,32.493889,-83.742783,2020,16,Friday,Rain,False,False,False,False,False,False,False
+A-1716437,GA,Houston,Perry,Source2,3,32.431881,-83.756821,2019,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1717264,GA,Houston,Perry,Source2,3,32.446552000000004,-83.754761,2019,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1748415,GA,Houston,Elko,Source2,4,32.336044,-83.76754,2019,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1748478,GA,Houston,Perry,Source2,3,32.475307,-83.742989,2019,18,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1748491,GA,Houston,Perry,Source2,3,32.44688,-83.754715,2019,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1750078,GA,Houston,Perry,Source2,4,32.447205,-83.75456199999998,2019,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1772899,GA,Houston,Perry,Source2,3,32.463589,-83.74762,2019,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1809280,GA,Houston,Perry,Source2,3,32.475021000000005,-83.705437,2019,20,Saturday,Clear / Fair,True,True,False,False,False,False,False
+A-1811724,GA,Houston,Perry,Source2,3,32.471581,-83.743973,2019,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1830259,GA,Houston,Kathleen,Source2,3,32.449642,-83.596115,2019,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1886487,GA,Houston,Perry,Source2,3,32.431377000000005,-83.757286,2019,19,Saturday,Rain,False,False,False,False,False,False,False
+A-1900883,GA,Houston,Perry,Source2,3,32.471581,-83.743973,2019,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-1927873,GA,Houston,Elko,Source2,3,32.336029,-83.767647,2019,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1978558,GA,Houston,Perry,Source2,3,32.431377000000005,-83.757286,2019,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1982846,GA,Houston,Perry,Source2,3,32.526855,-83.743759,2019,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-1991707,GA,Houston,Perry,Source2,3,32.472385,-83.743752,2019,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1997074,GA,Houston,Perry,Source2,3,32.447205,-83.75456199999998,2019,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2012974,GA,Houston,Perry,Source2,3,32.431377000000005,-83.757286,2019,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2013051,GA,Houston,Perry,Source2,3,32.431377000000005,-83.757286,2019,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2096694,GA,Houston,Elko,Source2,3,32.336044,-83.76754,2019,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2131508,GA,Houston,Perry,Source2,3,32.431999,-83.757011,2019,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2152251,GA,Houston,Perry,Source2,3,32.429268,-83.756973,2019,13,Saturday,Rain,False,False,False,False,False,False,False
+A-2168358,GA,Houston,Perry,Source2,3,32.49337,-83.74251600000002,2019,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2178980,GA,Houston,Perry,Source2,3,32.431377000000005,-83.757286,2019,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2192101,GA,Houston,Perry,Source2,3,32.49337,-83.74251600000002,2019,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2209054,GA,Houston,Perry,Source2,3,32.495255,-83.74282099999998,2019,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-2209055,GA,Houston,Perry,Source2,3,32.495255,-83.74282099999998,2019,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-2209059,GA,Houston,Perry,Source2,3,32.432308,-83.75766,2019,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2224475,GA,Houston,Perry,Source2,3,32.432308,-83.75766,2019,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2301797,GA,Houston,Perry,Source2,3,32.446728,-83.754494,2019,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2317848,GA,Houston,Perry,Source2,3,32.472195,-83.743866,2019,9,Friday,Rain,False,False,False,False,False,False,False
+A-2317850,GA,Houston,Perry,Source2,3,32.429268,-83.756973,2019,10,Friday,Rain,False,False,False,False,False,False,False
+A-2348011,GA,Houston,Perry,Source2,3,32.472195,-83.743866,2019,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2386847,GA,Houston,Perry,Source2,3,32.432308,-83.75766,2018,7,Sunday,Rain,False,False,False,False,False,False,False
+A-2395382,GA,Houston,Warner Robins,Source2,3,32.61829,-83.669197,2018,21,Thursday,Cloudy,True,True,False,False,False,False,False
+A-2399408,GA,Houston,Perry,Source2,3,32.48251,-83.701759,2018,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2412239,GA,Houston,Perry,Source2,3,32.446976,-83.754456,2018,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2502874,GA,Houston,Perry,Source2,3,32.471786,-83.743912,2018,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2527386,GA,Houston,Elko,Source2,3,32.336735,-83.76775400000002,2018,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2527434,GA,Houston,Perry,Source2,3,32.425438,-83.758636,2018,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2560098,GA,Houston,Perry,Source2,3,32.49324,-83.742775,2018,3,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2560104,GA,Houston,Perry,Source2,3,32.49324,-83.742775,2018,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-2593713,GA,Houston,Perry,Source2,3,32.446804,-83.757278,2018,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2655212,GA,Houston,Perry,Source2,3,32.446857,-83.754707,2018,18,Sunday,Rain,False,False,False,False,False,False,False
+A-2700585,GA,Houston,Perry,Source2,3,32.490402,-83.74269100000002,2018,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2730415,GA,Houston,Perry,Source2,3,32.49324,-83.742775,2018,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2738298,GA,Houston,Perry,Source2,3,32.446857,-83.754707,2018,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2783361,GA,Houston,Perry,Source2,3,32.49324,-83.742775,2018,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2849409,GA,Houston,Elko,Source2,3,32.33823,-83.767761,2018,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2900501,GA,Houston,Perry,Source2,3,32.471786,-83.743912,2018,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2911111,GA,Houston,Elko,Source2,3,32.336735,-83.76775400000002,2018,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2917955,GA,Houston,Perry,Source2,3,32.451435,-83.75395999999998,2018,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2954071,GA,Houston,Elko,Source2,3,32.336735,-83.76775400000002,2018,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-2965446,GA,Houston,Perry,Source2,3,32.471786,-83.743912,2018,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2965454,GA,Houston,Perry,Source2,3,32.431511,-83.757103,2018,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2965479,GA,Houston,Perry,Source2,3,32.471786,-83.743912,2018,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-2971581,GA,Houston,Perry,Source2,3,32.446857,-83.754707,2018,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3030459,GA,Houston,Perry,Source2,3,32.431511,-83.757103,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-3045891,GA,Houston,Elko,Source2,3,32.33334,-83.78808599999998,2018,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3045914,GA,Houston,Perry,Source2,3,32.471786,-83.743912,2018,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3063676,GA,Houston,Perry,Source2,3,32.49324,-83.742775,2018,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-3078639,GA,Houston,Elko,Source2,3,32.336735,-83.76775400000002,2018,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3116293,GA,Houston,Bonaire,Source2,3,32.548279,-83.597031,2017,8,Friday,Rain,True,True,False,False,False,False,False
+A-3148551,GA,Houston,Elko,Source2,3,32.336735,-83.76775400000002,2017,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3174071,GA,Houston,Perry,Source2,3,32.492641,-83.74276,2017,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3174073,GA,Houston,Perry,Source2,3,32.4217,-83.76017,2017,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3176514,GA,Houston,Perry,Source2,3,32.494896000000004,-83.743179,2017,4,Thursday,Rain,False,False,False,False,False,False,False
+A-3193857,GA,Houston,Warner Robins,Source2,3,32.554512,-83.672722,2017,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3235998,GA,Houston,Perry,Source2,3,32.431511,-83.757103,2017,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3245339,GA,Houston,Perry,Source2,3,32.471786,-83.743912,2017,19,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3260383,GA,Houston,Perry,Source2,3,32.446857,-83.754707,2017,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3262175,GA,Houston,Elko,Source2,3,32.336735,-83.76775400000002,2017,7,Monday,Rain,False,False,False,False,False,False,False
+A-3272193,GA,Houston,Perry,Source2,3,32.471786,-83.743912,2017,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3282689,GA,Houston,Elko,Source2,3,32.336735,-83.76775400000002,2017,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3292502,GA,Houston,Elko,Source2,3,32.337143,-83.76756999999998,2017,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3292511,GA,Houston,Elko,Source2,3,32.354733,-83.76835600000003,2017,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3292543,GA,Houston,Perry,Source2,3,32.49324,-83.742775,2017,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3295443,GA,Houston,Elko,Source2,3,32.336735,-83.76775400000002,2017,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3295447,GA,Houston,Elko,Source2,3,32.332794,-83.766853,2017,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-3295456,GA,Houston,Elko,Source2,3,32.336735,-83.76775400000002,2017,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3295457,GA,Houston,Elko,Source2,3,32.337906,-83.768303,2017,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3295466,GA,Houston,Perry,Source2,3,32.431511,-83.757103,2017,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3302194,GA,Houston,Perry,Source2,3,32.431511,-83.757103,2017,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3305032,GA,Houston,Elko,Source2,3,32.336735,-83.76775400000002,2017,22,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3313449,GA,Houston,Elko,Source2,3,32.336735,-83.76775400000002,2017,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3386629,GA,Houston,Perry,Source2,3,32.49324,-83.742775,2017,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3459007,GA,Houston,Elko,Source1,3,32.332809999999995,-83.76686,2017,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3459247,GA,Houston,Warner Robins,Source1,4,32.628233,-83.602198,2017,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3461586,GA,Houston,Perry,Source1,4,32.48903,-83.74242,2017,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-3464431,GA,Houston,Perry,Source1,4,32.450965999999994,-83.669353,2016,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3464432,GA,Houston,Perry,Source1,4,32.450955,-83.66933,2016,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3471517,GA,Houston,Perry,Source1,3,32.416025,-83.762135,2016,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3471615,GA,Houston,Perry,Source1,4,32.45473,-83.709009,2016,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3471616,GA,Houston,Perry,Source1,4,32.455248,-83.71305699999998,2016,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3473254,GA,Houston,Warner Robins,Source1,4,32.653952000000004,-83.613439,2016,23,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3473255,GA,Houston,Warner Robins,Source1,4,32.653426,-83.61235,2016,23,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3494457,GA,Houston,Kathleen,Source1,4,32.485529,-83.612721,2016,9,Tuesday,Cloudy,False,True,False,True,False,False,True
+A-3494459,GA,Houston,Kathleen,Source1,4,32.469683,-83.616629,2016,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3494491,GA,Houston,Perry,Source1,3,32.511145,-83.743222,2016,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3495414,GA,Houston,Bonaire,Source1,4,32.568265999999994,-83.594375,2016,16,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-3498790,GA,Houston,Perry,Source1,3,32.459579999999995,-83.72691,2016,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3498791,GA,Houston,Perry,Source1,3,32.459579999999995,-83.72691,2016,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3501554,GA,Houston,Perry,Source1,4,32.411731,-83.636351,2016,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3501557,GA,Houston,Perry,Source1,4,32.41625,-83.64048000000003,2016,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3504414,GA,Houston,Perry,Source1,3,32.449729999999995,-83.75429,2016,14,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-3507516,GA,Houston,Warner Robins,Source1,3,32.554494,-83.681188,2016,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-3508878,GA,Houston,Bonaire,Source1,4,32.543696999999995,-83.573201,2016,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3508988,GA,Houston,Bonaire,Source1,4,32.55457,-83.66216999999997,2016,14,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-3508992,GA,Houston,Bonaire,Source1,4,32.55441,-83.66218,2016,14,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-3558548,GA,Houston,Perry,Source1,4,32.481756,-83.73,2017,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3558549,GA,Houston,Perry,Source1,4,32.47912,-83.730008,2017,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3573557,GA,Houston,Fort Valley,Source1,4,32.578615,-83.71996,2017,22,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3575821,GA,Houston,Warner Robins,Source1,4,32.60165,-83.59356899999999,2017,22,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3576742,GA,Houston,Kathleen,Source1,4,32.500299,-83.605796,2017,0,Sunday,Clear / Fair,False,True,False,False,False,False,True
+A-3576743,GA,Houston,Kathleen,Source1,4,32.513052,-83.599797,2017,0,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3578398,GA,Houston,Warner Robins,Source1,3,32.55451,-83.67015,2017,10,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-3601020,GA,Houston,Warner Robins,Source1,4,32.61974,-83.5996,2017,16,Wednesday,Clear / Fair,True,True,False,False,False,False,True
+A-3604703,GA,Houston,Perry,Source1,4,32.467038,-83.73931800000003,2017,0,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3614523,GA,Houston,Warner Robins,Source1,4,32.618302,-83.645489,2017,0,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3614524,GA,Houston,Warner Robins,Source1,4,32.61822,-83.64156,2017,0,Sunday,Clear / Fair,True,True,False,False,False,False,False
+A-3616530,GA,Houston,Warner Robins,Source1,4,32.567236,-83.719827,2017,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3618853,GA,Houston,Perry,Source1,3,32.515797,-83.743084,2017,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3626230,GA,Houston,Perry,Source1,3,32.43971,-83.75581,2017,16,Thursday,Storm,False,False,False,False,False,False,False
+A-3626272,GA,Houston,Perry,Source1,3,32.442996,-83.755318,2017,18,Thursday,Rain,False,False,False,False,False,False,False
+A-3626319,GA,Houston,Elko,Source1,4,32.30703,-83.76589,2017,22,Thursday,Rain,False,False,False,False,False,False,False
+A-3626320,GA,Houston,Elko,Source1,4,32.30703,-83.76589,2017,22,Thursday,Rain,False,False,False,False,False,False,False
+A-3626646,GA,Houston,Elko,Source1,3,32.33953,-83.76826,2017,1,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-3626717,GA,Houston,Perry,Source1,3,32.42324,-83.75941999999998,2017,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3628152,GA,Houston,Bonaire,Source1,4,32.551793,-83.611278,2017,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3629737,GA,Houston,Perry,Source1,3,32.42324,-83.75941999999998,2017,23,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3631756,GA,Houston,Perry,Source1,3,32.42324,-83.75941999999998,2017,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3632157,GA,Houston,Bonaire,Source1,4,32.54766,-83.595691,2017,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-3641800,GA,Houston,Elko,Source1,4,32.3225,-83.7159,2017,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3641801,GA,Houston,Elko,Source1,4,32.329021000000004,-83.73966300000002,2017,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3642205,GA,Houston,Perry,Source1,3,32.44381,-83.75496,2017,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-3642673,GA,Houston,Centerville,Source1,4,32.62123,-83.70907,2017,16,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-3642674,GA,Houston,Centerville,Source1,4,32.62123,-83.70907,2017,16,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-3644180,GA,Houston,Bonaire,Source1,4,32.54828,-83.59705,2017,23,Monday,Cloudy,True,True,False,False,False,False,False
+A-3644181,GA,Houston,Bonaire,Source1,4,32.54828,-83.59705,2017,23,Monday,Cloudy,True,True,False,False,False,False,False
+A-3644187,GA,Houston,Perry,Source1,3,32.44381,-83.75496,2017,0,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3644941,GA,Houston,Perry,Source1,4,32.450305,-83.753957,2017,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3646852,GA,Houston,Kathleen,Source1,3,32.50568,-83.66253,2017,0,Friday,Cloudy,True,True,False,False,False,False,False
+A-3650677,GA,Houston,Warner Robins,Source1,4,32.614687,-83.703232,2023,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3671674,GA,Houston,Kathleen,Source1,4,32.495874,-83.608435,2023,8,Wednesday,Cloudy,False,True,False,False,False,False,True
+A-3678467,GA,Houston,Kathleen,Source1,4,32.495735,-83.60798199999998,2023,8,Wednesday,Cloudy,False,True,False,True,False,False,True
+A-3684740,GA,Houston,Kathleen,Source1,4,32.493853,-83.608871,2023,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3699750,GA,Houston,Perry,Source1,4,32.438503999999995,-83.637677,2023,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3701879,GA,Houston,Perry,Source1,4,32.437996000000005,-83.638231,2023,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3736069,GA,Houston,Perry,Source1,4,32.413049,-83.657938,2022,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3770199,GA,Houston,Warner Robins,Source1,4,32.617725,-83.689835,2022,12,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-3784975,GA,Houston,Warner Robins,Source1,4,32.618229,-83.62066,2022,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3793271,GA,Houston,Warner Robins,Source1,4,32.618184,-83.63622600000002,2022,20,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-3802399,GA,Houston,Warner Robins,Source1,4,32.554590999999995,-83.67932900000002,2022,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3812899,GA,Houston,Fort Valley,Source1,4,32.529009,-83.720392,2022,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3854187,GA,Houston,Warner Robins,Source1,4,32.619753,-83.599612,2022,10,Thursday,Cloudy,True,True,False,False,False,False,True
+A-3859423,GA,Houston,Elko,Source1,4,32.339409,-83.768222,2022,9,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-3861290,GA,Houston,Fort Valley,Source1,4,32.546496000000005,-83.719536,2022,14,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-3864222,GA,Houston,Warner Robins,Source1,4,32.618308,-83.67461800000002,2022,20,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3881629,GA,Houston,Perry,Source1,4,32.454713,-83.708048,2022,18,Sunday,Cloudy,False,False,False,True,False,False,False
+A-3900805,GA,Houston,Kathleen,Source1,4,32.463682,-83.613214,2022,8,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3903658,GA,Houston,Perry,Source1,4,32.42369,-83.834766,2022,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-3914102,GA,Houston,Bonaire,Source1,4,32.554404,-83.625527,2022,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3963164,GA,Houston,Warner Robins,Source1,4,32.659310999999995,-83.618691,2023,19,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-3979443,GA,Houston,Hawkinsville,Source1,4,32.392124,-83.626064,2023,23,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4012780,GA,Houston,Byron,Source1,4,32.621222,-83.709069,2022,14,Wednesday,Sin dato,True,True,False,False,False,False,False
+A-4016672,GA,Houston,Byron,Source1,4,32.578384,-83.719957,2022,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4016958,GA,Houston,Perry,Source1,4,32.439659000000006,-83.755818,2022,11,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-4025671,GA,Houston,Warner Robins,Source1,4,32.6158,-83.697937,2022,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-4031169,GA,Houston,Elko,Source1,4,32.34007000907736,-83.7680804725467,2022,4,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4050060,GA,Houston,Perry,Source1,4,32.446829,-83.76521899999999,2022,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4052623,GA,Houston,Bonaire,Source1,4,32.543577,-83.564936,2022,20,Friday,Storm,False,False,False,False,False,False,False
+A-4057236,GA,Houston,Bonaire,Source1,4,32.554572,-83.633135,2022,2,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4069004,GA,Houston,Fort Valley,Source1,4,32.569774,-83.719874,2022,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4085142,GA,Houston,Perry,Source1,4,32.455434000000004,-83.713476,2022,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4088383,GA,Houston,Bonaire,Source1,4,32.547855,-83.597015,2022,18,Friday,Rain,False,False,False,False,False,False,False
+A-4105831,GA,Houston,Perry,Source1,4,32.490275,-83.729967,2022,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-4108640,GA,Houston,Perry,Source1,4,32.418432,-83.700594,2022,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4145379,GA,Houston,Perry,Source1,4,32.412937,-83.67207900000002,2022,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4193235,GA,Houston,Perry,Source1,4,32.458523,-83.738551,2023,13,Wednesday,Clear / Fair,False,True,False,False,False,False,True
+A-4209944,GA,Houston,Kathleen,Source1,4,32.468734000000005,-83.616904,2022,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4210942,GA,Houston,Perry,Source1,4,32.446827,-83.764466,2022,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-4250448,GA,Houston,Perry,Source1,4,32.497947,-83.729752,2022,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-4257836,GA,Houston,Perry,Source1,4,32.475060224378225,-83.74301791151169,2022,3,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-4272177,GA,Houston,Warner Robins,Source1,4,32.618325,-83.65229000000002,2023,2,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4287652,GA,Houston,Warner Robins,Source1,4,32.660160999999995,-83.619185,2023,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4292963,GA,Houston,Warner Robins,Source1,4,32.620296999999994,-83.622493,2022,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-4304012,GA,Houston,Kathleen,Source1,4,32.526322,-83.72103800000002,2022,7,Thursday,Clear / Fair,False,False,False,True,False,False,False
+A-4305306,GA,Houston,Warner Robins,Source1,4,32.554590999999995,-83.67932900000002,2022,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4330973,GA,Houston,Warner Robins,Source1,4,32.619042,-83.599166,2022,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4338146,GA,Houston,Centerville,Source1,4,32.631378000000005,-83.709053,2022,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4341835,GA,Houston,Perry,Source1,4,32.485397,-83.793272,2022,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4377512,GA,Houston,Perry,Source1,4,32.454769,-83.711311,2022,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4446559,GA,Houston,Perry,Source1,4,32.456708,-83.738104,2023,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4461510,GA,Houston,Perry,Source1,4,32.49748349,-83.67274404,2022,18,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-4469716,GA,Houston,Perry,Source1,4,32.485452,-83.79287,2022,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4486268,GA,Houston,Warner Robins,Source1,4,32.589869,-83.588975,2022,11,Sunday,Cloudy,True,True,False,False,False,False,False
+A-4515697,GA,Houston,Perry,Source1,4,32.454822,-83.711794,2022,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4518749,GA,Houston,Fort Valley,Source1,4,32.566302,-83.719799,2022,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4535267,GA,Houston,Kathleen,Source1,4,32.546776,-83.703601,2022,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4550432,GA,Houston,Perry,Source1,4,32.476145,-83.74257,2022,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-4571896,GA,Houston,Bonaire,Source1,4,32.550431,-83.604438,2022,8,Thursday,Cloudy,True,True,False,False,False,False,False
+A-4602230,GA,Houston,Warner Robins,Source1,4,32.619753,-83.599612,2022,12,Monday,Cloudy,True,True,False,False,False,False,True
+A-4609372,GA,Houston,Bonaire,Source1,4,32.554588,-83.636723,2022,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4622729,GA,Houston,Warner Robins,Source1,4,32.5546,-83.680426,2022,19,Saturday,Storm,False,False,False,False,False,False,False
+A-4628803,GA,Houston,Perry,Source1,4,32.425387,-83.71239399999997,2022,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4630593,GA,Houston,Kathleen,Source1,4,32.505684,-83.662178,2022,7,Monday,Clear / Fair,True,True,False,False,False,False,False
+A-4639897,GA,Houston,Perry,Source1,4,32.501032,-83.729702,2022,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-4699061,GA,Houston,Perry,Source1,4,32.497569322431104,-83.74286770780685,2022,3,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-4719905,GA,Houston,Perry,Source1,4,32.441865,-83.782859,2022,18,Wednesday,Storm,False,False,False,False,False,False,False
+A-4736588,GA,Houston,Warner Robins,Source1,4,32.574578,-83.590797,2022,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4786851,GA,Houston,Warner Robins,Source1,4,32.618294,-83.67026,2022,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-4787240,GA,Houston,Warner Robins,Source1,4,32.618219,-83.622483,2022,20,Friday,Cloudy,True,True,False,False,False,False,False
+A-4831715,GA,Houston,Warner Robins,Source1,4,32.619753,-83.599612,2022,17,Tuesday,Clear / Fair,True,True,False,False,False,False,True
+A-4833018,GA,Houston,Elko,Source1,4,32.339409,-83.768222,2022,9,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-4861668,GA,Houston,Perry,Source1,4,32.475026,-83.705789,2022,17,Saturday,Clear / Fair,True,True,False,False,False,False,False
+A-4865946,GA,Houston,Bonaire,Source1,4,32.551964,-83.585604,2022,16,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-4879040,GA,Houston,Perry,Source1,4,32.486121999999995,-83.78801999999997,2023,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4880347,GA,Houston,Kathleen,Source1,4,32.466445,-83.61624599999998,2023,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4889086,GA,Houston,Perry,Source1,4,32.455434000000004,-83.713476,2022,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4900356,GA,Houston,Byron,Source1,4,32.579228,-83.71995,2022,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4919850,GA,Houston,Warner Robins,Source1,4,32.660160999999995,-83.619185,2023,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4933949,GA,Houston,Warner Robins,Source1,4,32.659310999999995,-83.618691,2023,19,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-4942861,GA,Houston,Perry,Source1,4,32.439904,-83.78889000000002,2023,11,Wednesday,Storm,False,False,False,True,False,False,False
+A-4957290,GA,Houston,Perry,Source1,4,32.475446000000005,-83.705148,2022,14,Monday,Cloudy,True,True,False,False,False,False,False
+A-4990865,GA,Houston,Perry,Source1,4,32.498686,-83.74265799999998,2022,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-5068026,GA,Houston,Perry,Source1,4,32.427283,-83.714952,2022,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5204341,GA,Houston,Warner Robins,Source1,4,32.618277,-83.66091800000002,2022,8,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-5233782,GA,Houston,Perry,Source1,4,32.475446000000005,-83.705148,2022,0,Monday,Cloudy,True,True,False,False,False,False,False
+A-5242583,GA,Houston,Warner Robins,Source1,4,32.589105,-83.588335,2022,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5255472,GA,Houston,Bonaire,Source1,4,32.543556,-83.564142,2022,20,Friday,Storm,False,False,False,False,False,False,False
+A-5291004,GA,Houston,Perry,Source1,4,32.454713,-83.708048,2022,16,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-5337632,GA,Houston,Perry,Source1,4,32.475158,-83.70558199999998,2022,14,Monday,Cloudy,True,True,False,False,False,False,False
+A-5355569,GA,Houston,Warner Robins,Source1,4,32.618394,-83.682771,2022,15,Thursday,Cloudy,True,True,False,False,False,False,False
+A-5357507,GA,Houston,Perry,Source1,4,32.483307,-83.77035500000002,2022,15,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-5393837,GA,Houston,Perry,Source1,4,32.483208000000005,-83.76990500000002,2022,15,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-5394293,GA,Houston,Perry,Source1,4,32.488961,-83.742412,2022,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-5396113,GA,Houston,Centerville,Source1,4,32.62151,-83.709063,2022,14,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-5411828,GA,Houston,Warner Robins,Source1,4,32.618302,-83.671964,2022,16,Thursday,Cloudy,True,True,False,False,False,False,False
+A-5417149,GA,Houston,Warner Robins,Source1,4,32.619753,-83.599612,2022,17,Tuesday,Clear / Fair,True,True,False,False,False,False,True
+A-5425015,GA,Houston,Perry,Source1,4,32.486089,-83.788255,2023,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5425578,GA,Houston,Perry,Source1,4,32.454441,-83.682851,2022,18,Wednesday,Rain,False,False,False,False,False,False,False
+A-5430653,GA,Houston,Perry,Source1,4,32.511429,-83.74323000000003,2022,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5444245,GA,Houston,Perry,Source1,4,32.439756,-83.789491,2023,11,Wednesday,Storm,False,False,False,False,False,False,False
+A-5463325,GA,Houston,Fort Valley,Source1,4,32.569208,-83.719858,2022,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5485320,GA,Houston,Perry,Source1,4,32.510521999999995,-83.72936999999997,2021,21,Friday,Cloudy,False,False,False,True,False,False,False
+A-5522804,GA,Houston,Perry,Source1,4,32.441354,-83.73693399999998,2021,17,Sunday,Clear / Fair,False,False,False,True,False,False,False
+A-5628671,GA,Houston,Elko,Source1,4,32.34007000907736,-83.7680804725467,2021,3,Monday,Cloudy,False,False,False,False,False,False,False
+A-5648444,GA,Houston,Warner Robins,Source1,4,32.59880661948872,-83.59270691831783,2021,18,Wednesday,Rain,False,False,False,False,False,False,False
+A-5667668,GA,Houston,Warner Robins,Source1,4,32.676626,-83.705646,2021,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5729842,GA,Houston,Perry,Source1,4,32.508688,-83.729674,2021,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-5764097,GA,Houston,Elko,Source1,4,32.34007000907736,-83.7680804725467,2021,2,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5792250,GA,Houston,Perry,Source1,4,32.475279,-83.705399,2021,5,Wednesday,Fog / Low visibility,True,True,False,False,False,False,False
+A-5794759,GA,Houston,Elko,Source1,4,32.34007000907736,-83.7680804725467,2021,3,Monday,Cloudy,False,False,False,False,False,False,False
+A-5892089,GA,Houston,Perry,Source1,4,32.449675,-83.625628,2021,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-5926031,GA,Houston,Warner Robins,Source1,4,32.614685296856806,-83.703235387403,2021,1,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6033718,GA,Houston,Warner Robins,Source1,4,32.653915000000005,-83.613384,2021,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6219633,GA,Houston,Warner Robins,Source1,4,32.651943,-83.610486,2021,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6314953,GA,Houston,Perry,Source1,4,32.44128,-83.738011,2021,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6593384,GA,Houston,Byron,Source1,4,32.621222,-83.709069,2020,2,Wednesday,Rain,True,True,False,False,False,False,False
+A-6630492,GA,Houston,Kathleen,Source1,4,32.526322,-83.72103800000002,2020,14,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-6770894,GA,Houston,Perry,Source1,4,32.523681,-83.721662,2020,14,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-6817830,GA,Houston,Kathleen,Source1,4,32.504724,-83.63844499999998,2020,1,Sunday,Cloudy,False,False,False,True,False,False,False
+A-6831469,GA,Houston,Fort Valley,Source1,4,32.524524,-83.721466,2020,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6998330,GA,Houston,Perry,Source1,3,32.44383,-83.75518000000002,2020,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7030856,GA,Houston,Perry,Source1,4,32.47095,-83.74303,2020,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7030859,GA,Houston,Perry,Source1,4,32.47095,-83.74303,2020,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7149253,GA,Houston,Fort Valley,Source1,3,32.54667,-83.71993,2020,23,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7149254,GA,Houston,Fort Valley,Source1,3,32.54667,-83.71993,2020,22,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7149255,GA,Houston,Fort Valley,Source1,3,32.54667,-83.71993,2020,23,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7149256,GA,Houston,Fort Valley,Source1,3,32.54667,-83.71993,2020,0,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7168934,GA,Houston,Bonaire,Source1,4,32.5522,-83.59751,2020,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7168935,GA,Houston,Bonaire,Source1,4,32.55427,-83.62472,2020,16,Friday,Clear / Fair,True,True,False,False,False,False,False
+A-7176015,GA,Houston,Warner Robins,Source1,3,32.61822,-83.64156,2020,9,Tuesday,Clear / Fair,True,True,False,False,False,False,False
+A-7209257,GA,Houston,Hawkinsville,Source1,3,32.38293,-83.62073000000002,2020,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7221573,GA,Houston,Perry,Source1,4,32.489329999999995,-83.73638000000003,2020,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7221574,GA,Houston,Perry,Source1,4,32.490790000000004,-83.73755,2020,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7245781,GA,Houston,Warner Robins,Source1,4,32.56978,-83.71988,2020,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7245782,GA,Houston,Warner Robins,Source1,4,32.56704000000001,-83.71982,2020,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7247567,GA,Houston,Hawkinsville,Source1,4,32.39083,-83.62363,2020,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7275151,GA,Houston,Perry,Source1,3,32.42324,-83.75941999999998,2020,7,Tuesday,Rain,False,False,False,False,False,False,False
+A-7294253,GA,Houston,Elko,Source1,3,32.332809999999995,-83.76686,2019,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7300321,GA,Houston,Perry,Source1,4,32.47345,-83.74588,2019,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7317666,GA,Houston,Bonaire,Source1,4,32.55044,-83.60436999999997,2019,8,Tuesday,Rain,True,True,False,False,False,False,False
+A-7326148,GA,Houston,Bonaire,Source1,4,32.548006,-83.59703,2019,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7333682,GA,Houston,Kathleen,Source1,4,32.46909,-83.61693000000002,2019,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7333683,GA,Houston,Kathleen,Source1,4,32.45746,-83.60573000000002,2019,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7334914,GA,Houston,Kathleen,Source1,4,32.45706,-83.61869,2019,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7334915,GA,Houston,Kathleen,Source1,4,32.4541,-83.62089,2019,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7334916,GA,Houston,Kathleen,Source1,4,32.46909,-83.61693000000002,2019,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7334917,GA,Houston,Kathleen,Source1,4,32.46582,-83.61542,2019,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7352010,GA,Houston,Kathleen,Source1,4,32.50597,-83.64516,2019,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7352011,GA,Houston,Kathleen,Source1,4,32.506170000000004,-83.65235,2019,22,Wednesday,Clear / Fair,True,True,False,False,False,False,False
+A-7376667,GA,Houston,Bonaire,Source1,4,32.54357,-83.56411999999997,2019,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7384607,GA,Houston,Byron,Source1,4,32.645137,-83.70883,2019,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7384609,GA,Houston,Byron,Source1,4,32.637404,-83.708911,2019,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7397393,GA,Houston,Warner Robins,Source1,4,32.653632,-83.612648,2019,15,Wednesday,Clear / Fair,True,True,False,False,False,False,False
+A-7411610,GA,Houston,Warner Robins,Source1,4,32.65932,-83.61868,2019,4,Sunday,Clear / Fair,True,True,False,False,False,False,False
+A-7427109,GA,Houston,Warner Robins,Source1,4,32.553227,-83.719789,2019,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7427110,GA,Houston,Fort Valley,Source1,4,32.55795,-83.719679,2019,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7429202,GA,Houston,Elko,Source1,4,32.343234,-83.76881800000002,2019,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7431836,GA,Houston,Warner Robins,Source1,4,32.542893,-83.542964,2019,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7437248,GA,Houston,Fort Valley,Source1,4,32.580478,-83.71993,2019,17,Sunday,Rain,True,False,False,False,False,False,False
+A-7441477,GA,Houston,Kathleen,Source1,4,32.428042,-83.578142,2019,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7441478,GA,Houston,Kathleen,Source1,4,32.457478,-83.605747,2019,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7449671,GA,Houston,Elko,Source1,3,32.33902,-83.76817,2019,19,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7451662,GA,Houston,Perry,Source1,4,32.452095,-83.753551,2019,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7451663,GA,Houston,Perry,Source1,3,32.470428000000005,-83.744187,2019,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7451665,GA,Houston,Perry,Source1,4,32.42324,-83.75941999999998,2019,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-7451667,GA,Houston,Perry,Source1,4,32.42324,-83.75941999999998,2019,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7457744,GA,Houston,Kathleen,Source1,4,32.495740000000005,-83.60799999999998,2019,18,Saturday,Clear / Fair,False,True,False,True,False,False,True
+A-7457745,GA,Houston,Kathleen,Source1,4,32.494440999999995,-83.60860100000002,2019,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7459430,GA,Houston,Elko,Source1,4,32.332809999999995,-83.76686,2019,23,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7461332,GA,Houston,Perry,Source1,4,32.49488,-83.67934,2019,13,Friday,Cloudy,False,False,False,True,False,False,False
+A-7479160,GA,Houston,Kathleen,Source1,4,32.506008,-83.646165,2018,1,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7479161,GA,Houston,Kathleen,Source1,4,32.506170000000004,-83.65235,2018,1,Saturday,Cloudy,True,True,False,False,False,False,False
+A-7482971,GA,Houston,Kathleen,Source1,4,32.495868,-83.607941,2018,7,Thursday,Clear / Fair,False,True,False,True,False,False,True
+A-7483098,GA,Houston,Centerville,Source1,4,32.61835,-83.679716,2018,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7483100,GA,Houston,Centerville,Source1,4,32.61835,-83.6798,2018,21,Thursday,Cloudy,True,True,False,False,False,False,False
+A-7484167,GA,Houston,Elko,Source1,4,32.332809999999995,-83.76686,2018,23,Friday,Rain,False,False,False,False,False,False,False
+A-7485744,GA,Houston,Kathleen,Source1,4,32.495740000000005,-83.60799999999998,2018,15,Monday,Cloudy,False,True,False,True,False,False,True
+A-7485745,GA,Houston,Kathleen,Source1,4,32.48427,-83.613301,2018,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-7489049,GA,Houston,Perry,Source1,3,32.444379,-83.75487199999998,2018,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7519482,GA,Houston,Kathleen,Source1,4,32.532518,-83.593491,2018,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-7519483,GA,Houston,Kathleen,Source1,4,32.516351,-83.598239,2018,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-7519484,GA,Houston,Kathleen,Source1,4,32.523493,-83.594554,2018,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-7523867,GA,Houston,Warner Robins,Source1,4,32.651632,-83.61024,2018,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7524461,GA,Houston,Perry,Source1,3,32.44471,-83.75482,2018,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7527470,GA,Houston,Perry,Source1,4,32.453213,-83.681,2018,7,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-7529217,GA,Houston,Warner Robins,Source1,4,32.55451,-83.66550699999998,2018,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7532743,GA,Houston,Elko,Source1,3,32.33865,-83.78929000000002,2018,5,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7547985,GA,Houston,Perry,Source1,4,32.454762,-83.711134,2018,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7547986,GA,Houston,Perry,Source1,4,32.45467,-83.704243,2018,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7549907,GA,Houston,Warner Robins,Source1,3,32.61978,-83.5994,2018,3,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-7553079,GA,Houston,Perry,Source1,4,32.4832,-83.77001,2018,11,Sunday,Cloudy,True,False,False,False,False,False,False
+A-7553080,GA,Houston,Perry,Source1,4,32.486138000000004,-83.788069,2018,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7555254,GA,Houston,Byron,Source1,4,32.674409999999995,-83.70926999999998,2018,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7555255,GA,Houston,Byron,Source1,4,32.670947,-83.708584,2018,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7560149,GA,Houston,Perry,Source1,4,32.41667,-83.64071,2018,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7560150,GA,Houston,Perry,Source1,4,32.436768,-83.65324100000002,2018,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7560179,GA,Houston,Bonaire,Source1,4,32.543572,-83.596457,2018,17,Friday,Rain,False,False,False,False,False,False,False
+A-7560180,GA,Houston,Bonaire,Source1,4,32.545733,-83.59689,2018,17,Friday,Rain,False,False,False,False,False,False,False
+A-7568956,GA,Houston,Perry,Source1,4,32.438559999999995,-83.63762,2018,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7568957,GA,Houston,Perry,Source1,4,32.438559999999995,-83.63762,2018,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7579190,GA,Houston,Elko,Source1,4,32.3378,-83.829757,2018,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7579192,GA,Houston,Elko,Source1,4,32.338321,-83.81308299999998,2018,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7582963,GA,Houston,Warner Robins,Source1,4,32.61829,-83.656761,2018,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7584295,GA,Houston,Kathleen,Source1,4,32.546738,-83.71456500000002,2018,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-7595514,GA,Houston,Perry,Source1,4,32.49324,-83.74128,2018,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7595515,GA,Houston,Perry,Source1,4,32.4932,-83.74385,2018,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7598306,GA,Houston,Elko,Source1,3,32.332809999999995,-83.76686,2018,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7603662,GA,Houston,Kathleen,Source1,4,32.411332,-83.570246,2018,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7609434,GA,Houston,Perry,Source1,3,32.471522,-83.74377700000002,2018,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7610775,GA,Houston,Perry,Source1,3,32.449729999999995,-83.75429,2018,20,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7610778,GA,Houston,Perry,Source1,4,32.426252000000005,-83.758629,2018,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7615007,GA,Houston,Perry,Source1,4,32.465990000000005,-83.73822,2018,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7624148,GA,Houston,Perry,Source1,3,32.43971,-83.75581,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-7634129,GA,Houston,Fort Valley,Source1,4,32.54667,-83.71993,2018,15,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7634738,GA,Houston,Kathleen,Source1,4,32.459878,-83.608688,2018,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7634739,GA,Houston,Kathleen,Source1,4,32.428042,-83.578142,2018,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7648984,GA,Houston,Elko,Source1,4,32.34101,-83.78935,2017,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7648985,GA,Houston,Elko,Source1,4,32.34182,-83.78931999999998,2017,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7649079,GA,Houston,Perry,Source1,3,32.46843,-83.74505,2017,18,Sunday,Rain,False,False,False,False,False,False,False
+A-7652356,GA,Houston,Elko,Source1,3,32.372571,-83.76805999999998,2017,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7653377,GA,Houston,Elko,Source1,4,32.33902,-83.76817,2017,1,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7661078,GA,Houston,Perry,Source1,4,32.48673,-83.72998,2017,20,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7661079,GA,Houston,Perry,Source1,4,32.48692,-83.729576,2017,20,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7661080,GA,Houston,Perry,Source1,4,32.486728,-83.73088,2017,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7661081,GA,Houston,Perry,Source1,4,32.48692,-83.72998,2017,20,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7665929,GA,Houston,Perry,Source1,3,32.498159,-83.74266999999998,2017,0,Monday,Cloudy,False,False,False,False,False,False,False
+A-7671235,GA,Houston,Kathleen,Source1,4,32.495740000000005,-83.60799999999998,2017,18,Friday,Clear / Fair,False,True,False,True,False,False,True
+A-7672939,GA,Houston,Perry,Source1,4,32.486057,-83.788689,2017,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7672941,GA,Houston,Perry,Source1,4,32.4832,-83.77001,2017,9,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7675517,GA,Houston,Warner Robins,Source1,4,32.61822,-83.64158,2017,20,Wednesday,Clear / Fair,True,True,False,False,False,False,False
+A-7675518,GA,Houston,Warner Robins,Source1,4,32.61822,-83.64158,2017,20,Wednesday,Clear / Fair,True,True,False,False,False,False,False
+A-7678471,GA,Houston,Perry,Source1,4,32.50027,-83.72972,2017,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7683774,GA,Houston,Warner Robins,Source1,3,32.621472,-83.599981,2017,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7686393,GA,Houston,Warner Robins,Source1,4,32.57828,-83.71996,2017,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7686394,GA,Houston,Warner Robins,Source1,4,32.57828,-83.71996,2017,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7688157,GA,Houston,Perry,Source1,4,32.41625,-83.64048000000003,2017,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7691498,GA,Houston,Perry,Source1,4,32.42368,-83.759264,2017,0,Friday,Cloudy,False,False,True,False,False,False,False
+A-7708599,GA,Houston,Bonaire,Source1,4,32.554559999999995,-83.65925899999998,2019,15,Saturday,Cloudy,True,True,False,False,False,False,False
+A-7716835,GA,Houston,Warner Robins,Source1,4,32.61829,-83.661551,2019,23,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7716836,GA,Houston,Warner Robins,Source1,4,32.61828,-83.660201,2019,23,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7716837,GA,Houston,Warner Robins,Source1,4,32.61828,-83.660201,2019,0,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7716838,GA,Houston,Warner Robins,Source1,4,32.61829,-83.661551,2019,0,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7728055,GA,Houston,Kathleen,Source1,4,32.504835,-83.638605,2019,19,Sunday,Clear / Fair,False,False,False,True,False,False,False
+A-7728056,GA,Houston,Kathleen,Source1,4,32.504875,-83.63865899999998,2019,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7745024,GA,Houston,Fort Valley,Source1,4,32.547149,-83.71993,2019,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7755277,GA,Houston,Bonaire,Source1,4,32.570384999999995,-83.593189,2019,2,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7755278,GA,Houston,Warner Robins,Source1,4,32.583621,-83.58739,2019,2,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7758273,GA,Houston,Kathleen,Source1,4,32.524008,-83.594284,2019,0,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7758274,GA,Houston,Kathleen,Source1,4,32.518114000000004,-83.59735699999997,2019,0,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7758535,GA,Houston,Kathleen,Source1,4,32.516351,-83.598239,2019,1,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7758536,GA,Houston,Kathleen,Source1,4,32.532512,-83.59349,2019,1,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7769471,GA,Houston,Perry,Source1,3,32.465722,-83.729591,2019,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7771782,GA,Houston,Bonaire,Source1,4,32.543743,-83.57041600000002,2019,1,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7773217,GA,Houston,Kathleen,Source1,4,32.485479999999995,-83.612739,2019,3,Wednesday,Clear / Fair,False,True,False,True,False,False,True

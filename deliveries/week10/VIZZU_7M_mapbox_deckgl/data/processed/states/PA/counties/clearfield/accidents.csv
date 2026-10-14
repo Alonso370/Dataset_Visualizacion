@@ -1,0 +1,698 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-233350,PA,Clearfield,West Decatur,Source2,3,40.957542,-78.297661,2016,9,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-513743,PA,Clearfield,Woodland,Source2,3,41.020512,-78.34236899999998,2022,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-516304,PA,Clearfield,Penfield,Source2,3,41.108871,-78.537529,2022,17,Monday,Rain,False,False,True,False,False,False,False
+A-516578,PA,Clearfield,Clearfield,Source2,3,41.03931,-78.39843,2022,10,Monday,Rain,False,False,False,False,False,False,False
+A-523388,PA,Clearfield,Brockport,Source3,3,41.251469,-78.642067,2022,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-524822,PA,Clearfield,Clearfield,Source2,3,41.03931,-78.39843,2022,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-526833,PA,Clearfield,Clearfield,Source2,3,41.070175,-78.486176,2022,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-530036,PA,Clearfield,Rockton,Source2,3,41.126556,-78.58683,2022,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-530118,PA,Clearfield,Penfield,Source2,3,41.108871,-78.537529,2022,17,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-531374,PA,Clearfield,Woodland,Source2,3,41.020844,-78.344238,2022,18,Sunday,Rain,False,False,False,False,False,False,False
+A-531478,PA,Clearfield,Clearfield,Source2,3,41.03931,-78.39843,2022,11,Sunday,Rain,False,False,False,False,False,False,False
+A-533234,PA,Clearfield,Woodland,Source2,3,40.999241,-78.360947,2022,22,Thursday,Cloudy,False,False,False,False,False,False,False
+A-537069,PA,Clearfield,Penfield,Source2,3,41.108871,-78.537529,2022,9,Monday,Cloudy,False,False,True,False,False,False,False
+A-539542,PA,Clearfield,Woodland,Source2,3,41.017418,-78.334625,2022,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-543060,PA,Clearfield,Woodland,Source2,3,41.020817,-78.344254,2022,15,Monday,Rain,False,False,False,False,False,False,False
+A-544697,PA,Clearfield,Penfield,Source2,3,41.108871,-78.537529,2022,18,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-544838,PA,Clearfield,Clearfield,Source2,3,41.03931,-78.39843,2022,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-546382,PA,Clearfield,Penfield,Source2,3,41.107605,-78.537003,2022,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-551349,PA,Clearfield,Penfield,Source2,3,41.12390900000001,-78.55909,2022,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-555449,PA,Clearfield,Du Bois,Source2,3,41.130558,-78.710197,2022,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-563035,PA,Clearfield,Clearfield,Source2,3,41.039497,-78.394531,2022,13,Monday,Rain,False,False,False,False,False,False,False
+A-563036,PA,Clearfield,Clearfield,Source2,3,41.04000900000001,-78.397575,2022,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-563055,PA,Clearfield,Woodland,Source2,3,41.022816,-78.349968,2022,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-572575,PA,Clearfield,Woodland,Source2,3,41.020844,-78.344238,2022,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-575753,PA,Clearfield,Woodland,Source2,3,41.020844,-78.344238,2022,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-578837,PA,Clearfield,Penfield,Source2,3,41.106133,-78.534859,2022,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-588550,PA,Clearfield,Woodland,Source2,3,41.038319,-78.389259,2022,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-595645,PA,Clearfield,Woodland,Source2,3,41.020844,-78.344238,2022,5,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-600988,PA,Clearfield,Clearfield,Source2,3,41.038769,-78.39188399999998,2022,10,Tuesday,Rain,False,False,False,False,False,False,False
+A-607536,PA,Clearfield,Morrisdale,Source2,3,40.987675,-78.170761,2022,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-609928,PA,Clearfield,Morrisdale,Source2,3,40.99445,-78.262238,2022,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-621256,PA,Clearfield,Morrisdale,Source2,3,40.987675,-78.170761,2022,10,Monday,Rain,False,False,False,False,False,False,False
+A-625575,PA,Clearfield,Du Bois,Source2,3,41.130558,-78.710197,2022,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-632488,PA,Clearfield,Rockton,Source2,3,41.12280300000001,-78.606712,2022,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-637528,PA,Clearfield,Curwensville,Source3,3,40.974751,-78.525749,2022,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-646522,PA,Clearfield,Du Bois,Source2,3,41.130558,-78.710197,2022,15,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-646629,PA,Clearfield,Penfield,Source2,3,41.108871,-78.537529,2022,13,Monday,Snow / Ice,False,False,True,False,False,False,False
+A-671550,PA,Clearfield,Clearfield,Source2,3,41.068478000000006,-78.474915,2022,22,Friday,Rain,False,False,False,False,False,False,False
+A-678497,PA,Clearfield,Morrisdale,Source2,3,40.987675,-78.170761,2022,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-679380,PA,Clearfield,Morrisdale,Source2,3,40.987675,-78.170761,2022,12,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-688423,PA,Clearfield,Penfield,Source2,3,41.230141,-78.55058299999997,2022,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-691780,PA,Clearfield,Morrisdale,Source2,3,40.987675,-78.170761,2022,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-695095,PA,Clearfield,Morrisdale,Source2,3,40.987675,-78.170761,2022,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-702090,PA,Clearfield,Morrisdale,Source2,3,40.987675,-78.170761,2022,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-702275,PA,Clearfield,Morrisdale,Source2,3,40.987675,-78.170761,2022,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-703496,PA,Clearfield,Penfield,Source2,3,41.108871,-78.537529,2022,9,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-709404,PA,Clearfield,Morrisdale,Source2,3,40.987675,-78.170761,2022,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-712359,PA,Clearfield,West Decatur,Source2,3,40.947563,-78.290367,2022,22,Saturday,Cloudy,False,False,False,False,False,False,False
+A-730986,PA,Clearfield,Penfield,Source2,3,41.108871,-78.537529,2022,10,Friday,Snow / Ice,False,False,True,False,False,False,False
+A-731658,PA,Clearfield,Penfield,Source2,3,41.082333,-78.505165,2022,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-732452,PA,Clearfield,Penfield,Source2,3,41.108871,-78.537529,2022,9,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-735281,PA,Clearfield,Penfield,Source2,3,41.108871,-78.537529,2022,10,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-735661,PA,Clearfield,Clearfield,Source2,3,41.03931,-78.39843,2022,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-736164,PA,Clearfield,Grassflat,Source2,3,40.985512,-78.14875,2022,19,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-736282,PA,Clearfield,Penfield,Source2,3,41.108871,-78.537529,2022,17,Monday,Snow / Ice,False,False,True,False,False,False,False
+A-736314,PA,Clearfield,Clearfield,Source2,3,41.039169,-78.398415,2022,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-736328,PA,Clearfield,Clearfield,Source2,3,41.048267,-78.424675,2022,21,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-736355,PA,Clearfield,Clearfield,Source2,3,41.03931,-78.39843,2022,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-743882,PA,Clearfield,Penfield,Source2,3,41.108871,-78.537529,2022,10,Tuesday,Snow / Ice,False,False,True,False,False,False,False
+A-744987,PA,Clearfield,Grassflat,Source2,3,40.980026,-78.12921899999998,2022,14,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-749346,PA,Clearfield,Woodland,Source2,3,41.021217,-78.344498,2022,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-753477,PA,Clearfield,Dubois,Source2,3,41.145741,-78.78624,2022,8,Sunday,Rain,False,False,False,False,False,False,False
+A-765058,PA,Clearfield,Morrisdale,Source2,3,40.987675,-78.170761,2021,14,Saturday,Rain,False,False,False,False,False,False,False
+A-768451,PA,Clearfield,Mahaffey,Source2,3,40.91262800000001,-78.666061,2021,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-775701,PA,Clearfield,Philipsburg,Source2,3,40.883862,-78.239571,2021,19,Thursday,Rain,False,False,False,False,False,False,False
+A-786403,PA,Clearfield,Morrisdale,Source2,3,40.986855,-78.155151,2021,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-790964,PA,Clearfield,Clearfield,Source2,3,41.039017,-78.393028,2021,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-800332,PA,Clearfield,Morrisdale,Source2,3,40.987675,-78.170761,2021,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-803236,PA,Clearfield,Penfield,Source2,3,41.108871,-78.537529,2021,5,Friday,Cloudy,False,False,True,False,False,False,False
+A-803463,PA,Clearfield,Clearfield,Source2,3,41.03931,-78.39843,2021,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-805454,PA,Clearfield,Clearfield,Source2,3,40.98711,-78.48226899999997,2021,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-806782,PA,Clearfield,Du Bois,Source2,3,41.144531,-78.777664,2021,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-820627,PA,Clearfield,Morrisdale,Source2,3,40.987675,-78.170761,2021,20,Saturday,Cloudy,False,False,False,False,False,False,False
+A-827741,PA,Clearfield,Du Bois,Source2,3,41.140636,-78.74176800000002,2021,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-832822,PA,Clearfield,Rockton,Source2,3,41.121395,-78.66169000000002,2021,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-836673,PA,Clearfield,Curwensville,Source3,3,40.971699,-78.553268,2021,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-838650,PA,Clearfield,Woodland,Source2,3,41.022789,-78.356949,2021,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-888092,PA,Clearfield,Woodland,Source2,3,41.020741,-78.34594,2021,6,Wednesday,Rain,False,False,False,False,False,False,False
+A-888353,PA,Clearfield,Penfield,Source2,3,41.108871,-78.537529,2021,22,Wednesday,Rain,False,False,True,False,False,False,False
+A-888371,PA,Clearfield,Du Bois,Source2,3,41.124729,-78.741737,2021,22,Wednesday,Rain,True,False,False,False,False,False,False
+A-888449,PA,Clearfield,Du Bois,Source2,3,41.130558,-78.710197,2021,21,Wednesday,Rain,False,False,False,False,False,False,False
+A-890027,PA,Clearfield,Morrisdale,Source2,3,40.987675,-78.170761,2021,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-906166,PA,Clearfield,Woodland,Source2,3,41.020741,-78.34594,2021,21,Thursday,Sin dato,False,False,False,False,False,False,False
+A-906876,PA,Clearfield,Morrisdale,Source2,3,40.987675,-78.170761,2021,15,Thursday,Sin dato,False,False,False,False,False,False,False
+A-912768,PA,Clearfield,Clearfield,Source2,3,41.03931,-78.39843,2021,21,Sunday,Sin dato,False,False,False,False,False,False,False
+A-926964,PA,Clearfield,Woodland,Source2,3,41.020844,-78.344238,2021,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-929821,PA,Clearfield,Du Bois,Source2,3,41.147182,-78.78780400000002,2021,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-941904,PA,Clearfield,Du Bois,Source2,3,41.130558,-78.710197,2021,14,Tuesday,Storm,False,False,False,False,False,False,False
+A-944248,PA,Clearfield,Penfield,Source2,3,41.108871,-78.537529,2021,7,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-946432,PA,Clearfield,Morrisdale,Source2,3,40.987675,-78.170761,2021,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-948572,PA,Clearfield,Clearfield,Source2,3,41.03931,-78.39843,2021,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-951067,PA,Clearfield,Woodland,Source2,3,41.020844,-78.344238,2021,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-953988,PA,Clearfield,Clearfield,Source2,3,41.03931,-78.39843,2021,14,Thursday,Storm,False,False,False,False,False,False,False
+A-954637,PA,Clearfield,Woodland,Source2,3,41.020844,-78.344238,2021,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-955070,PA,Clearfield,Clearfield,Source2,3,41.039169,-78.398415,2021,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-988470,PA,Clearfield,Woodland,Source2,3,41.02021,-78.344513,2021,7,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-989639,PA,Clearfield,Morrisdale,Source2,4,40.987675,-78.170761,2021,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1006578,PA,Clearfield,Clearfield,Source2,3,41.03931,-78.39843,2021,22,Sunday,Rain,False,False,False,False,False,False,False
+A-1009439,PA,Clearfield,Morrisdale,Source2,3,40.977421,-78.19474,2021,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1029318,PA,Clearfield,Woodland,Source2,3,41.020844,-78.344238,2021,18,Wednesday,Storm,False,False,False,False,False,False,False
+A-1034082,PA,Clearfield,Penfield,Source2,3,41.108871,-78.537529,2021,14,Sunday,Cloudy,False,False,True,False,False,False,False
+A-1052640,PA,Clearfield,Penfield,Source2,3,41.108871,-78.537529,2021,13,Sunday,Snow / Ice,False,False,True,False,False,False,False
+A-1072538,PA,Clearfield,Clearfield,Source2,3,41.03931,-78.39843,2021,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1081040,PA,Clearfield,Morrisdale,Source2,3,40.987675,-78.170761,2021,18,Thursday,Rain,False,False,False,False,False,False,False
+A-1087346,PA,Clearfield,Du Bois,Source2,3,41.147182,-78.78780400000002,2021,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1103041,PA,Clearfield,Woodland,Source2,3,41.020844,-78.344238,2021,14,Sunday,Rain,False,False,False,False,False,False,False
+A-1111768,PA,Clearfield,Woodland,Source2,3,41.01984,-78.33953100000002,2021,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1143207,PA,Clearfield,Woodland,Source2,3,41.020844,-78.344238,2021,15,Monday,Rain,False,False,False,False,False,False,False
+A-1144856,PA,Clearfield,Penfield,Source2,3,41.108871,-78.537529,2021,9,Saturday,Fog / Low visibility,False,False,True,False,False,False,False
+A-1150391,PA,Clearfield,Woodland,Source2,4,41.020844,-78.344238,2021,19,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1154796,PA,Clearfield,Woodland,Source2,3,41.020844,-78.344238,2021,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-1164210,PA,Clearfield,Du Bois,Source2,3,41.06517,-78.73278,2021,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1164995,PA,Clearfield,Clearfield,Source2,3,41.03931,-78.39843,2021,4,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1169841,PA,Clearfield,Penfield,Source2,3,41.106937,-78.535759,2021,16,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1169849,PA,Clearfield,Penfield,Source2,3,41.108871,-78.537529,2021,21,Tuesday,Snow / Ice,False,False,True,False,False,False,False
+A-1169850,PA,Clearfield,Du Bois,Source2,3,41.130558,-78.710197,2021,22,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1171421,PA,Clearfield,Clearfield,Source2,3,41.03931,-78.39843,2021,9,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1172871,PA,Clearfield,Penfield,Source2,3,41.108871,-78.537529,2021,12,Sunday,Snow / Ice,False,False,True,False,False,False,False
+A-1183778,PA,Clearfield,Du Bois,Source2,3,41.13023,-78.712822,2021,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-1185411,PA,Clearfield,Du Bois,Source2,3,41.145451,-78.782921,2021,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1191094,PA,Clearfield,Penfield,Source2,3,41.108871,-78.537529,2021,22,Saturday,Snow / Ice,False,False,True,False,False,False,False
+A-1207755,PA,Clearfield,Penfield,Source2,3,41.108871,-78.537529,2021,17,Friday,Cloudy,False,False,True,False,False,False,False
+A-1212664,PA,Clearfield,Woodland,Source2,3,41.020844,-78.344238,2020,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-1214879,PA,Clearfield,Rockton,Source2,3,41.121288,-78.647888,2020,18,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1218432,PA,Clearfield,Morrisdale,Source2,3,40.987675,-78.170761,2020,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1221411,PA,Clearfield,Clearfield,Source2,3,41.03931,-78.39843,2020,9,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1221415,PA,Clearfield,Curwensville,Source2,3,40.971699,-78.553268,2020,14,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1226261,PA,Clearfield,Woodland,Source2,3,41.020844,-78.344238,2020,15,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1226264,PA,Clearfield,Woodland,Source2,4,41.020844,-78.344238,2020,15,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1226274,PA,Clearfield,Morrisdale,Source2,3,40.987675,-78.170761,2020,17,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1226287,PA,Clearfield,Morrisdale,Source2,3,40.987675,-78.170761,2020,21,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1244551,PA,Clearfield,Clearfield,Source2,3,41.03931,-78.39843,2020,18,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1248152,PA,Clearfield,Clearfield,Source2,3,41.03931,-78.39843,2020,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1250660,PA,Clearfield,Grassflat,Source2,3,40.979698,-78.12973000000002,2020,21,Wednesday,Rain,False,False,False,False,False,False,False
+A-1255860,PA,Clearfield,Morrisdale,Source2,3,40.987675,-78.170761,2020,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1262335,PA,Clearfield,Penfield,Source2,3,41.107826,-78.536751,2020,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1279604,PA,Clearfield,Woodland,Source2,3,40.988121,-78.303101,2020,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1291348,PA,Clearfield,Woodland,Source2,3,41.020844,-78.344238,2020,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1296802,PA,Clearfield,Penfield,Source2,3,41.108871,-78.537529,2020,13,Sunday,Rain,False,False,True,False,False,False,False
+A-1302022,PA,Clearfield,Woodland,Source2,3,41.020844,-78.344238,2020,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1316291,PA,Clearfield,Woodland,Source2,3,41.020844,-78.344238,2020,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-1318014,PA,Clearfield,Du Bois,Source2,3,41.130558,-78.710197,2020,21,Tuesday,Rain,False,False,False,False,False,False,False
+A-1321373,PA,Clearfield,Clearfield,Source2,3,41.03931,-78.39843,2020,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1337501,PA,Clearfield,Du Bois,Source2,3,41.147182,-78.78780400000002,2020,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1339392,PA,Clearfield,Du Bois,Source2,3,41.130199,-78.711075,2020,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1344993,PA,Clearfield,Du Bois,Source2,3,41.147182,-78.78780400000002,2020,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1377954,PA,Clearfield,Clearfield,Source2,3,41.03931,-78.39843,2020,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1377965,PA,Clearfield,Clearfield,Source2,3,41.03931,-78.39843,2020,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1377966,PA,Clearfield,Clearfield,Source2,3,41.03931,-78.39843,2020,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1382317,PA,Clearfield,Du Bois,Source2,3,41.130558,-78.710197,2020,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1382319,PA,Clearfield,Morrisdale,Source2,3,40.987675,-78.170761,2020,17,Saturday,Rain,False,False,False,False,False,False,False
+A-1383674,PA,Clearfield,Morrisdale,Source2,3,40.987675,-78.170761,2020,8,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1385485,PA,Clearfield,Woodland,Source2,3,41.020844,-78.344238,2020,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1393490,PA,Clearfield,Woodland,Source2,3,41.020844,-78.344238,2020,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1394981,PA,Clearfield,Morrisdale,Source2,3,40.987675,-78.170761,2020,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1417398,PA,Clearfield,Penfield,Source2,3,41.108871,-78.537529,2020,16,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-1418783,PA,Clearfield,Penfield,Source2,3,41.108871,-78.537529,2020,20,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-1427768,PA,Clearfield,Clearfield,Source2,3,41.03931,-78.39843,2020,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1429282,PA,Clearfield,Morrisdale,Source2,3,40.987675,-78.170761,2020,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1436259,PA,Clearfield,Du Bois,Source2,3,41.130558,-78.710197,2020,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1443335,PA,Clearfield,Clearfield,Source2,3,41.03931,-78.39843,2020,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1450456,PA,Clearfield,Woodland,Source2,3,41.020844,-78.344238,2020,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1451987,PA,Clearfield,Clearfield,Source2,3,41.03931,-78.39843,2020,20,Friday,Rain,False,False,False,False,False,False,False
+A-1457624,PA,Clearfield,Du Bois,Source2,3,41.130558,-78.710197,2020,6,Thursday,Rain,False,False,False,False,False,False,False
+A-1457687,PA,Clearfield,Clearfield,Source2,3,41.03931,-78.39843,2020,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1460679,PA,Clearfield,Du Bois,Source2,3,41.146393,-78.788261,2020,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1480093,PA,Clearfield,Morrisdale,Source2,3,40.987675,-78.170761,2020,19,Thursday,Storm,False,False,False,False,False,False,False
+A-1481508,PA,Clearfield,Du Bois,Source2,3,41.130558,-78.710197,2020,15,Friday,Rain,False,False,False,False,False,False,False
+A-1483964,PA,Clearfield,Woodland,Source2,3,41.020844,-78.344238,2020,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1483970,PA,Clearfield,Clearfield,Source2,3,41.03931,-78.39843,2020,16,Monday,Storm,False,False,False,False,False,False,False
+A-1485542,PA,Clearfield,Houtzdale,Source2,3,40.827278,-78.34156,2020,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1488687,PA,Clearfield,Morrisdale,Source2,3,40.987675,-78.170761,2020,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1492817,PA,Clearfield,Morrisdale,Source2,3,40.985538,-78.170647,2020,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-1495958,PA,Clearfield,Morrisdale,Source2,3,40.987675,-78.170761,2020,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-1503374,PA,Clearfield,Clearfield,Source2,3,41.03931,-78.39843,2020,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1504726,PA,Clearfield,Du Bois,Source2,3,41.160709,-78.666359,2020,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1507100,PA,Clearfield,Penfield,Source2,3,41.108871,-78.537529,2020,21,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-1507101,PA,Clearfield,Penfield,Source2,3,41.108871,-78.537529,2020,21,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-1507102,PA,Clearfield,Penfield,Source2,3,41.108707,-78.53775,2020,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1517809,PA,Clearfield,Du Bois,Source2,3,41.147182,-78.78780400000002,2020,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1518401,PA,Clearfield,Clearfield,Source2,3,41.059307,-78.48273499999998,2020,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1535808,PA,Clearfield,Woodland,Source2,3,41.020844,-78.344238,2020,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-1538120,PA,Clearfield,Woodland,Source2,3,41.020844,-78.344238,2020,12,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1542723,PA,Clearfield,Morrisdale,Source2,3,40.987675,-78.170761,2020,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-1547991,PA,Clearfield,Clearfield,Source2,4,41.03931,-78.39843,2020,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1550068,PA,Clearfield,Du Bois,Source2,3,41.130558,-78.710197,2020,22,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1557847,PA,Clearfield,Woodland,Source2,3,41.020844,-78.344238,2020,17,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1558913,PA,Clearfield,Clearfield,Source2,3,41.03931,-78.39843,2020,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1558914,PA,Clearfield,Clearfield,Source2,3,41.03931,-78.39843,2020,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1563115,PA,Clearfield,Woodland,Source2,3,41.020844,-78.344238,2020,16,Thursday,Rain,False,False,False,False,False,False,False
+A-1568539,PA,Clearfield,Morrisdale,Source2,3,40.987675,-78.170761,2020,20,Wednesday,Rain,False,False,False,False,False,False,False
+A-1569688,PA,Clearfield,Woodland,Source2,3,41.020844,-78.344238,2020,10,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-1569689,PA,Clearfield,Clearfield,Source2,3,41.03931,-78.39843,2020,10,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-1575112,PA,Clearfield,Morrisdale,Source2,3,40.987675,-78.170761,2020,7,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1575118,PA,Clearfield,Woodland,Source2,3,41.020844,-78.344238,2020,8,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1575126,PA,Clearfield,Morrisdale,Source2,3,40.988255,-78.170937,2020,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1575650,PA,Clearfield,Morrisdale,Source2,3,40.987675,-78.170761,2020,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1599975,PA,Clearfield,Penfield,Source2,3,41.108871,-78.537529,2020,15,Saturday,Snow / Ice,False,False,True,False,False,False,False
+A-1607714,PA,Clearfield,Clearfield,Source2,3,41.03931,-78.39843,2020,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1611890,PA,Clearfield,Penfield,Source2,3,41.108871,-78.537529,2020,17,Saturday,Cloudy,False,False,True,False,False,False,False
+A-1624392,PA,Clearfield,Du Bois,Source2,3,41.147182,-78.78780400000002,2020,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1624397,PA,Clearfield,Du Bois,Source2,3,41.130558,-78.710197,2020,10,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1624400,PA,Clearfield,Clearfield,Source2,3,41.03931,-78.39843,2020,10,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1634871,PA,Clearfield,Du Bois,Source2,3,41.146389,-78.78825400000002,2020,6,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1634922,PA,Clearfield,Du Bois,Source2,3,41.130558,-78.710197,2020,5,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1634973,PA,Clearfield,Woodland,Source2,3,41.020844,-78.344238,2020,8,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1637318,PA,Clearfield,Morrisdale,Source2,3,40.987675,-78.170761,2020,8,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-1643569,PA,Clearfield,Woodland,Source2,3,41.020844,-78.344238,2020,22,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1645962,PA,Clearfield,Du Bois,Source2,3,41.125629,-78.692894,2020,23,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1651989,PA,Clearfield,Du Bois,Source2,3,41.147182,-78.78780400000002,2020,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-1676993,PA,Clearfield,Morrisdale,Source2,3,40.987675,-78.170761,2020,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-1682500,PA,Clearfield,Du Bois,Source2,3,41.130558,-78.710197,2019,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1695803,PA,Clearfield,Woodland,Source2,3,41.020844,-78.344238,2019,4,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1702777,PA,Clearfield,Clearfield,Source2,3,41.039566,-78.396561,2019,16,Monday,Rain,False,False,False,False,False,False,False
+A-1713681,PA,Clearfield,Morrisdale,Source2,3,40.987675,-78.170761,2019,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1723508,PA,Clearfield,Woodland,Source2,4,41.020844,-78.344238,2019,12,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1764617,PA,Clearfield,Du Bois,Source2,3,41.130558,-78.710197,2019,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1769237,PA,Clearfield,Clearfield,Source2,3,41.03931,-78.39843,2019,14,Tuesday,Rain,False,False,False,False,False,False,False
+A-1769249,PA,Clearfield,Clearfield,Source2,3,41.03931,-78.39843,2019,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-1779536,PA,Clearfield,Penfield,Source2,4,41.108871,-78.537529,2019,14,Saturday,Rain,False,False,True,False,False,False,False
+A-1779546,PA,Clearfield,Penfield,Source2,3,41.108871,-78.537529,2019,17,Saturday,Rain,False,False,True,False,False,False,False
+A-1781228,PA,Clearfield,Curwensville,Source2,3,40.97818,-78.53244000000002,2019,7,Monday,Fog / Low visibility,False,False,False,True,False,False,False
+A-1788993,PA,Clearfield,Du Bois,Source2,3,41.130558,-78.710197,2019,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1826009,PA,Clearfield,Penfield,Source2,3,41.108871,-78.537529,2019,19,Sunday,Cloudy,False,False,True,False,False,False,False
+A-1834830,PA,Clearfield,Du Bois,Source2,3,41.145451,-78.782921,2019,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1837590,PA,Clearfield,Du Bois,Source2,4,41.147182,-78.78780400000002,2019,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-1837596,PA,Clearfield,Du Bois,Source2,3,41.146542,-78.788712,2019,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-1858345,PA,Clearfield,Clearfield,Source2,3,41.03931,-78.39843,2019,22,Wednesday,Rain,False,False,False,False,False,False,False
+A-1873488,PA,Clearfield,Penfield,Source2,3,41.108871,-78.537529,2019,4,Monday,Fog / Low visibility,False,False,True,False,False,False,False
+A-1873581,PA,Clearfield,Woodland,Source2,3,41.020844,-78.344238,2019,18,Monday,Rain,False,False,False,False,False,False,False
+A-1887759,PA,Clearfield,Du Bois,Source2,3,41.130558,-78.710197,2019,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-1889313,PA,Clearfield,Morrisdale,Source2,3,40.948669,-78.225594,2019,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1900041,PA,Clearfield,Woodland,Source2,3,41.020844,-78.344238,2019,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1910159,PA,Clearfield,Du Bois,Source2,3,41.130405,-78.710045,2019,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-1910167,PA,Clearfield,Penfield,Source2,3,41.108871,-78.537529,2019,16,Friday,Cloudy,False,False,True,False,False,False,False
+A-1913046,PA,Clearfield,Du Bois,Source2,3,41.13023,-78.712822,2019,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1922318,PA,Clearfield,Clearfield,Source2,3,41.034069,-78.403358,2019,12,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-1927042,PA,Clearfield,Penfield,Source2,3,41.108871,-78.537529,2019,14,Thursday,Rain,False,False,True,False,False,False,False
+A-1927058,PA,Clearfield,Clearfield,Source2,3,41.03931,-78.39843,2019,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1939718,PA,Clearfield,Penfield,Source2,3,41.10487,-78.533417,2019,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1954401,PA,Clearfield,Du Bois,Source2,3,41.130558,-78.710197,2019,13,Sunday,Rain,False,False,False,False,False,False,False
+A-1969549,PA,Clearfield,Du Bois,Source2,3,41.146999,-78.78765899999998,2019,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1976311,PA,Clearfield,Penfield,Source2,3,41.108871,-78.537529,2019,18,Friday,Cloudy,False,False,True,False,False,False,False
+A-1998565,PA,Clearfield,Du Bois,Source2,3,41.130558,-78.710197,2019,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2003588,PA,Clearfield,Du Bois,Source2,3,41.146999,-78.78765899999998,2019,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2017090,PA,Clearfield,Du Bois,Source2,3,41.130558,-78.710197,2019,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2019400,PA,Clearfield,Woodland,Source2,3,41.014225,-78.29469300000002,2019,11,Tuesday,Rain,False,False,False,False,False,False,False
+A-2026665,PA,Clearfield,Du Bois,Source2,3,41.130558,-78.710197,2019,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-2068229,PA,Clearfield,Morrisdale,Source2,3,40.987675,-78.170761,2019,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2102688,PA,Clearfield,Du Bois,Source2,3,41.130558,-78.710197,2019,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2107627,PA,Clearfield,Woodland,Source2,3,41.020844,-78.344238,2019,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-2107637,PA,Clearfield,Morrisdale,Source2,3,40.987675,-78.170761,2019,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-2110584,PA,Clearfield,Morrisdale,Source2,3,40.987675,-78.170761,2019,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2119096,PA,Clearfield,Du Bois,Source2,3,41.146999,-78.78765899999998,2019,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2121352,PA,Clearfield,Penfield,Source2,3,41.108871,-78.537529,2019,19,Friday,Cloudy,False,False,True,False,False,False,False
+A-2124020,PA,Clearfield,Penfield,Source2,3,41.108871,-78.537529,2019,10,Sunday,Cloudy,False,False,True,False,False,False,False
+A-2124032,PA,Clearfield,Clearfield,Source2,3,41.03931,-78.39843,2019,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2149644,PA,Clearfield,Clearfield,Source2,3,41.039238,-78.398636,2019,5,Friday,Rain,False,False,False,False,False,False,False
+A-2149698,PA,Clearfield,Woodland,Source2,3,41.020725,-78.343903,2019,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-2152787,PA,Clearfield,Woodland,Source2,3,41.020973,-78.343758,2019,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2152788,PA,Clearfield,Morrisdale,Source2,3,40.987873,-78.170326,2019,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2156208,PA,Clearfield,Clearfield,Source2,4,41.039238,-78.398636,2019,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2158617,PA,Clearfield,Clearfield,Source2,3,41.039238,-78.398636,2019,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2163519,PA,Clearfield,Morrisdale,Source2,3,40.987873,-78.170326,2019,17,Friday,Rain,False,False,False,False,False,False,False
+A-2165914,PA,Clearfield,Woodland,Source2,3,41.020725,-78.343903,2019,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2176722,PA,Clearfield,Morrisdale,Source2,3,40.987675,-78.170761,2019,9,Friday,Rain,False,False,False,False,False,False,False
+A-2178855,PA,Clearfield,Du Bois,Source2,3,41.13018,-78.710991,2019,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2191893,PA,Clearfield,Penfield,Source2,3,41.108871,-78.537529,2019,11,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-2195706,PA,Clearfield,Woodland,Source2,3,41.020725,-78.343903,2019,2,Monday,Cloudy,False,False,False,False,False,False,False
+A-2195707,PA,Clearfield,Clearfield,Source2,4,41.039238,-78.398636,2019,3,Monday,Cloudy,False,False,False,False,False,False,False
+A-2195711,PA,Clearfield,Penfield,Source2,3,41.109215,-78.537903,2019,3,Monday,Cloudy,False,False,False,False,False,False,False
+A-2197850,PA,Clearfield,Morrisdale,Source2,3,40.987873,-78.170326,2019,19,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-2200995,PA,Clearfield,Morrisdale,Source2,3,40.987873,-78.170326,2019,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2203473,PA,Clearfield,Penfield,Source2,3,41.109215,-78.537903,2019,9,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2208418,PA,Clearfield,Morrisdale,Source2,3,40.987873,-78.170326,2019,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2225921,PA,Clearfield,Morrisdale,Source2,3,40.987873,-78.170326,2019,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2254910,PA,Clearfield,Du Bois,Source2,3,41.146648,-78.78804000000002,2019,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2257675,PA,Clearfield,Morrisdale,Source2,3,40.987873,-78.170326,2019,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-2276376,PA,Clearfield,Penfield,Source2,3,41.109215,-78.537903,2019,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2290356,PA,Clearfield,Penfield,Source2,3,41.109215,-78.537903,2019,17,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-2290357,PA,Clearfield,Penfield,Source2,3,41.109215,-78.537903,2019,17,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-2295880,PA,Clearfield,Penfield,Source2,3,41.109215,-78.537903,2019,10,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2314652,PA,Clearfield,Woodland,Source2,3,41.020725,-78.343903,2019,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2314692,PA,Clearfield,Penfield,Source2,3,41.108555,-78.53759000000002,2019,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2316996,PA,Clearfield,Woodland,Source2,3,41.020725,-78.343903,2019,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-2321173,PA,Clearfield,Penfield,Source2,3,41.109215,-78.537903,2019,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2328426,PA,Clearfield,Penfield,Source2,3,41.109215,-78.537903,2019,16,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2332788,PA,Clearfield,Woodland,Source2,3,41.020725,-78.343903,2019,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2348770,PA,Clearfield,Penfield,Source2,3,41.109215,-78.537903,2019,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-2361753,PA,Clearfield,Penfield,Source2,3,41.109215,-78.537903,2019,7,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-2361757,PA,Clearfield,Morrisdale,Source2,3,40.987873,-78.170326,2019,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2365941,PA,Clearfield,Penfield,Source2,3,41.109215,-78.537903,2019,7,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2368692,PA,Clearfield,Clearfield,Source2,3,41.039238,-78.398636,2019,10,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2409605,PA,Clearfield,Du Bois,Source2,3,41.13042100000001,-78.71035,2018,15,Friday,Rain,False,False,False,False,False,False,False
+A-2412710,PA,Clearfield,Du Bois,Source2,3,41.13042100000001,-78.71035,2018,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2416401,PA,Clearfield,Penfield,Source2,3,41.109215,-78.537903,2018,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2416407,PA,Clearfield,Penfield,Source2,3,41.109215,-78.537903,2018,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2418523,PA,Clearfield,Penfield,Source2,3,41.109215,-78.537903,2018,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-2418524,PA,Clearfield,Penfield,Source2,3,41.109215,-78.537903,2018,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-2421085,PA,Clearfield,Penfield,Source2,3,41.109215,-78.537903,2018,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2427740,PA,Clearfield,Morrisdale,Source2,3,40.988747,-78.16845699999998,2018,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2432222,PA,Clearfield,Woodland,Source2,3,41.021244,-78.344597,2018,6,Monday,Rain,False,False,False,False,False,False,False
+A-2432264,PA,Clearfield,Woodland,Source2,3,41.021244,-78.344597,2018,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-2444910,PA,Clearfield,Penfield,Source2,3,41.108532,-78.537552,2018,8,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2447883,PA,Clearfield,Morrisdale,Source2,3,40.988747,-78.16845699999998,2018,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2447902,PA,Clearfield,Clearfield,Source2,3,41.039482,-78.398155,2018,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2455283,PA,Clearfield,Du Bois,Source2,3,41.147335,-78.789909,2018,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2475454,PA,Clearfield,Morrisdale,Source2,3,40.988747,-78.16845699999998,2018,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-2477079,PA,Clearfield,Morrisdale,Source2,3,40.988747,-78.16845699999998,2018,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2481580,PA,Clearfield,Woodland,Source2,3,41.021244,-78.344597,2018,4,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2488815,PA,Clearfield,Woodland,Source2,3,41.021244,-78.344597,2018,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2506753,PA,Clearfield,Penfield,Source2,3,41.108532,-78.537552,2018,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2517565,PA,Clearfield,Du Bois,Source2,3,41.129795,-78.70784,2018,15,Monday,Rain,False,False,False,False,False,False,False
+A-2548132,PA,Clearfield,Clearfield,Source2,3,41.039185,-78.398117,2018,7,Saturday,Rain,False,False,False,False,False,False,False
+A-2548141,PA,Clearfield,Du Bois,Source2,3,41.129795,-78.70784,2018,9,Saturday,Rain,False,False,False,False,False,False,False
+A-2548155,PA,Clearfield,Du Bois,Source2,3,41.129795,-78.70784,2018,12,Saturday,Rain,False,False,False,False,False,False,False
+A-2553034,PA,Clearfield,Clearfield,Source2,3,41.039482,-78.398155,2018,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2553039,PA,Clearfield,Clearfield,Source2,3,41.039482,-78.398155,2018,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2553043,PA,Clearfield,Clearfield,Source2,3,41.039097,-78.399498,2018,22,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2566556,PA,Clearfield,Du Bois,Source2,3,41.129795,-78.70784,2018,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2566571,PA,Clearfield,Du Bois,Source2,3,41.129795,-78.70784,2018,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2587144,PA,Clearfield,Clearfield,Source2,3,41.039482,-78.398155,2018,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2605058,PA,Clearfield,Woodland,Source2,3,41.021244,-78.344597,2018,17,Tuesday,Rain,False,False,False,False,False,False,False
+A-2621466,PA,Clearfield,Morrisdale,Source2,3,40.988747,-78.16845699999998,2018,11,Thursday,Rain,False,False,False,False,False,False,False
+A-2623987,PA,Clearfield,Du Bois,Source2,3,41.12968400000001,-78.70744300000001,2018,7,Friday,Rain,False,False,False,False,False,False,False
+A-2630318,PA,Clearfield,Du Bois,Source2,3,41.072132,-78.74180600000003,2018,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2641206,PA,Clearfield,Clearfield,Source2,3,41.039482,-78.398155,2018,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2642046,PA,Clearfield,Du Bois,Source2,3,41.129795,-78.70784,2018,15,Monday,Storm,False,False,False,False,False,False,False
+A-2649320,PA,Clearfield,Penfield,Source2,3,41.108154,-78.53714000000002,2018,6,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2649362,PA,Clearfield,Woodland,Source2,3,41.021244,-78.344597,2018,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2655050,PA,Clearfield,Du Bois,Source2,3,41.147018,-78.788948,2018,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2663569,PA,Clearfield,Clearfield,Source2,3,41.039482,-78.398155,2018,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2663571,PA,Clearfield,Woodland,Source2,3,41.021244,-78.344597,2018,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2672243,PA,Clearfield,Woodland,Source2,3,41.021244,-78.344597,2018,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2672286,PA,Clearfield,Du Bois,Source2,3,41.129795,-78.70784,2018,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2672332,PA,Clearfield,Morrisdale,Source2,3,40.988747,-78.16845699999998,2018,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2685926,PA,Clearfield,Penfield,Source2,3,41.108532,-78.537552,2018,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2693133,PA,Clearfield,Penfield,Source2,3,41.111553,-78.541466,2018,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2693134,PA,Clearfield,Du Bois,Source2,3,41.129795,-78.70784,2018,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2705081,PA,Clearfield,Woodland,Source2,3,41.021244,-78.344597,2018,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2709483,PA,Clearfield,Du Bois,Source2,3,41.129795,-78.70784,2018,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2711812,PA,Clearfield,Du Bois,Source2,3,41.129795,-78.70784,2018,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2714226,PA,Clearfield,Morrisdale,Source2,3,40.988747,-78.16845699999998,2018,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2716497,PA,Clearfield,Morrisdale,Source2,3,40.988747,-78.16845699999998,2018,22,Saturday,Rain,False,False,False,False,False,False,False
+A-2720483,PA,Clearfield,Clearfield,Source2,3,41.039482,-78.398155,2018,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2733417,PA,Clearfield,Penfield,Source2,3,41.108532,-78.537552,2018,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2739998,PA,Clearfield,Morrisdale,Source2,3,40.988747,-78.16845699999998,2018,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-2751739,PA,Clearfield,Morrisdale,Source2,3,40.988747,-78.16845699999998,2018,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2763116,PA,Clearfield,Penfield,Source2,3,41.108532,-78.537552,2018,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2765235,PA,Clearfield,Morrisdale,Source2,3,40.988747,-78.16845699999998,2018,19,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2767211,PA,Clearfield,Morrisdale,Source2,3,40.988747,-78.16845699999998,2018,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2771900,PA,Clearfield,Du Bois,Source2,3,41.129795,-78.70784,2018,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2782613,PA,Clearfield,Du Bois,Source2,3,41.147335,-78.789909,2018,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2785091,PA,Clearfield,Morrisdale,Source2,3,40.988747,-78.16845699999998,2018,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2785098,PA,Clearfield,Woodland,Source2,3,41.021244,-78.344597,2018,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2785109,PA,Clearfield,Clearfield,Source2,3,41.039482,-78.398155,2018,21,Wednesday,Rain,False,False,False,False,False,False,False
+A-2802823,PA,Clearfield,Woodland,Source2,3,41.021244,-78.344597,2018,19,Friday,Rain,False,False,False,False,False,False,False
+A-2805915,PA,Clearfield,Du Bois,Source2,3,41.147335,-78.789909,2018,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2811879,PA,Clearfield,Clearfield,Source2,3,41.039482,-78.398155,2018,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2814440,PA,Clearfield,Clearfield,Source2,3,41.039482,-78.398155,2018,14,Thursday,Rain,False,False,False,False,False,False,False
+A-2826779,PA,Clearfield,Penfield,Source2,3,41.108532,-78.537552,2018,5,Wednesday,Rain,False,False,False,False,False,False,False
+A-2832163,PA,Clearfield,Du Bois,Source2,3,41.147335,-78.789909,2018,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2838975,PA,Clearfield,Woodland,Source2,3,41.021244,-78.344597,2018,7,Tuesday,Rain,False,False,False,False,False,False,False
+A-2838993,PA,Clearfield,Clearfield,Source2,3,41.039482,-78.398155,2018,9,Tuesday,Rain,False,False,False,False,False,False,False
+A-2852428,PA,Clearfield,Du Bois,Source2,3,41.129795,-78.70784,2018,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2858783,PA,Clearfield,Morrisdale,Source2,3,40.988747,-78.16845699999998,2018,6,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2863835,PA,Clearfield,Penfield,Source2,3,41.108532,-78.537552,2018,21,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2883053,PA,Clearfield,Du Bois,Source2,3,41.147282,-78.789726,2018,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2886164,PA,Clearfield,Du Bois,Source2,3,41.129795,-78.70784,2018,22,Sunday,Rain,False,False,False,False,False,False,False
+A-2897784,PA,Clearfield,Penfield,Source2,3,41.108532,-78.537552,2018,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2900296,PA,Clearfield,Du Bois,Source2,3,41.129795,-78.70784,2018,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2917094,PA,Clearfield,Penfield,Source2,3,41.108532,-78.537552,2018,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2922410,PA,Clearfield,Penfield,Source2,3,41.10876500000001,-78.537811,2018,4,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2922419,PA,Clearfield,Du Bois,Source2,3,41.129795,-78.70784,2018,6,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2931225,PA,Clearfield,Woodland,Source2,3,41.021244,-78.344597,2018,9,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2934340,PA,Clearfield,Woodland,Source2,3,41.021244,-78.344597,2018,8,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2938437,PA,Clearfield,Clearfield,Source2,3,41.039482,-78.398155,2018,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-2946487,PA,Clearfield,Du Bois,Source2,3,41.147335,-78.789909,2018,19,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2946497,PA,Clearfield,Woodland,Source2,3,41.021244,-78.344597,2018,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2949303,PA,Clearfield,Du Bois,Source2,3,41.147335,-78.789909,2018,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2949334,PA,Clearfield,Clearfield,Source2,3,41.039482,-78.398155,2018,9,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2953392,PA,Clearfield,Du Bois,Source2,3,41.129795,-78.70784,2018,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2975435,PA,Clearfield,Morrisdale,Source2,3,40.988747,-78.16845699999998,2018,16,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2995452,PA,Clearfield,Du Bois,Source2,3,41.129795,-78.70784,2018,12,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2998195,PA,Clearfield,Morrisdale,Source2,3,40.988747,-78.16845699999998,2018,10,Thursday,Sin dato,False,False,False,False,False,False,False
+A-3008162,PA,Clearfield,Penfield,Source2,3,41.108532,-78.537552,2018,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3017982,PA,Clearfield,Penfield,Source2,3,41.108532,-78.537552,2018,19,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-3026863,PA,Clearfield,Morrisdale,Source2,3,40.988747,-78.16845699999998,2018,8,Thursday,Rain,False,False,False,False,False,False,False
+A-3026875,PA,Clearfield,Woodland,Source2,3,41.021244,-78.344597,2018,9,Thursday,Rain,False,False,False,False,False,False,False
+A-3026893,PA,Clearfield,Penfield,Source2,3,41.108532,-78.537552,2018,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3039351,PA,Clearfield,Morrisdale,Source2,3,40.988747,-78.16845699999998,2018,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3040288,PA,Clearfield,Penfield,Source2,3,41.123299,-78.56304899999998,2018,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3040357,PA,Clearfield,Du Bois,Source2,3,41.129795,-78.70784,2018,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3047734,PA,Clearfield,Penfield,Source2,3,41.108532,-78.537552,2018,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-3051393,PA,Clearfield,Clearfield,Source2,3,41.039482,-78.398155,2018,11,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-3069098,PA,Clearfield,Rockton,Source2,3,41.121284,-78.62222299999998,2018,8,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3069107,PA,Clearfield,Penfield,Source2,3,41.108532,-78.537552,2018,9,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3069131,PA,Clearfield,Du Bois,Source2,3,41.129795,-78.70784,2018,15,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3069170,PA,Clearfield,Penfield,Source2,3,41.108532,-78.537552,2018,18,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3069175,PA,Clearfield,Penfield,Source2,3,41.108532,-78.537552,2018,19,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3099982,PA,Clearfield,Woodland,Source2,3,41.022926,-78.36350999999998,2017,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3122151,PA,Clearfield,Clearfield,Source2,3,41.039482,-78.398155,2017,4,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3125160,PA,Clearfield,Morrisdale,Source2,3,40.988747,-78.16845699999998,2017,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3128071,PA,Clearfield,Du Bois,Source2,3,41.147335,-78.789909,2017,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3128075,PA,Clearfield,Du Bois,Source2,3,41.146683,-78.789139,2017,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3128122,PA,Clearfield,Morrisdale,Source2,3,40.96719,-78.113724,2017,7,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3131055,PA,Clearfield,Du Bois,Source2,3,41.147335,-78.789909,2017,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-3140600,PA,Clearfield,Du Bois,Source2,3,41.147335,-78.789909,2017,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3146220,PA,Clearfield,Clearfield,Source2,3,41.039482,-78.398155,2017,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-3149575,PA,Clearfield,Morrisdale,Source2,3,40.988747,-78.16845699999998,2017,4,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-3155302,PA,Clearfield,Penfield,Source2,3,41.108307,-78.537308,2017,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-3291626,PA,Clearfield,Clearfield,Source2,3,41.039482,-78.398155,2017,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3294503,PA,Clearfield,Du Bois,Source2,3,41.129795,-78.70784,2017,14,Friday,Rain,False,False,False,False,False,False,False
+A-3325838,PA,Clearfield,Du Bois,Source2,3,41.129795,-78.70784,2017,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3348518,PA,Clearfield,Morrisdale,Source2,3,40.988747,-78.16845699999998,2017,11,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-3351169,PA,Clearfield,Clearfield,Source2,3,41.039482,-78.398155,2017,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3356487,PA,Clearfield,Penfield,Source2,3,41.108532,-78.537552,2017,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-3359559,PA,Clearfield,Du Bois,Source2,3,41.145645,-78.785965,2017,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3372973,PA,Clearfield,Morrisdale,Source2,3,40.988747,-78.16845699999998,2017,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3455451,PA,Clearfield,Houtzdale,Source1,4,40.832256,-78.409023,2016,5,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3455452,PA,Clearfield,Houtzdale,Source1,4,40.830187,-78.377066,2016,5,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3463016,PA,Clearfield,Clearfield,Source1,4,41.03949,-78.39447,2016,19,Thursday,Rain,False,False,False,False,False,False,False
+A-3467692,PA,Clearfield,Coalport,Source1,4,40.747402,-78.534927,2016,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3467694,PA,Clearfield,Coalport,Source1,4,40.745984,-78.534471,2016,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3467695,PA,Clearfield,Coalport,Source1,4,40.745995,-78.534475,2016,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3467696,PA,Clearfield,Coalport,Source1,4,40.747425,-78.534935,2016,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3468558,PA,Clearfield,Morrisdale,Source1,4,40.987213,-78.158174,2016,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3469667,PA,Clearfield,Morrisdale,Source1,4,40.945684,-78.227628,2016,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3469668,PA,Clearfield,Philipsburg,Source1,4,40.93785,-78.22316,2016,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3487778,PA,Clearfield,Du Bois,Source1,4,41.13138,-78.71526,2016,20,Monday,Cloudy,False,False,True,False,False,False,False
+A-3489583,PA,Clearfield,Houtzdale,Source1,4,40.830918,-78.403074,2016,17,Sunday,Rain,False,False,False,False,False,False,False
+A-3489584,PA,Clearfield,Houtzdale,Source1,4,40.830153,-78.376714,2016,17,Sunday,Rain,False,False,False,False,False,False,False
+A-3492731,PA,Clearfield,Du Bois,Source1,4,41.125681,-78.75595899999998,2016,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3493464,PA,Clearfield,Du Bois,Source1,4,41.130561,-78.712366,2016,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-3500029,PA,Clearfield,Du Bois,Source1,4,41.12885,-78.76194,2016,0,Saturday,Clear / Fair,False,True,False,False,False,False,False
+A-3500031,PA,Clearfield,Du Bois,Source1,4,41.12873,-78.76132,2016,0,Saturday,Clear / Fair,False,True,False,False,False,False,False
+A-3505255,PA,Clearfield,Du Bois,Source1,4,41.130776,-78.713125,2016,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3508695,PA,Clearfield,Westover,Source1,4,40.73113,-78.69341,2016,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3558887,PA,Clearfield,Penfield,Source1,4,41.10487,-78.53341999999998,2017,13,Monday,Sin dato,False,False,False,False,False,False,False
+A-3558890,PA,Clearfield,Morrisdale,Source1,4,40.98625,-78.17607,2017,14,Monday,Sin dato,False,False,False,False,False,False,False
+A-3575312,PA,Clearfield,Penfield,Source1,4,41.10523,-78.53384,2017,22,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-3576475,PA,Clearfield,Morrisdale,Source1,4,40.98616,-78.17751,2017,13,Friday,Sin dato,False,False,False,False,False,False,False
+A-3578039,PA,Clearfield,Luthersburg,Source1,4,41.05378,-78.71731,2017,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3578042,PA,Clearfield,Luthersburg,Source1,4,41.03575900000001,-78.696738,2017,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3580136,PA,Clearfield,Du Bois,Source1,4,41.13138,-78.71526,2017,8,Wednesday,Fog / Low visibility,False,False,True,False,False,False,False
+A-3580477,PA,Clearfield,Du Bois,Source1,4,41.14545,-78.78291999999998,2017,23,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3580483,PA,Clearfield,Clearfield,Source1,4,41.03926,-78.39305999999998,2017,2,Thursday,Sin dato,False,False,False,False,False,False,False
+A-3584736,PA,Clearfield,Du Bois,Source1,4,41.14545,-78.78291999999998,2017,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3584855,PA,Clearfield,Du Bois,Source1,4,41.14545,-78.78291999999998,2017,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3584858,PA,Clearfield,Du Bois,Source1,4,41.14545,-78.78291999999998,2017,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3632681,PA,Clearfield,Morrisdale,Source1,4,40.948709,-78.225512,2017,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-3632696,PA,Clearfield,Morrisdale,Source1,4,40.948474,-78.225962,2017,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-3632697,PA,Clearfield,Morrisdale,Source1,4,40.955242,-78.208352,2017,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-3634698,PA,Clearfield,Penfield,Source1,4,41.231918,-78.549877,2017,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3634700,PA,Clearfield,Du Bois,Source1,4,41.16584,-78.663634,2017,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3635080,PA,Clearfield,Curwensville,Source1,4,40.976345,-78.549545,2017,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3635083,PA,Clearfield,Grampian,Source1,4,40.96414,-78.60970999999998,2017,15,Thursday,Cloudy,True,False,False,False,False,False,False
+A-3644521,PA,Clearfield,Clearfield,Source1,4,41.039518,-78.397449,2017,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3646497,PA,Clearfield,Clearfield,Source1,3,41.03881,-78.40424,2017,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3646504,PA,Clearfield,Clearfield,Source1,4,41.03881,-78.40424,2017,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3724781,PA,Clearfield,Penfield,Source1,4,41.104935,-78.53351500000002,2022,12,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-3742721,PA,Clearfield,Morrisdale,Source1,4,40.970846,-78.236604,2023,3,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3780790,PA,Clearfield,Morrisdale,Source1,4,40.98623,-78.176185,2023,6,Friday,Rain,False,False,False,False,False,False,False
+A-3780791,PA,Clearfield,Morrisdale,Source1,4,40.986103,-78.178111,2023,23,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3787470,PA,Clearfield,Mahaffey,Source1,4,40.899762,-78.681066,2023,9,Tuesday,Rain,False,False,False,False,False,False,False
+A-3888020,PA,Clearfield,Penfield,Source1,4,41.145411,-78.54487900000002,2022,15,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-3898543,PA,Clearfield,Grampian,Source1,4,40.996075,-78.629768,2022,9,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3931559,PA,Clearfield,Morrisdale,Source1,4,40.954931,-78.20876700000002,2022,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3974346,PA,Clearfield,Morrisdale,Source1,4,40.948676,-78.225578,2022,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3979097,PA,Clearfield,Du Bois,Source1,4,41.076742,-78.73504100000002,2022,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4007450,PA,Clearfield,Osceola Mills,Source1,4,40.858605,-78.264762,2022,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4019488,PA,Clearfield,Osceola Mills,Source1,4,40.8734,-78.28697,2022,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4028482,PA,Clearfield,Morrisdale,Source1,4,40.947012,-78.227524,2022,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4048066,PA,Clearfield,Osceola Mills,Source1,4,40.868684,-78.305149,2023,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4063631,PA,Clearfield,Clearfield,Source1,4,41.01136500000001,-78.390539,2022,20,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4149239,PA,Clearfield,Dubois,Source1,4,41.103289,-78.73425999999998,2022,9,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-4164651,PA,Clearfield,Clearfield,Source1,4,41.00405574,-78.45664144,2022,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4179459,PA,Clearfield,West Decatur,Source1,4,40.965665,-78.37011899999997,2022,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4187917,PA,Clearfield,Houtzdale,Source1,4,40.897797,-78.381989,2022,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4206397,PA,Clearfield,Dubois,Source1,4,41.1313,-78.715035,2022,7,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-4211602,PA,Clearfield,Mahaffey,Source1,4,40.897711,-78.695198,2023,9,Tuesday,Rain,False,False,False,False,False,False,False
+A-4231938,PA,Clearfield,Curwensville,Source1,4,40.976454,-78.549228,2023,11,Friday,Cloudy,False,False,False,True,False,False,False
+A-4242264,PA,Clearfield,Mahaffey,Source1,4,40.910755,-78.657829,2022,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4244202,PA,Clearfield,La Jose,Source1,4,40.835297,-78.677564,2022,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4267308,PA,Clearfield,Grassflat,Source1,4,40.967907,-78.08584599999998,2022,13,Thursday,Rain,False,False,False,False,False,False,False
+A-4303234,PA,Clearfield,Mahaffey,Source1,4,40.89446,-78.712462,2023,9,Tuesday,Rain,False,False,False,False,False,False,False
+A-4335188,PA,Clearfield,Penfield,Source1,4,41.208768,-78.574904,2022,19,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-4335705,PA,Clearfield,Falls Creek,Source1,4,41.147951,-78.792975,2022,3,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-4343146,PA,Clearfield,Clearfield,Source1,4,41.005601,-78.44608000000002,2022,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4365415,PA,Clearfield,Mahaffey,Source1,4,40.899762,-78.681066,2023,9,Tuesday,Rain,False,False,False,False,False,False,False
+A-4394232,PA,Clearfield,Grampian,Source1,4,41.010551,-78.639702,2022,9,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-4401634,PA,Clearfield,Osceola Mills,Source1,4,40.882074,-78.291149,2022,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4401993,PA,Clearfield,Curwensville,Source1,4,40.91233,-78.57414,2022,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-4403738,PA,Clearfield,Clearfield,Source1,4,41.004176,-78.45582900000002,2022,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4421334,PA,Clearfield,Penfield,Source1,4,41.195216,-78.593762,2023,3,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4422852,PA,Clearfield,Morrisdale,Source1,4,40.948676,-78.225578,2022,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4476786,PA,Clearfield,Penfield,Source1,4,41.208768,-78.574904,2022,19,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-4493906,PA,Clearfield,Penfield,Source1,4,41.187521,-78.603593,2023,3,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4513025,PA,Clearfield,Mahaffey,Source1,4,40.917298,-78.653104,2022,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4516584,PA,Clearfield,Du Bois,Source1,4,41.145426,-78.78264200000002,2022,23,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-4517653,PA,Clearfield,Du Bois,Source1,4,41.088736,-78.736464,2022,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4520508,PA,Clearfield,Penfield,Source1,4,41.104935,-78.53351500000002,2022,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4530343,PA,Clearfield,Morrisdale,Source1,4,40.948676,-78.225578,2023,3,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4565260,PA,Clearfield,Morrisdale,Source1,4,40.986202,-78.176612,2023,23,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4578103,PA,Clearfield,Penfield,Source1,4,41.10796,-78.537433,2022,20,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-4583379,PA,Clearfield,Du Bois,Source1,4,41.100544,-78.711669,2022,23,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4722376,PA,Clearfield,Curwensville,Source1,4,40.971678,-78.553282,2023,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-4730135,PA,Clearfield,Woodland,Source1,4,41.022165,-78.348375,2022,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4738610,PA,Clearfield,Osceola Mills,Source1,4,40.860419,-78.306765,2023,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4739021,PA,Clearfield,Woodland,Source1,4,41.018537,-78.336952,2022,11,Sunday,Rain,False,False,True,False,False,False,False
+A-4767298,PA,Clearfield,Penfield,Source1,4,41.104935,-78.53351500000002,2022,22,Friday,Storm,False,False,False,False,False,False,False
+A-4767583,PA,Clearfield,Clearfield,Source1,4,41.001057,-78.45876,2022,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4803252,PA,Clearfield,Morrisdale,Source1,4,41.087478,-78.245385,2023,5,Tuesday,Rain,False,False,False,False,False,False,False
+A-4813950,PA,Clearfield,Philipsburg,Source1,4,40.937997,-78.223192,2022,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4846455,PA,Clearfield,Karthaus,Source1,4,41.117434,-78.10968000000003,2023,5,Tuesday,Rain,False,False,False,False,False,False,False
+A-4858712,PA,Clearfield,Philipsburg,Source1,4,40.920756,-78.212761,2022,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4863809,PA,Clearfield,Mahaffey,Source1,4,40.89446,-78.712462,2023,9,Tuesday,Rain,False,False,False,False,False,False,False
+A-4867023,PA,Clearfield,Penfield,Source1,4,41.241688,-78.543649,2022,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4869616,PA,Clearfield,Penfield,Source1,4,41.125646,-78.56487,2022,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4871916,PA,Clearfield,Osceola Mills,Source1,4,40.854939,-78.268331,2022,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4883688,PA,Clearfield,Mahaffey,Source1,4,40.912001,-78.667179,2022,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4885634,PA,Clearfield,Morrisdale,Source1,4,40.948676,-78.225578,2022,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4926945,PA,Clearfield,Du Bois,Source1,4,41.125424,-78.692109,2022,12,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-4932180,PA,Clearfield,Morrisdale,Source1,4,40.948676,-78.225578,2022,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4961866,PA,Clearfield,Dubois,Source1,4,41.094139,-78.708993,2022,23,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5005505,PA,Clearfield,Mahaffey,Source1,4,40.904368,-78.67530699999998,2022,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5019006,PA,Clearfield,Dubois,Source1,4,41.13164306,-78.71456265,2022,13,Thursday,Rain,False,False,False,False,False,False,False
+A-5053804,PA,Clearfield,Morrisdale,Source1,4,40.952599,-78.215154,2022,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5072729,PA,Clearfield,Du Bois,Source1,4,41.113095,-78.735523,2022,9,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-5099645,PA,Clearfield,Morrisdale,Source1,4,40.946983,-78.237143,2022,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5116591,PA,Clearfield,Curwensville,Source1,4,40.923524,-78.574836,2022,11,Monday,Cloudy,False,True,False,False,False,False,True
+A-5144923,PA,Clearfield,Morrisdale,Source1,4,40.989153,-78.166034,2022,13,Thursday,Rain,False,False,False,False,False,False,False
+A-5148705,PA,Clearfield,Penfield,Source1,4,41.134781,-78.539457,2022,15,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-5192599,PA,Clearfield,Falls Creek,Source1,4,41.147951,-78.792975,2022,10,Friday,Snow / Ice,False,False,True,False,False,False,False
+A-5256283,PA,Clearfield,Penfield,Source1,4,41.208768,-78.574904,2023,16,Sunday,Snow / Ice,True,False,False,False,False,False,False
+A-5261973,PA,Clearfield,Clearfield,Source1,4,40.995696,-78.463213,2022,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5265309,PA,Clearfield,Morrisdale,Source1,4,40.954103,-78.210521,2022,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5279662,PA,Clearfield,Clearfield,Source1,4,41.03916048984032,-78.39265465699009,2022,12,Monday,Rain,False,False,False,False,False,False,False
+A-5289406,PA,Clearfield,Woodland,Source1,4,40.999867,-78.347865,2022,20,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5340007,PA,Clearfield,Clearfield,Source1,4,41.03939,-78.398147,2023,5,Tuesday,Rain,False,False,False,False,False,False,False
+A-5343312,PA,Clearfield,Mahaffey,Source1,4,40.87922800000001,-78.732215,2023,9,Tuesday,Rain,False,False,False,False,False,False,False
+A-5344893,PA,Clearfield,Morrisdale,Source1,4,40.950276,-78.222948,2022,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5411553,PA,Clearfield,La Jose,Source1,4,40.835484,-78.677146,2022,21,Friday,Clear / Fair,False,False,False,False,False,True,False
+A-5419589,PA,Clearfield,Brockport,Source1,4,41.251887,-78.642618,2022,12,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-5421946,PA,Clearfield,Penfield,Source1,4,41.208768,-78.574904,2022,12,Friday,Snow / Ice,True,False,False,False,False,False,False
+A-5448800,PA,Clearfield,Morrisdale,Source1,4,40.950378,-78.222776,2022,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5472537,PA,Clearfield,Clearfield,Source1,4,41.06264,-78.454898,2021,0,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-5482714,PA,Clearfield,Woodland,Source1,4,40.999871,-78.347077,2021,12,Saturday,Rain,True,False,False,False,False,False,False
+A-5508702,PA,Clearfield,Dubois,Source1,4,41.14541888217379,-78.78264784775362,2021,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5541568,PA,Clearfield,Coalport,Source1,4,40.749243,-78.535472,2021,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5568883,PA,Clearfield,Westover,Source1,4,40.789104,-78.77650799999998,2021,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5575898,PA,Clearfield,Houtzdale,Source1,4,40.826653,-78.35614100000002,2021,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-5589742,PA,Clearfield,Houtzdale,Source1,4,40.832237,-78.408991,2021,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5617000,PA,Clearfield,Morrisdale,Source1,4,40.97725510577689,-78.19663882218265,2021,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5641146,PA,Clearfield,Grassflat,Source1,4,40.967483,-78.087519,2021,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5660792,PA,Clearfield,Du Bois,Source1,4,41.12501263598859,-78.69237542114881,2021,0,Friday,Cloudy,False,False,False,False,False,False,False
+A-5669203,PA,Clearfield,Cherry Tree,Source1,4,40.780598,-78.777085,2021,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5675965,PA,Clearfield,Coalport,Source1,4,40.748462,-78.534142,2021,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5680969,PA,Clearfield,Clearfield,Source1,4,41.03076400000001,-78.437562,2021,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5716625,PA,Clearfield,Clearfield,Source1,4,41.03901028613549,-78.4057438369827,2021,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5731722,PA,Clearfield,Philipsburg,Source1,4,40.887776,-78.231597,2021,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5770050,PA,Clearfield,Penfield,Source1,4,41.208768,-78.574904,2021,1,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-5816545,PA,Clearfield,Rockton,Source1,4,41.122813,-78.606769,2021,15,Thursday,Rain,False,False,False,False,False,False,False
+A-5822987,PA,Clearfield,Houtzdale,Source1,4,40.825574,-78.35472,2021,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-5836406,PA,Clearfield,Madera,Source1,4,40.828214,-78.43549399999998,2021,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5846862,PA,Clearfield,Olanta,Source1,4,41.033929,-78.431057,2021,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5884861,PA,Clearfield,Penfield,Source1,4,41.11170887927479,-78.54163527451256,2021,15,Thursday,Rain,False,False,True,False,False,False,False
+A-5891942,PA,Clearfield,Clearfield,Source1,4,41.039441,-78.394002,2021,23,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-5897119,PA,Clearfield,Coalport,Source1,4,40.745629,-78.533594,2021,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5923865,PA,Clearfield,Clearfield,Source1,4,40.975764,-78.459405,2021,9,Sunday,Rain,False,False,False,False,False,False,False
+A-5967758,PA,Clearfield,Woodland,Source1,4,40.999871,-78.347077,2021,12,Saturday,Rain,True,False,False,False,False,False,False
+A-5977910,PA,Clearfield,Coalport,Source1,4,40.745676,-78.533348,2021,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5979723,PA,Clearfield,Philipsburg,Source1,4,40.885072,-78.236817,2021,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6009887,PA,Clearfield,Glen Hope,Source1,4,40.773293,-78.550105,2021,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6065337,PA,Clearfield,Coalport,Source1,4,40.745676,-78.533348,2021,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6071035,PA,Clearfield,Du Bois,Source1,4,41.07544,-78.74910200000002,2021,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6110894,PA,Clearfield,Coalport,Source1,4,40.7423794267619,-78.53249430618986,2021,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6133694,PA,Clearfield,Clearfield,Source1,4,41.05219,-78.42818,2021,0,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-6141179,PA,Clearfield,Morrisdale,Source1,4,40.989527,-78.16744399999997,2021,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6142608,PA,Clearfield,Du Bois,Source1,4,41.065174,-78.73281800000002,2021,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6159356,PA,Clearfield,Coalport,Source1,4,40.755376,-78.533231,2021,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6169348,PA,Clearfield,Clearfield,Source1,4,40.975323,-78.460263,2021,9,Sunday,Rain,False,False,False,False,False,False,False
+A-6172310,PA,Clearfield,Coalport,Source1,4,40.745492,-78.534314,2021,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6179076,PA,Clearfield,Coalport,Source1,4,40.74452700000001,-78.53400500000002,2021,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6186455,PA,Clearfield,Coalport,Source1,4,40.742434,-78.53347099999998,2021,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6201117,PA,Clearfield,Woodland,Source1,4,41.02216601352204,-78.34836602173637,2021,9,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-6215756,PA,Clearfield,Woodland,Source1,4,40.984372,-78.30227099999998,2021,12,Saturday,Rain,True,False,False,False,False,False,False
+A-6221700,PA,Clearfield,Smithmill,Source1,4,40.746402,-78.394267,2021,2,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-6224478,PA,Clearfield,Coalport,Source1,4,40.74844,-78.534277,2021,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6234006,PA,Clearfield,Penfield,Source1,4,41.113253831667365,-78.54285836182336,2021,0,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-6262533,PA,Clearfield,Du Bois,Source1,4,41.065174,-78.73281800000002,2021,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6264146,PA,Clearfield,Clearfield,Source1,4,41.025543,-78.438099,2021,12,Tuesday,Cloudy,False,True,False,False,False,False,False
+A-6290158,PA,Clearfield,West Decatur,Source1,4,40.944224,-78.32694599999998,2021,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6298082,PA,Clearfield,Coalport,Source1,4,40.738741,-78.533951,2021,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6315023,PA,Clearfield,West Decatur,Source1,4,40.966452,-78.369605,2021,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6330765,PA,Clearfield,Morrisdale,Source1,4,40.982738,-78.17642099999998,2021,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6341623,PA,Clearfield,Clearfield,Source1,4,41.031619,-78.452045,2021,0,Wednesday,Cloudy,False,True,False,False,False,False,False
+A-6343584,PA,Clearfield,Clearfield,Source1,4,41.03358,-78.450423,2021,0,Wednesday,Cloudy,False,True,False,False,False,False,False
+A-6356600,PA,Clearfield,Clearfield,Source1,4,41.04031,-78.456956,2021,0,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6357220,PA,Clearfield,Clearfield,Source1,4,41.031678,-78.451239,2021,0,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6362629,PA,Clearfield,Clearfield,Source1,4,41.031619,-78.452045,2021,0,Wednesday,Cloudy,False,True,False,False,False,False,False
+A-6388196,PA,Clearfield,Penfield,Source1,4,41.208768,-78.574904,2021,2,Saturday,Cloudy,True,False,False,False,False,False,False
+A-6395518,PA,Clearfield,Morrisdale,Source1,4,40.989612,-78.16338499999998,2021,18,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-6412931,PA,Clearfield,Clearfield,Source1,4,41.032907,-78.451728,2021,0,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6417725,PA,Clearfield,Clearfield,Source1,4,41.041005,-78.456019,2021,0,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6431877,PA,Clearfield,Penfield,Source1,4,41.185177,-78.605846,2021,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6442703,PA,Clearfield,Penfield,Source1,4,41.111714,-78.54164499999997,2021,17,Monday,Cloudy,False,False,True,False,False,False,False
+A-6454293,PA,Clearfield,Clearfield,Source1,4,41.040925,-78.45615500000002,2021,0,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6454843,PA,Clearfield,Clearfield,Source1,4,40.973929,-78.489589,2021,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6457422,PA,Clearfield,Clearfield,Source1,4,41.029338,-78.45186600000002,2021,0,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6458857,PA,Clearfield,Clearfield,Source1,4,41.058073,-78.48432,2021,0,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6459489,PA,Clearfield,Woodland,Source1,4,41.02216601352204,-78.34836602173637,2021,16,Monday,Rain,False,False,False,False,False,False,False
+A-6460139,PA,Clearfield,Clearfield,Source1,4,41.025048,-78.415093,2021,8,Monday,Snow / Ice,False,False,True,False,False,False,False
+A-6476287,PA,Clearfield,Clearfield,Source1,4,41.031678,-78.451239,2021,0,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6508017,PA,Clearfield,Clearfield,Source1,4,41.032907,-78.451728,2021,0,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6518115,PA,Clearfield,Clearfield,Source1,4,41.029338,-78.45186600000002,2021,0,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6519498,PA,Clearfield,Clearfield,Source1,4,41.03358,-78.450423,2021,0,Wednesday,Cloudy,False,True,False,False,False,False,False
+A-6521244,PA,Clearfield,Penfield,Source1,4,41.104062,-78.53255300000002,2021,15,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-6527898,PA,Clearfield,Clearfield,Source1,4,41.04031,-78.456956,2021,0,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6531878,PA,Clearfield,Clearfield,Source1,4,41.007477,-78.435692,2021,8,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-6553061,PA,Clearfield,Clearfield,Source1,4,41.058998,-78.482973,2021,0,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6554996,PA,Clearfield,Clearfield,Source1,4,40.977953,-78.499385,2021,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6586860,PA,Clearfield,Woodland,Source1,4,41.018496,-78.33688599999998,2020,0,Thursday,Snow / Ice,False,False,True,False,False,False,False
+A-6635079,PA,Clearfield,Morrisdale,Source1,4,40.989629,-78.163286,2020,23,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-6650288,PA,Clearfield,Hawk Run,Source1,4,40.92160300000001,-78.210165,2020,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6651916,PA,Clearfield,Morrisdale,Source1,4,40.989629,-78.163286,2020,2,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-6670494,PA,Clearfield,Madera,Source1,4,40.799585,-78.426278,2020,23,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6685609,PA,Clearfield,Philipsburg,Source1,4,40.922449,-78.208269,2020,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6706813,PA,Clearfield,Mahaffey,Source1,4,40.917298,-78.653104,2020,3,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6737343,PA,Clearfield,Osceola Mills,Source1,4,40.849412,-78.292919,2020,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6738917,PA,Clearfield,Hawk Run,Source1,4,40.92160300000001,-78.210165,2020,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6753198,PA,Clearfield,Philipsburg,Source1,4,40.920756,-78.212761,2020,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6759770,PA,Clearfield,Houtzdale,Source1,4,40.827285,-78.341594,2020,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6802994,PA,Clearfield,Madera,Source1,4,40.819712,-78.435183,2020,23,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6813887,PA,Clearfield,Woodland,Source1,4,40.984372,-78.30227099999998,2020,15,Monday,Cloudy,True,False,False,False,False,False,False
+A-6821296,PA,Clearfield,Woodland,Source1,4,40.999871,-78.347077,2020,5,Thursday,Cloudy,True,False,False,False,False,False,False
+A-6829533,PA,Clearfield,Westover,Source1,4,40.731146,-78.693433,2020,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-6905803,PA,Clearfield,Philipsburg,Source1,4,40.920756,-78.212761,2020,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7318995,PA,Clearfield,Clearfield,Source1,4,41.0393,-78.39636999999998,2019,14,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7378647,PA,Clearfield,Du Bois,Source1,4,41.13048,-78.71208,2019,14,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-7428815,PA,Clearfield,Clearfield,Source1,4,41.03926,-78.39305999999998,2019,4,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7428819,PA,Clearfield,Clearfield,Source1,4,41.03926,-78.39305999999998,2019,5,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7428840,PA,Clearfield,Du Bois,Source1,3,41.14843,-78.79113000000002,2019,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7428844,PA,Clearfield,Du Bois,Source1,3,41.14843,-78.79113000000002,2019,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7450884,PA,Clearfield,Morrisdale,Source1,4,40.98691,-78.16619,2019,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7456539,PA,Clearfield,Woodland,Source1,3,41.01862,-78.33706,2019,5,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7456543,PA,Clearfield,Woodland,Source1,3,41.01862,-78.33706,2019,6,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7471378,PA,Clearfield,Penfield,Source1,4,41.117442,-78.54809200000003,2019,7,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-7471380,PA,Clearfield,Penfield,Source1,3,41.11135,-78.54119,2019,8,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-7489317,PA,Clearfield,Du Bois,Source1,4,41.125646,-78.692953,2018,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7492294,PA,Clearfield,Penfield,Source1,4,41.20876,-78.57489,2018,8,Saturday,Cloudy,True,False,False,False,False,False,False
+A-7492299,PA,Clearfield,Penfield,Source1,4,41.20876,-78.57489,2018,8,Saturday,Cloudy,True,False,False,False,False,False,False
+A-7499624,PA,Clearfield,Woodland,Source1,4,41.01947,-78.33922,2018,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7499626,PA,Clearfield,Penfield,Source1,4,41.10503,-78.53415,2018,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7499629,PA,Clearfield,Woodland,Source1,4,41.01947,-78.33922,2018,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7499636,PA,Clearfield,Penfield,Source1,4,41.11135,-78.54119,2018,9,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-7499642,PA,Clearfield,Penfield,Source1,4,41.11135,-78.54119,2018,10,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-7499661,PA,Clearfield,Luthersburg,Source1,4,41.033788,-78.688544,2018,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7499664,PA,Clearfield,Grampian,Source1,4,41.02515,-78.660011,2018,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7499672,PA,Clearfield,Grampian,Source1,4,41.02515,-78.660011,2018,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7499673,PA,Clearfield,Luthersburg,Source1,4,41.033788,-78.688544,2018,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7499975,PA,Clearfield,Cherry Tree,Source1,3,40.789332,-78.776333,2018,3,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7499977,PA,Clearfield,Cherry Tree,Source1,3,40.789332,-78.776333,2018,4,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7518995,PA,Clearfield,Curwensville,Source1,4,40.959393,-78.518238,2018,3,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7518996,PA,Clearfield,Curwensville,Source1,4,40.94569,-78.51808,2018,3,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7518997,PA,Clearfield,Curwensville,Source1,4,40.94569,-78.51808,2018,3,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7518998,PA,Clearfield,Curwensville,Source1,4,40.959393,-78.518238,2018,3,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7526068,PA,Clearfield,Du Bois,Source1,4,41.14512,-78.783,2018,13,Saturday,Rain,False,False,False,False,False,False,False
+A-7536590,PA,Clearfield,Clearfield,Source1,3,41.059528,-78.482948,2018,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7556023,PA,Clearfield,Woodland,Source1,4,41.02268,-78.34919000000002,2018,21,Monday,Rain,False,False,False,False,False,False,False
+A-7556024,PA,Clearfield,Woodland,Source1,4,41.01862,-78.33706,2018,21,Monday,Rain,False,False,True,False,False,False,False
+A-7556027,PA,Clearfield,Morrisdale,Source1,4,40.98783,-78.17336999999998,2018,23,Monday,Cloudy,False,False,False,False,False,False,False
+A-7560685,PA,Clearfield,Clearfield,Source1,3,41.038794,-78.404432,2018,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7561940,PA,Clearfield,Du Bois,Source1,4,41.124994,-78.692267,2018,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7561941,PA,Clearfield,Du Bois,Source1,4,41.124994,-78.692267,2018,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7561947,PA,Clearfield,Du Bois,Source1,3,41.13138,-78.71526,2018,17,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7561950,PA,Clearfield,Du Bois,Source1,4,41.124994,-78.692267,2018,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7561975,PA,Clearfield,Du Bois,Source1,4,41.13138,-78.71526,2018,19,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7597687,PA,Clearfield,Grassflat,Source1,4,41.024583,-78.108222,2018,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7597688,PA,Clearfield,Morrisdale,Source1,4,41.014776,-78.12214,2018,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7597697,PA,Clearfield,Grassflat,Source1,4,41.024614,-78.10821800000002,2018,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7597698,PA,Clearfield,Morrisdale,Source1,4,41.014757,-78.122192,2018,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7604642,PA,Clearfield,Curwensville,Source1,4,40.965207,-78.521945,2018,15,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-7604643,PA,Clearfield,Curwensville,Source1,4,40.966773,-78.52313199999998,2018,15,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-7604644,PA,Clearfield,Curwensville,Source1,4,40.967787,-78.52390799999998,2018,15,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-7604645,PA,Clearfield,Curwensville,Source1,4,40.966758,-78.523121,2018,15,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-7627685,PA,Clearfield,Penfield,Source1,3,41.11135,-78.54119,2018,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7642793,PA,Clearfield,Philipsburg,Source1,4,40.918478,-78.253504,2017,0,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7642794,PA,Clearfield,West Decatur,Source1,4,40.9307,-78.27938,2017,0,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7668784,PA,Clearfield,Morrisdale,Source1,4,40.982755,-78.176417,2017,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7668785,PA,Clearfield,Morrisdale,Source1,4,40.97742,-78.19474,2017,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7668786,PA,Clearfield,Morrisdale,Source1,4,40.97717,-78.190303,2017,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7668787,PA,Clearfield,Morrisdale,Source1,4,40.980431,-78.179519,2017,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7704793,PA,Clearfield,Morrisdale,Source1,3,40.98616,-78.17751,2019,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7712346,PA,Clearfield,Coalport,Source1,3,40.742999,-78.53353299999998,2019,12,Sunday,Rain,False,False,False,False,False,False,False
+A-7712347,PA,Clearfield,Coalport,Source1,3,40.742289,-78.533635,2019,12,Sunday,Rain,False,False,False,False,False,False,False
+A-7733282,PA,Clearfield,Du Bois,Source1,4,41.14545,-78.78291999999998,2019,0,Wednesday,Cloudy,False,False,False,False,False,False,False

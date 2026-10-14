@@ -1,0 +1,645 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-512686,NC,Cabarrus,Kannapolis,Source2,3,35.498249,-80.564087,2022,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-512698,NC,Cabarrus,Kannapolis,Source2,3,35.498249,-80.564087,2022,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-518679,NC,Cabarrus,Kannapolis,Source2,3,35.469315,-80.58470200000002,2022,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-522086,NC,Cabarrus,Concord,Source2,3,35.435329,-80.657196,2022,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-534814,NC,Cabarrus,Concord,Source2,3,35.401581,-80.69839499999998,2022,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-539990,NC,Cabarrus,Concord,Source2,3,35.373524,-80.5495,2022,8,Thursday,Cloudy,False,False,True,False,False,False,False
+A-543904,NC,Cabarrus,Kannapolis,Source2,3,35.498249,-80.564087,2022,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-567237,NC,Cabarrus,Kannapolis,Source2,3,35.49823,-80.56366,2022,22,Wednesday,Storm,False,False,False,False,False,False,False
+A-567580,NC,Cabarrus,Concord,Source2,3,35.445663,-80.610214,2022,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-571395,NC,Cabarrus,Concord,Source2,3,35.445663,-80.610214,2022,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-576672,NC,Cabarrus,Concord,Source2,4,35.368408,-80.71414200000002,2022,2,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-577628,NC,Cabarrus,Concord,Source2,3,35.36821,-80.71299,2022,12,Friday,Cloudy,True,False,False,False,False,False,False
+A-579026,NC,Cabarrus,Concord,Source3,3,35.445663,-80.610214,2022,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-610430,NC,Cabarrus,Concord,Source2,3,35.401581,-80.69839499999998,2022,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-612940,NC,Cabarrus,Kannapolis,Source2,3,35.465794,-80.587379,2022,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-613659,NC,Cabarrus,Concord,Source2,3,35.418159,-80.672478,2022,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-613708,NC,Cabarrus,Concord,Source2,3,35.435329,-80.657196,2022,14,Monday,Rain,False,False,False,False,False,False,False
+A-617893,NC,Cabarrus,Concord,Source2,3,35.401581,-80.69839499999998,2022,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-620331,NC,Cabarrus,Concord,Source2,3,35.408909,-80.68987299999998,2022,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-621994,NC,Cabarrus,Kannapolis,Source2,3,35.498249,-80.564087,2022,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-639860,NC,Cabarrus,Concord,Source2,3,35.368408,-80.71414200000002,2022,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-649794,NC,Cabarrus,Concord,Source2,3,35.368408,-80.71414200000002,2022,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-656876,NC,Cabarrus,Concord,Source2,3,35.401581,-80.69839499999998,2022,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-663411,NC,Cabarrus,Kannapolis,Source2,3,35.47126,-80.583138,2022,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-663847,NC,Cabarrus,Concord,Source2,3,35.368408,-80.71414200000002,2022,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-669428,NC,Cabarrus,Concord,Source2,3,35.368408,-80.71414200000002,2022,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-670066,NC,Cabarrus,Concord,Source2,3,35.43956400000001,-80.63423900000002,2022,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-674659,NC,Cabarrus,Concord,Source2,3,35.435329,-80.657196,2022,16,Wednesday,Rain,False,False,False,False,False,False,False
+A-674815,NC,Cabarrus,Concord,Source2,3,35.445721,-80.61026,2022,17,Wednesday,Rain,False,False,False,False,False,False,False
+A-680151,NC,Cabarrus,Concord,Source2,3,35.401581,-80.69839499999998,2022,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-682888,NC,Cabarrus,Concord,Source2,3,35.368408,-80.71414200000002,2022,22,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-688610,NC,Cabarrus,Concord,Source3,3,35.401581,-80.69839499999998,2022,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-689765,NC,Cabarrus,Concord,Source2,3,35.418159,-80.672478,2022,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-694753,NC,Cabarrus,Concord,Source2,3,35.418159,-80.672478,2022,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-710896,NC,Cabarrus,Concord,Source2,3,35.44622000000001,-80.608765,2022,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-713071,NC,Cabarrus,Concord,Source2,3,35.445721,-80.61026,2022,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-714497,NC,Cabarrus,Kannapolis,Source2,3,35.49847000000001,-80.56405600000002,2022,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-717384,NC,Cabarrus,Concord,Source2,3,35.401581,-80.69839499999998,2022,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-721576,NC,Cabarrus,Harrisburg,Source2,3,35.383221,-80.705215,2022,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-721615,NC,Cabarrus,Concord,Source2,3,35.368408,-80.71414200000002,2022,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-729586,NC,Cabarrus,Harrisburg,Source2,3,35.371521,-80.711067,2022,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-740066,NC,Cabarrus,Concord,Source2,3,35.368408,-80.71414200000002,2022,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-744938,NC,Cabarrus,Concord,Source2,4,35.368408,-80.71414200000002,2022,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-745932,NC,Cabarrus,Concord,Source2,3,35.368408,-80.71414200000002,2022,17,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-750048,NC,Cabarrus,Concord,Source2,3,35.432911,-80.661316,2022,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-762919,NC,Cabarrus,Concord,Source2,3,35.368408,-80.71414200000002,2021,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-767640,NC,Cabarrus,Concord,Source2,3,35.401581,-80.69839499999998,2021,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-803014,NC,Cabarrus,Concord,Source2,3,35.368408,-80.71414200000002,2021,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-803254,NC,Cabarrus,Concord,Source2,3,35.41165200000001,-80.68180799999998,2021,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-820039,NC,Cabarrus,Concord,Source3,3,35.373131,-80.710228,2021,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-820681,NC,Cabarrus,Concord,Source2,3,35.42528499999999,-80.669044,2021,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-827756,NC,Cabarrus,Concord,Source2,3,35.368408,-80.71414200000002,2021,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-831938,NC,Cabarrus,Concord,Source2,3,35.390835,-80.702484,2021,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-832011,NC,Cabarrus,Concord,Source2,3,35.3974,-80.700127,2021,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-838535,NC,Cabarrus,Concord,Source2,3,35.368408,-80.71414200000002,2021,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-853134,NC,Cabarrus,Concord,Source2,3,35.401581,-80.69839499999998,2021,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-870968,NC,Cabarrus,Concord,Source2,3,35.401581,-80.69839499999998,2021,13,Thursday,Rain,False,False,False,False,False,False,False
+A-876445,NC,Cabarrus,Concord,Source2,3,35.368408,-80.71414200000002,2021,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-900219,NC,Cabarrus,Concord,Source2,3,35.445721,-80.61026,2021,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-906711,NC,Cabarrus,Concord,Source2,3,35.401581,-80.69839499999998,2021,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-917046,NC,Cabarrus,Kannapolis,Source2,3,35.48477600000001,-80.574432,2021,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-919626,NC,Cabarrus,Concord,Source2,4,35.445721,-80.61026,2021,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-933563,NC,Cabarrus,Concord,Source2,3,35.418159,-80.672478,2021,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-936561,NC,Cabarrus,Concord,Source2,3,35.445721,-80.61026,2021,21,Friday,Storm,False,False,False,False,False,False,False
+A-951014,NC,Cabarrus,Concord,Source2,3,35.435329,-80.657196,2021,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-952022,NC,Cabarrus,Concord,Source2,3,35.401581,-80.69839499999998,2021,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-955770,NC,Cabarrus,Concord,Source2,3,35.435329,-80.657196,2021,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-957483,NC,Cabarrus,Concord,Source2,4,35.418159,-80.672478,2021,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-968592,NC,Cabarrus,Concord,Source2,3,35.368408,-80.71414200000002,2021,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-989753,NC,Cabarrus,Concord,Source2,3,35.401581,-80.69839499999998,2021,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-989812,NC,Cabarrus,Concord,Source2,3,35.418159,-80.672478,2021,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-992526,NC,Cabarrus,Concord,Source2,3,35.419708,-80.67327900000002,2021,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1038847,NC,Cabarrus,Concord,Source2,3,35.368408,-80.71414200000002,2021,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1040512,NC,Cabarrus,Concord,Source2,3,35.401581,-80.69839499999998,2021,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1046479,NC,Cabarrus,Concord,Source2,3,35.418159,-80.672478,2021,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1053971,NC,Cabarrus,Kannapolis,Source2,3,35.46579000000001,-80.587357,2021,4,Friday,Storm,False,False,False,False,False,False,False
+A-1060898,NC,Cabarrus,Concord,Source2,3,35.435329,-80.657196,2021,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-1066980,NC,Cabarrus,Concord,Source2,3,35.419708,-80.67327900000002,2021,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1085620,NC,Cabarrus,Kannapolis,Source2,3,35.46579000000001,-80.587357,2021,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1085621,NC,Cabarrus,Kannapolis,Source2,3,35.46579000000001,-80.587357,2021,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1089795,NC,Cabarrus,Concord,Source2,3,35.445984,-80.608986,2021,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1091347,NC,Cabarrus,Concord,Source2,3,35.401581,-80.69839499999998,2021,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1103063,NC,Cabarrus,Concord,Source2,3,35.401581,-80.69839499999998,2021,19,Sunday,Rain,False,False,False,False,False,False,False
+A-1110534,NC,Cabarrus,Concord,Source2,3,35.401581,-80.69839499999998,2021,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1117406,NC,Cabarrus,Kannapolis,Source2,3,35.49851599999999,-80.564171,2021,7,Tuesday,Rain,False,False,False,False,False,False,False
+A-1120442,NC,Cabarrus,Concord,Source2,3,35.368408,-80.71414200000002,2021,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1133715,NC,Cabarrus,Concord,Source2,3,35.401581,-80.69839499999998,2021,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1134979,NC,Cabarrus,Concord,Source2,3,35.401581,-80.69839499999998,2021,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-1140467,NC,Cabarrus,Concord,Source2,3,35.44606,-80.609352,2021,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1145802,NC,Cabarrus,Concord,Source2,3,35.368408,-80.71414200000002,2021,22,Friday,Cloudy,False,False,False,False,False,False,False
+A-1157045,NC,Cabarrus,Concord,Source2,3,35.419708,-80.67327900000002,2021,14,Thursday,Storm,False,False,False,False,False,False,False
+A-1188371,NC,Cabarrus,Concord,Source2,3,35.401581,-80.69839499999998,2021,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1193693,NC,Cabarrus,Kannapolis,Source2,3,35.49851599999999,-80.564171,2021,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1196694,NC,Cabarrus,Concord,Source2,3,35.368408,-80.71414200000002,2021,4,Tuesday,Rain,False,False,False,False,False,False,False
+A-1204237,NC,Cabarrus,Concord,Source2,3,35.435329,-80.657196,2021,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1204261,NC,Cabarrus,Kannapolis,Source2,4,35.49851599999999,-80.564171,2021,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1209967,NC,Cabarrus,Kannapolis,Source2,3,35.49851599999999,-80.564171,2020,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1214053,NC,Cabarrus,Concord,Source2,3,35.368408,-80.71414200000002,2020,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1228221,NC,Cabarrus,Kannapolis,Source2,3,35.465298,-80.58721899999998,2020,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1246384,NC,Cabarrus,Kannapolis,Source2,3,35.499039,-80.564499,2020,6,Monday,Rain,False,False,False,False,False,False,False
+A-1247681,NC,Cabarrus,Concord,Source2,3,35.445721,-80.61026,2020,20,Sunday,Rain,False,False,False,False,False,False,False
+A-1250843,NC,Cabarrus,Concord,Source2,3,35.401581,-80.69839499999998,2020,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1266999,NC,Cabarrus,Concord,Source2,3,35.418159,-80.672478,2020,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1277866,NC,Cabarrus,Concord,Source2,3,35.418159,-80.672478,2020,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1285005,NC,Cabarrus,Concord,Source2,3,35.435329,-80.657196,2020,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1291601,NC,Cabarrus,Kannapolis,Source2,3,35.465473,-80.587204,2020,15,Wednesday,Rain,False,False,False,False,False,False,False
+A-1310102,NC,Cabarrus,Concord,Source2,3,35.368408,-80.71414200000002,2020,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1310107,NC,Cabarrus,Kannapolis,Source2,3,35.498402,-80.564308,2020,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1313451,NC,Cabarrus,Concord,Source2,3,35.445721,-80.61026,2020,6,Friday,Rain,False,False,False,False,False,False,False
+A-1313460,NC,Cabarrus,Concord,Source2,3,35.418159,-80.672478,2020,7,Friday,Rain,False,False,False,False,False,False,False
+A-1334345,NC,Cabarrus,Concord,Source2,3,35.368408,-80.71414200000002,2020,17,Saturday,Rain,False,False,False,False,False,False,False
+A-1334977,NC,Cabarrus,Concord,Source2,3,35.445721,-80.61026,2020,11,Sunday,Rain,False,False,False,False,False,False,False
+A-1343241,NC,Cabarrus,Concord,Source2,3,35.445721,-80.61026,2020,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-1383709,NC,Cabarrus,Concord,Source2,3,35.43521900000001,-80.657333,2020,9,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1383710,NC,Cabarrus,Concord,Source2,3,35.43521900000001,-80.657333,2020,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1392171,NC,Cabarrus,Concord,Source2,3,35.445721,-80.61026,2020,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1413592,NC,Cabarrus,Concord,Source2,3,35.43521900000001,-80.657333,2020,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1420291,NC,Cabarrus,Concord,Source2,3,35.445721,-80.61026,2020,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1421858,NC,Cabarrus,Concord,Source2,3,35.418159,-80.672478,2020,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1425565,NC,Cabarrus,Concord,Source2,3,35.445721,-80.61026,2020,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1425567,NC,Cabarrus,Concord,Source2,3,35.368408,-80.71414200000002,2020,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1426352,NC,Cabarrus,Concord,Source2,3,35.418159,-80.672478,2020,17,Monday,Rain,False,False,False,False,False,False,False
+A-1432425,NC,Cabarrus,Concord,Source2,3,35.435417,-80.657021,2020,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-1440748,NC,Cabarrus,Kannapolis,Source2,3,35.498402,-80.564308,2020,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1442771,NC,Cabarrus,Kannapolis,Source2,3,35.498402,-80.564308,2020,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1443457,NC,Cabarrus,Concord,Source2,3,35.445721,-80.61026,2020,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1449110,NC,Cabarrus,Concord,Source2,3,35.43521900000001,-80.657333,2020,17,Wednesday,Rain,False,False,False,False,False,False,False
+A-1453942,NC,Cabarrus,Concord,Source2,3,35.368408,-80.71414200000002,2020,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1456443,NC,Cabarrus,Concord,Source2,3,35.401581,-80.69839499999998,2020,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1461620,NC,Cabarrus,Concord,Source2,3,35.43521900000001,-80.657333,2020,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1474113,NC,Cabarrus,Concord,Source2,3,35.401581,-80.69839499999998,2020,18,Tuesday,Rain,False,False,False,False,False,False,False
+A-1511811,NC,Cabarrus,Concord,Source2,3,35.43521900000001,-80.657333,2020,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1511812,NC,Cabarrus,Kannapolis,Source2,3,35.498142,-80.564247,2020,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1519211,NC,Cabarrus,Concord,Source2,3,35.445915,-80.609337,2020,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1533126,NC,Cabarrus,Concord,Source2,3,35.445915,-80.609337,2020,21,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1535894,NC,Cabarrus,Kannapolis,Source2,3,35.466969,-80.58659399999998,2020,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1550115,NC,Cabarrus,Concord,Source2,3,35.445721,-80.61026,2020,6,Thursday,Rain,False,False,False,False,False,False,False
+A-1553484,NC,Cabarrus,Concord,Source2,3,35.401581,-80.69839499999998,2020,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-1571129,NC,Cabarrus,Concord,Source2,3,35.445766,-80.609894,2020,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1573234,NC,Cabarrus,Concord,Source3,3,35.407524,-80.692566,2020,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1588344,NC,Cabarrus,Concord,Source2,3,35.43521900000001,-80.657333,2020,11,Monday,Rain,False,False,False,False,False,False,False
+A-1608052,NC,Cabarrus,Concord,Source2,3,35.445915,-80.609337,2020,6,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1608120,NC,Cabarrus,Concord,Source2,3,35.44472899999999,-80.608337,2020,17,Friday,Rain,False,False,False,False,False,False,False
+A-1608135,NC,Cabarrus,Kannapolis,Source2,3,35.498142,-80.564247,2020,18,Friday,Rain,False,False,False,False,False,False,False
+A-1615534,NC,Cabarrus,Kannapolis,Source2,3,35.466969,-80.58659399999998,2020,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1632405,NC,Cabarrus,Concord,Source2,3,35.446175,-80.608749,2020,7,Thursday,Rain,False,False,False,False,False,False,False
+A-1637993,NC,Cabarrus,Concord,Source2,3,35.368408,-80.71414200000002,2020,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1639028,NC,Cabarrus,Kannapolis,Source2,3,35.498142,-80.564247,2020,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-1646191,NC,Cabarrus,Concord,Source2,3,35.445915,-80.609337,2020,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1651278,NC,Cabarrus,Concord,Source2,3,35.401581,-80.69839499999998,2020,3,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1664262,NC,Cabarrus,Concord,Source2,3,35.401581,-80.69839499999998,2020,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-1668568,NC,Cabarrus,Concord,Source2,3,35.368408,-80.71414200000002,2020,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1698552,NC,Cabarrus,Concord,Source2,3,35.368408,-80.71414200000002,2019,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-1702979,NC,Cabarrus,Kannapolis,Source2,3,35.498142,-80.564247,2019,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-1716312,NC,Cabarrus,Concord,Source2,3,35.445915,-80.609337,2019,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1716323,NC,Cabarrus,Concord,Source2,3,35.368408,-80.71414200000002,2019,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1720943,NC,Cabarrus,Concord,Source2,3,35.396648,-80.700722,2019,6,Tuesday,Rain,False,False,False,False,False,False,False
+A-1720956,NC,Cabarrus,Concord,Source2,3,35.43521900000001,-80.657333,2019,7,Tuesday,Rain,False,False,False,False,False,False,False
+A-1736305,NC,Cabarrus,Kannapolis,Source2,3,35.498142,-80.564247,2019,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1742673,NC,Cabarrus,Concord,Source2,3,35.418159,-80.672478,2019,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1764682,NC,Cabarrus,Kannapolis,Source2,3,35.498142,-80.564247,2019,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1765542,NC,Cabarrus,Kannapolis,Source2,3,35.466969,-80.58659399999998,2019,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1765546,NC,Cabarrus,Kannapolis,Source2,3,35.498142,-80.564247,2019,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1769422,NC,Cabarrus,Concord,Source2,3,35.445915,-80.609337,2019,7,Tuesday,Rain,False,False,False,False,False,False,False
+A-1769435,NC,Cabarrus,Concord,Source2,3,35.445915,-80.609337,2019,7,Tuesday,Rain,False,False,False,False,False,False,False
+A-1769509,NC,Cabarrus,Kannapolis,Source2,3,35.466969,-80.58659399999998,2019,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1780471,NC,Cabarrus,Concord,Source2,3,35.418159,-80.672478,2019,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1786700,NC,Cabarrus,Concord,Source2,3,35.445915,-80.609337,2019,13,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1789369,NC,Cabarrus,Concord,Source2,3,35.43521900000001,-80.657333,2019,18,Thursday,Rain,False,False,False,False,False,False,False
+A-1794969,NC,Cabarrus,Concord,Source2,3,35.445915,-80.609337,2019,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1794972,NC,Cabarrus,Kannapolis,Source2,3,35.498142,-80.564247,2019,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1804073,NC,Cabarrus,Kannapolis,Source2,3,35.498142,-80.564247,2019,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1806929,NC,Cabarrus,Concord,Source2,3,35.445431,-80.609444,2019,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1856132,NC,Cabarrus,Concord,Source2,3,35.445915,-80.609337,2019,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1858581,NC,Cabarrus,Concord,Source2,3,35.418159,-80.672478,2019,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1878646,NC,Cabarrus,Concord,Source2,3,35.43521900000001,-80.657333,2019,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1880989,NC,Cabarrus,Kannapolis,Source2,3,35.465618,-80.58709,2019,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1883064,NC,Cabarrus,Kannapolis,Source2,3,35.498142,-80.564247,2019,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-1883071,NC,Cabarrus,Kannapolis,Source2,3,35.498142,-80.564247,2019,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1900312,NC,Cabarrus,Kannapolis,Source2,3,35.465618,-80.58709,2019,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-1907908,NC,Cabarrus,Concord,Source2,3,35.37072,-80.71347,2019,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1918609,NC,Cabarrus,Kannapolis,Source2,3,35.498142,-80.564247,2019,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1920304,NC,Cabarrus,Kannapolis,Source2,3,35.498142,-80.564247,2019,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1934934,NC,Cabarrus,Kannapolis,Source2,3,35.498142,-80.564247,2019,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1934961,NC,Cabarrus,Concord,Source2,3,35.368408,-80.71414200000002,2019,9,Tuesday,Rain,False,False,False,False,False,False,False
+A-1953793,NC,Cabarrus,Kannapolis,Source2,3,35.498142,-80.564247,2019,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1976532,NC,Cabarrus,Concord,Source2,3,35.401581,-80.69839499999998,2019,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1976536,NC,Cabarrus,Kannapolis,Source2,3,35.498142,-80.564247,2019,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1979149,NC,Cabarrus,Kannapolis,Source2,4,35.498142,-80.564247,2019,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2022082,NC,Cabarrus,Concord,Source2,3,35.418159,-80.672478,2019,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2028861,NC,Cabarrus,Kannapolis,Source2,3,35.498142,-80.564247,2019,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2032169,NC,Cabarrus,Kannapolis,Source2,3,35.465618,-80.58709,2019,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2038485,NC,Cabarrus,Concord,Source2,3,35.401581,-80.69839499999998,2019,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-2044632,NC,Cabarrus,Kannapolis,Source2,3,35.498142,-80.564247,2019,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2046838,NC,Cabarrus,Kannapolis,Source2,3,35.498142,-80.564247,2019,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2049240,NC,Cabarrus,Kannapolis,Source2,3,35.498142,-80.564247,2019,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2051511,NC,Cabarrus,Kannapolis,Source2,3,35.465618,-80.58709,2019,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2062371,NC,Cabarrus,Concord,Source2,3,35.368408,-80.71414200000002,2019,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2070707,NC,Cabarrus,Concord,Source2,3,35.368408,-80.71414200000002,2019,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2070711,NC,Cabarrus,Concord,Source2,3,35.401581,-80.69839499999998,2019,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2094641,NC,Cabarrus,Concord,Source2,3,35.401581,-80.69839499999998,2019,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-2094656,NC,Cabarrus,Kannapolis,Source2,3,35.46608,-80.588318,2019,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-2094663,NC,Cabarrus,Concord,Source2,3,35.418125,-80.67305,2019,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2109705,NC,Cabarrus,Concord,Source2,3,35.418159,-80.672478,2019,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2149836,NC,Cabarrus,Concord,Source2,3,35.435387,-80.657028,2019,9,Friday,Rain,False,False,False,False,False,False,False
+A-2172307,NC,Cabarrus,Concord,Source2,3,35.368408,-80.71414200000002,2019,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2182696,NC,Cabarrus,Concord,Source2,3,35.43521900000001,-80.657333,2019,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2182819,NC,Cabarrus,Concord,Source2,3,35.445915,-80.609337,2019,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2193620,NC,Cabarrus,Concord,Source2,3,35.401581,-80.69839499999998,2019,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2206155,NC,Cabarrus,Kannapolis,Source2,3,35.497807,-80.564468,2019,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2208559,NC,Cabarrus,Kannapolis,Source2,3,35.497807,-80.564468,2019,11,Friday,Rain,False,False,False,False,False,False,False
+A-2208575,NC,Cabarrus,Concord,Source2,3,35.435387,-80.657028,2019,13,Friday,Rain,False,False,False,False,False,False,False
+A-2210590,NC,Cabarrus,Concord,Source2,3,35.368603,-80.714104,2019,15,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2216253,NC,Cabarrus,Kannapolis,Source2,3,35.498249,-80.56395,2019,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2236143,NC,Cabarrus,Concord,Source2,3,35.388649,-80.703278,2019,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2248697,NC,Cabarrus,Concord,Source2,3,35.40111500000001,-80.698677,2019,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2251966,NC,Cabarrus,Kannapolis,Source2,3,35.497807,-80.564468,2019,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-2279337,NC,Cabarrus,Concord,Source2,3,35.368603,-80.714104,2019,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2287556,NC,Cabarrus,Concord,Source2,3,35.401989,-80.698479,2019,17,Friday,Cloudy,True,False,False,False,False,False,False
+A-2293689,NC,Cabarrus,Concord,Source2,3,35.44619,-80.608704,2019,20,Tuesday,Rain,False,False,False,False,False,False,False
+A-2317119,NC,Cabarrus,Concord,Source2,3,35.445972,-80.609421,2019,8,Friday,Rain,False,False,False,False,False,False,False
+A-2330859,NC,Cabarrus,Concord,Source2,3,35.368603,-80.714104,2019,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2330860,NC,Cabarrus,Concord,Source2,3,35.368603,-80.714104,2019,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2330863,NC,Cabarrus,Concord,Source2,3,35.40176,-80.698296,2019,7,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-2351089,NC,Cabarrus,Kannapolis,Source2,3,35.497807,-80.564468,2019,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2356626,NC,Cabarrus,Concord,Source2,3,35.368603,-80.714104,2019,6,Thursday,Rain,False,False,False,False,False,False,False
+A-2379852,NC,Cabarrus,Kannapolis,Source2,3,35.497807,-80.564468,2018,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2387521,NC,Cabarrus,Concord,Source2,3,35.445972,-80.609421,2018,5,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2392541,NC,Cabarrus,Concord,Source2,3,35.445972,-80.609421,2018,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2407870,NC,Cabarrus,Concord,Source2,3,35.435387,-80.657028,2018,12,Thursday,Rain,False,False,False,False,False,False,False
+A-2412735,NC,Cabarrus,Concord,Source2,3,35.40176,-80.698296,2018,14,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-2435863,NC,Cabarrus,Kannapolis,Source2,3,35.464809,-80.587402,2018,4,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-2442065,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2018,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2468801,NC,Cabarrus,Concord,Source2,3,35.419182,-80.672729,2018,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2487930,NC,Cabarrus,Concord,Source2,3,35.36866,-80.713577,2018,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2489059,NC,Cabarrus,Concord,Source2,3,35.401875,-80.698227,2018,14,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-2491926,NC,Cabarrus,Concord,Source2,3,35.435184,-80.65741,2018,22,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2500477,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2018,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2502698,NC,Cabarrus,Concord,Source2,3,35.36866,-80.713577,2018,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2507060,NC,Cabarrus,Concord,Source2,3,35.435184,-80.65741,2018,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2515982,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2018,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2516740,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2018,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2517896,NC,Cabarrus,Concord,Source2,3,35.419182,-80.672729,2018,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-2523660,NC,Cabarrus,Concord,Source2,3,35.401875,-80.698227,2018,7,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-2523675,NC,Cabarrus,Concord,Source2,3,35.446209,-80.60883299999998,2018,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2529721,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2018,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2539784,NC,Cabarrus,Concord,Source2,3,35.36866,-80.713577,2018,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2545609,NC,Cabarrus,Concord,Source2,3,35.401875,-80.698227,2018,12,Friday,Rain,True,False,False,False,False,False,False
+A-2559789,NC,Cabarrus,Concord,Source2,3,35.446209,-80.60883299999998,2018,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-2559791,NC,Cabarrus,Kannapolis,Source2,3,35.464809,-80.587402,2018,13,Monday,Cloudy,False,False,True,False,False,False,False
+A-2593275,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2018,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2593318,NC,Cabarrus,Kannapolis,Source2,3,35.500214,-80.562431,2018,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2598462,NC,Cabarrus,Concord,Source2,3,35.419182,-80.672729,2018,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-2602485,NC,Cabarrus,Kannapolis,Source2,3,35.464809,-80.587402,2018,8,Monday,Cloudy,False,False,True,False,False,False,False
+A-2608060,NC,Cabarrus,Concord,Source2,3,35.36866,-80.713577,2018,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2610701,NC,Cabarrus,Kannapolis,Source2,3,35.464809,-80.587402,2018,7,Thursday,Cloudy,False,False,True,False,False,False,False
+A-2621640,NC,Cabarrus,Concord,Source2,3,35.446209,-80.60883299999998,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2624171,NC,Cabarrus,Concord,Source2,3,35.446209,-80.60883299999998,2018,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-2641230,NC,Cabarrus,Concord,Source2,3,35.446209,-80.60883299999998,2018,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2649528,NC,Cabarrus,Concord,Source2,3,35.446209,-80.60883299999998,2018,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2649615,NC,Cabarrus,Concord,Source2,3,35.446899,-80.6063,2018,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2652197,NC,Cabarrus,Concord,Source2,3,35.417225,-80.673714,2018,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2656213,NC,Cabarrus,Concord,Source2,3,35.446209,-80.60883299999998,2018,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-2658794,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2018,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2666126,NC,Cabarrus,Concord,Source2,3,35.419182,-80.672729,2018,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2675073,NC,Cabarrus,Concord,Source2,3,35.419182,-80.672729,2018,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2675076,NC,Cabarrus,Concord,Source2,3,35.419182,-80.672729,2018,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2679993,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2018,12,Saturday,Sin dato,False,False,False,False,False,False,False
+A-2709635,NC,Cabarrus,Kannapolis,Source2,3,35.464809,-80.587402,2018,7,Wednesday,Sin dato,False,False,True,False,False,False,False
+A-2714408,NC,Cabarrus,Concord,Source2,3,35.446209,-80.60883299999998,2018,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2717300,NC,Cabarrus,Kannapolis,Source2,3,35.464809,-80.587402,2018,16,Sunday,Cloudy,False,False,True,False,False,False,False
+A-2723072,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2018,13,Wednesday,Rain,False,False,False,False,False,False,False
+A-2723079,NC,Cabarrus,Concord,Source2,3,35.446209,-80.60883299999998,2018,14,Wednesday,Rain,False,False,False,False,False,False,False
+A-2725281,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2018,5,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2733565,NC,Cabarrus,Concord,Source2,3,35.435184,-80.65741,2018,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2733576,NC,Cabarrus,Concord,Source2,3,35.398758,-80.69963800000002,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2733678,NC,Cabarrus,Concord,Source2,3,35.446209,-80.60883299999998,2018,18,Thursday,Rain,False,False,False,False,False,False,False
+A-2736004,NC,Cabarrus,Concord,Source2,3,35.401875,-80.698227,2018,6,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-2736006,NC,Cabarrus,Concord,Source2,3,35.401875,-80.698227,2018,6,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-2736007,NC,Cabarrus,Concord,Source2,3,35.419098,-80.672783,2018,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2736067,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2018,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2736078,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2018,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2738072,NC,Cabarrus,Concord,Source2,3,35.446209,-80.60883299999998,2018,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2738091,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2018,14,Saturday,Rain,False,False,False,False,False,False,False
+A-2747325,NC,Cabarrus,Concord,Source2,3,35.415974,-80.550591,2018,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2749746,NC,Cabarrus,Concord,Source2,3,35.401875,-80.698227,2018,6,Friday,Fog / Low visibility,True,False,False,False,False,False,False
+A-2749864,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2018,17,Friday,Sin dato,False,False,False,False,False,False,False
+A-2752587,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2018,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2758494,NC,Cabarrus,Concord,Source2,3,35.435184,-80.65741,2018,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2761002,NC,Cabarrus,Concord,Source2,3,35.419182,-80.672729,2018,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2769672,NC,Cabarrus,Concord,Source2,3,35.36866,-80.713577,2018,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2772055,NC,Cabarrus,Kannapolis,Source2,3,35.464809,-80.587402,2018,8,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-2776649,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2018,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2778476,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2018,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2802977,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2018,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2805241,NC,Cabarrus,Kannapolis,Source2,3,35.464809,-80.587402,2018,16,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-2805953,NC,Cabarrus,Kannapolis,Source2,3,35.464809,-80.587402,2018,7,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-2814635,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2018,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2819733,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2018,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2819735,NC,Cabarrus,Kannapolis,Source2,3,35.464809,-80.587402,2018,11,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-2819736,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2018,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2819744,NC,Cabarrus,Concord,Source2,3,35.446209,-80.60883299999998,2018,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2819751,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2018,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2820582,NC,Cabarrus,Concord,Source2,3,35.446209,-80.60883299999998,2018,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2821692,NC,Cabarrus,Kannapolis,Source2,3,35.464809,-80.587402,2018,9,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-2826974,NC,Cabarrus,Concord,Source2,3,35.36866,-80.713577,2018,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2827122,NC,Cabarrus,Concord,Source2,3,35.36866,-80.713577,2018,19,Wednesday,Rain,False,False,False,False,False,False,False
+A-2836630,NC,Cabarrus,Kannapolis,Source2,3,35.464809,-80.587402,2018,6,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-2836678,NC,Cabarrus,Concord,Source2,3,35.36866,-80.713577,2018,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2852605,NC,Cabarrus,Concord,Source2,3,35.435184,-80.65741,2018,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2869034,NC,Cabarrus,Concord,Source2,3,35.44592700000001,-80.609131,2018,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2869065,NC,Cabarrus,Concord,Source2,3,35.36866,-80.713577,2018,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2871886,NC,Cabarrus,Concord,Source2,3,35.432327,-80.662132,2018,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2892691,NC,Cabarrus,Concord,Source2,3,35.435184,-80.65741,2018,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2895341,NC,Cabarrus,Concord,Source2,3,35.446217,-80.608795,2018,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2900334,NC,Cabarrus,Concord,Source2,3,35.435184,-80.65741,2018,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2900336,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2018,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2901039,NC,Cabarrus,Kannapolis,Source2,3,35.464809,-80.587402,2018,15,Sunday,Cloudy,False,False,True,False,False,False,False
+A-2905162,NC,Cabarrus,Kannapolis,Source2,3,35.464809,-80.587402,2018,21,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-2913205,NC,Cabarrus,Concord,Source2,3,35.401875,-80.698227,2018,8,Friday,Cloudy,True,False,False,False,False,False,False
+A-2917349,NC,Cabarrus,Concord,Source2,3,35.44592700000001,-80.609131,2018,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2922579,NC,Cabarrus,Concord,Source2,3,35.401875,-80.698227,2018,7,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-2922584,NC,Cabarrus,Concord,Source2,3,35.44592700000001,-80.609131,2018,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2924512,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2018,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2924513,NC,Cabarrus,Concord,Source2,3,35.36866,-80.713577,2018,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2924521,NC,Cabarrus,Concord,Source2,3,35.435184,-80.65741,2018,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2925319,NC,Cabarrus,Concord,Source2,3,35.435184,-80.65741,2018,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2925329,NC,Cabarrus,Concord,Source2,3,35.419182,-80.672729,2018,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2931344,NC,Cabarrus,Concord,Source2,3,35.36866,-80.713577,2018,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2931366,NC,Cabarrus,Concord,Source2,3,35.36866,-80.713577,2018,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2931441,NC,Cabarrus,Concord,Source2,3,35.36866,-80.713577,2018,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2938573,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2018,5,Monday,Rain,False,False,False,False,False,False,False
+A-2949591,NC,Cabarrus,Concord,Source2,3,35.419182,-80.672729,2018,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2951714,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2018,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2951721,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2018,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2953534,NC,Cabarrus,Concord,Source2,3,35.419182,-80.672729,2018,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-2953535,NC,Cabarrus,Concord,Source2,3,35.401875,-80.698227,2018,11,Monday,Cloudy,True,False,False,False,False,False,False
+A-2967827,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2018,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2985892,NC,Cabarrus,Concord,Source2,3,35.435184,-80.65741,2018,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2988136,NC,Cabarrus,Kannapolis,Source2,3,35.464809,-80.587402,2018,12,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-2990159,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2018,7,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2990192,NC,Cabarrus,Kannapolis,Source2,3,35.464809,-80.587402,2018,9,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-2990218,NC,Cabarrus,Kannapolis,Source2,3,35.464809,-80.587402,2018,12,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-2995779,NC,Cabarrus,Concord,Source2,3,35.44592700000001,-80.609131,2018,13,Wednesday,Rain,False,False,False,False,False,False,False
+A-2998377,NC,Cabarrus,Concord,Source2,3,35.44592700000001,-80.609131,2018,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3001354,NC,Cabarrus,Concord,Source2,3,35.44592700000001,-80.609131,2018,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3003755,NC,Cabarrus,Concord,Source2,3,35.401875,-80.698227,2018,18,Saturday,Rain,True,False,False,False,False,False,False
+A-3008444,NC,Cabarrus,Kannapolis,Source2,3,35.49123400000001,-80.569618,2018,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3013321,NC,Cabarrus,Concord,Source2,3,35.435184,-80.65741,2018,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3015873,NC,Cabarrus,Concord,Source2,3,35.44592700000001,-80.609131,2018,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3018031,NC,Cabarrus,Concord,Source2,3,35.435184,-80.65741,2018,16,Saturday,Rain,False,False,False,False,False,False,False
+A-3018595,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2018,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3018596,NC,Cabarrus,Concord,Source2,3,35.435184,-80.65741,2018,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3024549,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2018,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3027054,NC,Cabarrus,Concord,Source2,3,35.435184,-80.65741,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3027060,NC,Cabarrus,Kannapolis,Source2,3,35.464809,-80.587402,2018,7,Thursday,Cloudy,False,False,True,False,False,False,False
+A-3029865,NC,Cabarrus,Concord,Source2,3,35.435184,-80.65741,2018,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-3032157,NC,Cabarrus,Concord,Source2,3,35.36866,-80.713577,2018,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3036760,NC,Cabarrus,Concord,Source2,3,35.44592700000001,-80.609131,2018,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3036761,NC,Cabarrus,Concord,Source2,3,35.435184,-80.65741,2018,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3039412,NC,Cabarrus,Kannapolis,Source2,3,35.464809,-80.587402,2018,14,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-3047975,NC,Cabarrus,Concord,Source2,3,35.435184,-80.65741,2018,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-3060009,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2018,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3065185,NC,Cabarrus,Kannapolis,Source2,3,35.464809,-80.587402,2018,14,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-3072183,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2018,8,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3075547,NC,Cabarrus,Kannapolis,Source2,3,35.464809,-80.587402,2018,15,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-3077155,NC,Cabarrus,Kannapolis,Source2,3,35.464809,-80.587402,2018,12,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-3118754,NC,Cabarrus,Concord,Source2,3,35.36866,-80.713577,2017,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3125330,NC,Cabarrus,Concord,Source2,3,35.435184,-80.65741,2017,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3128426,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2017,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3131361,NC,Cabarrus,Concord,Source2,3,35.44592700000001,-80.609131,2017,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3133518,NC,Cabarrus,Concord,Source2,3,35.44592700000001,-80.609131,2017,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3134167,NC,Cabarrus,Kannapolis,Source2,3,35.464809,-80.587402,2017,17,Sunday,Cloudy,False,False,True,False,False,False,False
+A-3143821,NC,Cabarrus,Concord,Source2,3,35.44592700000001,-80.609131,2017,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3143881,NC,Cabarrus,Concord,Source2,3,35.36866,-80.713577,2017,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3143883,NC,Cabarrus,Concord,Source2,3,35.36866,-80.713577,2017,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3143887,NC,Cabarrus,Concord,Source2,3,35.36866,-80.713577,2017,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3146409,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2017,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3146411,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2017,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3155464,NC,Cabarrus,Kannapolis,Source2,3,35.464809,-80.587402,2017,14,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-3158111,NC,Cabarrus,Kannapolis,Source2,3,35.465782,-80.587112,2017,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3160563,NC,Cabarrus,Concord,Source2,3,35.435184,-80.65741,2017,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3160649,NC,Cabarrus,Concord,Source2,3,35.371067,-80.712685,2017,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3162973,NC,Cabarrus,Concord,Source2,3,35.419182,-80.672729,2017,4,Thursday,Rain,False,False,False,False,False,False,False
+A-3162988,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2017,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3175726,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2017,5,Thursday,Rain,False,False,False,False,False,False,False
+A-3175791,NC,Cabarrus,Kannapolis,Source2,3,35.464809,-80.587402,2017,8,Thursday,Cloudy,False,False,True,False,False,False,False
+A-3178253,NC,Cabarrus,Concord,Source2,3,35.44592700000001,-80.609131,2017,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3178271,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2017,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3186250,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2017,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3193042,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2017,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3193723,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2017,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3193726,NC,Cabarrus,Concord,Source2,3,35.44592700000001,-80.609131,2017,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3193727,NC,Cabarrus,Concord,Source2,3,35.44592700000001,-80.609131,2017,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3193732,NC,Cabarrus,Concord,Source2,3,35.44611,-80.6092,2017,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3197482,NC,Cabarrus,Concord,Source2,3,35.44592700000001,-80.609131,2017,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3200400,NC,Cabarrus,Concord,Source2,3,35.435184,-80.65741,2017,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3200477,NC,Cabarrus,Kannapolis,Source2,3,35.464809,-80.587402,2017,14,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-3202746,NC,Cabarrus,Kannapolis,Source2,3,35.464809,-80.587402,2017,10,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-3204275,NC,Cabarrus,Concord,Source2,3,35.435184,-80.65741,2017,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3205757,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2017,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3213365,NC,Cabarrus,Concord,Source2,3,35.435184,-80.65741,2017,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3216172,NC,Cabarrus,Kannapolis,Source2,3,35.464809,-80.587402,2017,12,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-3217290,NC,Cabarrus,Concord,Source2,3,35.401875,-80.698227,2017,9,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-3228336,NC,Cabarrus,Concord,Source2,3,35.441544,-80.626175,2017,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3228447,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2017,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3228468,NC,Cabarrus,Kannapolis,Source2,3,35.464809,-80.587402,2017,17,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-3252100,NC,Cabarrus,Concord,Source2,3,35.44592700000001,-80.609131,2017,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3252123,NC,Cabarrus,Concord,Source2,3,35.44592700000001,-80.609131,2017,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3264137,NC,Cabarrus,Concord,Source2,3,35.435184,-80.65741,2017,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3277380,NC,Cabarrus,Kannapolis,Source2,3,35.464809,-80.587402,2017,6,Thursday,Rain,False,False,True,False,False,False,False
+A-3283942,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2017,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3291818,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2017,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3294715,NC,Cabarrus,Kannapolis,Source2,3,35.464809,-80.587402,2017,7,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-3294812,NC,Cabarrus,Concord,Source2,3,35.401875,-80.698227,2017,16,Friday,Cloudy,True,False,False,False,False,False,False
+A-3297188,NC,Cabarrus,Concord,Source2,3,35.435184,-80.65741,2017,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3304358,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2017,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3304375,NC,Cabarrus,Kannapolis,Source2,3,35.464809,-80.587402,2017,7,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-3307179,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2017,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3312773,NC,Cabarrus,Kannapolis,Source2,3,35.464809,-80.587402,2017,16,Saturday,Cloudy,False,False,True,False,False,False,False
+A-3328520,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2017,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3329135,NC,Cabarrus,Concord,Source2,3,35.419182,-80.672729,2017,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3339092,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2017,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3339146,NC,Cabarrus,Concord,Source2,3,35.44592700000001,-80.609131,2017,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3341995,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2017,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-3344693,NC,Cabarrus,Concord,Source2,3,35.419182,-80.672729,2017,22,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3344703,NC,Cabarrus,Concord,Source2,3,35.437389,-80.653046,2017,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3353910,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2017,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3353983,NC,Cabarrus,Concord,Source2,3,35.44592700000001,-80.609131,2017,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3356692,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2017,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3356786,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2017,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-3359597,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2017,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3370886,NC,Cabarrus,Concord,Source2,3,35.435184,-80.65741,2017,16,Friday,Rain,False,False,False,False,False,False,False
+A-3370946,NC,Cabarrus,Concord,Source2,3,35.36866,-80.713577,2017,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-3377522,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2017,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3380070,NC,Cabarrus,Kannapolis,Source2,3,35.464809,-80.587402,2017,8,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-3385956,NC,Cabarrus,Concord,Source2,3,35.401875,-80.698227,2017,16,Friday,Cloudy,True,False,False,False,False,False,False
+A-3392511,NC,Cabarrus,Concord,Source2,3,35.435184,-80.65741,2017,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3392532,NC,Cabarrus,Concord,Source2,3,35.401875,-80.698227,2017,10,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-3392627,NC,Cabarrus,Kannapolis,Source2,3,35.497906,-80.56415600000003,2017,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3403512,NC,Cabarrus,Kannapolis,Source2,3,35.464809,-80.587402,2017,16,Saturday,Cloudy,False,False,True,False,False,False,False
+A-3404073,NC,Cabarrus,Kannapolis,Source2,3,35.464809,-80.587402,2017,14,Sunday,Cloudy,False,False,True,False,False,False,False
+A-3453829,NC,Cabarrus,Concord,Source1,3,35.3649,-80.71731,2016,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-3459768,NC,Cabarrus,Kannapolis,Source1,4,35.46174,-80.58941999999998,2017,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-3466486,NC,Cabarrus,Kannapolis,Source1,4,35.49505,-80.56613,2016,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3468010,NC,Cabarrus,Kannapolis,Source1,4,35.46174,-80.58941999999998,2016,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3468020,NC,Cabarrus,Kannapolis,Source1,4,35.46174,-80.58941999999998,2016,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3468029,NC,Cabarrus,Kannapolis,Source1,4,35.50135,-80.56231,2016,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3473777,NC,Cabarrus,Concord,Source1,3,35.413065,-80.67873900000002,2016,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3477995,NC,Cabarrus,Concord,Source1,3,35.42494,-80.6689,2016,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3478604,NC,Cabarrus,Concord,Source1,3,35.37237000000001,-80.71077,2016,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3481711,NC,Cabarrus,Concord,Source1,4,35.44765,-80.60349000000002,2016,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-3489496,NC,Cabarrus,Kannapolis,Source1,4,35.50122,-80.56265,2016,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3490106,NC,Cabarrus,Concord,Source1,3,35.43682000000001,-80.65449,2016,8,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-3502629,NC,Cabarrus,Concord,Source1,4,35.44765,-80.60349000000002,2016,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3578789,NC,Cabarrus,Concord,Source1,3,35.39854000000001,-80.69972,2017,7,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-3578830,NC,Cabarrus,Kannapolis,Source1,4,35.501811,-80.56222199999998,2017,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3584878,NC,Cabarrus,Kannapolis,Source1,4,35.46174,-80.58941999999998,2017,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3599953,NC,Cabarrus,Concord,Source1,4,35.416226,-80.674646,2017,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3601939,NC,Cabarrus,Concord,Source1,4,35.33038900000001,-80.51370899999998,2017,18,Sunday,Rain,False,False,False,False,False,False,False
+A-3601941,NC,Cabarrus,Concord,Source1,4,35.321289,-80.491915,2017,18,Sunday,Rain,False,False,False,False,False,False,False
+A-3632081,NC,Cabarrus,Concord,Source1,3,35.43345,-80.66049,2017,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-3633265,NC,Cabarrus,Gold Hill,Source1,4,35.49979099999999,-80.312242,2017,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3659700,NC,Cabarrus,Concord,Source1,4,35.436593,-80.654533,2023,0,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-3667099,NC,Cabarrus,Concord,Source1,4,35.365012,-80.582747,2023,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3710241,NC,Cabarrus,Concord,Source1,4,35.352683,-80.534676,2023,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3811588,NC,Cabarrus,Concord,Source1,4,35.417092,-80.52938,2022,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3829278,NC,Cabarrus,Concord,Source1,4,35.441662,-80.73905,2022,23,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3832180,NC,Cabarrus,Concord,Source1,4,35.39072,-80.53981,2022,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3920362,NC,Cabarrus,Harrisburg,Source1,4,35.39772391302396,-80.70034146270419,2022,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3941159,NC,Cabarrus,Kannapolis,Source1,4,35.468746,-80.58514100000002,2023,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4017019,NC,Cabarrus,Concord,Source1,4,35.443957,-80.616351,2022,10,Saturday,Cloudy,False,False,True,False,False,False,False
+A-4028619,NC,Cabarrus,Concord,Source1,4,35.437316,-80.691202,2022,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4035866,NC,Cabarrus,Kannapolis,Source1,4,35.46864152,-80.58489919,2023,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4042943,NC,Cabarrus,Harrisburg,Source1,4,35.39772391302396,-80.70034146270419,2022,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4101990,NC,Cabarrus,Harrisburg,Source1,4,35.26167299999999,-80.62299499999997,2023,23,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4101991,NC,Cabarrus,Harrisburg,Source1,4,35.26167299999999,-80.62299499999997,2023,23,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4127409,NC,Cabarrus,Mt Pleasant,Source1,4,35.43555900000001,-80.39635899999998,2023,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4169091,NC,Cabarrus,Kannapolis,Source1,4,35.497549,-80.550162,2022,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4205840,NC,Cabarrus,Concord,Source1,4,35.415969,-80.54942199999998,2022,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4222704,NC,Cabarrus,Concord,Source1,4,35.41500300000001,-80.516246,2022,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4239863,NC,Cabarrus,Concord,Source1,4,35.414969,-80.538104,2022,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4270175,NC,Cabarrus,Concord,Source1,4,35.32697800000001,-80.563988,2022,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4291163,NC,Cabarrus,Mt Pleasant,Source1,4,35.408829,-80.44730600000003,2023,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4327947,NC,Cabarrus,Concord,Source1,4,35.44174,-80.73968,2022,23,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4357228,NC,Cabarrus,Concord,Source1,4,35.44439434988286,-80.6156265731782,2022,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4370719,NC,Cabarrus,Concord,Source1,4,35.388813,-80.54515,2022,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4400536,NC,Cabarrus,Concord,Source1,4,35.406462,-80.694171,2022,23,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4486928,NC,Cabarrus,Concord,Source1,4,35.372479,-80.710724,2023,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-4500912,NC,Cabarrus,Concord,Source1,4,35.44439434988286,-80.6156265731782,2022,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4527694,NC,Cabarrus,Concord,Source1,4,35.437232,-80.69433599999998,2022,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4533829,NC,Cabarrus,Concord,Source1,4,35.437316,-80.691202,2022,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4607638,NC,Cabarrus,Concord,Source1,4,35.32803300000001,-80.562339,2022,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4720635,NC,Cabarrus,Concord,Source1,4,35.415346,-80.520476,2022,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4796502,NC,Cabarrus,Harrisburg,Source1,4,35.27183,-80.623641,2023,23,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4796503,NC,Cabarrus,Harrisburg,Source1,4,35.271341,-80.62353900000002,2023,23,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4816273,NC,Cabarrus,Concord,Source1,4,35.435017347166855,-80.65957188567799,2022,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4885984,NC,Cabarrus,Concord,Source1,4,35.398725,-80.699715,2022,2,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4903471,NC,Cabarrus,Concord,Source1,4,35.318983,-80.479283,2022,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4938441,NC,Cabarrus,Concord,Source1,4,35.467815,-80.741996,2022,17,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4966124,NC,Cabarrus,Concord,Source1,4,35.406462,-80.694171,2022,23,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4969885,NC,Cabarrus,Concord,Source1,4,35.346517,-80.53219399999998,2023,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5026112,NC,Cabarrus,Concord,Source1,4,35.43724500000001,-80.694227,2022,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5345915,NC,Cabarrus,Concord,Source1,4,35.43677687628061,-80.65459370574641,2022,9,Thursday,Cloudy,False,False,True,False,False,False,False
+A-5373602,NC,Cabarrus,Kannapolis,Source1,4,35.49875,-80.549172,2022,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5387298,NC,Cabarrus,Concord,Source1,4,35.414548,-80.53522099999998,2022,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5408916,NC,Cabarrus,Concord,Source1,4,35.415346,-80.520476,2022,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5417025,NC,Cabarrus,Concord,Source1,4,35.47374,-80.74647,2022,17,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-5440262,NC,Cabarrus,Concord,Source1,4,35.44439434988286,-80.6156265731782,2022,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5631139,NC,Cabarrus,Concord,Source1,4,35.44729113561894,-80.60489773711868,2021,11,Monday,Rain,False,False,True,False,False,False,False
+A-5747373,NC,Cabarrus,Kannapolis,Source1,4,35.501943826506135,-80.56217551192971,2021,2,Sunday,Rain,False,False,False,False,False,False,False
+A-6122504,NC,Cabarrus,Concord,Source1,4,35.361345,-80.541313,2021,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6315417,NC,Cabarrus,Kannapolis,Source1,4,35.49499154073956,-80.56661725005834,2021,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-6352388,NC,Cabarrus,Concord,Source1,4,35.441127,-80.73479,2021,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6358162,NC,Cabarrus,Concord,Source1,4,35.44142,-80.737101,2021,18,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-6363789,NC,Cabarrus,Kannapolis,Source1,4,35.495492,-80.56579,2021,3,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6600380,NC,Cabarrus,Concord,Source1,4,35.423022,-80.670365,2020,19,Thursday,Cloudy,False,False,True,False,False,False,False
+A-6640108,NC,Cabarrus,Mount Pleasant,Source1,4,35.422137,-80.418405,2020,14,Wednesday,Rain,False,False,False,False,False,False,False
+A-6731653,NC,Cabarrus,Concord,Source1,4,35.384827,-80.590585,2020,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6767991,NC,Cabarrus,Concord,Source1,4,35.447036,-80.605798,2020,22,Friday,Cloudy,False,False,False,False,False,False,False
+A-6782435,NC,Cabarrus,Concord,Source1,4,35.44684,-80.606507,2020,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-6834346,NC,Cabarrus,Concord,Source1,4,35.415254,-80.676115,2020,1,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6983716,NC,Cabarrus,Concord,Source1,3,35.43794000000001,-80.65133,2020,17,Wednesday,Rain,False,False,False,False,False,False,False
+A-6988967,NC,Cabarrus,Mount Pleasant,Source1,4,35.43989000000001,-80.36766999999998,2020,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6988968,NC,Cabarrus,Mount Pleasant,Source1,4,35.44115,-80.3642,2020,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6991004,NC,Cabarrus,Kannapolis,Source1,4,35.50251,-80.58288,2020,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6991005,NC,Cabarrus,Kannapolis,Source1,4,35.50188,-80.57953,2020,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6992308,NC,Cabarrus,Concord,Source1,4,35.41611,-80.47711,2020,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6992309,NC,Cabarrus,Concord,Source1,4,35.41615,-80.47737,2020,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6998249,NC,Cabarrus,Concord,Source1,3,35.41553,-80.67577,2020,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7012291,NC,Cabarrus,Concord,Source1,3,35.41536,-80.67555,2020,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7012299,NC,Cabarrus,Concord,Source1,3,35.41536,-80.67555,2020,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7024284,NC,Cabarrus,Concord,Source1,4,35.41520999999999,-80.67572,2020,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7024285,NC,Cabarrus,Concord,Source1,4,35.41520999999999,-80.67572,2020,0,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7026326,NC,Cabarrus,Concord,Source1,4,35.41520999999999,-80.67572,2020,4,Wednesday,Rain,False,False,False,False,False,False,False
+A-7028411,NC,Cabarrus,Harrisburg,Source1,3,35.34217,-80.61261999999998,2020,23,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7033949,NC,Cabarrus,Midland,Source1,4,35.28496,-80.50786,2020,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7033950,NC,Cabarrus,Midland,Source1,4,35.29201,-80.51201,2020,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7038330,NC,Cabarrus,Concord,Source1,3,35.39862,-80.70002,2020,19,Tuesday,Rain,False,False,False,False,False,False,False
+A-7038332,NC,Cabarrus,Concord,Source1,3,35.39862,-80.70002,2020,19,Tuesday,Rain,False,False,False,False,False,False,False
+A-7052120,NC,Cabarrus,Locust,Source1,4,35.25386,-80.4657,2020,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7052276,NC,Cabarrus,Concord,Source1,4,35.41851,-80.58845,2020,18,Tuesday,Cloudy,True,False,False,False,False,True,False
+A-7052282,NC,Cabarrus,Concord,Source1,4,35.41851,-80.58845,2020,19,Tuesday,Cloudy,True,False,False,False,False,True,False
+A-7057606,NC,Cabarrus,Concord,Source1,3,35.4331,-80.66153,2020,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7068264,NC,Cabarrus,Concord,Source1,3,35.42297999999999,-80.67008,2020,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-7077636,NC,Cabarrus,Kannapolis,Source1,3,35.47987,-80.57743,2020,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7077643,NC,Cabarrus,Kannapolis,Source1,3,35.47723,-80.57916999999998,2020,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7077658,NC,Cabarrus,Kannapolis,Source1,3,35.46176,-80.58944,2020,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7120351,NC,Cabarrus,Concord,Source1,3,35.446,-80.60959,2020,22,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7125411,NC,Cabarrus,Kannapolis,Source1,3,35.46188,-80.58965,2020,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7125413,NC,Cabarrus,Kannapolis,Source1,3,35.46189000000001,-80.58965,2020,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7125417,NC,Cabarrus,Kannapolis,Source1,3,35.46189000000001,-80.58965,2020,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7125420,NC,Cabarrus,Kannapolis,Source1,3,35.46189000000001,-80.58965,2020,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7131157,NC,Cabarrus,Concord,Source1,4,35.37141,-80.7115,2020,1,Monday,Rain,False,False,False,False,False,False,False
+A-7157833,NC,Cabarrus,Concord,Source1,3,35.37008,-80.66552,2020,13,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-7157834,NC,Cabarrus,Concord,Source1,3,35.37008,-80.66552,2020,13,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-7157839,NC,Cabarrus,Concord,Source1,3,35.37008,-80.66552,2020,13,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-7157840,NC,Cabarrus,Concord,Source1,3,35.37008,-80.66552,2020,13,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-7173714,NC,Cabarrus,Concord,Source1,3,35.41553,-80.67577,2020,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-7173747,NC,Cabarrus,Concord,Source1,3,35.41553,-80.67577,2020,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-7180181,NC,Cabarrus,Concord,Source1,3,35.43345,-80.66049,2020,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7180185,NC,Cabarrus,Concord,Source1,3,35.43345,-80.66049,2020,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7180190,NC,Cabarrus,Concord,Source1,3,35.43345,-80.66049,2020,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7180191,NC,Cabarrus,Concord,Source1,3,35.43345,-80.66049,2020,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7186513,NC,Cabarrus,Kannapolis,Source1,3,35.49518,-80.56636,2020,10,Monday,Rain,False,False,False,False,False,False,False
+A-7186532,NC,Cabarrus,Kannapolis,Source1,3,35.49518,-80.56636,2020,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-7186539,NC,Cabarrus,Kannapolis,Source1,3,35.49518,-80.56636,2020,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-7186545,NC,Cabarrus,Kannapolis,Source1,3,35.49518,-80.56636,2020,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-7186558,NC,Cabarrus,Kannapolis,Source1,3,35.49518,-80.56636,2020,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-7402101,NC,Cabarrus,Kannapolis,Source1,4,35.49509600000001,-80.566213,2019,5,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7405471,NC,Cabarrus,Concord,Source1,3,35.43875,-80.644052,2019,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7434743,NC,Cabarrus,Concord,Source1,4,35.4605,-80.73236999999997,2019,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7434744,NC,Cabarrus,Concord,Source1,4,35.452281,-80.731465,2019,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7445482,NC,Cabarrus,Concord,Source1,3,35.43682000000001,-80.65449,2019,18,Tuesday,Rain,False,False,True,False,False,False,False
+A-7460610,NC,Cabarrus,Concord,Source1,3,35.446053000000006,-80.609229,2019,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7460614,NC,Cabarrus,Kannapolis,Source1,4,35.479223,-80.57804200000002,2019,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7474202,NC,Cabarrus,Concord,Source1,3,35.404593,-80.696197,2018,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7489754,NC,Cabarrus,Concord,Source1,4,35.37237000000001,-80.71077,2018,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7491845,NC,Cabarrus,Kannapolis,Source1,3,35.50122,-80.56265,2018,14,Friday,Rain,False,False,False,False,False,False,False
+A-7493786,NC,Cabarrus,Concord,Source1,3,35.417762,-80.673309,2018,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7505596,NC,Cabarrus,Concord,Source1,3,35.43256500000001,-80.661822,2018,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7510557,NC,Cabarrus,Davidson,Source1,4,35.487312,-80.756355,2018,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7510558,NC,Cabarrus,Davidson,Source1,4,35.49025,-80.76472,2018,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7519447,NC,Cabarrus,Concord,Source1,3,35.41520999999999,-80.67572,2018,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-7526360,NC,Cabarrus,Concord,Source1,4,35.44135900000001,-80.736553,2018,5,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7526361,NC,Cabarrus,Concord,Source1,4,35.439762,-80.724118,2018,5,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7533969,NC,Cabarrus,Kannapolis,Source1,4,35.50122,-80.56265,2018,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7541892,NC,Cabarrus,Harrisburg,Source1,4,35.301354,-80.613089,2018,7,Thursday,Rain,False,False,False,False,False,False,False
+A-7541893,NC,Cabarrus,Harrisburg,Source1,4,35.30175999999999,-80.610608,2018,7,Thursday,Rain,False,False,False,False,False,False,False
+A-7543206,NC,Cabarrus,Concord,Source1,3,35.43345,-80.66049,2018,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7550695,NC,Cabarrus,Kannapolis,Source1,4,35.50122,-80.56265,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7552289,NC,Cabarrus,Concord,Source1,3,35.41520999999999,-80.67572,2018,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7561460,NC,Cabarrus,Midland,Source1,4,35.278782,-80.501817,2018,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7561461,NC,Cabarrus,Midland,Source1,4,35.27023,-80.50105,2018,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7564953,NC,Cabarrus,Kannapolis,Source1,4,35.495058,-80.566069,2018,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7576407,NC,Cabarrus,Kannapolis,Source1,3,35.46178,-80.58946,2018,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7579175,NC,Cabarrus,Kannapolis,Source1,4,35.50122,-80.56265,2018,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7582834,NC,Cabarrus,Kannapolis,Source1,4,35.49503,-80.56609,2018,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7582840,NC,Cabarrus,Kannapolis,Source1,4,35.49545999999999,-80.56577,2018,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7584854,NC,Cabarrus,Kannapolis,Source1,3,35.495336,-80.566273,2018,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7584881,NC,Cabarrus,Concord,Source1,4,35.43777,-80.651268,2018,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-7590818,NC,Cabarrus,Concord,Source1,3,35.3649,-80.71731,2018,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7597252,NC,Cabarrus,Concord,Source1,4,35.439765,-80.632369,2018,18,Tuesday,Rain,False,False,False,False,False,False,False
+A-7598743,NC,Cabarrus,Kannapolis,Source1,4,35.466175,-80.58666,2018,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-7614970,NC,Cabarrus,Kannapolis,Source1,4,35.46178,-80.58946,2018,8,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7622292,NC,Cabarrus,Concord,Source1,4,35.38929500000001,-80.492878,2018,12,Tuesday,Cloudy,False,False,False,False,False,True,False
+A-7624502,NC,Cabarrus,Concord,Source1,4,35.3649,-80.71731,2018,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7624503,NC,Cabarrus,Concord,Source1,4,35.3649,-80.71731,2018,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7634078,NC,Cabarrus,Concord,Source1,4,35.44763,-80.60348,2018,20,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7642012,NC,Cabarrus,Concord,Source1,3,35.44673,-80.606789,2017,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-7647834,NC,Cabarrus,Kannapolis,Source1,4,35.498052,-80.563743,2017,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7648970,NC,Cabarrus,Concord,Source1,4,35.44415,-80.61585,2017,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7648971,NC,Cabarrus,Concord,Source1,4,35.41520999999999,-80.67572,2017,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7652337,NC,Cabarrus,Mount Pleasant,Source1,4,35.43952,-80.36935,2017,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7652338,NC,Cabarrus,Mount Pleasant,Source1,4,35.43952,-80.36935,2017,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7652340,NC,Cabarrus,Mount Pleasant,Source1,4,35.43952,-80.36935,2017,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7652341,NC,Cabarrus,Mount Pleasant,Source1,4,35.43952,-80.36935,2017,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7666126,NC,Cabarrus,Concord,Source1,3,35.394875,-80.701031,2017,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7667157,NC,Cabarrus,Concord,Source1,3,35.41520999999999,-80.67572,2017,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7685900,NC,Cabarrus,Concord,Source1,3,35.44765,-80.60349000000002,2017,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-7685905,NC,Cabarrus,Kannapolis,Source1,3,35.50122,-80.56265,2017,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7689187,NC,Cabarrus,Concord,Source1,4,35.44410999999999,-80.61583,2017,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7691489,NC,Cabarrus,Concord,Source1,3,35.41520999999999,-80.67572,2017,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-7692798,NC,Cabarrus,Mount Pleasant,Source1,4,35.43952,-80.36935,2017,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7692815,NC,Cabarrus,Mount Pleasant,Source1,4,35.441105,-80.36430899999998,2017,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7692816,NC,Cabarrus,Mount Pleasant,Source1,4,35.439725,-80.368305,2017,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7692817,NC,Cabarrus,Mount Pleasant,Source1,4,35.439725,-80.368305,2017,22,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7692818,NC,Cabarrus,Mount Pleasant,Source1,4,35.441105,-80.36430899999998,2017,22,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7695826,NC,Cabarrus,Mount Pleasant,Source1,4,35.45624,-80.34057,2017,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7695827,NC,Cabarrus,Gold Hill,Source1,4,35.458741,-80.32515699999998,2017,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7712785,NC,Cabarrus,Concord,Source1,4,35.4402,-80.72749,2019,9,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-7712786,NC,Cabarrus,Concord,Source1,4,35.431611,-80.723939,2019,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7717333,NC,Cabarrus,Kannapolis,Source1,3,35.49668,-80.56489,2019,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7719658,NC,Cabarrus,Concord,Source1,3,35.438662,-80.646068,2019,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7720812,NC,Cabarrus,Concord,Source1,3,35.4234,-80.67017,2019,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-7728640,NC,Cabarrus,Concord,Source1,4,35.441468,-80.73737,2019,6,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-7728641,NC,Cabarrus,Concord,Source1,4,35.44221,-80.748062,2019,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7742705,NC,Cabarrus,Concord,Source1,3,35.37237000000001,-80.71077,2019,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7742706,NC,Cabarrus,Concord,Source1,3,35.37352,-80.70996600000002,2019,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7742707,NC,Cabarrus,Concord,Source1,3,35.37400200000001,-80.709647,2019,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7746985,NC,Cabarrus,Kannapolis,Source1,3,35.501216,-80.562626,2019,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7771466,NC,Cabarrus,Concord,Source1,4,35.314842,-80.466145,2019,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7771467,NC,Cabarrus,Concord,Source1,4,35.31780999999999,-80.47699,2019,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7775841,NC,Cabarrus,Concord,Source1,3,35.43682000000001,-80.65449,2019,0,Wednesday,Cloudy,False,False,True,False,False,False,False

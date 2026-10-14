@@ -1,0 +1,551 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-263001,TX,Ellis,Italy,Source2,3,32.19606,-96.89875,2016,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-265488,TX,Ellis,Waxahachie,Source2,3,32.378822,-96.86544,2016,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-266516,TX,Ellis,Waxahachie,Source2,3,32.445190000000004,-96.848885,2016,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-267087,TX,Ellis,Ennis,Source2,3,32.360703,-96.632904,2016,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-267396,TX,Ellis,Waxahachie,Source2,3,32.426472,-96.862625,2016,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-267403,TX,Ellis,Waxahachie,Source2,3,32.426472,-96.862625,2016,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-269795,TX,Ellis,Waxahachie,Source2,3,32.408367,-96.872841,2017,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-270443,TX,Ellis,Forreston,Source2,3,32.246201,-96.875824,2017,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-272457,TX,Ellis,Italy,Source2,3,32.195999,-96.899208,2017,7,Monday,Sin dato,False,False,False,False,False,False,False
+A-272929,TX,Ellis,Waxahachie,Source2,3,32.445190000000004,-96.848885,2017,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-273619,TX,Ellis,Waxahachie,Source2,3,32.426472,-96.862625,2017,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-275254,TX,Ellis,Ferris,Source2,3,32.474319,-96.661331,2016,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-276067,TX,Ellis,Ennis,Source2,3,32.410678999999995,-96.659081,2016,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-277544,TX,Ellis,Waxahachie,Source2,3,32.408367,-96.872841,2016,14,Tuesday,Rain,False,False,False,False,False,False,False
+A-277599,TX,Ellis,Waxahachie,Source2,3,32.399918,-96.872475,2016,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-277681,TX,Ellis,Waxahachie,Source2,3,32.426472,-96.862625,2016,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-277922,TX,Ellis,Waxahachie,Source2,3,32.399918,-96.872475,2016,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-280233,TX,Ellis,Waxahachie,Source2,3,32.354996,-96.854691,2016,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-281225,TX,Ellis,Milford,Source2,3,32.134743,-96.954552,2016,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-281407,TX,Ellis,Ferris,Source2,3,32.526641999999995,-96.65963,2016,7,Tuesday,Sin dato,False,False,True,False,False,False,False
+A-281741,TX,Ellis,Waxahachie,Source2,3,32.426472,-96.862625,2016,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-281918,TX,Ellis,Waxahachie,Source2,3,32.490818,-96.826401,2016,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-281942,TX,Ellis,Red Oak,Source2,3,32.503609000000004,-96.822044,2016,14,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-282149,TX,Ellis,Ennis,Source2,3,32.351089,-96.625977,2016,11,Thursday,Sin dato,False,False,False,False,False,False,False
+A-283227,TX,Ellis,Red Oak,Source2,3,32.510616,-96.822289,2016,22,Monday,Sin dato,False,False,False,False,False,False,False
+A-286431,TX,Ellis,Waxahachie,Source2,3,32.474625,-96.836174,2016,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-291008,TX,Ellis,Waxahachie,Source2,3,32.474625,-96.836174,2016,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-291015,TX,Ellis,Red Oak,Source2,3,32.519215,-96.822289,2016,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-291873,TX,Ellis,Waxahachie,Source2,3,32.474625,-96.836174,2016,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-292980,TX,Ellis,Waxahachie,Source2,3,32.459412,-96.843643,2016,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-293515,TX,Ellis,Forreston,Source2,3,32.25959,-96.872856,2016,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-295251,TX,Ellis,Red Oak,Source2,3,32.531826,-96.822044,2016,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-296065,TX,Ellis,Red Oak,Source2,3,32.497440000000005,-96.823044,2016,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-297019,TX,Ellis,Forreston,Source2,3,32.246399,-96.875542,2016,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-297069,TX,Ellis,Red Oak,Source2,3,32.531826,-96.822044,2016,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-298141,TX,Ellis,Waxahachie,Source2,3,32.408367,-96.872841,2016,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-298677,TX,Ellis,Red Oak,Source2,3,32.523918,-96.822311,2016,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-298761,TX,Ellis,Waxahachie,Source2,3,32.474625,-96.836174,2016,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-300463,TX,Ellis,Waxahachie,Source2,3,32.361740000000005,-96.85524,2016,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-300930,TX,Ellis,Waxahachie,Source2,3,32.282082,-96.868256,2016,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-300949,TX,Ellis,Waxahachie,Source2,3,32.299805,-96.864632,2016,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-301686,TX,Ellis,Palmer,Source2,3,32.436436,-96.661598,2016,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-303135,TX,Ellis,Ennis,Source2,3,32.416698,-96.660149,2016,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-304006,TX,Ellis,Red Oak,Source2,3,32.519215,-96.822289,2016,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-335363,TX,Ellis,Ennis,Source2,3,32.416698,-96.660149,2017,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-385043,TX,Ellis,Waxahachie,Source2,3,32.374462,-96.863602,2017,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-386100,TX,Ellis,Waxahachie,Source2,3,32.399918,-96.872475,2017,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-386254,TX,Ellis,Waxahachie,Source2,3,32.399918,-96.872475,2017,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-387704,TX,Ellis,Ennis,Source2,3,32.416698,-96.660149,2017,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-391560,TX,Ellis,Ferris,Source2,3,32.44635,-96.664566,2017,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-430375,TX,Ellis,Waxahachie,Source2,3,32.426472,-96.862625,2017,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-430401,TX,Ellis,Waxahachie,Source2,3,32.445190000000004,-96.848885,2017,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-431312,TX,Ellis,Waxahachie,Source2,3,32.426472,-96.862625,2017,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-432006,TX,Ellis,Waxahachie,Source2,3,32.445316,-96.849274,2017,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-432033,TX,Ellis,Waxahachie,Source2,3,32.448364,-96.848221,2017,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-432918,TX,Ellis,Waxahachie,Source2,3,32.426472,-96.862625,2017,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-433270,TX,Ellis,Waxahachie,Source2,3,32.426472,-96.862625,2017,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-451711,TX,Ellis,Milford,Source2,3,32.140762,-96.944359,2017,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-452146,TX,Ellis,Waxahachie,Source2,3,32.471703000000005,-96.837891,2017,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-452530,TX,Ellis,Waxahachie,Source2,3,32.409103,-96.872772,2017,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-453038,TX,Ellis,Italy,Source2,3,32.231907,-96.881966,2017,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-453257,TX,Ellis,Waxahachie,Source2,3,32.459412,-96.843643,2017,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-484195,TX,Ellis,Waxahachie,Source2,3,32.474346000000004,-96.836105,2017,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-487007,TX,Ellis,Waxahachie,Source2,3,32.290264,-96.86657,2017,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-487735,TX,Ellis,Waxahachie,Source2,3,32.357483,-96.854988,2017,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-508196,TX,Ellis,Ennis,Source2,3,32.324772,-96.608788,2017,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-508423,TX,Ellis,Waxahachie,Source2,3,32.459412,-96.843643,2017,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-509382,TX,Ellis,Waxahachie,Source2,3,32.459412,-96.843643,2017,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-518262,TX,Ellis,Red Oak,Source3,3,32.533581,-96.822304,2022,12,Friday,Rain,False,False,False,False,False,False,False
+A-523259,TX,Ellis,Palmer,Source2,3,32.429062,-96.665543,2022,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-530441,TX,Ellis,Ennis,Source2,3,32.412521000000005,-96.659431,2022,14,Monday,Rain,False,False,True,False,False,False,False
+A-530467,TX,Ellis,Waxahachie,Source2,3,32.411156,-96.872917,2022,12,Monday,Rain,False,False,False,False,False,False,False
+A-532080,TX,Ellis,Palmer,Source2,3,32.429062,-96.665543,2022,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-537643,TX,Ellis,Palmer,Source2,3,32.415257000000004,-96.659889,2022,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-539749,TX,Ellis,Ennis,Source2,3,32.340678999999994,-96.620308,2022,13,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-550915,TX,Ellis,Red Oak,Source2,3,32.531372,-96.822052,2022,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-555408,TX,Ellis,Waxahachie,Source2,3,32.463482,-96.842361,2022,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-563108,TX,Ellis,Waxahachie,Source2,3,32.459244,-96.84362,2022,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-566272,TX,Ellis,Palmer,Source2,3,32.429062,-96.665543,2022,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-572686,TX,Ellis,Waxahachie,Source3,3,32.489079,-96.827408,2022,10,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-576801,TX,Ellis,Forreston,Source2,3,32.259796,-96.872833,2022,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-580902,TX,Ellis,Red Oak,Source2,3,32.519444,-96.822052,2022,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-581650,TX,Ellis,Waxahachie,Source2,3,32.426769,-96.862389,2022,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-595043,TX,Ellis,Red Oak,Source2,3,32.519444,-96.822052,2022,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-608077,TX,Ellis,Italy,Source2,3,32.176998,-96.909813,2022,6,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-613744,TX,Ellis,Ennis,Source2,3,32.380932,-96.648277,2022,11,Monday,Cloudy,False,False,True,False,False,False,False
+A-615890,TX,Ellis,Red Oak,Source2,3,32.519444,-96.822052,2022,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-616843,TX,Ellis,Red Oak,Source3,3,32.519444,-96.822052,2022,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-627368,TX,Ellis,Ferris,Source2,3,32.532101000000004,-96.659569,2022,12,Thursday,Rain,False,False,False,True,False,False,False
+A-627369,TX,Ellis,Ferris,Source2,3,32.535,-96.6586,2022,12,Thursday,Rain,False,False,False,True,False,False,False
+A-659723,TX,Ellis,Palmer,Source2,3,32.44418,-96.664383,2022,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-660283,TX,Ellis,Italy,Source2,3,32.151241,-96.931503,2022,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-660330,TX,Ellis,Milford,Source2,3,32.147289,-96.935219,2022,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-671226,TX,Ellis,Red Oak,Source2,3,32.532043,-96.822632,2022,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-706200,TX,Ellis,Ferris,Source2,3,32.446281,-96.666023,2022,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-708846,TX,Ellis,Ferris,Source2,4,32.542332,-96.658928,2022,4,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-712282,TX,Ellis,Ferris,Source2,3,32.50235,-96.663834,2022,6,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-717781,TX,Ellis,Waxahachie,Source2,3,32.426769,-96.862389,2022,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-721545,TX,Ellis,Ennis,Source3,3,32.412521000000005,-96.659431,2022,13,Friday,Cloudy,False,False,True,False,False,False,False
+A-721613,TX,Ellis,Ferris,Source2,3,32.497551,-96.663338,2022,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-721686,TX,Ellis,Red Oak,Source2,3,32.521091,-96.82177,2022,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-721692,TX,Ellis,Italy,Source2,3,32.195789000000005,-96.898857,2022,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-721931,TX,Ellis,Red Oak,Source2,3,32.519444,-96.822052,2022,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-733900,TX,Ellis,Ferris,Source3,3,32.532101000000004,-96.659569,2022,13,Wednesday,Clear / Fair,False,False,False,True,False,False,False
+A-746002,TX,Ellis,Ennis,Source2,3,32.324612,-96.609344,2022,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-748616,TX,Ellis,Ennis,Source2,3,32.340678999999994,-96.620308,2022,10,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-759238,TX,Ellis,Red Oak,Source2,3,32.49728,-96.822304,2021,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-759787,TX,Ellis,Ennis,Source2,3,32.340678999999994,-96.620308,2021,11,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-772067,TX,Ellis,Palmer,Source2,3,32.444225,-96.664146,2021,4,Monday,Rain,False,False,False,False,False,False,False
+A-782999,TX,Ellis,Waxahachie,Source2,3,32.30785,-96.863083,2021,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-783161,TX,Ellis,Forreston,Source2,3,32.255924,-96.873428,2021,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-789085,TX,Ellis,Red Oak,Source2,3,32.531654,-96.82206,2021,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-796378,TX,Ellis,Waxahachie,Source2,3,32.411156,-96.872917,2021,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-802325,TX,Ellis,Waxahachie,Source2,3,32.459244,-96.84362,2021,15,Saturday,Sin dato,False,False,False,False,False,False,False
+A-805092,TX,Ellis,Ferris,Source2,3,32.472752,-96.660851,2021,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-830828,TX,Ellis,Waxahachie,Source2,3,32.459244,-96.84362,2021,10,Saturday,Sin dato,False,False,False,False,False,False,False
+A-843510,TX,Ellis,Ennis,Source3,3,32.324612,-96.609344,2021,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-852853,TX,Ellis,Waxahachie,Source2,3,32.374279,-96.864113,2021,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-867468,TX,Ellis,Palmer,Source2,3,32.431301,-96.659134,2021,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-875046,TX,Ellis,Waxahachie,Source2,3,32.361785999999995,-96.855743,2021,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-906609,TX,Ellis,Red Oak,Source2,3,32.519444,-96.822052,2021,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-913086,TX,Ellis,Ferris,Source2,3,32.532585,-96.658958,2021,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-913090,TX,Ellis,Ferris,Source2,3,32.532585,-96.658958,2021,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-933657,TX,Ellis,Waxahachie,Source2,3,32.399818,-96.873001,2021,17,Wednesday,Rain,False,False,False,False,False,False,False
+A-933987,TX,Ellis,Ferris,Source2,3,32.5368,-96.658859,2021,13,Wednesday,Storm,False,False,True,False,False,False,False
+A-934240,TX,Ellis,Waxahachie,Source2,3,32.400299,-96.873169,2021,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-943771,TX,Ellis,Ferris,Source2,3,32.446281,-96.666023,2021,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-957948,TX,Ellis,Waxahachie,Source3,3,32.459244,-96.84362,2021,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-959107,TX,Ellis,Italy,Source2,3,32.173481,-96.911034,2021,11,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-959156,TX,Ellis,Milford,Source2,3,32.149208,-96.933418,2021,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-959210,TX,Ellis,Milford,Source2,3,32.135059000000005,-96.954819,2021,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-961520,TX,Ellis,Red Oak,Source2,3,32.532108,-96.82206,2021,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-972403,TX,Ellis,Waxahachie,Source2,3,32.426769,-96.862389,2021,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-980361,TX,Ellis,Ennis,Source2,3,32.37553,-96.644608,2021,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-981644,TX,Ellis,Waxahachie,Source2,3,32.400299,-96.873169,2021,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-983260,TX,Ellis,Waxahachie,Source2,3,32.361785999999995,-96.855743,2021,7,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-986311,TX,Ellis,Ferris,Source2,3,32.5368,-96.658859,2021,17,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-996363,TX,Ellis,Ennis,Source2,3,32.350978999999995,-96.6259,2021,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-996393,TX,Ellis,Waxahachie,Source2,3,32.352501000000004,-96.854584,2021,13,Monday,Cloudy,False,False,True,False,False,False,False
+A-996399,TX,Ellis,Ferris,Source2,3,32.497551,-96.664383,2021,15,Monday,Rain,False,False,False,False,False,False,False
+A-1008553,TX,Ellis,Waxahachie,Source2,3,32.374279,-96.864113,2021,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1015260,TX,Ellis,Ennis,Source2,3,32.340678999999994,-96.620308,2021,11,Monday,Storm,False,False,True,False,False,False,False
+A-1016532,TX,Ellis,Waxahachie,Source2,3,32.459244,-96.84362,2021,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1024220,TX,Ellis,Waxahachie,Source2,3,32.361785999999995,-96.855743,2021,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-1024221,TX,Ellis,Ennis,Source2,3,32.340678999999994,-96.620308,2021,10,Monday,Cloudy,False,False,True,False,False,False,False
+A-1031743,TX,Ellis,Ferris,Source2,3,32.532101000000004,-96.659569,2021,12,Tuesday,Rain,False,False,False,True,False,False,False
+A-1033450,TX,Ellis,Waxahachie,Source2,3,32.399719,-96.871613,2021,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-1034252,TX,Ellis,Ennis,Source2,3,32.32708,-96.719711,2021,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1048875,TX,Ellis,Waxahachie,Source2,4,32.377998,-96.865257,2021,4,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-1048890,TX,Ellis,Waxahachie,Source2,3,32.411156,-96.872917,2021,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1050520,TX,Ellis,Ennis,Source2,4,32.37553,-96.644608,2021,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1052046,TX,Ellis,Waxahachie,Source2,3,32.352501000000004,-96.854584,2021,9,Monday,Cloudy,False,False,True,False,False,False,False
+A-1052899,TX,Ellis,Ennis,Source2,4,32.32806,-96.611397,2021,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1052904,TX,Ellis,Waxahachie,Source2,3,32.411156,-96.872917,2021,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1066050,TX,Ellis,Waxahachie,Source2,3,32.444809,-96.849449,2021,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1071836,TX,Ellis,Waxahachie,Source2,3,32.352501000000004,-96.854584,2021,19,Friday,Rain,False,False,True,False,False,False,False
+A-1078550,TX,Ellis,Waxahachie,Source2,3,32.411156,-96.872917,2021,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1078551,TX,Ellis,Red Oak,Source2,3,32.519444,-96.822052,2021,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1078949,TX,Ellis,Ennis,Source2,3,32.340678999999994,-96.620308,2021,17,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-1081747,TX,Ellis,Waxahachie,Source2,3,32.459244,-96.84362,2021,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1081753,TX,Ellis,Ennis,Source2,3,32.340641,-96.61998,2021,10,Thursday,Cloudy,False,False,True,False,False,False,False
+A-1095919,TX,Ellis,Ennis,Source2,3,32.340678999999994,-96.620308,2021,15,Saturday,Cloudy,False,False,True,False,False,False,False
+A-1106624,TX,Ellis,Red Oak,Source2,3,32.51944,-96.821602,2021,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1123353,TX,Ellis,Red Oak,Source2,3,32.51944,-96.821602,2021,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1124820,TX,Ellis,Waxahachie,Source2,3,32.378971,-96.864937,2021,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1143901,TX,Ellis,Ennis,Source2,3,32.278835,-96.528778,2021,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1143902,TX,Ellis,Ennis,Source2,3,32.286469,-96.545761,2021,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1143905,TX,Ellis,Waxahachie,Source2,3,32.411156,-96.872917,2021,10,Monday,Sin dato,False,False,False,False,False,False,False
+A-1143909,TX,Ellis,Red Oak,Source2,3,32.53204,-96.822334,2021,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1163963,TX,Ellis,Ennis,Source2,3,32.340678999999994,-96.620308,2021,15,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-1178492,TX,Ellis,Ennis,Source2,3,32.340678999999994,-96.620308,2021,15,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-1188986,TX,Ellis,Ennis,Source2,3,32.340678999999994,-96.620308,2021,17,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-1207512,TX,Ellis,Waxahachie,Source2,3,32.426769,-96.862389,2021,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1225377,TX,Ellis,Forreston,Source2,3,32.255924,-96.873428,2020,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1233374,TX,Ellis,Red Oak,Source2,3,32.51944,-96.821602,2020,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1242074,TX,Ellis,Waxahachie,Source2,3,32.459244,-96.84362,2020,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1243556,TX,Ellis,Midlothian,Source2,3,32.453102,-97.057381,2020,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1248340,TX,Ellis,Waxahachie,Source2,3,32.459244,-96.84362,2020,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1264783,TX,Ellis,Waxahachie,Source2,4,32.403628999999995,-96.873169,2020,5,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-1293266,TX,Ellis,Ennis,Source2,3,32.340678999999994,-96.620308,2020,21,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-1298249,TX,Ellis,Waxahachie,Source2,3,32.352501000000004,-96.854584,2020,16,Monday,Cloudy,False,False,True,False,False,False,False
+A-1299732,TX,Ellis,Ferris,Source2,3,32.446281,-96.666023,2020,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1301117,TX,Ellis,Waxahachie,Source2,3,32.426598,-96.862289,2020,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1338433,TX,Ellis,Waxahachie,Source2,3,32.459244,-96.84362,2020,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1342117,TX,Ellis,Waxahachie,Source2,3,32.352501000000004,-96.854584,2020,18,Thursday,Cloudy,False,False,True,False,False,False,False
+A-1369559,TX,Ellis,Waxahachie,Source2,3,32.362263,-96.855904,2020,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1372900,TX,Ellis,Ennis,Source2,3,32.297115000000005,-96.569679,2020,8,Thursday,Rain,False,False,False,False,False,False,False
+A-1374549,TX,Ellis,Waxahachie,Source2,3,32.399818,-96.873001,2020,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-1378737,TX,Ellis,Ferris,Source2,3,32.507771000000005,-96.663406,2020,9,Monday,Rain,False,False,False,False,False,False,False
+A-1387491,TX,Ellis,Ennis,Source2,3,32.340678999999994,-96.620308,2020,15,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-1405731,TX,Ellis,Ennis,Source2,3,32.326778000000004,-96.622833,2020,19,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-1415623,TX,Ellis,Waxahachie,Source2,3,32.352501000000004,-96.854584,2020,13,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1430169,TX,Ellis,Waxahachie,Source2,3,32.426598,-96.862289,2020,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1434000,TX,Ellis,Waxahachie,Source2,3,32.426598,-96.862289,2020,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1445460,TX,Ellis,Red Oak,Source2,3,32.496414,-96.823441,2020,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1459693,TX,Ellis,Ennis,Source2,3,32.267319,-96.50882,2020,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1462927,TX,Ellis,Ennis,Source2,3,32.324612,-96.609344,2020,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1465178,TX,Ellis,Waxahachie,Source2,3,32.374619,-96.863274,2020,8,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1467272,TX,Ellis,Waxahachie,Source2,3,32.47443,-96.836037,2020,6,Tuesday,Rain,False,False,False,False,False,False,False
+A-1469710,TX,Ellis,Red Oak,Source2,3,32.531979,-96.822884,2020,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1522092,TX,Ellis,Red Oak,Source2,3,32.51944,-96.821602,2020,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1535075,TX,Ellis,Waxahachie,Source2,3,32.362686,-96.85585,2020,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1540108,TX,Ellis,Waxahachie,Source2,3,32.47382,-96.836952,2020,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1543266,TX,Ellis,Waxahachie,Source2,3,32.459854,-96.843483,2020,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-1545438,TX,Ellis,Waxahachie,Source2,3,32.352501000000004,-96.854584,2020,19,Friday,Cloudy,False,False,True,False,False,False,False
+A-1551788,TX,Ellis,Ferris,Source2,3,32.452469,-96.664291,2020,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1558465,TX,Ellis,Waxahachie,Source2,3,32.47382,-96.836952,2020,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1561475,TX,Ellis,Ferris,Source2,3,32.446281,-96.666023,2020,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1561483,TX,Ellis,Waxahachie,Source2,3,32.408108,-96.872185,2020,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1562659,TX,Ellis,Ferris,Source2,3,32.532101000000004,-96.659569,2020,16,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-1583779,TX,Ellis,Ferris,Source2,3,32.532101000000004,-96.658653,2020,14,Thursday,Cloudy,False,False,False,True,False,False,False
+A-1620670,TX,Ellis,Waxahachie,Source2,3,32.444809,-96.849449,2020,16,Thursday,Sin dato,False,False,False,False,False,False,False
+A-1622797,TX,Ellis,Waxahachie,Source2,3,32.47382,-96.836952,2020,13,Friday,Sin dato,False,False,False,False,False,False,False
+A-1622798,TX,Ellis,Red Oak,Source2,3,32.496311,-96.822533,2020,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1627696,TX,Ellis,Waxahachie,Source2,3,32.362686,-96.85585,2020,21,Monday,Sin dato,False,False,False,False,False,False,False
+A-1627702,TX,Ellis,Ferris,Source2,3,32.532101000000004,-96.658653,2020,5,Tuesday,Cloudy,False,False,False,True,False,False,False
+A-1649685,TX,Ellis,Waxahachie,Source2,3,32.399818,-96.873001,2020,18,Friday,Sin dato,False,False,False,False,False,False,False
+A-1665287,TX,Ellis,Waxahachie,Source2,3,32.409889,-96.87236,2020,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1687044,TX,Ellis,Waxahachie,Source2,3,32.45924,-96.843468,2019,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1691893,TX,Ellis,Red Oak,Source2,3,32.500702000000004,-96.822105,2019,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1731127,TX,Ellis,Ferris,Source2,3,32.532101000000004,-96.658653,2019,8,Saturday,Cloudy,False,False,False,True,False,False,False
+A-1736500,TX,Ellis,Ferris,Source2,3,32.532101000000004,-96.658653,2019,13,Sunday,Clear / Fair,False,False,False,True,False,False,False
+A-1741203,TX,Ellis,Italy,Source2,3,32.195789000000005,-96.898857,2019,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1741204,TX,Ellis,Italy,Source2,3,32.195789000000005,-96.898857,2019,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1746312,TX,Ellis,Waxahachie,Source2,3,32.426758,-96.862617,2019,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1748943,TX,Ellis,Waxahachie,Source2,3,32.368061,-96.858932,2019,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-1748965,TX,Ellis,Waxahachie,Source2,3,32.444809,-96.849449,2019,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1753012,TX,Ellis,Waxahachie,Source2,3,32.45924,-96.843468,2019,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-1761203,TX,Ellis,Waxahachie,Source2,3,32.352501000000004,-96.854584,2019,17,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-1779918,TX,Ellis,Ennis,Source2,3,32.273495000000004,-96.51667,2019,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1779920,TX,Ellis,Ennis,Source2,3,32.273804,-96.517181,2019,8,Saturday,Sin dato,False,False,False,False,False,False,False
+A-1779921,TX,Ellis,Ennis,Source2,3,32.296928,-96.569351,2019,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1784958,TX,Ellis,Milford,Source2,3,32.13192,-96.959122,2019,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1821059,TX,Ellis,Waxahachie,Source2,3,32.426701,-96.862251,2019,6,Thursday,Rain,False,False,False,False,False,False,False
+A-1824208,TX,Ellis,Ferris,Source2,3,32.446281,-96.666023,2019,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1824219,TX,Ellis,Waxahachie,Source2,3,32.45924,-96.843468,2019,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1836403,TX,Ellis,Waxahachie,Source2,3,32.352501000000004,-96.854584,2019,17,Thursday,Cloudy,False,False,True,False,False,False,False
+A-1839349,TX,Ellis,Ennis,Source2,3,32.340678999999994,-96.620308,2019,14,Friday,Cloudy,False,False,True,False,False,False,False
+A-1857136,TX,Ellis,Waxahachie,Source2,3,32.426701,-96.862251,2019,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1870802,TX,Ellis,Waxahachie,Source2,3,32.490726,-96.826805,2019,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-1870877,TX,Ellis,Ennis,Source2,3,32.340678999999994,-96.620308,2019,21,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1886604,TX,Ellis,Ennis,Source2,3,32.333942,-96.61528,2019,14,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1928393,TX,Ellis,Waxahachie,Source2,3,32.352501000000004,-96.854584,2019,18,Thursday,Cloudy,False,False,True,False,False,False,False
+A-1936108,TX,Ellis,Waxahachie,Source2,4,32.390282,-96.869217,2019,8,Tuesday,Rain,False,False,True,False,False,False,False
+A-1936150,TX,Ellis,Red Oak,Source2,3,32.505619,-96.822037,2019,11,Tuesday,Storm,False,False,False,False,False,False,False
+A-1950053,TX,Ellis,Waxahachie,Source2,3,32.426701,-96.862251,2019,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1953132,TX,Ellis,Ferris,Source2,3,32.518429,-96.662819,2019,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-1954684,TX,Ellis,Ferris,Source2,3,32.532101000000004,-96.658653,2019,12,Sunday,Cloudy,False,False,False,True,False,False,False
+A-1954687,TX,Ellis,Ferris,Source2,3,32.50235,-96.663834,2019,14,Sunday,Cloudy,False,False,True,False,False,False,False
+A-1968391,TX,Ellis,Palmer,Source2,4,32.44418,-96.664383,2019,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1968392,TX,Ellis,Ennis,Source2,3,32.310829,-96.596283,2019,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1972920,TX,Ellis,Italy,Source2,3,32.19635,-96.899681,2019,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1977487,TX,Ellis,Waxahachie,Source2,3,32.426701,-96.862251,2019,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1987761,TX,Ellis,Ennis,Source2,3,32.412521000000005,-96.659431,2019,5,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-2010047,TX,Ellis,Waxahachie,Source2,3,32.45924,-96.843468,2019,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2010048,TX,Ellis,Waxahachie,Source2,3,32.469509,-96.838943,2019,11,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-2013841,TX,Ellis,Waxahachie,Source2,3,32.45924,-96.843468,2019,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2040821,TX,Ellis,Waxahachie,Source2,3,32.352501000000004,-96.854584,2019,10,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-2041499,TX,Ellis,Waxahachie,Source2,3,32.352501000000004,-96.854584,2019,7,Sunday,Cloudy,False,False,True,False,False,False,False
+A-2041504,TX,Ellis,Palmer,Source2,3,32.43462,-96.660507,2019,12,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-2041505,TX,Ellis,Palmer,Source2,3,32.43462,-96.660507,2019,12,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-2041506,TX,Ellis,Palmer,Source2,3,32.43462,-96.660507,2019,12,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-2043298,TX,Ellis,Red Oak,Source2,3,32.531754,-96.82206,2019,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2052375,TX,Ellis,Waxahachie,Source2,3,32.45924,-96.843468,2019,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2060929,TX,Ellis,Waxahachie,Source2,3,32.423119,-96.864937,2019,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2075833,TX,Ellis,Ennis,Source2,3,32.33477,-96.615509,2019,14,Thursday,Cloudy,True,False,False,False,False,False,False
+A-2075835,TX,Ellis,Ennis,Source2,3,32.296928,-96.569351,2019,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2081806,TX,Ellis,Waxahachie,Source2,3,32.45924,-96.843468,2019,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-2099262,TX,Ellis,Waxahachie,Source2,3,32.47443,-96.836037,2019,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2099264,TX,Ellis,Waxahachie,Source2,3,32.45924,-96.843468,2019,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2112976,TX,Ellis,Waxahachie,Source2,3,32.45924,-96.843468,2019,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-2112988,TX,Ellis,Red Oak,Source2,3,32.516872,-96.822037,2019,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-2124223,TX,Ellis,Waxahachie,Source2,3,32.364761,-96.855232,2019,2,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2127392,TX,Ellis,Waxahachie,Source2,3,32.45924,-96.843468,2019,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2157526,TX,Ellis,Italy,Source2,3,32.196262,-96.8992,2019,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2164872,TX,Ellis,Waxahachie,Source2,3,32.301968,-96.86441,2019,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-2164892,TX,Ellis,Waxahachie,Source2,3,32.459377,-96.843666,2019,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2167005,TX,Ellis,Waxahachie,Source2,3,32.393856,-96.87043,2019,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2177923,TX,Ellis,Ennis,Source2,3,32.272251000000004,-96.513649,2019,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2181477,TX,Ellis,Waxahachie,Source2,3,32.45924,-96.843468,2019,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2235577,TX,Ellis,Ferris,Source2,3,32.48613,-96.664063,2019,6,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2244745,TX,Ellis,Waxahachie,Source2,4,32.474453000000004,-96.835815,2019,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2244747,TX,Ellis,Waxahachie,Source2,3,32.459312,-96.844116,2019,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2248240,TX,Ellis,Ennis,Source2,3,32.296509,-96.568924,2019,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2250607,TX,Ellis,Waxahachie,Source2,3,32.459377,-96.843666,2019,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2250608,TX,Ellis,Waxahachie,Source2,3,32.459377,-96.843666,2019,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2256097,TX,Ellis,Waxahachie,Source2,3,32.459377,-96.843666,2019,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2286047,TX,Ellis,Waxahachie,Source2,3,32.358917,-96.855392,2019,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2313689,TX,Ellis,Waxahachie,Source2,3,32.397511,-96.871536,2019,14,Wednesday,Rain,False,False,False,False,False,False,False
+A-2315928,TX,Ellis,Waxahachie,Source2,3,32.354351,-96.854851,2019,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2320356,TX,Ellis,Waxahachie,Source2,3,32.459377,-96.843666,2019,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2364677,TX,Ellis,Ferris,Source2,3,32.450081,-96.665039,2019,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2367368,TX,Ellis,Ferris,Source2,3,32.512718,-96.663826,2019,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2372323,TX,Ellis,Red Oak,Source2,3,32.531826,-96.822044,2018,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-2385427,TX,Ellis,Waxahachie,Source2,3,32.262135,-96.872498,2018,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-2395996,TX,Ellis,Waxahachie,Source2,3,32.4744,-96.836273,2018,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2415762,TX,Ellis,Waxahachie,Source2,3,32.459377,-96.843666,2018,23,Wednesday,Rain,False,False,False,False,False,False,False
+A-2419666,TX,Ellis,Waxahachie,Source2,3,32.459167,-96.843941,2018,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2429296,TX,Ellis,Waxahachie,Source2,3,32.445190000000004,-96.848885,2018,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2433832,TX,Ellis,Palmer,Source2,3,32.433327,-96.660019,2018,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2470040,TX,Ellis,Waxahachie,Source2,3,32.426472,-96.862625,2018,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2478121,TX,Ellis,Red Oak,Source2,3,32.497440000000005,-96.823044,2018,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2490246,TX,Ellis,Waxahachie,Source2,4,32.260258,-96.872719,2018,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-2503540,TX,Ellis,Waxahachie,Source2,3,32.474625,-96.836174,2018,19,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2511823,TX,Ellis,Waxahachie,Source2,3,32.426472,-96.862625,2018,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2514894,TX,Ellis,Waxahachie,Source2,3,32.459412,-96.843643,2018,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-2531097,TX,Ellis,Waxahachie,Source2,4,32.474625,-96.836174,2018,16,Friday,Rain,False,False,False,False,False,False,False
+A-2551533,TX,Ellis,Ferris,Source2,3,32.532101000000004,-96.659103,2018,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2551559,TX,Ellis,Waxahachie,Source2,3,32.408367,-96.872841,2018,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2554470,TX,Ellis,Waxahachie,Source2,3,32.458824,-96.843857,2018,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2558459,TX,Ellis,Forreston,Source2,3,32.25959,-96.872856,2018,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2559154,TX,Ellis,Waxahachie,Source2,3,32.459412,-96.843643,2018,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2562437,TX,Ellis,Ennis,Source2,3,32.271465,-96.512764,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2567817,TX,Ellis,Red Oak,Source2,3,32.517151,-96.822296,2018,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2567830,TX,Ellis,Ennis,Source2,3,32.416698,-96.660149,2018,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2574623,TX,Ellis,Red Oak,Source2,3,32.497440000000005,-96.823044,2018,18,Monday,Rain,False,False,False,False,False,False,False
+A-2585067,TX,Ellis,Waxahachie,Source2,3,32.426472,-96.862625,2018,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2589270,TX,Ellis,Waxahachie,Source2,3,32.426472,-96.862625,2018,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2615834,TX,Ellis,Waxahachie,Source2,3,32.400284,-96.872772,2018,7,Saturday,Rain,False,False,False,False,False,False,False
+A-2615835,TX,Ellis,Waxahachie,Source2,3,32.426472,-96.862625,2018,9,Saturday,Rain,False,False,False,False,False,False,False
+A-2641433,TX,Ellis,Waxahachie,Source2,3,32.399918,-96.872475,2018,8,Sunday,Rain,False,False,False,False,False,False,False
+A-2667200,TX,Ellis,Ennis,Source2,3,32.416698,-96.660149,2018,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2668457,TX,Ellis,Ennis,Source2,3,32.416698,-96.660149,2018,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2669121,TX,Ellis,Waxahachie,Source2,3,32.374477,-96.863602,2018,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2670945,TX,Ellis,Ennis,Source2,3,32.416698,-96.660149,2018,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2743319,TX,Ellis,Red Oak,Source2,3,32.531826,-96.822044,2018,4,Tuesday,Rain,False,False,False,False,False,False,False
+A-2743321,TX,Ellis,Waxahachie,Source2,3,32.426472,-96.862625,2018,5,Tuesday,Rain,False,False,False,False,False,False,False
+A-2743323,TX,Ellis,Ennis,Source2,3,32.416698,-96.660149,2018,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2750721,TX,Ellis,Waxahachie,Source2,3,32.459412,-96.843643,2018,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2764256,TX,Ellis,Ennis,Source2,3,32.416698,-96.660149,2018,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2765650,TX,Ellis,Ennis,Source2,3,32.416698,-96.660149,2018,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2766490,TX,Ellis,Waxahachie,Source2,3,32.357483,-96.854988,2018,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2768254,TX,Ellis,Waxahachie,Source2,3,32.445190000000004,-96.848885,2018,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-2768255,TX,Ellis,Palmer,Source2,3,32.417122,-96.659882,2018,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-2770709,TX,Ellis,Red Oak,Source2,3,32.519215,-96.822289,2018,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2781408,TX,Ellis,Waxahachie,Source2,3,32.374401,-96.863792,2018,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2793347,TX,Ellis,Waxahachie,Source2,3,32.426472,-96.862625,2018,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2795813,TX,Ellis,Milford,Source2,3,32.134613,-96.954445,2018,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2795971,TX,Ellis,Waxahachie,Source2,3,32.459412,-96.843643,2018,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2825628,TX,Ellis,Forreston,Source2,4,32.25959,-96.872856,2018,23,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2830691,TX,Ellis,Milford,Source2,3,32.134613,-96.954445,2018,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2830917,TX,Ellis,Ennis,Source2,3,32.416698,-96.660149,2018,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2833554,TX,Ellis,Ennis,Source2,3,32.416698,-96.660149,2018,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2835698,TX,Ellis,Waxahachie,Source2,3,32.441406,-96.850632,2018,11,Sunday,Rain,False,False,False,False,False,False,False
+A-2835710,TX,Ellis,Ferris,Source2,3,32.532101000000004,-96.659103,2018,14,Sunday,Rain,False,False,False,False,False,False,False
+A-2845440,TX,Ellis,Ennis,Source2,3,32.327553,-96.62336,2018,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2851520,TX,Ellis,Waxahachie,Source2,3,32.459412,-96.843643,2018,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2857530,TX,Ellis,Ferris,Source2,3,32.485661,-96.664314,2018,6,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2858144,TX,Ellis,Forreston,Source2,3,32.25959,-96.872856,2018,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2876686,TX,Ellis,Waxahachie,Source2,3,32.445190000000004,-96.848885,2018,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2876690,TX,Ellis,Waxahachie,Source2,3,32.474625,-96.836174,2018,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2914394,TX,Ellis,Waxahachie,Source2,3,32.399918,-96.872475,2018,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2925547,TX,Ellis,Waxahachie,Source2,3,32.363728,-96.855904,2018,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2936993,TX,Ellis,Waxahachie,Source2,3,32.474625,-96.836174,2018,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2939779,TX,Ellis,Waxahachie,Source2,3,32.445190000000004,-96.848885,2018,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2954562,TX,Ellis,Red Oak,Source2,3,32.497440000000005,-96.823044,2018,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2976765,TX,Ellis,Ennis,Source2,3,32.405941,-96.657417,2018,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2981872,TX,Ellis,Waxahachie,Source2,3,32.426945,-96.862244,2018,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2989231,TX,Ellis,Waxahachie,Source2,3,32.459412,-96.843643,2018,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3004904,TX,Ellis,Waxahachie,Source2,3,32.357483,-96.854988,2018,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3020261,TX,Ellis,Italy,Source2,3,32.17675,-96.909195,2018,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-3033199,TX,Ellis,Ferris,Source2,3,32.534991999999995,-96.659454,2018,6,Sunday,Clear / Fair,False,False,False,True,False,False,False
+A-3033203,TX,Ellis,Red Oak,Source2,3,32.497440000000005,-96.823044,2018,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3037711,TX,Ellis,Midlothian,Source2,3,32.470749,-96.97644,2018,16,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-3048910,TX,Ellis,Forreston,Source2,3,32.25959,-96.872856,2018,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3058548,TX,Ellis,Red Oak,Source2,3,32.497440000000005,-96.823044,2018,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3058576,TX,Ellis,Waxahachie,Source2,3,32.459412,-96.843643,2018,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3093213,TX,Ellis,Red Oak,Source2,3,32.497440000000005,-96.823044,2018,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3142196,TX,Ellis,Ferris,Source2,4,32.514019,-96.663467,2017,5,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3147464,TX,Ellis,Red Oak,Source2,3,32.497440000000005,-96.823044,2017,8,Friday,Rain,False,False,False,False,False,False,False
+A-3147480,TX,Ellis,Forreston,Source2,3,32.25959,-96.872856,2017,12,Friday,Rain,False,False,False,False,False,False,False
+A-3147481,TX,Ellis,Italy,Source2,3,32.195999,-96.899208,2017,12,Friday,Rain,False,False,False,False,False,False,False
+A-3148649,TX,Ellis,Forreston,Source2,3,32.25959,-96.872856,2017,6,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3148654,TX,Ellis,Ennis,Source2,3,32.334538,-96.615715,2017,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3150374,TX,Ellis,Red Oak,Source2,3,32.497440000000005,-96.823044,2017,15,Tuesday,Rain,False,False,False,False,False,False,False
+A-3154262,TX,Ellis,Forreston,Source2,3,32.25959,-96.872856,2017,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3154265,TX,Ellis,Forreston,Source2,3,32.25959,-96.872856,2017,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3157522,TX,Ellis,Ennis,Source2,3,32.286934,-96.545441,2017,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3176924,TX,Ellis,Italy,Source2,3,32.180015999999995,-96.907455,2017,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3193913,TX,Ellis,Waxahachie,Source2,3,32.357483,-96.854988,2017,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3195935,TX,Ellis,Waxahachie,Source2,3,32.370483,-96.860886,2017,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3201620,TX,Ellis,Palmer,Source2,3,32.431042,-96.659019,2017,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3203317,TX,Ellis,Ennis,Source2,3,32.379078,-96.647385,2017,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3206578,TX,Ellis,Forreston,Source2,3,32.25959,-96.872856,2017,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3206597,TX,Ellis,Waxahachie,Source2,3,32.361183000000004,-96.855743,2017,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3208885,TX,Ellis,Waxahachie,Source2,3,32.45916,-96.843468,2017,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3216376,TX,Ellis,Ennis,Source2,3,32.371334000000004,-96.642059,2017,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3221159,TX,Ellis,Ennis,Source2,3,32.374832,-96.64505,2017,17,Tuesday,Rain,False,False,False,False,False,False,False
+A-3229515,TX,Ellis,Waxahachie,Source2,3,32.399918,-96.872475,2017,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-3231533,TX,Ellis,Waxahachie,Source2,3,32.357483,-96.854988,2017,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3233778,TX,Ellis,Waxahachie,Source2,3,32.474625,-96.836174,2017,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-3239456,TX,Ellis,Waxahachie,Source2,3,32.32275,-96.860161,2017,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3242160,TX,Ellis,Italy,Source2,3,32.195999,-96.899208,2017,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3242192,TX,Ellis,Forreston,Source2,3,32.255276,-96.873734,2017,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3296107,TX,Ellis,Waxahachie,Source2,3,32.459412,-96.843643,2017,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3296108,TX,Ellis,Red Oak,Source2,3,32.500568,-96.822128,2017,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3324517,TX,Ellis,Waxahachie,Source2,3,32.290642,-96.866501,2017,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3324523,TX,Ellis,Waxahachie,Source2,3,32.290325,-96.866562,2017,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3324524,TX,Ellis,Forreston,Source2,3,32.25959,-96.872856,2017,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3337254,TX,Ellis,Waxahachie,Source2,3,32.408577,-96.872627,2017,8,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-3340212,TX,Ellis,Red Oak,Source2,3,32.497440000000005,-96.823044,2017,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3369439,TX,Ellis,Waxahachie,Source2,3,32.399918,-96.872475,2017,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3372106,TX,Ellis,Italy,Source2,3,32.195999,-96.899208,2017,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-3373747,TX,Ellis,Waxahachie,Source2,3,32.426472,-96.862625,2017,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3381444,TX,Ellis,Ennis,Source2,4,32.374832,-96.64505,2017,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3425934,TX,Ellis,Ennis,Source1,4,32.30475,-96.58428,2016,2,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3427610,TX,Ellis,Ennis,Source1,4,32.371340000000004,-96.64204,2016,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3433342,TX,Ellis,Waxahachie,Source1,3,32.47953,-96.83327,2016,7,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-3433676,TX,Ellis,Red Oak,Source1,4,32.506272,-96.82253,2016,13,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-3433677,TX,Ellis,Red Oak,Source1,4,32.506299,-96.82253,2016,13,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-3435829,TX,Ellis,Forreston,Source1,4,32.255,-96.87382,2016,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3437007,TX,Ellis,Red Oak,Source1,3,32.52452,-96.82225,2016,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-3438229,TX,Ellis,Waxahachie,Source1,3,32.45562,-96.84504,2016,14,Saturday,Cloudy,False,False,True,False,False,False,False
+A-3438371,TX,Ellis,Forreston,Source1,4,32.257975,-96.873371,2016,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3438586,TX,Ellis,Red Oak,Source1,3,32.50419,-96.82223,2016,15,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-3439286,TX,Ellis,Palmer,Source1,3,32.43881,-96.66236,2016,20,Wednesday,Rain,False,False,False,False,False,False,False
+A-3440173,TX,Ellis,Red Oak,Source1,3,32.54629,-96.82233,2016,14,Friday,Cloudy,False,False,True,False,False,False,False
+A-3441934,TX,Ellis,Forreston,Source1,4,32.255,-96.87382,2016,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3443569,TX,Ellis,Red Oak,Source1,3,32.50756,-96.82203,2016,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3444078,TX,Ellis,Waxahachie,Source1,3,32.36955,-96.85988,2016,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3444894,TX,Ellis,Waxahachie,Source1,4,32.41858,-96.83513,2016,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3445088,TX,Ellis,Waxahachie,Source1,3,32.36374,-96.85676,2016,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3567451,TX,Ellis,Waxahachie,Source1,3,32.39028,-96.86922,2017,5,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-3595380,TX,Ellis,Waxahachie,Source1,4,32.43379,-96.85694,2017,7,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-3595995,TX,Ellis,Waxahachie,Source1,4,32.46951,-96.83894,2017,17,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-3596240,TX,Ellis,Red Oak,Source1,3,32.54629,-96.82233,2017,16,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-3640203,TX,Ellis,Ennis,Source1,4,32.314059,-96.600319,2017,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4117749,TX,Ellis,Italy,Source1,4,32.206289,-96.88632,2022,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4161190,TX,Ellis,Italy,Source1,4,32.214506,-96.881916,2022,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4285140,TX,Ellis,Palmer,Source1,4,32.420429,-96.659236,2022,13,Friday,Cloudy,False,False,True,False,False,False,False
+A-4401352,TX,Ellis,Forreston,Source1,4,32.254073,-96.865728,2022,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4435092,TX,Ellis,Italy,Source1,4,32.216669,-96.879747,2022,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4658390,TX,Ellis,Waxahachie,Source1,4,32.418701,-96.869019,2022,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4716419,TX,Ellis,Waxahachie,Source1,4,32.470668,-96.838531,2022,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4718486,TX,Ellis,Forreston,Source1,4,32.242523,-96.86879,2022,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4759142,TX,Ellis,Ennis,Source1,4,32.284537553633285,-96.5409958357976,2022,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4893536,TX,Ellis,Waxahachie,Source1,4,32.49075,-96.822952,2022,10,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-4911726,TX,Ellis,Venus,Source1,4,32.44167,-97.086592,2022,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4952963,TX,Ellis,Ennis,Source1,4,32.340587,-96.632102,2022,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5088634,TX,Ellis,Waxahachie,Source1,4,32.256301,-96.865503,2022,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5148160,TX,Ellis,Waxahachie,Source1,4,32.43968,-96.851965,2022,5,Friday,Cloudy,False,False,True,False,False,False,False
+A-5278117,TX,Ellis,Palmer,Source1,4,32.43452668174536,-96.6604721541564,2022,13,Friday,Cloudy,False,False,True,False,False,False,False
+A-5324429,TX,Ellis,Waxahachie,Source1,4,32.45666,-96.84471,2022,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-5348507,TX,Ellis,Italy,Source1,4,32.183911,-96.890255,2022,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5445676,TX,Ellis,Ennis,Source1,4,32.342636,-96.63296,2022,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5476404,TX,Ellis,Ennis,Source1,4,32.41208195670885,-96.65954947425529,2021,5,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6068280,TX,Ellis,Milford,Source1,4,32.137295007552446,-96.94989323569796,2021,5,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-6589468,TX,Ellis,Italy,Source1,4,32.203068,-96.895761,2020,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6734294,TX,Ellis,Waxahachie,Source1,4,32.433629,-96.857069,2020,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6978307,TX,Ellis,Waxahachie,Source1,4,32.45577,-96.84519,2020,11,Sunday,Cloudy,False,False,True,False,False,False,False
+A-6978309,TX,Ellis,Waxahachie,Source1,4,32.469590000000004,-96.83913,2020,10,Sunday,Cloudy,False,False,True,False,False,False,False
+A-6984467,TX,Ellis,Waxahachie,Source1,4,32.4201,-96.86811,2020,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6992448,TX,Ellis,Palmer,Source1,3,32.44146,-96.66338,2020,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6998835,TX,Ellis,Waxahachie,Source1,4,32.45562,-96.84504,2020,14,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-6998842,TX,Ellis,Waxahachie,Source1,3,32.44924,-96.84739,2020,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7022626,TX,Ellis,Waxahachie,Source1,3,32.48917,-96.8276,2020,18,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7024648,TX,Ellis,Waxahachie,Source1,3,32.45577,-96.84519,2020,6,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7024651,TX,Ellis,Waxahachie,Source1,4,32.46958,-96.83914,2020,6,Tuesday,Rain,False,False,True,False,False,False,False
+A-7024660,TX,Ellis,Waxahachie,Source1,4,32.46958,-96.83914,2020,7,Tuesday,Rain,False,False,True,False,False,False,False
+A-7024667,TX,Ellis,Waxahachie,Source1,4,32.46958,-96.83914,2020,7,Tuesday,Rain,False,False,True,False,False,False,False
+A-7024675,TX,Ellis,Waxahachie,Source1,4,32.46958,-96.83914,2020,7,Tuesday,Rain,False,False,True,False,False,False,False
+A-7024684,TX,Ellis,Waxahachie,Source1,4,32.46958,-96.83914,2020,8,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7033022,TX,Ellis,Waxahachie,Source1,4,32.45577,-96.84519,2020,11,Saturday,Rain,False,False,True,False,False,False,False
+A-7038752,TX,Ellis,Waxahachie,Source1,3,32.45577,-96.84519,2020,7,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7046072,TX,Ellis,Red Oak,Source1,3,32.52604,-96.82203,2020,9,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7055536,TX,Ellis,Waxahachie,Source1,3,32.4201,-96.86811,2020,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7083744,TX,Ellis,Waxahachie,Source1,3,32.409659999999995,-96.87275,2020,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7083767,TX,Ellis,Waxahachie,Source1,3,32.42,-96.86791,2020,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7083787,TX,Ellis,Waxahachie,Source1,3,32.41702,-96.87023,2020,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7103861,TX,Ellis,Forreston,Source1,4,32.255,-96.87382,2020,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7134626,TX,Ellis,Waxahachie,Source1,4,32.45562,-96.84504,2020,16,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7145378,TX,Ellis,Palmer,Source1,3,32.44153,-96.66316,2020,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-7147405,TX,Ellis,Waxahachie,Source1,4,32.3525,-96.85458,2020,8,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7147406,TX,Ellis,Waxahachie,Source1,3,32.35803,-96.85489,2020,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7147412,TX,Ellis,Waxahachie,Source1,3,32.352990000000005,-96.8546,2020,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7147417,TX,Ellis,Waxahachie,Source1,4,32.3525,-96.85458,2020,8,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7149452,TX,Ellis,Waxahachie,Source1,3,32.32285,-96.86014,2020,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7169170,TX,Ellis,Palmer,Source1,3,32.44146,-96.66338,2020,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7171167,TX,Ellis,Waxahachie,Source1,4,32.48916,-96.82761,2020,22,Saturday,Cloudy,False,False,True,False,False,False,False
+A-7171168,TX,Ellis,Waxahachie,Source1,3,32.48908,-96.82741,2020,19,Saturday,Cloudy,False,False,True,False,False,False,False
+A-7171172,TX,Ellis,Red Oak,Source1,4,32.52417,-96.82225,2020,23,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7183015,TX,Ellis,Waxahachie,Source1,3,32.469590000000004,-96.83913,2020,16,Friday,Cloudy,False,False,True,False,False,False,False
+A-7184438,TX,Ellis,Waxahachie,Source1,3,32.45562,-96.84504,2020,14,Saturday,Cloudy,False,False,True,False,False,False,False
+A-7189333,TX,Ellis,Waxahachie,Source1,4,32.40964,-96.87254,2020,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7191531,TX,Ellis,Ferris,Source1,3,32.48124,-96.66386,2020,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7199032,TX,Ellis,Waxahachie,Source1,3,32.42,-96.86791,2020,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7205405,TX,Ellis,Waxahachie,Source1,3,32.48908,-96.82741,2020,18,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7212839,TX,Ellis,Ennis,Source1,3,32.30475,-96.58428,2020,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7247830,TX,Ellis,Ferris,Source1,3,32.52642,-96.65944,2020,7,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7385937,TX,Ellis,Waxahachie,Source1,3,32.40964,-96.87254,2019,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7425209,TX,Ellis,Ennis,Source1,3,32.31355,-96.60022,2019,2,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7425210,TX,Ellis,Red Oak,Source1,4,32.518076,-96.82204,2019,5,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7434289,TX,Ellis,Waxahachie,Source1,3,32.46348,-96.84236,2019,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7434290,TX,Ellis,Waxahachie,Source1,3,32.45562,-96.84504,2019,14,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7434300,TX,Ellis,Waxahachie,Source1,4,32.45562,-96.84504,2019,11,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7434311,TX,Ellis,Waxahachie,Source1,4,32.45562,-96.84504,2019,13,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7471624,TX,Ellis,Ferris,Source1,3,32.52642,-96.65944,2019,9,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7483195,TX,Ellis,Waxahachie,Source1,3,32.46951,-96.83894,2018,10,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7496201,TX,Ellis,Ennis,Source1,3,32.331097,-96.612995,2018,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-7508600,TX,Ellis,Red Oak,Source1,3,32.513395,-96.82225,2018,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7511960,TX,Ellis,Italy,Source1,4,32.203605,-96.895527,2018,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-7522494,TX,Ellis,Midlothian,Source1,3,32.472559000000004,-96.971035,2018,14,Friday,Rain,False,False,False,False,False,False,False
+A-7522504,TX,Ellis,Waxahachie,Source1,4,32.46951,-96.83894,2018,16,Friday,Rain,False,False,True,False,False,False,False
+A-7522506,TX,Ellis,Midlothian,Source1,3,32.472559000000004,-96.971035,2018,16,Friday,Rain,False,False,False,False,False,False,False
+A-7522507,TX,Ellis,Waxahachie,Source1,4,32.46951,-96.83894,2018,16,Friday,Rain,False,False,True,False,False,False,False
+A-7524626,TX,Ellis,Ferris,Source1,3,32.53598,-96.65911,2018,18,Wednesday,Rain,False,False,False,False,False,False,False
+A-7526884,TX,Ellis,Ferris,Source1,3,32.53598,-96.65911,2018,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7526897,TX,Ellis,Red Oak,Source1,4,32.54629,-96.82233,2018,10,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7526918,TX,Ellis,Red Oak,Source1,3,32.531086,-96.791679,2018,17,Monday,Cloudy,True,False,False,False,False,False,False
+A-7526919,TX,Ellis,Red Oak,Source1,3,32.520125,-96.798607,2018,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-7527601,TX,Ellis,Waxahachie,Source1,4,32.450011,-96.847084,2018,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7528749,TX,Ellis,Waxahachie,Source1,3,32.26614,-96.87172,2018,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7529771,TX,Ellis,Ennis,Source1,3,32.27381,-96.51792,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7555808,TX,Ellis,Red Oak,Source1,4,32.52604,-96.82203,2018,3,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7555810,TX,Ellis,Red Oak,Source1,4,32.525893,-96.82177,2018,3,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7558244,TX,Ellis,Waxahachie,Source1,3,32.48908,-96.82741,2018,11,Monday,Cloudy,False,False,True,False,False,False,False
+A-7567991,TX,Ellis,Waxahachie,Source1,3,32.441267,-96.850946,2018,5,Tuesday,Rain,False,False,False,False,False,False,False
+A-7567997,TX,Ellis,Ennis,Source1,3,32.377736,-96.646828,2018,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7569478,TX,Ellis,Waxahachie,Source1,4,32.450011,-96.847084,2018,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7572457,TX,Ellis,Waxahachie,Source1,3,32.43995,-96.85168,2018,12,Monday,Cloudy,False,False,True,False,False,False,False
+A-7572992,TX,Ellis,Red Oak,Source1,4,32.52452,-96.82225,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7575122,TX,Ellis,Waxahachie,Source1,3,32.36374,-96.85676,2018,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7583048,TX,Ellis,Forreston,Source1,3,32.255,-96.87382,2018,0,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7587701,TX,Ellis,Waxahachie,Source1,4,32.378,-96.86526,2018,13,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7588474,TX,Ellis,Ferris,Source1,3,32.48934000000001,-96.66421,2018,6,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-7604268,TX,Ellis,Waxahachie,Source1,4,32.45008,-96.84729,2018,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7604271,TX,Ellis,Waxahachie,Source1,4,32.45008,-96.84729,2018,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7607318,TX,Ellis,Waxahachie,Source1,3,32.48908,-96.82741,2018,7,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7611823,TX,Ellis,Palmer,Source1,3,32.4293,-96.65859,2018,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7611824,TX,Ellis,Palmer,Source1,3,32.438049,-96.662071,2018,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7624687,TX,Ellis,Waxahachie,Source1,3,32.3525,-96.85458,2018,13,Sunday,Sin dato,False,False,True,False,False,False,False
+A-7625549,TX,Ellis,Midlothian,Source1,4,32.472403,-96.972834,2018,15,Tuesday,Sin dato,False,False,True,False,False,False,False
+A-7680699,TX,Ellis,Waxahachie,Source1,4,32.48908,-96.82741,2017,6,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7688269,TX,Ellis,Red Oak,Source1,3,32.50404,-96.82223,2017,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7694128,TX,Ellis,Waxahachie,Source1,3,32.40363,-96.87317,2017,14,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7694923,TX,Ellis,Ennis,Source1,3,32.30475,-96.58428,2017,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7695039,TX,Ellis,Waxahachie,Source1,4,32.445190000000004,-96.848876,2017,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7697107,TX,Ellis,Ennis,Source1,4,32.38093,-96.64828,2017,0,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7712946,TX,Ellis,Waxahachie,Source1,3,32.470077,-96.838846,2019,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7714593,TX,Ellis,Waxahachie,Source1,4,32.45562,-96.84504,2019,14,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7728077,TX,Ellis,Waxahachie,Source1,4,32.36374,-96.85676,2019,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7745057,TX,Ellis,Waxahachie,Source1,3,32.360658,-96.855009,2019,23,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7747144,TX,Ellis,Red Oak,Source1,3,32.50756,-96.82203,2019,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7755330,TX,Ellis,Ferris,Source1,3,32.52642,-96.65944,2019,14,Sunday,Cloudy,False,False,True,False,False,False,False
+A-7755336,TX,Ellis,Ferris,Source1,3,32.48129,-96.66364,2019,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7758993,TX,Ellis,Ferris,Source1,4,32.45247,-96.66429,2019,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7764414,TX,Ellis,Red Oak,Source1,4,32.52452,-96.82225,2019,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7764415,TX,Ellis,Red Oak,Source1,3,32.52452,-96.82225,2019,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7764419,TX,Ellis,Red Oak,Source1,4,32.52452,-96.82225,2019,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7772753,TX,Ellis,Ennis,Source1,3,32.30475,-96.58428,2019,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False

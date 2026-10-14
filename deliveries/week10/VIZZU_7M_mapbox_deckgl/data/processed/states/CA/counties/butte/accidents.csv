@@ -1,0 +1,109 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-15520,CA,Butte,Oroville,Source2,3,39.529594,-121.462044,2016,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-528652,CA,Butte,Oroville,Source2,3,39.487019,-121.688622,2022,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-564390,CA,Butte,Oroville,Source2,3,39.464031,-121.578972,2022,14,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-594826,CA,Butte,Chico,Source2,3,39.772099,-121.87023899999998,2022,14,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-737905,CA,Butte,Forest Ranch,Source2,3,39.876862,-121.675407,2022,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-838612,CA,Butte,Berry Creek,Source2,3,39.6404,-121.415787,2021,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-1319256,CA,Butte,Oroville,Source2,3,39.629444,-121.70134,2020,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1366710,CA,Butte,Oroville,Source2,3,39.467739,-121.459068,2020,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1501616,CA,Butte,Durham,Source2,3,39.643631,-121.715271,2020,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1619121,CA,Butte,Oroville,Source3,3,39.50547,-121.517342,2020,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1966774,CA,Butte,Oroville,Source2,3,39.794762,-121.451759,2019,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2139523,CA,Butte,Oroville,Source2,3,39.654499,-121.583748,2019,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2429871,CA,Butte,Oroville,Source2,3,39.675907,-121.532822,2018,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2448388,CA,Butte,Oroville,Source2,3,39.584766,-121.621582,2018,4,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2683205,CA,Butte,Chico,Source2,3,39.72905,-121.811394,2018,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2685415,CA,Butte,Oroville,Source2,3,39.433521,-121.605103,2018,8,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-2991860,CA,Butte,Chico,Source2,3,39.701073,-121.78588899999998,2018,6,Monday,Cloudy,True,False,False,False,False,False,False
+A-3253770,CA,Butte,Biggs,Source2,3,39.464794,-121.78183,2017,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3303373,CA,Butte,Chico,Source2,3,39.772949,-121.872086,2017,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3525197,CA,Butte,Gridley,Source1,4,39.342083,-121.686082,2016,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3525199,CA,Butte,Gridley,Source1,4,39.340471,-121.685333,2016,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3526246,CA,Butte,Durham,Source1,4,39.62539,-121.69711,2016,0,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-3534279,CA,Butte,Chico,Source1,4,39.82256,-121.925012,2016,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3534281,CA,Butte,Chico,Source1,4,39.81357,-121.91793,2016,17,Tuesday,Cloudy,False,False,False,True,False,False,False
+A-3534299,CA,Butte,Chico,Source1,3,39.81357,-121.91793,2016,17,Tuesday,Cloudy,False,False,False,True,False,False,False
+A-3537808,CA,Butte,Oroville,Source1,4,39.49804,-121.588884,2016,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3539203,CA,Butte,Chico,Source1,3,39.77696,-121.87658,2016,3,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-3545614,CA,Butte,Chico,Source1,3,39.85983,-121.95647,2016,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3545615,CA,Butte,Chico,Source1,3,39.85983,-121.95647,2016,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3566261,CA,Butte,Oroville,Source1,4,39.740132,-121.495979,2017,3,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3566262,CA,Butte,Oroville,Source1,4,39.740116,-121.495992,2017,3,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3611155,CA,Butte,Oroville,Source1,4,39.533037,-121.433593,2017,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3611156,CA,Butte,Oroville,Source1,4,39.563746,-121.434013,2017,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3611158,CA,Butte,Oroville,Source1,4,39.563746,-121.434013,2017,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3622054,CA,Butte,Biggs,Source1,4,39.42589,-121.68817,2017,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3622055,CA,Butte,Biggs,Source1,4,39.407671,-121.68802,2017,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3622061,CA,Butte,Biggs,Source1,4,39.42589,-121.68817,2017,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3622062,CA,Butte,Biggs,Source1,4,39.407671,-121.68802,2017,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3647904,CA,Butte,Oroville,Source1,4,39.50441,-121.512811,2017,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3647905,CA,Butte,Oroville,Source1,4,39.504391,-121.51273700000002,2017,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3648820,CA,Butte,Biggs,Source1,4,39.42589,-121.68817,2017,23,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3649679,CA,Butte,Oroville,Source1,3,39.792316,-121.453453,2017,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3649680,CA,Butte,Oroville,Source1,3,39.82836,-121.40852,2017,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3721846,CA,Butte,Oroville,Source1,4,39.798912,-121.448006,2022,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3902988,CA,Butte,Oroville,Source1,4,39.588653,-121.688986,2023,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4106576,CA,Butte,Forest Ranch,Source1,4,39.863996,-121.691362,2022,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4279297,CA,Butte,Chico,Source1,4,39.753323,-121.919762,2022,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4331329,CA,Butte,Forest Ranch,Source1,4,40.038857,-121.61703500000002,2022,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4331330,CA,Butte,Forest Ranch,Source1,4,39.977013,-121.640231,2022,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4641062,CA,Butte,Oroville,Source1,4,39.493236,-121.688634,2023,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4684639,CA,Butte,Oroville,Source1,4,39.620998,-121.597841,2022,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4700503,CA,Butte,Chico,Source1,4,39.753336,-121.927416,2022,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5516152,CA,Butte,Forest Ranch,Source1,4,40.086246,-121.589348,2021,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5658293,CA,Butte,Oroville,Source1,4,39.503864049723134,-121.5522515767977,2021,22,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-5678902,CA,Butte,Oroville,Source1,4,39.46506857853191,-121.70709013880872,2021,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5685062,CA,Butte,Oroville,Source1,4,39.510244,-121.449595,2021,10,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-5765773,CA,Butte,Forest Ranch,Source1,4,39.977013,-121.640231,2021,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5884869,CA,Butte,Oroville,Source1,4,39.46395277958172,-121.5788376325532,2021,14,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-5902240,CA,Butte,Oroville,Source1,4,39.50141787510156,-121.56025528849813,2021,22,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-5958830,CA,Butte,Paradise,Source1,4,39.665779,-121.743708,2021,9,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-6441399,CA,Butte,Chico,Source1,4,39.742101,-121.883235,2021,0,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-6512332,CA,Butte,Biggs,Source1,4,39.3942,-121.688012,2021,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6673470,CA,Butte,Oroville,Source1,4,39.433479,-121.595596,2020,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6712385,CA,Butte,Oroville,Source1,4,39.596304,-121.689674,2020,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6720095,CA,Butte,Biggs,Source1,4,39.3942,-121.688012,2020,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6754067,CA,Butte,Oroville,Source1,4,39.52626400000001,-121.481194,2020,22,Friday,Cloudy,False,False,False,True,False,False,False
+A-6835797,CA,Butte,Gridley,Source1,4,39.377952,-121.687912,2020,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6893549,CA,Butte,Oroville,Source1,4,39.596304,-121.689674,2020,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6906052,CA,Butte,Oroville,Source1,4,39.52626400000001,-121.481194,2020,22,Friday,Cloudy,False,False,False,True,False,False,False
+A-7102882,CA,Butte,Chico,Source1,4,39.75332,-121.95685,2020,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7102884,CA,Butte,Chico,Source1,4,39.75333,-121.95531,2020,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7283725,CA,Butte,Gridley,Source1,4,39.33417,-121.6831,2020,7,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7387467,CA,Butte,Oroville,Source1,4,39.600208,-121.660082,2019,0,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7387469,CA,Butte,Oroville,Source1,4,39.600208,-121.660082,2019,0,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7387475,CA,Butte,Oroville,Source1,3,39.600208,-121.660082,2019,2,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7423690,CA,Butte,Chico,Source1,3,39.75259000000001,-121.84202,2019,16,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7433303,CA,Butte,Chico,Source1,4,39.75592,-121.84842,2019,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7463650,CA,Butte,Oroville,Source1,3,39.504832,-121.52106,2019,15,Tuesday,Rain,False,False,False,False,False,False,False
+A-7463652,CA,Butte,Oroville,Source1,3,39.504778,-121.514328,2019,15,Tuesday,Rain,False,False,False,False,False,False,False
+A-7468444,CA,Butte,Chico,Source1,3,39.7471,-121.83373,2019,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7473203,CA,Butte,Biggs,Source1,3,39.40868,-121.68803,2018,11,Friday,Sin dato,False,False,False,False,False,False,False
+A-7473204,CA,Butte,Biggs,Source1,3,39.425689,-121.68817,2018,11,Friday,Sin dato,False,False,False,False,False,False,False
+A-7506038,CA,Butte,Chico,Source1,3,39.73983,-121.824286,2018,12,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7512222,CA,Butte,Durham,Source1,3,39.64379,-121.7181,2018,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7563776,CA,Butte,Chico,Source1,3,39.734037,-121.816117,2018,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-7577977,CA,Butte,Oroville,Source1,4,39.624366,-121.594102,2018,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7577978,CA,Butte,Oroville,Source1,4,39.60254000000001,-121.61824,2018,15,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-7577979,CA,Butte,Oroville,Source1,4,39.631284,-121.586396,2018,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7579704,CA,Butte,Gridley,Source1,3,39.37791,-121.68794,2018,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7579705,CA,Butte,Gridley,Source1,3,39.37791,-121.68794,2018,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7603484,CA,Butte,Chico,Source1,4,39.811212,-121.915852,2018,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-7603500,CA,Butte,Chico,Source1,3,39.811212,-121.915852,2018,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-7603501,CA,Butte,Chico,Source1,3,39.81357,-121.91793,2018,17,Friday,Cloudy,False,False,False,True,False,False,False
+A-7662676,CA,Butte,Berry Creek,Source1,3,39.809492,-121.430871,2017,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7662678,CA,Butte,Berry Creek,Source1,3,39.809492,-121.430871,2017,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7668631,CA,Butte,Chico,Source1,4,39.75332,-121.95685,2017,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7668633,CA,Butte,Chico,Source1,4,39.7533,-121.96805,2017,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7681893,CA,Butte,Oroville,Source1,4,39.50368,-121.45975,2017,16,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-7681894,CA,Butte,Oroville,Source1,4,39.50368,-121.45975,2017,16,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-7710107,CA,Butte,Paradise,Source1,3,39.665013,-121.743057,2019,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7713111,CA,Butte,Forest Ranch,Source1,4,39.895742,-121.66291499999998,2019,1,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7713112,CA,Butte,Forest Ranch,Source1,4,39.886648,-121.66701,2019,1,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7716058,CA,Butte,Paradise,Source1,3,39.665412,-121.743596,2019,16,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-7716059,CA,Butte,Durham,Source1,3,39.64683,-121.72121,2019,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7729732,CA,Butte,Chico,Source1,3,39.700702,-121.785472,2019,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7742499,CA,Butte,Oroville,Source1,3,39.504344,-121.522576,2019,23,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7742500,CA,Butte,Oroville,Source1,3,39.504857,-121.507642,2019,23,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-7771284,CA,Butte,Chico,Source1,4,39.72303,-121.80677,2019,4,Thursday,Clear / Fair,False,False,False,False,False,False,False

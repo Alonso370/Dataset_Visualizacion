@@ -1,0 +1,487 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-516481,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2022,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-517307,NC,Henderson,Saluda,Source2,3,35.272312,-82.370705,2022,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-522099,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2022,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-527990,NC,Henderson,Fletcher,Source2,3,35.439713,-82.53537800000002,2022,15,Wednesday,Rain,False,False,False,False,False,False,False
+A-539344,NC,Henderson,Hendersonville,Source2,4,35.341026,-82.440552,2022,20,Thursday,Storm,False,False,False,False,False,False,False
+A-546886,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2022,21,Wednesday,Rain,False,False,False,False,False,False,False
+A-547289,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2022,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-547412,NC,Henderson,Hendersonville,Source2,3,35.341026,-82.440552,2022,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-550111,NC,Henderson,Hendersonville,Source2,4,35.340775,-82.440071,2022,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-552392,NC,Henderson,Hendersonville,Source2,3,35.348049,-82.451073,2022,18,Thursday,Storm,False,False,False,False,False,False,False
+A-552393,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2022,19,Thursday,Storm,False,False,False,False,False,False,False
+A-570681,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2022,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-574077,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2022,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-576043,NC,Henderson,Hendersonville,Source2,3,35.391006,-82.490997,2022,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-576877,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2022,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-576920,NC,Henderson,Hendersonville,Source2,3,35.344749,-82.44452700000002,2022,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-583742,NC,Henderson,Hendersonville,Source2,3,35.389267,-82.48999,2022,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-583791,NC,Henderson,Flat Rock,Source2,4,35.285107,-82.400421,2022,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-583951,NC,Henderson,Hendersonville,Source2,3,35.362492,-82.461563,2022,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-584046,NC,Henderson,Hendersonville,Source2,3,35.32135800000001,-82.424461,2022,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-592281,NC,Henderson,Flat Rock,Source2,3,35.285107,-82.400421,2022,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-592672,NC,Henderson,Hendersonville,Source2,3,35.398075,-82.504784,2022,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-604611,NC,Henderson,Hendersonville,Source2,3,35.38412899999999,-82.486954,2022,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-608806,NC,Henderson,Hendersonville,Source2,3,35.341026,-82.440552,2022,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-613723,NC,Henderson,Hendersonville,Source2,3,35.341026,-82.440552,2022,12,Monday,Rain,False,False,False,False,False,False,False
+A-622547,NC,Henderson,Flat Rock,Source2,3,35.276409,-82.37870799999997,2022,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-623227,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2022,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-625648,NC,Henderson,Hendersonville,Source3,3,35.330147,-82.431053,2022,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-625945,NC,Henderson,Flat Rock,Source2,3,35.294781,-82.404762,2022,11,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-628208,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2022,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-632202,NC,Henderson,Hendersonville,Source2,3,35.340649,-82.439964,2022,19,Sunday,Cloudy,False,False,True,False,False,False,False
+A-633746,NC,Henderson,Hendersonville,Source2,3,35.39890300000001,-82.507408,2022,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-652900,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2022,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-653189,NC,Henderson,Hendersonville,Source2,3,35.341026,-82.440552,2022,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-654170,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2022,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-673663,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2022,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-675234,NC,Henderson,Fletcher,Source3,3,35.429062,-82.529572,2022,12,Wednesday,Rain,False,False,False,False,False,False,False
+A-681596,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2022,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-685232,NC,Henderson,Hendersonville,Source2,3,35.341026,-82.440552,2022,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-686432,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2022,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-687855,NC,Henderson,Flat Rock,Source2,3,35.293526,-82.403755,2022,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-688190,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2022,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-696094,NC,Henderson,Hendersonville,Source2,3,35.370762,-82.47039000000002,2022,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-696105,NC,Henderson,Hendersonville,Source2,3,35.37735,-82.478462,2022,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-701192,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2022,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-704797,NC,Henderson,Hendersonville,Source2,3,35.341026,-82.440552,2022,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-705117,NC,Henderson,Hendersonville,Source2,3,35.341026,-82.440552,2022,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-710968,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2022,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-723002,NC,Henderson,Fletcher,Source2,3,35.438286,-82.533997,2022,17,Thursday,Rain,False,False,False,False,False,False,False
+A-723483,NC,Henderson,Fletcher,Source2,3,35.43821,-82.53394300000002,2022,14,Thursday,Rain,False,False,False,False,False,False,False
+A-728390,NC,Henderson,Hendersonville,Source2,3,35.37545,-82.475426,2022,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-728517,NC,Henderson,Hendersonville,Source2,3,35.391212,-82.49146999999998,2022,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-729590,NC,Henderson,Saluda,Source2,3,35.273705,-82.372742,2022,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-738159,NC,Henderson,Hendersonville,Source2,3,35.341026,-82.440552,2022,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-738544,NC,Henderson,Flat Rock,Source3,3,35.297661,-82.40744000000002,2022,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-763698,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2021,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-767217,NC,Henderson,Hendersonville,Source2,3,35.395798,-82.49791,2021,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-768110,NC,Henderson,Hendersonville,Source2,3,35.347137,-82.449577,2021,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-768211,NC,Henderson,Hendersonville,Source2,3,35.36208,-82.46112099999998,2021,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-772365,NC,Henderson,Hendersonville,Source2,3,35.341026,-82.440552,2021,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-774764,NC,Henderson,Fletcher,Source2,4,35.399509,-82.508484,2021,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-780957,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2021,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-782369,NC,Henderson,Hendersonville,Source2,3,35.398212,-82.50520300000002,2021,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-799468,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2021,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-816876,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2021,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-820439,NC,Henderson,Hendersonville,Source2,3,35.37332199999999,-82.473442,2021,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-820878,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2021,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-821875,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2021,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-832115,NC,Henderson,Fletcher,Source2,3,35.419052,-82.52484100000002,2021,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-832693,NC,Henderson,Fletcher,Source2,3,35.41040800000001,-82.518509,2021,8,Thursday,Rain,False,False,False,False,False,False,False
+A-834735,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2021,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-840829,NC,Henderson,Fletcher,Source2,3,35.406162,-82.515404,2021,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-845561,NC,Henderson,Fletcher,Source2,3,35.423828,-82.52780899999998,2021,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-846284,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2021,14,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-849034,NC,Henderson,Fletcher,Source2,3,35.421124,-82.526314,2021,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-849054,NC,Henderson,Hendersonville,Source2,3,35.365032,-82.464272,2021,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-849196,NC,Henderson,Fletcher,Source2,3,35.438137,-82.533897,2021,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-851467,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2021,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-853003,NC,Henderson,Hendersonville,Source2,3,35.364079,-82.463577,2021,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-860308,NC,Henderson,Fletcher,Source2,3,35.420596999999994,-82.52595500000002,2021,12,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-860387,NC,Henderson,Hendersonville,Source2,3,35.356075,-82.456688,2021,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-863620,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2021,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-865161,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2021,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-866435,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2021,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-867475,NC,Henderson,Hendersonville,Source2,3,35.391068,-82.491341,2021,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-867996,NC,Henderson,Fletcher,Source2,3,35.411537,-82.51960799999998,2021,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-869378,NC,Henderson,Hendersonville,Source2,3,35.369034,-82.468552,2021,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-874352,NC,Henderson,Flat Rock,Source2,3,35.285107,-82.400421,2021,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-875149,NC,Henderson,Hendersonville,Source2,3,35.376411,-82.476616,2021,11,Tuesday,Rain,False,False,False,False,False,False,False
+A-883005,NC,Henderson,Saluda,Source2,3,35.272892,-82.371361,2021,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-888014,NC,Henderson,Fletcher,Source2,3,35.440041,-82.535622,2021,9,Wednesday,Rain,False,False,False,False,False,False,False
+A-897651,NC,Henderson,Hendersonville,Source2,3,35.345894,-82.44657099999998,2021,10,Thursday,Rain,False,False,False,False,False,False,False
+A-907859,NC,Henderson,Hendersonville,Source2,3,35.364933,-82.46417199999998,2021,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-910817,NC,Henderson,Hendersonville,Source2,3,35.368275,-82.468048,2021,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-936014,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2021,14,Sunday,Storm,False,False,False,False,False,False,False
+A-936052,NC,Henderson,Hendersonville,Source2,3,35.400887,-82.510994,2021,13,Sunday,Rain,False,False,False,False,False,False,False
+A-936091,NC,Henderson,Hendersonville,Source2,3,35.341026,-82.440552,2021,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-942500,NC,Henderson,Hendersonville,Source2,3,35.403091,-82.51316800000002,2021,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-949092,NC,Henderson,Flat Rock,Source2,3,35.297661,-82.40744000000002,2021,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-951542,NC,Henderson,Hendersonville,Source2,3,35.344971,-82.444473,2021,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-951546,NC,Henderson,Hendersonville,Source2,3,35.341026,-82.440552,2021,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-951598,NC,Henderson,Hendersonville,Source2,3,35.402821,-82.512962,2021,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-955076,NC,Henderson,Hendersonville,Source2,3,35.341026,-82.440552,2021,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-957385,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2021,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-960366,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2021,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-961514,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2021,13,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-961860,NC,Henderson,Flat Rock,Source2,3,35.285107,-82.400421,2021,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-968664,NC,Henderson,Hendersonville,Source2,3,35.341026,-82.440552,2021,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-968700,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2021,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-972278,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2021,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-972280,NC,Henderson,Hendersonville,Source2,3,35.341026,-82.440552,2021,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-972982,NC,Henderson,Hendersonville,Source2,3,35.346172,-82.447311,2021,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-977678,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2021,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-980236,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2021,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-980237,NC,Henderson,Hendersonville,Source2,3,35.341026,-82.440552,2021,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-980923,NC,Henderson,Hendersonville,Source2,3,35.341228,-82.440147,2021,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-982568,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2021,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-987189,NC,Henderson,Hendersonville,Source2,3,35.399986,-82.50954399999998,2021,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-988942,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2021,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-988943,NC,Henderson,Hendersonville,Source2,3,35.341026,-82.440552,2021,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-989732,NC,Henderson,Fletcher,Source2,3,35.39964699999999,-82.50745400000002,2021,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-991309,NC,Henderson,Hendersonville,Source2,3,35.341026,-82.440552,2021,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-997040,NC,Henderson,Flat Rock,Source2,3,35.285107,-82.400421,2021,7,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-998287,NC,Henderson,Hendersonville,Source2,3,35.341026,-82.440552,2021,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-1001800,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2021,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1001808,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2021,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1006596,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2021,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1011192,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2021,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1012831,NC,Henderson,Hendersonville,Source2,3,35.341026,-82.440552,2021,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1012832,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2021,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1017119,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2021,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1018878,NC,Henderson,Hendersonville,Source2,3,35.341026,-82.440552,2021,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1022220,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2021,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1025219,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2021,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1025969,NC,Henderson,Flat Rock,Source2,3,35.285107,-82.400421,2021,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1029390,NC,Henderson,Flat Rock,Source2,3,35.285107,-82.400421,2021,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1037087,NC,Henderson,Fletcher,Source2,3,35.399509,-82.508484,2021,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1040465,NC,Henderson,Fletcher,Source2,3,35.399242,-82.50774399999997,2021,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1040471,NC,Henderson,Hendersonville,Source2,3,35.341026,-82.440552,2021,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1071073,NC,Henderson,Flat Rock,Source2,3,35.285107,-82.400421,2021,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1071078,NC,Henderson,Flat Rock,Source2,3,35.285107,-82.400421,2021,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-1072659,NC,Henderson,Flat Rock,Source2,3,35.285107,-82.400421,2021,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1078405,NC,Henderson,Hendersonville,Source2,3,35.340874,-82.440155,2021,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1078824,NC,Henderson,Hendersonville,Source2,3,35.373886,-82.473724,2021,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1078825,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2021,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1085574,NC,Henderson,Hendersonville,Source2,3,35.341026,-82.440552,2021,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1087394,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2021,17,Saturday,Rain,False,False,False,False,False,False,False
+A-1088139,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2021,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1091315,NC,Henderson,Flat Rock,Source2,3,35.297661,-82.40744000000002,2021,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1094175,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2021,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1094176,NC,Henderson,Hendersonville,Source2,3,35.341026,-82.440552,2021,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1095787,NC,Henderson,Hendersonville,Source2,3,35.341026,-82.440552,2021,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1101738,NC,Henderson,Flat Rock,Source2,3,35.285107,-82.400421,2021,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1103056,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2021,10,Sunday,Rain,False,False,False,False,False,False,False
+A-1104177,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2021,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1112879,NC,Henderson,Hendersonville,Source2,3,35.347038,-82.449402,2021,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-1129286,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2021,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1129287,NC,Henderson,Hendersonville,Source2,3,35.341026,-82.440552,2021,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1129289,NC,Henderson,Hendersonville,Source2,3,35.341026,-82.440552,2021,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1130790,NC,Henderson,Hendersonville,Source2,3,35.341026,-82.440552,2021,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1136197,NC,Henderson,Hendersonville,Source2,4,35.341026,-82.440552,2021,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1136198,NC,Henderson,Hendersonville,Source2,3,35.341026,-82.440552,2021,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1138916,NC,Henderson,Hendersonville,Source2,3,35.406731,-82.513474,2021,18,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-1144437,NC,Henderson,Hendersonville,Source3,3,35.341026,-82.440552,2021,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1154882,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2021,17,Friday,Rain,False,False,False,False,False,False,False
+A-1160504,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2021,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1168411,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2021,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1174238,NC,Henderson,Hendersonville,Source2,3,35.341026,-82.440552,2021,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1189668,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2021,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-1193645,NC,Henderson,Flat Rock,Source2,4,35.297821,-82.407608,2021,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1195245,NC,Henderson,Flat Rock,Source2,3,35.297661,-82.40744000000002,2021,7,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1202904,NC,Henderson,Hendersonville,Source2,3,35.342392,-82.441177,2021,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1209961,NC,Henderson,Flat Rock,Source2,3,35.285107,-82.400421,2020,9,Wednesday,Rain,False,False,False,False,False,False,False
+A-1222719,NC,Henderson,Hendersonville,Source2,4,35.392471,-82.492409,2020,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-1222723,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2020,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1232691,NC,Henderson,Flat Rock,Source2,3,35.285107,-82.400421,2020,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1237671,NC,Henderson,Hendersonville,Source2,4,35.340942,-82.440216,2020,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1239236,NC,Henderson,Hendersonville,Source2,3,35.341026,-82.440552,2020,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-1240622,NC,Henderson,Hendersonville,Source2,3,35.341026,-82.440552,2020,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1257161,NC,Henderson,Fletcher,Source2,4,35.399612,-82.508415,2020,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1257165,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2020,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1264026,NC,Henderson,Flat Rock,Source2,3,35.285107,-82.400421,2020,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1268820,NC,Henderson,Hendersonville,Source2,3,35.341026,-82.440552,2020,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1276076,NC,Henderson,Hendersonville,Source2,3,35.341026,-82.440552,2020,11,Sunday,Sin dato,False,False,False,False,False,False,False
+A-1276703,NC,Henderson,Flat Rock,Source2,4,35.297661,-82.40744000000002,2020,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1287747,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2020,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1289595,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2020,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1296825,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2020,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1302095,NC,Henderson,Hendersonville,Source2,3,35.341026,-82.440552,2020,13,Thursday,Rain,False,False,False,False,False,False,False
+A-1302100,NC,Henderson,Flat Rock,Source2,3,35.280441,-82.401802,2020,22,Thursday,Rain,False,False,True,False,False,False,False
+A-1316417,NC,Henderson,Hendersonville,Source2,4,35.399319,-82.50859799999998,2020,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1323165,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2020,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1334970,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2020,21,Sunday,Rain,False,False,False,False,False,False,False
+A-1335881,NC,Henderson,Hendersonville,Source2,3,35.341026,-82.440552,2020,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-1341267,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2020,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1343184,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2020,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-1343185,NC,Henderson,Hendersonville,Source2,3,35.341026,-82.440552,2020,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1343195,NC,Henderson,Hendersonville,Source2,3,35.341026,-82.440552,2020,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1345027,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2020,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1345028,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2020,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1354084,NC,Henderson,Flat Rock,Source2,3,35.285107,-82.400421,2020,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1357310,NC,Henderson,Hendersonville,Source2,3,35.341599,-82.44046,2020,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1377444,NC,Henderson,Hendersonville,Source2,3,35.341026,-82.440552,2020,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1389648,NC,Henderson,Hendersonville,Source2,3,35.341026,-82.440552,2020,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1391063,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2020,13,Saturday,Storm,False,False,False,False,False,False,False
+A-1391064,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2020,14,Saturday,Storm,False,False,False,False,False,False,False
+A-1392152,NC,Henderson,Flat Rock,Source2,3,35.285107,-82.400421,2020,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-1396527,NC,Henderson,Hendersonville,Source2,3,35.360485,-82.45945,2020,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1399890,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2020,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1406587,NC,Henderson,Fletcher,Source2,3,35.399879,-82.507805,2020,18,Friday,Storm,False,False,False,False,False,False,False
+A-1408574,NC,Henderson,Hendersonville,Source2,3,35.341026,-82.440552,2020,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1416269,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2020,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1432359,NC,Henderson,Flat Rock,Source2,4,35.285107,-82.400421,2020,12,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1444881,NC,Henderson,Hendersonville,Source2,3,35.341026,-82.440552,2020,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1444882,NC,Henderson,Hendersonville,Source2,4,35.341026,-82.440552,2020,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1453172,NC,Henderson,Flat Rock,Source2,3,35.285107,-82.400421,2020,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1453174,NC,Henderson,Flat Rock,Source2,3,35.297661,-82.40744000000002,2020,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1465518,NC,Henderson,Flat Rock,Source2,3,35.285107,-82.400421,2020,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1465526,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2020,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1485614,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2020,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1488747,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2020,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1490372,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2020,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1491778,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2020,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1491779,NC,Henderson,Hendersonville,Source2,3,35.341625,-82.440483,2020,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1494316,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2020,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1502041,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2020,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1515989,NC,Henderson,Fletcher,Source2,3,35.399628,-82.508453,2020,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-1518430,NC,Henderson,Hendersonville,Source2,3,35.341084,-82.440453,2020,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1519198,NC,Henderson,Hendersonville,Source2,3,35.341084,-82.440453,2020,9,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1521117,NC,Henderson,Flat Rock,Source2,3,35.285107,-82.400421,2020,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1564492,NC,Henderson,Hendersonville,Source3,3,35.36000100000001,-82.459007,2020,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-1566372,NC,Henderson,Fletcher,Source2,3,35.399612,-82.508415,2020,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1571081,NC,Henderson,Fletcher,Source2,3,35.399628,-82.508453,2020,9,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1587495,NC,Henderson,Flat Rock,Source2,3,35.29752,-82.40718100000002,2020,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1593160,NC,Henderson,Hendersonville,Source2,3,35.341084,-82.440453,2020,7,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1605381,NC,Henderson,Hendersonville,Source2,3,35.341084,-82.440453,2020,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1623661,NC,Henderson,Flat Rock,Source2,3,35.285107,-82.400421,2020,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1637351,NC,Henderson,Flat Rock,Source2,3,35.285107,-82.400421,2020,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1641319,NC,Henderson,Flat Rock,Source2,3,35.285107,-82.400421,2020,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1646109,NC,Henderson,Hendersonville,Source2,3,35.341084,-82.440453,2020,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1660798,NC,Henderson,Fletcher,Source2,3,35.399628,-82.508453,2020,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1664241,NC,Henderson,Fletcher,Source2,3,35.399628,-82.508453,2020,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-1664250,NC,Henderson,Fletcher,Source2,3,35.399628,-82.508453,2020,15,Monday,Rain,False,False,False,False,False,False,False
+A-1666446,NC,Henderson,Fletcher,Source2,3,35.399628,-82.508453,2020,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1670784,NC,Henderson,Flat Rock,Source2,3,35.29752,-82.40718100000002,2020,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1675359,NC,Henderson,Fletcher,Source2,3,35.399628,-82.508453,2020,16,Thursday,Rain,False,False,False,False,False,False,False
+A-1683480,NC,Henderson,Flat Rock,Source2,3,35.29752,-82.40718100000002,2019,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1732711,NC,Henderson,Flat Rock,Source2,3,35.285107,-82.400421,2019,6,Monday,Rain,False,False,False,False,False,False,False
+A-1747731,NC,Henderson,Hendersonville,Source2,3,35.341084,-82.440453,2019,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1757093,NC,Henderson,Flat Rock,Source2,3,35.277874,-82.391182,2019,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1769386,NC,Henderson,Fletcher,Source2,3,35.399628,-82.508453,2019,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1777333,NC,Henderson,Hendersonville,Source2,3,35.341084,-82.440453,2019,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-1777339,NC,Henderson,Hendersonville,Source2,3,35.340126,-82.439522,2019,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-1796029,NC,Henderson,Hendersonville,Source2,3,35.341084,-82.440453,2019,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1798443,NC,Henderson,Fletcher,Source2,3,35.399628,-82.508453,2019,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1819653,NC,Henderson,Fletcher,Source2,3,35.39938,-82.50814799999998,2019,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1829609,NC,Henderson,Flat Rock,Source2,3,35.285107,-82.400421,2019,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1863578,NC,Henderson,Hendersonville,Source2,3,35.341084,-82.440453,2019,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1869775,NC,Henderson,Hendersonville,Source2,3,35.340511,-82.43985,2019,17,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1891792,NC,Henderson,Fletcher,Source2,3,35.41898300000001,-82.524788,2019,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1916527,NC,Henderson,Hendersonville,Source2,3,35.341084,-82.440453,2019,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1955384,NC,Henderson,Fletcher,Source2,3,35.399628,-82.508453,2019,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1979135,NC,Henderson,Hendersonville,Source2,3,35.384426,-82.487373,2019,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1990875,NC,Henderson,Flat Rock,Source2,4,35.285107,-82.400421,2019,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2000923,NC,Henderson,Flat Rock,Source2,3,35.297493,-82.406952,2019,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-2038454,NC,Henderson,Flat Rock,Source2,3,35.285107,-82.400421,2019,14,Friday,Rain,False,False,False,False,False,False,False
+A-2076914,NC,Henderson,Hendersonville,Source2,3,35.341084,-82.440453,2019,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2107746,NC,Henderson,Hendersonville,Source2,3,35.341084,-82.440453,2019,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2116800,NC,Henderson,Hendersonville,Source2,3,35.341084,-82.440453,2019,21,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2119267,NC,Henderson,Fletcher,Source2,3,35.399628,-82.508453,2019,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2119269,NC,Henderson,Fletcher,Source2,3,35.399628,-82.508453,2019,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2123364,NC,Henderson,Hendersonville,Source2,3,35.341084,-82.440453,2019,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2123365,NC,Henderson,Hendersonville,Source2,3,35.341084,-82.440453,2019,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2128651,NC,Henderson,Fletcher,Source2,3,35.399628,-82.508453,2019,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2191929,NC,Henderson,Hendersonville,Source2,3,35.359627,-82.45871700000002,2019,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2208502,NC,Henderson,Flat Rock,Source2,3,35.284847,-82.400604,2019,15,Friday,Rain,False,False,False,False,False,False,False
+A-2233208,NC,Henderson,Fletcher,Source2,3,35.399227,-82.507515,2019,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-2362470,NC,Henderson,Hendersonville,Source2,3,35.382095,-82.485771,2019,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2389859,NC,Henderson,Fletcher,Source2,3,35.399227,-82.507515,2018,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2399239,NC,Henderson,Flat Rock,Source2,3,35.284847,-82.400604,2018,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2427905,NC,Henderson,Hendersonville,Source2,3,35.34129,-82.440208,2018,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-2532951,NC,Henderson,Flat Rock,Source2,3,35.28331,-82.399628,2018,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2621597,NC,Henderson,Hendersonville,Source2,3,35.34129,-82.440208,2018,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2626340,NC,Henderson,Fletcher,Source2,3,35.399494,-82.508499,2018,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2638120,NC,Henderson,Fletcher,Source2,3,35.399494,-82.508499,2018,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-2644612,NC,Henderson,Flat Rock,Source2,3,35.297405,-82.407005,2018,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2647045,NC,Henderson,Flat Rock,Source2,3,35.300274,-82.40972099999998,2018,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2652096,NC,Henderson,Fletcher,Source2,3,35.399494,-82.508499,2018,14,Friday,Rain,False,False,False,False,False,False,False
+A-2656143,NC,Henderson,Hendersonville,Source2,3,35.34129,-82.440208,2018,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2663711,NC,Henderson,Hendersonville,Source2,3,35.34129,-82.440208,2018,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2669846,NC,Henderson,Hendersonville,Source2,3,35.340836,-82.439842,2018,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-2868957,NC,Henderson,Fletcher,Source2,3,35.399494,-82.508499,2018,16,Friday,Rain,False,False,False,False,False,False,False
+A-2868960,NC,Henderson,Fletcher,Source2,3,35.399494,-82.508499,2018,18,Friday,Rain,False,False,False,False,False,False,False
+A-2922550,NC,Henderson,Hendersonville,Source2,3,35.34129,-82.440208,2018,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2944104,NC,Henderson,Hendersonville,Source2,3,35.34129,-82.440208,2018,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2944119,NC,Henderson,Hendersonville,Source2,3,35.34129,-82.440208,2018,10,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2944120,NC,Henderson,Fletcher,Source2,3,35.399494,-82.508499,2018,10,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2978275,NC,Henderson,Hendersonville,Source2,3,35.34129,-82.440208,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-3013221,NC,Henderson,Fletcher,Source2,3,35.399494,-82.508499,2018,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3019387,NC,Henderson,Flat Rock,Source2,3,35.28331,-82.399628,2018,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-3024527,NC,Henderson,Fletcher,Source2,3,35.399494,-82.508499,2018,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3112409,NC,Henderson,Hendersonville,Source2,3,35.345066,-82.445145,2017,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3117901,NC,Henderson,Hendersonville,Source2,3,35.34129,-82.440208,2017,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3158071,NC,Henderson,Flat Rock,Source2,3,35.297405,-82.407005,2017,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3160514,NC,Henderson,Hendersonville,Source2,3,35.34129,-82.440208,2017,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3171191,NC,Henderson,Fletcher,Source2,3,35.399494,-82.508499,2017,9,Tuesday,Rain,False,False,False,False,False,False,False
+A-3200350,NC,Henderson,Hendersonville,Source2,3,35.348686,-82.451904,2017,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3210498,NC,Henderson,Flat Rock,Source2,3,35.28331,-82.399628,2017,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3291781,NC,Henderson,Hendersonville,Source2,3,35.34129,-82.440208,2017,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3294685,NC,Henderson,Fletcher,Source2,3,35.399494,-82.508499,2017,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3294689,NC,Henderson,Flat Rock,Source2,3,35.29744,-82.407028,2017,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3297180,NC,Henderson,Flat Rock,Source2,3,35.28331400000001,-82.399628,2017,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3297183,NC,Henderson,Fletcher,Source2,3,35.399494,-82.508499,2017,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3347383,NC,Henderson,Flat Rock,Source2,3,35.28331,-82.399628,2017,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3351317,NC,Henderson,Flat Rock,Source2,3,35.28465999999999,-82.400253,2017,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3351318,NC,Henderson,Fletcher,Source2,3,35.399494,-82.508499,2017,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3382961,NC,Henderson,Fletcher,Source2,3,35.399494,-82.508499,2017,7,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3481143,NC,Henderson,Hendersonville,Source1,4,35.34377999999999,-82.44298,2016,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3483572,NC,Henderson,Hendersonville,Source1,4,35.33849,-82.4379,2016,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-3503206,NC,Henderson,Fletcher,Source1,3,35.43825,-82.53397,2016,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3573154,NC,Henderson,Zirconia,Source1,4,35.238836,-82.412482,2017,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3573155,NC,Henderson,Zirconia,Source1,4,35.23845,-82.41606,2017,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3633577,NC,Henderson,Hendersonville,Source1,4,35.359643,-82.418761,2017,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3633578,NC,Henderson,Hendersonville,Source1,4,35.358234,-82.421864,2017,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3633820,NC,Henderson,Hendersonville,Source1,4,35.344101,-82.443022,2017,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-3642975,NC,Henderson,Hendersonville,Source1,4,35.284718,-82.443437,2017,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3642976,NC,Henderson,Flat Rock,Source1,4,35.279994,-82.442223,2017,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3657681,NC,Henderson,Hendersonville,Source1,4,35.300089,-82.436164,2023,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3658662,NC,Henderson,Fletcher,Source1,4,35.42156400000001,-82.53864899999998,2023,1,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-3663248,NC,Henderson,Fletcher,Source1,4,35.428942,-82.544886,2023,1,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3667275,NC,Henderson,Hendersonville,Source1,4,35.396152,-82.506089,2023,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3669955,NC,Henderson,Hendersonville,Source1,4,35.299473,-82.435687,2023,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3673110,NC,Henderson,Fletcher,Source1,4,35.40348400000001,-82.51371800000003,2023,4,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3717327,NC,Henderson,Hendersonville,Source1,4,35.377198,-82.477698,2022,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3740842,NC,Henderson,Hendersonville,Source1,4,35.3772,-82.474757,2022,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-3743005,NC,Henderson,Hendersonville,Source1,4,35.356852,-82.47649200000002,2022,11,Monday,Cloudy,False,True,False,False,False,False,True
+A-3820536,NC,Henderson,Flat Rock,Source1,4,35.3071,-82.416021,2022,22,Thursday,Rain,False,False,False,False,False,False,False
+A-3844280,NC,Henderson,Hendersonville,Source1,4,35.320632,-82.474226,2022,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3873942,NC,Henderson,Hendersonville,Source1,4,35.295067,-82.498333,2022,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3895897,NC,Henderson,Hendersonville,Source1,4,35.332251,-82.521628,2022,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3906946,NC,Henderson,Hendersonville,Source1,4,35.331805,-82.520702,2022,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3913892,NC,Henderson,Mills River,Source1,4,35.384487,-82.56895899999998,2023,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3949200,NC,Henderson,Fletcher,Source1,4,35.4322,-82.52659,2022,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3952337,NC,Henderson,Hendersonville,Source1,4,35.333262,-82.413375,2023,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3953246,NC,Henderson,Hendersonville,Source1,4,35.400836,-82.51128100000003,2023,9,Wednesday,Rain,False,False,False,False,False,False,False
+A-3971887,NC,Henderson,Hendersonville,Source1,4,35.30495,-82.429148,2022,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3982714,NC,Henderson,Hendersonville,Source1,4,35.400412,-82.509523,2022,21,Saturday,Rain,False,False,False,False,False,False,False
+A-3984447,NC,Henderson,Hendersonville,Source1,4,35.240817,-82.583721,2023,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3998438,NC,Henderson,Hendersonville,Source1,4,35.296385,-82.500297,2022,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4003870,NC,Henderson,Hendersonville,Source1,4,35.379764,-82.482477,2022,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4014360,NC,Henderson,Flat Rock,Source1,4,35.241941,-82.39971700000002,2022,19,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4017801,NC,Henderson,Hendersonville,Source1,4,35.40083528,-82.51128316,2022,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4049994,NC,Henderson,Fletcher,Source1,4,35.436084,-82.49249300000002,2023,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4051151,NC,Henderson,Fletcher,Source1,4,35.44093966,-82.53480077,2022,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4070023,NC,Henderson,Hendersonville,Source1,4,35.34905999999999,-82.452627,2023,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4093562,NC,Henderson,Flat Rock,Source1,4,35.3158,-82.423973,2023,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4095654,NC,Henderson,Flat Rock,Source1,4,35.307213,-82.376816,2022,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4141309,NC,Henderson,Flat Rock,Source1,4,35.274596,-82.442707,2022,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4149855,NC,Henderson,Fletcher,Source1,4,35.436144,-82.532427,2022,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4168064,NC,Henderson,Hendersonville,Source1,4,35.323593,-82.501416,2022,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4210800,NC,Henderson,Hendersonville,Source1,4,35.37439000000001,-82.39545799999998,2023,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4221673,NC,Henderson,Hendersonville,Source1,4,35.297071,-82.50373,2022,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4223258,NC,Henderson,Hendersonville,Source1,4,35.319885,-82.474252,2022,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4235138,NC,Henderson,Hendersonville,Source1,4,35.357322,-82.47672,2022,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-4253070,NC,Henderson,Hendersonville,Source1,4,35.295601,-82.498838,2022,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4262609,NC,Henderson,Hendersonville,Source1,4,35.252493,-82.493877,2022,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4277917,NC,Henderson,Mills River,Source1,4,35.385533,-82.56145,2022,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4302548,NC,Henderson,Fletcher,Source1,4,35.442775,-82.506264,2022,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4320803,NC,Henderson,Hendersonville,Source1,4,35.376442,-82.521834,2023,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4322786,NC,Henderson,Fletcher,Source1,4,35.438169,-82.53394,2022,15,Thursday,Storm,False,False,False,False,False,False,False
+A-4345530,NC,Henderson,Hendersonville,Source1,4,35.379532,-82.519661,2023,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-4346945,NC,Henderson,Mills River,Source1,4,35.377608,-82.54594499999997,2022,18,Thursday,Cloudy,True,False,False,False,False,False,False
+A-4380632,NC,Henderson,Hendersonville,Source1,4,35.32446500000001,-82.503292,2022,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4456267,NC,Henderson,East Flat Rock,Source1,4,35.278578,-82.420088,2022,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4462989,NC,Henderson,Hendersonville,Source1,4,35.302846,-82.431024,2022,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4475313,NC,Henderson,Hendersonville,Source1,4,35.24016,-82.588626,2023,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4481690,NC,Henderson,Mills River,Source1,4,35.410729,-82.571478,2022,19,Monday,Clear / Fair,False,False,False,True,False,False,False
+A-4519050,NC,Henderson,Mills River,Source1,4,35.385533,-82.56145,2022,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4552266,NC,Henderson,Hendersonville,Source1,4,35.32446500000001,-82.503292,2022,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4588419,NC,Henderson,Flat Rock,Source1,4,35.315634,-82.420763,2022,22,Thursday,Rain,False,False,False,False,False,False,False
+A-4597048,NC,Henderson,Fletcher,Source1,4,35.434937,-82.429505,2022,16,Thursday,Rain,False,False,False,False,False,False,False
+A-4607698,NC,Henderson,Hendersonville,Source1,4,35.374742,-82.394185,2023,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4608415,NC,Henderson,Fletcher,Source1,4,35.433449,-82.495341,2023,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4638740,NC,Henderson,Flat Rock,Source1,4,35.274941,-82.442862,2022,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4676652,NC,Henderson,Mills River,Source1,4,35.430787,-82.574164,2022,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4705712,NC,Henderson,Flat Rock,Source1,4,35.256296,-82.409275,2023,17,Tuesday,Storm,False,False,False,False,False,False,False
+A-4724024,NC,Henderson,Fletcher,Source1,4,35.409108,-82.513728,2022,16,Monday,Rain,False,False,False,False,False,False,False
+A-4763955,NC,Henderson,Hendersonville,Source1,4,35.32886,-82.57460999999998,2022,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4778490,NC,Henderson,Mills River,Source1,4,35.40339,-82.568939,2022,17,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-4806815,NC,Henderson,Fletcher,Source1,4,35.432844,-82.521638,2022,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4815256,NC,Henderson,Hendersonville,Source1,4,35.37399,-82.525464,2023,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4821856,NC,Henderson,Hendersonville,Source1,4,35.25145300000001,-82.498719,2022,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4829866,NC,Henderson,Fletcher,Source1,4,35.43504799999999,-82.515642,2023,18,Monday,Rain,False,False,False,False,False,False,False
+A-4842178,NC,Henderson,Flat Rock,Source1,4,35.25788,-82.407546,2022,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4844073,NC,Henderson,Hendersonville,Source1,4,35.378025,-82.519764,2023,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-4879909,NC,Henderson,Hendersonville,Source1,4,35.324806,-82.503825,2022,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4897906,NC,Henderson,Flat Rock,Source1,4,35.282724,-82.442797,2022,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4900245,NC,Henderson,Flat Rock,Source1,4,35.284067,-82.443213,2023,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4904406,NC,Henderson,Flat Rock,Source1,4,35.281841,-82.442621,2022,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4930610,NC,Henderson,Etowah,Source1,4,35.316811,-82.600243,2022,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4938074,NC,Henderson,Flat Rock,Source1,4,35.258812,-82.407551,2023,17,Tuesday,Storm,False,False,False,False,False,False,False
+A-4941702,NC,Henderson,Hendersonville,Source1,4,35.40638900000001,-82.513184,2022,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4969465,NC,Henderson,Mills River,Source1,4,35.410993,-82.571545,2022,19,Monday,Clear / Fair,False,False,False,True,False,False,False
+A-5008174,NC,Henderson,East Flat Rock,Source1,4,35.2803,-82.421764,2022,12,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-5031244,NC,Henderson,Hendersonville,Source1,4,35.37684799999999,-82.47762,2022,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-5037750,NC,Henderson,Zirconia,Source1,4,35.180462,-82.447058,2022,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5106893,NC,Henderson,Hendersonville,Source1,4,35.373705,-82.39735,2023,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5144360,NC,Henderson,Fletcher,Source1,4,35.436725,-82.43385,2022,16,Thursday,Rain,False,False,False,False,False,False,False
+A-5175422,NC,Henderson,Fletcher,Source1,4,35.43183900000001,-82.525627,2022,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5181383,NC,Henderson,Mills River,Source1,4,35.387505,-82.56671899999998,2023,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5194390,NC,Henderson,Fletcher,Source1,4,35.43183900000001,-82.525627,2022,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5211660,NC,Henderson,Hendersonville,Source1,4,35.39975399999999,-82.509101,2023,9,Wednesday,Rain,False,False,False,False,False,False,False
+A-5237942,NC,Henderson,Hendersonville,Source1,4,35.333869,-82.414351,2023,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5275561,NC,Henderson,Hendersonville,Source1,4,35.371074,-82.53157900000002,2022,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5277227,NC,Henderson,Hendersonville,Source1,4,35.28739500000001,-82.444296,2023,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5280331,NC,Henderson,Hendersonville,Source1,4,35.240817,-82.583721,2023,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5285248,NC,Henderson,Etowah,Source1,4,35.31731,-82.59740699999998,2022,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5294427,NC,Henderson,Hendersonville,Source1,4,35.356367,-82.456852,2023,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5320855,NC,Henderson,Fletcher,Source1,4,35.435001,-82.519214,2023,18,Monday,Rain,False,False,False,False,False,False,False
+A-5330284,NC,Henderson,Hendersonville,Source1,4,35.341701,-82.440543,2022,11,Monday,Rain,False,False,True,False,False,False,False
+A-5358160,NC,Henderson,Flat Rock,Source1,4,35.315594,-82.41971600000002,2023,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5366003,NC,Henderson,Hendersonville,Source1,4,35.379783,-82.48293199999998,2022,17,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-5394268,NC,Henderson,Flat Rock,Source1,4,35.241888,-82.399311,2022,19,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5405858,NC,Henderson,Flat Rock,Source1,4,35.257371,-82.40770699999999,2022,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5432928,NC,Henderson,Hendersonville,Source1,4,35.351278,-82.430811,2022,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5448221,NC,Henderson,Flat Rock,Source1,4,35.256345,-82.407252,2022,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5458533,NC,Henderson,Fletcher,Source1,4,35.43982800000001,-82.535466,2023,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5481819,NC,Henderson,Flat Rock,Source1,4,35.307213,-82.376816,2021,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5568696,NC,Henderson,Fletcher,Source1,4,35.410113,-82.512916,2021,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5573488,NC,Henderson,Flat Rock,Source1,4,35.31316,-82.373408,2021,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5586267,NC,Henderson,Hendersonville,Source1,4,35.367542,-82.488383,2021,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-5619619,NC,Henderson,Hendersonville,Source1,4,35.351742,-82.408958,2021,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5639084,NC,Henderson,Horse Shoe,Source1,4,35.342985,-82.55671,2021,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-5647131,NC,Henderson,Flat Rock,Source1,4,35.31316,-82.373408,2021,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5677252,NC,Henderson,Saluda,Source1,4,35.204218,-82.373714,2021,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5725452,NC,Henderson,Hendersonville,Source1,4,35.35748800000001,-82.407485,2021,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5775079,NC,Henderson,Hendersonville,Source1,4,35.361768,-82.412407,2021,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5804194,NC,Henderson,Zirconia,Source1,4,35.209153,-82.46363000000002,2021,1,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5816451,NC,Henderson,Fletcher,Source1,4,35.409706,-82.513325,2021,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5823005,NC,Henderson,Zirconia,Source1,4,35.217042,-82.471177,2021,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-5836910,NC,Henderson,Flat Rock,Source1,4,35.253417,-82.407349,2021,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5858125,NC,Henderson,Mills River,Source1,4,35.391594,-82.568182,2021,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5878400,NC,Henderson,Hendersonville,Source1,4,35.369043,-82.40505300000002,2021,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5879628,NC,Henderson,Horse Shoe,Source1,4,35.342683,-82.55778000000002,2021,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-5881791,NC,Henderson,Zirconia,Source1,4,35.212394,-82.461853,2021,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5918109,NC,Henderson,Zirconia,Source1,4,35.235160589050125,-82.41796374281681,2021,14,Tuesday,Rain,False,False,False,False,False,False,False
+A-5974322,NC,Henderson,Mills River,Source1,4,35.35227800000001,-82.607446,2021,16,Sunday,Rain,False,False,False,False,False,False,False
+A-5977656,NC,Henderson,Hendersonville,Source1,4,35.37738203985511,-82.47847437819253,2021,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5985157,NC,Henderson,Zirconia,Source1,4,35.204448,-82.463977,2021,1,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6018160,NC,Henderson,Hendersonville,Source1,4,35.364001,-82.43894300000002,2021,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6035523,NC,Henderson,Hendersonville,Source1,4,35.40173499999999,-82.38610200000002,2021,16,Sunday,Rain,False,False,False,False,False,False,False
+A-6052976,NC,Henderson,Flat Rock,Source1,4,35.254572,-82.407276,2021,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6058893,NC,Henderson,Saluda,Source1,4,35.204424,-82.37225500000002,2021,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6068923,NC,Henderson,Hendersonville,Source1,4,35.36766400000001,-82.40622900000002,2021,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6084266,NC,Henderson,Hendersonville,Source1,4,35.356367,-82.456852,2021,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6108500,NC,Henderson,Zirconia,Source1,4,35.235160589050125,-82.41796374281681,2021,13,Tuesday,Rain,False,False,False,False,False,False,False
+A-6168804,NC,Henderson,Zirconia,Source1,4,35.235160589050125,-82.41796374281681,2021,13,Tuesday,Rain,False,False,False,False,False,False,False
+A-6213880,NC,Henderson,Hendersonville,Source1,4,35.366388,-82.486685,2021,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-6222419,NC,Henderson,Fletcher,Source1,4,35.42427700000001,-82.527974,2021,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6238087,NC,Henderson,Flat Rock,Source1,4,35.31377,-82.368889,2021,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6240951,NC,Henderson,Hendersonville,Source1,4,35.360702,-82.439339,2021,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6266020,NC,Henderson,Hendersonville,Source1,4,35.365915,-82.407692,2021,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6276152,NC,Henderson,Zirconia,Source1,4,35.192351,-82.494879,2021,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6307978,NC,Henderson,Hendersonville,Source1,4,35.398684,-82.388563,2021,16,Sunday,Rain,False,False,False,False,False,False,False
+A-6386702,NC,Henderson,Hendersonville,Source1,4,35.379783,-82.48293199999998,2021,4,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-6403817,NC,Henderson,Fletcher,Source1,4,35.40139,-82.509068,2021,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6416911,NC,Henderson,Hendersonville,Source1,4,35.346154,-82.441176,2021,22,Friday,Rain,False,False,False,False,False,False,False
+A-6507717,NC,Henderson,Hendersonville,Source1,4,35.347915,-82.443976,2021,22,Friday,Rain,False,False,False,False,False,False,False
+A-6521072,NC,Henderson,Mills River,Source1,4,35.416242,-82.573786,2021,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6556780,NC,Henderson,Mills River,Source1,4,35.414515,-82.572935,2021,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6628041,NC,Henderson,Fletcher,Source1,4,35.424267,-82.528234,2020,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6682471,NC,Henderson,Hendersonville,Source1,4,35.340603,-82.439936,2020,1,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-6702684,NC,Henderson,Hendersonville,Source1,4,35.339531,-82.43651,2020,1,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6719652,NC,Henderson,Hendersonville,Source1,4,35.266456,-82.503694,2020,3,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6789277,NC,Henderson,Hendersonville,Source1,4,35.400835,-82.51128299999998,2020,2,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6826388,NC,Henderson,Hendersonville,Source1,4,35.268621,-82.502832,2020,3,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6901485,NC,Henderson,Hendersonville,Source1,4,35.370978,-82.470933,2020,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7067476,NC,Henderson,Hendersonville,Source1,4,35.37686,-82.37080999999998,2020,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7067813,NC,Henderson,Hendersonville,Source1,4,35.37686,-82.37080999999998,2020,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7267387,NC,Henderson,Flat Rock,Source1,3,35.26394000000001,-82.40559,2020,5,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7466701,NC,Henderson,Hendersonville,Source1,4,35.45155,-82.28707,2019,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7506319,NC,Henderson,Fletcher,Source1,4,35.428756,-82.529472,2018,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7550320,NC,Henderson,Flat Rock,Source1,3,35.29469,-82.40469,2018,16,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7556490,NC,Henderson,Hendersonville,Source1,3,35.40084,-82.51131,2018,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7686635,NC,Henderson,Hendersonville,Source1,4,35.375797,-82.390054,2017,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7768242,NC,Henderson,Flat Rock,Source1,4,35.28527000000001,-82.40052,2019,11,Saturday,Clear / Fair,False,False,False,False,False,False,False

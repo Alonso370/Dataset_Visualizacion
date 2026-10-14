@@ -1,0 +1,414 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-521038,OR,Union,La Grande,Source2,3,45.350555,-118.170532,2022,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-573852,OR,Union,Union,Source2,3,45.213173,-118.025848,2022,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-574715,OR,Union,Elgin,Source2,3,45.5676,-117.943771,2022,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-582856,OR,Union,La Grande,Source2,3,45.31877100000001,-118.263748,2022,9,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-885126,OR,Union,La Grande,Source2,3,45.342033,-118.117615,2021,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-942816,OR,Union,North Powder,Source2,3,45.02597,-117.926346,2021,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-985036,OR,Union,Union,Source2,3,45.12392,-117.962738,2021,11,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-1135834,OR,Union,North Powder,Source2,4,45.02597,-117.926346,2021,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1138408,OR,Union,La Grande,Source2,3,45.372066,-118.297722,2021,17,Friday,Snow / Ice,False,False,False,True,False,False,False
+A-1151509,OR,Union,La Grande,Source2,3,45.292839,-118.034821,2021,17,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1186499,OR,Union,North Powder,Source2,3,45.025372,-117.927032,2021,10,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1186514,OR,Union,La Grande,Source2,3,45.329491,-118.072166,2021,10,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1196267,OR,Union,La Grande,Source2,3,45.342033,-118.117615,2021,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1196269,OR,Union,La Grande,Source2,3,45.342033,-118.117615,2021,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1210915,OR,Union,Union,Source2,3,45.12392,-117.962738,2020,9,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1390734,OR,Union,La Grande,Source2,3,45.34024,-118.11322,2020,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1399662,OR,Union,North Powder,Source2,3,45.18298,-117.987167,2020,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1549738,OR,Union,La Grande,Source2,3,45.372066,-118.297722,2020,4,Wednesday,Clear / Fair,False,False,False,True,False,False,False
+A-1577842,OR,Union,La Grande,Source2,3,45.372066,-118.297722,2020,10,Monday,Rain,False,False,False,True,False,False,False
+A-1587241,OR,Union,North Powder,Source2,3,45.025661,-117.925888,2020,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1600340,OR,Union,La Grande,Source2,3,45.34024,-118.11322,2020,4,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1631303,OR,Union,North Powder,Source2,3,45.02597,-117.926346,2020,15,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1744259,OR,Union,La Grande,Source2,3,45.342033,-118.117615,2019,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1756134,OR,Union,La Grande,Source2,3,45.342033,-118.117615,2019,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1780088,OR,Union,Union,Source2,3,45.12392,-117.962738,2019,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1849243,OR,Union,North Powder,Source2,3,45.02597,-117.926346,2019,11,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1868890,OR,Union,La Grande,Source3,3,45.343182,-118.230904,2019,15,Thursday,Rain,False,False,False,False,False,False,False
+A-1873000,OR,Union,La Grande,Source2,3,45.372066,-118.297722,2019,19,Sunday,Cloudy,False,False,False,True,False,False,False
+A-1906986,OR,Union,Elgin,Source2,3,45.601639,-117.768677,2019,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1948314,OR,Union,La Grande,Source2,3,45.342033,-118.117615,2019,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1948317,OR,Union,La Grande,Source2,3,45.342033,-118.117615,2019,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2000169,OR,Union,La Grande,Source2,3,45.342033,-118.117615,2019,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2048204,OR,Union,North Powder,Source2,3,45.027119,-117.926567,2019,16,Wednesday,Rain,False,False,False,False,False,False,False
+A-2050564,OR,Union,Union,Source2,3,45.12392,-117.962738,2019,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2072077,OR,Union,La Grande,Source2,3,45.329727,-118.070686,2019,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2209962,OR,Union,La Grande,Source2,3,45.293095,-118.03669,2019,5,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2263477,OR,Union,La Grande,Source2,3,45.29203,-118.0355,2019,11,Monday,Rain,False,False,False,False,False,False,False
+A-2263602,OR,Union,La Grande,Source2,3,45.330601,-118.069878,2019,11,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2263603,OR,Union,La Grande,Source2,3,45.34024,-118.11322,2019,11,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2278313,OR,Union,La Grande,Source2,3,45.34024,-118.11322,2019,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-2297779,OR,Union,La Grande,Source2,3,45.330601,-118.069878,2019,6,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2300324,OR,Union,La Grande,Source2,3,45.330601,-118.069878,2019,6,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2306001,OR,Union,La Grande,Source2,3,45.330601,-118.069878,2019,11,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2306002,OR,Union,La Grande,Source2,3,45.34024,-118.11322,2019,11,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2308348,OR,Union,La Grande,Source2,3,45.248047,-118.019104,2019,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2341392,OR,Union,La Grande,Source2,3,45.29203,-118.0355,2019,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2347449,OR,Union,La Grande,Source2,3,45.329491,-118.072166,2019,22,Friday,Rain,False,False,False,False,False,False,False
+A-2391881,OR,Union,La Grande,Source2,3,45.371918,-118.297577,2018,14,Tuesday,Rain,False,False,False,False,False,False,False
+A-2394198,OR,Union,La Grande,Source2,3,45.248047,-118.019104,2018,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2396624,OR,Union,La Grande,Source2,3,45.371918,-118.297577,2018,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2423171,OR,Union,North Powder,Source2,3,45.182663,-117.986839,2018,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2493465,OR,Union,La Grande,Source2,3,45.29398,-118.039482,2018,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2496391,OR,Union,La Grande,Source2,3,45.371967,-118.298386,2018,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2512411,OR,Union,La Grande,Source2,3,45.342285,-118.231476,2018,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2522488,OR,Union,La Grande,Source2,3,45.24728,-118.01944,2018,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2548639,OR,Union,North Powder,Source2,3,45.182713,-117.98716,2018,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2582988,OR,Union,North Powder,Source2,3,45.182713,-117.98716,2018,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2612361,OR,Union,Union,Source2,3,45.12390900000001,-117.963028,2018,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2612396,OR,Union,La Grande,Source2,3,45.34296,-118.118324,2018,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2685357,OR,Union,La Grande,Source2,3,45.331711,-118.072929,2018,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2701398,OR,Union,La Grande,Source2,3,45.371967,-118.298386,2018,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2717566,OR,Union,La Grande,Source2,3,45.342365,-118.118034,2018,5,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2724347,OR,Union,North Powder,Source2,3,45.206833,-118.021027,2018,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2741434,OR,Union,La Grande,Source2,3,45.29332700000001,-118.037369,2018,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2755134,OR,Union,La Grande,Source2,3,45.349659,-118.1698,2018,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2781852,OR,Union,North Powder,Source2,3,45.182713,-117.98716,2018,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2805600,OR,Union,North Powder,Source2,3,45.025528,-117.926361,2018,4,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2838225,OR,Union,La Grande,Source2,3,45.342285,-118.231476,2018,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-2848686,OR,Union,La Grande,Source2,3,45.342285,-118.231476,2018,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2856760,OR,Union,La Grande,Source2,3,45.346004,-118.156136,2018,12,Wednesday,Rain,False,False,False,False,False,False,False
+A-2871453,OR,Union,La Grande,Source2,3,45.342365,-118.118034,2018,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2871454,OR,Union,La Grande,Source2,3,45.349659,-118.1698,2018,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2877078,OR,Union,Union,Source2,3,45.12390900000001,-117.963028,2018,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2921545,OR,Union,La Grande,Source2,3,45.330463,-118.07003,2018,18,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2921546,OR,Union,La Grande,Source2,3,45.341881,-118.117165,2018,18,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2942917,OR,Union,Union,Source2,3,45.12390900000001,-117.963028,2018,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2948376,OR,Union,La Grande,Source2,3,45.248306,-118.019455,2018,5,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2952153,OR,Union,La Grande,Source2,3,45.331711,-118.072929,2018,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2952853,OR,Union,La Grande,Source2,3,45.371967,-118.298386,2018,6,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3018850,OR,Union,La Grande,Source2,3,45.294872,-118.038017,2018,8,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-3066116,OR,Union,North Powder,Source2,3,45.025528,-117.926361,2018,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3090774,OR,Union,La Grande,Source2,3,45.29398,-118.039482,2018,7,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-3166934,OR,Union,La Grande,Source2,3,45.214886,-118.024918,2017,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-3170420,OR,Union,North Powder,Source2,3,45.026611,-117.926163,2017,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-3170507,OR,Union,La Grande,Source2,3,45.330463,-118.07003,2017,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-3192432,OR,Union,La Grande,Source2,3,45.346004,-118.156136,2017,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-3199293,OR,Union,La Grande,Source2,3,45.349659,-118.1698,2017,9,Tuesday,Rain,False,False,False,False,False,False,False
+A-3263187,OR,Union,La Grande,Source2,3,45.342285,-118.231476,2017,16,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3327927,OR,Union,La Grande,Source2,3,45.331711,-118.072929,2017,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-3358522,OR,Union,La Grande,Source2,3,45.371967,-118.298386,2017,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3394374,OR,Union,La Grande,Source2,3,45.342365,-118.118034,2017,13,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-3525869,OR,Union,North Powder,Source1,4,45.12052,-117.96124,2016,14,Friday,Snow / Ice,False,False,True,False,False,False,False
+A-3526066,OR,Union,Elgin,Source1,4,45.617216,-117.730836,2016,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-3526612,OR,Union,La Grande,Source1,3,45.37076,-118.2957,2016,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3528217,OR,Union,La Grande,Source1,4,45.29436,-118.0378,2016,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-3530549,OR,Union,La Grande,Source1,4,45.29502,-118.03807,2017,16,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-3544404,OR,Union,La Grande,Source1,3,45.34616,-118.15788,2016,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-3549829,OR,Union,La Grande,Source1,4,45.37384,-118.30116,2016,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3553014,OR,Union,La Grande,Source1,4,45.34625,-118.125492,2016,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3553015,OR,Union,La Grande,Source1,4,45.294769,-118.037429,2016,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3553022,OR,Union,La Grande,Source1,4,45.3525,-118.17352,2016,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3553025,OR,Union,La Grande,Source1,4,45.34947,-118.21238999999998,2016,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3553027,OR,Union,La Grande,Source1,4,45.346272,-118.12571,2016,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3554286,OR,Union,La Grande,Source1,4,45.3623,-118.00273,2016,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-3554287,OR,Union,Cove,Source1,4,45.38406,-117.98821,2016,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-3556165,OR,Union,La Grande,Source1,3,45.34611,-118.15085,2016,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3556435,OR,Union,La Grande,Source1,4,45.28897,-118.03512,2016,0,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-3564200,OR,Union,North Powder,Source1,4,45.088874,-117.950025,2017,9,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3564201,OR,Union,North Powder,Source1,4,45.02474,-117.92541,2017,9,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3589022,OR,Union,Union,Source1,4,45.24577,-118.01795,2017,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3589201,OR,Union,La Grande,Source1,4,45.37224000000001,-118.29866,2017,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3590107,OR,Union,La Grande,Source1,3,45.401476,-118.336136,2017,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-3590112,OR,Union,La Grande,Source1,3,45.37076,-118.2957,2017,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-3620016,OR,Union,North Powder,Source1,4,45.02739,-117.92734,2017,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3620923,OR,Union,La Grande,Source1,4,45.33163,-118.0722,2017,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3745579,OR,Union,La Grande,Source1,4,45.34258246400193,-118.22768568936245,2022,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-3839184,OR,Union,La Grande,Source1,4,45.325851,-118.066959,2021,5,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3898424,OR,Union,Elgin,Source1,4,45.762421,-118.063523,2022,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-3933395,OR,Union,North Powder,Source1,4,45.057667493605344,-117.94152617398288,2022,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-3952922,OR,Union,Elgin,Source1,4,45.570554,-117.989077,2022,8,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3958837,OR,Union,Union,Source1,4,45.232075,-118.012508,2022,11,Friday,Rain,False,False,True,False,False,False,False
+A-3964430,OR,Union,North Powder,Source1,4,45.02812027909742,-117.9272139066795,2022,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-3964814,OR,Union,La Grande,Source1,4,45.428266,-118.357303,2022,2,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3981520,OR,Union,La Grande,Source1,4,45.323495,-118.24576,2022,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4004202,OR,Union,La Grande,Source1,4,45.28904557,-118.03518891,2022,13,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-4042253,OR,Union,La Grande,Source1,4,45.289045572064936,-118.0351889127825,2022,12,Thursday,Rain,False,False,True,False,False,False,False
+A-4064375,OR,Union,La Grande,Source1,4,45.353819,-118.255544,2022,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4108801,OR,Union,La Grande,Source1,4,45.293758,-118.037056,2021,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-4135711,OR,Union,Union,Source1,4,45.12764096238552,-117.96377777997034,2022,20,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-4151823,OR,Union,La Grande,Source1,4,45.345729,-118.152475,2022,18,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-4191603,OR,Union,North Powder,Source1,4,45.057667493605344,-117.94152617398288,2022,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4238595,OR,Union,Union,Source1,4,45.12764096238552,-117.96377777997034,2022,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4277255,OR,Union,La Grande,Source1,4,45.373698,-118.300832,2022,9,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-4295925,OR,Union,La Grande,Source1,4,45.388845,-118.319478,2022,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4315849,OR,Union,La Grande,Source1,4,45.271621,-118.366045,2022,8,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4317011,OR,Union,La Grande,Source1,4,45.29515,-118.038127,2022,19,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-4352660,OR,Union,Elgin,Source1,4,45.75774000000001,-118.055142,2022,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-4517630,OR,Union,Imbler,Source1,4,45.464095,-117.961926,2022,13,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-4562659,OR,Union,Union,Source1,4,45.180397,-117.984172,2022,11,Friday,Rain,False,False,False,False,False,False,False
+A-4571361,OR,Union,La Grande,Source1,4,45.343097,-118.235169,2022,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4573381,OR,Union,La Grande,Source1,4,45.33166050889336,-118.07286858502351,2022,12,Monday,Cloudy,False,False,True,False,False,False,False
+A-4576171,OR,Union,La Grande,Source1,4,45.34258246400193,-118.22768568936245,2022,9,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-4586379,OR,Union,Union,Source1,4,45.180397,-117.984172,2022,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4660257,OR,Union,North Powder,Source1,4,45.060206,-117.942566,2022,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-4677762,OR,Union,Elgin,Source1,4,45.62882781006989,-118.01643490735044,2022,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-4699192,OR,Union,La Grande,Source1,4,45.293758,-118.037056,2022,9,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-4707659,OR,Union,La Grande,Source1,4,45.293744802259,-118.03703427258472,2022,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4715826,OR,Union,Union,Source1,4,45.12764096238552,-117.96377777997034,2022,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4726191,OR,Union,La Grande,Source1,4,45.365569,-118.281607,2022,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-4758424,OR,Union,La Grande,Source1,4,45.329597,-118.238249,2022,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4762043,OR,Union,La Grande,Source1,4,45.3515,-118.171031,2022,12,Monday,Cloudy,False,False,True,False,False,False,False
+A-4774116,OR,Union,La Grande,Source1,4,45.28875900000001,-118.035072,2022,18,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-4774117,OR,Union,La Grande,Source1,4,45.293893,-118.03710900000002,2022,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4815552,OR,Union,Union,Source1,4,45.207648,-118.02178700000002,2022,20,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-4839827,OR,Union,La Grande,Source1,4,45.33155322053274,-118.07213902417148,2022,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4844392,OR,Union,Elgin,Source1,4,45.615992,-117.729892,2022,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4894140,OR,Union,Imbler,Source1,4,45.464109,-117.963961,2022,13,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-4914538,OR,Union,La Grande,Source1,4,45.293758,-118.037056,2022,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4956945,OR,Union,La Grande,Source1,4,45.279322,-118.03131,2022,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4972649,OR,Union,Union,Source1,4,45.18574833848389,-117.98974156323436,2022,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4985827,OR,Union,Elgin,Source1,4,45.6432,-118.019554,2022,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4998997,OR,Union,North Powder,Source1,4,45.057667493605344,-117.94152617398288,2022,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4999330,OR,Union,Union,Source1,4,45.232075,-118.012508,2022,12,Thursday,Rain,False,False,True,False,False,False,False
+A-5017107,OR,Union,Elgin,Source1,4,45.662877,-118.030018,2022,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5019145,OR,Union,La Grande,Source1,4,45.343097,-118.235169,2021,5,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-5048290,OR,Union,North Powder,Source1,4,45.057667493605344,-117.94152617398288,2022,6,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-5060595,OR,Union,Union,Source1,4,45.18574833848389,-117.98974156323436,2022,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5072546,OR,Union,La Grande,Source1,4,45.33166050889336,-118.07286858502351,2022,12,Monday,Cloudy,False,False,True,False,False,False,False
+A-5074204,OR,Union,Union,Source1,4,45.18574833848389,-117.98974156323436,2022,18,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-5097172,OR,Union,La Grande,Source1,4,45.289059,-118.035193,2022,12,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-5154027,OR,Union,La Grande,Source1,4,45.25138735749602,-118.02016854229916,2022,23,Monday,Rain,False,False,False,False,False,False,False
+A-5193358,OR,Union,North Powder,Source1,4,45.12053847291411,-117.96124577466028,2022,12,Thursday,Snow / Ice,False,False,True,False,False,False,False
+A-5198747,OR,Union,La Grande,Source1,4,45.327454,-118.068591,2022,9,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-5211720,OR,Union,North Powder,Source1,4,45.02812027909742,-117.9272139066795,2022,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-5281437,OR,Union,La Grande,Source1,4,45.34344077088669,-118.12080502453745,2022,12,Thursday,Rain,False,False,True,False,False,False,False
+A-5324121,OR,Union,La Grande,Source1,4,45.293758,-118.037056,2022,18,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-5343441,OR,Union,La Grande,Source1,4,45.35097241380047,-118.17037224713243,2021,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-5348793,OR,Union,La Grande,Source1,4,45.343097,-118.235169,2021,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-5351479,OR,Union,Union,Source1,4,45.232075,-118.012508,2022,0,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-5379046,OR,Union,La Grande,Source1,4,45.373698,-118.300832,2022,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5419226,OR,Union,La Grande,Source1,4,45.29516100861886,-118.03810715619068,2022,12,Monday,Cloudy,False,False,True,False,False,False,False
+A-5429020,OR,Union,La Grande,Source1,4,45.34588695,-118.22395205,2022,13,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-5446300,OR,Union,North Powder,Source1,4,45.057667493605344,-117.94152617398288,2022,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5461506,OR,Union,North Powder,Source1,4,45.05767,-117.941532,2022,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5496430,OR,Union,La Grande,Source1,4,45.345995,-118.151274,2021,12,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-5501354,OR,Union,La Grande,Source1,4,45.294455,-118.037832,2021,17,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-5557723,OR,Union,La Grande,Source1,4,45.289059,-118.035193,2021,11,Sunday,Cloudy,False,False,True,False,False,False,False
+A-5615147,OR,Union,Union,Source1,4,45.180397,-117.984172,2021,20,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-5687206,OR,Union,La Grande,Source1,4,45.34552216508224,-118.12962412777836,2021,10,Sunday,Rain,False,False,False,False,False,False,False
+A-5706195,OR,Union,North Powder,Source1,4,45.152947,-117.972002,2021,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5727645,OR,Union,La Grande,Source1,4,45.29515,-118.038127,2021,17,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-5750928,OR,Union,North Powder,Source1,4,45.049119,-117.938389,2021,17,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-5772822,OR,Union,La Grande,Source1,4,45.30382,-118.044578,2021,7,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-5805423,OR,Union,North Powder,Source1,4,45.02354979493607,-117.92478918973003,2021,9,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-5836744,OR,Union,La Grande,Source1,4,45.292374,-118.03458700000002,2021,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5842946,OR,Union,La Grande,Source1,4,45.343097,-118.235169,2021,12,Sunday,Rain,False,False,False,False,False,False,False
+A-5857422,OR,Union,La Grande,Source1,4,45.342587,-118.227702,2021,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-5865974,OR,Union,La Grande,Source1,4,45.3515,-118.171031,2021,18,Monday,Rain,False,False,True,False,False,False,False
+A-5944744,OR,Union,La Grande,Source1,4,45.343097,-118.235169,2021,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5957334,OR,Union,La Grande,Source1,4,45.289059,-118.035193,2021,21,Monday,Cloudy,False,False,True,False,False,False,False
+A-5957335,OR,Union,La Grande,Source1,4,45.289045572064936,-118.0351889127825,2021,21,Monday,Cloudy,False,False,True,False,False,False,False
+A-5963359,OR,Union,La Grande,Source1,4,45.289059,-118.035193,2021,10,Sunday,Rain,False,False,True,False,False,False,False
+A-5967237,OR,Union,La Grande,Source1,4,45.289045572064936,-118.0351889127825,2021,8,Monday,Cloudy,False,False,True,False,False,False,False
+A-5991508,OR,Union,La Grande,Source1,4,45.345715284131295,-118.15245509091304,2021,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-5992537,OR,Union,La Grande,Source1,4,45.327454,-118.068591,2021,17,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-5998598,OR,Union,North Powder,Source1,4,45.02812027909742,-117.9272139066795,2021,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-6010131,OR,Union,La Grande,Source1,4,45.425587,-118.354526,2021,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6055577,OR,Union,La Grande,Source1,4,45.343097,-118.235169,2021,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6061507,OR,Union,La Grande,Source1,4,45.33166050889336,-118.07286858502351,2021,10,Friday,Cloudy,False,False,True,False,False,False,False
+A-6073661,OR,Union,La Grande,Source1,4,45.343097,-118.235169,2021,1,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6089600,OR,Union,La Grande,Source1,4,45.293758,-118.037056,2021,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6094671,OR,Union,Union,Source1,4,45.144188,-117.96966,2021,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-6112258,OR,Union,La Grande,Source1,4,45.34344077088669,-118.12080502453745,2021,21,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-6190226,OR,Union,La Grande,Source1,4,45.34258246400193,-118.22768568936245,2021,7,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-6197437,OR,Union,La Grande,Source1,4,45.373698,-118.300832,2021,1,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6236335,OR,Union,La Grande,Source1,4,45.373698,-118.300832,2021,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6268195,OR,Union,La Grande,Source1,4,45.25138735749602,-118.02016854229916,2021,9,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-6304696,OR,Union,North Powder,Source1,4,45.022959,-117.92502,2021,17,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-6307054,OR,Union,La Grande,Source1,4,45.345896,-118.223962,2021,12,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-6307743,OR,Union,La Grande,Source1,4,45.371969,-118.298388,2021,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6311729,OR,Union,La Grande,Source1,4,45.343097,-118.235169,2021,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-6337118,OR,Union,La Grande,Source1,4,45.373698,-118.300832,2021,11,Monday,Other,False,False,False,False,False,False,False
+A-6344946,OR,Union,La Grande,Source1,4,45.293758,-118.037056,2021,16,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-6355835,OR,Union,La Grande,Source1,4,45.34309744813279,-118.23515295925982,2021,23,Monday,Rain,False,False,False,False,False,False,False
+A-6357156,OR,Union,Elgin,Source1,4,45.567655,-117.944546,2021,9,Tuesday,Rain,False,False,False,False,False,False,False
+A-6357578,OR,Union,Union,Source1,4,45.12762,-117.963783,2021,6,Tuesday,Rain,False,False,False,False,False,False,False
+A-6374299,OR,Union,La Grande,Source1,4,45.29515,-118.038127,2021,20,Thursday,Cloudy,False,False,True,False,False,False,False
+A-6399536,OR,Union,La Grande,Source1,4,45.369827,-118.293914,2021,16,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-6412585,OR,Union,La Grande,Source1,4,45.345896,-118.223962,2021,19,Tuesday,Snow / Ice,False,False,True,False,False,False,False
+A-6412766,OR,Union,La Grande,Source1,4,45.425587,-118.354526,2021,20,Tuesday,Rain,False,False,False,False,False,False,False
+A-6416419,OR,Union,North Powder,Source1,4,45.02812,-117.927213,2021,19,Tuesday,Rain,False,False,False,False,False,False,False
+A-6416798,OR,Union,La Grande,Source1,4,45.343097,-118.235169,2021,5,Tuesday,Rain,False,False,False,False,False,False,False
+A-6419588,OR,Union,Elgin,Source1,4,45.567655,-117.944546,2021,9,Tuesday,Rain,False,False,False,False,False,False,False
+A-6466067,OR,Union,Union,Source1,4,45.185754,-117.98976,2021,19,Tuesday,Rain,False,False,False,False,False,False,False
+A-6472400,OR,Union,La Grande,Source1,4,45.293758,-118.037056,2021,23,Monday,Rain,False,False,False,False,False,False,False
+A-6476317,OR,Union,La Grande,Source1,4,45.34258246400193,-118.22768568936245,2021,16,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-6519065,OR,Union,Elgin,Source1,4,45.762734,-118.06365900000002,2021,9,Tuesday,Rain,False,False,False,False,False,False,False
+A-6522064,OR,Union,Elgin,Source1,4,45.567655,-117.944546,2021,9,Tuesday,Rain,False,False,False,False,False,False,False
+A-6605046,OR,Union,Elgin,Source1,4,45.701027,-118.037519,2020,15,Friday,Rain,False,False,False,False,False,False,False
+A-6679976,OR,Union,Elgin,Source1,4,45.628827,-118.016434,2020,23,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6685679,OR,Union,La Grande,Source1,4,45.369827,-118.293914,2020,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-6741443,OR,Union,La Grande,Source1,4,45.344148,-118.121169,2020,4,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6824358,OR,Union,Elgin,Source1,4,45.701027,-118.037519,2020,20,Sunday,Sin dato,False,False,False,False,False,False,False
+A-6833436,OR,Union,Elgin,Source1,4,45.567072,-117.972961,2020,20,Sunday,Sin dato,False,False,False,False,False,False,False
+A-6837224,OR,Union,La Grande,Source1,4,45.295161,-118.038107,2020,15,Friday,Cloudy,False,False,True,False,False,False,False
+A-6888893,OR,Union,La Grande,Source1,4,45.293758,-118.037056,2020,4,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7010906,OR,Union,La Grande,Source1,3,45.33923,-118.23868,2020,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7076165,OR,Union,La Grande,Source1,4,45.29361,-118.03694,2020,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-7208301,OR,Union,Elgin,Source1,3,45.62062,-118.01398,2020,3,Monday,Cloudy,False,False,False,False,False,False,False
+A-7216885,OR,Union,La Grande,Source1,3,45.29378,-118.03757,2020,17,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-7216890,OR,Union,La Grande,Source1,4,45.29502,-118.03807,2020,21,Friday,Cloudy,False,False,True,False,False,False,False
+A-7216893,OR,Union,Union,Source1,4,45.18478,-117.98872,2020,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-7219225,OR,Union,La Grande,Source1,3,45.29375,-118.037,2020,6,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-7219227,OR,Union,La Grande,Source1,4,45.29375,-118.037,2020,6,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-7222211,OR,Union,La Grande,Source1,4,45.25134,-118.02015,2020,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7222228,OR,Union,La Grande,Source1,4,45.34039,-118.0858,2020,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7222261,OR,Union,La Grande,Source1,4,45.34382,-118.12047,2020,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7223652,OR,Union,La Grande,Source1,4,45.29375,-118.037,2020,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7223684,OR,Union,La Grande,Source1,4,45.29375,-118.037,2020,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7223698,OR,Union,La Grande,Source1,4,45.37457,-118.30198,2020,14,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7229260,OR,Union,La Grande,Source1,3,45.29375,-118.037,2020,3,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7239767,OR,Union,La Grande,Source1,3,45.29375,-118.037,2020,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7239774,OR,Union,La Grande,Source1,4,45.29437,-118.03726,2020,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-7243535,OR,Union,La Grande,Source1,3,45.29375,-118.037,2020,1,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7243540,OR,Union,La Grande,Source1,4,45.28897,-118.03512,2020,3,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7243542,OR,Union,La Grande,Source1,4,45.28897,-118.03512,2020,4,Thursday,Fog / Low visibility,False,False,True,False,False,False,False
+A-7250385,OR,Union,La Grande,Source1,3,45.29378,-118.03757,2020,8,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7250395,OR,Union,La Grande,Source1,4,45.29502,-118.03807,2020,9,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-7252174,OR,Union,Elgin,Source1,3,45.56725,-117.97364,2020,11,Thursday,Rain,False,False,False,False,False,False,False
+A-7252177,OR,Union,Summerville,Source1,4,45.56543,-117.98374,2020,21,Thursday,Rain,False,False,False,False,False,False,False
+A-7252178,OR,Union,La Grande,Source1,3,45.31805,-118.26686,2020,11,Thursday,Rain,False,False,False,False,False,False,False
+A-7252228,OR,Union,La Grande,Source1,3,45.27155,-118.36542,2020,17,Thursday,Rain,False,False,False,False,False,False,False
+A-7252232,OR,Union,Elgin,Source1,4,45.56753,-117.94316,2020,21,Thursday,Rain,False,False,False,False,False,False,False
+A-7253729,OR,Union,La Grande,Source1,4,45.34382,-118.12047,2020,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-7253748,OR,Union,Elgin,Source1,4,45.56753,-117.94316,2020,13,Friday,Rain,False,False,False,False,False,False,False
+A-7253781,OR,Union,Elgin,Source1,4,45.56753,-117.94316,2020,13,Friday,Rain,False,False,False,False,False,False,False
+A-7253782,OR,Union,Summerville,Source1,4,45.56543,-117.98374,2020,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-7253790,OR,Union,Elgin,Source1,4,45.56753,-117.94316,2020,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-7253819,OR,Union,Elgin,Source1,4,45.56753,-117.94316,2020,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-7254938,OR,Union,Elgin,Source1,3,45.70314000000001,-118.03563,2020,22,Thursday,Rain,False,False,False,False,False,False,False
+A-7256051,OR,Union,Elgin,Source1,4,45.69383,-118.04044,2020,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7258768,OR,Union,Elgin,Source1,4,45.70483,-118.03411,2020,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7261574,OR,Union,Elgin,Source1,4,45.70483,-118.03411,2020,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7261575,OR,Union,Elgin,Source1,4,45.70483,-118.03411,2020,21,Thursday,Rain,False,False,False,False,False,False,False
+A-7261579,OR,Union,Elgin,Source1,3,45.70314000000001,-118.03563,2020,22,Thursday,Rain,False,False,False,False,False,False,False
+A-7261580,OR,Union,Elgin,Source1,4,45.70483,-118.03411,2020,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7264314,OR,Union,Elgin,Source1,4,45.70483,-118.03411,2020,21,Saturday,Rain,False,False,False,False,False,False,False
+A-7265286,OR,Union,Elgin,Source1,4,45.70483,-118.03411,2020,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7265325,OR,Union,Elgin,Source1,4,45.70483,-118.03411,2020,21,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-7266574,OR,Union,Elgin,Source1,4,45.70483,-118.03411,2020,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7267963,OR,Union,Elgin,Source1,4,45.70483,-118.03411,2020,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7272541,OR,Union,La Grande,Source1,3,45.29378,-118.03757,2020,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7273413,OR,Union,La Grande,Source1,3,45.29375,-118.037,2020,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7273417,OR,Union,Elgin,Source1,4,45.57058,-117.98907,2020,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7314423,OR,Union,La Grande,Source1,3,45.34554,-118.16091000000002,2019,18,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-7314426,OR,Union,La Grande,Source1,3,45.36474000000001,-118.27909,2019,18,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-7314427,OR,Union,La Grande,Source1,4,45.34322,-118.22672,2019,19,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-7314433,OR,Union,La Grande,Source1,4,45.34322,-118.22672,2019,19,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-7314438,OR,Union,La Grande,Source1,4,45.34322,-118.22672,2019,19,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-7320895,OR,Union,La Grande,Source1,4,45.29477,-118.03743,2019,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7320927,OR,Union,La Grande,Source1,4,45.29477,-118.03743,2019,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7334000,OR,Union,La Grande,Source1,3,45.29361,-118.03694,2019,8,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7334003,OR,Union,La Grande,Source1,4,45.29077,-118.03585,2019,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7347161,OR,Union,Elgin,Source1,3,45.68067,-118.04074,2019,14,Saturday,Rain,False,False,False,False,False,False,False
+A-7347170,OR,Union,Summerville,Source1,3,45.56962,-117.9892,2019,16,Saturday,Rain,False,False,False,False,False,False,False
+A-7347191,OR,Union,Elgin,Source1,4,45.58856,-117.9983,2019,20,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7347196,OR,Union,Elgin,Source1,4,45.58856,-117.9983,2019,20,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7347197,OR,Union,Elgin,Source1,4,45.58856,-117.9983,2019,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7348128,OR,Union,Elgin,Source1,4,45.58856,-117.9983,2019,3,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7348132,OR,Union,Elgin,Source1,4,45.58856,-117.9983,2019,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7383996,OR,Union,La Grande,Source1,3,45.36474000000001,-118.27909,2019,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7414975,OR,Union,Elgin,Source1,3,45.59744600000001,-117.752108,2019,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7414977,OR,Union,Elgin,Source1,4,45.60223,-117.76718,2019,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7422269,OR,Union,La Grande,Source1,4,45.28897,-118.03512,2019,21,Sunday,Cloudy,False,False,True,False,False,False,False
+A-7422272,OR,Union,La Grande,Source1,4,45.34024,-118.11322,2019,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7422273,OR,Union,La Grande,Source1,4,45.28897,-118.03512,2019,21,Sunday,Cloudy,False,False,True,False,False,False,False
+A-7422277,OR,Union,La Grande,Source1,4,45.28897,-118.03512,2019,23,Sunday,Cloudy,False,False,True,False,False,False,False
+A-7425295,OR,Union,La Grande,Source1,4,45.28897,-118.03512,2019,2,Saturday,Snow / Ice,False,False,True,False,False,False,False
+A-7437428,OR,Union,La Grande,Source1,3,45.29361,-118.03694,2019,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7437429,OR,Union,La Grande,Source1,4,45.346227,-118.22336,2019,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7440059,OR,Union,La Grande,Source1,3,45.29361,-118.03694,2019,11,Monday,Rain,False,False,False,False,False,False,False
+A-7440060,OR,Union,La Grande,Source1,4,45.29437,-118.03726,2019,11,Monday,Rain,False,False,False,False,False,False,False
+A-7440091,OR,Union,La Grande,Source1,3,45.28897,-118.03512,2019,13,Monday,Snow / Ice,False,False,True,False,False,False,False
+A-7440125,OR,Union,La Grande,Source1,3,45.28897,-118.03512,2019,15,Monday,Rain,False,False,True,False,False,False,False
+A-7440152,OR,Union,La Grande,Source1,3,45.28897,-118.03512,2019,17,Monday,Snow / Ice,False,False,True,False,False,False,False
+A-7440205,OR,Union,La Grande,Source1,4,45.29477,-118.03743,2019,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-7440218,OR,Union,La Grande,Source1,4,45.29437,-118.03726,2019,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-7444940,OR,Union,La Grande,Source1,3,45.386023,-118.31529,2019,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-7444941,OR,Union,La Grande,Source1,3,45.37076,-118.2957,2019,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-7444942,OR,Union,La Grande,Source1,3,45.29361,-118.03694,2019,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-7446722,OR,Union,La Grande,Source1,3,45.29361,-118.03694,2019,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7448477,OR,Union,La Grande,Source1,3,45.34848,-118.206611,2019,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7450571,OR,Union,La Grande,Source1,3,45.29361,-118.03694,2019,5,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7450573,OR,Union,La Grande,Source1,4,45.29558,-118.03777,2019,6,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7450611,OR,Union,La Grande,Source1,4,45.29558,-118.03777,2019,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7451293,OR,Union,La Grande,Source1,3,45.29361,-118.03694,2019,6,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-7451296,OR,Union,La Grande,Source1,4,45.346199,-118.12523600000002,2019,6,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-7451297,OR,Union,La Grande,Source1,4,45.333219,-118.073829,2019,6,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-7451298,OR,Union,La Grande,Source1,4,45.29499000000001,-118.03752,2019,6,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-7451306,OR,Union,La Grande,Source1,4,45.29499000000001,-118.03752,2019,8,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-7452618,OR,Union,North Powder,Source1,3,45.04412,-117.93615,2019,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7452767,OR,Union,La Grande,Source1,3,45.29361,-118.03694,2019,16,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-7452841,OR,Union,La Grande,Source1,3,45.353931,-118.185371,2019,16,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-7453574,OR,Union,La Grande,Source1,3,45.2949,-118.03802,2019,10,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-7453683,OR,Union,La Grande,Source1,4,45.34382,-118.12047,2019,13,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-7453751,OR,Union,La Grande,Source1,4,45.34382,-118.12047,2019,15,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-7454396,OR,Union,La Grande,Source1,3,45.23837,-118.01552,2019,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7462791,OR,Union,La Grande,Source1,4,45.346199,-118.12523600000002,2019,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-7462793,OR,Union,La Grande,Source1,4,45.343991,-118.120833,2019,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-7462794,OR,Union,La Grande,Source1,4,45.29361,-118.03694,2019,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-7462803,OR,Union,La Grande,Source1,4,45.343991,-118.120834,2019,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7464271,OR,Union,La Grande,Source1,3,45.29361,-118.03694,2019,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7464273,OR,Union,La Grande,Source1,4,45.333219,-118.073829,2019,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7464274,OR,Union,La Grande,Source1,4,45.29437,-118.03726,2019,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7464275,OR,Union,La Grande,Source1,4,45.346199,-118.12523600000002,2019,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7466158,OR,Union,La Grande,Source1,4,45.2949,-118.03802,2019,22,Friday,Rain,False,False,False,False,False,False,False
+A-7466166,OR,Union,La Grande,Source1,3,45.29361,-118.03694,2019,23,Friday,Cloudy,False,False,False,False,False,False,False
+A-7466167,OR,Union,La Grande,Source1,4,45.29502,-118.03807,2019,23,Friday,Cloudy,False,False,True,False,False,False,False
+A-7466170,OR,Union,La Grande,Source1,4,45.28897,-118.03512,2019,23,Friday,Cloudy,False,False,True,False,False,False,False
+A-7466172,OR,Union,La Grande,Source1,3,45.386023,-118.31529,2019,22,Friday,Rain,False,False,False,False,False,False,False
+A-7466187,OR,Union,La Grande,Source1,4,45.370446,-118.294899,2019,2,Saturday,Rain,False,False,True,False,False,False,False
+A-7467707,OR,Union,North Powder,Source1,3,45.04412,-117.93615,2019,21,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-7468379,OR,Union,Union,Source1,4,45.189756,-117.997102,2019,13,Wednesday,Rain,False,False,False,False,False,False,False
+A-7474011,OR,Union,La Grande,Source1,3,45.29361,-118.03694,2018,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7474030,OR,Union,La Grande,Source1,4,45.28897,-118.03512,2018,20,Sunday,Cloudy,False,False,True,False,False,False,False
+A-7474031,OR,Union,La Grande,Source1,4,45.28897,-118.03512,2018,20,Sunday,Cloudy,False,False,True,False,False,False,False
+A-7479707,OR,Union,La Grande,Source1,3,45.29361,-118.03694,2018,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7479712,OR,Union,La Grande,Source1,4,45.34024,-118.11322,2018,19,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7484465,OR,Union,La Grande,Source1,3,45.29361,-118.03694,2018,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7484474,OR,Union,La Grande,Source1,4,45.294818,-118.03745,2018,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7488815,OR,Union,Elgin,Source1,3,45.76221,-118.063467,2018,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-7489603,OR,Union,La Grande,Source1,3,45.378629,-118.305909,2018,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7517095,OR,Union,Elgin,Source1,3,45.566605,-117.971546,2018,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7517806,OR,Union,La Grande,Source1,3,45.349982,-118.169796,2018,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7517807,OR,Union,La Grande,Source1,3,45.34322,-118.22672,2018,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7517809,OR,Union,La Grande,Source1,3,45.34322,-118.22672,2018,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7517813,OR,Union,La Grande,Source1,3,45.34322,-118.22672,2018,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7517829,OR,Union,La Grande,Source1,3,45.34322,-118.22672,2018,16,Wednesday,Rain,False,False,False,False,False,False,False
+A-7520410,OR,Union,La Grande,Source1,3,45.2949,-118.03802,2018,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7527770,OR,Union,La Grande,Source1,4,45.346017,-118.125058,2018,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7527771,OR,Union,La Grande,Source1,4,45.346199,-118.12523600000002,2018,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7527774,OR,Union,La Grande,Source1,4,45.346017,-118.125058,2018,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7537778,OR,Union,La Grande,Source1,4,45.29482,-118.03798,2018,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7537780,OR,Union,La Grande,Source1,4,45.29482,-118.03798,2018,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7537792,OR,Union,La Grande,Source1,4,45.29051,-118.03628,2018,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7542125,OR,Union,La Grande,Source1,3,45.25284,-118.02075,2018,3,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7543852,OR,Union,North Powder,Source1,4,45.025144,-117.926161,2018,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7579617,OR,Union,La Grande,Source1,4,45.29502,-118.03807,2018,2,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-7579618,OR,Union,North Powder,Source1,4,45.0264,-117.92682,2018,3,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7601227,OR,Union,La Grande,Source1,4,45.28897,-118.03512,2018,22,Saturday,Cloudy,False,False,True,False,False,False,False
+A-7623219,OR,Union,La Grande,Source1,3,45.29267,-118.03713,2018,4,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7654741,OR,Union,La Grande,Source1,4,45.29502,-118.03807,2017,10,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-7656144,OR,Union,La Grande,Source1,4,45.33163,-118.0722,2017,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-7656145,OR,Union,La Grande,Source1,4,45.28897,-118.03512,2017,4,Monday,Cloudy,False,False,True,False,False,False,False
+A-7660782,OR,Union,La Grande,Source1,4,45.294598,-118.037354,2017,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7660784,OR,Union,La Grande,Source1,4,45.294598,-118.037354,2017,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7675643,OR,Union,La Grande,Source1,4,45.23221,-118.447294,2017,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7675644,OR,Union,La Grande,Source1,4,45.252349,-118.407928,2017,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7676531,OR,Union,La Grande,Source1,4,45.28955,-118.03536,2017,7,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7676536,OR,Union,La Grande,Source1,4,45.29253,-118.03431,2017,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-7676538,OR,Union,La Grande,Source1,4,45.37076,-118.2957,2017,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-7676539,OR,Union,La Grande,Source1,4,45.34382,-118.12047,2017,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-7676540,OR,Union,La Grande,Source1,4,45.340102,-118.112977,2017,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-7676541,OR,Union,La Grande,Source1,4,45.29253,-118.03431,2017,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-7676542,OR,Union,La Grande,Source1,4,45.29253,-118.03431,2017,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-7676543,OR,Union,La Grande,Source1,4,45.34382,-118.12047,2017,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-7686086,OR,Union,La Grande,Source1,4,45.33131,-118.07252,2017,5,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7686087,OR,Union,La Grande,Source1,4,45.294779,-118.037433,2017,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7699713,OR,Union,La Grande,Source1,4,45.31211,-118.06561,2017,7,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-7699714,OR,Union,La Grande,Source1,4,45.318409,-118.075719,2017,7,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-7768444,OR,Union,Union,Source1,3,45.13452,-117.96621,2019,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7768453,OR,Union,Union,Source1,3,45.12878,-117.96418,2019,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7769686,OR,Union,La Grande,Source1,3,45.29361,-118.03694,2019,1,Tuesday,Cloudy,False,False,False,False,False,False,False

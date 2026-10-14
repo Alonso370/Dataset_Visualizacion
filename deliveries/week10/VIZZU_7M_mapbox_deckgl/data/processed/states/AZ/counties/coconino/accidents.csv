@@ -1,0 +1,942 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-513205,AZ,Coconino,Munds Park,Source2,3,34.921738,-111.643959,2022,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-524349,AZ,Coconino,Williams,Source2,3,35.221218,-112.290169,2022,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-527709,AZ,Coconino,Sedona,Source2,3,34.853123,-111.60746,2022,14,Wednesday,Storm,False,False,False,False,False,False,False
+A-536796,AZ,Coconino,Flagstaff,Source2,3,35.089794,-111.686089,2022,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-538534,AZ,Coconino,Winslow,Source2,3,35.067615999999994,-110.83654,2022,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-539084,AZ,Coconino,Flagstaff,Source2,3,35.200829,-111.404289,2022,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-540673,AZ,Coconino,Williams,Source2,3,35.220345,-112.27787,2022,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-541079,AZ,Coconino,Flagstaff,Source2,3,35.11731,-111.09063,2022,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-550432,AZ,Coconino,Flagstaff,Source2,3,35.200462,-111.40464,2022,5,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-550485,AZ,Coconino,Sedona,Source2,3,34.853123,-111.60746,2022,5,Sunday,Cloudy,False,False,False,False,False,False,False
+A-552269,AZ,Coconino,Williams,Source2,3,35.244583,-112.215446,2022,16,Thursday,Storm,False,False,False,False,False,False,False
+A-553608,AZ,Coconino,Munds Park,Source2,3,34.941914000000004,-111.653694,2022,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-554206,AZ,Coconino,Williams,Source2,3,35.221298,-112.290421,2022,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-554375,AZ,Coconino,Williams,Source2,3,35.214981,-112.357872,2022,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-557684,AZ,Coconino,Williams,Source2,3,35.220345,-112.27787,2022,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-560395,AZ,Coconino,Flagstaff,Source2,3,35.171467,-111.66227,2022,16,Wednesday,Storm,False,False,False,False,False,False,False
+A-564494,AZ,Coconino,Flagstaff,Source2,3,35.171516,-111.661873,2022,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-566445,AZ,Coconino,Flagstaff,Source2,3,35.094242,-110.930641,2022,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-568391,AZ,Coconino,Munds Park,Source2,3,34.941914000000004,-111.653694,2022,16,Tuesday,Storm,False,False,False,False,False,False,False
+A-595009,AZ,Coconino,Flagstaff,Source2,3,35.192909,-111.722923,2022,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-595895,AZ,Coconino,Flagstaff,Source2,3,35.19212,-111.621681,2022,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-596124,AZ,Coconino,Flagstaff,Source2,3,35.208351,-111.516243,2022,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-596240,AZ,Coconino,Flagstaff,Source2,3,35.20630300000001,-111.504608,2022,6,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-622273,AZ,Coconino,Flagstaff,Source2,3,35.051628,-111.683983,2022,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-622753,AZ,Coconino,Williams,Source2,3,35.220345,-112.27787,2022,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-628519,AZ,Coconino,Flagstaff,Source2,3,35.167717,-111.667702,2022,14,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-629597,AZ,Coconino,Winslow,Source2,3,35.110313,-111.03196,2022,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-634664,AZ,Coconino,Flagstaff,Source2,3,35.20206500000001,-111.477463,2022,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-634732,AZ,Coconino,Flagstaff,Source2,3,35.200462,-111.40464,2022,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-637593,AZ,Coconino,Flagstaff,Source2,3,35.19212,-111.621681,2022,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-639532,AZ,Coconino,Winslow,Source2,3,35.110313,-111.03196,2022,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-641447,AZ,Coconino,Parks,Source2,3,35.25047700000001,-111.958801,2022,6,Friday,Sin dato,False,False,False,False,False,False,False
+A-652144,AZ,Coconino,Winslow,Source2,3,35.095238,-110.936409,2022,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-652391,AZ,Coconino,Flagstaff,Source2,4,35.200272,-111.403694,2022,3,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-656373,AZ,Coconino,Flagstaff,Source2,3,35.171574,-111.664497,2022,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-660445,AZ,Coconino,Flagstaff,Source2,3,35.171574,-111.664497,2022,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-665913,AZ,Coconino,Flagstaff,Source2,3,35.171574,-111.664497,2022,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-671565,AZ,Coconino,Williams,Source2,3,35.219742,-112.277634,2022,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-672088,AZ,Coconino,Flagstaff,Source2,3,35.19212,-111.621681,2022,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-679365,AZ,Coconino,Flagstaff,Source2,3,35.208351,-111.516243,2022,6,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-680524,AZ,Coconino,Flagstaff,Source2,3,35.21587,-111.585815,2022,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-681368,AZ,Coconino,Flagstaff,Source2,4,35.051628,-111.683983,2022,16,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-685081,AZ,Coconino,Winslow,Source2,3,35.084022999999995,-110.891396,2022,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-686158,AZ,Coconino,Flagstaff,Source2,3,35.19212,-111.621681,2022,16,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-686159,AZ,Coconino,Flagstaff,Source2,3,35.19212,-111.621681,2022,16,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-696062,AZ,Coconino,Williams,Source2,3,35.220345,-112.27787,2022,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-697815,AZ,Coconino,Williams,Source2,3,35.260574,-112.151093,2022,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-699463,AZ,Coconino,Sedona,Source2,3,34.853123,-111.60746,2022,12,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-708403,AZ,Coconino,Williams,Source2,3,35.233124,-112.230644,2022,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-710898,AZ,Coconino,Williams,Source2,3,35.264088,-112.049995,2022,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-713519,AZ,Coconino,Flagstaff,Source2,3,35.178143,-111.347763,2022,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-727306,AZ,Coconino,Flagstaff,Source2,3,35.202232,-111.463707,2022,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-752102,AZ,Coconino,Sedona,Source2,3,34.853123,-111.60746,2022,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-757957,AZ,Coconino,Williams,Source2,3,35.258205,-112.122429,2022,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-761888,AZ,Coconino,Munds Park,Source2,3,34.941914000000004,-111.653694,2021,19,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-764856,AZ,Coconino,Flagstaff,Source2,3,35.208351,-111.516243,2021,9,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-772635,AZ,Coconino,Flagstaff,Source2,3,35.19759000000001,-111.74308,2021,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-777764,AZ,Coconino,Flagstaff,Source2,3,35.12915,-111.183968,2021,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-777908,AZ,Coconino,Williams,Source2,3,35.24536900000001,-112.214287,2021,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-788139,AZ,Coconino,Flagstaff,Source2,3,35.208351,-111.516243,2021,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-795614,AZ,Coconino,Flagstaff,Source2,3,35.190842,-111.726509,2021,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-800797,AZ,Coconino,Williams,Source2,3,35.26265,-112.186012,2021,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-802494,AZ,Coconino,Flagstaff,Source2,3,35.19212,-111.621681,2021,6,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-804562,AZ,Coconino,Sedona,Source2,3,34.875072,-111.634949,2021,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-804857,AZ,Coconino,Flagstaff,Source2,3,35.19212,-111.621681,2021,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-821065,AZ,Coconino,Flagstaff,Source2,3,35.208351,-111.516243,2021,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-824823,AZ,Coconino,Sedona,Source2,3,34.875065,-111.634949,2021,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-831690,AZ,Coconino,Flagstaff,Source2,3,35.200462,-111.40464,2021,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-831838,AZ,Coconino,Flagstaff,Source2,3,35.201202,-111.427673,2021,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-831980,AZ,Coconino,Flagstaff,Source2,3,35.200462,-111.40464,2021,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-836714,AZ,Coconino,Flagstaff,Source2,3,35.160740000000004,-111.272034,2021,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-844882,AZ,Coconino,Flagstaff,Source2,4,35.110207,-111.030731,2021,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-872552,AZ,Coconino,Flagstaff,Source2,3,35.089794,-111.686089,2021,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-874411,AZ,Coconino,Flagstaff,Source2,3,35.160740000000004,-111.272034,2021,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-881550,AZ,Coconino,Williams,Source2,4,35.220345,-112.27787,2021,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-893458,AZ,Coconino,Williams,Source2,3,35.259769,-112.030525,2021,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-896615,AZ,Coconino,Flagstaff,Source2,3,35.19212,-111.621681,2021,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-899987,AZ,Coconino,Flagstaff,Source2,3,35.20206500000001,-111.477463,2021,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-903867,AZ,Coconino,Williams,Source2,3,35.220345,-112.27787,2021,7,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-904984,AZ,Coconino,Williams,Source2,3,35.216576,-112.37748,2021,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-909613,AZ,Coconino,Sedona,Source2,3,34.910839,-111.728287,2021,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-912051,AZ,Coconino,Flagstaff,Source2,3,35.185863,-111.710304,2021,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-925967,AZ,Coconino,Flagstaff,Source2,3,35.176327,-111.66127,2021,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-929502,AZ,Coconino,Williams,Source2,3,35.255547,-111.93895,2021,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-933099,AZ,Coconino,Williams,Source2,3,35.247856,-111.978172,2021,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-959348,AZ,Coconino,Flagstaff,Source2,3,35.19212,-111.621681,2021,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-973966,AZ,Coconino,Sedona,Source2,3,34.875091999999995,-111.634552,2021,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-973968,AZ,Coconino,Flagstaff,Source2,3,35.23642,-111.823006,2021,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-988115,AZ,Coconino,Flagstaff,Source2,3,35.574821,-111.530823,2021,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-988694,AZ,Coconino,Flagstaff,Source2,4,35.197243,-111.743271,2021,4,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1006740,AZ,Coconino,Williams,Source2,3,35.264317,-112.050102,2021,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1006741,AZ,Coconino,Williams,Source2,3,35.255547,-111.93895,2021,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1008770,AZ,Coconino,Williams,Source2,3,35.21432100000001,-112.421677,2021,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1008773,AZ,Coconino,Williams,Source2,3,35.216034,-112.379837,2021,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1023199,AZ,Coconino,Flagstaff,Source2,3,35.26969099999999,-111.545448,2021,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1036296,AZ,Coconino,Flagstaff,Source2,3,35.167648,-111.667435,2021,2,Friday,Rain,False,False,True,False,False,False,False
+A-1052285,AZ,Coconino,Flagstaff,Source2,3,35.23642,-111.823006,2021,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1054969,AZ,Coconino,Sedona,Source2,3,34.853123,-111.60746,2021,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1070104,AZ,Coconino,Flagstaff,Source2,4,35.201931,-111.407127,2021,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1086582,AZ,Coconino,Flagstaff,Source2,3,34.982116999999995,-111.686165,2021,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1087677,AZ,Coconino,Flagstaff,Source2,3,35.12915,-111.183968,2021,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1095965,AZ,Coconino,Bellemont,Source2,3,35.226208,-111.80072,2021,10,Saturday,Sin dato,False,False,False,False,False,False,False
+A-1095966,AZ,Coconino,Williams,Source2,3,35.255943,-111.937965,2021,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1103678,AZ,Coconino,Sedona,Source2,3,34.853123,-111.60746,2021,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-1105269,AZ,Coconino,Sedona,Source2,3,34.853123,-111.60746,2021,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1105270,AZ,Coconino,Flagstaff,Source2,3,35.171574,-111.664497,2021,17,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1108487,AZ,Coconino,Williams,Source2,4,35.244762,-112.215294,2021,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1109918,AZ,Coconino,Williams,Source2,3,35.220345,-112.27787,2021,12,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1118235,AZ,Coconino,Flagstaff,Source2,3,35.160740000000004,-111.272034,2021,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1120246,AZ,Coconino,Williams,Source2,4,35.260574,-112.151093,2021,1,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1120247,AZ,Coconino,Williams,Source2,3,35.264088,-112.049995,2021,5,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1122140,AZ,Coconino,Flagstaff,Source2,3,35.018085,-111.685196,2021,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-1122141,AZ,Coconino,Flagstaff,Source2,3,34.982116999999995,-111.686165,2021,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-1123581,AZ,Coconino,Williams,Source2,3,35.259342,-112.192581,2021,6,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1127761,AZ,Coconino,Flagstaff,Source2,3,35.200462,-111.40464,2021,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1128802,AZ,Coconino,Flagstaff,Source2,4,35.167648,-111.667435,2021,4,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-1134446,AZ,Coconino,Flagstaff,Source2,4,35.051628,-111.683983,2021,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1154408,AZ,Coconino,Flagstaff,Source2,4,35.051628,-111.683983,2021,14,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-1159754,AZ,Coconino,Flagstaff,Source2,3,35.12915,-111.183968,2021,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1173258,AZ,Coconino,Flagstaff,Source2,3,35.094242,-110.930641,2021,9,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1173781,AZ,Coconino,Flagstaff,Source2,3,35.089794,-111.686089,2021,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-1175212,AZ,Coconino,Flagstaff,Source2,3,35.213631,-111.538414,2021,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-1175221,AZ,Coconino,Williams,Source2,3,35.264088,-112.049995,2021,15,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1175222,AZ,Coconino,Flagstaff,Source2,3,35.139904,-111.684517,2021,15,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1175238,AZ,Coconino,Flagstaff,Source2,3,35.051628,-111.683983,2021,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-1180518,AZ,Coconino,Flagstaff,Source2,3,35.19212,-111.621681,2021,8,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1180521,AZ,Coconino,Flagstaff,Source2,3,35.185863,-111.710304,2021,8,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1182748,AZ,Coconino,Williams,Source2,3,35.220345,-112.27787,2021,7,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1183291,AZ,Coconino,Williams,Source2,3,35.219925,-112.279419,2021,5,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-1187845,AZ,Coconino,Flagstaff,Source2,3,35.20206500000001,-111.477463,2021,21,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1189199,AZ,Coconino,Flagstaff,Source2,3,35.094242,-110.930641,2021,17,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1189206,AZ,Coconino,Flagstaff,Source2,3,35.208351,-111.516243,2021,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1190357,AZ,Coconino,Flagstaff,Source2,3,35.110207,-111.030731,2021,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1192980,AZ,Coconino,Flagstaff,Source2,4,35.207321,-111.5093,2021,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1192987,AZ,Coconino,Flagstaff,Source2,3,35.21118900000001,-111.526711,2021,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1194590,AZ,Coconino,Flagstaff,Source2,3,35.110207,-111.030731,2021,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1194600,AZ,Coconino,Flagstaff,Source2,3,35.10556,-111.00553899999998,2021,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1199320,AZ,Coconino,Flagstaff,Source2,3,35.074162,-110.858932,2021,8,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1199321,AZ,Coconino,Flagstaff,Source2,3,35.20206500000001,-111.477463,2021,9,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1205089,AZ,Coconino,Flagstaff,Source2,3,35.21664000000001,-111.582359,2021,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1208139,AZ,Coconino,Flagstaff,Source2,3,35.19212,-111.621681,2021,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1212281,AZ,Coconino,Flagstaff,Source2,3,35.051628,-111.683983,2020,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1225645,AZ,Coconino,Flagstaff,Source2,3,35.20206500000001,-111.477463,2020,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1230716,AZ,Coconino,Flagstaff,Source2,3,35.051628,-111.683983,2020,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1231438,AZ,Coconino,Flagstaff,Source2,3,35.197243,-111.743271,2020,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1237052,AZ,Coconino,Flagstaff,Source2,3,35.200722,-111.404022,2020,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1247298,AZ,Coconino,Flagstaff,Source2,4,35.19212,-111.621681,2020,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1253722,AZ,Coconino,Flagstaff,Source2,3,35.110207,-111.030731,2020,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1261686,AZ,Coconino,Flagstaff,Source2,3,35.171574,-111.664497,2020,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1261687,AZ,Coconino,Flagstaff,Source2,3,35.185863,-111.710304,2020,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1261691,AZ,Coconino,Flagstaff,Source2,3,35.185863,-111.710304,2020,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1270080,AZ,Coconino,Flagstaff,Source2,3,35.23642,-111.823006,2020,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1293817,AZ,Coconino,Flagstaff,Source2,3,35.23642,-111.823006,2020,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1297041,AZ,Coconino,Flagstaff,Source2,4,35.094242,-110.930641,2020,7,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1298489,AZ,Coconino,Flagstaff,Source2,3,35.11731,-111.09063,2020,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1298490,AZ,Coconino,Flagstaff,Source2,3,35.12915,-111.183968,2020,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1325013,AZ,Coconino,Flagstaff,Source2,3,35.208351,-111.516243,2020,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1333819,AZ,Coconino,Flagstaff,Source2,3,35.171574,-111.664497,2020,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1335261,AZ,Coconino,Flagstaff,Source2,3,35.139904,-111.684517,2020,5,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1336959,AZ,Coconino,Flagstaff,Source2,3,35.20206500000001,-111.477463,2020,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1338747,AZ,Coconino,Flagstaff,Source2,3,35.19212,-111.621681,2020,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1347606,AZ,Coconino,Williams,Source2,3,35.21432100000001,-112.421677,2020,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1368301,AZ,Coconino,Sedona,Source2,3,34.853123,-111.60746,2020,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-1390684,AZ,Coconino,Sedona,Source2,3,34.853123,-111.60746,2020,16,Friday,Sin dato,False,False,False,False,False,False,False
+A-1391735,AZ,Coconino,Flagstaff,Source2,3,35.018059,-111.684799,2020,12,Sunday,Sin dato,False,False,False,False,False,False,False
+A-1397418,AZ,Coconino,Sedona,Source2,3,34.853123,-111.60746,2020,7,Thursday,Sin dato,False,False,False,False,False,False,False
+A-1397429,AZ,Coconino,Sedona,Source2,3,34.853123,-111.60746,2020,11,Thursday,Sin dato,False,False,False,False,False,False,False
+A-1403125,AZ,Coconino,Flagstaff,Source2,3,35.139904,-111.684517,2020,10,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-1403133,AZ,Coconino,Flagstaff,Source2,3,35.139904,-111.684517,2020,14,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-1421200,AZ,Coconino,Williams,Source2,3,35.220345,-112.27787,2020,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1430380,AZ,Coconino,Williams,Source2,3,35.255547,-111.93895,2020,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1430382,AZ,Coconino,Flagstaff,Source2,3,35.197655,-111.743256,2020,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1430384,AZ,Coconino,Williams,Source2,3,35.255547,-111.93895,2020,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1433369,AZ,Coconino,Flagstaff,Source2,4,35.200462,-111.40464,2020,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1433389,AZ,Coconino,Williams,Source2,3,35.220345,-112.27787,2020,16,Friday,Storm,False,False,False,False,False,False,False
+A-1438663,AZ,Coconino,Williams,Source2,3,35.254177,-112.203194,2020,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1438669,AZ,Coconino,Williams,Source2,3,35.259342,-112.192581,2020,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1438674,AZ,Coconino,Flagstaff,Source2,3,35.19212,-111.621681,2020,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1442496,AZ,Coconino,Munds Park,Source2,3,34.941914000000004,-111.653694,2020,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1448532,AZ,Coconino,Sedona,Source2,4,34.852081,-111.606758,2020,3,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1453608,AZ,Coconino,Williams,Source2,3,35.264088,-112.049995,2020,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1464400,AZ,Coconino,Flagstaff,Source2,3,35.089794,-111.686089,2020,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1467527,AZ,Coconino,Flagstaff,Source2,3,35.171574,-111.664497,2020,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1482572,AZ,Coconino,Flagstaff,Source2,3,35.617729,-111.52256,2020,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1486694,AZ,Coconino,Williams,Source2,3,35.264088,-112.049995,2020,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1495176,AZ,Coconino,Williams,Source2,3,35.264088,-112.049995,2020,2,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1509521,AZ,Coconino,Flagstaff,Source2,3,35.19136,-111.621803,2020,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1509530,AZ,Coconino,Flagstaff,Source2,3,35.051628,-111.683983,2020,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1511067,AZ,Coconino,Flagstaff,Source2,3,34.981945,-111.68615,2020,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1528164,AZ,Coconino,Williams,Source2,4,35.220345,-112.27787,2020,3,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1532473,AZ,Coconino,Flagstaff,Source2,3,35.19212,-111.621681,2020,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1532497,AZ,Coconino,Flagstaff,Source2,3,35.19212,-111.621681,2020,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1533889,AZ,Coconino,Flagstaff,Source2,3,35.19212,-111.621681,2020,9,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1535308,AZ,Coconino,Williams,Source2,3,35.24469000000001,-112.214577,2020,5,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1535312,AZ,Coconino,Williams,Source2,3,35.24469000000001,-112.214577,2020,5,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1539062,AZ,Coconino,Sedona,Source2,3,34.912319000000004,-111.641357,2020,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-1544445,AZ,Coconino,Flagstaff,Source2,3,35.23642,-111.823006,2020,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1544446,AZ,Coconino,Williams,Source2,3,35.255547,-111.93895,2020,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1546083,AZ,Coconino,Flagstaff,Source2,3,35.134167,-111.198074,2020,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1557507,AZ,Coconino,Flagstaff,Source2,3,35.160740000000004,-111.272034,2020,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1557509,AZ,Coconino,Flagstaff,Source2,3,35.160740000000004,-111.272034,2020,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1560574,AZ,Coconino,Flagstaff,Source2,3,35.095314,-111.684059,2020,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1561688,AZ,Coconino,Flagstaff,Source2,3,35.089794,-111.686089,2020,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1566060,AZ,Coconino,Flagstaff,Source2,4,35.12915,-111.183968,2020,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1575417,AZ,Coconino,Williams,Source2,3,35.258205,-112.122429,2020,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1577756,AZ,Coconino,Flagstaff,Source2,3,35.110207,-111.030731,2020,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1612807,AZ,Coconino,Flagstaff,Source2,3,35.201878,-111.406975,2020,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1623960,AZ,Coconino,Flagstaff,Source2,3,35.161278,-111.27108,2020,5,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1662997,AZ,Coconino,Flagstaff,Source2,3,35.200462,-111.40464,2020,20,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1667661,AZ,Coconino,Flagstaff,Source2,4,35.200462,-111.40464,2020,1,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1676488,AZ,Coconino,Flagstaff,Source2,3,35.01545,-111.684937,2020,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1678946,AZ,Coconino,Williams,Source2,3,35.264706,-112.04953799999998,2019,23,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1678952,AZ,Coconino,Flagstaff,Source2,3,35.186138,-111.710182,2019,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1678956,AZ,Coconino,Flagstaff,Source2,3,35.089794,-111.686089,2019,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1679633,AZ,Coconino,Flagstaff,Source2,4,34.981945,-111.68615,2019,3,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1682913,AZ,Coconino,Williams,Source2,3,35.446331,-112.171539,2019,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1692270,AZ,Coconino,Williams,Source2,3,35.255547,-111.93895,2019,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1692276,AZ,Coconino,Williams,Source2,3,35.255547,-111.93895,2019,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1719878,AZ,Coconino,Williams,Source2,3,35.222149,-112.255112,2019,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1725235,AZ,Coconino,Flagstaff,Source2,3,35.171574,-111.664497,2019,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1731943,AZ,Coconino,Flagstaff,Source2,3,35.051979,-111.683952,2019,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1734176,AZ,Coconino,Flagstaff,Source2,4,35.200462,-111.40464,2019,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-1736569,AZ,Coconino,Forest Lakes,Source2,3,34.329689,-110.803459,2019,5,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1738954,AZ,Coconino,Flagstaff,Source2,3,35.185863,-111.710304,2019,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1744120,AZ,Coconino,Flagstaff,Source2,3,35.171574,-111.664497,2019,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1749268,AZ,Coconino,Williams,Source2,3,35.216686,-112.376602,2019,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-1765043,AZ,Coconino,Flagstaff,Source2,3,35.23642,-111.823006,2019,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1765044,AZ,Coconino,Flagstaff,Source2,3,35.197243,-111.743271,2019,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1765045,AZ,Coconino,Flagstaff,Source2,3,35.197243,-111.743271,2019,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1771098,AZ,Coconino,Flagstaff,Source2,3,35.051628,-111.683983,2019,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1805819,AZ,Coconino,Flagstaff,Source2,3,35.19212,-111.621681,2019,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1821509,AZ,Coconino,Flagstaff,Source2,4,35.19212,-111.621681,2019,3,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1825625,AZ,Coconino,Flagstaff,Source2,3,35.19212,-111.621681,2019,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1833974,AZ,Coconino,Flagstaff,Source2,3,35.202713,-111.764763,2019,19,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1833978,AZ,Coconino,Flagstaff,Source2,3,35.23642,-111.823006,2019,22,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1836760,AZ,Coconino,Williams,Source2,3,35.260574,-112.151093,2019,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1839811,AZ,Coconino,Flagstaff,Source2,3,35.197243,-111.743271,2019,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-1839817,AZ,Coconino,Flagstaff,Source2,3,35.197243,-111.743271,2019,8,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1839824,AZ,Coconino,Flagstaff,Source2,3,35.197243,-111.743271,2019,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-1855202,AZ,Coconino,Flagstaff,Source2,3,35.167648,-111.667435,2019,12,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-1857575,AZ,Coconino,Williams,Source2,3,35.255547,-111.93895,2019,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1862632,AZ,Coconino,Flagstaff,Source2,3,35.21664000000001,-111.582359,2019,3,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1862679,AZ,Coconino,Flagstaff,Source2,3,35.12915,-111.183968,2019,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1871229,AZ,Coconino,Sedona,Source2,3,34.875091999999995,-111.634552,2019,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1872198,AZ,Coconino,Flagstaff,Source2,3,35.053345,-111.682846,2019,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1875193,AZ,Coconino,Flagstaff,Source2,4,35.19212,-111.621681,2019,14,Monday,Storm,False,False,False,False,False,False,False
+A-1877644,AZ,Coconino,Flagstaff,Source2,3,35.21664000000001,-111.582359,2019,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1884408,AZ,Coconino,Flagstaff,Source2,3,35.051628,-111.683983,2019,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1886686,AZ,Coconino,Flagstaff,Source2,3,35.19212,-111.621681,2019,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1886687,AZ,Coconino,Flagstaff,Source2,3,35.185863,-111.710304,2019,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1888695,AZ,Coconino,Williams,Source2,3,35.260574,-112.151093,2019,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-1890976,AZ,Coconino,Sedona,Source2,3,34.853123,-111.60746,2019,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1893099,AZ,Coconino,Flagstaff,Source2,3,35.11731,-111.09063,2019,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1893164,AZ,Coconino,Williams,Source2,3,35.220345,-112.27787,2019,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1899504,AZ,Coconino,Williams,Source2,3,35.220345,-112.27787,2019,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1904343,AZ,Coconino,Flagstaff,Source2,3,35.110207,-111.030731,2019,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1911762,AZ,Coconino,Williams,Source2,3,35.21626699999999,-112.377434,2019,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1911837,AZ,Coconino,Grand Canyon,Source2,3,35.937351,-112.130943,2019,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1913342,AZ,Coconino,Williams,Source2,3,35.255547,-111.93895,2019,5,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1915556,AZ,Coconino,Williams,Source2,3,35.264088,-112.049995,2019,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-1919627,AZ,Coconino,Flagstaff,Source2,3,35.197243,-111.743271,2019,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1926200,AZ,Coconino,Williams,Source2,3,35.220345,-112.27787,2019,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1926278,AZ,Coconino,Flagstaff,Source2,3,35.051628,-111.683983,2019,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1936567,AZ,Coconino,Williams,Source2,3,35.220345,-112.27787,2019,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1936578,AZ,Coconino,Flagstaff,Source2,3,35.139904,-111.684517,2019,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1938842,AZ,Coconino,Williams,Source2,3,35.220345,-112.27787,2019,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1943888,AZ,Coconino,Flagstaff,Source2,3,35.171574,-111.664497,2019,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-1951785,AZ,Coconino,Flagstaff,Source2,3,35.234959,-111.57473799999998,2019,12,Thursday,Sin dato,False,True,False,False,False,False,False
+A-1953369,AZ,Coconino,Flagstaff,Source2,3,35.089794,-111.686089,2019,14,Friday,Sin dato,False,False,False,False,False,False,False
+A-1953370,AZ,Coconino,Flagstaff,Source2,3,35.171574,-111.664497,2019,14,Friday,Sin dato,False,False,False,False,False,False,False
+A-1960820,AZ,Coconino,Flagstaff,Source2,3,35.167648,-111.667435,2019,10,Wednesday,Sin dato,False,False,True,False,False,False,False
+A-1966688,AZ,Coconino,Flagstaff,Source2,3,35.018085,-111.685196,2019,5,Sunday,Sin dato,False,False,False,False,False,False,False
+A-1966696,AZ,Coconino,Flagstaff,Source2,3,35.089794,-111.686089,2019,11,Sunday,Sin dato,False,False,False,False,False,False,False
+A-1966697,AZ,Coconino,Flagstaff,Source2,3,35.018085,-111.685196,2019,11,Sunday,Sin dato,False,False,False,False,False,False,False
+A-1966700,AZ,Coconino,Williams,Source2,3,35.220638,-112.277313,2019,15,Sunday,Sin dato,False,False,False,False,False,False,False
+A-1968747,AZ,Coconino,Flagstaff,Source2,3,35.19212,-111.621681,2019,12,Monday,Sin dato,False,False,False,False,False,False,False
+A-1968772,AZ,Coconino,Flagstaff,Source2,3,35.185863,-111.710304,2019,16,Monday,Sin dato,False,False,False,False,False,False,False
+A-1971012,AZ,Coconino,Williams,Source2,3,35.260574,-112.151093,2019,4,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-1975566,AZ,Coconino,Williams,Source2,3,35.220345,-112.27787,2019,16,Thursday,Sin dato,False,False,False,False,False,False,False
+A-1981377,AZ,Coconino,Flagstaff,Source2,3,35.139904,-111.684517,2019,16,Monday,Sin dato,False,False,False,False,False,False,False
+A-1981397,AZ,Coconino,Flagstaff,Source2,3,35.216888,-111.582443,2019,8,Monday,Sin dato,False,False,False,False,False,False,False
+A-1983665,AZ,Coconino,Flagstaff,Source2,3,35.089794,-111.686089,2019,15,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-1985964,AZ,Coconino,Williams,Source2,3,35.220345,-112.27787,2019,17,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-1988084,AZ,Coconino,Williams,Source2,3,35.216686,-112.376602,2019,18,Thursday,Sin dato,False,False,False,False,False,False,False
+A-1988089,AZ,Coconino,Williams,Source2,3,35.260574,-112.151093,2019,4,Thursday,Sin dato,False,False,False,False,False,False,False
+A-1988120,AZ,Coconino,Flagstaff,Source2,3,35.23642,-111.823006,2019,9,Thursday,Sin dato,False,False,False,False,False,False,False
+A-1988152,AZ,Coconino,Tuba City,Source2,3,36.013458,-111.395523,2019,16,Thursday,Sin dato,False,False,False,False,False,False,False
+A-1991210,AZ,Coconino,Flagstaff,Source2,3,35.19212,-111.621681,2019,11,Saturday,Sin dato,False,False,False,False,False,False,False
+A-1993738,AZ,Coconino,Flagstaff,Source2,3,35.171574,-111.664497,2019,8,Monday,Sin dato,False,False,False,False,False,False,False
+A-1997885,AZ,Coconino,Flagstaff,Source2,3,35.20206500000001,-111.477463,2019,14,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-2005958,AZ,Coconino,Sedona,Source2,3,34.853123,-111.60746,2019,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-2010366,AZ,Coconino,Flagstaff,Source2,3,35.2089,-111.516983,2019,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2010435,AZ,Coconino,Williams,Source2,3,35.264088,-112.049995,2019,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2010438,AZ,Coconino,Williams,Source2,3,35.255547,-111.93895,2019,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2014726,AZ,Coconino,Flagstaff,Source2,3,35.139904,-111.684517,2019,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2016537,AZ,Coconino,Flagstaff,Source2,3,35.20206500000001,-111.477463,2019,4,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2016539,AZ,Coconino,Flagstaff,Source2,3,35.208351,-111.516243,2019,5,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2018613,AZ,Coconino,Sedona,Source2,3,34.30278,-110.857758,2019,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2023603,AZ,Coconino,Happy Jack,Source2,3,34.626888,-111.14035,2019,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2028363,AZ,Coconino,Williams,Source2,3,35.260441,-112.150551,2019,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2029143,AZ,Coconino,Williams,Source2,3,35.255547,-111.93895,2019,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2037452,AZ,Coconino,Flagstaff,Source2,3,35.21703,-111.578934,2019,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2039855,AZ,Coconino,Flagstaff,Source2,3,35.208351,-111.516243,2019,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2040918,AZ,Coconino,Williams,Source2,3,35.219849,-112.277214,2019,4,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2045862,AZ,Coconino,Flagstaff,Source2,3,35.11731,-111.09063,2019,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2048099,AZ,Coconino,Flagstaff,Source2,3,35.23642,-111.823006,2019,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2052669,AZ,Coconino,Flagstaff,Source2,3,34.981945,-111.68615,2019,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-2056617,AZ,Coconino,Flagstaff,Source2,3,35.21817,-111.581787,2019,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2059024,AZ,Coconino,Williams,Source2,3,35.258205,-112.122429,2019,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2063667,AZ,Coconino,Flagstaff,Source2,3,35.20159500000001,-111.47731,2019,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2069867,AZ,Coconino,Munds Park,Source2,3,34.94183,-111.653671,2019,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2074327,AZ,Coconino,Flagstaff,Source2,3,35.167648,-111.667435,2019,11,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-2080033,AZ,Coconino,Flagstaff,Source2,3,35.11731,-111.09063,2019,6,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2082105,AZ,Coconino,Sedona,Source2,3,34.912319000000004,-111.641357,2019,3,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2083133,AZ,Coconino,Flagstaff,Source2,4,35.161190000000005,-111.27182,2019,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2083835,AZ,Coconino,Flagstaff,Source2,3,35.089794,-111.686089,2019,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2088889,AZ,Coconino,Williams,Source2,3,35.255547,-111.93895,2019,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2091246,AZ,Coconino,Flagstaff,Source2,3,35.216808,-111.593971,2019,21,Wednesday,Clear / Fair,False,True,False,False,False,False,False
+A-2097548,AZ,Coconino,Flagstaff,Source2,3,35.139416,-111.684593,2019,4,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2097559,AZ,Coconino,Sedona,Source2,3,34.843117,-111.603775,2019,18,Sunday,Rain,False,False,False,False,False,False,False
+A-2099622,AZ,Coconino,Williams,Source2,3,35.255547,-111.93895,2019,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2099626,AZ,Coconino,Flagstaff,Source2,4,35.23642,-111.823006,2019,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2110167,AZ,Coconino,Sedona,Source2,3,34.912766,-111.641312,2019,5,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2110999,AZ,Coconino,Sedona,Source2,3,34.853123,-111.60746,2019,19,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2113374,AZ,Coconino,Flagstaff,Source2,3,35.089794,-111.686089,2019,8,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2113395,AZ,Coconino,Sedona,Source2,3,34.853123,-111.60746,2019,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-2113400,AZ,Coconino,Sedona,Source2,3,34.912319000000004,-111.641357,2019,14,Monday,Rain,False,False,False,False,False,False,False
+A-2118251,AZ,Coconino,Williams,Source2,3,35.263058,-112.184982,2019,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2118262,AZ,Coconino,Flagstaff,Source2,3,35.19212,-111.621681,2019,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2120546,AZ,Coconino,Williams,Source2,4,35.264748,-112.049858,2019,9,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2123636,AZ,Coconino,Williams,Source2,3,35.216686,-112.376602,2019,5,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2123648,AZ,Coconino,Flagstaff,Source2,3,35.171574,-111.664497,2019,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2124303,AZ,Coconino,Flagstaff,Source2,4,35.11018,-111.031418,2019,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2125591,AZ,Coconino,Williams,Source2,3,35.258205,-112.122429,2019,8,Monday,Rain,False,False,False,False,False,False,False
+A-2125593,AZ,Coconino,Flagstaff,Source2,3,35.018085,-111.685196,2019,8,Monday,Rain,False,False,False,False,False,False,False
+A-2127676,AZ,Coconino,Munds Park,Source2,3,34.94183,-111.653671,2019,3,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2139328,AZ,Coconino,Flagstaff,Source2,3,35.094242,-110.930641,2019,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2151463,AZ,Coconino,Sedona,Source2,3,34.852081,-111.606758,2019,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-2173676,AZ,Coconino,Sedona,Source2,3,34.875091999999995,-111.634552,2019,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2188818,AZ,Coconino,Flagstaff,Source2,3,35.009735,-111.685204,2019,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2191291,AZ,Coconino,Sedona,Source2,4,34.853123,-111.60746,2019,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2209866,AZ,Coconino,Flagstaff,Source2,3,35.20972800000001,-111.522949,2019,8,Friday,Rain,False,False,False,False,False,False,False
+A-2209868,AZ,Coconino,Flagstaff,Source2,3,35.086613,-111.687004,2019,8,Friday,Rain,False,False,False,False,False,False,False
+A-2261145,AZ,Coconino,Sedona,Source2,3,34.853134000000004,-111.607475,2019,8,Sunday,Rain,False,False,False,False,False,False,False
+A-2266058,AZ,Coconino,Sedona,Source2,3,34.874534999999995,-111.634293,2019,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2266103,AZ,Coconino,Flagstaff,Source2,3,35.24423200000001,-111.83889,2019,19,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2271533,AZ,Coconino,Williams,Source2,3,35.216362,-112.378166,2019,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2278184,AZ,Coconino,Flagstaff,Source2,3,35.175647999999995,-111.643066,2019,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2278224,AZ,Coconino,Williams,Source2,3,35.264488,-112.051399,2019,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2281071,AZ,Coconino,Williams,Source2,3,35.216454,-112.436752,2019,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2286418,AZ,Coconino,Sedona,Source2,3,34.911766,-111.64135,2019,17,Thursday,Rain,False,False,False,False,False,False,False
+A-2290020,AZ,Coconino,Williams,Source2,3,35.260227,-112.150116,2019,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2290716,AZ,Coconino,Williams,Source2,3,35.243671,-112.215721,2019,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2292733,AZ,Coconino,Sedona,Source2,3,34.853134000000004,-111.607475,2019,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-2292753,AZ,Coconino,Flagstaff,Source2,3,35.171913,-111.661819,2019,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-2300182,AZ,Coconino,Flagstaff,Source2,3,35.215549,-111.583504,2019,5,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2300188,AZ,Coconino,Williams,Source2,3,35.260227,-112.150116,2019,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2300243,AZ,Coconino,Flagstaff,Source2,3,35.171913,-111.661819,2019,20,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2302660,AZ,Coconino,Williams,Source2,3,35.26387800000001,-112.048843,2019,12,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2302692,AZ,Coconino,Munds Park,Source2,3,34.942046999999995,-111.653969,2019,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2302695,AZ,Coconino,Flagstaff,Source2,3,35.217213,-111.581154,2019,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-2302696,AZ,Coconino,Sedona,Source2,3,34.852996999999995,-111.606918,2019,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-2312057,AZ,Coconino,Flagstaff,Source2,3,35.170292,-111.664818,2019,1,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2341271,AZ,Coconino,Williams,Source2,3,35.216362,-112.378166,2019,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2341272,AZ,Coconino,Williams,Source2,3,35.220299,-112.277634,2019,23,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2343856,AZ,Coconino,Flagstaff,Source2,3,35.171890000000005,-111.655991,2019,8,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-2372878,AZ,Coconino,Munds Park,Source2,3,34.941875,-111.653648,2018,15,Friday,Rain,False,False,False,False,False,False,False
+A-2374738,AZ,Coconino,Flagstaff,Source2,3,35.202454,-111.419449,2018,5,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2374741,AZ,Coconino,Flagstaff,Source2,3,35.201939,-111.47638700000002,2018,6,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-2374748,AZ,Coconino,Munds Park,Source2,3,34.941875,-111.653648,2018,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2374755,AZ,Coconino,Flagstaff,Source2,3,35.1292,-111.183662,2018,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2381308,AZ,Coconino,Munds Park,Source2,3,34.942046999999995,-111.653969,2018,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2386984,AZ,Coconino,Sedona,Source2,3,34.853134000000004,-111.607475,2018,8,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2398933,AZ,Coconino,Flagstaff,Source2,3,34.98291,-111.686226,2018,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2411474,AZ,Coconino,Williams,Source2,3,35.255863,-111.937141,2018,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2417822,AZ,Coconino,Sedona,Source2,3,34.812119,-111.609505,2018,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2417853,AZ,Coconino,Flagstaff,Source2,3,35.117298,-111.090652,2018,22,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2419990,AZ,Coconino,Flagstaff,Source2,3,35.117298,-111.090652,2018,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-2419991,AZ,Coconino,Flagstaff,Source2,3,35.202057,-111.40843999999998,2018,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-2419992,AZ,Coconino,Flagstaff,Source2,3,35.208981,-111.518097,2018,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-2420003,AZ,Coconino,Flagstaff,Source2,3,35.117298,-111.090652,2018,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-2426396,AZ,Coconino,Flagstaff,Source2,3,35.094383,-110.930664,2018,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2434320,AZ,Coconino,Flagstaff,Source2,3,35.190449,-111.724068,2018,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2434344,AZ,Coconino,Flagstaff,Source2,3,35.171585,-111.662209,2018,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2447183,AZ,Coconino,Flagstaff,Source2,3,35.161522,-111.271851,2018,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2464340,AZ,Coconino,Flagstaff,Source2,3,34.981747,-111.686279,2018,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2464344,AZ,Coconino,Flagstaff,Source2,3,34.956783,-111.676765,2018,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2464356,AZ,Coconino,Flagstaff,Source2,3,35.171585,-111.662209,2018,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2470464,AZ,Coconino,Flagstaff,Source2,4,35.20195800000001,-111.407173,2018,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2470468,AZ,Coconino,Flagstaff,Source2,3,34.981747,-111.686279,2018,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2480676,AZ,Coconino,Flagstaff,Source2,3,34.958477,-111.678619,2018,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2493401,AZ,Coconino,Munds Park,Source2,3,34.941875,-111.653648,2018,15,Tuesday,Rain,False,False,False,False,False,False,False
+A-2496284,AZ,Coconino,Flagstaff,Source2,3,35.197723,-111.742233,2018,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2505766,AZ,Coconino,Williams,Source2,3,35.220425,-112.27784,2018,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-2505774,AZ,Coconino,Williams,Source2,3,35.245213,-112.21489,2018,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-2505778,AZ,Coconino,Munds Park,Source2,3,34.941875,-111.653648,2018,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-2512317,AZ,Coconino,Flagstaff,Source2,3,35.171585,-111.662209,2018,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2516958,AZ,Coconino,Sedona,Source2,3,34.873642,-111.634186,2018,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2522422,AZ,Coconino,Flagstaff,Source2,3,35.171585,-111.662209,2018,13,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2531435,AZ,Coconino,Flagstaff,Source2,3,34.981747,-111.686279,2018,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2532605,AZ,Coconino,Flagstaff,Source2,3,35.171585,-111.662209,2018,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2533277,AZ,Coconino,Flagstaff,Source2,3,35.1292,-111.183662,2018,7,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2538589,AZ,Coconino,Williams,Source2,3,35.255726,-111.93885,2018,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2544229,AZ,Coconino,Munds Park,Source2,3,34.941875,-111.653648,2018,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2554881,AZ,Coconino,Flagstaff,Source2,3,35.171585,-111.662209,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2562792,AZ,Coconino,Flagstaff,Source2,3,35.20195800000001,-111.407173,2018,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2562796,AZ,Coconino,Munds Park,Source2,3,34.941875,-111.653648,2018,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2568230,AZ,Coconino,Williams,Source2,3,35.220985,-112.276405,2018,13,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-2582909,AZ,Coconino,Flagstaff,Source2,3,35.201939,-111.47638700000002,2018,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2586832,AZ,Coconino,Flagstaff,Source2,3,35.208996,-111.517456,2018,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2587530,AZ,Coconino,Flagstaff,Source2,3,35.110409000000004,-111.030731,2018,5,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2592127,AZ,Coconino,Flagstaff,Source2,3,35.1292,-111.183662,2018,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2592142,AZ,Coconino,Williams,Source2,3,35.255726,-111.93885,2018,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2594586,AZ,Coconino,Munds Park,Source2,3,34.941875,-111.653648,2018,10,Wednesday,Rain,False,False,False,False,False,False,False
+A-2599892,AZ,Coconino,Sedona,Source2,3,34.853016,-111.607231,2018,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2606723,AZ,Coconino,Flagstaff,Source2,3,35.20195800000001,-111.407173,2018,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2609545,AZ,Coconino,Flagstaff,Source2,3,35.197723,-111.742233,2018,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2609584,AZ,Coconino,Flagstaff,Source2,3,35.236683,-111.822906,2018,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2609587,AZ,Coconino,Flagstaff,Source2,3,35.18594,-111.709663,2018,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2612271,AZ,Coconino,Flagstaff,Source2,3,35.052681,-110.785492,2018,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2617975,AZ,Coconino,Flagstaff,Source2,3,35.164879,-111.672241,2018,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2639554,AZ,Coconino,Flagstaff,Source2,3,35.192417,-111.707565,2018,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2640735,AZ,Coconino,Williams,Source2,3,35.255726,-111.93885,2018,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2641503,AZ,Coconino,Flagstaff,Source2,3,35.173393,-111.661255,2018,12,Sunday,Storm,False,False,False,False,False,False,False
+A-2648470,AZ,Coconino,Flagstaff,Source2,3,35.166752,-111.66938,2018,18,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-2668515,AZ,Coconino,Sedona,Source2,3,34.923477,-111.644958,2018,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2680347,AZ,Coconino,Flagstaff,Source2,3,34.981552,-111.685966,2018,4,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2680350,AZ,Coconino,Flagstaff,Source2,3,35.090076,-111.686119,2018,6,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2680354,AZ,Coconino,Flagstaff,Source2,3,35.117558,-111.090057,2018,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2681118,AZ,Coconino,Munds Park,Source2,3,34.941875,-111.653648,2018,4,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2681119,AZ,Coconino,Williams,Source2,3,35.245213,-112.21489,2018,4,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2681121,AZ,Coconino,Flagstaff,Source2,3,35.208996,-111.517456,2018,5,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2683013,AZ,Coconino,Williams,Source2,3,35.219776,-112.280022,2018,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2685232,AZ,Coconino,Sedona,Source2,3,34.875053,-111.635254,2018,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2685274,AZ,Coconino,Flagstaff,Source2,3,35.18594,-111.709663,2018,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2686805,AZ,Coconino,Flagstaff,Source2,3,35.191971,-111.621933,2018,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2692401,AZ,Coconino,Munds Park,Source2,3,34.937687,-111.650047,2018,4,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2692409,AZ,Coconino,Flagstaff,Source2,3,35.031712,-111.68409,2018,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2708586,AZ,Coconino,Flagstaff,Source2,3,35.198753,-111.750092,2018,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2708605,AZ,Coconino,Flagstaff,Source2,3,35.197723,-111.742233,2018,12,Tuesday,Storm,False,False,False,False,False,False,False
+A-2721919,AZ,Coconino,Flagstaff,Source2,3,35.161522,-111.271851,2018,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2724318,AZ,Coconino,Flagstaff,Source2,3,35.1292,-111.183662,2018,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2728885,AZ,Coconino,Williams,Source2,3,35.261505,-112.187721,2018,3,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2728889,AZ,Coconino,Sedona,Source2,3,35.008347,-111.736893,2018,8,Friday,Sin dato,False,False,False,False,False,False,False
+A-2737476,AZ,Coconino,Flagstaff,Source2,3,35.211006,-111.525291,2018,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2739250,AZ,Coconino,Sedona,Source2,3,34.912243,-111.641281,2018,5,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2741376,AZ,Coconino,Flagstaff,Source2,3,35.171585,-111.662209,2018,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2741399,AZ,Coconino,Flagstaff,Source2,3,35.171585,-111.662209,2018,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2748611,AZ,Coconino,Williams,Source2,3,35.25725900000001,-111.930717,2018,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2752840,AZ,Coconino,Munds Park,Source2,3,34.941875,-111.653648,2018,4,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2755035,AZ,Coconino,Williams,Source2,3,35.258354,-112.122299,2018,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2755037,AZ,Coconino,Flagstaff,Source2,3,35.236683,-111.822906,2018,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2759779,AZ,Coconino,Munds Park,Source2,3,34.941875,-111.653648,2018,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2765803,AZ,Coconino,Flagstaff,Source2,3,35.18594,-111.709663,2018,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2765805,AZ,Coconino,Flagstaff,Source2,3,35.171612,-111.6623,2018,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2775463,AZ,Coconino,Grand Canyon,Source2,3,35.957294,-112.131874,2018,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2775465,AZ,Coconino,Williams,Source2,3,35.263874,-112.171906,2018,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2777736,AZ,Coconino,Flagstaff,Source2,3,35.201782,-111.479019,2018,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2778784,AZ,Coconino,Flagstaff,Source2,3,35.236683,-111.822906,2018,4,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2781758,AZ,Coconino,Flagstaff,Source2,3,35.208996,-111.517456,2018,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2781768,AZ,Coconino,Williams,Source2,3,35.260658,-112.151176,2018,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2784161,AZ,Coconino,Williams,Source2,3,35.255726,-111.93885,2018,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2786503,AZ,Coconino,Sedona,Source2,3,34.853016,-111.607231,2018,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2796340,AZ,Coconino,Flagstaff,Source2,3,35.236683,-111.822906,2018,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2804490,AZ,Coconino,Flagstaff,Source2,3,35.067554,-110.835289,2018,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2805584,AZ,Coconino,Williams,Source2,3,35.262562,-112.042259,2018,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2808271,AZ,Coconino,Williams,Source2,3,35.220985,-112.276405,2018,12,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-2808290,AZ,Coconino,Flagstaff,Source2,3,35.171585,-111.662209,2018,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2810848,AZ,Coconino,Williams,Source2,3,35.258354,-112.122299,2018,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2818922,AZ,Coconino,Flagstaff,Source2,3,35.161522,-111.271851,2018,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2828584,AZ,Coconino,Sedona,Source2,3,34.825699,-111.609039,2018,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2845778,AZ,Coconino,Flagstaff,Source2,3,35.20195800000001,-111.407173,2018,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2845815,AZ,Coconino,Flagstaff,Source2,3,35.236683,-111.822906,2018,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2849580,AZ,Coconino,Flagstaff,Source2,3,35.191971,-111.621933,2018,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2849581,AZ,Coconino,Flagstaff,Source2,3,35.17099,-111.654793,2018,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2850185,AZ,Coconino,Munds Park,Source2,3,34.941875,-111.653648,2018,4,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2871404,AZ,Coconino,Williams,Source2,3,35.261772,-112.150551,2018,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2884751,AZ,Coconino,Flagstaff,Source2,3,35.115868,-111.090851,2018,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2886496,AZ,Coconino,Flagstaff,Source2,3,35.161522,-111.271851,2018,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2888865,AZ,Coconino,Flagstaff,Source2,3,35.20195800000001,-111.407173,2018,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2894185,AZ,Coconino,Sedona,Source2,3,34.853016,-111.607231,2018,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2894188,AZ,Coconino,Munds Park,Source2,3,34.941875,-111.653648,2018,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2896796,AZ,Coconino,Munds Park,Source2,3,34.941875,-111.653648,2018,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2899631,AZ,Coconino,Flagstaff,Source2,3,35.140381,-111.684578,2018,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2899632,AZ,Coconino,Munds Park,Source2,3,34.941875,-111.653648,2018,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2900659,AZ,Coconino,Flagstaff,Source2,3,35.171585,-111.662209,2018,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2903934,AZ,Coconino,Flagstaff,Source2,3,35.117615,-111.090424,2018,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2912054,AZ,Coconino,Flagstaff,Source2,3,35.236683,-111.822906,2018,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2912068,AZ,Coconino,Flagstaff,Source2,3,35.236683,-111.822906,2018,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2915871,AZ,Coconino,Flagstaff,Source2,3,35.117615,-111.090424,2018,5,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2916564,AZ,Coconino,Flagstaff,Source2,3,35.094383,-110.930664,2018,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2918760,AZ,Coconino,Flagstaff,Source2,3,35.191971,-111.621933,2018,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2930451,AZ,Coconino,Williams,Source2,3,35.255619,-111.938065,2018,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2937065,AZ,Coconino,Munds Park,Source2,3,34.941875,-111.653648,2018,6,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2937758,AZ,Coconino,Flagstaff,Source2,3,35.20195800000001,-111.407173,2018,5,Sunday,Rain,False,False,False,False,False,False,False
+A-2952826,AZ,Coconino,Flagstaff,Source2,3,35.139748,-111.684883,2018,8,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2952827,AZ,Coconino,Flagstaff,Source2,3,35.171585,-111.662209,2018,8,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2963523,AZ,Coconino,Flagstaff,Source2,3,35.20195800000001,-111.407173,2018,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2972076,AZ,Coconino,Flagstaff,Source2,3,35.236683,-111.822906,2018,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2982292,AZ,Coconino,Williams,Source2,3,35.245213,-112.21489,2018,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2984838,AZ,Coconino,Sedona,Source2,3,34.853016,-111.607231,2018,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2991730,AZ,Coconino,Flagstaff,Source2,3,35.171585,-111.662209,2018,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3004970,AZ,Coconino,Munds Park,Source2,3,34.941841,-111.653595,2018,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3007392,AZ,Coconino,Williams,Source2,3,35.220985,-112.276405,2018,15,Monday,Cloudy,False,False,True,False,False,False,False
+A-3007394,AZ,Coconino,Williams,Source2,3,35.220985,-112.276405,2018,12,Monday,Cloudy,False,False,True,False,False,False,False
+A-3007396,AZ,Coconino,Flagstaff,Source2,3,35.171585,-111.662209,2018,17,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-3007400,AZ,Coconino,Flagstaff,Source2,3,35.052078,-111.682793,2018,22,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-3017328,AZ,Coconino,Munds Park,Source2,3,34.941875,-111.653648,2018,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3020890,AZ,Coconino,Flagstaff,Source2,3,35.18594,-111.709663,2018,14,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-3023570,AZ,Coconino,Flagstaff,Source2,3,35.189922,-111.724297,2018,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3023594,AZ,Coconino,Munds Park,Source2,3,34.941875,-111.653648,2018,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3031468,AZ,Coconino,Williams,Source2,3,35.21646099999999,-112.37828799999998,2018,17,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3031510,AZ,Coconino,Flagstaff,Source2,3,35.171585,-111.662209,2018,11,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3031519,AZ,Coconino,Flagstaff,Source2,3,35.052071000000005,-111.682541,2018,15,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3031525,AZ,Coconino,Flagstaff,Source2,3,34.949471,-111.66468799999998,2018,19,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3056078,AZ,Coconino,Munds Park,Source2,3,34.941875,-111.653648,2018,22,Tuesday,Rain,False,False,False,False,False,False,False
+A-3070996,AZ,Coconino,Sedona,Source2,3,34.853016,-111.607231,2018,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3076822,AZ,Coconino,Williams,Source2,3,35.255726,-111.93885,2018,10,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-3076824,AZ,Coconino,Sedona,Source2,3,34.855793,-111.608932,2018,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3077405,AZ,Coconino,Flagstaff,Source2,3,35.208183,-111.516388,2018,8,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3077406,AZ,Coconino,Sedona,Source2,3,34.853016,-111.607231,2018,9,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3077407,AZ,Coconino,Sedona,Source2,3,34.853016,-111.607231,2018,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3091331,AZ,Coconino,Williams,Source2,3,35.220387,-112.277946,2018,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3099059,AZ,Coconino,Flagstaff,Source2,3,35.090076,-111.686119,2017,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3102038,AZ,Coconino,Sedona,Source2,3,34.853016,-111.607231,2017,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-3102043,AZ,Coconino,Flagstaff,Source2,3,35.094383,-110.930664,2017,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-3102044,AZ,Coconino,Sedona,Source2,3,34.853016,-111.607231,2017,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3119620,AZ,Coconino,Munds Park,Source2,3,34.941875,-111.653648,2017,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3127000,AZ,Coconino,Flagstaff,Source2,3,35.236683,-111.822906,2017,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3130002,AZ,Coconino,Williams,Source2,3,35.22068,-112.274315,2017,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3133803,AZ,Coconino,Williams,Source2,3,35.220932,-112.27328500000002,2017,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3147869,AZ,Coconino,Williams,Source2,3,35.235126,-112.228279,2017,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3148737,AZ,Coconino,Flagstaff,Source2,3,35.10413,-111.681229,2017,6,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3148740,AZ,Coconino,Sedona,Source2,3,34.852505,-111.606674,2017,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3159671,AZ,Coconino,Flagstaff,Source2,3,35.161522,-111.271851,2017,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3162102,AZ,Coconino,Flagstaff,Source2,3,35.161522,-111.271851,2017,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3164429,AZ,Coconino,Flagstaff,Source2,3,35.201939,-111.47638700000002,2017,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3166842,AZ,Coconino,Flagstaff,Source2,3,35.171585,-111.662209,2017,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-3167829,AZ,Coconino,Flagstaff,Source2,3,35.189922,-111.724297,2017,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3168380,AZ,Coconino,Flagstaff,Source2,3,35.197723,-111.742233,2017,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3180405,AZ,Coconino,Sedona,Source2,3,34.875053,-111.635254,2017,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3180950,AZ,Coconino,Flagstaff,Source2,3,35.18594,-111.709663,2017,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3190212,AZ,Coconino,Williams,Source2,3,35.26141,-112.07196,2017,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3199166,AZ,Coconino,Sedona,Source2,3,34.853016,-111.607231,2017,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3206660,AZ,Coconino,Williams,Source2,3,35.245213,-112.21489,2017,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3221516,AZ,Coconino,Munds Park,Source2,3,34.941875,-111.653648,2017,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3221524,AZ,Coconino,Flagstaff,Source2,3,35.094429,-110.930962,2017,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3221582,AZ,Coconino,Flagstaff,Source2,3,35.20195800000001,-111.407173,2017,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3224376,AZ,Coconino,Sedona,Source2,3,34.853016,-111.607231,2017,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3224403,AZ,Coconino,Williams,Source2,3,35.260658,-112.151176,2017,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3224437,AZ,Coconino,Williams,Source2,3,35.22197,-112.273354,2017,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3227206,AZ,Coconino,Flagstaff,Source2,3,35.1292,-111.183662,2017,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3236907,AZ,Coconino,Flagstaff,Source2,3,35.20195800000001,-111.407173,2017,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3239834,AZ,Coconino,Flagstaff,Source2,3,35.18594,-111.709663,2017,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3239838,AZ,Coconino,Flagstaff,Source2,3,35.191971,-111.621933,2017,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3242474,AZ,Coconino,Flagstaff,Source2,3,35.191971,-111.621933,2017,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3244598,AZ,Coconino,Flagstaff,Source2,3,35.171585,-111.662209,2017,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3244616,AZ,Coconino,Flagstaff,Source2,3,35.117615,-111.090424,2017,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3244621,AZ,Coconino,Flagstaff,Source2,3,35.221142,-111.587814,2017,19,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-3245455,AZ,Coconino,Williams,Source2,3,35.220985,-112.276405,2017,7,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-3268023,AZ,Coconino,Sedona,Source2,3,34.912243,-111.641281,2017,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3268024,AZ,Coconino,Flagstaff,Source2,3,35.236683,-111.822906,2017,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3272865,AZ,Coconino,Williams,Source2,3,35.22031,-112.275597,2017,3,Friday,Cloudy,False,False,False,False,False,False,False
+A-3281831,AZ,Coconino,Williams,Source2,3,35.255726,-111.93885,2017,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-3284811,AZ,Coconino,Flagstaff,Source2,3,35.236683,-111.822906,2017,3,Monday,Cloudy,False,False,False,False,False,False,False
+A-3284822,AZ,Coconino,Sedona,Source2,3,34.912243,-111.641281,2017,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3284827,AZ,Coconino,Munds Park,Source2,3,34.941875,-111.653648,2017,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3287538,AZ,Coconino,Flagstaff,Source2,3,35.236019,-111.8228,2017,13,Tuesday,Storm,False,False,False,False,False,False,False
+A-3297451,AZ,Coconino,Flagstaff,Source2,3,35.201939,-111.47638700000002,2017,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3306011,AZ,Coconino,Flagstaff,Source2,3,35.221142,-111.587814,2017,13,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-3315996,AZ,Coconino,Flagstaff,Source2,3,35.211212,-111.773987,2017,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3327773,AZ,Coconino,Flagstaff,Source2,3,35.117615,-111.090424,2017,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-3327832,AZ,Coconino,Flagstaff,Source2,3,35.171585,-111.662209,2017,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3328786,AZ,Coconino,Flagstaff,Source2,3,35.018524,-111.68486,2017,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3331749,AZ,Coconino,Williams,Source2,3,35.258354,-112.122299,2017,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3331752,AZ,Coconino,Flagstaff,Source2,3,35.192707,-111.622169,2017,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3334713,AZ,Coconino,Flagstaff,Source2,3,35.018524,-111.68486,2017,3,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3334739,AZ,Coconino,Flagstaff,Source2,3,35.208996,-111.517456,2017,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3347194,AZ,Coconino,Flagstaff,Source2,3,35.090076,-111.686119,2017,13,Friday,Rain,False,False,False,False,False,False,False
+A-3350239,AZ,Coconino,Flagstaff,Source2,3,35.208996,-111.517456,2017,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3352779,AZ,Coconino,Williams,Source2,3,35.21646900000001,-112.375824,2017,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3352834,AZ,Coconino,Flagstaff,Source2,3,35.191971,-111.621933,2017,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3364888,AZ,Coconino,Flagstaff,Source2,3,35.236683,-111.822906,2017,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3369772,AZ,Coconino,Flagstaff,Source2,3,35.216827,-111.582642,2017,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3372444,AZ,Coconino,Flagstaff,Source2,3,35.197723,-111.742233,2017,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-3373809,AZ,Coconino,Flagstaff,Source2,3,35.166424,-111.318909,2017,8,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3379009,AZ,Coconino,Flagstaff,Source2,3,35.197723,-111.742233,2017,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3387443,AZ,Coconino,Munds Park,Source2,3,34.941875,-111.653648,2017,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3388430,AZ,Coconino,Williams,Source2,3,35.255726,-111.93885,2017,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3388987,AZ,Coconino,Flagstaff,Source2,3,35.242657,-111.835571,2017,6,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3400072,AZ,Coconino,Williams,Source2,3,35.260658,-112.151176,2017,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3412150,AZ,Coconino,Williams,Source2,3,35.220985,-112.276405,2017,8,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-3412197,AZ,Coconino,Flagstaff,Source2,3,35.110409000000004,-111.030731,2017,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3511657,AZ,Coconino,Sedona,Source1,4,34.47359,-111.38101,2016,14,Saturday,Rain,False,False,False,False,False,False,False
+A-3511658,AZ,Coconino,Sedona,Source1,4,34.904788,-111.641809,2016,15,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-3511660,AZ,Coconino,Flagstaff,Source1,4,35.17442,-111.66978,2016,20,Saturday,Snow / Ice,False,False,True,False,False,False,False
+A-3511866,AZ,Coconino,Sedona,Source1,4,34.30278,-110.85776,2017,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3512079,AZ,Coconino,Flagstaff,Source1,4,35.263199,-111.705061,2017,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-3512209,AZ,Coconino,Heber,Source1,4,34.329146,-110.807312,2017,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3512438,AZ,Coconino,Flagstaff,Source1,4,35.042623,-111.733622,2016,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3512465,AZ,Coconino,Flagstaff,Source1,4,35.237605,-111.572873,2016,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3512574,AZ,Coconino,Flagstaff,Source1,4,35.066021,-110.830052,2016,17,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-3512575,AZ,Coconino,Flagstaff,Source1,4,35.09478,-110.93528,2016,17,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-3512720,AZ,Coconino,Williams,Source1,4,35.24885,-112.21058,2016,5,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-3512721,AZ,Coconino,Williams,Source1,3,35.23981,-112.21869,2016,6,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-3512743,AZ,Coconino,Flagstaff,Source1,4,35.06597,-110.82987,2016,5,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-3512789,AZ,Coconino,Flagstaff,Source1,4,35.1683,-111.66764,2016,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3512790,AZ,Coconino,Flagstaff,Source1,4,35.171479999999995,-111.6657,2016,10,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-3513182,AZ,Coconino,Flagstaff,Source1,4,35.17434,-111.66176000000002,2016,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3513265,AZ,Coconino,Flagstaff,Source1,4,35.24187,-111.83386000000002,2016,17,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-3513442,AZ,Coconino,Sedona,Source1,3,34.517356,-111.5281,2016,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3513567,AZ,Coconino,Williams,Source1,4,35.271169,-112.148813,2016,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3513675,AZ,Coconino,Flagstaff,Source1,4,35.121726,-111.702956,2016,0,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3513676,AZ,Coconino,Flagstaff,Source1,4,35.125896000000004,-111.692846,2016,0,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3513991,AZ,Coconino,Happy Jack,Source1,4,34.62738,-111.126628,2016,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3514207,AZ,Coconino,Williams,Source1,4,35.263559,-112.046405,2016,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3514208,AZ,Coconino,Williams,Source1,4,35.2568,-111.93433,2016,5,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-3514219,AZ,Coconino,Williams,Source1,4,35.2568,-111.93433,2016,8,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-3514220,AZ,Coconino,Williams,Source1,4,35.25414,-111.94414,2016,8,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-3514399,AZ,Coconino,Sedona,Source1,3,34.855920000000005,-111.60904,2016,16,Saturday,Cloudy,False,False,True,False,False,False,False
+A-3514430,AZ,Coconino,Flagstaff,Source1,4,35.255635,-111.702036,2016,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3514431,AZ,Coconino,Flagstaff,Source1,4,35.260516,-111.704717,2016,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3514497,AZ,Coconino,Flagstaff,Source1,3,35.146283000000004,-111.682939,2016,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3514570,AZ,Coconino,Flagstaff,Source1,4,35.0937,-110.92597,2016,22,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-3514963,AZ,Coconino,Flagstaff,Source1,4,35.15958,-111.28507,2016,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3514964,AZ,Coconino,Flagstaff,Source1,4,35.15958,-111.28507,2016,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3514965,AZ,Coconino,Flagstaff,Source1,4,35.127746,-111.179673,2016,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3515462,AZ,Coconino,Flagstaff,Source1,4,35.19475,-111.61813,2016,23,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-3515471,AZ,Coconino,Flagstaff,Source1,4,35.15958,-111.28507,2016,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3516072,AZ,Coconino,Flagstaff,Source1,3,35.172059999999995,-111.65248,2016,15,Monday,Rain,False,False,False,False,False,False,False
+A-3516076,AZ,Coconino,Flagstaff,Source1,4,35.172059999999995,-111.65248,2016,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-3563430,AZ,Coconino,Flagstaff,Source1,3,35.238524,-111.828111,2017,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3563701,AZ,Coconino,Sedona,Source1,4,34.87814,-111.63713,2017,11,Sunday,Cloudy,False,False,True,False,False,False,False
+A-3586670,AZ,Coconino,Williams,Source1,4,35.26369000000001,-112.04462,2017,6,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-3586817,AZ,Coconino,Williams,Source1,4,35.26440200000001,-112.047722,2017,7,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3606243,AZ,Coconino,Page,Source1,4,36.86284000000001,-111.504715,2017,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-3606245,AZ,Coconino,Page,Source1,4,36.786005,-111.543156,2017,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-3619442,AZ,Coconino,Williams,Source1,4,35.653908,-112.139224,2017,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3619443,AZ,Coconino,Williams,Source1,4,35.65213,-112.13947,2017,10,Monday,Clear / Fair,False,False,False,True,False,False,False
+A-3619444,AZ,Coconino,Williams,Source1,4,35.65213,-112.13947,2017,10,Monday,Clear / Fair,False,False,False,True,False,False,False
+A-3619445,AZ,Coconino,Williams,Source1,4,35.651103000000006,-112.139604,2017,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3619446,AZ,Coconino,Williams,Source1,4,35.65208900000001,-112.139475,2017,10,Monday,Cloudy,False,False,False,True,False,False,False
+A-3619447,AZ,Coconino,Williams,Source1,4,35.651103000000006,-112.139604,2017,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-3619609,AZ,Coconino,Flagstaff,Source1,3,35.119973,-111.708107,2017,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3619610,AZ,Coconino,Flagstaff,Source1,3,35.105757000000004,-111.725308,2017,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3619611,AZ,Coconino,Tuba City,Source1,3,35.76192,-111.466453,2017,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3619612,AZ,Coconino,Tuba City,Source1,3,35.79049000000001,-111.44991,2017,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3619721,AZ,Coconino,Marble Canyon,Source1,4,36.71856,-112.00493,2017,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3619722,AZ,Coconino,Fredonia,Source1,4,36.731234,-112.046048,2017,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3619799,AZ,Coconino,Flagstaff,Source1,4,35.054161,-111.68301,2017,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3619850,AZ,Coconino,Tonalea,Source1,4,35.97105999999999,-110.82985,2017,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3619995,AZ,Coconino,Williams,Source1,4,35.26369000000001,-112.04462,2017,0,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-3635405,AZ,Coconino,Flagstaff,Source1,4,35.06863,-110.84005,2017,17,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-3635597,AZ,Coconino,Tuba City,Source1,4,36.217665,-111.043471,2017,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3635598,AZ,Coconino,Tuba City,Source1,4,36.182854,-111.074321,2017,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3635599,AZ,Coconino,Tuba City,Source1,4,36.217665,-111.043471,2017,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3635753,AZ,Coconino,Flagstaff,Source1,4,35.306739,-111.542681,2017,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3635756,AZ,Coconino,Flagstaff,Source1,4,35.306739,-111.542681,2017,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3635828,AZ,Coconino,Sedona,Source1,4,34.30278,-110.85776,2017,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3635829,AZ,Coconino,Heber,Source1,4,34.325545,-110.833029,2017,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3635916,AZ,Coconino,Kaibeto,Source1,4,36.424373,-110.790695,2017,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3635919,AZ,Coconino,Kaibeto,Source1,4,36.424373,-110.790695,2017,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3635920,AZ,Coconino,Kaibeto,Source1,4,36.424373,-110.790695,2017,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3647439,AZ,Coconino,Flagstaff,Source1,3,35.197912,-111.65393799999998,2017,12,Thursday,Rain,False,False,False,False,False,False,False
+A-3647671,AZ,Coconino,Flagstaff,Source1,4,35.21512,-111.58626,2017,5,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-3654628,AZ,Coconino,Williams,Source1,4,35.254264,-111.943666,2023,2,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3687033,AZ,Coconino,Flagstaff,Source1,4,35.255525,-111.919255,2023,1,Friday,Cloudy,False,False,False,False,False,False,False
+A-3689943,AZ,Coconino,Sedona,Source1,4,34.45721,-111.406971,2023,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3693084,AZ,Coconino,Sedona,Source1,4,34.301603,-110.882838,2023,13,Tuesday,Rain,False,False,False,False,False,False,False
+A-3699567,AZ,Coconino,Sedona,Source1,4,34.476788,-111.381192,2023,8,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3700087,AZ,Coconino,Flagstaff,Source1,4,35.188363,-111.717347,2023,11,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-3706920,AZ,Coconino,Flagstaff,Source1,4,35.20185700000001,-111.479509,2023,1,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3747830,AZ,Coconino,Williams,Source1,4,35.706094,-112.132133,2022,14,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3758398,AZ,Coconino,Parks,Source1,4,35.248314142059094,-111.98408245986946,2022,10,Saturday,Sin dato,False,False,False,False,False,False,False
+A-3773698,AZ,Coconino,Flagstaff,Source1,4,35.15841,-111.29764,2023,0,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3798037,AZ,Coconino,Page,Source1,4,36.81627,-111.306598,2022,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3834309,AZ,Coconino,Sedona,Source1,4,34.500867,-111.366556,2022,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3929230,AZ,Coconino,Forest Lakes,Source1,4,34.30248141,-110.85785508,2022,16,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3976101,AZ,Coconino,Tonalea,Source1,4,36.287642,-110.995224,2022,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3976102,AZ,Coconino,Tonalea,Source1,4,36.287642,-110.995224,2022,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4003528,AZ,Coconino,Sedona,Source1,4,35.030206,-111.740868,2022,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4043486,AZ,Coconino,Flagstaff,Source1,4,35.412985,-111.573061,2022,13,Sunday,Storm,False,False,False,False,False,False,False
+A-4047993,AZ,Coconino,Cameron,Source1,4,35.928629636593215,-111.4015495771818,2022,4,Thursday,Sin dato,False,False,False,False,False,False,False
+A-4048807,AZ,Coconino,Williams,Source1,4,35.221728086303614,-112.26610064452996,2022,12,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-4114257,AZ,Coconino,Flagstaff,Source1,4,35.21212,-111.533203,2023,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4114258,AZ,Coconino,Flagstaff,Source1,4,35.213362,-111.538499,2023,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4223789,AZ,Coconino,Flagstaff,Source1,4,35.173292,-111.33631,2022,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4245890,AZ,Coconino,Parks,Source1,4,35.25458,-112.008921,2022,13,Thursday,Sin dato,False,False,False,False,False,False,False
+A-4307907,AZ,Coconino,Sedona,Source1,4,34.45545300000001,-111.396522,2022,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4370756,AZ,Coconino,Flagstaff,Source1,4,35.09705,-110.950801,2022,3,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4371717,AZ,Coconino,Flagstaff,Source1,4,35.070008,-110.844737,2023,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4386847,AZ,Coconino,Tuba City,Source1,4,36.107282,-111.250369,2022,8,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4390079,AZ,Coconino,Tuba City,Source1,4,36.077915,-111.391625,2022,16,Sunday,Storm,False,False,False,False,False,False,False
+A-4426497,AZ,Coconino,Flagstaff,Source1,4,35.451496,-111.773368,2023,9,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-4429603,AZ,Coconino,Williams,Source1,4,35.221728086303614,-112.26610064452996,2022,12,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-4433650,AZ,Coconino,Flagstaff,Source1,4,35.15625,-111.257409,2023,0,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-4472691,AZ,Coconino,Flagstaff,Source1,4,35.199613,-111.75508700000002,2022,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4500810,AZ,Coconino,Forest Lakes,Source1,4,34.330998,-110.767083,2022,9,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4509994,AZ,Coconino,Sedona,Source1,4,34.32522,-110.83541,2022,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-4521802,AZ,Coconino,Tonalea,Source1,4,36.282064,-111.001826,2022,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4532052,AZ,Coconino,Gray Mountain,Source1,4,35.72920900000001,-111.481103,2022,14,Monday,Sin dato,False,False,False,False,False,False,False
+A-4573219,AZ,Coconino,Williams,Source1,4,35.447665,-112.17137,2022,1,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4590096,AZ,Coconino,Gray Mountain,Source1,4,35.742128,-111.475209,2022,14,Monday,Sin dato,False,False,False,False,False,False,False
+A-4624948,AZ,Coconino,Forest Lakes,Source1,4,34.330998,-110.767083,2022,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4627045,AZ,Coconino,Flagstaff,Source1,4,35.216025,-111.550842,2022,7,Wednesday,Rain,False,False,False,False,False,False,False
+A-4630485,AZ,Coconino,Gray Mountain,Source1,4,35.65774099999999,-111.513959,2022,14,Monday,Sin dato,False,False,False,False,False,False,False
+A-4653862,AZ,Coconino,Sedona,Source1,4,34.487969,-111.37511299999998,2022,13,Thursday,Storm,False,False,False,False,False,False,False
+A-4660465,AZ,Coconino,Page,Source1,4,36.83677700000001,-111.508496,2022,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4716938,AZ,Coconino,Forest Lakes,Source1,4,34.329353999999995,-110.805767,2023,14,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4792228,AZ,Coconino,Gray Mountain,Source1,4,35.734941,-111.47846,2022,14,Monday,Sin dato,False,False,False,False,False,False,False
+A-4795927,AZ,Coconino,Williams,Source1,4,35.715693,-112.131225,2022,14,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-4818914,AZ,Coconino,Forest Lakes,Source1,4,34.33,-110.77526,2022,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4823944,AZ,Coconino,Flagstaff,Source1,4,35.209584,-111.522405,2023,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4849005,AZ,Coconino,Williams,Source1,4,35.213714,-112.419032,2022,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4868478,AZ,Coconino,Happy Jack,Source1,4,34.765477000000004,-111.01376100000002,2022,3,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4902653,AZ,Coconino,Happy Jack,Source1,4,34.452499,-111.428657,2023,14,Sunday,Rain,False,False,False,False,False,False,False
+A-4940006,AZ,Coconino,Flagstaff,Source1,4,35.189166,-111.625477,2022,21,Thursday,Storm,False,False,False,False,False,False,False
+A-4940007,AZ,Coconino,Flagstaff,Source1,4,35.19772800000001,-111.613241,2022,21,Thursday,Storm,False,False,False,False,False,False,False
+A-4977665,AZ,Coconino,Flagstaff,Source1,4,35.213362,-111.538499,2023,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5003860,AZ,Coconino,Tuba City,Source1,4,36.02327899999999,-111.13889,2022,5,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5011912,AZ,Coconino,Flagstaff,Source1,4,35.245881,-111.564121,2022,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5037917,AZ,Coconino,Tonalea,Source1,4,36.304751,-110.970299,2022,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5124703,AZ,Coconino,Sedona,Source1,4,34.452842,-111.430606,2023,14,Sunday,Rain,False,False,False,False,False,False,False
+A-5194073,AZ,Coconino,Williams,Source1,4,35.216232,-112.377727,2022,5,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-5200974,AZ,Coconino,Page,Source1,4,36.783572,-111.547186,2022,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5222307,AZ,Coconino,Flagstaff,Source1,4,35.111729,-111.043443,2023,7,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-5235490,AZ,Coconino,Sedona,Source1,4,34.302079,-110.885543,2023,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5269613,AZ,Coconino,Happy Jack,Source1,4,34.798506,-110.9833,2022,3,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5281955,AZ,Coconino,Seligman,Source1,4,35.532859,-113.241239,2023,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5305631,AZ,Coconino,Flagstaff,Source1,4,35.20277700000001,-111.463767,2022,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5355000,AZ,Coconino,Flagstaff,Source1,4,35.245636,-111.686422,2022,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5356989,AZ,Coconino,Gray Mountain,Source1,4,35.734941,-111.47846,2022,14,Monday,Sin dato,False,False,False,False,False,False,False
+A-5365391,AZ,Coconino,Flagstaff,Source1,4,35.09377598745778,-111.68485522216946,2022,16,Thursday,Snow / Ice,False,False,True,False,False,False,False
+A-5367016,AZ,Coconino,Cameron,Source1,4,36.01278662664407,-111.39541268295577,2022,5,Thursday,Sin dato,False,False,False,False,False,False,False
+A-5377384,AZ,Coconino,Flagstaff,Source1,4,35.209719,-111.522989,2023,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5416504,AZ,Coconino,Sedona,Source1,4,34.805105924440355,-111.76757454818836,2022,23,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5426298,AZ,Coconino,Tuba City,Source1,4,36.235175,-111.027926,2022,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5489923,AZ,Coconino,Tuba City,Source1,4,35.928624,-111.401556,2021,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5528330,AZ,Coconino,Kaibeto,Source1,4,36.613345,-111.069412,2021,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5539188,AZ,Coconino,Flagstaff,Source1,4,35.03197789175495,-111.73407912201056,2021,0,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5545350,AZ,Coconino,Tuba City,Source1,4,35.983993,-111.394055,2021,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5630078,AZ,Coconino,Flagstaff,Source1,4,35.53964495641928,-111.5393936628745,2021,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5650075,AZ,Coconino,Flagstaff,Source1,4,35.134871999999994,-111.685007,2021,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5668722,AZ,Coconino,Flagstaff,Source1,4,35.193536,-111.734007,2021,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5689853,AZ,Coconino,Sedona,Source1,4,34.89886,-111.73179,2021,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5717923,AZ,Coconino,Flagstaff,Source1,4,35.188266,-111.717052,2021,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5738643,AZ,Coconino,Tuba City,Source1,4,35.865986,-111.415696,2021,20,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5764727,AZ,Coconino,Flagstaff,Source1,4,35.201955,-111.407176,2021,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5781885,AZ,Coconino,Flagstaff,Source1,4,35.71630597097532,-111.48804545349364,2021,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5829345,AZ,Coconino,Marble Canyon,Source1,4,36.72511696797978,-112.07244515365564,2021,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5939312,AZ,Coconino,Happy Jack,Source1,4,34.514311551883154,-111.34138226456,2021,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-6071521,AZ,Coconino,Fredonia,Source1,4,36.725006,-112.199079,2021,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6080119,AZ,Coconino,Flagstaff,Source1,4,35.195438,-111.738902,2021,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6123448,AZ,Coconino,Sedona,Source1,4,34.314422,-110.8501,2021,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6152917,AZ,Coconino,Flagstaff,Source1,4,35.198658,-111.399793,2021,3,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6166477,AZ,Coconino,Flagstaff,Source1,4,35.018557,-111.684565,2021,17,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-6198780,AZ,Coconino,Kaibeto,Source1,4,36.634618,-111.65171,2021,3,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6205016,AZ,Coconino,Fredonia,Source1,4,36.747705,-112.120286,2021,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6220213,AZ,Coconino,Kaibeto,Source1,4,36.580365,-110.850978,2021,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6221322,AZ,Coconino,Williams,Source1,4,35.23655533773787,-112.22494482940566,2021,15,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-6258635,AZ,Coconino,Flagstaff,Source1,4,35.139477,-111.212557,2021,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6290899,AZ,Coconino,Sedona,Source1,4,34.571379,-111.27104,2021,0,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6298882,AZ,Coconino,Tonalea,Source1,4,36.583625078026856,-110.81187128967852,2021,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6350053,AZ,Coconino,Flagstaff,Source1,4,35.340743,-111.557771,2021,21,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-6355246,AZ,Coconino,Flagstaff,Source1,4,35.201947,-111.476496,2021,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6368660,AZ,Coconino,Kaibeto,Source1,4,36.43984,-110.751442,2021,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6411573,AZ,Coconino,Flagstaff,Source1,4,35.716305,-111.488045,2021,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6420677,AZ,Coconino,Sedona,Source1,4,34.894166,-111.732621,2021,9,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6458285,AZ,Coconino,Flagstaff,Source1,4,35.745252,-111.473754,2021,2,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6479370,AZ,Coconino,Williams,Source1,4,35.216474,-112.378178,2021,8,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-6508768,AZ,Coconino,Sedona,Source1,4,34.508736,-111.351602,2021,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6534110,AZ,Coconino,Kaibeto,Source1,4,36.436405,-110.760209,2021,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6541962,AZ,Coconino,Kaibeto,Source1,4,36.732023,-111.283571,2021,19,Friday,Rain,False,False,False,False,False,False,False
+A-6622985,AZ,Coconino,Forest Lakes,Source1,4,34.333867,-110.752833,2020,0,Monday,Clear / Fair,False,False,False,True,False,False,False
+A-6633456,AZ,Coconino,Page,Source1,4,36.895668,-111.395503,2020,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6750690,AZ,Coconino,Williams,Source1,4,35.329807,-112.156646,2020,23,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6754737,AZ,Coconino,Tuba City,Source1,4,35.761524,-111.46662,2020,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6755041,AZ,Coconino,Flagstaff,Source1,4,34.956335,-111.676599,2020,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6801621,AZ,Coconino,Bellemont,Source1,4,35.236683,-111.822902,2020,8,Sunday,Sin dato,False,False,False,False,False,False,False
+A-6847096,AZ,Coconino,Flagstaff,Source1,4,35.716305,-111.488045,2020,0,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7063398,AZ,Coconino,Flagstaff,Source1,4,35.11786,-111.09577,2020,22,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-7063409,AZ,Coconino,Flagstaff,Source1,4,35.11785,-111.0963,2020,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7092454,AZ,Coconino,Page,Source1,4,36.9306,-111.47269,2020,16,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-7100620,AZ,Coconino,Flagstaff,Source1,4,35.69855,-111.49988,2020,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7113903,AZ,Coconino,Williams,Source1,4,35.21615999999999,-112.37828,2020,5,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-7120890,AZ,Coconino,Williams,Source1,4,35.2391,-112.22007,2020,21,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7120913,AZ,Coconino,Williams,Source1,4,35.2391,-112.22007,2020,22,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7123649,AZ,Coconino,Williams,Source1,4,35.2391,-112.22007,2020,6,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-7126706,AZ,Coconino,Sedona,Source1,3,34.88532,-111.74305,2020,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-7126707,AZ,Coconino,Sedona,Source1,3,34.88533,-111.74138,2020,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7126709,AZ,Coconino,Sedona,Source1,4,34.86596,-111.76369,2020,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-7126743,AZ,Coconino,Sedona,Source1,3,34.88532,-111.74305,2020,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7147596,AZ,Coconino,Flagstaff,Source1,3,35.37203,-111.57522,2020,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7176633,AZ,Coconino,Flagstaff,Source1,4,35.26407000000001,-111.54805,2020,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7184522,AZ,Coconino,Sedona,Source1,4,34.4215,-111.51149,2020,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7184525,AZ,Coconino,Sedona,Source1,4,34.4542,-111.4388,2020,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7184526,AZ,Coconino,Sedona,Source1,4,34.4542,-111.4388,2020,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7187368,AZ,Coconino,Flagstaff,Source1,3,35.08576,-111.68727,2020,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7201185,AZ,Coconino,Sedona,Source1,4,34.30294,-110.8968,2020,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7206301,AZ,Coconino,Flagstaff,Source1,3,35.16708,-111.66883,2020,4,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7210562,AZ,Coconino,Sedona,Source1,3,34.855920000000005,-111.60904,2020,5,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7216742,AZ,Coconino,Williams,Source1,4,35.25859000000001,-112.14472,2020,10,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7235847,AZ,Coconino,Sedona,Source1,4,34.81006,-111.60608,2020,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7265261,AZ,Coconino,Flagstaff,Source1,4,35.20159,-111.47239,2020,1,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7275339,AZ,Coconino,Flagstaff,Source1,4,35.17442,-111.66978,2020,2,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7280626,AZ,Coconino,Flagstaff,Source1,4,35.06863,-110.84005,2020,7,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7284458,AZ,Coconino,Flagstaff,Source1,3,35.10973,-111.02524,2020,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7285665,AZ,Coconino,Tuba City,Source1,4,35.85489000000001,-111.42467,2019,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-7285669,AZ,Coconino,Flagstaff,Source1,4,35.16681,-111.31905,2019,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-7288483,AZ,Coconino,Flagstaff,Source1,4,35.12768,-111.69166,2019,22,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7288484,AZ,Coconino,Sedona,Source1,4,34.98985,-111.74128,2019,22,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7289325,AZ,Coconino,Sedona,Source1,4,34.90981,-111.64102,2019,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7289326,AZ,Coconino,Munds Park,Source1,4,34.93909,-111.65043,2019,7,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7289327,AZ,Coconino,Tuba City,Source1,4,35.85524,-111.42551,2019,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7333944,AZ,Coconino,Kaibeto,Source1,4,36.62477,-111.65369,2019,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7338092,AZ,Coconino,Tuba City,Source1,4,35.86753,-111.41469,2019,4,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7381896,AZ,Coconino,Flagstaff,Source1,3,35.17442,-111.66978,2019,4,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7382214,AZ,Coconino,Page,Source1,4,36.93037,-111.47263999999998,2019,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7382215,AZ,Coconino,Page,Source1,4,36.9256,-111.47209,2019,16,Friday,Clear / Fair,False,False,False,True,False,False,False
+A-7397543,AZ,Coconino,Flagstaff,Source1,4,35.0936,-111.68494,2019,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7403872,AZ,Coconino,Flagstaff,Source1,4,35.13134,-111.18949,2019,4,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7407137,AZ,Coconino,Williams,Source1,3,35.21615999999999,-112.37828,2019,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7411680,AZ,Coconino,Williams,Source1,3,35.21938,-112.27926,2019,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7417646,AZ,Coconino,Grand Canyon,Source1,3,35.926595,-112.130455,2019,22,Friday,Cloudy,False,False,False,False,False,False,False
+A-7417647,AZ,Coconino,Grand Canyon,Source1,3,35.830447,-112.132,2019,22,Friday,Cloudy,False,False,False,False,False,False,False
+A-7425616,AZ,Coconino,Flagstaff,Source1,4,35.20302,-111.41365,2019,5,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7429357,AZ,Coconino,Kaibeto,Source1,3,36.379487,-110.888892,2019,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7429358,AZ,Coconino,Kaibeto,Source1,3,36.352902,-110.908444,2019,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7435274,AZ,Coconino,Flagstaff,Source1,4,35.20967,-111.52271,2019,1,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7435275,AZ,Coconino,Flagstaff,Source1,4,35.18905,-111.62568,2019,5,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7440843,AZ,Coconino,Williams,Source1,4,35.254671,-112.009293,2019,13,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-7449318,AZ,Coconino,Flagstaff,Source1,3,35.19475,-111.61813,2019,21,Monday,Cloudy,False,False,True,False,False,False,False
+A-7453192,AZ,Coconino,Fredonia,Source1,4,36.713642,-112.215332,2019,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7457842,AZ,Coconino,Tuba City,Source1,4,35.953779,-111.398135,2019,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7457843,AZ,Coconino,Tuba City,Source1,4,35.893423,-111.406697,2019,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7461547,AZ,Coconino,Flagstaff,Source1,4,35.17116,-111.6628,2019,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7461548,AZ,Coconino,Flagstaff,Source1,3,35.171479999999995,-111.6657,2019,19,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7464240,AZ,Coconino,Williams,Source1,3,35.22000999999999,-112.27911,2019,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7464245,AZ,Coconino,Williams,Source1,3,35.22000999999999,-112.27911,2019,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7464993,AZ,Coconino,Flagstaff,Source1,4,35.172059999999995,-111.65248,2019,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7464996,AZ,Coconino,Flagstaff,Source1,4,35.171890000000005,-111.65599,2019,8,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7464998,AZ,Coconino,Flagstaff,Source1,4,35.172059999999995,-111.65248,2019,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7465001,AZ,Coconino,Flagstaff,Source1,4,35.17243,-111.66175,2019,9,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7472964,AZ,Coconino,Sedona,Source1,3,34.84917,-111.60498,2018,8,Friday,Rain,False,False,True,False,False,False,False
+A-7472984,AZ,Coconino,Sedona,Source1,4,34.93807,-111.74833999999998,2018,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-7472985,AZ,Coconino,Sedona,Source1,4,34.903662,-111.728417,2018,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-7473449,AZ,Coconino,Flagstaff,Source1,3,35.161696,-111.272451,2018,5,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7474497,AZ,Coconino,Tuba City,Source1,4,36.158665,-111.11173,2018,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7485429,AZ,Coconino,Tuba City,Source1,4,35.85466,-111.42494,2018,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7485430,AZ,Coconino,Tuba City,Source1,4,35.85922199999999,-111.42104,2018,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7491398,AZ,Coconino,Sedona,Source1,3,34.84917,-111.60498,2018,13,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7492037,AZ,Coconino,Williams,Source1,4,35.21436,-112.42806000000002,2018,23,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7499351,AZ,Coconino,Flagstaff,Source1,4,35.11103,-111.03679,2018,2,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7500839,AZ,Coconino,Flagstaff,Source1,4,35.497012,-111.552948,2018,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7504174,AZ,Coconino,Flagstaff,Source1,4,35.172059999999995,-111.65248,2018,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7512880,AZ,Coconino,Page,Source1,4,36.89503,-111.44507,2018,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-7512881,AZ,Coconino,Page,Source1,4,36.89503,-111.44507,2018,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-7512882,AZ,Coconino,Page,Source1,4,36.89497,-111.48883,2018,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-7519162,AZ,Coconino,Tuba City,Source1,3,36.035877,-111.182978,2018,23,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7519163,AZ,Coconino,Tuba City,Source1,3,36.006678,-111.053135,2018,23,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7529830,AZ,Coconino,Sedona,Source1,4,34.888806,-111.733458,2018,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7529831,AZ,Coconino,Sedona,Source1,4,34.89297,-111.733466,2018,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7531433,AZ,Coconino,Williams,Source1,4,35.221937,-112.260747,2018,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7533078,AZ,Coconino,Flagstaff,Source1,4,34.98591,-111.68672,2018,11,Sunday,Cloudy,False,False,True,False,False,False,False
+A-7541526,AZ,Coconino,Happy Jack,Source1,3,34.634076,-111.110423,2018,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7541527,AZ,Coconino,Happy Jack,Source1,3,34.627429,-111.126204,2018,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7545876,AZ,Coconino,Williams,Source1,4,35.22017,-112.27857,2018,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7548609,AZ,Coconino,Flagstaff,Source1,4,35.173052,-111.66478,2018,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7555361,AZ,Coconino,Sedona,Source1,4,34.60749000000001,-111.208502,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7555362,AZ,Coconino,Sedona,Source1,4,34.4542,-111.43879,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7557755,AZ,Coconino,Sedona,Source1,4,34.441709,-111.454634,2018,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7557756,AZ,Coconino,Sedona,Source1,4,34.442190000000004,-111.458979,2018,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7565531,AZ,Coconino,Sedona,Source1,3,34.95562,-111.754681,2018,8,Friday,Sin dato,False,False,False,False,False,False,False
+A-7565532,AZ,Coconino,Sedona,Source1,3,34.989963,-111.741423,2018,8,Friday,Sin dato,False,False,False,False,False,False,False
+A-7565853,AZ,Coconino,Marble Canyon,Source1,4,36.95604,-111.50264,2018,1,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7567227,AZ,Coconino,Williams,Source1,3,35.21688,-112.37508,2018,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7570579,AZ,Coconino,Sedona,Source1,3,34.989793,-111.741223,2018,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7570580,AZ,Coconino,Sedona,Source1,3,35.00053,-111.73708,2018,18,Tuesday,Clear / Fair,False,False,False,False,False,True,False
+A-7573528,AZ,Coconino,Flagstaff,Source1,4,35.26969000000001,-111.54545,2018,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7577496,AZ,Coconino,Sedona,Source1,4,34.319837,-110.844893,2018,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7577497,AZ,Coconino,Sedona,Source1,4,34.32341,-110.840673,2018,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7580470,AZ,Coconino,Flagstaff,Source1,4,35.109390000000005,-111.02487,2018,2,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7580471,AZ,Coconino,Flagstaff,Source1,4,35.0937,-110.92597,2018,2,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7587153,AZ,Coconino,Sedona,Source1,4,34.915378000000004,-111.641438,2018,1,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7598966,AZ,Coconino,Page,Source1,4,36.89526,-111.4899,2018,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7598967,AZ,Coconino,Page,Source1,4,36.781849,-111.549001,2018,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7604294,AZ,Coconino,Tuba City,Source1,4,35.854611,-111.4254,2018,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7615278,AZ,Coconino,Sedona,Source1,4,34.76888,-111.00852,2018,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7617222,AZ,Coconino,Flagstaff,Source1,4,35.081741,-111.687753,2018,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7639054,AZ,Coconino,Sedona,Source1,4,34.30278,-110.85776,2018,1,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7639056,AZ,Coconino,Flagstaff,Source1,4,35.18905,-111.62568,2018,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7643093,AZ,Coconino,Flagstaff,Source1,4,35.20238,-111.41106,2017,0,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7645953,AZ,Coconino,Sedona,Source1,4,34.4542,-111.43879,2017,8,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7645954,AZ,Coconino,Sedona,Source1,4,34.45317,-111.445184,2017,8,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7651587,AZ,Coconino,Flagstaff,Source1,4,35.2385,-111.82806,2017,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7652114,AZ,Coconino,Williams,Source1,4,35.25859000000001,-112.14472,2017,5,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7652129,AZ,Coconino,Williams,Source1,4,35.587708,-112.150553,2017,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7652130,AZ,Coconino,Williams,Source1,4,35.543985,-112.162146,2017,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7663895,AZ,Coconino,Williams,Source1,4,35.26474,-112.05568999999998,2017,4,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7665064,AZ,Coconino,Williams,Source1,4,35.629487,-112.11651100000002,2017,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7665065,AZ,Coconino,Williams,Source1,4,35.635585,-112.122276,2017,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7666886,AZ,Coconino,Flagstaff,Source1,4,35.285663,-111.755734,2017,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7666887,AZ,Coconino,Flagstaff,Source1,4,35.28697899999999,-111.759811,2017,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7666889,AZ,Coconino,Flagstaff,Source1,4,35.286067,-111.757389,2017,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7671404,AZ,Coconino,Williams,Source1,4,35.31791,-112.15005,2017,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7671405,AZ,Coconino,Williams,Source1,4,35.32767600000001,-112.155593,2017,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7683954,AZ,Coconino,Tuba City,Source1,4,36.227195,-111.035021,2017,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7686320,AZ,Coconino,Tonalea,Source1,4,35.942601,-110.910148,2017,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7694935,AZ,Coconino,Flagstaff,Source1,4,35.20238,-111.41106,2017,20,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7694936,AZ,Coconino,Flagstaff,Source1,4,35.159859999999995,-111.26723,2017,20,Saturday,Cloudy,False,False,True,False,False,False,False
+A-7694937,AZ,Coconino,Flagstaff,Source1,4,35.20238,-111.41106,2017,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7695046,AZ,Coconino,Flagstaff,Source1,4,35.20238,-111.41106,2017,0,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7701064,AZ,Coconino,Flagstaff,Source1,4,35.09478,-110.93528,2017,18,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-7709438,AZ,Coconino,Williams,Source1,3,35.26369000000001,-112.04462,2019,9,Monday,Cloudy,False,False,True,False,False,False,False
+A-7709982,AZ,Coconino,Kaibeto,Source1,4,36.62477,-111.65369,2019,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-7709985,AZ,Coconino,Kaibeto,Source1,4,36.62477,-111.65369,2019,19,Tuesday,Rain,False,False,False,False,False,False,False
+A-7709986,AZ,Coconino,Kaibeto,Source1,4,36.63418,-111.65123,2019,19,Tuesday,Rain,False,False,False,False,False,False,False
+A-7709987,AZ,Coconino,Kaibeto,Source1,4,36.63418,-111.65123,2019,19,Tuesday,Rain,False,False,False,False,False,False,False
+A-7714262,AZ,Coconino,Flagstaff,Source1,4,34.981608,-111.685965,2019,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7714724,AZ,Coconino,Flagstaff,Source1,4,34.97777,-111.68554,2019,1,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7718684,AZ,Coconino,Flagstaff,Source1,3,35.06597,-110.82987,2019,18,Monday,Cloudy,False,False,True,False,False,False,False
+A-7727089,AZ,Coconino,Williams,Source1,3,35.256642,-111.935006,2019,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7727699,AZ,Coconino,Flagstaff,Source1,4,35.747568,-111.472699,2019,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7727700,AZ,Coconino,Flagstaff,Source1,4,35.742137,-111.475203,2019,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7728427,AZ,Coconino,Flagstaff,Source1,4,35.04616,-111.68438,2019,9,Monday,Rain,False,False,True,False,False,False,False
+A-7728430,AZ,Coconino,Flagstaff,Source1,4,35.13545,-111.68471,2019,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-7728431,AZ,Coconino,Flagstaff,Source1,4,35.145070000000004,-111.68368,2019,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-7734136,AZ,Coconino,Flagstaff,Source1,4,35.252313,-111.557775,2019,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7737490,AZ,Coconino,Tuba City,Source1,4,35.997405,-111.029086,2019,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7745994,AZ,Coconino,Flagstaff,Source1,3,35.20196,-111.4086,2019,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7753729,AZ,Coconino,Fredonia,Source1,3,36.925908,-112.468878,2019,18,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-7754780,AZ,Coconino,Sedona,Source1,3,34.908476,-111.641175,2019,6,Friday,Sin dato,False,False,False,False,False,False,False
+A-7754785,AZ,Coconino,Flagstaff,Source1,3,35.17434,-111.66176000000002,2019,18,Friday,Sin dato,False,False,False,False,False,False,False
+A-7759116,AZ,Coconino,Williams,Source1,3,35.21739,-112.43935,2019,16,Monday,Sin dato,False,False,False,False,False,False,False
+A-7760589,AZ,Coconino,Tuba City,Source1,4,36.07598,-111.39185,2019,17,Thursday,Sin dato,False,False,False,True,False,False,False
+A-7760590,AZ,Coconino,Tuba City,Source1,4,36.07598,-111.39185,2019,18,Thursday,Sin dato,False,False,False,True,False,False,False
+A-7768349,AZ,Coconino,Forest Lakes,Source1,3,34.326249,-110.828136,2019,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7769115,AZ,Coconino,Flagstaff,Source1,4,35.537392,-111.539904,2019,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-7773433,AZ,Coconino,Happy Jack,Source1,3,34.61508,-111.18339,2019,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7773434,AZ,Coconino,Happy Jack,Source1,3,34.623759,-111.155989,2019,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7773997,AZ,Coconino,Tuba City,Source1,4,36.218033,-111.396565,2019,22,Thursday,Cloudy,False,False,False,False,False,False,False

@@ -1,0 +1,816 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-229593,PA,Centre,Port Matilda,Source2,3,40.804108,-78.063835,2016,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-230461,PA,Centre,Bellefonte,Source2,3,40.955502,-77.770302,2016,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-230548,PA,Centre,State College,Source2,3,40.826962,-77.84291800000003,2016,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-234508,PA,Centre,Bellefonte,Source2,3,40.944534,-77.720474,2017,13,Friday,Cloudy,False,False,False,True,False,False,False
+A-234642,PA,Centre,Bellefonte,Source2,3,40.955502,-77.770302,2017,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-234984,PA,Centre,Port Matilda,Source2,3,40.818138,-77.939865,2017,9,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-235868,PA,Centre,Port Matilda,Source2,3,40.818672,-77.900536,2017,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-237093,PA,Centre,Bellefonte,Source2,3,40.88453300000001,-77.740364,2017,7,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-240984,PA,Centre,Bellefonte,Source2,3,40.955502,-77.770302,2016,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-242303,PA,Centre,State College,Source2,3,40.826962,-77.84291800000003,2016,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-242710,PA,Centre,Port Matilda,Source2,3,40.815392,-77.919853,2016,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-242715,PA,Centre,Port Matilda,Source2,3,40.818138,-77.939865,2016,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-246056,PA,Centre,Bellefonte,Source2,3,40.944534,-77.720474,2016,17,Sunday,Cloudy,False,False,False,True,False,False,False
+A-254626,PA,Centre,Port Matilda,Source3,3,40.818138,-77.939865,2016,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-258885,PA,Centre,Bellefonte,Source2,3,40.944534,-77.720474,2016,5,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-258895,PA,Centre,Bellefonte,Source2,3,40.944534,-77.720474,2016,5,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-259859,PA,Centre,Bellefonte,Source2,3,40.944534,-77.720474,2016,12,Friday,Cloudy,False,False,False,True,False,False,False
+A-260875,PA,Centre,State College,Source2,3,40.83420200000001,-77.835899,2016,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-329744,PA,Centre,Bellefonte,Source2,3,40.955502,-77.770302,2017,14,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-330181,PA,Centre,Port Matilda,Source2,3,40.815392,-77.919853,2017,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-331121,PA,Centre,State College,Source2,3,40.825233,-77.858223,2017,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-377966,PA,Centre,Bellefonte,Source2,3,40.956944,-77.682434,2017,4,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-379337,PA,Centre,State College,Source2,3,40.82222,-77.870171,2017,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-424545,PA,Centre,Bellefonte,Source2,3,40.944534,-77.720474,2017,13,Thursday,Rain,False,False,False,True,False,False,False
+A-426035,PA,Centre,Bellefonte,Source2,3,40.955502,-77.770302,2017,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-426806,PA,Centre,Bellefonte,Source2,3,40.955502,-77.770302,2017,13,Tuesday,Rain,False,False,False,False,False,False,False
+A-448541,PA,Centre,State College,Source2,3,40.825233,-77.858223,2017,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-449240,PA,Centre,Bellefonte,Source2,3,40.846638,-77.812027,2017,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-483935,PA,Centre,Bellefonte,Source2,3,40.955502,-77.770302,2017,20,Thursday,Rain,False,False,False,False,False,False,False
+A-483936,PA,Centre,Bellefonte,Source2,3,40.955505,-77.77037,2017,21,Thursday,Rain,False,False,False,False,False,False,False
+A-517827,PA,Centre,Bellefonte,Source2,3,40.945969,-77.7155,2022,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-531330,PA,Centre,Port Matilda,Source2,3,40.803383,-78.063599,2022,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-538472,PA,Centre,Bellefonte,Source2,3,40.969437,-77.641235,2022,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-539282,PA,Centre,Bellefonte,Source2,3,40.958443,-77.678093,2022,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-539286,PA,Centre,Snow Shoe,Source2,3,41.02013,-77.949799,2022,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-543994,PA,Centre,Port Matilda,Source2,3,40.803383,-78.063599,2022,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-544696,PA,Centre,Bellefonte,Source2,3,40.862862,-77.788246,2022,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-544703,PA,Centre,Bellefonte,Source2,3,40.915508,-77.741516,2022,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-548205,PA,Centre,Snow Shoe,Source2,3,41.0242,-77.933807,2022,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-549623,PA,Centre,Port Matilda,Source2,3,40.801399,-78.065262,2022,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-550756,PA,Centre,Port Matilda,Source2,3,40.801399,-78.065262,2022,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-552846,PA,Centre,Bellefonte,Source2,3,40.945969,-77.7155,2022,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-552944,PA,Centre,Bellefonte,Source2,3,40.872757,-77.778023,2022,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-553818,PA,Centre,Howard,Source2,3,41.007763,-77.595901,2022,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-579338,PA,Centre,Howard,Source2,3,40.95586,-77.772369,2022,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-588037,PA,Centre,Philipsburg,Source2,3,40.85117,-78.15241999999998,2022,21,Monday,Cloudy,False,False,False,False,False,True,False
+A-590542,PA,Centre,Snow Shoe,Source2,3,41.024212,-77.93396,2022,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-607796,PA,Centre,Snow Shoe,Source2,3,41.023674,-77.933876,2022,9,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-628117,PA,Centre,State College,Source2,3,40.818813,-77.900581,2022,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-629321,PA,Centre,State College,Source2,3,40.818813,-77.900581,2022,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-635502,PA,Centre,Snow Shoe,Source2,3,41.023674,-77.933876,2022,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-639774,PA,Centre,Port Matilda,Source2,3,40.803383,-78.063599,2022,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-642644,PA,Centre,Port Matilda,Source2,3,40.810265,-78.038986,2022,13,Thursday,Rain,False,False,False,False,False,False,False
+A-643050,PA,Centre,Bellefonte,Source2,3,40.943649,-77.72672299999998,2022,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-643466,PA,Centre,Bellefonte,Source2,3,40.955235,-77.68923199999998,2022,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-643581,PA,Centre,Philipsburg,Source2,3,40.902,-78.225121,2022,15,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-646015,PA,Centre,Port Matilda,Source3,3,40.806232,-78.062782,2022,20,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-646150,PA,Centre,Port Matilda,Source2,3,40.823071,-77.946228,2022,19,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-647433,PA,Centre,Snow Shoe,Source2,3,41.023674,-77.933876,2022,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-653689,PA,Centre,Port Matilda,Source2,3,40.817539,-77.936714,2022,22,Monday,Cloudy,False,False,True,False,False,False,False
+A-654513,PA,Centre,Bellefonte,Source2,3,40.945969,-77.7155,2022,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-665130,PA,Centre,Port Matilda,Source2,3,40.803383,-78.063599,2022,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-669444,PA,Centre,Philipsburg,Source2,3,40.890759,-78.191742,2022,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-676106,PA,Centre,Bellefonte,Source2,3,40.846886,-77.812096,2022,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-678944,PA,Centre,Port Matilda,Source2,3,40.819668,-77.942818,2022,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-688086,PA,Centre,Port Matilda,Source2,4,40.808868,-78.057968,2022,6,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-691431,PA,Centre,Bellefonte,Source2,3,40.945969,-77.7155,2022,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-696148,PA,Centre,Bellefonte,Source2,3,40.854618,-77.79741700000002,2022,13,Friday,Rain,False,False,False,False,False,False,False
+A-702060,PA,Centre,Howard,Source2,3,40.95586,-77.772369,2022,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-711927,PA,Centre,Howard,Source2,3,41.001846,-77.60455300000002,2022,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-720480,PA,Centre,Bellefonte,Source2,3,40.946079,-77.712639,2022,13,Sunday,Cloudy,False,False,True,False,False,False,False
+A-726571,PA,Centre,Bellefonte,Source2,3,40.942173,-77.72567,2022,19,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-730550,PA,Centre,Port Matilda,Source2,3,40.819363,-77.942474,2022,16,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-730643,PA,Centre,Port Matilda,Source2,3,40.793026,-78.06768000000002,2022,16,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-732029,PA,Centre,Bellefonte,Source2,3,40.979313,-77.62786899999998,2022,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-732218,PA,Centre,Howard,Source2,3,40.990215,-77.615013,2022,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-735160,PA,Centre,State College,Source2,3,40.826351,-77.808868,2022,13,Tuesday,Cloudy,True,True,False,False,True,False,True
+A-737863,PA,Centre,State College,Source2,3,40.817436,-77.936226,2022,18,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-744331,PA,Centre,Bellefonte,Source2,3,40.956741,-77.77314799999998,2022,0,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-744667,PA,Centre,Port Matilda,Source2,3,40.803383,-78.063599,2022,17,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-744765,PA,Centre,Philipsburg,Source2,3,40.85117,-78.15241999999998,2022,23,Sunday,Snow / Ice,False,False,False,False,False,True,False
+A-749662,PA,Centre,State College,Source2,3,40.824818,-77.843216,2022,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-749833,PA,Centre,State College,Source2,3,40.834881,-77.834198,2022,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-763610,PA,Centre,Bellefonte,Source2,3,40.936943,-77.732292,2021,14,Monday,Rain,False,False,False,False,False,False,False
+A-764880,PA,Centre,Bellefonte,Source2,3,40.945969,-77.7155,2021,8,Sunday,Cloudy,False,False,False,False,False,False,False
+A-767591,PA,Centre,Bellefonte,Source2,3,40.84779,-77.80931899999999,2021,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-772044,PA,Centre,State College,Source2,3,40.843807,-77.820206,2021,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-779631,PA,Centre,Bellefonte,Source2,3,40.909851,-77.78096,2021,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-779798,PA,Centre,Port Matilda,Source2,3,40.803383,-78.063599,2021,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-779905,PA,Centre,Bellefonte,Source2,3,40.945526,-77.71305100000002,2021,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-783830,PA,Centre,Bellefonte,Source2,3,40.946831,-77.704971,2021,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-791135,PA,Centre,Port Matilda,Source2,3,40.815399,-77.916977,2021,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-792802,PA,Centre,Bellefonte,Source2,3,40.945969,-77.7155,2021,7,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-795170,PA,Centre,Bellefonte,Source2,3,40.989204,-77.818451,2021,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-795171,PA,Centre,Howard,Source2,3,41.01923,-77.575592,2021,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-798552,PA,Centre,Bellefonte,Source2,3,40.944923,-77.73009499999998,2021,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-799869,PA,Centre,Bellefonte,Source2,3,40.915508,-77.741516,2021,5,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-804585,PA,Centre,Port Matilda,Source2,3,40.817539,-77.936714,2021,8,Thursday,Cloudy,False,False,True,False,False,False,False
+A-808046,PA,Centre,State College,Source2,3,40.80949,-77.908058,2021,19,Monday,Cloudy,True,True,False,False,False,False,False
+A-811653,PA,Centre,State College,Source2,3,40.810169,-77.831703,2021,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-817608,PA,Centre,Bellefonte,Source2,3,40.945236,-77.719673,2021,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-818256,PA,Centre,Howard,Source2,3,40.95586,-77.772369,2021,6,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-820254,PA,Centre,Bellefonte,Source2,3,40.945969,-77.7155,2021,21,Sunday,Rain,False,False,False,False,False,False,False
+A-826877,PA,Centre,Bellefonte,Source2,3,40.956638,-77.683304,2021,22,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-828559,PA,Centre,Bellefonte,Source2,3,40.955429,-77.686684,2021,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-831421,PA,Centre,State College,Source2,3,40.824818,-77.843216,2021,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-833014,PA,Centre,Julian,Source2,3,40.883129,-77.91114,2021,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-838763,PA,Centre,Bellefonte,Source2,3,40.88998400000001,-77.733749,2021,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-846410,PA,Centre,Howard,Source2,3,40.98045,-77.62631999999998,2021,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-862634,PA,Centre,Bellefonte,Source2,3,40.907749,-77.683289,2021,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-868772,PA,Centre,Bellefonte,Source2,3,40.872757,-77.778023,2021,7,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-870515,PA,Centre,Howard,Source2,3,40.957771,-77.76944,2021,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-871361,PA,Centre,Port Matilda,Source2,3,40.81531500000001,-77.917473,2021,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-876985,PA,Centre,Port Matilda,Source2,3,40.803383,-78.063599,2021,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-877375,PA,Centre,Port Matilda,Source2,3,40.817352,-77.93589,2021,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-879893,PA,Centre,Bellefonte,Source2,3,40.945808,-77.714928,2021,7,Tuesday,Storm,False,False,False,False,False,False,False
+A-880609,PA,Centre,Snow Shoe,Source2,3,41.023674,-77.933876,2021,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-881074,PA,Centre,Snow Shoe,Source2,3,41.021599,-77.948891,2021,11,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-882950,PA,Centre,Bellefonte,Source2,3,40.943649,-77.72672299999998,2021,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-884207,PA,Centre,State College,Source2,3,40.819859,-77.898193,2021,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-898967,PA,Centre,Bellefonte,Source3,3,40.872757,-77.778023,2021,14,Wednesday,Rain,False,False,False,False,False,False,False
+A-901891,PA,Centre,Bellefonte,Source2,3,40.945969,-77.7155,2021,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-903946,PA,Centre,Bellefonte,Source2,3,40.945969,-77.7155,2021,8,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-912245,PA,Centre,Bellefonte,Source2,3,40.945969,-77.7155,2021,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-913609,PA,Centre,Howard,Source2,3,40.95586,-77.772369,2021,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-925915,PA,Centre,Bellefonte,Source2,3,40.952938,-77.69203900000002,2021,21,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-931590,PA,Centre,Port Matilda,Source2,3,40.79895,-78.065804,2021,22,Thursday,Cloudy,False,False,True,False,False,False,False
+A-942457,PA,Centre,Snow Shoe,Source2,3,41.023674,-77.933876,2021,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-946580,PA,Centre,Port Matilda,Source2,3,40.773952,-78.07975,2021,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-946814,PA,Centre,Port Matilda,Source2,3,40.803383,-78.063599,2021,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-957722,PA,Centre,Bellefonte,Source2,3,40.945969,-77.7155,2021,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-960152,PA,Centre,Port Matilda,Source2,3,40.803383,-78.063599,2021,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-976105,PA,Centre,Port Matilda,Source2,3,40.803383,-78.063599,2021,18,Wednesday,Storm,False,False,False,False,False,False,False
+A-977610,PA,Centre,Howard,Source3,3,40.956753000000006,-77.773193,2021,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-992419,PA,Centre,Bellefonte,Source2,4,40.945969,-77.7155,2021,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-993975,PA,Centre,Snow Shoe,Source2,3,41.023674,-77.933876,2021,8,Tuesday,Rain,False,False,False,False,False,False,False
+A-995579,PA,Centre,Port Matilda,Source2,3,40.817539,-77.936714,2021,16,Monday,Rain,False,False,True,False,False,False,False
+A-997003,PA,Centre,Bellefonte,Source2,3,40.943649,-77.72672299999998,2021,7,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1012746,PA,Centre,Bellefonte,Source2,3,40.945969,-77.7155,2021,11,Tuesday,Rain,False,False,False,False,False,False,False
+A-1025833,PA,Centre,Bellefonte,Source2,3,40.943649,-77.72672299999998,2021,16,Friday,Rain,False,False,False,False,False,False,False
+A-1051355,PA,Centre,Bellefonte,Source2,3,40.945969,-77.7155,2021,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-1057446,PA,Centre,Bellefonte,Source2,3,40.945969,-77.7155,2021,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1070995,PA,Centre,State College,Source2,3,40.75964000000001,-77.843788,2021,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1072580,PA,Centre,Bellefonte,Source2,3,40.943649,-77.72672299999998,2021,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1085517,PA,Centre,Snow Shoe,Source2,3,41.023674,-77.933876,2021,20,Monday,Rain,False,False,False,False,False,False,False
+A-1085518,PA,Centre,Bellefonte,Source2,3,40.945969,-77.7155,2021,21,Monday,Rain,False,False,False,False,False,False,False
+A-1086934,PA,Centre,Bellefonte,Source2,3,40.945969,-77.7155,2021,7,Sunday,Rain,False,False,False,False,False,False,False
+A-1088072,PA,Centre,Bellefonte,Source2,3,40.943649,-77.72672299999998,2021,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-1112818,PA,Centre,Philipsburg,Source2,3,40.895618,-78.222298,2021,12,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-1117319,PA,Centre,State College,Source2,3,40.818813,-77.900581,2021,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1124186,PA,Centre,Port Matilda,Source2,3,40.803383,-78.063599,2021,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1143158,PA,Centre,Port Matilda,Source2,3,40.81509000000001,-77.92932900000002,2021,7,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1143206,PA,Centre,Port Matilda,Source2,3,40.817539,-77.936714,2021,15,Monday,Rain,False,False,True,False,False,False,False
+A-1144408,PA,Centre,Bellefonte,Source2,3,40.943649,-77.72672299999998,2021,8,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1148891,PA,Centre,State College,Source2,3,40.824818,-77.843216,2021,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1151965,PA,Centre,Snow Shoe,Source2,3,41.016338,-77.88664200000002,2021,22,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1158750,PA,Centre,Bellefonte,Source2,3,40.88998400000001,-77.733749,2021,21,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1172872,PA,Centre,Bellefonte,Source2,3,40.915508,-77.741516,2021,13,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1172901,PA,Centre,Bellefonte,Source2,3,40.945969,-77.7155,2021,20,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1173490,PA,Centre,State College,Source2,3,40.82357800000001,-77.842873,2021,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1173492,PA,Centre,Port Matilda,Source2,3,40.811211,-78.047783,2021,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1182443,PA,Centre,Port Matilda,Source2,3,40.803383,-78.063599,2021,18,Sunday,Rain,False,False,False,False,False,False,False
+A-1188284,PA,Centre,Howard,Source2,3,40.95586,-77.772369,2021,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1191089,PA,Centre,Snow Shoe,Source2,3,41.023674,-77.933876,2021,16,Saturday,Rain,False,False,False,False,False,False,False
+A-1191789,PA,Centre,Snow Shoe,Source2,3,41.023674,-77.933876,2021,21,Friday,Rain,False,False,False,False,False,False,False
+A-1193600,PA,Centre,Bellefonte,Source2,3,40.872757,-77.778023,2021,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1193603,PA,Centre,Bellefonte,Source2,3,40.872757,-77.778023,2021,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1199531,PA,Centre,State College,Source2,3,40.80949,-77.908058,2021,13,Saturday,Clear / Fair,True,True,False,False,False,False,False
+A-1206888,PA,Centre,State College,Source2,3,40.824818,-77.843216,2021,14,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1206893,PA,Centre,Bellefonte,Source2,3,40.872757,-77.778023,2021,15,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1207747,PA,Centre,Snow Shoe,Source2,3,41.023674,-77.933876,2021,14,Friday,Rain,False,False,False,False,False,False,False
+A-1209858,PA,Centre,Howard,Source2,3,40.95586,-77.772369,2020,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1218484,PA,Centre,Bellefonte,Source2,3,40.943649,-77.72672299999998,2020,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1226227,PA,Centre,Bellefonte,Source2,3,40.846886,-77.812096,2020,11,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1236006,PA,Centre,Bellefonte,Source2,3,40.943535,-77.725769,2020,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1244550,PA,Centre,Port Matilda,Source2,3,40.81818,-77.940086,2020,17,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1257093,PA,Centre,Rebersburg,Source2,3,40.988251,-77.227509,2020,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-1287734,PA,Centre,State College,Source2,3,40.785301,-77.837082,2020,21,Sunday,Cloudy,True,True,False,False,False,False,False
+A-1291357,PA,Centre,Snow Shoe,Source2,3,41.023674,-77.933876,2020,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1297383,PA,Centre,Philipsburg,Source2,3,40.901218,-78.210983,2020,16,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-1327462,PA,Centre,Bellefonte,Source2,3,40.915508,-77.741516,2020,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1329128,PA,Centre,Bellefonte,Source2,3,40.872757,-77.778023,2020,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1375213,PA,Centre,Bellefonte,Source2,3,40.915508,-77.741516,2020,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1397888,PA,Centre,Bellefonte,Source2,3,40.88998400000001,-77.733749,2020,7,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1399349,PA,Centre,Bellefonte,Source2,4,40.943649,-77.72672299999998,2020,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1412068,PA,Centre,Bellefonte,Source2,3,40.915508,-77.741516,2020,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1418767,PA,Centre,State College,Source2,3,40.818813,-77.900581,2020,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1421691,PA,Centre,Howard,Source2,3,40.95628,-77.768982,2020,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1421721,PA,Centre,State College,Source2,3,40.835255,-77.83535,2020,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1421723,PA,Centre,State College,Source2,3,40.835255,-77.83535,2020,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1423340,PA,Centre,State College,Source2,3,40.824818,-77.843216,2020,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-1427780,PA,Centre,Bellefonte,Source2,3,40.943649,-77.72672299999998,2020,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1433805,PA,Centre,Snow Shoe,Source2,3,41.023674,-77.933876,2020,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1442746,PA,Centre,Bellefonte,Source2,3,40.945969,-77.7155,2020,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1453871,PA,Centre,Howard,Source2,3,40.95586,-77.772369,2020,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-1460229,PA,Centre,Philipsburg,Source2,3,40.97332,-78.060387,2020,1,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1465048,PA,Centre,Bellefonte,Source2,3,40.943649,-77.72672299999998,2020,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1481513,PA,Centre,Port Matilda,Source2,3,40.817539,-77.936714,2020,16,Friday,Rain,False,False,True,False,False,False,False
+A-1497824,PA,Centre,Bellefonte,Source2,3,40.943649,-77.72672299999998,2020,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1500592,PA,Centre,Port Matilda,Source2,3,40.803383,-78.063599,2020,17,Wednesday,Rain,False,False,False,False,False,False,False
+A-1521021,PA,Centre,Port Matilda,Source2,3,40.803383,-78.063599,2020,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1534378,PA,Centre,State College,Source2,3,40.818813,-77.900581,2020,10,Thursday,Rain,False,False,False,False,False,False,False
+A-1538125,PA,Centre,Port Matilda,Source2,3,40.803383,-78.063599,2020,14,Monday,Rain,False,False,False,False,False,False,False
+A-1552684,PA,Centre,Bellefonte,Source2,3,40.943649,-77.72672299999998,2020,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1557824,PA,Centre,Bellefonte,Source2,3,40.846886,-77.812096,2020,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1557844,PA,Centre,Port Matilda,Source2,3,40.803383,-78.063599,2020,15,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1562028,PA,Centre,Snow Shoe,Source2,3,41.002213,-77.984024,2020,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1575663,PA,Centre,State College,Source2,3,40.835255,-77.83541899999999,2020,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1584859,PA,Centre,Bellefonte,Source2,3,40.942036,-77.726089,2020,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-1590483,PA,Centre,Port Matilda,Source2,3,40.818127,-77.938965,2020,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1599946,PA,Centre,Bellefonte,Source2,3,40.880466,-77.762291,2020,3,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1599956,PA,Centre,State College,Source2,3,40.818813,-77.900581,2020,9,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-1613381,PA,Centre,State College,Source2,3,40.820492,-77.848129,2020,17,Monday,Rain,True,False,False,False,False,False,False
+A-1624410,PA,Centre,Port Matilda,Source2,3,40.803246,-78.063271,2020,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1625633,PA,Centre,Bellefonte,Source2,3,40.93924000000001,-77.729858,2020,19,Tuesday,Rain,False,False,False,False,False,False,False
+A-1638814,PA,Centre,Howard,Source2,3,40.956264,-77.768753,2020,4,Monday,Rain,False,False,False,False,False,False,False
+A-1641210,PA,Centre,State College,Source2,3,40.824348,-77.842415,2020,13,Tuesday,Rain,False,False,False,False,False,False,False
+A-1643568,PA,Centre,Port Matilda,Source2,3,40.803566,-78.063744,2020,22,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1650639,PA,Centre,Howard,Source2,3,40.95586,-77.772369,2020,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1651995,PA,Centre,State College,Source2,3,40.82505,-77.859047,2020,6,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-1652005,PA,Centre,State College,Source2,3,40.824348,-77.842415,2020,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1668413,PA,Centre,Snow Shoe,Source2,3,41.023674,-77.933876,2020,21,Wednesday,Rain,False,False,False,False,False,False,False
+A-1685133,PA,Centre,Howard,Source2,3,40.95586,-77.772369,2019,15,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1695806,PA,Centre,Snow Shoe,Source2,3,41.023674,-77.933876,2019,4,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1695854,PA,Centre,Snow Shoe,Source2,3,41.0242,-77.933807,2019,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1695870,PA,Centre,Snow Shoe,Source2,3,41.023674,-77.933876,2019,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1695872,PA,Centre,Bellefonte,Source2,3,40.870171,-77.780487,2019,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1701543,PA,Centre,Bellefonte,Source2,3,40.87257,-77.77803,2019,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1716240,PA,Centre,Snow Shoe,Source2,3,41.023792,-77.93472299999998,2019,10,Saturday,Rain,False,False,False,False,False,False,False
+A-1734875,PA,Centre,Bellefonte,Source2,3,41.013508,-77.88000500000003,2019,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1736264,PA,Centre,Bellefonte,Source2,3,40.915611,-77.741524,2019,10,Sunday,Rain,False,False,False,False,False,False,False
+A-1736267,PA,Centre,Bellefonte,Source2,3,40.938503,-77.730583,2019,11,Sunday,Cloudy,False,False,False,True,False,False,False
+A-1749946,PA,Centre,Howard,Source2,3,40.95628,-77.768982,2019,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1764616,PA,Centre,Port Matilda,Source2,3,40.815834,-77.915688,2019,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1781249,PA,Centre,Bellefonte,Source2,3,40.945969,-77.7155,2019,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-1789053,PA,Centre,Bellefonte,Source2,3,40.945824,-77.71479000000002,2019,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1806710,PA,Centre,State College,Source2,3,40.818813,-77.900581,2019,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1809090,PA,Centre,Howard,Source2,3,40.95586,-77.772369,2019,22,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1813599,PA,Centre,State College,Source2,3,40.814739,-77.856216,2019,10,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-1822474,PA,Centre,Bellefonte,Source2,3,40.847431,-77.811699,2019,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1866815,PA,Centre,Port Matilda,Source2,3,40.803383,-78.063599,2019,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1873567,PA,Centre,Centre Hall,Source2,3,40.792179,-77.700417,2019,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-1902734,PA,Centre,Bellefonte,Source2,3,40.944477,-77.72706600000002,2019,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1913948,PA,Centre,Port Matilda,Source2,3,40.803383,-78.063599,2019,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-1963629,PA,Centre,Bellefonte,Source2,3,40.945976,-77.71558399999998,2019,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-1967172,PA,Centre,Bellefonte,Source2,3,40.87257,-77.77803,2019,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1969590,PA,Centre,Bellefonte,Source2,3,40.945976,-77.71558399999998,2019,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1974095,PA,Centre,Snow Shoe,Source2,3,41.023586,-77.934578,2019,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1978374,PA,Centre,Howard,Source2,3,40.95647,-77.77153,2019,11,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2011571,PA,Centre,Bellefonte,Source2,3,40.847462,-77.811798,2019,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-2021902,PA,Centre,Millheim,Source2,3,40.892471,-77.470551,2019,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2029786,PA,Centre,Bellefonte,Source2,3,40.883186,-77.746094,2019,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2042215,PA,Centre,State College,Source2,3,40.824348,-77.842415,2019,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-2044442,PA,Centre,Bellefonte,Source2,3,40.87257,-77.77803,2019,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2046722,PA,Centre,Bellefonte,Source2,3,40.915611,-77.741524,2019,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2049112,PA,Centre,Snow Shoe,Source2,3,41.023586,-77.934578,2019,11,Thursday,Rain,False,False,False,False,False,False,False
+A-2054064,PA,Centre,Port Matilda,Source2,3,40.803383,-78.063599,2019,15,Sunday,Rain,False,False,False,False,False,False,False
+A-2067344,PA,Centre,Port Matilda,Source2,3,40.810001,-78.054649,2019,14,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-2070564,PA,Centre,Port Matilda,Source2,3,40.818066,-77.939674,2019,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2076802,PA,Centre,Bellefonte,Source2,3,40.945976,-77.71558399999998,2019,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2084230,PA,Centre,State College,Source2,3,40.818813,-77.900581,2019,19,Sunday,Rain,False,False,False,False,False,False,False
+A-2110590,PA,Centre,Port Matilda,Source2,3,40.809757,-78.05416899999999,2019,14,Sunday,Rain,False,False,False,False,False,False,False
+A-2114190,PA,Centre,State College,Source2,3,40.82423,-77.842628,2019,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2130796,PA,Centre,Port Matilda,Source2,3,40.803383,-78.063599,2019,19,Thursday,Rain,False,False,False,False,False,False,False
+A-2142450,PA,Centre,Bellefonte,Source2,3,40.94595,-77.715523,2019,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2163507,PA,Centre,Howard,Source2,3,40.955784,-77.77211,2019,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-2166754,PA,Centre,Port Matilda,Source2,3,40.817974,-77.937111,2019,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2172160,PA,Centre,Bellefonte,Source2,3,41.015953,-77.885582,2019,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2172189,PA,Centre,State College,Source2,3,40.818813,-77.900581,2019,23,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2176754,PA,Centre,Snow Shoe,Source2,3,41.023586,-77.934578,2019,20,Friday,Rain,False,False,False,False,False,False,False
+A-2176755,PA,Centre,Snow Shoe,Source2,3,41.023586,-77.934578,2019,20,Friday,Rain,False,False,False,False,False,False,False
+A-2192585,PA,Centre,Bellefonte,Source2,3,40.943848,-77.724915,2019,13,Sunday,Rain,False,False,False,False,False,False,False
+A-2195715,PA,Centre,Port Matilda,Source2,3,40.809498,-78.05792199999998,2019,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-2197842,PA,Centre,Port Matilda,Source2,3,40.817974,-77.937111,2019,15,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-2197845,PA,Centre,Port Matilda,Source2,3,40.803394,-78.063744,2019,16,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-2211295,PA,Centre,Bellefonte,Source2,3,40.945164,-77.720253,2019,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2212093,PA,Centre,Snow Shoe,Source2,4,41.023594,-77.932236,2019,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-2214045,PA,Centre,Port Matilda,Source2,3,40.817692,-77.93723299999998,2019,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2214070,PA,Centre,Bellefonte,Source2,3,40.872398,-77.778534,2019,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2233128,PA,Centre,Port Matilda,Source2,3,40.803394,-78.063744,2019,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2251831,PA,Centre,State College,Source2,3,40.824997,-77.846016,2019,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-2257626,PA,Centre,Port Matilda,Source2,3,40.819031,-77.900497,2019,8,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2279157,PA,Centre,State College,Source2,3,40.847599,-77.81166800000003,2019,10,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2303869,PA,Centre,Howard,Source2,3,40.955784,-77.77211,2019,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2320070,PA,Centre,Bellefonte,Source2,3,40.872398,-77.778534,2019,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2339453,PA,Centre,Bellefonte,Source2,3,40.944469,-77.721252,2019,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2339471,PA,Centre,Bellefonte,Source2,3,40.944469,-77.721252,2019,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2344743,PA,Centre,Snow Shoe,Source2,3,41.024193,-77.935783,2019,5,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2347851,PA,Centre,Bellefonte,Source2,3,40.944469,-77.721252,2019,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2350925,PA,Centre,Snow Shoe,Source2,3,41.024193,-77.935783,2019,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2353673,PA,Centre,Bellefonte,Source2,3,40.944469,-77.721252,2019,12,Wednesday,Rain,False,False,False,False,False,False,False
+A-2353689,PA,Centre,Port Matilda,Source2,3,40.803394,-78.063744,2019,17,Wednesday,Rain,False,False,False,False,False,False,False
+A-2356372,PA,Centre,Howard,Source2,3,40.955784,-77.77211,2019,4,Thursday,Rain,False,False,False,False,False,False,False
+A-2384087,PA,Centre,Howard,Source2,3,40.955784,-77.77211,2018,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-2387361,PA,Centre,Bellefonte,Source2,3,40.944469,-77.721252,2018,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-2405437,PA,Centre,State College,Source2,3,40.824997,-77.846016,2018,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2421080,PA,Centre,Bellefonte,Source2,3,40.944469,-77.721252,2018,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2421794,PA,Centre,Port Matilda,Source2,3,40.816299,-77.92797900000002,2018,11,Monday,Rain,False,False,False,False,False,False,False
+A-2421795,PA,Centre,Port Matilda,Source2,3,40.817974,-77.937111,2018,11,Monday,Rain,False,False,False,False,False,False,False
+A-2421796,PA,Centre,Bellefonte,Source2,3,40.872398,-77.778534,2018,11,Monday,Rain,False,False,False,False,False,False,False
+A-2421797,PA,Centre,Port Matilda,Source2,3,40.802567,-78.064201,2018,12,Monday,Rain,False,False,False,False,False,False,False
+A-2421801,PA,Centre,Bellefonte,Source2,3,40.957794,-77.683319,2018,12,Monday,Rain,False,False,False,False,False,False,False
+A-2444914,PA,Centre,Port Matilda,Source2,3,40.804108,-78.063835,2018,9,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2444920,PA,Centre,Bellefonte,Source2,3,40.955502,-77.770302,2018,11,Friday,Rain,False,False,False,False,False,False,False
+A-2444951,PA,Centre,Port Matilda,Source2,3,40.808842,-78.05789200000002,2018,17,Friday,Rain,False,False,False,False,False,False,False
+A-2458270,PA,Centre,Bellefonte,Source2,3,40.944534,-77.720474,2018,7,Thursday,Cloudy,False,False,False,True,False,False,False
+A-2458402,PA,Centre,Port Matilda,Source2,3,40.815392,-77.919853,2018,18,Thursday,Rain,False,False,False,False,False,False,False
+A-2461461,PA,Centre,Snow Shoe,Source2,3,41.023792,-77.93483,2018,8,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2468495,PA,Centre,Snow Shoe,Source2,3,41.023792,-77.93483,2018,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2477090,PA,Centre,State College,Source2,3,40.826962,-77.84291800000003,2018,11,Saturday,Rain,False,False,False,False,False,False,False
+A-2477094,PA,Centre,Bellefonte,Source2,3,40.955502,-77.770302,2018,12,Saturday,Rain,False,False,False,False,False,False,False
+A-2497247,PA,Centre,Port Matilda,Source2,3,40.815392,-77.919853,2018,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2515955,PA,Centre,Bellefonte,Source2,3,40.944534,-77.720474,2018,20,Saturday,Clear / Fair,False,False,False,True,False,False,False
+A-2523371,PA,Centre,Port Matilda,Source2,3,40.815388,-77.919395,2018,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2523377,PA,Centre,State College,Source2,3,40.826962,-77.84291800000003,2018,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2545300,PA,Centre,Port Matilda,Source2,3,40.804108,-78.063835,2018,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-2558166,PA,Centre,Bellefonte,Source2,3,40.944534,-77.720474,2018,15,Saturday,Cloudy,False,False,False,True,False,False,False
+A-2558168,PA,Centre,Port Matilda,Source2,3,40.818306,-77.939598,2018,19,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2558907,PA,Centre,Snow Shoe,Source2,3,41.023792,-77.93483,2018,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2563816,PA,Centre,Snow Shoe,Source2,3,41.023792,-77.93483,2018,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2569146,PA,Centre,Bellefonte,Source2,3,40.955502,-77.770302,2018,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-2595515,PA,Centre,Boalsburg,Source2,3,40.781292,-77.779678,2018,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2605064,PA,Centre,Snow Shoe,Source2,3,41.023792,-77.93483,2018,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2627875,PA,Centre,Port Matilda,Source2,3,40.818672,-77.900536,2018,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-2632927,PA,Centre,State College,Source2,3,40.826962,-77.84291800000003,2018,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2642038,PA,Centre,Snow Shoe,Source2,3,41.023792,-77.93483,2018,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-2651956,PA,Centre,Bellefonte,Source2,3,40.938442,-77.730644,2018,11,Friday,Cloudy,False,False,False,True,False,False,False
+A-2651974,PA,Centre,Bellefonte,Source2,3,40.955502,-77.770302,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2681745,PA,Centre,Snow Shoe,Source2,3,41.023792,-77.93483,2018,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-2681761,PA,Centre,Snow Shoe,Source2,3,41.023792,-77.93483,2018,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-2683817,PA,Centre,Bellefonte,Source2,3,40.945999,-77.715919,2018,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2707294,PA,Centre,Bellefonte,Source2,3,40.955502,-77.770302,2018,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2720474,PA,Centre,Snow Shoe,Source2,3,41.023792,-77.93483,2018,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2727456,PA,Centre,Bellefonte,Source2,3,40.938442,-77.730644,2018,15,Friday,Cloudy,False,False,False,True,False,False,False
+A-2727461,PA,Centre,Snow Shoe,Source2,3,40.996975,-78.001762,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2739973,PA,Centre,Snow Shoe,Source2,3,41.023792,-77.93483,2018,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-2739974,PA,Centre,Snow Shoe,Source2,3,41.023792,-77.93483,2018,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-2740022,PA,Centre,Port Matilda,Source2,3,40.804108,-78.063835,2018,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-2742307,PA,Centre,State College,Source2,3,40.825233,-77.858223,2018,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2749619,PA,Centre,Port Matilda,Source2,3,40.818672,-77.900536,2018,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2751732,PA,Centre,Bellefonte,Source2,3,40.945999,-77.715919,2018,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2752530,PA,Centre,Bellefonte,Source2,3,40.955502,-77.770302,2018,10,Sunday,Rain,False,False,False,False,False,False,False
+A-2752551,PA,Centre,Bellefonte,Source2,3,40.991249,-77.828613,2018,22,Sunday,Rain,False,False,False,False,False,False,False
+A-2794656,PA,Centre,Bellefonte,Source2,3,40.915253,-77.74185200000002,2018,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2802777,PA,Centre,Port Matilda,Source2,3,40.818138,-77.939865,2018,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-2802778,PA,Centre,Port Matilda,Source2,3,40.818138,-77.939865,2018,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-2802780,PA,Centre,Bellefonte,Source2,3,40.944534,-77.720474,2018,10,Friday,Cloudy,False,False,False,True,False,False,False
+A-2805929,PA,Centre,Centre Hall,Source2,3,40.797501,-77.664345,2018,16,Sunday,Rain,False,False,False,False,False,False,False
+A-2805931,PA,Centre,Port Matilda,Source2,3,40.818672,-77.900536,2018,16,Sunday,Rain,False,False,False,False,False,False,False
+A-2811859,PA,Centre,Bellefonte,Source2,3,40.944534,-77.720474,2018,8,Wednesday,Clear / Fair,False,False,False,True,False,False,False
+A-2814413,PA,Centre,Port Matilda,Source2,3,40.818138,-77.939865,2018,8,Thursday,Rain,False,False,False,False,False,False,False
+A-2814446,PA,Centre,Bellefonte,Source2,3,40.955502,-77.770302,2018,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2821478,PA,Centre,Bellefonte,Source2,3,40.955502,-77.770302,2018,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-2835341,PA,Centre,Snow Shoe,Source2,3,41.023792,-77.93483,2018,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2850656,PA,Centre,Snow Shoe,Source2,3,41.023792,-77.93483,2018,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-2850659,PA,Centre,Bellefonte,Source2,3,40.944534,-77.720474,2018,16,Monday,Cloudy,False,False,False,True,False,False,False
+A-2854964,PA,Centre,Port Matilda,Source2,3,40.809029,-78.057175,2018,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2858765,PA,Centre,Port Matilda,Source2,3,40.818138,-77.939865,2018,5,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2858806,PA,Centre,Bellefonte,Source2,3,40.872883,-77.778564,2018,8,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2875275,PA,Centre,Port Matilda,Source2,3,40.808842,-78.05789200000002,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2887156,PA,Centre,Bellefonte,Source2,3,40.938442,-77.730644,2018,20,Monday,Cloudy,False,False,False,True,False,False,False
+A-2919674,PA,Centre,Bellefonte,Source2,3,40.938442,-77.730644,2018,18,Thursday,Rain,False,False,False,True,False,False,False
+A-2919675,PA,Centre,Bellefonte,Source2,3,40.938442,-77.730644,2018,18,Thursday,Rain,False,False,False,True,False,False,False
+A-2924479,PA,Centre,Philipsburg,Source2,3,40.913994,-78.24726899999997,2018,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2937423,PA,Centre,Snow Shoe,Source2,3,41.00950200000001,-77.96315799999998,2018,9,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2941121,PA,Centre,Snow Shoe,Source2,3,41.023823,-77.93544,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2978157,PA,Centre,Bellefonte,Source2,3,40.944534,-77.720474,2018,16,Friday,Cloudy,False,False,False,True,False,False,False
+A-3001074,PA,Centre,Port Matilda,Source2,3,40.818138,-77.939865,2018,11,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3008213,PA,Centre,Bellefonte,Source2,3,40.846638,-77.812027,2018,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3032099,PA,Centre,Port Matilda,Source2,3,40.818138,-77.939865,2018,13,Saturday,Rain,False,False,False,False,False,False,False
+A-3032100,PA,Centre,Port Matilda,Source2,3,40.804321,-78.064323,2018,14,Saturday,Rain,False,False,False,False,False,False,False
+A-3050481,PA,Centre,Bellefonte,Source2,3,40.877628,-77.778534,2018,17,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-3074533,PA,Centre,Port Matilda,Source2,3,40.815392,-77.919853,2018,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3075426,PA,Centre,Port Matilda,Source2,3,40.804108,-78.063835,2018,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3128121,PA,Centre,Bellefonte,Source2,3,40.889042,-77.733788,2017,7,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3128130,PA,Centre,Port Matilda,Source2,3,40.830074,-77.986687,2017,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3128143,PA,Centre,Philipsburg,Source2,3,40.969345,-78.078018,2017,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3137939,PA,Centre,Snow Shoe,Source2,3,41.023792,-77.93483,2017,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3140657,PA,Centre,Bellefonte,Source2,3,40.938442,-77.730644,2017,14,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-3148432,PA,Centre,Bellefonte,Source2,3,40.955502,-77.770302,2017,7,Saturday,Rain,False,False,False,False,False,False,False
+A-3157255,PA,Centre,Bellefonte,Source2,3,40.955502,-77.770302,2017,7,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-3291570,PA,Centre,Port Matilda,Source2,3,40.818138,-77.939865,2017,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3322977,PA,Centre,Bellefonte,Source2,3,40.915253,-77.74185200000002,2017,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3365760,PA,Centre,State College,Source2,3,40.825233,-77.858223,2017,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3372969,PA,Centre,Philipsburg,Source2,3,40.975967,-78.052437,2017,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3446844,PA,Centre,State College,Source1,4,40.79174,-77.86519,2016,20,Monday,Cloudy,True,True,False,False,False,True,False
+A-3446845,PA,Centre,State College,Source1,4,40.79084,-77.8638,2016,20,Monday,Cloudy,True,True,False,False,False,True,False
+A-3446846,PA,Centre,State College,Source1,4,40.792315,-77.86444300000002,2016,20,Monday,Cloudy,False,False,False,False,True,False,False
+A-3455448,PA,Centre,Bellefonte,Source1,4,40.959729,-77.689704,2016,4,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3455449,PA,Centre,Bellefonte,Source1,4,40.98236,-77.64723000000002,2016,4,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3459450,PA,Centre,Bellefonte,Source1,4,40.959729,-77.689704,2017,17,Saturday,Rain,False,False,False,False,False,False,False
+A-3459451,PA,Centre,Bellefonte,Source1,4,40.98236,-77.64723000000002,2017,17,Saturday,Rain,False,False,False,False,False,False,False
+A-3461289,PA,Centre,State College,Source1,4,40.784759,-77.84137,2017,0,Saturday,Cloudy,False,True,False,False,True,False,False
+A-3461290,PA,Centre,State College,Source1,4,40.785011,-77.83929300000001,2017,0,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3469856,PA,Centre,Snow Shoe,Source1,4,41.02733,-77.920332,2016,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3469858,PA,Centre,Snow Shoe,Source1,4,41.026583,-77.95036999999998,2016,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3472317,PA,Centre,State College,Source1,4,40.84396,-77.81826,2016,23,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-3485767,PA,Centre,Philipsburg,Source1,4,40.82276,-78.22495,2016,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3485841,PA,Centre,Philipsburg,Source1,4,40.896401,-78.220681,2016,9,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-3485842,PA,Centre,Philipsburg,Source1,4,40.89508,-78.21924,2016,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3485843,PA,Centre,Philipsburg,Source1,4,40.8964,-78.22068,2016,9,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-3493123,PA,Centre,Philipsburg,Source1,4,40.888283,-78.23070600000001,2016,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3493124,PA,Centre,Philipsburg,Source1,4,40.8934,-78.22256,2016,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3497927,PA,Centre,State College,Source1,4,40.80365,-77.88419,2016,17,Friday,Cloudy,True,True,False,False,False,False,False
+A-3498221,PA,Centre,Centre Hall,Source1,4,40.797744,-77.643073,2016,17,Sunday,Cloudy,False,False,False,True,False,False,False
+A-3498222,PA,Centre,Spring Mills,Source1,4,40.789569,-77.621862,2016,17,Sunday,Cloudy,False,False,False,True,False,False,False
+A-3501860,PA,Centre,Port Matilda,Source1,4,40.82854,-78.01855,2016,18,Thursday,Cloudy,False,False,True,False,False,False,False
+A-3501861,PA,Centre,Julian,Source1,4,40.86551,-77.93895,2016,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3507751,PA,Centre,Howard,Source1,4,41.02951,-77.66141999999998,2016,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3507752,PA,Centre,Howard,Source1,4,41.011842,-77.68146800000002,2016,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3508452,PA,Centre,Rebersburg,Source1,4,40.98018,-77.29521,2016,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3558599,PA,Centre,Spring Mills,Source1,4,40.846129,-77.627059,2017,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3558600,PA,Centre,Spring Mills,Source1,4,40.85632,-77.57365,2017,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3558601,PA,Centre,Spring Mills,Source1,4,40.85632,-77.57365,2017,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3558602,PA,Centre,Spring Mills,Source1,4,40.84612,-77.627155,2017,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3563174,PA,Centre,Port Matilda,Source1,4,40.841317,-78.132403,2017,3,Monday,Cloudy,False,False,False,False,False,False,False
+A-3572470,PA,Centre,Spring Mills,Source1,4,40.845381,-77.633821,2017,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3572471,PA,Centre,Spring Mills,Source1,4,40.856406,-77.5717,2017,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3572473,PA,Centre,Spring Mills,Source1,4,40.845388,-77.633771,2017,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3572474,PA,Centre,Spring Mills,Source1,4,40.856399,-77.571733,2017,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3573875,PA,Centre,Bellefonte,Source1,4,40.901323,-77.79016,2017,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3573876,PA,Centre,Bellefonte,Source1,4,40.891793,-77.784399,2017,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3576579,PA,Centre,Port Matilda,Source1,4,40.810614,-78.05058299999997,2017,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-3578562,PA,Centre,Philipsburg,Source1,4,40.86746,-78.174256,2017,17,Friday,Sin dato,False,False,False,False,False,False,False
+A-3578563,PA,Centre,Philipsburg,Source1,4,40.890964,-78.191998,2017,17,Friday,Sin dato,False,False,False,False,False,False,False
+A-3578565,PA,Centre,Spring Mills,Source1,4,40.884401,-77.505184,2017,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-3578566,PA,Centre,Spring Mills,Source1,4,40.873999,-77.53609300000002,2017,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-3614067,PA,Centre,State College,Source1,4,40.73395,-77.88583,2017,21,Thursday,Cloudy,True,True,False,False,False,False,False
+A-3614068,PA,Centre,State College,Source1,4,40.737102,-77.88170799999997,2017,21,Thursday,Cloudy,False,True,False,False,False,False,False
+A-3614414,PA,Centre,Philipsburg,Source1,4,40.893101,-78.217541,2017,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-3614415,PA,Centre,Philipsburg,Source1,4,40.888598,-78.213098,2017,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-3667461,PA,Centre,Port Matilda,Source1,4,40.80997109,-78.05456758,2023,22,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-3685531,PA,Centre,Port Matilda,Source1,4,40.810207,-78.061706,2023,22,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3706683,PA,Centre,Snow Shoe,Source1,4,41.024096,-77.92999300000002,2022,13,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3712846,PA,Centre,Spring Mills,Source1,4,40.849533,-77.604049,2023,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3714197,PA,Centre,Port Matilda,Source1,4,40.82775950412356,-78.01991343461026,2022,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3737160,PA,Centre,Centre Hall,Source1,4,40.84814429,-77.68779159,2022,21,Saturday,Clear / Fair,True,True,False,False,False,False,False
+A-3776381,PA,Centre,Philipsburg,Source1,4,40.889743,-78.214338,2022,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3787995,PA,Centre,State College,Source1,4,40.773397,-77.88734000000002,2022,2,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-3791266,PA,Centre,Centre Hall,Source1,4,40.794749,-77.627734,2022,19,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3806315,PA,Centre,Boalsburg,Source1,4,40.779058,-77.771732,2022,17,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3821422,PA,Centre,Centre Hall,Source1,4,40.848141,-77.687794,2022,9,Wednesday,Rain,True,True,False,False,False,False,False
+A-3821761,PA,Centre,Bellefonte,Source1,4,40.916233,-77.720175,2022,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3830440,PA,Centre,Centre Hall,Source1,4,40.802594,-77.720725,2022,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3840733,PA,Centre,Philipsburg,Source1,4,40.893289,-78.217753,2022,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3867454,PA,Centre,Spring Mills,Source1,4,40.795554,-77.631748,2022,19,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3884293,PA,Centre,State College,Source1,4,40.765795,-77.883873,2022,2,Saturday,Clear / Fair,True,True,False,False,False,False,False
+A-3891457,PA,Centre,Philipsburg,Source1,4,40.861463,-78.216667,2022,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3919399,PA,Centre,State College,Source1,4,40.836007,-77.801076,2022,16,Saturday,Snow / Ice,True,False,False,False,False,False,False
+A-3942937,PA,Centre,State College,Source1,4,40.790396,-77.80611800000001,2022,19,Tuesday,Snow / Ice,False,False,True,False,False,False,False
+A-3951604,PA,Centre,Boalsburg,Source1,4,40.791514,-77.746787,2022,17,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3962960,PA,Centre,State College,Source1,4,40.80364108,-77.88419366,2022,3,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-3996759,PA,Centre,State College,Source1,4,40.759635,-77.843773,2022,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4008819,PA,Centre,Boalsburg,Source1,4,40.77905058841333,-77.77173399888146,2022,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4045417,PA,Centre,Philipsburg,Source1,4,40.889743,-78.214338,2022,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4056163,PA,Centre,Philipsburg,Source1,4,40.847591,-78.143047,2022,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-4058390,PA,Centre,Howard,Source1,4,41.036011,-77.65185100000002,2022,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4071412,PA,Centre,Boalsburg,Source1,4,40.784416,-77.783876,2022,11,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-4084791,PA,Centre,Centre Hall,Source1,4,40.785074,-77.72421800000002,2022,11,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-4087419,PA,Centre,Madisonburg,Source1,4,40.956401,-77.54022900000002,2022,16,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-4092854,PA,Centre,State College,Source1,4,40.74855923633217,-77.86975264512125,2022,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4100432,PA,Centre,Philipsburg,Source1,4,40.895921,-78.220017,2022,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4128842,PA,Centre,Bellefonte,Source1,4,40.946024,-77.712991,2022,5,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-4132942,PA,Centre,Bellefonte,Source1,4,40.946024,-77.712991,2022,4,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-4157484,PA,Centre,Philipsburg,Source1,4,40.895921,-78.220017,2022,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4225900,PA,Centre,State College,Source1,4,40.784412,-77.844583,2022,10,Tuesday,Cloudy,False,False,False,False,True,False,False
+A-4232594,PA,Centre,Boalsburg,Source1,4,40.77905059,-77.771734,2022,19,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-4253313,PA,Centre,Bellefonte,Source1,4,40.871059,-77.779112,2022,16,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-4258573,PA,Centre,Bellefonte,Source1,4,40.916206,-77.72567,2022,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4262635,PA,Centre,Philipsburg,Source1,4,40.893464,-78.217903,2022,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4269069,PA,Centre,Snow Shoe,Source1,4,41.023432016177054,-77.94107794724493,2022,5,Saturday,Cloudy,False,False,True,False,False,False,False
+A-4291383,PA,Centre,Spring Mills,Source1,4,40.79049600000001,-77.62268900000002,2022,19,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-4310163,PA,Centre,Centre Hall,Source1,4,40.7978,-77.64375600000002,2022,19,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-4316571,PA,Centre,State College,Source1,4,40.773397,-77.88734000000002,2022,2,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-4316711,PA,Centre,Bellefonte,Source1,4,40.875759,-77.773728,2023,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4317871,PA,Centre,State College,Source1,4,40.83900332431393,-77.83172965012629,2022,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4320997,PA,Centre,State College,Source1,4,40.809458,-77.90803299999997,2022,18,Thursday,Rain,True,True,False,False,False,False,False
+A-4329323,PA,Centre,Bellefonte,Source1,4,40.96167683581847,-77.611037492382,2022,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4341980,PA,Centre,Bellefonte,Source1,4,40.944138,-77.729821,2022,2,Friday,Rain,False,False,False,False,False,False,False
+A-4381350,PA,Centre,Port Matilda,Source1,4,40.827229,-78.02077299999998,2022,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4387381,PA,Centre,Port Matilda,Source1,4,40.82597,-78.109965,2022,22,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4398163,PA,Centre,Bellefonte,Source1,4,40.86788535,-77.74660706,2022,21,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-4403673,PA,Centre,Bellefonte,Source1,4,40.89517951,-77.73609281,2023,16,Saturday,Cloudy,False,False,True,False,False,False,False
+A-4430241,PA,Centre,Port Matilda,Source1,4,40.80067,-78.06505600000001,2022,4,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4437576,PA,Centre,Philipsburg,Source1,4,40.889743,-78.214338,2022,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4440647,PA,Centre,Bellefonte,Source1,4,40.867495,-77.744525,2022,20,Saturday,Cloudy,False,False,False,False,True,False,False
+A-4446513,PA,Centre,Philipsburg,Source1,4,40.901222,-78.21096999999997,2022,21,Monday,Cloudy,True,False,False,False,False,False,False
+A-4462599,PA,Centre,Centre Hall,Source1,4,40.781743,-77.733437,2022,5,Thursday,Rain,False,False,False,False,False,False,False
+A-4486200,PA,Centre,Bellefonte,Source1,4,40.86758494,-77.74504065,2022,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4488340,PA,Centre,Howard,Source1,4,40.956313,-77.76945699999997,2022,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-4495598,PA,Centre,Philipsburg,Source1,4,40.89593052844573,-78.22000622712031,2022,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4512599,PA,Centre,State College,Source1,4,40.82458376864994,-77.8601396080119,2022,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4538482,PA,Centre,Philipsburg,Source1,4,40.859759,-78.21695,2022,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4547698,PA,Centre,Bellefonte,Source1,4,40.962977,-77.668302,2022,5,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-4564550,PA,Centre,Centre Hall,Source1,4,40.806644,-77.71525600000002,2022,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4573916,PA,Centre,State College,Source1,4,40.831014,-77.838726,2022,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4612598,PA,Centre,Howard,Source1,4,41.022125,-77.66979,2022,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4629085,PA,Centre,Bellefonte,Source1,4,40.869947,-77.779383,2022,16,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-4635701,PA,Centre,Madisonburg,Source1,4,40.923651,-77.51540200000002,2022,16,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-4646535,PA,Centre,Philipsburg,Source1,4,40.891742,-78.216408,2022,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4676601,PA,Centre,Bellefonte,Source1,4,40.962411,-77.684629,2022,20,Saturday,Rain,False,False,False,True,False,False,False
+A-4677159,PA,Centre,Bellefonte,Source1,4,40.944138,-77.729821,2022,2,Friday,Rain,False,False,False,False,False,False,False
+A-4704412,PA,Centre,State College,Source1,4,40.810205,-77.914209,2022,18,Thursday,Rain,True,True,False,False,True,False,False
+A-4716329,PA,Centre,State College,Source1,4,40.78524,-77.851834,2022,10,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-4726226,PA,Centre,Pleasant Gap,Source1,4,40.867893,-77.74662099999998,2022,20,Saturday,Cloudy,True,False,False,False,False,False,False
+A-4737166,PA,Centre,Spring Mills,Source1,4,40.88885300000001,-77.60815799999997,2022,4,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-4745314,PA,Centre,Bellefonte,Source1,4,40.854282,-77.797945,2022,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-4764899,PA,Centre,Boalsburg,Source1,4,40.779437,-77.759512,2022,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4787450,PA,Centre,Bellefonte,Source1,4,40.884849,-77.73938100000002,2023,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4795163,PA,Centre,Madisonburg,Source1,4,40.922879,-77.51478,2022,16,Friday,Snow / Ice,False,False,False,True,False,False,False
+A-4809341,PA,Centre,Spring Mills,Source1,4,40.803582,-77.628038,2022,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4811507,PA,Centre,Philipsburg,Source1,4,40.89638114,-78.22067141,2022,15,Saturday,Rain,True,False,False,False,False,False,False
+A-4813704,PA,Centre,Philipsburg,Source1,4,40.968353,-78.082243,2023,6,Friday,Rain,False,False,False,False,False,False,False
+A-4813705,PA,Centre,Philipsburg,Source1,4,40.968353,-78.082243,2023,23,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4818932,PA,Centre,Bellefonte,Source1,4,40.95521807651064,-77.62011408768834,2022,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4822264,PA,Centre,Boalsburg,Source1,4,40.78093886355981,-77.800487279521,2022,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4827074,PA,Centre,Snow Shoe,Source1,4,41.023445,-77.94108299999998,2022,5,Saturday,Cloudy,False,False,True,False,False,False,False
+A-4833811,PA,Centre,Rebersburg,Source1,4,40.953834,-77.539649,2022,16,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-4839599,PA,Centre,Howard,Source1,4,41.021159,-77.572374,2022,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4842094,PA,Centre,Bellefonte,Source1,4,40.96397280673522,-77.66144156418963,2022,2,Friday,Rain,False,False,False,False,False,False,False
+A-4872502,PA,Centre,Philipsburg,Source1,4,40.896389,-78.220687,2022,20,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-4878356,PA,Centre,Spring Mills,Source1,4,40.811632,-77.626773,2022,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4906087,PA,Centre,Howard,Source1,4,40.997331,-77.556133,2022,16,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-4919139,PA,Centre,Philipsburg,Source1,4,40.88836,-78.21301700000002,2022,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4926131,PA,Centre,State College,Source1,4,40.781213,-77.801278,2022,15,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-4976108,PA,Centre,State College,Source1,4,40.785144,-77.834385,2022,15,Tuesday,Cloudy,True,True,False,False,True,False,False
+A-4980067,PA,Centre,Spring Mills,Source1,4,40.856313,-77.573559,2023,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4985744,PA,Centre,Port Matilda,Source1,4,40.827229,-78.02077299999998,2022,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4986210,PA,Centre,Bellefonte,Source1,4,40.956147,-77.766973,2022,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4999728,PA,Centre,Boalsburg,Source1,4,40.781157,-77.800972,2022,14,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-5002456,PA,Centre,Boalsburg,Source1,4,40.779397,-77.760921,2022,11,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-5091239,PA,Centre,Philipsburg,Source1,4,40.895921,-78.220017,2022,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5105505,PA,Centre,Pleasant Gap,Source1,4,40.868057,-77.747535,2022,20,Saturday,Cloudy,False,False,False,False,True,False,False
+A-5110863,PA,Centre,State College,Source1,4,40.848804,-77.80736800000003,2022,0,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5125717,PA,Centre,Centre Hall,Source1,4,40.792505,-77.740837,2022,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5152399,PA,Centre,Port Matilda,Source1,4,40.824841,-78.106022,2022,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5158479,PA,Centre,Karthaus,Source1,4,41.087123,-78.055291,2023,5,Tuesday,Rain,False,False,False,False,False,False,False
+A-5161974,PA,Centre,Centre Hall,Source1,4,40.802594,-77.720725,2022,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5208326,PA,Centre,Philipsburg,Source1,4,40.88529000000001,-78.212153,2022,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5211073,PA,Centre,Snow Shoe,Source1,4,41.023445,-77.94108299999998,2022,14,Sunday,Cloudy,False,False,True,False,False,False,False
+A-5228354,PA,Centre,State College,Source1,4,40.79681754,-77.87241340000001,2022,3,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-5232553,PA,Centre,Spring Mills,Source1,4,40.803582,-77.628038,2022,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5264893,PA,Centre,Boalsburg,Source1,4,40.777011,-77.788413,2022,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5276610,PA,Centre,Philipsburg,Source1,4,40.968308,-78.08425600000002,2022,13,Thursday,Rain,False,False,False,False,False,False,False
+A-5295461,PA,Centre,Bellefonte,Source1,4,40.864349,-77.73392,2022,9,Wednesday,Rain,False,False,False,False,False,False,False
+A-5298185,PA,Centre,State College,Source1,4,40.816099,-77.832792,2022,15,Thursday,Snow / Ice,False,False,True,False,False,False,False
+A-5336794,PA,Centre,Bellefonte,Source1,4,40.946884,-77.716647,2022,20,Saturday,Rain,True,False,False,False,False,False,False
+A-5339246,PA,Centre,State College,Source1,4,40.748797,-77.86873,2022,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5340994,PA,Centre,Centre Hall,Source1,4,40.87681,-77.631392,2022,4,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-5363082,PA,Centre,Madisonburg,Source1,4,40.956401,-77.54022900000002,2022,16,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-5370795,PA,Centre,Port Matilda,Source1,4,40.827229,-78.02077299999998,2022,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5374118,PA,Centre,Bellefonte,Source1,4,40.867598,-77.74504499999998,2022,20,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5379570,PA,Centre,Philipsburg,Source1,4,40.88836,-78.21301700000002,2022,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5382100,PA,Centre,Philipsburg,Source1,4,40.895908,-78.220218,2022,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5402415,PA,Centre,Spring Mills,Source1,4,40.797742,-77.643124,2022,11,Wednesday,Snow / Ice,False,False,False,True,False,False,False
+A-5418486,PA,Centre,State College,Source1,4,40.785144,-77.834385,2022,15,Tuesday,Cloudy,True,True,False,False,True,False,False
+A-5418490,PA,Centre,Spring Mills,Source1,4,40.831855,-77.589865,2022,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5435575,PA,Centre,Philipsburg,Source1,4,40.88036,-78.212152,2022,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5470935,PA,Centre,Bellefonte,Source1,4,40.96006751040953,-77.67671942673837,2021,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5485178,PA,Centre,Centre Hall,Source1,4,40.797334,-77.665559,2021,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5491717,PA,Centre,Spring Mills,Source1,4,40.797742,-77.643124,2021,20,Sunday,Cloudy,False,False,False,True,False,False,False
+A-5515350,PA,Centre,Centre Hall,Source1,4,40.780149,-77.74023000000003,2021,2,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5527876,PA,Centre,State College,Source1,4,40.765795,-77.883873,2021,10,Monday,Clear / Fair,True,True,False,False,False,False,False
+A-5535928,PA,Centre,Pleasant Gap,Source1,4,40.867893,-77.74662099999998,2021,17,Friday,Storm,True,False,False,False,False,False,False
+A-5537236,PA,Centre,Boalsburg,Source1,4,40.785022,-77.784616,2021,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5544568,PA,Centre,Centre Hall,Source1,4,40.82117,-77.69439200000002,2021,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5553570,PA,Centre,Boalsburg,Source1,4,40.785022,-77.784616,2021,1,Friday,Cloudy,False,False,False,False,False,False,False
+A-5555870,PA,Centre,Port Matilda,Source1,4,40.82851052264772,-78.01862597428313,2021,6,Thursday,Fog / Low visibility,False,False,True,False,False,False,False
+A-5556842,PA,Centre,Bellefonte,Source1,4,40.962977,-77.668302,2021,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5559338,PA,Centre,Philipsburg,Source1,4,40.895908,-78.220218,2021,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-5562507,PA,Centre,Centre Hall,Source1,4,40.792137,-77.700423,2021,1,Friday,Cloudy,False,False,False,False,False,False,False
+A-5563101,PA,Centre,Boalsburg,Source1,4,40.779058,-77.771732,2021,2,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5563102,PA,Centre,Boalsburg,Source1,4,40.779035,-77.771057,2021,2,Friday,Cloudy,False,False,False,False,False,False,False
+A-5563103,PA,Centre,Boalsburg,Source1,4,40.779026,-77.76410899999998,2021,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5563128,PA,Centre,Bellefonte,Source1,4,40.944369,-77.72070500000002,2021,23,Monday,Cloudy,False,False,False,True,False,False,False
+A-5586740,PA,Centre,Centre Hall,Source1,4,40.795121,-77.679317,2021,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5592038,PA,Centre,Spring Mills,Source1,4,40.795833,-77.62843000000002,2021,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-5617119,PA,Centre,Howard,Source1,4,40.984356,-77.620906,2021,8,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5640768,PA,Centre,Philipsburg,Source1,4,40.99813342074872,-77.99676060639382,2021,9,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-5641168,PA,Centre,Julian,Source1,4,40.8497,-77.970058,2021,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5659026,PA,Centre,Spring Mills,Source1,4,40.79686,-77.63565600000003,2021,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-5666394,PA,Centre,Boalsburg,Source1,4,40.79040169696431,-77.80610918961615,2021,7,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-5676731,PA,Centre,Centre Hall,Source1,4,40.797334,-77.665559,2021,2,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5679791,PA,Centre,Boalsburg,Source1,4,40.779648,-77.75480300000002,2021,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-5680081,PA,Centre,Centre Hall,Source1,4,40.835216,-77.672508,2021,17,Sunday,Cloudy,True,True,False,False,False,False,False
+A-5681539,PA,Centre,State College,Source1,4,40.75996,-77.878,2021,17,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-5695851,PA,Centre,Spring Mills,Source1,4,40.78125,-77.62025200000002,2021,2,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5730253,PA,Centre,Bellefonte,Source1,4,40.944138,-77.729821,2021,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-5745838,PA,Centre,Port Matilda,Source1,4,40.83148,-78.011902,2021,6,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-5750876,PA,Centre,Bellefonte,Source1,4,40.94212889651803,-77.72560000382555,2021,23,Monday,Cloudy,False,False,False,True,False,False,False
+A-5763944,PA,Centre,Spring Mills,Source1,4,40.79750418643571,-77.64009118043117,2021,3,Friday,Cloudy,False,False,False,False,False,False,False
+A-5764820,PA,Centre,Centre Hall,Source1,4,40.79815,-77.659674,2021,3,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5764821,PA,Centre,Centre Hall,Source1,4,40.795121,-77.679317,2021,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5780448,PA,Centre,Boalsburg,Source1,4,40.785072,-77.784676,2021,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5783792,PA,Centre,Philipsburg,Source1,4,40.968308,-78.08425600000002,2021,9,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-5785810,PA,Centre,State College,Source1,4,40.80720305423353,-77.89140343628934,2021,23,Sunday,Rain,True,True,False,False,False,False,False
+A-5787096,PA,Centre,State College,Source1,4,40.748079,-77.870059,2021,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5789149,PA,Centre,Boalsburg,Source1,4,40.779648,-77.75480300000002,2021,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-5793842,PA,Centre,State College,Source1,4,40.791893,-77.865466,2021,18,Wednesday,Clear / Fair,True,True,False,False,False,True,False
+A-5808562,PA,Centre,Spring Mills,Source1,4,40.790485,-77.622718,2021,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5813440,PA,Centre,Centre Hall,Source1,4,40.795121,-77.679317,2021,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5816234,PA,Centre,Bellefonte,Source1,4,40.8725631235081,-77.75890231095427,2021,17,Friday,Storm,False,False,False,False,False,False,False
+A-5829466,PA,Centre,Boalsburg,Source1,4,40.786079,-77.800537,2021,7,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-5829683,PA,Centre,Centre Hall,Source1,4,40.825464,-77.6883,2021,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5835931,PA,Centre,State College,Source1,4,40.845246,-77.794124,2021,23,Saturday,Rain,False,False,False,False,False,False,False
+A-5843022,PA,Centre,Centre Hall,Source1,4,40.795121,-77.679317,2021,3,Friday,Cloudy,False,False,False,False,False,False,False
+A-5846987,PA,Centre,State College,Source1,4,40.812097,-77.828623,2021,2,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5849768,PA,Centre,Bellefonte,Source1,4,40.869086980624814,-77.75149941407322,2021,17,Friday,Storm,False,False,False,False,True,False,False
+A-5863442,PA,Centre,Bellefonte,Source1,4,40.95614075641176,-77.76697039567107,2021,7,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5863776,PA,Centre,Bellefonte,Source1,4,40.94601273517157,-77.71298289261955,2021,7,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5878226,PA,Centre,State College,Source1,4,40.74855,-77.869755,2021,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5889152,PA,Centre,Centre Hall,Source1,4,40.79815,-77.659674,2021,3,Friday,Cloudy,False,False,False,False,False,False,False
+A-5896906,PA,Centre,Centre Hall,Source1,4,40.7914,-77.696614,2021,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-5902333,PA,Centre,Bellefonte,Source1,4,40.885055,-77.763722,2021,17,Friday,Storm,False,False,False,False,False,False,False
+A-5906484,PA,Centre,Spring Mills,Source1,4,40.795985,-77.63152099999998,2021,10,Monday,Cloudy,False,True,False,False,False,False,False
+A-5909528,PA,Centre,State College,Source1,4,40.80364108066176,-77.88419365845735,2021,23,Sunday,Rain,True,True,False,False,False,False,False
+A-5911582,PA,Centre,State College,Source1,4,40.808544,-77.90053499999998,2021,8,Friday,Fog / Low visibility,True,True,False,False,False,False,False
+A-5921005,PA,Centre,Centre Hall,Source1,4,40.7914,-77.696614,2021,2,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5944451,PA,Centre,Spring Mills,Source1,4,40.794867,-77.628153,2021,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-5982519,PA,Centre,Centre Hall,Source1,4,40.84226489047602,-77.6488029953115,2021,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5998233,PA,Centre,Millheim,Source1,4,40.899766,-77.457672,2021,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6000989,PA,Centre,Centre Hall,Source1,4,40.790868,-77.70465300000002,2021,2,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6012492,PA,Centre,Millheim,Source1,4,40.89095234851412,-77.47675538026105,2021,19,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-6022914,PA,Centre,Centre Hall,Source1,4,40.781743,-77.733437,2021,2,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6038523,PA,Centre,Snow Shoe,Source1,4,41.024096,-77.92999300000002,2021,9,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-6048082,PA,Centre,Centre Hall,Source1,4,40.791541,-77.689392,2021,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-6048269,PA,Centre,Spring Mills,Source1,4,40.796121,-77.63167299999998,2021,2,Wednesday,Cloudy,False,True,False,False,False,False,False
+A-6054901,PA,Centre,Philipsburg,Source1,4,40.89659571628143,-78.22026371918574,2021,20,Friday,Cloudy,True,False,False,False,False,False,False
+A-6068238,PA,Centre,Spring Mills,Source1,4,40.79621672610857,-77.63167977296052,2021,10,Monday,Cloudy,False,True,False,False,False,False,False
+A-6079208,PA,Centre,Boalsburg,Source1,4,40.779026,-77.76410899999998,2021,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6082887,PA,Centre,State College,Source1,4,40.80844,-77.90446999999998,2021,22,Sunday,Rain,False,False,False,False,False,False,False
+A-6084454,PA,Centre,Philipsburg,Source1,4,40.97575306872856,-78.04849505387281,2021,9,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-6088841,PA,Centre,Bellefonte,Source1,4,40.90778,-77.68326,2021,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6093112,PA,Centre,Spring Mills,Source1,4,40.796860456272135,-77.63564944230255,2021,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6107747,PA,Centre,Boalsburg,Source1,4,40.785072,-77.784676,2021,3,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6108347,PA,Centre,State College,Source1,4,40.836007,-77.801076,2021,23,Saturday,Rain,True,False,False,False,False,False,False
+A-6115591,PA,Centre,Port Matilda,Source1,4,40.76592700000001,-78.087721,2021,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6122259,PA,Centre,Spring Mills,Source1,4,40.797742,-77.643124,2021,2,Tuesday,Cloudy,False,False,False,True,False,False,False
+A-6122260,PA,Centre,Spring Mills,Source1,4,40.796855,-77.635503,2021,3,Friday,Cloudy,False,False,False,False,False,False,False
+A-6150628,PA,Centre,Bellefonte,Source1,4,40.963577,-77.66649100000002,2021,16,Wednesday,Rain,False,False,False,False,False,False,False
+A-6150629,PA,Centre,Bellefonte,Source1,4,40.96823300000001,-77.644325,2021,20,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6159169,PA,Centre,Boalsburg,Source1,4,40.779035,-77.771057,2021,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-6182925,PA,Centre,Snow Shoe,Source1,4,41.02409720401276,-77.92998433075937,2021,9,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-6197211,PA,Centre,Spring Mills,Source1,4,40.790485,-77.622718,2021,2,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6221105,PA,Centre,Centre Hall,Source1,4,40.791882,-77.701614,2021,2,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6229275,PA,Centre,Spring Mills,Source1,4,40.790485,-77.622718,2021,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6244444,PA,Centre,Boalsburg,Source1,4,40.779437,-77.759512,2021,3,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6244997,PA,Centre,Bellefonte,Source1,4,40.918187,-77.67744300000003,2021,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6245960,PA,Centre,Boalsburg,Source1,4,40.784416,-77.783876,2021,1,Friday,Cloudy,False,False,False,False,False,False,False
+A-6279440,PA,Centre,Bellefonte,Source1,4,40.907059,-77.68415300000002,2021,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6293588,PA,Centre,State College,Source1,4,40.790396,-77.80611800000001,2021,10,Monday,Cloudy,False,False,True,False,False,False,False
+A-6297699,PA,Centre,Bellefonte,Source1,4,40.944138,-77.729821,2021,1,Thursday,Rain,False,False,False,False,False,False,False
+A-6304789,PA,Centre,Bellefonte,Source1,4,40.908554,-77.682491,2021,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6322903,PA,Centre,Philipsburg,Source1,4,40.895908,-78.220218,2021,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-6331335,PA,Centre,Bellefonte,Source1,4,40.871494,-77.75806800000002,2021,17,Friday,Storm,False,False,False,False,False,False,False
+A-6333814,PA,Centre,Centre Hall,Source1,4,40.791428,-77.702988,2021,1,Friday,Cloudy,False,False,False,False,False,False,False
+A-6361713,PA,Centre,Boalsburg,Source1,4,40.779058,-77.771732,2021,4,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-6369814,PA,Centre,Philipsburg,Source1,4,40.889743,-78.214338,2021,8,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-6384434,PA,Centre,Tyrone,Source1,4,40.744457,-78.200073,2021,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-6394732,PA,Centre,Philipsburg,Source1,4,40.968308,-78.08425600000002,2021,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6398552,PA,Centre,Port Matilda,Source1,4,40.81146500000001,-78.077691,2021,15,Tuesday,Rain,False,False,False,False,False,False,False
+A-6399778,PA,Centre,Philipsburg,Source1,4,40.901222,-78.21096999999997,2021,15,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-6402005,PA,Centre,Philipsburg,Source1,4,40.786131,-78.237687,2021,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-6403341,PA,Centre,State College,Source1,4,40.73875,-77.880031,2021,15,Thursday,Snow / Ice,False,False,False,False,True,False,False
+A-6415321,PA,Centre,Madisonburg,Source1,4,40.956401,-77.54022900000002,2021,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6416543,PA,Centre,State College,Source1,4,40.82497,-77.858594,2021,15,Tuesday,Rain,False,False,True,False,False,False,False
+A-6417050,PA,Centre,Bellefonte,Source1,4,40.872037,-77.779211,2021,23,Friday,Cloudy,False,False,False,False,False,False,False
+A-6429925,PA,Centre,Port Matilda,Source1,4,40.817159,-77.906616,2021,15,Tuesday,Rain,False,False,True,False,False,False,False
+A-6430328,PA,Centre,Port Matilda,Source1,4,40.809971,-78.054567,2021,15,Tuesday,Rain,False,False,True,False,False,False,False
+A-6438947,PA,Centre,Port Matilda,Source1,4,40.810207,-78.061706,2021,15,Tuesday,Rain,False,False,False,False,False,False,False
+A-6439802,PA,Centre,Philipsburg,Source1,4,40.901222,-78.21096999999997,2021,15,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-6442870,PA,Centre,Madisonburg,Source1,4,40.922879,-77.51478,2021,10,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-6462696,PA,Centre,Madisonburg,Source1,4,40.931147,-77.488221,2021,10,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-6463883,PA,Centre,Philipsburg,Source1,4,40.822802,-78.224941,2021,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-6463957,PA,Centre,Philipsburg,Source1,4,40.847545,-78.220336,2021,8,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-6465931,PA,Centre,Tyrone,Source1,4,40.752958,-78.219748,2021,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-6469712,PA,Centre,Port Matilda,Source1,4,40.816086,-77.931936,2021,15,Tuesday,Rain,False,False,True,False,False,False,False
+A-6470442,PA,Centre,Madisonburg,Source1,4,40.922879,-77.51478,2021,10,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-6471752,PA,Centre,Snow Shoe,Source1,4,41.024149,-77.928598,2021,5,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-6485636,PA,Centre,Tyrone,Source1,4,40.74061,-78.197316,2021,8,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-6486358,PA,Centre,Sandy Ridge,Source1,4,40.816987,-78.224968,2021,8,Monday,Sin dato,False,False,False,False,False,False,False
+A-6497279,PA,Centre,Madisonburg,Source1,4,40.923651,-77.51540200000002,2021,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6507993,PA,Centre,Philipsburg,Source1,4,40.856579,-78.21775799999998,2021,8,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-6510774,PA,Centre,Port Matilda,Source1,4,40.80960200000001,-78.072378,2021,15,Tuesday,Rain,False,False,False,False,False,False,False
+A-6530933,PA,Centre,Port Matilda,Source1,4,40.811451,-78.07767700000002,2021,15,Tuesday,Rain,False,False,False,False,False,False,False
+A-6533148,PA,Centre,State College,Source1,4,40.790396,-77.80611800000001,2021,4,Tuesday,Snow / Ice,False,False,True,False,False,False,False
+A-6548678,PA,Centre,Philipsburg,Source1,4,40.900663,-78.21061999999998,2021,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6559998,PA,Centre,Howard,Source1,4,40.997331,-77.556133,2021,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6562500,PA,Centre,Rebersburg,Source1,4,40.953834,-77.539649,2021,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6572083,PA,Centre,Madisonburg,Source1,4,40.956401,-77.54022900000002,2021,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6585114,PA,Centre,Bellefonte,Source1,4,40.981947,-77.824872,2020,14,Thursday,Rain,False,False,False,True,False,False,False
+A-6588946,PA,Centre,Rebersburg,Source1,4,40.991052,-77.214478,2020,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6592536,PA,Centre,Madisonburg,Source1,4,40.956401,-77.54022900000002,2020,2,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-6599722,PA,Centre,Bellefonte,Source1,4,40.938513,-77.73078199999998,2020,21,Saturday,Clear / Fair,False,False,False,True,False,False,False
+A-6649601,PA,Centre,Spring Mills,Source1,4,40.796321,-77.630975,2020,22,Sunday,Rain,False,False,False,False,False,False,False
+A-6654221,PA,Centre,Bellefonte,Source1,4,40.944138,-77.729821,2020,1,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6657329,PA,Centre,Bellefonte,Source1,4,40.872783,-77.778261,2020,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6663005,PA,Centre,Tyrone,Source1,4,40.74061,-78.197316,2020,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-6695004,PA,Centre,Boalsburg,Source1,4,40.79284000000001,-77.799152,2020,8,Sunday,Clear / Fair,False,False,False,True,False,False,False
+A-6696404,PA,Centre,Boalsburg,Source1,4,40.779035,-77.771057,2020,21,Monday,Rain,False,False,False,False,False,False,False
+A-6703053,PA,Centre,Boalsburg,Source1,4,40.78510900000001,-77.78472,2020,23,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-6723573,PA,Centre,Spring Mills,Source1,4,40.797505,-77.640102,2020,23,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6729351,PA,Centre,Bellefonte,Source1,4,40.983969,-77.823911,2020,14,Thursday,Rain,False,False,False,False,False,False,False
+A-6735337,PA,Centre,Spring Mills,Source1,4,40.796321,-77.630975,2020,22,Sunday,Rain,False,False,False,False,False,False,False
+A-6739396,PA,Centre,Spring Mills,Source1,4,40.794619,-77.625182,2020,21,Monday,Rain,False,False,False,True,False,False,False
+A-6743512,PA,Centre,Centre Hall,Source1,4,40.78208400000001,-77.732681,2020,21,Monday,Rain,False,False,False,False,False,False,False
+A-6750223,PA,Centre,Bellefonte,Source1,4,40.979167,-77.82781899999998,2020,13,Thursday,Rain,False,False,False,False,False,False,False
+A-6779149,PA,Centre,Centre Hall,Source1,4,40.876811,-77.63137900000002,2020,1,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6792943,PA,Centre,Centre Hall,Source1,4,40.862232,-77.663351,2020,1,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6793931,PA,Centre,Bellefonte,Source1,4,40.914731,-77.74138,2020,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6797165,PA,Centre,Boalsburg,Source1,4,40.803487,-77.81336999999998,2020,8,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6813782,PA,Centre,Philipsburg,Source1,4,40.788245,-78.235886,2020,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-6813832,PA,Centre,Centre Hall,Source1,4,40.869816,-77.646592,2020,1,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6820971,PA,Centre,Spring Mills,Source1,4,40.797505,-77.640102,2020,22,Monday,Rain,False,False,False,False,False,False,False
+A-6824780,PA,Centre,Centre Hall,Source1,4,40.869816,-77.646592,2020,1,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6826618,PA,Centre,Spring Mills,Source1,4,40.794117,-77.624753,2020,21,Monday,Rain,False,False,False,False,False,False,False
+A-6856746,PA,Centre,Bellefonte,Source1,4,40.938513,-77.73078199999998,2020,21,Saturday,Clear / Fair,False,False,False,True,False,False,False
+A-6870440,PA,Centre,Port Matilda,Source1,4,40.822242,-77.944932,2020,9,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6901727,PA,Centre,Spring Mills,Source1,4,40.794619,-77.625182,2020,21,Monday,Rain,False,False,False,True,False,False,False
+A-6926454,PA,Centre,Spring Mills,Source1,4,40.794117,-77.624753,2020,21,Monday,Rain,False,False,False,False,False,False,False
+A-6949953,PA,Centre,Spring Mills,Source1,4,40.796321,-77.630975,2020,22,Sunday,Rain,False,False,False,False,False,False,False
+A-6960749,PA,Centre,Boalsburg,Source1,4,40.78510900000001,-77.78472,2020,23,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-6966312,PA,Centre,Spring Mills,Source1,4,40.796321,-77.630975,2020,22,Sunday,Rain,False,False,False,False,False,False,False
+A-7002843,PA,Centre,Woodward,Source1,4,40.89845,-77.3534,2020,10,Thursday,Rain,False,False,False,False,False,False,False
+A-7013580,PA,Centre,Bellefonte,Source1,3,40.96082,-77.76210999999998,2020,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7054361,PA,Centre,Spring Mills,Source1,3,40.79394,-77.62463000000002,2020,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7054362,PA,Centre,Spring Mills,Source1,3,40.79394,-77.62463000000002,2020,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7072110,PA,Centre,Bellefonte,Source1,4,40.94608,-77.71264000000002,2020,14,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7072115,PA,Centre,Bellefonte,Source1,4,40.94608,-77.71264000000002,2020,14,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7072123,PA,Centre,Bellefonte,Source1,4,40.94608,-77.71264000000002,2020,14,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7072132,PA,Centre,Bellefonte,Source1,4,40.94608,-77.71264000000002,2020,14,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7072144,PA,Centre,Bellefonte,Source1,4,40.96296,-77.6684,2020,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7072151,PA,Centre,Bellefonte,Source1,3,40.94608,-77.71264000000002,2020,15,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7088450,PA,Centre,Howard,Source1,4,40.98022,-77.62663,2020,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-7088481,PA,Centre,Howard,Source1,4,40.98022,-77.62663,2020,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-7088611,PA,Centre,Bellefonte,Source1,4,40.96296,-77.6684,2020,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7088613,PA,Centre,Howard,Source1,3,40.98022,-77.62663,2020,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7384182,PA,Centre,Spring Mills,Source1,4,40.78245,-77.62137,2019,8,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7436327,PA,Centre,State College,Source1,3,40.82466,-77.85985,2019,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-7436332,PA,Centre,State College,Source1,3,40.82466,-77.85985,2019,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-7436333,PA,Centre,State College,Source1,4,40.84625,-77.81296999999998,2019,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-7445437,PA,Centre,Snow Shoe,Source1,4,41.018592,-77.886491,2019,21,Tuesday,Rain,False,False,False,False,False,False,False
+A-7445438,PA,Centre,Bellefonte,Source1,4,40.974377,-77.844601,2019,21,Tuesday,Rain,False,False,False,False,False,False,False
+A-7446169,PA,Centre,Bellefonte,Source1,4,40.974377,-77.844601,2019,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7446170,PA,Centre,Snow Shoe,Source1,4,41.018592,-77.886491,2019,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7492999,PA,Centre,State College,Source1,4,40.81342,-77.9251,2018,12,Monday,Rain,False,False,False,False,False,False,False
+A-7493003,PA,Centre,Bellefonte,Source1,4,40.86965,-77.78171999999998,2018,12,Monday,Rain,False,False,False,False,False,False,False
+A-7499622,PA,Centre,Port Matilda,Source1,4,40.82262,-77.94546,2018,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7500420,PA,Centre,Spring Mills,Source1,4,40.79394,-77.62463000000002,2018,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7506234,PA,Centre,Spring Mills,Source1,4,40.803636,-77.628007,2018,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7506235,PA,Centre,Spring Mills,Source1,4,40.808933,-77.634596,2018,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7506245,PA,Centre,Spring Mills,Source1,4,40.795209,-77.62510999999998,2018,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7524349,PA,Centre,Spring Mills,Source1,4,40.7947,-77.62525,2018,20,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-7524350,PA,Centre,Spring Mills,Source1,4,40.782145,-77.621173,2018,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7534508,PA,Centre,State College,Source1,4,40.82203,-77.83984,2018,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7534509,PA,Centre,State College,Source1,4,40.81505,-77.83191,2018,9,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7534510,PA,Centre,State College,Source1,4,40.83055,-77.83939000000002,2018,9,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7534512,PA,Centre,State College,Source1,4,40.82203,-77.83984,2018,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7534513,PA,Centre,State College,Source1,4,40.81505,-77.83191,2018,9,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7534516,PA,Centre,State College,Source1,4,40.78993300000001,-77.80042399999998,2018,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7534517,PA,Centre,State College,Source1,4,40.827076,-77.842392,2018,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7534518,PA,Centre,State College,Source1,4,40.83055,-77.83939000000002,2018,10,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7534519,PA,Centre,State College,Source1,4,40.82203,-77.83984,2018,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7534520,PA,Centre,State College,Source1,4,40.80965,-77.82565,2018,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7534521,PA,Centre,State College,Source1,4,40.836171,-77.83448,2018,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7534523,PA,Centre,State College,Source1,4,40.79071,-77.80668,2018,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7534528,PA,Centre,State College,Source1,4,40.823364,-77.842274,2018,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7534530,PA,Centre,State College,Source1,4,40.80965,-77.82565,2018,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7534536,PA,Centre,State College,Source1,4,40.80965,-77.82565,2018,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7534537,PA,Centre,State College,Source1,4,40.80999,-77.8256,2018,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7554331,PA,Centre,Spring Mills,Source1,4,40.7947,-77.62525,2018,13,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-7554333,PA,Centre,Spring Mills,Source1,4,40.7947,-77.62525,2018,13,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-7554336,PA,Centre,Boalsburg,Source1,4,40.786107,-77.78594,2018,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7554337,PA,Centre,Spring Mills,Source1,4,40.7947,-77.62525,2018,14,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-7554339,PA,Centre,Spring Mills,Source1,4,40.7947,-77.62525,2018,14,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-7554340,PA,Centre,State College,Source1,4,40.79047,-77.80674,2018,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7554341,PA,Centre,State College,Source1,4,40.79047,-77.80674,2018,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7569827,PA,Centre,Howard,Source1,3,40.95628,-77.76898,2018,23,Sunday,Rain,False,False,False,False,False,False,False
+A-7578170,PA,Centre,Bellefonte,Source1,4,40.955379,-77.75505799999998,2018,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7578173,PA,Centre,Bellefonte,Source1,4,40.955379,-77.75505799999998,2018,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7578174,PA,Centre,Bellefonte,Source1,4,40.945371,-77.718682,2018,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7579137,PA,Centre,Bellefonte,Source1,4,40.94406,-77.72419000000002,2018,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-7592420,PA,Centre,State College,Source1,3,40.786168,-77.87241800000002,2018,0,Thursday,Cloudy,False,True,False,False,False,False,False
+A-7592421,PA,Centre,State College,Source1,3,40.786699,-77.871751,2018,0,Thursday,Cloudy,False,False,False,False,True,False,False
+A-7592422,PA,Centre,State College,Source1,3,40.786198,-77.872383,2018,0,Thursday,Cloudy,False,True,False,False,False,False,False
+A-7592423,PA,Centre,State College,Source1,3,40.7862,-77.87238,2018,0,Thursday,Cloudy,False,True,False,False,False,False,False
+A-7597766,PA,Centre,Snow Shoe,Source1,3,41.032466,-77.99138,2018,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7597767,PA,Centre,Moshannon,Source1,3,41.03212,-78.00506999999998,2018,20,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-7597768,PA,Centre,Snow Shoe,Source1,3,41.03247,-77.991363,2018,20,Wednesday,Cloudy,False,True,False,False,False,False,False
+A-7597769,PA,Centre,Moshannon,Source1,3,41.03212,-78.00506999999998,2018,20,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-7637884,PA,Centre,Snow Shoe,Source1,3,41.028538,-77.971575,2018,23,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7637885,PA,Centre,Snow Shoe,Source1,3,41.027875,-77.952783,2018,23,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7637886,PA,Centre,Snow Shoe,Source1,3,41.027861,-77.952763,2018,23,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7637887,PA,Centre,Snow Shoe,Source1,3,41.028534,-77.971556,2018,23,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7671643,PA,Centre,Spring Mills,Source1,4,40.798244,-77.658986,2017,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7671644,PA,Centre,Spring Mills,Source1,4,40.7946,-77.62514,2017,22,Sunday,Cloudy,False,False,False,True,False,False,False
+A-7701231,PA,Centre,Spring Mills,Source1,4,40.875304,-77.53243,2017,23,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7701232,PA,Centre,Spring Mills,Source1,4,40.885092,-77.501441,2017,23,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7701235,PA,Centre,Spring Mills,Source1,4,40.875678,-77.531373,2017,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7701236,PA,Centre,Spring Mills,Source1,4,40.885101,-77.501398,2017,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7712362,PA,Centre,Bellefonte,Source1,4,40.89511,-77.73605,2019,23,Sunday,Cloudy,False,False,True,False,False,False,False
+A-7719007,PA,Centre,Boalsburg,Source1,3,40.7795,-77.757552,2019,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7719008,PA,Centre,Boalsburg,Source1,3,40.779459,-77.759097,2019,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7731317,PA,Centre,Howard,Source1,4,40.9574,-77.77844,2019,0,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7731759,PA,Centre,Bellefonte,Source1,4,40.94416,-77.72999,2019,1,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7734992,PA,Centre,State College,Source1,4,40.793868,-77.85973299999998,2019,18,Sunday,Cloudy,False,True,False,False,True,True,False
+A-7734995,PA,Centre,State College,Source1,4,40.798851,-77.855749,2019,7,Friday,Cloudy,False,True,False,False,False,True,False
+A-7734996,PA,Centre,State College,Source1,4,40.798396,-77.853695,2019,4,Friday,Clear / Fair,False,True,False,False,False,False,False
+A-7734998,PA,Centre,State College,Source1,4,40.798396,-77.853695,2019,7,Friday,Cloudy,False,True,False,False,False,False,False
+A-7739726,PA,Centre,Woodward,Source1,4,40.909919,-77.28234,2019,0,Wednesday,Rain,False,False,False,False,False,False,False
+A-7740157,PA,Centre,Woodward,Source1,4,40.909919,-77.28234,2019,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7743772,PA,Centre,Millheim,Source1,3,40.890817,-77.477956,2019,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7743773,PA,Centre,Millheim,Source1,3,40.89077,-77.478339,2019,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7768238,PA,Centre,Aaronsburg,Source1,3,40.905501,-77.419572,2019,0,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7768239,PA,Centre,Aaronsburg,Source1,3,40.904403,-77.40181,2019,0,Sunday,Clear / Fair,False,False,False,False,False,False,False

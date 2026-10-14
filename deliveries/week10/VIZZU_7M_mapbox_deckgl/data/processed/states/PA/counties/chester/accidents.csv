@@ -1,0 +1,953 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-230060,PA,Chester,Malvern,Source2,3,40.07490900000001,-75.529984,2016,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-234145,PA,Chester,Malvern,Source2,3,40.07490900000001,-75.529984,2017,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-235999,PA,Chester,Exton,Source2,3,40.067898,-75.666382,2017,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-236799,PA,Chester,Exton,Source2,3,40.067898,-75.666382,2017,13,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-243004,PA,Chester,Malvern,Source2,3,40.07490900000001,-75.529984,2016,13,Sunday,Other,False,False,False,False,False,False,False
+A-246080,PA,Chester,Exton,Source2,3,40.067898,-75.666382,2016,5,Monday,Rain,False,False,False,False,False,False,False
+A-246131,PA,Chester,Exton,Source2,3,40.067898,-75.666382,2016,7,Monday,Rain,False,False,False,False,False,False,False
+A-246622,PA,Chester,Wayne,Source2,3,40.09,-75.415382,2016,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-248323,PA,Chester,Exton,Source2,3,40.067898,-75.666382,2016,7,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-251313,PA,Chester,Malvern,Source2,3,40.07490900000001,-75.529984,2016,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-251344,PA,Chester,Malvern,Source2,3,40.07490900000001,-75.529984,2016,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-251345,PA,Chester,Malvern,Source2,3,40.07490900000001,-75.529984,2016,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-252103,PA,Chester,Exton,Source2,3,40.067898,-75.666382,2016,5,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-253678,PA,Chester,Malvern,Source2,3,40.07490900000001,-75.529984,2016,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-254254,PA,Chester,Malvern,Source2,3,40.075012,-75.530502,2016,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-255786,PA,Chester,Malvern,Source2,3,40.07490900000001,-75.529984,2016,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-258021,PA,Chester,Exton,Source2,3,40.067898,-75.666382,2016,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-259359,PA,Chester,Berwyn,Source2,3,40.066326,-75.45708499999998,2016,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-260460,PA,Chester,Wayne,Source2,3,40.083298,-75.44171899999998,2016,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-260467,PA,Chester,Malvern,Source2,3,40.07490900000001,-75.529984,2016,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-329226,PA,Chester,Exton,Source2,3,40.067879,-75.666801,2017,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-329600,PA,Chester,Malvern,Source2,3,40.07490900000001,-75.529984,2017,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-378516,PA,Chester,Glenmoore,Source2,3,40.116028,-75.764549,2017,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-424548,PA,Chester,Malvern,Source2,3,40.076172,-75.536827,2017,13,Thursday,Rain,False,False,False,False,False,False,False
+A-424868,PA,Chester,Exton,Source2,3,40.067898,-75.666382,2017,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-448434,PA,Chester,Exton,Source2,3,40.067898,-75.666382,2017,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-448798,PA,Chester,Malvern,Source2,3,40.07490900000001,-75.529984,2017,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-448941,PA,Chester,Exton,Source2,3,40.020699,-75.623917,2017,7,Saturday,Rain,True,False,False,False,False,False,False
+A-482509,PA,Chester,Malvern,Source2,3,40.07490900000001,-75.529984,2017,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-482838,PA,Chester,Malvern,Source2,3,40.07490900000001,-75.529984,2017,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-507290,PA,Chester,Malvern,Source2,3,40.076336,-75.537148,2017,9,Tuesday,Sin dato,False,False,True,False,False,False,False
+A-516159,PA,Chester,Wayne,Source2,3,40.08215300000001,-75.446053,2022,19,Monday,Rain,False,False,False,False,False,False,False
+A-521845,PA,Chester,Exton,Source2,3,40.066216,-75.66834300000002,2022,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-531174,PA,Chester,Exton,Source2,3,40.066216,-75.66834300000002,2022,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-555217,PA,Chester,Malvern,Source2,3,40.050884,-75.562485,2022,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-557433,PA,Chester,Malvern,Source2,3,40.073475,-75.532021,2022,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-568191,PA,Chester,Downingtown,Source2,3,40.013073,-75.724594,2022,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-581713,PA,Chester,Exton,Source2,3,40.066216,-75.66834300000002,2022,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-582996,PA,Chester,Exton,Source2,3,40.066216,-75.66834300000002,2022,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-604692,PA,Chester,Pottstown,Source2,3,40.240639,-75.65984300000002,2022,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-619616,PA,Chester,Downingtown,Source2,3,40.070889,-75.680145,2022,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-621781,PA,Chester,Downingtown,Source2,3,39.996029,-75.74588,2022,6,Monday,Fog / Low visibility,True,True,False,False,False,False,False
+A-622000,PA,Chester,Malvern,Source2,3,40.073475,-75.532021,2022,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-622979,PA,Chester,Malvern,Source2,3,40.073475,-75.532021,2022,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-622980,PA,Chester,Malvern,Source2,3,40.073475,-75.532021,2022,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-630964,PA,Chester,Chester Springs,Source2,3,40.067776,-75.666397,2022,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-633006,PA,Chester,Malvern,Source2,3,40.073475,-75.532021,2022,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-639630,PA,Chester,Elverson,Source2,3,40.149853,-75.838699,2022,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-649234,PA,Chester,Exton,Source2,3,40.066216,-75.66834300000002,2022,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-649235,PA,Chester,Exton,Source2,3,40.066216,-75.66834300000002,2022,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-650193,PA,Chester,Exton,Source2,3,40.066216,-75.66834300000002,2022,16,Thursday,Rain,False,False,False,False,False,False,False
+A-673056,PA,Chester,West Chester,Source2,3,39.97559,-75.584846,2022,22,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-678076,PA,Chester,Chester Springs,Source2,3,40.068363,-75.669044,2022,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-684751,PA,Chester,Malvern,Source2,3,40.073475,-75.532021,2022,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-695439,PA,Chester,Malvern,Source2,3,40.073475,-75.532021,2022,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-696951,PA,Chester,Malvern,Source2,3,40.073475,-75.532021,2022,8,Friday,Rain,False,False,False,False,False,False,False
+A-700037,PA,Chester,Exton,Source2,3,40.054871,-75.641479,2022,6,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-700833,PA,Chester,Malvern,Source2,3,40.072971,-75.53427099999998,2022,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-704821,PA,Chester,Downingtown,Source2,3,40.018627,-75.702835,2022,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-730413,PA,Chester,Malvern,Source3,3,40.073475,-75.532021,2022,18,Friday,Other,False,False,False,False,False,False,False
+A-746276,PA,Chester,Exton,Source2,3,40.066216,-75.66834300000002,2022,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-752432,PA,Chester,Malvern,Source2,3,40.073475,-75.532021,2022,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-759272,PA,Chester,Exton,Source2,3,40.066216,-75.66834300000002,2021,22,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-775001,PA,Chester,Exton,Source2,3,40.066216,-75.66834300000002,2021,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-778996,PA,Chester,Malvern,Source2,3,40.073475,-75.532021,2021,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-782713,PA,Chester,Wayne,Source2,3,40.087456,-75.42534599999998,2021,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-813604,PA,Chester,Elverson,Source2,3,40.149963,-75.83917199999998,2021,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-817588,PA,Chester,Exton,Source2,3,40.066216,-75.66834300000002,2021,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-821064,PA,Chester,Exton,Source2,3,40.066216,-75.66834300000002,2021,23,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-822559,PA,Chester,West Chester,Source2,3,39.991123,-75.58908100000002,2021,8,Friday,Rain,False,False,False,False,False,False,False
+A-840222,PA,Chester,Glenmoore,Source2,3,40.123306,-75.78119699999998,2021,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-849256,PA,Chester,West Chester,Source2,3,39.941639,-75.58963,2021,18,Saturday,Cloudy,False,False,True,False,False,False,False
+A-849923,PA,Chester,Exton,Source2,3,40.066216,-75.66834300000002,2021,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-877364,PA,Chester,Glenmoore,Source2,3,40.098152,-75.746002,2021,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-895674,PA,Chester,Malvern,Source2,3,40.073475,-75.532021,2021,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-902183,PA,Chester,Exton,Source2,4,40.066216,-75.66834300000002,2021,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-905034,PA,Chester,Exton,Source2,3,40.066216,-75.66834300000002,2021,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-905051,PA,Chester,Exton,Source2,3,40.066216,-75.66834300000002,2021,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-906337,PA,Chester,Exton,Source2,3,40.066216,-75.66834300000002,2021,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-906338,PA,Chester,Glenmoore,Source2,3,40.090004,-75.728516,2021,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-911587,PA,Chester,Exton,Source2,3,40.02993,-75.609589,2021,7,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-921738,PA,Chester,Downingtown,Source2,3,40.008144,-75.745346,2021,16,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-928851,PA,Chester,Malvern,Source2,3,40.073475,-75.532021,2021,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-932696,PA,Chester,Exton,Source2,3,40.066216,-75.66834300000002,2021,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-935967,PA,Chester,Exton,Source2,3,40.066216,-75.66834300000002,2021,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-939623,PA,Chester,Downingtown,Source2,3,40.084312,-75.714638,2021,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-951090,PA,Chester,Malvern,Source2,3,40.075279,-75.53184499999998,2021,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-951112,PA,Chester,Malvern,Source2,3,40.073475,-75.532021,2021,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-964643,PA,Chester,Wayne,Source2,3,40.083984,-75.439049,2021,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-983956,PA,Chester,Malvern,Source2,3,40.076431,-75.500114,2021,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1001633,PA,Chester,Exton,Source2,3,40.066216,-75.66834300000002,2021,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1007524,PA,Chester,Exton,Source2,3,40.066216,-75.66834300000002,2021,13,Friday,Rain,False,False,False,False,False,False,False
+A-1009320,PA,Chester,Downingtown,Source2,3,40.008144,-75.745346,2021,8,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-1012669,PA,Chester,Exton,Source2,3,40.066216,-75.66834300000002,2021,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-1020318,PA,Chester,Malvern,Source2,3,40.073475,-75.532021,2021,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1025740,PA,Chester,Exton,Source2,3,40.066216,-75.66834300000002,2021,22,Friday,Rain,False,False,False,False,False,False,False
+A-1029228,PA,Chester,Exton,Source2,3,40.066216,-75.66834300000002,2021,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1030851,PA,Chester,Exton,Source2,3,40.066216,-75.66834300000002,2021,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1032495,PA,Chester,Malvern,Source2,3,40.077549,-75.54390699999998,2021,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-1043450,PA,Chester,Exton,Source2,3,40.066216,-75.66834300000002,2021,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1044564,PA,Chester,Downingtown,Source2,3,40.018768,-75.702087,2021,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1082502,PA,Chester,Malvern,Source2,4,40.073475,-75.532021,2021,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1083937,PA,Chester,Malvern,Source2,3,40.073475,-75.532021,2021,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1083939,PA,Chester,Malvern,Source2,3,40.073475,-75.532021,2021,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1085449,PA,Chester,Malvern,Source2,3,40.075066,-75.5308,2021,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-1114309,PA,Chester,Malvern,Source2,3,40.073475,-75.532021,2021,16,Thursday,Rain,False,False,False,False,False,False,False
+A-1120044,PA,Chester,Malvern,Source2,3,40.07655,-75.538742,2021,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1136138,PA,Chester,Exton,Source2,3,40.06625,-75.66828199999998,2021,16,Sunday,Rain,False,False,False,False,False,False,False
+A-1141626,PA,Chester,Malvern,Source2,3,40.073475,-75.532021,2021,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1147148,PA,Chester,Malvern,Source2,3,40.073475,-75.532021,2021,11,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1163627,PA,Chester,Malvern,Source2,3,40.073475,-75.532021,2021,13,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1179303,PA,Chester,Malvern,Source2,3,40.074612,-75.529053,2021,11,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1183010,PA,Chester,Exton,Source2,3,40.06625,-75.66828199999998,2021,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1188202,PA,Chester,Exton,Source2,3,40.06625,-75.66828199999998,2021,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1205466,PA,Chester,Exton,Source2,3,40.06625,-75.66828199999998,2021,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-1206814,PA,Chester,Exton,Source2,3,40.06625,-75.66828199999998,2021,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1206820,PA,Chester,Malvern,Source2,3,40.073475,-75.532021,2021,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1244392,PA,Chester,Malvern,Source2,4,40.073475,-75.532021,2020,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1246060,PA,Chester,Exton,Source2,3,40.06625,-75.66828199999998,2020,8,Monday,Rain,False,False,False,False,False,False,False
+A-1246140,PA,Chester,Malvern,Source2,3,40.073475,-75.532021,2020,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-1254201,PA,Chester,Pottstown,Source2,3,40.233311,-75.63744399999999,2020,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-1276031,PA,Chester,Exton,Source2,3,40.06625,-75.66828199999998,2020,18,Sunday,Sin dato,False,False,False,False,False,False,False
+A-1277518,PA,Chester,Malvern,Source2,4,40.073475,-75.532021,2020,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1277588,PA,Chester,Exton,Source2,4,40.06625,-75.66828199999998,2020,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1282960,PA,Chester,Malvern,Source2,3,40.073475,-75.532021,2020,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1306041,PA,Chester,Exton,Source2,4,40.06625,-75.66828199999998,2020,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1329072,PA,Chester,Malvern,Source2,3,40.073475,-75.532021,2020,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1362836,PA,Chester,Malvern,Source2,3,40.073475,-75.532021,2020,8,Thursday,Rain,False,False,False,False,False,False,False
+A-1373589,PA,Chester,Downingtown,Source2,3,40.075085,-75.696587,2020,4,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1373645,PA,Chester,Malvern,Source2,3,40.073475,-75.532021,2020,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1373661,PA,Chester,Pottstown,Source2,3,40.232849,-75.660713,2020,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1377900,PA,Chester,Exton,Source2,3,40.06625,-75.66828199999998,2020,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1380800,PA,Chester,Malvern,Source2,3,40.073475,-75.532021,2020,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1394850,PA,Chester,Malvern,Source2,3,40.077133,-75.480698,2020,7,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1397763,PA,Chester,Malvern,Source2,3,40.069794,-75.570702,2020,4,Friday,Rain,False,False,False,False,False,False,False
+A-1410501,PA,Chester,Malvern,Source2,3,40.073475,-75.532021,2020,7,Tuesday,Rain,False,False,False,False,False,False,False
+A-1414852,PA,Chester,Exton,Source2,3,40.06625,-75.66828199999998,2020,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-1414853,PA,Chester,Exton,Source2,3,40.066521,-75.66828199999998,2020,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-1416207,PA,Chester,Malvern,Source2,3,40.073475,-75.532021,2020,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1434248,PA,Chester,Malvern,Source2,3,40.073475,-75.532021,2020,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1444770,PA,Chester,Exton,Source2,3,40.06625,-75.66828199999998,2020,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1451908,PA,Chester,Exton,Source2,3,40.06625,-75.66828199999998,2020,18,Friday,Rain,False,False,False,False,False,False,False
+A-1458934,PA,Chester,Malvern,Source2,3,40.073475,-75.532021,2020,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-1458936,PA,Chester,Malvern,Source2,4,40.073475,-75.532021,2020,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-1460671,PA,Chester,Exton,Source3,3,40.049889,-75.635834,2020,20,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-1466680,PA,Chester,Nottingham,Source2,3,39.72438,-76.028778,2020,21,Tuesday,Cloudy,False,False,False,True,False,False,False
+A-1479613,PA,Chester,Berwyn,Source2,3,40.07125900000001,-75.438057,2020,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1481453,PA,Chester,Exton,Source2,3,40.03292800000001,-75.585892,2020,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1500534,PA,Chester,Downingtown,Source2,3,40.019039,-75.671143,2020,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1520954,PA,Chester,Exton,Source2,3,40.06633400000001,-75.66825899999998,2020,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1537943,PA,Chester,Malvern,Source2,3,40.073517,-75.532043,2020,8,Monday,Other,False,False,False,False,False,False,False
+A-1557799,PA,Chester,Exton,Source2,3,40.06625,-75.66828199999998,2020,22,Friday,Cloudy,False,False,False,False,False,False,False
+A-1576211,PA,Chester,Malvern,Source2,3,40.047249,-75.567238,2020,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-1611806,PA,Chester,Exton,Source2,3,40.06633400000001,-75.66825899999998,2020,11,Saturday,Rain,False,False,False,False,False,False,False
+A-1621543,PA,Chester,Exton,Source2,3,40.06633400000001,-75.66825899999998,2020,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1625248,PA,Chester,Kennett Square,Source2,3,39.86232,-75.681374,2020,7,Monday,Clear / Fair,False,False,False,True,False,False,False
+A-1625367,PA,Chester,Wayne,Source2,3,40.085907,-75.431686,2020,6,Tuesday,Rain,False,False,False,False,False,False,False
+A-1632065,PA,Chester,Malvern,Source2,3,40.073517,-75.532043,2020,9,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1634827,PA,Chester,West Chester,Source2,3,39.906929,-75.568283,2020,14,Friday,Snow / Ice,True,False,False,False,False,False,False
+A-1634841,PA,Chester,Exton,Source2,3,40.06633400000001,-75.66825899999998,2020,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-1656316,PA,Chester,Coatesville,Source2,3,40.00125900000001,-75.821938,2020,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1687781,PA,Chester,West Chester,Source2,3,39.978832,-75.587021,2019,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-1692898,PA,Chester,Malvern,Source2,3,40.073517,-75.532043,2019,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1693013,PA,Chester,Exton,Source2,3,40.06633400000001,-75.66825899999998,2019,18,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1695752,PA,Chester,Malvern,Source2,3,40.073517,-75.532043,2019,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1736226,PA,Chester,Malvern,Source2,3,40.074833,-75.530167,2019,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1742334,PA,Chester,Malvern,Source2,3,40.073517,-75.532043,2019,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1756738,PA,Chester,Malvern,Source2,3,40.07708,-75.48111,2019,16,Wednesday,Rain,False,False,False,False,False,False,False
+A-1764553,PA,Chester,Malvern,Source2,3,40.073517,-75.532043,2019,6,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1794185,PA,Chester,Exton,Source2,3,40.06633400000001,-75.66825899999998,2019,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1795791,PA,Chester,Malvern,Source2,3,40.073517,-75.532043,2019,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1803636,PA,Chester,Paoli,Source2,3,40.038818,-75.482933,2019,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1810782,PA,Chester,Spring City,Source2,3,40.166988,-75.57012900000002,2019,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1863243,PA,Chester,Exton,Source2,3,40.066364,-75.668198,2019,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1863271,PA,Chester,Exton,Source2,3,40.066364,-75.668198,2019,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1887628,PA,Chester,Malvern,Source2,3,40.074806,-75.530045,2019,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-1887677,PA,Chester,Exton,Source2,3,40.066364,-75.668198,2019,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-1916282,PA,Chester,Malvern,Source2,3,40.073517,-75.532043,2019,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1916292,PA,Chester,Malvern,Source2,3,40.073517,-75.532043,2019,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1948798,PA,Chester,Berwyn,Source2,3,40.065422,-75.462761,2019,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1948835,PA,Chester,Malvern,Source2,4,40.073517,-75.532043,2019,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1959375,PA,Chester,Glenmoore,Source2,3,40.123138,-75.71373,2019,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1981915,PA,Chester,Exton,Source2,3,40.066364,-75.668198,2019,4,Tuesday,Rain,False,False,False,False,False,False,False
+A-1991552,PA,Chester,Malvern,Source2,3,40.073517,-75.532043,2019,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1994234,PA,Chester,Malvern,Source2,3,40.073517,-75.532043,2019,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2002798,PA,Chester,Exton,Source2,3,40.066364,-75.668198,2019,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2051187,PA,Chester,Malvern,Source2,3,40.073517,-75.532043,2019,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-2061892,PA,Chester,Exton,Source2,3,40.066364,-75.668198,2019,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2061893,PA,Chester,Malvern,Source2,3,40.073517,-75.532043,2019,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2067326,PA,Chester,Malvern,Source2,3,40.073517,-75.532043,2019,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2074957,PA,Chester,Exton,Source2,3,40.066364,-75.668198,2019,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2079599,PA,Chester,Exton,Source2,3,40.066364,-75.668198,2019,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2080486,PA,Chester,Malvern,Source2,3,40.074814,-75.53008299999998,2019,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2084187,PA,Chester,Malvern,Source2,3,40.073517,-75.532043,2019,19,Sunday,Rain,False,False,False,False,False,False,False
+A-2084190,PA,Chester,Exton,Source2,3,40.066364,-75.668198,2019,19,Sunday,Rain,False,False,False,False,False,False,False
+A-2097194,PA,Chester,Malvern,Source2,3,40.073517,-75.532043,2019,10,Sunday,Rain,False,False,False,False,False,False,False
+A-2107435,PA,Chester,Malvern,Source2,3,40.073517,-75.532043,2019,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2128387,PA,Chester,West Chester,Source2,3,39.99008900000001,-75.589752,2019,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2135267,PA,Chester,Malvern,Source2,3,40.074772,-75.52986899999998,2019,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2161007,PA,Chester,West Chester,Source2,3,39.91296,-75.571877,2019,7,Thursday,Cloudy,True,False,False,False,False,False,False
+A-2169844,PA,Chester,Malvern,Source2,3,40.074955,-75.530243,2019,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2172060,PA,Chester,Exton,Source2,3,40.068893,-75.670837,2019,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2176644,PA,Chester,Exton,Source2,3,40.049889,-75.635834,2019,16,Friday,Cloudy,True,False,False,False,False,False,False
+A-2193292,PA,Chester,Exton,Source2,3,40.066364,-75.668198,2019,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2197765,PA,Chester,Exton,Source2,3,40.066299,-75.66791500000002,2019,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2197779,PA,Chester,Malvern,Source2,3,40.073681,-75.53241,2019,17,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-2227940,PA,Chester,Malvern,Source2,3,40.051296,-75.525574,2019,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2230479,PA,Chester,Exton,Source2,3,40.066299,-75.66791500000002,2019,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2230519,PA,Chester,Exton,Source2,3,40.066299,-75.66791500000002,2019,16,Thursday,Rain,False,False,False,False,False,False,False
+A-2251526,PA,Chester,Exton,Source2,3,40.066299,-75.66791500000002,2019,4,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2251545,PA,Chester,Malvern,Source2,3,40.076778,-75.483559,2019,5,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2251547,PA,Chester,Exton,Source2,3,40.066299,-75.66791500000002,2019,4,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2251574,PA,Chester,Malvern,Source2,3,40.076233,-75.537155,2019,6,Friday,Snow / Ice,False,False,True,False,False,False,False
+A-2251621,PA,Chester,Exton,Source2,3,40.066299,-75.66791500000002,2019,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-2274611,PA,Chester,Malvern,Source2,3,40.073681,-75.53241,2019,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2278903,PA,Chester,Malvern,Source2,3,40.051018,-75.562111,2019,10,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2278939,PA,Chester,Malvern,Source2,3,40.073681,-75.53241,2019,12,Tuesday,Rain,False,False,False,False,False,False,False
+A-2328234,PA,Chester,Malvern,Source2,3,40.073681,-75.53241,2019,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2356165,PA,Chester,Exton,Source2,3,40.066299,-75.66791500000002,2019,7,Thursday,Rain,False,False,False,False,False,False,False
+A-2379489,PA,Chester,Malvern,Source2,3,40.07516500000001,-75.531281,2018,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2381717,PA,Chester,Exton,Source2,3,40.066299,-75.66791500000002,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2418388,PA,Chester,Exton,Source2,3,40.066299,-75.66791500000002,2018,10,Friday,Rain,False,False,False,False,False,False,False
+A-2423690,PA,Chester,Exton,Source2,3,40.067898,-75.666382,2018,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2435297,PA,Chester,Exton,Source2,3,40.027843,-75.62804399999997,2018,9,Tuesday,Rain,True,True,False,False,False,False,False
+A-2438765,PA,Chester,Pottstown,Source2,3,40.232773,-75.635361,2018,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2441812,PA,Chester,Exton,Source2,3,40.067898,-75.666382,2018,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2444785,PA,Chester,Exton,Source2,3,40.067898,-75.666382,2018,20,Friday,Rain,False,False,False,False,False,False,False
+A-2452241,PA,Chester,Exton,Source2,3,40.069706,-75.674858,2018,6,Tuesday,Rain,False,False,False,False,False,False,False
+A-2477705,PA,Chester,Malvern,Source2,3,40.07490900000001,-75.529984,2018,9,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2491502,PA,Chester,Exton,Source2,3,40.067898,-75.666382,2018,22,Tuesday,Rain,False,False,False,False,False,False,False
+A-2515902,PA,Chester,Exton,Source2,3,40.067898,-75.666382,2018,8,Saturday,Rain,False,False,False,False,False,False,False
+A-2558894,PA,Chester,Malvern,Source2,3,40.07490900000001,-75.529984,2018,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2601284,PA,Chester,Malvern,Source2,3,40.07490900000001,-75.529984,2018,8,Sunday,Rain,False,False,False,False,False,False,False
+A-2604858,PA,Chester,Exton,Source2,3,40.067638,-75.665779,2018,10,Tuesday,Rain,False,False,False,False,False,False,False
+A-2604864,PA,Chester,Malvern,Source2,3,40.07490900000001,-75.529984,2018,11,Tuesday,Rain,False,False,False,False,False,False,False
+A-2615580,PA,Chester,Pottstown,Source2,3,40.24057,-75.659927,2018,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2641861,PA,Chester,Exton,Source2,3,40.067898,-75.666382,2018,7,Monday,Rain,False,False,False,False,False,False,False
+A-2641863,PA,Chester,Exton,Source2,3,40.067898,-75.666382,2018,7,Monday,Rain,False,False,False,False,False,False,False
+A-2641866,PA,Chester,Exton,Source2,3,40.067898,-75.666382,2018,7,Monday,Rain,False,False,False,False,False,False,False
+A-2641868,PA,Chester,Malvern,Source2,3,40.07490900000001,-75.529984,2018,7,Monday,Rain,False,False,False,False,False,False,False
+A-2660898,PA,Chester,Malvern,Source2,3,40.07383,-75.525124,2018,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2668866,PA,Chester,Malvern,Source2,3,40.07490900000001,-75.529984,2018,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2685866,PA,Chester,Pottstown,Source2,3,40.211376,-75.66033900000002,2018,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2687296,PA,Chester,Pottstown,Source2,3,40.228306,-75.62494699999998,2018,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2687297,PA,Chester,Pottstown,Source2,3,40.232208,-75.628654,2018,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2691416,PA,Chester,Exton,Source2,3,40.067898,-75.666382,2018,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2699788,PA,Chester,Malvern,Source2,3,40.07490900000001,-75.529984,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2714150,PA,Chester,Malvern,Source2,3,40.07490900000001,-75.529984,2018,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2717920,PA,Chester,Exton,Source2,3,40.067898,-75.666382,2018,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-2720238,PA,Chester,Malvern,Source2,3,40.07490900000001,-75.529984,2018,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2730285,PA,Chester,Elverson,Source2,3,40.141197,-75.80589300000003,2018,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2746966,PA,Chester,Exton,Source2,3,40.067898,-75.666382,2018,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2760482,PA,Chester,Malvern,Source2,3,40.074711,-75.52954100000002,2018,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2782519,PA,Chester,Exton,Source2,3,40.068089,-75.667702,2018,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2791967,PA,Chester,Exton,Source2,3,40.067734,-75.665695,2018,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2797094,PA,Chester,Malvern,Source2,3,40.07490900000001,-75.529984,2018,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2805892,PA,Chester,Malvern,Source2,3,40.07490900000001,-75.529984,2018,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2811653,PA,Chester,Wayne,Source2,3,40.078777,-75.405777,2018,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2829311,PA,Chester,Exton,Source2,3,40.067898,-75.666382,2018,6,Thursday,Rain,False,False,False,False,False,False,False
+A-2838812,PA,Chester,Exton,Source2,3,40.067898,-75.666382,2018,6,Tuesday,Rain,False,False,False,False,False,False,False
+A-2841393,PA,Chester,Malvern,Source2,3,40.07490900000001,-75.529984,2018,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2844014,PA,Chester,Malvern,Source2,3,40.07490900000001,-75.529984,2018,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2844015,PA,Chester,Malvern,Source2,3,40.07490900000001,-75.529984,2018,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2846694,PA,Chester,Malvern,Source2,3,40.07490900000001,-75.529984,2018,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2849877,PA,Chester,Malvern,Source2,3,40.07490900000001,-75.529984,2018,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2854794,PA,Chester,Exton,Source2,3,40.067898,-75.666382,2018,5,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2857280,PA,Chester,Exton,Source2,3,40.067898,-75.666382,2018,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2858655,PA,Chester,Exton,Source2,3,40.068192,-75.668159,2018,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-2866312,PA,Chester,Wayne,Source2,3,40.082325,-75.445427,2018,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2868761,PA,Chester,Malvern,Source2,3,40.07490900000001,-75.529984,2018,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2871837,PA,Chester,Exton,Source2,3,40.067898,-75.666382,2018,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2916200,PA,Chester,Exton,Source2,3,40.067898,-75.666382,2018,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2922340,PA,Chester,Exton,Source2,3,40.067898,-75.666382,2018,15,Friday,Other,False,False,False,False,False,False,False
+A-2955782,PA,Chester,Exton,Source2,3,40.067898,-75.666382,2018,18,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2958587,PA,Chester,Exton,Source2,3,40.070377,-75.677811,2018,11,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2961545,PA,Chester,Exton,Source2,3,40.049866,-75.635796,2018,9,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-2989686,PA,Chester,Exton,Source2,3,40.067894,-75.666382,2018,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2989694,PA,Chester,Exton,Source2,3,40.068001,-75.66686999999997,2018,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3003634,PA,Chester,Exton,Source2,3,40.067898,-75.666382,2018,15,Saturday,Rain,False,False,False,False,False,False,False
+A-3049867,PA,Chester,Malvern,Source2,3,40.033051,-75.58451099999998,2018,16,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-3062460,PA,Chester,Exton,Source2,3,40.067898,-75.666382,2018,9,Friday,Rain,False,False,False,False,False,False,False
+A-3065115,PA,Chester,Exton,Source2,3,40.067898,-75.666382,2018,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3112174,PA,Chester,Exton,Source2,3,40.067593,-75.665581,2017,22,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3112235,PA,Chester,Elverson,Source2,3,40.143993,-75.813934,2017,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3114905,PA,Chester,Downingtown,Source2,3,40.086002,-75.722466,2017,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3114919,PA,Chester,Exton,Source2,3,40.069386,-75.67304200000002,2017,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3114972,PA,Chester,Exton,Source2,3,40.067898,-75.666382,2017,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-3127896,PA,Chester,Wayne,Source2,3,40.076828000000006,-75.41342900000002,2017,6,Thursday,Cloudy,False,False,True,False,False,False,False
+A-3134870,PA,Chester,Malvern,Source2,3,40.075653,-75.505623,2017,8,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3150908,PA,Chester,Malvern,Source2,3,40.0751,-75.530952,2017,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3188451,PA,Chester,Malvern,Source2,3,40.074783,-75.529877,2017,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3200043,PA,Chester,Exton,Source2,3,40.067898,-75.666382,2017,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3205717,PA,Chester,Exton,Source2,3,40.067898,-75.666382,2017,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3206222,PA,Chester,Exton,Source2,3,40.067898,-75.666382,2017,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3263769,PA,Chester,Glenmoore,Source2,3,40.100132,-75.75106,2017,8,Tuesday,Rain,False,False,False,False,False,False,False
+A-3285482,PA,Chester,Malvern,Source2,3,40.07490900000001,-75.529984,2017,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3294416,PA,Chester,Malvern,Source2,3,40.07490900000001,-75.529984,2017,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-3316922,PA,Chester,Malvern,Source2,3,40.07490900000001,-75.529984,2017,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3328441,PA,Chester,Exton,Source2,3,40.067898,-75.666382,2017,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3353631,PA,Chester,Malvern,Source2,3,40.076473,-75.485428,2017,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3360204,PA,Chester,Elverson,Source2,3,40.129158,-75.788986,2017,5,Monday,Rain,False,False,False,False,False,False,False
+A-3360396,PA,Chester,Elverson,Source2,3,40.147762,-75.832825,2017,6,Monday,Rain,False,False,False,False,False,False,False
+A-3362773,PA,Chester,Wayne,Source2,3,40.078777,-75.405777,2017,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3374334,PA,Chester,Malvern,Source2,3,40.07490900000001,-75.529984,2017,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-3407423,PA,Chester,Wayne,Source2,3,40.078777,-75.405777,2017,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3445594,PA,Chester,Exton,Source1,4,40.0282,-75.62826,2016,14,Thursday,Cloudy,True,True,False,False,False,False,False
+A-3446264,PA,Chester,Pottstown,Source1,4,40.219863,-75.61083199999999,2016,4,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3450752,PA,Chester,Honey Brook,Source1,4,40.07355,-75.83381999999997,2016,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3450753,PA,Chester,Honey Brook,Source1,4,40.06361,-75.81475,2016,15,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-3450756,PA,Chester,Honey Brook,Source1,4,40.06361,-75.81475,2016,15,Thursday,Cloudy,True,False,False,False,False,False,False
+A-3450757,PA,Chester,Honey Brook,Source1,4,40.07355,-75.83381999999997,2016,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3450770,PA,Chester,Honey Brook,Source1,4,40.06361,-75.81475,2016,15,Thursday,Cloudy,True,False,False,False,False,False,False
+A-3450771,PA,Chester,Honey Brook,Source1,4,40.07355,-75.83381999999997,2016,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3458680,PA,Chester,Coatesville,Source1,4,40.006217,-75.77209599999998,2017,2,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3458681,PA,Chester,Downingtown,Source1,4,40.01279,-75.75129,2017,2,Thursday,Cloudy,False,False,False,True,False,False,False
+A-3459831,PA,Chester,Kennett Square,Source1,4,39.84738,-75.76141,2017,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-3460195,PA,Chester,West Chester,Source1,4,39.968348,-75.575778,2017,18,Tuesday,Rain,True,True,False,False,False,False,False
+A-3468417,PA,Chester,Downingtown,Source1,4,40.01162,-75.722514,2016,11,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-3468419,PA,Chester,Downingtown,Source1,4,40.013268,-75.72961,2016,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3469521,PA,Chester,Pottstown,Source1,4,40.23882,-75.65606,2016,8,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-3474527,PA,Chester,Exton,Source1,4,40.0282,-75.62826,2016,18,Monday,Cloudy,True,True,False,False,False,False,False
+A-3476461,PA,Chester,West Chester,Source1,4,39.92695,-75.58315,2016,9,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-3476464,PA,Chester,West Chester,Source1,3,39.92998,-75.58546,2016,9,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-3480255,PA,Chester,Exton,Source1,4,40.06695,-75.66226999999998,2016,7,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3483515,PA,Chester,Kennett Square,Source1,4,39.85609,-75.718568,2016,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3484012,PA,Chester,Avondale,Source1,3,39.838244,-75.806892,2016,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3485473,PA,Chester,Downingtown,Source1,3,40.00755,-75.74821,2016,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3487287,PA,Chester,Elverson,Source1,4,40.159647,-75.800717,2016,6,Sunday,Clear / Fair,False,False,False,True,False,False,False
+A-3487288,PA,Chester,Pottstown,Source1,4,40.17557,-75.712503,2016,6,Sunday,Clear / Fair,False,False,False,True,False,False,False
+A-3493895,PA,Chester,Exton,Source1,4,40.02196,-75.61901999999998,2016,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3496698,PA,Chester,Honey Brook,Source1,4,40.07865,-75.86072,2016,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3496699,PA,Chester,Honey Brook,Source1,4,40.090616,-75.905485,2016,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3500488,PA,Chester,Downingtown,Source1,3,40.017942,-75.705603,2016,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3510282,PA,Chester,Coatesville,Source1,4,40.004664,-75.823098,2016,23,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3510284,PA,Chester,Coatesville,Source1,4,40.004664,-75.823098,2016,23,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3510286,PA,Chester,Coatesville,Source1,4,40.00421,-75.81235,2016,23,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3516456,PA,Chester,Exton,Source1,4,40.06859,-75.67005,2016,1,Friday,Cloudy,False,False,False,False,False,False,False
+A-3518334,PA,Chester,Malvern,Source1,3,40.071741,-75.559049,2016,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3520078,PA,Chester,Downingtown,Source1,4,40.00842,-75.74361,2016,22,Friday,Cloudy,False,False,False,False,False,False,False
+A-3520079,PA,Chester,Coatesville,Source1,4,40.006081,-75.785625,2016,22,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-3520087,PA,Chester,Downingtown,Source1,4,40.00842,-75.74361,2016,3,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3520621,PA,Chester,West Chester,Source1,4,39.96781,-75.57953,2016,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3521499,PA,Chester,Pottstown,Source1,4,40.20263,-75.66089000000002,2016,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3521501,PA,Chester,Pottstown,Source1,4,40.174253,-75.66272,2016,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3558568,PA,Chester,Exton,Source1,3,40.01887,-75.6293,2017,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3558571,PA,Chester,Exton,Source1,4,40.01887,-75.6293,2017,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3558572,PA,Chester,Exton,Source1,4,40.02886,-75.59132,2017,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3558573,PA,Chester,Exton,Source1,4,40.01887,-75.6293,2017,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3560505,PA,Chester,Pottstown,Source1,4,40.240018,-75.660512,2017,1,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3560905,PA,Chester,Malvern,Source1,3,40.07357,-75.52299000000002,2017,14,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-3573215,PA,Chester,Downingtown,Source1,3,40.01159000000001,-75.72766,2017,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3573233,PA,Chester,Downingtown,Source1,3,40.01159000000001,-75.72766,2017,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3601967,PA,Chester,Parkesburg,Source1,4,39.98312,-75.928752,2017,2,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-3605208,PA,Chester,Wayne,Source1,4,40.08421,-75.41026,2017,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3618495,PA,Chester,Downingtown,Source1,4,40.007871,-75.746796,2017,0,Monday,Cloudy,False,False,False,False,False,False,False
+A-3626963,PA,Chester,West Chester,Source1,4,39.97318,-75.61459,2017,12,Monday,Rain,False,False,False,False,False,False,False
+A-3628709,PA,Chester,Downingtown,Source1,4,39.994085,-75.697878,2017,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3628710,PA,Chester,Downingtown,Source1,4,40.00097,-75.70217,2017,21,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-3629264,PA,Chester,Nottingham,Source1,4,39.78225,-76.08995999999998,2017,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3633238,PA,Chester,West Chester,Source1,4,40.01391,-75.61723,2017,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3641802,PA,Chester,Wayne,Source1,3,40.077,-75.41277,2017,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-3646356,PA,Chester,Downingtown,Source1,4,40.01204,-75.72366,2017,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3646357,PA,Chester,Downingtown,Source1,4,40.013564,-75.730526,2017,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3679945,PA,Chester,Phoenixville,Source1,4,40.132157,-75.534961,2023,23,Saturday,Sin dato,True,True,False,False,False,False,False
+A-3683474,PA,Chester,Phoenixville,Source1,4,40.131212,-75.532539,2023,23,Saturday,Sin dato,False,True,False,True,False,False,False
+A-3706803,PA,Chester,Exton,Source1,4,40.056758,-75.656995,2022,21,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-3708443,PA,Chester,Glenmoore,Source1,4,40.146265,-75.68344599999998,2022,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3711119,PA,Chester,Downingtown,Source1,4,40.007569,-75.74814,2022,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3720990,PA,Chester,Malvern,Source1,4,40.03251672,-75.57865262,2022,7,Thursday,Clear / Fair,False,False,False,True,False,False,False
+A-3726988,PA,Chester,Spring City,Source1,4,40.16692757587353,-75.6659424301354,2022,23,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3726989,PA,Chester,Spring City,Source1,4,40.166924,-75.66595600000002,2022,23,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3728121,PA,Chester,Spring City,Source1,4,40.151639,-75.670411,2022,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3737140,PA,Chester,Parkesburg,Source1,4,39.95975375,-75.88869452,2022,7,Thursday,Rain,False,False,False,False,False,False,False
+A-3784068,PA,Chester,Downingtown,Source1,4,40.020107,-75.679957,2023,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3785772,PA,Chester,Malvern,Source1,4,40.051786,-75.533212,2022,2,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3788379,PA,Chester,Honey Brook,Source1,4,40.022993,-75.94240500000002,2022,11,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-3859074,PA,Chester,Atglen,Source1,4,39.962022,-75.986725,2022,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3873369,PA,Chester,Pottstown,Source1,4,40.239153,-75.65878000000002,2022,16,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-3880517,PA,Chester,Cochranville,Source1,4,39.866892,-75.858822,2022,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3902522,PA,Chester,Parkesburg,Source1,4,39.983507,-75.932365,2022,9,Thursday,Cloudy,True,False,False,False,False,False,False
+A-3903114,PA,Chester,Wayne,Source1,4,40.082864,-75.443361,2022,19,Monday,Cloudy,False,False,True,False,False,False,False
+A-3918391,PA,Chester,Phoenixville,Source1,4,40.1122319696421,-75.48162102663287,2022,17,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-3979557,PA,Chester,Coatesville,Source1,4,39.954744,-75.841989,2022,7,Thursday,Rain,False,False,False,False,False,False,False
+A-3989226,PA,Chester,West Chester,Source1,4,39.970071,-75.612359,2022,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3991519,PA,Chester,Coatesville,Source1,4,39.983075,-75.82385,2022,15,Monday,Cloudy,True,False,False,False,False,False,False
+A-4026853,PA,Chester,Spring City,Source1,4,40.16026,-75.669736,2022,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4026953,PA,Chester,Pottstown,Source1,4,40.17952800000001,-75.661422,2022,16,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-4060597,PA,Chester,Chadds Ford,Source1,4,39.871818,-75.596776,2022,9,Thursday,Snow / Ice,False,True,False,False,False,False,True
+A-4095129,PA,Chester,West Grove,Source1,4,39.82708096,-75.86586356,2022,18,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-4098528,PA,Chester,Downingtown,Source1,4,40.029516,-75.683798,2022,17,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-4098730,PA,Chester,Pottstown,Source1,4,40.210931,-75.660177,2022,7,Thursday,Sin dato,False,False,False,False,False,False,False
+A-4117675,PA,Chester,Coatesville,Source1,4,40.006256,-75.78586,2022,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4125572,PA,Chester,Pottstown,Source1,4,40.169785,-75.664624,2022,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4134176,PA,Chester,Coatesville,Source1,4,39.912278,-75.811251,2022,9,Thursday,Rain,False,False,False,False,False,False,False
+A-4145235,PA,Chester,Atglen,Source1,4,39.947342,-75.968787,2022,21,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-4145283,PA,Chester,Exton,Source1,4,40.031132,-75.63028800000002,2023,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4173774,PA,Chester,Wayne,Source1,4,40.08242726306876,-75.40913701021475,2022,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4183297,PA,Chester,Coatesville,Source1,4,39.983075,-75.82385,2023,13,Tuesday,Sin dato,True,False,False,False,False,False,False
+A-4185776,PA,Chester,Downingtown,Source1,4,40.007569,-75.74814,2022,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4222760,PA,Chester,Glenmoore,Source1,4,40.121186,-75.694057,2022,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4222761,PA,Chester,Glenmoore,Source1,4,40.115664,-75.69431999999998,2022,22,Wednesday,Clear / Fair,True,True,False,False,False,False,False
+A-4236557,PA,Chester,West Chester,Source1,4,39.96521,-75.607124,2022,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4252301,PA,Chester,Atglen,Source1,4,39.955115,-75.974363,2022,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4255493,PA,Chester,Coatesville,Source1,4,39.906372,-75.79779599999998,2022,9,Thursday,Rain,False,False,False,False,False,False,False
+A-4288827,PA,Chester,West Grove,Source1,4,39.91278300000001,-75.812474,2022,9,Thursday,Rain,False,False,False,False,False,False,False
+A-4291965,PA,Chester,Coatesville,Source1,4,39.983075,-75.82385,2023,13,Tuesday,Sin dato,True,False,False,False,False,False,False
+A-4293596,PA,Chester,Coatesville,Source1,4,39.988592,-75.790446,2022,9,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4300862,PA,Chester,Phoenixville,Source1,4,40.1175320146555,-75.48739314043287,2022,17,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-4321107,PA,Chester,Pottstown,Source1,4,40.23337100000001,-75.661777,2023,14,Monday,Sin dato,False,False,False,False,False,False,False
+A-4321616,PA,Chester,Pottstown,Source1,4,40.190407,-75.66386899999998,2022,23,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4333954,PA,Chester,Malvern,Source1,4,40.074101686286575,-75.52644610368955,2022,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4393607,PA,Chester,Parkesburg,Source1,4,39.98342156,-75.93233943,2022,14,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-4429772,PA,Chester,Pottstown,Source1,4,40.210931,-75.660177,2022,7,Thursday,Sin dato,False,False,False,False,False,False,False
+A-4430906,PA,Chester,Exton,Source1,4,40.032006,-75.63088499999998,2023,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4444383,PA,Chester,Glenmoore,Source1,4,40.115664,-75.69431999999998,2022,22,Wednesday,Clear / Fair,True,True,False,False,False,False,False
+A-4486801,PA,Chester,Coatesville,Source1,4,39.989133,-75.787163,2022,9,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-4513568,PA,Chester,Exton,Source1,4,40.061008,-75.667441,2022,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4528072,PA,Chester,Coatesville,Source1,4,39.957765,-75.86048000000002,2022,7,Thursday,Rain,False,False,False,False,False,False,False
+A-4546323,PA,Chester,Pottstown,Source1,4,40.23337100000001,-75.661777,2023,14,Monday,Sin dato,False,False,False,False,False,False,False
+A-4566352,PA,Chester,Coatesville,Source1,4,40.006318,-75.788787,2022,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4583996,PA,Chester,Atglen,Source1,4,39.953288,-75.972654,2022,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4585842,PA,Chester,Coatesville,Source1,4,40.000562,-75.821423,2022,16,Monday,Cloudy,False,False,False,True,False,False,False
+A-4624489,PA,Chester,West Chester,Source1,4,39.964745,-75.608211,2022,11,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-4635261,PA,Chester,Coatesville,Source1,4,40.006203,-75.78562,2022,6,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-4639986,PA,Chester,Thorndale,Source1,4,39.99152700000001,-75.772889,2022,13,Thursday,Cloudy,True,True,False,False,False,False,False
+A-4656649,PA,Chester,West Chester,Source1,4,39.967144,-75.583805,2022,21,Thursday,Clear / Fair,False,False,False,True,False,False,False
+A-4657632,PA,Chester,Exton,Source1,4,40.032307,-75.631091,2023,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4662794,PA,Chester,West Chester,Source1,4,39.967652,-75.58055,2022,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4664546,PA,Chester,Coatesville,Source1,4,39.998338,-75.820083,2022,15,Monday,Cloudy,True,False,False,False,False,False,False
+A-4674495,PA,Chester,Pottstown,Source1,4,40.230298,-75.660921,2023,21,Saturday,Sin dato,False,False,False,False,False,False,False
+A-4674598,PA,Chester,Malvern,Source1,4,40.075007,-75.530484,2022,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-4676981,PA,Chester,Parkesburg,Source1,4,39.983294,-75.930841,2022,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4690851,PA,Chester,Glenmoore,Source1,4,40.122513,-75.77938,2022,20,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4703177,PA,Chester,Coatesville,Source1,4,40.001148,-75.821492,2022,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4727863,PA,Chester,Cochranville,Source1,4,39.860755,-75.98678100000002,2023,11,Monday,Sin dato,False,False,False,False,False,False,False
+A-4733536,PA,Chester,Exton,Source1,4,40.055057,-75.65874699999998,2023,0,Wednesday,Sin dato,True,True,False,False,False,False,False
+A-4736981,PA,Chester,Coatesville,Source1,4,39.963092,-75.839124,2022,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4768935,PA,Chester,Glenmoore,Source1,4,40.1462638376229,-75.68343043291243,2022,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4772507,PA,Chester,Downingtown,Source1,4,40.017354,-75.666073,2023,7,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-4779524,PA,Chester,Coatesville,Source1,4,39.914956,-75.815968,2022,9,Thursday,Rain,False,False,False,False,False,False,False
+A-4779633,PA,Chester,Wayne,Source1,4,40.080237,-75.455916,2022,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-4783167,PA,Chester,Downingtown,Source1,4,40.017354,-75.666073,2022,17,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-4802265,PA,Chester,Coatesville,Source1,4,39.954744,-75.841989,2022,7,Thursday,Rain,False,False,False,False,False,False,False
+A-4813379,PA,Chester,Coatesville,Source1,4,39.984119,-75.81740500000002,2022,19,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-4826834,PA,Chester,Atglen,Source1,4,39.92788400000001,-75.94872,2022,22,Thursday,Cloudy,True,False,False,False,False,False,False
+A-4833865,PA,Chester,Pottstown,Source1,4,40.239286,-75.658919,2022,23,Saturday,Cloudy,False,False,True,False,False,False,False
+A-4869526,PA,Chester,Pottstown,Source1,4,40.174838,-75.66272,2022,18,Monday,Sin dato,True,False,False,False,False,False,False
+A-4877076,PA,Chester,Coatesville,Source1,4,39.989948,-75.869776,2023,1,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-4884137,PA,Chester,Downingtown,Source1,4,40.018885,-75.70161,2022,5,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4891839,PA,Chester,Oxford,Source1,4,39.809700250435775,-76.0260450836371,2022,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4906386,PA,Chester,Parkesburg,Source1,4,39.98342156,-75.93233943,2022,22,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-4936629,PA,Chester,Coatesville,Source1,4,40.000754,-75.82350799999998,2022,14,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-4945261,PA,Chester,West Grove,Source1,4,39.826731,-75.874219,2022,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4978062,PA,Chester,West Chester,Source1,4,39.885935,-75.605213,2022,5,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4998926,PA,Chester,Coatesville,Source1,4,39.959762,-75.888134,2022,7,Thursday,Rain,False,False,False,False,False,False,False
+A-5000341,PA,Chester,Exton,Source1,4,40.061809,-75.668442,2022,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5028979,PA,Chester,Parkesburg,Source1,4,39.967081,-75.91420500000002,2022,11,Monday,Cloudy,False,False,False,True,False,False,False
+A-5040992,PA,Chester,Chadds Ford,Source1,4,39.871797,-75.598421,2022,9,Thursday,Snow / Ice,True,False,False,False,False,False,False
+A-5047791,PA,Chester,Parkesburg,Source1,4,39.98945300000001,-75.933511,2022,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5078820,PA,Chester,Coatesville,Source1,4,39.973148,-75.828639,2022,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5087975,PA,Chester,Pottstown,Source1,4,40.222783,-75.66014399999997,2022,7,Thursday,Sin dato,True,False,False,False,False,False,False
+A-5101091,PA,Chester,Downingtown,Source1,4,40.011431,-75.72806899999998,2022,16,Thursday,Rain,False,False,True,False,False,False,False
+A-5102121,PA,Chester,West Grove,Source1,4,39.91278300000001,-75.812474,2022,9,Thursday,Rain,False,False,False,False,False,False,False
+A-5113523,PA,Chester,West Chester,Source1,4,39.958533,-75.580033,2022,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5113524,PA,Chester,West Chester,Source1,4,39.959144,-75.579949,2022,0,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-5113525,PA,Chester,West Chester,Source1,4,39.958533,-75.580033,2022,0,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5137318,PA,Chester,Parkesburg,Source1,4,40.00627100000001,-75.937797,2022,11,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-5145453,PA,Chester,Coatesville,Source1,4,39.9835,-75.824286,2022,23,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5145535,PA,Chester,West Grove,Source1,4,39.867301,-75.84099300000003,2022,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5174423,PA,Chester,Exton,Source1,4,40.056748,-75.657827,2022,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5178785,PA,Chester,Exton,Source1,4,40.022182,-75.617974,2023,17,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-5178786,PA,Chester,Exton,Source1,4,40.01856923,-75.63066602,2022,8,Thursday,Rain,False,False,False,False,False,False,False
+A-5194604,PA,Chester,Coatesville,Source1,4,39.98367800000001,-75.820073,2022,19,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-5199551,PA,Chester,Coatesville,Source1,4,39.989133,-75.787163,2022,13,Thursday,Cloudy,True,False,False,False,False,False,False
+A-5247411,PA,Chester,Pottstown,Source1,4,40.239928000000006,-75.660747,2022,16,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-5286083,PA,Chester,Pottstown,Source1,4,40.194501,-75.662463,2022,23,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5293714,PA,Chester,Coatesville,Source1,4,39.959762,-75.888134,2022,7,Thursday,Rain,False,False,False,False,False,False,False
+A-5320363,PA,Chester,Kennett Square,Source1,4,39.86825,-75.655495,2022,12,Thursday,Rain,True,False,False,False,False,False,False
+A-5321363,PA,Chester,Exton,Source1,4,40.041653,-75.633977,2023,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5322380,PA,Chester,Downingtown,Source1,4,40.039534,-75.773889,2022,16,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-5327081,PA,Chester,Coatesville,Source1,4,39.999844,-75.821164,2022,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-5333453,PA,Chester,Coatesville,Source1,4,40.003774,-75.821125,2022,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-5357325,PA,Chester,Oxford,Source1,4,39.770124,-75.98720300000002,2022,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5367497,PA,Chester,Downingtown,Source1,4,40.036172,-75.673154,2022,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5406190,PA,Chester,Parkesburg,Source1,4,39.982851,-75.92657,2022,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5409504,PA,Chester,Parkesburg,Source1,4,39.983567,-75.93329399999998,2022,9,Thursday,Cloudy,False,False,False,True,False,False,False
+A-5429911,PA,Chester,Downingtown,Source1,4,40.020107,-75.679957,2023,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5451827,PA,Chester,Exton,Source1,4,40.056928000000006,-75.658835,2022,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5453273,PA,Chester,Parkesburg,Source1,4,39.98353,-75.93294,2022,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5478323,PA,Chester,Parkesburg,Source1,4,39.981878,-75.893194,2021,21,Saturday,Rain,False,True,False,False,False,False,False
+A-5480053,PA,Chester,Parkesburg,Source1,4,39.981631,-75.897921,2021,21,Saturday,Rain,False,False,False,False,False,False,False
+A-5488335,PA,Chester,Glenmoore,Source1,4,40.085859,-75.814573,2021,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5494834,PA,Chester,Exton,Source1,4,40.071296,-75.680743,2021,18,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-5539353,PA,Chester,Malvern,Source1,4,40.07651,-75.540357,2021,13,Tuesday,Sin dato,True,False,False,False,False,False,False
+A-5540678,PA,Chester,Coatesville,Source1,4,39.977589,-75.889394,2021,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-5555132,PA,Chester,Kennett Square,Source1,4,39.837717,-75.67669000000002,2021,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5567665,PA,Chester,Malvern,Source1,4,40.066594,-75.561539,2021,13,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-5569386,PA,Chester,Kennett Square,Source1,4,39.838038,-75.691147,2021,16,Monday,Clear / Fair,False,False,False,True,False,False,False
+A-5590893,PA,Chester,Downingtown,Source1,4,40.020159,-75.693913,2021,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5593779,PA,Chester,West Chester,Source1,4,39.95853066425343,-75.58002591097076,2021,23,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5599176,PA,Chester,Kennett Square,Source1,4,39.838067,-75.68005500000002,2021,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5601330,PA,Chester,Pottstown,Source1,4,40.17952800000001,-75.661422,2021,17,Friday,Cloudy,True,False,False,False,False,False,False
+A-5615970,PA,Chester,Cochranville,Source1,4,39.892687,-75.920017,2021,17,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-5620094,PA,Chester,Chadds Ford,Source1,4,39.868156,-75.655351,2021,18,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-5646538,PA,Chester,Nottingham,Source1,4,39.754601,-76.023124,2021,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5665380,PA,Chester,Exton,Source1,4,40.032159,-75.592013,2021,15,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-5671337,PA,Chester,Glenmoore,Source1,4,40.058723,-75.816934,2021,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5678465,PA,Chester,Coatesville,Source1,4,39.978858,-75.88955,2021,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-5679129,PA,Chester,West Chester,Source1,4,39.997602,-75.566956,2021,0,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-5705106,PA,Chester,Downingtown,Source1,4,40.01746,-75.694928,2021,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5713565,PA,Chester,West Chester,Source1,4,40.0023472307205,-75.584210157034,2021,22,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5765299,PA,Chester,Malvern,Source1,4,40.077437,-75.539007,2021,13,Tuesday,Sin dato,True,False,False,False,False,False,False
+A-5774106,PA,Chester,Coatesville,Source1,4,39.903305,-75.789985,2021,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5774107,PA,Chester,Coatesville,Source1,4,39.907168,-75.79934399999998,2021,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5792904,PA,Chester,Glenmoore,Source1,4,40.085859,-75.814573,2021,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5804805,PA,Chester,Kennett Square,Source1,4,39.83988,-75.68332,2021,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5811479,PA,Chester,Exton,Source1,4,40.0676,-75.67528399999998,2021,18,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-5811480,PA,Chester,Exton,Source1,4,40.0676,-75.67528399999998,2021,18,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-5834947,PA,Chester,Glenmoore,Source1,4,40.063605,-75.81474,2021,13,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-5837362,PA,Chester,Coatesville,Source1,4,39.904158,-75.793451,2021,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-5896569,PA,Chester,Parkesburg,Source1,4,39.982958,-75.926862,2021,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5917845,PA,Chester,Avondale,Source1,4,39.842597,-75.79862,2021,14,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-5929182,PA,Chester,Malvern,Source1,4,40.0328814981459,-75.58678507768826,2021,15,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-5940389,PA,Chester,West Chester,Source1,4,39.960264,-75.60573199999997,2021,7,Monday,Clear / Fair,False,False,False,False,False,True,False
+A-5948282,PA,Chester,Wayne,Source1,4,40.050818,-75.416966,2021,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5949594,PA,Chester,Malvern,Source1,4,40.066966,-75.560956,2021,13,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-5951143,PA,Chester,Cochranville,Source1,4,39.847832,-75.93568499999998,2021,16,Thursday,Clear / Fair,False,False,False,True,False,False,False
+A-5955778,PA,Chester,Phoenixville,Source1,4,40.152181,-75.55102099999998,2021,14,Thursday,Rain,False,False,False,False,False,False,False
+A-5963143,PA,Chester,Malvern,Source1,4,40.077209,-75.539272,2021,13,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-5967620,PA,Chester,Chadds Ford,Source1,4,39.871679,-75.598903,2021,5,Sunday,Rain,True,False,False,False,False,False,False
+A-5984058,PA,Chester,Phoenixville,Source1,4,40.146566,-75.549028,2021,14,Thursday,Rain,False,False,False,True,False,False,False
+A-5994219,PA,Chester,Chester Springs,Source1,4,40.073816,-75.683214,2021,18,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-5999583,PA,Chester,Coatesville,Source1,4,39.978858,-75.88955,2021,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-6005955,PA,Chester,West Chester,Source1,4,40.0023472307205,-75.584210157034,2021,22,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6014397,PA,Chester,Coatesville,Source1,4,39.97133400000001,-75.88623199999998,2021,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-6026465,PA,Chester,West Chester,Source1,4,39.919451,-75.577587,2021,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6049484,PA,Chester,Pottstown,Source1,4,40.239836,-75.658796,2021,20,Sunday,Cloudy,False,False,True,False,False,False,False
+A-6076097,PA,Chester,Glenmoore,Source1,4,40.0613987443921,-75.8103096481523,2021,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6091280,PA,Chester,Downingtown,Source1,4,39.99601721744539,-75.7458508011067,2021,10,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-6107265,PA,Chester,Exton,Source1,4,40.067808,-75.675543,2021,18,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-6117092,PA,Chester,Exton,Source1,4,40.032232,-75.591542,2021,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6123904,PA,Chester,Glenmoore,Source1,4,40.05938172321291,-75.81558823549356,2021,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6146154,PA,Chester,Malvern,Source1,4,40.07651,-75.540357,2021,13,Tuesday,Sin dato,True,False,False,False,False,False,False
+A-6174021,PA,Chester,West Chester,Source1,4,40.000283,-75.57422700000002,2021,23,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-6176388,PA,Chester,Downingtown,Source1,4,40.011431,-75.72806899999998,2021,6,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-6183911,PA,Chester,Spring City,Source1,4,40.166924,-75.66595600000002,2021,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-6216439,PA,Chester,Coatesville,Source1,4,40.0007593629837,-75.8235061165055,2021,13,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-6240033,PA,Chester,Downingtown,Source1,4,40.01966357212057,-75.69454550707009,2021,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6246460,PA,Chester,Malvern,Source1,4,40.07096,-75.55487600000002,2021,13,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-6250750,PA,Chester,Pottstown,Source1,4,40.179081,-75.661367,2021,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-6255416,PA,Chester,Avondale,Source1,4,39.854574,-75.771097,2021,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6258648,PA,Chester,Coatesville,Source1,4,39.978858,-75.88955,2021,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-6291951,PA,Chester,Glenmoore,Source1,4,40.060477,-75.811566,2021,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6303379,PA,Chester,Coatesville,Source1,4,40.000754,-75.82350799999998,2021,13,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-6310972,PA,Chester,Coatesville,Source1,4,40.04268,-75.824529,2021,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6351682,PA,Chester,Nottingham,Source1,4,39.751785993386505,-76.02404952013003,2021,11,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-6377217,PA,Chester,West Chester,Source1,4,39.959007,-75.656346,2021,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-6396657,PA,Chester,Berwyn,Source1,4,40.069611,-75.447851,2021,22,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6398738,PA,Chester,Downingtown,Source1,4,40.013172,-75.724676,2021,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6417834,PA,Chester,Berwyn,Source1,4,40.060112,-75.47874200000003,2021,22,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6425484,PA,Chester,Chester Springs,Source1,4,40.086956,-75.647047,2021,23,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-6443628,PA,Chester,Wayne,Source1,4,40.07187,-75.43588199999998,2021,22,Saturday,Other,False,False,False,False,False,False,False
+A-6470119,PA,Chester,Toughkenamon,Source1,4,39.832559,-75.757676,2021,17,Friday,Cloudy,True,True,False,False,False,False,False
+A-6535212,PA,Chester,West Chester,Source1,4,39.95055900000001,-75.677808,2021,18,Friday,Cloudy,False,False,False,False,False,True,False
+A-6539009,PA,Chester,West Chester,Source1,4,39.93914,-75.590163,2021,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6557732,PA,Chester,Honey Brook,Source1,4,40.022989,-75.942403,2021,19,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-6597722,PA,Chester,Exton,Source1,4,40.021122,-75.624142,2020,16,Monday,Cloudy,False,False,True,False,False,False,False
+A-6618687,PA,Chester,Coatesville,Source1,4,40.006917,-75.78988100000002,2020,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6620428,PA,Chester,Berwyn,Source1,4,40.065855,-75.459755,2020,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6626090,PA,Chester,Exton,Source1,4,40.019832,-75.626779,2020,22,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6631010,PA,Chester,Downingtown,Source1,4,40.008409,-75.743672,2020,3,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6699184,PA,Chester,Wayne,Source1,4,40.084322,-75.41035500000002,2020,14,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6707208,PA,Chester,Pottstown,Source1,4,40.239277,-75.658508,2020,15,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-6707754,PA,Chester,West Chester,Source1,4,39.95853,-75.580025,2020,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6712247,PA,Chester,Coatesville,Source1,4,40.00716,-75.78656,2020,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6726502,PA,Chester,West Chester,Source1,4,40.018105,-75.62245300000002,2020,16,Monday,Cloudy,False,False,True,False,False,False,False
+A-6728051,PA,Chester,Downingtown,Source1,4,40.011431,-75.72806899999998,2020,14,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-6809952,PA,Chester,Oxford,Source1,4,39.807339,-75.96643900000002,2020,19,Sunday,Rain,False,False,True,False,False,False,False
+A-6897871,PA,Chester,West Chester,Source1,4,40.018105,-75.62245300000002,2020,16,Monday,Cloudy,False,False,True,False,False,False,False
+A-6977977,PA,Chester,Elverson,Source1,3,40.19084,-75.73308,2020,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6977978,PA,Chester,Pottstown,Source1,3,40.21739,-75.7174,2020,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6977986,PA,Chester,Pottstown,Source1,3,40.21739,-75.7174,2020,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6977987,PA,Chester,Elverson,Source1,3,40.19084,-75.73308,2020,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6980976,PA,Chester,Downingtown,Source1,3,40.01377,-75.72332,2020,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6980978,PA,Chester,Downingtown,Source1,3,40.01377,-75.72332,2020,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6983259,PA,Chester,Glenmoore,Source1,4,40.12082,-75.7752,2020,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6983267,PA,Chester,Exton,Source1,4,40.06911,-75.6718,2020,12,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-6983273,PA,Chester,Elverson,Source1,4,40.1416,-75.80700999999998,2020,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6983275,PA,Chester,Exton,Source1,4,40.06798,-75.66686,2020,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6983295,PA,Chester,Exton,Source1,4,40.06695,-75.66226999999998,2020,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6983301,PA,Chester,Glenmoore,Source1,4,40.12039,-75.77421,2020,14,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-6983304,PA,Chester,Glenmoore,Source1,4,40.12039,-75.77421,2020,14,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-6983307,PA,Chester,Glenmoore,Source1,4,40.12039,-75.77421,2020,14,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-6983316,PA,Chester,Malvern,Source1,3,40.0764,-75.53741,2020,14,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-6983319,PA,Chester,Malvern,Source1,3,40.07639,-75.5374,2020,14,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-6983320,PA,Chester,Glenmoore,Source1,4,40.12039,-75.77421,2020,14,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-6983322,PA,Chester,Malvern,Source1,3,40.0764,-75.53741,2020,14,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-6983325,PA,Chester,Exton,Source1,4,40.06695,-75.66226999999998,2020,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6983339,PA,Chester,Malvern,Source1,3,40.03739,-75.55986999999998,2020,16,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-6983340,PA,Chester,Malvern,Source1,3,40.03739,-75.55986999999998,2020,16,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-6983355,PA,Chester,Honey Brook,Source1,3,40.07865,-75.86072,2020,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6983371,PA,Chester,Honey Brook,Source1,3,40.07865,-75.86072,2020,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6983393,PA,Chester,Glenmoore,Source1,4,40.12039,-75.77421,2020,16,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-6983408,PA,Chester,Glenmoore,Source1,4,40.12039,-75.77421,2020,16,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-6985916,PA,Chester,Pottstown,Source1,3,40.17485,-75.66271,2020,15,Thursday,Cloudy,True,False,False,False,False,False,False
+A-6985917,PA,Chester,Pottstown,Source1,3,40.18736,-75.66228000000002,2020,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6988478,PA,Chester,Oxford,Source1,3,39.78507000000001,-75.97894000000002,2020,16,Friday,Cloudy,True,True,False,False,False,False,False
+A-6988479,PA,Chester,Lincoln University,Source1,3,39.81713,-75.91095,2020,16,Friday,Cloudy,False,False,False,True,False,False,False
+A-6997871,PA,Chester,Malvern,Source1,4,40.07357,-75.52299000000002,2020,13,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-6997882,PA,Chester,Malvern,Source1,4,40.07357,-75.52299000000002,2020,14,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-6997952,PA,Chester,Malvern,Source1,4,40.03332,-75.58376,2020,15,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7000368,PA,Chester,Oxford,Source1,3,39.80087,-76.01433,2020,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7002785,PA,Chester,Pottstown,Source1,3,40.23869000000001,-75.6561,2020,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7005528,PA,Chester,Malvern,Source1,3,40.07651,-75.49708000000003,2020,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-7005539,PA,Chester,Malvern,Source1,3,40.07651,-75.49708000000003,2020,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-7005541,PA,Chester,Malvern,Source1,3,40.07651,-75.49708000000003,2020,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-7005657,PA,Chester,Parkesburg,Source1,3,39.98348,-75.9324,2020,13,Friday,Cloudy,True,False,False,False,False,False,False
+A-7005658,PA,Chester,Parkesburg,Source1,3,39.98348,-75.9324,2020,13,Friday,Cloudy,True,False,False,False,False,False,False
+A-7005665,PA,Chester,Parkesburg,Source1,3,39.98348,-75.9324,2020,14,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7005666,PA,Chester,Parkesburg,Source1,3,39.98348,-75.9324,2020,14,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7005682,PA,Chester,Lincoln University,Source1,3,39.81713,-75.91095,2020,14,Friday,Clear / Fair,False,False,False,True,False,False,False
+A-7005683,PA,Chester,Oxford,Source1,3,39.78507000000001,-75.97894000000002,2020,14,Friday,Clear / Fair,True,True,False,False,False,False,False
+A-7005701,PA,Chester,Lincoln University,Source1,3,39.81713,-75.91095,2020,15,Friday,Cloudy,False,False,False,True,False,False,False
+A-7005702,PA,Chester,Oxford,Source1,3,39.78507000000001,-75.97894000000002,2020,15,Friday,Cloudy,True,True,False,False,False,False,False
+A-7005705,PA,Chester,Oxford,Source1,3,39.78507000000001,-75.97894000000002,2020,14,Friday,Cloudy,True,True,False,False,False,False,False
+A-7005707,PA,Chester,Lincoln University,Source1,3,39.81713,-75.91095,2020,14,Friday,Cloudy,False,False,False,True,False,False,False
+A-7005729,PA,Chester,Oxford,Source1,3,39.78507000000001,-75.97894000000002,2020,15,Friday,Cloudy,True,True,False,False,False,False,False
+A-7005731,PA,Chester,Lincoln University,Source1,3,39.81713,-75.91095,2020,15,Friday,Cloudy,False,False,False,True,False,False,False
+A-7005775,PA,Chester,Oxford,Source1,3,39.78507000000001,-75.97894000000002,2020,15,Friday,Cloudy,True,True,False,False,False,False,False
+A-7005776,PA,Chester,Lincoln University,Source1,3,39.81713,-75.91095,2020,15,Friday,Cloudy,False,False,False,True,False,False,False
+A-7007947,PA,Chester,Kennett Square,Source1,3,39.8502,-75.75083000000002,2020,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7007948,PA,Chester,Kennett Square,Source1,3,39.85615,-75.71978,2020,14,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-7007951,PA,Chester,Kennett Square,Source1,3,39.8502,-75.75083000000002,2020,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7007952,PA,Chester,Kennett Square,Source1,3,39.85615,-75.71978,2020,14,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-7007960,PA,Chester,Kennett Square,Source1,3,39.8502,-75.75083000000002,2020,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7007961,PA,Chester,Malvern,Source1,3,40.07636,-75.49641,2020,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7007962,PA,Chester,Kennett Square,Source1,3,39.85615,-75.71978,2020,14,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-7007965,PA,Chester,Malvern,Source1,3,40.07641,-75.49707,2020,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7008001,PA,Chester,Glenmoore,Source1,3,40.117,-75.78376999999998,2020,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7008002,PA,Chester,Glenmoore,Source1,3,40.09518,-75.75796,2020,16,Saturday,Clear / Fair,False,False,False,True,False,False,False
+A-7008009,PA,Chester,Glenmoore,Source1,3,40.117,-75.78376999999998,2020,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7008010,PA,Chester,Glenmoore,Source1,3,40.09518,-75.75796,2020,16,Saturday,Clear / Fair,False,False,False,True,False,False,False
+A-7011919,PA,Chester,West Chester,Source1,3,40.00586,-75.58305,2020,13,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-7011920,PA,Chester,West Chester,Source1,3,40.00586,-75.58305,2020,13,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-7011963,PA,Chester,Downingtown,Source1,3,39.99603,-75.74588,2020,14,Wednesday,Rain,True,True,False,False,False,False,False
+A-7011969,PA,Chester,Downingtown,Source1,3,39.99603,-75.74588,2020,14,Wednesday,Rain,True,True,False,False,False,False,False
+A-7012180,PA,Chester,Kennett Square,Source1,3,39.81069,-75.70496999999997,2020,18,Wednesday,Rain,False,False,False,True,False,False,False
+A-7012183,PA,Chester,Kennett Square,Source1,3,39.83224000000001,-75.70745,2020,18,Wednesday,Rain,False,False,False,False,False,False,False
+A-7012215,PA,Chester,Kennett Square,Source1,3,39.86979,-75.77256,2020,18,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-7012216,PA,Chester,Kennett Square,Source1,3,39.86979,-75.77256,2020,18,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-7012220,PA,Chester,Kennett Square,Source1,3,39.86979,-75.77256,2020,19,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-7012221,PA,Chester,Kennett Square,Source1,3,39.86979,-75.77256,2020,19,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-7012223,PA,Chester,Kennett Square,Source1,3,39.86979,-75.77256,2020,18,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-7012225,PA,Chester,Kennett Square,Source1,3,39.86979,-75.77256,2020,18,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-7012229,PA,Chester,Kennett Square,Source1,3,39.86979,-75.77256,2020,18,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-7012230,PA,Chester,Kennett Square,Source1,3,39.86979,-75.77256,2020,18,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-7012232,PA,Chester,Kennett Square,Source1,3,39.86979,-75.77256,2020,19,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-7012233,PA,Chester,Kennett Square,Source1,3,39.86979,-75.77256,2020,19,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-7012239,PA,Chester,Kennett Square,Source1,3,39.86979,-75.77256,2020,19,Wednesday,Other,False,False,False,True,False,False,False
+A-7012240,PA,Chester,Kennett Square,Source1,3,39.86979,-75.77256,2020,19,Wednesday,Other,False,False,False,True,False,False,False
+A-7013810,PA,Chester,West Chester,Source1,3,39.93986,-75.63141999999998,2020,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7013812,PA,Chester,West Chester,Source1,3,39.92907,-75.61746,2020,17,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7013995,PA,Chester,Downingtown,Source1,4,40.00755,-75.74821,2020,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7016354,PA,Chester,Coatesville,Source1,3,40.00103,-75.82186999999998,2020,17,Friday,Rain,False,False,False,False,False,False,False
+A-7016378,PA,Chester,Coatesville,Source1,3,40.00103,-75.82186999999998,2020,17,Friday,Rain,False,False,False,False,False,False,False
+A-7016394,PA,Chester,Coatesville,Source1,3,40.00103,-75.82186999999998,2020,17,Friday,Rain,False,False,False,False,False,False,False
+A-7021750,PA,Chester,Cochranville,Source1,3,39.89268,-75.92005999999998,2020,17,Monday,Cloudy,True,True,False,False,False,False,False
+A-7021751,PA,Chester,Cochranville,Source1,3,39.89268,-75.92005999999998,2020,17,Monday,Cloudy,True,True,False,False,False,False,False
+A-7021756,PA,Chester,Downingtown,Source1,4,40.01369,-75.72326,2020,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-7021759,PA,Chester,Cochranville,Source1,3,39.89268,-75.92005999999998,2020,18,Monday,Cloudy,True,True,False,False,False,False,False
+A-7021761,PA,Chester,Cochranville,Source1,3,39.89268,-75.92005999999998,2020,18,Monday,Cloudy,True,True,False,False,False,False,False
+A-7026029,PA,Chester,Avondale,Source1,3,39.82298,-75.78118,2020,12,Wednesday,Clear / Fair,True,True,False,False,False,False,False
+A-7026030,PA,Chester,Avondale,Source1,3,39.82298,-75.78118,2020,12,Wednesday,Clear / Fair,True,True,False,False,False,False,False
+A-7026070,PA,Chester,Avondale,Source1,3,39.82298,-75.78118,2020,12,Wednesday,Clear / Fair,True,True,False,False,False,False,False
+A-7026071,PA,Chester,Avondale,Source1,3,39.82298,-75.78118,2020,12,Wednesday,Clear / Fair,True,True,False,False,False,False,False
+A-7026212,PA,Chester,Downingtown,Source1,3,40.01969,-75.6954,2020,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7026214,PA,Chester,Downingtown,Source1,3,40.01969,-75.6954,2020,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7030224,PA,Chester,Downingtown,Source1,3,39.99603,-75.74588,2020,13,Friday,Clear / Fair,True,True,False,False,False,False,False
+A-7030225,PA,Chester,Coatesville,Source1,3,39.98718,-75.79945,2020,13,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7030237,PA,Chester,Pottstown,Source1,3,40.17413,-75.70012,2020,14,Friday,Cloudy,False,False,False,True,False,False,False
+A-7030238,PA,Chester,Pottstown,Source1,3,40.17413,-75.70012,2020,14,Friday,Cloudy,False,False,False,True,False,False,False
+A-7030264,PA,Chester,Pottstown,Source1,3,40.17413,-75.70012,2020,14,Friday,Cloudy,False,False,False,True,False,False,False
+A-7030265,PA,Chester,Pottstown,Source1,3,40.17413,-75.70012,2020,14,Friday,Cloudy,False,False,False,True,False,False,False
+A-7030299,PA,Chester,Coatesville,Source1,3,40.0299,-75.81189,2020,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7030300,PA,Chester,Coatesville,Source1,3,40.0299,-75.81189,2020,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7030305,PA,Chester,Malvern,Source1,3,40.02567,-75.50703,2020,16,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7030320,PA,Chester,Coatesville,Source1,3,40.03002,-75.81253000000002,2020,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7030324,PA,Chester,Coatesville,Source1,3,40.0299,-75.81189,2020,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7030340,PA,Chester,Coatesville,Source1,3,40.0299,-75.81189,2020,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7030341,PA,Chester,Coatesville,Source1,3,40.03002,-75.81253000000002,2020,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7030392,PA,Chester,Coatesville,Source1,3,40.0299,-75.81189,2020,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7030394,PA,Chester,Coatesville,Source1,3,40.0299,-75.81189,2020,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7040023,PA,Chester,Exton,Source1,3,40.06911,-75.6718,2020,4,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7042387,PA,Chester,Exton,Source1,3,40.06911,-75.6718,2020,13,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7044881,PA,Chester,Downingtown,Source1,4,40.01369,-75.72326,2020,13,Friday,Rain,False,False,False,False,False,False,False
+A-7044886,PA,Chester,Downingtown,Source1,4,40.0188,-75.70211,2020,13,Friday,Rain,False,False,False,False,False,False,False
+A-7044904,PA,Chester,Downingtown,Source1,3,40.01287,-75.725,2020,13,Friday,Rain,False,False,False,False,False,False,False
+A-7044922,PA,Chester,Downingtown,Source1,4,40.01754,-75.66688,2020,14,Friday,Rain,False,False,False,False,False,False,False
+A-7044941,PA,Chester,Downingtown,Source1,4,40.01754,-75.66688,2020,14,Friday,Rain,False,False,False,False,False,False,False
+A-7044965,PA,Chester,Downingtown,Source1,4,40.01754,-75.66688,2020,14,Friday,Rain,False,False,False,False,False,False,False
+A-7044991,PA,Chester,Downingtown,Source1,4,40.01754,-75.66688,2020,15,Friday,Rain,False,False,False,False,False,False,False
+A-7044998,PA,Chester,Downingtown,Source1,4,40.01754,-75.66688,2020,15,Friday,Rain,False,False,False,False,False,False,False
+A-7045008,PA,Chester,Exton,Source1,4,40.02196,-75.61901999999998,2020,15,Friday,Rain,False,False,False,False,False,False,False
+A-7045022,PA,Chester,Exton,Source1,4,40.02196,-75.61901999999998,2020,15,Friday,Rain,False,False,False,False,False,False,False
+A-7045032,PA,Chester,Exton,Source1,4,40.02196,-75.61901999999998,2020,15,Friday,Rain,False,False,False,False,False,False,False
+A-7045047,PA,Chester,Exton,Source1,4,40.02196,-75.61901999999998,2020,15,Friday,Rain,False,False,False,False,False,False,False
+A-7045058,PA,Chester,Exton,Source1,4,40.02196,-75.61901999999998,2020,15,Friday,Rain,False,False,False,False,False,False,False
+A-7045069,PA,Chester,Exton,Source1,4,40.02196,-75.61901999999998,2020,16,Friday,Rain,False,False,False,False,False,False,False
+A-7045089,PA,Chester,Exton,Source1,4,40.02196,-75.61901999999998,2020,16,Friday,Rain,False,False,False,False,False,False,False
+A-7045096,PA,Chester,Exton,Source1,4,40.02196,-75.61901999999998,2020,15,Friday,Rain,False,False,False,False,False,False,False
+A-7045145,PA,Chester,Exton,Source1,4,40.03289,-75.58679000000002,2020,15,Friday,Rain,True,False,False,False,False,False,False
+A-7045156,PA,Chester,Exton,Source1,4,40.03289,-75.58679000000002,2020,15,Friday,Rain,True,False,False,False,False,False,False
+A-7045177,PA,Chester,Malvern,Source1,4,40.03332,-75.58376,2020,16,Friday,Rain,True,False,False,False,False,False,False
+A-7045198,PA,Chester,Malvern,Source1,4,40.03332,-75.58376,2020,16,Friday,Rain,True,False,False,False,False,False,False
+A-7045216,PA,Chester,Malvern,Source1,4,40.03332,-75.58376,2020,16,Friday,Fog / Low visibility,True,False,False,False,False,False,False
+A-7045243,PA,Chester,Malvern,Source1,4,40.03332,-75.58376,2020,16,Friday,Fog / Low visibility,True,False,False,False,False,False,False
+A-7045251,PA,Chester,Malvern,Source1,4,40.03332,-75.58376,2020,16,Friday,Fog / Low visibility,True,False,False,False,False,False,False
+A-7047505,PA,Chester,Parkesburg,Source1,4,39.98742,-75.97129,2020,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7047520,PA,Chester,Parkesburg,Source1,4,39.98742,-75.97129,2020,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7047532,PA,Chester,Parkesburg,Source1,4,39.98742,-75.97129,2020,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7047556,PA,Chester,Malvern,Source1,3,40.0764,-75.53741,2020,13,Saturday,Cloudy,False,False,True,False,False,False,False
+A-7047560,PA,Chester,Malvern,Source1,3,40.07639,-75.5374,2020,13,Saturday,Cloudy,False,False,True,False,False,False,False
+A-7047562,PA,Chester,Malvern,Source1,3,40.0764,-75.53741,2020,13,Saturday,Cloudy,False,False,True,False,False,False,False
+A-7047570,PA,Chester,Malvern,Source1,3,40.0764,-75.53741,2020,13,Saturday,Cloudy,False,False,True,False,False,False,False
+A-7047581,PA,Chester,Malvern,Source1,3,40.0764,-75.53741,2020,13,Saturday,Cloudy,False,False,True,False,False,False,False
+A-7047590,PA,Chester,Malvern,Source1,3,40.0764,-75.53741,2020,14,Saturday,Cloudy,False,False,True,False,False,False,False
+A-7047697,PA,Chester,Parkesburg,Source1,4,39.98742,-75.97129,2020,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7068016,PA,Chester,Berwyn,Source1,3,40.06543,-75.46585999999998,2020,16,Friday,Rain,False,False,False,False,False,False,False
+A-7068112,PA,Chester,Berwyn,Source1,3,40.06543,-75.46585999999998,2020,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-7070366,PA,Chester,West Grove,Source1,3,39.78227,-75.8756,2020,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7070367,PA,Chester,West Grove,Source1,3,39.8136,-75.82584,2020,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7082643,PA,Chester,Downingtown,Source1,3,40.01949000000001,-75.69729,2020,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7082647,PA,Chester,Downingtown,Source1,4,40.0188,-75.70211,2020,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7085368,PA,Chester,Coatesville,Source1,3,40.00111,-75.82183,2020,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7086969,PA,Chester,Downingtown,Source1,3,40.0188,-75.70211,2020,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7086970,PA,Chester,Downingtown,Source1,3,40.0188,-75.70211,2020,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7091203,PA,Chester,Coatesville,Source1,4,40.00111,-75.82183,2020,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7091209,PA,Chester,Coatesville,Source1,4,40.00111,-75.82183,2020,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7093686,PA,Chester,Coatesville,Source1,3,40.00618,-75.78612,2020,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7093798,PA,Chester,Parkesburg,Source1,4,39.98742,-75.97129,2020,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7093820,PA,Chester,Parkesburg,Source1,4,39.98742,-75.97129,2020,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7093836,PA,Chester,Parkesburg,Source1,4,39.98742,-75.97129,2020,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7093843,PA,Chester,Parkesburg,Source1,4,39.98742,-75.97129,2020,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7096228,PA,Chester,Malvern,Source1,3,40.0499,-75.5651,2020,8,Thursday,Fog / Low visibility,False,False,True,False,False,False,False
+A-7106089,PA,Chester,Wayne,Source1,4,40.08425,-75.43762,2020,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7120019,PA,Chester,Downingtown,Source1,4,40.0188,-75.70211,2020,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7120027,PA,Chester,Downingtown,Source1,4,40.0188,-75.70211,2020,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7124747,PA,Chester,Berwyn,Source1,3,40.06057,-75.47698000000003,2020,6,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7127451,PA,Chester,Elverson,Source1,4,40.12909000000001,-75.81313,2020,3,Saturday,Cloudy,False,False,False,True,False,False,False
+A-7127452,PA,Chester,Elverson,Source1,4,40.14718,-75.79366,2020,3,Saturday,Cloudy,False,False,False,True,False,False,False
+A-7127453,PA,Chester,Elverson,Source1,4,40.12909000000001,-75.81313,2020,2,Saturday,Clear / Fair,False,False,False,True,False,False,False
+A-7127454,PA,Chester,Elverson,Source1,4,40.14718,-75.79366,2020,2,Saturday,Clear / Fair,False,False,False,True,False,False,False
+A-7127464,PA,Chester,Elverson,Source1,4,40.14718,-75.79366,2020,3,Saturday,Cloudy,False,False,False,True,False,False,False
+A-7127465,PA,Chester,Elverson,Source1,4,40.12909000000001,-75.81313,2020,3,Saturday,Cloudy,False,False,False,True,False,False,False
+A-7127614,PA,Chester,King of Prussia,Source1,3,40.08733,-75.44866999999998,2020,17,Saturday,Clear / Fair,False,False,False,True,False,False,False
+A-7127615,PA,Chester,King of Prussia,Source1,3,40.08727,-75.45599,2020,17,Saturday,Clear / Fair,False,False,False,True,False,False,False
+A-7127640,PA,Chester,Coatesville,Source1,3,40.01651,-75.89605,2020,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7127641,PA,Chester,Coatesville,Source1,3,40.01062,-75.86375,2020,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7127643,PA,Chester,Coatesville,Source1,3,40.01062,-75.86375,2020,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7127644,PA,Chester,Coatesville,Source1,3,40.01651,-75.89605,2020,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7127652,PA,Chester,Coatesville,Source1,3,40.01651,-75.89605,2020,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7127653,PA,Chester,Coatesville,Source1,3,40.01062,-75.86375,2020,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7130842,PA,Chester,Devon,Source1,3,40.07098,-75.43664,2020,16,Monday,Rain,True,False,False,False,False,False,False
+A-7130846,PA,Chester,Devon,Source1,3,40.07098,-75.43664,2020,16,Monday,Rain,True,False,False,False,False,False,False
+A-7130969,PA,Chester,Downingtown,Source1,3,40.01754,-75.66688,2020,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-7131015,PA,Chester,Exton,Source1,3,40.05671,-75.65715,2020,18,Monday,Cloudy,True,False,False,False,False,False,False
+A-7131027,PA,Chester,West Chester,Source1,3,39.90025,-75.62579000000002,2020,18,Monday,Cloudy,True,False,False,False,False,False,False
+A-7131029,PA,Chester,West Chester,Source1,3,39.90023,-75.62585,2020,18,Monday,Cloudy,True,False,False,False,False,False,False
+A-7131034,PA,Chester,Exton,Source1,3,40.05671,-75.65715,2020,18,Monday,Cloudy,True,False,False,False,False,False,False
+A-7131038,PA,Chester,Exton,Source1,3,40.05671,-75.65715,2020,18,Monday,Cloudy,True,False,False,False,False,False,False
+A-7131040,PA,Chester,Exton,Source1,3,40.05671,-75.65715,2020,18,Monday,Cloudy,True,False,False,False,False,False,False
+A-7131047,PA,Chester,West Chester,Source1,3,39.90023,-75.62584,2020,19,Monday,Cloudy,True,False,False,False,False,False,False
+A-7131049,PA,Chester,West Chester,Source1,3,39.90023,-75.62584,2020,19,Monday,Cloudy,True,False,False,False,False,False,False
+A-7131065,PA,Chester,West Chester,Source1,3,39.90023,-75.62585,2020,18,Monday,Cloudy,True,False,False,False,False,False,False
+A-7131066,PA,Chester,West Chester,Source1,3,39.90025,-75.62579000000002,2020,18,Monday,Cloudy,True,False,False,False,False,False,False
+A-7131086,PA,Chester,West Chester,Source1,3,39.90025,-75.62579000000002,2020,19,Monday,Cloudy,True,False,False,False,False,False,False
+A-7131088,PA,Chester,West Chester,Source1,3,39.90023,-75.62585,2020,19,Monday,Cloudy,True,False,False,False,False,False,False
+A-7138154,PA,Chester,West Chester,Source1,3,39.96538,-75.59174,2020,19,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-7138155,PA,Chester,West Chester,Source1,3,39.96538,-75.59174,2020,19,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-7141970,PA,Chester,Exton,Source1,3,40.06911,-75.6718,2020,13,Saturday,Rain,False,False,True,False,False,False,False
+A-7141974,PA,Chester,Exton,Source1,3,40.06911,-75.6718,2020,12,Saturday,Rain,False,False,True,False,False,False,False
+A-7141981,PA,Chester,Exton,Source1,3,40.06911,-75.6718,2020,12,Saturday,Rain,False,False,True,False,False,False,False
+A-7141985,PA,Chester,Exton,Source1,3,40.06911,-75.6718,2020,12,Saturday,Rain,False,False,True,False,False,False,False
+A-7141990,PA,Chester,Exton,Source1,3,40.06911,-75.6718,2020,13,Saturday,Rain,False,False,True,False,False,False,False
+A-7142078,PA,Chester,Kennett Square,Source1,3,39.84577,-75.71141,2020,20,Saturday,Rain,True,True,False,False,False,False,False
+A-7142079,PA,Chester,Kennett Square,Source1,3,39.84577,-75.71141,2020,20,Saturday,Rain,True,True,False,False,False,False,False
+A-7144736,PA,Chester,Landenberg,Source1,3,39.72205,-75.79084,2020,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7144737,PA,Chester,Landenberg,Source1,3,39.73417,-75.79292,2020,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7144740,PA,Chester,Landenberg,Source1,3,39.72205,-75.79084,2020,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7144741,PA,Chester,Landenberg,Source1,3,39.73417,-75.79292,2020,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7144745,PA,Chester,Landenberg,Source1,3,39.72205,-75.79084,2020,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7144746,PA,Chester,Landenberg,Source1,3,39.73417,-75.79292,2020,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7144750,PA,Chester,Landenberg,Source1,3,39.73417,-75.79292,2020,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7144751,PA,Chester,Landenberg,Source1,3,39.72205,-75.79084,2020,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7144752,PA,Chester,Landenberg,Source1,3,39.73417,-75.79292,2020,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7144753,PA,Chester,Landenberg,Source1,3,39.72205,-75.79084,2020,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7146475,PA,Chester,Exton,Source1,3,40.06911,-75.6718,2020,4,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7146480,PA,Chester,Exton,Source1,3,40.06911,-75.6718,2020,4,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7146651,PA,Chester,Downingtown,Source1,3,40.04748,-75.71694000000002,2020,16,Tuesday,Cloudy,False,False,False,True,False,False,False
+A-7146652,PA,Chester,Downingtown,Source1,3,40.04748,-75.71694000000002,2020,16,Tuesday,Cloudy,False,False,False,True,False,False,False
+A-7146654,PA,Chester,Downingtown,Source1,3,40.04748,-75.71694000000002,2020,16,Tuesday,Cloudy,False,False,False,True,False,False,False
+A-7146656,PA,Chester,Downingtown,Source1,3,40.04748,-75.71694000000002,2020,16,Tuesday,Cloudy,False,False,False,True,False,False,False
+A-7146664,PA,Chester,Downingtown,Source1,3,40.04748,-75.71694000000002,2020,16,Tuesday,Cloudy,False,False,False,True,False,False,False
+A-7146665,PA,Chester,Downingtown,Source1,3,40.04748,-75.71694000000002,2020,16,Tuesday,Cloudy,False,False,False,True,False,False,False
+A-7148827,PA,Chester,West Chester,Source1,3,39.98693,-75.54374,2020,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7148828,PA,Chester,West Chester,Source1,3,40.00586,-75.58305,2020,21,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7150639,PA,Chester,Oxford,Source1,3,39.80728,-75.96692,2020,16,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7150642,PA,Chester,Oxford,Source1,3,39.80728,-75.96692,2020,14,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7150648,PA,Chester,Oxford,Source1,3,39.80728,-75.96692,2020,14,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7150658,PA,Chester,Oxford,Source1,3,39.80728,-75.96692,2020,14,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7150669,PA,Chester,Oxford,Source1,3,39.80728,-75.96692,2020,14,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7150673,PA,Chester,Oxford,Source1,3,39.80728,-75.96692,2020,15,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7150691,PA,Chester,Oxford,Source1,3,39.80728,-75.96692,2020,15,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7150707,PA,Chester,Oxford,Source1,3,39.80728,-75.96692,2020,16,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7150797,PA,Chester,Glenmoore,Source1,3,40.04781,-75.78549,2020,20,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7150798,PA,Chester,Glenmoore,Source1,3,40.04781,-75.78549,2020,20,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7152549,PA,Chester,Cochranville,Source1,3,39.88254000000001,-75.90188,2020,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-7152552,PA,Chester,Cochranville,Source1,3,39.88254000000001,-75.90188,2020,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7152557,PA,Chester,Cochranville,Source1,3,39.88254000000001,-75.90188,2020,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-7152953,PA,Chester,West Chester,Source1,3,39.96631,-75.52051999999998,2020,0,Saturday,Cloudy,True,False,False,False,False,False,False
+A-7152954,PA,Chester,West Chester,Source1,3,39.95044,-75.5105,2020,0,Saturday,Cloudy,True,False,False,False,False,False,False
+A-7157572,PA,Chester,Malvern,Source1,3,40.04394,-75.52261999999997,2020,17,Monday,Clear / Fair,False,False,False,False,True,False,False
+A-7157573,PA,Chester,Malvern,Source1,3,40.04394,-75.52261999999997,2020,17,Monday,Clear / Fair,False,False,False,False,True,False,False
+A-7157643,PA,Chester,Chadds Ford,Source1,3,39.87404,-75.62388,2020,18,Monday,Clear / Fair,False,False,False,True,False,False,False
+A-7157663,PA,Chester,Chadds Ford,Source1,3,39.87404,-75.62388,2020,18,Monday,Clear / Fair,False,False,False,True,False,False,False
+A-7157668,PA,Chester,Chadds Ford,Source1,3,39.87404,-75.62388,2020,18,Monday,Clear / Fair,False,False,False,True,False,False,False
+A-7157671,PA,Chester,Coatesville,Source1,3,40.00623,-75.78581,2020,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7157673,PA,Chester,Coatesville,Source1,3,40.00623,-75.78581,2020,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7157702,PA,Chester,Downingtown,Source1,3,40.08245,-75.71668000000003,2020,21,Monday,Clear / Fair,False,False,False,True,False,False,False
+A-7157703,PA,Chester,Chester Springs,Source1,3,40.07788,-75.68800999999998,2020,21,Monday,Clear / Fair,False,False,False,True,False,False,False
+A-7157707,PA,Chester,Downingtown,Source1,3,40.08245,-75.71668000000003,2020,21,Monday,Clear / Fair,False,False,False,True,False,False,False
+A-7157708,PA,Chester,Chester Springs,Source1,3,40.07788,-75.68800999999998,2020,21,Monday,Clear / Fair,False,False,False,True,False,False,False
+A-7160898,PA,Chester,Kennett Square,Source1,3,39.84577,-75.71141,2020,11,Tuesday,Clear / Fair,True,True,False,False,False,False,False
+A-7160901,PA,Chester,Kennett Square,Source1,3,39.84577,-75.71141,2020,11,Tuesday,Clear / Fair,True,True,False,False,False,False,False
+A-7160905,PA,Chester,Kennett Square,Source1,3,39.84577,-75.71141,2020,11,Tuesday,Clear / Fair,True,True,False,False,False,False,False
+A-7165815,PA,Chester,Avondale,Source1,4,39.83969,-75.80221999999998,2020,21,Thursday,Cloudy,False,False,False,True,False,False,False
+A-7165816,PA,Chester,Avondale,Source1,4,39.83197,-75.78893000000002,2020,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7170756,PA,Chester,Exton,Source1,3,40.06911,-75.6718,2020,15,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-7170763,PA,Chester,Exton,Source1,3,40.06911,-75.6718,2020,15,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-7170806,PA,Chester,Exton,Source1,3,40.03036,-75.5874,2020,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7184082,PA,Chester,Pottstown,Source1,3,40.23142,-75.62714,2020,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7184086,PA,Chester,Pottstown,Source1,3,40.23142,-75.62714,2020,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7184090,PA,Chester,Pottstown,Source1,3,40.23142,-75.62714,2020,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7194885,PA,Chester,Malvern,Source1,3,40.07639,-75.5374,2020,9,Friday,Rain,False,False,True,False,False,False,False
+A-7195294,PA,Chester,West Chester,Source1,3,39.91,-75.59855999999998,2020,16,Friday,Rain,True,False,False,False,False,False,False
+A-7195296,PA,Chester,West Chester,Source1,3,39.91,-75.59855999999998,2020,16,Friday,Rain,True,False,False,False,False,False,False
+A-7198730,PA,Chester,Coatesville,Source1,4,40.00613,-75.78584000000002,2020,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7198736,PA,Chester,Coatesville,Source1,4,40.00613,-75.78584000000002,2020,17,Sunday,Rain,False,False,False,False,False,False,False
+A-7202319,PA,Chester,Kennett Square,Source1,3,39.88123,-75.66572,2020,17,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-7202320,PA,Chester,Kennett Square,Source1,3,39.88123,-75.66572,2020,17,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-7202324,PA,Chester,Kennett Square,Source1,3,39.88123,-75.66572,2020,17,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-7202325,PA,Chester,Kennett Square,Source1,3,39.88123,-75.66572,2020,17,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-7230671,PA,Chester,Exton,Source1,4,40.06695,-75.66226999999998,2020,3,Monday,Cloudy,False,False,False,False,False,False,False
+A-7230672,PA,Chester,Exton,Source1,4,40.06695,-75.66226999999998,2020,3,Monday,Cloudy,False,False,False,False,False,False,False
+A-7230673,PA,Chester,Exton,Source1,4,40.06695,-75.66226999999998,2020,3,Monday,Cloudy,False,False,False,False,False,False,False
+A-7230674,PA,Chester,Exton,Source1,4,40.06695,-75.66226999999998,2020,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-7315271,PA,Chester,Exton,Source1,4,40.033273,-75.586054,2019,0,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7421945,PA,Chester,Nottingham,Source1,4,39.78225,-76.08995999999998,2019,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-7430208,PA,Chester,Coatesville,Source1,4,39.985629,-75.808858,2019,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7430209,PA,Chester,Coatesville,Source1,4,39.985311,-75.810374,2019,10,Wednesday,Clear / Fair,True,True,False,False,False,True,False
+A-7430210,PA,Chester,Coatesville,Source1,4,39.985629,-75.808858,2019,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7430211,PA,Chester,Coatesville,Source1,4,39.985311,-75.810374,2019,10,Wednesday,Clear / Fair,True,True,False,False,False,True,False
+A-7430788,PA,Chester,Malvern,Source1,4,40.065,-75.59144,2019,16,Thursday,Rain,False,False,False,False,False,False,False
+A-7432837,PA,Chester,Exton,Source1,4,40.06697,-75.66286,2019,8,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7432841,PA,Chester,Malvern,Source1,4,40.06525,-75.58093000000002,2019,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7432843,PA,Chester,Malvern,Source1,4,40.075019,-75.531133,2019,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7437549,PA,Chester,Malvern,Source1,3,40.07153,-75.559265,2019,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7450221,PA,Chester,Malvern,Source1,4,40.06481,-75.59881800000002,2019,13,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7452102,PA,Chester,Coatesville,Source1,4,39.91305,-75.8128,2019,1,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7452103,PA,Chester,Coatesville,Source1,4,39.91603,-75.81783,2019,1,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7452106,PA,Chester,Coatesville,Source1,4,39.91603,-75.81783,2019,3,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7452107,PA,Chester,Coatesville,Source1,4,39.91305,-75.8128,2019,3,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7452108,PA,Chester,Coatesville,Source1,4,39.91305,-75.8128,2019,4,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7452109,PA,Chester,Coatesville,Source1,4,39.91603,-75.81783,2019,4,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7456531,PA,Chester,Paoli,Source1,4,40.035719,-75.471379,2019,2,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7456532,PA,Chester,Paoli,Source1,4,40.03176,-75.46731,2019,2,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7456534,PA,Chester,Paoli,Source1,4,40.03176,-75.46731,2019,3,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7456535,PA,Chester,Paoli,Source1,4,40.035719,-75.471379,2019,3,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7459265,PA,Chester,Downingtown,Source1,3,40.00842,-75.74361,2019,11,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7462479,PA,Chester,Malvern,Source1,3,40.074507,-75.528017,2019,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7462480,PA,Chester,Malvern,Source1,3,40.06506,-75.58456,2019,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7470418,PA,Chester,Wayne,Source1,3,40.07856,-75.40968000000002,2019,7,Sunday,Cloudy,False,False,True,False,False,False,False
+A-7470419,PA,Chester,Wayne,Source1,3,40.08235,-75.4091,2019,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7479877,PA,Chester,Elverson,Source1,4,40.14718,-75.79366,2018,0,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-7479878,PA,Chester,Elverson,Source1,4,40.149814,-75.805952,2018,0,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7480709,PA,Chester,Elverson,Source1,4,40.149814,-75.805952,2018,3,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7480710,PA,Chester,Elverson,Source1,4,40.14718,-75.79366,2018,3,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-7490995,PA,Chester,Nottingham,Source1,4,39.76678,-76.05022,2018,11,Thursday,Clear / Fair,False,False,False,True,False,False,False
+A-7491003,PA,Chester,Nottingham,Source1,4,39.76678,-76.05022,2018,12,Thursday,Clear / Fair,False,False,False,True,False,False,False
+A-7497551,PA,Chester,Chadds Ford,Source1,4,39.87411,-75.62319000000002,2018,15,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7497552,PA,Chester,Chadds Ford,Source1,4,39.87411,-75.62319000000002,2018,15,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7507543,PA,Chester,West Chester,Source1,4,39.91975,-75.57691,2018,12,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7516003,PA,Chester,West Chester,Source1,4,40.0032,-75.58379000000002,2018,22,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7516004,PA,Chester,West Chester,Source1,4,39.98618,-75.58953000000002,2018,3,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7525589,PA,Chester,Exton,Source1,4,40.032981,-75.586066,2018,0,Saturday,Rain,False,False,False,False,False,False,False
+A-7525590,PA,Chester,Malvern,Source1,4,40.03576,-75.58366,2018,0,Saturday,Rain,False,False,True,False,False,False,False
+A-7525593,PA,Chester,Exton,Source1,4,40.032981,-75.586066,2018,1,Saturday,Rain,False,False,False,False,False,False,False
+A-7526054,PA,Chester,West Chester,Source1,4,39.96754,-75.581698,2018,8,Saturday,Rain,False,False,True,False,False,False,False
+A-7526059,PA,Chester,West Chester,Source1,4,39.96754,-75.581698,2018,10,Saturday,Cloudy,False,False,True,False,False,False,False
+A-7526074,PA,Chester,Downingtown,Source1,4,40.007871,-75.746796,2018,15,Saturday,Rain,False,False,False,False,False,False,False
+A-7526599,PA,Chester,Exton,Source1,3,40.020369,-75.62365,2018,6,Monday,Rain,True,False,False,False,False,False,False
+A-7526608,PA,Chester,Exton,Source1,3,40.020369,-75.62365,2018,6,Monday,Cloudy,True,False,False,False,False,False,False
+A-7526609,PA,Chester,Exton,Source1,3,40.0221,-75.62491,2018,6,Monday,Cloudy,True,False,True,False,False,False,False
+A-7533794,PA,Chester,Downingtown,Source1,4,40.00787,-75.7468,2018,5,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7533800,PA,Chester,Downingtown,Source1,4,40.00807800000001,-75.745574,2018,6,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7533802,PA,Chester,Downingtown,Source1,4,40.00787,-75.7468,2018,6,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7533803,PA,Chester,Downingtown,Source1,4,40.00807800000001,-75.745574,2018,6,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7533804,PA,Chester,Downingtown,Source1,4,40.00787,-75.7468,2018,6,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7533844,PA,Chester,Downingtown,Source1,4,40.00787,-75.7468,2018,8,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7533846,PA,Chester,Downingtown,Source1,4,40.00807800000001,-75.745574,2018,8,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7533849,PA,Chester,Downingtown,Source1,4,40.00787,-75.7468,2018,8,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7533850,PA,Chester,Downingtown,Source1,4,40.00807800000001,-75.745574,2018,8,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7542359,PA,Chester,Exton,Source1,3,40.0221,-75.62491,2018,2,Friday,Rain,True,False,True,False,False,False,False
+A-7542365,PA,Chester,Pottstown,Source1,3,40.23882,-75.65606,2018,4,Friday,Rain,False,False,True,False,False,False,False
+A-7542426,PA,Chester,Downingtown,Source1,4,40.0067,-75.70322,2018,14,Friday,Cloudy,True,False,False,False,False,False,False
+A-7567848,PA,Chester,Malvern,Source1,3,40.070025,-75.568999,2018,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7581607,PA,Chester,West Chester,Source1,4,39.968833,-75.560151,2018,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-7581611,PA,Chester,West Chester,Source1,4,39.969127,-75.561305,2018,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-7584637,PA,Chester,West Chester,Source1,4,39.96619000000001,-75.63259000000002,2018,22,Saturday,Rain,True,False,False,False,False,False,False
+A-7587031,PA,Chester,Coatesville,Source1,4,40.00615300000001,-75.785977,2018,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7587032,PA,Chester,Downingtown,Source1,4,40.00787,-75.7468,2018,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7588528,PA,Chester,Pottstown,Source1,4,40.193063,-75.66290500000002,2018,13,Sunday,Rain,False,False,False,False,False,False,False
+A-7588529,PA,Chester,Pottstown,Source1,4,40.20263,-75.66089000000002,2018,13,Sunday,Rain,False,False,False,False,False,False,False
+A-7588531,PA,Chester,Pottstown,Source1,4,40.193053000000006,-75.662909,2018,13,Sunday,Rain,False,False,False,False,False,False,False
+A-7588532,PA,Chester,Pottstown,Source1,4,40.20263,-75.66089000000002,2018,13,Sunday,Rain,False,False,False,False,False,False,False
+A-7599222,PA,Chester,Coatesville,Source1,4,40.00113,-75.82053,2018,14,Sunday,Cloudy,False,False,True,False,False,False,False
+A-7599223,PA,Chester,Coatesville,Source1,4,40.00113,-75.82053,2018,13,Sunday,Cloudy,False,False,True,False,False,False,False
+A-7599224,PA,Chester,Coatesville,Source1,4,40.0008,-75.82326,2018,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7599225,PA,Chester,Coatesville,Source1,4,40.00113,-75.81966,2018,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7605744,PA,Chester,Pottstown,Source1,4,40.23368,-75.63894,2018,9,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7605748,PA,Chester,Pottstown,Source1,4,40.23169,-75.63116,2018,10,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7605749,PA,Chester,Pottstown,Source1,4,40.23368,-75.63894,2018,9,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7607054,PA,Chester,Pottstown,Source1,4,40.23169,-75.63116,2018,9,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7607055,PA,Chester,Pottstown,Source1,4,40.23169,-75.63116,2018,9,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7612652,PA,Chester,Parkesburg,Source1,4,39.985795,-75.954945,2018,2,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7612658,PA,Chester,West Chester,Source1,4,40.01391,-75.61723,2018,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7655669,PA,Chester,Chadds Ford,Source1,4,39.871778000000006,-75.598387,2017,2,Saturday,Cloudy,True,False,False,False,False,False,False
+A-7658677,PA,Chester,West Chester,Source1,4,39.96724,-75.58173000000002,2017,18,Saturday,Cloudy,False,False,True,False,False,False,False
+A-7658810,PA,Chester,West Chester,Source1,4,39.970211,-75.58278,2017,23,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7668911,PA,Chester,Lincoln University,Source1,4,39.82077,-75.91431999999998,2017,23,Sunday,Cloudy,False,False,True,False,False,False,False
+A-7682096,PA,Chester,Downingtown,Source1,4,40.013425,-75.724117,2017,16,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7687535,PA,Chester,Malvern,Source1,3,40.05142100000001,-75.521665,2017,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7687972,PA,Chester,Downingtown,Source1,4,40.01159000000001,-75.72766,2017,0,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7687995,PA,Chester,Downingtown,Source1,4,40.01246,-75.7258,2017,1,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7695139,PA,Chester,West Chester,Source1,4,39.91975,-75.57691,2017,2,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-7695140,PA,Chester,West Chester,Source1,4,39.924962,-75.581734,2017,2,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7695141,PA,Chester,West Chester,Source1,4,39.91975,-75.57691,2017,2,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-7714883,PA,Chester,Chadds Ford,Source1,4,39.871434,-75.604187,2019,13,Friday,Cloudy,False,False,False,True,False,False,False
+A-7734997,PA,Chester,Avondale,Source1,4,39.79767,-75.72305,2019,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-7735824,PA,Chester,Exton,Source1,3,40.06697,-75.66286,2019,18,Sunday,Cloudy,False,False,True,False,False,False,False
+A-7757677,PA,Chester,Exton,Source1,4,40.066972,-75.66287,2019,12,Friday,Cloudy,False,False,True,False,False,False,False
+A-7757682,PA,Chester,Exton,Source1,4,40.069,-75.67187,2019,11,Friday,Cloudy,False,False,True,False,False,False,False

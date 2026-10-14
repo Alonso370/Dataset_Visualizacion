@@ -1,0 +1,308 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-570176,CO,Boulder,Longmont,Source3,3,40.087463,-105.10289,2022,7,Monday,Cloudy,True,False,False,False,False,False,False
+A-718997,CO,Boulder,Superior,Source2,3,39.963718,-105.182281,2022,16,Monday,Clear / Fair,False,True,False,True,False,False,False
+A-756291,CO,Boulder,Louisville,Source2,3,39.957001,-105.16478700000002,2021,2,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-756292,CO,Boulder,Louisville,Source2,3,39.957062,-105.165047,2021,2,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-756293,CO,Boulder,Louisville,Source2,3,39.95858,-105.166328,2021,2,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-756294,CO,Boulder,Louisville,Source2,3,39.958641,-105.166656,2021,2,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-756295,CO,Boulder,Boulder,Source2,3,39.98592,-105.234421,2021,2,Friday,Snow / Ice,False,False,False,False,True,True,False
+A-756296,CO,Boulder,Boulder,Source2,3,39.986679,-105.236313,2021,2,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-756297,CO,Boulder,Boulder,Source2,3,39.987411,-105.235924,2021,2,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-756298,CO,Boulder,Boulder,Source2,3,39.999821,-105.258369,2021,2,Friday,Snow / Ice,False,True,False,False,False,False,False
+A-756299,CO,Boulder,Boulder,Source2,3,40.001209,-105.25959,2021,2,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-837385,CO,Boulder,Boulder,Source2,3,40.043861,-105.242271,2021,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-958426,CO,Boulder,Boulder,Source2,3,40.0387,-105.245232,2021,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1412966,CO,Boulder,Broomfield,Source2,3,39.958782,-105.090256,2020,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1557468,CO,Boulder,Longmont,Source2,3,40.203209,-105.124878,2020,8,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1569951,CO,Boulder,Louisville,Source2,3,39.95780900000001,-105.16552,2020,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1592182,CO,Boulder,Louisville,Source2,3,39.964775,-105.18322,2020,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1734117,CO,Boulder,Boulder,Source2,3,39.993759,-105.259102,2019,9,Monday,Clear / Fair,True,True,False,False,True,False,False
+A-1893055,CO,Boulder,Longmont,Source2,3,40.203316,-105.131088,2019,5,Wednesday,Clear / Fair,True,True,False,False,False,False,False
+A-1943759,CO,Boulder,Boulder,Source2,3,39.953629,-105.23198700000002,2019,3,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-2127638,CO,Boulder,Lafayette,Source2,3,40.012749,-105.131111,2019,7,Tuesday,Storm,True,True,False,False,False,False,False
+A-2169194,CO,Boulder,Boulder,Source2,3,40.065186,-105.281403,2019,11,Monday,Cloudy,True,False,False,False,False,False,False
+A-2426332,CO,Boulder,Louisville,Source2,3,39.96347,-105.180046,2018,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3512264,CO,Boulder,Louisville,Source1,4,39.95579,-105.16096,2017,11,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3512785,CO,Boulder,Boulder,Source1,3,39.99772,-105.25413,2016,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3513794,CO,Boulder,Boulder,Source1,3,40.10027,-105.282,2016,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3513795,CO,Boulder,Boulder,Source1,3,40.079926,-105.282223,2016,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3513958,CO,Boulder,Boulder,Source1,4,40.10027,-105.282,2016,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-3513959,CO,Boulder,Boulder,Source1,4,40.07304,-105.28452,2016,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-3513961,CO,Boulder,Longmont,Source1,4,40.14551,-105.28226,2016,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3513962,CO,Boulder,Lyons,Source1,4,40.17373,-105.26125,2016,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3514471,CO,Boulder,Louisville,Source1,4,39.959229,-105.168858,2016,9,Wednesday,Cloudy,False,False,False,False,False,True,False
+A-3514525,CO,Boulder,Boulder,Source1,4,39.98311,-105.22731,2016,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3515815,CO,Boulder,Longmont,Source1,4,40.13826,-105.10238,2016,12,Friday,Clear / Fair,True,True,False,False,False,False,False
+A-3586431,CO,Boulder,Boulder,Source1,4,40.016753,-105.258458,2017,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3586432,CO,Boulder,Boulder,Source1,4,40.01536,-105.25828,2017,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3586519,CO,Boulder,Longmont,Source1,4,40.2033,-105.14482,2017,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3586520,CO,Boulder,Longmont,Source1,4,40.20331,-105.148275,2017,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3605940,CO,Boulder,Lafayette,Source1,4,40.035989,-105.103098,2017,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3605941,CO,Boulder,Lafayette,Source1,4,40.07293,-105.1025,2017,18,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-3605943,CO,Boulder,Lafayette,Source1,4,40.035989,-105.103098,2017,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3605944,CO,Boulder,Lafayette,Source1,4,40.07293,-105.1025,2017,18,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-3606052,CO,Boulder,Longmont,Source1,4,40.211876,-105.236739,2017,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3606053,CO,Boulder,Longmont,Source1,4,40.21221,-105.24841,2017,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3606093,CO,Boulder,Boulder,Source1,4,39.984347,-105.22963500000002,2017,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3619427,CO,Boulder,Boulder,Source1,4,40.053581,-105.263297,2017,23,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3619428,CO,Boulder,Boulder,Source1,4,40.05496,-105.265547,2017,23,Sunday,Clear / Fair,False,True,False,True,False,False,False
+A-3635669,CO,Boulder,Longmont,Source1,4,40.1383,-105.10238,2017,8,Wednesday,Clear / Fair,True,True,False,False,False,False,False
+A-3635670,CO,Boulder,Longmont,Source1,4,40.142291,-105.10249,2017,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3635675,CO,Boulder,Boulder,Source1,4,40.01458,-105.194764,2017,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3635676,CO,Boulder,Boulder,Source1,4,40.01469,-105.21306,2017,9,Wednesday,Clear / Fair,True,True,False,False,False,False,False
+A-3635781,CO,Boulder,Longmont,Source1,4,40.08748,-105.102371,2017,7,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3647443,CO,Boulder,Lyons,Source1,4,40.268329,-105.35389,2017,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3647458,CO,Boulder,Boulder,Source1,4,39.92787,-105.23453,2017,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3647643,CO,Boulder,Longmont,Source1,4,40.15882,-105.06624,2017,14,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-3647644,CO,Boulder,Longmont,Source1,4,40.16037,-105.05608,2017,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3647653,CO,Boulder,Longmont,Source1,4,40.15882,-105.06624,2017,22,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-3647654,CO,Boulder,Longmont,Source1,4,40.16037,-105.05608,2017,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3647655,CO,Boulder,Longmont,Source1,4,40.16013,-105.059761,2017,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3647739,CO,Boulder,Boulder,Source1,4,39.9287,-105.23476,2017,12,Thursday,Cloudy,False,True,False,False,True,False,False
+A-3710033,CO,Boulder,Broomfield,Source1,4,39.955055,-105.090146,2022,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3711361,CO,Boulder,Longmont,Source1,4,40.08701920000001,-105.10282159,2022,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3731423,CO,Boulder,Longmont,Source1,4,40.126388,-105.145125,2022,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3867797,CO,Boulder,Longmont,Source1,4,40.08701920000001,-105.10282159,2022,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3956507,CO,Boulder,Louisville,Source1,4,39.964829,-105.183335,2022,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3970476,CO,Boulder,Boulder,Source1,4,39.973126,-105.238559,2023,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3975441,CO,Boulder,Boulder,Source1,4,40.135132,-105.282228,2022,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3981229,CO,Boulder,Longmont,Source1,4,40.20325541477106,-105.13110279986796,2022,16,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-3995827,CO,Boulder,Longmont,Source1,4,40.091094,-105.188216,2022,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4057377,CO,Boulder,Boulder,Source1,4,40.02959847,-105.24467826,2023,16,Thursday,Cloudy,True,True,False,False,False,False,False
+A-4090247,CO,Boulder,Longmont,Source1,4,40.244561,-105.102786,2022,17,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-4364413,CO,Boulder,Longmont,Source1,4,40.20325541477106,-105.1315963263267,2022,16,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-4365644,CO,Boulder,Longmont,Source1,4,40.203254,-105.131101,2022,16,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-4392032,CO,Boulder,Boulder,Source1,4,39.928606,-105.234669,2022,14,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-4408832,CO,Boulder,Boulder,Source1,4,39.994523,-105.248907,2022,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4408833,CO,Boulder,Boulder,Source1,4,39.99889254550934,-105.25645852038735,2022,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4460426,CO,Boulder,Boulder,Source1,4,40.02959847431168,-105.24467825839402,2022,23,Saturday,Cloudy,True,True,False,False,False,False,False
+A-4472587,CO,Boulder,Lafayette,Source1,4,40.03523300000001,-105.103052,2022,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4486913,CO,Boulder,Boulder,Source1,4,40.003743,-105.400975,2022,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4496301,CO,Boulder,Boulder,Source1,4,39.919518,-105.236822,2022,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4514381,CO,Boulder,Longmont,Source1,4,40.11645,-105.159715,2022,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4700470,CO,Boulder,Boulder,Source1,4,40.07991,-105.282215,2022,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4744576,CO,Boulder,Boulder,Source1,4,40.015299,-105.324053,2022,17,Thursday,Snow / Ice,False,True,False,False,False,False,False
+A-4800149,CO,Boulder,Boulder,Source1,4,39.97117,-105.237036,2023,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4814923,CO,Boulder,Longmont,Source1,4,40.101662,-105.176231,2022,19,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-4814924,CO,Boulder,Longmont,Source1,4,40.102217,-105.175703,2022,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4817626,CO,Boulder,Boulder,Source1,4,40.068812,-105.283225,2022,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4839668,CO,Boulder,Boulder,Source1,4,40.013424,-105.297895,2022,17,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-4843336,CO,Boulder,Lyons,Source1,4,40.206307,-105.296581,2022,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4850245,CO,Boulder,Longmont,Source1,4,40.21768400000001,-105.102419,2022,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4857509,CO,Boulder,Louisville,Source1,4,39.955986,-105.161375,2022,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4870501,CO,Boulder,Boulder,Source1,4,40.029288,-105.244699,2023,16,Thursday,Cloudy,True,True,False,False,False,False,False
+A-4969263,CO,Boulder,Eldorado Springs,Source1,4,39.945216,-105.236366,2022,7,Saturday,Sin dato,False,False,False,False,False,False,False
+A-4982981,CO,Boulder,Longmont,Source1,4,40.088054,-105.102878,2022,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4996468,CO,Boulder,Longmont,Source1,4,40.203277,-105.140466,2022,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5013615,CO,Boulder,Louisville,Source1,4,39.94209409,-105.14174581,2022,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5030697,CO,Boulder,Longmont,Source1,4,40.087555,-105.102874,2022,9,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-5032198,CO,Boulder,Longmont,Source1,4,40.08701920490224,-105.10282158801506,2022,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5077743,CO,Boulder,Boulder,Source1,4,39.914737,-105.238754,2022,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5077881,CO,Boulder,Longmont,Source1,4,40.25502,-105.10278999999998,2022,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5086420,CO,Boulder,Longmont,Source1,4,40.246845,-105.102807,2022,17,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-5088475,CO,Boulder,Longmont,Source1,4,40.173666,-105.261223,2022,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5092999,CO,Boulder,Boulder,Source1,4,40.100435,-105.281976,2022,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5094601,CO,Boulder,Longmont,Source1,4,40.078182,-105.102545,2022,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5177659,CO,Boulder,Boulder,Source1,4,39.954819,-105.231501,2022,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5191296,CO,Boulder,Boulder,Source1,4,40.100435,-105.281976,2022,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5191297,CO,Boulder,Boulder,Source1,4,40.07066500000001,-105.283784,2022,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5215927,CO,Boulder,Longmont,Source1,4,40.206789,-105.102526,2022,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5223701,CO,Boulder,Longmont,Source1,4,40.246845,-105.102807,2022,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5318941,CO,Boulder,Longmont,Source1,4,40.101662,-105.176231,2022,22,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-5341057,CO,Boulder,Boulder,Source1,4,40.012333,-105.302253,2022,17,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-5343816,CO,Boulder,Longmont,Source1,4,40.122369,-105.149496,2022,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5358775,CO,Boulder,Louisville,Source1,4,39.949561,-105.152573,2022,8,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-5396839,CO,Boulder,Longmont,Source1,4,40.087405,-105.102882,2022,7,Monday,Cloudy,True,False,False,False,False,False,False
+A-5410454,CO,Boulder,Boulder,Source1,4,40.001227,-105.413439,2022,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5413538,CO,Boulder,Longmont,Source1,4,40.21768400000001,-105.102419,2022,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5413539,CO,Boulder,Longmont,Source1,4,40.21768400000001,-105.102419,2022,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5426004,CO,Boulder,Longmont,Source1,4,40.217692,-105.111798,2022,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5438070,CO,Boulder,Longmont,Source1,4,40.21768400000001,-105.102419,2022,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5457931,CO,Boulder,Boulder,Source1,4,39.928606,-105.234669,2022,19,Friday,Clear / Fair,True,True,False,False,False,False,False
+A-5502976,CO,Boulder,Lafayette,Source1,4,40.069576,-105.102606,2021,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5527061,CO,Boulder,Lafayette,Source1,4,40.053332,-105.102688,2021,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5622516,CO,Boulder,Longmont,Source1,4,40.102352,-105.102895,2021,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5635374,CO,Boulder,Longmont,Source1,4,40.095067,-105.102918,2021,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5678773,CO,Boulder,Boulder,Source1,4,40.0583517549512,-105.2254950995196,2021,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5802544,CO,Boulder,Boulder,Source1,4,40.0042569635391,-105.25871157595988,2021,7,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-5827941,CO,Boulder,Boulder,Source1,4,40.0135,-105.310348,2021,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5990647,CO,Boulder,Longmont,Source1,4,40.08725523929553,-105.08398175189456,2021,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6016688,CO,Boulder,Boulder,Source1,4,40.013716,-105.31911200000002,2021,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6043457,CO,Boulder,Boulder,Source1,4,40.05109906177496,-105.23455023715384,2021,2,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-6045560,CO,Boulder,Lyons,Source1,4,40.239532,-105.287949,2021,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6122898,CO,Boulder,Boulder,Source1,4,40.06766438465087,-105.21356463382143,2021,0,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6198696,CO,Boulder,Lyons,Source1,4,40.261051,-105.34646200000002,2021,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6210081,CO,Boulder,Longmont,Source1,4,40.087361,-105.075714,2021,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6230951,CO,Boulder,Longmont,Source1,4,40.087298154639775,-105.14129519412452,2021,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6457813,CO,Boulder,Longmont,Source1,4,40.211887,-105.249085,2021,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6529163,CO,Boulder,Boulder,Source1,4,39.95363831501029,-105.23197531649956,2021,19,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-6535592,CO,Boulder,Boulder,Source1,4,39.96067643146535,-105.23594498584156,2021,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6811158,CO,Boulder,Louisville,Source1,4,39.963895,-105.181506,2020,0,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-6996583,CO,Boulder,Longmont,Source1,3,40.20327,-105.17802,2020,11,Tuesday,Clear / Fair,True,True,False,False,False,False,False
+A-6996586,CO,Boulder,Longmont,Source1,4,40.20327,-105.17802,2020,11,Tuesday,Clear / Fair,True,True,False,False,False,False,False
+A-6996587,CO,Boulder,Longmont,Source1,4,40.20327,-105.17802,2020,11,Tuesday,Clear / Fair,True,True,False,False,False,False,False
+A-7004408,CO,Boulder,Nederland,Source1,3,39.9623,-105.51034,2020,18,Thursday,Clear / Fair,False,True,False,False,False,True,False
+A-7004410,CO,Boulder,Nederland,Source1,3,39.9623,-105.51034,2020,17,Thursday,Clear / Fair,False,True,False,False,False,True,False
+A-7004421,CO,Boulder,Nederland,Source1,3,39.96229,-105.51034,2020,17,Thursday,Clear / Fair,False,True,False,False,False,True,False
+A-7004434,CO,Boulder,Nederland,Source1,3,39.96229,-105.51034,2020,18,Thursday,Clear / Fair,False,True,False,False,False,True,False
+A-7004435,CO,Boulder,Nederland,Source1,3,39.9623,-105.51034,2020,18,Thursday,Clear / Fair,False,True,False,False,False,True,False
+A-7004436,CO,Boulder,Nederland,Source1,3,39.96229,-105.51034,2020,18,Thursday,Clear / Fair,False,True,False,False,False,True,False
+A-7024989,CO,Boulder,Boulder,Source1,3,39.97641,-105.21285,2020,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7024990,CO,Boulder,Boulder,Source1,3,39.97641,-105.21285,2020,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7034323,CO,Boulder,Lyons,Source1,4,40.24776,-105.30366,2020,3,Sunday,Sin dato,False,False,False,False,False,False,False
+A-7034324,CO,Boulder,Lyons,Source1,4,40.24765,-105.30579,2020,3,Sunday,Sin dato,False,False,False,False,False,False,False
+A-7034325,CO,Boulder,Lyons,Source1,4,40.24765,-105.30579,2020,4,Sunday,Sin dato,False,False,False,False,False,False,False
+A-7034326,CO,Boulder,Lyons,Source1,4,40.24776,-105.30366,2020,4,Sunday,Sin dato,False,False,False,False,False,False,False
+A-7034329,CO,Boulder,Lyons,Source1,4,40.2247,-105.2712,2020,15,Sunday,Sin dato,False,True,False,True,False,True,False
+A-7034358,CO,Boulder,Lyons,Source1,4,40.2247,-105.2712,2020,15,Sunday,Sin dato,False,True,False,True,False,True,False
+A-7039021,CO,Boulder,Louisville,Source1,3,39.95564,-105.16114,2020,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7061383,CO,Boulder,Lafayette,Source1,3,39.97242,-105.09011,2020,16,Friday,Storm,True,True,False,False,False,False,False
+A-7061395,CO,Boulder,Lafayette,Source1,3,39.97242,-105.09011,2020,16,Friday,Storm,True,True,False,False,False,False,False
+A-7073245,CO,Boulder,Longmont,Source1,3,40.08747,-105.10344,2020,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-7073247,CO,Boulder,Longmont,Source1,3,40.08747,-105.10344,2020,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-7073260,CO,Boulder,Longmont,Source1,3,40.08747,-105.10344,2020,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-7073262,CO,Boulder,Longmont,Source1,3,40.08747,-105.10344,2020,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-7102585,CO,Boulder,Longmont,Source1,3,40.20342,-105.17706,2020,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7117724,CO,Boulder,Louisville,Source1,3,39.95904,-105.16903,2020,21,Monday,Cloudy,False,False,True,False,False,False,False
+A-7120794,CO,Boulder,Longmont,Source1,4,40.21767,-105.10243,2020,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7120796,CO,Boulder,Longmont,Source1,4,40.24681,-105.10282,2020,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7120798,CO,Boulder,Longmont,Source1,4,40.24681,-105.10282,2020,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7120799,CO,Boulder,Longmont,Source1,4,40.21767,-105.10243,2020,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7123475,CO,Boulder,Louisville,Source1,3,39.95563,-105.16113,2020,9,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-7123479,CO,Boulder,Boulder,Source1,3,39.96569,-105.18614,2020,11,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-7123572,CO,Boulder,Boulder,Source1,3,39.9764,-105.21283,2020,14,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-7147544,CO,Boulder,Louisville,Source1,3,39.95073,-105.15447,2020,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7180882,CO,Boulder,Louisville,Source1,3,39.95078,-105.1542,2020,7,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-7183095,CO,Boulder,Boulder,Source1,4,40.01529,-105.32399,2020,11,Friday,Clear / Fair,False,True,False,False,False,False,False
+A-7183096,CO,Boulder,Boulder,Source1,4,40.01538,-105.32437,2020,11,Friday,Clear / Fair,False,True,False,False,False,False,False
+A-7183100,CO,Boulder,Boulder,Source1,4,40.01538,-105.32437,2020,11,Friday,Clear / Fair,False,True,False,False,False,False,False
+A-7183101,CO,Boulder,Boulder,Source1,4,40.01538,-105.32437,2020,11,Friday,Clear / Fair,False,True,False,False,False,False,False
+A-7191663,CO,Boulder,Boulder,Source1,4,40.00429000000001,-105.35346,2020,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7191664,CO,Boulder,Boulder,Source1,4,40.0042,-105.35383,2020,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7191666,CO,Boulder,Boulder,Source1,4,40.0042,-105.35383,2020,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7191667,CO,Boulder,Boulder,Source1,4,40.00429000000001,-105.35346,2020,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7193870,CO,Boulder,Boulder,Source1,4,40.0042,-105.35383,2020,23,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7193871,CO,Boulder,Boulder,Source1,4,40.0042,-105.35383,2020,23,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7206279,CO,Boulder,Louisville,Source1,3,39.95904,-105.16903,2020,13,Saturday,Cloudy,False,False,True,False,False,False,False
+A-7221876,CO,Boulder,Louisville,Source1,3,39.94118,-105.13984,2020,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7269019,CO,Boulder,Louisville,Source1,3,39.94118,-105.13984,2020,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7281632,CO,Boulder,Boulder,Source1,3,39.98745,-105.23664,2020,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7292599,CO,Boulder,Longmont,Source1,3,40.20336,-105.07256,2019,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7292600,CO,Boulder,Longmont,Source1,3,40.20336,-105.07256,2019,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7292601,CO,Boulder,Longmont,Source1,4,40.20339,-105.07118,2019,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7292602,CO,Boulder,Longmont,Source1,4,40.20331,-105.07591,2019,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7292603,CO,Boulder,Longmont,Source1,4,40.20331,-105.07591,2019,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7292605,CO,Boulder,Longmont,Source1,4,40.20339,-105.07118,2019,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7319269,CO,Boulder,Louisville,Source1,3,39.95073,-105.15447,2019,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7341332,CO,Boulder,Louisville,Source1,3,39.94118,-105.13984,2019,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7352194,CO,Boulder,Boulder,Source1,3,39.97747,-105.21471,2019,6,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7357727,CO,Boulder,Boulder,Source1,3,39.97747,-105.21471,2019,18,Sunday,Sin dato,False,False,True,False,False,False,False
+A-7361806,CO,Boulder,Louisville,Source1,3,39.95073,-105.15447,2019,10,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7375898,CO,Boulder,Louisville,Source1,3,39.94118,-105.13984,2019,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7375899,CO,Boulder,Louisville,Source1,3,39.94116,-105.14018,2019,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7378927,CO,Boulder,Boulder,Source1,3,39.97943,-105.21897,2019,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7382719,CO,Boulder,Longmont,Source1,4,40.20331,-105.10197,2019,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7382720,CO,Boulder,Longmont,Source1,4,40.20332,-105.10316,2019,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7387309,CO,Boulder,Boulder,Source1,3,39.98766,-105.23704,2019,7,Wednesday,Fog / Low visibility,False,False,True,False,False,False,False
+A-7404694,CO,Boulder,Longmont,Source1,4,40.2032,-105.095023,2019,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7413564,CO,Boulder,Louisville,Source1,3,39.95913400000001,-105.169279,2019,12,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7422223,CO,Boulder,Louisville,Source1,3,39.959146,-105.16927,2019,15,Monday,Cloudy,False,False,True,False,False,False,False
+A-7422858,CO,Boulder,Louisville,Source1,3,39.94118,-105.13984,2019,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7427205,CO,Boulder,Louisville,Source1,3,39.959146,-105.16927,2019,7,Wednesday,Rain,False,False,True,False,False,False,False
+A-7428938,CO,Boulder,Lyons,Source1,4,40.176737,-105.34846,2019,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7428939,CO,Boulder,Lyons,Source1,4,40.16996,-105.415761,2019,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7428942,CO,Boulder,Lyons,Source1,4,40.16996,-105.415761,2019,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7428943,CO,Boulder,Lyons,Source1,4,40.176737,-105.34846,2019,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7429329,CO,Boulder,Louisville,Source1,3,39.94118,-105.13984,2019,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-7431545,CO,Boulder,Louisville,Source1,3,39.950302,-105.153923,2019,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-7433142,CO,Boulder,Lyons,Source1,4,40.24812,-105.289312,2019,1,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7433146,CO,Boulder,Lyons,Source1,4,40.24812,-105.289312,2019,2,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7435499,CO,Boulder,Lyons,Source1,4,40.24812,-105.289312,2019,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7435512,CO,Boulder,Lyons,Source1,4,40.24812,-105.289312,2019,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7441806,CO,Boulder,Boulder,Source1,3,39.968304,-105.484344,2019,15,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7444757,CO,Boulder,Boulder,Source1,3,39.981111,-105.222993,2019,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7447178,CO,Boulder,Louisville,Source1,3,39.94118,-105.13984,2019,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7447183,CO,Boulder,Boulder,Source1,3,39.994668,-105.248866,2019,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7447903,CO,Boulder,Boulder,Source1,3,39.987628,-105.236686,2019,8,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7454266,CO,Boulder,Boulder,Source1,3,39.994668,-105.248866,2019,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7457407,CO,Boulder,Louisville,Source1,3,39.94118,-105.13984,2019,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-7457414,CO,Boulder,Boulder,Source1,4,40.004175,-105.353965,2019,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7457415,CO,Boulder,Boulder,Source1,4,40.005578,-105.34977,2019,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7459599,CO,Boulder,Louisville,Source1,3,39.959146,-105.16927,2019,17,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7461474,CO,Boulder,Boulder,Source1,3,40.00725900000001,-105.332739,2019,6,Friday,Rain,False,False,False,False,False,False,False
+A-7463420,CO,Boulder,Boulder,Source1,3,39.987628,-105.236686,2019,9,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7464146,CO,Boulder,Boulder,Source1,3,39.978111,-105.216118,2019,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7465586,CO,Boulder,Louisville,Source1,3,39.959146,-105.16927,2019,10,Friday,Sin dato,False,False,True,False,False,False,False
+A-7465587,CO,Boulder,Louisville,Source1,3,39.959146,-105.16927,2019,10,Friday,Sin dato,False,False,True,False,False,False,False
+A-7465594,CO,Boulder,Louisville,Source1,3,39.959146,-105.16927,2019,12,Friday,Sin dato,False,False,True,False,False,False,False
+A-7468223,CO,Boulder,Boulder,Source1,3,39.994668,-105.248866,2019,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7468897,CO,Boulder,Boulder,Source1,4,39.92787,-105.23453,2019,9,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-7468902,CO,Boulder,Boulder,Source1,3,39.981111,-105.222993,2019,10,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-7469714,CO,Boulder,Louisville,Source1,3,39.959146,-105.16927,2019,17,Friday,Cloudy,False,False,True,False,False,False,False
+A-7481142,CO,Boulder,Louisville,Source1,3,39.94118,-105.13984,2018,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7484323,CO,Boulder,Boulder,Source1,3,39.987628,-105.236686,2018,11,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7487516,CO,Boulder,Louisville,Source1,3,39.94118,-105.13984,2018,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7488072,CO,Boulder,Boulder,Source1,3,39.98766,-105.23704,2018,15,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7494073,CO,Boulder,Louisville,Source1,3,39.94118,-105.13984,2018,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7494074,CO,Boulder,Louisville,Source1,3,39.950774,-105.154182,2018,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7499330,CO,Boulder,Louisville,Source1,3,39.94118,-105.13984,2018,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7502869,CO,Boulder,Louisville,Source1,3,39.959146,-105.16927,2018,17,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7512852,CO,Boulder,Longmont,Source1,4,40.20341,-105.17802,2018,11,Tuesday,Clear / Fair,True,True,False,False,False,False,False
+A-7522543,CO,Boulder,Boulder,Source1,3,40.00331,-105.25877,2018,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7526485,CO,Boulder,Longmont,Source1,4,40.084704,-105.102825,2018,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7526486,CO,Boulder,Lafayette,Source1,3,40.071791,-105.10252,2018,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7535425,CO,Boulder,Boulder,Source1,3,39.991943,-105.244173,2018,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7538796,CO,Boulder,Louisville,Source1,3,39.961973,-105.176577,2018,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7538797,CO,Boulder,Louisville,Source1,3,39.961014,-105.173556,2018,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7546788,CO,Boulder,Longmont,Source1,4,40.20331,-105.13055,2018,18,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7546789,CO,Boulder,Longmont,Source1,4,40.20325,-105.135045,2018,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7549970,CO,Boulder,Louisville,Source1,4,39.94207,-105.14159,2018,7,Saturday,Cloudy,False,False,True,False,False,False,False
+A-7555348,CO,Boulder,Boulder,Source1,3,39.98607,-105.23338,2018,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7577470,CO,Boulder,Lafayette,Source1,4,40.038077,-105.102932,2018,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7588486,CO,Boulder,Boulder,Source1,3,39.978111,-105.216118,2018,0,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7590590,CO,Boulder,Louisville,Source1,3,39.95895,-105.16875,2018,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7590957,CO,Boulder,Nederland,Source1,4,39.965988,-105.500187,2018,11,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-7590958,CO,Boulder,Boulder,Source1,4,40.004146,-105.354191,2018,11,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-7611885,CO,Boulder,Louisville,Source1,3,39.9576,-105.164849,2018,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7634307,CO,Boulder,Boulder,Source1,3,39.978272,-105.216466,2018,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7634910,CO,Boulder,Boulder,Source1,4,40.046519,-105.238429,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7634911,CO,Boulder,Boulder,Source1,4,40.046597,-105.238773,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7641147,CO,Boulder,Lafayette,Source1,4,40.014659,-105.102933,2017,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7641150,CO,Boulder,Lafayette,Source1,4,40.003825,-105.10291,2017,6,Wednesday,Clear / Fair,True,True,False,False,False,False,False
+A-7641151,CO,Boulder,Lafayette,Source1,4,40.014659,-105.102933,2017,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7664534,CO,Boulder,Lafayette,Source1,4,40.038077,-105.102932,2017,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7664535,CO,Boulder,Lafayette,Source1,4,40.015419,-105.10294,2017,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7665580,CO,Boulder,Louisville,Source1,3,39.95895,-105.16875,2017,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7683475,CO,Boulder,Longmont,Source1,4,40.20695,-105.208576,2017,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7683476,CO,Boulder,Longmont,Source1,4,40.20616500000001,-105.203871,2017,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7687277,CO,Boulder,Boulder,Source1,3,39.99933,-105.256833,2017,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7694709,CO,Boulder,Longmont,Source1,4,40.1383,-105.10238,2017,3,Friday,Cloudy,True,True,False,False,False,False,False
+A-7694710,CO,Boulder,Longmont,Source1,4,40.142291,-105.10249,2017,3,Friday,Cloudy,False,False,False,False,False,False,False
+A-7702492,CO,Boulder,Boulder,Source1,3,39.974945,-105.209215,2017,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7706852,CO,Boulder,Boulder,Source1,3,39.98766,-105.23704,2019,18,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-7709408,CO,Boulder,Boulder,Source1,4,40.07994,-105.28222,2019,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7709409,CO,Boulder,Boulder,Source1,4,40.079596,-105.282306,2019,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7709927,CO,Boulder,Longmont,Source1,4,40.132241,-105.10254,2019,23,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7711158,CO,Boulder,Louisville,Source1,3,39.94118,-105.13984,2019,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7711791,CO,Boulder,Boulder,Source1,3,39.965783,-105.18638,2019,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7716422,CO,Boulder,Louisville,Source1,3,39.94118,-105.13984,2019,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-7722755,CO,Boulder,Louisville,Source1,3,39.94207,-105.14159,2019,9,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7724513,CO,Boulder,Louisville,Source1,3,39.959146,-105.16927,2019,14,Friday,Rain,False,False,True,False,False,False,False
+A-7725935,CO,Boulder,Louisville,Source1,3,39.94118,-105.13984,2019,8,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7726463,CO,Boulder,Boulder,Source1,3,39.978111,-105.216118,2019,15,Wednesday,Rain,False,False,False,False,False,False,False
+A-7726465,CO,Boulder,Boulder,Source1,3,39.986161,-105.212738,2019,15,Wednesday,Rain,True,True,False,False,False,False,False
+A-7729516,CO,Boulder,Lyons,Source1,3,40.247545,-105.334406,2019,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7733510,CO,Boulder,Boulder,Source1,3,39.981111,-105.222993,2019,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7736367,CO,Boulder,Louisville,Source1,3,39.959146,-105.16927,2019,18,Monday,Cloudy,False,False,True,False,False,False,False
+A-7740504,CO,Boulder,Lyons,Source1,4,40.13661,-105.492228,2019,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7740505,CO,Boulder,Lyons,Source1,4,40.1453,-105.47251,2019,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7740506,CO,Boulder,Lyons,Source1,4,40.13661,-105.492228,2019,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7740507,CO,Boulder,Lyons,Source1,4,40.1453,-105.47251,2019,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7740511,CO,Boulder,Boulder,Source1,3,39.98766,-105.23704,2019,16,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7741557,CO,Boulder,Boulder,Source1,3,39.978111,-105.216118,2019,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-7741562,CO,Boulder,Boulder,Source1,3,39.98326,-105.22726000000002,2019,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-7742446,CO,Boulder,Boulder,Source1,3,39.981111,-105.222993,2019,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7751482,CO,Boulder,Boulder,Source1,4,39.952975,-105.232415,2019,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7751483,CO,Boulder,Boulder,Source1,4,39.95363,-105.23199,2019,5,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7775052,CO,Boulder,Lafayette,Source1,4,40.014651,-105.128451,2019,21,Sunday,Clear / Fair,False,False,False,False,True,False,False
+A-7775053,CO,Boulder,Lafayette,Source1,4,40.01469,-105.13111,2019,21,Sunday,Clear / Fair,True,True,False,False,False,False,False

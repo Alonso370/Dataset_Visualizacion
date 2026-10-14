@@ -1,0 +1,87 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-653766,PA,McKean,Derrick City,Source3,3,41.95927800000001,-78.535988,2022,18,Monday,Rain,False,False,False,False,False,False,False
+A-945283,PA,McKean,Bradford,Source2,3,41.905739,-78.651848,2021,13,Thursday,Cloudy,False,False,False,True,False,True,False
+A-988418,PA,McKean,Eldred,Source3,3,41.984798,-78.35153199999998,2021,18,Sunday,Clear / Fair,False,True,False,False,False,False,True
+A-1086874,PA,McKean,Eldred,Source2,3,41.965389,-78.384438,2021,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3470316,PA,McKean,Kane,Source1,4,41.70826,-78.69405,2016,18,Monday,Clear / Fair,True,False,False,True,False,False,False
+A-3470317,PA,McKean,Kane,Source1,4,41.724736,-78.654884,2016,18,Monday,Clear / Fair,False,False,False,True,False,False,False
+A-3483219,PA,McKean,Rixford,Source1,4,41.933124,-78.439971,2016,8,Thursday,Rain,False,False,False,False,False,False,False
+A-3483271,PA,McKean,Rixford,Source1,4,41.933124,-78.439971,2016,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3491617,PA,McKean,Kane,Source1,3,41.70826,-78.69405,2016,15,Saturday,Clear / Fair,True,False,False,True,False,False,False
+A-3483215,PA,Mckean,Eldred,Source1,4,41.96278,-78.39985,2016,8,Thursday,Rain,False,False,False,False,False,False,False
+A-3483273,PA,Mckean,Eldred,Source1,4,41.96278,-78.39985,2016,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3491616,PA,Mckean,Bradford,Source1,3,41.873533,-78.66309100000002,2016,15,Saturday,Clear / Fair,False,False,False,True,False,False,False
+A-3559177,PA,Mckean,Smethport,Source1,4,41.81144000000001,-78.43384,2017,9,Tuesday,Snow / Ice,False,False,False,True,False,False,False
+A-3708236,PA,McKean,Cyclone,Source1,4,41.809113,-78.541834,2022,14,Monday,Cloudy,False,False,False,True,False,False,False
+A-3719804,PA,McKean,Smethport,Source1,4,41.809869,-78.426307,2022,17,Friday,Sin dato,False,False,False,False,False,False,False
+A-3760382,PA,McKean,Cyclone,Source1,4,41.832165,-78.585994,2022,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-3814987,PA,McKean,Kane,Source1,4,41.70832100000001,-78.694029,2022,13,Monday,Rain,True,False,False,True,False,False,False
+A-3949974,PA,McKean,Port Allegany,Source1,4,41.820113,-78.286941,2022,17,Friday,Cloudy,True,True,False,False,False,False,False
+A-3995302,PA,McKean,Kane,Source1,4,41.70832100000001,-78.694029,2022,5,Thursday,Rain,True,False,False,True,False,False,False
+A-4043907,PA,McKean,Bradford,Source1,4,41.977005,-78.62345,2022,14,Friday,Cloudy,True,False,False,False,False,False,False
+A-4063741,PA,McKean,Kane,Source1,4,41.731511,-78.614653,2022,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-4224213,PA,McKean,Gifford,Source1,4,41.858162,-78.596429,2022,14,Monday,Sin dato,False,False,False,False,False,False,False
+A-4238971,PA,McKean,Bradford,Source1,4,41.878023,-78.661146,2022,12,Monday,Rain,False,False,False,False,False,False,False
+A-4310445,PA,McKean,Bradford,Source1,4,41.905767,-78.65186800000002,2022,13,Monday,Rain,False,False,False,True,False,True,False
+A-4435686,PA,McKean,Bradford,Source1,4,41.876234,-78.66191500000002,2022,12,Monday,Rain,False,False,False,False,False,False,False
+A-4482807,PA,McKean,Lewis Run,Source1,4,41.80281758,-78.69784713,2022,5,Thursday,Rain,False,False,False,True,False,False,False
+A-4501263,PA,McKean,Smethport,Source1,4,41.811569,-78.434095,2022,17,Friday,Cloudy,False,False,False,True,False,False,False
+A-4547111,PA,McKean,Lewis Run,Source1,4,41.793218,-78.68436,2022,14,Sunday,Sin dato,False,False,False,False,False,False,False
+A-4677317,PA,McKean,Gifford,Source1,4,41.858321,-78.596467,2022,14,Monday,Sin dato,False,False,False,False,False,False,False
+A-4724117,PA,McKean,Bradford,Source1,4,41.914575,-78.650131,2022,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4724741,PA,McKean,Duke Center,Source1,4,41.952496,-78.480265,2022,11,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-4817984,PA,McKean,Bradford,Source1,4,41.905767,-78.65186800000002,2022,12,Monday,Rain,False,False,False,True,False,True,False
+A-4836004,PA,McKean,Lewis Run,Source1,4,41.86149,-78.67156899999998,2022,12,Monday,Rain,False,False,False,False,False,False,False
+A-4875329,PA,McKean,Smethport,Source1,4,41.811891,-78.434863,2022,17,Friday,Cloudy,False,False,False,True,False,False,False
+A-4915482,PA,McKean,Kane,Source1,4,41.698098,-78.878835,2022,3,Tuesday,Cloudy,False,False,False,True,False,False,False
+A-4917378,PA,McKean,Rew,Source1,4,41.878642,-78.577415,2022,14,Saturday,Sin dato,False,False,False,False,False,False,False
+A-4919280,PA,McKean,Smethport,Source1,4,41.809472,-78.451622,2022,7,Thursday,Other,False,True,False,True,False,False,False
+A-5071226,PA,McKean,Lewis Run,Source1,4,41.79320454577545,-78.6843502517763,2022,14,Sunday,Sin dato,False,False,False,False,False,False,False
+A-5077965,PA,McKean,Cyclone,Source1,4,41.809149,-78.543727,2022,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-5104739,PA,McKean,Derrick City,Source1,4,41.970982,-78.566767,2022,11,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-5189127,PA,McKean,Duke Center,Source1,4,41.959801,-78.48329100000002,2022,23,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5241803,PA,McKean,Kane,Source1,4,41.68005,-78.64253000000002,2022,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5299071,PA,McKean,Kane,Source1,4,41.720355,-78.921607,2022,3,Tuesday,Cloudy,False,False,False,True,False,False,False
+A-5318075,PA,McKean,Bradford,Source1,4,41.977086,-78.620672,2022,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-5321675,PA,McKean,Kane,Source1,4,41.659246,-78.638087,2022,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5375905,PA,McKean,Lewis Run,Source1,4,41.794441,-78.618152,2022,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5411074,PA,McKean,Kane,Source1,4,41.70832100000001,-78.694029,2022,7,Thursday,Other,True,False,False,True,False,False,False
+A-5422261,PA,McKean,Kane,Source1,4,41.664982,-78.64107,2022,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5457560,PA,McKean,Kane,Source1,4,41.646454,-78.813711,2022,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5517303,PA,McKean,Kane,Source1,4,41.664512,-78.784725,2021,17,Monday,Clear / Fair,False,False,False,True,False,False,False
+A-5517460,PA,McKean,Kane,Source1,4,41.660018,-78.801714,2021,11,Sunday,Cloudy,False,True,False,True,False,False,True
+A-5549032,PA,McKean,Derrick City,Source1,4,41.995332,-78.523276,2021,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5619662,PA,McKean,Turtlepoint,Source1,4,41.865443,-78.35783599999998,2021,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5862533,PA,McKean,Kane,Source1,4,41.70832100000001,-78.694029,2021,11,Sunday,Cloudy,True,False,False,True,False,False,False
+A-5991017,PA,McKean,Kane,Source1,4,41.65984511355562,-78.80159497223471,2021,12,Sunday,Fog / Low visibility,False,True,False,True,False,False,True
+A-6028226,PA,McKean,Kane,Source1,4,41.655826,-78.810974,2021,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6042030,PA,McKean,Kane,Source1,4,41.70832100000001,-78.694029,2021,11,Sunday,Cloudy,True,False,False,True,False,False,False
+A-6116230,PA,McKean,Kane,Source1,4,41.671986,-78.76668599999998,2021,17,Monday,Clear / Fair,False,False,False,True,False,False,False
+A-6129613,PA,McKean,Lewis Run,Source1,4,41.802815,-78.697848,2021,5,Thursday,Cloudy,False,False,False,True,False,False,False
+A-6178702,PA,McKean,Derrick City,Source1,4,41.999738,-78.51994499999998,2021,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6217065,PA,McKean,Smethport,Source1,4,41.8748,-78.383836,2021,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6237842,PA,McKean,Kane,Source1,4,41.70832100000001,-78.694029,2021,4,Thursday,Clear / Fair,True,False,False,True,False,False,False
+A-6285878,PA,McKean,Kane,Source1,4,41.660018,-78.801714,2021,11,Sunday,Cloudy,False,True,False,True,False,False,True
+A-6367987,PA,McKean,Kane,Source1,4,41.672401,-78.816785,2021,18,Monday,Cloudy,False,True,False,True,False,False,False
+A-6414899,PA,McKean,Ludlow,Source1,4,41.731874,-78.947376,2021,18,Monday,Cloudy,False,False,False,True,False,False,False
+A-6420405,PA,McKean,Ludlow,Source1,4,41.725569,-78.932889,2021,18,Monday,Cloudy,False,False,False,True,False,False,False
+A-6423707,PA,McKean,Kane,Source1,4,41.673494,-78.82279399999999,2021,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-6426642,PA,McKean,Mount Jewett,Source1,4,41.729613,-78.542007,2021,14,Tuesday,Cloudy,False,False,False,True,False,False,False
+A-6428441,PA,McKean,Mount Jewett,Source1,4,41.691847,-78.482428,2021,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6514865,PA,McKean,Shinglehouse,Source1,4,41.998184,-78.268065,2021,10,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-6652030,PA,McKean,Lewis Run,Source1,4,41.802815,-78.697848,2020,5,Thursday,Cloudy,False,False,False,True,False,False,False
+A-6654133,PA,McKean,Kane,Source1,4,41.70832100000001,-78.694029,2020,5,Thursday,Cloudy,True,False,False,True,False,False,False
+A-6661672,PA,McKean,Rew,Source1,4,41.877505,-78.578738,2020,2,Sunday,Sin dato,False,False,False,False,False,False,False
+A-6785356,PA,McKean,Cyclone,Source1,4,41.832952,-78.58700999999998,2020,2,Sunday,Sin dato,False,False,False,False,False,False,False
+A-7283289,PA,McKean,Kane,Source1,4,41.70826,-78.69405,2020,19,Sunday,Snow / Ice,True,False,False,True,False,False,False
+A-7283290,PA,McKean,Kane,Source1,4,41.70826,-78.69405,2020,19,Sunday,Snow / Ice,True,False,False,True,False,False,False
+A-7283257,PA,Mckean,Lewis Run,Source1,4,41.80282,-78.69785999999998,2020,19,Sunday,Snow / Ice,False,False,False,True,False,False,False
+A-7283258,PA,Mckean,Lewis Run,Source1,4,41.80282,-78.69785999999998,2020,19,Sunday,Snow / Ice,False,False,False,True,False,False,False
+A-7467856,PA,McKean,Lewis Run,Source1,3,41.79711,-78.69329300000003,2019,9,Wednesday,Rain,False,False,False,False,False,False,False
+A-7467857,PA,McKean,Lewis Run,Source1,3,41.79734000000001,-78.69348000000002,2019,9,Wednesday,Rain,False,False,False,False,False,False,False
+A-7467858,PA,McKean,Lewis Run,Source1,3,41.79612,-78.69249,2019,9,Wednesday,Rain,False,False,False,False,False,False,False
+A-7467859,PA,McKean,Lewis Run,Source1,3,41.79612,-78.69249,2019,9,Wednesday,Rain,False,False,False,False,False,False,False
+A-7715326,PA,McKean,Mount Jewett,Source1,4,41.739353,-78.683875,2019,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7715327,PA,McKean,Mount Jewett,Source1,4,41.76058,-78.701637,2019,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7758203,PA,McKean,Bradford township,Source1,4,41.886948,-78.65867,2019,2,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7758204,PA,Mckean,Bradford,Source1,4,41.90574,-78.65185,2019,2,Saturday,Clear / Fair,False,False,False,True,False,True,False

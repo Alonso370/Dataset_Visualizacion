@@ -1,0 +1,922 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-512653,GA,Chatham,Savannah,Source2,3,32.06575,-81.137283,2022,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-514906,GA,Chatham,Savannah,Source2,3,32.125519,-81.23909,2022,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-518055,GA,Chatham,Savannah,Source2,3,32.069084000000004,-81.166954,2022,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-527710,GA,Chatham,Savannah,Source2,3,32.067947,-81.136429,2022,20,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-531804,GA,Chatham,Bloomingdale,Source2,3,32.099464000000005,-81.323029,2022,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-544540,GA,Chatham,Savannah,Source2,3,32.070709,-81.15853100000002,2022,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-551432,GA,Chatham,Savannah,Source2,3,32.141071000000004,-81.240746,2022,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-556137,GA,Chatham,Savannah,Source2,3,32.071445000000004,-81.135796,2022,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-557387,GA,Chatham,Savannah,Source2,3,32.124832,-81.239021,2022,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-568405,GA,Chatham,Savannah,Source2,3,32.081654,-81.131287,2022,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-569572,GA,Chatham,Bloomingdale,Source2,3,32.107231,-81.343887,2022,19,Monday,Rain,False,False,False,False,False,False,False
+A-569674,GA,Chatham,Savannah,Source2,3,32.031586,-81.119911,2022,18,Monday,Storm,False,False,False,True,False,False,False
+A-573660,GA,Chatham,Pooler,Source2,3,32.084022999999995,-81.27977,2022,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-575645,GA,Chatham,Savannah,Source2,3,32.071445000000004,-81.135796,2022,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-576070,GA,Chatham,Pooler,Source2,3,32.074234000000004,-81.246155,2022,14,Monday,Cloudy,False,False,True,False,False,False,False
+A-576820,GA,Chatham,Port Wentworth,Source2,3,32.191029,-81.195145,2022,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-578932,GA,Chatham,Savannah,Source2,3,32.074505,-81.245728,2022,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-579400,GA,Chatham,Savannah,Source2,3,32.070633,-81.135002,2022,22,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-580011,GA,Chatham,Savannah,Source2,3,32.069576,-81.164139,2022,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-583202,GA,Chatham,Savannah,Source2,3,32.071163,-81.212059,2022,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-586824,GA,Chatham,Pooler,Source2,3,32.070198,-81.20238499999998,2022,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-590475,GA,Chatham,Savannah,Source2,3,32.071388,-81.214439,2022,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-598186,GA,Chatham,Pooler,Source2,3,32.074234000000004,-81.246155,2022,15,Thursday,Storm,False,False,True,False,False,False,False
+A-600345,GA,Chatham,Port Wentworth,Source2,4,32.167221000000005,-81.215874,2022,2,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-600746,GA,Chatham,Pooler,Source2,3,32.079464,-81.267448,2022,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-603168,GA,Chatham,Pooler,Source2,3,32.112576000000004,-81.237976,2022,17,Thursday,Storm,False,False,False,False,False,False,False
+A-609879,GA,Chatham,Bloomingdale,Source3,3,32.099636,-81.32315799999998,2022,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-613993,GA,Chatham,Savannah,Source2,3,32.071445000000004,-81.135796,2022,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-618125,GA,Chatham,Port Wentworth,Source2,3,32.191029,-81.195145,2022,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-621643,GA,Chatham,Pooler,Source2,3,32.082375,-81.275314,2022,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-635390,GA,Chatham,Pooler,Source2,3,32.074234000000004,-81.246155,2022,7,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-635391,GA,Chatham,Pooler,Source2,3,32.074234000000004,-81.246155,2022,7,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-647952,GA,Chatham,Savannah,Source2,3,32.033127,-81.266823,2022,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-656875,GA,Chatham,Pooler,Source2,3,32.084022999999995,-81.27977,2022,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-663105,GA,Chatham,Savannah,Source2,3,32.000237,-81.287888,2022,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-673956,GA,Chatham,Port Wentworth,Source2,3,32.184517,-81.200546,2022,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-680639,GA,Chatham,Savannah,Source2,3,32.143299,-81.24205,2022,8,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-681581,GA,Chatham,Savannah,Source2,3,32.171741,-81.210838,2022,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-683974,GA,Chatham,Pooler,Source2,3,32.074196,-81.247826,2022,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-687591,GA,Chatham,Savannah,Source2,3,32.004673,-81.28343199999998,2022,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-687893,GA,Chatham,Pooler,Source2,3,32.111996000000005,-81.238075,2022,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-691558,GA,Chatham,Savannah,Source2,3,32.072727,-81.22872199999998,2022,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-699847,GA,Chatham,Pooler,Source2,3,32.070198,-81.20238499999998,2022,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-701723,GA,Chatham,Pooler,Source2,3,32.074234000000004,-81.246155,2022,8,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-704412,GA,Chatham,Pooler,Source2,3,32.086182,-81.24007399999998,2022,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-705333,GA,Chatham,Port Wentworth,Source2,4,32.191029,-81.195145,2022,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-717805,GA,Chatham,Savannah,Source2,3,32.070793,-81.162003,2022,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-717822,GA,Chatham,Savannah,Source2,3,32.068721999999994,-81.188423,2022,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-728953,GA,Chatham,Savannah,Source2,3,32.066486,-81.137001,2022,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-738384,GA,Chatham,Pooler,Source2,3,32.074234000000004,-81.246155,2022,13,Saturday,Cloudy,False,False,True,False,False,False,False
+A-741953,GA,Chatham,Savannah,Source2,3,32.075161,-81.243927,2022,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-746409,GA,Chatham,Savannah,Source3,3,32.071445000000004,-81.135796,2022,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-754578,GA,Chatham,Pooler,Source3,3,32.086391,-81.286751,2022,6,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-763176,GA,Chatham,Savannah,Source2,3,32.038033,-81.26409100000002,2021,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-768714,GA,Chatham,Savannah,Source2,3,32.06992,-81.20436099999998,2021,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-782593,GA,Chatham,Savannah,Source2,3,32.141071000000004,-81.240746,2021,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-787571,GA,Chatham,Savannah,Source2,3,32.070793,-81.162003,2021,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-787815,GA,Chatham,Savannah,Source2,3,32.073215000000005,-81.150185,2021,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-790941,GA,Chatham,Savannah,Source2,3,32.004673,-81.28343199999998,2021,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-791565,GA,Chatham,Port Wentworth,Source2,3,32.219048,-81.171341,2021,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-794103,GA,Chatham,Pooler,Source2,3,32.070198,-81.20238499999998,2021,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-798449,GA,Chatham,Pooler,Source2,3,32.074234000000004,-81.246155,2021,22,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-798685,GA,Chatham,Savannah,Source2,3,32.091629,-81.128815,2021,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-801759,GA,Chatham,Pooler,Source2,3,32.070198,-81.20238499999998,2021,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-825504,GA,Chatham,Savannah,Source2,3,32.004673,-81.28343199999998,2021,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-844391,GA,Chatham,Savannah,Source2,3,32.070683,-81.13537600000002,2021,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-863432,GA,Chatham,Savannah,Source2,3,32.005302,-81.282623,2021,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-864502,GA,Chatham,Savannah,Source2,3,32.034,-81.266113,2021,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-868642,GA,Chatham,Savannah,Source2,3,32.07032,-81.203056,2021,7,Friday,Rain,False,False,False,False,False,False,False
+A-869249,GA,Chatham,Savannah,Source2,3,32.069775,-81.127739,2021,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-873165,GA,Chatham,Savannah,Source2,3,32.064976,-81.137344,2021,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-881349,GA,Chatham,Pooler,Source2,3,32.070198,-81.20238499999998,2021,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-891350,GA,Chatham,Savannah,Source2,3,32.038746,-81.14200600000002,2021,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-892752,GA,Chatham,Savannah,Source2,3,32.070793,-81.162003,2021,13,Monday,Rain,False,False,False,False,False,False,False
+A-895548,GA,Chatham,Pooler,Source2,3,32.074234000000004,-81.246155,2021,13,Friday,Cloudy,False,False,True,False,False,False,False
+A-896862,GA,Chatham,Port Wentworth,Source2,3,32.19157,-81.194649,2021,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-902542,GA,Chatham,Bloomingdale,Source2,3,32.099636,-81.32315799999998,2021,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-903877,GA,Chatham,Savannah,Source2,3,32.070793,-81.162003,2021,9,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-905392,GA,Chatham,Savannah,Source2,3,32.067818,-81.136276,2021,15,Friday,Cloudy,False,False,True,False,False,False,False
+A-906694,GA,Chatham,Savannah,Source2,3,32.071602,-81.156044,2021,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-909959,GA,Chatham,Savannah,Source2,4,32.071445000000004,-81.135796,2021,2,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-915936,GA,Chatham,Pooler,Source2,3,32.070198,-81.20238499999998,2021,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-918372,GA,Chatham,Pooler,Source2,3,32.070198,-81.20238499999998,2021,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-929590,GA,Chatham,Savannah,Source2,4,32.072315,-81.10141,2021,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-929838,GA,Chatham,Savannah,Source2,3,32.070793,-81.162003,2021,19,Saturday,Cloudy,False,False,False,False,False,False,False
+A-930414,GA,Chatham,Pooler,Source2,3,32.070198,-81.20238499999998,2021,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-943352,GA,Chatham,Savannah,Source2,3,32.004971000000005,-81.28295899999998,2021,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-952521,GA,Chatham,Pooler,Source2,3,32.112576000000004,-81.237976,2021,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-952602,GA,Chatham,Pooler,Source2,4,32.074234000000004,-81.246155,2021,13,Friday,Cloudy,False,False,True,False,False,False,False
+A-954474,GA,Chatham,Port Wentworth,Source2,3,32.177094,-81.206375,2021,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-956821,GA,Chatham,Savannah,Source2,3,32.073788,-81.24284399999998,2021,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-960496,GA,Chatham,Port Wentworth,Source2,3,32.191029,-81.195145,2021,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-960652,GA,Chatham,Savannah,Source2,4,32.073101,-81.136841,2021,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-963271,GA,Chatham,Pooler,Source2,3,32.074234000000004,-81.246155,2021,14,Thursday,Storm,False,False,True,False,False,False,False
+A-963345,GA,Chatham,Pooler,Source2,4,32.074234000000004,-81.246155,2021,16,Thursday,Cloudy,False,False,True,False,False,False,False
+A-966122,GA,Chatham,Savannah,Source2,3,32.067242,-81.116295,2021,13,Tuesday,Rain,False,False,False,False,False,False,False
+A-972346,GA,Chatham,Pooler,Source2,3,32.074234000000004,-81.246155,2021,11,Saturday,Cloudy,False,False,True,False,False,False,False
+A-973397,GA,Chatham,Savannah,Source2,3,32.091045,-81.128792,2021,8,Friday,Clear / Fair,True,True,False,False,False,False,False
+A-978022,GA,Chatham,Pooler,Source2,3,32.074234000000004,-81.246155,2021,15,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-982983,GA,Chatham,Pooler,Source2,3,32.074234000000004,-81.246155,2021,11,Thursday,Cloudy,False,False,True,False,False,False,False
+A-987550,GA,Chatham,Port Wentworth,Source2,3,32.191029,-81.195145,2021,17,Monday,Storm,False,False,False,False,False,False,False
+A-987551,GA,Chatham,Port Wentworth,Source2,3,32.191029,-81.195145,2021,18,Monday,Rain,False,False,False,False,False,False,False
+A-989016,GA,Chatham,Pooler,Source2,3,32.070198,-81.20238499999998,2021,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-990164,GA,Chatham,Port Wentworth,Source2,3,32.164486,-81.217842,2021,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-990165,GA,Chatham,Savannah,Source2,3,32.141071000000004,-81.240746,2021,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1000593,GA,Chatham,Savannah,Source2,3,32.071388,-81.13493299999998,2021,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1002245,GA,Chatham,Savannah,Source2,3,32.03318,-81.127899,2021,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1006664,GA,Chatham,Savannah,Source2,3,32.067242,-81.116295,2021,20,Sunday,Rain,False,False,False,False,False,False,False
+A-1009950,GA,Chatham,Savannah,Source2,3,32.070457,-81.133347,2021,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1017583,GA,Chatham,Port Wentworth,Source2,3,32.191029,-81.195145,2021,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-1026426,GA,Chatham,Pooler,Source2,3,32.074894,-81.24906899999998,2021,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1034609,GA,Chatham,Savannah,Source2,4,32.004673,-81.28343199999998,2021,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1039200,GA,Chatham,Pooler,Source2,3,32.084022999999995,-81.27977,2021,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1048571,GA,Chatham,Pooler,Source2,3,32.074234000000004,-81.246155,2021,11,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-1048572,GA,Chatham,Pooler,Source2,3,32.07011,-81.24793199999998,2021,11,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-1050175,GA,Chatham,Savannah,Source2,3,32.073971,-81.24503299999998,2021,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1050176,GA,Chatham,Pooler,Source2,3,32.074234000000004,-81.246155,2021,21,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-1053282,GA,Chatham,Savannah,Source2,3,32.004673,-81.28343199999998,2021,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1054358,GA,Chatham,Savannah,Source2,3,32.141071000000004,-81.240746,2021,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1056166,GA,Chatham,Bloomingdale,Source2,3,32.099636,-81.32315799999998,2021,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1063952,GA,Chatham,Port Wentworth,Source2,3,32.191029,-81.195145,2021,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-1063954,GA,Chatham,Savannah,Source2,3,32.071239,-81.157501,2021,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1065634,GA,Chatham,Pooler,Source2,3,32.074234000000004,-81.246155,2021,8,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-1065635,GA,Chatham,Pooler,Source2,3,32.074234000000004,-81.246155,2021,8,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-1070011,GA,Chatham,Savannah,Source2,3,32.141071000000004,-81.240746,2021,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1071464,GA,Chatham,Pooler,Source2,3,32.070198,-81.20238499999998,2021,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-1076019,GA,Chatham,Bloomingdale,Source2,3,32.110798,-81.354546,2021,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1084466,GA,Chatham,Port Wentworth,Source2,4,32.191029,-81.195145,2021,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1084469,GA,Chatham,Port Wentworth,Source2,4,32.224773,-81.165779,2021,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1084471,GA,Chatham,Savannah,Source2,3,32.071445000000004,-81.135796,2021,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1093132,GA,Chatham,Savannah,Source2,3,32.070335,-81.161819,2021,17,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1095519,GA,Chatham,Savannah,Source2,3,32.070068,-81.202927,2021,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1096966,GA,Chatham,Pooler,Source2,4,32.070198,-81.20238499999998,2021,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1096967,GA,Chatham,Savannah,Source2,3,32.068939,-81.166687,2021,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1103556,GA,Chatham,Port Wentworth,Source2,3,32.191257,-81.194572,2021,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1107945,GA,Chatham,Savannah,Source2,3,32.004673,-81.28343199999998,2021,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1109424,GA,Chatham,Port Wentworth,Source2,3,32.167007,-81.21599599999998,2021,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1112297,GA,Chatham,Pooler,Source2,3,32.070198,-81.20238499999998,2021,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1116385,GA,Chatham,Pooler,Source2,3,32.086391,-81.286743,2021,9,Wednesday,Fog / Low visibility,False,False,True,False,False,False,False
+A-1119143,GA,Chatham,Savannah,Source2,3,32.004673,-81.28343199999998,2021,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-1128652,GA,Chatham,Pooler,Source2,4,32.074242,-81.24629200000003,2021,1,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-1128653,GA,Chatham,Savannah,Source2,3,32.070232,-81.202065,2021,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1143579,GA,Chatham,Bloomingdale,Source2,3,32.099636,-81.32315799999998,2021,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-1147829,GA,Chatham,Pooler,Source2,3,32.074196,-81.247826,2021,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1147831,GA,Chatham,Pooler,Source2,3,32.076309,-81.245049,2021,7,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1159198,GA,Chatham,Pooler,Source2,3,32.074337,-81.248611,2021,6,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1160849,GA,Chatham,Savannah,Source2,3,31.984035,-81.304672,2021,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1160850,GA,Chatham,Pooler,Source2,4,32.074242,-81.24629200000003,2021,16,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-1167158,GA,Chatham,Savannah,Source2,3,32.070709,-81.162109,2021,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1187347,GA,Chatham,Savannah,Source2,4,32.071358000000004,-81.135574,2021,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1188649,GA,Chatham,Savannah,Source2,4,32.070827,-81.159889,2021,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1197017,GA,Chatham,Savannah,Source2,3,32.067341,-81.11700400000002,2021,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1201945,GA,Chatham,Savannah,Source2,3,32.070060999999995,-81.162193,2021,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1206004,GA,Chatham,Savannah,Source2,3,31.988138,-81.300232,2021,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1208837,GA,Chatham,Savannah,Source2,3,32.071358000000004,-81.135574,2020,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1214125,GA,Chatham,Port Wentworth,Source2,3,32.191059,-81.195053,2020,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1214516,GA,Chatham,Savannah,Source2,3,32.004597,-81.28334,2020,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1217294,GA,Chatham,Bloomingdale,Source2,3,32.099636,-81.32315799999998,2020,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1217297,GA,Chatham,Pooler,Source2,3,32.075233000000004,-81.245293,2020,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1245085,GA,Chatham,Bloomingdale,Source2,3,32.099636,-81.32315799999998,2020,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1247755,GA,Chatham,Savannah,Source2,3,32.067341,-81.11700400000002,2020,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1248255,GA,Chatham,Savannah,Source2,3,32.141357,-81.240845,2020,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1248256,GA,Chatham,Savannah,Source2,3,32.004673,-81.28343199999998,2020,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1267363,GA,Chatham,Savannah,Source2,3,32.053909000000004,-81.141144,2020,17,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-1269386,GA,Chatham,Pooler,Source2,3,32.070198,-81.20238499999998,2020,14,Thursday,Rain,False,False,False,False,False,False,False
+A-1283603,GA,Chatham,Port Wentworth,Source2,3,32.165977000000005,-81.21597299999998,2020,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1292572,GA,Chatham,Pooler,Source2,3,32.074242,-81.24629200000003,2020,13,Wednesday,Storm,False,False,True,False,False,False,False
+A-1296894,GA,Chatham,Savannah,Source2,3,32.099426,-81.143295,2020,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1304445,GA,Chatham,Savannah,Source2,3,32.070953,-81.209808,2020,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-1310505,GA,Chatham,Savannah,Source2,3,32.070335,-81.16111,2020,6,Wednesday,Fog / Low visibility,False,False,True,False,False,False,False
+A-1310509,GA,Chatham,Savannah,Source2,4,32.072353,-81.101341,2020,21,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1312170,GA,Chatham,Savannah,Source2,3,32.070343,-81.203339,2020,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1316829,GA,Chatham,Savannah,Source2,3,32.036198,-81.265282,2020,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-1316835,GA,Chatham,Savannah,Source2,3,32.069472999999995,-81.19671600000002,2020,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-1323752,GA,Chatham,Savannah,Source2,3,32.004673,-81.28343199999998,2020,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1326418,GA,Chatham,Savannah,Source2,3,32.005085,-81.283119,2020,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-1338115,GA,Chatham,Pooler,Source2,3,32.074181,-81.247215,2020,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1341732,GA,Chatham,Pooler,Source2,3,32.074242,-81.24629200000003,2020,9,Thursday,Cloudy,False,False,True,False,False,False,False
+A-1343785,GA,Chatham,Savannah,Source2,4,32.141357,-81.240845,2020,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1343786,GA,Chatham,Savannah,Source2,3,32.138721000000004,-81.23992199999998,2020,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-1346994,GA,Chatham,Savannah,Source2,3,32.070353999999995,-81.132385,2020,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-1352592,GA,Chatham,Savannah,Source2,3,32.069923,-81.20153,2020,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1361573,GA,Chatham,Savannah,Source2,3,32.072445,-81.136703,2020,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1361574,GA,Chatham,Savannah,Source2,3,32.070709,-81.162109,2020,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1369221,GA,Chatham,Savannah,Source2,4,32.083817,-81.2789,2020,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1376217,GA,Chatham,Bloomingdale,Source2,3,32.099636,-81.32315799999998,2020,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1378411,GA,Chatham,Savannah,Source2,3,32.070309,-81.20294200000002,2020,16,Monday,Rain,False,False,False,False,False,False,False
+A-1379848,GA,Chatham,Pooler,Source2,3,32.122555,-81.23880799999998,2020,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1379849,GA,Chatham,Savannah,Source2,3,32.06443,-81.13736,2020,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1381281,GA,Chatham,Pooler,Source2,3,32.074242,-81.24629200000003,2020,21,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-1384532,GA,Chatham,Savannah,Source2,3,32.071503,-81.157234,2020,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-1384533,GA,Chatham,Savannah,Source2,3,32.071445000000004,-81.215065,2020,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1384534,GA,Chatham,Pooler,Source2,3,32.070198,-81.20238499999998,2020,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1385864,GA,Chatham,Pooler,Source2,4,32.084109999999995,-81.279724,2020,3,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1385871,GA,Chatham,Savannah,Source2,3,32.070339000000004,-81.20597099999998,2020,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1391170,GA,Chatham,Pooler,Source2,4,32.070198,-81.20238499999998,2020,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1392505,GA,Chatham,Savannah,Source2,3,32.067356,-81.115967,2020,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-1396885,GA,Chatham,Pooler,Source2,3,32.074196,-81.247826,2020,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1398397,GA,Chatham,Savannah,Source2,3,32.080524,-81.270477,2020,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-1399478,GA,Chatham,Pooler,Source2,3,32.090683,-81.297874,2020,19,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1406946,GA,Chatham,Pooler,Source2,4,32.070198,-81.20238499999998,2020,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1406947,GA,Chatham,Savannah,Source2,3,32.05146,-81.257317,2020,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1408133,GA,Chatham,Port Wentworth,Source2,3,32.191059,-81.195053,2020,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1411111,GA,Chatham,Savannah,Source2,3,32.068741,-81.188644,2020,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1415358,GA,Chatham,Port Wentworth,Source2,4,32.191059,-81.195053,2020,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1417815,GA,Chatham,Pooler,Source2,3,32.074242,-81.24629200000003,2020,9,Monday,Storm,False,False,True,False,False,False,False
+A-1417818,GA,Chatham,Pooler,Source2,3,32.084022999999995,-81.27977,2020,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-1417820,GA,Chatham,Savannah,Source2,3,32.053837,-81.141685,2020,18,Monday,Storm,False,False,False,False,False,False,False
+A-1419145,GA,Chatham,Savannah,Source2,3,32.14490900000001,-81.241249,2020,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1419146,GA,Chatham,Port Wentworth,Source2,3,32.163296,-81.220802,2020,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1419148,GA,Chatham,Pooler,Source2,3,32.115852000000004,-81.23844100000002,2020,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1419149,GA,Chatham,Savannah,Source2,3,32.141357,-81.240845,2020,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1422177,GA,Chatham,Pooler,Source2,3,32.070198,-81.20238499999998,2020,16,Thursday,Storm,False,False,False,False,False,False,False
+A-1431343,GA,Chatham,Pooler,Source2,3,32.075866999999995,-81.247078,2020,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1435351,GA,Chatham,Savannah,Source2,3,32.070709,-81.162109,2020,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-1438123,GA,Chatham,Pooler,Source2,3,32.074196,-81.247826,2020,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1445205,GA,Chatham,Bloomingdale,Source2,4,32.099525,-81.323212,2020,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1454250,GA,Chatham,Savannah,Source2,3,32.070858,-81.136314,2020,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1460935,GA,Chatham,Savannah,Source2,3,32.069996,-81.10700200000002,2020,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1460936,GA,Chatham,Savannah,Source2,3,32.073563,-81.237656,2020,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1463873,GA,Chatham,Bloomingdale,Source2,3,32.099636,-81.32315799999998,2020,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-1465838,GA,Chatham,Pooler,Source2,3,32.112095000000004,-81.23779300000002,2020,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1465840,GA,Chatham,Pooler,Source2,3,32.074242,-81.24629200000003,2020,17,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-1472951,GA,Chatham,Savannah,Source2,3,32.148907,-81.24000500000002,2020,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-1474431,GA,Chatham,Savannah,Source2,3,32.070068,-81.202927,2020,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1475784,GA,Chatham,Pooler,Source2,3,32.074242,-81.24629200000003,2020,17,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-1479700,GA,Chatham,Savannah,Source2,3,32.070709,-81.162109,2020,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1480569,GA,Chatham,Savannah,Source2,3,32.069626,-81.198494,2020,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1483061,GA,Chatham,Pooler,Source2,3,32.112576000000004,-81.237976,2020,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1486050,GA,Chatham,Pooler,Source2,3,32.074242,-81.24629200000003,2020,13,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-1486052,GA,Chatham,Savannah,Source2,3,32.070709,-81.162109,2020,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1493212,GA,Chatham,Pooler,Source2,3,32.074242,-81.24629200000003,2020,18,Monday,Cloudy,False,False,True,False,False,False,False
+A-1494679,GA,Chatham,Pooler,Source2,3,32.112576000000004,-81.237976,2020,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1496430,GA,Chatham,Pooler,Source2,3,32.070198,-81.20238499999998,2020,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1499584,GA,Chatham,Savannah,Source2,3,32.071358000000004,-81.135574,2020,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1503818,GA,Chatham,Savannah,Source2,3,32.034863,-81.265686,2020,17,Friday,Rain,False,False,False,False,False,False,False
+A-1504834,GA,Chatham,Pooler,Source2,3,32.074242,-81.24629200000003,2020,7,Saturday,Cloudy,False,False,True,False,False,False,False
+A-1508997,GA,Chatham,Savannah,Source2,3,32.070019,-81.13649000000002,2020,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1514418,GA,Chatham,Bloomingdale,Source2,4,32.099003,-81.321678,2020,12,Thursday,Storm,False,False,False,False,False,False,False
+A-1514422,GA,Chatham,Pooler,Source2,4,32.070198,-81.20238499999998,2020,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1518499,GA,Chatham,Savannah,Source2,3,32.153240000000004,-81.236488,2020,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1518500,GA,Chatham,Savannah,Source2,3,32.067341,-81.11700400000002,2020,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1529492,GA,Chatham,Port Wentworth,Source2,3,32.167007,-81.21599599999998,2020,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1529494,GA,Chatham,Savannah,Source2,3,32.004673,-81.28343199999998,2020,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1530469,GA,Chatham,Pooler,Source2,3,32.112576000000004,-81.237976,2020,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-1534772,GA,Chatham,Port Wentworth,Source2,3,32.191059,-81.195053,2020,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1534774,GA,Chatham,Pooler,Source2,3,32.112576000000004,-81.237976,2020,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1534775,GA,Chatham,Pooler,Source2,3,32.112576000000004,-81.237976,2020,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1534776,GA,Chatham,Port Wentworth,Source2,3,32.191059,-81.195053,2020,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1536198,GA,Chatham,Port Wentworth,Source2,3,32.191059,-81.195053,2020,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1542014,GA,Chatham,Pooler,Source2,3,32.070198,-81.20238499999998,2020,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1545147,GA,Chatham,Savannah,Source2,3,32.007309,-81.28098299999998,2020,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1546341,GA,Chatham,Port Wentworth,Source2,3,32.16267,-81.22197,2020,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1553825,GA,Chatham,Bloomingdale,Source2,3,32.09977,-81.323891,2020,8,Monday,Storm,False,False,False,False,False,False,False
+A-1563504,GA,Chatham,Savannah,Source2,3,32.069672,-81.133438,2020,15,Thursday,Rain,False,False,False,False,False,False,False
+A-1563507,GA,Chatham,Pooler,Source2,3,32.074242,-81.24629200000003,2020,17,Thursday,Rain,False,False,True,False,False,False,False
+A-1564900,GA,Chatham,Savannah,Source2,3,32.069672,-81.196129,2020,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-1564901,GA,Chatham,Port Wentworth,Source2,4,32.167007,-81.21599599999998,2020,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-1569812,GA,Chatham,Savannah,Source2,3,32.044399,-81.145523,2020,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1573778,GA,Chatham,Pooler,Source2,3,32.074242,-81.24629200000003,2020,7,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-1577078,GA,Chatham,Savannah,Source2,3,32.071358000000004,-81.135574,2020,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1581388,GA,Chatham,Savannah,Source2,3,32.070133,-81.161911,2020,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1583389,GA,Chatham,Savannah,Source2,3,32.071705,-81.15641,2020,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1588918,GA,Chatham,Savannah,Source2,3,32.074036,-81.242012,2020,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-1593740,GA,Chatham,Savannah,Source2,3,32.071671,-81.162979,2020,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1598292,GA,Chatham,Bloomingdale,Source2,4,32.099636,-81.32315799999998,2020,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1600745,GA,Chatham,Savannah,Source2,3,32.004673,-81.28343199999998,2020,1,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1605912,GA,Chatham,Savannah,Source2,4,32.071358000000004,-81.135574,2020,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1609234,GA,Chatham,Pooler,Source2,3,32.070198,-81.20238499999998,2020,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1609235,GA,Chatham,Pooler,Source2,3,32.070198,-81.20238499999998,2020,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1612662,GA,Chatham,Savannah,Source2,3,32.138981,-81.241837,2020,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1612664,GA,Chatham,Savannah,Source2,3,32.066872,-81.11618,2020,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1613977,GA,Chatham,Bloomingdale,Source2,3,32.109032,-81.349625,2020,6,Monday,Rain,False,False,False,False,False,False,False
+A-1626946,GA,Chatham,Savannah,Source2,3,32.067341,-81.11700400000002,2020,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1630338,GA,Chatham,Pooler,Source2,3,32.073803000000005,-81.246323,2020,8,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-1654737,GA,Chatham,Savannah,Source2,3,32.067341,-81.11700400000002,2020,18,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1656943,GA,Chatham,Savannah,Source2,4,32.004673,-81.28343199999998,2020,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1656944,GA,Chatham,Pooler,Source2,3,32.074974,-81.24544499999998,2020,14,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-1659008,GA,Chatham,Savannah,Source2,3,32.072308,-81.135681,2020,6,Thursday,Cloudy,False,False,True,False,False,False,False
+A-1661303,GA,Chatham,Savannah,Source2,3,32.071407,-81.15681500000002,2020,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-1664872,GA,Chatham,Port Wentworth,Source2,3,32.191059,-81.195053,2020,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-1677624,GA,Chatham,Pooler,Source2,3,32.074604,-81.245674,2020,13,Friday,Cloudy,False,False,True,False,False,False,False
+A-1682716,GA,Chatham,Port Wentworth,Source2,3,32.224194,-81.166794,2019,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1682717,GA,Chatham,Port Wentworth,Source2,3,32.222015,-81.168678,2019,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1683923,GA,Chatham,Pooler,Source2,3,32.070198,-81.20238499999998,2019,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-1685583,GA,Chatham,Savannah,Source2,3,32.004597,-81.28334,2019,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1688770,GA,Chatham,Pooler,Source2,3,32.084377,-81.280434,2019,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1688771,GA,Chatham,Savannah,Source2,3,32.141357,-81.240845,2019,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1696609,GA,Chatham,Savannah,Source2,3,32.07312,-81.14945999999998,2019,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1717253,GA,Chatham,Savannah,Source2,4,32.004673,-81.28343199999998,2019,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1718904,GA,Chatham,Pooler,Source2,3,32.070198,-81.20238499999998,2019,9,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1718905,GA,Chatham,Bloomingdale,Source2,4,32.099636,-81.32315799999998,2019,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-1718908,GA,Chatham,Savannah,Source2,3,32.141357,-81.240845,2019,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1718910,GA,Chatham,Savannah,Source2,3,32.042282,-81.147942,2019,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1724298,GA,Chatham,Pooler,Source2,3,32.089176,-81.238258,2019,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1726835,GA,Chatham,Pooler,Source2,4,32.084022999999995,-81.27977,2019,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1726837,GA,Chatham,Savannah,Source2,3,32.072952,-81.150581,2019,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1726839,GA,Chatham,Pooler,Source2,3,32.090996000000004,-81.23739599999998,2019,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1733455,GA,Chatham,Pooler,Source2,3,32.112576000000004,-81.237976,2019,17,Monday,Rain,False,False,False,False,False,False,False
+A-1736383,GA,Chatham,Pooler,Source2,3,32.084022999999995,-81.27977,2019,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1740661,GA,Chatham,Savannah,Source2,3,32.057388,-81.121361,2019,8,Tuesday,Cloudy,False,False,False,True,False,False,False
+A-1750065,GA,Chatham,Pooler,Source2,3,32.074242,-81.24629200000003,2019,21,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-1757975,GA,Chatham,Pooler,Source2,3,32.070198,-81.20238499999998,2019,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1760671,GA,Chatham,Port Wentworth,Source2,3,32.165977000000005,-81.21597299999998,2019,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1764815,GA,Chatham,Pooler,Source2,3,32.074242,-81.24629200000003,2019,12,Saturday,Rain,False,False,True,False,False,False,False
+A-1767301,GA,Chatham,Savannah,Source2,3,32.06443,-81.13736,2019,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-1782065,GA,Chatham,Savannah,Source2,3,32.067341,-81.11700400000002,2019,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1804669,GA,Chatham,Port Wentworth,Source2,3,32.191059,-81.195053,2019,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1807520,GA,Chatham,Savannah,Source2,3,32.081821000000005,-81.104691,2019,4,Friday,Rain,False,False,True,False,False,False,False
+A-1830193,GA,Chatham,Pooler,Source2,3,32.086315,-81.285866,2019,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1835750,GA,Chatham,Pooler,Source2,3,32.074242,-81.24629200000003,2019,14,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-1838646,GA,Chatham,Savannah,Source2,3,32.141357,-81.240845,2019,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-1845752,GA,Chatham,Savannah,Source2,3,32.070644,-81.135101,2019,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1845754,GA,Chatham,Pooler,Source2,3,32.112576000000004,-81.237976,2019,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1852774,GA,Chatham,Savannah,Source2,3,32.016663,-81.27484100000002,2019,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1852775,GA,Chatham,Savannah,Source2,3,32.074249,-81.245857,2019,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1852779,GA,Chatham,Savannah,Source2,3,32.07058,-81.204018,2019,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1852781,GA,Chatham,Pooler,Source2,3,32.074196,-81.247826,2019,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1864234,GA,Chatham,Pooler,Source2,4,32.074242,-81.24629200000003,2019,2,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1864241,GA,Chatham,Savannah,Source2,4,32.004673,-81.28343199999998,2019,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1867700,GA,Chatham,Pooler,Source2,3,32.070198,-81.20238499999998,2019,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1870354,GA,Chatham,Pooler,Source2,3,32.111996000000005,-81.238075,2019,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-1876792,GA,Chatham,Port Wentworth,Source2,3,32.191059,-81.195053,2019,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1883550,GA,Chatham,Savannah,Source2,3,32.004673,-81.28343199999998,2019,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1897024,GA,Chatham,Pooler,Source2,3,32.070198,-81.20238499999998,2019,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-1914645,GA,Chatham,Pooler,Source2,3,32.070198,-81.20238499999998,2019,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-1930173,GA,Chatham,Pooler,Source2,3,32.078297,-81.244049,2019,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-1930174,GA,Chatham,Savannah,Source2,3,32.149441,-81.239227,2019,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-1940472,GA,Chatham,Pooler,Source2,3,32.074242,-81.24629200000003,2019,15,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-1940473,GA,Chatham,Pooler,Source2,3,32.074242,-81.24629200000003,2019,18,Thursday,Cloudy,False,False,True,False,False,False,False
+A-1942860,GA,Chatham,Port Wentworth,Source2,3,32.224445,-81.16615300000002,2019,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-1952783,GA,Chatham,Savannah,Source2,3,32.004673,-81.28343199999998,2019,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1974782,GA,Chatham,Pooler,Source2,3,32.074196,-81.247826,2019,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1974783,GA,Chatham,Pooler,Source2,3,32.070198,-81.20238499999998,2019,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1978551,GA,Chatham,Savannah,Source2,3,32.050114,-81.258255,2019,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1978554,GA,Chatham,Savannah,Source2,3,32.03624,-81.264992,2019,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1978556,GA,Chatham,Port Wentworth,Source2,3,32.191044,-81.194733,2019,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1989542,GA,Chatham,Savannah,Source2,3,32.141357,-81.240845,2019,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-1989543,GA,Chatham,Pooler,Source2,3,32.08432,-81.280281,2019,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-1991022,GA,Chatham,Savannah,Source2,3,32.133972,-81.239899,2019,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2012952,GA,Chatham,Savannah,Source2,3,32.031490000000005,-81.11219,2019,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2012958,GA,Chatham,Savannah,Source2,3,32.004673,-81.28343199999998,2019,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-2015684,GA,Chatham,Pooler,Source2,3,32.074242,-81.24629200000003,2019,7,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-2025006,GA,Chatham,Savannah,Source2,3,32.067341,-81.11700400000002,2019,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2034579,GA,Chatham,Pooler,Source2,3,32.119099,-81.257401,2019,16,Wednesday,Storm,False,True,False,False,False,False,False
+A-2045125,GA,Chatham,Port Wentworth,Source2,4,32.191059,-81.195053,2019,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2045127,GA,Chatham,Port Wentworth,Source2,3,32.167007,-81.21599599999998,2019,14,Tuesday,Storm,False,False,False,False,False,False,False
+A-2051959,GA,Chatham,Savannah,Source2,3,32.070709,-81.162109,2019,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2053529,GA,Chatham,Pooler,Source2,3,32.112576000000004,-81.237976,2019,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2054204,GA,Chatham,Savannah,Source2,3,32.070709,-81.162109,2019,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2054205,GA,Chatham,Pooler,Source2,3,32.070198,-81.20238499999998,2019,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2055809,GA,Chatham,Pooler,Source2,3,32.071018,-81.247475,2019,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2055813,GA,Chatham,Savannah,Source2,3,32.070709,-81.162109,2019,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-2058122,GA,Chatham,Savannah,Source2,3,32.070541,-81.16244499999998,2019,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2068958,GA,Chatham,Pooler,Source2,3,32.074242,-81.24629200000003,2019,7,Monday,Cloudy,False,False,True,False,False,False,False
+A-2082911,GA,Chatham,Pooler,Source2,3,32.074242,-81.24629200000003,2019,14,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-2084364,GA,Chatham,Savannah,Source2,3,32.072628,-81.10022,2019,11,Sunday,Cloudy,False,True,False,False,False,False,False
+A-2085838,GA,Chatham,Savannah,Source2,3,32.067341,-81.11700400000002,2019,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-2085840,GA,Chatham,Savannah,Source2,3,32.070709,-81.162109,2019,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-2095173,GA,Chatham,Pooler,Source2,3,32.074196,-81.247826,2019,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-2096696,GA,Chatham,Savannah,Source2,3,32.069408,-81.135689,2019,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2098888,GA,Chatham,Savannah,Source2,3,32.072189,-81.134949,2019,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-2101052,GA,Chatham,Savannah,Source2,3,32.071358000000004,-81.135574,2019,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2101058,GA,Chatham,Port Wentworth,Source2,3,32.167007,-81.21599599999998,2019,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2114857,GA,Chatham,Savannah,Source2,3,32.070328,-81.205849,2019,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2126918,GA,Chatham,Savannah,Source2,3,32.007549,-81.280472,2019,22,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-2126919,GA,Chatham,Savannah,Source2,3,32.007549,-81.280472,2019,22,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-2143184,GA,Chatham,Savannah,Source2,3,32.085978999999995,-81.197289,2019,7,Tuesday,Rain,False,False,False,False,False,False,False
+A-2143185,GA,Chatham,Savannah,Source2,3,32.069901,-81.198387,2019,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2168323,GA,Chatham,Savannah,Source2,3,32.070709,-81.162109,2019,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2168325,GA,Chatham,Savannah,Source2,3,32.070709,-81.162109,2019,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2170628,GA,Chatham,Pooler,Source2,3,32.084022999999995,-81.27977,2019,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2175077,GA,Chatham,Savannah,Source2,3,32.070335,-81.16111,2019,7,Thursday,Cloudy,False,False,True,False,False,False,False
+A-2179588,GA,Chatham,Savannah,Source2,3,32.071358000000004,-81.135574,2019,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2187946,GA,Chatham,Pooler,Source2,3,32.084022999999995,-81.27977,2019,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2194111,GA,Chatham,Port Wentworth,Source2,3,32.18848,-81.193733,2019,7,Monday,Fog / Low visibility,True,True,False,False,False,False,False
+A-2194115,GA,Chatham,Savannah,Source2,3,32.033768,-81.129486,2019,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2199331,GA,Chatham,Port Wentworth,Source2,3,32.168793,-81.216782,2019,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-2199332,GA,Chatham,Bloomingdale,Source2,3,32.099449,-81.322609,2019,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-2201641,GA,Chatham,Savannah,Source2,3,32.141506,-81.240639,2019,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2206649,GA,Chatham,Pooler,Source2,3,32.073936,-81.24655899999998,2019,13,Thursday,Cloudy,False,False,True,False,False,False,False
+A-2214671,GA,Chatham,Port Wentworth,Source2,3,32.1908,-81.19516800000002,2019,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2216786,GA,Chatham,Pooler,Source2,3,32.070183,-81.20238499999998,2019,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2216789,GA,Chatham,Pooler,Source2,3,32.070183,-81.20238499999998,2019,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2216790,GA,Chatham,Pooler,Source2,3,32.070183,-81.20238499999998,2019,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2221122,GA,Chatham,Pooler,Source2,3,32.070183,-81.20238499999998,2019,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2224434,GA,Chatham,Savannah,Source2,3,32.141506,-81.240639,2019,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-2226606,GA,Chatham,Pooler,Source2,3,32.075409,-81.243927,2019,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2226609,GA,Chatham,Savannah,Source2,3,32.075161,-81.243927,2019,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2235453,GA,Chatham,Port Wentworth,Source2,3,32.1908,-81.19516800000002,2019,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2235455,GA,Chatham,Port Wentworth,Source2,3,32.1908,-81.19516800000002,2019,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2246467,GA,Chatham,Port Wentworth,Source2,3,32.1908,-81.19516800000002,2019,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2248096,GA,Chatham,Port Wentworth,Source2,3,32.1908,-81.19516800000002,2019,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2248098,GA,Chatham,Port Wentworth,Source2,3,32.1908,-81.19516800000002,2019,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2250049,GA,Chatham,Savannah,Source2,3,32.071362,-81.21686600000002,2019,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2250056,GA,Chatham,Savannah,Source2,3,32.069901,-81.198387,2019,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2262418,GA,Chatham,Savannah,Source2,3,32.07119,-81.157684,2019,8,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2262422,GA,Chatham,Savannah,Source2,3,32.067192,-81.115562,2019,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-2265120,GA,Chatham,Pooler,Source2,3,32.073936,-81.24655899999998,2019,19,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-2279977,GA,Chatham,Savannah,Source2,3,32.043246999999994,-81.14846,2019,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-2279979,GA,Chatham,Savannah,Source2,3,32.043246999999994,-81.14846,2019,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2279980,GA,Chatham,Pooler,Source2,3,32.113434000000005,-81.238052,2019,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2290527,GA,Chatham,Savannah,Source2,3,32.043246999999994,-81.14846,2019,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2331397,GA,Chatham,Savannah,Source2,3,32.066448,-81.113747,2019,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2331399,GA,Chatham,Savannah,Source2,3,32.070435,-81.16226999999998,2019,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2337667,GA,Chatham,Savannah,Source2,3,32.141506,-81.240639,2019,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2340338,GA,Chatham,Port Wentworth,Source2,3,32.1908,-81.19516800000002,2019,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2342890,GA,Chatham,Pooler,Source2,3,32.070183,-81.20238499999998,2019,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2360178,GA,Chatham,Pooler,Source2,3,32.073936,-81.24655899999998,2019,8,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-2360179,GA,Chatham,Savannah,Source2,3,32.004833000000005,-81.283218,2019,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2371776,GA,Chatham,Savannah,Source2,3,32.070637,-81.135239,2018,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2374542,GA,Chatham,Bloomingdale,Source2,3,32.099841999999995,-81.323387,2018,8,Sunday,Rain,False,False,False,False,False,False,False
+A-2378152,GA,Chatham,Bloomingdale,Source2,3,32.108803,-81.348267,2018,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2380427,GA,Chatham,Port Wentworth,Source2,3,32.1908,-81.19516800000002,2018,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2382631,GA,Chatham,Savannah,Source2,3,32.070435,-81.16226999999998,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2386338,GA,Chatham,Pooler,Source2,3,32.113434000000005,-81.238052,2018,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2386339,GA,Chatham,Savannah,Source2,3,32.071396,-81.135216,2018,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2390623,GA,Chatham,Pooler,Source2,3,32.074085,-81.245972,2018,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2395325,GA,Chatham,Savannah,Source2,3,32.070435,-81.16226999999998,2018,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2395327,GA,Chatham,Savannah,Source2,3,32.004833000000005,-81.283218,2018,19,Thursday,Rain,False,False,False,False,False,False,False
+A-2397898,GA,Chatham,Savannah,Source2,3,32.143101,-81.240746,2018,17,Friday,Rain,False,False,False,False,False,False,False
+A-2397899,GA,Chatham,Pooler,Source2,3,32.113434000000005,-81.238052,2018,18,Friday,Rain,False,False,False,False,False,False,False
+A-2399391,GA,Chatham,Savannah,Source2,3,32.070435,-81.16226999999998,2018,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2403754,GA,Chatham,Port Wentworth,Source2,3,32.135189000000004,-81.173439,2018,8,Tuesday,Fog / Low visibility,True,True,False,False,False,False,False
+A-2408298,GA,Chatham,Pooler,Source2,3,32.070183,-81.20238499999998,2018,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2410552,GA,Chatham,Pooler,Source2,3,32.113434000000005,-81.238052,2018,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-2412231,GA,Chatham,Port Wentworth,Source2,3,32.1908,-81.19516800000002,2018,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2459332,GA,Chatham,Pooler,Source2,3,32.074306,-81.245811,2018,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2459333,GA,Chatham,Savannah,Source2,3,32.004681,-81.283524,2018,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2462195,GA,Chatham,Pooler,Source2,3,32.070816,-81.24781800000002,2018,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2466582,GA,Chatham,Savannah,Source2,3,32.066746,-81.114227,2018,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-2477977,GA,Chatham,Port Wentworth,Source2,3,32.191811,-81.194443,2018,19,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2482408,GA,Chatham,Savannah,Source2,3,32.067917,-81.177933,2018,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2487985,GA,Chatham,Pooler,Source2,3,32.074303,-81.245811,2018,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2489696,GA,Chatham,Savannah,Source2,3,32.070347,-81.161102,2018,20,Monday,Cloudy,False,False,True,False,False,False,False
+A-2504966,GA,Chatham,Savannah,Source2,3,32.071918,-81.13383499999998,2018,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-2530425,GA,Chatham,Savannah,Source2,3,32.005081,-81.283112,2018,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-2530426,GA,Chatham,Pooler,Source2,3,32.112659,-81.238129,2018,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-2543212,GA,Chatham,Pooler,Source2,3,32.07513,-81.247475,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2550942,GA,Chatham,Savannah,Source2,3,32.065937,-81.13723,2018,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2556611,GA,Chatham,Port Wentworth,Source2,3,32.163399,-81.220619,2018,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-2561916,GA,Chatham,Savannah,Source2,3,32.004604,-81.2836,2018,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2569949,GA,Chatham,Savannah,Source2,3,32.088921,-81.127441,2018,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2574091,GA,Chatham,Pooler,Source2,3,32.074348,-81.246323,2018,12,Monday,Cloudy,False,False,True,False,False,False,False
+A-2586615,GA,Chatham,Pooler,Source2,3,32.074303,-81.245811,2018,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2588759,GA,Chatham,Savannah,Source2,3,32.031487,-81.11958299999998,2018,8,Monday,Sin dato,False,False,True,True,False,False,False
+A-2588760,GA,Chatham,Savannah,Source2,3,32.031376,-81.119621,2018,8,Monday,Sin dato,False,False,False,True,False,False,False
+A-2591221,GA,Chatham,Savannah,Source2,3,32.030048,-81.115189,2018,8,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-2596382,GA,Chatham,Savannah,Source2,3,32.004486,-81.283447,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2598987,GA,Chatham,Savannah,Source2,3,32.070122,-81.10709399999998,2018,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2605877,GA,Chatham,Savannah,Source2,3,32.070049,-81.202789,2018,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2608709,GA,Chatham,Pooler,Source2,3,32.083981,-81.279961,2018,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2619654,GA,Chatham,Savannah,Source2,3,32.070049,-81.202789,2018,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2622231,GA,Chatham,Savannah,Source2,3,32.070049,-81.202789,2018,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2624751,GA,Chatham,Savannah,Source2,3,32.004211,-81.28373,2018,18,Friday,Rain,False,False,False,False,False,False,False
+A-2633597,GA,Chatham,Port Wentworth,Source3,3,32.191181,-81.194969,2018,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2638710,GA,Chatham,Savannah,Source2,3,32.070347,-81.161102,2018,17,Friday,Cloudy,False,False,True,False,False,False,False
+A-2641325,GA,Chatham,Savannah,Source2,3,32.072659,-81.100189,2018,11,Sunday,Clear / Fair,False,True,False,False,False,False,False
+A-2642718,GA,Chatham,Savannah,Source2,3,32.070637,-81.135239,2018,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-2645148,GA,Chatham,Pooler,Source2,3,32.083981,-81.279961,2018,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2652667,GA,Chatham,Port Wentworth,Source2,3,32.191517,-81.194687,2018,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2656669,GA,Chatham,Pooler,Source2,3,32.074303,-81.245811,2018,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2659296,GA,Chatham,Savannah,Source2,3,32.004604,-81.2836,2018,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2661805,GA,Chatham,Savannah,Source2,3,32.070267,-81.162155,2018,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2664248,GA,Chatham,Savannah,Source2,3,32.041851,-81.146576,2018,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2664250,GA,Chatham,Savannah,Source2,3,32.072456,-81.226013,2018,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2668397,GA,Chatham,Pooler,Source2,3,32.112659,-81.238129,2018,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2670419,GA,Chatham,Pooler,Source2,3,32.074303,-81.245811,2018,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2680972,GA,Chatham,Savannah,Source2,3,32.004604,-81.2836,2018,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2682295,GA,Chatham,Savannah,Source2,3,32.069427000000005,-81.196129,2018,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2684447,GA,Chatham,Savannah,Source2,3,32.070049,-81.202789,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2686360,GA,Chatham,Savannah,Source2,3,32.004604,-81.2836,2018,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2698405,GA,Chatham,Savannah,Source2,3,32.070049,-81.202789,2018,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2702803,GA,Chatham,Savannah,Source2,3,32.005383,-81.282814,2018,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2702805,GA,Chatham,Pooler,Source2,3,32.086128,-81.280281,2018,17,Friday,Rain,False,False,False,False,False,False,False
+A-2712515,GA,Chatham,Savannah,Source2,3,32.052288,-81.142136,2018,20,Thursday,Rain,False,False,False,False,False,False,False
+A-2714943,GA,Chatham,Savannah,Source2,3,32.023636,-81.271339,2018,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-2725793,GA,Chatham,Port Wentworth,Source2,3,32.18626,-81.198738,2018,18,Thursday,Storm,False,False,True,False,False,False,False
+A-2730409,GA,Chatham,Savannah,Source2,3,32.072601,-81.24475100000002,2018,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2756658,GA,Chatham,Savannah,Source2,3,32.070049,-81.202789,2018,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2758956,GA,Chatham,Savannah,Source2,3,32.070007000000004,-81.20238499999998,2018,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2758957,GA,Chatham,Savannah,Source2,3,32.099438,-81.143066,2018,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2758958,GA,Chatham,Pooler,Source2,3,32.074303,-81.245811,2018,16,Wednesday,Rain,False,False,False,False,False,False,False
+A-2763805,GA,Chatham,Savannah,Source2,3,32.070049,-81.202789,2018,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2765424,GA,Chatham,Bloomingdale,Source2,3,32.099841999999995,-81.323387,2018,16,Saturday,Rain,False,False,False,False,False,False,False
+A-2766349,GA,Chatham,Pooler,Source2,3,32.112373,-81.238098,2018,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2770197,GA,Chatham,Savannah,Source2,3,32.004601,-81.28360699999998,2018,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2774763,GA,Chatham,Savannah,Source2,3,32.140999,-81.240585,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2780953,GA,Chatham,Savannah,Source2,3,32.092354,-81.130066,2018,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-2788199,GA,Chatham,Savannah,Source2,3,32.070637,-81.135239,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2790510,GA,Chatham,Savannah,Source2,3,32.140999,-81.240585,2018,10,Friday,Sin dato,False,False,False,False,False,False,False
+A-2792871,GA,Chatham,Savannah,Source2,3,32.070049,-81.202789,2018,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2798142,GA,Chatham,Port Wentworth,Source2,3,32.135193,-81.173439,2018,12,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-2800823,GA,Chatham,Pooler,Source2,3,32.078064000000005,-81.263527,2018,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2803571,GA,Chatham,Savannah,Source2,3,32.070637,-81.135239,2018,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-2807506,GA,Chatham,Savannah,Source2,3,32.070679,-81.207115,2018,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2817921,GA,Chatham,Savannah,Source2,3,32.066353,-81.136833,2018,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2824982,GA,Chatham,Pooler,Source2,3,32.074303,-81.245811,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2824987,GA,Chatham,Bloomingdale,Source2,3,32.099841999999995,-81.323387,2018,11,Tuesday,Rain,False,False,False,False,False,False,False
+A-2832995,GA,Chatham,Savannah,Source2,3,32.070049,-81.202789,2018,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-2832998,GA,Chatham,Pooler,Source2,3,32.074303,-81.245811,2018,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-2837248,GA,Chatham,Pooler,Source2,3,32.074303,-81.245811,2018,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2842305,GA,Chatham,Savannah,Source2,3,32.041851,-81.146576,2018,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2844895,GA,Chatham,Savannah,Source2,3,32.073547,-81.240158,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2844903,GA,Chatham,Savannah,Source2,3,32.043667,-81.261505,2018,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2851205,GA,Chatham,Savannah,Source2,3,32.07291,-81.150841,2018,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2853236,GA,Chatham,Port Wentworth,Source2,3,32.191517,-81.194687,2018,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2864547,GA,Chatham,Bloomingdale,Source2,3,32.096947,-81.316017,2018,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2864548,GA,Chatham,Pooler,Source2,3,32.083981,-81.279961,2018,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2864549,GA,Chatham,Port Wentworth,Source2,3,32.192085,-81.19386300000002,2018,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2873510,GA,Chatham,Savannah,Source2,3,32.041851,-81.146576,2018,7,Monday,Rain,False,False,False,False,False,False,False
+A-2878686,GA,Chatham,Savannah,Source2,3,32.04253,-81.261818,2018,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2878688,GA,Chatham,Pooler,Source2,3,32.074303,-81.245811,2018,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2878689,GA,Chatham,Savannah,Source2,3,32.070049,-81.202789,2018,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2881236,GA,Chatham,Savannah,Source2,3,32.066353,-81.136833,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2886343,GA,Chatham,Savannah,Source2,3,32.041851,-81.146576,2018,19,Sunday,Rain,False,False,False,False,False,False,False
+A-2890617,GA,Chatham,Pooler,Source2,3,32.074303,-81.245811,2018,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2890620,GA,Chatham,Port Wentworth,Source2,3,32.190186,-81.195801,2018,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2893237,GA,Chatham,Savannah,Source2,3,32.072182,-81.13504,2018,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2893243,GA,Chatham,Pooler,Source2,3,32.112015,-81.23777,2018,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2895886,GA,Chatham,Savannah,Source2,3,32.070049,-81.202789,2018,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2902976,GA,Chatham,Pooler,Source2,3,32.112659,-81.238129,2018,10,Monday,Rain,False,False,False,False,False,False,False
+A-2902977,GA,Chatham,Savannah,Source2,3,32.070637,-81.135239,2018,10,Monday,Rain,False,False,False,False,False,False,False
+A-2905775,GA,Chatham,Pooler,Source2,3,32.124531,-81.239006,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2905778,GA,Chatham,Pooler,Source2,3,32.074303,-81.245811,2018,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2905781,GA,Chatham,Pooler,Source2,3,32.074303,-81.245811,2018,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2908391,GA,Chatham,Savannah,Source2,3,32.070347,-81.161102,2018,8,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-2908393,GA,Chatham,Savannah,Source2,3,32.070347,-81.161102,2018,10,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-2913792,GA,Chatham,Bloomingdale,Source2,3,32.099841999999995,-81.323387,2018,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-2920526,GA,Chatham,Savannah,Source2,3,32.031487,-81.11958299999998,2018,8,Thursday,Cloudy,False,False,True,True,False,False,False
+A-2923032,GA,Chatham,Savannah,Source2,3,32.070049,-81.202789,2018,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2926809,GA,Chatham,Savannah,Source2,3,32.07151,-81.135109,2018,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-2929552,GA,Chatham,Pooler,Source2,3,32.112659,-81.238129,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2929559,GA,Chatham,Savannah,Source2,3,32.071991,-81.223534,2018,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2942045,GA,Chatham,Pooler,Source2,3,32.083981,-81.279961,2018,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2947460,GA,Chatham,Pooler,Source2,3,32.083981,-81.279961,2018,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2950174,GA,Chatham,Savannah,Source2,3,32.070637,-81.135239,2018,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-2951914,GA,Chatham,Pooler,Source2,3,32.074303,-81.245811,2018,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2956850,GA,Chatham,Bloomingdale,Source2,3,32.099284999999995,-81.32251,2018,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2959716,GA,Chatham,Savannah,Source2,3,32.071526,-81.161041,2018,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2962519,GA,Chatham,Savannah,Source2,3,32.041851,-81.146576,2018,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2973549,GA,Chatham,Savannah,Source2,3,32.099438,-81.143066,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2976205,GA,Chatham,Savannah,Source2,3,32.140999,-81.240585,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2976206,GA,Chatham,Port Wentworth,Source2,3,32.166634,-81.21582,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2981358,GA,Chatham,Savannah,Source2,3,32.066746,-81.114227,2018,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2983964,GA,Chatham,Savannah,Source2,3,32.035121999999994,-81.133636,2018,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3003954,GA,Chatham,Savannah,Source2,3,32.072964,-81.13372,2018,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3003955,GA,Chatham,Savannah,Source2,3,32.070637,-81.135239,2018,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3003956,GA,Chatham,Savannah,Source2,3,32.070484,-81.135506,2018,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3006424,GA,Chatham,Savannah,Source2,3,32.031487,-81.11958299999998,2018,8,Monday,Cloudy,False,False,True,True,False,False,False
+A-3008967,GA,Chatham,Savannah,Source2,3,32.072483,-81.22872199999998,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3011316,GA,Chatham,Savannah,Source2,3,32.072758,-81.140366,2018,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3011318,GA,Chatham,Savannah,Source2,3,32.070637,-81.135239,2018,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3011320,GA,Chatham,Savannah,Source2,3,32.046581,-81.145119,2018,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3013798,GA,Chatham,Pooler,Source2,3,32.11476500000001,-81.23893699999998,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3013800,GA,Chatham,Pooler,Source2,3,32.074833,-81.25329599999998,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3022487,GA,Chatham,Savannah,Source2,3,32.031487,-81.11958299999998,2018,8,Tuesday,Clear / Fair,False,False,True,True,False,False,False
+A-3022492,GA,Chatham,Savannah,Source2,3,32.070049,-81.202789,2018,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3025107,GA,Chatham,Savannah,Source2,3,32.070347,-81.161102,2018,8,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-3038923,GA,Chatham,Bloomingdale,Source2,3,32.113396,-81.361046,2017,17,Sunday,Rain,False,False,False,False,False,False,False
+A-3041002,GA,Chatham,Port Wentworth,Source2,3,32.166634,-81.21582,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3043291,GA,Chatham,Bloomingdale,Source2,3,32.099621,-81.323494,2018,11,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3055290,GA,Chatham,Savannah,Source2,3,32.070049,-81.202789,2018,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3058067,GA,Chatham,Savannah,Source2,3,32.070049,-81.202789,2018,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3060648,GA,Chatham,Pooler,Source2,3,32.074303,-81.245811,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3060653,GA,Chatham,Savannah,Source2,3,32.041851,-81.146576,2018,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3063661,GA,Chatham,Savannah,Source2,3,32.070049,-81.202789,2018,8,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3070010,GA,Chatham,Savannah,Source2,3,32.070347,-81.161102,2018,7,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-3070011,GA,Chatham,Pooler,Source2,3,32.074303,-81.245811,2018,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3075837,GA,Chatham,Port Wentworth,Source2,3,32.190037,-81.19558,2018,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3088945,GA,Chatham,Port Wentworth,Source2,3,32.191517,-81.194687,2018,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-3098096,GA,Chatham,Pooler,Source2,3,32.074303,-81.245811,2017,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3107398,GA,Chatham,Savannah,Source2,3,32.028175,-81.10818499999998,2017,8,Tuesday,Fog / Low visibility,True,True,False,False,False,False,False
+A-3110206,GA,Chatham,Savannah,Source2,3,32.079849,-81.13200400000002,2017,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3113133,GA,Chatham,Savannah,Source2,3,32.140999,-81.240585,2017,5,Thursday,Rain,False,False,False,False,False,False,False
+A-3113135,GA,Chatham,Savannah,Source2,3,32.140999,-81.240585,2017,7,Thursday,Rain,False,False,False,False,False,False,False
+A-3116260,GA,Chatham,Pooler,Source2,3,32.112659,-81.238129,2017,7,Friday,Rain,False,False,False,False,False,False,False
+A-3116262,GA,Chatham,Savannah,Source2,3,32.041851,-81.146576,2017,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-3116265,GA,Chatham,Pooler,Source2,3,32.089291,-81.294022,2017,17,Friday,Rain,False,False,False,False,False,False,False
+A-3119162,GA,Chatham,Savannah,Source2,3,32.070637,-81.135239,2017,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3123041,GA,Chatham,Savannah,Source2,3,32.041851,-81.146576,2017,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3131908,GA,Chatham,Pooler,Source2,3,32.074303,-81.245811,2017,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-3138819,GA,Chatham,Savannah,Source2,3,32.031487,-81.11958299999998,2017,7,Tuesday,Clear / Fair,False,False,True,True,False,False,False
+A-3138820,GA,Chatham,Savannah,Source2,3,32.031487,-81.11958299999998,2017,7,Tuesday,Clear / Fair,False,False,True,True,False,False,False
+A-3148552,GA,Chatham,Pooler,Source2,3,32.074303,-81.245811,2017,19,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3151599,GA,Chatham,Pooler,Source2,3,32.112659,-81.238129,2017,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3155884,GA,Chatham,Pooler,Source2,3,32.074303,-81.245811,2017,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-3157356,GA,Chatham,Port Wentworth,Source2,3,32.191517,-81.194687,2017,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3158879,GA,Chatham,Bloomingdale,Source2,3,32.09433,-81.308739,2017,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3163643,GA,Chatham,Savannah,Source2,3,32.070637,-81.135239,2017,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3163644,GA,Chatham,Pooler,Source2,3,32.074303,-81.245811,2017,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3168294,GA,Chatham,Savannah,Source2,3,32.140999,-81.240585,2017,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3169686,GA,Chatham,Bloomingdale,Source2,3,32.099841999999995,-81.323387,2017,8,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3171847,GA,Chatham,Savannah,Source2,3,32.070347,-81.161102,2017,8,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-3171849,GA,Chatham,Savannah,Source2,3,32.070084,-81.203194,2017,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3174030,GA,Chatham,Savannah,Source2,3,31.98411,-81.304634,2017,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3178830,GA,Chatham,Pooler,Source2,3,32.074303,-81.245811,2017,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3178831,GA,Chatham,Pooler,Source2,3,32.074303,-81.245811,2017,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3182183,GA,Chatham,Pooler,Source2,3,32.083981,-81.279961,2017,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-3184527,GA,Chatham,Savannah,Source2,3,32.070049,-81.202789,2017,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3184528,GA,Chatham,Bloomingdale,Source2,3,32.099841999999995,-81.323387,2017,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3201139,GA,Chatham,Savannah,Source2,3,31.980999,-81.169449,2017,6,Wednesday,Fog / Low visibility,True,False,False,False,False,False,False
+A-3201142,GA,Chatham,Port Wentworth,Source2,3,32.201916,-81.185661,2017,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3203097,GA,Chatham,Savannah,Source2,3,32.066353,-81.136833,2017,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3203099,GA,Chatham,Savannah,Source2,3,32.05402,-81.141479,2017,13,Thursday,Rain,True,False,False,False,False,False,False
+A-3203100,GA,Chatham,Pooler,Source2,3,32.06918,-81.24838299999998,2017,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3205867,GA,Chatham,Pooler,Source2,3,32.083981,-81.279961,2017,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3206480,GA,Chatham,Savannah,Source2,3,32.004604,-81.2836,2017,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3206482,GA,Chatham,Savannah,Source2,3,32.004604,-81.2836,2017,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3214050,GA,Chatham,Savannah,Source2,3,32.070347,-81.161102,2017,4,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-3214054,GA,Chatham,Savannah,Source2,3,32.070347,-81.161102,2017,16,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-3217820,GA,Chatham,Savannah,Source2,3,32.05402,-81.141479,2017,8,Monday,Cloudy,True,False,False,False,False,False,False
+A-3217821,GA,Chatham,Savannah,Source2,3,32.070347,-81.161102,2017,18,Monday,Cloudy,False,False,True,False,False,False,False
+A-3233262,GA,Chatham,Savannah,Source2,3,32.070049,-81.202789,2017,7,Monday,Rain,False,False,False,False,False,False,False
+A-3233263,GA,Chatham,Port Wentworth,Source2,3,32.166634,-81.21582,2017,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-3235973,GA,Chatham,Savannah,Source2,3,32.070049,-81.202789,2017,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3238832,GA,Chatham,Pooler,Source2,3,32.083981,-81.279961,2017,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3241636,GA,Chatham,Savannah,Source2,3,32.070049,-81.202789,2017,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3250122,GA,Chatham,Savannah,Source2,3,32.090961,-81.12796800000002,2017,8,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-3252774,GA,Chatham,Pooler,Source2,3,32.074303,-81.245811,2017,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3252779,GA,Chatham,Savannah,Source2,3,32.066746,-81.114227,2017,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3255457,GA,Chatham,Savannah,Source2,3,32.071487,-81.138695,2017,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3262189,GA,Chatham,Pooler,Source2,3,32.074303,-81.245811,2017,17,Monday,Rain,False,False,False,False,False,False,False
+A-3264779,GA,Chatham,Savannah,Source2,3,32.070637,-81.135239,2017,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3267247,GA,Chatham,Port Wentworth,Source2,3,32.191517,-81.194687,2017,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3281001,GA,Chatham,Savannah,Source2,3,32.042282,-81.262215,2017,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-3286582,GA,Chatham,Pooler,Source2,3,32.083981,-81.279961,2017,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3292503,GA,Chatham,Port Wentworth,Source2,3,32.191517,-81.194687,2017,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3292505,GA,Chatham,Savannah,Source3,3,32.140999,-81.240585,2017,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3295439,GA,Chatham,Port Wentworth,Source2,3,32.166634,-81.21582,2017,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-3295441,GA,Chatham,Savannah,Source2,3,32.070049,-81.202789,2017,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3295454,GA,Chatham,Port Wentworth,Source2,3,32.2057,-81.182503,2017,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-3295455,GA,Chatham,Port Wentworth,Source2,3,32.178867,-81.204903,2017,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-3297283,GA,Chatham,Bloomingdale,Source2,3,32.098602,-81.321472,2017,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3297288,GA,Chatham,Pooler,Source2,3,32.074303,-81.245811,2017,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3297289,GA,Chatham,Savannah,Source2,3,32.08240900000001,-81.280632,2017,9,Saturday,Cloudy,True,False,False,False,False,False,False
+A-3305029,GA,Chatham,Savannah,Source2,3,32.070347,-81.161102,2017,8,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-3307817,GA,Chatham,Savannah,Source2,3,32.070347,-81.161102,2017,7,Thursday,Cloudy,False,False,True,False,False,False,False
+A-3312853,GA,Chatham,Savannah,Source2,3,32.070347,-81.161102,2017,13,Saturday,Cloudy,False,False,True,False,False,False,False
+A-3312854,GA,Chatham,Port Wentworth,Source2,3,32.191517,-81.194687,2017,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3315033,GA,Chatham,Pooler,Source2,3,32.074303,-81.245811,2017,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-3317957,GA,Chatham,Pooler,Source2,3,32.083981,-81.279961,2017,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3320792,GA,Chatham,Pooler,Source2,3,32.074303,-81.245811,2017,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3323891,GA,Chatham,Pooler,Source2,3,32.074303,-81.245811,2017,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3333729,GA,Chatham,Pooler,Source2,3,32.074303,-81.245811,2017,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3342663,GA,Chatham,Savannah,Source2,3,32.046097,-81.26003299999998,2017,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3345058,GA,Chatham,Pooler,Source2,3,32.112659,-81.238129,2017,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3345060,GA,Chatham,Savannah,Source2,3,32.070049,-81.202789,2017,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3351925,GA,Chatham,Pooler,Source2,3,32.074303,-81.245811,2017,7,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3354559,GA,Chatham,Savannah,Source2,3,32.004604,-81.2836,2017,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3366486,GA,Chatham,Savannah,Source2,3,32.004604,-81.2836,2017,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3368914,GA,Chatham,Savannah,Source2,3,32.073997,-81.244926,2017,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3383700,GA,Chatham,Savannah,Source2,3,32.041851,-81.146576,2017,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3383701,GA,Chatham,Savannah,Source2,3,32.070347,-81.161102,2017,8,Thursday,Cloudy,False,False,True,False,False,False,False
+A-3393192,GA,Chatham,Pooler,Source2,3,32.074753,-81.250496,2017,22,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3403581,GA,Chatham,Savannah,Source2,3,32.070049,-81.202789,2017,8,Saturday,Rain,False,False,False,False,False,False,False
+A-3450917,GA,Chatham,Bloomingdale,Source1,4,32.131048,-81.29535200000002,2016,22,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3450918,GA,Chatham,Bloomingdale,Source1,4,32.131065,-81.295406,2016,22,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3451801,GA,Chatham,Port Wentworth,Source1,3,32.16191,-81.22208,2016,4,Monday,Cloudy,False,False,True,False,False,False,False
+A-3454145,GA,Chatham,Savannah,Source1,4,31.98607,-81.21746999999998,2016,7,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3461431,GA,Chatham,Savannah,Source1,4,32.086102000000004,-81.129069,2017,2,Sunday,Rain,False,False,False,False,False,False,False
+A-3463955,GA,Chatham,Savannah,Source1,4,32.06812,-81.11017,2016,14,Monday,Cloudy,False,False,True,False,False,False,False
+A-3464462,GA,Chatham,Bloomingdale,Source1,4,32.100593,-81.32351700000002,2016,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3465566,GA,Chatham,Tybee Island,Source1,4,31.995722,-80.847934,2016,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3465568,GA,Chatham,Tybee Island,Source1,4,31.992448,-80.849257,2016,17,Sunday,Clear / Fair,False,True,False,False,False,True,False
+A-3474179,GA,Chatham,Port Wentworth,Source1,3,32.184271,-81.200391,2016,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3479243,GA,Chatham,Savannah,Source1,3,32.058733000000004,-81.253909,2016,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3487172,GA,Chatham,Savannah,Source1,4,32.08173,-81.27295,2016,1,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3491264,GA,Chatham,Savannah,Source1,3,32.07987,-81.13198,2016,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-3501692,GA,Chatham,Pooler,Source1,3,32.120375,-81.238577,2016,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3510616,GA,Chatham,Savannah,Source1,3,32.06714,-81.11721999999997,2016,17,Monday,Storm,False,False,False,False,False,False,False
+A-3578111,GA,Chatham,Port Wentworth,Source1,3,32.186,-81.19894000000002,2017,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3605664,GA,Chatham,Savannah,Source1,3,32.03941,-81.207575,2017,18,Friday,Cloudy,True,False,False,False,False,False,False
+A-3614444,GA,Chatham,Savannah,Source1,3,32.07139,-81.13837,2017,0,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-3614998,GA,Chatham,Pooler,Source1,3,32.11762,-81.23864,2017,11,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-3643796,GA,Chatham,Savannah,Source1,4,32.07137,-81.13195999999998,2017,1,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3646104,GA,Chatham,Bloomingdale,Source1,4,32.14903,-81.34571,2017,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3646105,GA,Chatham,Bloomingdale,Source1,4,32.14903,-81.34571,2017,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3711312,GA,Chatham,Savannah,Source1,4,32.031512,-81.26763299999998,2022,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3734065,GA,Chatham,Savannah,Source1,4,32.06931710227933,-81.24858498534559,2022,17,Thursday,Rain,False,False,False,False,False,False,False
+A-3758893,GA,Chatham,Savannah,Source1,4,32.043885,-81.005163,2023,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3784524,GA,Chatham,Savannah,Source1,4,32.053959000000006,-81.14099399999998,2022,13,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-3931601,GA,Chatham,Savannah,Source1,4,32.041178,-81.023059,2022,5,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4038691,GA,Chatham,Port Wentworth,Source1,4,32.163165,-81.184306,2023,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4096555,GA,Chatham,Port Wentworth,Source1,4,32.200695,-81.186683,2022,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4101298,GA,Chatham,Savannah,Source1,4,32.06185,-81.252088,2022,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4118790,GA,Chatham,Port Wentworth,Source1,4,32.196131944502845,-81.19082093200117,2022,1,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-4159559,GA,Chatham,Savannah,Source1,4,32.027704,-81.269286,2022,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4221983,GA,Chatham,Savannah,Source1,4,32.073873,-81.24615899999998,2023,19,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-4227203,GA,Chatham,Port Wentworth,Source1,4,32.199265999999994,-81.18821899999998,2022,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4229621,GA,Chatham,Savannah,Source1,4,32.06704259,-81.11689925,2023,11,Thursday,Cloudy,False,False,True,False,False,False,False
+A-4288006,GA,Chatham,Savannah,Source1,4,32.071401,-81.132036,2023,8,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4416546,GA,Chatham,Savannah,Source1,4,32.068022,-81.17904,2023,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4428754,GA,Chatham,Port Wentworth,Source1,4,32.172523,-81.210528,2022,22,Thursday,Cloudy,False,False,True,False,False,False,False
+A-4437247,GA,Chatham,Savannah,Source1,4,32.023073,-81.27162,2023,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4500115,GA,Chatham,Port Wentworth,Source1,4,32.199108,-81.18835200000002,2022,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4502181,GA,Chatham,Savannah,Source1,4,32.072814702834734,-81.1411678787177,2022,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4524161,GA,Chatham,Savannah,Source1,4,32.007712125625574,-81.28062128981932,2022,17,Thursday,Rain,False,False,True,False,False,False,False
+A-4553768,GA,Chatham,Savannah,Source1,4,32.086262,-81.12877900000002,2022,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4580339,GA,Chatham,Savannah,Source1,4,32.041178,-81.023059,2022,5,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4727767,GA,Chatham,Pooler,Source1,4,32.112752,-81.239041,2022,12,Friday,Clear / Fair,True,True,False,False,False,False,False
+A-4736965,GA,Chatham,Pooler,Source1,4,32.112205,-81.237319,2022,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4757822,GA,Chatham,Savannah,Source1,4,32.0509,-81.257869,2022,0,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4804185,GA,Chatham,Port Wentworth,Source1,4,32.166634,-81.215818,2023,20,Sunday,Rain,False,False,False,False,False,False,False
+A-4832597,GA,Chatham,Bloomingdale,Source1,4,32.138511,-81.317992,2023,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4942140,GA,Chatham,Savannah,Source1,4,32.072274,-81.15339,2022,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4950547,GA,Chatham,Pooler,Source1,4,32.086395,-81.28667800000002,2022,15,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-5089240,GA,Chatham,Port Wentworth,Source1,4,32.225081,-81.165446,2022,17,Sunday,Cloudy,False,False,True,False,False,False,False
+A-5131918,GA,Chatham,Savannah,Source1,4,32.051884,-81.25711899999997,2022,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5153578,GA,Chatham,Savannah,Source1,4,32.07217097,-81.13505244,2022,6,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-5153664,GA,Chatham,Port Wentworth,Source1,4,32.161388,-81.18101800000002,2023,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5218460,GA,Chatham,Savannah,Source1,4,32.067842,-81.112174,2022,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5231854,GA,Chatham,Savannah,Source1,4,32.038674,-81.030597,2022,5,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-5262404,GA,Chatham,Savannah,Source1,4,32.104249,-81.150537,2022,20,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5295760,GA,Chatham,Port Wentworth,Source1,4,32.19649672492887,-81.19015574416545,2022,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-5297064,GA,Chatham,Port Wentworth,Source1,4,32.166351,-81.216155,2022,3,Friday,Cloudy,False,False,False,False,False,False,False
+A-5353940,GA,Chatham,Port Wentworth,Source1,4,32.154165,-81.180926,2022,7,Monday,Cloudy,True,False,False,False,False,False,False
+A-5354614,GA,Chatham,Savannah,Source1,4,32.070655,-81.209363,2022,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5356050,GA,Chatham,Savannah,Source1,4,32.166742,-81.216409,2023,20,Sunday,Rain,False,False,False,False,False,False,False
+A-5441652,GA,Chatham,Savannah,Source1,4,32.06288,-81.251563,2023,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5446216,GA,Chatham,Savannah,Source1,4,32.072274,-81.15339,2022,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5455988,GA,Chatham,Savannah,Source1,4,32.001321999999995,-81.286586,2022,16,Thursday,Cloudy,False,False,True,False,False,False,False
+A-5492582,GA,Chatham,Savannah,Source1,4,32.074059247817644,-81.2455379959047,2021,8,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-5592011,GA,Chatham,Savannah,Source1,4,32.070396,-81.206577,2021,5,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-5592516,GA,Chatham,Savannah,Source1,4,32.067169,-81.117398,2021,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5627984,GA,Chatham,Savannah,Source1,4,32.069896459426545,-81.19856715163613,2021,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5628379,GA,Chatham,Savannah,Source1,4,32.0013177393341,-81.28658652266844,2021,15,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-5632843,GA,Chatham,Bloomingdale,Source1,4,32.10334897026013,-81.33312821349463,2021,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5783452,GA,Chatham,Bloomingdale,Source1,4,32.080807,-81.37162099999998,2021,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5893783,GA,Chatham,Savannah,Source1,4,32.0910322664638,-81.12803578338084,2021,0,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-5948760,GA,Chatham,Savannah,Source1,4,32.06897377952543,-81.16659522017875,2021,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6036508,GA,Chatham,Port Wentworth,Source1,4,32.196818590010665,-81.18989825210002,2021,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6097846,GA,Chatham,Savannah,Source1,4,32.098752000000005,-81.09148499999998,2021,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6154108,GA,Chatham,Savannah,Source1,4,32.0910322664638,-81.12803578338084,2021,0,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-6170115,GA,Chatham,Savannah,Source1,4,32.07416653617823,-81.24665379485491,2021,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6186599,GA,Chatham,Savannah,Source1,4,32.068337,-81.12199100000002,2021,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6189417,GA,Chatham,Savannah,Source1,4,32.069638967361115,-81.19837403258705,2021,7,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6258265,GA,Chatham,Pooler,Source1,4,32.116875,-81.238553,2021,16,Thursday,Storm,False,False,False,False,False,False,False
+A-6325493,GA,Chatham,Savannah,Source1,4,32.073501348342546,-81.24646067580582,2021,15,Thursday,Storm,False,False,False,False,False,False,False
+A-6604465,GA,Chatham,Savannah,Source1,4,32.073909,-81.241461,2020,9,Sunday,Sin dato,False,False,False,False,False,False,False
+A-6622815,GA,Chatham,Savannah,Source1,4,32.071999,-81.134687,2020,7,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6766138,GA,Chatham,Savannah,Source1,4,32.041346999999995,-81.022186,2020,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6804969,GA,Chatham,Savannah,Source1,4,32.052543,-81.14224300000002,2020,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6821292,GA,Chatham,Tybee Island,Source1,4,32.019255,-80.852728,2020,22,Friday,Cloudy,False,False,False,True,False,False,False
+A-6986428,GA,Chatham,Port Wentworth,Source1,3,32.16167,-81.18353,2020,6,Thursday,Fog / Low visibility,True,False,False,False,False,False,False
+A-6986440,GA,Chatham,Port Wentworth,Source1,3,32.16167,-81.18353,2020,6,Thursday,Fog / Low visibility,True,False,False,False,False,False,False
+A-6986461,GA,Chatham,Savannah,Source1,3,32.102990000000005,-81.1486,2020,9,Thursday,Cloudy,True,True,False,False,False,False,False
+A-7003964,GA,Chatham,Port Wentworth,Source1,3,32.190529999999995,-81.19435,2020,17,Thursday,Cloudy,True,True,False,False,False,False,False
+A-7003968,GA,Chatham,Port Wentworth,Source1,3,32.190529999999995,-81.19435,2020,17,Thursday,Cloudy,True,True,False,False,False,False,False
+A-7003976,GA,Chatham,Port Wentworth,Source1,4,32.18601,-81.19893,2020,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7003984,GA,Chatham,Port Wentworth,Source1,4,32.18601,-81.19893,2020,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7003985,GA,Chatham,Port Wentworth,Source1,4,32.18601,-81.19893,2020,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7016846,GA,Chatham,Bloomingdale,Source1,3,32.0982,-81.31943000000003,2020,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-7016849,GA,Chatham,Bloomingdale,Source1,3,32.0982,-81.31943000000003,2020,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-7022157,GA,Chatham,Bloomingdale,Source1,3,32.0982,-81.31943000000003,2020,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7022165,GA,Chatham,Bloomingdale,Source1,3,32.0982,-81.31943000000003,2020,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7022276,GA,Chatham,Savannah,Source1,3,32.07394,-81.24161,2020,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7022278,GA,Chatham,Savannah,Source1,3,32.07394,-81.24161,2020,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7045597,GA,Chatham,Savannah,Source1,3,32.13519,-81.24031,2020,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-7045693,GA,Chatham,Savannah,Source1,3,32.02265,-81.08827,2020,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7055184,GA,Chatham,Savannah,Source1,3,31.97714,-81.13204,2020,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7068136,GA,Chatham,Savannah,Source1,3,32.0699,-81.19839,2020,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-7072540,GA,Chatham,Savannah,Source1,3,32.07073,-81.16027,2020,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-7096934,GA,Chatham,Savannah,Source1,3,32.05072,-81.09445,2020,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7096947,GA,Chatham,Savannah,Source1,3,32.05072,-81.09445,2020,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7099744,GA,Chatham,Pooler,Source1,3,32.06985,-81.24831,2020,16,Friday,Rain,False,False,True,False,False,False,False
+A-7107217,GA,Chatham,Savannah,Source1,4,32.0011,-81.2543,2020,1,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7107218,GA,Chatham,Savannah,Source1,4,31.99575,-81.23779,2020,1,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7125866,GA,Chatham,Port Wentworth,Source1,3,32.18601,-81.19893,2020,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-7125895,GA,Chatham,Port Wentworth,Source1,3,32.18601,-81.19893,2020,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-7125909,GA,Chatham,Port Wentworth,Source1,3,32.18601,-81.19893,2020,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-7125913,GA,Chatham,Port Wentworth,Source1,3,32.18601,-81.19893,2020,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-7128947,GA,Chatham,Savannah,Source1,4,32.147009999999995,-81.24065,2020,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7138431,GA,Chatham,Port Wentworth,Source1,3,32.18601,-81.19893,2020,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7138434,GA,Chatham,Savannah,Source1,3,32.07363,-81.24106,2020,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7138435,GA,Chatham,Savannah,Source1,3,32.07363,-81.24106,2020,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7138436,GA,Chatham,Port Wentworth,Source1,3,32.18601,-81.19893,2020,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7138444,GA,Chatham,Savannah,Source1,3,32.07363,-81.24106,2020,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7138445,GA,Chatham,Port Wentworth,Source1,3,32.18601,-81.19893,2020,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7138659,GA,Chatham,Savannah,Source1,4,32.11782,-81.1664,2020,0,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7138660,GA,Chatham,Savannah,Source1,4,32.11995,-81.16728,2020,0,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7140736,GA,Chatham,Savannah,Source1,3,32.08195,-81.09668,2020,16,Friday,Clear / Fair,False,True,False,False,False,False,False
+A-7140740,GA,Chatham,Savannah,Source1,3,32.08195,-81.09668,2020,16,Friday,Clear / Fair,False,True,False,False,False,False,False
+A-7140774,GA,Chatham,Savannah,Source1,3,32.08195,-81.09668,2020,16,Friday,Clear / Fair,False,True,False,False,False,False,False
+A-7145175,GA,Chatham,Port Wentworth,Source1,3,32.16215,-81.18126,2020,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-7145178,GA,Chatham,Port Wentworth,Source1,3,32.16215,-81.18126,2020,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-7145200,GA,Chatham,Port Wentworth,Source1,3,32.16215,-81.18126,2020,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-7147177,GA,Chatham,Savannah,Source1,3,32.07633,-81.13306999999998,2020,17,Tuesday,Rain,False,False,False,False,False,False,False
+A-7149142,GA,Chatham,Savannah,Source1,3,32.07363,-81.24106,2020,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7149146,GA,Chatham,Savannah,Source1,3,32.07363,-81.24106,2020,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7149189,GA,Chatham,Savannah,Source1,3,32.07394,-81.24161,2020,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7149192,GA,Chatham,Savannah,Source1,3,32.07394,-81.24161,2020,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7149222,GA,Chatham,Savannah,Source1,3,32.07394,-81.24161,2020,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7149225,GA,Chatham,Savannah,Source1,3,32.07394,-81.24161,2020,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7153192,GA,Chatham,Pooler,Source1,3,32.0702,-81.24813,2020,7,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7153193,GA,Chatham,Savannah,Source1,3,32.07056,-81.16020999999998,2020,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7153200,GA,Chatham,Savannah,Source1,3,32.07054,-81.16028,2020,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7153201,GA,Chatham,Pooler,Source1,3,32.0702,-81.24813,2020,7,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7153226,GA,Chatham,Savannah,Source1,3,32.07056,-81.16020999999998,2020,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7186877,GA,Chatham,Savannah,Source1,3,31.98014,-81.14353,2020,16,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-7186883,GA,Chatham,Savannah,Source1,3,31.98014,-81.14353,2020,16,Monday,Cloudy,True,False,False,False,False,False,False
+A-7186909,GA,Chatham,Savannah,Source1,3,31.98014,-81.14353,2020,16,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-7186918,GA,Chatham,Savannah,Source1,3,31.98014,-81.14353,2020,17,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-7191099,GA,Chatham,Savannah,Source1,3,32.006240000000005,-81.11631,2020,15,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7191113,GA,Chatham,Savannah,Source1,3,32.006240000000005,-81.11631,2020,16,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7193505,GA,Chatham,Savannah,Source1,3,32.07347,-81.23945,2020,17,Thursday,Rain,False,False,False,False,False,False,False
+A-7195959,GA,Chatham,Savannah,Source1,4,32.1352,-81.24001,2020,15,Friday,Cloudy,False,False,True,False,False,False,False
+A-7195975,GA,Chatham,Savannah,Source1,3,32.1352,-81.24001,2020,16,Friday,Cloudy,False,False,True,False,False,False,False
+A-7196023,GA,Chatham,Savannah,Source1,3,32.1352,-81.24001,2020,17,Friday,Cloudy,False,False,True,False,False,False,False
+A-7196028,GA,Chatham,Savannah,Source1,3,32.1352,-81.24001,2020,17,Friday,Cloudy,False,False,True,False,False,False,False
+A-7196033,GA,Chatham,Savannah,Source1,3,32.1352,-81.24001,2020,17,Friday,Cloudy,False,False,True,False,False,False,False
+A-7202761,GA,Chatham,Savannah,Source1,3,32.04371,-81.06914,2020,18,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-7202763,GA,Chatham,Savannah,Source1,3,32.07028,-81.20259,2020,16,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-7202766,GA,Chatham,Savannah,Source1,3,32.04371,-81.06914,2020,16,Tuesday,Sin dato,True,False,False,False,False,False,False
+A-7202781,GA,Chatham,Savannah,Source1,3,32.07028,-81.20259,2020,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7202782,GA,Chatham,Savannah,Source1,3,32.04371,-81.06914,2020,17,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-7202783,GA,Chatham,Savannah,Source1,3,32.07028,-81.20259,2020,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7202796,GA,Chatham,Savannah,Source1,3,32.04371,-81.06914,2020,17,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-7202798,GA,Chatham,Savannah,Source1,3,32.07028,-81.20259,2020,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7202805,GA,Chatham,Savannah,Source1,3,32.07028,-81.20259,2020,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7202806,GA,Chatham,Savannah,Source1,3,32.04371,-81.06914,2020,18,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-7202821,GA,Chatham,Savannah,Source1,3,32.07028,-81.20259,2020,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7202822,GA,Chatham,Savannah,Source1,3,32.04371,-81.06914,2020,18,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-7208115,GA,Chatham,Pooler,Source1,3,32.07011,-81.24793000000003,2020,8,Monday,Cloudy,False,False,True,False,False,False,False
+A-7224665,GA,Chatham,Port Wentworth,Source1,4,32.23628,-81.19499,2020,3,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7228396,GA,Chatham,Savannah,Source1,4,32.00783,-81.28054,2020,0,Sunday,Cloudy,False,False,True,False,False,False,False
+A-7276326,GA,Chatham,Savannah,Source1,3,32.00783,-81.28054,2020,15,Wednesday,Rain,False,False,True,False,False,False,False
+A-7320521,GA,Chatham,Savannah,Source1,3,32.068940000000005,-81.16669,2019,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7322356,GA,Chatham,Savannah,Source1,4,32.07478,-81.1339,2019,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-7322357,GA,Chatham,Savannah,Source1,4,32.07335,-81.13609,2019,18,Friday,Cloudy,False,False,True,False,False,False,False
+A-7429744,GA,Chatham,Pooler,Source1,4,32.07508,-81.24538000000003,2019,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7439681,GA,Chatham,Bloomingdale,Source1,4,32.133445,-81.302559,2019,7,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7451668,GA,Chatham,Savannah,Source1,4,32.044656,-81.146419,2019,12,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7456127,GA,Chatham,Savannah,Source1,4,32.033819,-80.96104100000002,2019,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7462232,GA,Chatham,Savannah,Source1,4,32.147361,-81.240093,2019,0,Monday,Cloudy,False,False,False,False,False,False,False
+A-7470815,GA,Chatham,Pooler,Source1,4,32.08639,-81.28674000000002,2019,8,Monday,Cloudy,False,False,True,False,False,False,False
+A-7475275,GA,Chatham,Bloomingdale,Source1,3,32.09859,-81.3198,2018,13,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7488525,GA,Chatham,Port Wentworth,Source1,3,32.18666,-81.1983,2018,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-7489047,GA,Chatham,Port Wentworth,Source1,3,32.18666,-81.1983,2018,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7503469,GA,Chatham,Pooler,Source1,4,32.069151,-81.24866,2018,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-7514049,GA,Chatham,Savannah,Source1,3,32.013541,-81.27641899999998,2018,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7515522,GA,Chatham,Savannah,Source1,4,32.0567,-81.14069,2018,9,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-7522348,GA,Chatham,Savannah,Source1,4,32.00783,-81.28054,2018,12,Friday,Cloudy,False,False,True,False,False,False,False
+A-7533339,GA,Chatham,Savannah,Source1,3,32.07394,-81.24161,2018,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-7544792,GA,Chatham,Port Wentworth,Source1,4,32.16191,-81.22208,2018,1,Saturday,Cloudy,False,False,True,False,False,False,False
+A-7549476,GA,Chatham,Port Wentworth,Source1,4,32.19621,-81.19079,2018,4,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7549480,GA,Chatham,Port Wentworth,Source1,4,32.19621,-81.19079,2018,6,Friday,Cloudy,False,False,True,False,False,False,False
+A-7551188,GA,Chatham,Savannah,Source1,3,31.985917,-81.217561,2018,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7562063,GA,Chatham,Savannah,Source1,4,32.000170000000004,-81.07751999999998,2018,16,Wednesday,Rain,False,False,False,False,False,False,False
+A-7562064,GA,Chatham,Savannah,Source1,4,32.004906,-81.077085,2018,16,Wednesday,Rain,False,False,False,False,False,False,False
+A-7567523,GA,Chatham,Port Wentworth,Source1,4,32.14627,-81.17796,2018,22,Monday,Cloudy,True,False,False,False,False,False,False
+A-7567524,GA,Chatham,Port Wentworth,Source1,4,32.14627,-81.17796,2018,22,Monday,Cloudy,True,False,False,False,False,False,False
+A-7567880,GA,Chatham,Port Wentworth,Source1,4,32.15422,-81.18095,2018,7,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-7567881,GA,Chatham,Port Wentworth,Source1,4,32.134557,-81.173077,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7570816,GA,Chatham,Savannah,Source1,3,32.09802,-81.14038000000002,2018,10,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7575937,GA,Chatham,Savannah,Source1,4,32.072275,-81.101004,2018,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7578237,GA,Chatham,Port Wentworth,Source1,4,32.201895,-81.198938,2018,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7578239,GA,Chatham,Port Wentworth,Source1,4,32.196304,-81.196552,2018,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7579976,GA,Chatham,Bloomingdale,Source1,3,32.099812,-81.323339,2018,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-7581731,GA,Chatham,Savannah,Source1,4,32.06678,-81.13688,2018,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7582181,GA,Chatham,Port Wentworth,Source1,4,32.179895,-81.188028,2018,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7582182,GA,Chatham,Port Wentworth,Source1,4,32.177786,-81.187564,2018,10,Sunday,Cloudy,True,True,False,False,False,False,False
+A-7582949,GA,Chatham,Savannah,Source1,4,32.07397,-81.24503,2018,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7583361,GA,Chatham,Port Wentworth,Source1,4,32.134557,-81.173077,2018,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7583362,GA,Chatham,Port Wentworth,Source1,4,32.153969000000004,-81.180849,2018,10,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-7583840,GA,Chatham,Port Wentworth,Source1,4,32.134557,-81.173077,2018,5,Thursday,Rain,False,False,False,False,False,False,False
+A-7583842,GA,Chatham,Port Wentworth,Source1,4,32.146512,-81.178053,2018,5,Thursday,Rain,True,False,False,False,False,False,False
+A-7584277,GA,Chatham,Port Wentworth,Source1,4,32.187355,-81.19341800000002,2018,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-7584278,GA,Chatham,Port Wentworth,Source1,4,32.170516,-81.186803,2018,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-7585324,GA,Chatham,Port Wentworth,Source1,4,32.142385,-81.176194,2018,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7586669,GA,Chatham,Savannah,Source1,4,32.06989,-81.201203,2018,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-7586683,GA,Chatham,Pooler,Source1,4,32.07011,-81.24793000000003,2018,9,Friday,Cloudy,False,False,True,False,False,False,False
+A-7586684,GA,Chatham,Pooler,Source1,4,32.07334,-81.24655,2018,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-7587107,GA,Chatham,Port Wentworth,Source1,4,32.134557,-81.173077,2018,1,Monday,Rain,False,False,False,False,False,False,False
+A-7587108,GA,Chatham,Port Wentworth,Source1,4,32.146512,-81.178053,2018,1,Monday,Rain,True,False,False,False,False,False,False
+A-7590875,GA,Chatham,Port Wentworth,Source1,4,32.18666,-81.1983,2018,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-7606784,GA,Chatham,Savannah,Source1,3,32.048155,-81.25899,2018,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7610759,GA,Chatham,Savannah,Source1,4,32.126241,-81.16994,2018,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7610760,GA,Chatham,Savannah,Source1,4,32.126092,-81.16964899999998,2018,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7611722,GA,Chatham,Tybee Island,Source1,4,32.015738,-80.869102,2018,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7611723,GA,Chatham,Tybee Island,Source1,4,32.015246999999995,-80.869854,2018,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7621358,GA,Chatham,Savannah,Source1,4,32.06742,-81.11201,2018,3,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-7621360,GA,Chatham,Savannah,Source1,4,32.07188,-81.10261,2018,3,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-7621365,GA,Chatham,Savannah,Source1,4,32.07042,-81.20685999999998,2018,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7623570,GA,Chatham,Pooler,Source1,4,32.122433,-81.267928,2018,19,Thursday,Clear / Fair,False,True,False,False,False,False,False
+A-7627155,GA,Chatham,Savannah,Source1,3,32.00156,-81.2863,2018,17,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-7638987,GA,Chatham,Bloomingdale,Source1,4,32.10082,-81.32681,2018,21,Saturday,Cloudy,False,False,True,False,False,False,False
+A-7644724,GA,Chatham,Savannah,Source1,3,32.140871000000004,-81.240858,2017,7,Thursday,Rain,False,False,False,False,False,False,False
+A-7650104,GA,Chatham,Savannah,Source1,3,32.043066,-81.146828,2017,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7651967,GA,Chatham,Port Wentworth,Source1,3,32.18666,-81.1983,2017,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-7657100,GA,Chatham,Savannah,Source1,3,32.00783,-81.28054,2017,6,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7658262,GA,Chatham,Tybee Island,Source1,4,32.005765000000004,-80.843857,2017,14,Friday,Clear / Fair,False,False,False,False,False,True,False
+A-7658263,GA,Chatham,Tybee Island,Source1,4,32.003243,-80.84486700000002,2017,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7660074,GA,Chatham,Bloomingdale,Source1,4,32.100732,-81.32656,2017,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7670209,GA,Chatham,Bloomingdale,Source1,4,32.14012,-81.32285,2017,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7677925,GA,Chatham,Savannah,Source1,3,32.045615999999995,-81.26052800000002,2017,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-7680613,GA,Chatham,Port Wentworth,Source1,3,32.171406,-81.211114,2017,22,Friday,Cloudy,False,False,False,False,False,False,False
+A-7691953,GA,Chatham,Pooler,Source1,4,32.07011,-81.24793000000003,2017,22,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-7709258,GA,Chatham,Pooler,Source1,4,32.0745,-81.25033,2019,23,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7710918,GA,Chatham,Tybee Island,Source1,3,32.019597999999995,-80.85514599999998,2019,3,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7714507,GA,Chatham,Bloomingdale,Source1,4,32.10082,-81.32681,2019,17,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7714509,GA,Chatham,Bloomingdale,Source1,4,32.10082,-81.32681,2019,16,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7715808,GA,Chatham,Savannah,Source1,4,32.008868,-81.279391,2019,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7718169,GA,Chatham,Savannah,Source1,4,32.04366,-81.14675799999998,2019,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7718543,GA,Chatham,Savannah,Source1,3,32.06745,-81.11365,2019,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-7719066,GA,Chatham,Pooler,Source1,3,32.11669000000001,-81.23853000000003,2019,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7720851,GA,Chatham,Savannah,Source1,3,32.07394,-81.24161,2019,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-7720869,GA,Chatham,Savannah,Source1,4,32.072358,-81.135576,2019,18,Friday,Cloudy,False,False,True,False,False,False,False
+A-7722648,GA,Chatham,Port Wentworth,Source1,4,32.16191,-81.22208,2019,17,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7724953,GA,Chatham,Pooler,Source1,3,32.10683,-81.23727,2019,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7726829,GA,Chatham,Savannah,Source1,4,32.00783,-81.28054,2019,7,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7728053,GA,Chatham,Port Wentworth,Source1,4,32.172985,-81.210162,2019,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7728719,GA,Chatham,Pooler,Source1,3,32.07011,-81.24793000000003,2019,23,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7730837,GA,Chatham,Port Wentworth,Source1,3,32.17011,-81.21219599999998,2019,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7743259,GA,Chatham,Savannah,Source1,4,32.066678,-81.136923,2019,2,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7743260,GA,Chatham,Savannah,Source1,4,32.058057,-81.139921,2019,2,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7754644,GA,Chatham,Savannah,Source1,3,32.09905,-81.142409,2019,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-7755692,GA,Chatham,Savannah,Source1,4,32.09241,-81.13081,2019,0,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7770633,GA,Chatham,Savannah,Source1,4,31.9927,-81.274632,2019,0,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7776388,GA,Chatham,Savannah,Source1,4,32.07137,-81.13195999999998,2019,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7776403,GA,Chatham,Savannah,Source1,4,32.07073,-81.16027,2019,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False

@@ -1,0 +1,827 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-160286,IA,Pottawattamie,Council Bluffs,Source2,3,41.242184,-95.90464,2016,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-160314,IA,Pottawattamie,Council Bluffs,Source2,3,41.23222,-95.851509,2016,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-160497,IA,Pottawattamie,Council Bluffs,Source2,3,41.242157,-95.823868,2016,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-160498,IA,Pottawattamie,Council Bluffs,Source2,3,41.242157,-95.823868,2016,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-160594,IA,Pottawattamie,Council Bluffs,Source2,3,41.23172,-95.910965,2016,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-160618,IA,Pottawattamie,Council Bluffs,Source2,3,41.242157,-95.823868,2016,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-160621,IA,Pottawattamie,Council Bluffs,Source2,3,41.279976,-95.784752,2016,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-160692,IA,Pottawattamie,Neola,Source2,3,41.440838,-95.612091,2016,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-160796,IA,Pottawattamie,Council Bluffs,Source2,3,41.232166,-95.879059,2016,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-160801,IA,Pottawattamie,Crescent,Source2,3,41.419353,-95.900558,2016,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-160808,IA,Pottawattamie,Shelby,Source2,3,41.498852,-95.451149,2016,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-160856,IA,Pottawattamie,Missouri Valley,Source2,3,41.499306,-95.901703,2016,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-160890,IA,Pottawattamie,Council Bluffs,Source2,3,41.261864,-95.90892,2016,9,Friday,Cloudy,True,False,False,False,False,False,False
+A-160926,IA,Pottawattamie,Council Bluffs,Source2,3,41.286182,-95.867798,2016,16,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-161069,IA,Pottawattamie,Council Bluffs,Source2,3,41.233925,-95.898842,2016,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-161110,IA,Pottawattamie,Minden,Source2,3,41.496861,-95.584419,2016,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-161112,IA,Pottawattamie,Minden,Source2,3,41.496861,-95.584419,2016,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-161137,IA,Pottawattamie,Council Bluffs,Source2,3,41.232681,-95.879204,2016,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-161305,IA,Pottawattamie,Council Bluffs,Source2,3,41.229015,-95.837303,2016,17,Friday,Rain,False,False,False,False,False,False,False
+A-161306,IA,Pottawattamie,Council Bluffs,Source2,3,41.229015,-95.837303,2016,17,Friday,Rain,False,False,False,False,False,False,False
+A-161309,IA,Pottawattamie,Council Bluffs,Source2,3,41.253693,-95.906944,2016,17,Friday,Rain,False,False,False,False,False,False,False
+A-161312,IA,Pottawattamie,Council Bluffs,Source2,3,41.242157,-95.823868,2016,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-161322,IA,Pottawattamie,Avoca,Source2,3,41.497669,-95.336342,2016,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-161387,IA,Pottawattamie,Council Bluffs,Source2,3,41.261864,-95.90892,2016,11,Monday,Cloudy,True,False,False,False,False,False,False
+A-161537,IA,Pottawattamie,Council Bluffs,Source2,3,41.220444,-95.832413,2016,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-161837,IA,Pottawattamie,Crescent,Source2,3,41.419353,-95.900558,2017,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-161842,IA,Pottawattamie,Crescent,Source2,3,41.419353,-95.900558,2017,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-161893,IA,Pottawattamie,Missouri Valley,Source2,3,41.493862,-95.901283,2017,15,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-161954,IA,Pottawattamie,Council Bluffs,Source2,3,41.233925,-95.898842,2017,6,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-161967,IA,Pottawattamie,Council Bluffs,Source2,3,41.229015,-95.837303,2017,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-161978,IA,Pottawattamie,Council Bluffs,Source2,3,41.229015,-95.837303,2017,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-161979,IA,Pottawattamie,Council Bluffs,Source2,3,41.229015,-95.837303,2017,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-162024,IA,Pottawattamie,Council Bluffs,Source2,3,41.23222,-95.851509,2017,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-162025,IA,Pottawattamie,Council Bluffs,Source2,3,41.23222,-95.851509,2017,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-162047,IA,Pottawattamie,Council Bluffs,Source2,3,41.22113,-95.83313,2017,19,Thursday,Fog / Low visibility,False,False,True,False,False,False,False
+A-162171,IA,Pottawattamie,Council Bluffs,Source2,3,41.220444,-95.832413,2017,9,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-162180,IA,Pottawattamie,Council Bluffs,Source2,3,41.220444,-95.832413,2017,9,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-162314,IA,Pottawattamie,Avoca,Source2,3,41.497669,-95.336342,2016,22,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-162367,IA,Pottawattamie,Council Bluffs,Source2,3,41.242157,-95.823868,2016,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-162678,IA,Pottawattamie,Walnut,Source2,3,41.497395,-95.222153,2016,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-162683,IA,Pottawattamie,Council Bluffs,Source2,3,41.242184,-95.90464,2016,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-162754,IA,Pottawattamie,Council Bluffs,Source2,3,41.229015,-95.837303,2016,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-162865,IA,Pottawattamie,Council Bluffs,Source2,3,41.23222,-95.851143,2016,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-162872,IA,Pottawattamie,Minden,Source2,3,41.496861,-95.584419,2016,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-162904,IA,Pottawattamie,Crescent,Source2,3,41.346359,-95.935844,2016,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-162907,IA,Pottawattamie,Crescent,Source2,3,41.346359,-95.935829,2016,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-163045,IA,Pottawattamie,Council Bluffs,Source2,3,41.229015,-95.837303,2016,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-163087,IA,Pottawattamie,Council Bluffs,Source2,3,41.261864,-95.90892,2016,8,Monday,Cloudy,True,False,False,False,False,False,False
+A-163115,IA,Pottawattamie,Council Bluffs,Source2,3,41.232136,-95.873909,2016,7,Tuesday,Rain,False,False,False,False,False,False,False
+A-163243,IA,Pottawattamie,Council Bluffs,Source2,3,41.232681,-95.879204,2016,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-163289,IA,Pottawattamie,Council Bluffs,Source2,3,41.232681,-95.879204,2016,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-163311,IA,Pottawattamie,Council Bluffs,Source2,3,41.23222,-95.851517,2016,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-163334,IA,Pottawattamie,Council Bluffs,Source2,3,41.232738,-95.895935,2016,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-163452,IA,Pottawattamie,Council Bluffs,Source2,3,41.233925,-95.898842,2016,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-163454,IA,Pottawattamie,Council Bluffs,Source2,3,41.229015,-95.837303,2016,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-163455,IA,Pottawattamie,Council Bluffs,Source2,3,41.229015,-95.837303,2016,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-163632,IA,Pottawattamie,Council Bluffs,Source2,3,41.242157,-95.823868,2016,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-163658,IA,Pottawattamie,Council Bluffs,Source2,3,41.242184,-95.90464,2016,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-163661,IA,Pottawattamie,Council Bluffs,Source2,3,41.242184,-95.90464,2016,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-163723,IA,Pottawattamie,Crescent,Source2,3,41.419353,-95.900558,2016,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-163726,IA,Pottawattamie,Crescent,Source2,3,41.419353,-95.900558,2016,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-163727,IA,Pottawattamie,Council Bluffs,Source2,3,41.233925,-95.898842,2016,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-163848,IA,Pottawattamie,Missouri Valley,Source2,3,41.493862,-95.901283,2016,10,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-163885,IA,Pottawattamie,Council Bluffs,Source2,3,41.285461,-95.867393,2016,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-163942,IA,Pottawattamie,Council Bluffs,Source2,3,41.261864,-95.90892,2016,7,Monday,Cloudy,True,False,False,False,False,False,False
+A-164032,IA,Pottawattamie,Neola,Source2,3,41.49880200000001,-95.746048,2016,12,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-164033,IA,Pottawattamie,Missouri Valley,Source2,3,41.493862,-95.901283,2016,12,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-164034,IA,Pottawattamie,Neola,Source2,3,41.49880200000001,-95.746048,2016,12,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-164084,IA,Pottawattamie,Council Bluffs,Source2,3,41.26189,-95.908554,2016,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-164144,IA,Pottawattamie,Council Bluffs,Source2,3,41.275097,-95.881729,2016,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-164580,IA,Pottawattamie,Council Bluffs,Source2,3,41.242157,-95.823868,2016,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-164624,IA,Pottawattamie,Council Bluffs,Source2,3,41.261864,-95.90892,2016,14,Friday,Cloudy,True,False,False,False,False,False,False
+A-164681,IA,Pottawattamie,Council Bluffs,Source2,3,41.268055,-95.908188,2016,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-164690,IA,Pottawattamie,Underwood,Source2,3,41.37624,-95.675781,2016,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-164725,IA,Pottawattamie,Crescent,Source2,3,41.354202,-95.900444,2016,15,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-164735,IA,Pottawattamie,Council Bluffs,Source2,3,41.229015,-95.837303,2016,18,Wednesday,Rain,False,False,False,False,False,False,False
+A-164736,IA,Pottawattamie,Council Bluffs,Source2,3,41.229015,-95.837303,2016,18,Wednesday,Rain,False,False,False,False,False,False,False
+A-164811,IA,Pottawattamie,Council Bluffs,Source2,3,41.275097,-95.881729,2016,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-165007,IA,Pottawattamie,Missouri Valley,Source2,3,41.49181,-95.900841,2016,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-165202,IA,Pottawattamie,Crescent,Source2,3,41.415478,-95.900185,2016,14,Sunday,Cloudy,False,False,True,False,False,False,False
+A-165577,IA,Pottawattamie,Missouri Valley,Source2,3,41.493862,-95.901283,2016,15,Saturday,Cloudy,False,False,True,False,False,False,False
+A-165715,IA,Pottawattamie,Council Bluffs,Source2,3,41.242157,-95.823868,2016,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-165742,IA,Pottawattamie,Council Bluffs,Source2,3,41.220886,-95.831688,2016,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-165751,IA,Pottawattamie,Crescent,Source2,3,41.35358400000001,-95.900215,2016,8,Wednesday,Rain,False,False,False,False,False,False,False
+A-165755,IA,Pottawattamie,Council Bluffs,Source2,3,41.220444,-95.832413,2016,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-165878,IA,Pottawattamie,Minden,Source2,3,41.496861,-95.584419,2016,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-166051,IA,Pottawattamie,Council Bluffs,Source2,3,41.233925,-95.898842,2016,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-166258,IA,Pottawattamie,Council Bluffs,Source2,3,41.220444,-95.832413,2016,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-166271,IA,Pottawattamie,Council Bluffs,Source2,3,41.229015,-95.837303,2016,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-166686,IA,Pottawattamie,Council Bluffs,Source2,3,41.220444,-95.832413,2016,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-166779,IA,Pottawattamie,Council Bluffs,Source2,3,41.285873,-95.867393,2016,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-166785,IA,Pottawattamie,Council Bluffs,Source2,3,41.253693,-95.906944,2016,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-166794,IA,Pottawattamie,Underwood,Source2,3,41.376125,-95.67556,2016,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-166962,IA,Pottawattamie,Council Bluffs,Source2,3,41.220444,-95.832413,2016,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-167051,IA,Pottawattamie,Council Bluffs,Source2,3,41.233925,-95.898842,2016,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-167068,IA,Pottawattamie,Underwood,Source2,3,41.39839600000001,-95.662849,2016,12,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-167144,IA,Pottawattamie,Council Bluffs,Source2,3,41.242157,-95.823868,2016,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-167206,IA,Pottawattamie,Council Bluffs,Source2,3,41.26022,-95.907074,2016,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-167208,IA,Pottawattamie,Council Bluffs,Source2,3,41.243549,-95.905571,2016,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-167292,IA,Pottawattamie,Council Bluffs,Source2,3,41.261864,-95.90892,2016,16,Monday,Cloudy,True,False,False,False,False,False,False
+A-167293,IA,Pottawattamie,Council Bluffs,Source2,3,41.261864,-95.90892,2016,16,Monday,Cloudy,True,False,False,False,False,False,False
+A-323699,IA,Pottawattamie,Council Bluffs,Source2,3,41.229015,-95.837303,2017,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-323726,IA,Pottawattamie,Council Bluffs,Source2,3,41.232685,-95.878372,2017,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-323774,IA,Pottawattamie,Council Bluffs,Source2,3,41.233925,-95.898842,2017,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-323775,IA,Pottawattamie,Council Bluffs,Source2,3,41.232529,-95.896515,2017,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-323910,IA,Pottawattamie,Council Bluffs,Source2,3,41.242157,-95.823868,2017,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-323938,IA,Pottawattamie,Council Bluffs,Source2,3,41.232002,-95.85125,2017,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-364003,IA,Pottawattamie,Council Bluffs,Source2,3,41.253693,-95.906944,2017,8,Friday,Rain,False,False,False,False,False,False,False
+A-364004,IA,Pottawattamie,Council Bluffs,Source2,3,41.253693,-95.906944,2017,8,Friday,Rain,False,False,False,False,False,False,False
+A-364009,IA,Pottawattamie,Minden,Source2,3,41.498169,-95.546188,2017,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-364012,IA,Pottawattamie,Council Bluffs,Source2,3,41.229015,-95.837303,2017,10,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-364013,IA,Pottawattamie,Council Bluffs,Source2,3,41.229015,-95.837303,2017,10,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-364022,IA,Pottawattamie,Council Bluffs,Source2,3,41.220444,-95.832413,2017,13,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-364024,IA,Pottawattamie,Council Bluffs,Source2,3,41.232525,-95.896568,2017,14,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-364063,IA,Pottawattamie,Neola,Source2,3,41.440838,-95.612091,2017,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-364064,IA,Pottawattamie,Walnut,Source2,3,41.497395,-95.222153,2017,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-364089,IA,Pottawattamie,Shelby,Source2,3,41.498852,-95.451149,2017,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-364172,IA,Pottawattamie,Crescent,Source2,3,41.354202,-95.900444,2017,7,Thursday,Cloudy,False,False,True,False,False,False,False
+A-364175,IA,Pottawattamie,Missouri Valley,Source2,3,41.499306,-95.901703,2017,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-364238,IA,Pottawattamie,Council Bluffs,Source2,3,41.261864,-95.90892,2017,6,Monday,Cloudy,True,False,False,False,False,False,False
+A-364253,IA,Pottawattamie,Council Bluffs,Source2,3,41.232681,-95.879196,2017,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-364364,IA,Pottawattamie,Council Bluffs,Source2,3,41.233925,-95.898842,2017,5,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-364496,IA,Pottawattamie,Council Bluffs,Source2,3,41.220444,-95.832413,2017,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-364629,IA,Pottawattamie,Council Bluffs,Source2,3,41.229015,-95.837303,2017,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-415359,IA,Pottawattamie,Neola,Source2,3,41.440838,-95.612091,2017,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-415454,IA,Pottawattamie,Council Bluffs,Source2,3,41.275097,-95.881729,2017,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-415550,IA,Pottawattamie,Council Bluffs,Source2,4,41.233925,-95.898842,2017,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-415634,IA,Pottawattamie,Council Bluffs,Source2,3,41.23222,-95.851509,2017,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-415694,IA,Pottawattamie,Underwood,Source2,3,41.37624,-95.675781,2017,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-415702,IA,Pottawattamie,Underwood,Source2,3,41.378967,-95.673012,2017,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-415727,IA,Pottawattamie,Council Bluffs,Source2,3,41.23222,-95.851509,2017,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-415922,IA,Pottawattamie,Council Bluffs,Source2,3,41.242157,-95.823868,2017,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-415966,IA,Pottawattamie,Council Bluffs,Source2,3,41.285461,-95.867393,2017,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-444356,IA,Pottawattamie,Neola,Source2,3,41.440838,-95.612091,2017,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-444357,IA,Pottawattamie,Neola,Source2,3,41.440838,-95.612091,2017,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-444358,IA,Pottawattamie,Neola,Source2,3,41.440838,-95.612091,2017,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-444366,IA,Pottawattamie,Missouri Valley,Source2,3,41.499306,-95.901703,2017,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-444443,IA,Pottawattamie,Council Bluffs,Source2,3,41.253693,-95.906944,2017,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-444480,IA,Pottawattamie,Crescent,Source2,3,41.353638,-95.899811,2017,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-444499,IA,Pottawattamie,Council Bluffs,Source2,3,41.242058,-95.823631,2017,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-470354,IA,Pottawattamie,Council Bluffs,Source2,3,41.229015,-95.837303,2017,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-470357,IA,Pottawattamie,Walnut,Source2,3,41.497395,-95.222153,2017,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-470360,IA,Pottawattamie,Avoca,Source2,3,41.497669,-95.336342,2017,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-470373,IA,Pottawattamie,Council Bluffs,Source2,3,41.22031,-95.832382,2017,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-470378,IA,Pottawattamie,Council Bluffs,Source2,3,41.233925,-95.898842,2017,6,Wednesday,Rain,False,False,False,False,False,False,False
+A-470379,IA,Pottawattamie,Council Bluffs,Source2,3,41.233925,-95.898842,2017,6,Wednesday,Rain,False,False,False,False,False,False,False
+A-470463,IA,Pottawattamie,Council Bluffs,Source2,3,41.232422,-95.898232,2017,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-470465,IA,Pottawattamie,Council Bluffs,Source2,3,41.260609,-95.916031,2017,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-470495,IA,Pottawattamie,Council Bluffs,Source2,3,41.23222,-95.851509,2017,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-470502,IA,Pottawattamie,Council Bluffs,Source2,3,41.23222,-95.851509,2017,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-470567,IA,Pottawattamie,Crescent,Source2,3,41.354202,-95.900444,2017,17,Thursday,Cloudy,False,False,True,False,False,False,False
+A-470576,IA,Pottawattamie,Missouri Valley,Source2,3,41.493862,-95.901283,2017,7,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-470577,IA,Pottawattamie,Missouri Valley,Source2,3,41.493862,-95.901283,2017,7,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-470750,IA,Pottawattamie,Council Bluffs,Source2,3,41.229015,-95.837303,2017,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-470779,IA,Pottawattamie,Council Bluffs,Source2,3,41.275097,-95.881828,2017,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-500543,IA,Pottawattamie,Council Bluffs,Source2,3,41.229015,-95.837303,2017,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-500561,IA,Pottawattamie,Council Bluffs,Source2,3,41.23222,-95.851509,2017,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-500609,IA,Pottawattamie,Council Bluffs,Source2,3,41.229321,-95.836121,2017,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-500618,IA,Pottawattamie,Underwood,Source2,3,41.376568,-95.675095,2017,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-500653,IA,Pottawattamie,Council Bluffs,Source2,3,41.23252100000001,-95.896622,2017,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-500705,IA,Pottawattamie,Walnut,Source2,3,41.497395,-95.222153,2017,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-500877,IA,Pottawattamie,Council Bluffs,Source2,3,41.242184,-95.90464,2017,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-500959,IA,Pottawattamie,Minden,Source2,3,41.498169,-95.546188,2017,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-500982,IA,Pottawattamie,Council Bluffs,Source2,3,41.242184,-95.90464,2017,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-540841,IA,Pottawattamie,Council Bluffs,Source2,3,41.230759,-95.838806,2022,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-558156,IA,Pottawattamie,Council Bluffs,Source3,3,41.262814,-95.909721,2022,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-560652,IA,Pottawattamie,Council Bluffs,Source2,3,41.232738,-95.8965,2022,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-564434,IA,Pottawattamie,Minden,Source2,3,41.497036,-95.585007,2022,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-564439,IA,Pottawattamie,Underwood,Source2,4,41.37566,-95.676247,2022,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-565353,IA,Pottawattamie,Council Bluffs,Source2,3,41.23267,-95.89595,2022,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-567258,IA,Pottawattamie,Underwood,Source2,3,41.37566,-95.676247,2022,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-569930,IA,Pottawattamie,Council Bluffs,Source2,3,41.232098,-95.907593,2022,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-579537,IA,Pottawattamie,Underwood,Source2,3,41.37566,-95.676247,2022,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-579769,IA,Pottawattamie,Council Bluffs,Source2,3,41.233246,-95.898041,2022,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-592879,IA,Pottawattamie,Underwood,Source2,3,41.37566,-95.676247,2022,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-598591,IA,Pottawattamie,Walnut,Source2,3,41.497196,-95.221466,2022,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-599598,IA,Pottawattamie,Underwood,Source2,3,41.37566,-95.676247,2022,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-607733,IA,Pottawattamie,Avoca,Source2,3,41.498627,-95.450615,2022,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-623200,IA,Pottawattamie,Council Bluffs,Source2,3,41.219101,-95.833984,2022,15,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-625460,IA,Pottawattamie,Minden,Source2,3,41.497036,-95.585007,2022,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-625533,IA,Pottawattamie,Minden,Source2,3,41.497036,-95.585007,2022,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-626663,IA,Pottawattamie,Council Bluffs,Source2,3,41.28043,-95.776428,2022,7,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-632686,IA,Pottawattamie,Missouri Valley,Source2,3,41.495327,-95.807526,2022,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-634561,IA,Pottawattamie,Shelby,Source2,3,41.498741,-95.45108,2022,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-639825,IA,Pottawattamie,Crescent,Source3,3,41.354374,-95.89814,2022,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-640099,IA,Pottawattamie,Minden,Source2,3,41.498173,-95.54612,2022,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-645670,IA,Pottawattamie,Shelby,Source2,3,41.49884,-95.45108,2022,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-651300,IA,Pottawattamie,Council Bluffs,Source2,3,41.2197,-95.831207,2022,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-663300,IA,Pottawattamie,Council Bluffs,Source2,3,41.169132,-95.823685,2022,6,Sunday,Cloudy,False,False,False,False,False,False,False
+A-672149,IA,Pottawattamie,Neola,Source2,3,41.497654,-95.587631,2022,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-685322,IA,Pottawattamie,Crescent,Source2,3,41.354351,-95.90081,2022,8,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-685584,IA,Pottawattamie,Crescent,Source2,3,41.385014,-95.899422,2022,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-700665,IA,Pottawattamie,Crescent,Source2,4,41.419224,-95.900688,2022,2,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-704888,IA,Pottawattamie,Council Bluffs,Source2,3,41.260578,-95.916443,2022,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-724442,IA,Pottawattamie,Missouri Valley,Source2,3,41.49443400000001,-95.898697,2022,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-725867,IA,Pottawattamie,Missouri Valley,Source2,3,41.492153,-95.900223,2022,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-739796,IA,Pottawattamie,Council Bluffs,Source2,3,41.260906,-95.915024,2022,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-742185,IA,Pottawattamie,Council Bluffs,Source2,3,41.239857,-95.824814,2022,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-745975,IA,Pottawattamie,Council Bluffs,Source2,3,41.24305,-95.906441,2022,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-763707,IA,Pottawattamie,Walnut,Source2,3,41.49723400000001,-95.221466,2021,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-769011,IA,Pottawattamie,Council Bluffs,Source2,3,41.232075,-95.880806,2021,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-777417,IA,Pottawattamie,Council Bluffs,Source2,3,41.280487,-95.78437,2021,17,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-784876,IA,Pottawattamie,Council Bluffs,Source2,3,41.280487,-95.78437,2021,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-802788,IA,Pottawattamie,Crescent,Source2,3,41.354191,-95.900482,2021,19,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-802793,IA,Pottawattamie,Crescent,Source2,3,41.354244,-95.900146,2021,18,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-811607,IA,Pottawattamie,Crescent,Source2,3,41.42017,-95.902008,2021,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-818942,IA,Pottawattamie,Avoca,Source2,3,41.4977,-95.336281,2021,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-819190,IA,Pottawattamie,Avoca,Source2,3,41.4977,-95.336281,2021,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-820603,IA,Pottawattamie,Council Bluffs,Source2,3,41.280487,-95.78437,2021,20,Saturday,Cloudy,False,False,False,False,False,False,False
+A-834687,IA,Pottawattamie,Council Bluffs,Source3,3,41.222721,-95.833527,2021,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-863012,IA,Pottawattamie,Council Bluffs,Source2,3,41.262814,-95.909721,2021,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-872698,IA,Pottawattamie,Shelby,Source2,3,41.498741,-95.45108,2021,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-875275,IA,Pottawattamie,Neola,Source2,3,41.49884,-95.74688,2021,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-875676,IA,Pottawattamie,Neola,Source2,3,41.49884,-95.74688,2021,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-883373,IA,Pottawattamie,Minden,Source2,3,41.497036,-95.585007,2021,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-883509,IA,Pottawattamie,Minden,Source2,3,41.498047,-95.553055,2021,9,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-883533,IA,Pottawattamie,Minden,Source2,3,41.498173,-95.54612,2021,7,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-907459,IA,Pottawattamie,Council Bluffs,Source2,3,41.233231,-95.898018,2021,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-910169,IA,Pottawattamie,Council Bluffs,Source2,3,41.232121,-95.88533,2021,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-911401,IA,Pottawattamie,Underwood,Source2,3,41.375744,-95.676292,2021,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-913100,IA,Pottawattamie,Walnut,Source2,3,41.49723400000001,-95.221466,2021,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-932221,IA,Pottawattamie,Underwood,Source2,3,41.37566,-95.676247,2021,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-932269,IA,Pottawattamie,Council Bluffs,Source2,3,41.280487,-95.78437,2021,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-938787,IA,Pottawattamie,Council Bluffs,Source2,3,41.233231,-95.898018,2021,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-951746,IA,Pottawattamie,Shelby,Source2,3,41.498741,-95.45108,2021,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-952450,IA,Pottawattamie,Minden,Source2,3,41.498173,-95.54612,2021,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-952814,IA,Pottawattamie,Walnut,Source2,3,41.49723400000001,-95.221466,2021,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-987627,IA,Pottawattamie,Council Bluffs,Source2,4,41.268883,-95.90799,2021,14,Monday,Rain,False,False,False,False,False,False,False
+A-994669,IA,Pottawattamie,Shelby,Source2,3,41.498741,-95.45108,2021,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1017642,IA,Pottawattamie,Council Bluffs,Source2,3,41.241795,-95.82383,2021,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1024088,IA,Pottawattamie,Walnut,Source2,3,41.49723400000001,-95.221466,2021,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1026658,IA,Pottawattamie,Crescent,Source2,3,41.419224,-95.900688,2021,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-1029858,IA,Pottawattamie,Council Bluffs,Source2,3,41.241241,-95.82328,2021,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1039400,IA,Pottawattamie,Missouri Valley,Source2,3,41.501579,-95.902191,2021,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1054440,IA,Pottawattamie,Council Bluffs,Source2,3,41.221581,-95.833344,2021,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1061394,IA,Pottawattamie,Council Bluffs,Source3,3,41.253414,-95.906677,2021,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-1061395,IA,Pottawattamie,Council Bluffs,Source2,3,41.262814,-95.909721,2021,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-1062427,IA,Pottawattamie,Council Bluffs,Source2,3,41.275188,-95.881523,2021,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1064025,IA,Pottawattamie,Council Bluffs,Source2,3,41.2197,-95.831207,2021,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-1065816,IA,Pottawattamie,Walnut,Source2,4,41.49723400000001,-95.221466,2021,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1065850,IA,Pottawattamie,Avoca,Source2,3,41.4977,-95.336281,2021,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1070515,IA,Pottawattamie,Council Bluffs,Source2,3,41.241241,-95.82328,2021,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1076071,IA,Pottawattamie,Council Bluffs,Source2,3,41.241241,-95.82328,2021,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1076072,IA,Pottawattamie,Council Bluffs,Source2,3,41.241577,-95.82428,2021,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1076073,IA,Pottawattamie,Council Bluffs,Source2,3,41.27903,-95.785049,2021,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1076077,IA,Pottawattamie,Council Bluffs,Source2,3,41.241241,-95.82328,2021,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1076078,IA,Pottawattamie,Council Bluffs,Source2,3,41.280487,-95.78437,2021,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1091742,IA,Pottawattamie,Council Bluffs,Source2,3,41.268883,-95.90799,2021,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1102249,IA,Pottawattamie,Council Bluffs,Source2,3,41.262814,-95.909721,2021,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1102297,IA,Pottawattamie,Avoca,Source2,3,41.476601,-95.337959,2021,7,Monday,Clear / Fair,False,False,False,False,False,True,False
+A-1127423,IA,Pottawattamie,Council Bluffs,Source2,3,41.280487,-95.78437,2021,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1132737,IA,Pottawattamie,Council Bluffs,Source2,3,41.253414,-95.906677,2021,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1139375,IA,Pottawattamie,Neola,Source2,4,41.440926,-95.611771,2021,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1139397,IA,Pottawattamie,Minden,Source2,3,41.497036,-95.585007,2021,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1140929,IA,Pottawattamie,Minden,Source2,4,41.498173,-95.54612,2021,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1144542,IA,Pottawattamie,Council Bluffs,Source2,3,41.232456,-95.879829,2021,12,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1144543,IA,Pottawattamie,Council Bluffs,Source2,3,41.232647,-95.853951,2021,12,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1154199,IA,Pottawattamie,Council Bluffs,Source2,3,41.218948,-95.830002,2021,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1154200,IA,Pottawattamie,Council Bluffs,Source2,3,41.233139,-95.898117,2021,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1155519,IA,Pottawattamie,Council Bluffs,Source2,3,41.232647,-95.853951,2021,16,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1161030,IA,Pottawattamie,Council Bluffs,Source2,3,41.23096500000001,-95.837761,2021,6,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1161035,IA,Pottawattamie,Council Bluffs,Source2,3,41.24226,-95.904701,2021,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1163847,IA,Pottawattamie,Council Bluffs,Source2,3,41.241024,-95.823479,2021,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1163850,IA,Pottawattamie,Council Bluffs,Source2,3,41.262814,-95.909721,2021,13,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1167293,IA,Pottawattamie,Council Bluffs,Source2,3,41.244362,-95.905937,2021,5,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1167294,IA,Pottawattamie,Council Bluffs,Source2,3,41.243042,-95.905693,2021,5,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1170344,IA,Pottawattamie,Council Bluffs,Source2,3,41.219711,-95.831215,2021,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1176490,IA,Pottawattamie,Council Bluffs,Source2,3,41.244362,-95.905937,2021,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1178199,IA,Pottawattamie,Council Bluffs,Source2,3,41.232456,-95.879829,2021,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1180143,IA,Pottawattamie,Shelby,Source2,3,41.498756,-95.445038,2021,10,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1190056,IA,Pottawattamie,Shelby,Source2,3,41.498741,-95.45108,2021,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1190074,IA,Pottawattamie,Avoca,Source2,3,41.4977,-95.336281,2021,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1190075,IA,Pottawattamie,Avoca,Source2,3,41.4977,-95.336281,2021,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1190784,IA,Pottawattamie,Minden,Source2,3,41.498173,-95.54612,2021,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1190788,IA,Pottawattamie,Neola,Source2,3,41.49884,-95.74688,2021,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1191233,IA,Pottawattamie,Missouri Valley,Source2,3,41.492153,-95.900223,2021,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1191250,IA,Pottawattamie,Neola,Source2,3,41.498882,-95.600372,2021,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1192405,IA,Pottawattamie,Council Bluffs,Source2,3,41.241024,-95.823479,2021,11,Friday,Rain,False,False,False,False,False,False,False
+A-1192548,IA,Pottawattamie,Walnut,Source2,3,41.497189,-95.217491,2021,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-1198299,IA,Pottawattamie,Council Bluffs,Source2,3,41.231041,-95.853851,2021,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-1214535,IA,Pottawattamie,Council Bluffs,Source2,3,41.262814,-95.909721,2020,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1220555,IA,Pottawattamie,Council Bluffs,Source2,3,41.261879,-95.90889,2020,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-1223331,IA,Pottawattamie,Missouri Valley,Source2,4,41.492153,-95.900223,2020,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-1230261,IA,Pottawattamie,Council Bluffs,Source2,3,41.219711,-95.831215,2020,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1234909,IA,Pottawattamie,Council Bluffs,Source2,3,41.280487,-95.78437,2020,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1238172,IA,Pottawattamie,Council Bluffs,Source2,3,41.244362,-95.905937,2020,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1254944,IA,Pottawattamie,Council Bluffs,Source2,3,41.233139,-95.898117,2020,11,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1257846,IA,Pottawattamie,Walnut,Source2,3,41.49723400000001,-95.221466,2020,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1257847,IA,Pottawattamie,Walnut,Source2,3,41.49723400000001,-95.221466,2020,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1267440,IA,Pottawattamie,Council Bluffs,Source2,3,41.253414,-95.906677,2020,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1271421,IA,Pottawattamie,Council Bluffs,Source2,3,41.232056,-95.904678,2020,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1271423,IA,Pottawattamie,Council Bluffs,Source2,3,41.232292,-95.904709,2020,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1280221,IA,Pottawattamie,Council Bluffs,Source2,3,41.232456,-95.879829,2020,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1283783,IA,Pottawattamie,Walnut,Source2,3,41.49723400000001,-95.221466,2020,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1283784,IA,Pottawattamie,Avoca,Source2,3,41.4977,-95.336281,2020,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1283795,IA,Pottawattamie,Walnut,Source2,3,41.497196,-95.221466,2020,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1285438,IA,Pottawattamie,Crescent,Source2,4,41.35355,-95.900078,2020,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-1285513,IA,Pottawattamie,Shelby,Source2,3,41.498608,-95.449913,2020,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1290276,IA,Pottawattamie,Minden,Source2,3,41.496895,-95.584763,2020,17,Tuesday,Other,False,False,False,False,False,False,False
+A-1290277,IA,Pottawattamie,Minden,Source2,3,41.49609,-95.582718,2020,17,Tuesday,Other,False,False,False,False,False,False,False
+A-1292739,IA,Pottawattamie,Council Bluffs,Source2,3,41.232624,-95.853722,2020,4,Thursday,Rain,False,False,False,False,False,False,False
+A-1304542,IA,Pottawattamie,Council Bluffs,Source2,3,41.26313,-95.909637,2020,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-1318702,IA,Pottawattamie,Council Bluffs,Source2,3,41.261284,-95.913757,2020,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1320363,IA,Pottawattamie,Crescent,Source2,4,41.354351,-95.90081,2020,16,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-1347085,IA,Pottawattamie,Crescent,Source2,4,41.346607,-95.9356,2020,8,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1348956,IA,Pottawattamie,Council Bluffs,Source2,3,41.233139,-95.898117,2020,11,Tuesday,Rain,False,False,False,False,False,False,False
+A-1355975,IA,Pottawattamie,Walnut,Source2,3,41.49723400000001,-95.221466,2020,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1359883,IA,Pottawattamie,Minden,Source2,3,41.497036,-95.585007,2020,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1363933,IA,Pottawattamie,Council Bluffs,Source2,3,41.243408,-95.823013,2020,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1374290,IA,Pottawattamie,Crescent,Source2,4,41.354301,-95.900917,2020,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1376288,IA,Pottawattamie,Council Bluffs,Source2,3,41.23193,-95.90654,2020,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1378497,IA,Pottawattamie,Underwood,Source2,4,41.37566,-95.676247,2020,16,Monday,Sin dato,False,False,False,False,False,False,False
+A-1382798,IA,Pottawattamie,Council Bluffs,Source2,4,41.275146,-95.881889,2020,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1382799,IA,Pottawattamie,Crescent,Source2,3,41.354301,-95.900917,2020,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1388759,IA,Pottawattamie,Minden,Source2,3,41.496895,-95.584763,2020,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1388761,IA,Pottawattamie,Neola,Source2,3,41.440926,-95.611771,2020,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1390183,IA,Pottawattamie,Underwood,Source2,4,41.375591,-95.676125,2020,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1399983,IA,Pottawattamie,Council Bluffs,Source2,3,41.241253,-95.823372,2020,11,Sunday,Rain,False,False,False,False,False,False,False
+A-1399984,IA,Pottawattamie,Council Bluffs,Source2,3,41.232479,-95.879425,2020,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1401021,IA,Pottawattamie,Council Bluffs,Source2,3,41.241253,-95.823372,2020,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-1402551,IA,Pottawattamie,Council Bluffs,Source2,3,41.28027700000001,-95.784645,2020,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1404069,IA,Pottawattamie,Council Bluffs,Source2,3,41.275146,-95.881889,2020,15,Wednesday,Rain,False,False,False,False,False,False,False
+A-1411219,IA,Pottawattamie,Shelby,Source2,3,41.498959,-95.446777,2020,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1412536,IA,Pottawattamie,Council Bluffs,Source2,3,41.23193,-95.90654,2020,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1412541,IA,Pottawattamie,Council Bluffs,Source2,3,41.260929,-95.914948,2020,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1414093,IA,Pottawattamie,Avoca,Source2,3,41.4977,-95.336281,2020,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1414094,IA,Pottawattamie,Walnut,Source2,3,41.49723400000001,-95.221466,2020,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1417933,IA,Pottawattamie,Neola,Source2,3,41.440926,-95.611771,2020,9,Monday,Sin dato,False,False,False,False,False,False,False
+A-1417935,IA,Pottawattamie,Minden,Source2,3,41.498085,-95.549515,2020,10,Monday,Rain,False,False,False,False,False,False,False
+A-1419271,IA,Pottawattamie,Neola,Source2,3,41.440926,-95.611771,2020,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1428264,IA,Pottawattamie,Crescent,Source2,3,41.346531,-95.9356,2020,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1428265,IA,Pottawattamie,Crescent,Source2,3,41.354301,-95.900917,2020,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1429896,IA,Pottawattamie,Council Bluffs,Source2,3,41.241253,-95.823372,2020,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1429898,IA,Pottawattamie,Council Bluffs,Source2,3,41.241253,-95.823372,2020,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1438206,IA,Pottawattamie,Council Bluffs,Source2,3,41.232288,-95.879257,2020,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1438207,IA,Pottawattamie,Council Bluffs,Source2,3,41.232258,-95.870682,2020,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1442328,IA,Pottawattamie,Crescent,Source2,4,41.346531,-95.9356,2020,1,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1449606,IA,Pottawattamie,Neola,Source2,3,41.49880200000001,-95.746498,2020,8,Wednesday,Fog / Low visibility,False,False,True,False,False,False,False
+A-1449608,IA,Pottawattamie,Neola,Source2,3,41.498779,-95.599442,2020,8,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1456865,IA,Pottawattamie,Minden,Source2,3,41.498173,-95.54612,2020,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1456881,IA,Pottawattamie,Shelby,Source2,3,41.498741,-95.45108,2020,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1460334,IA,Pottawattamie,Council Bluffs,Source2,3,41.25262100000001,-95.907181,2020,7,Saturday,Rain,False,False,False,False,False,False,False
+A-1461820,IA,Pottawattamie,Minden,Source2,3,41.498173,-95.54612,2020,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1470907,IA,Pottawattamie,Council Bluffs,Source2,3,41.28027700000001,-95.784645,2020,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1473009,IA,Pottawattamie,Council Bluffs,Source2,3,41.231991,-95.853317,2020,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-1489238,IA,Pottawattamie,Council Bluffs,Source2,3,41.232624,-95.853722,2020,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1489240,IA,Pottawattamie,Council Bluffs,Source2,3,41.241253,-95.823372,2020,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1491907,IA,Pottawattamie,Missouri Valley,Source2,3,41.492035,-95.900429,2020,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1505328,IA,Pottawattamie,Minden,Source2,3,41.49802,-95.542793,2020,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1510553,IA,Pottawattamie,Council Bluffs,Source2,3,41.256569,-95.907097,2020,15,Thursday,Storm,False,False,False,False,False,False,False
+A-1517962,IA,Pottawattamie,Crescent,Source2,3,41.353092,-95.899796,2020,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1519812,IA,Pottawattamie,Council Bluffs,Source2,3,41.230789,-95.843849,2020,8,Monday,Rain,False,False,False,False,False,False,False
+A-1519827,IA,Pottawattamie,Council Bluffs,Source2,3,41.274799,-95.879097,2020,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-1521806,IA,Pottawattamie,Council Bluffs,Source2,3,41.234138,-95.898994,2020,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1529512,IA,Pottawattamie,Council Bluffs,Source2,3,41.28015900000001,-95.785072,2020,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1538723,IA,Pottawattamie,Walnut,Source2,3,41.49723400000001,-95.221466,2020,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-1539956,IA,Pottawattamie,Council Bluffs,Source2,3,41.231987,-95.833504,2020,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1545276,IA,Pottawattamie,Minden,Source2,3,41.497993,-95.545586,2020,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-1545277,IA,Pottawattamie,Minden,Source2,3,41.498173,-95.54612,2020,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-1548418,IA,Pottawattamie,Missouri Valley,Source2,3,41.501831,-95.903549,2020,6,Tuesday,Rain,False,False,False,False,False,False,False
+A-1548427,IA,Pottawattamie,Missouri Valley,Source2,3,41.49157,-95.903633,2020,9,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1551639,IA,Pottawattamie,Underwood,Source2,3,41.37566,-95.676247,2020,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1551640,IA,Pottawattamie,Underwood,Source2,3,41.37566,-95.676247,2020,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1551642,IA,Pottawattamie,Underwood,Source2,3,41.37566,-95.676247,2020,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1553910,IA,Pottawattamie,Council Bluffs,Source2,3,41.244225,-95.90583,2020,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1566738,IA,Pottawattamie,Council Bluffs,Source2,3,41.232262,-95.873337,2020,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1577180,IA,Pottawattamie,Council Bluffs,Source2,3,41.231972,-95.85141,2020,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-1577188,IA,Pottawattamie,Council Bluffs,Source2,3,41.231003,-95.846497,2020,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1585025,IA,Pottawattamie,Shelby,Source2,3,41.498741,-95.45108,2020,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-1585742,IA,Pottawattamie,Council Bluffs,Source2,3,41.241699,-95.823097,2020,16,Friday,Snow / Ice,True,False,False,False,False,False,False
+A-1585743,IA,Pottawattamie,Council Bluffs,Source2,3,41.241699,-95.823097,2020,16,Friday,Snow / Ice,True,False,False,False,False,False,False
+A-1598418,IA,Pottawattamie,Crescent,Source2,3,41.354301,-95.900917,2020,10,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1598568,IA,Pottawattamie,Shelby,Source2,3,41.498741,-95.45108,2020,16,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1598572,IA,Pottawattamie,Shelby,Source2,3,41.498741,-95.45108,2020,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1606149,IA,Pottawattamie,Missouri Valley,Source2,3,41.492035,-95.900429,2020,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1622467,IA,Pottawattamie,Council Bluffs,Source2,3,41.24342,-95.823013,2020,7,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1650814,IA,Pottawattamie,Minden,Source2,3,41.496895,-95.584763,2020,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1669192,IA,Pottawattamie,Council Bluffs,Source2,3,41.230789,-95.843849,2020,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1669193,IA,Pottawattamie,Council Bluffs,Source2,3,41.241699,-95.823097,2020,12,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-1685706,IA,Pottawattamie,Council Bluffs,Source2,3,41.238689,-95.825279,2019,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1712006,IA,Pottawattamie,Council Bluffs,Source2,3,41.232433,-95.880196,2019,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1714810,IA,Pottawattamie,Council Bluffs,Source2,4,41.244213,-95.905823,2019,9,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1714811,IA,Pottawattamie,Council Bluffs,Source2,3,41.260696,-95.915749,2019,9,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1714814,IA,Pottawattamie,Council Bluffs,Source2,3,41.241699,-95.823097,2019,15,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-1714896,IA,Pottawattamie,Crescent,Source2,3,41.418926,-95.900826,2019,9,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1714908,IA,Pottawattamie,Walnut,Source2,3,41.49723400000001,-95.221466,2019,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-1714916,IA,Pottawattamie,Crescent,Source2,3,41.419224,-95.900688,2019,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-1716500,IA,Pottawattamie,Walnut,Source2,3,41.49723400000001,-95.221466,2019,10,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-1721934,IA,Pottawattamie,Walnut,Source2,3,41.497612,-95.186646,2019,8,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1724431,IA,Pottawattamie,Council Bluffs,Source2,3,41.220833,-95.832001,2019,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1736406,IA,Pottawattamie,Crescent,Source2,3,41.356979,-95.900101,2019,3,Thursday,Rain,False,False,False,False,False,False,False
+A-1738264,IA,Pottawattamie,Minden,Source2,3,41.498142,-95.546112,2019,9,Monday,Sin dato,False,False,False,False,False,False,False
+A-1738265,IA,Pottawattamie,Minden,Source2,3,41.498173,-95.54612,2019,9,Monday,Sin dato,False,False,False,False,False,False,False
+A-1743394,IA,Pottawattamie,Council Bluffs,Source2,3,41.275146,-95.881889,2019,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1743395,IA,Pottawattamie,Council Bluffs,Source2,3,41.271206,-95.9021,2019,6,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-1750105,IA,Pottawattamie,Council Bluffs,Source2,3,41.26909600000001,-95.907494,2019,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1755314,IA,Pottawattamie,Walnut,Source2,3,41.49723400000001,-95.221466,2019,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1755315,IA,Pottawattamie,Walnut,Source2,3,41.49723400000001,-95.221466,2019,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1764865,IA,Pottawattamie,Crescent,Source2,3,41.346531,-95.9356,2019,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1767466,IA,Pottawattamie,Council Bluffs,Source2,3,41.232941,-95.87674,2019,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-1773050,IA,Pottawattamie,Crescent,Source2,3,41.417488,-95.901382,2019,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1773051,IA,Pottawattamie,Crescent,Source2,3,41.420849,-95.900177,2019,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1778193,IA,Pottawattamie,Neola,Source2,3,41.440926,-95.611771,2019,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1778201,IA,Pottawattamie,Crescent,Source2,3,41.419224,-95.900688,2019,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1778202,IA,Pottawattamie,Missouri Valley,Source2,3,41.490273,-95.900703,2019,17,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1779864,IA,Pottawattamie,Walnut,Source2,3,41.49723400000001,-95.221466,2019,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1782178,IA,Pottawattamie,Council Bluffs,Source2,3,41.232433,-95.880196,2019,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-1784784,IA,Pottawattamie,Council Bluffs,Source2,3,41.261787,-95.911247,2019,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1784789,IA,Pottawattamie,Council Bluffs,Source2,3,41.253414,-95.906677,2019,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1792824,IA,Pottawattamie,Council Bluffs,Source2,3,41.26313,-95.909637,2019,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1792825,IA,Pottawattamie,Council Bluffs,Source2,3,41.26313,-95.909637,2019,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1811829,IA,Pottawattamie,Council Bluffs,Source2,3,41.232433,-95.880196,2019,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-1811994,IA,Pottawattamie,Minden,Source2,3,41.498566,-95.57753,2019,3,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1850870,IA,Pottawattamie,Council Bluffs,Source2,3,41.26313,-95.909637,2019,6,Friday,Rain,False,False,False,False,False,False,False
+A-1872027,IA,Pottawattamie,Neola,Source2,3,41.440926,-95.611771,2019,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1872786,IA,Pottawattamie,Council Bluffs,Source2,3,41.242268,-95.823761,2019,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1879351,IA,Pottawattamie,Council Bluffs,Source2,3,41.219646,-95.8312,2019,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1885102,IA,Pottawattamie,Council Bluffs,Source2,3,41.261269,-95.91095,2019,3,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1887128,IA,Pottawattamie,Underwood,Source2,3,41.37566,-95.676247,2019,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1892300,IA,Pottawattamie,Council Bluffs,Source2,3,41.28772,-95.867432,2019,17,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-1894728,IA,Pottawattamie,Council Bluffs,Source2,4,41.261837,-95.907341,2019,14,Thursday,Rain,True,False,False,False,False,False,False
+A-1935757,IA,Pottawattamie,Minden,Source2,3,41.475475,-95.590446,2019,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1938042,IA,Pottawattamie,Council Bluffs,Source2,4,41.231007,-95.846504,2019,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1945339,IA,Pottawattamie,Crescent,Source2,3,41.345921,-95.932266,2019,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1945340,IA,Pottawattamie,Crescent,Source2,3,41.347641,-95.936859,2019,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1958049,IA,Pottawattamie,Council Bluffs,Source2,3,41.232208,-95.880211,2019,6,Tuesday,Storm,False,False,False,False,False,False,False
+A-1958060,IA,Pottawattamie,Council Bluffs,Source2,3,41.253414,-95.906677,2019,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1964400,IA,Pottawattamie,Council Bluffs,Source2,3,41.233528,-95.899582,2019,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1966557,IA,Pottawattamie,Underwood,Source2,3,41.37566,-95.676247,2019,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1968143,IA,Pottawattamie,Shelby,Source2,4,41.498741,-95.45108,2019,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1970300,IA,Pottawattamie,Council Bluffs,Source2,3,41.232433,-95.880196,2019,7,Tuesday,Rain,False,False,False,False,False,False,False
+A-1978647,IA,Pottawattamie,Minden,Source2,3,41.497932,-95.582787,2019,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1991059,IA,Pottawattamie,Crescent,Source2,3,41.354401,-95.900589,2019,18,Saturday,Cloudy,False,False,True,False,False,False,False
+A-2007456,IA,Pottawattamie,Council Bluffs,Source2,3,41.280521,-95.784683,2019,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2009811,IA,Pottawattamie,Neola,Source2,3,41.498882,-95.600372,2019,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2025206,IA,Pottawattamie,Walnut,Source2,3,41.49723400000001,-95.221466,2019,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2032698,IA,Pottawattamie,Council Bluffs,Source2,3,41.260586,-95.803215,2019,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2032699,IA,Pottawattamie,Council Bluffs,Source2,3,41.280521,-95.784683,2019,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2042914,IA,Pottawattamie,Council Bluffs,Source2,3,41.219646,-95.8312,2019,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2047475,IA,Pottawattamie,Council Bluffs,Source2,3,41.250759,-95.906677,2019,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2052050,IA,Pottawattamie,Council Bluffs,Source2,3,41.241699,-95.82312,2019,15,Friday,Cloudy,True,False,False,False,False,False,False
+A-2058246,IA,Pottawattamie,Council Bluffs,Source2,3,41.232433,-95.880196,2019,15,Tuesday,Rain,False,False,False,False,False,False,False
+A-2058247,IA,Pottawattamie,Council Bluffs,Source2,3,41.232433,-95.880196,2019,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-2062905,IA,Pottawattamie,Council Bluffs,Source2,3,41.232811,-95.850288,2019,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2065376,IA,Pottawattamie,Council Bluffs,Source2,3,41.233528,-95.899582,2019,6,Friday,Storm,False,False,False,False,False,False,False
+A-2065474,IA,Pottawattamie,Missouri Valley,Source2,3,41.49157,-95.903633,2019,8,Friday,Rain,False,False,False,False,False,False,False
+A-2069049,IA,Pottawattamie,Council Bluffs,Source2,3,41.241699,-95.82312,2019,7,Monday,Cloudy,True,False,False,False,False,False,False
+A-2069053,IA,Pottawattamie,Council Bluffs,Source2,3,41.230789,-95.843849,2019,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2079194,IA,Pottawattamie,Walnut,Source2,3,41.49723400000001,-95.221466,2019,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2083637,IA,Pottawattamie,Crescent,Source2,3,41.344952,-95.93618,2019,6,Thursday,Cloudy,False,False,False,True,False,False,False
+A-2085936,IA,Pottawattamie,Council Bluffs,Source2,3,41.219646,-95.8312,2019,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-2085946,IA,Pottawattamie,Council Bluffs,Source2,3,41.232433,-95.880196,2019,17,Monday,Rain,False,False,False,False,False,False,False
+A-2110842,IA,Pottawattamie,Avoca,Source2,3,41.497742,-95.35498,2019,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2122040,IA,Pottawattamie,Council Bluffs,Source2,3,41.232433,-95.880196,2019,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-2123496,IA,Pottawattamie,Council Bluffs,Source2,3,41.275146,-95.881889,2019,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2124173,IA,Pottawattamie,Avoca,Source2,3,41.4977,-95.336281,2019,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2131706,IA,Pottawattamie,Minden,Source2,3,41.496895,-95.584763,2019,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2138687,IA,Pottawattamie,Avoca,Source2,4,41.4977,-95.336281,2019,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2140987,IA,Pottawattamie,Council Bluffs,Source2,3,41.288658,-95.866089,2019,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-2150648,IA,Pottawattamie,Underwood,Source2,3,41.375317,-95.676605,2019,4,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2154608,IA,Pottawattamie,Crescent,Source2,3,41.345921,-95.932266,2019,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2161944,IA,Pottawattamie,Council Bluffs,Source2,3,41.21909,-95.82972,2019,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2162079,IA,Pottawattamie,Neola,Source2,4,41.496521,-95.585709,2019,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2166152,IA,Pottawattamie,Council Bluffs,Source2,3,41.220123,-95.831833,2019,6,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2173051,IA,Pottawattamie,Avoca,Source2,3,41.4977,-95.336281,2019,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2175283,IA,Pottawattamie,Shelby,Source2,3,41.498741,-95.45108,2019,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2185719,IA,Pottawattamie,Council Bluffs,Source2,3,41.26313,-95.909637,2019,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2206772,IA,Pottawattamie,Council Bluffs,Source2,3,41.244556,-95.905884,2019,5,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2209112,IA,Pottawattamie,Council Bluffs,Source2,3,41.244556,-95.905884,2019,13,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2212799,IA,Pottawattamie,Council Bluffs,Source2,3,41.26185200000001,-95.909302,2019,6,Monday,Cloudy,True,False,False,False,False,False,False
+A-2216932,IA,Pottawattamie,Council Bluffs,Source2,3,41.230736,-95.843735,2019,22,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2231479,IA,Pottawattamie,Council Bluffs,Source2,3,41.244556,-95.905884,2019,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2234008,IA,Pottawattamie,Council Bluffs,Source2,3,41.232574,-95.900055,2019,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-2235482,IA,Pottawattamie,Council Bluffs,Source2,4,41.241993,-95.82254,2019,7,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-2250149,IA,Pottawattamie,Council Bluffs,Source2,3,41.241611,-95.822273,2019,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2254324,IA,Pottawattamie,Council Bluffs,Source2,3,41.261929,-95.904678,2019,14,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-2254326,IA,Pottawattamie,Council Bluffs,Source2,3,41.241993,-95.82254,2019,20,Saturday,Sin dato,True,False,False,False,False,False,False
+A-2261054,IA,Pottawattamie,Council Bluffs,Source2,3,41.241993,-95.82254,2019,11,Sunday,Fog / Low visibility,True,False,False,False,False,False,False
+A-2261056,IA,Pottawattamie,Council Bluffs,Source2,3,41.275291,-95.881203,2019,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2262709,IA,Pottawattamie,Neola,Source2,3,41.440247,-95.613213,2019,3,Monday,Cloudy,False,False,False,False,False,False,False
+A-2270632,IA,Pottawattamie,Council Bluffs,Source2,3,41.241993,-95.82254,2019,5,Thursday,Snow / Ice,True,False,False,False,False,False,False
+A-2270634,IA,Pottawattamie,Council Bluffs,Source2,3,41.231407,-95.845238,2019,5,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2270637,IA,Pottawattamie,Council Bluffs,Source2,3,41.232361,-95.896957,2019,6,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2270644,IA,Pottawattamie,Council Bluffs,Source2,3,41.232067,-95.83876,2019,6,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2270647,IA,Pottawattamie,Council Bluffs,Source2,3,41.244556,-95.905884,2019,7,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2270649,IA,Pottawattamie,Council Bluffs,Source2,3,41.231972,-95.90966,2019,7,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2270662,IA,Pottawattamie,Underwood,Source2,3,41.375317,-95.676605,2019,10,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2270861,IA,Pottawattamie,Minden,Source2,3,41.490955,-95.586464,2019,7,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2296800,IA,Pottawattamie,Underwood,Source2,3,41.375317,-95.676605,2019,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2301879,IA,Pottawattamie,Council Bluffs,Source2,3,41.231995,-95.855202,2019,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-2305253,IA,Pottawattamie,Underwood,Source2,3,41.375317,-95.676605,2019,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2305349,IA,Pottawattamie,Missouri Valley,Source2,3,41.491642,-95.900108,2019,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2310070,IA,Pottawattamie,Council Bluffs,Source2,3,41.220123,-95.831833,2019,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2318032,IA,Pottawattamie,Shelby,Source2,3,41.49873,-95.451195,2019,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2319449,IA,Pottawattamie,Underwood,Source2,3,41.3741,-95.676399,2019,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2320312,IA,Pottawattamie,Council Bluffs,Source2,3,41.253479,-95.906754,2019,6,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2326835,IA,Pottawattamie,Council Bluffs,Source2,3,41.280643,-95.784409,2019,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2333046,IA,Pottawattamie,Council Bluffs,Source2,3,41.261269,-95.91095,2019,19,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2333047,IA,Pottawattamie,Council Bluffs,Source2,3,41.220123,-95.831833,2019,20,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2333048,IA,Pottawattamie,Council Bluffs,Source2,3,41.28593400000001,-95.868019,2019,20,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2345653,IA,Pottawattamie,Shelby,Source2,3,41.498959,-95.446777,2019,19,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2348048,IA,Pottawattamie,Council Bluffs,Source2,3,41.244556,-95.905884,2019,8,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-2348050,IA,Pottawattamie,Council Bluffs,Source2,3,41.231407,-95.845238,2019,11,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-2348054,IA,Pottawattamie,Underwood,Source2,3,41.375317,-95.676605,2019,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2348056,IA,Pottawattamie,Council Bluffs,Source2,3,41.279591,-95.785019,2019,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2349390,IA,Pottawattamie,Council Bluffs,Source2,3,41.232998,-95.891022,2019,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-2351792,IA,Pottawattamie,Council Bluffs,Source2,3,41.232426,-95.85144,2019,7,Tuesday,Rain,False,False,False,False,False,False,False
+A-2354533,IA,Pottawattamie,Council Bluffs,Source2,3,41.231407,-95.845238,2019,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2354534,IA,Pottawattamie,Council Bluffs,Source2,3,41.232376,-95.88649,2019,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2357506,IA,Pottawattamie,Council Bluffs,Source2,3,41.232311,-95.896118,2019,6,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2357514,IA,Pottawattamie,Underwood,Source2,3,41.375317,-95.676605,2019,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2357518,IA,Pottawattamie,Council Bluffs,Source2,3,41.2342,-95.900497,2019,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2364369,IA,Pottawattamie,Walnut,Source2,3,41.497986,-95.169777,2019,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2364380,IA,Pottawattamie,Walnut,Source2,3,41.49723400000001,-95.221375,2019,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2373887,IA,Pottawattamie,Shelby,Source2,3,41.498852,-95.451149,2018,10,Saturday,Sin dato,False,False,False,False,False,False,False
+A-2376262,IA,Pottawattamie,Council Bluffs,Source2,3,41.227749,-95.837906,2018,7,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2406381,IA,Pottawattamie,Council Bluffs,Source2,3,41.232311,-95.896118,2018,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2413981,IA,Pottawattamie,Council Bluffs,Source2,3,41.27882,-95.784401,2018,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-2419313,IA,Pottawattamie,Council Bluffs,Source2,3,41.261871,-95.908081,2018,8,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2419317,IA,Pottawattamie,Council Bluffs,Source2,3,41.261829,-95.910622,2018,9,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2419445,IA,Pottawattamie,Walnut,Source2,3,41.497158,-95.213814,2018,9,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2420715,IA,Pottawattamie,Avoca,Source2,3,41.497673,-95.337189,2018,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2422484,IA,Pottawattamie,Council Bluffs,Source2,3,41.280643,-95.784409,2018,19,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2446138,IA,Pottawattamie,Council Bluffs,Source2,3,41.261864,-95.90892,2018,6,Friday,Snow / Ice,True,False,False,False,False,False,False
+A-2448121,IA,Pottawattamie,Council Bluffs,Source2,3,41.279976,-95.784752,2018,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2462333,IA,Pottawattamie,Council Bluffs,Source2,3,41.231979,-95.883461,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2462477,IA,Pottawattamie,Neola,Source2,3,41.440838,-95.612091,2018,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2464155,IA,Pottawattamie,Missouri Valley,Source2,3,41.493862,-95.901283,2018,15,Saturday,Cloudy,False,False,True,False,False,False,False
+A-2472246,IA,Pottawattamie,Council Bluffs,Source2,3,41.242157,-95.823868,2018,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2476034,IA,Pottawattamie,Council Bluffs,Source2,3,41.279976,-95.784752,2018,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-2476040,IA,Pottawattamie,Council Bluffs,Source2,3,41.231979,-95.883461,2018,8,Friday,Rain,False,False,False,False,False,False,False
+A-2479941,IA,Pottawattamie,Neola,Source2,3,41.496014,-95.587318,2018,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2482579,IA,Pottawattamie,Minden,Source2,3,41.496861,-95.584419,2018,5,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-2489797,IA,Pottawattamie,Council Bluffs,Source2,3,41.229015,-95.837303,2018,8,Monday,Rain,False,False,False,False,False,False,False
+A-2503481,IA,Pottawattamie,Neola,Source2,3,41.49880200000001,-95.746048,2018,11,Sunday,Cloudy,False,False,True,False,False,False,False
+A-2505048,IA,Pottawattamie,Council Bluffs,Source2,3,41.23222,-95.851509,2018,5,Monday,Rain,False,False,False,False,False,False,False
+A-2521684,IA,Pottawattamie,Avoca,Source2,3,41.497669,-95.336342,2018,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2524480,IA,Pottawattamie,Council Bluffs,Source2,3,41.268055,-95.908188,2018,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2532462,IA,Pottawattamie,Crescent,Source2,3,41.419353,-95.900558,2018,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2543333,IA,Pottawattamie,Council Bluffs,Source2,3,41.242184,-95.90464,2018,12,Thursday,Rain,False,False,False,False,False,False,False
+A-2554090,IA,Pottawattamie,Council Bluffs,Source2,3,41.230396,-95.8339,2018,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2558346,IA,Pottawattamie,Council Bluffs,Source2,3,41.232681,-95.879204,2018,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2558347,IA,Pottawattamie,Crescent,Source2,3,41.354202,-95.900444,2018,13,Saturday,Cloudy,False,False,True,False,False,False,False
+A-2564705,IA,Pottawattamie,Crescent,Source2,3,41.352524,-95.906036,2018,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2579645,IA,Pottawattamie,Council Bluffs,Source2,3,41.261864,-95.90892,2018,10,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-2596470,IA,Pottawattamie,Council Bluffs,Source2,3,41.242184,-95.90464,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2617422,IA,Pottawattamie,Neola,Source2,3,41.440838,-95.612091,2018,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2640519,IA,Pottawattamie,Council Bluffs,Source2,3,41.229015,-95.837303,2018,19,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2645260,IA,Pottawattamie,Council Bluffs,Source2,3,41.229015,-95.837303,2018,10,Tuesday,Rain,False,False,False,False,False,False,False
+A-2652893,IA,Pottawattamie,Avoca,Source2,3,41.497669,-95.336342,2018,16,Friday,Sin dato,False,False,False,False,False,False,False
+A-2654386,IA,Pottawattamie,Council Bluffs,Source2,3,41.275097,-95.881729,2018,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2655234,IA,Pottawattamie,Council Bluffs,Source2,3,41.279915,-95.784485,2018,15,Sunday,Rain,False,False,False,False,False,False,False
+A-2656782,IA,Pottawattamie,Council Bluffs,Source2,3,41.242157,-95.823868,2018,10,Monday,Rain,False,False,False,False,False,False,False
+A-2664441,IA,Pottawattamie,Minden,Source2,3,41.498169,-95.546188,2018,12,Thursday,Sin dato,False,False,False,False,False,False,False
+A-2669041,IA,Pottawattamie,Council Bluffs,Source2,3,41.261864,-95.90892,2018,18,Sunday,Cloudy,True,False,False,False,False,False,False
+A-2680193,IA,Pottawattamie,Council Bluffs,Source2,3,41.262653,-95.909569,2018,7,Saturday,Sin dato,False,False,False,False,False,False,False
+A-2686416,IA,Pottawattamie,Council Bluffs,Source2,3,41.23222,-95.851509,2018,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2686454,IA,Pottawattamie,Minden,Source2,3,41.497444,-95.544777,2018,12,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-2688099,IA,Pottawattamie,Crescent,Source2,3,41.354202,-95.900444,2018,6,Thursday,Cloudy,False,False,True,False,False,False,False
+A-2690254,IA,Pottawattamie,Council Bluffs,Source2,3,41.285461,-95.867393,2018,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-2692310,IA,Pottawattamie,Council Bluffs,Source2,3,41.275097,-95.881729,2018,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2702913,IA,Pottawattamie,Council Bluffs,Source2,3,41.232075,-95.862801,2018,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2704332,IA,Pottawattamie,Council Bluffs,Source2,3,41.232773,-95.897675,2018,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2712641,IA,Pottawattamie,Council Bluffs,Source2,3,41.23222,-95.851509,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2716719,IA,Pottawattamie,Council Bluffs,Source2,3,41.213036,-95.824402,2018,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2730439,IA,Pottawattamie,Council Bluffs,Source2,3,41.288692,-95.778938,2018,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2734309,IA,Pottawattamie,Avoca,Source2,3,41.497669,-95.336342,2018,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2734311,IA,Pottawattamie,Avoca,Source2,3,41.497669,-95.336342,2018,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2736758,IA,Pottawattamie,Council Bluffs,Source2,3,41.253693,-95.906944,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2738348,IA,Pottawattamie,Council Bluffs,Source2,3,41.23222,-95.851509,2018,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2738367,IA,Pottawattamie,Walnut,Source2,3,41.497395,-95.222153,2018,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2740759,IA,Pottawattamie,Council Bluffs,Source2,3,41.232681,-95.879204,2018,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-2743009,IA,Pottawattamie,Council Bluffs,Source2,3,41.232681,-95.879204,2018,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2756780,IA,Pottawattamie,Council Bluffs,Source2,3,41.232681,-95.879204,2018,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2759075,IA,Pottawattamie,Council Bluffs,Source2,3,41.232681,-95.879204,2018,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2767886,IA,Pottawattamie,Council Bluffs,Source2,3,41.242157,-95.823868,2018,16,Monday,Rain,False,False,False,False,False,False,False
+A-2767887,IA,Pottawattamie,Council Bluffs,Source2,3,41.242157,-95.823868,2018,16,Monday,Rain,False,False,False,False,False,False,False
+A-2770307,IA,Pottawattamie,Council Bluffs,Source2,3,41.277103,-95.786819,2018,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2770308,IA,Pottawattamie,Council Bluffs,Source2,3,41.277103,-95.786819,2018,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2772599,IA,Pottawattamie,Council Bluffs,Source2,3,41.261864,-95.90892,2018,5,Wednesday,Rain,True,False,False,False,False,False,False
+A-2772601,IA,Pottawattamie,Council Bluffs,Source2,3,41.261864,-95.90892,2018,5,Wednesday,Rain,True,False,False,False,False,False,False
+A-2778680,IA,Pottawattamie,Shelby,Source2,3,41.498852,-95.451149,2018,6,Saturday,Sin dato,False,False,False,False,False,False,False
+A-2783443,IA,Pottawattamie,Council Bluffs,Source2,3,41.231831,-95.907463,2018,7,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-2788282,IA,Pottawattamie,Council Bluffs,Source2,3,41.253693,-95.906944,2018,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2788283,IA,Pottawattamie,Council Bluffs,Source2,3,41.242184,-95.90464,2018,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2793095,IA,Pottawattamie,Avoca,Source2,3,41.497673,-95.336868,2018,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2793096,IA,Pottawattamie,Avoca,Source2,3,41.497669,-95.336342,2018,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2795560,IA,Pottawattamie,Council Bluffs,Source2,3,41.279976,-95.784752,2018,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2798361,IA,Pottawattamie,Neola,Source2,3,41.498959,-95.599854,2018,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2798362,IA,Pottawattamie,Minden,Source2,3,41.496861,-95.584419,2018,21,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2803670,IA,Pottawattamie,Crescent,Source2,3,41.346359,-95.935844,2018,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-2806113,IA,Pottawattamie,Council Bluffs,Source2,3,41.242157,-95.823868,2018,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2806123,IA,Pottawattamie,Council Bluffs,Source2,3,41.242157,-95.823868,2018,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2812820,IA,Pottawattamie,Shelby,Source2,3,41.498627,-95.450256,2018,21,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2818083,IA,Pottawattamie,Council Bluffs,Source2,3,41.232162,-95.879181,2018,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-2820773,IA,Pottawattamie,Underwood,Source2,3,41.37624,-95.675781,2018,8,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2820774,IA,Pottawattamie,Council Bluffs,Source2,3,41.279976,-95.784752,2018,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2820775,IA,Pottawattamie,Council Bluffs,Source2,3,41.24247,-95.823578,2018,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2822545,IA,Pottawattamie,Minden,Source2,3,41.496861,-95.584419,2018,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2827821,IA,Pottawattamie,Crescent,Source2,3,41.354202,-95.900444,2018,15,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-2835604,IA,Pottawattamie,Council Bluffs,Source2,3,41.261864,-95.90892,2018,18,Sunday,Cloudy,True,False,False,False,False,False,False
+A-2837433,IA,Pottawattamie,Avoca,Source2,3,41.497669,-95.336342,2018,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-2839839,IA,Pottawattamie,Council Bluffs,Source2,3,41.261105,-95.910172,2018,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2842441,IA,Pottawattamie,Council Bluffs,Source2,3,41.220905,-95.832054,2018,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2850092,IA,Pottawattamie,Crescent,Source2,3,41.354202,-95.900444,2018,13,Sunday,Cloudy,False,False,True,False,False,False,False
+A-2850093,IA,Pottawattamie,Council Bluffs,Source2,3,41.242184,-95.90464,2018,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2850095,IA,Pottawattamie,Council Bluffs,Source2,3,41.23222,-95.851509,2018,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2851343,IA,Pottawattamie,Missouri Valley,Source2,3,41.499306,-95.901703,2018,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2851344,IA,Pottawattamie,Missouri Valley,Source2,3,41.499306,-95.901703,2018,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2859836,IA,Pottawattamie,Missouri Valley,Source2,3,41.494759,-95.893494,2018,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-2859842,IA,Pottawattamie,Missouri Valley,Source2,3,41.493687,-95.901268,2018,16,Monday,Cloudy,False,False,True,False,False,False,False
+A-2862176,IA,Pottawattamie,Council Bluffs,Source2,3,41.232773,-95.897675,2018,5,Tuesday,Rain,False,False,False,False,False,False,False
+A-2864750,IA,Pottawattamie,Council Bluffs,Source2,3,41.261864,-95.90892,2018,16,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-2864751,IA,Pottawattamie,Council Bluffs,Source2,3,41.261864,-95.90892,2018,16,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-2869548,IA,Pottawattamie,Council Bluffs,Source2,3,41.23222,-95.851509,2018,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-2869550,IA,Pottawattamie,Council Bluffs,Source2,3,41.229015,-95.837303,2018,6,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2881379,IA,Pottawattamie,Council Bluffs,Source2,3,41.285461,-95.867393,2018,8,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2881395,IA,Pottawattamie,Council Bluffs,Source2,3,41.23222,-95.851509,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2881396,IA,Pottawattamie,Council Bluffs,Source2,3,41.23222,-95.851509,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2884041,IA,Pottawattamie,Council Bluffs,Source2,3,41.241779,-95.904625,2018,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2884143,IA,Pottawattamie,Walnut,Source2,3,41.497395,-95.222153,2018,17,Friday,Rain,False,False,False,False,False,False,False
+A-2896005,IA,Pottawattamie,Council Bluffs,Source2,3,41.23373,-95.900726,2018,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2896029,IA,Pottawattamie,Council Bluffs,Source2,3,41.253693,-95.906944,2018,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2900526,IA,Pottawattamie,Council Bluffs,Source2,3,41.229015,-95.837303,2018,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2903246,IA,Pottawattamie,Neola,Source2,3,41.498959,-95.599854,2018,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2903247,IA,Pottawattamie,Minden,Source2,3,41.498981,-95.578613,2018,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2903249,IA,Pottawattamie,Neola,Source2,3,41.498959,-95.599854,2018,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2908512,IA,Pottawattamie,Council Bluffs,Source2,3,41.261864,-95.90892,2018,6,Wednesday,Rain,True,False,False,False,False,False,False
+A-2916452,IA,Pottawattamie,Council Bluffs,Source2,3,41.242157,-95.823868,2018,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2950311,IA,Pottawattamie,Minden,Source2,3,41.496861,-95.584419,2018,12,Friday,Rain,False,False,False,False,False,False,False
+A-2954181,IA,Pottawattamie,Council Bluffs,Source2,3,41.253693,-95.906944,2018,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-2954182,IA,Pottawattamie,Council Bluffs,Source2,3,41.232773,-95.897675,2018,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-2956969,IA,Pottawattamie,Council Bluffs,Source2,3,41.261864,-95.90892,2018,15,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-2979042,IA,Pottawattamie,Crescent,Source2,3,41.354294,-95.900192,2018,15,Friday,Cloudy,False,False,True,False,False,False,False
+A-2990927,IA,Pottawattamie,Council Bluffs,Source2,3,41.232773,-95.897675,2018,14,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2990938,IA,Pottawattamie,Council Bluffs,Source2,3,41.231865,-95.910553,2018,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-2993716,IA,Pottawattamie,Missouri Valley,Source2,3,41.493687,-95.901268,2018,20,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-2996615,IA,Pottawattamie,Missouri Valley,Source2,3,41.493687,-95.901268,2018,12,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-3009122,IA,Pottawattamie,Council Bluffs,Source2,3,41.261997,-95.908295,2018,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3013912,IA,Pottawattamie,Council Bluffs,Source2,3,41.232681,-95.879204,2018,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3022670,IA,Pottawattamie,Crescent,Source2,3,41.354202,-95.900444,2018,10,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-3041140,IA,Pottawattamie,Council Bluffs,Source2,3,41.233223,-95.877937,2018,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3046110,IA,Pottawattamie,Underwood,Source2,3,41.37624,-95.675781,2018,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3046116,IA,Pottawattamie,Crescent,Source2,3,41.354202,-95.900444,2018,14,Thursday,Cloudy,False,False,True,False,False,False,False
+A-3050622,IA,Pottawattamie,Shelby,Source2,3,41.498852,-95.451149,2018,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3063881,IA,Pottawattamie,Council Bluffs,Source2,3,41.23222,-95.851509,2018,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-3063989,IA,Pottawattamie,Avoca,Source2,3,41.497669,-95.336342,2018,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3065412,IA,Pottawattamie,Neola,Source2,3,41.49880200000001,-95.746048,2018,8,Saturday,Cloudy,False,False,True,False,False,False,False
+A-3072998,IA,Pottawattamie,Council Bluffs,Source2,3,41.261864,-95.90892,2018,8,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-3078757,IA,Pottawattamie,Council Bluffs,Source2,3,41.242157,-95.823868,2018,6,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-3086542,IA,Pottawattamie,Council Bluffs,Source2,3,41.261478,-95.907257,2018,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3092927,IA,Pottawattamie,Missouri Valley,Source2,3,41.493862,-95.901283,2018,20,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-3095506,IA,Pottawattamie,Neola,Source2,3,41.49880200000001,-95.746048,2018,13,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-3098192,IA,Pottawattamie,Council Bluffs,Source2,3,41.242184,-95.90464,2017,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3098201,IA,Pottawattamie,Council Bluffs,Source2,3,41.220615,-95.831757,2017,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3098218,IA,Pottawattamie,Council Bluffs,Source2,3,41.232681,-95.879204,2017,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3104860,IA,Pottawattamie,Council Bluffs,Source2,3,41.279976,-95.784752,2017,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-3136153,IA,Pottawattamie,Walnut,Source2,3,41.497395,-95.222153,2017,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3136161,IA,Pottawattamie,Walnut,Source2,3,41.497395,-95.222153,2017,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3144541,IA,Pottawattamie,Council Bluffs,Source2,3,41.253693,-95.906944,2017,10,Thursday,Rain,False,False,False,False,False,False,False
+A-3144546,IA,Pottawattamie,Council Bluffs,Source2,3,41.244789,-95.905373,2017,12,Thursday,Rain,False,False,False,False,False,False,False
+A-3144550,IA,Pottawattamie,Council Bluffs,Source2,3,41.244789,-95.905373,2017,13,Thursday,Rain,False,False,False,False,False,False,False
+A-3147082,IA,Pottawattamie,Council Bluffs,Source2,3,41.229015,-95.837303,2017,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-3156085,IA,Pottawattamie,Council Bluffs,Source2,3,41.268505,-95.907692,2017,21,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3169780,IA,Pottawattamie,Council Bluffs,Source2,3,41.261864,-95.90892,2017,8,Monday,Cloudy,True,False,False,False,False,False,False
+A-3169797,IA,Pottawattamie,Council Bluffs,Source2,3,41.242157,-95.823868,2017,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3182284,IA,Pottawattamie,Crescent,Source2,3,41.354202,-95.900444,2017,7,Monday,Cloudy,False,False,True,False,False,False,False
+A-3182285,IA,Pottawattamie,Crescent,Source2,3,41.354202,-95.900444,2017,7,Monday,Cloudy,False,False,True,False,False,False,False
+A-3184599,IA,Pottawattamie,Council Bluffs,Source2,3,41.23222,-95.851509,2017,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3189555,IA,Pottawattamie,Council Bluffs,Source2,3,41.232006,-95.851509,2017,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3191757,IA,Pottawattamie,Council Bluffs,Source2,3,41.242184,-95.90464,2017,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-3195555,IA,Pottawattamie,Council Bluffs,Source2,3,41.232681,-95.879204,2017,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-3198480,IA,Pottawattamie,Council Bluffs,Source2,3,41.229015,-95.837303,2017,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3204822,IA,Pottawattamie,Crescent,Source2,3,41.419353,-95.900558,2017,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3233379,IA,Pottawattamie,Council Bluffs,Source2,3,41.232002,-95.85144,2017,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-3252998,IA,Pottawattamie,Missouri Valley,Source2,3,41.493862,-95.901283,2017,13,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-3255559,IA,Pottawattamie,Council Bluffs,Source2,3,41.229015,-95.837303,2017,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3281114,IA,Pottawattamie,Council Bluffs,Source2,3,41.261864,-95.90892,2017,6,Friday,Cloudy,True,False,False,False,False,False,False
+A-3289700,IA,Pottawattamie,Council Bluffs,Source2,3,41.232681,-95.879204,2017,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3289783,IA,Pottawattamie,Neola,Source2,3,41.498798,-95.74633,2017,7,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-3292626,IA,Pottawattamie,Council Bluffs,Source2,3,41.23222,-95.851509,2017,6,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3292627,IA,Pottawattamie,Council Bluffs,Source2,3,41.232681,-95.879204,2017,6,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3320994,IA,Pottawattamie,Avoca,Source2,3,41.497643,-95.335213,2017,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3324111,IA,Pottawattamie,Missouri Valley,Source2,3,41.493687,-95.901268,2017,12,Thursday,Cloudy,False,False,True,False,False,False,False
+A-3326905,IA,Pottawattamie,Council Bluffs,Source2,3,41.234509,-95.900795,2017,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-3330963,IA,Pottawattamie,Council Bluffs,Source2,3,41.232006,-95.851524,2017,12,Monday,Rain,False,False,False,False,False,False,False
+A-3339725,IA,Pottawattamie,Council Bluffs,Source2,3,41.23222,-95.851509,2017,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3339726,IA,Pottawattamie,Council Bluffs,Source2,3,41.242157,-95.823868,2017,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3339729,IA,Pottawattamie,Council Bluffs,Source2,3,41.231979,-95.883461,2017,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3339730,IA,Pottawattamie,Council Bluffs,Source2,3,41.231979,-95.883461,2017,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3342807,IA,Pottawattamie,Council Bluffs,Source2,3,41.260288,-95.915031,2017,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-3349432,IA,Pottawattamie,Council Bluffs,Source2,3,41.229015,-95.837303,2017,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3349433,IA,Pottawattamie,Council Bluffs,Source2,3,41.242157,-95.823868,2017,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3361311,IA,Pottawattamie,Council Bluffs,Source2,3,41.232681,-95.879204,2017,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-3361312,IA,Pottawattamie,Council Bluffs,Source2,3,41.242157,-95.823868,2017,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-3378232,IA,Pottawattamie,Council Bluffs,Source2,3,41.231998,-95.850906,2017,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3378233,IA,Pottawattamie,Council Bluffs,Source2,3,41.23222,-95.851509,2017,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3386682,IA,Pottawattamie,Council Bluffs,Source2,3,41.253128,-95.906685,2017,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-3393438,IA,Pottawattamie,Avoca,Source2,3,41.497669,-95.336342,2017,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3401931,IA,Pottawattamie,Council Bluffs,Source2,3,41.233925,-95.898842,2017,6,Friday,Rain,False,False,False,False,False,False,False
+A-3405941,IA,Pottawattamie,Council Bluffs,Source2,3,41.232681,-95.879204,2017,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-3408758,IA,Pottawattamie,Council Bluffs,Source2,3,41.233803,-95.894829,2017,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3425925,IA,Pottawattamie,Council Bluffs,Source1,4,41.301339,-95.771048,2016,22,Friday,Cloudy,False,False,False,False,False,False,False
+A-3425941,IA,Pottawattamie,Shelby,Source1,4,41.49875,-95.44465,2016,9,Saturday,Snow / Ice,False,False,True,False,False,False,False
+A-3426073,IA,Pottawattamie,Council Bluffs,Source1,3,41.232228000000006,-95.85604,2016,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-3426077,IA,Pottawattamie,Council Bluffs,Source1,3,41.232228000000006,-95.856031,2016,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-3426665,IA,Pottawattamie,Council Bluffs,Source1,3,41.23075,-95.8437,2016,17,Friday,Rain,False,False,False,False,False,False,False
+A-3428774,IA,Pottawattamie,Oakland,Source1,4,41.28899000000001,-95.403728,2017,7,Tuesday,Rain,False,False,False,True,False,False,False
+A-3428780,IA,Pottawattamie,Council Bluffs,Source1,4,41.28996,-95.67026,2017,7,Tuesday,Rain,False,False,False,False,False,False,False
+A-3433859,IA,Pottawattamie,Council Bluffs,Source1,4,41.23201,-95.85747,2016,3,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3439549,IA,Pottawattamie,Missouri Valley,Source1,3,41.494421,-95.898813,2016,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3510813,IA,Pottawattamie,Council Bluffs,Source1,3,41.23186,-95.90677,2016,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-3510832,IA,Pottawattamie,Council Bluffs,Source1,3,41.209142,-95.823203,2016,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3557566,IA,Pottawattamie,Shelby,Source1,4,41.49875,-95.44465,2017,6,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-3557638,IA,Pottawattamie,Shelby,Source1,4,41.49875,-95.44465,2017,6,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-3566772,IA,Pottawattamie,Council Bluffs,Source1,3,41.23235,-95.8845,2017,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-3567704,IA,Pottawattamie,Shelby,Source1,4,41.49875,-95.44465,2017,8,Friday,Rain,False,False,True,False,False,False,False
+A-3567710,IA,Pottawattamie,Shelby,Source1,4,41.49875,-95.44465,2017,8,Friday,Rain,False,False,True,False,False,False,False
+A-3570014,IA,Pottawattamie,Council Bluffs,Source1,4,41.23259,-95.76576,2017,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-3570015,IA,Pottawattamie,Council Bluffs,Source1,4,41.232489,-95.729902,2017,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-3570155,IA,Pottawattamie,Council Bluffs,Source1,4,41.238,-95.90143,2017,8,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3595485,IA,Pottawattamie,Council Bluffs,Source1,3,41.26713,-95.90849,2017,23,Monday,Cloudy,False,False,False,False,False,False,False
+A-3595487,IA,Pottawattamie,Council Bluffs,Source1,3,41.23235,-95.8845,2017,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3595488,IA,Pottawattamie,Council Bluffs,Source1,3,41.232401,-95.885486,2017,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3611608,IA,Pottawattamie,Council Bluffs,Source1,4,41.28363,-95.78247,2017,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3624848,IA,Pottawattamie,Avoca,Source1,3,41.49773,-95.34229,2017,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3640282,IA,Pottawattamie,Council Bluffs,Source1,3,41.27701,-95.78633,2017,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3640580,IA,Pottawattamie,Walnut,Source1,4,41.49741,-95.222193,2017,3,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3640585,IA,Pottawattamie,Walnut,Source1,4,41.49745,-95.22774,2017,3,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3641160,IA,Pottawattamie,Oakland,Source1,3,41.28911,-95.418011,2017,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3641161,IA,Pottawattamie,Oakland,Source1,3,41.28911,-95.418011,2017,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3800992,IA,Pottawattamie,Council Bluffs,Source1,4,41.232167,-95.906587,2022,12,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3813241,IA,Pottawattamie,Underwood,Source1,4,41.387646,-95.668473,2022,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3895039,IA,Pottawattamie,Shelby,Source1,4,41.49879,-95.539698,2022,2,Thursday,Cloudy,False,False,True,False,False,False,False
+A-3967229,IA,Pottawattamie,Council Bluffs,Source1,4,41.23290181,-95.83021045,2023,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3968793,IA,Pottawattamie,Council Bluffs,Source1,4,41.23620629,-95.90067744,2022,20,Tuesday,Storm,False,False,True,False,False,False,False
+A-3986004,IA,Pottawattamie,Underwood,Source1,4,41.398952,-95.662635,2022,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4182937,IA,Pottawattamie,Council Bluffs,Source1,4,41.233007,-95.802504,2022,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4195668,IA,Pottawattamie,Council Bluffs,Source1,4,41.218729,-95.878707,2022,17,Monday,Clear / Fair,True,True,False,False,False,False,False
+A-4221950,IA,Pottawattamie,Council Bluffs,Source1,4,41.208296,-95.916719,2022,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-4267431,IA,Pottawattamie,Council Bluffs,Source1,4,41.232593,-95.766053,2022,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4318860,IA,Pottawattamie,Council Bluffs,Source1,4,41.218729,-95.878707,2022,17,Monday,Clear / Fair,True,True,False,False,False,False,False
+A-4405677,IA,Pottawattamie,Walnut,Source1,4,41.498128,-95.173954,2022,3,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4449534,IA,Pottawattamie,Missouri Valley,Source1,4,41.45711302737495,-95.89975476219225,2022,1,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4462717,IA,Pottawattamie,Council Bluffs,Source1,4,41.244555,-95.819724,2022,20,Friday,Snow / Ice,False,False,True,False,False,False,False
+A-4629790,IA,Pottawattamie,Missouri Valley,Source1,4,41.486327,-95.900713,2022,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4681523,IA,Pottawattamie,Council Bluffs,Source1,4,41.274986,-95.885821,2022,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4878901,IA,Pottawattamie,Shelby,Source1,4,41.49944901446581,-95.50081372215509,2021,16,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4891656,IA,Pottawattamie,Crescent,Source1,4,41.351042,-95.911869,2022,3,Monday,Cloudy,False,False,False,False,False,False,False
+A-4937597,IA,Pottawattamie,Council Bluffs,Source1,4,41.247999,-95.906905,2022,15,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-5223110,IA,Pottawattamie,Council Bluffs,Source1,4,41.231987,-95.905601,2022,12,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-5250407,IA,Pottawattamie,Council Bluffs,Source1,4,41.25317,-95.809464,2022,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5270407,IA,Pottawattamie,Council Bluffs,Source1,4,41.232792,-95.892661,2022,12,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-5277660,IA,Pottawattamie,Treynor,Source1,4,41.232764,-95.632042,2022,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5285770,IA,Pottawattamie,Council Bluffs,Source1,4,41.201476,-95.823574,2022,0,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5332453,IA,Pottawattamie,Missouri Valley,Source1,4,41.467673,-95.899478,2022,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5668280,IA,Pottawattamie,Missouri Valley,Source1,4,41.499381,-95.901461,2021,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5679511,IA,Pottawattamie,Neola,Source1,4,41.49893403033495,-95.5779111380788,2021,6,Sunday,Rain,False,False,True,False,False,False,False
+A-5811920,IA,Pottawattamie,Council Bluffs,Source1,4,41.261291,-95.913666,2021,2,Friday,Cloudy,False,False,False,False,False,False,False
+A-5817518,IA,Pottawattamie,Council Bluffs,Source1,4,41.276308,-95.786768,2021,19,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-5901741,IA,Pottawattamie,Shelby,Source1,4,41.497784,-95.402838,2021,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5971874,IA,Pottawattamie,Avoca,Source1,4,41.497732400696286,-95.26548743202558,2021,0,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6165024,IA,Pottawattamie,Council Bluffs,Source1,4,41.267384290498406,-95.9084022040562,2021,23,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6229726,IA,Pottawattamie,Council Bluffs,Source1,4,41.232451200288615,-95.83136916114888,2021,18,Sunday,Fog / Low visibility,False,False,True,False,False,False,False
+A-6251633,IA,Pottawattamie,Council Bluffs,Source1,4,41.210821,-95.823536,2021,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6349412,IA,Pottawattamie,Minden,Source1,4,41.498225,-95.578619,2021,23,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-6359164,IA,Pottawattamie,Neola,Source1,4,41.438037,-95.617522,2021,23,Monday,Snow / Ice,False,False,True,False,False,False,False
+A-6373628,IA,Pottawattamie,Walnut,Source1,4,41.497685,-95.19075,2021,1,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6375849,IA,Pottawattamie,Walnut,Source1,4,41.497396,-95.222154,2021,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-6401492,IA,Pottawattamie,Avoca,Source1,4,41.49749600000001,-95.344558,2021,21,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-6408470,IA,Pottawattamie,Council Bluffs,Source1,4,41.244776,-95.819079,2021,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6422582,IA,Pottawattamie,Shelby,Source1,4,41.500109,-95.517354,2021,23,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6434420,IA,Pottawattamie,Minden,Source1,4,41.497948,-95.551584,2021,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6439994,IA,Pottawattamie,Shelby,Source1,4,41.49944901446581,-95.50081372215509,2021,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6441245,IA,Pottawattamie,Avoca,Source1,4,41.497539,-95.330976,2021,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6452020,IA,Pottawattamie,Council Bluffs,Source1,4,41.207647,-95.910861,2021,18,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-6467721,IA,Pottawattamie,Shelby,Source1,4,41.49829,-95.436011,2021,23,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-6472676,IA,Pottawattamie,Minden,Source1,4,41.498742,-95.540204,2021,9,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-6472895,IA,Pottawattamie,Minden,Source1,4,41.496766,-95.581498,2021,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6477986,IA,Pottawattamie,Council Bluffs,Source1,4,41.283842,-95.782295,2021,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6479817,IA,Pottawattamie,Council Bluffs,Source1,4,41.160224,-95.823215,2021,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6492540,IA,Pottawattamie,Underwood,Source1,4,41.375455,-95.67623,2021,21,Monday,Rain,False,False,False,False,False,False,False
+A-6511228,IA,Pottawattamie,Shelby,Source1,4,41.498826,-95.49032,2021,21,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-6512811,IA,Pottawattamie,Walnut,Source1,4,41.497207,-95.227537,2021,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-6524085,IA,Pottawattamie,Minden,Source1,4,41.463216,-95.596029,2021,21,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-6526436,IA,Pottawattamie,Avoca,Source1,4,41.497549,-95.330993,2021,22,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-6527462,IA,Pottawattamie,Neola,Source1,4,41.493173,-95.585973,2021,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-6535261,IA,Pottawattamie,Minden,Source1,4,41.498633,-95.539566,2021,22,Sunday,Cloudy,False,False,True,False,False,False,False
+A-6598581,IA,Pottawattamie,Minden,Source1,4,41.497948,-95.551584,2020,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6625355,IA,Pottawattamie,Avoca,Source1,4,41.498175,-95.312568,2020,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6633975,IA,Pottawattamie,Council Bluffs,Source1,4,41.253694,-95.906948,2020,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6641394,IA,Pottawattamie,Crescent,Source1,4,41.421707,-95.900377,2020,3,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6653612,IA,Pottawattamie,Underwood,Source1,4,41.406081,-95.655489,2020,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6671128,IA,Pottawattamie,Council Bluffs,Source1,4,41.251286,-95.906933,2020,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6686968,IA,Pottawattamie,Council Bluffs,Source1,4,41.232408,-95.903273,2020,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6717021,IA,Pottawattamie,Minden,Source1,4,41.498225,-95.578619,2020,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6737648,IA,Pottawattamie,Avoca,Source1,4,41.497539,-95.330976,2020,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6749188,IA,Pottawattamie,Avoca,Source1,4,41.49749600000001,-95.344558,2020,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6750555,IA,Pottawattamie,Council Bluffs,Source1,4,41.267384,-95.908402,2020,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6761095,IA,Pottawattamie,Avoca,Source1,4,41.497732,-95.265487,2020,2,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6761799,IA,Pottawattamie,Shelby,Source1,4,41.49829,-95.436011,2020,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6773853,IA,Pottawattamie,Crescent,Source1,4,41.350275,-95.897265,2020,23,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-6785891,IA,Pottawattamie,Council Bluffs,Source1,4,41.27405,-95.894088,2020,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-6789690,IA,Pottawattamie,Council Bluffs,Source1,4,41.280062,-95.783157,2020,1,Wednesday,Clear / Fair,False,False,False,True,False,False,False
+A-6792440,IA,Pottawattamie,Underwood,Source1,4,41.406482,-95.655087,2020,17,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-6796272,IA,Pottawattamie,Missouri Valley,Source1,4,41.486327,-95.900713,2020,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6828567,IA,Pottawattamie,Council Bluffs,Source1,4,41.280062,-95.783157,2020,1,Wednesday,Clear / Fair,False,False,False,True,False,False,False
+A-6856380,IA,Pottawattamie,Minden,Source1,4,41.497948,-95.551584,2020,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6904625,IA,Pottawattamie,Avoca,Source1,4,41.49749600000001,-95.344558,2020,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6911942,IA,Pottawattamie,Crescent,Source1,4,41.350275,-95.897265,2020,23,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7080717,IA,Pottawattamie,Neola,Source1,3,41.43841,-95.61674,2020,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7280430,IA,Pottawattamie,Council Bluffs,Source1,4,41.215738,-95.826652,2020,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7295797,IA,Pottawattamie,Council Bluffs,Source1,4,41.25754000000001,-95.90696,2019,6,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7339955,IA,Pottawattamie,Avoca,Source1,4,41.49635,-95.33626,2019,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7342498,IA,Pottawattamie,Council Bluffs,Source1,4,41.28006,-95.78343,2019,12,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-7342500,IA,Pottawattamie,Council Bluffs,Source1,4,41.28083,-95.7653,2019,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7360122,IA,Pottawattamie,Minden,Source1,4,41.49245,-95.5855,2019,15,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7360123,IA,Pottawattamie,Neola,Source1,4,41.43841,-95.61674,2019,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7360183,IA,Pottawattamie,Minden,Source1,4,41.49245,-95.5855,2019,22,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7453088,IA,Pottawattamie,Avoca,Source1,4,41.4766,-95.33796,2019,10,Monday,Clear / Fair,False,False,False,False,False,True,False
+A-7487433,IA,Pottawattamie,Neola,Source1,4,41.44324,-95.60719,2018,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7488551,IA,Pottawattamie,Missouri Valley,Source1,3,41.49976,-95.90143,2018,8,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7488561,IA,Pottawattamie,Missouri Valley,Source1,3,41.49976,-95.90143,2018,11,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7677508,IA,Pottawattamie,Oakland,Source1,4,41.28934,-95.53676,2017,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7677515,IA,Pottawattamie,Oakland,Source1,4,41.28934,-95.53676,2017,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7677518,IA,Pottawattamie,Treynor,Source1,4,41.28943,-95.612657,2017,14,Thursday,Cloudy,False,False,False,False,False,False,False

@@ -1,0 +1,684 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-231585,VA,Fairfax,Chantilly,Source2,3,38.881699,-77.485558,2016,8,Saturday,Rain,False,False,False,False,False,False,False
+A-231847,VA,Fairfax,Centreville,Source2,3,38.838253,-77.448341,2016,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-233208,VA,Fairfax,Oakton,Source2,3,38.87072,-77.307671,2016,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-238569,VA,Fairfax,Dunn Loring,Source2,3,38.886703,-77.227249,2016,13,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-238966,VA,Fairfax,Burke,Source2,3,38.793747,-77.27176700000003,2016,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-238979,VA,Fairfax,Vienna,Source2,3,38.912533,-77.22152700000002,2016,6,Monday,Cloudy,True,True,False,False,False,False,False
+A-242250,VA,Fairfax,Alexandria,Source2,3,38.795578000000006,-77.13587199999998,2016,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-246881,VA,Fairfax,Alexandria,Source2,3,38.770515,-77.073959,2016,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-250455,VA,Fairfax,Vienna,Source2,3,38.898735,-77.228996,2016,8,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-252161,VA,Fairfax,Alexandria,Source2,3,38.796566,-77.135368,2016,11,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-257539,VA,Fairfax,Lorton,Source2,3,38.675041,-77.239799,2016,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-379300,VA,Fairfax,Alexandria,Source2,3,38.7295,-77.107208,2017,9,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-427105,VA,Fairfax,Alexandria,Source2,3,38.794991,-77.136024,2017,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-448972,VA,Fairfax,Chantilly,Source2,3,38.894154,-77.431145,2017,14,Saturday,Cloudy,True,True,False,False,False,False,False
+A-480554,VA,Fairfax,Alexandria,Source2,3,38.795006,-77.13601700000002,2017,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-481213,VA,Fairfax,Falls Church,Source2,3,38.884029,-77.220665,2017,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-481349,VA,Fairfax,Oakton,Source2,3,38.870533,-77.306786,2017,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-482159,VA,Fairfax,Mc Lean,Source2,3,38.919609,-77.218315,2017,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-482982,VA,Fairfax,Alexandria,Source2,3,38.80357,-77.16391,2017,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-483411,VA,Fairfax,Lorton,Source2,3,38.697987,-77.213417,2017,10,Saturday,Cloudy,False,False,False,False,True,False,False
+A-483853,VA,Fairfax,Falls Church,Source2,3,38.90240900000001,-77.187508,2017,10,Thursday,Rain,False,False,False,False,False,False,False
+A-506526,VA,Fairfax,Reston,Source2,3,38.946999,-77.324394,2017,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-507214,VA,Fairfax,Springfield,Source2,3,38.809875,-77.218666,2017,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-507457,VA,Fairfax,Vienna,Source2,3,38.883213,-77.223846,2017,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-514633,VA,Fairfax,Alexandria,Source2,3,38.791626,-77.17319499999998,2022,5,Tuesday,Rain,False,False,False,False,False,False,False
+A-514672,VA,Fairfax,Annandale,Source2,3,38.849499,-77.22013100000002,2022,4,Tuesday,Rain,False,False,False,False,False,False,False
+A-514728,VA,Fairfax,Centreville,Source2,3,38.84623,-77.433128,2022,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-517092,VA,Fairfax,Springfield,Source2,3,38.756393,-77.183388,2022,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-517698,VA,Fairfax,Dunn Loring,Source2,3,38.885361,-77.222008,2022,20,Friday,Cloudy,False,False,True,False,False,False,False
+A-517759,VA,Fairfax,Dunn Loring,Source2,3,38.885361,-77.222008,2022,20,Friday,Cloudy,False,False,True,False,False,False,False
+A-520065,VA,Fairfax,Fairfax,Source3,3,38.869118,-77.307716,2022,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-521453,VA,Fairfax,Springfield,Source2,3,38.787174,-77.176743,2022,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-521905,VA,Fairfax,Centreville,Source2,3,38.84742,-77.42823800000002,2022,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-522578,VA,Fairfax,Alexandria,Source3,3,38.800823,-77.165054,2022,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-524176,VA,Fairfax,Springfield,Source2,3,38.742512,-77.188812,2022,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-524261,VA,Fairfax,Springfield,Source2,3,38.768658,-77.18289200000002,2022,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-524733,VA,Fairfax,Fairfax,Source2,3,38.869244,-77.306877,2022,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-524864,VA,Fairfax,Springfield,Source2,3,38.81075300000001,-77.21759,2022,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-525675,VA,Fairfax,Fairfax,Source3,3,38.869339,-77.30645,2022,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-525875,VA,Fairfax,McLean,Source2,3,38.931183,-77.212456,2022,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-526416,VA,Fairfax,Annandale,Source2,3,38.81176,-77.218346,2022,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-526599,VA,Fairfax,Springfield,Source2,3,38.783161,-77.17866500000002,2022,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-528734,VA,Fairfax,Annandale,Source2,3,38.81176,-77.218346,2022,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-529011,VA,Fairfax,Lorton,Source2,3,38.684151,-77.22874499999998,2022,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-529629,VA,Fairfax,Centreville,Source2,3,38.846886,-77.432411,2022,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-530100,VA,Fairfax,Fairfax,Source2,3,38.861263,-77.351967,2022,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-530326,VA,Fairfax,Fairfax,Source2,3,38.854336,-77.388405,2022,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-531040,VA,Fairfax,Annandale,Source2,3,38.81176,-77.218346,2022,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-531346,VA,Fairfax,Springfield,Source2,3,38.787174,-77.176743,2022,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-536196,VA,Fairfax,Springfield,Source2,3,38.792625,-77.156403,2022,10,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-536197,VA,Fairfax,Falls Church,Source2,3,38.8857,-77.22020699999999,2022,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-537546,VA,Fairfax,Alexandria,Source2,3,38.80317700000001,-77.16263599999998,2022,21,Sunday,Rain,False,False,False,False,False,False,False
+A-537654,VA,Fairfax,Lorton,Source2,3,38.707275,-77.22333499999998,2022,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-537876,VA,Fairfax,Springfield,Source2,3,38.743282,-77.18998,2022,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-538031,VA,Fairfax,Alexandria,Source2,3,38.80138,-77.11353299999998,2022,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-538268,VA,Fairfax,McLean,Source2,3,38.959061,-77.188751,2022,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-538814,VA,Fairfax,Springfield,Source2,3,38.791145,-77.175949,2022,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-539009,VA,Fairfax,Vienna,Source2,3,38.886681,-77.220383,2022,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-539676,VA,Fairfax,McLean,Source2,3,38.932541,-77.21096,2022,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-540888,VA,Fairfax,Springfield,Source3,3,38.78714,-77.177811,2022,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-541967,VA,Fairfax,Fairfax,Source2,3,38.869244,-77.306877,2022,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-542288,VA,Fairfax,Vienna,Source2,3,38.952148,-77.282021,2022,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-542346,VA,Fairfax,Falls Church,Source2,3,38.898647,-77.196899,2022,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-542374,VA,Fairfax,Centreville,Source2,3,38.816566,-77.474197,2022,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-542661,VA,Fairfax,Vienna,Source2,3,38.886681,-77.220383,2022,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-542690,VA,Fairfax,Vienna,Source2,3,38.886681,-77.220383,2022,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-542756,VA,Fairfax,Alexandria,Source2,3,38.800854,-77.082199,2022,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-543001,VA,Fairfax,Vienna,Source2,3,38.886681,-77.220383,2022,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-544818,VA,Fairfax,McLean,Source2,3,38.930962,-77.211838,2022,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-545641,VA,Fairfax,Dunn Loring,Source2,3,38.891544,-77.217239,2022,22,Thursday,Rain,False,False,True,False,False,False,False
+A-545770,VA,Fairfax,Springfield,Source2,3,38.790451,-77.172638,2022,18,Thursday,Storm,False,False,False,False,False,False,False
+A-546465,VA,Fairfax,Fairfax,Source2,3,38.863316,-77.339256,2022,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-546661,VA,Fairfax,Fairfax,Source3,3,38.876751,-77.276077,2022,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-547759,VA,Fairfax,Fairfax,Source2,3,38.854336,-77.388405,2022,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-548168,VA,Fairfax,Lorton,Source2,3,38.703934,-77.224457,2022,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-548193,VA,Fairfax,Fairfax,Source2,3,38.85862,-77.364838,2022,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-548615,VA,Fairfax,Annandale,Source2,3,38.82170900000001,-77.222,2022,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-549118,VA,Fairfax,Alexandria,Source2,3,38.793964,-77.172218,2022,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-549893,VA,Fairfax,Fairfax,Source2,3,38.869244,-77.306877,2022,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-550204,VA,Fairfax,Springfield,Source2,3,38.79229,-77.159317,2022,19,Sunday,Rain,False,False,False,False,False,False,False
+A-550255,VA,Fairfax,Springfield,Source2,4,38.787174,-77.176743,2022,19,Sunday,Rain,False,False,False,False,False,False,False
+A-550274,VA,Fairfax,Centreville,Source2,3,38.846886,-77.432411,2022,17,Sunday,Rain,False,False,False,False,False,False,False
+A-550656,VA,Fairfax,Fairfax,Source2,3,38.869171,-77.306435,2022,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-550990,VA,Fairfax,McLean,Source2,3,38.962265,-77.186058,2022,20,Friday,Rain,False,False,True,False,False,False,False
+A-552266,VA,Fairfax,Springfield,Source2,3,38.795994,-77.18968199999998,2022,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-552691,VA,Fairfax,Fairfax,Source2,3,38.87849,-77.263458,2022,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-552940,VA,Fairfax,Springfield,Source2,3,38.787174,-77.176743,2022,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-552941,VA,Fairfax,Springfield,Source2,3,38.787174,-77.176743,2022,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-555228,VA,Fairfax,Centreville,Source2,3,38.843605,-77.440498,2022,13,Tuesday,Rain,False,False,False,False,False,False,False
+A-555693,VA,Fairfax,Fairfax,Source2,3,38.852848,-77.398476,2022,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-556821,VA,Fairfax,Centreville,Source2,3,38.846886,-77.432411,2022,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-557359,VA,Fairfax,McLean,Source2,3,38.93187,-77.213409,2022,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-557830,VA,Fairfax,Springfield,Source2,3,38.777512,-77.17983199999998,2022,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-558222,VA,Fairfax,Springfield,Source2,3,38.768429,-77.18306700000002,2022,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-558223,VA,Fairfax,Springfield,Source2,3,38.791256,-77.177322,2022,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-558235,VA,Fairfax,Springfield,Source2,3,38.744045,-77.18737800000002,2022,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-559522,VA,Fairfax,Dunn Loring,Source2,3,38.884415,-77.22399899999998,2022,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-559598,VA,Fairfax,Springfield,Source2,3,38.739727,-77.190613,2022,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-560649,VA,Fairfax,Centreville,Source2,3,38.837204,-77.44704399999998,2022,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-561151,VA,Fairfax,Centreville,Source2,3,38.846886,-77.432411,2022,7,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-561244,VA,Fairfax,Fairfax,Source2,3,38.869244,-77.306877,2022,8,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-561315,VA,Fairfax,Annandale,Source2,3,38.81176,-77.218346,2022,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-561483,VA,Fairfax,Springfield,Source2,3,38.743282,-77.18998,2022,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-562251,VA,Fairfax,Annandale,Source2,3,38.841236,-77.21977199999998,2022,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-562991,VA,Fairfax,Alexandria,Source2,3,38.802799,-77.162773,2022,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-563034,VA,Fairfax,Centreville,Source2,3,38.837204,-77.44704399999998,2022,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-564169,VA,Fairfax,Lorton,Source2,3,38.710403,-77.221603,2022,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-564194,VA,Fairfax,Springfield,Source2,3,38.783543,-77.17905400000002,2022,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-564318,VA,Fairfax,Annandale,Source2,3,38.81176,-77.218346,2022,21,Saturday,Rain,False,False,False,False,False,False,False
+A-564644,VA,Fairfax,Centreville,Source2,3,38.846886,-77.432411,2022,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-566395,VA,Fairfax,Vienna,Source2,3,38.881203,-77.235596,2022,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-566587,VA,Fairfax,Fairfax,Source2,3,38.852467,-77.40059699999998,2022,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-569199,VA,Fairfax,Springfield,Source2,3,38.758907,-77.183113,2022,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-569325,VA,Fairfax,Springfield,Source2,3,38.740623,-77.189934,2022,5,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-569326,VA,Fairfax,Alexandria,Source2,3,38.791782,-77.17427099999998,2022,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-569435,VA,Fairfax,Dunn Loring,Source2,4,38.90963,-77.21751400000002,2022,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-570520,VA,Fairfax,Fairfax,Source2,3,38.869244,-77.306877,2022,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-570736,VA,Fairfax,Falls Church,Source2,4,38.898876,-77.195518,2022,3,Saturday,Rain,False,False,False,False,False,False,False
+A-570933,VA,Fairfax,Alexandria,Source2,3,38.7952,-77.171562,2022,12,Saturday,Cloudy,False,False,True,False,False,False,False
+A-570999,VA,Fairfax,Alexandria,Source2,3,38.794914,-77.17128000000002,2022,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-571272,VA,Fairfax,Alexandria,Source2,3,38.795425,-77.17130999999998,2022,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-573370,VA,Fairfax,Vienna,Source2,3,38.886681,-77.220383,2022,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-574769,VA,Fairfax,Vienna,Source2,3,38.886681,-77.220383,2022,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-574945,VA,Fairfax,Centreville,Source2,3,38.837204,-77.44704399999998,2022,13,Tuesday,Rain,False,False,False,False,False,False,False
+A-575010,VA,Fairfax,Vienna,Source2,3,38.886681,-77.220383,2022,12,Tuesday,Rain,False,False,False,False,False,False,False
+A-576376,VA,Fairfax,Alexandria,Source2,3,38.791813,-77.175354,2022,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-576530,VA,Fairfax,Lorton,Source2,3,38.679653,-77.231438,2022,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-576587,VA,Fairfax,Lorton,Source2,3,38.738033,-77.191582,2022,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-578361,VA,Fairfax,Alexandria,Source3,3,38.796455,-77.135559,2022,19,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-578434,VA,Fairfax,Alexandria,Source2,3,38.802799,-77.162773,2022,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-578499,VA,Fairfax,Alexandria,Source2,3,38.80024,-77.076851,2022,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-578500,VA,Fairfax,Annandale,Source2,3,38.845802,-77.220123,2022,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-578541,VA,Fairfax,Fairfax,Source2,3,38.854336,-77.388405,2022,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-578828,VA,Fairfax,Alexandria,Source2,3,38.800259,-77.077011,2022,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-579703,VA,Fairfax,Fairfax,Source2,3,38.868851,-77.308205,2022,18,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-579720,VA,Fairfax,Fairfax,Source2,3,38.864708,-77.222511,2022,15,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-579834,VA,Fairfax,McLean,Source2,3,38.917351,-77.217506,2022,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-580602,VA,Fairfax,Fairfax,Source2,3,38.869709,-77.30432900000002,2022,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-580728,VA,Fairfax,Lorton,Source2,3,38.727558,-77.200592,2022,16,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-582105,VA,Fairfax,McLean,Source2,3,38.916473,-77.21781899999998,2022,12,Monday,Rain,False,False,True,False,False,False,False
+A-582264,VA,Fairfax,Fairfax,Source2,3,38.879105,-77.257813,2022,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-583044,VA,Fairfax,Vienna,Source2,3,38.886681,-77.220383,2022,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-583082,VA,Fairfax,Vienna,Source2,3,38.886681,-77.220383,2022,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-583119,VA,Fairfax,Vienna,Source2,3,38.883255,-77.22914899999998,2022,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-583166,VA,Fairfax,Springfield,Source2,3,38.740967,-77.189194,2022,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-584035,VA,Fairfax,Centreville,Source2,3,38.837204,-77.44704399999998,2022,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-584703,VA,Fairfax,Fairfax,Source2,3,38.854336,-77.388405,2022,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-584880,VA,Fairfax,Fairfax,Source2,3,38.854336,-77.388405,2022,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-584974,VA,Fairfax,McLean,Source2,3,38.921513,-77.21672099999998,2022,11,Thursday,Cloudy,False,False,True,False,False,False,False
+A-585096,VA,Fairfax,McLean,Source2,3,38.91217,-77.21770500000002,2022,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-586897,VA,Fairfax,Alexandria,Source2,3,38.802799,-77.162773,2022,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-586898,VA,Fairfax,Fairfax,Source2,3,38.858326,-77.368256,2022,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-589785,VA,Fairfax,Fairfax,Source2,3,38.869244,-77.306877,2022,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-590298,VA,Fairfax,Alexandria,Source2,3,38.80034600000001,-77.077827,2022,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-590539,VA,Fairfax,Alexandria,Source2,3,38.806137,-77.15843199999998,2022,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-590885,VA,Fairfax,Springfield,Source2,3,38.773308,-77.181595,2022,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-591163,VA,Fairfax,Dunn Loring,Source2,3,38.879147,-77.221489,2022,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-591380,VA,Fairfax,Vienna,Source2,3,38.886681,-77.220383,2022,16,Thursday,Storm,False,False,False,False,False,False,False
+A-592260,VA,Fairfax,Vienna,Source2,3,38.879646,-77.24799300000002,2022,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-593090,VA,Fairfax,Springfield,Source2,3,38.787174,-77.176743,2022,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-593375,VA,Fairfax,Fairfax,Source2,3,38.854336,-77.388405,2022,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-593729,VA,Fairfax,Centreville,Source2,3,38.846443,-77.43199200000002,2022,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-593760,VA,Fairfax,Centreville,Source2,3,38.850227,-77.411118,2022,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-594618,VA,Fairfax,Fairfax,Source2,3,38.878826,-77.257698,2022,20,Monday,Storm,False,False,False,False,False,False,False
+A-594741,VA,Fairfax,Vienna,Source2,3,38.884102,-77.225052,2022,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-595425,VA,Fairfax,Lorton,Source2,3,38.703896,-77.22402199999998,2022,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-595917,VA,Fairfax,Springfield,Source2,3,38.743282,-77.18998,2022,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-595981,VA,Fairfax,Springfield,Source2,3,38.750381,-77.18465400000002,2022,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-596082,VA,Fairfax,Alexandria,Source2,3,38.80204000000001,-77.09043100000002,2022,3,Saturday,Rain,False,False,False,False,False,False,False
+A-597733,VA,Fairfax,Lorton,Source2,3,38.678799,-77.232933,2022,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-598127,VA,Fairfax,McLean,Source2,3,38.95541400000001,-77.193611,2022,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-600944,VA,Fairfax,Springfield,Source2,3,38.742825,-77.188377,2022,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-600945,VA,Fairfax,Springfield,Source2,3,38.787174,-77.176743,2022,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-601262,VA,Fairfax,Vienna,Source2,3,38.886681,-77.220383,2022,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-601776,VA,Fairfax,Centreville,Source2,4,38.83710900000001,-77.446877,2022,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-601917,VA,Fairfax,Vienna,Source2,3,38.881577,-77.234344,2022,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-602300,VA,Fairfax,Alexandria,Source2,3,38.806877,-77.156639,2022,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-603261,VA,Fairfax,McLean,Source3,3,38.92078,-77.21680500000002,2022,15,Thursday,Rain,False,False,False,False,False,False,False
+A-604330,VA,Fairfax,Centreville,Source2,3,38.846886,-77.432411,2022,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-605902,VA,Fairfax,Centreville,Source2,4,38.837425,-77.447174,2022,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-606793,VA,Fairfax,Fairfax,Source2,3,38.869244,-77.306877,2022,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-607986,VA,Fairfax,Centreville,Source2,3,38.83482,-77.448914,2022,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-608113,VA,Fairfax,Fairfax,Source2,3,38.856976,-77.373932,2022,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-608495,VA,Fairfax,Dunn Loring,Source2,3,38.88689,-77.22015400000002,2022,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-609223,VA,Fairfax,Centreville,Source2,3,38.846886,-77.432411,2022,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-610501,VA,Fairfax,Vienna,Source2,3,38.886681,-77.220383,2022,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-611232,VA,Fairfax,Springfield,Source2,3,38.743282,-77.18998,2022,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-611464,VA,Fairfax,Centreville,Source2,3,38.837204,-77.44704399999998,2022,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-613204,VA,Fairfax,Springfield,Source2,3,38.743282,-77.18998,2022,8,Tuesday,Rain,False,False,False,False,False,False,False
+A-613710,VA,Fairfax,Alexandria,Source2,3,38.804852,-77.16035500000002,2022,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-614373,VA,Fairfax,Fairfax,Source2,3,38.878506,-77.263237,2022,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-614621,VA,Fairfax,Lorton,Source2,3,38.672787,-77.243889,2022,20,Sunday,Storm,False,False,False,False,False,False,False
+A-614622,VA,Fairfax,Centreville,Source2,3,38.84280800000001,-77.441101,2022,19,Sunday,Rain,False,False,False,False,False,False,False
+A-614658,VA,Fairfax,Fairfax,Source2,3,38.869244,-77.306877,2022,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-614663,VA,Fairfax,Springfield,Source2,3,38.787174,-77.176743,2022,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-614802,VA,Fairfax,Fairfax,Source2,3,38.854336,-77.388405,2022,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-614916,VA,Fairfax,Dunn Loring,Source2,3,38.884686,-77.223152,2022,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-614987,VA,Fairfax,Fairfax,Source2,3,38.869244,-77.306877,2022,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-615162,VA,Fairfax,McLean,Source2,3,38.920967,-77.216164,2022,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-615194,VA,Fairfax,Centreville,Source2,3,38.837204,-77.44704399999998,2022,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-615212,VA,Fairfax,Dunn Loring,Source2,3,38.905254,-77.21710999999998,2022,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-616769,VA,Fairfax,Alexandria,Source2,3,38.802162,-77.10968000000003,2022,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-617018,VA,Fairfax,Vienna,Source2,3,38.883713,-77.226349,2022,18,Thursday,Cloudy,False,False,False,False,False,True,False
+A-617052,VA,Fairfax,Vienna,Source2,3,38.877888,-77.272423,2022,15,Thursday,Cloudy,False,False,False,False,True,False,True
+A-617054,VA,Fairfax,McLean,Source2,3,38.917706,-77.217438,2022,14,Thursday,Cloudy,False,False,True,False,False,False,False
+A-617889,VA,Fairfax,Lorton,Source2,3,38.675915,-77.235649,2022,22,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-618166,VA,Fairfax,Vienna,Source2,3,38.886681,-77.220383,2022,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-619508,VA,Fairfax,Fairfax,Source2,3,38.869007,-77.308319,2022,15,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-619627,VA,Fairfax,Springfield,Source2,3,38.80423,-77.212784,2022,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-620201,VA,Fairfax,Springfield,Source2,3,38.743282,-77.18998,2022,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-620566,VA,Fairfax,Fairfax,Source2,3,38.878498,-77.263367,2022,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-620800,VA,Fairfax,Fairfax,Source2,3,38.878719,-77.25954399999998,2022,17,Monday,Rain,False,False,False,False,False,False,False
+A-621076,VA,Fairfax,Fairfax,Source2,3,38.854336,-77.388405,2022,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-621937,VA,Fairfax,McLean,Source2,3,38.959061,-77.188751,2022,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-621967,VA,Fairfax,McLean,Source2,3,38.931183,-77.212456,2022,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-622125,VA,Fairfax,Falls Church,Source2,3,38.867268,-77.220039,2022,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-622173,VA,Fairfax,Alexandria,Source2,3,38.802521,-77.094589,2022,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-622261,VA,Fairfax,Springfield,Source2,3,38.787174,-77.176743,2022,20,Saturday,Cloudy,False,False,False,False,False,False,False
+A-622327,VA,Fairfax,McLean,Source2,3,38.96497700000001,-77.181076,2022,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-622437,VA,Fairfax,Vienna,Source2,3,38.87999,-77.239418,2022,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-622482,VA,Fairfax,McLean,Source2,3,38.940388,-77.20540600000002,2022,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-622496,VA,Fairfax,Vienna,Source2,3,38.87999,-77.239418,2022,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-625875,VA,Fairfax,Centreville,Source2,3,38.837204,-77.44704399999998,2022,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-626220,VA,Fairfax,Centreville,Source3,3,38.846886,-77.432411,2022,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-626269,VA,Fairfax,Annandale,Source2,3,38.826847,-77.22000899999998,2022,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-626674,VA,Fairfax,Alexandria,Source2,3,38.797207,-77.12930300000002,2022,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-626806,VA,Fairfax,Fairfax,Source2,3,38.855614,-77.38136300000002,2022,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-627229,VA,Fairfax,Fairfax,Source2,3,38.869244,-77.306877,2022,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-627741,VA,Fairfax,McLean,Source2,3,38.931183,-77.212456,2022,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-628472,VA,Fairfax,Centreville,Source2,3,38.846882,-77.431282,2022,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-629937,VA,Fairfax,Fairfax,Source2,3,38.869244,-77.306877,2022,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-630036,VA,Fairfax,Vienna,Source2,3,38.886681,-77.220383,2022,15,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-630498,VA,Fairfax,Springfield,Source2,3,38.743282,-77.18998,2022,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-630892,VA,Fairfax,Alexandria,Source2,3,38.810333,-77.15119200000002,2022,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-631026,VA,Fairfax,Springfield,Source2,3,38.750565,-77.185204,2022,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-631095,VA,Fairfax,Alexandria,Source2,3,38.796055,-77.138092,2022,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-631857,VA,Fairfax,Vienna,Source2,3,38.886681,-77.220383,2022,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-632279,VA,Fairfax,Falls Church,Source2,3,38.899746,-77.195755,2022,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-632496,VA,Fairfax,Annandale,Source2,3,38.81176,-77.218346,2022,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-632558,VA,Fairfax,McLean,Source2,3,38.959061,-77.188751,2022,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-632616,VA,Fairfax,Centreville,Source2,3,38.837204,-77.44704399999998,2022,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-633021,VA,Fairfax,Dunn Loring,Source2,3,38.905624,-77.21721600000002,2022,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-633996,VA,Fairfax,Alexandria,Source2,3,38.801987,-77.111328,2022,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-635351,VA,Fairfax,Lorton,Source2,3,38.717194,-77.213646,2022,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-636684,VA,Fairfax,Fairfax,Source2,3,38.878586,-77.26690699999997,2022,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-637361,VA,Fairfax,Falls Church,Source2,3,38.908436,-77.217247,2022,17,Tuesday,Rain,False,False,False,False,False,False,False
+A-638620,VA,Fairfax,Falls Church,Source2,3,38.872284,-77.220291,2022,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-638727,VA,Fairfax,Fairfax,Source2,3,38.854336,-77.388405,2022,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-639255,VA,Fairfax,Vienna,Source2,3,38.886681,-77.220383,2022,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-639629,VA,Fairfax,Vienna,Source2,3,38.886681,-77.220383,2022,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-639911,VA,Fairfax,Centreville,Source2,3,38.825867,-77.457634,2022,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-640255,VA,Fairfax,McLean,Source2,3,38.960587,-77.189934,2022,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-642299,VA,Fairfax,Centreville,Source2,3,38.837204,-77.44704399999998,2022,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-643580,VA,Fairfax,Vienna,Source2,3,38.886681,-77.220383,2022,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-644215,VA,Fairfax,Lorton,Source2,3,38.728619,-77.19966099999998,2022,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-644799,VA,Fairfax,McLean,Source2,3,38.951195,-77.197128,2022,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-645155,VA,Fairfax,Fairfax,Source2,3,38.852966,-77.39621,2022,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-645270,VA,Fairfax,Dunn Loring,Source2,3,38.882641,-77.22296899999998,2022,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-645945,VA,Fairfax,Fairfax,Source2,3,38.877071,-77.276131,2022,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-647210,VA,Fairfax,Dunn Loring,Source2,3,38.883701,-77.226173,2022,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-647775,VA,Fairfax,Fairfax,Source2,3,38.869244,-77.306877,2022,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-647782,VA,Fairfax,Centreville,Source2,3,38.846886,-77.432411,2022,17,Saturday,Rain,False,False,False,False,False,False,False
+A-647854,VA,Fairfax,McLean,Source2,3,38.931183,-77.212456,2022,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-647867,VA,Fairfax,Lorton,Source2,3,38.72665,-77.201614,2022,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-648136,VA,Fairfax,Fairfax,Source2,3,38.875641,-77.28119699999998,2022,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-649486,VA,Fairfax,Springfield,Source2,3,38.791679,-77.178589,2022,8,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-650370,VA,Fairfax,Fairfax,Source2,3,38.869244,-77.306877,2022,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-651324,VA,Fairfax,Fairfax,Source2,3,38.869244,-77.306877,2022,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-652019,VA,Fairfax,Fairfax,Source2,3,38.873585,-77.287109,2022,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-652256,VA,Fairfax,Springfield,Source2,3,38.742348,-77.188347,2022,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-652401,VA,Fairfax,Fairfax,Source2,3,38.870472,-77.299194,2022,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-653276,VA,Fairfax,Centreville,Source2,3,38.84611500000001,-77.433594,2022,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-653806,VA,Fairfax,Alexandria,Source2,3,38.801987,-77.110435,2022,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-654101,VA,Fairfax,McLean,Source2,3,38.959061,-77.188751,2022,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-655213,VA,Fairfax,Alexandria,Source3,3,38.802799,-77.162773,2022,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-655227,VA,Fairfax,Falls Church,Source2,3,38.887192,-77.219383,2022,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-655251,VA,Fairfax,Vienna,Source2,3,38.877792,-77.272964,2022,8,Sunday,Cloudy,False,False,False,False,False,False,False
+A-655276,VA,Fairfax,Lorton,Source2,3,38.680325,-77.231735,2022,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-656187,VA,Fairfax,Lorton,Source2,3,38.723656,-77.20530699999998,2022,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-656188,VA,Fairfax,Fairfax,Source2,3,38.868374,-77.310913,2022,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-657216,VA,Fairfax,Centreville,Source2,3,38.847305,-77.428871,2022,7,Thursday,Rain,False,False,False,False,False,False,False
+A-660065,VA,Fairfax,Vienna,Source2,3,38.886681,-77.220383,2022,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-660986,VA,Fairfax,Vienna,Source2,3,38.884064,-77.22518199999998,2022,17,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-661247,VA,Fairfax,Lorton,Source2,3,38.700607,-77.225044,2022,13,Tuesday,Rain,False,False,False,False,False,False,False
+A-662145,VA,Fairfax,Centreville,Source2,3,38.834526,-77.44957,2022,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-663408,VA,Fairfax,Centreville,Source2,3,38.846886,-77.432411,2022,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-663522,VA,Fairfax,Alexandria,Source2,3,38.797535,-77.068207,2022,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-663574,VA,Fairfax,Vienna,Source2,3,38.879162,-77.251839,2022,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-663697,VA,Fairfax,Lorton,Source2,3,38.673626,-77.24200400000002,2022,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-663826,VA,Fairfax,Lorton,Source2,3,38.703197,-77.22466999999997,2022,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-663937,VA,Fairfax,Fairfax,Source2,3,38.877804,-77.27005,2022,16,Friday,Cloudy,False,False,False,False,False,False,True
+A-664248,VA,Fairfax,Fairfax,Source2,3,38.869244,-77.306877,2022,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-664259,VA,Fairfax,Springfield,Source2,3,38.742233,-77.188728,2022,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-664611,VA,Fairfax,Springfield,Source2,3,38.799377,-77.203056,2022,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-666374,VA,Fairfax,Dunn Loring,Source2,3,38.889557,-77.21893299999998,2022,20,Wednesday,Rain,False,False,False,False,False,False,False
+A-666872,VA,Fairfax,Fairfax,Source2,3,38.869244,-77.306877,2022,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-666940,VA,Fairfax,Centreville,Source2,3,38.837204,-77.44704399999998,2022,12,Wednesday,Rain,False,False,False,False,False,False,False
+A-668157,VA,Fairfax,Dunn Loring,Source2,3,38.88657,-77.219498,2022,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-669955,VA,Fairfax,Centreville,Source2,3,38.825623,-77.457916,2022,8,Monday,Sin dato,False,False,False,False,False,False,False
+A-671273,VA,Fairfax,Centreville,Source2,3,38.850883,-77.40927099999998,2022,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-674140,VA,Fairfax,Alexandria,Source2,3,38.796741,-77.19145999999998,2022,5,Thursday,Rain,False,False,False,False,False,False,False
+A-674504,VA,Fairfax,Annandale,Source2,3,38.832596,-77.217888,2022,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-676345,VA,Fairfax,Vienna,Source2,3,38.879517,-77.268028,2022,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-679641,VA,Fairfax,McLean,Source2,3,38.957767,-77.192574,2022,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-679656,VA,Fairfax,Falls Church,Source2,3,38.878075,-77.22075699999998,2022,19,Friday,Cloudy,False,False,True,False,False,False,False
+A-679831,VA,Fairfax,Fairfax,Source2,3,38.876225,-77.27763399999998,2022,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-679849,VA,Fairfax,Fairfax,Source2,3,38.870445,-77.299339,2022,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-684930,VA,Fairfax,Fairfax,Source2,3,38.868351,-77.31105,2022,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-687474,VA,Fairfax,Vienna,Source2,3,38.907196,-77.217743,2022,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-688023,VA,Fairfax,Springfield,Source2,3,38.769299,-77.18283100000002,2022,11,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-689551,VA,Fairfax,Fairfax,Source2,3,38.860229,-77.355995,2022,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-692409,VA,Fairfax,Alexandria,Source2,3,38.800568,-77.079712,2022,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-692713,VA,Fairfax,Centreville,Source2,3,38.834885,-77.449242,2022,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-693151,VA,Fairfax,Annandale,Source2,3,38.811562,-77.218376,2022,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-693727,VA,Fairfax,Fairfax,Source2,3,38.869827,-77.303658,2022,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-693818,VA,Fairfax,Fairfax,Source2,3,38.864857,-77.33066600000002,2022,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-693856,VA,Fairfax,McLean,Source2,3,38.935345,-77.208801,2022,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-693862,VA,Fairfax,Springfield,Source2,3,38.742928000000006,-77.18856,2022,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-697637,VA,Fairfax,Vienna,Source2,3,38.907848,-77.217873,2022,18,Thursday,Rain,False,False,False,False,False,False,False
+A-699833,VA,Fairfax,Alexandria,Source2,3,38.791679,-77.17424,2022,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-699917,VA,Fairfax,Dunn Loring,Source2,3,38.88395300000001,-77.22219100000002,2022,15,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-700235,VA,Fairfax,Centreville,Source2,3,38.84623,-77.43435699999998,2022,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-701030,VA,Fairfax,McLean,Source2,3,38.962479,-77.186256,2022,16,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-702894,VA,Fairfax,Lorton,Source2,3,38.722225,-77.207314,2022,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-703812,VA,Fairfax,Centreville,Source2,3,38.850883,-77.40927099999998,2022,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-708073,VA,Fairfax,Springfield,Source2,3,38.739784,-77.190575,2022,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-708517,VA,Fairfax,Alexandria,Source2,3,38.812756,-77.14606500000002,2022,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-708519,VA,Fairfax,Centreville,Source2,3,38.822762,-77.461624,2022,6,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-713052,VA,Fairfax,Annandale,Source2,3,38.835655,-77.218361,2022,19,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-714723,VA,Fairfax,Annandale,Source2,3,38.834045,-77.21775799999998,2022,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-716268,VA,Fairfax,Springfield,Source2,3,38.788692,-77.176888,2022,12,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-717147,VA,Fairfax,Fairfax,Source2,3,38.86718,-77.318558,2022,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-718381,VA,Fairfax,Centreville,Source2,3,38.851151,-77.40778399999998,2022,8,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-720339,VA,Fairfax,Falls Church,Source2,3,38.885902,-77.21979499999998,2022,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-720644,VA,Fairfax,Lorton,Source2,3,38.720959,-77.208961,2022,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-721068,VA,Fairfax,McLean,Source2,3,38.963268,-77.184441,2022,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-721288,VA,Fairfax,Springfield,Source2,3,38.806747,-77.214691,2022,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-721441,VA,Fairfax,Springfield,Source2,3,38.790531,-77.174965,2022,16,Friday,Rain,False,False,False,False,False,False,False
+A-723977,VA,Fairfax,Fairfax,Source2,3,38.874153,-77.28511800000003,2022,8,Thursday,Rain,False,False,False,False,False,False,False
+A-724900,VA,Fairfax,Springfield,Source2,3,38.790443,-77.167374,2022,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-726514,VA,Fairfax,Alexandria,Source2,3,38.801189,-77.083344,2022,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-726837,VA,Fairfax,Centreville,Source2,3,38.851997,-77.403175,2022,16,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-726879,VA,Fairfax,Fairfax,Source2,3,38.868404,-77.311768,2022,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-728213,VA,Fairfax,Lorton,Source2,3,38.716465,-77.21476700000002,2022,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-729148,VA,Fairfax,Lorton,Source2,3,38.692348,-77.226883,2022,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-730255,VA,Fairfax,Annandale,Source2,3,38.815163,-77.221046,2022,22,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-730483,VA,Fairfax,Lorton,Source2,3,38.729118,-77.199646,2022,17,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-731872,VA,Fairfax,Annandale,Source2,3,38.836323,-77.218056,2022,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-732668,VA,Fairfax,Vienna,Source2,3,38.878357,-77.269249,2022,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-734621,VA,Fairfax,Lorton,Source2,3,38.739178,-77.190475,2022,22,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-737100,VA,Fairfax,Vienna,Source2,3,38.881535,-77.233414,2022,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-737519,VA,Fairfax,Lorton,Source2,3,38.732349,-77.196648,2022,5,Monday,Cloudy,False,False,True,False,False,False,False
+A-737687,VA,Fairfax,Centreville,Source2,3,38.825275,-77.457901,2022,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-742220,VA,Fairfax,Fairfax,Source2,3,38.86961,-77.303955,2022,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-747225,VA,Fairfax,Fairfax,Source2,3,38.863445,-77.339676,2022,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-747642,VA,Fairfax,Fairfax,Source2,3,38.854641,-77.388481,2022,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-749161,VA,Fairfax,Centreville,Source2,3,38.84798,-77.42353100000003,2022,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-749544,VA,Fairfax,Fairfax,Source2,3,38.870178,-77.301689,2022,17,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-751365,VA,Fairfax,Fairfax,Source2,3,38.873161,-77.288536,2022,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-753790,VA,Fairfax,Annandale,Source2,3,38.811924,-77.217941,2022,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-754857,VA,Fairfax,Springfield,Source2,3,38.795879,-77.18924,2022,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-755121,VA,Fairfax,Alexandria,Source2,3,38.80082700000001,-77.07895699999997,2022,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-755235,VA,Fairfax,Falls Church,Source2,3,38.907284,-77.217056,2022,7,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-755503,VA,Fairfax,Falls Church,Source2,3,38.859402,-77.219833,2022,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-756425,VA,Fairfax,Annandale,Source2,3,38.817017,-77.221863,2022,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-757705,VA,Fairfax,Alexandria,Source2,3,38.795368,-77.141075,2022,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-757768,VA,Fairfax,Falls Church,Source2,3,38.85363,-77.219727,2022,22,Saturday,Rain,False,True,False,False,False,False,False
+A-758041,VA,Fairfax,Fairfax,Source2,3,38.870743,-77.297752,2022,10,Saturday,Rain,False,False,False,False,False,False,False
+A-2435561,VA,Fairfax,Mc Lean,Source2,3,38.9636,-77.180153,2018,6,Tuesday,Rain,False,False,False,False,False,False,False
+A-2468490,VA,Fairfax,Mc Lean,Source2,3,38.9636,-77.180153,2018,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2475482,VA,Fairfax,Mc Lean,Source2,3,38.911579,-77.216858,2018,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-2517564,VA,Fairfax,Mc Lean,Source2,3,38.920773,-77.21431700000002,2018,15,Monday,Rain,False,False,False,False,False,False,False
+A-2533958,VA,Fairfax,Annandale,Source2,3,38.834976,-77.216087,2018,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2602089,VA,Fairfax,Mc Lean,Source2,3,38.9636,-77.180153,2018,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-2642020,VA,Fairfax,Centreville,Source2,3,38.810863,-77.487984,2018,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-2720419,VA,Fairfax,Falls Church,Source2,3,38.900539,-77.199623,2018,7,Tuesday,Rain,True,True,True,False,False,False,False
+A-2720458,VA,Fairfax,Mc Lean,Source2,3,38.9636,-77.180153,2018,12,Tuesday,Rain,False,False,False,False,False,False,False
+A-2735888,VA,Fairfax,Mc Lean,Source2,3,38.96233,-77.227051,2018,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-2760730,VA,Fairfax,Fairfax,Source2,3,38.877583,-77.388458,2018,16,Thursday,Cloudy,True,False,False,False,False,False,False
+A-2787516,VA,Fairfax,Annandale,Source2,3,38.834976,-77.216087,2018,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2792095,VA,Fairfax,Vienna,Source2,3,38.879276,-77.265877,2018,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2819687,VA,Fairfax,Alexandria,Source2,3,38.74054,-77.08728,2018,15,Saturday,Clear / Fair,True,True,False,False,False,False,False
+A-2922436,VA,Fairfax,Annandale,Source2,3,38.846245,-77.20285,2018,8,Friday,Other,True,True,False,False,False,False,False
+A-2943897,VA,Fairfax,Annandale,Source2,3,38.837837,-77.166916,2018,6,Wednesday,Clear / Fair,True,True,False,False,False,False,False
+A-2953382,VA,Fairfax,Vienna,Source2,3,38.883663,-77.227997,2018,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-2995466,VA,Fairfax,Centreville,Source2,3,38.847672,-77.434647,2018,15,Wednesday,Rain,False,False,False,False,False,False,False
+A-3080336,VA,Fairfax,Centreville,Source2,3,38.845573,-77.430054,2018,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3082987,VA,Fairfax,Mc Lean,Source2,3,38.920773,-77.21431700000002,2018,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3283808,VA,Fairfax,Vienna,Source2,3,38.973927,-77.303871,2017,4,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-3283844,VA,Fairfax,Vienna,Source2,3,38.883213,-77.223846,2017,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-3285700,VA,Fairfax,Mc Lean,Source2,3,38.911587,-77.216286,2017,19,Tuesday,Rain,False,False,False,False,False,False,False
+A-3297155,VA,Fairfax,Alexandria,Source2,3,38.7295,-77.107208,2017,12,Saturday,Cloudy,True,False,False,False,False,False,False
+A-3317066,VA,Fairfax,Falls Church,Source2,3,38.853596,-77.21946,2017,9,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-3325849,VA,Fairfax,Fairfax,Source2,3,38.817303,-77.274033,2017,17,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-3351125,VA,Fairfax,Mc Lean,Source2,3,38.910374,-77.21624,2017,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3362932,VA,Fairfax,Springfield,Source2,3,38.809875,-77.218666,2017,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3365682,VA,Fairfax,Centreville,Source2,3,38.845573,-77.430054,2017,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3368155,VA,Fairfax,Centreville,Source2,3,38.847672,-77.434647,2017,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3373571,VA,Fairfax,Alexandria,Source2,3,38.819607,-77.150177,2017,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3404050,VA,Fairfax,Vienna,Source2,3,38.95192700000001,-77.311607,2017,14,Sunday,Cloudy,True,False,False,False,False,False,False
+A-3407703,VA,Fairfax,Alexandria,Source2,3,38.816925,-77.137352,2017,13,Tuesday,Rain,False,False,False,False,False,False,False
+A-3445358,VA,Fairfax,Annandale,Source1,4,38.81198,-77.17327399999998,2016,5,Thursday,Clear / Fair,False,True,False,False,False,False,False
+A-3445432,VA,Fairfax,Alexandria,Source1,3,38.79647,-77.13546,2016,8,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-3445455,VA,Fairfax,Fairfax,Source1,3,38.87282,-77.249054,2016,8,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-3446284,VA,Fairfax,Alexandria,Source1,4,38.74894000000001,-77.08294000000002,2016,10,Saturday,Clear / Fair,False,False,False,True,False,False,False
+A-3449296,VA,Fairfax,Centreville,Source1,4,38.82725,-77.489652,2016,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-3454063,VA,Fairfax,Alexandria,Source1,3,38.813167,-77.17085300000002,2016,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-3459959,VA,Fairfax,Lorton,Source1,3,38.70568,-77.20537,2017,8,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-3460036,VA,Fairfax,Centreville,Source1,3,38.83543,-77.43195,2017,10,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-3462151,VA,Fairfax,Springfield,Source1,4,38.81185,-77.179923,2017,16,Tuesday,Cloudy,False,False,False,False,True,False,False
+A-3462153,VA,Fairfax,Annandale,Source1,4,38.81196,-77.17571099999998,2017,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3463289,VA,Fairfax,Alexandria,Source1,3,38.819349,-77.147992,2016,12,Friday,Cloudy,True,False,False,False,False,False,False
+A-3464129,VA,Fairfax,Chantilly,Source1,3,38.87548,-77.40853,2016,22,Monday,Clear / Fair,True,True,False,False,False,False,False
+A-3465501,VA,Fairfax,Alexandria,Source1,4,38.752577,-77.165727,2016,0,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3469938,VA,Fairfax,Lorton,Source1,4,38.698,-77.21344,2016,12,Sunday,Clear / Fair,False,False,False,False,True,False,False
+A-3472043,VA,Fairfax,Springfield,Source1,4,38.806901,-77.181155,2016,18,Friday,Clear / Fair,False,True,False,False,True,False,False
+A-3472065,VA,Fairfax,Annandale,Source1,4,38.81178900000001,-77.187593,2016,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3472213,VA,Fairfax,Vienna,Source1,4,38.97342,-77.30311999999998,2016,0,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3475375,VA,Fairfax,Alexandria,Source1,3,38.79647,-77.13546,2016,9,Wednesday,Rain,False,False,True,False,False,False,False
+A-3477931,VA,Fairfax,Alexandria,Source1,4,38.787352,-77.089935,2016,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3477932,VA,Fairfax,Alexandria,Source1,4,38.785375,-77.095208,2016,16,Saturday,Cloudy,True,False,False,False,False,False,False
+A-3479237,VA,Fairfax,Vienna,Source1,4,38.888688,-77.281502,2016,22,Wednesday,Rain,False,True,False,False,False,False,False
+A-3481121,VA,Fairfax,Alexandria,Source1,3,38.783807,-77.099299,2016,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3481165,VA,Fairfax,Centreville,Source1,3,38.838383,-77.442402,2016,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3486330,VA,Fairfax,Centreville,Source1,4,38.851949,-77.432989,2016,10,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-3487878,VA,Fairfax,Mc Lean,Source1,4,38.96158,-77.22412800000002,2016,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3487932,VA,Fairfax,Mc Lean,Source1,4,38.96158,-77.22412800000002,2016,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3491639,VA,Fairfax,Centreville,Source1,3,38.83866,-77.42962,2016,0,Sunday,Clear / Fair,True,True,False,False,False,False,False
+A-3491656,VA,Fairfax,Vienna,Source1,4,38.910411,-77.252402,2016,3,Sunday,Cloudy,False,True,False,False,False,False,False
+A-3493813,VA,Fairfax,Fairfax,Source1,4,38.86757,-77.27269,2016,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3497201,VA,Fairfax,Great Falls,Source1,4,38.981882,-77.257162,2016,1,Thursday,Cloudy,True,False,False,False,False,False,False
+A-3497248,VA,Fairfax,Great Falls,Source1,4,38.991087,-77.273904,2016,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3497264,VA,Fairfax,Great Falls,Source1,4,38.991087,-77.273904,2016,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3497265,VA,Fairfax,Great Falls,Source1,4,38.993245,-77.278139,2016,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3498010,VA,Fairfax,Reston,Source1,4,38.969756,-77.333261,2016,23,Friday,Cloudy,True,True,False,False,False,False,False
+A-3499529,VA,Fairfax,Great Falls,Source1,4,38.99108,-77.27389000000002,2016,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3499531,VA,Fairfax,Great Falls,Source1,4,38.98462,-77.2618,2016,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3499674,VA,Fairfax,Springfield,Source1,3,38.7648,-77.18276999999998,2016,8,Friday,Cloudy,False,False,True,False,False,False,False
+A-3501528,VA,Fairfax,Alexandria,Source1,3,38.79647,-77.13546,2016,6,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-3502277,VA,Fairfax,Centreville,Source1,4,38.86436,-77.46034,2016,22,Sunday,Cloudy,False,True,False,False,False,False,False
+A-3502638,VA,Fairfax,Alexandria,Source1,3,38.77198900000001,-77.081234,2016,9,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-3503312,VA,Fairfax,Vienna,Source1,4,38.965674,-77.286642,2016,1,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3503457,VA,Fairfax,Alexandria,Source1,4,38.83926,-77.15146999999997,2016,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3503778,VA,Fairfax,Great Falls,Source1,4,38.9981,-77.28842,2016,10,Friday,Cloudy,True,True,False,False,False,False,False
+A-3503779,VA,Fairfax,Great Falls,Source1,4,38.98462,-77.2618,2016,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-3503813,VA,Fairfax,Great Falls,Source1,4,38.9981,-77.28842,2016,12,Friday,Cloudy,True,True,False,False,False,False,False
+A-3503814,VA,Fairfax,Great Falls,Source1,4,38.99028,-77.27226999999998,2016,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-3504734,VA,Fairfax,Fairfax Station,Source1,3,38.75315,-77.30133000000002,2016,9,Tuesday,Clear / Fair,True,True,False,False,False,False,False
+A-3505001,VA,Fairfax,Lorton,Source1,3,38.68868,-77.20666999999997,2016,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3505004,VA,Fairfax,Lorton,Source1,3,38.68524,-77.2121,2016,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3506037,VA,Fairfax,Annandale,Source1,3,38.8302,-77.19436,2016,15,Monday,Clear / Fair,True,True,False,False,False,False,False
+A-3507056,VA,Fairfax,Vienna,Source1,4,38.97403,-77.30378,2016,5,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-3507844,VA,Fairfax,Great Falls,Source1,4,38.96794600000001,-77.29163299999998,2016,0,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3507845,VA,Fairfax,Great Falls,Source1,4,38.973385,-77.296485,2016,0,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3508377,VA,Fairfax,Great Falls,Source1,4,38.99992,-77.331929,2016,5,Tuesday,Cloudy,False,True,False,True,False,False,False
+A-3508378,VA,Fairfax,Great Falls,Source1,4,38.99912,-77.31395,2016,5,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-3510171,VA,Fairfax,Mc Lean,Source1,4,38.958993,-77.205407,2016,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3510304,VA,Fairfax,Alexandria,Source1,3,38.72259,-77.12115,2016,4,Monday,Cloudy,False,False,False,True,False,False,False
+A-3510309,VA,Fairfax,Alexandria,Source1,4,38.73952,-77.08867,2016,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-3574213,VA,Fairfax,Mc Lean,Source1,3,38.939701,-77.179275,2017,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-3574355,VA,Fairfax,Herndon,Source1,3,38.999419,-77.343019,2017,3,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3577010,VA,Fairfax,Alexandria,Source1,3,38.79647,-77.13546,2017,12,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-3577625,VA,Fairfax,Mc Lean,Source1,4,38.96231,-77.22704,2017,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3577626,VA,Fairfax,Mc Lean,Source1,4,38.965003,-77.234448,2017,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3578704,VA,Fairfax,Mc Lean,Source1,4,38.958702,-77.205101,2017,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3578765,VA,Fairfax,Great Falls,Source1,4,38.998353,-77.289676,2017,1,Sunday,Cloudy,False,True,False,True,False,False,False
+A-3578766,VA,Fairfax,Great Falls,Source1,4,38.997697,-77.287053,2017,1,Sunday,Cloudy,False,False,False,True,False,False,False
+A-3578963,VA,Fairfax,Vienna,Source1,3,38.95956,-77.277,2017,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-3580158,VA,Fairfax,Alexandria,Source1,4,38.806118,-77.17069599999998,2017,8,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-3580159,VA,Fairfax,Springfield,Source1,4,38.806337,-77.171397,2017,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3583188,VA,Fairfax,Lorton,Source1,3,38.69233,-77.21884,2017,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-3584986,VA,Fairfax,Lorton,Source1,3,38.673268,-77.234501,2017,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3599037,VA,Fairfax,Great Falls,Source1,4,38.998591,-77.300946,2017,12,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-3599038,VA,Fairfax,Great Falls,Source1,4,38.99838,-77.29019,2017,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3599665,VA,Fairfax,Fairfax,Source1,4,38.87766,-77.3884,2017,11,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-3602126,VA,Fairfax,Alexandria,Source1,3,38.79078,-77.076332,2017,12,Monday,Cloudy,True,True,False,False,False,False,False
+A-3603128,VA,Fairfax,Alexandria,Source1,4,38.802723,-77.148432,2017,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3605644,VA,Fairfax,Falls Church,Source1,4,38.853398,-77.134736,2017,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-3605646,VA,Fairfax,Falls Church,Source1,4,38.853531,-77.135223,2017,17,Friday,Cloudy,True,False,False,False,False,False,False
+A-3613297,VA,Fairfax,Alexandria,Source1,4,38.762812,-77.130076,2017,8,Tuesday,Clear / Fair,False,True,False,False,False,False,False
+A-3613794,VA,Fairfax,Mc Lean,Source1,4,38.962155,-77.2266,2017,8,Thursday,Rain,False,False,False,False,False,False,False
+A-3616451,VA,Fairfax,Mc Lean,Source1,4,38.978512,-77.24951300000002,2017,2,Monday,Cloudy,False,False,False,False,False,False,False
+A-3616452,VA,Fairfax,Mc Lean,Source1,4,38.98176,-77.25695999999998,2017,2,Monday,Cloudy,True,False,False,False,False,False,False
+A-3618650,VA,Fairfax,Fairfax,Source1,3,38.881214,-77.397596,2017,22,Monday,Cloudy,True,True,False,False,False,False,False
+A-3618796,VA,Fairfax,Annandale,Source1,3,38.81182,-77.193402,2017,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3628473,VA,Fairfax,Alexandria,Source1,3,38.760894,-77.083927,2017,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3628474,VA,Fairfax,Alexandria,Source1,3,38.764551,-77.084342,2017,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3634479,VA,Fairfax,Great Falls,Source1,4,38.999631,-77.325897,2017,22,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3634944,VA,Fairfax,Lorton,Source1,3,38.690008,-77.220201,2017,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3642477,VA,Fairfax,Chantilly,Source1,3,38.909385,-77.468423,2017,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3643844,VA,Fairfax,Centreville,Source1,3,38.83851,-77.440105,2017,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3646565,VA,Fairfax,Vienna,Source1,4,38.948741,-77.3119,2017,5,Thursday,Cloudy,True,False,False,False,False,False,False
+A-3647170,VA,Fairfax,Alexandria,Source1,4,38.790407,-77.07633,2017,2,Saturday,Cloudy,True,True,False,False,False,False,False
+A-3653779,VA,Fairfax,Springfield,Source1,4,38.766258,-77.18663000000002,2023,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3686092,VA,Fairfax,Alexandria,Source1,4,38.781046,-77.078078,2023,13,Wednesday,Cloudy,False,False,False,False,False,True,False
+A-3690725,VA,Fairfax,Springfield,Source1,4,38.774912,-77.209908,2023,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3695768,VA,Fairfax,Alexandria,Source1,4,38.781494,-77.078962,2023,13,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-3774954,VA,Fairfax,Great Falls,Source1,4,38.989512,-77.270778,2022,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3799848,VA,Fairfax,Fairfax,Source1,4,38.878448,-77.267866,2022,20,Thursday,Rain,False,False,False,False,False,False,False
+A-3810871,VA,Fairfax,Dunn Loring,Source1,4,38.89264225941232,-77.21670985185042,2022,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3823030,VA,Fairfax,Annandale,Source1,4,38.831141,-77.194538,2022,18,Sunday,Clear / Fair,True,True,False,False,False,True,False
+A-3844549,VA,Fairfax,Springfield,Source1,4,38.762265443617046,-77.18353629075439,2022,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3851296,VA,Fairfax,Fairfax,Source1,4,38.872584,-77.290186,2022,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3857081,VA,Fairfax,McLean,Source1,4,38.927891,-77.21248800000002,2022,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3867009,VA,Fairfax,Springfield,Source1,4,38.780833,-77.185641,2022,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-3892668,VA,Fairfax,McLean,Source1,4,38.96278739,-77.18583226,2022,0,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3895222,VA,Fairfax,McLean,Source1,4,38.961198,-77.22240500000002,2022,16,Friday,Storm,False,False,False,False,False,False,False
+A-3913397,VA,Fairfax,Annandale,Source1,4,38.829398,-77.189121,2023,2,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3941789,VA,Fairfax,Lorton,Source1,4,38.72739672642361,-77.20074534379388,2022,3,Sunday,Rain,False,False,True,False,False,False,False
+A-3958676,VA,Fairfax,Falls Church,Source1,4,38.84678,-77.137488,2022,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3966453,VA,Fairfax,Springfield,Source1,4,38.75825285893079,-77.21975684129133,2022,7,Wednesday,Rain,False,False,True,False,False,False,False
+A-3988406,VA,Fairfax,Great Falls,Source1,4,39.01116,-77.276363,2022,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-4070242,VA,Fairfax,Alexandria,Source1,4,38.732657,-77.11372800000002,2022,2,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4073192,VA,Fairfax,Centreville,Source1,4,38.810862,-77.48782800000002,2022,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4099018,VA,Fairfax,Lorton,Source1,4,38.70576739,-77.20516562,2022,6,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-4104677,VA,Fairfax,Fairfax,Source1,4,38.859209,-77.363998,2022,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4118760,VA,Fairfax,Lorton,Source1,4,38.670494,-77.237431,2022,3,Friday,Clear / Fair,True,True,False,True,False,False,False
+A-4143516,VA,Fairfax,Springfield,Source1,4,38.77375900000001,-77.248968,2022,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4149426,VA,Fairfax,Alexandria,Source1,4,38.79642606,-77.06373811,2023,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-4159368,VA,Fairfax,Clifton,Source1,4,38.736659,-77.36590100000002,2022,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4168490,VA,Fairfax,Fairfax,Source1,4,38.858761,-77.371188,2023,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4177720,VA,Fairfax,Fairfax,Source1,4,38.87069,-77.2374,2022,8,Tuesday,Rain,False,True,False,True,False,False,False
+A-4179911,VA,Fairfax,Lorton,Source1,4,38.703994,-77.24719499999998,2022,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-4209092,VA,Fairfax,Alexandria,Source1,4,38.739363,-77.091391,2022,23,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4255500,VA,Fairfax,McLean,Source1,4,38.96536231,-77.18074679,2023,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4255887,VA,Fairfax,Fairfax Station,Source1,4,38.758344,-77.350651,2022,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4281487,VA,Fairfax,Alexandria,Source1,4,38.759648,-77.085265,2022,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4295678,VA,Fairfax,Fairfax,Source1,4,38.873391,-77.236037,2022,7,Tuesday,Cloudy,False,True,False,False,False,False,False
+A-4302938,VA,Fairfax,Falls Church,Source1,4,38.868729,-77.22204599999998,2022,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4312243,VA,Fairfax,Alexandria,Source1,4,38.791513,-77.066552,2022,23,Wednesday,Rain,False,False,False,False,False,False,False
+A-4328734,VA,Fairfax,Falls Church,Source1,4,38.848421,-77.128026,2022,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4358878,VA,Fairfax,Chantilly,Source1,4,38.891257,-77.463702,2022,10,Friday,Fog / Low visibility,True,False,False,False,False,False,False
+A-4399593,VA,Fairfax,Springfield,Source1,4,38.786533,-77.173203,2022,23,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4400469,VA,Fairfax,Centreville,Source1,4,38.84399772,-77.43993401,2022,23,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4442473,VA,Fairfax,Annandale,Source1,4,38.81803393,-77.22168803,2023,3,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4458140,VA,Fairfax,Alexandria,Source1,4,38.751743,-77.050285,2022,21,Friday,Clear / Fair,False,False,False,True,False,False,False
+A-4509344,VA,Fairfax,Falls Church,Source1,4,38.878703,-77.188027,2022,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4546825,VA,Fairfax,Great Falls,Source1,4,39.010449,-77.27802199999998,2022,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-4594085,VA,Fairfax,Reston,Source1,4,38.96705746632114,-77.35376000367472,2022,12,Thursday,Rain,True,True,False,False,False,False,False
+A-4604747,VA,Fairfax,Annandale,Source1,4,38.83114457,-77.19452262,2022,19,Sunday,Clear / Fair,True,True,False,False,False,True,False
+A-4628689,VA,Fairfax,Lorton,Source1,4,38.710037,-77.197175,2022,21,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-4651829,VA,Fairfax,Falls Church,Source1,4,38.854165,-77.122363,2022,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4665153,VA,Fairfax,Great Falls,Source1,4,38.998415,-77.29231800000002,2022,19,Tuesday,Rain,False,False,False,False,False,False,False
+A-4672256,VA,Fairfax,Burke,Source1,4,38.810426,-77.269627,2022,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4689022,VA,Fairfax,Chantilly,Source1,4,38.890798,-77.46401,2022,9,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4691239,VA,Fairfax,Alexandria,Source1,4,38.791747,-77.066868,2022,23,Wednesday,Rain,False,False,False,False,False,False,False
+A-4701406,VA,Fairfax,Lorton,Source1,4,38.697112,-77.256188,2022,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4707080,VA,Fairfax,Alexandria,Source1,4,38.739332,-77.091831,2022,23,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4708246,VA,Fairfax,Falls Church,Source1,4,38.87878,-77.187537,2022,2,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4713328,VA,Fairfax,Reston,Source1,4,38.976332,-77.334594,2022,10,Wednesday,Rain,False,False,False,False,False,False,False
+A-4718225,VA,Fairfax,Herndon,Source1,4,38.93904000000001,-77.417128,2022,0,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4726852,VA,Fairfax,Centreville,Source1,4,38.85071397,-77.41034389,2023,2,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4757125,VA,Fairfax,Centreville,Source1,4,38.88122,-77.484583,2022,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4770589,VA,Fairfax,Alexandria,Source1,4,38.759453,-77.085347,2022,10,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-4795197,VA,Fairfax,Burke,Source1,4,38.810622,-77.268238,2022,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4810609,VA,Fairfax,Fairfax,Source1,4,38.825454,-77.312596,2022,12,Friday,Clear / Fair,True,True,False,False,False,False,False
+A-4819882,VA,Fairfax,Alexandria,Source1,4,38.796486,-77.081414,2022,3,Friday,Cloudy,True,False,False,False,False,False,False
+A-4841024,VA,Fairfax,Lorton,Source1,4,38.698214,-77.25795500000002,2022,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4911442,VA,Fairfax,Fairfax,Source1,4,38.906965,-77.405637,2022,17,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-4912744,VA,Fairfax,Lorton,Source1,4,38.68555426579148,-77.22791075669656,2022,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4933186,VA,Fairfax,Annandale,Source1,4,38.831141,-77.194538,2022,18,Sunday,Clear / Fair,True,True,False,False,False,True,False
+A-4952582,VA,Fairfax,Fairfax,Source1,4,38.86363149,-77.35210776,2023,10,Monday,Cloudy,False,False,True,False,False,False,False
+A-4978477,VA,Fairfax,Lorton,Source1,4,38.715367,-77.193145,2022,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5013863,VA,Fairfax,Fairfax,Source1,4,38.862423,-77.342653,2022,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5015616,VA,Fairfax,Centreville,Source1,4,38.85071397,-77.41034389,2023,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5063463,VA,Fairfax,Alexandria,Source1,4,38.790949,-77.065803,2022,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5114189,VA,Fairfax,Herndon,Source1,4,38.950884,-77.375371,2023,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5149437,VA,Fairfax,Lorton,Source1,4,38.73726725559837,-77.19248414002803,2022,2,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5162241,VA,Fairfax,Falls Church,Source1,4,38.878533,-77.188257,2022,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5229226,VA,Fairfax,McLean,Source1,4,38.946124,-77.1571,2022,15,Monday,Cloudy,False,True,False,False,False,False,False
+A-5234217,VA,Fairfax,Chantilly,Source1,4,38.90208,-77.450204,2022,11,Thursday,Cloudy,True,True,False,False,False,False,False
+A-5249659,VA,Fairfax,Springfield,Source1,4,38.780891,-77.18508299999998,2022,5,Friday,Cloudy,True,False,False,False,False,False,False
+A-5271465,VA,Fairfax,Lorton,Source1,4,38.705514,-77.20542900000002,2022,6,Saturday,Cloudy,True,False,False,False,False,False,False
+A-5341981,VA,Fairfax,Alexandria,Source1,4,38.796196,-77.07932199999998,2022,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-5362114,VA,Fairfax,Clifton,Source1,4,38.739756,-77.36605,2022,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5371038,VA,Fairfax,Fairfax,Source1,4,38.871327,-77.26750899999998,2022,20,Thursday,Rain,False,False,False,False,False,False,False
+A-5381382,VA,Fairfax,Falls Church,Source1,4,38.843317,-77.115746,2022,6,Tuesday,Rain,True,True,False,False,False,False,False
+A-5404457,VA,Fairfax,Alexandria,Source1,4,38.792348,-77.057412,2022,2,Friday,Cloudy,False,False,False,False,False,False,False
+A-5414590,VA,Fairfax,Annandale,Source1,4,38.831943,-77.186204,2022,11,Friday,Clear / Fair,False,True,False,False,False,False,False
+A-5440121,VA,Fairfax,Great Falls,Source1,4,38.997754,-77.293163,2022,19,Tuesday,Rain,False,False,False,False,False,False,False
+A-5499394,VA,Fairfax,Springfield,Source1,4,38.76033425312633,-77.21336245499985,2021,18,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-5548063,VA,Fairfax,Fairfax,Source1,4,38.86279463749474,-77.3814618583804,2021,15,Saturday,Cloudy,True,False,False,False,False,False,False
+A-5568394,VA,Fairfax,Herndon,Source1,4,38.96165013294715,-77.41851925812995,2021,10,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-5639236,VA,Fairfax,Alexandria,Source1,4,38.791855573469206,-77.17482447587406,2021,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5644332,VA,Fairfax,Fairfax Station,Source1,4,38.78820776920896,-77.32663750611627,2021,22,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5699839,VA,Fairfax,Lorton,Source1,4,38.6806190012041,-77.23140835725195,2021,0,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5794512,VA,Fairfax,Fairfax,Source1,4,38.86300921421593,-77.38294243775661,2021,15,Saturday,Cloudy,True,True,False,False,False,False,False
+A-5848136,VA,Fairfax,Falls Church,Source1,4,38.87163519840778,-77.2202932830943,2021,0,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-5874175,VA,Fairfax,McLean,Source1,4,38.93862605076343,-77.13358283006126,2021,10,Thursday,Cloudy,False,False,True,False,False,False,False
+A-5899870,VA,Fairfax,Centreville,Source1,4,38.84146571140842,-77.43102908097539,2021,22,Friday,Cloudy,False,False,False,False,False,False,False
+A-5914102,VA,Fairfax,Centreville,Source1,4,38.84146571140842,-77.43102908097539,2021,22,Friday,Cloudy,False,False,False,False,False,False,False
+A-6025309,VA,Fairfax,Fairfax Station,Source1,4,38.79631876926996,-77.33687281571704,2021,6,Monday,Rain,True,True,False,False,False,False,False
+A-6045098,VA,Fairfax,Vienna,Source1,4,38.88335108738478,-77.22876906358131,2021,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6055286,VA,Fairfax,Lorton,Source1,4,38.6806190012041,-77.23140835725195,2021,1,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6068732,VA,Fairfax,Alexandria,Source1,4,38.791855573469206,-77.17482447587406,2021,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6174330,VA,Fairfax,Alexandria,Source1,4,38.80586743336293,-77.15823769532604,2021,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6194623,VA,Fairfax,McLean,Source1,4,38.93862605076343,-77.13358283006126,2021,10,Thursday,Cloudy,False,False,True,False,False,False,False
+A-6208960,VA,Fairfax,Clifton,Source1,4,38.78344416599853,-77.38693356477074,2021,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6627005,VA,Fairfax,McLean,Source1,4,38.962787,-77.18583199999998,2020,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6706934,VA,Fairfax,Lorton,Source1,4,38.675898,-77.235957,2020,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7012191,VA,Fairfax,Centreville,Source1,3,38.85152,-77.43301,2020,18,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-7012194,VA,Fairfax,Centreville,Source1,3,38.85152,-77.43301,2020,18,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-7030540,VA,Fairfax,Alexandria,Source1,3,38.79647,-77.13546,2020,22,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7044739,VA,Fairfax,Alexandria,Source1,3,38.79647,-77.13546,2020,9,Friday,Rain,False,False,True,False,False,False,False
+A-7044740,VA,Fairfax,Alexandria,Source1,3,38.79647,-77.13546,2020,9,Friday,Rain,False,False,True,False,False,False,False
+A-7051978,VA,Fairfax,Mc Lean,Source1,3,38.96231,-77.22704,2020,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7101829,VA,Fairfax,Mc Lean,Source1,3,38.98176,-77.25695999999998,2020,7,Saturday,Cloudy,True,False,False,False,False,False,False
+A-7101830,VA,Fairfax,Mc Lean,Source1,3,38.98176,-77.25695999999998,2020,7,Saturday,Cloudy,True,False,False,False,False,False,False
+A-7101831,VA,Fairfax,Mc Lean,Source1,3,38.98176,-77.25695999999998,2020,7,Saturday,Cloudy,True,False,False,False,False,False,False
+A-7101832,VA,Fairfax,Mc Lean,Source1,3,38.98176,-77.25695999999998,2020,7,Saturday,Cloudy,True,False,False,False,False,False,False
+A-7101834,VA,Fairfax,Mc Lean,Source1,3,38.98176,-77.25695999999998,2020,7,Saturday,Cloudy,True,False,False,False,False,False,False
+A-7101835,VA,Fairfax,Mc Lean,Source1,3,38.98176,-77.25695999999998,2020,7,Saturday,Cloudy,True,False,False,False,False,False,False
+A-7135911,VA,Fairfax,Mc Lean,Source1,4,38.96231,-77.22704,2020,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7135918,VA,Fairfax,Mc Lean,Source1,4,38.96231,-77.22704,2020,17,Wednesday,Rain,False,False,False,False,False,False,False
+A-7135925,VA,Fairfax,Mc Lean,Source1,4,38.96231,-77.22704,2020,16,Wednesday,Rain,False,False,False,False,False,False,False
+A-7163787,VA,Fairfax,Centreville,Source1,3,38.85151,-77.43279,2020,20,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7163791,VA,Fairfax,Centreville,Source1,3,38.85151,-77.43279,2020,20,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7163793,VA,Fairfax,Centreville,Source1,3,38.85151,-77.43279,2020,20,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7163797,VA,Fairfax,Centreville,Source1,3,38.85151,-77.43279,2020,20,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7190245,VA,Fairfax,Herndon,Source1,3,38.99465,-77.33623,2020,3,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7190247,VA,Fairfax,Herndon,Source1,3,38.99465,-77.33623,2020,3,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7190249,VA,Fairfax,Herndon,Source1,3,38.99465,-77.33623,2020,3,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7190251,VA,Fairfax,Herndon,Source1,3,38.99465,-77.33623,2020,3,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7197432,VA,Fairfax,Alexandria,Source1,3,38.79647,-77.13546,2020,16,Saturday,Cloudy,False,False,True,False,False,False,False
+A-7247341,VA,Fairfax,Great Falls,Source1,4,38.99912,-77.31395,2020,8,Monday,Cloudy,True,False,False,False,False,False,False
+A-7247372,VA,Fairfax,Vienna,Source1,4,38.95797,-77.27481999999998,2020,17,Monday,Cloudy,True,True,False,False,True,False,False
+A-7251473,VA,Fairfax,Alexandria,Source1,4,38.79647,-77.13546,2020,8,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7429643,VA,Fairfax,Vienna,Source1,3,38.94714000000001,-77.31203000000002,2019,15,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-7441307,VA,Fairfax,Lorton,Source1,4,38.69233,-77.21884,2019,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7441309,VA,Fairfax,Lorton,Source1,4,38.670539,-77.23719100000002,2019,7,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7455987,VA,Fairfax,Lorton,Source1,3,38.70984,-77.19707,2019,6,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-7495906,VA,Fairfax,Alexandria,Source1,3,38.79647,-77.13546,2018,9,Monday,Rain,False,False,True,False,False,False,False
+A-7501136,VA,Fairfax,Alexandria,Source1,3,38.79647,-77.13546,2018,6,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7556815,VA,Fairfax,Mc Lean,Source1,4,38.98176,-77.25695999999998,2018,0,Thursday,Cloudy,True,False,False,False,False,False,False
+A-7556816,VA,Fairfax,Mc Lean,Source1,4,38.98176,-77.25695999999998,2018,0,Thursday,Cloudy,True,False,False,False,False,False,False
+A-7570380,VA,Fairfax,Alexandria,Source1,3,38.760179,-77.083872,2018,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7573282,VA,Fairfax,Lorton,Source1,3,38.70473,-77.2259,2018,8,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-7578548,VA,Fairfax,Annandale,Source1,4,38.81198,-77.17327399999998,2018,6,Thursday,Clear / Fair,False,True,False,False,False,False,False
+A-7624647,VA,Fairfax,Mc Lean,Source1,4,38.98176,-77.25695999999998,2018,23,Sunday,Cloudy,True,False,False,False,False,False,False
+A-7624771,VA,Fairfax,Mc Lean,Source1,4,38.98176,-77.25695999999998,2018,4,Monday,Cloudy,True,False,False,False,False,False,False
+A-7630025,VA,Fairfax,McLean,Source1,3,38.915578,-77.217749,2018,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7638535,VA,Fairfax,Vienna,Source1,3,38.95956,-77.277,2018,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-7639316,VA,Fairfax,Alexandria,Source1,3,38.79647,-77.13546,2018,12,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7651219,VA,Fairfax,Centreville,Source1,4,38.84978,-77.43312,2017,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7658146,VA,Fairfax,Alexandria,Source1,3,38.79647,-77.13546,2017,5,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7663533,VA,Fairfax,Alexandria,Source1,3,38.79647,-77.13546,2017,8,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7674327,VA,Fairfax,Mc Lean,Source1,3,38.9363,-77.24681,2017,1,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7678858,VA,Fairfax,Mc Lean,Source1,4,38.927436,-77.166392,2017,17,Tuesday,Cloudy,False,False,False,True,False,False,False
+A-7678859,VA,Fairfax,Mc Lean,Source1,4,38.930168,-77.17071800000002,2017,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7678862,VA,Fairfax,Mc Lean,Source1,4,38.930168,-77.17071800000002,2017,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7678863,VA,Fairfax,Mc Lean,Source1,4,38.927436,-77.166392,2017,17,Tuesday,Cloudy,False,False,False,True,False,False,False
+A-7680938,VA,Fairfax,Mc Lean,Source1,4,38.972097,-77.242293,2017,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7680943,VA,Fairfax,Mc Lean,Source1,4,38.972097,-77.242293,2017,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7680944,VA,Fairfax,Mc Lean,Source1,4,38.98176,-77.25695999999998,2017,23,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-7681146,VA,Fairfax,Vienna,Source1,3,38.92854000000001,-77.24093,2017,5,Monday,Cloudy,True,True,False,False,False,False,False
+A-7683031,VA,Fairfax,Alexandria,Source1,4,38.758991,-77.08394799999998,2017,18,Friday,Cloudy,True,False,False,False,False,False,False
+A-7686371,VA,Fairfax,Alexandria,Source1,4,38.783244,-77.075819,2017,19,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7686491,VA,Fairfax,Springfield,Source1,4,38.806859,-77.174432,2017,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7686492,VA,Fairfax,Springfield,Source1,4,38.80695,-77.179736,2017,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7686582,VA,Fairfax,Alexandria,Source1,3,38.73312,-77.10034,2017,22,Monday,Clear / Fair,True,True,False,False,False,False,False
+A-7689066,VA,Fairfax,Lorton,Source1,4,38.689467,-77.220512,2017,5,Monday,Clear / Fair,False,True,False,False,False,False,False
+A-7689150,VA,Fairfax,Alexandria,Source1,4,38.723476,-77.11935600000002,2017,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-7690165,VA,Fairfax,Lorton,Source1,4,38.697543,-77.256385,2017,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7690178,VA,Fairfax,Falls Church,Source1,4,38.844056,-77.141513,2017,8,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-7690180,VA,Fairfax,Falls Church,Source1,4,38.845686,-77.140227,2017,8,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-7692017,VA,Fairfax,Lorton,Source1,4,38.686363,-77.25804000000002,2017,3,Sunday,Clear / Fair,False,True,False,False,False,False,False
+A-7693780,VA,Fairfax,Fairfax,Source1,4,38.88736,-77.41339,2017,8,Thursday,Cloudy,True,True,False,False,False,False,False
+A-7694454,VA,Fairfax,Mc Lean,Source1,4,38.96374,-77.23093,2017,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-7694455,VA,Fairfax,Mc Lean,Source1,4,38.96374,-77.23093,2017,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-7694985,VA,Fairfax,Alexandria,Source1,4,38.786225,-77.092427,2017,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7694987,VA,Fairfax,Alexandria,Source1,4,38.788446,-77.08769699999998,2017,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7697394,VA,Fairfax,Annandale,Source1,4,38.8302,-77.19436,2017,9,Friday,Cloudy,True,True,False,False,False,False,False
+A-7697395,VA,Fairfax,Annandale,Source1,4,38.830406,-77.1962,2017,9,Friday,Cloudy,True,True,False,False,False,True,False
+A-7697406,VA,Fairfax,Annandale,Source1,4,38.830194,-77.194319,2017,11,Friday,Cloudy,True,True,False,False,False,False,False
+A-7698714,VA,Fairfax,Chantilly,Source1,3,38.893193,-77.428451,2017,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7700508,VA,Fairfax,Alexandria,Source1,3,38.77818900000001,-77.079877,2017,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7700530,VA,Fairfax,Fairfax,Source1,4,38.86528,-77.254134,2017,11,Friday,Clear / Fair,False,False,False,True,False,False,False
+A-7701099,VA,Fairfax,Mc Lean,Source1,4,38.968457,-77.240054,2017,5,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7701100,VA,Fairfax,Mc Lean,Source1,4,38.965814,-77.23612800000002,2017,5,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7701101,VA,Fairfax,Mc Lean,Source1,4,38.969849,-77.24091899999998,2017,5,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7701102,VA,Fairfax,Mc Lean,Source1,4,38.96856,-77.24011999999998,2017,6,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7748375,VA,Fairfax,Fairfax,Source1,3,38.88215,-77.40059000000002,2019,15,Wednesday,Storm,True,True,False,False,False,False,False
+A-7757696,VA,Fairfax,Centreville,Source1,3,38.833575,-77.432199,2019,7,Friday,Fog / Low visibility,False,False,False,False,False,False,False

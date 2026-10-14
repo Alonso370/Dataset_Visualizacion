@@ -1,0 +1,525 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-4241,CA,Sonoma,Petaluma,Source2,3,38.221951,-122.609055,2016,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5681,CA,Sonoma,Santa Rosa,Source2,3,38.418869,-122.71578999999998,2016,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-10176,CA,Sonoma,Healdsburg,Source2,3,38.594612,-122.85263799999998,2017,16,Saturday,Rain,False,False,False,False,False,False,False
+A-19753,CA,Sonoma,Santa Rosa,Source2,3,38.433128,-122.726196,2016,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-25380,CA,Sonoma,Santa Rosa,Source2,3,38.433685,-122.699257,2016,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-30135,CA,Sonoma,Santa Rosa,Source2,3,38.426914,-122.715149,2016,12,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-32835,CA,Sonoma,Petaluma,Source2,3,38.245728,-122.62551100000002,2016,7,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-32843,CA,Sonoma,Petaluma,Source2,3,38.223629,-122.611519,2016,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-39754,CA,Sonoma,Santa Rosa,Source2,3,38.386982,-122.716286,2016,12,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-42271,CA,Sonoma,Petaluma,Source2,3,38.246796,-122.627808,2016,9,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-316587,CA,Sonoma,Petaluma,Source2,3,38.188026,-122.601021,2017,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-316617,CA,Sonoma,Santa Rosa,Source2,3,38.481819,-122.817719,2017,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-316649,CA,Sonoma,Cloverdale,Source2,3,38.823887,-123.015198,2017,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-336412,CA,Sonoma,Santa Rosa,Source2,3,38.456425,-122.725899,2017,16,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-339172,CA,Sonoma,Santa Rosa,Source2,3,38.431297,-122.715569,2017,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-339200,CA,Sonoma,Santa Rosa,Source2,3,38.43251,-122.715805,2017,19,Sunday,Rain,False,False,True,False,False,False,False
+A-340003,CA,Sonoma,Sonoma,Source2,3,38.244747,-122.44873,2017,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-340656,CA,Sonoma,Sebastopol,Source2,3,38.381241,-122.806129,2017,12,Friday,Cloudy,True,False,False,False,False,False,False
+A-341564,CA,Sonoma,Petaluma,Source2,3,38.246796,-122.627808,2017,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-397523,CA,Sonoma,Santa Rosa,Source2,3,38.496155,-122.756393,2017,5,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-398558,CA,Sonoma,Petaluma,Source2,3,38.217579,-122.60383600000002,2017,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-399632,CA,Sonoma,Santa Rosa,Source2,3,38.431316,-122.715576,2017,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-399633,CA,Sonoma,Santa Rosa,Source2,3,38.431297,-122.715569,2017,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-455152,CA,Sonoma,Santa Rosa,Source2,3,38.432362,-122.73024,2017,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-456693,CA,Sonoma,Petaluma,Source2,3,38.151356,-122.449112,2017,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-493125,CA,Sonoma,Santa Rosa,Source2,3,38.511246,-122.760391,2017,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-493277,CA,Sonoma,Petaluma,Source2,3,38.246796,-122.627808,2017,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-524726,CA,Sonoma,Santa Rosa,Source2,3,38.433048,-122.726112,2022,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-752568,CA,Sonoma,Petaluma,Source2,3,38.247086,-122.627586,2022,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-764415,CA,Sonoma,Petaluma,Source2,3,38.24678,-122.628761,2021,2,Monday,Cloudy,False,False,False,False,False,False,False
+A-765013,CA,Sonoma,Petaluma,Source2,3,38.24780300000001,-122.629715,2021,14,Saturday,Cloudy,False,False,True,False,False,False,False
+A-810077,CA,Sonoma,Rohnert Park,Source2,3,38.367977,-122.712257,2021,18,Saturday,Sin dato,False,False,False,False,False,False,False
+A-813743,CA,Sonoma,Santa Rosa,Source2,3,38.367481,-122.712563,2021,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-813806,CA,Sonoma,Santa Rosa,Source2,3,38.445759,-122.724548,2021,8,Thursday,Cloudy,True,True,False,False,False,False,False
+A-950918,CA,Sonoma,Cazadero,Source2,3,38.55352,-123.25721,2021,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1083655,CA,Sonoma,Sonoma,Source2,3,38.151115,-122.448624,2021,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1115614,CA,Sonoma,Petaluma,Source2,3,38.22546,-122.573883,2021,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1119849,CA,Sonoma,Petaluma,Source2,3,38.24712,-122.628403,2021,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1126628,CA,Sonoma,Santa Rosa,Source2,3,38.386967,-122.716141,2021,0,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1133259,CA,Sonoma,Santa Rosa,Source2,3,38.445229,-122.604988,2021,6,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-1161704,CA,Sonoma,Santa Rosa,Source2,3,38.421101,-122.778717,2021,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1245694,CA,Sonoma,Sonoma,Source2,3,38.191071,-122.443253,2020,3,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-1247995,CA,Sonoma,Occidental,Source2,3,38.4118,-123.098488,2020,13,Sunday,Cloudy,False,False,False,True,False,False,False
+A-1274118,CA,Sonoma,Santa Rosa,Source2,3,38.384869,-122.71611,2020,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1275864,CA,Sonoma,Santa Rosa,Source2,3,38.42115,-122.715172,2020,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-1324500,CA,Sonoma,Petaluma,Source2,3,38.247086,-122.627586,2020,1,Friday,Cloudy,False,False,False,False,False,False,False
+A-1345387,CA,Sonoma,Santa Rosa,Source2,3,38.413158,-122.71553,2020,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1377278,CA,Sonoma,Sonoma,Source2,3,38.15485,-122.422043,2020,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1408817,CA,Sonoma,Bodega Bay,Source2,3,38.333328,-123.048157,2020,13,Sunday,Clear / Fair,False,True,False,True,False,False,False
+A-1460057,CA,Sonoma,Forestville,Source3,3,38.476051,-122.952728,2020,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1517548,CA,Sonoma,Cotati,Source2,3,38.331345,-122.71291399999998,2020,7,Friday,Sin dato,False,False,False,False,False,False,False
+A-1637714,CA,Sonoma,Sonoma,Source2,3,38.245998,-122.438911,2020,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1701228,CA,Sonoma,Windsor,Source3,3,38.558956,-122.820183,2019,15,Saturday,Rain,False,False,True,False,False,False,False
+A-1716829,CA,Sonoma,Petaluma,Source2,3,38.257042,-122.646927,2019,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1720105,CA,Sonoma,Santa Rosa,Source3,3,38.384869,-122.71611,2019,8,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1734361,CA,Sonoma,Rohnert Park,Source2,3,38.34417,-122.712837,2019,13,Monday,Cloudy,False,False,True,False,False,False,False
+A-1739147,CA,Sonoma,Santa Rosa,Source3,3,38.38554,-122.71611,2019,8,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-1750438,CA,Sonoma,Kenwood,Source2,3,38.41481,-122.546669,2019,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1785923,CA,Sonoma,Santa Rosa,Source3,3,38.366741,-122.71254,2019,18,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1815966,CA,Sonoma,Petaluma,Source2,3,38.247086,-122.627586,2019,23,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1825698,CA,Sonoma,Sonoma,Source2,3,38.235809,-122.461342,2019,10,Saturday,Fog / Low visibility,False,False,False,False,False,True,False
+A-1828897,CA,Sonoma,Rohnert Park,Source2,3,38.361687,-122.712708,2019,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1834216,CA,Sonoma,Petaluma,Source2,3,38.271149,-122.669357,2019,23,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1899594,CA,Sonoma,Windsor,Source3,3,38.55904,-122.820259,2019,6,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-1941623,CA,Sonoma,Windsor,Source2,3,38.546661,-122.808311,2019,3,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1946243,CA,Sonoma,Santa Rosa,Source2,3,38.42691,-122.715149,2019,11,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-1953512,CA,Sonoma,Sonoma,Source2,3,38.317181,-122.483932,2019,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1953514,CA,Sonoma,Sonoma,Source2,3,38.320019,-122.486183,2019,13,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-1983866,CA,Sonoma,Petaluma,Source2,3,38.247059,-122.627647,2019,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2004086,CA,Sonoma,Jenner,Source2,3,38.482906,-123.173828,2019,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2006182,CA,Sonoma,Santa Rosa,Source2,3,38.420982,-122.71563,2019,6,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2006186,CA,Sonoma,Petaluma,Source2,3,38.269951,-122.667389,2019,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2021385,CA,Sonoma,Santa Rosa,Source2,3,38.459805,-122.726326,2019,23,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2029278,CA,Sonoma,Rohnert Park,Source2,3,38.349731,-122.713203,2019,5,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2031422,CA,Sonoma,Sonoma,Source2,3,38.309589,-122.479271,2019,15,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-2040142,CA,Sonoma,Santa Rosa,Source2,3,38.47485,-122.731293,2019,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-2104352,CA,Sonoma,Santa Rosa,Source2,3,38.498051,-122.65406000000002,2019,10,Wednesday,Rain,False,False,False,False,False,False,False
+A-2132487,CA,Sonoma,Santa Rosa,Source2,3,38.496735,-122.757614,2019,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2160652,CA,Sonoma,Bodega Bay,Source2,3,38.365002,-123.070602,2019,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2162965,CA,Sonoma,Petaluma,Source2,3,38.273476,-122.671951,2019,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2179285,CA,Sonoma,Rohnert Park,Source2,3,38.344982,-122.713081,2019,22,Friday,Cloudy,False,False,False,False,False,False,False
+A-2198190,CA,Sonoma,Santa Rosa,Source2,3,38.431023,-122.715263,2019,6,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2223411,CA,Sonoma,Cloverdale,Source2,3,38.766514,-122.993179,2019,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2245243,CA,Sonoma,Sonoma,Source2,3,38.265381,-122.461967,2019,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2245281,CA,Sonoma,Santa Rosa,Source2,3,38.435413,-122.717186,2019,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2370407,CA,Sonoma,Petaluma,Source2,3,38.270805,-122.66848,2019,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2589892,CA,Sonoma,Healdsburg,Source2,3,38.627472,-122.878365,2018,6,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2716989,CA,Sonoma,Santa Rosa,Source2,3,38.459988,-122.726372,2018,0,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-2724463,CA,Sonoma,Sonoma,Source2,3,38.315792,-122.482628,2018,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2744012,CA,Sonoma,Petaluma,Source2,3,38.245728,-122.62551100000002,2018,22,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-2799409,CA,Sonoma,Santa Rosa,Source2,3,38.435425,-122.578148,2018,21,Wednesday,Clear / Fair,True,True,False,False,False,False,False
+A-2868292,CA,Sonoma,Calistoga,Source2,3,38.551579,-122.650543,2018,16,Thursday,Rain,False,False,False,False,False,False,False
+A-2915992,CA,Sonoma,Cotati,Source2,3,38.328682,-122.712646,2018,22,Friday,Cloudy,False,False,False,False,False,False,False
+A-2948624,CA,Sonoma,Cotati,Source3,3,38.318195,-122.714302,2018,10,Thursday,Cloudy,False,False,True,False,False,False,False
+A-2952915,CA,Sonoma,Cotati,Source2,3,38.330666,-122.71344,2018,1,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2966638,CA,Sonoma,Petaluma,Source2,3,38.272957,-122.670441,2018,4,Friday,Sin dato,False,False,False,False,False,False,False
+A-3015025,CA,Sonoma,Cloverdale,Source2,3,38.756905,-122.972443,2018,19,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-3026380,CA,Sonoma,Santa Rosa,Source2,3,38.415916,-122.716103,2018,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3133886,CA,Sonoma,Santa Rosa,Source2,3,38.430809,-122.711655,2017,12,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-3133887,CA,Sonoma,Santa Rosa,Source2,3,38.421898,-122.715431,2017,13,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-3134393,CA,Sonoma,Windsor,Source2,3,38.525608,-122.789742,2017,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3177584,CA,Sonoma,Sonoma,Source2,3,38.321964,-122.490448,2017,7,Thursday,Cloudy,False,False,False,True,False,False,False
+A-3177641,CA,Sonoma,Sonoma,Source2,3,38.150524,-122.450066,2017,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3206762,CA,Sonoma,Windsor,Source2,3,38.52581,-122.790222,2017,2,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3219067,CA,Sonoma,Santa Rosa,Source2,3,38.447086,-122.724503,2017,8,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-3268261,CA,Sonoma,Sonoma,Source2,3,38.275814,-122.460281,2017,21,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-3328871,CA,Sonoma,Petaluma,Source2,3,38.21200200000001,-122.549248,2017,6,Saturday,Sin dato,False,False,False,True,False,False,False
+A-3328875,CA,Sonoma,Petaluma,Source2,3,38.236725,-122.619751,2017,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3413834,CA,Sonoma,Santa Rosa,Source1,3,38.38617,-122.71611,2016,2,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3414025,CA,Sonoma,Petaluma,Source1,3,38.21486,-122.547128,2016,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3414026,CA,Sonoma,Petaluma,Source1,3,38.212665,-122.54815,2016,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3414376,CA,Sonoma,Petaluma,Source1,4,38.251947,-122.577954,2016,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3414377,CA,Sonoma,Petaluma,Source1,4,38.250735,-122.561001,2016,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3414380,CA,Sonoma,Petaluma,Source1,4,38.252757,-122.577219,2016,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3414381,CA,Sonoma,Petaluma,Source1,4,38.236886,-122.528087,2016,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3414382,CA,Sonoma,Petaluma,Source1,4,38.236886,-122.528087,2016,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3414383,CA,Sonoma,Petaluma,Source1,4,38.252757,-122.577219,2016,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3414404,CA,Sonoma,Petaluma,Source1,4,38.23619,-122.52658999999998,2016,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3414405,CA,Sonoma,Petaluma,Source1,4,38.254296,-122.574852,2016,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3414763,CA,Sonoma,Windsor,Source1,3,38.54254,-122.80515,2016,5,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3415253,CA,Sonoma,Calistoga,Source1,4,38.55159,-122.65054,2016,3,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3415588,CA,Sonoma,Santa Rosa,Source1,3,38.43108,-122.7112,2016,17,Monday,Cloudy,False,False,True,False,False,False,False
+A-3415824,CA,Sonoma,Sonoma,Source1,3,38.1515,-122.44767,2016,16,Monday,Clear / Fair,False,True,False,False,False,False,True
+A-3416373,CA,Sonoma,Santa Rosa,Source1,3,38.49359000000001,-122.75243,2016,3,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3417104,CA,Sonoma,Santa Rosa,Source1,3,38.48222,-122.73677,2016,8,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-3417330,CA,Sonoma,Santa Rosa,Source1,3,38.424155,-122.71491,2016,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-3417688,CA,Sonoma,Petaluma,Source1,3,38.24793,-122.62996,2016,15,Monday,Sin dato,False,False,True,False,False,False,False
+A-3525533,CA,Sonoma,Santa Rosa,Source1,3,38.43143,-122.7156,2016,8,Thursday,Rain,False,False,False,False,False,False,False
+A-3525829,CA,Sonoma,Santa Rosa,Source1,4,38.530912,-122.725823,2016,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-3526094,CA,Sonoma,Windsor,Source1,3,38.52907,-122.79323,2016,8,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3528775,CA,Sonoma,Annapolis,Source1,4,38.695599,-123.430807,2016,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3528776,CA,Sonoma,The Sea Ranch,Source1,4,38.700596,-123.43739,2016,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3531641,CA,Sonoma,Kenwood,Source1,4,38.422591,-122.554501,2017,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3531643,CA,Sonoma,Kenwood,Source1,4,38.427912,-122.560305,2017,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3532122,CA,Sonoma,Santa Rosa,Source1,3,38.44905,-122.72591,2017,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3533429,CA,Sonoma,Santa Rosa,Source1,3,38.38549,-122.71611,2016,7,Tuesday,Rain,False,False,True,False,False,False,False
+A-3534183,CA,Sonoma,Petaluma,Source1,3,38.273223,-122.671622,2016,8,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-3534598,CA,Sonoma,Kenwood,Source1,4,38.424272,-122.556182,2016,11,Thursday,Sin dato,False,False,False,False,False,False,False
+A-3538257,CA,Sonoma,Rohnert Park,Source1,3,38.34401,-122.71288,2016,13,Saturday,Cloudy,False,False,True,False,False,False,False
+A-3538622,CA,Sonoma,Sonoma,Source1,3,38.24715,-122.41279,2016,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3546434,CA,Sonoma,Petaluma,Source1,3,38.2704,-122.66769,2016,11,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-3546439,CA,Sonoma,Petaluma,Source1,3,38.24571,-122.6255,2016,12,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-3547743,CA,Sonoma,Santa Rosa,Source1,3,38.41321,-122.71354,2016,10,Thursday,Cloudy,True,False,False,False,False,False,False
+A-3548151,CA,Sonoma,Petaluma,Source1,3,38.24625,-122.62638,2016,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-3548344,CA,Sonoma,Jenner,Source1,4,38.450739,-123.119894,2016,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3548434,CA,Sonoma,Santa Rosa,Source1,3,38.388072,-122.713601,2016,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3548565,CA,Sonoma,Petaluma,Source1,3,38.188147,-122.601149,2016,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3550287,CA,Sonoma,Santa Rosa,Source1,3,38.46645,-122.72775,2016,7,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3551314,CA,Sonoma,Healdsburg,Source1,3,38.61009,-122.87568,2016,9,Friday,Cloudy,False,False,True,False,False,False,False
+A-3553933,CA,Sonoma,Santa Rosa,Source1,3,38.43745,-122.71831,2016,10,Friday,Cloudy,False,True,True,False,False,False,False
+A-3554267,CA,Sonoma,Santa Rosa,Source1,3,38.51472,-122.77995,2016,9,Monday,Cloudy,False,False,True,False,False,False,False
+A-3554812,CA,Sonoma,Petaluma,Source1,3,38.272559,-122.670758,2016,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3555630,CA,Sonoma,Sonoma,Source1,4,38.15162,-122.44726,2016,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3555631,CA,Sonoma,Sonoma,Source1,4,38.1515,-122.44759,2016,13,Tuesday,Clear / Fair,False,True,False,False,False,False,True
+A-3556118,CA,Sonoma,Petaluma,Source1,4,38.26871,-122.64441,2016,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3587724,CA,Sonoma,Petaluma,Source1,3,38.23748,-122.62016,2017,12,Friday,Cloudy,False,False,True,False,False,False,False
+A-3590908,CA,Sonoma,Sebastopol,Source1,4,38.378352,-122.899473,2017,0,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3590910,CA,Sonoma,Sebastopol,Source1,4,38.38316,-122.892156,2017,0,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3590932,CA,Sonoma,Sonoma,Source1,4,38.1515,-122.44767,2017,17,Sunday,Clear / Fair,False,True,False,False,False,False,True
+A-3590946,CA,Sonoma,Santa Rosa,Source1,4,38.463918,-122.664367,2017,5,Monday,Clear / Fair,False,True,False,False,False,False,False
+A-3590947,CA,Sonoma,Santa Rosa,Source1,4,38.4649,-122.651668,2017,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3593027,CA,Sonoma,Sonoma,Source1,4,38.155035,-122.419762,2017,18,Monday,Sin dato,False,False,False,False,False,False,False
+A-3608465,CA,Sonoma,Petaluma,Source1,4,38.26668,-122.6569,2017,15,Monday,Cloudy,True,False,False,False,False,False,False
+A-3622068,CA,Sonoma,Santa Rosa,Source1,4,38.443937,-122.602172,2017,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3622069,CA,Sonoma,Santa Rosa,Source1,4,38.44526,-122.60505,2017,14,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-3622302,CA,Sonoma,Santa Rosa,Source1,4,38.422171,-122.776888,2017,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-3622303,CA,Sonoma,Santa Rosa,Source1,4,38.419186,-122.78206000000002,2017,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-3622367,CA,Sonoma,Petaluma,Source1,4,38.22744,-122.5774,2017,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3636617,CA,Sonoma,Petaluma,Source1,3,38.30365,-122.70832,2017,14,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-3637810,CA,Sonoma,Santa Rosa,Source1,3,38.38549,-122.71611,2017,12,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-3638148,CA,Sonoma,Santa Rosa,Source1,4,38.417142,-122.785627,2017,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3638149,CA,Sonoma,Santa Rosa,Source1,4,38.41348,-122.791931,2017,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3732026,CA,Sonoma,Calistoga,Source1,4,38.55495300000001,-122.638641,2022,7,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3737372,CA,Sonoma,Petaluma,Source1,4,38.24788212757946,-122.62981295527156,2022,12,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-3753511,CA,Sonoma,Santa Rosa,Source1,4,38.554127,-122.656337,2022,7,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3767990,CA,Sonoma,Santa Rosa,Source1,4,38.381627,-122.716126,2022,7,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3768193,CA,Sonoma,Santa Rosa,Source1,4,38.555243,-122.69651100000002,2023,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-3787778,CA,Sonoma,Petaluma,Source1,4,38.193275,-122.543607,2022,14,Tuesday,Clear / Fair,False,True,False,False,False,False,True
+A-3789505,CA,Sonoma,Petaluma,Source1,4,38.185567,-122.5388,2022,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3800798,CA,Sonoma,Petaluma,Source1,4,38.185567,-122.5388,2022,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3802195,CA,Sonoma,Santa Rosa,Source1,4,38.376276,-122.713443,2022,17,Sunday,Cloudy,False,False,False,False,True,False,False
+A-3826435,CA,Sonoma,Santa Rosa,Source1,4,38.480825,-122.734844,2022,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3827430,CA,Sonoma,Windsor,Source1,4,38.55895400028916,-122.82016396463956,2022,9,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-3831571,CA,Sonoma,Petaluma,Source1,4,38.216818,-122.60351,2022,5,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3841732,CA,Sonoma,Sonoma,Source1,4,38.244775,-122.446038,2023,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-3849393,CA,Sonoma,Sebastopol,Source1,4,38.443506,-122.865034,2022,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3920052,CA,Sonoma,Petaluma,Source1,4,38.231352,-122.584356,2022,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3933452,CA,Sonoma,Glen Ellen,Source1,4,38.39166999,-122.52941251,2022,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4032568,CA,Sonoma,Santa Rosa,Source1,4,38.556051,-122.679274,2022,7,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4057617,CA,Sonoma,Sebastopol,Source1,4,38.358061,-122.769676,2022,17,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-4086784,CA,Sonoma,Cloverdale,Source1,4,38.83294702,-123.01684499,2023,21,Wednesday,Rain,False,False,False,False,False,False,False
+A-4224181,CA,Sonoma,Healdsburg,Source1,4,38.610168,-122.875741,2022,13,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-4253198,CA,Sonoma,Santa Rosa,Source1,4,38.506749,-122.76976,2022,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4260399,CA,Sonoma,Santa Rosa,Source1,4,38.39848,-122.63702,2022,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4332406,CA,Sonoma,Sebastopol,Source1,4,38.365217,-122.781237,2022,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4346539,CA,Sonoma,Sonoma,Source1,4,38.236183,-122.461478,2022,12,Sunday,Clear / Fair,False,False,False,True,False,False,False
+A-4359764,CA,Sonoma,Healdsburg,Source1,4,38.620568,-122.893919,2022,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4395663,CA,Sonoma,Forestville,Source1,4,38.502837,-122.935558,2022,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4416381,CA,Sonoma,Petaluma,Source1,4,38.226489,-122.575655,2022,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4450619,CA,Sonoma,Healdsburg,Source1,4,38.614232,-122.834086,2022,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4452196,CA,Sonoma,Petaluma,Source1,4,38.124341,-122.492255,2022,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4506489,CA,Sonoma,Calistoga,Source1,4,38.551999,-122.649613,2022,7,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4517264,CA,Sonoma,Santa Rosa,Source1,4,38.379991,-122.638685,2022,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4525102,CA,Sonoma,Cloverdale,Source1,4,38.834738,-123.052647,2022,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4550834,CA,Sonoma,Santa Rosa,Source1,4,38.551269,-122.651036,2022,7,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4560027,CA,Sonoma,Sonoma,Source1,4,38.302697,-122.476112,2023,21,Monday,Clear / Fair,True,True,False,False,False,False,False
+A-4560577,CA,Sonoma,Cazadero,Source1,4,38.529033,-123.149064,2022,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4738547,CA,Sonoma,Santa Rosa,Source1,4,38.544207,-122.647819,2022,7,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4749887,CA,Sonoma,Healdsburg,Source1,4,38.628629,-122.908918,2022,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4758989,CA,Sonoma,Santa Rosa,Source1,4,38.49449515,-122.75403142,2022,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4767920,CA,Sonoma,Penngrove,Source1,4,38.308635,-122.689553,2022,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4775811,CA,Sonoma,Sebastopol,Source1,4,38.359824,-122.773313,2022,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4970209,CA,Sonoma,Santa Rosa,Source1,4,38.551577,-122.650542,2022,7,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4986979,CA,Sonoma,Sebastopol,Source1,4,38.360724,-122.775558,2022,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5009172,CA,Sonoma,Windsor,Source1,4,38.543826341445225,-122.8062379354343,2022,4,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5055068,CA,Sonoma,Petaluma,Source1,4,38.185567,-122.5388,2022,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5061071,CA,Sonoma,Petaluma,Source1,4,38.249478,-122.632576,2022,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5112889,CA,Sonoma,Santa Rosa,Source1,4,38.431764,-122.734553,2022,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5115592,CA,Sonoma,Santa Rosa,Source1,4,38.53637,-122.647816,2022,7,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-5116006,CA,Sonoma,Santa Rosa,Source1,4,38.549802,-122.719191,2023,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5158061,CA,Sonoma,Petaluma,Source1,4,38.237731,-122.620073,2022,9,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-5183269,CA,Sonoma,Santa Rosa,Source1,4,38.543274,-122.647789,2022,7,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-5227824,CA,Sonoma,Santa Rosa,Source1,4,38.556708,-122.694856,2023,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5268076,CA,Sonoma,Healdsburg,Source1,4,38.596054315382965,-122.8553760045869,2022,13,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-5385177,CA,Sonoma,Jenner,Source1,4,38.540103,-123.283906,2023,7,Wednesday,Rain,False,False,False,False,False,False,False
+A-5425188,CA,Sonoma,Santa Rosa,Source1,4,38.540725,-122.648177,2022,7,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-5454097,CA,Sonoma,Petaluma,Source1,4,38.249478,-122.632576,2022,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5499357,CA,Sonoma,Sonoma,Source1,4,38.302697,-122.476112,2021,8,Monday,Clear / Fair,True,True,False,False,False,False,False
+A-5547209,CA,Sonoma,Sebastopol,Source1,4,38.396926,-122.85438700000002,2021,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5569273,CA,Sonoma,Sonoma,Source1,4,38.152088,-122.446036,2021,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-5726708,CA,Sonoma,Santa Rosa,Source1,4,38.392052,-122.776482,2021,17,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-5734832,CA,Sonoma,Santa Rosa,Source1,4,38.435388,-122.578172,2021,7,Friday,Rain,True,True,False,False,False,False,False
+A-5761950,CA,Sonoma,Sebastopol,Source1,4,38.445613,-122.86664,2021,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5765003,CA,Sonoma,Healdsburg,Source1,4,38.635825,-122.680708,2021,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5781036,CA,Sonoma,Petaluma,Source1,4,38.191782,-122.542865,2021,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5822253,CA,Sonoma,Santa Rosa,Source1,4,38.528291,-122.722481,2021,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5855717,CA,Sonoma,Santa Rosa,Source1,4,38.433061837966754,-122.71697401941913,2021,14,Thursday,Rain,False,False,False,False,False,False,False
+A-5882974,CA,Sonoma,Healdsburg,Source1,4,38.632199,-122.673757,2021,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5919299,CA,Sonoma,Santa Rosa,Source1,4,38.49327206593277,-122.7520143979895,2021,8,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-5944276,CA,Sonoma,Santa Rosa,Source1,4,38.446273,-122.607193,2021,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5965190,CA,Sonoma,Santa Rosa,Source1,4,38.455686,-122.627406,2021,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6030556,CA,Sonoma,Santa Rosa,Source1,4,38.37096333485426,-122.71373391092916,2021,4,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-6070217,CA,Sonoma,Calistoga,Source1,4,38.63234,-122.674043,2021,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6152005,CA,Sonoma,Santa Rosa,Source1,4,38.45593,-122.627938,2021,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6205558,CA,Sonoma,Petaluma,Source1,4,38.285948,-122.639397,2021,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6210989,CA,Sonoma,Santa Rosa,Source1,4,38.46485300000001,-122.653376,2021,15,Sunday,Clear / Fair,True,True,False,False,False,False,False
+A-6281001,CA,Sonoma,Cotati,Source1,4,38.33115935307345,-122.71208167017596,2021,15,Wednesday,Sin dato,True,False,False,False,False,False,False
+A-6302690,CA,Sonoma,Cotati,Source1,4,38.332285,-122.720785,2021,10,Monday,Sin dato,False,False,False,False,False,False,False
+A-6324542,CA,Sonoma,Penngrove,Source1,4,38.313187,-122.69571100000002,2021,16,Thursday,Sin dato,False,False,False,False,False,False,False
+A-6339225,CA,Sonoma,Calistoga,Source1,4,38.65037,-122.73649,2021,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6447043,CA,Sonoma,Sonoma,Source1,4,38.293151,-122.522232,2021,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6824532,CA,Sonoma,Santa Rosa,Source1,4,38.423198,-122.775074,2020,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6982434,CA,Sonoma,Cotati,Source1,3,38.31457,-122.69465,2020,7,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6982454,CA,Sonoma,Cotati,Source1,3,38.31457,-122.69465,2020,8,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6985071,CA,Sonoma,Santa Rosa,Source1,3,38.48222,-122.73677,2020,16,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-6985075,CA,Sonoma,Petaluma,Source1,4,38.15072,-122.44959,2020,17,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-6985076,CA,Sonoma,Santa Rosa,Source1,3,38.48222,-122.73677,2020,16,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-6985085,CA,Sonoma,Santa Rosa,Source1,3,38.47863,-122.73296,2020,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6985096,CA,Sonoma,Petaluma,Source1,4,38.15072,-122.44959,2020,17,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-6990212,CA,Sonoma,Santa Rosa,Source1,3,38.38549,-122.71611,2020,17,Friday,Cloudy,False,False,True,False,False,False,False
+A-6990225,CA,Sonoma,Santa Rosa,Source1,3,38.37892,-122.71615,2020,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-6990257,CA,Sonoma,Santa Rosa,Source1,3,38.38549,-122.71611,2020,17,Friday,Cloudy,False,False,True,False,False,False,False
+A-6991660,CA,Sonoma,Santa Rosa,Source1,4,38.45545,-122.72592,2020,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6994808,CA,Sonoma,Santa Rosa,Source1,3,38.54982,-122.7191,2020,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-6996960,CA,Sonoma,Petaluma,Source1,3,38.15084,-122.44968,2020,8,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-7001933,CA,Sonoma,Santa Rosa,Source1,3,38.44297,-122.72213,2020,16,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7007354,CA,Sonoma,Santa Rosa,Source1,3,38.44297,-122.72213,2020,12,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7007356,CA,Sonoma,Santa Rosa,Source1,4,38.44297,-122.72213,2020,12,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7007363,CA,Sonoma,Santa Rosa,Source1,4,38.44297,-122.72213,2020,12,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7029601,CA,Sonoma,Sonoma,Source1,3,38.246,-122.4389,2020,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7036900,CA,Sonoma,Petaluma,Source1,3,38.30115,-122.70598,2020,11,Monday,Cloudy,False,False,True,False,False,False,False
+A-7036904,CA,Sonoma,Petaluma,Source1,3,38.30115,-122.70598,2020,12,Monday,Cloudy,False,False,True,False,False,False,False
+A-7036906,CA,Sonoma,Petaluma,Source1,4,38.30115,-122.70598,2020,12,Monday,Cloudy,False,False,True,False,False,False,False
+A-7036910,CA,Sonoma,Petaluma,Source1,3,38.30115,-122.70598,2020,12,Monday,Cloudy,False,False,True,False,False,False,False
+A-7053544,CA,Sonoma,Santa Rosa,Source1,3,38.43547,-122.57818,2020,11,Tuesday,Clear / Fair,True,True,False,False,False,False,False
+A-7053622,CA,Sonoma,Petaluma,Source1,3,38.21745,-122.60395,2020,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7053630,CA,Sonoma,Petaluma,Source1,3,38.21745,-122.60395,2020,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7058939,CA,Sonoma,Santa Rosa,Source1,3,38.38549,-122.71611,2020,11,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7058947,CA,Sonoma,Santa Rosa,Source1,3,38.38549,-122.71611,2020,11,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7059000,CA,Sonoma,Santa Rosa,Source1,3,38.42707,-122.71515,2020,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7059011,CA,Sonoma,Santa Rosa,Source1,3,38.42712,-122.71515,2020,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7059035,CA,Sonoma,Santa Rosa,Source1,3,38.41041,-122.71595,2020,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7059057,CA,Sonoma,Santa Rosa,Source1,3,38.41041,-122.71595,2020,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7061977,CA,Sonoma,Santa Rosa,Source1,3,38.4344,-122.71654,2020,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7061991,CA,Sonoma,Santa Rosa,Source1,3,38.43892,-122.71933,2020,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7061997,CA,Sonoma,Santa Rosa,Source1,3,38.43892,-122.71933,2020,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7062010,CA,Sonoma,Santa Rosa,Source1,3,38.38549,-122.71611,2020,18,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7062021,CA,Sonoma,Santa Rosa,Source1,3,38.41058,-122.71616000000002,2020,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7062028,CA,Sonoma,Santa Rosa,Source1,3,38.41058,-122.71616000000002,2020,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7062029,CA,Sonoma,Santa Rosa,Source1,3,38.3855,-122.71631,2020,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7063649,CA,Sonoma,Petaluma,Source1,3,38.23287,-122.61753,2020,12,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-7063659,CA,Sonoma,Petaluma,Source1,3,38.21745,-122.60395,2020,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7063666,CA,Sonoma,Petaluma,Source1,3,38.23339,-122.61781,2020,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7065015,CA,Sonoma,Windsor,Source1,4,38.5422,-122.80489,2020,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7065027,CA,Sonoma,Windsor,Source1,4,38.55904,-122.82026,2020,3,Sunday,Cloudy,False,False,True,False,False,False,False
+A-7065132,CA,Sonoma,Santa Rosa,Source1,3,38.50771,-122.71987,2020,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7066415,CA,Sonoma,Petaluma,Source1,3,38.24558,-122.6256,2020,10,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7069199,CA,Sonoma,Bodega Bay,Source1,3,38.33713,-122.9774,2020,21,Friday,Clear / Fair,False,False,False,True,False,False,False
+A-7069200,CA,Sonoma,Bodega Bay,Source1,3,38.33713,-122.9774,2020,21,Friday,Clear / Fair,False,False,False,True,False,False,False
+A-7069245,CA,Sonoma,Sonoma,Source1,3,38.34392,-122.49783,2020,21,Friday,Clear / Fair,True,True,False,False,False,False,False
+A-7069278,CA,Sonoma,Sonoma,Source1,3,38.34392,-122.49783,2020,21,Friday,Clear / Fair,True,True,False,False,False,False,False
+A-7069311,CA,Sonoma,Sonoma,Source1,3,38.34392,-122.49783,2020,22,Friday,Clear / Fair,True,True,False,False,False,False,False
+A-7069316,CA,Sonoma,Glen Ellen,Source1,3,38.34391,-122.49782,2020,0,Saturday,Clear / Fair,True,True,False,False,False,False,False
+A-7081616,CA,Sonoma,Petaluma,Source1,3,38.28326,-122.68463,2020,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7081622,CA,Sonoma,Windsor,Source1,4,38.54239000000001,-122.80531,2020,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7081627,CA,Sonoma,Petaluma,Source1,3,38.28326,-122.68463,2020,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7086303,CA,Sonoma,Bodega Bay,Source1,3,38.33714000000001,-122.97742,2020,14,Saturday,Cloudy,False,False,False,True,False,False,False
+A-7086393,CA,Sonoma,Santa Rosa,Source1,3,38.45539,-122.72611,2020,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7090200,CA,Sonoma,Santa Rosa,Source1,3,38.47863,-122.73296,2020,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7092806,CA,Sonoma,Santa Rosa,Source1,3,38.41058,-122.71616000000002,2020,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7092816,CA,Sonoma,Santa Rosa,Source1,3,38.41058,-122.71616000000002,2020,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7100909,CA,Sonoma,Petaluma,Source1,4,38.15072,-122.44959,2020,13,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7100922,CA,Sonoma,Petaluma,Source1,4,38.15072,-122.44959,2020,13,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7102935,CA,Sonoma,Santa Rosa,Source1,4,38.41058,-122.71616000000002,2020,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7102948,CA,Sonoma,Petaluma,Source1,3,38.21745,-122.60395,2020,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7109546,CA,Sonoma,Petaluma,Source1,4,38.13495,-122.47472,2020,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7109552,CA,Sonoma,Petaluma,Source1,4,38.13495,-122.47472,2020,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7135132,CA,Sonoma,Santa Rosa,Source1,3,38.41036,-122.71595,2020,6,Tuesday,Rain,False,False,False,False,False,False,False
+A-7135216,CA,Sonoma,Petaluma,Source1,4,38.2175,-122.60386,2020,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7135227,CA,Sonoma,Petaluma,Source1,3,38.2175,-122.60386,2020,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7135229,CA,Sonoma,Petaluma,Source1,3,38.2175,-122.60386,2020,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7151882,CA,Sonoma,Santa Rosa,Source1,3,38.44524000000001,-122.60501,2020,7,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7151885,CA,Sonoma,Santa Rosa,Source1,4,38.44524000000001,-122.60501,2020,7,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7151893,CA,Sonoma,Santa Rosa,Source1,4,38.44524000000001,-122.60501,2020,8,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7151897,CA,Sonoma,Sonoma,Source1,3,38.15485,-122.4223,2020,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7151901,CA,Sonoma,Santa Rosa,Source1,4,38.44524000000001,-122.60501,2020,9,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7151907,CA,Sonoma,Santa Rosa,Source1,4,38.44524000000001,-122.60501,2020,9,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7155292,CA,Sonoma,Windsor,Source1,4,38.52259,-122.78727,2020,12,Saturday,Rain,False,False,True,False,False,False,False
+A-7169686,CA,Sonoma,Petaluma,Source1,3,38.28326,-122.68463,2020,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7169687,CA,Sonoma,Petaluma,Source1,3,38.28326,-122.68463,2020,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7179133,CA,Sonoma,Petaluma,Source1,3,38.21743,-122.60401,2020,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7179134,CA,Sonoma,Petaluma,Source1,3,38.21743,-122.60401,2020,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7179200,CA,Sonoma,Sebastopol,Source1,3,38.43697,-122.85764,2020,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7181389,CA,Sonoma,Petaluma,Source1,4,38.2175,-122.60386,2020,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7181390,CA,Sonoma,Petaluma,Source1,4,38.2175,-122.60386,2020,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7187689,CA,Sonoma,Petaluma,Source1,3,38.23332,-122.61806,2020,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-7187693,CA,Sonoma,Petaluma,Source1,3,38.23332,-122.61806,2020,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-7187704,CA,Sonoma,Petaluma,Source1,3,38.23332,-122.61806,2020,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-7187710,CA,Sonoma,Petaluma,Source1,4,38.23332,-122.61806,2020,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-7203651,CA,Sonoma,Petaluma,Source1,3,38.15072,-122.44959,2020,17,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-7203653,CA,Sonoma,Petaluma,Source1,3,38.15072,-122.44959,2020,16,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-7203661,CA,Sonoma,Petaluma,Source1,3,38.15072,-122.44959,2020,16,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-7203663,CA,Sonoma,Petaluma,Source1,3,38.15072,-122.44959,2020,17,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-7203668,CA,Sonoma,Petaluma,Source1,3,38.15072,-122.44959,2020,17,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-7260354,CA,Sonoma,Petaluma,Source1,4,38.2405,-122.50547,2020,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7260355,CA,Sonoma,Sonoma,Source1,4,38.24448,-122.50351,2020,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7425397,CA,Sonoma,Santa Rosa,Source1,3,38.43499,-122.71677,2019,10,Saturday,Rain,False,False,False,False,False,False,False
+A-7429037,CA,Sonoma,Cloverdale,Source1,3,38.75681,-122.97232,2019,17,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7431717,CA,Sonoma,Geyserville,Source1,4,38.69515300000001,-122.887466,2019,18,Friday,Rain,False,False,False,False,False,False,False
+A-7434547,CA,Sonoma,Rohnert Park,Source1,3,38.352434,-122.71303,2019,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7443328,CA,Sonoma,Santa Rosa,Source1,3,38.41041,-122.71595,2019,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-7457923,CA,Sonoma,Santa Rosa,Source1,3,38.38908,-122.71628,2019,15,Saturday,Rain,False,False,False,False,False,False,False
+A-7461054,CA,Sonoma,Petaluma,Source1,3,38.210652,-122.600619,2019,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7462376,CA,Sonoma,Sonoma,Source1,4,38.236004,-122.460934,2019,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7462377,CA,Sonoma,Sonoma,Source1,4,38.236681,-122.46003600000002,2019,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7462378,CA,Sonoma,Sonoma,Source1,4,38.236004,-122.460934,2019,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7462380,CA,Sonoma,Sonoma,Source1,4,38.261857,-122.45775,2019,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7462381,CA,Sonoma,Sonoma,Source1,4,38.269172,-122.461371,2019,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7463658,CA,Sonoma,Petaluma,Source1,3,38.237529,-122.61997,2019,15,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7463680,CA,Sonoma,Santa Rosa,Source1,3,38.43697,-122.71774,2019,17,Tuesday,Rain,False,False,False,False,False,False,False
+A-7468431,CA,Sonoma,Santa Rosa,Source1,3,38.386261,-122.71611,2019,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7475797,CA,Sonoma,Santa Rosa,Source1,4,38.387138,-122.741633,2018,19,Tuesday,Cloudy,False,False,False,False,False,True,False
+A-7475798,CA,Sonoma,Santa Rosa,Source1,4,38.387131,-122.741836,2018,19,Tuesday,Cloudy,False,False,False,False,False,True,False
+A-7482560,CA,Sonoma,Petaluma,Source1,3,38.272412,-122.670568,2018,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7483522,CA,Sonoma,Santa Rosa,Source1,3,38.467544,-122.728212,2018,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7486185,CA,Sonoma,Santa Rosa,Source1,3,38.412934,-122.792864,2018,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-7486196,CA,Sonoma,Occidental,Source1,3,38.415527,-122.951722,2018,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-7486198,CA,Sonoma,Occidental,Source1,3,38.418852,-122.951721,2018,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-7486943,CA,Sonoma,Santa Rosa,Source1,3,38.389125,-122.71609,2018,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7486944,CA,Sonoma,Santa Rosa,Source1,3,38.43268,-122.71608,2018,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7486946,CA,Sonoma,Santa Rosa,Source1,3,38.416339,-122.71592,2018,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7486961,CA,Sonoma,Santa Rosa,Source1,3,38.43463,-122.71708,2018,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-7486962,CA,Sonoma,Santa Rosa,Source1,3,38.43323,-122.7169,2018,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-7486963,CA,Sonoma,Santa Rosa,Source1,3,38.43745,-122.71831,2018,16,Tuesday,Rain,False,True,True,False,False,False,False
+A-7486964,CA,Sonoma,Santa Rosa,Source1,3,38.43596,-122.71768,2018,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-7487007,CA,Sonoma,Sonoma,Source1,3,38.309238,-122.479084,2018,18,Tuesday,Cloudy,False,True,False,False,False,False,False
+A-7491575,CA,Sonoma,Santa Rosa,Source1,3,38.46646,-122.72755,2018,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7496450,CA,Sonoma,Guerneville,Source1,3,38.496168,-122.963706,2018,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7497328,CA,Sonoma,Windsor,Source1,4,38.550017,-122.810987,2018,9,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7497337,CA,Sonoma,Healdsburg,Source1,4,38.59356,-122.85019,2018,10,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7498062,CA,Sonoma,Santa Rosa,Source1,4,38.463918,-122.664367,2018,18,Wednesday,Clear / Fair,False,True,False,False,False,False,False
+A-7501484,CA,Sonoma,Santa Rosa,Source1,4,38.41171,-122.79491000000002,2018,18,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7501485,CA,Sonoma,Santa Rosa,Source1,4,38.417142,-122.785627,2018,18,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7502067,CA,Sonoma,Petaluma,Source1,3,38.30115,-122.70598,2018,7,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7505241,CA,Sonoma,Santa Rosa,Source1,3,38.42706,-122.71496,2018,13,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7505242,CA,Sonoma,Santa Rosa,Source1,3,38.452514,-122.72601,2018,13,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7505250,CA,Sonoma,Santa Rosa,Source1,3,38.419667,-122.715871,2018,15,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7506044,CA,Sonoma,Sebastopol,Source1,3,38.381131,-122.805732,2018,13,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7506068,CA,Sonoma,Santa Rosa,Source1,3,38.480101,-122.734084,2018,18,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7509433,CA,Sonoma,Petaluma,Source1,3,38.297834,-122.703242,2018,14,Monday,Sin dato,False,False,False,False,False,False,False
+A-7509450,CA,Sonoma,Petaluma,Source1,3,38.148859,-122.452434,2018,18,Monday,Sin dato,False,False,False,False,False,False,False
+A-7510205,CA,Sonoma,Healdsburg,Source1,3,38.671369,-122.812679,2018,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-7510228,CA,Sonoma,Santa Rosa,Source1,3,38.429369,-122.71522,2018,18,Tuesday,Rain,False,False,False,False,False,False,False
+A-7511094,CA,Sonoma,Sonoma,Source1,3,38.251744,-122.398303,2018,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7511095,CA,Sonoma,Petaluma,Source1,3,38.25813400000001,-122.655834,2018,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7511097,CA,Sonoma,Petaluma,Source1,3,38.261028,-122.663157,2018,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7511131,CA,Sonoma,Petaluma,Source1,3,38.23957100000001,-122.621276,2018,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7512204,CA,Sonoma,Cotati,Source1,4,38.334266,-122.73591299999998,2018,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7512219,CA,Sonoma,Rohnert Park,Source1,3,38.35275,-122.71322,2018,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-7512227,CA,Sonoma,Petaluma,Source1,3,38.268947,-122.665933,2018,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-7513742,CA,Sonoma,Santa Rosa,Source1,3,38.41171,-122.79491000000002,2018,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7517919,CA,Sonoma,Petaluma,Source1,3,38.221181,-122.608244,2018,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7520483,CA,Sonoma,Petaluma,Source1,3,38.23619,-122.52658999999998,2018,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7520484,CA,Sonoma,Petaluma,Source1,3,38.236008,-122.523913,2018,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7523527,CA,Sonoma,Sonoma,Source1,4,38.24605800000001,-122.438473,2018,7,Monday,Cloudy,False,True,False,False,False,False,True
+A-7523528,CA,Sonoma,Sonoma,Source1,4,38.24647,-122.421671,2018,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-7527855,CA,Sonoma,Santa Rosa,Source1,3,38.43318,-122.72025,2018,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7539483,CA,Sonoma,Santa Rosa,Source1,3,38.45812,-122.6335,2018,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7540429,CA,Sonoma,Rohnert Park,Source1,3,38.3565,-122.71302,2018,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7541041,CA,Sonoma,Santa Rosa,Source1,3,38.432205,-122.732941,2018,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7542786,CA,Sonoma,Santa Rosa,Source1,3,38.46445,-122.72691,2018,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-7544914,CA,Sonoma,Occidental,Source1,4,38.42531,-122.95931000000002,2018,14,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7546027,CA,Sonoma,Sonoma,Source1,3,38.150506,-122.450047,2018,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7548296,CA,Sonoma,Sonoma,Source1,4,38.155754,-122.408812,2018,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7549341,CA,Sonoma,Windsor,Source1,3,38.54296,-122.80571,2018,21,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7550601,CA,Sonoma,Santa Rosa,Source1,3,38.48222,-122.73677,2018,16,Monday,Fog / Low visibility,False,False,True,False,False,False,False
+A-7551458,CA,Sonoma,Petaluma,Source1,3,38.245357,-122.624988,2018,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7554867,CA,Sonoma,Healdsburg,Source1,4,38.639464,-122.771004,2018,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7554868,CA,Sonoma,Healdsburg,Source1,4,38.639114,-122.769723,2018,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7557765,CA,Sonoma,Petaluma,Source1,3,38.26968,-122.66705,2018,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7558747,CA,Sonoma,Petaluma,Source1,3,38.21811,-122.60423,2018,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7558748,CA,Sonoma,Healdsburg,Source1,3,38.62234,-122.87833,2018,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7559795,CA,Sonoma,Santa Rosa,Source1,3,38.44963,-122.726074,2018,13,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7561674,CA,Sonoma,Petaluma,Source1,4,38.146386,-122.45583700000002,2018,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7565584,CA,Sonoma,Monte Rio,Source1,3,38.46855,-123.00864,2018,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7565586,CA,Sonoma,Monte Rio,Source1,3,38.46855,-123.00864,2018,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7566132,CA,Sonoma,Cloverdale,Source1,4,38.779932,-123.007672,2018,0,Monday,Fog / Low visibility,False,False,True,False,False,False,False
+A-7566163,CA,Sonoma,Healdsburg,Source1,3,38.658906,-122.874019,2018,17,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7571058,CA,Sonoma,Santa Rosa,Source1,3,38.41512,-122.71613,2018,12,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7571059,CA,Sonoma,Santa Rosa,Source1,3,38.41512,-122.71613,2018,12,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7575259,CA,Sonoma,Petaluma,Source1,3,38.1484,-122.453034,2018,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7575681,CA,Sonoma,Santa Rosa,Source1,3,38.386261,-122.71611,2018,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7578431,CA,Sonoma,Santa Rosa,Source1,4,38.43548,-122.5782,2018,18,Wednesday,Clear / Fair,True,True,False,False,False,False,False
+A-7578433,CA,Sonoma,Santa Rosa,Source1,4,38.433506,-122.57359,2018,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7578987,CA,Sonoma,Petaluma,Source1,3,38.22317,-122.61118,2018,20,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7581488,CA,Sonoma,Sonoma,Source1,3,38.138056,-122.469565,2018,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7583111,CA,Sonoma,Petaluma,Source1,4,38.21256,-122.54831,2018,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7583112,CA,Sonoma,Sonoma,Source1,4,38.23589000000001,-122.52696,2018,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7583610,CA,Sonoma,Petaluma,Source1,3,38.146477,-122.455697,2018,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7590160,CA,Sonoma,Healdsburg,Source1,3,38.60394,-122.86854,2018,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7590643,CA,Sonoma,Santa Rosa,Source1,3,38.41512,-122.71613,2018,15,Thursday,Rain,False,False,True,False,False,False,False
+A-7596267,CA,Sonoma,Penngrove,Source1,3,38.276182,-122.675422,2018,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7597490,CA,Sonoma,Petaluma,Source1,4,38.234247,-122.598078,2018,8,Tuesday,Cloudy,False,True,False,False,False,False,False
+A-7597491,CA,Sonoma,Petaluma,Source1,4,38.22546,-122.57388,2018,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7602084,CA,Sonoma,Guerneville,Source1,4,38.50128400000001,-123.004959,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7602085,CA,Sonoma,Guerneville,Source1,4,38.49629,-123.007056,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7602088,CA,Sonoma,Sebastopol,Source1,4,38.4501,-122.86777,2018,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7602090,CA,Sonoma,Guerneville,Source1,4,38.496443,-123.006826,2018,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7608033,CA,Sonoma,Petaluma,Source1,3,38.23619,-122.52658999999998,2018,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7608034,CA,Sonoma,Petaluma,Source1,3,38.23619,-122.52658999999998,2018,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7610871,CA,Sonoma,Cotati,Source1,3,38.33476,-122.71294,2018,8,Tuesday,Sin dato,False,False,True,False,False,False,False
+A-7610874,CA,Sonoma,Santa Rosa,Source1,3,38.43826,-122.71887,2018,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7615314,CA,Sonoma,Santa Rosa,Source1,4,38.376414,-122.741443,2018,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-7615315,CA,Sonoma,Santa Rosa,Source1,4,38.393423,-122.74162,2018,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-7615317,CA,Sonoma,Santa Rosa,Source1,4,38.387079,-122.74494,2018,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-7616034,CA,Sonoma,Cloverdale,Source1,3,38.784713,-123.013056,2018,19,Tuesday,Clear / Fair,False,False,False,False,False,True,False
+A-7616035,CA,Sonoma,Cloverdale,Source1,3,38.784199,-123.012619,2018,19,Tuesday,Clear / Fair,True,True,False,False,False,False,False
+A-7617971,CA,Sonoma,Petaluma,Source1,3,38.204994,-122.598118,2018,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7617981,CA,Sonoma,Santa Rosa,Source1,4,38.514889,-122.768379,2018,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7618815,CA,Sonoma,Santa Rosa,Source1,3,38.429503,-122.71501,2018,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7621153,CA,Sonoma,Petaluma,Source1,3,38.28529,-122.68728,2018,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7622664,CA,Sonoma,Petaluma,Source1,3,38.210602,-122.600596,2018,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7623805,CA,Sonoma,Petaluma,Source1,4,38.21203,-122.54925,2018,12,Thursday,Clear / Fair,False,False,False,True,False,False,False
+A-7623806,CA,Sonoma,Petaluma,Source1,4,38.23619,-122.52658999999998,2018,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7624339,CA,Sonoma,Petaluma,Source1,4,38.23619,-122.52658999999998,2018,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7628668,CA,Sonoma,Santa Rosa,Source1,3,38.43147,-122.71611,2018,14,Friday,Fog / Low visibility,False,False,True,False,False,False,False
+A-7633163,CA,Sonoma,Jenner,Source1,4,38.437037,-123.104303,2018,15,Monday,Fog / Low visibility,False,False,False,True,False,False,False
+A-7633164,CA,Sonoma,Jenner,Source1,4,38.43705,-123.10454,2018,15,Monday,Fog / Low visibility,False,False,False,True,False,False,False
+A-7633165,CA,Sonoma,Jenner,Source1,4,38.649641,-123.3977,2018,15,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7633166,CA,Sonoma,Jenner,Source1,4,38.43746,-123.10404,2018,15,Monday,Fog / Low visibility,False,False,False,True,False,False,False
+A-7635782,CA,Sonoma,Petaluma,Source1,3,38.249371,-122.632403,2018,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7636918,CA,Sonoma,Sonoma,Source1,3,38.15073,-122.44957,2018,15,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-7638265,CA,Sonoma,Petaluma,Source1,4,38.260289,-122.625726,2018,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7638861,CA,Sonoma,Santa Rosa,Source1,3,38.43349,-122.72234,2018,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7642601,CA,Sonoma,Kenwood,Source1,4,38.412649,-122.54493,2017,2,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7642602,CA,Sonoma,Kenwood,Source1,4,38.403464,-122.539762,2017,2,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7646299,CA,Sonoma,Santa Rosa,Source1,3,38.47827,-122.73278,2017,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-7647556,CA,Sonoma,Healdsburg,Source1,4,38.59297,-122.84946,2017,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7650429,CA,Sonoma,Santa Rosa,Source1,3,38.43348,-122.71602,2017,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7650430,CA,Sonoma,Santa Rosa,Source1,3,38.43307,-122.72071,2017,20,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7650431,CA,Sonoma,Santa Rosa,Source1,3,38.43587,-122.71694,2017,20,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7650432,CA,Sonoma,Santa Rosa,Source1,3,38.43221,-122.71863,2017,20,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7651075,CA,Sonoma,Santa Rosa,Source1,3,38.473,-122.73031,2017,18,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7651665,CA,Sonoma,Sonoma,Source1,4,38.246888,-122.413293,2017,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7651667,CA,Sonoma,Sonoma,Source1,4,38.24746500000001,-122.412317,2017,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7651677,CA,Sonoma,Sonoma,Source1,4,38.247128,-122.41283,2017,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7651678,CA,Sonoma,Sonoma,Source1,4,38.247654,-122.412034,2017,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7661278,CA,Sonoma,Santa Rosa,Source1,3,38.43108,-122.7112,2017,14,Friday,Cloudy,False,False,True,False,False,False,False
+A-7662715,CA,Sonoma,Sonoma,Source1,4,38.253671,-122.485046,2017,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7662716,CA,Sonoma,Sonoma,Source1,4,38.253654,-122.485101,2017,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7666922,CA,Sonoma,Petaluma,Source1,3,38.20521,-122.59817,2017,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7668039,CA,Sonoma,Petaluma,Source1,4,38.22546,-122.57388,2017,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7668040,CA,Sonoma,Petaluma,Source1,4,38.234667,-122.593676,2017,11,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-7669417,CA,Sonoma,Santa Rosa,Source1,4,38.470364,-122.729205,2017,18,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7671442,CA,Sonoma,Santa Rosa,Source1,3,38.496473,-122.754892,2017,3,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7686325,CA,Sonoma,Petaluma,Source1,4,38.2312,-122.58416499999998,2017,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7696661,CA,Sonoma,Jenner,Source1,4,38.570362,-123.324245,2017,2,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7696662,CA,Sonoma,Cazadero,Source1,4,38.59524,-123.3458,2017,2,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7698167,CA,Sonoma,Guerneville,Source1,4,38.482348,-123.010623,2017,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7706295,CA,Sonoma,Gualala,Source1,3,38.757108,-123.516052,2019,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7706296,CA,Sonoma,The Sea Ranch,Source1,3,38.749374,-123.511647,2019,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7718057,CA,Sonoma,Santa Rosa,Source1,3,38.51472,-122.77995,2019,20,Saturday,Cloudy,False,False,True,False,False,False,False
+A-7720026,CA,Sonoma,Petaluma,Source1,3,38.247184,-122.62816,2019,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7720035,CA,Sonoma,Petaluma,Source1,3,38.27395,-122.67257,2019,16,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7724068,CA,Sonoma,Santa Rosa,Source1,4,38.42987,-122.7154,2019,8,Thursday,Rain,False,False,False,False,False,False,False
+A-7724070,CA,Sonoma,Santa Rosa,Source1,4,38.43147,-122.71611,2019,8,Thursday,Rain,False,False,True,False,False,False,False
+A-7724072,CA,Sonoma,Santa Rosa,Source1,4,38.42987,-122.7154,2019,8,Thursday,Rain,False,False,False,False,False,False,False
+A-7724073,CA,Sonoma,Santa Rosa,Source1,4,38.43307,-122.72071,2019,8,Thursday,Rain,False,False,True,False,False,False,False
+A-7724074,CA,Sonoma,Santa Rosa,Source1,4,38.4321,-122.71848,2019,8,Thursday,Rain,False,False,False,False,False,False,False
+A-7727726,CA,Sonoma,Petaluma,Source1,3,38.23672,-122.619782,2019,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-7730556,CA,Sonoma,Fulton,Source1,3,38.501419,-122.763408,2019,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7735433,CA,Sonoma,Healdsburg,Source1,4,38.587479,-122.84406,2019,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7736029,CA,Sonoma,Sonoma,Source1,4,38.15092,-122.44908,2019,18,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-7745703,CA,Sonoma,Cazadero,Source1,4,38.59524,-123.3458,2019,7,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7745704,CA,Sonoma,Jenner,Source1,4,38.53378,-123.275641,2019,7,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7751822,CA,Sonoma,Petaluma,Source1,3,38.234768,-122.592315,2019,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7751823,CA,Sonoma,Petaluma,Source1,3,38.234653,-122.59391,2019,11,Friday,Clear / Fair,True,True,False,False,False,False,False
+A-7756973,CA,Sonoma,Santa Rosa,Source1,3,38.455328,-122.72611,2019,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7759713,CA,Sonoma,Petaluma,Source1,3,38.221783,-122.608797,2019,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7768185,CA,Sonoma,Petaluma,Source1,4,38.19056,-122.66252,2019,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7768767,CA,Sonoma,Bodega Bay,Source1,4,38.33713,-122.97743,2019,6,Sunday,Fog / Low visibility,False,False,False,True,False,False,False
+A-7768768,CA,Sonoma,Bodega Bay,Source1,4,38.33713,-122.97743,2019,6,Sunday,Fog / Low visibility,False,False,False,True,False,False,False
+A-7771327,CA,Sonoma,Bodega,Source1,3,38.324677,-122.928781,2019,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-7771328,CA,Sonoma,Petaluma,Source1,3,38.32327,-122.92783,2019,7,Friday,Clear / Fair,False,False,False,False,False,False,False

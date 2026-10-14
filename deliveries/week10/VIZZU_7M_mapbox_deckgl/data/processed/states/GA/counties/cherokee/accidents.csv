@@ -1,0 +1,875 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-146338,GA,Cherokee,Canton,Source2,3,34.215233000000005,-84.490776,2016,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-146368,GA,Cherokee,Woodstock,Source2,3,34.124035,-84.526489,2016,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-146681,GA,Cherokee,Woodstock,Source2,3,34.102528,-84.530563,2016,17,Monday,Rain,False,False,False,False,False,False,False
+A-147382,GA,Cherokee,Canton,Source2,3,34.189102,-84.505577,2016,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-147426,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2016,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-147487,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2016,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-147526,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2016,14,Saturday,Rain,False,False,False,False,False,False,False
+A-147782,GA,Cherokee,Canton,Source2,3,34.189102,-84.505577,2016,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-147862,GA,Cherokee,Woodstock,Source2,3,34.085693,-84.53537,2016,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-147929,GA,Cherokee,Canton,Source2,3,34.189102,-84.505577,2016,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-148139,GA,Cherokee,Acworth,Source2,3,34.079184999999995,-84.648216,2016,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-148141,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2016,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-148281,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2016,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-148686,GA,Cherokee,Canton,Source2,3,34.223503,-84.484245,2017,21,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-148756,GA,Cherokee,Woodstock,Source2,3,34.124035,-84.526489,2017,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-148925,GA,Cherokee,Canton,Source2,3,34.238064,-84.465912,2017,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-149252,GA,Cherokee,Woodstock,Source2,3,34.085693,-84.53537,2017,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-149576,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2017,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-149631,GA,Cherokee,Canton,Source2,3,34.145939,-84.516632,2017,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-150016,GA,Cherokee,Woodstock,Source2,3,34.085693,-84.53537,2016,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-150068,GA,Cherokee,Woodstock,Source2,3,34.085693,-84.53537,2016,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-150151,GA,Cherokee,Canton,Source2,3,34.145939,-84.516632,2016,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-150242,GA,Cherokee,Canton,Source2,3,34.145939,-84.516632,2016,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-150258,GA,Cherokee,Woodstock,Source2,3,34.085693,-84.53537,2016,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-150446,GA,Cherokee,Acworth,Source2,3,34.07917800000001,-84.653152,2016,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-150613,GA,Cherokee,Woodstock,Source2,3,34.085693,-84.53537,2016,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-150614,GA,Cherokee,Woodstock,Source2,3,34.102528,-84.530563,2016,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-150735,GA,Cherokee,Woodstock,Source2,3,34.124035,-84.526489,2016,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-150809,GA,Cherokee,Woodstock,Source2,3,34.085693,-84.53537,2016,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-150960,GA,Cherokee,Woodstock,Source2,3,34.124035,-84.526489,2016,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-151015,GA,Cherokee,Woodstock,Source2,3,34.085693,-84.53537,2016,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-151481,GA,Cherokee,Canton,Source2,3,34.145939,-84.516632,2016,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-151495,GA,Cherokee,Woodstock,Source2,3,34.124035,-84.526489,2016,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-151558,GA,Cherokee,Canton,Source2,3,34.145939,-84.516632,2016,15,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-151643,GA,Cherokee,Woodstock,Source2,3,34.091656,-84.533089,2016,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-151807,GA,Cherokee,Canton,Source2,3,34.25407,-84.467049,2016,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-151851,GA,Cherokee,Canton,Source3,3,34.243365999999995,-84.49334,2016,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-152030,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2016,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-152177,GA,Cherokee,Woodstock,Source2,3,34.124035,-84.526489,2016,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-152206,GA,Cherokee,Canton,Source2,3,34.145939,-84.516632,2016,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-152263,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2016,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-152346,GA,Cherokee,Woodstock,Source2,3,34.085693,-84.53537,2016,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-152651,GA,Cherokee,Woodstock,Source2,3,34.102528,-84.530563,2016,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-152850,GA,Cherokee,Woodstock,Source2,3,34.124035,-84.526489,2016,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-152881,GA,Cherokee,Canton,Source2,3,34.145939,-84.516632,2016,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-153037,GA,Cherokee,Woodstock,Source2,3,34.085693,-84.53537,2016,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-153190,GA,Cherokee,Woodstock,Source2,3,34.085693,-84.53537,2016,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-153363,GA,Cherokee,Canton,Source2,3,34.145939,-84.516632,2016,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-153504,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2016,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-153797,GA,Cherokee,Woodstock,Source2,3,34.102528,-84.530563,2016,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-153933,GA,Cherokee,Woodstock,Source2,3,34.085693,-84.53537,2016,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-154102,GA,Cherokee,Woodstock,Source2,3,34.086838,-84.536415,2016,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-154266,GA,Cherokee,Canton,Source2,3,34.145939,-84.516632,2016,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-154644,GA,Cherokee,Canton,Source2,3,34.189102,-84.505577,2016,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-154966,GA,Cherokee,Woodstock,Source2,3,34.124035,-84.526489,2016,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-155266,GA,Cherokee,Woodstock,Source2,3,34.124035,-84.526489,2016,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-155459,GA,Cherokee,Canton,Source2,3,34.21946,-84.48921999999997,2016,13,Tuesday,Rain,False,False,False,False,False,False,False
+A-155776,GA,Cherokee,Canton,Source2,3,34.219936,-84.488945,2016,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-155875,GA,Cherokee,Ball Ground,Source2,3,34.300591,-84.423637,2016,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-156047,GA,Cherokee,Canton,Source2,3,34.238064,-84.465912,2016,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-156185,GA,Cherokee,Woodstock,Source2,3,34.085693,-84.53537,2016,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-156204,GA,Cherokee,Canton,Source2,3,34.189102,-84.505577,2016,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-156300,GA,Cherokee,Canton,Source2,3,34.189102,-84.505577,2016,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-156441,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2016,19,Sunday,Cloudy,False,False,False,False,False,False,False
+A-156554,GA,Cherokee,Woodstock,Source2,3,34.085693,-84.53537,2016,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-156721,GA,Cherokee,Woodstock,Source2,3,34.085693,-84.53537,2016,7,Thursday,Sin dato,False,False,False,False,False,False,False
+A-156915,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2016,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-157348,GA,Cherokee,Ball Ground,Source2,3,34.328068,-84.394287,2016,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-157430,GA,Cherokee,Canton,Source2,3,34.145939,-84.516632,2016,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-157555,GA,Cherokee,Canton,Source2,3,34.189102,-84.505577,2016,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-157767,GA,Cherokee,Woodstock,Source2,3,34.085499,-84.534378,2016,17,Friday,Cloudy,True,True,False,False,False,False,False
+A-157768,GA,Cherokee,Woodstock,Source2,3,34.102528,-84.530563,2016,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-157851,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2016,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-157852,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2016,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-158010,GA,Cherokee,Woodstock,Source2,3,34.085693,-84.53537,2016,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-158162,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2016,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-158264,GA,Cherokee,Woodstock,Source2,3,34.085693,-84.53537,2016,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-158393,GA,Cherokee,Woodstock,Source2,3,34.085693,-84.53537,2016,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-158535,GA,Cherokee,Woodstock,Source2,3,34.085693,-84.53537,2016,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-158620,GA,Cherokee,Woodstock,Source2,3,34.085693,-84.53537,2016,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-158704,GA,Cherokee,Canton,Source2,3,34.176338,-84.511589,2016,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-158773,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2016,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-158947,GA,Cherokee,Acworth,Source2,3,34.079231,-84.65750899999998,2016,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-158966,GA,Cherokee,Canton,Source2,3,34.145939,-84.516632,2016,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-159008,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2016,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-159310,GA,Cherokee,Canton,Source2,3,34.189102,-84.505577,2016,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-159603,GA,Cherokee,Woodstock,Source2,3,34.102528,-84.530563,2016,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-322699,GA,Cherokee,Woodstock,Source2,3,34.085693,-84.53537,2017,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-323104,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2017,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-323328,GA,Cherokee,Ball Ground,Source2,3,34.328068,-84.394287,2017,22,Wednesday,Rain,False,False,False,False,False,False,False
+A-323432,GA,Cherokee,Woodstock,Source2,3,34.085693,-84.53537,2017,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-323464,GA,Cherokee,Woodstock,Source2,3,34.102528,-84.530563,2017,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-361158,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2017,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-361641,GA,Cherokee,Canton,Source2,3,34.223503,-84.484245,2017,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-361983,GA,Cherokee,Ball Ground,Source2,3,34.328068,-84.394287,2017,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-362525,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2017,19,Monday,Rain,False,False,False,False,False,False,False
+A-362962,GA,Cherokee,Canton,Source2,3,34.145939,-84.516632,2017,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-363175,GA,Cherokee,Woodstock,Source2,3,34.124035,-84.526489,2017,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-363297,GA,Cherokee,Woodstock,Source2,3,34.085693,-84.53537,2017,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-363495,GA,Cherokee,Woodstock,Source2,3,34.096077,-84.53141,2017,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-363626,GA,Cherokee,Woodstock,Source2,3,34.085693,-84.53537,2017,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-414071,GA,Cherokee,Canton,Source2,3,34.25407,-84.467049,2017,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-414102,GA,Cherokee,Canton,Source2,3,34.21946,-84.48921999999997,2017,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-414105,GA,Cherokee,Canton,Source2,3,34.238064,-84.465912,2017,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-414121,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2017,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-414124,GA,Cherokee,Canton,Source2,3,34.227036,-84.473267,2017,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-414673,GA,Cherokee,Canton,Source2,3,34.145939,-84.516632,2017,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-414725,GA,Cherokee,Woodstock,Source2,3,34.124035,-84.526489,2017,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-414772,GA,Cherokee,Woodstock,Source2,3,34.102528,-84.530563,2017,4,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-414789,GA,Cherokee,Woodstock,Source2,3,34.102528,-84.530563,2017,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-414986,GA,Cherokee,Woodstock,Source2,3,34.101074,-84.530251,2017,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-443343,GA,Cherokee,Woodstock,Source2,3,34.124035,-84.526489,2017,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-443424,GA,Cherokee,Ball Ground,Source2,3,34.300591,-84.423637,2017,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-443970,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2017,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-444086,GA,Cherokee,Woodstock,Source2,3,34.085693,-84.53537,2017,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-468430,GA,Cherokee,Canton,Source2,3,34.189102,-84.505577,2017,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-468824,GA,Cherokee,Acworth,Source2,3,34.079281,-84.65567,2017,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-468855,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2017,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-468927,GA,Cherokee,Acworth,Source2,3,34.08139,-84.631538,2017,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-468935,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2017,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-468936,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2017,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-469023,GA,Cherokee,Canton,Source2,3,34.282127,-84.449188,2017,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-469182,GA,Cherokee,Canton,Source2,3,34.189102,-84.505577,2017,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-469400,GA,Cherokee,Canton,Source2,3,34.189102,-84.505577,2017,10,Thursday,Rain,False,False,False,False,False,False,False
+A-469489,GA,Cherokee,Woodstock,Source2,3,34.085236,-84.535545,2017,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-469520,GA,Cherokee,Woodstock,Source2,3,34.124832,-84.525223,2017,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-469821,GA,Cherokee,Canton,Source2,3,34.21946,-84.48921999999997,2017,12,Friday,Rain,False,False,False,False,False,False,False
+A-469825,GA,Cherokee,Woodstock,Source2,3,34.102528,-84.530563,2017,12,Friday,Rain,False,False,False,False,False,False,False
+A-469854,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2017,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-470013,GA,Cherokee,Woodstock,Source2,3,34.102528,-84.530563,2017,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-499789,GA,Cherokee,Acworth,Source2,3,34.07877,-84.624237,2017,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-499922,GA,Cherokee,Canton,Source2,3,34.282402000000005,-84.45092,2017,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-500078,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2017,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-500111,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2017,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-500209,GA,Cherokee,Canton,Source2,3,34.248344,-84.467239,2017,9,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-500532,GA,Cherokee,Acworth,Source2,3,34.08112,-84.62751800000002,2017,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-516397,GA,Cherokee,Canton,Source2,3,34.145588000000004,-84.51619000000002,2022,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-520581,GA,Cherokee,Canton,Source2,3,34.145824,-84.516693,2022,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-525469,GA,Cherokee,Woodstock,Source2,3,34.124107,-84.526909,2022,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-530212,GA,Cherokee,Woodstock,Source2,3,34.137691,-84.521622,2022,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-530312,GA,Cherokee,Canton,Source2,3,34.200783,-84.497086,2022,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-531579,GA,Cherokee,Canton,Source2,3,34.225838,-84.47998,2022,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-537841,GA,Cherokee,Woodstock,Source2,3,34.085484,-84.535706,2022,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-540231,GA,Cherokee,Ball Ground,Source2,3,34.327782,-84.39469100000002,2022,7,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-554709,GA,Cherokee,Woodstock,Source2,3,34.085484,-84.535706,2022,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-564076,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2022,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-564103,GA,Cherokee,Canton,Source2,3,34.237221000000005,-84.466827,2022,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-567713,GA,Cherokee,Woodstock,Source2,3,34.101673,-84.53154,2022,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-569776,GA,Cherokee,Canton,Source2,3,34.254089,-84.46721600000002,2022,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-579885,GA,Cherokee,Ball Ground,Source2,3,34.301178,-84.423248,2022,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-582791,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2022,14,Sunday,Storm,False,False,False,False,False,False,False
+A-584239,GA,Cherokee,Canton,Source2,3,34.163429,-84.57974200000002,2022,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-592483,GA,Cherokee,Woodstock,Source2,3,34.085484,-84.535706,2022,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-594376,GA,Cherokee,Woodstock,Source2,3,34.085484,-84.535706,2022,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-607675,GA,Cherokee,Canton,Source2,3,34.146152,-84.516548,2022,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-609983,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2022,14,Thursday,Storm,False,False,False,False,False,False,False
+A-613814,GA,Cherokee,Woodstock,Source2,3,34.135201,-84.524261,2022,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-614742,GA,Cherokee,Canton,Source2,3,34.146152,-84.516548,2022,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-619071,GA,Cherokee,Canton,Source2,3,34.146374,-84.517136,2022,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-623471,GA,Cherokee,Canton,Source2,3,34.146152,-84.516548,2022,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-629382,GA,Cherokee,Canton,Source2,3,34.188988,-84.50591999999997,2022,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-636180,GA,Cherokee,Canton,Source2,3,34.146152,-84.516548,2022,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-637323,GA,Cherokee,Woodstock,Source2,3,34.085484,-84.535706,2022,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-637473,GA,Cherokee,Woodstock,Source2,3,34.085484,-84.535706,2022,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-638618,GA,Cherokee,Woodstock,Source2,3,34.085484,-84.535706,2022,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-639714,GA,Cherokee,Woodstock,Source2,3,34.101673,-84.53154,2022,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-644259,GA,Cherokee,Canton,Source2,3,34.239319,-84.46575899999998,2022,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-646704,GA,Cherokee,Woodstock,Source2,3,34.102489,-84.53085300000002,2022,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-648531,GA,Cherokee,Canton,Source2,3,34.254089,-84.46721600000002,2022,2,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-655071,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2022,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-666290,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2022,4,Wednesday,Rain,False,False,False,False,False,False,False
+A-666291,GA,Cherokee,Acworth,Source2,3,34.079617,-84.62738,2022,4,Wednesday,Rain,False,False,False,False,False,False,False
+A-670932,GA,Cherokee,Woodstock,Source2,3,34.085484,-84.535706,2022,8,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-671466,GA,Cherokee,Canton,Source2,3,34.226025,-84.475945,2022,22,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-672136,GA,Cherokee,Canton,Source2,3,34.221767,-84.485985,2022,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-684114,GA,Cherokee,Canton,Source2,3,34.221767,-84.485985,2022,5,Wednesday,Rain,False,False,False,False,False,False,False
+A-695187,GA,Cherokee,Canton,Source2,3,34.146152,-84.516548,2022,7,Sunday,Other,False,False,False,False,False,False,False
+A-702402,GA,Cherokee,Canton,Source2,3,34.146152,-84.516548,2022,17,Monday,Rain,False,False,False,False,False,False,False
+A-706102,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2022,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-706129,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2022,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-707942,GA,Cherokee,Acworth,Source2,4,34.079390999999994,-84.653671,2022,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-710873,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2022,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-713118,GA,Cherokee,Canton,Source2,3,34.146152,-84.516548,2022,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-725293,GA,Cherokee,Acworth,Source2,3,34.079479,-84.654076,2022,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-727534,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2022,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-743410,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2022,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-749583,GA,Cherokee,Acworth,Source2,3,34.079159000000004,-84.653023,2022,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-752627,GA,Cherokee,Woodstock,Source2,3,34.124107,-84.526909,2022,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-759713,GA,Cherokee,Canton,Source2,3,34.146152,-84.516548,2021,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-764353,GA,Cherokee,Canton,Source2,3,34.254089,-84.46721600000002,2021,6,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-767317,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2021,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-769869,GA,Cherokee,Canton,Source2,3,34.150379,-84.514626,2021,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-775741,GA,Cherokee,Woodstock,Source2,3,34.094151000000004,-84.532478,2021,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-784662,GA,Cherokee,Acworth,Source2,3,34.078499,-84.65514399999998,2021,13,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-795668,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2021,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-796734,GA,Cherokee,Woodstock,Source2,3,34.085125,-84.535599,2021,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-802555,GA,Cherokee,Canton,Source2,3,34.144241,-84.517822,2021,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-802556,GA,Cherokee,Canton,Source2,3,34.144241,-84.517822,2021,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-805693,GA,Cherokee,Canton,Source2,4,34.254089,-84.467331,2021,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-809950,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2021,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-813350,GA,Cherokee,Canton,Source2,3,34.145973,-84.516922,2021,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-813351,GA,Cherokee,Canton,Source2,3,34.145973,-84.516922,2021,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-817645,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2021,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-820332,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2021,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-820856,GA,Cherokee,Woodstock,Source2,3,34.085484,-84.535706,2021,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-830367,GA,Cherokee,Woodstock,Source2,3,34.101673,-84.53154,2021,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-830397,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2021,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-833783,GA,Cherokee,Woodstock,Source2,3,34.0784,-84.53833,2021,10,Thursday,Rain,False,False,False,False,False,False,False
+A-834182,GA,Cherokee,Canton,Source2,4,34.237106,-84.46611800000002,2021,9,Thursday,Rain,False,False,False,False,False,False,False
+A-835381,GA,Cherokee,Canton,Source2,3,34.146152,-84.516548,2021,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-835644,GA,Cherokee,Canton,Source2,3,34.146996,-84.516083,2021,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-846237,GA,Cherokee,Canton,Source2,3,34.248508,-84.467239,2021,13,Thursday,Cloudy,False,False,True,False,False,False,False
+A-846510,GA,Cherokee,Canton,Source2,3,34.248508,-84.467239,2021,17,Thursday,Cloudy,False,False,True,False,False,False,False
+A-846511,GA,Cherokee,Canton,Source2,3,34.257740000000005,-84.466454,2021,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-846512,GA,Cherokee,Canton,Source2,3,34.258591,-84.466728,2021,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-846700,GA,Cherokee,Canton,Source2,3,34.252602,-84.465767,2021,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-846701,GA,Cherokee,Canton,Source2,3,34.257740000000005,-84.466454,2021,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-846702,GA,Cherokee,Canton,Source2,3,34.258591,-84.466728,2021,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-847383,GA,Cherokee,Canton,Source2,4,34.146152,-84.516548,2021,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-847665,GA,Cherokee,Canton,Source2,3,34.174786,-84.512253,2021,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-848617,GA,Cherokee,Woodstock,Source2,3,34.101673,-84.53154,2021,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-849577,GA,Cherokee,Woodstock,Source2,3,34.09042,-84.533897,2021,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-851509,GA,Cherokee,Canton,Source2,3,34.146152,-84.516548,2021,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-854007,GA,Cherokee,Woodstock,Source2,3,34.085125,-84.535599,2021,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-854019,GA,Cherokee,Woodstock,Source2,3,34.103390000000005,-84.531258,2021,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-854095,GA,Cherokee,Woodstock,Source2,3,34.102646,-84.53093,2021,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-860072,GA,Cherokee,Woodstock,Source2,3,34.124107,-84.526909,2021,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-860880,GA,Cherokee,Acworth,Source2,3,34.079182,-84.64746099999998,2021,20,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-863469,GA,Cherokee,Woodstock,Source2,3,34.085484,-84.535706,2021,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-869467,GA,Cherokee,Woodstock,Source2,3,34.085484,-84.535706,2021,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-887612,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2021,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-892206,GA,Cherokee,Canton,Source2,3,34.221767,-84.485985,2021,17,Monday,Rain,False,False,False,False,False,False,False
+A-897123,GA,Cherokee,Canton,Source2,3,34.221767,-84.485985,2021,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-897300,GA,Cherokee,Canton,Source2,3,34.221767,-84.485985,2021,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-900843,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2021,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-906777,GA,Cherokee,Woodstock,Source2,3,34.101673,-84.53154,2021,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-910326,GA,Cherokee,Woodstock,Source2,4,34.124107,-84.526909,2021,17,Tuesday,Storm,False,False,False,False,False,False,False
+A-912956,GA,Cherokee,Acworth,Source2,3,34.079224,-84.648987,2021,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-918329,GA,Cherokee,Canton,Source2,3,34.237221000000005,-84.466827,2021,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-919339,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2021,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-929345,GA,Cherokee,Woodstock,Source2,3,34.101673,-84.53154,2021,14,Sunday,Rain,False,False,False,False,False,False,False
+A-932831,GA,Cherokee,Woodstock,Source2,3,34.107059,-84.53312700000002,2021,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-952116,GA,Cherokee,Canton,Source2,3,34.146152,-84.516548,2021,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-960000,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2021,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-964779,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2021,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-967381,GA,Cherokee,Canton,Source2,3,34.146152,-84.516548,2021,9,Monday,Rain,False,False,False,False,False,False,False
+A-967429,GA,Cherokee,Canton,Source2,3,34.221653,-84.487305,2021,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-969438,GA,Cherokee,Canton,Source2,3,34.186691,-84.506088,2021,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-969855,GA,Cherokee,Woodstock,Source2,3,34.085484,-84.535706,2021,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-973351,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2021,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-975021,GA,Cherokee,Canton,Source2,3,34.146152,-84.516548,2021,17,Thursday,Rain,False,False,False,False,False,False,False
+A-976510,GA,Cherokee,Woodstock,Source2,3,34.101673,-84.53154,2021,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-981242,GA,Cherokee,Canton,Source2,3,34.221767,-84.485985,2021,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-981288,GA,Cherokee,Acworth,Source2,3,34.078990999999995,-84.649918,2021,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-988551,GA,Cherokee,Woodstock,Source2,3,34.085484,-84.535706,2021,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-989011,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2021,19,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1000483,GA,Cherokee,Woodstock,Source2,3,34.085484,-84.535706,2021,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1005531,GA,Cherokee,Canton,Source2,3,34.188889,-84.50550799999998,2021,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-1013183,GA,Cherokee,Woodstock,Source2,3,34.124107,-84.526909,2021,19,Tuesday,Rain,False,False,False,False,False,False,False
+A-1031257,GA,Cherokee,Acworth,Source2,3,34.079159000000004,-84.653023,2021,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1040803,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2021,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1045148,GA,Cherokee,Canton,Source2,3,34.188889,-84.50550799999998,2021,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1050072,GA,Cherokee,Acworth,Source2,4,34.079390999999994,-84.653671,2021,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1050098,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2021,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1052766,GA,Cherokee,Canton,Source2,3,34.238087,-84.466202,2021,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1057862,GA,Cherokee,Woodstock,Source2,3,34.079227,-84.538078,2021,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1059597,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2021,14,Tuesday,Rain,False,False,False,False,False,False,False
+A-1059677,GA,Cherokee,Acworth,Source2,3,34.079342,-84.651077,2021,20,Tuesday,Rain,False,False,False,False,False,False,False
+A-1062866,GA,Cherokee,Acworth,Source2,4,34.079390999999994,-84.653671,2021,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1078473,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2021,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1085980,GA,Cherokee,Woodstock,Source2,3,34.085484,-84.535706,2021,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1087461,GA,Cherokee,Canton,Source2,3,34.146152,-84.516548,2021,13,Saturday,Rain,False,False,False,False,False,False,False
+A-1091609,GA,Cherokee,Woodstock,Source2,3,34.100658,-84.52993000000002,2021,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1094461,GA,Cherokee,Woodstock,Source2,3,34.124107,-84.526909,2021,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1098945,GA,Cherokee,Canton,Source2,3,34.188957,-84.505928,2021,8,Wednesday,Rain,False,False,False,False,False,False,False
+A-1113169,GA,Cherokee,Woodstock,Source2,3,34.085484,-84.535706,2021,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-1113203,GA,Cherokee,Woodstock,Source2,4,34.101673,-84.53154,2021,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-1114870,GA,Cherokee,Woodstock,Source2,3,34.101673,-84.53154,2021,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1119118,GA,Cherokee,Canton,Source2,3,34.188889,-84.50550799999998,2021,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-1123061,GA,Cherokee,Woodstock,Source2,3,34.124107,-84.526909,2021,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1132570,GA,Cherokee,Canton,Source2,3,34.147755,-84.515991,2021,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1139164,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.62709,2021,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1143517,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2021,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-1150807,GA,Cherokee,Woodstock,Source2,4,34.085484,-84.535706,2021,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1157377,GA,Cherokee,Canton,Source2,3,34.254089,-84.46721600000002,2021,11,Thursday,Rain,False,False,False,False,False,False,False
+A-1160754,GA,Cherokee,Woodstock,Source2,3,34.101673,-84.53154,2021,7,Tuesday,Rain,False,False,False,False,False,False,False
+A-1189905,GA,Cherokee,Woodstock,Source2,3,34.085484,-84.535706,2021,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1190747,GA,Cherokee,Woodstock,Source2,3,34.076939,-84.53868100000003,2021,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1192168,GA,Cherokee,Canton,Source2,3,34.221767,-84.485985,2021,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1192205,GA,Cherokee,Woodstock,Source2,3,34.133427000000005,-84.525002,2021,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1192206,GA,Cherokee,Woodstock,Source2,3,34.133427000000005,-84.525002,2021,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1203192,GA,Cherokee,Canton,Source2,3,34.237221000000005,-84.466827,2021,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1204468,GA,Cherokee,Woodstock,Source2,4,34.124107,-84.526909,2021,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1206968,GA,Cherokee,Acworth,Source2,4,34.079472,-84.653671,2021,6,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1212902,GA,Cherokee,Woodstock,Source2,3,34.101818,-84.53038000000002,2020,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-1228519,GA,Cherokee,Acworth,Source2,3,34.079487,-84.625153,2020,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1232999,GA,Cherokee,Woodstock,Source2,3,34.085484,-84.535706,2020,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1239658,GA,Cherokee,Acworth,Source2,3,34.079166,-84.65322900000002,2020,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-1247727,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2020,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1247728,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2020,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1252880,GA,Cherokee,Acworth,Source2,3,34.079144,-84.65276300000002,2020,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1271181,GA,Cherokee,Canton,Source2,3,34.22226,-84.48629,2020,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1271275,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2020,20,Wednesday,Rain,False,False,False,False,False,False,False
+A-1273110,GA,Cherokee,Woodstock,Source2,3,34.101673,-84.53154,2020,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1283443,GA,Cherokee,Acworth,Source2,3,34.079174,-84.653358,2020,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1283565,GA,Cherokee,Canton,Source2,3,34.1465,-84.51634200000002,2020,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1288601,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2020,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1288602,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2020,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1294946,GA,Cherokee,Acworth,Source2,4,34.079390999999994,-84.653671,2020,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1296261,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2020,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1296883,GA,Cherokee,Woodstock,Source2,3,34.102047,-84.530739,2020,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1315690,GA,Cherokee,Acworth,Source2,3,34.080479,-84.638062,2020,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1325367,GA,Cherokee,Acworth,Source2,3,34.079048,-84.65379300000002,2020,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1329607,GA,Cherokee,Woodstock,Source2,3,34.08316,-84.53669000000002,2020,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1331348,GA,Cherokee,Canton,Source2,3,34.189625,-84.505737,2020,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1333122,GA,Cherokee,Woodstock,Source2,3,34.085484,-84.535706,2020,16,Friday,Rain,False,False,False,False,False,False,False
+A-1345099,GA,Cherokee,Canton,Source2,3,34.146152,-84.516548,2020,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1352539,GA,Cherokee,Woodstock,Source2,3,34.084869,-84.534615,2020,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1356531,GA,Cherokee,Acworth,Source2,3,34.080585,-84.63758100000003,2020,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1357658,GA,Cherokee,Woodstock,Source2,3,34.102684,-84.530624,2020,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-1361429,GA,Cherokee,Canton,Source2,3,34.221767,-84.485985,2020,10,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1367659,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2020,17,Monday,Storm,False,False,False,False,False,False,False
+A-1375296,GA,Cherokee,Woodstock,Source2,4,34.124107,-84.526909,2020,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1389980,GA,Cherokee,Canton,Source2,3,34.17868,-84.508698,2020,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1399468,GA,Cherokee,Woodstock,Source2,3,34.088097,-84.53478199999998,2020,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1400874,GA,Cherokee,Woodstock,Source2,4,34.085484,-84.535706,2020,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-1402441,GA,Cherokee,Canton,Source2,3,34.221767,-84.485985,2020,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1412426,GA,Cherokee,Woodstock,Source2,3,34.124107,-84.526772,2020,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1413850,GA,Cherokee,Acworth,Source2,3,34.079193,-84.65406,2020,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1413883,GA,Cherokee,Canton,Source2,3,34.146152,-84.516548,2020,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1415279,GA,Cherokee,Woodstock,Source2,4,34.081188,-84.537094,2020,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-1438057,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2020,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1441092,GA,Cherokee,Canton,Source2,3,34.221767,-84.485985,2020,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-1463780,GA,Cherokee,Canton,Source2,3,34.145798,-84.516701,2020,13,Friday,Rain,False,False,False,False,False,False,False
+A-1472875,GA,Cherokee,Canton,Source2,3,34.217171,-84.49025,2020,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-1477164,GA,Cherokee,Woodstock,Source2,3,34.095058,-84.52037800000002,2020,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1479682,GA,Cherokee,Woodstock,Source2,3,34.101673,-84.53154,2020,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1483514,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2020,17,Sunday,Rain,False,False,False,False,False,False,False
+A-1487540,GA,Cherokee,Canton,Source2,3,34.221767,-84.485985,2020,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1489041,GA,Cherokee,Woodstock,Source2,3,34.085484,-84.535706,2020,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1489043,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2020,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1490561,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2020,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-1492305,GA,Cherokee,Woodstock,Source2,3,34.124107,-84.526909,2020,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1500873,GA,Cherokee,Canton,Source2,3,34.146152,-84.516548,2020,11,Wednesday,Rain,False,False,False,False,False,False,False
+A-1502342,GA,Cherokee,Woodstock,Source2,4,34.085484,-84.535706,2020,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1505970,GA,Cherokee,Acworth,Source2,3,34.079193,-84.654099,2020,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-1516529,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2020,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1523622,GA,Cherokee,Woodstock,Source2,3,34.102295,-84.5308,2020,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1527439,GA,Cherokee,Ball Ground,Source2,3,34.301178,-84.423248,2020,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-1528864,GA,Cherokee,Woodstock,Source2,4,34.101673,-84.53154,2020,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1538482,GA,Cherokee,Acworth,Source2,4,34.079472,-84.653671,2020,10,Monday,Rain,False,False,False,False,False,False,False
+A-1539826,GA,Cherokee,Woodstock,Source2,3,34.101673,-84.53154,2020,11,Tuesday,Rain,False,False,False,False,False,False,False
+A-1541924,GA,Cherokee,Acworth,Source2,3,34.087898,-84.588699,2020,5,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-1541971,GA,Cherokee,Woodstock,Source2,3,34.101673,-84.53154,2020,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1543010,GA,Cherokee,Woodstock,Source2,3,34.08551,-84.53578900000002,2020,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1545111,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2020,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1550348,GA,Cherokee,Woodstock,Source2,4,34.085484,-84.535706,2020,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1551511,GA,Cherokee,White,Source2,3,34.217651000000004,-84.637299,2020,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1552380,GA,Cherokee,Woodstock,Source2,3,34.101673,-84.53154,2020,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1560027,GA,Cherokee,Acworth,Source2,3,34.08147,-84.632515,2020,4,Monday,Rain,False,False,False,False,False,False,False
+A-1561209,GA,Cherokee,Woodstock,Source2,3,34.124084,-84.526337,2020,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1567666,GA,Cherokee,Woodstock,Source2,3,34.124107,-84.526909,2020,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1567685,GA,Cherokee,Canton,Source2,3,34.162239,-84.511299,2020,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1568818,GA,Cherokee,Woodstock,Source2,3,34.124107,-84.526909,2020,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1569807,GA,Cherokee,Woodstock,Source2,3,34.094833,-84.531868,2020,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1576856,GA,Cherokee,Canton,Source2,3,34.141815,-84.51911899999998,2020,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1581210,GA,Cherokee,Woodstock,Source2,3,34.101673,-84.53154,2020,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1581303,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2020,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1583183,GA,Cherokee,Canton,Source2,3,34.146152,-84.516548,2020,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1588748,GA,Cherokee,Woodstock,Source2,3,34.085484,-84.535706,2020,10,Monday,Rain,False,False,False,False,False,False,False
+A-1593609,GA,Cherokee,Woodstock,Source2,3,34.099209,-84.530624,2020,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1595863,GA,Cherokee,Woodstock,Source2,3,34.085484,-84.535706,2020,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1600068,GA,Cherokee,Woodstock,Source2,3,34.101673,-84.53154,2020,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1600717,GA,Cherokee,Canton,Source2,3,34.239799,-84.468246,2020,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1608748,GA,Cherokee,Canton,Source2,3,34.146152,-84.516548,2020,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1620142,GA,Cherokee,Acworth,Source2,3,34.079166,-84.653214,2020,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1623764,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2020,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1623779,GA,Cherokee,Acworth,Source2,3,34.080269,-84.65226,2020,19,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1630157,GA,Cherokee,Canton,Source2,3,34.160133,-84.511391,2020,7,Wednesday,Rain,False,False,False,False,False,False,False
+A-1632904,GA,Cherokee,Canton,Source2,3,34.145973,-84.516922,2020,7,Thursday,Rain,False,False,False,False,False,False,False
+A-1646551,GA,Cherokee,Woodstock,Source2,3,34.085484,-84.535706,2020,9,Thursday,Rain,False,False,False,False,False,False,False
+A-1649097,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2020,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1650724,GA,Cherokee,Woodstock,Source2,3,34.124107,-84.526909,2020,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1652421,GA,Cherokee,Canton,Source2,3,34.257832,-84.324493,2020,8,Monday,Clear / Fair,False,False,False,True,False,False,False
+A-1654568,GA,Cherokee,Canton,Source2,3,34.146152,-84.516548,2020,9,Tuesday,Rain,False,False,False,False,False,False,False
+A-1668928,GA,Cherokee,Canton,Source2,3,34.136208,-84.52336899999997,2020,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1675684,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2020,14,Thursday,Rain,False,False,False,False,False,False,False
+A-1675701,GA,Cherokee,Woodstock,Source2,3,34.101673,-84.53154,2020,15,Thursday,Rain,False,False,False,False,False,False,False
+A-1680537,GA,Cherokee,Canton,Source2,3,34.188889,-84.50550799999998,2019,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-1686891,GA,Cherokee,Woodstock,Source2,3,34.102043,-84.530739,2019,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1696487,GA,Cherokee,Woodstock,Source2,3,34.085484,-84.535706,2019,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1698981,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2019,15,Friday,Rain,False,False,False,False,False,False,False
+A-1703633,GA,Cherokee,Woodstock,Source2,4,34.101673,-84.53154,2019,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-1714516,GA,Cherokee,Canton,Source2,3,34.221767,-84.485985,2019,17,Friday,Rain,False,False,False,False,False,False,False
+A-1714553,GA,Cherokee,Canton,Source2,3,34.188934,-84.505623,2019,18,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1716394,GA,Cherokee,Woodstock,Source2,3,34.08765,-84.53495,2019,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1717228,GA,Cherokee,Woodstock,Source2,3,34.101673,-84.53154,2019,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1721350,GA,Cherokee,Woodstock,Source2,3,34.101673,-84.53154,2019,7,Tuesday,Rain,False,False,False,False,False,False,False
+A-1721393,GA,Cherokee,Woodstock,Source2,3,34.124107,-84.526909,2019,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1729381,GA,Cherokee,Woodstock,Source2,3,34.101673,-84.53154,2019,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1729392,GA,Cherokee,Woodstock,Source2,3,34.120384,-84.52934300000003,2019,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1733203,GA,Cherokee,Woodstock,Source2,3,34.085484,-84.535706,2019,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-1733404,GA,Cherokee,Woodstock,Source2,4,34.101673,-84.53154,2019,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-1740428,GA,Cherokee,Canton,Source2,3,34.146152,-84.516548,2019,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1740455,GA,Cherokee,Acworth,Source2,3,34.079556,-84.64208199999999,2019,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1743096,GA,Cherokee,Canton,Source2,3,34.174221,-84.512512,2019,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1748316,GA,Cherokee,Canton,Source2,3,34.146152,-84.516548,2019,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1750828,GA,Cherokee,Canton,Source2,3,34.221767,-84.485985,2019,7,Sunday,Rain,False,False,False,False,False,False,False
+A-1750846,GA,Cherokee,Woodstock,Source2,3,34.085484,-84.535706,2019,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1752375,GA,Cherokee,Canton,Source2,3,34.221767,-84.485985,2019,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1752430,GA,Cherokee,Woodstock,Source2,3,34.101673,-84.53154,2019,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1757778,GA,Cherokee,Canton,Source2,3,34.146152,-84.516548,2019,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1760586,GA,Cherokee,Woodstock,Source2,3,34.123905,-84.526108,2019,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1762997,GA,Cherokee,Canton,Source2,3,34.238087,-84.466202,2019,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1764768,GA,Cherokee,Woodstock,Source2,3,34.14365,-84.51728100000003,2019,15,Saturday,Rain,False,False,False,False,False,False,False
+A-1764778,GA,Cherokee,Canton,Source2,3,34.221767,-84.485985,2019,17,Saturday,Rain,False,False,False,False,False,False,False
+A-1764781,GA,Cherokee,Canton,Source2,3,34.218090000000004,-84.488548,2019,17,Saturday,Rain,False,False,False,False,False,False,False
+A-1772677,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2019,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1772683,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2019,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1772689,GA,Cherokee,Acworth,Source2,4,34.079390999999994,-84.653671,2019,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1772721,GA,Cherokee,Woodstock,Source2,3,34.085484,-84.535706,2019,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1780540,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2019,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1784462,GA,Cherokee,Woodstock,Source2,3,34.085484,-84.535706,2019,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1784584,GA,Cherokee,Woodstock,Source2,3,34.085125,-84.535599,2019,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1789733,GA,Cherokee,Woodstock,Source2,4,34.085484,-84.535706,2019,10,Thursday,Rain,False,False,False,False,False,False,False
+A-1789863,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2019,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1792492,GA,Cherokee,Canton,Source2,3,34.145573,-84.515831,2019,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1795040,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2019,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1804639,GA,Cherokee,Woodstock,Source2,3,34.139042,-84.520432,2019,20,Thursday,Rain,False,False,False,False,False,False,False
+A-1810027,GA,Cherokee,Canton,Source2,3,34.188889,-84.50550799999998,2019,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1820204,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2019,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1830134,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2019,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1835510,GA,Cherokee,Woodstock,Source2,4,34.08551,-84.53578900000002,2019,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1838384,GA,Cherokee,Woodstock,Source2,3,34.085484,-84.535706,2019,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-1838564,GA,Cherokee,Canton,Source2,3,34.14490900000001,-84.518349,2019,18,Friday,Rain,False,False,False,False,False,False,False
+A-1838576,GA,Cherokee,Canton,Source2,3,34.146152,-84.516548,2019,18,Friday,Rain,False,False,False,False,False,False,False
+A-1840584,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2019,14,Saturday,Rain,False,False,False,False,False,False,False
+A-1841398,GA,Cherokee,Woodstock,Source2,3,34.08358,-84.535583,2019,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1847958,GA,Cherokee,Canton,Source2,3,34.237221000000005,-84.466827,2019,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1864014,GA,Cherokee,Woodstock,Source2,3,34.085484,-84.535706,2019,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1885050,GA,Cherokee,Acworth,Source2,3,34.078499,-84.65514399999998,2019,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1892075,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2019,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1908282,GA,Cherokee,Canton,Source2,3,34.146152,-84.516548,2019,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1919381,GA,Cherokee,Canton,Source2,3,34.146152,-84.516548,2019,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1919382,GA,Cherokee,Canton,Source2,3,34.146152,-84.516548,2019,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1927656,GA,Cherokee,Woodstock,Source2,3,34.085484,-84.535706,2019,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1929993,GA,Cherokee,Woodstock,Source2,3,34.085484,-84.535706,2019,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1931648,GA,Cherokee,Canton,Source2,3,34.212791,-84.55032299999998,2019,15,Sunday,Sin dato,False,False,False,False,False,False,False
+A-1935314,GA,Cherokee,Canton,Source2,3,34.146152,-84.516548,2019,7,Tuesday,Rain,False,False,False,False,False,False,False
+A-1957833,GA,Cherokee,Woodstock,Source2,3,34.102261,-84.532402,2019,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1959881,GA,Cherokee,Woodstock,Source2,3,34.101673,-84.53154,2019,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1964229,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2019,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1970136,GA,Cherokee,Canton,Source2,3,34.146152,-84.516548,2019,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1976897,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2019,15,Friday,Rain,False,False,False,False,False,False,False
+A-1979256,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2019,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1982780,GA,Cherokee,Woodstock,Source2,3,34.134426,-84.524467,2019,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1989383,GA,Cherokee,Canton,Source2,3,34.146152,-84.516548,2019,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1991695,GA,Cherokee,Woodstock,Source2,3,34.085125,-84.535599,2019,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1991696,GA,Cherokee,Woodstock,Source2,3,34.085484,-84.535706,2019,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1996982,GA,Cherokee,Canton,Source2,3,34.146152,-84.516548,2019,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2003749,GA,Cherokee,Acworth,Source2,3,34.080482,-84.65308399999998,2019,19,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2015661,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2019,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2017638,GA,Cherokee,Canton,Source2,3,34.162632,-84.51168100000002,2019,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2028933,GA,Cherokee,Canton,Source2,3,34.146152,-84.516548,2019,19,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2036394,GA,Cherokee,Canton,Source2,3,34.146152,-84.516548,2019,7,Thursday,Rain,False,False,False,False,False,False,False
+A-2036405,GA,Cherokee,Woodstock,Source2,3,34.101673,-84.53154,2019,8,Thursday,Rain,False,False,False,False,False,False,False
+A-2040659,GA,Cherokee,Woodstock,Source2,3,34.085484,-84.535706,2019,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2051749,GA,Cherokee,Woodstock,Source2,4,34.085213,-84.535561,2019,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2051770,GA,Cherokee,Woodstock,Source2,3,34.083752000000004,-84.536118,2019,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2060300,GA,Cherokee,Canton,Source2,3,34.146152,-84.516548,2019,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2062632,GA,Cherokee,Canton,Source2,3,34.1917,-84.50415799999998,2019,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2073318,GA,Cherokee,Canton,Source2,4,34.222065,-84.48661,2019,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2073331,GA,Cherokee,Canton,Source2,3,34.226105,-84.474686,2019,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2082899,GA,Cherokee,Acworth,Source2,3,34.079390999999994,-84.653671,2019,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2084326,GA,Cherokee,Canton,Source2,3,34.183552,-84.50660699999997,2019,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2085700,GA,Cherokee,Canton,Source2,3,34.225319,-84.48159799999998,2019,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-2085722,GA,Cherokee,Canton,Source2,3,34.218090000000004,-84.488548,2019,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-2098795,GA,Cherokee,Ball Ground,Source2,4,34.300636,-84.423592,2019,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2119739,GA,Cherokee,Canton,Source2,3,34.146152,-84.516548,2019,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2133569,GA,Cherokee,Woodstock,Source2,4,34.085484,-84.535706,2019,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2133582,GA,Cherokee,Canton,Source2,3,34.146152,-84.516548,2019,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2136155,GA,Cherokee,Woodstock,Source2,3,34.085484,-84.535706,2019,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2166858,GA,Cherokee,Acworth,Source2,3,34.079445,-84.653999,2019,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2168212,GA,Cherokee,Acworth,Source2,3,34.078499,-84.65514399999998,2019,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2192736,GA,Cherokee,Woodstock,Source2,3,34.101673,-84.53154,2019,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2201560,GA,Cherokee,Canton,Source2,3,34.18771,-84.5056,2019,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2201606,GA,Cherokee,Woodstock,Source2,3,34.08730300000001,-84.476753,2019,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2203981,GA,Cherokee,Woodstock,Source2,3,34.106590000000004,-84.53289000000002,2019,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2206494,GA,Cherokee,Canton,Source2,3,34.237377,-84.466583,2019,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2208935,GA,Cherokee,Canton,Source2,3,34.189053,-84.50559200000002,2019,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2222577,GA,Cherokee,Woodstock,Source2,3,34.102627000000005,-84.530602,2019,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2224310,GA,Cherokee,Woodstock,Source2,3,34.085606,-84.535667,2019,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2228729,GA,Cherokee,Woodstock,Source2,3,34.102047,-84.530739,2019,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2228850,GA,Cherokee,Woodstock,Source2,3,34.103546,-84.53130300000002,2019,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2233766,GA,Cherokee,Acworth,Source2,3,34.079445,-84.653999,2019,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2237457,GA,Cherokee,Woodstock,Source2,3,34.100624,-84.531631,2019,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-2246355,GA,Cherokee,Acworth,Source2,3,34.079445,-84.653999,2019,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2265035,GA,Cherokee,Woodstock,Source2,3,34.123816999999995,-84.527252,2019,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2265057,GA,Cherokee,Canton,Source2,3,34.145813000000004,-84.51679200000002,2019,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2270356,GA,Cherokee,Canton,Source2,3,34.145813000000004,-84.51679200000002,2019,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2282724,GA,Cherokee,Acworth,Source2,3,34.079445,-84.653999,2019,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2294053,GA,Cherokee,Acworth,Source2,3,34.079445,-84.653999,2019,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-2303368,GA,Cherokee,Canton,Source2,3,34.145813000000004,-84.51679200000002,2019,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2315335,GA,Cherokee,Acworth,Source2,3,34.079445,-84.653999,2019,20,Thursday,Rain,False,False,False,False,False,False,False
+A-2317569,GA,Cherokee,Ball Ground,Source2,3,34.32571,-84.395691,2019,5,Friday,Rain,False,False,False,False,False,False,False
+A-2321690,GA,Cherokee,Acworth,Source2,3,34.079445,-84.653999,2019,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2329031,GA,Cherokee,Acworth,Source2,3,34.079445,-84.653999,2019,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2329039,GA,Cherokee,Acworth,Source2,3,34.079445,-84.653999,2019,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2332972,GA,Cherokee,Woodstock,Source2,3,34.12579,-84.525513,2019,14,Saturday,Rain,False,False,False,False,False,False,False
+A-2333759,GA,Cherokee,Canton,Source2,3,34.237377,-84.466583,2019,19,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2345298,GA,Cherokee,Woodstock,Source2,3,34.085606,-84.535667,2019,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-2345317,GA,Cherokee,Woodstock,Source2,3,34.123816999999995,-84.527252,2019,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-2345333,GA,Cherokee,Woodstock,Source2,3,34.103546,-84.53130300000002,2019,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-2347131,GA,Cherokee,Canton,Source2,3,34.18771,-84.5056,2019,16,Saturday,Rain,False,False,False,False,False,False,False
+A-2354277,GA,Cherokee,Woodstock,Source2,3,34.085606,-84.535667,2019,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2373701,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2018,8,Saturday,Rain,False,False,False,False,False,False,False
+A-2380262,GA,Cherokee,Canton,Source2,3,34.145813000000004,-84.51679200000002,2018,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2380354,GA,Cherokee,Canton,Source2,3,34.145813000000004,-84.51679200000002,2018,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2386320,GA,Cherokee,Acworth,Source2,3,34.079445,-84.653999,2018,18,Saturday,Rain,False,False,False,False,False,False,False
+A-2386813,GA,Cherokee,Canton,Source2,3,34.225006,-84.482056,2018,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2390465,GA,Cherokee,Canton,Source2,3,34.145813000000004,-84.51679200000002,2018,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2399342,GA,Cherokee,Canton,Source2,3,34.237377,-84.466583,2018,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2399352,GA,Cherokee,Canton,Source2,3,34.186401000000004,-84.506866,2018,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2399911,GA,Cherokee,Woodstock,Source2,3,34.103546,-84.53130300000002,2018,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2406178,GA,Cherokee,Acworth,Source2,3,34.079445,-84.653999,2018,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2408270,GA,Cherokee,Acworth,Source2,3,34.079445,-84.653999,2018,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2408274,GA,Cherokee,Acworth,Source2,3,34.079445,-84.653999,2018,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2410411,GA,Cherokee,Acworth,Source2,3,34.079445,-84.653999,2018,14,Friday,Rain,False,False,False,False,False,False,False
+A-2425012,GA,Cherokee,Canton,Source2,3,34.25407,-84.467049,2018,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2428489,GA,Cherokee,Canton,Source2,3,34.145939,-84.516632,2018,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-2428498,GA,Cherokee,Canton,Source2,3,34.189102,-84.505577,2018,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-2436386,GA,Cherokee,Canton,Source2,3,34.189102,-84.505577,2018,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2436424,GA,Cherokee,Canton,Source2,3,34.145939,-84.516632,2018,7,Tuesday,Rain,False,False,False,False,False,False,False
+A-2445740,GA,Cherokee,Woodstock,Source2,3,34.102528,-84.530563,2018,8,Friday,Rain,False,False,False,False,False,False,False
+A-2462024,GA,Cherokee,Woodstock,Source2,3,34.102528,-84.530563,2018,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2464032,GA,Cherokee,Woodstock,Source2,3,34.124035,-84.526489,2018,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2469170,GA,Cherokee,Acworth,Source2,3,34.079689,-84.658241,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2482281,GA,Cherokee,Woodstock,Source2,3,34.085693,-84.53537,2018,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2485488,GA,Cherokee,Woodstock,Source2,3,34.124035,-84.526489,2018,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2489539,GA,Cherokee,Canton,Source2,3,34.145939,-84.516632,2018,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2510906,GA,Cherokee,Woodstock,Source2,3,34.091789,-84.533333,2018,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2510962,GA,Cherokee,Ball Ground,Source2,3,34.328407,-84.39449300000003,2018,19,Wednesday,Rain,False,False,False,False,False,False,False
+A-2514261,GA,Cherokee,Acworth,Source2,3,34.079193,-84.648445,2018,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2521135,GA,Cherokee,Canton,Source2,3,34.145939,-84.516632,2018,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2521215,GA,Cherokee,Woodstock,Source2,3,34.124111,-84.526779,2018,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2524212,GA,Cherokee,Woodstock,Source2,3,34.085693,-84.53537,2018,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2530236,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2018,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2534700,GA,Cherokee,Woodstock,Source2,3,34.085693,-84.53537,2018,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2550906,GA,Cherokee,Acworth,Source2,3,34.079475,-84.654106,2018,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2556538,GA,Cherokee,Acworth,Source2,3,34.080223,-84.63909100000002,2018,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2556549,GA,Cherokee,Acworth,Source2,3,34.079494,-84.654549,2018,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2559025,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2018,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2560030,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2018,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-2564404,GA,Cherokee,Canton,Source2,3,34.145939,-84.516632,2018,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2567029,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2572517,GA,Cherokee,Woodstock,Source2,3,34.124035,-84.526489,2018,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2573923,GA,Cherokee,Woodstock,Source2,3,34.124035,-84.526489,2018,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-2581917,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2018,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2587319,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2018,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2611174,GA,Cherokee,Canton,Source2,3,34.145939,-84.516632,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2611226,GA,Cherokee,Canton,Source2,3,34.189102,-84.505577,2018,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2611227,GA,Cherokee,Woodstock,Source2,3,34.085693,-84.53537,2018,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2611280,GA,Cherokee,Woodstock,Source2,3,34.124035,-84.526489,2018,17,Thursday,Rain,False,False,False,False,False,False,False
+A-2613969,GA,Cherokee,Canton,Source2,3,34.189102,-84.505577,2018,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-2613978,GA,Cherokee,Canton,Source2,3,34.145939,-84.516632,2018,7,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2617151,GA,Cherokee,Woodstock,Source2,3,34.080166,-84.537483,2018,17,Tuesday,Rain,False,False,False,False,False,False,False
+A-2619484,GA,Cherokee,Canton,Source2,3,34.238064,-84.465912,2018,8,Wednesday,Rain,False,False,False,False,False,False,False
+A-2619558,GA,Cherokee,Canton,Source2,3,34.229874,-84.468971,2018,16,Wednesday,Rain,False,False,False,False,False,False,False
+A-2619592,GA,Cherokee,Canton,Source2,3,34.226082,-84.480003,2018,18,Wednesday,Rain,False,False,False,False,False,False,False
+A-2624624,GA,Cherokee,Canton,Source2,3,34.191853,-84.50458499999998,2018,10,Friday,Rain,False,False,False,False,False,False,False
+A-2628413,GA,Cherokee,Woodstock,Source2,3,34.122498,-84.52808399999998,2018,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2652457,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2018,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-2652473,GA,Cherokee,Woodstock,Source2,3,34.085693,-84.53537,2018,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-2654335,GA,Cherokee,Woodstock,Source2,3,34.085693,-84.53537,2018,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2666480,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2018,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2668361,GA,Cherokee,Woodstock,Source2,3,34.085693,-84.53537,2018,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2682192,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2018,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-2693640,GA,Cherokee,Woodstock,Source2,3,34.085693,-84.53537,2018,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2705512,GA,Cherokee,Acworth,Source2,3,34.07888,-84.64739200000002,2018,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-2738276,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2018,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2745338,GA,Cherokee,Woodstock,Source2,3,34.106022,-84.532288,2018,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2751936,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2018,19,Saturday,Rain,False,False,False,False,False,False,False
+A-2809829,GA,Cherokee,Canton,Source2,3,34.14798,-84.516418,2018,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2832938,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2018,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-2851132,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2018,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-2857400,GA,Cherokee,Canton,Source2,3,34.25407,-84.467049,2018,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2873306,GA,Cherokee,Canton,Source2,3,34.180824,-84.507462,2018,8,Monday,Rain,False,False,False,False,False,False,False
+A-2876010,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2018,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2878606,GA,Cherokee,Canton,Source2,3,34.223503,-84.484665,2018,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2887684,GA,Cherokee,Woodstock,Source2,3,34.085693,-84.53537,2018,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-2887792,GA,Cherokee,Woodstock,Source2,3,34.124832,-84.525223,2018,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-2901162,GA,Cherokee,Woodstock,Source2,3,34.085693,-84.53537,2018,14,Sunday,Rain,False,False,False,False,False,False,False
+A-2902617,GA,Cherokee,Canton,Source2,3,34.25407,-84.467049,2018,6,Monday,Rain,False,False,False,False,False,False,False
+A-2902658,GA,Cherokee,Canton,Source2,3,34.145939,-84.516632,2018,7,Monday,Rain,False,False,False,False,False,False,False
+A-2913567,GA,Cherokee,Woodstock,Source2,3,34.124035,-84.526489,2018,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-2917850,GA,Cherokee,Woodstock,Source2,3,34.07848,-84.538292,2018,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2925424,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2018,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2937576,GA,Cherokee,Canton,Source2,3,34.25407,-84.467049,2018,16,Sunday,Rain,False,False,False,False,False,False,False
+A-2941832,GA,Cherokee,Woodstock,Source2,3,34.102528,-84.530563,2018,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2971500,GA,Cherokee,Canton,Source2,3,34.226082,-84.480003,2018,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2986338,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2018,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2996104,GA,Cherokee,Acworth,Source2,3,34.07888,-84.647789,2018,7,Wednesday,Rain,False,False,False,False,False,False,False
+A-3008781,GA,Cherokee,Woodstock,Source2,3,34.085693,-84.53537,2018,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3055061,GA,Cherokee,Canton,Source2,3,34.145939,-84.516632,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3057866,GA,Cherokee,Ball Ground,Source2,3,34.328068,-84.394287,2018,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3060306,GA,Cherokee,Canton,Source2,3,34.189102,-84.505577,2018,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3080931,GA,Cherokee,Woodstock,Source2,3,34.085693,-84.53537,2018,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3086292,GA,Cherokee,Canton,Source2,3,34.189102,-84.505577,2018,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3086359,GA,Cherokee,Canton,Source2,3,34.256847,-84.467232,2018,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3107328,GA,Cherokee,Woodstock,Source2,3,34.081394,-84.537315,2017,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-3110033,GA,Cherokee,Woodstock,Source2,3,34.100105,-84.530045,2017,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3110034,GA,Cherokee,Canton,Source2,3,34.145939,-84.516632,2017,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3115990,GA,Cherokee,Ball Ground,Source2,3,34.328068,-84.394287,2017,9,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3134222,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2017,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3138664,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2017,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3153554,GA,Cherokee,Acworth,Source2,3,34.079338,-84.656723,2017,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3165994,GA,Cherokee,Acworth,Source2,3,34.079742,-84.62759399999999,2017,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-3178732,GA,Cherokee,Canton,Source2,3,34.231701,-84.467903,2017,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3180835,GA,Cherokee,Woodstock,Source2,3,34.124031,-84.526489,2017,11,Sunday,Rain,False,False,False,False,False,False,False
+A-3184361,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2017,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3189309,GA,Cherokee,Woodstock,Source2,3,34.121928999999994,-84.527672,2017,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3193807,GA,Cherokee,Woodstock,Source2,3,34.085693,-84.53537,2017,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3243955,GA,Cherokee,Woodstock,Source2,3,34.123657,-84.526657,2017,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3255356,GA,Cherokee,Canton,Source2,3,34.180363,-84.50766800000002,2017,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3261875,GA,Cherokee,Woodstock,Source2,3,34.085693,-84.53537,2017,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-3266973,GA,Cherokee,Acworth,Source2,3,34.079849,-84.654015,2017,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3273635,GA,Cherokee,Canton,Source2,3,34.223503,-84.484245,2017,10,Saturday,Rain,False,False,False,False,False,False,False
+A-3284260,GA,Cherokee,Woodstock,Source2,3,34.085693,-84.53537,2017,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-3284274,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2017,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-3286542,GA,Cherokee,Canton,Source2,3,34.213512,-84.491035,2017,21,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-3289505,GA,Cherokee,Woodstock,Source2,3,34.087837,-84.53454599999998,2017,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3313440,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2017,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3326657,GA,Cherokee,Canton,Source2,3,34.14637800000001,-84.516403,2017,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3329193,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2017,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3333619,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2017,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3357189,GA,Cherokee,Woodstock,Source2,3,34.102528,-84.530563,2017,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-3363685,GA,Cherokee,Woodstock,Source2,3,34.085693,-84.53537,2017,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3363816,GA,Cherokee,Ball Ground,Source2,3,34.328068,-84.394287,2017,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3366353,GA,Cherokee,Canton,Source2,3,34.238064,-84.465912,2017,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3411258,GA,Cherokee,Acworth,Source2,3,34.079456,-84.65370899999998,2017,15,Wednesday,Rain,False,False,False,False,False,False,False
+A-3447335,GA,Cherokee,Woodstock,Source1,3,34.084990999999995,-84.55781,2016,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3447336,GA,Cherokee,Woodstock,Source1,3,34.085107,-84.558136,2016,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3457102,GA,Cherokee,Woodstock,Source1,3,34.085861,-84.52114300000002,2017,1,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3463992,GA,Cherokee,Woodstock,Source1,4,34.145503000000005,-84.516858,2016,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-3472997,GA,Cherokee,Canton,Source1,4,34.235168,-84.449158,2016,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3473003,GA,Cherokee,Canton,Source1,4,34.235094000000004,-84.448753,2016,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3476051,GA,Cherokee,Woodstock,Source1,4,34.098440000000004,-84.53050999999998,2016,11,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-3476191,GA,Cherokee,Woodstock,Source1,3,34.119423,-84.529834,2016,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3482745,GA,Cherokee,Canton,Source1,4,34.224453999999994,-84.478324,2016,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3482746,GA,Cherokee,Canton,Source1,4,34.224451,-84.478337,2016,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3488190,GA,Cherokee,Woodstock,Source1,4,34.08782,-84.48456,2016,18,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-3488191,GA,Cherokee,Woodstock,Source1,4,34.08763,-84.48455,2016,18,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-3491548,GA,Cherokee,Woodstock,Source1,4,34.09042,-84.5339,2016,0,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3492999,GA,Cherokee,Ball Ground,Source1,4,34.302135,-84.224184,2016,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3494798,GA,Cherokee,Canton,Source1,3,34.22978,-84.4691,2016,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3496967,GA,Cherokee,Canton,Source1,4,34.21347,-84.49103000000002,2016,10,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-3497035,GA,Cherokee,Canton,Source1,4,34.243365000000004,-84.466818,2016,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3500014,GA,Cherokee,Canton,Source1,3,34.23683,-84.4665,2016,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3500641,GA,Cherokee,Acworth,Source1,3,34.0832,-84.65476,2016,19,Monday,Cloudy,True,False,False,False,False,False,False
+A-3507697,GA,Cherokee,Woodstock,Source1,3,34.0807,-84.53728000000002,2016,17,Friday,Cloudy,False,False,True,False,False,False,False
+A-3560479,GA,Cherokee,Woodstock,Source1,4,34.09042,-84.5339,2017,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3561400,GA,Cherokee,Ball Ground,Source1,4,34.290334,-84.26946600000002,2017,15,Tuesday,Rain,False,False,False,False,False,False,False
+A-3561404,GA,Cherokee,Ball Ground,Source1,4,34.288775,-84.27938499999998,2017,15,Tuesday,Rain,False,False,False,False,False,False,False
+A-3561600,GA,Cherokee,Canton,Source1,4,34.21347,-84.49103000000002,2017,22,Tuesday,Fog / Low visibility,False,False,True,False,False,False,False
+A-3561601,GA,Cherokee,Canton,Source1,4,34.22607,-84.47944,2017,22,Tuesday,Fog / Low visibility,False,False,True,False,False,False,False
+A-3578673,GA,Cherokee,Woodstock,Source1,4,34.147451000000004,-84.396411,2017,23,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3578674,GA,Cherokee,Woodstock,Source1,4,34.15169,-84.40405,2017,23,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3583475,GA,Cherokee,Woodstock,Source1,3,34.093154,-84.532862,2017,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-3596471,GA,Cherokee,Canton,Source1,4,34.141268,-84.519406,2017,22,Monday,Cloudy,False,False,True,False,False,False,False
+A-3600017,GA,Cherokee,Woodstock,Source1,4,34.087209,-84.494015,2017,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-3600300,GA,Cherokee,Woodstock,Source1,4,34.085236,-84.56760200000002,2017,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-3603461,GA,Cherokee,Woodstock,Source1,4,34.129989,-84.525911,2017,4,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3603749,GA,Cherokee,Canton,Source1,3,34.2212,-84.48803000000002,2017,22,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-3604606,GA,Cherokee,Canton,Source1,4,34.241419,-84.389292,2017,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3604992,GA,Cherokee,Canton,Source1,4,34.22341,-84.50168000000002,2017,2,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3628348,GA,Cherokee,Woodstock,Source1,3,34.10753,-84.53336,2017,15,Friday,Cloudy,False,False,True,False,False,False,False
+A-3629728,GA,Cherokee,Ball Ground,Source1,4,34.41246,-84.293307,2017,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3633747,GA,Cherokee,Canton,Source1,3,34.21347,-84.49103000000002,2017,12,Friday,Cloudy,False,False,True,False,False,False,False
+A-3635024,GA,Cherokee,Woodstock,Source1,4,34.12465,-84.526258,2017,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3644841,GA,Cherokee,Ball Ground,Source1,3,34.305367,-84.41806899999997,2017,1,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3644842,GA,Cherokee,Canton,Source1,3,34.24851,-84.46724,2017,1,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-3650664,GA,Cherokee,Canton,Source1,4,34.221224,-84.487513,2023,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-3687807,GA,Cherokee,Canton,Source1,4,34.208721000000004,-84.455246,2023,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3696613,GA,Cherokee,Canton,Source1,4,34.209518,-84.453866,2023,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3706144,GA,Cherokee,Canton,Source1,4,34.265663,-84.46776899999998,2022,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3738268,GA,Cherokee,Acworth,Source1,4,34.081383,-84.628093,2022,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3743988,GA,Cherokee,Canton,Source1,4,34.214979,-84.559779,2022,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3750344,GA,Cherokee,Canton,Source1,4,34.238515,-84.288663,2022,15,Monday,Rain,True,False,False,False,False,False,False
+A-3776311,GA,Cherokee,Canton,Source1,4,34.156219,-84.51188,2022,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3839845,GA,Cherokee,Woodstock,Source1,4,34.13762,-84.522018,2022,12,Monday,Rain,False,False,False,False,False,False,False
+A-3852195,GA,Cherokee,Canton,Source1,4,34.223388,-84.617582,2023,10,Tuesday,Rain,False,False,False,False,False,False,False
+A-3880197,GA,Cherokee,Canton,Source1,4,34.212715,-84.550414,2022,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3914572,GA,Cherokee,Canton,Source1,4,34.246933,-84.303015,2022,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3918667,GA,Cherokee,Acworth,Source1,4,34.080328,-84.638671,2023,4,Friday,Rain,False,False,False,False,False,False,False
+A-3950216,GA,Cherokee,Canton,Source1,4,34.234717,-84.444673,2022,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3961825,GA,Cherokee,Canton,Source1,4,34.212715,-84.550414,2022,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3965239,GA,Cherokee,Woodstock,Source1,4,34.12416,-84.526437,2022,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3994572,GA,Cherokee,Woodstock,Source1,4,34.141551,-84.51893199999998,2022,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4115382,GA,Cherokee,Canton,Source1,4,34.19493556,-84.50332761,2023,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4193950,GA,Cherokee,Woodstock,Source1,4,34.08035159094772,-84.5377027984403,2022,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4198786,GA,Cherokee,Canton,Source1,4,34.225941896275394,-84.47820067365419,2022,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-4222683,GA,Cherokee,White,Source1,4,34.222843,-84.618013,2023,10,Tuesday,Rain,True,False,False,False,False,False,False
+A-4225615,GA,Cherokee,Canton,Source1,4,34.214889,-84.559597,2022,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4246635,GA,Cherokee,Acworth,Source1,4,34.080682,-84.626745,2022,0,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4272074,GA,Cherokee,Canton,Source1,4,34.215678999999994,-84.56246800000002,2022,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4298120,GA,Cherokee,Canton,Source1,4,34.248020000000004,-84.30675699999998,2022,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4320972,GA,Cherokee,Canton,Source1,4,34.223372,-84.501775,2022,6,Monday,Sin dato,False,False,False,False,False,False,False
+A-4348278,GA,Cherokee,Acworth,Source1,4,34.080328,-84.638671,2023,5,Wednesday,Rain,False,False,False,False,False,False,False
+A-4412446,GA,Cherokee,Canton,Source1,4,34.248613,-84.30781,2022,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4448390,GA,Cherokee,White,Source1,4,34.222843,-84.618013,2023,10,Tuesday,Rain,True,False,False,False,False,False,False
+A-4501006,GA,Cherokee,Acworth,Source1,4,34.087835,-84.588886,2022,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4506323,GA,Cherokee,Canton,Source1,4,34.235983000000004,-84.45133100000002,2022,19,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-4531409,GA,Cherokee,Canton,Source1,4,34.225956,-84.478218,2022,15,Tuesday,Rain,False,False,False,False,False,False,False
+A-4573015,GA,Cherokee,Ball Ground,Source1,4,34.305492,-84.418051,2023,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4640062,GA,Cherokee,Canton,Source1,4,34.248613,-84.30781,2022,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4671638,GA,Cherokee,Woodstock,Source1,4,34.080928,-84.53719699999998,2022,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4687286,GA,Cherokee,Ball Ground,Source1,4,34.323363,-84.349181,2022,18,Saturday,Cloudy,False,False,False,True,False,False,False
+A-4762654,GA,Cherokee,Canton,Source1,4,34.223587,-84.48456800000002,2023,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4764562,GA,Cherokee,Canton,Source1,4,34.215453000000004,-84.564098,2022,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4790819,GA,Cherokee,Woodstock,Source1,4,34.085437,-84.535466,2022,23,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4817444,GA,Cherokee,White,Source1,4,34.22287,-84.618282,2023,10,Tuesday,Rain,True,False,False,False,False,False,False
+A-4827641,GA,Cherokee,Canton,Source1,4,34.203228,-84.495016,2023,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4877077,GA,Cherokee,Woodstock,Source1,4,34.10764574988314,-84.53341126401645,2022,6,Monday,Cloudy,False,False,True,False,False,False,False
+A-4921461,GA,Cherokee,Acworth,Source1,4,34.097753999999995,-84.629329,2022,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-4953601,GA,Cherokee,Canton,Source1,4,34.165751,-84.511967,2023,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4982906,GA,Cherokee,Canton,Source1,4,34.213147,-84.549072,2022,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5156964,GA,Cherokee,Canton,Source1,4,34.213316,-84.4911,2022,17,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-5169100,GA,Cherokee,Canton,Source1,4,34.248613,-84.30781,2022,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5186847,GA,Cherokee,Ball Ground,Source1,4,34.323974,-84.35207199999998,2022,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5213017,GA,Cherokee,Woodstock,Source1,4,34.107646,-84.533427,2023,0,Sunday,Fog / Low visibility,False,False,True,False,False,False,False
+A-5213018,GA,Cherokee,Woodstock,Source1,4,34.107646,-84.533427,2022,19,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-5248961,GA,Cherokee,Canton,Source1,4,34.22295928,-84.48489547,2022,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5257462,GA,Cherokee,Acworth,Source1,4,34.094843,-84.64712,2022,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5303326,GA,Cherokee,Acworth,Source1,4,34.079437,-84.659136,2022,16,Sunday,Cloudy,False,False,True,False,False,False,False
+A-5310459,GA,Cherokee,Canton,Source1,4,34.205105,-84.493928,2023,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5326869,GA,Cherokee,Canton,Source1,4,34.221221208409204,-84.48800682981258,2021,15,Thursday,Cloudy,False,False,True,False,False,False,False
+A-5408335,GA,Cherokee,Canton,Source1,4,34.213147,-84.549072,2022,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5767938,GA,Cherokee,Woodstock,Source1,4,34.090672731236985,-84.53375458677037,2021,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5809640,GA,Cherokee,Canton,Source1,4,34.28922057135444,-84.44105744321612,2021,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5936269,GA,Cherokee,Canton,Source1,4,34.25883650763388,-84.46721434552923,2021,6,Monday,Fog / Low visibility,False,False,True,False,False,False,False
+A-5983583,GA,Cherokee,Canton,Source1,4,34.282397,-84.450928,2021,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5993908,GA,Cherokee,Canton,Source1,4,34.229031801060536,-84.47047591169134,2021,5,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6009550,GA,Cherokee,Canton,Source1,4,34.19420599921133,-84.50392842252491,2021,19,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-6169677,GA,Cherokee,Ball Ground,Source1,4,34.30582880957458,-84.41753983457366,2021,6,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-6268391,GA,Cherokee,Acworth,Source1,4,34.079171418981176,-84.64763045270611,2021,17,Thursday,Rain,False,False,False,False,False,False,False
+A-6304479,GA,Cherokee,Canton,Source1,4,34.25883650763388,-84.46721434552923,2021,6,Monday,Fog / Low visibility,False,False,True,False,False,False,False
+A-6591338,GA,Cherokee,Woodstock,Source1,4,34.145651,-84.39474200000002,2020,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6616042,GA,Cherokee,Canton,Source1,4,34.265663,-84.46776899999998,2020,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6630555,GA,Cherokee,Woodstock,Source1,4,34.085907,-84.519235,2020,7,Monday,Clear / Fair,True,True,False,False,False,False,False
+A-6696046,GA,Cherokee,Canton,Source1,4,34.222959,-84.484895,2020,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6697478,GA,Cherokee,Woodstock,Source1,4,34.085699,-84.519396,2020,7,Monday,Clear / Fair,True,True,False,False,False,False,False
+A-6727175,GA,Cherokee,Ball Ground,Source1,4,34.323974,-84.35207199999998,2020,23,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6735940,GA,Cherokee,Woodstock,Source1,4,34.146328999999994,-84.395022,2020,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6781698,GA,Cherokee,Ball Ground,Source1,4,34.32236,-84.34553000000002,2020,23,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6782782,GA,Cherokee,Canton,Source1,4,34.150153,-84.514721,2020,21,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-6822382,GA,Cherokee,Canton,Source1,4,34.28922,-84.441057,2020,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6991025,GA,Cherokee,Acworth,Source1,4,34.07918,-84.64746,2020,3,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-7035907,GA,Cherokee,Canton,Source1,3,34.21354,-84.49134000000002,2020,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-7036012,GA,Cherokee,Canton,Source1,4,34.18355,-84.50661,2020,19,Monday,Rain,False,False,False,False,False,False,False
+A-7036014,GA,Cherokee,Canton,Source1,3,34.18355,-84.50661,2020,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-7049629,GA,Cherokee,Woodstock,Source1,3,34.12957,-84.49788000000002,2020,9,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-7052517,GA,Cherokee,Woodstock,Source1,4,34.098440000000004,-84.53050999999998,2020,0,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7055057,GA,Cherokee,Woodstock,Source1,3,34.098440000000004,-84.53050999999998,2020,2,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7134217,GA,Cherokee,Woodstock,Source1,3,34.09848,-84.53079,2020,11,Tuesday,Rain,False,False,True,False,False,False,False
+A-7138426,GA,Cherokee,Acworth,Source1,3,34.088,-84.58837,2020,6,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-7142259,GA,Cherokee,Woodstock,Source1,3,34.12419000000001,-84.52642,2020,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7168836,GA,Cherokee,Canton,Source1,3,34.22287,-84.61804000000002,2020,9,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7168856,GA,Cherokee,White,Source1,3,34.22287,-84.61803,2020,10,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7168861,GA,Cherokee,Canton,Source1,3,34.22287,-84.61804000000002,2020,11,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7170975,GA,Cherokee,Woodstock,Source1,3,34.098440000000004,-84.53050999999998,2020,14,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-7178409,GA,Cherokee,Canton,Source1,3,34.14137,-84.51935,2020,0,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7186741,GA,Cherokee,Acworth,Source1,4,34.0789,-84.64746,2020,5,Monday,Rain,False,False,False,False,False,False,False
+A-7204784,GA,Cherokee,Acworth,Source1,4,34.087990000000005,-84.5884,2020,6,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-7204839,GA,Cherokee,Woodstock,Source1,3,34.12419000000001,-84.52642,2020,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7206187,GA,Cherokee,Woodstock,Source1,4,34.098440000000004,-84.53050999999998,2020,0,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7220001,GA,Cherokee,Ball Ground,Source1,4,34.30586,-84.41751,2020,12,Monday,Cloudy,False,False,True,False,False,False,False
+A-7259748,GA,Cherokee,Woodstock,Source1,4,34.14116,-84.51908,2020,16,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7261295,GA,Cherokee,Woodstock,Source1,4,34.09042,-84.5339,2020,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7262789,GA,Cherokee,Acworth,Source1,3,34.07891,-84.64839,2020,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7287506,GA,Cherokee,Canton,Source1,4,34.23015,-84.46859,2019,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7305639,GA,Cherokee,Woodstock,Source1,4,34.11932,-84.53028,2019,23,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7327514,GA,Cherokee,Canton,Source1,4,34.285,-84.51523,2019,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7327515,GA,Cherokee,Canton,Source1,4,34.27705,-84.50771999999998,2019,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7339876,GA,Cherokee,Woodstock,Source1,3,34.0807,-84.53728000000002,2019,16,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7348970,GA,Cherokee,Woodstock,Source1,4,34.15094000000001,-84.40276,2019,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-7348971,GA,Cherokee,Woodstock,Source1,4,34.151509999999995,-84.40377,2019,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-7351978,GA,Cherokee,Acworth,Source1,3,34.07918,-84.64746,2019,10,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7356400,GA,Cherokee,Woodstock,Source1,4,34.11974,-84.50731999999998,2019,5,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7356401,GA,Cherokee,Woodstock,Source1,4,34.12095,-84.50636999999998,2019,5,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7364564,GA,Cherokee,Canton,Source1,4,34.1474,-84.51773,2019,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7372703,GA,Cherokee,Woodstock,Source1,3,34.14116,-84.51908,2019,21,Thursday,Rain,False,False,True,False,False,False,False
+A-7385823,GA,Cherokee,Ball Ground,Source1,4,34.273159,-84.301174,2019,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7385825,GA,Cherokee,Ball Ground,Source1,4,34.279751,-84.29635999999998,2019,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7388397,GA,Cherokee,Woodstock,Source1,4,34.125669,-84.393289,2019,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7389839,GA,Cherokee,Woodstock,Source1,3,34.08576,-84.51934,2019,7,Wednesday,Clear / Fair,True,True,False,False,False,False,False
+A-7404625,GA,Cherokee,Woodstock,Source1,4,34.098440000000004,-84.53050999999998,2019,21,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7428107,GA,Cherokee,Ball Ground,Source1,4,34.27727,-84.298806,2019,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-7439707,GA,Cherokee,Canton,Source1,3,34.24851,-84.46724,2019,0,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7442239,GA,Cherokee,Woodstock,Source1,4,34.085341,-84.55696,2019,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7449675,GA,Cherokee,Waleska,Source1,3,34.34922,-84.598104,2019,23,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7459423,GA,Cherokee,Ball Ground,Source1,3,34.375764000000004,-84.371735,2019,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7459424,GA,Cherokee,Ball Ground,Source1,3,34.37012,-84.37239,2019,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7461860,GA,Cherokee,Acworth,Source1,3,34.08968,-84.60075,2019,17,Saturday,Rain,False,False,False,False,False,False,False
+A-7461861,GA,Cherokee,Acworth,Source1,3,34.08968,-84.60075,2019,17,Saturday,Rain,False,False,False,False,False,False,False
+A-7464631,GA,Cherokee,Woodstock,Source1,3,34.14116,-84.51908,2019,2,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7465388,GA,Cherokee,Woodstock,Source1,3,34.098440000000004,-84.53050999999998,2019,13,Friday,Cloudy,False,False,True,False,False,False,False
+A-7468027,GA,Cherokee,Woodstock,Source1,4,34.0807,-84.53728000000002,2019,9,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7482989,GA,Cherokee,Woodstock,Source1,4,34.158151000000004,-84.407414,2018,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7482990,GA,Cherokee,Woodstock,Source1,4,34.155458,-84.40620899999998,2018,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7496857,GA,Cherokee,Canton,Source1,3,34.18355,-84.50661,2018,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7498317,GA,Cherokee,Canton,Source1,4,34.21347,-84.49103000000002,2018,5,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7507066,GA,Cherokee,Woodstock,Source1,3,34.116113,-84.532481,2018,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7520085,GA,Cherokee,Canton,Source1,3,34.14982,-84.5149,2018,11,Tuesday,Rain,False,False,True,False,False,False,False
+A-7527551,GA,Cherokee,Woodstock,Source1,4,34.085935,-84.51516,2018,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7535280,GA,Cherokee,Canton,Source1,4,34.14982,-84.5149,2018,22,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7540151,GA,Cherokee,Canton,Source1,4,34.211759,-84.595033,2018,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-7540152,GA,Cherokee,Canton,Source1,4,34.211606,-84.59486700000002,2018,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-7541928,GA,Cherokee,Woodstock,Source1,3,34.09042,-84.5339,2018,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7543653,GA,Cherokee,Canton,Source1,3,34.22571,-84.47803,2018,1,Wednesday,Rain,False,False,False,False,False,False,False
+A-7543694,GA,Cherokee,Canton,Source1,4,34.2212,-84.48803000000002,2018,12,Wednesday,Rain,False,False,True,False,False,False,False
+A-7543717,GA,Cherokee,Canton,Source1,4,34.228838,-84.470352,2018,15,Wednesday,Rain,False,False,False,False,False,False,False
+A-7549531,GA,Cherokee,Ball Ground,Source1,4,34.29684,-84.42923,2018,19,Friday,Cloudy,False,False,True,False,False,False,False
+A-7552329,GA,Cherokee,Canton,Source1,4,34.14922,-84.514905,2018,1,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7558120,GA,Cherokee,Woodstock,Source1,4,34.09042,-84.5339,2018,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7561481,GA,Cherokee,Woodstock,Source1,4,34.079952,-84.537859,2018,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7562541,GA,Cherokee,Waleska,Source1,4,34.31902,-84.55582,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7566397,GA,Cherokee,Canton,Source1,4,34.238113,-84.465878,2018,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7566891,GA,Cherokee,Woodstock,Source1,4,34.08599,-84.52950200000002,2018,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-7567885,GA,Cherokee,Canton,Source1,4,34.24851,-84.46724,2018,8,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7570865,GA,Cherokee,Woodstock,Source1,3,34.0807,-84.53728000000002,2018,18,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7574792,GA,Cherokee,Acworth,Source1,3,34.07918,-84.64746,2018,0,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7579194,GA,Cherokee,Canton,Source1,4,34.21347,-84.49103000000002,2018,5,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7582387,GA,Cherokee,Canton,Source1,4,34.240891,-84.423923,2018,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7582388,GA,Cherokee,Canton,Source1,4,34.24131,-84.419535,2018,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7587306,GA,Cherokee,Canton,Source1,4,34.212233000000005,-84.52799,2018,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-7587307,GA,Cherokee,Canton,Source1,4,34.213711,-84.531941,2018,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-7599491,GA,Cherokee,Woodstock,Source1,4,34.08984,-84.53412,2018,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7601865,GA,Cherokee,Canton,Source1,4,34.24851,-84.46724,2018,10,Tuesday,Rain,False,False,True,False,False,False,False
+A-7609437,GA,Cherokee,Canton,Source1,4,34.254414000000004,-84.34818800000002,2018,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-7609438,GA,Cherokee,Canton,Source1,4,34.255731,-84.341951,2018,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-7617027,GA,Cherokee,Woodstock,Source1,3,34.0807,-84.53728000000002,2018,19,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7619118,GA,Cherokee,Woodstock,Source1,3,34.09042,-84.5339,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7619147,GA,Cherokee,Canton,Source1,4,34.21575,-84.59964000000002,2018,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7637950,GA,Cherokee,Canton,Source1,4,34.19004,-84.50559,2018,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7645724,GA,Cherokee,Canton,Source1,4,34.214451000000004,-84.45736600000002,2017,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7645725,GA,Cherokee,Canton,Source1,4,34.220355,-84.463096,2017,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7645732,GA,Cherokee,Woodstock,Source1,4,34.11998,-84.39143,2017,19,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7649073,GA,Cherokee,Canton,Source1,3,34.21347,-84.49103000000002,2017,16,Sunday,Cloudy,False,False,True,False,False,False,False
+A-7680951,GA,Cherokee,Canton,Source1,4,34.22064,-84.48872,2017,5,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7681101,GA,Cherokee,Woodstock,Source1,3,34.139070000000004,-84.52045,2017,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7707320,GA,Cherokee,Woodstock,Source1,3,34.09042,-84.5339,2019,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7720218,GA,Cherokee,Waleska,Source1,4,34.341762,-84.633651,2019,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7720230,GA,Cherokee,Waleska,Source1,4,34.34922,-84.598104,2019,19,Thursday,Rain,False,False,False,False,False,False,False
+A-7722054,GA,Cherokee,Ball Ground,Source1,4,34.323213,-84.397925,2019,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-7722055,GA,Cherokee,Ball Ground,Source1,4,34.30611,-84.41682,2019,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-7722057,GA,Cherokee,Canton,Source1,4,34.24851,-84.46724,2019,14,Monday,Cloudy,False,False,True,False,False,False,False
+A-7722089,GA,Cherokee,Woodstock,Source1,3,34.102540000000005,-84.530877,2019,0,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7722655,GA,Cherokee,Waleska,Source1,4,34.346616999999995,-84.582071,2019,0,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7722656,GA,Cherokee,Waleska,Source1,4,34.345264,-84.579425,2019,0,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7728284,GA,Cherokee,Woodstock,Source1,4,34.11998,-84.39143,2019,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7730814,GA,Cherokee,Woodstock,Source1,4,34.079952,-84.537859,2019,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7738452,GA,Cherokee,Woodstock,Source1,4,34.0807,-84.53728000000002,2019,8,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7743273,GA,Cherokee,Canton,Source1,4,34.231916,-84.467828,2019,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7745401,GA,Cherokee,Ball Ground,Source1,4,34.323213,-84.397925,2019,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-7745407,GA,Cherokee,White,Source1,4,34.21756,-84.637589,2019,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7745408,GA,Cherokee,White,Source1,4,34.216211,-84.64200000000002,2019,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7758266,GA,Cherokee,White,Source1,4,34.22288,-84.61832,2019,0,Sunday,Cloudy,True,False,False,False,False,False,False
+A-7758267,GA,Cherokee,White,Source1,4,34.218786,-84.633615,2019,0,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7765075,GA,Cherokee,Woodstock,Source1,3,34.09042,-84.5339,2019,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7770684,GA,Cherokee,Woodstock,Source1,4,34.125505,-84.49931600000002,2019,1,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7770685,GA,Cherokee,Woodstock,Source1,4,34.124641,-84.500478,2019,1,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7772685,GA,Cherokee,Canton,Source1,4,34.216053,-84.57066800000003,2019,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7772686,GA,Cherokee,Canton,Source1,4,34.214915999999995,-84.55960300000002,2019,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7773264,GA,Cherokee,Woodstock,Source1,4,34.08528,-84.53765,2019,14,Wednesday,Clear / Fair,True,True,False,False,False,False,False

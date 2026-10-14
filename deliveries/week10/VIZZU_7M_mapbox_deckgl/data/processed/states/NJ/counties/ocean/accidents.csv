@@ -1,0 +1,553 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-516076,NJ,Ocean,Toms River,Source2,3,39.942867,-74.208748,2022,20,Monday,Sin dato,False,False,False,False,False,False,False
+A-558249,NJ,Ocean,Toms River,Source3,3,39.99004,-74.266838,2022,12,Friday,Sin dato,True,False,False,False,False,False,False
+A-558960,NJ,Ocean,Toms River,Source2,3,39.988026,-74.209885,2022,23,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-579640,NJ,Ocean,Jackson,Source2,4,40.154701,-74.346245,2022,17,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-608604,NJ,Ocean,Brick,Source2,3,40.104225,-74.137741,2022,17,Friday,Rain,False,False,False,False,False,False,False
+A-653962,NJ,Ocean,Jackson,Source2,3,40.154701,-74.346245,2022,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-657258,NJ,Ocean,Manchester Twp,Source2,3,39.971531,-74.37602199999998,2022,22,Thursday,Rain,False,False,False,False,False,False,False
+A-698029,NJ,Ocean,Toms River,Source2,3,39.976746,-74.2118,2022,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-713104,NJ,Ocean,Jackson,Source2,3,40.154701,-74.346245,2022,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-748302,NJ,Ocean,Toms River,Source2,3,39.956028,-74.206535,2022,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-754640,NJ,Ocean,Jackson,Source2,3,40.160259,-74.423958,2022,6,Wednesday,Rain,False,False,False,False,False,False,False
+A-791054,NJ,Ocean,Jackson,Source2,3,40.15897800000001,-74.420364,2021,18,Monday,Sin dato,False,False,False,False,False,False,False
+A-951970,NJ,Ocean,Jackson,Source2,3,40.154701,-74.346245,2021,19,Friday,Sin dato,False,False,False,False,False,False,False
+A-974472,NJ,Ocean,Stafford,Source2,3,39.65572,-74.189171,2021,12,Thursday,Sin dato,True,False,False,False,False,False,False
+A-1007571,NJ,Ocean,Seaside Heights,Source3,3,39.940651,-74.081299,2021,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-1025158,NJ,Ocean,Lakewood,Source2,3,40.058804,-74.16570300000002,2021,20,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1120975,NJ,Ocean,Toms River,Source2,3,39.942875,-74.208748,2021,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1143067,NJ,Ocean,Toms River,Source2,3,39.942875,-74.208748,2021,13,Monday,Rain,False,False,False,False,False,False,False
+A-1148802,NJ,Ocean,Toms River,Source2,3,39.988026,-74.209885,2021,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1163645,NJ,Ocean,Jackson,Source2,3,40.154701,-74.346245,2021,15,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1274451,NJ,Ocean,Waretown,Source2,3,39.793892,-74.237083,2020,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1287665,NJ,Ocean,Toms River,Source2,3,39.988232,-74.210861,2020,2,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1291247,NJ,Ocean,Tuckerton,Source2,3,39.653862,-74.344261,2020,16,Thursday,Rain,False,False,False,False,False,False,False
+A-1319568,NJ,Ocean,Jackson,Source2,4,40.160259,-74.423958,2020,7,Wednesday,Rain,False,False,False,False,False,False,False
+A-1332489,NJ,Ocean,Manahawkin,Source2,3,39.71175,-74.280182,2020,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1343019,NJ,Ocean,Toms River,Source2,3,39.963551,-74.206703,2020,23,Friday,Rain,False,False,True,False,False,False,False
+A-1359014,NJ,Ocean,Toms River,Source2,3,39.964149,-74.20723000000002,2020,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1440568,NJ,Ocean,Toms River,Source2,3,39.96352,-74.189217,2020,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-1440572,NJ,Ocean,Toms River,Source2,3,39.963139,-74.18789699999998,2020,19,Friday,Cloudy,False,True,False,False,False,False,False
+A-1442715,NJ,Ocean,Manchester Township,Source2,3,39.957722,-74.407585,2020,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1548992,NJ,Ocean,Toms River,Source2,3,39.942867,-74.208687,2020,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1576248,NJ,Ocean,Seaside Heights,Source2,3,39.940651,-74.081299,2020,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1668336,NJ,Ocean,Forked River,Source2,3,39.823711,-74.20253000000002,2020,18,Wednesday,Other,True,True,False,False,False,False,False
+A-1682458,NJ,Ocean,Brick,Source2,3,40.076778,-74.156357,2019,0,Monday,Rain,False,False,False,False,False,False,False
+A-1826799,NJ,Ocean,Waretown,Source2,3,39.793892,-74.237083,2019,14,Monday,Other,False,False,False,False,False,False,False
+A-1913856,NJ,Ocean,Toms River,Source2,3,39.956188,-74.206749,2019,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1944437,NJ,Ocean,Toms River,Source2,3,39.981441,-74.2519,2019,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-1978343,NJ,Ocean,Seaside Heights,Source2,3,39.943439,-74.091278,2019,11,Saturday,Clear / Fair,False,True,False,False,False,False,False
+A-1982006,NJ,Ocean,Jackson,Source2,3,40.160259,-74.423958,2019,10,Tuesday,Rain,False,False,False,False,False,False,False
+A-1990833,NJ,Ocean,Lakewood,Source2,3,40.090939,-74.216476,2019,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2107567,NJ,Ocean,Toms River,Source2,3,40.002972,-74.20121,2019,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2151976,NJ,Ocean,Manahawkin,Source2,3,39.71196,-74.280441,2019,10,Saturday,Cloudy,False,False,True,False,False,False,False
+A-2266922,NJ,Ocean,Jackson,Source2,3,40.16024,-74.42394300000002,2019,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2481413,NJ,Ocean,Toms River,Source2,3,39.95594000000001,-74.206329,2018,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2497025,NJ,Ocean,Tuckerton,Source2,3,39.653149,-74.343979,2018,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2526073,NJ,Ocean,Jackson,Source2,3,40.15683,-74.28183,2018,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2739891,NJ,Ocean,Jackson,Source2,3,40.156292,-74.30957,2018,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-2751682,NJ,Ocean,Bayville,Source2,3,39.903019,-74.211617,2018,6,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2832134,NJ,Ocean,Toms River,Source2,3,39.942394,-74.208954,2018,1,Saturday,Rain,False,False,True,False,False,False,False
+A-2858579,NJ,Ocean,Jackson,Source2,3,40.154587,-74.346069,2018,7,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2858645,NJ,Ocean,Jackson,Source2,3,40.154587,-74.346069,2018,8,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2880333,NJ,Ocean,Jackson,Source2,3,40.160229,-74.424088,2018,8,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-2910143,NJ,Ocean,Jackson,Source2,3,40.15997700000001,-74.423241,2018,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2937407,NJ,Ocean,Jackson,Source2,3,40.154587,-74.346069,2018,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2940933,NJ,Ocean,Jackson,Source2,3,40.160152,-74.423851,2018,5,Tuesday,Snow / Ice,False,False,True,False,False,False,False
+A-2949158,NJ,Ocean,Jackson,Source2,3,40.160229,-74.424088,2018,7,Friday,Cloudy,False,False,True,False,False,False,False
+A-2955766,NJ,Ocean,Jackson,Source2,3,40.154587,-74.346069,2018,17,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2955793,NJ,Ocean,Jackson,Source2,3,40.154587,-74.346069,2018,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2985532,NJ,Ocean,Jackson,Source2,3,40.160229,-74.424088,2018,8,Friday,Cloudy,False,False,True,False,False,False,False
+A-3004532,NJ,Ocean,Toms River,Source2,3,39.964005,-74.206787,2018,22,Sunday,Cloudy,False,False,True,False,False,False,False
+A-3026746,NJ,Ocean,Brick,Source2,3,40.082752,-74.107933,2018,13,Thursday,Cloudy,True,False,False,False,False,False,False
+A-3026815,NJ,Ocean,Jackson,Source2,3,40.154388,-74.359169,2018,23,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3044994,NJ,Ocean,Jackson,Source2,3,40.156292,-74.30957,2018,15,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3050437,NJ,Ocean,Forked River,Source2,3,39.863598,-74.21946700000002,2018,5,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3050462,NJ,Ocean,Barnegat,Source2,3,39.759186,-74.249718,2018,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3065110,NJ,Ocean,Toms River,Source2,3,39.98787700000001,-74.210815,2018,2,Saturday,Rain,False,False,False,False,False,False,False
+A-3097021,NJ,Ocean,Barnegat,Source2,3,39.80859,-74.402985,2017,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3106340,NJ,Ocean,Jackson,Source2,3,40.154587,-74.346069,2017,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3175531,NJ,Ocean,Jackson,Source2,3,40.154587,-74.346069,2017,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3206248,NJ,Ocean,Manahawkin,Source2,3,39.711151,-74.279236,2017,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3207200,NJ,Ocean,Jackson,Source2,3,40.156292,-74.30957,2017,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3260973,NJ,Ocean,Jackson,Source2,3,40.156292,-74.30957,2017,8,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3273558,NJ,Ocean,Brick,Source2,3,40.097343,-74.14238,2017,22,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3312705,NJ,Ocean,Brick,Source2,3,40.097343,-74.14238,2017,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3389475,NJ,Ocean,Jackson,Source2,3,40.156292,-74.30957,2017,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-3446529,NJ,Ocean,Manahawkin,Source1,4,39.718007,-74.284446,2016,7,Monday,Rain,False,False,False,False,False,False,False
+A-3447766,NJ,Ocean,Lakehurst,Source1,3,40.014505,-74.310946,2016,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3449271,NJ,Ocean,Toms River,Source1,3,40.00926,-74.21596,2016,18,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-3449315,NJ,Ocean,Toms River,Source1,4,40.00926,-74.21596,2016,20,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-3449317,NJ,Ocean,Toms River,Source1,4,40.0123,-74.21710999999998,2016,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3450759,NJ,Ocean,Manahawkin,Source1,3,39.720156,-74.28609200000002,2016,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3450760,NJ,Ocean,Manahawkin,Source1,3,39.718593,-74.284883,2016,15,Thursday,Cloudy,True,True,False,False,False,False,False
+A-3453413,NJ,Ocean,Tuckerton,Source1,4,39.59365,-74.43674,2016,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3454853,NJ,Ocean,Toms River,Source1,4,39.9493,-74.11511999999998,2016,8,Thursday,Cloudy,True,True,False,False,False,False,False
+A-3455420,NJ,Ocean,Toms River,Source1,3,39.995354,-74.207288,2016,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3455513,NJ,Ocean,Lakewood,Source1,4,40.10637,-74.21941,2017,2,Sunday,Cloudy,True,False,False,False,False,False,False
+A-3456036,NJ,Ocean,Tuckerton,Source1,4,39.60332,-74.34016,2017,22,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-3456037,NJ,Ocean,Tuckerton,Source1,4,39.60332,-74.34016,2017,22,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-3458238,NJ,Ocean,Bayville,Source1,4,39.893906,-74.212717,2017,3,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3459340,NJ,Ocean,Lakewood,Source1,4,40.063207,-74.219172,2017,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3459341,NJ,Ocean,Lakewood,Source1,4,40.058616,-74.219939,2017,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3463525,NJ,Ocean,Waretown,Source1,3,39.79578,-74.23659,2016,4,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3465753,NJ,Ocean,Tuckerton,Source1,4,39.596649,-74.386735,2016,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3466037,NJ,Ocean,Manchester Township,Source1,3,40.006397,-74.298136,2016,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3467802,NJ,Ocean,Bayville,Source1,3,39.904377,-74.211763,2016,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3471171,NJ,Ocean,Manchester,Source1,4,40.03797,-74.30252,2016,18,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-3471175,NJ,Ocean,Manchester,Source1,4,40.03606,-74.29643,2016,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3475173,NJ,Ocean,Toms River,Source1,3,39.94525,-74.20841999999998,2016,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3476287,NJ,Ocean,Brick,Source1,4,40.054092,-74.138689,2016,17,Tuesday,Clear / Fair,True,True,False,False,False,False,False
+A-3476288,NJ,Ocean,Brick,Source1,4,40.054541,-74.139515,2016,17,Tuesday,Clear / Fair,True,True,False,False,False,False,False
+A-3477023,NJ,Ocean,Manchester,Source1,4,40.006607,-74.29834699999998,2016,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3477953,NJ,Ocean,Waretown,Source1,4,39.783265,-74.201655,2016,2,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3477954,NJ,Ocean,Waretown,Source1,4,39.78489,-74.19959,2016,2,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3478017,NJ,Ocean,Waretown,Source1,4,39.78489,-74.19959,2016,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3478018,NJ,Ocean,Waretown,Source1,4,39.783265,-74.201655,2016,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3479386,NJ,Ocean,Jackson,Source1,3,40.0684,-74.27176999999998,2016,12,Thursday,Cloudy,True,False,False,False,False,False,False
+A-3479387,NJ,Ocean,Jackson,Source1,3,40.0684,-74.27176999999998,2016,12,Thursday,Cloudy,True,False,False,False,False,False,False
+A-3481028,NJ,Ocean,Jackson,Source1,4,40.141663,-74.268008,2016,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3481029,NJ,Ocean,Jackson,Source1,4,40.140735,-74.26621899999998,2016,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3481048,NJ,Ocean,Jackson,Source1,4,40.1411,-74.26693,2016,5,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-3481205,NJ,Ocean,Manahawkin,Source1,3,39.70816,-74.28248,2016,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3485013,NJ,Ocean,Waretown,Source1,4,39.79136,-74.1955,2016,7,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-3485016,NJ,Ocean,Waretown,Source1,4,39.794698,-74.196488,2016,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3486204,NJ,Ocean,Brick,Source1,3,40.09731,-74.1424,2016,1,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3489237,NJ,Ocean,Manahawkin,Source1,3,39.71414,-74.27838,2016,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-3491536,NJ,Ocean,Lavallette,Source1,4,39.969087,-74.070836,2016,23,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-3491541,NJ,Ocean,Lavallette,Source1,4,39.969087,-74.070836,2016,23,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-3493321,NJ,Ocean,Little Egg Harbor Twp,Source1,4,39.59626,-74.39,2016,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3493323,NJ,Ocean,Little Egg Harbor Twp,Source1,4,39.59626,-74.39,2016,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3493331,NJ,Ocean,Little Egg Harbor Twp,Source1,4,39.597,-74.38353000000002,2016,23,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-3493337,NJ,Ocean,Tuckerton,Source1,4,39.59793300000001,-74.37881800000002,2016,23,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3493678,NJ,Ocean,Seaside Heights,Source1,3,39.94801,-74.07868,2016,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-3493680,NJ,Ocean,Seaside Heights,Source1,3,39.948756,-74.077696,2016,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-3495206,NJ,Ocean,Lakewood,Source1,3,40.05348,-74.16856999999997,2016,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3497168,NJ,Ocean,Beachwood,Source1,3,39.94313,-74.19379,2016,19,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-3497169,NJ,Ocean,Beachwood,Source1,3,39.943145,-74.19380100000002,2016,19,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-3498748,NJ,Ocean,Manchester Township,Source1,4,39.948294,-74.39217099999998,2016,9,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-3498755,NJ,Ocean,Whiting,Source1,4,39.94342,-74.39121,2016,9,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-3499732,NJ,Ocean,Manchester Township,Source1,4,39.96902,-74.37973000000002,2016,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-3499733,NJ,Ocean,Whiting,Source1,4,39.97828,-74.36617,2016,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-3502506,NJ,Ocean,Manahawkin,Source1,3,39.7093,-74.27755,2016,6,Tuesday,Rain,False,False,False,False,False,False,False
+A-3503300,NJ,Ocean,Forked River,Source1,4,39.82568,-74.20232,2016,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3503301,NJ,Ocean,Forked River,Source1,4,39.84001,-74.19124000000002,2016,22,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-3505490,NJ,Ocean,Toms River,Source1,4,40.03008,-74.22407,2016,8,Thursday,Cloudy,True,False,False,False,False,False,False
+A-3505491,NJ,Ocean,Toms River,Source1,4,40.02084,-74.22046,2016,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3506857,NJ,Ocean,Lakewood,Source1,4,40.110081,-74.21906,2016,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3506859,NJ,Ocean,Lakewood,Source1,4,40.10713,-74.21945,2016,11,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-3516461,NJ,Ocean,Lakewood,Source1,4,40.08575,-74.1771,2016,15,Friday,Sin dato,True,False,False,False,False,False,False
+A-3516462,NJ,Ocean,Lakewood,Source1,4,40.088043,-74.182313,2016,15,Friday,Sin dato,False,False,False,False,False,False,False
+A-3516524,NJ,Ocean,Manchester Township,Source1,4,39.94723,-74.36335,2016,11,Sunday,Cloudy,True,False,False,False,False,False,False
+A-3516525,NJ,Ocean,Whiting,Source1,4,39.938874,-74.357576,2016,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3516907,NJ,Ocean,Tuckerton,Source1,4,39.596896,-74.384498,2016,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3516908,NJ,Ocean,Tuckerton,Source1,4,39.596896,-74.384498,2016,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3516911,NJ,Ocean,Little Egg Harbor Twp,Source1,4,39.59626,-74.39,2016,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3516970,NJ,Ocean,Toms River,Source1,3,39.9633,-74.18834,2016,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-3517347,NJ,Ocean,Lakehurst,Source1,3,40.01198,-74.30461,2016,15,Wednesday,Clear / Fair,False,False,False,True,False,False,False
+A-3517556,NJ,Ocean,Toms River,Source1,3,39.94427,-74.2086,2016,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-3517705,NJ,Ocean,Toms River,Source1,3,39.95601,-74.20653,2016,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3517832,NJ,Ocean,Toms River,Source1,3,39.9635,-74.20355,2016,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3518516,NJ,Ocean,Manchester Township,Source1,4,40.012765,-74.29352,2016,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3518518,NJ,Ocean,Lakehurst,Source1,4,40.012389,-74.303162,2016,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3518888,NJ,Ocean,Waretown,Source1,3,39.77697,-74.244825,2016,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3519076,NJ,Ocean,Toms River,Source1,3,39.94525,-74.20841999999998,2016,0,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3519211,NJ,Ocean,Jackson,Source1,3,40.15488,-74.34285,2016,16,Thursday,Cloudy,False,False,True,False,False,False,False
+A-3519447,NJ,Ocean,Jackson,Source1,4,40.11198,-74.38988,2016,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3519448,NJ,Ocean,Jackson,Source1,4,40.1112,-74.38925,2016,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3520136,NJ,Ocean,Brick,Source1,4,40.08805,-74.10204,2016,6,Monday,Cloudy,True,False,False,False,False,False,False
+A-3520183,NJ,Ocean,Little Egg Harbor Twp,Source1,4,39.59626,-74.39,2016,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3520513,NJ,Ocean,Point Pleasant Beach,Source1,4,40.09732,-74.04947,2016,0,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3520554,NJ,Ocean,Lakewood,Source1,4,40.05432,-74.22068,2016,12,Friday,Cloudy,True,False,False,False,False,False,False
+A-3520800,NJ,Ocean,Little Egg Harbor Twp,Source1,4,39.601819,-74.358456,2016,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3520801,NJ,Ocean,Tuckerton,Source1,4,39.60126,-74.34718000000002,2016,23,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3520890,NJ,Ocean,Mantoloking,Source1,3,40.03972,-74.05013000000002,2016,18,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-3520891,NJ,Ocean,Mantoloking,Source1,3,40.039524,-74.050173,2016,18,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-3521004,NJ,Ocean,Whiting,Source1,3,39.972479,-74.37462099999998,2016,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-3521005,NJ,Ocean,Manchester Township,Source1,3,39.96705,-74.38264000000002,2016,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-3521183,NJ,Ocean,Toms River,Source1,4,39.96445,-74.21039,2016,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-3521538,NJ,Ocean,Lakewood,Source1,4,40.09809,-74.21785,2016,19,Friday,Clear / Fair,False,True,False,False,False,False,False
+A-3521539,NJ,Ocean,Lakewood,Source1,4,40.09872,-74.21795999999998,2016,19,Friday,Clear / Fair,True,True,False,False,False,False,False
+A-3521595,NJ,Ocean,Toms River,Source1,3,39.94525,-74.20841999999998,2016,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3521679,NJ,Ocean,Beachwood,Source1,3,39.93759,-74.18651,2016,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3521680,NJ,Ocean,Beachwood,Source1,3,39.93759,-74.18651,2016,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3571701,NJ,Ocean,Brick,Source1,3,40.075679,-74.156182,2017,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3573810,NJ,Ocean,West Creek,Source1,4,39.647123,-74.297368,2017,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3576218,NJ,Ocean,Toms River,Source1,4,39.9498,-74.119548,2017,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3577041,NJ,Ocean,Manahawkin,Source1,3,39.67259,-74.22246,2017,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-3581425,NJ,Ocean,Lakewood,Source1,4,40.09232100000001,-74.216758,2017,22,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3581426,NJ,Ocean,Lakewood,Source1,4,40.091054,-74.216504,2017,22,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3583552,NJ,Ocean,Toms River,Source1,4,39.9633,-74.18834,2017,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3598414,NJ,Ocean,Manchester Township,Source1,4,39.9878,-74.4121,2017,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3598416,NJ,Ocean,Manchester Township,Source1,4,39.96062,-74.39237,2017,16,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-3599229,NJ,Ocean,Whiting,Source1,4,39.960528,-74.392554,2017,22,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-3599230,NJ,Ocean,Manchester Township,Source1,4,39.96062,-74.39237,2017,22,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-3599355,NJ,Ocean,Whiting,Source1,4,39.96033,-74.39295,2017,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3599357,NJ,Ocean,Whiting,Source1,4,39.959579,-74.394665,2017,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3600214,NJ,Ocean,Manahawkin,Source1,3,39.71414,-74.27838,2017,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3601865,NJ,Ocean,Toms River,Source1,4,39.949532,-74.11747,2017,13,Saturday,Rain,False,False,False,False,False,False,False
+A-3604420,NJ,Ocean,Brick,Source1,4,40.075219,-74.12347199999998,2017,10,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-3613864,NJ,Ocean,Manchester,Source1,4,39.96273,-74.389016,2017,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3616821,NJ,Ocean,Brick,Source1,3,40.10497,-74.13739,2017,20,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3617209,NJ,Ocean,Tuckerton,Source1,4,39.59264,-74.429001,2017,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3618404,NJ,Ocean,Forked River,Source1,4,39.859862,-74.221799,2017,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3627118,NJ,Ocean,Manchester Township,Source1,4,39.96902100000001,-74.379729,2017,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-3627119,NJ,Ocean,Manchester Township,Source1,4,39.969016,-74.379737,2017,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-3627829,NJ,Ocean,Bayville,Source1,4,39.92796,-74.17347,2017,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3629515,NJ,Ocean,Barnegat,Source1,4,39.79631,-74.37495,2017,8,Wednesday,Rain,False,False,False,False,False,False,False
+A-3629517,NJ,Ocean,Barnegat,Source1,4,39.81206,-74.41093000000002,2017,8,Wednesday,Rain,False,False,False,False,False,False,False
+A-3630431,NJ,Ocean,Tuckerton,Source1,4,39.59365,-74.43674,2017,1,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3632323,NJ,Ocean,Toms River,Source1,4,39.955111,-74.20666,2017,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3633015,NJ,Ocean,Tuckerton,Source1,3,39.62726,-74.38996,2017,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3633245,NJ,Ocean,Lakewood,Source1,3,40.06658,-74.16171,2017,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3634714,NJ,Ocean,Barnegat,Source1,3,39.75424,-74.25109,2017,15,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-3641919,NJ,Ocean,Lakehurst,Source1,4,40.01239,-74.32499,2017,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3641920,NJ,Ocean,Lakehurst,Source1,4,40.014899,-74.312251,2017,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3645550,NJ,Ocean,Manahawkin,Source1,3,39.71162,-74.28078000000002,2017,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3646082,NJ,Ocean,Lavallette,Source1,4,39.978565,-74.069273,2017,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3646543,NJ,Ocean,Tuckerton,Source1,4,39.65535,-74.34125,2017,0,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3646994,NJ,Ocean,Toms River,Source1,4,39.967728,-74.229424,2017,11,Friday,Cloudy,False,False,True,True,False,False,False
+A-3663719,NJ,Ocean,Brick,Source1,4,40.063562,-74.13689699999998,2023,17,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-3713026,NJ,Ocean,Jackson,Source1,4,40.154497,-74.35090500000003,2022,17,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-3750140,NJ,Ocean,Barnegat,Source1,4,39.812148,-74.41115699999997,2022,1,Monday,Sin dato,False,False,False,False,False,False,False
+A-3754689,NJ,Ocean,Mantoloking,Source1,4,40.0298,-74.052872,2022,1,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3942711,NJ,Ocean,Lakehurst,Source1,4,40.01293,-74.30601999999998,2022,15,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-3978922,NJ,Ocean,Lakewood,Source1,4,40.098761,-74.217973,2022,22,Saturday,Clear / Fair,True,True,False,False,False,True,False
+A-4005121,NJ,Ocean,Toms River,Source1,4,40.005925,-74.214609,2022,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4157976,NJ,Ocean,Lakewood,Source1,4,40.105825,-74.219327,2022,8,Wednesday,Rain,False,False,False,False,False,False,False
+A-4202302,NJ,Ocean,Lakewood,Source1,4,40.101674,-74.218538,2022,9,Wednesday,Rain,False,False,False,False,False,False,False
+A-4252105,NJ,Ocean,Mantoloking,Source1,4,40.027661,-74.053471,2022,1,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4257309,NJ,Ocean,Brick,Source1,4,40.08068,-74.14154599999998,2022,7,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-4266544,NJ,Ocean,Brick,Source1,4,40.06880164127317,-74.13062453234609,2022,7,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-4273297,NJ,Ocean,Brick,Source1,4,40.07788,-74.13649699999998,2022,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4293717,NJ,Ocean,Lakewood,Source1,4,40.105495,-74.219267,2022,8,Wednesday,Rain,False,False,False,False,False,False,False
+A-4318427,NJ,Ocean,Lakehurst,Source1,4,40.014265,-74.321646,2022,17,Friday,Sin dato,False,False,False,True,False,False,False
+A-4355859,NJ,Ocean,Brick,Source1,4,40.08068919162712,-74.14154648745469,2022,7,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-4448021,NJ,Ocean,Lakewood,Source1,4,40.078488,-74.220973,2022,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4458957,NJ,Ocean,Lakehurst,Source1,4,40.01477,-74.311472,2022,21,Friday,Clear / Fair,True,True,False,False,False,False,False
+A-4487241,NJ,Ocean,Tuckerton,Source1,4,39.608364,-74.327985,2022,0,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4612600,NJ,Ocean,Toms River,Source1,4,40.028286,-74.223327,2022,0,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-4612601,NJ,Ocean,Toms River,Source1,4,40.028286,-74.223327,2022,0,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-4624742,NJ,Ocean,Lakewood,Source1,4,40.106199,-74.219391,2022,9,Wednesday,Rain,True,False,False,False,False,False,False
+A-4642367,NJ,Ocean,Brick,Source1,4,40.070494,-74.131873,2022,7,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-4697389,NJ,Ocean,Toms River,Source1,4,39.995665,-74.277872,2022,14,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-4759933,NJ,Ocean,Brick,Source1,4,40.078435,-74.136876,2022,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4810202,NJ,Ocean,Brick,Source1,4,40.068814,-74.130622,2022,7,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-4811008,NJ,Ocean,Toms River,Source1,4,39.951926,-74.198607,2023,16,Monday,Sin dato,True,True,False,False,False,False,False
+A-4825160,NJ,Ocean,Forked River,Source1,4,39.847224,-74.185998,2023,18,Monday,Sin dato,False,False,False,False,False,False,False
+A-4903639,NJ,Ocean,Toms River,Source1,4,39.950584,-74.134165,2022,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4943666,NJ,Ocean,Brick,Source1,4,40.075768,-74.135181,2022,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4949866,NJ,Ocean,Lakehurst,Source1,4,40.014824,-74.31313,2022,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4972106,NJ,Ocean,Brick,Source1,4,40.07843613605461,-74.13686871493273,2022,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4978471,NJ,Ocean,Tuckerton,Source1,4,39.607757,-74.32866,2022,0,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4990631,NJ,Ocean,Toms River,Source1,4,40.030068,-74.224028,2022,0,Saturday,Snow / Ice,True,False,False,False,False,False,False
+A-4990632,NJ,Ocean,Toms River,Source1,4,40.029591,-74.223836,2022,0,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-5055395,NJ,Ocean,Manahawkin,Source1,4,39.698138,-74.257552,2022,17,Tuesday,Sin dato,False,True,False,False,False,False,False
+A-5055396,NJ,Ocean,Manahawkin,Source1,4,39.700448,-74.256378,2022,17,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-5072858,NJ,Ocean,Lakewood,Source1,4,40.095792,-74.21740799999998,2022,22,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-5086090,NJ,Ocean,Lakewood,Source1,4,40.103236,-74.21883299999998,2022,8,Wednesday,Rain,True,False,False,False,False,False,False
+A-5092666,NJ,Ocean,Manchester Township,Source1,4,40.00644000000001,-74.298247,2022,8,Friday,Sin dato,False,False,False,False,False,False,False
+A-5165418,NJ,Ocean,Lavallette,Source1,4,39.975791,-74.069704,2022,16,Friday,Sin dato,False,False,False,False,False,False,False
+A-5165494,NJ,Ocean,Brick,Source1,4,40.075715,-74.105376,2022,23,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-5233498,NJ,Ocean,Whiting,Source1,4,39.978304,-74.3662,2022,22,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5237872,NJ,Ocean,Tuckerton,Source1,4,39.596991,-74.38315,2022,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5276399,NJ,Ocean,Lakewood,Source1,4,40.078833,-74.216565,2022,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5283446,NJ,Ocean,Manchester Township,Source1,4,39.977224,-74.36756899999997,2022,22,Thursday,Cloudy,True,False,False,False,False,False,False
+A-5298485,NJ,Ocean,Brick,Source1,4,40.078435,-74.136876,2022,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5300920,NJ,Ocean,Toms River,Source1,4,39.952076,-74.19894000000002,2023,16,Monday,Sin dato,False,True,False,False,False,False,False
+A-5319440,NJ,Ocean,Manchester Township,Source1,4,40.00644000000001,-74.298247,2022,8,Friday,Sin dato,False,False,False,False,False,False,False
+A-5353426,NJ,Ocean,Brick,Source1,4,40.075895,-74.104512,2022,23,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5379230,NJ,Ocean,Forked River,Source1,4,39.846941,-74.186212,2023,18,Monday,Sin dato,True,False,False,False,False,False,False
+A-5410788,NJ,Ocean,Brick,Source1,4,40.081247091102206,-74.13843512499743,2022,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5441000,NJ,Ocean,Brick,Source1,4,40.080091,-74.140589,2022,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5524673,NJ,Ocean,Brick,Source1,4,40.069614,-74.127062,2021,22,Saturday,Cloudy,True,False,False,False,False,False,False
+A-5544833,NJ,Ocean,Toms River,Source1,4,39.94923949222589,-74.11478877032226,2021,11,Monday,Clear / Fair,False,True,False,False,False,False,False
+A-5545472,NJ,Ocean,Lakewood,Source1,4,40.077401,-74.21678,2021,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5561362,NJ,Ocean,Bayville,Source1,4,39.914988,-74.154423,2021,22,Friday,Sin dato,False,False,False,False,False,False,False
+A-5581952,NJ,Ocean,Manahawkin,Source1,4,39.730365,-74.294077,2021,18,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-5598377,NJ,Ocean,Brick,Source1,4,40.056573,-74.15481899999997,2021,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5628941,NJ,Ocean,Barnegat,Source1,4,39.780656,-74.339292,2021,18,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-5628942,NJ,Ocean,Barnegat,Source1,4,39.7806465623866,-74.33927893603163,2021,18,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-5661766,NJ,Ocean,Lakewood,Source1,4,40.088642,-74.184335,2021,17,Wednesday,Rain,False,False,False,False,False,False,False
+A-5677322,NJ,Ocean,Lakewood,Source1,4,40.074178,-74.21735,2021,21,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-5677323,NJ,Ocean,Lakewood,Source1,4,40.074178,-74.21735,2021,21,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-5696869,NJ,Ocean,Toms River,Source1,4,40.005233,-74.214332,2021,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5703300,NJ,Ocean,Toms River,Source1,4,40.037378,-74.242595,2021,7,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-5712467,NJ,Ocean,Brick,Source1,4,40.061622,-74.15408000000002,2021,0,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5856568,NJ,Ocean,Toms River,Source1,4,40.030068,-74.224028,2021,17,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-5856569,NJ,Ocean,Toms River,Source1,4,40.029591,-74.223836,2021,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5866011,NJ,Ocean,Barnegat,Source1,4,39.770214,-74.325471,2021,22,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5889198,NJ,Ocean,Lakewood,Source1,4,40.084809,-74.175185,2021,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5899740,NJ,Ocean,Lakewood,Source1,4,40.090664,-74.198318,2021,19,Wednesday,Rain,False,False,False,False,False,False,False
+A-5906319,NJ,Ocean,Lakewood,Source1,4,40.09051,-74.19364499999998,2021,17,Wednesday,Rain,False,False,False,False,False,False,False
+A-5970790,NJ,Ocean,Brick,Source1,4,40.045292,-74.093875,2021,9,Saturday,Clear / Fair,False,True,False,False,False,False,False
+A-6149872,NJ,Ocean,Lavallette,Source1,4,39.968974,-74.070828,2021,13,Thursday,Sin dato,True,False,False,False,False,True,False
+A-6163983,NJ,Ocean,Lakewood,Source1,4,40.094829,-74.217224,2021,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6164635,NJ,Ocean,Lakewood,Source1,4,40.06412386875122,-74.16000008547707,2021,0,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-6207313,NJ,Ocean,Lakewood,Source1,4,40.093858,-74.217044,2021,22,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-6213922,NJ,Ocean,Barnegat,Source1,4,39.796458,-74.375349,2021,18,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-6250499,NJ,Ocean,Brick,Source1,4,40.045416,-74.090317,2021,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6270310,NJ,Ocean,Lakewood,Source1,4,40.08568,-74.176819,2021,17,Wednesday,Rain,True,False,False,False,False,False,False
+A-6271620,NJ,Ocean,Manchester Township,Source1,4,39.957365,-74.41520899999998,2021,16,Thursday,Sin dato,False,False,False,False,False,False,False
+A-6294852,NJ,Ocean,Toms River,Source1,4,40.003517,-74.213649,2021,5,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-6345918,NJ,Ocean,Manchester Township,Source1,4,39.95235,-74.466587,2021,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6396355,NJ,Ocean,Toms River,Source1,4,39.968906,-74.208152,2021,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6476039,NJ,Ocean,Manchester Township,Source1,4,39.955923,-74.446404,2021,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6696036,NJ,Ocean,Barnegat,Source1,4,39.811182,-74.408922,2020,1,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6744611,NJ,Ocean,Little Egg Harbor Twp,Source1,4,39.62592100000001,-74.315117,2020,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6760673,NJ,Ocean,Lanoka Harbor,Source1,4,39.864444,-74.171351,2020,14,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-6779417,NJ,Ocean,Lakewood,Source1,4,40.05285,-74.17987600000002,2020,5,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6795679,NJ,Ocean,Jackson,Source1,4,40.154803,-74.34608100000001,2020,23,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6800522,NJ,Ocean,Toms River,Source1,4,40.03443400000001,-74.24824699999998,2020,2,Friday,Rain,False,False,False,False,False,False,False
+A-6903323,NJ,Ocean,Little Egg Harbor Twp,Source1,4,39.62592100000001,-74.315117,2020,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6907976,NJ,Ocean,Lanoka Harbor,Source1,4,39.864444,-74.171351,2020,14,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-6992191,NJ,Ocean,Toms River,Source1,3,39.96141,-74.20636999999998,2020,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6993554,NJ,Ocean,Brick,Source1,3,40.05896,-74.14745,2020,16,Monday,Cloudy,False,True,False,False,False,False,False
+A-6995623,NJ,Ocean,Lakewood,Source1,3,40.05305,-74.17889,2020,14,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-6995625,NJ,Ocean,Lakewood,Source1,3,40.05305,-74.17889,2020,15,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-6998033,NJ,Ocean,Seaside Heights,Source1,3,39.94344,-74.09128,2020,18,Wednesday,Cloudy,False,True,False,False,False,False,False
+A-6998047,NJ,Ocean,Seaside Heights,Source1,3,39.94333,-74.09133,2020,18,Wednesday,Cloudy,False,True,False,False,False,False,False
+A-6998061,NJ,Ocean,Seaside Heights,Source1,3,39.94333,-74.09133,2020,18,Wednesday,Cloudy,False,True,False,False,False,False,False
+A-6998063,NJ,Ocean,Seaside Heights,Source1,3,39.94344,-74.09128,2020,18,Wednesday,Cloudy,False,True,False,False,False,False,False
+A-7000448,NJ,Ocean,Lakewood,Source1,3,40.08643,-74.21534,2020,18,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7000462,NJ,Ocean,Lakewood,Source1,3,40.08643,-74.21534,2020,18,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7000484,NJ,Ocean,Lakewood,Source1,3,40.08173,-74.15767,2020,20,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7008110,NJ,Ocean,Lakewood,Source1,4,40.06876,-74.16707,2020,23,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-7008111,NJ,Ocean,Brick,Source1,4,40.05896,-74.14745,2020,23,Saturday,Clear / Fair,False,True,False,False,False,False,False
+A-7008142,NJ,Ocean,Brick,Source1,4,40.05896,-74.14745,2020,0,Sunday,Cloudy,False,True,False,False,False,False,False
+A-7008143,NJ,Ocean,Lakewood,Source1,4,40.06876,-74.16707,2020,0,Sunday,Cloudy,True,False,False,False,False,False,False
+A-7008144,NJ,Ocean,Brick,Source1,4,40.05896,-74.14745,2020,0,Sunday,Cloudy,False,True,False,False,False,False,False
+A-7009563,NJ,Ocean,Lakewood,Source1,3,40.05014,-74.19895,2020,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7009568,NJ,Ocean,Lakewood,Source1,3,40.05014,-74.19895,2020,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7009602,NJ,Ocean,Lakewood,Source1,3,40.05014,-74.19895,2020,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7014112,NJ,Ocean,Seaside Park,Source1,4,39.93738,-74.0801,2020,22,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7014114,NJ,Ocean,Seaside Park,Source1,4,39.93726,-74.07698,2020,22,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7014119,NJ,Ocean,Seaside Park,Source1,4,39.93738,-74.0801,2020,23,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7014120,NJ,Ocean,Seaside Park,Source1,4,39.93726,-74.07698,2020,23,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7016534,NJ,Ocean,Barnegat,Source1,3,39.7951,-74.37427,2020,20,Friday,Rain,False,False,False,False,False,False,False
+A-7016555,NJ,Ocean,Barnegat,Source1,3,39.79516,-74.37428,2020,22,Friday,Rain,False,False,False,False,False,False,False
+A-7016560,NJ,Ocean,Barnegat,Source1,3,39.7951,-74.37427,2020,21,Friday,Rain,False,False,False,False,False,False,False
+A-7016575,NJ,Ocean,Barnegat,Source1,3,39.7951,-74.37427,2020,22,Friday,Rain,False,False,False,False,False,False,False
+A-7021734,NJ,Ocean,Lakewood,Source1,3,40.08559,-74.17697,2020,17,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-7023975,NJ,Ocean,Lakewood,Source1,3,40.09189,-74.21667,2020,16,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-7030494,NJ,Ocean,Toms River,Source1,3,39.94218,-74.20895,2020,18,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7030501,NJ,Ocean,Toms River,Source1,3,39.94218,-74.20895,2020,18,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7042343,NJ,Ocean,Toms River,Source1,4,39.93445,-74.23024000000002,2020,11,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7042534,NJ,Ocean,Manahawkin,Source1,4,39.72654,-74.29109,2020,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7045236,NJ,Ocean,Lakewood,Source1,3,40.08643,-74.21534,2020,18,Friday,Cloudy,True,False,False,False,False,False,False
+A-7049215,NJ,Ocean,Lakewood,Source1,3,40.08988,-74.21627,2020,16,Monday,Clear / Fair,True,True,False,False,False,False,False
+A-7051712,NJ,Ocean,Manchester Township,Source1,4,39.97723,-74.36757,2020,10,Tuesday,Fog / Low visibility,True,False,False,False,False,False,False
+A-7054696,NJ,Ocean,Barnegat,Source1,3,39.75328,-74.22310999999998,2020,17,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7054728,NJ,Ocean,Barnegat,Source1,3,39.75328,-74.22310999999998,2020,17,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7057250,NJ,Ocean,Toms River,Source1,3,40.00024000000001,-74.21239,2020,16,Thursday,Rain,True,False,False,False,False,False,False
+A-7057309,NJ,Ocean,Toms River,Source1,3,40.04271,-74.2323,2020,17,Thursday,Rain,True,True,False,False,False,False,False
+A-7057365,NJ,Ocean,Toms River,Source1,3,39.99152,-74.21121,2020,18,Thursday,Rain,False,False,False,False,False,False,False
+A-7057366,NJ,Ocean,Toms River,Source1,3,39.96348,-74.20321,2020,18,Thursday,Rain,False,False,False,False,False,False,False
+A-7057371,NJ,Ocean,Toms River,Source1,3,39.96141,-74.20636999999998,2020,18,Thursday,Rain,False,False,False,False,False,False,False
+A-7059899,NJ,Ocean,Brick,Source1,3,40.09738,-74.14263000000003,2020,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-7060005,NJ,Ocean,Lakewood,Source1,3,40.08773,-74.2136,2020,15,Friday,Cloudy,True,False,False,False,False,False,False
+A-7060022,NJ,Ocean,Lakewood,Source1,3,40.05037,-74.19669,2020,15,Friday,Cloudy,True,False,False,True,False,False,False
+A-7060033,NJ,Ocean,Point Pleasant Boro,Source1,3,40.07943,-74.08758,2020,16,Friday,Cloudy,True,True,False,False,False,False,False
+A-7060073,NJ,Ocean,Lakewood,Source1,3,40.05037,-74.19669,2020,16,Friday,Cloudy,True,False,False,True,False,False,False
+A-7060113,NJ,Ocean,Point Pleasant Boro,Source1,3,40.07943,-74.08758,2020,16,Friday,Cloudy,True,True,False,False,False,False,False
+A-7060143,NJ,Ocean,Lakewood,Source1,4,40.05305,-74.17889,2020,17,Friday,Cloudy,True,False,False,False,False,False,False
+A-7062837,NJ,Ocean,Seaside Heights,Source1,3,39.94437,-74.09546999999998,2020,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7062867,NJ,Ocean,Brick,Source1,3,40.07342,-74.15677,2020,17,Saturday,Rain,False,False,False,False,False,False,False
+A-7062868,NJ,Ocean,Brick,Source1,3,40.07342,-74.15677,2020,17,Saturday,Rain,False,False,False,False,False,False,False
+A-7062870,NJ,Ocean,Lakewood,Source1,4,40.06562,-74.16207,2020,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7062883,NJ,Ocean,Lakewood,Source1,4,40.06562,-74.16207,2020,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7064376,NJ,Ocean,Lakewood,Source1,3,40.07414,-74.21735,2020,16,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-7065692,NJ,Ocean,Lakewood,Source1,3,40.05014,-74.19895,2020,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7065746,NJ,Ocean,Seaside Heights,Source1,3,39.94333,-74.09133,2020,11,Monday,Clear / Fair,False,True,False,False,False,False,False
+A-7068165,NJ,Ocean,Jackson,Source1,3,40.15546,-74.3041,2020,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-7068168,NJ,Ocean,Millstone Township,Source1,3,40.16187,-74.42171,2020,16,Friday,Cloudy,False,False,False,True,False,False,False
+A-7070748,NJ,Ocean,Toms River,Source1,3,39.96341,-74.18741,2020,17,Sunday,Cloudy,True,True,False,False,False,False,False
+A-7070759,NJ,Ocean,Waretown,Source1,3,39.79156,-74.23769,2020,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7070774,NJ,Ocean,Waretown,Source1,3,39.78992,-74.24005,2020,19,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7070776,NJ,Ocean,Waretown,Source1,3,39.79156,-74.23769,2020,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7072168,NJ,Ocean,Toms River,Source1,3,39.96141,-74.20636999999998,2020,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7074699,NJ,Ocean,Lakewood,Source1,3,40.0486,-74.20945,2020,16,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-7074865,NJ,Ocean,Lakewood,Source1,4,40.08988,-74.21627,2020,0,Wednesday,Clear / Fair,True,True,False,False,False,False,False
+A-7074867,NJ,Ocean,Lakewood,Source1,4,40.09195,-74.21668000000003,2020,0,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7079931,NJ,Ocean,Jackson,Source1,3,40.15546,-74.3041,2020,14,Thursday,Rain,False,False,False,False,False,False,False
+A-7079944,NJ,Ocean,Jackson,Source1,3,40.15546,-74.3041,2020,14,Thursday,Rain,False,False,False,False,False,False,False
+A-7080107,NJ,Ocean,Lakewood,Source1,3,40.05343,-74.22081,2020,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7082411,NJ,Ocean,Manchester Township,Source1,4,39.97723,-74.36757,2020,4,Friday,Cloudy,True,False,False,False,False,False,False
+A-7082619,NJ,Ocean,Lakewood,Source1,3,40.07935,-74.21647,2020,15,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7085392,NJ,Ocean,Waretown,Source1,3,39.80835,-74.19915,2020,12,Saturday,Clear / Fair,True,True,False,False,False,False,False
+A-7085409,NJ,Ocean,Waretown,Source1,3,39.80835,-74.19915,2020,12,Saturday,Clear / Fair,True,True,False,False,False,False,False
+A-7086954,NJ,Ocean,Lakewood,Source1,3,40.08643,-74.21534,2020,17,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-7086955,NJ,Ocean,Lakewood,Source1,3,40.08643,-74.21534,2020,17,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-7091232,NJ,Ocean,Brick,Source1,3,40.08794,-74.10213,2020,17,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-7091293,NJ,Ocean,Lakewood,Source1,4,40.07236,-74.21764,2020,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7096285,NJ,Ocean,Toms River,Source1,3,39.94218,-74.20895,2020,9,Thursday,Rain,False,False,True,False,False,False,False
+A-7096363,NJ,Ocean,Lakewood,Source1,3,40.05305,-74.17889,2020,13,Thursday,Cloudy,True,False,False,False,False,False,False
+A-7103483,NJ,Ocean,Tuckerton,Source1,3,39.64167,-74.33972,2020,8,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7103484,NJ,Ocean,Little Egg Harbor Twp,Source1,3,39.61002,-74.34096,2020,8,Sunday,Cloudy,True,False,False,False,False,False,False
+A-7103617,NJ,Ocean,Brick,Source1,4,40.08794,-74.10213,2020,22,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-7111934,NJ,Ocean,Lakewood,Source1,4,40.09006,-74.21431,2020,5,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7111935,NJ,Ocean,Lakewood,Source1,4,40.08988,-74.21627,2020,5,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-7137813,NJ,Ocean,Bayville,Source1,3,39.89249,-74.21209,2020,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7137822,NJ,Ocean,Bayville,Source1,3,39.89251,-74.21209,2020,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7137825,NJ,Ocean,Bayville,Source1,3,39.89249,-74.21209,2020,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7137831,NJ,Ocean,Bayville,Source1,3,39.89251,-74.21209,2020,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7144387,NJ,Ocean,Toms River,Source1,3,39.94217,-74.20881999999997,2020,5,Monday,Cloudy,False,False,True,False,False,False,False
+A-7144390,NJ,Ocean,Toms River,Source1,3,39.94217,-74.20881999999997,2020,5,Monday,Cloudy,False,False,True,False,False,False,False
+A-7163477,NJ,Ocean,Forked River,Source1,4,39.87069,-74.21552,2020,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7163552,NJ,Ocean,Forked River,Source1,3,39.87069,-74.21552,2020,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7163562,NJ,Ocean,Forked River,Source1,3,39.87069,-74.21552,2020,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7163564,NJ,Ocean,Forked River,Source1,3,39.87069,-74.21552,2020,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7175611,NJ,Ocean,Brick,Source1,3,40.03253,-74.14335,2020,15,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-7175679,NJ,Ocean,Brick,Source1,3,40.03273,-74.14331999999997,2020,16,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-7179800,NJ,Ocean,Lakewood,Source1,3,40.05401,-74.17215999999998,2020,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7179801,NJ,Ocean,Lakewood,Source1,4,40.05336,-74.17663,2020,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7179827,NJ,Ocean,Lakewood,Source1,3,40.05401,-74.17215999999998,2020,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7179842,NJ,Ocean,Lakewood,Source1,3,40.05401,-74.17215999999998,2020,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7184018,NJ,Ocean,Toms River,Source1,3,39.96144,-74.20636999999998,2020,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7184122,NJ,Ocean,Toms River,Source1,4,39.95198,-74.15214,2020,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7184132,NJ,Ocean,Toms River,Source1,4,39.95198,-74.15214,2020,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7195206,NJ,Ocean,Lakewood,Source1,3,40.05432,-74.22068,2020,14,Friday,Rain,True,False,False,False,False,False,False
+A-7195246,NJ,Ocean,Lakewood,Source1,3,40.05432,-74.22068,2020,14,Friday,Rain,True,False,False,False,False,False,False
+A-7198667,NJ,Ocean,Lakewood,Source1,3,40.07935,-74.21647,2020,14,Sunday,Rain,True,False,False,False,False,False,False
+A-7201977,NJ,Ocean,Brick,Source1,3,40.09731,-74.14241,2020,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7201982,NJ,Ocean,Brick,Source1,3,40.09731,-74.14241,2020,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7204253,NJ,Ocean,Toms River,Source1,3,39.96348,-74.20321,2020,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7204256,NJ,Ocean,Toms River,Source1,3,39.96334,-74.20324000000002,2020,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7204266,NJ,Ocean,Toms River,Source1,3,39.96348,-74.20321,2020,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7216357,NJ,Ocean,Brick,Source1,3,40.08967,-74.14735,2020,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-7216423,NJ,Ocean,Bayville,Source1,4,39.89624,-74.15823,2020,0,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7216424,NJ,Ocean,Bayville,Source1,4,39.89969,-74.15612,2020,0,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7217923,NJ,Ocean,Bayville,Source1,4,39.89969,-74.15612,2020,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7217924,NJ,Ocean,Bayville,Source1,4,39.89624,-74.15823,2020,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7217928,NJ,Ocean,Bayville,Source1,4,39.89969,-74.15612,2020,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7217929,NJ,Ocean,Bayville,Source1,4,39.89624,-74.15823,2020,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7231735,NJ,Ocean,Brick,Source1,3,40.09519,-74.14361,2020,19,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7238705,NJ,Ocean,Toms River,Source1,4,39.96338,-74.20357,2020,5,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7247338,NJ,Ocean,Brick,Source1,4,40.05812,-74.1454,2020,13,Monday,Clear / Fair,True,True,False,False,False,False,False
+A-7283292,NJ,Ocean,Brick,Source1,4,40.07836,-74.11699,2020,23,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7308832,NJ,Ocean,Lakewood,Source1,4,40.09729,-74.2177,2019,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7308835,NJ,Ocean,Lakewood,Source1,4,40.09729,-74.2177,2019,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7308837,NJ,Ocean,Lakewood,Source1,4,40.09048,-74.21639,2019,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7326058,NJ,Ocean,Brick,Source1,3,40.10437,-74.13766,2019,7,Thursday,Rain,False,False,False,False,False,False,False
+A-7339803,NJ,Ocean,Toms River,Source1,4,39.99392,-74.27441,2019,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-7339807,NJ,Ocean,Toms River,Source1,4,39.99392,-74.27441,2019,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-7385806,NJ,Ocean,Toms River,Source1,3,39.96341,-74.18741,2019,18,Tuesday,Clear / Fair,True,True,False,False,False,False,False
+A-7397279,NJ,Ocean,Toms River,Source1,3,39.94217,-74.20881999999997,2019,8,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7406938,NJ,Ocean,Brick,Source1,4,40.05456,-74.13955,2019,8,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-7406939,NJ,Ocean,Brick,Source1,4,40.05731,-74.13754,2019,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7406964,NJ,Ocean,Toms River,Source1,3,39.99349,-74.208545,2019,19,Wednesday,Rain,False,False,False,False,False,False,False
+A-7409514,NJ,Ocean,Toms River,Source1,3,39.9636,-74.19930500000002,2019,15,Friday,Rain,False,False,False,False,False,False,False
+A-7416008,NJ,Ocean,Jackson,Source1,4,40.08245,-74.28864,2019,14,Thursday,Cloudy,True,False,False,False,False,False,False
+A-7416009,NJ,Ocean,Jackson,Source1,4,40.08651500000001,-74.304294,2019,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7417371,NJ,Ocean,Toms River,Source1,4,40.035854,-74.245531,2019,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-7417372,NJ,Ocean,Toms River,Source1,4,40.03727,-74.24285,2019,12,Friday,Cloudy,True,False,False,False,False,False,False
+A-7423845,NJ,Ocean,Toms River,Source1,3,39.95637,-74.20648,2019,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7430806,NJ,Ocean,Waretown,Source1,3,39.79578,-74.23659,2019,21,Thursday,Rain,False,False,False,False,False,False,False
+A-7431329,NJ,Ocean,Brick,Source1,3,40.07452,-74.15648,2019,10,Friday,Rain,False,False,True,False,False,False,False
+A-7433561,NJ,Ocean,Brick,Source1,3,40.07452,-74.15648,2019,19,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7444454,NJ,Ocean,Forked River,Source1,3,39.8526,-74.18191999999998,2019,19,Monday,Cloudy,True,False,False,False,False,False,False
+A-7444455,NJ,Ocean,Forked River,Source1,3,39.8526,-74.18191999999998,2019,19,Monday,Cloudy,True,False,False,False,False,False,False
+A-7454025,NJ,Ocean,Brick,Source1,4,40.07807,-74.15594,2019,0,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7454801,NJ,Ocean,Toms River,Source1,3,39.95637,-74.20648,2019,1,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7454802,NJ,Ocean,Toms River,Source1,3,39.95637,-74.20648,2019,1,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7476227,NJ,Ocean,Lakewood,Source1,3,40.053435,-74.176138,2018,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7477090,NJ,Ocean,Barnegat,Source1,4,39.750551,-74.22461,2018,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7477091,NJ,Ocean,Barnegat,Source1,4,39.751596,-74.22381999999998,2018,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7479442,NJ,Ocean,Lakewood,Source1,4,40.093875,-74.217061,2018,17,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-7479443,NJ,Ocean,Lakewood,Source1,4,40.097339,-74.21771,2018,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7480780,NJ,Ocean,Manahawkin,Source1,4,39.715099,-74.248262,2018,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7480781,NJ,Ocean,Manahawkin,Source1,4,39.705369,-74.253795,2018,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7491014,NJ,Ocean,Lakewood,Source1,4,40.0506,-74.1959,2018,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7491015,NJ,Ocean,Lakewood,Source1,4,40.05014,-74.19895,2018,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7491018,NJ,Ocean,Lakewood,Source1,4,40.051626,-74.188592,2018,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7495205,NJ,Ocean,Brick,Source1,4,40.018893,-74.14474,2018,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7496791,NJ,Ocean,Manchester Township,Source1,4,39.97921,-74.36536,2018,17,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-7496792,NJ,Ocean,Manchester Township,Source1,4,40.00503300000001,-74.342246,2018,17,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-7500022,NJ,Ocean,Lakewood,Source1,4,40.051626,-74.188592,2018,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7506960,NJ,Ocean,Lakewood,Source1,3,40.049561,-74.172679,2018,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7514015,NJ,Ocean,Lakewood,Source1,3,40.097068,-74.21766,2018,22,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7520650,NJ,Ocean,Brick,Source1,4,40.060217,-74.141504,2018,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7523194,NJ,Ocean,Toms River,Source1,3,39.9668,-74.20752,2018,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-7523624,NJ,Ocean,Brick,Source1,4,40.07836500000001,-74.092726,2018,2,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7523625,NJ,Ocean,Point Pleasant Boro,Source1,4,40.07943,-74.08758,2018,2,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-7523713,NJ,Ocean,Lakewood,Source1,4,40.090017,-74.214925,2018,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7523714,NJ,Ocean,Lakewood,Source1,4,40.08991,-74.21616999999998,2018,14,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-7526087,NJ,Ocean,Forked River,Source1,4,39.859862,-74.221799,2018,19,Saturday,Rain,False,False,False,False,False,False,False
+A-7528117,NJ,Ocean,Bayville,Source1,3,39.896177,-74.211708,2018,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-7533231,NJ,Ocean,Toms River,Source1,3,39.9668,-74.20752,2018,8,Monday,Rain,False,False,False,False,False,False,False
+A-7533273,NJ,Ocean,Lakewood,Source1,3,40.05421,-74.168,2018,13,Monday,Rain,False,False,False,False,False,False,False
+A-7534550,NJ,Ocean,Manahawkin,Source1,3,39.707602,-74.284817,2018,16,Wednesday,Rain,False,False,False,False,False,False,False
+A-7537426,NJ,Ocean,Bayville,Source1,3,39.91064,-74.21244200000002,2018,14,Tuesday,Storm,False,False,False,False,False,False,False
+A-7555960,NJ,Ocean,Toms River,Source1,4,39.965862,-74.219192,2018,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7555970,NJ,Ocean,Toms River,Source1,4,39.967447,-74.228501,2018,13,Monday,Clear / Fair,True,True,False,False,False,False,False
+A-7559487,NJ,Ocean,Little Egg Harbor Twp,Source1,4,39.597,-74.38353000000002,2018,16,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7559488,NJ,Ocean,Little Egg Harbor Twp,Source1,4,39.597,-74.38353000000002,2018,16,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7569925,NJ,Ocean,Beachwood,Source1,4,39.93788,-74.18748000000002,2018,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-7569926,NJ,Ocean,Beachwood,Source1,4,39.934588,-74.182457,2018,8,Monday,Cloudy,True,False,False,False,False,False,False
+A-7574758,NJ,Ocean,Brick,Source1,4,40.02310900000001,-74.14428000000002,2018,10,Sunday,Cloudy,False,True,False,False,False,False,False
+A-7585644,NJ,Ocean,Manchester,Source1,4,40.023997,-74.268439,2018,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7585645,NJ,Ocean,Manchester Township,Source1,4,40.01399,-74.288228,2018,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7587497,NJ,Ocean,Point Pleasant Boro,Source1,4,40.084181,-74.064052,2018,15,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-7587501,NJ,Ocean,Point Pleasant Beach,Source1,4,40.0829,-74.06833,2018,15,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-7597152,NJ,Ocean,Lavallette,Source1,4,39.969673,-74.07074399999998,2018,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7599315,NJ,Ocean,Lakewood,Source1,3,40.06658,-74.16171,2018,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7608280,NJ,Ocean,Barnegat,Source1,4,39.75328,-74.22310999999998,2018,19,Wednesday,Snow / Ice,True,False,False,False,False,False,False
+A-7608282,NJ,Ocean,Barnegat,Source1,4,39.74194,-74.23279000000002,2018,19,Wednesday,Snow / Ice,True,False,False,False,False,False,False
+A-7613974,NJ,Ocean,Brick,Source1,4,40.078265,-74.136744,2018,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-7613975,NJ,Ocean,Brick,Source1,4,40.08073,-74.14161,2018,18,Friday,Cloudy,True,False,False,False,False,False,False
+A-7621694,NJ,Ocean,Manahawkin,Source1,4,39.70816,-74.28248,2018,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-7627047,NJ,Ocean,Lakehurst,Source1,4,40.01239,-74.32499,2018,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7627049,NJ,Ocean,Lakehurst,Source1,4,40.013713,-74.323199,2018,22,Wednesday,Clear / Fair,False,False,False,True,False,False,False
+A-7630783,NJ,Ocean,Lakewood,Source1,3,40.06658,-74.16171,2018,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7633946,NJ,Ocean,Lakewood,Source1,4,40.097519,-74.217742,2018,10,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7633948,NJ,Ocean,Lakewood,Source1,4,40.09872,-74.21795999999998,2018,10,Wednesday,Snow / Ice,True,True,False,False,False,False,False
+A-7639319,NJ,Ocean,Lakewood,Source1,4,40.09872,-74.21795999999998,2018,12,Monday,Cloudy,True,True,False,False,False,False,False
+A-7641427,NJ,Ocean,Barnegat,Source1,4,39.81206,-74.41093000000002,2017,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7641428,NJ,Ocean,Barnegat,Source1,4,39.798878,-74.38079499999998,2017,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7648320,NJ,Ocean,Toms River,Source1,4,39.956625,-74.168352,2017,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7664284,NJ,Ocean,Toms River,Source1,3,39.985806,-74.259411,2017,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7667685,NJ,Ocean,Toms River,Source1,4,39.94217,-74.20881999999997,2017,16,Thursday,Sin dato,False,False,True,False,False,False,False
+A-7669062,NJ,Ocean,Barnegat,Source1,3,39.769927,-74.247151,2017,12,Monday,Rain,False,False,False,False,False,False,False
+A-7669091,NJ,Ocean,Lakewood,Source1,4,40.05349,-74.175747,2017,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-7669093,NJ,Ocean,Lakewood,Source1,4,40.051817,-74.18735699999998,2017,15,Monday,Cloudy,True,False,False,False,False,False,False
+A-7669105,NJ,Ocean,Lakewood,Source1,4,40.052973,-74.179377,2017,17,Monday,Cloudy,True,False,False,False,False,False,False
+A-7669109,NJ,Ocean,Lakewood,Source1,3,40.053175,-74.17795600000002,2017,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-7672847,NJ,Ocean,West Creek,Source1,4,39.657368,-74.28944200000002,2017,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7672848,NJ,Ocean,West Creek,Source1,4,39.665326,-74.28161899999998,2017,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7676789,NJ,Ocean,Manahawkin,Source1,4,39.728315,-74.240124,2017,1,Sunday,Sin dato,False,False,False,False,False,False,False
+A-7676790,NJ,Ocean,Barnegat,Source1,4,39.733122,-74.236965,2017,1,Sunday,Sin dato,False,False,False,False,False,False,False
+A-7676957,NJ,Ocean,Toms River,Source1,3,39.95516,-74.16487,2017,14,Monday,Sin dato,False,False,False,False,False,False,False
+A-7677338,NJ,Ocean,Bayville,Source1,4,39.89184,-74.16031,2017,15,Thursday,Cloudy,True,False,False,False,False,False,False
+A-7677339,NJ,Ocean,Bayville,Source1,4,39.87429,-74.16714,2017,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7677783,NJ,Ocean,Bayville,Source1,4,39.87429,-74.16714,2017,22,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7677784,NJ,Ocean,Bayville,Source1,4,39.89184,-74.16031,2017,22,Thursday,Cloudy,True,False,False,False,False,False,False
+A-7677786,NJ,Ocean,Bayville,Source1,4,39.87429,-74.16714,2017,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-7677787,NJ,Ocean,Bayville,Source1,4,39.89184,-74.16031,2017,5,Friday,Cloudy,True,False,False,False,False,False,False
+A-7678293,NJ,Ocean,Waretown,Source1,3,39.79578,-74.23659,2017,23,Saturday,Rain,False,False,False,False,False,False,False
+A-7690806,NJ,Ocean,Toms River,Source1,3,39.96338,-74.20357,2017,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7693304,NJ,Ocean,West Creek,Source1,3,39.670532,-74.280074,2017,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7693325,NJ,Ocean,Toms River,Source1,3,39.94525,-74.20841999999998,2017,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7707990,NJ,Ocean,Barnegat,Source1,3,39.75424,-74.25109,2019,4,Friday,Cloudy,False,False,True,False,False,False,False
+A-7708871,NJ,Ocean,Lakewood,Source1,4,40.05376,-74.173899,2019,19,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7712624,NJ,Ocean,Brick,Source1,4,40.075127,-74.108423,2019,1,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7712625,NJ,Ocean,Brick,Source1,4,40.075211,-74.108006,2019,1,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7715748,NJ,Ocean,Toms River,Source1,3,39.96348,-74.20321,2019,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7717803,NJ,Ocean,Tuckerton,Source1,3,39.650842,-74.351197,2019,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7724633,NJ,Ocean,Brick,Source1,3,40.06801,-74.131057,2019,6,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7724634,NJ,Ocean,Brick,Source1,3,40.06937,-74.13025,2019,6,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7730753,NJ,Ocean,Forked River,Source1,3,39.86254,-74.22036,2019,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7741271,NJ,Ocean,Manahawkin,Source1,3,39.70816,-74.28248,2019,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-7752869,NJ,Ocean,Toms River,Source1,3,39.99004,-74.26684,2019,14,Monday,Cloudy,True,False,False,False,False,False,False
+A-7754351,NJ,Ocean,Toms River,Source1,3,39.95227,-74.15401999999997,2019,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7756113,NJ,Ocean,Toms River,Source1,3,39.95637,-74.20648,2019,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7758216,NJ,Ocean,Lakewood,Source1,4,40.090818,-74.20409599999998,2019,3,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7758217,NJ,Ocean,Lakewood,Source1,4,40.090779,-74.200813,2019,3,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7761402,NJ,Ocean,Toms River,Source1,3,39.94999,-74.12571,2019,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7761665,NJ,Ocean,Brick,Source1,4,40.10497,-74.13739,2019,5,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7762076,NJ,Ocean,Toms River,Source1,4,40.044732,-74.22833100000003,2019,20,Monday,Storm,False,False,False,False,False,False,False
+A-7762077,NJ,Ocean,Toms River,Source1,4,40.043004,-74.231713,2019,20,Monday,Storm,False,True,False,False,False,False,False
+A-7764798,NJ,Ocean,Lakewood,Source1,4,40.089294,-74.216151,2019,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7765340,NJ,Ocean,Toms River,Source1,3,39.9668,-74.20752,2019,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-7768507,NJ,Ocean,Brick,Source1,4,40.06929,-74.13108000000003,2019,2,Sunday,Clear / Fair,False,False,False,False,False,True,False
+A-7768841,NJ,Ocean,Brick,Source1,3,40.09519,-74.143606,2019,10,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7772576,NJ,Ocean,Tuckerton,Source1,3,39.65535,-74.34125,2019,17,Tuesday,Cloudy,False,False,False,False,False,False,False

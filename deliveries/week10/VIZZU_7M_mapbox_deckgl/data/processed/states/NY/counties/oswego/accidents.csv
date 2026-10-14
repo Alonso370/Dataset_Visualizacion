@@ -1,0 +1,250 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-751066,NY,Oswego,Parish,Source2,3,43.457821,-76.119415,2022,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-760666,NY,Oswego,Parish,Source2,3,43.406879,-76.115639,2021,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-784000,NY,Oswego,Pulaski,Source2,3,43.552879,-76.114075,2021,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-790765,NY,Oswego,Hannibal,Source2,3,43.306,-76.579369,2021,7,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-877129,NY,Oswego,Sandy Creek,Source2,4,43.649231,-76.07952900000002,2021,17,Thursday,Cloudy,False,False,True,False,False,False,False
+A-959998,NY,Oswego,Parish,Source2,3,43.457821,-76.119415,2021,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1035046,NY,Oswego,Pulaski,Source2,3,43.552879,-76.114075,2021,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1569640,NY,Oswego,Pulaski,Source2,3,43.506786,-76.12133,2020,1,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-1570213,NY,Oswego,Parish,Source2,3,43.457821,-76.119415,2020,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1672211,NY,Oswego,Pulaski,Source2,3,43.506786,-76.12133,2020,23,Friday,Cloudy,False,False,False,False,False,False,False
+A-2200725,NY,Oswego,Pulaski,Source2,3,43.505947,-76.121216,2019,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2304348,NY,Oswego,Parish,Source2,3,43.40546,-76.11673,2019,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-2458004,NY,Oswego,Pulaski,Source2,3,43.552399,-76.113846,2018,13,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-3121930,NY,Oswego,Sandy Creek,Source2,3,43.64366500000001,-76.080338,2017,14,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3121932,NY,Oswego,Sandy Creek,Source2,3,43.64366500000001,-76.080338,2017,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3121934,NY,Oswego,Sandy Creek,Source2,3,43.64366500000001,-76.080338,2017,20,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3210089,NY,Oswego,Oswego,Source2,3,43.447102,-76.508408,2017,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3446472,NY,Oswego,Pulaski,Source1,4,43.56897,-76.11386,2016,6,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-3448623,NY,Oswego,Oswego,Source1,4,43.399123,-76.573578,2016,23,Friday,Cloudy,False,False,False,False,False,False,False
+A-3448624,NY,Oswego,Oswego,Source1,4,43.40873,-76.57845999999998,2016,23,Friday,Cloudy,False,False,False,False,False,False,False
+A-3450778,NY,Oswego,Pulaski,Source1,4,43.563973,-76.11399999999998,2016,16,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3457246,NY,Oswego,Pulaski,Source1,4,43.54181,-76.19329,2017,8,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-3457248,NY,Oswego,Mexico,Source1,4,43.51374000000001,-76.22322,2017,8,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-3458448,NY,Oswego,Oswego,Source1,4,43.435062,-76.56387,2017,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3458449,NY,Oswego,Oswego,Source1,4,43.412762,-76.577609,2017,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3467994,NY,Oswego,Phoenix,Source1,4,43.226812,-76.27443199999998,2016,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3467998,NY,Oswego,Phoenix,Source1,4,43.25101,-76.30521,2016,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3468079,NY,Oswego,Phoenix,Source1,4,43.25101,-76.30521,2016,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3484483,NY,Oswego,Oswego,Source1,4,43.478377,-76.35679300000002,2016,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-3484489,NY,Oswego,Oswego,Source1,4,43.47109,-76.38790999999998,2016,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-3486594,NY,Oswego,Fulton,Source1,4,43.34371,-76.4314,2016,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3486595,NY,Oswego,Fulton,Source1,4,43.35549,-76.43423,2016,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3560893,NY,Oswego,Fulton,Source1,4,43.291136,-76.39971800000002,2017,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-3560904,NY,Oswego,Fulton,Source1,4,43.294019,-76.40156999999998,2017,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-3571413,NY,Oswego,Phoenix,Source1,4,43.315657,-76.271686,2017,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3574764,NY,Oswego,Oswego,Source1,4,43.430255,-76.480097,2017,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-3583665,NY,Oswego,Fulton,Source1,4,43.318273,-76.435315,2017,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3583666,NY,Oswego,Fulton,Source1,4,43.324681,-76.44431999999998,2017,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3583671,NY,Oswego,Oswego,Source1,4,43.412919,-76.46645799999997,2017,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3585675,NY,Oswego,Hannibal,Source1,4,43.325922,-76.559828,2017,0,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3585676,NY,Oswego,Hannibal,Source1,4,43.32332,-76.56769,2017,0,Sunday,Cloudy,True,False,False,False,False,False,False
+A-3616184,NY,Oswego,Fulton,Source1,4,43.314832,-76.422335,2017,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-3616185,NY,Oswego,Fulton,Source1,4,43.316948,-76.433402,2017,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-3618399,NY,Oswego,Mexico,Source1,4,43.522299,-76.213308,2017,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3618400,NY,Oswego,Mexico,Source1,4,43.51363,-76.22357,2017,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3634852,NY,Oswego,Pulaski,Source1,4,43.50328,-76.12043,2017,0,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3634863,NY,Oswego,Pulaski,Source1,4,43.55346,-76.11385,2017,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3646639,NY,Oswego,Oswego,Source1,4,43.463445,-76.45689,2017,10,Thursday,Rain,False,False,False,False,False,False,False
+A-3646640,NY,Oswego,Oswego,Source1,4,43.463008,-76.468535,2017,10,Thursday,Rain,False,False,False,False,False,False,False
+A-3666332,NY,Oswego,Mexico,Source1,4,43.46237,-76.246236,2023,20,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-3729436,NY,Oswego,Phoenix,Source1,4,43.310538,-76.290181,2022,3,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3796761,NY,Oswego,Parish,Source1,4,43.435516,-76.118065,2022,2,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3816619,NY,Oswego,Constantia,Source1,4,43.249166,-76.009394,2022,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3820024,NY,Oswego,Pulaski,Source1,4,43.566666,-76.18757,2022,12,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-3838250,NY,Oswego,Parish,Source1,4,43.420296,-76.15872900000002,2022,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3840236,NY,Oswego,Pulaski,Source1,4,43.568081,-76.187281,2022,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3890215,NY,Oswego,Fulton,Source1,4,43.273335,-76.38846,2022,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3893751,NY,Oswego,Mexico,Source1,4,43.512593,-76.245498,2022,8,Saturday,Sin dato,False,False,False,False,False,False,False
+A-3904563,NY,Oswego,Fulton,Source1,4,43.29958,-76.405405,2022,3,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3916360,NY,Oswego,Parish,Source1,4,43.45727,-76.145199,2022,17,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-3918847,NY,Oswego,Parish,Source1,4,43.458229,-76.10759499999998,2022,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3964904,NY,Oswego,Oswego,Source1,4,43.46044000000001,-76.49709399999998,2022,17,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-3984413,NY,Oswego,Central Square,Source1,4,43.276582,-76.144743,2023,21,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-4048119,NY,Oswego,Mexico,Source1,4,43.513188,-76.232611,2022,8,Saturday,Sin dato,False,False,False,False,False,False,False
+A-4103813,NY,Oswego,Fulton,Source1,4,43.315349,-76.420688,2022,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4183434,NY,Oswego,Pulaski,Source1,4,43.572081,-76.186577,2022,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4184644,NY,Oswego,Parish,Source1,4,43.45727,-76.145199,2022,16,Monday,Cloudy,True,False,False,False,False,False,False
+A-4201464,NY,Oswego,Fulton,Source1,4,43.275709,-76.390202,2022,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4223215,NY,Oswego,Pulaski,Source1,4,43.571038,-76.186714,2022,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4269358,NY,Oswego,Fulton,Source1,4,43.275709,-76.390202,2022,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4296436,NY,Oswego,Oswego,Source1,4,43.465487,-76.428519,2022,20,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-4321785,NY,Oswego,Mexico,Source1,4,43.479259000000006,-76.328284,2022,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-4355599,NY,Oswego,Oswego,Source1,4,43.479176,-76.330935,2022,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4367901,NY,Oswego,Pulaski,Source1,4,43.540452,-76.126547,2022,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4390700,NY,Oswego,Mexico,Source1,4,43.456117,-76.17996099999998,2022,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-4424393,NY,Oswego,West Monroe,Source1,4,43.278493,-76.05776999999998,2022,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4456901,NY,Oswego,Oswego,Source1,4,43.460369,-76.49825600000001,2022,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4474896,NY,Oswego,Parish,Source1,4,43.457792,-76.115719,2022,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4536577,NY,Oswego,West Monroe,Source1,4,43.278493,-76.05776999999998,2022,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4540078,NY,Oswego,Mexico,Source1,4,43.512593,-76.245498,2022,8,Saturday,Sin dato,False,False,False,False,False,False,False
+A-4560181,NY,Oswego,Fulton,Source1,4,43.275709,-76.390202,2022,3,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4579122,NY,Oswego,Cleveland,Source1,4,43.233127,-75.87915600000002,2022,1,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4581431,NY,Oswego,Cleveland,Source1,4,43.232344,-75.883478,2022,1,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4603891,NY,Oswego,Pulaski,Source1,4,43.566629,-76.186603,2022,12,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-4635428,NY,Oswego,Oswego,Source1,4,43.465716,-76.413675,2022,20,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-4647804,NY,Oswego,Phoenix,Source1,4,43.32423,-76.287817,2022,3,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-4668765,NY,Oswego,Oswego,Source1,4,43.479475,-76.32314699999998,2022,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-4675194,NY,Oswego,Pulaski,Source1,4,43.566666,-76.18757,2022,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4756541,NY,Oswego,Central Square,Source1,4,43.263146,-76.143209,2023,21,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-4817666,NY,Oswego,West Monroe,Source1,4,43.280828,-76.066715,2023,15,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-4853304,NY,Oswego,Oswego,Source1,4,43.465392,-76.43061,2022,20,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-4864673,NY,Oswego,Altmar,Source1,4,43.528743,-76.039097,2022,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4978460,NY,Oswego,West Monroe,Source1,4,43.280828,-76.066715,2022,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5101204,NY,Oswego,Phoenix,Source1,4,43.25241208,-76.30596042,2022,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5117236,NY,Oswego,Pulaski,Source1,4,43.561029,-76.149303,2022,12,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-5132010,NY,Oswego,Oswego,Source1,4,43.465392,-76.43061,2022,20,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-5297262,NY,Oswego,Oswego,Source1,4,43.45160900000001,-76.532043,2022,15,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-5301476,NY,Oswego,Mexico,Source1,4,43.512546,-76.246347,2022,8,Saturday,Sin dato,False,False,False,False,False,False,False
+A-5372085,NY,Oswego,Fulton,Source1,4,43.316114,-76.418353,2022,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5408397,NY,Oswego,Central Square,Source1,4,43.268632,-76.131025,2023,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5457398,NY,Oswego,Parish,Source1,4,43.458229,-76.10759499999998,2022,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5467990,NY,Oswego,Oswego,Source1,4,43.429367,-76.47837700000002,2021,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5509469,NY,Oswego,Sandy Creek,Source1,4,43.653425,-76.078283,2021,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5509802,NY,Oswego,Oswego,Source1,4,43.460073,-76.49932700000002,2021,17,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-5511684,NY,Oswego,Fulton,Source1,4,43.265201,-76.381842,2021,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5521954,NY,Oswego,Oswego,Source1,4,43.417667,-76.468086,2021,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5526775,NY,Oswego,Fulton,Source1,4,43.24613,-76.363575,2021,8,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-5539697,NY,Oswego,Pulaski,Source1,4,43.545835,-76.190899,2021,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5561685,NY,Oswego,Constantia,Source1,4,43.273907,-76.038696,2021,23,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5563966,NY,Oswego,Oswego,Source1,4,43.403356,-76.462468,2021,2,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5574467,NY,Oswego,Mexico,Source1,4,43.456743,-76.200622,2021,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5584500,NY,Oswego,Central Square,Source1,4,43.241814,-76.140774,2021,19,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5614348,NY,Oswego,Williamstown,Source1,4,43.370306,-75.910489,2021,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5630809,NY,Oswego,Oswego,Source1,4,43.442609,-76.49073800000002,2021,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5662425,NY,Oswego,Hannibal,Source1,4,43.310655,-76.57145600000003,2021,6,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-5666424,NY,Oswego,Fulton,Source1,4,43.33684802034696,-76.41502976381102,2021,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5667091,NY,Oswego,Fulton,Source1,4,43.360508,-76.427071,2021,7,Friday,Snow / Ice,False,True,False,False,False,False,True
+A-5679922,NY,Oswego,Williamstown,Source1,4,43.36830496767345,-75.88687062227302,2021,9,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-5682560,NY,Oswego,Phoenix,Source1,4,43.32423090914095,-76.28780722581728,2021,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5683114,NY,Oswego,Mexico,Source1,4,43.474017,-76.275966,2021,12,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-5683918,NY,Oswego,Oswego,Source1,4,43.434861,-76.484176,2021,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5699308,NY,Oswego,West Monroe,Source1,4,43.276012,-76.047865,2021,23,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5714056,NY,Oswego,Hannibal,Source1,4,43.30165743807172,-76.59688353501987,2021,6,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-5725076,NY,Oswego,Oswego,Source1,4,43.3831107614356,-76.44584298097399,2021,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5736257,NY,Oswego,Fulton,Source1,4,43.395829,-76.471526,2021,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5743021,NY,Oswego,Mexico,Source1,4,43.45967173555631,-76.2317168708981,2021,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5779216,NY,Oswego,Fulton,Source1,4,43.299896,-76.40565500000002,2021,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5786651,NY,Oswego,Fulton,Source1,4,43.35274815538715,-76.42382740937984,2021,7,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-5792396,NY,Oswego,Fulton,Source1,4,43.3346,-76.414874,2021,7,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-5797792,NY,Oswego,Oswego,Source1,4,43.431326150687056,-76.48191332780608,2021,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5799870,NY,Oswego,Fulton,Source1,4,43.319674,-76.4205,2021,22,Friday,Rain,False,False,False,False,False,False,False
+A-5803085,NY,Oswego,Mexico,Source1,4,43.478738,-76.310388,2021,19,Saturday,Rain,False,False,False,False,False,False,False
+A-5806780,NY,Oswego,Central Square,Source1,4,43.28057800000001,-76.14500799999998,2021,19,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5824744,NY,Oswego,Central Square,Source1,4,43.286613,-76.146314,2021,19,Saturday,Cloudy,False,False,False,False,False,True,False
+A-5838175,NY,Oswego,Fulton,Source1,4,43.286127,-76.39651500000002,2021,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5839778,NY,Oswego,Fulton,Source1,4,43.335145,-76.41476899999998,2021,7,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-5859495,NY,Oswego,Fulton,Source1,4,43.360508,-76.427071,2021,11,Thursday,Clear / Fair,False,True,False,False,False,False,True
+A-5906769,NY,Oswego,Hannibal,Source1,4,43.305581,-76.580153,2021,11,Saturday,Rain,False,False,False,False,False,False,False
+A-5910442,NY,Oswego,Fulton,Source1,4,43.320807,-76.421187,2021,22,Friday,Rain,False,False,False,False,False,False,False
+A-5916130,NY,Oswego,Fulton,Source1,4,43.232304,-76.35207199999998,2021,3,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5917533,NY,Oswego,Oswego,Source1,4,43.42817,-76.47619499999998,2021,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5917965,NY,Oswego,Pulaski,Source1,4,43.567163,-76.18746800000002,2021,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5922249,NY,Oswego,Central Square,Source1,4,43.286613,-76.146314,2021,19,Saturday,Cloudy,False,False,False,False,False,True,False
+A-5924288,NY,Oswego,Williamstown,Source1,4,43.36830496767345,-75.88687062227302,2021,9,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-5936332,NY,Oswego,West Monroe,Source1,4,43.276846,-76.051203,2021,23,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5950884,NY,Oswego,Oswego,Source1,4,43.403356,-76.462468,2021,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5952462,NY,Oswego,Fulton,Source1,4,43.36049437502211,-76.42706751786982,2021,1,Tuesday,Cloudy,False,True,False,False,False,False,True
+A-5958278,NY,Oswego,Mexico,Source1,4,43.479259000000006,-76.328284,2021,19,Saturday,Rain,False,False,False,False,False,False,False
+A-5965234,NY,Oswego,Fulton,Source1,4,43.35274815538715,-76.42382740937984,2021,7,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-5967243,NY,Oswego,Oswego,Source1,4,43.40014,-76.474372,2021,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5967244,NY,Oswego,Oswego,Source1,4,43.40014,-76.474372,2021,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5967444,NY,Oswego,Oswego,Source1,4,43.41278672197623,-76.57755017244064,2021,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5967720,NY,Oswego,Oswego,Source1,4,43.414371,-76.576922,2021,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5983412,NY,Oswego,Central Square,Source1,4,43.272032,-76.14419000000002,2021,19,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5990235,NY,Oswego,Mexico,Source1,4,43.459950685293855,-76.23682379686242,2021,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5990317,NY,Oswego,Fulton,Source1,4,43.342919,-76.357771,2021,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6001304,NY,Oswego,Oswego,Source1,4,43.479176,-76.330935,2021,19,Saturday,Rain,False,False,False,False,False,False,False
+A-6009667,NY,Oswego,Oswego,Source1,4,43.460478,-76.493044,2021,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6062815,NY,Oswego,Pulaski,Source1,4,43.548432,-76.189757,2021,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6068794,NY,Oswego,Oswego,Source1,4,43.429367,-76.47837700000002,2021,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6088613,NY,Oswego,Fulton,Source1,4,43.33641886690457,-76.33014321290813,2021,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-6095660,NY,Oswego,Martville,Source1,4,43.256746530326566,-76.58175587617596,2021,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6097852,NY,Oswego,Fulton,Source1,4,43.343029,-76.35880999999998,2021,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6127007,NY,Oswego,Mexico,Source1,4,43.479534,-76.322038,2021,19,Saturday,Rain,False,False,False,False,False,False,False
+A-6130466,NY,Oswego,Phoenix,Source1,4,43.232401,-76.352083,2021,8,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-6132249,NY,Oswego,Central Square,Source1,4,43.263146,-76.143209,2021,19,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6144167,NY,Oswego,Mexico,Source1,4,43.47074,-76.266244,2021,12,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-6153044,NY,Oswego,Central Square,Source1,4,43.246862,-76.141359,2021,19,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6157468,NY,Oswego,Mexico,Source1,4,43.456117,-76.17996099999998,2021,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6159123,NY,Oswego,Oswego,Source1,4,43.398297,-76.473196,2021,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6159124,NY,Oswego,Minetto,Source1,4,43.396948,-76.47229399999998,2021,20,Monday,Sin dato,False,False,False,False,False,False,False
+A-6169784,NY,Oswego,Central Square,Source1,4,43.286613,-76.146314,2021,19,Saturday,Cloudy,False,False,False,False,False,True,False
+A-6172288,NY,Oswego,Fulton,Source1,4,43.28612208345753,-76.39651179277229,2021,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6187020,NY,Oswego,Mexico,Source1,4,43.47917675951252,-76.33093714677652,2021,19,Saturday,Rain,False,False,False,False,False,False,False
+A-6198714,NY,Oswego,Fulton,Source1,4,43.359157,-76.426365,2021,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6215060,NY,Oswego,Oswego,Source1,4,43.409922,-76.578694,2021,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6234268,NY,Oswego,Fulton,Source1,4,43.333239,-76.31774200000002,2021,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-6286208,NY,Oswego,Fulton,Source1,4,43.342919,-76.357771,2021,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6292096,NY,Oswego,Fulton,Source1,4,43.299896,-76.40565500000002,2021,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6301224,NY,Oswego,Oswego,Source1,4,43.401483,-76.46143599999998,2021,17,Thursday,Cloudy,True,False,False,False,False,False,False
+A-6324314,NY,Oswego,Oswego,Source1,4,43.44582,-76.49546600000002,2021,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6361643,NY,Oswego,Mexico,Source1,4,43.421283,-76.172729,2021,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6387915,NY,Oswego,Oswego,Source1,4,43.431339,-76.481913,2021,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6507775,NY,Oswego,Oswego,Source1,4,43.375611,-76.439149,2021,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6524148,NY,Oswego,Hannibal,Source1,4,43.326783,-76.53862099999998,2021,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6540669,NY,Oswego,Mexico,Source1,4,43.45610900000001,-76.17996,2021,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6542317,NY,Oswego,Parish,Source1,4,43.420296,-76.15872900000002,2021,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6555238,NY,Oswego,Bernhards Bay,Source1,4,43.242326,-75.92466800000003,2021,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6557005,NY,Oswego,Hannibal,Source1,4,43.322398,-76.570701,2021,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6624502,NY,Oswego,Oswego,Source1,4,43.440424,-76.48835,2020,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6694981,NY,Oswego,Lacona,Source1,4,43.640141,-76.0807,2020,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6696251,NY,Oswego,Hannibal,Source1,4,43.301657,-76.59688299999998,2020,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6699709,NY,Oswego,Fulton,Source1,4,43.273543,-76.47941,2020,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6723262,NY,Oswego,Fulton,Source1,4,43.316114,-76.418353,2020,2,Thursday,Rain,False,False,False,False,False,False,False
+A-6744721,NY,Oswego,Hannibal,Source1,4,43.272921,-76.481943,2020,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6762851,NY,Oswego,Oswego,Source1,4,43.439455,-76.487492,2020,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6768695,NY,Oswego,Pulaski,Source1,4,43.566666,-76.18757,2020,1,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6824299,NY,Oswego,Pulaski,Source1,4,43.567163,-76.18746800000002,2020,3,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6827741,NY,Oswego,Hannibal,Source1,4,43.305984,-76.579358,2020,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6959260,NY,Oswego,Lacona,Source1,4,43.640141,-76.0807,2020,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6971264,NY,Oswego,Pulaski,Source1,4,43.566666,-76.18757,2020,1,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7056838,NY,Oswego,Mexico,Source1,4,43.45612,-76.17988000000003,2020,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7056839,NY,Oswego,Mexico,Source1,4,43.45726,-76.14520999999998,2020,7,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7282443,NY,Oswego,Fulton,Source1,4,43.30812,-76.39813000000002,2020,2,Saturday,Rain,False,False,False,False,False,False,False
+A-7304215,NY,Oswego,Sandy Creek,Source1,4,43.6437,-76.08068,2019,1,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7324917,NY,Oswego,Mexico,Source1,4,43.51374000000001,-76.22322,2019,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7343781,NY,Oswego,Mexico,Source1,4,43.42184,-76.24996999999998,2019,0,Friday,Cloudy,False,False,False,False,False,False,False
+A-7343782,NY,Oswego,Central Square,Source1,4,43.39698,-76.25667,2019,0,Friday,Rain,False,False,False,False,False,False,False
+A-7369434,NY,Oswego,Oswego,Source1,4,43.45969,-76.50062,2019,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7369435,NY,Oswego,Oswego,Source1,4,43.45853,-76.50458,2019,14,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-7398597,NY,Oswego,Pulaski,Source1,4,43.553058,-76.1143,2019,23,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7413386,NY,Oswego,Pulaski,Source1,4,43.5527,-76.11385,2019,23,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7428013,NY,Oswego,Fulton,Source1,4,43.359008,-76.28019,2019,0,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7428014,NY,Oswego,Fulton,Source1,4,43.35087,-76.28184,2019,0,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7442091,NY,Oswego,Hannibal,Source1,4,43.380633,-76.612378,2019,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7442845,NY,Oswego,Hannibal,Source1,4,43.321215,-76.577747,2019,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-7442847,NY,Oswego,Hannibal,Source1,4,43.321672,-76.574696,2019,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-7448952,NY,Oswego,Fulton,Source1,3,43.276893,-76.391035,2019,8,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-7452915,NY,Oswego,Pulaski,Source1,4,43.55569000000001,-76.11423,2019,8,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-7477021,NY,Oswego,Williamstown,Source1,4,43.461264,-75.960391,2018,20,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-7477022,NY,Oswego,Williamstown,Source1,4,43.463193,-75.967291,2018,20,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-7535087,NY,Oswego,Fulton,Source1,4,43.336709,-76.381822,2018,0,Friday,Cloudy,False,False,False,False,False,False,False
+A-7535729,NY,Oswego,Fulton,Source1,4,43.336709,-76.381822,2018,1,Friday,Cloudy,False,False,False,False,False,False,False
+A-7550110,NY,Oswego,Williamstown,Source1,4,43.36868,-75.92123000000002,2018,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7550111,NY,Oswego,Williamstown,Source1,4,43.368691,-75.921102,2018,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7559409,NY,Oswego,Mexico,Source1,4,43.41358,-76.25061600000002,2018,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7559410,NY,Oswego,Central Square,Source1,4,43.39698,-76.25667,2018,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7586570,NY,Oswego,Parish,Source1,4,43.453941,-76.12043,2018,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-7617457,NY,Oswego,Mexico,Source1,4,43.473805,-76.285055,2018,20,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-7617458,NY,Oswego,Mexico,Source1,4,43.479506,-76.314262,2018,20,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-7623961,NY,Oswego,Phoenix,Source1,4,43.22534,-76.27356,2018,12,Friday,Rain,False,False,False,False,False,False,False
+A-7626263,NY,Oswego,Central Square,Source1,4,43.28323,-76.12535,2018,13,Tuesday,Snow / Ice,False,False,True,False,False,False,False
+A-7628826,NY,Oswego,Central Square,Source1,4,43.252774,-76.131633,2018,7,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-7632460,NY,Oswego,Lacona,Source1,3,43.64104,-76.08098000000003,2018,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7635807,NY,Oswego,Lacona,Source1,4,43.641458,-76.080546,2018,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-7639787,NY,Oswego,Fulton,Source1,4,43.375593,-76.450066,2018,12,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-7639788,NY,Oswego,Oswego,Source1,4,43.39624,-76.47182,2018,12,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-7658136,NY,Oswego,Mexico,Source1,4,43.448175,-76.236302,2017,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-7658137,NY,Oswego,Mexico,Source1,4,43.45992,-76.23683,2017,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-7661495,NY,Oswego,Oswego,Source1,4,43.399787,-76.573849,2017,1,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7661496,NY,Oswego,Oswego,Source1,4,43.370079,-76.571393,2017,1,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7682929,NY,Oswego,Mexico,Source1,4,43.4792,-76.33091999999998,2017,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7682930,NY,Oswego,Mexico,Source1,4,43.479198,-76.331018,2017,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7692094,NY,Oswego,Oswego,Source1,4,43.40904000000001,-76.57861,2017,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-7692095,NY,Oswego,Oswego,Source1,4,43.412792,-76.577601,2017,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-7696215,NY,Oswego,Fulton,Source1,4,43.328409,-76.489796,2017,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7696216,NY,Oswego,Fulton,Source1,4,43.32917,-76.46585,2017,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7762560,NY,Oswego,Parish,Source1,4,43.46276,-76.053089,2019,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7762561,NY,Oswego,Parish,Source1,4,43.461267,-76.081078,2019,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False

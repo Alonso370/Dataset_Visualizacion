@@ -1,0 +1,534 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-355,OH,Wood,Bowling Green,Source2,3,41.351006,-83.622826,2016,6,Wednesday,Rain,False,False,False,False,False,False,False
+A-383,OH,Wood,Bowling Green,Source2,3,41.351006,-83.622826,2016,11,Wednesday,Rain,False,False,False,False,False,False,False
+A-446,OH,Wood,Bowling Green,Source2,3,41.370506,-83.616997,2016,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-489,OH,Wood,Bowling Green,Source2,3,41.351006,-83.622826,2016,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-221162,OH,Wood,North Baltimore,Source2,3,41.240414,-83.653152,2016,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-221387,OH,Wood,Bowling Green,Source2,3,41.374496,-83.61635600000002,2016,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-221390,OH,Wood,North Baltimore,Source2,3,41.172638,-83.649452,2016,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-222464,OH,Wood,North Baltimore,Source2,3,41.172638,-83.649452,2016,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-222538,OH,Wood,North Baltimore,Source2,3,41.172638,-83.649452,2016,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-222965,OH,Wood,North Baltimore,Source2,3,41.172638,-83.649452,2017,17,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-223726,OH,Wood,Bowling Green,Source2,3,41.351006,-83.622826,2016,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-224035,OH,Wood,Bowling Green,Source2,3,41.351006,-83.622826,2016,6,Thursday,Rain,False,False,False,False,False,False,False
+A-224569,OH,Wood,Bowling Green,Source2,3,41.374496,-83.61635600000002,2016,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-224941,OH,Wood,Bowling Green,Source2,3,41.351006,-83.622826,2016,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-225448,OH,Wood,North Baltimore,Source2,3,41.172638,-83.64917,2016,17,Thursday,Rain,False,False,False,False,False,False,False
+A-225612,OH,Wood,Bowling Green,Source2,3,41.351006,-83.622826,2016,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-225826,OH,Wood,Bowling Green,Source2,3,41.351006,-83.622826,2016,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-226065,OH,Wood,North Baltimore,Source2,3,41.172638,-83.649452,2016,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-226179,OH,Wood,Bowling Green,Source2,3,41.351006,-83.622826,2016,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-226715,OH,Wood,Bowling Green,Source2,3,41.374496,-83.61635600000002,2016,9,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-226869,OH,Wood,Bowling Green,Source2,3,41.374111,-83.61635600000002,2016,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-226927,OH,Wood,Bowling Green,Source2,3,41.374496,-83.61635600000002,2016,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-226969,OH,Wood,Bowling Green,Source2,3,41.374458,-83.616348,2016,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-227008,OH,Wood,Bowling Green,Source2,3,41.351006,-83.622826,2016,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-227009,OH,Wood,Bowling Green,Source2,3,41.351006,-83.622826,2016,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-227036,OH,Wood,Bowling Green,Source2,3,41.351006,-83.622826,2016,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-227039,OH,Wood,Bowling Green,Source2,3,41.351006,-83.622826,2016,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-227088,OH,Wood,Bowling Green,Source2,3,41.351006,-83.622826,2016,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-227164,OH,Wood,Bowling Green,Source2,3,41.410915,-83.615997,2016,17,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-227596,OH,Wood,Bowling Green,Source2,3,41.413204,-83.615585,2016,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-227957,OH,Wood,North Baltimore,Source2,3,41.172638,-83.649452,2016,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-228048,OH,Wood,North Baltimore,Source2,3,41.240414,-83.653152,2016,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-228277,OH,Wood,North Baltimore,Source2,3,41.176922,-83.649551,2016,6,Monday,Cloudy,False,False,True,False,False,False,False
+A-228295,OH,Wood,North Baltimore,Source2,3,41.18589,-83.649422,2016,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-228459,OH,Wood,Cygnet,Source2,3,41.255795,-83.648354,2016,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-228548,OH,Wood,Bowling Green,Source2,3,41.351006,-83.622826,2016,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-423458,OH,Wood,North Baltimore,Source2,3,41.240414,-83.653152,2017,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-448122,OH,Wood,North Baltimore,Source2,3,41.172638,-83.649452,2017,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-448218,OH,Wood,North Baltimore,Source2,3,41.18589,-83.649422,2017,20,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-517110,OH,Wood,Bowling Green,Source2,3,41.351585,-83.62240600000001,2022,13,Sunday,Rain,False,False,False,False,False,False,False
+A-523467,OH,Wood,Perrysburg,Source2,3,41.532749,-83.628838,2022,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-523627,OH,Wood,Northwood,Source2,3,41.614113,-83.539497,2022,10,Monday,Storm,False,False,False,False,False,False,False
+A-523962,OH,Wood,Perrysburg,Source2,3,41.532902,-83.660294,2022,7,Monday,Storm,False,False,False,False,False,False,False
+A-530190,OH,Wood,Perrysburg,Source2,3,41.511654,-83.422569,2022,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-531377,OH,Wood,Perrysburg,Source2,3,41.578053,-83.571915,2022,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-533618,OH,Wood,Perrysburg,Source2,3,41.547737,-83.536407,2022,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-534562,OH,Wood,Bowling Green,Source2,3,41.428932,-83.615646,2022,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-535988,OH,Wood,Northwood,Source2,3,41.6035,-83.54705799999998,2022,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-537676,OH,Wood,Northwood,Source2,3,41.607822,-83.543083,2022,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-543091,OH,Wood,Bowling Green,Source2,3,41.458042,-83.622231,2022,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-550385,OH,Wood,Perrysburg,Source2,3,41.523254,-83.458572,2022,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-552647,OH,Wood,Perrysburg,Source2,3,41.559849,-83.562935,2022,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-553922,OH,Wood,North Baltimore,Source2,3,41.169346,-83.649406,2022,13,Wednesday,Rain,False,False,False,False,False,False,False
+A-557143,OH,Wood,Perrysburg,Source2,3,41.546829,-83.60656,2022,14,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-563960,OH,Wood,Walbridge,Source2,3,41.578644,-83.473648,2022,19,Sunday,Rain,False,False,False,False,False,False,False
+A-564707,OH,Wood,Bowling Green,Source2,4,41.374023,-83.616341,2022,3,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-567516,OH,Wood,Cygnet,Source2,3,41.227303000000006,-83.653481,2022,16,Wednesday,Rain,False,False,False,False,False,False,False
+A-570671,OH,Wood,Perrysburg,Source2,3,41.544422,-83.68235,2022,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-572585,OH,Wood,Perrysburg,Source2,3,41.543049,-83.610344,2022,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-578703,OH,Wood,Northwood,Source2,3,41.603828,-83.477013,2022,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-587313,OH,Wood,Perrysburg,Source2,3,41.532455,-83.636673,2022,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-590746,OH,Wood,Perrysburg,Source2,3,41.536476,-83.462837,2022,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-593482,OH,Wood,Perrysburg,Source2,3,41.532207,-83.625038,2022,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-603104,OH,Wood,Bowling Green,Source2,3,41.458042,-83.622231,2022,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-605681,OH,Wood,Perrysburg,Source2,3,41.521713,-83.452377,2022,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-612736,OH,Wood,Perrysburg,Source2,3,41.576656,-83.573425,2022,12,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-622893,OH,Wood,Northwood,Source2,3,41.612186,-83.539703,2022,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-635163,OH,Wood,Perrysburg,Source2,3,41.531879,-83.627037,2022,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-642486,OH,Wood,Perrysburg,Source2,3,41.532909,-83.622902,2022,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-643055,OH,Wood,North Baltimore,Source2,3,41.172863,-83.64939100000002,2022,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-643376,OH,Wood,Perrysburg,Source2,3,41.52568400000001,-83.463303,2022,15,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-646476,OH,Wood,Perrysburg,Source2,3,41.560696,-83.590637,2022,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-647373,OH,Wood,Bowling Green,Source2,3,41.359612,-83.620728,2022,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-650254,OH,Wood,Perrysburg,Source2,3,41.538586,-83.67693299999998,2022,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-667443,OH,Wood,Perrysburg,Source2,3,41.549679,-83.604088,2022,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-680093,OH,Wood,Perrysburg,Source2,3,41.532452,-83.633667,2022,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-696783,OH,Wood,Millbury,Source2,3,41.560982,-83.460365,2022,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-700412,OH,Wood,Perrysburg,Source2,3,41.523266,-83.458916,2022,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-703090,OH,Wood,Perrysburg,Source2,3,41.51926,-83.621765,2022,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-704665,OH,Wood,Perrysburg,Source2,3,41.567463,-83.581131,2022,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-705951,OH,Wood,Bowling Green,Source2,3,41.351585,-83.62240600000001,2022,17,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-706018,OH,Wood,North Baltimore,Source2,3,41.172867,-83.64919300000003,2022,18,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-707844,OH,Wood,Perrysburg,Source2,3,41.532818,-83.628838,2022,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-715867,OH,Wood,Perrysburg,Source2,3,41.567463,-83.581131,2022,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-721616,OH,Wood,Perrysburg,Source2,3,41.567463,-83.581131,2022,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-721883,OH,Wood,Walbridge,Source2,3,41.588135,-83.477203,2022,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-722794,OH,Wood,Perrysburg,Source2,3,41.523266,-83.458916,2022,6,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-722988,OH,Wood,Perrysburg,Source2,3,41.567463,-83.581131,2022,17,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-733921,OH,Wood,Bowling Green,Source2,3,41.458042,-83.622231,2022,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-733922,OH,Wood,Bowling Green,Source2,3,41.458042,-83.622231,2022,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-736496,OH,Wood,Perrysburg,Source2,3,41.532818,-83.628838,2022,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-736642,OH,Wood,Perrysburg,Source2,3,41.523266,-83.458916,2022,17,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-736731,OH,Wood,North Baltimore,Source2,3,41.172863,-83.64939100000002,2022,15,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-738056,OH,Wood,Bowling Green,Source2,3,41.458042,-83.622231,2022,8,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-738096,OH,Wood,Bowling Green,Source2,3,41.373859,-83.616776,2022,8,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-739327,OH,Wood,Bowling Green,Source2,3,41.373859,-83.616776,2022,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-746843,OH,Wood,Cygnet,Source2,3,41.241138,-83.652153,2022,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-748023,OH,Wood,Rossford,Source2,3,41.586994,-83.561913,2022,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-752389,OH,Wood,Perrysburg,Source2,3,41.525749,-83.621368,2022,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-752495,OH,Wood,Northwood,Source2,3,41.614597,-83.476967,2022,11,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-755058,OH,Wood,Perrysburg,Source2,3,41.532761,-83.63825200000002,2022,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-757536,OH,Wood,Perrysburg,Source2,3,41.523266,-83.458916,2022,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-762075,OH,Wood,Perrysburg,Source2,3,41.568485,-83.57976500000002,2021,18,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-763352,OH,Wood,Perrysburg,Source2,3,41.549507,-83.603516,2021,18,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-763484,OH,Wood,Perrysburg,Source2,3,41.567463,-83.581131,2021,17,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-763533,OH,Wood,Perrysburg,Source2,3,41.523266,-83.458916,2021,15,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-763961,OH,Wood,Perrysburg,Source2,3,41.541485,-83.68013,2021,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-765325,OH,Wood,Perrysburg,Source2,3,41.567463,-83.581131,2021,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-769259,OH,Wood,Perrysburg,Source2,3,41.52401,-83.45841999999998,2021,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-771739,OH,Wood,Perrysburg,Source2,3,41.524677,-83.45967900000002,2021,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-773777,OH,Wood,Perrysburg,Source2,3,41.523266,-83.458916,2021,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-776234,OH,Wood,Perrysburg,Source2,3,41.549507,-83.603516,2021,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-779754,OH,Wood,Perrysburg,Source2,3,41.523266,-83.458916,2021,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-779844,OH,Wood,Perrysburg,Source2,3,41.523266,-83.458916,2021,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-784677,OH,Wood,Perrysburg,Source2,3,41.532909,-83.622902,2021,12,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-784697,OH,Wood,Perrysburg,Source2,3,41.525566,-83.62140699999998,2021,12,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-786977,OH,Wood,Northwood,Source2,3,41.609383,-83.541809,2021,8,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-789837,OH,Wood,Perrysburg,Source2,3,41.532818,-83.628838,2021,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-797453,OH,Wood,Perrysburg,Source2,3,41.523266,-83.458916,2021,17,Wednesday,Rain,False,False,False,False,False,False,False
+A-815869,OH,Wood,Northwood,Source2,3,41.609383,-83.541809,2021,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-818967,OH,Wood,Perrysburg,Source2,3,41.567463,-83.581131,2021,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-822078,OH,Wood,Perrysburg,Source2,3,41.567463,-83.581131,2021,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-841714,OH,Wood,Bowling Green,Source2,3,41.458042,-83.622231,2021,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-841806,OH,Wood,Northwood,Source2,3,41.608704,-83.54274699999998,2021,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-844271,OH,Wood,Perrysburg,Source2,3,41.532818,-83.628838,2021,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-846350,OH,Wood,Perrysburg,Source2,3,41.523266,-83.458916,2021,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-851251,OH,Wood,Northwood,Source2,3,41.614182,-83.477211,2021,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-851306,OH,Wood,North Baltimore,Source2,3,41.172863,-83.64939100000002,2021,15,Monday,Rain,False,False,False,False,False,False,False
+A-856986,OH,Wood,Perrysburg,Source2,3,41.523266,-83.458916,2021,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-862924,OH,Wood,Rossford,Source2,3,41.599892,-83.550064,2021,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-869681,OH,Wood,Perrysburg,Source2,3,41.563309,-83.586342,2021,12,Friday,Rain,False,False,False,False,False,False,False
+A-869934,OH,Wood,Perrysburg,Source2,3,41.532909,-83.622902,2021,12,Friday,Rain,False,False,False,False,False,False,False
+A-870875,OH,Wood,Perrysburg,Source2,3,41.523266,-83.458916,2021,17,Thursday,Rain,False,False,False,False,False,False,False
+A-871107,OH,Wood,Millbury,Source2,3,41.536167,-83.48820500000002,2021,7,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-882052,OH,Wood,Bowling Green,Source2,3,41.458042,-83.622231,2021,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-888801,OH,Wood,Perrysburg,Source2,3,41.532909,-83.622902,2021,17,Wednesday,Rain,False,False,False,False,False,False,False
+A-898366,OH,Wood,Perrysburg,Source2,3,41.567463,-83.581131,2021,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-906193,OH,Wood,Northwood,Source2,3,41.609383,-83.541809,2021,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-925000,OH,Wood,Bowling Green,Source2,3,41.350517,-83.622597,2021,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-930112,OH,Wood,Bowling Green,Source2,3,41.458042,-83.622231,2021,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-931495,OH,Wood,Perrysburg,Source2,3,41.523266,-83.458916,2021,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-932227,OH,Wood,Perrysburg,Source2,3,41.532864,-83.62239100000002,2021,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-932652,OH,Wood,Perrysburg,Source2,3,41.567463,-83.581131,2021,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-936861,OH,Wood,Perrysburg,Source2,3,41.523266,-83.458916,2021,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-936986,OH,Wood,Perrysburg,Source2,3,41.523266,-83.458916,2021,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-943191,OH,Wood,Perrysburg,Source2,3,41.525688,-83.463303,2021,19,Friday,Cloudy,False,False,True,False,False,False,False
+A-943194,OH,Wood,Perrysburg,Source2,3,41.523266,-83.458916,2021,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-948433,OH,Wood,Perrysburg,Source2,3,41.52198,-83.455116,2021,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-948434,OH,Wood,Perrysburg,Source2,3,41.52224,-83.454971,2021,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-948457,OH,Wood,Perrysburg,Source2,3,41.525688,-83.463303,2021,12,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-967748,OH,Wood,Northwood,Source2,3,41.614597,-83.476967,2021,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-970586,OH,Wood,Perrysburg,Source2,3,41.523266,-83.458916,2021,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-971911,OH,Wood,Perrysburg,Source2,3,41.549622,-83.603691,2021,10,Sunday,Rain,False,False,False,False,False,False,False
+A-977654,OH,Wood,Bowling Green,Source2,3,41.351585,-83.62240600000001,2021,12,Tuesday,Rain,False,False,False,False,False,False,False
+A-985610,OH,Wood,Perrysburg,Source2,3,41.523266,-83.458916,2021,17,Tuesday,Rain,False,False,False,False,False,False,False
+A-988503,OH,Wood,Perrysburg,Source2,3,41.532818,-83.628838,2021,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-992463,OH,Wood,Perrysburg,Source2,3,41.523266,-83.458916,2021,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-994071,OH,Wood,Perrysburg,Source2,3,41.53252,-83.62335999999998,2021,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-994072,OH,Wood,Perrysburg,Source2,3,41.532909,-83.622902,2021,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1009529,OH,Wood,Bowling Green,Source2,3,41.351585,-83.62240600000001,2021,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1011183,OH,Wood,Rossford,Source2,3,41.586994,-83.561913,2021,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1015911,OH,Wood,North Baltimore,Source2,3,41.235119,-83.654449,2021,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1025211,OH,Wood,Perrysburg,Source2,3,41.532818,-83.628838,2021,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1025928,OH,Wood,Perrysburg,Source2,3,41.567463,-83.581131,2021,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-1027786,OH,Wood,Bowling Green,Source2,3,41.351585,-83.62240600000001,2021,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1035281,OH,Wood,Perrysburg,Source2,3,41.523266,-83.458916,2021,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1037036,OH,Wood,Bowling Green,Source2,3,41.45071,-83.62244399999999,2021,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1043483,OH,Wood,North Baltimore,Source2,3,41.186687,-83.650024,2021,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1044739,OH,Wood,Northwood,Source2,3,41.609383,-83.541809,2021,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1046441,OH,Wood,Bowling Green,Source2,4,41.458042,-83.622231,2021,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1049753,OH,Wood,Perrysburg,Source2,3,41.53252,-83.62335999999998,2021,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1051407,OH,Wood,Perrysburg,Source2,3,41.567463,-83.581131,2021,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-1053943,OH,Wood,Rossford,Source2,3,41.586994,-83.561913,2021,16,Friday,Rain,False,False,False,False,False,False,False
+A-1060836,OH,Wood,Perrysburg,Source2,3,41.514938,-83.463463,2021,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-1062791,OH,Wood,Bowling Green,Source2,3,41.458042,-83.622231,2021,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1071063,OH,Wood,Northwood,Source2,3,41.609383,-83.541809,2021,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1074151,OH,Wood,Perrysburg,Source2,3,41.567463,-83.581131,2021,16,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1079444,OH,Wood,Perrysburg,Source2,3,41.565681,-83.585266,2021,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-1101729,OH,Wood,Perrysburg,Source2,3,41.532818,-83.628838,2021,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1101736,OH,Wood,Perrysburg,Source2,3,41.549507,-83.603516,2021,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1134941,OH,Wood,Perrysburg,Source2,3,41.532818,-83.628838,2021,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-1140400,OH,Wood,Perrysburg,Source2,3,41.528252,-83.46328000000003,2021,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1148958,OH,Wood,Perrysburg,Source2,3,41.523266,-83.458916,2021,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1150519,OH,Wood,Perrysburg,Source2,3,41.532555,-83.620827,2021,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1152056,OH,Wood,Perrysburg,Source2,3,41.523266,-83.458916,2021,19,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1160486,OH,Wood,Bowling Green,Source2,4,41.351585,-83.62240600000001,2021,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1166770,OH,Wood,Perrysburg,Source2,3,41.549507,-83.603516,2021,8,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1182470,OH,Wood,Perrysburg,Source2,3,41.567513,-83.580872,2021,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1182473,OH,Wood,Perrysburg,Source2,3,41.523266,-83.458916,2021,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1189667,OH,Wood,Perrysburg,Source2,3,41.567513,-83.580872,2021,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-1200143,OH,Wood,Perrysburg,Source2,3,41.524979,-83.622139,2021,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-1204181,OH,Wood,Rossford,Source2,3,41.586994,-83.561913,2021,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1204183,OH,Wood,Northwood,Source2,3,41.609383,-83.541809,2021,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1220059,OH,Wood,Perrysburg,Source2,3,41.567513,-83.580872,2020,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-1224564,OH,Wood,Perrysburg,Source2,3,41.533112,-83.625412,2020,15,Thursday,Snow / Ice,False,False,True,False,False,False,False
+A-1224565,OH,Wood,Perrysburg,Source2,3,41.549507,-83.603516,2020,15,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1228124,OH,Wood,Perrysburg,Source2,3,41.532818,-83.628838,2020,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1231155,OH,Wood,Bowling Green,Source2,3,41.373859,-83.616776,2020,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1231156,OH,Wood,Northwood,Source2,3,41.609383,-83.541809,2020,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1236051,OH,Wood,Perrysburg,Source2,3,41.523266,-83.458916,2020,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1236054,OH,Wood,Perrysburg,Source2,3,41.570389,-83.58099399999998,2020,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1241345,OH,Wood,Northwood,Source2,3,41.609383,-83.541809,2020,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1244633,OH,Wood,Perrysburg,Source2,3,41.549507,-83.603516,2020,8,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1246349,OH,Wood,Northwood,Source2,3,41.614597,-83.476967,2020,17,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1250776,OH,Wood,Perrysburg,Source2,3,41.567513,-83.580872,2020,16,Wednesday,Rain,False,False,False,False,False,False,False
+A-1265517,OH,Wood,Perrysburg,Source2,3,41.523266,-83.458916,2020,8,Sunday,Rain,False,False,False,False,False,False,False
+A-1283106,OH,Wood,Northwood,Source2,3,41.609383,-83.541809,2020,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1291496,OH,Wood,Perrysburg,Source2,3,41.532818,-83.628838,2020,22,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1291506,OH,Wood,Rossford,Source2,3,41.586994,-83.561913,2020,8,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1311658,OH,Wood,Perrysburg,Source2,3,41.569378,-83.58136,2020,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1311662,OH,Wood,Perrysburg,Source2,3,41.567513,-83.580872,2020,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1315086,OH,Wood,Perrysburg,Source2,3,41.567513,-83.580872,2020,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1327506,OH,Wood,Bowling Green,Source2,3,41.351585,-83.62240600000001,2020,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1329157,OH,Wood,Perrysburg,Source2,3,41.523266,-83.458916,2020,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1332677,OH,Wood,Bowling Green,Source2,3,41.458042,-83.622231,2020,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1337622,OH,Wood,Bowling Green,Source2,3,41.373859,-83.616776,2020,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1350196,OH,Wood,Perrysburg,Source2,4,41.567513,-83.580872,2020,7,Wednesday,Rain,False,False,False,False,False,False,False
+A-1357292,OH,Wood,Perrysburg,Source2,3,41.532818,-83.628838,2020,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-1380905,OH,Wood,Rossford,Source2,3,41.586994,-83.561913,2020,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1382362,OH,Wood,Rossford,Source2,3,41.586994,-83.561913,2020,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1408572,OH,Wood,Perrysburg,Source2,3,41.532818,-83.628838,2020,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1420173,OH,Wood,Perrysburg,Source2,3,41.532818,-83.628838,2020,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1427829,OH,Wood,Perrysburg,Source2,3,41.549507,-83.603516,2020,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1434949,OH,Wood,Perrysburg,Source2,3,41.523048,-83.45974,2020,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1457692,OH,Wood,Perrysburg,Source2,3,41.523048,-83.45974,2020,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1469177,OH,Wood,Perrysburg,Source2,3,41.564648,-83.585938,2020,7,Thursday,Rain,False,False,False,False,False,False,False
+A-1472540,OH,Wood,Rossford,Source2,3,41.586994,-83.561913,2020,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-1494311,OH,Wood,Rossford,Source2,3,41.586994,-83.561913,2020,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1494314,OH,Wood,Bowling Green,Source2,3,41.458042,-83.622231,2020,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1495631,OH,Wood,Perrysburg,Source3,3,41.567513,-83.580872,2020,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1523198,OH,Wood,Northwood,Source2,3,41.609383,-83.541809,2020,7,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1533042,OH,Wood,Perrysburg,Source2,3,41.526077,-83.463303,2020,16,Wednesday,Rain,False,False,True,False,False,False,False
+A-1534420,OH,Wood,Perrysburg,Source2,3,41.570419,-83.5811,2020,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1546270,OH,Wood,Perrysburg,Source2,3,41.532818,-83.628838,2020,8,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1554553,OH,Wood,Rossford,Source2,3,41.586994,-83.561913,2020,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1568592,OH,Wood,Perrysburg,Source2,3,41.523048,-83.45974,2020,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1615401,OH,Wood,Perrysburg,Source2,3,41.532818,-83.628838,2020,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1650652,OH,Wood,Rossford,Source2,3,41.586994,-83.561913,2020,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1652084,OH,Wood,Northwood,Source2,3,41.611061,-83.540787,2020,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1664224,OH,Wood,Millbury,Source2,3,41.560982,-83.460365,2020,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-1664225,OH,Wood,Bowling Green,Source2,3,41.458042,-83.622231,2020,16,Monday,Rain,False,False,False,False,False,False,False
+A-1668502,OH,Wood,Perrysburg,Source2,3,41.532818,-83.628838,2020,20,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1670717,OH,Wood,Bowling Green,Source2,3,41.458042,-83.622414,2020,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1693234,OH,Wood,Perrysburg,Source2,3,41.532818,-83.628838,2019,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1720884,OH,Wood,Rossford,Source2,3,41.586994,-83.561913,2019,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1720916,OH,Wood,Perrysburg,Source2,3,41.523266,-83.458916,2019,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1726194,OH,Wood,North Baltimore,Source2,3,41.186413,-83.649124,2019,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1747689,OH,Wood,Perrysburg,Source2,3,41.567513,-83.580872,2019,13,Friday,Rain,False,False,False,False,False,False,False
+A-1795992,OH,Wood,Perrysburg,Source2,3,41.549507,-83.603516,2019,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-1806789,OH,Wood,Bowling Green,Source2,3,41.458042,-83.622231,2019,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1811092,OH,Wood,Perrysburg,Source2,3,41.532818,-83.628838,2019,16,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1811094,OH,Wood,Perrysburg,Source2,3,41.532818,-83.628838,2019,16,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1811101,OH,Wood,Bowling Green,Source2,3,41.458042,-83.622231,2019,17,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1811118,OH,Wood,Perrysburg,Source2,3,41.532818,-83.628838,2019,19,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1829548,OH,Wood,Perrysburg,Source2,3,41.567513,-83.580872,2019,8,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1829549,OH,Wood,Perrysburg,Source2,3,41.567513,-83.580872,2019,8,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1837793,OH,Wood,Rossford,Source2,3,41.586994,-83.561913,2019,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1845096,OH,Wood,Rossford,Source2,3,41.586994,-83.561913,2019,18,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-1847492,OH,Wood,Rossford,Source2,3,41.586994,-83.561913,2019,17,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-1853604,OH,Wood,Cygnet,Source2,3,41.267529,-83.648033,2019,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-1855993,OH,Wood,Millbury,Source2,3,41.560982,-83.460365,2019,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1866967,OH,Wood,Rossford,Source2,3,41.586994,-83.561913,2019,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1866974,OH,Wood,Rossford,Source2,3,41.586994,-83.561913,2019,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1873674,OH,Wood,Bowling Green,Source2,3,41.458042,-83.622231,2019,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-1873685,OH,Wood,Bowling Green,Source2,3,41.458042,-83.622231,2019,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1882966,OH,Wood,Perrysburg,Source2,3,41.567513,-83.580872,2019,17,Friday,Rain,False,False,False,False,False,False,False
+A-1885003,OH,Wood,Perrysburg,Source2,3,41.523266,-83.458916,2019,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1891753,OH,Wood,Perrysburg,Source2,3,41.532818,-83.628838,2019,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1896438,OH,Wood,Bowling Green,Source2,3,41.351585,-83.62240600000001,2019,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-1902802,OH,Wood,Rossford,Source2,4,41.586994,-83.561913,2019,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1910270,OH,Wood,Perrysburg,Source2,3,41.52339600000001,-83.456802,2019,17,Friday,Storm,False,False,False,False,False,False,False
+A-1914030,OH,Wood,Perrysburg,Source2,3,41.567822,-83.58294699999998,2019,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-1946865,OH,Wood,Northwood,Source2,3,41.614601,-83.476967,2019,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1969702,OH,Wood,Perrysburg,Source2,3,41.532909,-83.622902,2019,17,Tuesday,Rain,False,False,False,False,False,False,False
+A-1974186,OH,Wood,Bowling Green,Source2,3,41.351585,-83.62240600000001,2019,16,Thursday,Rain,False,False,False,False,False,False,False
+A-1974192,OH,Wood,Bowling Green,Source2,3,41.350605,-83.62291,2019,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1992526,OH,Wood,Perrysburg,Source2,3,41.532818,-83.628838,2019,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1994541,OH,Wood,North Baltimore,Source2,3,41.172863,-83.64939100000002,2019,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1998692,OH,Wood,Bowling Green,Source2,3,41.458042,-83.622231,2019,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1998694,OH,Wood,Rossford,Source2,3,41.586994,-83.561913,2019,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2004666,OH,Wood,North Baltimore,Source2,3,41.172863,-83.64939100000002,2019,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2011689,OH,Wood,Rossford,Source2,3,41.586994,-83.561913,2019,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2036049,OH,Wood,Perrysburg,Source2,3,41.532818,-83.628838,2019,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2044511,OH,Wood,Perrysburg,Source2,3,41.532818,-83.628838,2019,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2044535,OH,Wood,Perrysburg,Source2,3,41.53289,-83.622322,2019,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2046788,OH,Wood,Perrysburg,Source2,3,41.522274,-83.453857,2019,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2049203,OH,Wood,Perrysburg,Source2,3,41.567513,-83.580872,2019,18,Thursday,Rain,False,False,False,False,False,False,False
+A-2067358,OH,Wood,Perrysburg,Source2,3,41.532818,-83.628838,2019,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2067359,OH,Wood,North Baltimore,Source2,3,41.172863,-83.64939100000002,2019,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2068353,OH,Wood,Perrysburg,Source2,3,41.523266,-83.458916,2019,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-2075064,OH,Wood,Northwood,Source2,4,41.609383,-83.541809,2019,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2128635,OH,Wood,Rossford,Source2,3,41.586994,-83.561913,2019,17,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2142539,OH,Wood,Perrysburg,Source2,3,41.532784,-83.629852,2019,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2165920,OH,Wood,Rossford,Source2,3,41.587238,-83.561493,2019,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2172237,OH,Wood,Perrysburg,Source2,4,41.549507,-83.603516,2019,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2176831,OH,Wood,Perrysburg,Source2,3,41.523266,-83.458916,2019,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2180456,OH,Wood,Millbury,Source2,3,41.560982,-83.460365,2019,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2185020,OH,Wood,Bowling Green,Source2,3,41.458042,-83.622231,2019,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2187406,OH,Wood,Rossford,Source2,3,41.586994,-83.561913,2019,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2187407,OH,Wood,Perrysburg,Source2,3,41.532818,-83.628838,2019,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2193523,OH,Wood,Northwood,Source2,3,41.609383,-83.541809,2019,17,Monday,Rain,False,False,False,False,False,False,False
+A-2195833,OH,Wood,Perrysburg,Source2,3,41.532784,-83.629852,2019,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2201063,OH,Wood,Rossford,Source2,3,41.587238,-83.561493,2019,7,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2201068,OH,Wood,Bowling Green,Source2,3,41.457977,-83.62222299999998,2019,7,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2220560,OH,Wood,Perrysburg,Source2,3,41.532784,-83.629852,2019,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-2257877,OH,Wood,Millbury,Source2,3,41.56137800000001,-83.460449,2019,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-2261923,OH,Wood,Rossford,Source2,3,41.56736400000001,-83.581299,2019,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-2264590,OH,Wood,Perrysburg,Source2,3,41.532784,-83.629852,2019,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2291465,OH,Wood,North Baltimore,Source2,3,41.239212,-83.65358,2019,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-2323724,OH,Wood,Perrysburg,Source2,3,41.532784,-83.629852,2019,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2371039,OH,Wood,Perrysburg,Source2,3,41.564919,-83.58609799999998,2018,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-2375422,OH,Wood,Perrysburg,Source2,3,41.564919,-83.58609799999998,2018,13,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2381975,OH,Wood,Northwood,Source2,3,41.610699,-83.54083299999998,2018,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2387505,OH,Wood,Perrysburg,Source2,3,41.532784,-83.629852,2018,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-2402916,OH,Wood,Northwood,Source2,3,41.610699,-83.54083299999998,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2402954,OH,Wood,Perrysburg,Source2,3,41.523094,-83.459839,2018,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2415442,OH,Wood,Perrysburg,Source2,3,41.532784,-83.629852,2018,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2427847,OH,Wood,Perrysburg,Source2,3,41.586845,-83.56237800000002,2018,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-2432433,OH,Wood,Perrysburg,Source2,3,41.564919,-83.58609799999998,2018,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-2471494,OH,Wood,Perrysburg,Source2,3,41.586845,-83.56237800000002,2018,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2491751,OH,Wood,Northwood,Source2,3,41.608871,-83.54261,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2500361,OH,Wood,Perrysburg,Source2,3,41.531864,-83.621201,2018,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-2520565,OH,Wood,Perrysburg,Source2,3,41.586845,-83.56237800000002,2018,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2526467,OH,Wood,Rossford,Source2,3,41.58934,-83.559662,2018,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2550236,OH,Wood,Perrysburg,Source2,3,41.522549,-83.454071,2018,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-2573523,OH,Wood,Perrysburg,Source2,3,41.531864,-83.621201,2018,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-2605190,OH,Wood,Northwood,Source2,3,41.608871,-83.54261,2018,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2605194,OH,Wood,Perrysburg,Source2,3,41.586845,-83.56237800000002,2018,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2605219,OH,Wood,Bowling Green,Source3,3,41.351006,-83.622826,2018,15,Tuesday,Rain,False,False,False,False,False,False,False
+A-2616697,OH,Wood,Millbury,Source2,3,41.559082,-83.46018199999997,2018,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2700011,OH,Wood,Perrysburg,Source2,3,41.569183,-83.581482,2018,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2700022,OH,Wood,Millbury,Source2,3,41.559082,-83.46018199999997,2018,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2705165,OH,Wood,North Baltimore,Source2,3,41.240414,-83.653152,2018,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-2705186,OH,Wood,Perrysburg,Source2,3,41.525734,-83.463036,2018,14,Monday,Cloudy,False,False,True,False,False,False,False
+A-2749702,OH,Wood,Perrysburg,Source2,3,41.525734,-83.463036,2018,7,Friday,Cloudy,False,False,True,False,False,False,False
+A-2771998,OH,Wood,Perrysburg,Source3,3,41.525734,-83.463036,2018,13,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-2802907,OH,Wood,Perrysburg,Source2,3,41.525734,-83.463036,2018,14,Friday,Cloudy,False,False,True,False,False,False,False
+A-2809326,OH,Wood,Northwood,Source2,3,41.608871,-83.54261,2018,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2846960,OH,Wood,Bowling Green,Source2,3,41.351006,-83.622826,2018,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2868916,OH,Wood,Perrysburg,Source2,3,41.56583,-83.585335,2018,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-2889876,OH,Wood,North Baltimore,Source2,3,41.18589,-83.649422,2018,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2889884,OH,Wood,Walbridge,Source2,3,41.588249,-83.477036,2018,6,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2889890,OH,Wood,Northwood,Source2,4,41.608871,-83.54261,2018,6,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2889901,OH,Wood,Perrysburg,Source2,3,41.586845,-83.56237800000002,2018,7,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2889920,OH,Wood,Perrysburg,Source2,3,41.550358,-83.603287,2018,8,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2895145,OH,Wood,Perrysburg,Source2,3,41.525734,-83.463036,2018,5,Thursday,Snow / Ice,False,False,True,False,False,False,False
+A-2897888,OH,Wood,Perrysburg,Source2,3,41.53244,-83.63601700000002,2018,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2910439,OH,Wood,Perrysburg,Source2,3,41.525734,-83.463036,2018,6,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-2936675,OH,Wood,Perrysburg,Source2,3,41.550358,-83.603287,2018,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2941305,OH,Wood,Northwood,Source2,3,41.608871,-83.54261,2018,8,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2946696,OH,Wood,Perrysburg,Source2,3,41.522881,-83.45944200000002,2018,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3001177,OH,Wood,Bowling Green,Source2,3,41.351006,-83.622826,2018,5,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3001200,OH,Wood,Northwood,Source2,3,41.608871,-83.54261,2018,7,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3001214,OH,Wood,Northwood,Source2,3,41.608871,-83.54261,2018,8,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3001221,OH,Wood,Bowling Green,Source2,3,41.458012,-83.622421,2018,10,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3003689,OH,Wood,Perrysburg,Source2,3,41.531864,-83.621201,2018,1,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3005675,OH,Wood,Perrysburg,Source2,3,41.53244,-83.63601700000002,2018,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3005682,OH,Wood,Northwood,Source2,3,41.608871,-83.54261,2018,8,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3008343,OH,Wood,Perrysburg,Source2,3,41.530426,-83.623688,2018,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3062756,OH,Wood,North Baltimore,Source2,3,41.240414,-83.653152,2018,8,Friday,Rain,False,False,False,False,False,False,False
+A-3066805,OH,Wood,North Baltimore,Source2,3,41.18589,-83.649422,2018,10,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-3128249,OH,Wood,North Baltimore,Source2,3,41.172638,-83.649452,2017,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3128250,OH,Wood,Perrysburg,Source2,3,41.53244,-83.63601700000002,2017,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3128270,OH,Wood,Rossford,Source2,3,41.58934,-83.559662,2017,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3128273,OH,Wood,Rossford,Source2,3,41.58934,-83.559662,2017,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3131256,OH,Wood,Perrysburg,Source2,3,41.536442,-83.462891,2017,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-3148462,OH,Wood,Bowling Green,Source2,3,41.458012,-83.622421,2017,9,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-3217209,OH,Wood,Bowling Green,Source2,3,41.374496,-83.61635600000002,2017,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3238007,OH,Wood,Northwood,Source2,3,41.608871,-83.54261,2017,7,Wednesday,Rain,False,False,False,False,False,False,False
+A-3245856,OH,Wood,Bowling Green,Source2,3,41.351006,-83.622826,2017,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3291753,OH,Wood,Perrysburg,Source2,3,41.531864,-83.621201,2017,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3294614,OH,Wood,Bowling Green,Source2,3,41.46022,-83.622856,2017,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-3312761,OH,Wood,Perrysburg,Source2,3,41.53244,-83.635651,2017,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3363055,OH,Wood,Perrysburg,Source2,3,41.586845,-83.56237800000002,2017,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3363066,OH,Wood,Perrysburg,Source2,3,41.586845,-83.56237800000002,2017,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3365827,OH,Wood,Bowling Green,Source2,3,41.351185,-83.622787,2017,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3413022,OH,Wood,Perrysburg,Source1,3,41.52134,-83.45642,2016,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3413023,OH,Wood,Perrysburg,Source1,3,41.52549000000001,-83.46344,2016,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3413039,OH,Wood,Bowling Green,Source1,4,41.3513,-83.62276,2016,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3447063,OH,Wood,Bowling Green,Source1,4,41.45407,-83.62205,2016,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3457866,OH,Wood,Grand Rapids,Source1,4,41.371861,-83.856875,2017,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3457868,OH,Wood,Grand Rapids,Source1,4,41.371749,-83.87311,2017,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3463727,OH,Wood,Rossford,Source1,3,41.58928,-83.55972,2016,3,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3466299,OH,Wood,Perrysburg,Source1,3,41.525924,-83.46349599999998,2016,17,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-3467855,OH,Wood,Bowling Green,Source1,4,41.45407,-83.62205,2016,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-3468579,OH,Wood,Northwood,Source1,4,41.60888,-83.54219,2016,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3468725,OH,Wood,Bowling Green,Source1,4,41.45407,-83.62205,2016,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3468772,OH,Wood,Bowling Green,Source1,4,41.45802,-83.624064,2016,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3468773,OH,Wood,Bowling Green,Source1,4,41.457847,-83.612263,2016,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3480545,OH,Wood,Bowling Green,Source1,4,41.37722,-83.61632,2016,23,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3489101,OH,Wood,Bowling Green,Source1,4,41.35213,-83.59137,2016,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3489104,OH,Wood,Bowling Green,Source1,4,41.34887,-83.65428,2016,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3489886,OH,Wood,Bowling Green,Source1,4,41.45407,-83.62205,2016,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-3492617,OH,Wood,Cygnet,Source1,4,41.24413,-83.65132,2016,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3497020,OH,Wood,Perrysburg,Source1,4,41.53754,-83.61626,2016,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3497224,OH,Wood,Bowling Green,Source1,4,41.35496,-83.62188,2016,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3497225,OH,Wood,North Baltimore,Source1,4,41.236046,-83.65405799999998,2016,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3497596,OH,Wood,Bowling Green,Source1,4,41.37722,-83.61632,2016,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3498094,OH,Wood,North Baltimore,Source1,4,41.236062,-83.654371,2016,20,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3500140,OH,Wood,Perrysburg,Source1,4,41.53754,-83.61626,2016,5,Sunday,Sin dato,False,False,False,False,False,False,False
+A-3503024,OH,Wood,Bowling Green,Source1,4,41.46203,-83.62241,2016,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3507566,OH,Wood,Perrysburg,Source1,3,41.527857,-83.468612,2016,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-3508234,OH,Wood,Perrysburg,Source1,4,41.51897,-83.52861,2016,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3508235,OH,Wood,Perrysburg,Source1,4,41.5232,-83.53842,2016,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3522017,OH,Wood,Cygnet,Source1,4,41.24181,-83.652537,2016,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3522273,OH,Wood,Perrysburg,Source1,4,41.52632,-83.62132,2016,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3522348,OH,Wood,Perrysburg,Source1,4,41.52631,-83.62123000000003,2016,23,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3522630,OH,Wood,Perrysburg,Source1,3,41.52525,-83.4633,2016,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3522751,OH,Wood,Northwood,Source1,3,41.61791,-83.54106999999998,2016,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3522796,OH,Wood,North Baltimore,Source1,4,41.23832700000001,-83.653572,2016,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3522925,OH,Wood,North Baltimore,Source1,4,41.23545,-83.65414,2016,2,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3522948,OH,Wood,Portage,Source1,3,41.298658,-83.65049,2016,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3522949,OH,Wood,Rudolph,Source1,3,41.282967,-83.65023000000002,2016,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3523071,OH,Wood,North Baltimore,Source1,3,41.23545,-83.65414,2016,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3523072,OH,Wood,Bowling Green,Source1,3,41.35496,-83.62188,2016,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3523171,OH,Wood,Bowling Green,Source1,3,41.45407,-83.62205,2016,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3523559,OH,Wood,Perrysburg,Source1,4,41.53275,-83.63613000000002,2016,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3523639,OH,Wood,North Baltimore,Source1,3,41.18915,-83.64978,2016,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-3523734,OH,Wood,Bowling Green,Source1,4,41.46286,-83.62203000000002,2016,5,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3523735,OH,Wood,Bowling Green,Source1,4,41.45407,-83.62205,2016,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3523859,OH,Wood,Cygnet,Source1,3,41.24647,-83.64962,2016,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-3558296,OH,Wood,Northwood,Source1,4,41.610949,-83.540471,2017,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-3561986,OH,Wood,Perrysburg,Source1,4,41.5682,-83.5821,2017,20,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-3562270,OH,Wood,Bowling Green,Source1,3,41.46203,-83.62241,2017,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3572666,OH,Wood,Perrysburg,Source1,4,41.522139,-83.46337,2017,13,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-3572667,OH,Wood,Perrysburg,Source1,4,41.504051,-83.46334,2017,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3574243,OH,Wood,Wayne,Source1,4,41.28255,-83.5087,2017,17,Friday,Rain,False,False,False,False,False,False,False
+A-3574298,OH,Wood,Wayne,Source1,4,41.28255,-83.5087,2017,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3574299,OH,Wood,Wayne,Source1,4,41.29805,-83.509672,2017,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3574341,OH,Wood,Wayne,Source1,4,41.29805,-83.509672,2017,1,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3574342,OH,Wood,Wayne,Source1,4,41.28255,-83.5087,2017,1,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3577294,OH,Wood,Perrysburg,Source1,4,41.51897,-83.52861,2017,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3577323,OH,Wood,Perrysburg,Source1,4,41.51897,-83.52861,2017,10,Tuesday,Rain,False,False,False,False,False,False,False
+A-3577783,OH,Wood,Perrysburg,Source1,4,41.5232,-83.53842,2017,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3577784,OH,Wood,Perrysburg,Source1,4,41.51897,-83.52861,2017,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3579362,OH,Wood,Northwood,Source1,4,41.60888,-83.54219,2017,18,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-3581098,OH,Wood,Bowling Green,Source1,4,41.457011,-83.622028,2017,12,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3581102,OH,Wood,Bowling Green,Source1,4,41.45407,-83.62205,2017,13,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3581275,OH,Wood,Northwood,Source1,3,41.61106,-83.54079,2017,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-3613263,OH,Wood,Bradner,Source1,4,41.34128,-83.4173,2017,7,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-3617251,OH,Wood,Perrysburg,Source1,4,41.524867,-83.62214,2017,3,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3626617,OH,Wood,Perrysburg,Source1,3,41.53719,-83.61662,2017,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3630150,OH,Wood,Bradner,Source1,4,41.34128,-83.4173,2017,11,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-3630151,OH,Wood,Bradner,Source1,4,41.35552,-83.474115,2017,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3643207,OH,Wood,Perrysburg,Source1,3,41.53719,-83.61662,2017,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3643222,OH,Wood,Bowling Green,Source1,4,41.45927,-83.7033,2017,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3643223,OH,Wood,Bowling Green,Source1,4,41.435036,-83.69745999999998,2017,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3643513,OH,Wood,Perrysburg,Source1,4,41.53276500000001,-83.637156,2017,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-3644631,OH,Wood,Perrysburg,Source1,3,41.54688,-83.60651,2017,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3836013,OH,Wood,Northwood,Source1,4,41.60131,-83.548501,2023,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-4471363,OH,Wood,North Baltimore,Source1,4,41.185888,-83.64976899999998,2022,0,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4654107,OH,Wood,Perrysburg,Source1,4,41.564915,-83.585621,2022,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4743987,OH,Wood,North Baltimore,Source1,4,41.185888,-83.64976899999998,2022,1,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4744285,OH,Wood,Bowling Green,Source1,4,41.353886,-83.68991899999997,2022,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4793750,OH,Wood,Northwood,Source1,4,41.612438,-83.540313,2022,15,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-4847755,OH,Wood,North Baltimore,Source1,4,41.183298,-83.649456,2022,0,Thursday,Cloudy,False,False,True,False,False,False,False
+A-4925051,OH,Wood,Perrysburg,Source1,4,41.543152,-83.681053,2022,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4926548,OH,Wood,Northwood,Source1,4,41.616448,-83.540953,2023,3,Thursday,Rain,False,False,False,False,False,False,False
+A-4970000,OH,Wood,Perrysburg,Source1,4,41.544757,-83.682536,2022,3,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5027786,OH,Wood,Millbury,Source1,4,41.556156,-83.46059699999998,2023,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5438310,OH,Wood,Northwood,Source1,4,41.611828,-83.540772,2023,4,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7002982,OH,Wood,Northwood,Source1,3,41.61739,-83.54103,2020,14,Thursday,Rain,False,False,False,False,False,False,False
+A-7002989,OH,Wood,Northwood,Source1,3,41.61739,-83.54103,2020,15,Thursday,Rain,False,False,False,False,False,False,False
+A-7003084,OH,Wood,Northwood,Source1,3,41.61739,-83.54103,2020,15,Thursday,Rain,False,False,False,False,False,False,False
+A-7035519,OH,Wood,Northwood,Source1,3,41.61739,-83.54103,2020,17,Monday,Rain,False,False,False,False,False,False,False
+A-7071980,OH,Wood,Perrysburg,Source1,3,41.58483,-83.56414000000002,2020,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7093861,OH,Wood,Northwood,Source1,3,41.60676,-83.54397,2020,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7119968,OH,Wood,Perrysburg,Source1,4,41.52214,-83.46337,2020,16,Wednesday,Rain,True,False,False,False,False,False,False
+A-7119983,OH,Wood,Perrysburg,Source1,3,41.52284,-83.46336,2020,16,Wednesday,Rain,False,False,True,False,False,False,False
+A-7119994,OH,Wood,Perrysburg,Source1,4,41.52214,-83.46337,2020,17,Wednesday,Rain,True,False,False,False,False,False,False
+A-7120005,OH,Wood,Perrysburg,Source1,4,41.52214,-83.46337,2020,16,Wednesday,Rain,True,False,False,False,False,False,False
+A-7120013,OH,Wood,Perrysburg,Source1,4,41.52214,-83.46337,2020,17,Wednesday,Rain,True,False,False,False,False,False,False
+A-7120018,OH,Wood,Perrysburg,Source1,4,41.52214,-83.46337,2020,17,Wednesday,Rain,True,False,False,False,False,False,False
+A-7130545,OH,Wood,Perrysburg,Source1,3,41.54688,-83.60651,2020,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-7130562,OH,Wood,Perrysburg,Source1,3,41.54688,-83.60651,2020,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-7177701,OH,Wood,Northwood,Source1,3,41.61739,-83.54103,2020,14,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7177708,OH,Wood,Northwood,Source1,3,41.61739,-83.54103,2020,15,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7177728,OH,Wood,Northwood,Source1,3,41.61739,-83.54103,2020,15,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7188218,OH,Wood,Weston,Source1,4,41.40118,-83.78648000000003,2020,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7188219,OH,Wood,Bowling Green,Source1,4,41.40246,-83.78648000000003,2020,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7188228,OH,Wood,Weston,Source1,4,41.40118,-83.78648000000003,2020,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7188229,OH,Wood,Weston,Source1,4,41.40124,-83.78648000000003,2020,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7208051,OH,Wood,Northwood,Source1,3,41.61743,-83.54087,2020,10,Monday,Rain,False,False,False,False,False,False,False
+A-7278157,OH,Wood,Perrysburg,Source1,4,41.49084000000001,-83.46144,2020,10,Friday,Cloudy,False,False,True,False,False,False,False
+A-7278158,OH,Wood,Perrysburg,Source1,4,41.49084000000001,-83.46144,2020,10,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7445191,OH,Wood,Perrysburg,Source1,4,41.54641,-83.6074,2019,1,Tuesday,Rain,False,False,False,False,False,False,False
+A-7475135,OH,Wood,Perrysburg,Source1,4,41.53269,-83.629479,2018,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7477126,OH,Wood,Northwood,Source1,4,41.60676,-83.54397,2018,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7499608,OH,Wood,Northwood,Source1,4,41.61791,-83.54106999999998,2018,4,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7508879,OH,Wood,Bowling Green,Source1,4,41.37103,-83.61645,2018,17,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-7524328,OH,Wood,Northwood,Source1,4,41.61106,-83.54079,2018,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7561948,OH,Wood,Bradner,Source1,4,41.34128,-83.4173,2018,17,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-7561949,OH,Wood,Bradner,Source1,4,41.343015,-83.44162800000002,2018,17,Wednesday,Cloudy,False,True,False,False,False,False,True
+A-7563998,OH,Wood,Millbury,Source1,4,41.55877,-83.46023000000002,2018,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7568390,OH,Wood,North Baltimore,Source1,4,41.220765,-83.650889,2018,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7573349,OH,Wood,Perrysburg,Source1,4,41.526674,-83.4633,2018,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7584820,OH,Wood,Millbury,Source1,4,41.55854,-83.418429,2018,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-7584821,OH,Wood,Millbury,Source1,4,41.55879,-83.44412,2018,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-7594350,OH,Wood,Perrysburg,Source1,3,41.549623,-83.603689,2018,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7594351,OH,Wood,Perrysburg,Source1,3,41.55134,-83.6021,2018,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7601176,OH,Wood,Perrysburg,Source1,4,41.533612,-83.66634599999998,2018,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7604585,OH,Wood,Northwood,Source1,3,41.60676,-83.54397,2018,9,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-7628847,OH,Wood,Perrysburg,Source1,4,41.53719,-83.61662,2018,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7633969,OH,Wood,Northwood,Source1,3,41.61743,-83.54087,2018,14,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7634591,OH,Wood,Perrysburg,Source1,4,41.505689,-83.59306,2018,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7634592,OH,Wood,Perrysburg,Source1,4,41.49255,-83.58415,2018,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7634608,OH,Wood,Perrysburg,Source1,4,41.49255,-83.58415,2018,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7634609,OH,Wood,Perrysburg,Source1,4,41.505689,-83.59306,2018,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7641381,OH,Wood,Custar,Source1,4,41.24046,-83.78515,2017,10,Thursday,Rain,False,False,False,True,False,False,False
+A-7641382,OH,Wood,Rudolph,Source1,4,41.256867,-83.78541,2017,10,Thursday,Rain,False,False,False,False,False,False,False
+A-7647754,OH,Wood,Custar,Source1,4,41.284607,-83.801951,2017,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7647755,OH,Wood,Custar,Source1,4,41.28467,-83.78607,2017,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7651820,OH,Wood,Perrysburg,Source1,3,41.53275,-83.64249000000002,2017,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-7651821,OH,Wood,Perrysburg,Source1,3,41.543928,-83.682029,2017,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-7653712,OH,Wood,Perrysburg,Source1,3,41.53719,-83.61662,2017,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7665757,OH,Wood,Perrysburg,Source1,4,41.54657,-83.60725,2017,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7666054,OH,Wood,Bradner,Source1,4,41.351785,-83.463447,2017,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7666055,OH,Wood,Bradner,Source1,4,41.35552,-83.474115,2017,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7666071,OH,Wood,Bradner,Source1,4,41.351785,-83.463447,2017,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7666072,OH,Wood,Bradner,Source1,4,41.355484,-83.47353000000003,2017,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7666078,OH,Wood,Bradner,Source1,4,41.355484,-83.47353000000003,2017,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7666079,OH,Wood,Bradner,Source1,4,41.351785,-83.463447,2017,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7666576,OH,Wood,Perrysburg,Source1,4,41.53719,-83.61662,2017,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7671787,OH,Wood,Perrysburg,Source1,4,41.577559,-83.601353,2017,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-7671788,OH,Wood,Perrysburg,Source1,4,41.56498,-83.61776,2017,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-7678829,OH,Wood,Millbury,Source1,4,41.557273,-83.48269499999998,2017,12,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-7679844,OH,Wood,Perrysburg,Source1,4,41.53188,-83.62704000000002,2017,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7686557,OH,Wood,Perrysburg,Source1,3,41.52575,-83.62137,2017,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7689083,OH,Wood,Perrysburg,Source1,4,41.5232,-83.53842,2017,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7689085,OH,Wood,Perrysburg,Source1,4,41.513814,-83.51644499999998,2017,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7690155,OH,Wood,Perrysburg,Source1,4,41.53719,-83.61662,2017,23,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7716250,OH,Wood,Bowling Green,Source1,4,41.36955,-83.617,2019,21,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7716252,OH,Wood,Bowling Green,Source1,4,41.36955,-83.617,2019,23,Monday,Clear / Fair,False,False,True,False,False,False,False

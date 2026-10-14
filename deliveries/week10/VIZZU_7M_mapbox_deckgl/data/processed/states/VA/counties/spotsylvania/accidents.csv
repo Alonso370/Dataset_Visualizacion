@@ -1,0 +1,796 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-531706,VA,Spotsylvania,Spotsylvania,Source2,3,38.322929,-77.709137,2022,15,Saturday,Cloudy,True,False,False,False,False,False,False
+A-537978,VA,Spotsylvania,Fredericksburg,Source2,3,38.266384,-77.51436600000002,2022,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-544189,VA,Spotsylvania,Fredericksburg,Source2,3,38.24173,-77.500893,2022,19,Saturday,Rain,False,False,False,False,False,False,False
+A-544375,VA,Spotsylvania,Fredericksburg,Source2,3,38.236893,-77.498436,2022,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-557370,VA,Spotsylvania,Spotsylvania,Source2,3,38.132877,-77.511459,2022,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-557578,VA,Spotsylvania,Woodford,Source2,3,38.131985,-77.510941,2022,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-568258,VA,Spotsylvania,Fredericksburg,Source2,3,38.218483,-77.499359,2022,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-568270,VA,Spotsylvania,Fredericksburg,Source2,3,38.239513,-77.499481,2022,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-570405,VA,Spotsylvania,Spotsylvania,Source2,3,38.132877,-77.511459,2022,19,Sunday,Cloudy,False,False,False,False,False,False,False
+A-591544,VA,Spotsylvania,Woodford,Source2,3,38.135422,-77.509895,2022,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-595996,VA,Spotsylvania,Fredericksburg,Source2,3,38.137321,-77.508659,2022,10,Sunday,Rain,False,False,False,False,False,False,False
+A-596030,VA,Spotsylvania,Fredericksburg,Source2,3,38.236465,-77.498329,2022,9,Sunday,Rain,False,False,False,False,False,False,False
+A-606771,VA,Spotsylvania,Woodford,Source2,3,38.131985,-77.510941,2022,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-608183,VA,Spotsylvania,Spotsylvania,Source2,3,38.132877,-77.511459,2022,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-617051,VA,Spotsylvania,Woodford,Source2,3,38.129391,-77.51244399999999,2022,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-620577,VA,Spotsylvania,Woodford,Source2,3,38.113262,-77.51825699999998,2022,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-622633,VA,Spotsylvania,Fredericksburg,Source2,3,38.160446,-77.507622,2022,5,Friday,Rain,False,False,False,False,False,False,False
+A-626442,VA,Spotsylvania,Spotsylvania,Source2,3,38.159622,-77.670959,2022,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-642354,VA,Spotsylvania,Woodford,Source2,3,38.131382,-77.511765,2022,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-644406,VA,Spotsylvania,Fredericksburg,Source2,3,38.24136,-77.49897,2022,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-646027,VA,Spotsylvania,Woodford,Source2,3,38.133965,-77.510536,2022,19,Monday,Other,False,False,False,False,False,False,False
+A-647718,VA,Spotsylvania,Woodford,Source2,3,38.131985,-77.510941,2022,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-647719,VA,Spotsylvania,Fredericksburg,Source2,3,38.239311,-77.500114,2022,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-654996,VA,Spotsylvania,Fredericksburg,Source2,3,38.239311,-77.500114,2022,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-658866,VA,Spotsylvania,Fredericksburg,Source2,3,38.23291,-77.50348699999998,2022,21,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-673581,VA,Spotsylvania,Fredericksburg,Source2,3,38.273319,-77.513634,2022,13,Thursday,Rain,False,False,False,False,False,False,False
+A-673723,VA,Spotsylvania,Woodford,Source2,3,38.132496,-77.5112,2022,11,Thursday,Rain,False,False,False,False,False,False,False
+A-676502,VA,Spotsylvania,Woodford,Source2,3,38.131985,-77.510941,2022,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-684356,VA,Spotsylvania,Fredericksburg,Source2,3,38.239311,-77.500114,2022,4,Wednesday,Rain,False,False,False,False,False,False,False
+A-693817,VA,Spotsylvania,Woodford,Source2,3,38.127895,-77.513512,2022,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-694968,VA,Spotsylvania,Spotsylvania,Source2,3,38.132877,-77.511459,2022,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-695037,VA,Spotsylvania,Spotsylvania,Source2,3,38.132877,-77.511459,2022,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-700178,VA,Spotsylvania,Woodford,Source2,3,38.129238,-77.51287099999998,2022,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-711578,VA,Spotsylvania,Fredericksburg,Source2,3,38.278,-77.511612,2022,5,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-712463,VA,Spotsylvania,Fredericksburg,Source2,3,38.2383,-77.499352,2022,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-718919,VA,Spotsylvania,Fredericksburg,Source2,3,38.23632,-77.499039,2022,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-723542,VA,Spotsylvania,Woodford,Source2,3,38.130238,-77.512001,2022,12,Thursday,Rain,False,False,False,False,False,False,False
+A-723595,VA,Spotsylvania,Fredericksburg,Source2,4,38.239311,-77.500114,2022,11,Thursday,Rain,False,False,False,False,False,False,False
+A-724552,VA,Spotsylvania,Woodford,Source2,3,38.131001,-77.51056700000002,2022,6,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-740002,VA,Spotsylvania,Fredericksburg,Source2,3,38.151524,-77.506203,2022,8,Thursday,Rain,False,False,False,False,False,False,False
+A-750576,VA,Spotsylvania,Fredericksburg,Source2,3,38.236786,-77.498405,2022,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-758052,VA,Spotsylvania,Fredericksburg,Source2,3,38.14996,-77.505936,2022,10,Saturday,Rain,False,False,False,False,False,False,False
+A-777713,VA,Spotsylvania,Spotsylvania,Source2,3,38.132416,-77.511238,2021,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-782879,VA,Spotsylvania,Fredericksburg,Source2,3,38.227715,-77.499298,2021,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-783381,VA,Spotsylvania,Fredericksburg,Source2,3,38.227894,-77.499252,2021,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-792720,VA,Spotsylvania,Fredericksburg,Source2,3,38.22880900000001,-77.499039,2021,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-793333,VA,Spotsylvania,Fredericksburg,Source2,3,38.219097,-77.499962,2021,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-823053,VA,Spotsylvania,Fredericksburg,Source2,3,38.239311,-77.500114,2021,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-827700,VA,Spotsylvania,Fredericksburg,Source2,3,38.25716,-77.51263399999998,2021,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-829867,VA,Spotsylvania,Fredericksburg,Source2,3,38.203522,-77.49859599999998,2021,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-852069,VA,Spotsylvania,Woodford,Source2,3,38.10878,-77.518013,2021,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-853089,VA,Spotsylvania,Fredericksburg,Source2,3,38.240574,-77.50056500000002,2021,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-873949,VA,Spotsylvania,Woodford,Source2,3,38.116119,-77.517944,2021,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-881585,VA,Spotsylvania,Fredericksburg,Source2,3,38.239586,-77.49951899999998,2021,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-884962,VA,Spotsylvania,Spotsylvania,Source2,3,38.132877,-77.511459,2021,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-892963,VA,Spotsylvania,Fredericksburg,Source2,3,38.225796,-77.499748,2021,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-906093,VA,Spotsylvania,Fredericksburg,Source2,3,38.213161,-77.49823,2021,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-909128,VA,Spotsylvania,Fredericksburg,Source2,3,38.141396,-77.506798,2021,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-919185,VA,Spotsylvania,Woodford,Source2,3,38.124252,-77.514984,2021,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-920630,VA,Spotsylvania,Fredericksburg,Source2,3,38.234638,-77.498413,2021,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-927157,VA,Spotsylvania,Fredericksburg,Source2,3,38.243233,-77.502815,2021,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-929729,VA,Spotsylvania,Fredericksburg,Source2,3,38.239311,-77.500114,2021,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-929783,VA,Spotsylvania,Fredericksburg,Source2,3,38.239483,-77.499466,2021,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-933279,VA,Spotsylvania,Fredericksburg,Source2,3,38.226158,-77.499664,2021,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-934297,VA,Spotsylvania,Fredericksburg,Source2,3,38.188644,-77.501213,2021,10,Wednesday,Rain,False,False,False,False,False,False,False
+A-935651,VA,Spotsylvania,Fredericksburg,Source2,3,38.194588,-77.500771,2021,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-943449,VA,Spotsylvania,Fredericksburg,Source2,3,38.152859,-77.506454,2021,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-951261,VA,Spotsylvania,Fredericksburg,Source2,3,38.243801,-77.503357,2021,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-956593,VA,Spotsylvania,Woodford,Source2,4,38.132034,-77.511093,2021,1,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-959974,VA,Spotsylvania,Fredericksburg,Source2,3,38.239311,-77.500114,2021,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-960128,VA,Spotsylvania,Spotsylvania,Source2,3,38.132877,-77.511459,2021,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-960310,VA,Spotsylvania,Fredericksburg,Source2,3,38.239311,-77.500114,2021,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-964720,VA,Spotsylvania,Fredericksburg,Source2,3,38.239311,-77.500114,2021,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-964819,VA,Spotsylvania,Woodford,Source2,4,38.131985,-77.510941,2021,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-970494,VA,Spotsylvania,Fredericksburg,Source2,3,38.238762,-77.501343,2021,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-980844,VA,Spotsylvania,Fredericksburg,Source2,3,38.227932,-77.49897800000002,2021,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-988480,VA,Spotsylvania,Fredericksburg,Source2,3,38.239311,-77.500114,2021,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-989644,VA,Spotsylvania,Spotsylvania,Source2,3,38.132877,-77.511459,2021,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-993965,VA,Spotsylvania,Spotsylvania,Source2,3,38.151482,-77.506493,2021,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-997431,VA,Spotsylvania,Woodford,Source2,3,38.131001,-77.51056700000002,2021,15,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-1006976,VA,Spotsylvania,Fredericksburg,Source2,3,38.23851,-77.499016,2021,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1007644,VA,Spotsylvania,Fredericksburg,Source2,3,38.251114,-77.505997,2021,8,Friday,Rain,True,False,False,False,False,False,False
+A-1014379,VA,Spotsylvania,Woodford,Source2,3,38.131985,-77.510941,2021,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-1020384,VA,Spotsylvania,Fredericksburg,Source2,3,38.144135,-77.506027,2021,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1035195,VA,Spotsylvania,Fredericksburg,Source2,3,38.173271,-77.503365,2021,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1035247,VA,Spotsylvania,Fredericksburg,Source2,3,38.238373,-77.499382,2021,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1038717,VA,Spotsylvania,Woodford,Source2,3,38.131985,-77.510941,2021,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1042048,VA,Spotsylvania,Woodford,Source3,3,38.108231,-77.518265,2021,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1043996,VA,Spotsylvania,Fredericksburg,Source2,3,38.236481,-77.498756,2021,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1055653,VA,Spotsylvania,Spotsylvania,Source2,4,38.132366,-77.511261,2021,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1062766,VA,Spotsylvania,Fredericksburg,Source2,4,38.239586,-77.49951899999998,2021,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1063424,VA,Spotsylvania,Fredericksburg,Source2,3,38.239021,-77.499229,2021,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1087361,VA,Spotsylvania,Fredericksburg,Source2,3,38.237461,-77.49861899999998,2021,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1091218,VA,Spotsylvania,Fredericksburg,Source2,3,38.241959,-77.500504,2021,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1095404,VA,Spotsylvania,Fredericksburg,Source2,3,38.238163,-77.498871,2021,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1095405,VA,Spotsylvania,Fredericksburg,Source2,4,38.239044,-77.499245,2021,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1095414,VA,Spotsylvania,Fredericksburg,Source2,3,38.239311,-77.500114,2021,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1103029,VA,Spotsylvania,Fredericksburg,Source2,3,38.239735,-77.499596,2021,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1114379,VA,Spotsylvania,Fredericksburg,Source2,3,38.149303,-77.505836,2021,7,Thursday,Rain,False,False,False,False,False,False,False
+A-1120051,VA,Spotsylvania,Fredericksburg,Source2,3,38.224537,-77.49969499999997,2021,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1143216,VA,Spotsylvania,Fredericksburg,Source2,3,38.232285,-77.49834399999997,2021,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1145674,VA,Spotsylvania,Fredericksburg,Source2,3,38.231327,-77.498482,2021,16,Friday,Sin dato,False,False,False,False,False,False,False
+A-1163679,VA,Spotsylvania,Spotsylvania,Source2,3,38.132877,-77.511459,2021,10,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1171401,VA,Spotsylvania,Fredericksburg,Source2,3,38.137146,-77.50874300000002,2021,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-1208442,VA,Spotsylvania,Spotsylvania,Source2,3,38.132877,-77.511459,2020,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1208444,VA,Spotsylvania,Fredericksburg,Source2,3,38.238564,-77.499039,2020,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1209866,VA,Spotsylvania,Fredericksburg,Source2,3,38.239025,-77.499237,2020,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1214031,VA,Spotsylvania,Spotsylvania,Source2,3,38.132877,-77.511459,2020,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1216898,VA,Spotsylvania,Spotsylvania,Source2,3,38.13375900000001,-77.510628,2020,22,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1228062,VA,Spotsylvania,Fredericksburg,Source2,3,38.238308,-77.499725,2020,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1229607,VA,Spotsylvania,Woodford,Source2,3,38.131985,-77.510941,2020,11,Monday,Rain,False,False,False,False,False,False,False
+A-1229608,VA,Spotsylvania,Woodford,Source2,3,38.131985,-77.510941,2020,11,Monday,Rain,False,False,False,False,False,False,False
+A-1231797,VA,Spotsylvania,Spotsylvania,Source2,3,38.132877,-77.511459,2020,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1236008,VA,Spotsylvania,Fredericksburg,Source2,3,38.239311,-77.500114,2020,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1236017,VA,Spotsylvania,Fredericksburg,Source2,3,38.133022,-77.51095600000002,2020,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1240607,VA,Spotsylvania,Spotsylvania,Source2,3,38.132877,-77.511459,2020,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1242873,VA,Spotsylvania,Woodford,Source2,3,38.130669,-77.51213100000002,2020,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1244545,VA,Spotsylvania,Woodford,Source2,3,38.131985,-77.510941,2020,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1246228,VA,Spotsylvania,Spotsylvania,Source2,3,38.132877,-77.511459,2020,7,Monday,Rain,False,False,False,False,False,False,False
+A-1248140,VA,Spotsylvania,Spotsylvania,Source2,3,38.132877,-77.511459,2020,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1250640,VA,Spotsylvania,Woodford,Source2,3,38.130791,-77.51136,2020,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1258847,VA,Spotsylvania,Fredericksburg,Source2,3,38.241959,-77.500504,2020,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1262336,VA,Spotsylvania,Fredericksburg,Source2,3,38.237469,-77.49861899999998,2020,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1270701,VA,Spotsylvania,Spotsylvania,Source2,3,38.132877,-77.511459,2020,12,Wednesday,Rain,False,False,False,False,False,False,False
+A-1270704,VA,Spotsylvania,Spotsylvania,Source2,3,38.132877,-77.511459,2020,13,Wednesday,Rain,False,False,False,False,False,False,False
+A-1284873,VA,Spotsylvania,Fredericksburg,Source2,3,38.238762,-77.501343,2020,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1286429,VA,Spotsylvania,Woodford,Source2,3,38.131985,-77.510941,2020,9,Sunday,Rain,False,False,False,False,False,False,False
+A-1291345,VA,Spotsylvania,Spotsylvania,Source2,3,38.132877,-77.511459,2020,12,Wednesday,Rain,False,False,False,False,False,False,False
+A-1297391,VA,Spotsylvania,Fredericksburg,Source2,3,38.248062,-77.507019,2020,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1303773,VA,Spotsylvania,Fredericksburg,Source2,3,38.147041,-77.50572199999998,2020,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-1360980,VA,Spotsylvania,Fredericksburg,Source2,3,38.133816,-77.510269,2020,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1363081,VA,Spotsylvania,Fredericksburg,Source2,3,38.239311,-77.500114,2020,15,Thursday,Rain,False,False,False,False,False,False,False
+A-1368774,VA,Spotsylvania,Fredericksburg,Source2,3,38.238861,-77.499161,2020,17,Tuesday,Rain,False,False,False,False,False,False,False
+A-1377049,VA,Spotsylvania,Spotsylvania,Source2,3,38.132877,-77.511459,2020,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1393497,VA,Spotsylvania,Fredericksburg,Source2,3,38.237324,-77.498993,2020,22,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1397870,VA,Spotsylvania,Fredericksburg,Source2,3,38.239143,-77.49929,2020,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-1417372,VA,Spotsylvania,Fredericksburg,Source2,3,38.132431,-77.510902,2020,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-1421719,VA,Spotsylvania,Spotsylvania,Source2,3,38.132877,-77.511459,2020,10,Thursday,Rain,False,False,False,False,False,False,False
+A-1430888,VA,Spotsylvania,Spotsylvania,Source2,3,38.166519,-77.662987,2020,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1457640,VA,Spotsylvania,Woodford,Source2,3,38.132034,-77.511093,2020,9,Thursday,Rain,False,False,False,False,False,False,False
+A-1463518,VA,Spotsylvania,Fredericksburg,Source2,3,38.230015,-77.49874100000002,2020,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-1467938,VA,Spotsylvania,Fredericksburg,Source2,3,38.176758,-77.501961,2020,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1476787,VA,Spotsylvania,Fredericksburg,Source2,3,38.137096,-77.50876600000002,2020,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1476793,VA,Spotsylvania,Spotsylvania,Source2,3,38.13277100000001,-77.511078,2020,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1480082,VA,Spotsylvania,Fredericksburg,Source2,3,38.231987,-77.49838299999998,2020,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1481505,VA,Spotsylvania,Fredericksburg,Source2,3,38.239311,-77.500114,2020,14,Friday,Rain,False,False,False,False,False,False,False
+A-1481507,VA,Spotsylvania,Fredericksburg,Source2,3,38.237988,-77.49850500000002,2020,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-1481531,VA,Spotsylvania,Fredericksburg,Source2,3,38.236061,-77.498238,2020,20,Friday,Rain,False,False,True,False,False,False,False
+A-1483430,VA,Spotsylvania,Spotsylvania,Source2,3,38.132877,-77.511459,2020,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1492234,VA,Spotsylvania,Fredericksburg,Source2,3,38.157925,-77.50717900000002,2020,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1497183,VA,Spotsylvania,Woodford,Source2,3,38.131985,-77.510941,2020,19,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1501963,VA,Spotsylvania,Fredericksburg,Source2,3,38.239311,-77.500114,2020,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1501980,VA,Spotsylvania,Spotsylvania,Source2,3,38.132877,-77.511459,2020,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1518415,VA,Spotsylvania,Fredericksburg,Source2,3,38.241611,-77.500023,2020,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1546269,VA,Spotsylvania,Fredericksburg,Source2,3,38.153122,-77.50676700000002,2020,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1547997,VA,Spotsylvania,Woodford,Source2,3,38.12986400000001,-77.512199,2020,17,Tuesday,Rain,False,False,False,False,False,False,False
+A-1553382,VA,Spotsylvania,Spotsylvania,Source2,3,38.132877,-77.511459,2020,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-1556751,VA,Spotsylvania,Fredericksburg,Source2,3,38.194271,-77.50052600000002,2020,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1560928,VA,Spotsylvania,Fredericksburg,Source2,4,38.133041,-77.510948,2020,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1567428,VA,Spotsylvania,Fredericksburg,Source2,3,38.136288,-77.509132,2020,20,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-1575122,VA,Spotsylvania,Fredericksburg,Source2,4,38.239311,-77.500114,2020,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1578464,VA,Spotsylvania,Spotsylvania,Source2,3,38.132698,-77.511368,2020,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1590512,VA,Spotsylvania,Spotsylvania,Source2,3,38.132698,-77.511368,2020,9,Tuesday,Rain,False,False,False,False,False,False,False
+A-1599949,VA,Spotsylvania,Fredericksburg,Source2,3,38.239906,-77.49968,2020,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1601315,VA,Spotsylvania,Fredericksburg,Source2,3,38.239311,-77.500114,2020,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1602913,VA,Spotsylvania,Woodford,Source2,3,38.131863,-77.511505,2020,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1623641,VA,Spotsylvania,Spotsylvania,Source2,3,38.132698,-77.511368,2020,19,Saturday,Rain,False,False,False,False,False,False,False
+A-1625611,VA,Spotsylvania,Fredericksburg,Source2,3,38.240005,-77.500221,2020,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1632204,VA,Spotsylvania,Spotsylvania,Source2,3,38.132698,-77.511368,2020,11,Thursday,Rain,False,False,False,False,False,False,False
+A-1632205,VA,Spotsylvania,Spotsylvania,Source2,3,38.132698,-77.511368,2020,11,Thursday,Rain,False,False,False,False,False,False,False
+A-1637939,VA,Spotsylvania,Spotsylvania,Source2,3,38.132698,-77.511368,2020,7,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1675271,VA,Spotsylvania,Fredericksburg,Source2,3,38.138981,-77.508003,2020,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1676989,VA,Spotsylvania,Fredericksburg,Source2,3,38.201759,-77.499481,2020,16,Friday,Rain,False,False,False,False,False,False,False
+A-1679196,VA,Spotsylvania,Spotsylvania,Source2,3,38.134975,-77.510094,2019,23,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1683394,VA,Spotsylvania,Fredericksburg,Source2,3,38.179691,-77.501915,2019,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1687913,VA,Spotsylvania,Fredericksburg,Source2,3,38.240665,-77.500618,2019,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-1702746,VA,Spotsylvania,Spotsylvania,Source2,3,38.323627,-77.715393,2019,10,Monday,Rain,False,False,False,False,False,False,False
+A-1705360,VA,Spotsylvania,Spotsylvania,Source2,3,38.322929,-77.709137,2019,4,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-1713705,VA,Spotsylvania,Spotsylvania,Source2,3,38.132698,-77.511368,2019,9,Friday,Rain,False,False,False,False,False,False,False
+A-1713737,VA,Spotsylvania,Fredericksburg,Source2,3,38.190079,-77.500847,2019,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1736277,VA,Spotsylvania,Fredericksburg,Source2,3,38.239311,-77.500114,2019,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1747561,VA,Spotsylvania,Spotsylvania,Source2,3,38.132698,-77.511368,2019,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1756916,VA,Spotsylvania,Fredericksburg,Source2,3,38.196426,-77.500343,2019,11,Wednesday,Rain,False,False,False,False,False,False,False
+A-1765511,VA,Spotsylvania,Fredericksburg,Source2,3,38.241821,-77.499413,2019,15,Sunday,Rain,True,False,False,False,False,False,False
+A-1774663,VA,Spotsylvania,Fredericksburg,Source2,3,38.24590300000001,-77.505447,2019,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1779560,VA,Spotsylvania,Fredericksburg,Source2,3,38.240913,-77.500298,2019,22,Saturday,Cloudy,False,False,True,False,False,False,False
+A-1789078,VA,Spotsylvania,Fredericksburg,Source2,3,38.134933,-77.509727,2019,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1825991,VA,Spotsylvania,Fredericksburg,Source2,3,38.239311,-77.500114,2019,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1825997,VA,Spotsylvania,Fredericksburg,Source2,3,38.239311,-77.500114,2019,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1841252,VA,Spotsylvania,Fredericksburg,Source2,3,38.132553,-77.510841,2019,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1860930,VA,Spotsylvania,Fredericksburg,Source2,4,38.132553,-77.510841,2019,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1866746,VA,Spotsylvania,Woodford,Source2,3,38.130844,-77.511688,2019,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1866796,VA,Spotsylvania,Fredericksburg,Source2,3,38.132324,-77.510948,2019,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1866799,VA,Spotsylvania,Woodford,Source2,3,38.12904,-77.51261099999998,2019,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1873490,VA,Spotsylvania,Fredericksburg,Source2,3,38.158688,-77.507614,2019,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1884987,VA,Spotsylvania,Spotsylvania,Source2,3,38.132698,-77.511368,2019,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1885769,VA,Spotsylvania,Fredericksburg,Source2,3,38.239311,-77.500114,2019,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1902730,VA,Spotsylvania,Fredericksburg,Source2,3,38.239311,-77.500114,2019,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1907719,VA,Spotsylvania,Woodford,Source2,3,38.113865,-77.51786,2019,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1907720,VA,Spotsylvania,Woodford,Source2,3,38.12933,-77.512466,2019,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1920159,VA,Spotsylvania,Woodford,Source2,3,38.129086,-77.512589,2019,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1920171,VA,Spotsylvania,Fredericksburg,Source2,3,38.253017,-77.511253,2019,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1952259,VA,Spotsylvania,Fredericksburg,Source2,4,38.239407,-77.49942800000002,2019,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-1952267,VA,Spotsylvania,Fredericksburg,Source2,4,38.239513,-77.499481,2019,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1959432,VA,Spotsylvania,Fredericksburg,Source2,3,38.239548,-77.499496,2019,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1961593,VA,Spotsylvania,Fredericksburg,Source2,3,38.237358,-77.499001,2019,18,Thursday,Rain,False,False,False,False,False,False,False
+A-1986712,VA,Spotsylvania,Spotsylvania,Source2,3,38.132698,-77.511368,2019,22,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2002830,VA,Spotsylvania,Spotsylvania,Source2,3,38.132698,-77.511368,2019,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2041295,VA,Spotsylvania,Fredericksburg,Source2,3,38.239311,-77.500114,2019,14,Sunday,Rain,False,False,False,False,False,False,False
+A-2054047,VA,Spotsylvania,Fredericksburg,Source2,3,38.239311,-77.500114,2019,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2057468,VA,Spotsylvania,Fredericksburg,Source2,3,38.238579,-77.499611,2019,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2057479,VA,Spotsylvania,Fredericksburg,Source2,3,38.15799000000001,-77.50717900000002,2019,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2066600,VA,Spotsylvania,Fredericksburg,Source2,3,38.241959,-77.500504,2019,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2070596,VA,Spotsylvania,Fredericksburg,Source2,3,38.202255,-77.498985,2019,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2079624,VA,Spotsylvania,Fredericksburg,Source2,3,38.180332,-77.501595,2019,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2087428,VA,Spotsylvania,Fredericksburg,Source2,3,38.238766,-77.499557,2019,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2110600,VA,Spotsylvania,Fredericksburg,Source2,3,38.239391,-77.49987,2019,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2119153,VA,Spotsylvania,Spotsylvania,Source2,3,38.132698,-77.511368,2019,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2123335,VA,Spotsylvania,Fredericksburg,Source2,3,38.237511,-77.499054,2019,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2123340,VA,Spotsylvania,Spotsylvania,Source2,3,38.132698,-77.511368,2019,22,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2124025,VA,Spotsylvania,Spotsylvania,Source2,3,38.132698,-77.511368,2019,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2140146,VA,Spotsylvania,Spotsylvania,Source2,3,38.132275,-77.511299,2019,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2166753,VA,Spotsylvania,Fredericksburg,Source2,3,38.24905800000001,-77.508438,2019,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2174411,VA,Spotsylvania,Fredericksburg,Source2,3,38.239311,-77.500114,2019,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2174423,VA,Spotsylvania,Fredericksburg,Source2,3,38.239513,-77.499481,2019,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2178862,VA,Spotsylvania,Fredericksburg,Source2,3,38.194336,-77.500519,2019,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2187317,VA,Spotsylvania,Spotsylvania,Source2,3,38.132698,-77.511368,2019,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2192588,VA,Spotsylvania,Fredericksburg,Source2,3,38.167027,-77.505142,2019,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2211301,VA,Spotsylvania,Fredericksburg,Source2,3,38.226036,-77.499557,2019,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2220490,VA,Spotsylvania,Woodford,Source2,3,38.112411,-77.517899,2019,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2223074,VA,Spotsylvania,Fredericksburg,Source2,3,38.2775,-77.511787,2019,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2233134,VA,Spotsylvania,Woodford,Source2,3,38.130791,-77.512497,2019,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2236913,VA,Spotsylvania,Fredericksburg,Source2,3,38.237324,-77.498993,2019,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2241337,VA,Spotsylvania,Fredericksburg,Source2,3,38.132217,-77.510994,2019,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2251863,VA,Spotsylvania,Fredericksburg,Source2,3,38.133045,-77.51061999999997,2019,17,Friday,Rain,False,False,False,False,False,False,False
+A-2279113,VA,Spotsylvania,Fredericksburg,Source2,3,38.23838,-77.498962,2019,7,Tuesday,Rain,False,False,False,False,False,False,False
+A-2284741,VA,Spotsylvania,Fredericksburg,Source2,3,38.237324,-77.498993,2019,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2284744,VA,Spotsylvania,Fredericksburg,Source2,3,38.255379,-77.512505,2019,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2295828,VA,Spotsylvania,Fredericksburg,Source2,3,38.239769,-77.499939,2019,7,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2295936,VA,Spotsylvania,Fredericksburg,Source2,3,38.239769,-77.499939,2019,17,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2295937,VA,Spotsylvania,Fredericksburg,Source2,3,38.238407,-77.49897,2019,17,Wednesday,Rain,False,False,False,False,False,False,False
+A-2298577,VA,Spotsylvania,Fredericksburg,Source2,3,38.132572,-77.510834,2019,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2303870,VA,Spotsylvania,Spotsylvania,Source2,3,38.133156,-77.511009,2019,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2333609,VA,Spotsylvania,Spotsylvania,Source2,3,38.133156,-77.511009,2019,10,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-2336972,VA,Spotsylvania,Fredericksburg,Source2,3,38.25676,-77.513123,2019,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2356389,VA,Spotsylvania,Spotsylvania,Source2,3,38.133156,-77.511009,2019,7,Thursday,Rain,False,False,False,False,False,False,False
+A-2356454,VA,Spotsylvania,Fredericksburg,Source2,3,38.133518,-77.510406,2019,12,Thursday,Rain,False,False,False,False,False,False,False
+A-2379583,VA,Spotsylvania,Fredericksburg,Source2,3,38.132267,-77.510971,2018,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2381788,VA,Spotsylvania,Fredericksburg,Source2,3,38.239769,-77.499939,2018,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2384028,VA,Spotsylvania,Spotsylvania,Source2,3,38.133156,-77.511009,2018,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2387419,VA,Spotsylvania,Fredericksburg,Source3,3,38.244781,-77.525131,2018,16,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-2392256,VA,Spotsylvania,Fredericksburg,Source2,3,38.229588,-77.498589,2018,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2392311,VA,Spotsylvania,Spotsylvania,Source2,3,38.133156,-77.511009,2018,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2400469,VA,Spotsylvania,Fredericksburg,Source2,3,38.133415,-77.510452,2018,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2400482,VA,Spotsylvania,Fredericksburg,Source2,3,38.239727,-77.50005300000002,2018,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2418549,VA,Spotsylvania,Spotsylvania,Source2,3,38.133156,-77.511009,2018,13,Friday,Rain,False,False,False,False,False,False,False
+A-2421081,VA,Spotsylvania,Spotsylvania,Source2,3,38.133156,-77.511009,2018,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2432246,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2018,8,Monday,Rain,False,False,False,False,False,False,False
+A-2452456,VA,Spotsylvania,Fredericksburg,Source2,3,38.238728,-77.499557,2018,4,Tuesday,Rain,False,False,False,False,False,False,False
+A-2473932,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2018,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2477092,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2018,12,Saturday,Rain,False,False,False,False,False,False,False
+A-2477780,VA,Spotsylvania,Fredericksburg,Source2,3,38.238728,-77.499557,2018,7,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2484354,VA,Spotsylvania,Fredericksburg,Source2,3,38.238728,-77.499557,2018,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2484420,VA,Spotsylvania,Fredericksburg,Source2,3,38.238728,-77.499557,2018,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2506754,VA,Spotsylvania,Fredericksburg,Source2,3,38.24218,-77.501083,2018,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2529423,VA,Spotsylvania,Fredericksburg,Source2,3,38.2145,-77.498352,2018,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2532926,VA,Spotsylvania,Fredericksburg,Source2,3,38.238026,-77.49973299999998,2018,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2539556,VA,Spotsylvania,Fredericksburg,Source2,3,38.238186,-77.499809,2018,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2545274,VA,Spotsylvania,Fredericksburg,Source2,3,38.238472,-77.499504,2018,16,Friday,Rain,False,False,False,False,False,False,False
+A-2545280,VA,Spotsylvania,Fredericksburg,Source2,3,38.23856,-77.499466,2018,17,Friday,Rain,False,False,False,False,False,False,False
+A-2555847,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2018,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-2559691,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2018,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2559704,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2018,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2563802,VA,Spotsylvania,Fredericksburg,Source2,3,38.135597,-77.509499,2018,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2563803,VA,Spotsylvania,Spotsylvania,Source2,3,38.14999,-77.607254,2018,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2573334,VA,Spotsylvania,Fredericksburg,Source2,3,38.24218,-77.501083,2018,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-2576010,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2018,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2578877,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2018,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2578891,VA,Spotsylvania,Fredericksburg,Source2,3,38.256973,-77.512566,2018,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2588136,VA,Spotsylvania,Fredericksburg,Source2,3,38.238728,-77.499557,2018,16,Monday,Rain,False,False,False,False,False,False,False
+A-2595578,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2018,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2604963,VA,Spotsylvania,Fredericksburg,Source2,3,38.23922,-77.499222,2018,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2624036,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2018,22,Friday,Cloudy,False,False,False,False,False,False,False
+A-2627869,VA,Spotsylvania,Fredericksburg,Source2,3,38.238728,-77.499557,2018,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2630389,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2018,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2630390,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2018,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2630391,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2018,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2630393,VA,Spotsylvania,Fredericksburg,Source2,3,38.238728,-77.499557,2018,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2630394,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2018,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2630400,VA,Spotsylvania,Spotsylvania,Source2,3,38.136898,-77.509171,2018,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2635445,VA,Spotsylvania,Fredericksburg,Source2,3,38.238346,-77.499565,2018,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2638015,VA,Spotsylvania,Fredericksburg,Source2,3,38.239349,-77.499191,2018,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2641201,VA,Spotsylvania,Fredericksburg,Source2,3,38.238728,-77.499557,2018,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2649342,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2018,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2655994,VA,Spotsylvania,Fredericksburg,Source2,3,38.134441,-77.509789,2018,6,Monday,Rain,False,False,False,False,False,False,False
+A-2656037,VA,Spotsylvania,Fredericksburg,Source2,3,38.238728,-77.499557,2018,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-2672247,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2018,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2681734,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2018,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2681737,VA,Spotsylvania,Fredericksburg,Source2,3,38.238728,-77.499557,2018,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2681741,VA,Spotsylvania,Woodford,Source2,3,38.128994,-77.51299300000002,2018,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2687381,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2018,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2687413,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2018,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2687427,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2018,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2695395,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2018,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2697690,VA,Spotsylvania,Fredericksburg,Source2,3,38.236107,-77.498299,2018,4,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-2699912,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2714205,VA,Spotsylvania,Woodford,Source2,3,38.12915,-77.512573,2018,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-2714229,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2018,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2722888,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2018,17,Wednesday,Rain,False,False,False,False,False,False,False
+A-2722889,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2018,17,Wednesday,Rain,False,False,False,False,False,False,False
+A-2727441,VA,Spotsylvania,Woodford,Source2,3,38.131168,-77.510925,2018,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-2731099,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2018,7,Monday,Rain,False,False,False,False,False,False,False
+A-2731101,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2018,7,Monday,Rain,False,False,False,False,False,False,False
+A-2733453,VA,Spotsylvania,Fredericksburg,Source2,3,38.145935,-77.505913,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2758281,VA,Spotsylvania,Fredericksburg,Source2,3,38.238728,-77.499557,2018,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2769563,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2018,17,Tuesday,Rain,False,False,False,False,False,False,False
+A-2774161,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2018,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2776379,VA,Spotsylvania,Fredericksburg,Source2,3,38.237728,-77.499916,2018,5,Friday,Rain,False,False,False,False,False,False,False
+A-2776397,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2018,7,Friday,Rain,False,False,False,False,False,False,False
+A-2776398,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2018,7,Friday,Rain,False,False,False,False,False,False,False
+A-2778451,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2018,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2780261,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2018,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2785089,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2018,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2785102,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2018,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2785103,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2018,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2805925,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2018,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2806722,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2018,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-2806727,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2018,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-2809223,VA,Spotsylvania,Fredericksburg,Source2,3,38.238728,-77.499557,2018,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2820532,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2018,19,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2824156,VA,Spotsylvania,Fredericksburg,Source2,3,38.24696,-77.505997,2018,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2826835,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2018,13,Wednesday,Rain,False,False,False,False,False,False,False
+A-2826836,VA,Spotsylvania,Spotsylvania,Source2,3,38.136246,-77.509567,2018,13,Wednesday,Rain,False,False,True,False,False,False,False
+A-2826849,VA,Spotsylvania,Fredericksburg,Source2,3,38.238728,-77.499557,2018,16,Wednesday,Rain,False,False,False,False,False,False,False
+A-2826850,VA,Spotsylvania,Fredericksburg,Source2,3,38.132198,-77.510582,2018,16,Wednesday,Rain,False,False,False,False,False,False,False
+A-2826854,VA,Spotsylvania,Fredericksburg,Source2,3,38.237377,-77.498428,2018,16,Wednesday,Rain,False,False,False,False,False,False,False
+A-2844191,VA,Spotsylvania,Woodford,Source2,3,38.108707,-77.51802099999998,2018,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2858767,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2018,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-2858823,VA,Spotsylvania,Fredericksburg,Source2,3,38.238808,-77.499146,2018,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-2861147,VA,Spotsylvania,Fredericksburg,Source2,3,38.239616,-77.49955,2018,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2895004,VA,Spotsylvania,Fredericksburg,Source2,3,38.238682,-77.499084,2018,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2922452,VA,Spotsylvania,Fredericksburg,Source2,3,38.238388,-77.49897,2018,17,Friday,Sin dato,False,False,False,False,False,False,False
+A-2933018,VA,Spotsylvania,Fredericksburg,Source2,3,38.238728,-77.499557,2018,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2938413,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2018,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2941197,VA,Spotsylvania,Fredericksburg,Source2,3,38.238728,-77.499557,2018,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2943971,VA,Spotsylvania,Fredericksburg,Source2,3,38.23901400000001,-77.49969499999997,2018,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2956011,VA,Spotsylvania,Fredericksburg,Source2,3,38.24218,-77.501083,2018,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-2972758,VA,Spotsylvania,Fredericksburg,Source2,3,38.235252,-77.49814599999998,2018,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3003659,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2018,11,Saturday,Rain,False,False,False,False,False,False,False
+A-3010790,VA,Spotsylvania,Fredericksburg,Source2,3,38.238728,-77.499557,2018,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3013100,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2018,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3021576,VA,Spotsylvania,Fredericksburg,Source2,3,38.238728,-77.499557,2018,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3026850,VA,Spotsylvania,Fredericksburg,Source2,3,38.237465,-77.498627,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3026853,VA,Spotsylvania,Fredericksburg,Source2,3,38.219048,-77.499962,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3047762,VA,Spotsylvania,Woodford,Source2,3,38.117485,-77.51738,2018,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3062650,VA,Spotsylvania,Fredericksburg,Source2,3,38.238544,-77.499634,2018,19,Friday,Rain,False,False,False,False,False,False,False
+A-3066637,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2018,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3066647,VA,Spotsylvania,Fredericksburg,Source2,3,38.23851,-77.499023,2018,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3069118,VA,Spotsylvania,Fredericksburg,Source2,3,38.241417,-77.499229,2018,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3078001,VA,Spotsylvania,Fredericksburg,Source2,3,38.238728,-77.499557,2018,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3106568,VA,Spotsylvania,Fredericksburg,Source2,3,38.238728,-77.499557,2017,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3133500,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2017,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3137884,VA,Spotsylvania,Fredericksburg,Source2,3,38.133213,-77.510681,2017,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3143677,VA,Spotsylvania,Fredericksburg,Source2,3,38.239162,-77.499321,2017,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3146217,VA,Spotsylvania,Woodford,Source2,3,38.130718,-77.511871,2017,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3146222,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2017,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3150067,VA,Spotsylvania,Fredericksburg,Source2,3,38.238728,-77.49955,2017,2,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3150072,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2017,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3150087,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2017,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3151066,VA,Spotsylvania,Fredericksburg,Source2,3,38.23933,-77.49940500000002,2017,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3151070,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2017,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3151074,VA,Spotsylvania,Fredericksburg,Source2,3,38.238728,-77.499557,2017,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3197296,VA,Spotsylvania,Fredericksburg,Source2,3,38.238728,-77.499557,2017,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3197310,VA,Spotsylvania,Fredericksburg,Source2,3,38.238831,-77.49960300000002,2017,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3200146,VA,Spotsylvania,Fredericksburg,Source2,3,38.132156,-77.511185,2017,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3200184,VA,Spotsylvania,Fredericksburg,Source2,3,38.238438,-77.498985,2017,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3200203,VA,Spotsylvania,Fredericksburg,Source2,3,38.23901,-77.499245,2017,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3200229,VA,Spotsylvania,Fredericksburg,Source2,3,38.238728,-77.499557,2017,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3210348,VA,Spotsylvania,Fredericksburg,Source2,3,38.238373,-77.49940500000002,2017,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3279968,VA,Spotsylvania,Fredericksburg,Source2,3,38.238728,-77.499557,2017,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-3285695,VA,Spotsylvania,Fredericksburg,Source2,3,38.239174,-77.499771,2017,18,Tuesday,Rain,False,False,False,False,False,False,False
+A-3288689,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2017,15,Wednesday,Rain,False,False,False,False,False,False,False
+A-3291675,VA,Spotsylvania,Fredericksburg,Source2,3,38.238384,-77.49940500000002,2017,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3297783,VA,Spotsylvania,Fredericksburg,Source2,3,38.239525,-77.499504,2017,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3304109,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2017,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3314166,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2017,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3314171,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2017,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-3317076,VA,Spotsylvania,Spotsylvania,Source2,3,38.132324,-77.511391,2017,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3322876,VA,Spotsylvania,Fredericksburg,Source2,3,38.23909,-77.49928299999998,2017,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3322911,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2017,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3329087,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2017,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3330158,VA,Spotsylvania,Fredericksburg,Source2,3,38.238728,-77.499557,2017,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3338854,VA,Spotsylvania,Fredericksburg,Source2,3,38.239151,-77.499756,2017,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3345977,VA,Spotsylvania,Fredericksburg,Source2,3,38.200447,-77.499535,2017,12,Friday,Rain,False,False,False,False,False,False,False
+A-3345978,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2017,14,Friday,Rain,False,False,False,False,False,False,False
+A-3368172,VA,Spotsylvania,Fredericksburg,Source2,3,38.238663,-77.499077,2017,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3377190,VA,Spotsylvania,Spotsylvania,Source2,3,38.132324,-77.511391,2017,7,Tuesday,Rain,False,False,False,False,False,False,False
+A-3377215,VA,Spotsylvania,Woodford,Source2,3,38.131798,-77.51164200000002,2017,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3377218,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2017,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3379853,VA,Spotsylvania,Fredericksburg,Source2,3,38.238728,-77.499557,2017,6,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3385741,VA,Spotsylvania,Fredericksburg,Source2,3,38.132153,-77.511185,2017,19,Friday,Rain,False,False,False,False,False,False,False
+A-3385746,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2017,19,Friday,Rain,False,False,False,False,False,False,False
+A-3388739,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2017,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3388746,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2017,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3389567,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2017,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3395287,VA,Spotsylvania,Fredericksburg,Source2,3,38.240047,-77.498817,2017,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3407620,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2017,5,Tuesday,Rain,False,False,False,False,False,False,False
+A-3407633,VA,Spotsylvania,Fredericksburg,Source2,3,38.238415,-77.49897800000002,2017,6,Tuesday,Rain,False,False,False,False,False,False,False
+A-3407726,VA,Spotsylvania,Fredericksburg,Source2,3,38.132248,-77.511139,2017,15,Tuesday,Rain,False,False,False,False,False,False,False
+A-3407732,VA,Spotsylvania,Fredericksburg,Source2,3,38.238728,-77.499557,2017,17,Tuesday,Rain,False,False,False,False,False,False,False
+A-3451170,VA,Spotsylvania,Woodford,Source1,3,38.10775,-77.51773,2016,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-3451559,VA,Spotsylvania,Woodford,Source1,4,38.12853,-77.51286,2016,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3451615,VA,Spotsylvania,Fredericksburg,Source1,4,38.238068,-77.499249,2016,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3452873,VA,Spotsylvania,Spotsylvania,Source1,4,38.187695,-77.619743,2016,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3452875,VA,Spotsylvania,Spotsylvania,Source1,4,38.202289,-77.605362,2016,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3453186,VA,Spotsylvania,Fredericksburg,Source1,4,38.224066,-77.45255999999998,2016,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3455395,VA,Spotsylvania,Fredericksburg,Source1,4,38.248919,-77.493286,2016,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3455398,VA,Spotsylvania,Fredericksburg,Source1,4,38.247878,-77.490662,2016,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3461370,VA,Spotsylvania,Woodford,Source1,4,38.231448,-77.40555,2017,15,Saturday,Cloudy,True,False,False,False,False,False,False
+A-3463640,VA,Spotsylvania,Fredericksburg,Source1,3,38.255209,-77.497568,2016,7,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-3466424,VA,Spotsylvania,Spotsylvania,Source1,3,38.16235,-77.642064,2016,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3467656,VA,Spotsylvania,Spotsylvania,Source1,4,38.09079000000001,-77.80114,2016,4,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3471225,VA,Spotsylvania,Fredericksburg,Source1,3,38.24251,-77.50211999999998,2016,0,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3472596,VA,Spotsylvania,Fredericksburg,Source1,3,38.296061,-77.512975,2016,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3476467,VA,Spotsylvania,Spotsylvania,Source1,3,38.16392000000001,-77.64036999999998,2016,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3478949,VA,Spotsylvania,Spotsylvania,Source1,4,38.168796,-77.519077,2016,9,Wednesday,Rain,False,False,False,False,False,False,False
+A-3480051,VA,Spotsylvania,Fredericksburg,Source1,4,38.248352,-77.468744,2016,5,Saturday,Rain,False,False,False,False,False,False,False
+A-3480052,VA,Spotsylvania,Fredericksburg,Source1,4,38.24987,-77.46444100000002,2016,5,Saturday,Rain,False,False,False,False,False,False,False
+A-3494787,VA,Spotsylvania,Fredericksburg,Source1,4,38.274466,-77.513574,2016,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3502378,VA,Spotsylvania,Fredericksburg,Source1,3,38.234001,-77.49799,2016,15,Monday,Rain,False,False,False,False,False,False,False
+A-3577650,VA,Spotsylvania,Fredericksburg,Source1,4,38.263161,-77.495902,2017,8,Wednesday,Cloudy,False,True,False,False,False,False,False
+A-3580690,VA,Spotsylvania,Woodford,Source1,3,38.12853,-77.51286,2017,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3601175,VA,Spotsylvania,Fredericksburg,Source1,4,38.257741,-77.43123100000003,2017,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3601176,VA,Spotsylvania,Fredericksburg,Source1,4,38.25588,-77.42926,2017,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3618625,VA,Spotsylvania,Fredericksburg,Source1,3,38.150067,-77.50595,2017,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-3643092,VA,Spotsylvania,Fredericksburg,Source1,4,38.289906,-77.54762,2017,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3646630,VA,Spotsylvania,Woodford,Source1,3,38.131341,-77.511439,2017,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3672632,VA,Spotsylvania,Fredericksburg,Source1,4,38.219591,-77.499602,2023,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-3682006,VA,Spotsylvania,Spotsylvania,Source1,4,38.215015,-77.70150799999998,2023,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-3684311,VA,Spotsylvania,Spotsylvania,Source1,4,38.215764,-77.703114,2023,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-3715044,VA,Spotsylvania,Spotsylvania,Source1,4,38.213711,-77.612984,2022,22,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3716883,VA,Spotsylvania,Fredericksburg,Source1,4,38.301567,-77.615013,2022,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3720809,VA,Spotsylvania,Bumpass,Source1,4,38.04481,-77.717024,2022,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3739410,VA,Spotsylvania,Fredericksburg,Source1,4,38.255279,-77.58110400000002,2023,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3789635,VA,Spotsylvania,Fredericksburg,Source1,4,38.318447,-77.552242,2023,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3801684,VA,Spotsylvania,Fredericksburg,Source1,4,38.227992,-77.463125,2023,0,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3803036,VA,Spotsylvania,Spotsylvania,Source1,4,38.119123,-77.629974,2022,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-3806806,VA,Spotsylvania,Fredericksburg,Source1,4,38.153159,-77.506757,2023,14,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-3819474,VA,Spotsylvania,Fredericksburg,Source1,4,38.34465,-77.669617,2022,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-3834807,VA,Spotsylvania,Fredericksburg,Source1,4,38.293007,-77.52204499999998,2022,14,Monday,Rain,True,False,False,False,False,False,False
+A-3837741,VA,Spotsylvania,Mineral,Source1,4,38.088665,-77.808661,2022,2,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3846412,VA,Spotsylvania,Fredericksburg,Source1,4,38.291459,-77.56886999999998,2022,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3855357,VA,Spotsylvania,Fredericksburg,Source1,4,38.223911,-77.451397,2022,14,Friday,Rain,False,False,False,False,False,False,False
+A-3872111,VA,Spotsylvania,Spotsylvania,Source1,4,38.220257,-77.669403,2023,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3879324,VA,Spotsylvania,Fredericksburg,Source1,4,38.275256,-77.450659,2022,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3881390,VA,Spotsylvania,Fredericksburg,Source1,4,38.23517918568499,-77.49847054444551,2022,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3882202,VA,Spotsylvania,Beaverdam,Source1,4,38.022945,-77.620338,2022,21,Sunday,Rain,False,False,False,False,False,False,False
+A-3882203,VA,Spotsylvania,Beaverdam,Source1,4,38.020706,-77.61595,2022,21,Sunday,Rain,False,False,False,False,False,False,False
+A-3902326,VA,Spotsylvania,Spotsylvania,Source1,4,38.154736,-77.52198800000002,2023,16,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-3907579,VA,Spotsylvania,Partlow,Source1,4,38.02466,-77.62389399999998,2022,21,Sunday,Rain,False,False,False,False,False,False,False
+A-3910206,VA,Spotsylvania,Spotsylvania,Source1,4,38.173233,-77.63325400000002,2022,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3910597,VA,Spotsylvania,Fredericksburg,Source1,4,38.30480900000001,-77.62378100000002,2022,5,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3911160,VA,Spotsylvania,Spotsylvania,Source1,4,38.157265,-77.824461,2022,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3914945,VA,Spotsylvania,Spotsylvania,Source1,4,38.225851,-77.6268,2022,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3928878,VA,Spotsylvania,Spotsylvania,Source1,4,38.117294,-77.758705,2022,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3950433,VA,Spotsylvania,Spotsylvania,Source1,4,38.221888,-77.710707,2022,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3983949,VA,Spotsylvania,Spotsylvania,Source1,4,38.189716,-77.774635,2023,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3995358,VA,Spotsylvania,Spotsylvania,Source1,4,38.122268,-77.616495,2022,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3996324,VA,Spotsylvania,Partlow,Source1,4,38.050413,-77.661971,2022,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4000275,VA,Spotsylvania,Spotsylvania,Source1,4,38.161781,-77.640126,2022,9,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4001602,VA,Spotsylvania,Fredericksburg,Source1,4,38.270116,-77.540899,2022,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4007042,VA,Spotsylvania,Spotsylvania,Source1,4,38.24339000000001,-77.602434,2023,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4015789,VA,Spotsylvania,Fredericksburg,Source1,4,38.212913,-77.507559,2022,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4033644,VA,Spotsylvania,Fredericksburg,Source1,4,38.270208,-77.493172,2022,2,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4046153,VA,Spotsylvania,Spotsylvania,Source1,4,38.322674,-77.709129,2022,16,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-4052026,VA,Spotsylvania,Fredericksburg,Source1,4,38.229515,-77.52887,2022,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4055926,VA,Spotsylvania,Fredericksburg,Source1,4,38.155548,-77.506918,2022,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4091227,VA,Spotsylvania,Spotsylvania,Source1,4,38.21405,-77.61335799999998,2022,22,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4096629,VA,Spotsylvania,Fredericksburg,Source1,4,38.253082,-77.426223,2022,18,Friday,Cloudy,True,False,False,False,False,False,False
+A-4111691,VA,Spotsylvania,Spotsylvania,Source1,4,38.116243,-77.75707299999998,2022,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4114776,VA,Spotsylvania,Spotsylvania,Source1,4,38.17437,-77.632075,2022,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4125699,VA,Spotsylvania,Fredericksburg,Source1,4,38.281496,-77.554838,2022,0,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-4126480,VA,Spotsylvania,Fredericksburg,Source1,4,38.270269,-77.54198199999998,2022,18,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-4145584,VA,Spotsylvania,Fredericksburg,Source1,4,38.289466,-77.531671,2022,22,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-4145585,VA,Spotsylvania,Fredericksburg,Source1,4,38.289714,-77.53089,2022,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4152953,VA,Spotsylvania,Fredericksburg,Source1,4,38.283231,-77.565265,2022,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4215229,VA,Spotsylvania,Fredericksburg,Source1,4,38.225708,-77.498817,2022,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4216783,VA,Spotsylvania,Spotsylvania,Source1,4,38.134253,-77.527335,2022,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4234147,VA,Spotsylvania,Woodford,Source1,4,38.097586,-77.541774,2022,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-4244864,VA,Spotsylvania,Spotsylvania,Source1,4,38.284199,-77.686188,2022,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-4270808,VA,Spotsylvania,Fredericksburg,Source1,4,38.201509,-77.471237,2022,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4274866,VA,Spotsylvania,Spotsylvania,Source1,4,38.143097,-77.813622,2022,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4288726,VA,Spotsylvania,Locust Grove,Source1,4,38.275295,-77.75725600000001,2022,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4298140,VA,Spotsylvania,Spotsylvania,Source1,4,38.197541,-77.61191600000002,2022,20,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-4302620,VA,Spotsylvania,Spotsylvania,Source1,4,38.197943,-77.61158499999998,2022,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4308283,VA,Spotsylvania,Spotsylvania,Source1,4,38.310107,-77.672527,2022,15,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-4316115,VA,Spotsylvania,Fredericksburg,Source1,4,38.246834,-77.486311,2022,7,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-4316293,VA,Spotsylvania,Spotsylvania,Source1,4,38.144012,-77.52359799999998,2022,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4332963,VA,Spotsylvania,Spotsylvania,Source1,4,38.222004,-77.710953,2022,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4346100,VA,Spotsylvania,Fredericksburg,Source1,4,38.224197,-77.453661,2022,14,Friday,Rain,False,False,False,False,False,False,False
+A-4359295,VA,Spotsylvania,Fredericksburg,Source1,4,38.223911,-77.451397,2022,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4359838,VA,Spotsylvania,Fredericksburg,Source1,4,38.244927,-77.52505699999998,2022,23,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-4366417,VA,Spotsylvania,Spotsylvania,Source1,4,38.166236,-77.662683,2022,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4389638,VA,Spotsylvania,Fredericksburg,Source1,4,38.27480300000001,-77.450241,2022,21,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-4399770,VA,Spotsylvania,Fredericksburg,Source1,4,38.24892,-77.57209,2023,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4432733,VA,Spotsylvania,Fredericksburg,Source1,4,38.27480300000001,-77.450241,2022,21,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-4432968,VA,Spotsylvania,Fredericksburg,Source1,4,38.306337,-77.516361,2022,9,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-4451386,VA,Spotsylvania,Fredericksburg,Source1,4,38.254803,-77.580663,2023,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4455280,VA,Spotsylvania,Fredericksburg,Source1,4,38.292956,-77.582212,2022,1,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4456457,VA,Spotsylvania,Fredericksburg,Source1,4,38.248842,-77.507699,2022,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4456458,VA,Spotsylvania,Fredericksburg,Source1,4,38.249892,-77.508544,2022,23,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4456459,VA,Spotsylvania,Fredericksburg,Source1,4,38.249892,-77.508544,2022,0,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4457681,VA,Spotsylvania,Fredericksburg,Source1,4,38.264207,-77.495513,2023,21,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-4461282,VA,Spotsylvania,Beaverdam,Source1,4,38.025528,-77.624847,2022,21,Sunday,Rain,False,False,False,False,False,False,False
+A-4471961,VA,Spotsylvania,Fredericksburg,Source1,4,38.194213,-77.50080600000003,2022,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4475141,VA,Spotsylvania,Spotsylvania,Source1,4,38.189909,-77.775194,2023,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4479667,VA,Spotsylvania,Fredericksburg,Source1,4,38.293311,-77.520555,2022,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4491918,VA,Spotsylvania,Spotsylvania,Source1,4,38.161999,-77.640663,2022,9,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-4504700,VA,Spotsylvania,Spotsylvania,Source1,4,38.131218,-77.733475,2022,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4510814,VA,Spotsylvania,Spotsylvania,Source1,4,38.138229,-77.72511300000002,2022,17,Thursday,Rain,False,False,False,False,False,False,False
+A-4512240,VA,Spotsylvania,Spotsylvania,Source1,4,38.132082,-77.735129,2022,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4526236,VA,Spotsylvania,Fredericksburg,Source1,4,38.276726,-77.601907,2023,9,Tuesday,Rain,False,False,False,False,False,False,False
+A-4536620,VA,Spotsylvania,Fredericksburg,Source1,4,38.2744,-77.512929,2022,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-4539888,VA,Spotsylvania,Fredericksburg,Source1,4,38.237693,-77.50011500000002,2022,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4541586,VA,Spotsylvania,Fredericksburg,Source1,4,38.308006,-77.634209,2022,8,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-4589378,VA,Spotsylvania,Spotsylvania,Source1,4,38.20619600000001,-77.597994,2022,17,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-4603169,VA,Spotsylvania,Fredericksburg,Source1,4,38.203434,-77.46934499999998,2022,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4609454,VA,Spotsylvania,Spotsylvania,Source1,4,38.117294,-77.758705,2022,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4634005,VA,Spotsylvania,Fredericksburg,Source1,4,38.25548,-77.497675,2022,12,Monday,Cloudy,True,False,False,False,False,False,False
+A-4647531,VA,Spotsylvania,Spotsylvania,Source1,4,38.143284,-77.813911,2022,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4649747,VA,Spotsylvania,Spotsylvania,Source1,4,38.237734,-77.54764200000002,2022,17,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-4650924,VA,Spotsylvania,Partlow,Source1,4,38.050413,-77.661971,2022,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4658884,VA,Spotsylvania,Spotsylvania,Source1,4,38.197541,-77.61191600000002,2022,20,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-4673261,VA,Spotsylvania,Spotsylvania,Source1,4,38.310802,-77.651223,2022,0,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4686990,VA,Spotsylvania,Spotsylvania,Source1,4,38.13699,-77.844963,2022,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4692136,VA,Spotsylvania,Spotsylvania,Source1,4,38.14583,-77.523973,2022,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4710322,VA,Spotsylvania,Fredericksburg,Source1,4,38.236606,-77.500711,2022,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4716782,VA,Spotsylvania,Fredericksburg,Source1,4,38.275182,-77.44948000000002,2022,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4722555,VA,Spotsylvania,Woodford,Source1,4,38.098343,-77.543015,2022,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-4726275,VA,Spotsylvania,Spotsylvania,Source1,4,38.310673,-77.651306,2022,0,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4729190,VA,Spotsylvania,Spotsylvania,Source1,4,38.307351,-77.708492,2022,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4736735,VA,Spotsylvania,Spotsylvania,Source1,4,38.309262,-77.67343699999998,2022,9,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4736931,VA,Spotsylvania,Spotsylvania,Source1,4,38.284482,-77.68656700000003,2022,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-4752114,VA,Spotsylvania,Fredericksburg,Source1,4,38.2466,-77.48631,2022,7,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-4797799,VA,Spotsylvania,Fredericksburg,Source1,4,38.28997800000001,-77.553366,2023,18,Thursday,Cloudy,False,True,False,False,False,False,False
+A-4815290,VA,Spotsylvania,Spotsylvania,Source1,4,38.135911,-77.509652,2022,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4833414,VA,Spotsylvania,Locust Grove,Source1,4,38.275151,-77.757876,2022,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4841327,VA,Spotsylvania,Fredericksburg,Source1,4,38.169942,-77.51899999999998,2022,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4854471,VA,Spotsylvania,Fredericksburg,Source1,4,38.224197,-77.453661,2022,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4862312,VA,Spotsylvania,Spotsylvania,Source1,4,38.17437,-77.632075,2022,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4872685,VA,Spotsylvania,Partlow,Source1,4,38.038842,-77.639188,2022,15,Sunday,Rain,False,False,False,False,False,False,False
+A-4886621,VA,Spotsylvania,Spotsylvania,Source1,4,38.11919,-77.62271899999998,2022,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-4889085,VA,Spotsylvania,Spotsylvania,Source1,4,38.138037,-77.725391,2022,17,Thursday,Rain,False,False,False,False,False,False,False
+A-4896782,VA,Spotsylvania,Fredericksburg,Source1,4,38.290184,-77.552208,2022,21,Sunday,Clear / Fair,False,True,False,False,False,False,False
+A-4904463,VA,Spotsylvania,Spotsylvania,Source1,4,38.168778,-77.519032,2022,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4904789,VA,Spotsylvania,Fredericksburg,Source1,4,38.240791,-77.435417,2022,18,Monday,Clear / Fair,False,True,False,False,False,False,True
+A-4915826,VA,Spotsylvania,Fredericksburg,Source1,4,38.244688,-77.52516800000002,2022,23,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-4953193,VA,Spotsylvania,Spotsylvania,Source1,4,38.139763,-77.553558,2023,7,Thursday,Rain,False,False,False,False,False,False,False
+A-4955965,VA,Spotsylvania,Spotsylvania,Source1,4,38.132432,-77.511335,2022,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4972325,VA,Spotsylvania,Spotsylvania,Source1,4,38.206987,-77.598768,2022,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4977956,VA,Spotsylvania,Fredericksburg,Source1,4,38.223689,-77.482924,2022,18,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-4988222,VA,Spotsylvania,Bumpass,Source1,4,38.041409,-77.711525,2022,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4996028,VA,Spotsylvania,Spotsylvania,Source1,4,38.144531,-77.840797,2022,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5003831,VA,Spotsylvania,Fredericksburg,Source1,4,38.317422,-77.550928,2023,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5005067,VA,Spotsylvania,Fredericksburg,Source1,4,38.227872,-77.461424,2023,0,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5008663,VA,Spotsylvania,Fredericksburg,Source1,4,38.249695,-77.508948,2022,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5017487,VA,Spotsylvania,Woodford,Source1,4,38.13559412938053,-77.50947833024257,2022,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5024157,VA,Spotsylvania,Fredericksburg,Source1,4,38.275211,-77.602554,2023,9,Tuesday,Rain,False,False,False,False,False,False,False
+A-5033974,VA,Spotsylvania,Spotsylvania,Source1,4,38.121992,-77.6168,2022,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5049555,VA,Spotsylvania,Fredericksburg,Source1,4,38.277761,-77.533792,2022,8,Sunday,Cloudy,False,True,False,False,False,False,False
+A-5061973,VA,Spotsylvania,Woodford,Source1,4,38.118175,-77.51723100000002,2022,13,Thursday,Rain,False,False,False,False,False,False,False
+A-5084024,VA,Spotsylvania,Beaverdam,Source1,4,38.018985,-77.61363,2022,21,Sunday,Rain,False,False,False,False,False,False,False
+A-5114984,VA,Spotsylvania,Spotsylvania,Source1,4,38.225565,-77.62651899999999,2022,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5121790,VA,Spotsylvania,Spotsylvania,Source1,4,38.134416,-77.528972,2022,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5141859,VA,Spotsylvania,Fredericksburg,Source1,4,38.246766,-77.518169,2022,3,Sunday,Clear / Fair,False,True,False,False,False,False,False
+A-5143853,VA,Spotsylvania,Partlow,Source1,4,38.05057,-77.662291,2022,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5149152,VA,Spotsylvania,Spotsylvania,Source1,4,38.197658,-77.612025,2022,20,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-5168378,VA,Spotsylvania,Spotsylvania,Source1,4,38.310107,-77.672527,2022,9,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-5192367,VA,Spotsylvania,Fredericksburg,Source1,4,38.294292,-77.51858399999998,2023,12,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-5194301,VA,Spotsylvania,Spotsylvania,Source1,4,38.219448,-77.669151,2023,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5196500,VA,Spotsylvania,Spotsylvania,Source1,4,38.120205,-77.757009,2022,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5211406,VA,Spotsylvania,Mineral,Source1,4,38.089821,-77.807266,2022,2,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5227628,VA,Spotsylvania,Spotsylvania,Source1,4,38.301292,-77.7089,2022,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5230496,VA,Spotsylvania,Fredericksburg,Source1,4,38.289435,-77.549133,2022,21,Sunday,Clear / Fair,False,True,False,False,False,False,False
+A-5254495,VA,Spotsylvania,Fredericksburg,Source1,4,38.343748,-77.66803900000002,2022,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-5265928,VA,Spotsylvania,Spotsylvania,Source1,4,38.243661,-77.599675,2023,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5279672,VA,Spotsylvania,Spotsylvania,Source1,4,38.158138,-77.823853,2022,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5292038,VA,Spotsylvania,Partlow,Source1,4,38.039944,-77.641335,2022,15,Sunday,Rain,False,False,False,False,False,False,False
+A-5316256,VA,Spotsylvania,Spotsylvania,Source1,4,38.139853,-77.556066,2023,7,Thursday,Rain,False,False,False,False,False,False,False
+A-5342129,VA,Spotsylvania,Spotsylvania,Source1,4,38.173682,-77.592554,2022,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5366602,VA,Spotsylvania,Fredericksburg,Source1,4,38.252855,-77.426006,2022,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-5367507,VA,Spotsylvania,Spotsylvania,Source1,4,38.322918,-77.709106,2022,19,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-5376395,VA,Spotsylvania,Partlow,Source1,4,38.050577,-77.661979,2022,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5395050,VA,Spotsylvania,Fredericksburg,Source1,4,38.281631,-77.554683,2022,0,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-5395652,VA,Spotsylvania,Fredericksburg,Source1,4,38.213307,-77.507544,2022,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5397885,VA,Spotsylvania,Fredericksburg,Source1,4,38.239574,-77.436189,2022,18,Monday,Clear / Fair,False,True,False,False,False,False,True
+A-5420920,VA,Spotsylvania,Spotsylvania,Source1,4,38.322918,-77.709106,2022,16,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-5422924,VA,Spotsylvania,Fredericksburg,Source1,4,38.246527,-77.520247,2022,3,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5428726,VA,Spotsylvania,Fredericksburg,Source1,4,38.229755,-77.528389,2022,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5439843,VA,Spotsylvania,Fredericksburg,Source1,4,38.281094,-77.56710799999998,2022,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5495357,VA,Spotsylvania,Fredericksburg,Source1,4,38.270443,-77.460762,2021,22,Sunday,Rain,False,False,False,False,False,False,False
+A-5507948,VA,Spotsylvania,Fredericksburg,Source1,4,38.237732,-77.525757,2021,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5517556,VA,Spotsylvania,Locust Grove,Source1,4,38.293781,-77.719574,2021,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5539212,VA,Spotsylvania,Spotsylvania,Source1,4,38.123814,-77.77310899999998,2021,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5559072,VA,Spotsylvania,Fredericksburg,Source1,4,38.221263,-77.50733100000002,2021,1,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-5559679,VA,Spotsylvania,Fredericksburg,Source1,4,38.293081,-77.585266,2021,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5591063,VA,Spotsylvania,Spotsylvania,Source1,4,38.239868,-77.612587,2021,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5611043,VA,Spotsylvania,Fredericksburg,Source1,4,38.217964,-77.550917,2021,12,Thursday,Clear / Fair,False,True,False,False,False,False,False
+A-5649734,VA,Spotsylvania,Fredericksburg,Source1,4,38.255611,-77.49765,2021,17,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-5679241,VA,Spotsylvania,Fredericksburg,Source1,4,38.23934600000001,-77.5252,2021,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5740466,VA,Spotsylvania,Spotsylvania,Source1,4,38.24136,-77.557838,2021,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-5740467,VA,Spotsylvania,Spotsylvania,Source1,4,38.24136,-77.557838,2021,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5766045,VA,Spotsylvania,Fredericksburg,Source1,4,38.271568,-77.46285999999998,2021,22,Sunday,Rain,False,False,False,False,False,False,False
+A-5770842,VA,Spotsylvania,Fredericksburg,Source1,4,38.29377,-77.58918,2021,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5784755,VA,Spotsylvania,Woodford,Source1,4,38.094787,-77.536512,2021,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5784862,VA,Spotsylvania,Spotsylvania,Source1,4,38.124818,-77.775662,2021,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5821332,VA,Spotsylvania,Partlow,Source1,4,38.100795,-77.702015,2021,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5822552,VA,Spotsylvania,Fredericksburg,Source1,4,38.195248,-77.478675,2021,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5843138,VA,Spotsylvania,Fredericksburg,Source1,4,38.220375,-77.551651,2021,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5873080,VA,Spotsylvania,Woodford,Source1,4,38.127474,-77.496436,2021,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5892106,VA,Spotsylvania,Mineral,Source1,4,38.121746,-77.874123,2021,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5893727,VA,Spotsylvania,Fredericksburg,Source1,4,38.221953000000006,-77.50731400000002,2021,1,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5895369,VA,Spotsylvania,Fredericksburg,Source1,4,38.231574296769,-77.4055802818422,2021,10,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-5914298,VA,Spotsylvania,Woodford,Source1,4,38.132332,-77.511383,2021,4,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5921909,VA,Spotsylvania,Fredericksburg,Source1,4,38.194245,-77.508724,2021,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5928657,VA,Spotsylvania,Spotsylvania,Source1,4,38.243416,-77.55851,2021,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-5933052,VA,Spotsylvania,Fredericksburg,Source1,4,38.163545,-77.467875,2021,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-5974689,VA,Spotsylvania,Woodford,Source1,4,38.13559412938053,-77.50947833024257,2021,0,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6011112,VA,Spotsylvania,Fredericksburg,Source1,4,38.22903,-77.475507,2021,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6037492,VA,Spotsylvania,Fredericksburg,Source1,4,38.243549,-77.419022,2021,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6059514,VA,Spotsylvania,Fredericksburg,Source1,4,38.243885,-77.41938,2021,2,Wednesday,Clear / Fair,False,False,False,True,False,False,False
+A-6078986,VA,Spotsylvania,Woodford,Source1,4,38.094086,-77.536908,2021,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6086216,VA,Spotsylvania,Spotsylvania,Source1,4,38.206126,-77.597177,2021,21,Wednesday,Rain,False,False,False,False,False,False,False
+A-6097746,VA,Spotsylvania,Partlow,Source1,4,38.100098,-77.703621,2021,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6140052,VA,Spotsylvania,Mineral,Source1,4,38.12280535679759,-77.88814187012723,2021,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6146114,VA,Spotsylvania,Fredericksburg,Source1,4,38.255698,-77.497489,2021,17,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-6187888,VA,Spotsylvania,Spotsylvania,Source1,4,38.240131,-77.612053,2021,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6196334,VA,Spotsylvania,Fredericksburg,Source1,4,38.22957873326192,-77.50497221909758,2021,12,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-6206592,VA,Spotsylvania,Woodford,Source1,4,38.108707666215366,-77.51825451813927,2021,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-6210405,VA,Spotsylvania,Fredericksburg,Source1,4,38.163925,-77.468452,2021,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-6216404,VA,Spotsylvania,Bumpass,Source1,4,38.02088141423215,-77.70043015442991,2021,5,Sunday,Rain,False,False,False,False,False,False,False
+A-6257001,VA,Spotsylvania,Spotsylvania,Source1,4,38.288583,-77.72642900000002,2021,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6262769,VA,Spotsylvania,Spotsylvania,Source1,4,38.136899,-77.509174,2021,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6271202,VA,Spotsylvania,Spotsylvania,Source1,4,38.240013,-77.612297,2021,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6273593,VA,Spotsylvania,Spotsylvania,Source1,4,38.308207,-77.63498,2021,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6286484,VA,Spotsylvania,Fredericksburg,Source1,4,38.228236,-77.477131,2021,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6309097,VA,Spotsylvania,Fredericksburg,Source1,4,38.282852,-77.531715,2021,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6333088,VA,Spotsylvania,Fredericksburg,Source1,4,38.23517918568499,-77.49847054444551,2021,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6351964,VA,Spotsylvania,Spotsylvania,Source1,4,38.220408,-77.715586,2021,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6404543,VA,Spotsylvania,Spotsylvania,Source1,4,38.237727,-77.557411,2021,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6409629,VA,Spotsylvania,Spotsylvania,Source1,4,38.237543,-77.557514,2021,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6422763,VA,Spotsylvania,Spotsylvania,Source1,4,38.193695,-77.790797,2021,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6423626,VA,Spotsylvania,Partlow,Source1,4,38.099683,-77.618049,2021,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6453285,VA,Spotsylvania,Spotsylvania,Source1,4,38.22294831257713,-77.72776722870957,2021,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6467702,VA,Spotsylvania,Spotsylvania,Source1,4,38.159889,-77.736092,2021,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6475823,VA,Spotsylvania,Spotsylvania,Source1,4,38.160465,-77.73865500000002,2021,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6479083,VA,Spotsylvania,Fredericksburg,Source1,4,38.258118,-77.583557,2021,12,Saturday,Sin dato,False,False,False,False,False,False,False
+A-6496802,VA,Spotsylvania,Spotsylvania,Source1,4,38.19377,-77.791364,2021,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6499203,VA,Spotsylvania,Partlow,Source1,4,38.098309,-77.618462,2021,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6513081,VA,Spotsylvania,Spotsylvania,Source1,4,38.117294,-77.758705,2021,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6534478,VA,Spotsylvania,Fredericksburg,Source1,4,38.253521,-77.5382,2021,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6549320,VA,Spotsylvania,Fredericksburg,Source1,4,38.258118,-77.583557,2021,12,Saturday,Sin dato,False,False,False,False,False,False,False
+A-6555476,VA,Spotsylvania,Spotsylvania,Source1,4,38.120205,-77.757009,2021,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6606685,VA,Spotsylvania,Spotsylvania,Source1,4,38.079341,-77.585774,2020,22,Thursday,Rain,False,False,False,False,False,False,False
+A-6607018,VA,Spotsylvania,Spotsylvania,Source1,4,38.322918,-77.709106,2020,20,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-6610167,VA,Spotsylvania,Fredericksburg,Source1,4,38.359249,-77.685687,2020,1,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6675509,VA,Spotsylvania,Spotsylvania,Source1,4,38.21405,-77.61335799999998,2020,1,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6691898,VA,Spotsylvania,Spotsylvania,Source1,4,38.308228,-77.675547,2020,23,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6725262,VA,Spotsylvania,Spotsylvania,Source1,4,38.213585,-77.612724,2020,1,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6741264,VA,Spotsylvania,Fredericksburg,Source1,4,38.257954,-77.469606,2020,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6764638,VA,Spotsylvania,Fredericksburg,Source1,4,38.254186,-77.56774200000002,2020,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6781898,VA,Spotsylvania,Fredericksburg,Source1,4,38.185655,-77.501202,2020,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6792018,VA,Spotsylvania,Fredericksburg,Source1,4,38.258087,-77.469505,2020,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6819253,VA,Spotsylvania,Spotsylvania,Source1,4,38.08004,-77.58382399999998,2020,22,Thursday,Rain,False,False,False,False,False,False,False
+A-6824670,VA,Spotsylvania,Spotsylvania,Source1,4,38.310107,-77.672527,2020,23,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-6824830,VA,Spotsylvania,Fredericksburg,Source1,4,38.253288,-77.568825,2020,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7000289,VA,Spotsylvania,Woodford,Source1,3,38.12916,-77.51255,2020,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7000339,VA,Spotsylvania,Woodford,Source1,3,38.12916,-77.51255,2020,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7002769,VA,Spotsylvania,Woodford,Source1,3,38.10775,-77.51773,2020,9,Thursday,Rain,False,False,False,False,False,False,False
+A-7002783,VA,Spotsylvania,Woodford,Source1,3,38.10775,-77.51773,2020,9,Thursday,Rain,False,False,False,False,False,False,False
+A-7002788,VA,Spotsylvania,Woodford,Source1,3,38.10775,-77.51773,2020,9,Thursday,Rain,False,False,False,False,False,False,False
+A-7002794,VA,Spotsylvania,Woodford,Source1,3,38.10775,-77.51773,2020,9,Thursday,Rain,False,False,False,False,False,False,False
+A-7002797,VA,Spotsylvania,Woodford,Source1,3,38.10775,-77.51773,2020,10,Thursday,Rain,False,False,False,False,False,False,False
+A-7002826,VA,Spotsylvania,Woodford,Source1,3,38.12868,-77.51279,2020,10,Thursday,Rain,False,False,False,False,False,False,False
+A-7002844,VA,Spotsylvania,Woodford,Source1,3,38.12868,-77.51279,2020,12,Thursday,Rain,False,False,False,False,False,False,False
+A-7002850,VA,Spotsylvania,Woodford,Source1,3,38.12868,-77.51279,2020,11,Thursday,Rain,False,False,False,False,False,False,False
+A-7002861,VA,Spotsylvania,Woodford,Source1,3,38.12868,-77.51279,2020,11,Thursday,Rain,False,False,False,False,False,False,False
+A-7002870,VA,Spotsylvania,Woodford,Source1,3,38.12868,-77.51279,2020,11,Thursday,Rain,False,False,False,False,False,False,False
+A-7002884,VA,Spotsylvania,Woodford,Source1,3,38.12868,-77.51279,2020,12,Thursday,Rain,False,False,False,False,False,False,False
+A-7009761,VA,Spotsylvania,Woodford,Source1,3,38.12863,-77.51318,2020,23,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7021803,VA,Spotsylvania,Woodford,Source1,3,38.12863,-77.51318,2020,0,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7021809,VA,Spotsylvania,Woodford,Source1,3,38.12863,-77.51318,2020,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-7021818,VA,Spotsylvania,Woodford,Source1,3,38.12863,-77.51318,2020,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-7021830,VA,Spotsylvania,Woodford,Source1,3,38.12863,-77.51318,2020,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-7021841,VA,Spotsylvania,Woodford,Source1,3,38.12863,-77.51318,2020,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-7021850,VA,Spotsylvania,Woodford,Source1,3,38.12863,-77.51318,2020,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-7021863,VA,Spotsylvania,Woodford,Source1,3,38.12863,-77.51318,2020,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-7021868,VA,Spotsylvania,Woodford,Source1,3,38.12863,-77.51318,2020,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-7021871,VA,Spotsylvania,Woodford,Source1,3,38.12863,-77.51318,2020,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-7021873,VA,Spotsylvania,Woodford,Source1,3,38.12863,-77.51318,2020,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7021875,VA,Spotsylvania,Woodford,Source1,3,38.12863,-77.51318,2020,23,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7021878,VA,Spotsylvania,Woodford,Source1,3,38.12863,-77.51318,2020,23,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7021880,VA,Spotsylvania,Woodford,Source1,3,38.12863,-77.51318,2020,0,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7021881,VA,Spotsylvania,Woodford,Source1,3,38.12863,-77.51318,2020,0,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7024044,VA,Spotsylvania,Fredericksburg,Source1,3,38.23605,-77.49824,2020,18,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7044620,VA,Spotsylvania,Woodford,Source1,3,38.12916,-77.51255,2020,4,Friday,Rain,False,False,False,False,False,False,False
+A-7060041,VA,Spotsylvania,Fredericksburg,Source1,3,38.23605,-77.49824,2020,16,Friday,Cloudy,False,False,True,False,False,False,False
+A-7070254,VA,Spotsylvania,Woodford,Source1,3,38.12916,-77.51255,2020,19,Saturday,Rain,False,False,False,False,False,False,False
+A-7070727,VA,Spotsylvania,Fredericksburg,Source1,3,38.29054,-77.5533,2020,15,Sunday,Clear / Fair,True,True,False,False,False,False,False
+A-7070731,VA,Spotsylvania,Fredericksburg,Source1,3,38.29054,-77.5533,2020,15,Sunday,Clear / Fair,True,True,False,False,False,False,False
+A-7071950,VA,Spotsylvania,Woodford,Source1,3,38.12868,-77.51279,2020,3,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7088310,VA,Spotsylvania,Woodford,Source1,3,38.12863,-77.51318,2020,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-7088439,VA,Spotsylvania,Woodford,Source1,3,38.12863,-77.51318,2020,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-7088609,VA,Spotsylvania,Fredericksburg,Source1,4,38.25107,-77.50596,2020,21,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-7088617,VA,Spotsylvania,Fredericksburg,Source1,4,38.25107,-77.50596,2020,22,Monday,Cloudy,True,False,False,False,False,False,False
+A-7090956,VA,Spotsylvania,Fredericksburg,Source1,4,38.2371,-77.50036,2020,9,Tuesday,Rain,True,False,False,False,False,False,False
+A-7099075,VA,Spotsylvania,Woodford,Source1,3,38.12868,-77.51279,2020,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-7099088,VA,Spotsylvania,Fredericksburg,Source1,3,38.26406,-77.49205,2020,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-7099223,VA,Spotsylvania,Woodford,Source1,3,38.12916,-77.51255,2020,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-7103545,VA,Spotsylvania,Woodford,Source1,3,38.12552,-77.51438,2020,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7103548,VA,Spotsylvania,Woodford,Source1,3,38.12868,-77.51279,2020,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7107162,VA,Spotsylvania,Fredericksburg,Source1,4,38.28946,-77.53169,2020,8,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-7179869,VA,Spotsylvania,Woodford,Source1,3,38.12868,-77.51279,2020,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7179870,VA,Spotsylvania,Woodford,Source1,3,38.12868,-77.51279,2020,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7197484,VA,Spotsylvania,Fredericksburg,Source1,4,38.23716,-77.5005,2020,20,Saturday,Rain,True,False,False,False,False,False,False
+A-7197492,VA,Spotsylvania,Fredericksburg,Source1,4,38.23716,-77.5005,2020,20,Saturday,Rain,True,False,False,False,False,False,False
+A-7197499,VA,Spotsylvania,Fredericksburg,Source1,4,38.23716,-77.5005,2020,21,Saturday,Rain,True,False,False,False,False,False,False
+A-7197501,VA,Spotsylvania,Fredericksburg,Source1,4,38.23291,-77.50349,2020,22,Saturday,Cloudy,True,False,False,False,False,False,False
+A-7197502,VA,Spotsylvania,Fredericksburg,Source1,4,38.23291,-77.50349,2020,22,Saturday,Cloudy,True,False,False,False,False,False,False
+A-7221529,VA,Spotsylvania,Fredericksburg,Source1,3,38.2438,-77.50336,2020,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7307210,VA,Spotsylvania,Spotsylvania,Source1,4,38.32268,-77.7092,2019,9,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-7425495,VA,Spotsylvania,Fredericksburg,Source1,3,38.135989,-77.50927,2019,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7426320,VA,Spotsylvania,Fredericksburg,Source1,3,38.26204,-77.49615,2019,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7428832,VA,Spotsylvania,Woodford,Source1,4,38.10588,-77.5299,2019,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7429149,VA,Spotsylvania,Spotsylvania,Source1,4,38.316959,-77.687811,2019,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-7439599,VA,Spotsylvania,Fredericksburg,Source1,4,38.2371,-77.50036,2019,12,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-7443389,VA,Spotsylvania,Fredericksburg,Source1,3,38.145935,-77.50576,2019,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7450921,VA,Spotsylvania,Fredericksburg,Source1,4,38.207823,-77.49808900000002,2019,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7450959,VA,Spotsylvania,Fredericksburg,Source1,4,38.207823,-77.49808900000002,2019,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7456038,VA,Spotsylvania,Fredericksburg,Source1,4,38.307321,-77.631603,2019,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7475129,VA,Spotsylvania,Mineral,Source1,4,38.127799,-77.916399,2018,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7477096,VA,Spotsylvania,Fredericksburg,Source1,4,38.25116,-77.50604,2018,14,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7482815,VA,Spotsylvania,Fredericksburg,Source1,3,38.243509,-77.49916,2018,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7485654,VA,Spotsylvania,Fredericksburg,Source1,4,38.30828,-77.6342,2018,17,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-7495853,VA,Spotsylvania,Spotsylvania,Source1,4,38.31007,-77.67249,2018,1,Monday,Cloudy,True,False,False,False,False,False,False
+A-7496688,VA,Spotsylvania,Woodford,Source1,3,38.120003,-77.51671400000002,2018,8,Tuesday,Rain,False,False,False,False,False,False,False
+A-7500415,VA,Spotsylvania,Fredericksburg,Source1,4,38.24736400000001,-77.45468199999998,2018,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-7500416,VA,Spotsylvania,Fredericksburg,Source1,4,38.247195,-77.454375,2018,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-7501580,VA,Spotsylvania,Woodford,Source1,3,38.10588,-77.5299,2018,0,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7510490,VA,Spotsylvania,Fredericksburg,Source1,4,38.2335,-77.40276,2018,17,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7527369,VA,Spotsylvania,Spotsylvania,Source1,4,38.11607,-77.76693,2018,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7530246,VA,Spotsylvania,Spotsylvania,Source1,4,38.207663,-77.5838,2018,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7530247,VA,Spotsylvania,Spotsylvania,Source1,4,38.20816,-77.58181,2018,9,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7532968,VA,Spotsylvania,Fredericksburg,Source1,4,38.24489000000001,-77.52512,2018,5,Sunday,Rain,True,False,False,False,False,False,False
+A-7536317,VA,Spotsylvania,Fredericksburg,Source1,4,38.242523,-77.50222099999998,2018,7,Saturday,Rain,False,False,False,False,False,False,False
+A-7542378,VA,Spotsylvania,Fredericksburg,Source1,3,38.24969,-77.49868000000002,2018,6,Friday,Cloudy,True,False,False,False,False,False,False
+A-7556441,VA,Spotsylvania,Spotsylvania,Source1,4,38.10502,-77.777022,2018,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7556442,VA,Spotsylvania,Spotsylvania,Source1,4,38.120703000000006,-77.743041,2018,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7558969,VA,Spotsylvania,Fredericksburg,Source1,3,38.247897,-77.49896700000002,2018,21,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7563434,VA,Spotsylvania,Fredericksburg,Source1,3,38.300489,-77.613667,2018,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-7575836,VA,Spotsylvania,Spotsylvania,Source1,3,38.1358,-77.50973,2018,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7579829,VA,Spotsylvania,Fredericksburg,Source1,3,38.24843,-77.47367,2018,18,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-7579831,VA,Spotsylvania,Fredericksburg,Source1,3,38.24843,-77.47367,2018,18,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-7582818,VA,Spotsylvania,Spotsylvania,Source1,4,38.31007,-77.67249,2018,18,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-7583260,VA,Spotsylvania,Spotsylvania,Source1,4,38.31007,-77.67249,2018,10,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-7604671,VA,Spotsylvania,Fredericksburg,Source1,4,38.29241500000001,-77.577484,2018,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7633282,VA,Spotsylvania,Fredericksburg,Source1,4,38.268121,-77.48865699999998,2018,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7645707,VA,Spotsylvania,Fredericksburg,Source1,4,38.247154,-77.482619,2017,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7652619,VA,Spotsylvania,Spotsylvania,Source1,3,38.142679,-77.506647,2017,23,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7652620,VA,Spotsylvania,Fredericksburg,Source1,3,38.135989,-77.50927,2017,23,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7652757,VA,Spotsylvania,Woodford,Source1,4,38.12916,-77.51255,2017,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7660958,VA,Spotsylvania,Fredericksburg,Source1,4,38.244381,-77.49897,2017,14,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7668770,VA,Spotsylvania,Fredericksburg,Source1,4,38.216186,-77.499222,2017,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7685250,VA,Spotsylvania,Fredericksburg,Source1,3,38.149728,-77.5059,2017,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7691449,VA,Spotsylvania,Spotsylvania,Source1,4,38.090669,-77.800602,2017,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7691450,VA,Spotsylvania,Spotsylvania,Source1,4,38.088743,-77.794035,2017,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7691912,VA,Spotsylvania,Spotsylvania,Source1,4,38.088743,-77.794035,2017,1,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7691913,VA,Spotsylvania,Spotsylvania,Source1,4,38.090669,-77.800602,2017,1,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7691914,VA,Spotsylvania,Spotsylvania,Source1,4,38.088743,-77.794035,2017,1,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7694360,VA,Spotsylvania,Fredericksburg,Source1,4,38.24265,-77.50225,2017,3,Friday,Cloudy,False,False,False,False,False,False,False
+A-7708879,VA,Spotsylvania,Fredericksburg,Source1,4,38.23363,-77.55905,2019,0,Monday,Cloudy,True,True,False,False,False,False,False
+A-7714889,VA,Spotsylvania,Fredericksburg,Source1,4,38.184777,-77.513071,2019,11,Friday,Rain,False,False,False,False,False,False,False
+A-7714890,VA,Spotsylvania,Fredericksburg,Source1,4,38.198274,-77.507807,2019,11,Friday,Rain,False,False,False,False,False,False,False
+A-7718468,VA,Spotsylvania,Fredericksburg,Source1,4,38.246689,-77.4855,2019,23,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7721258,VA,Spotsylvania,Fredericksburg,Source1,4,38.249607,-77.498696,2019,20,Saturday,Rain,True,False,False,False,False,False,False
+A-7738383,VA,Spotsylvania,Fredericksburg,Source1,3,38.175666,-77.502615,2019,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7741717,VA,Spotsylvania,Fredericksburg,Source1,3,38.237862,-77.498756,2019,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7741725,VA,Spotsylvania,Fredericksburg,Source1,3,38.23605,-77.49824,2019,0,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7742176,VA,Spotsylvania,Fredericksburg,Source1,3,38.2438,-77.50336,2019,18,Monday,Rain,False,False,False,False,False,False,False
+A-7754598,VA,Spotsylvania,Woodford,Source1,3,38.12916,-77.51255,2019,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7755260,VA,Spotsylvania,Mineral,Source1,4,38.088478,-77.808854,2019,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7755261,VA,Spotsylvania,Mineral,Source1,4,38.089612,-77.807633,2019,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7755265,VA,Spotsylvania,Mineral,Source1,4,38.088478,-77.808854,2019,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7755266,VA,Spotsylvania,Mineral,Source1,4,38.089612,-77.807633,2019,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7759347,VA,Spotsylvania,Fredericksburg,Source1,4,38.293549,-77.588114,2019,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False

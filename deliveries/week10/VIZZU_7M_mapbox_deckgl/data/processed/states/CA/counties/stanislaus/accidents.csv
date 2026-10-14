@@ -1,0 +1,584 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-2040,CA,Stanislaus,Newman,Source2,3,37.325378,-121.110138,2016,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2155,CA,Stanislaus,Patterson,Source2,3,37.463634000000006,-121.18058,2016,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2273,CA,Stanislaus,Patterson,Source2,3,37.397366,-121.13842,2016,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2274,CA,Stanislaus,Newman,Source2,3,37.325378,-121.110138,2016,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2331,CA,Stanislaus,Patterson,Source2,3,37.480366,-121.196892,2016,23,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2542,CA,Stanislaus,Patterson,Source2,3,37.590881,-121.333588,2016,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2760,CA,Stanislaus,Patterson,Source2,3,37.463791,-121.180199,2016,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3093,CA,Stanislaus,Patterson,Source2,3,37.46598400000001,-121.182419,2016,23,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3269,CA,Stanislaus,Modesto,Source2,3,37.655937,-120.921181,2016,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3894,CA,Stanislaus,Patterson,Source2,3,37.537827,-121.264458,2016,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3915,CA,Stanislaus,Patterson,Source2,3,37.465919,-121.182846,2016,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5357,CA,Stanislaus,Gustine,Source2,3,37.246174,-121.089088,2016,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5731,CA,Stanislaus,Patterson,Source2,3,37.542194,-121.270691,2016,19,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-6551,CA,Stanislaus,Patterson,Source2,3,37.465919,-121.182846,2016,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-6762,CA,Stanislaus,Patterson,Source2,3,37.46587,-121.1828,2016,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7046,CA,Stanislaus,Newman,Source2,3,37.322517,-121.109222,2016,23,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7799,CA,Stanislaus,Patterson,Source2,3,37.465919,-121.182846,2016,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-8124,CA,Stanislaus,Patterson,Source2,3,37.542194,-121.270691,2016,23,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-8268,CA,Stanislaus,Patterson,Source2,3,37.54282,-121.27095,2016,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-8276,CA,Stanislaus,Patterson,Source2,3,37.582081,-121.32241100000002,2016,0,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-8943,CA,Stanislaus,Patterson,Source2,3,37.582081,-121.32241100000002,2016,10,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-8960,CA,Stanislaus,Patterson,Source2,3,37.465919,-121.182846,2016,12,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-9721,CA,Stanislaus,Newman,Source2,3,37.394585,-121.136063,2017,0,Thursday,Rain,False,False,True,False,False,False,False
+A-9756,CA,Stanislaus,Gustine,Source2,3,37.249577,-121.089569,2017,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-10070,CA,Stanislaus,Patterson,Source2,3,37.465919,-121.182846,2017,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-12118,CA,Stanislaus,Gustine,Source2,3,37.246174,-121.089088,2017,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-12205,CA,Stanislaus,Patterson,Source2,3,37.394848,-121.136681,2017,9,Sunday,Rain,False,False,False,False,False,False,False
+A-12362,CA,Stanislaus,Newman,Source2,3,37.39452,-121.136017,2017,18,Monday,Cloudy,False,False,True,False,False,False,False
+A-12364,CA,Stanislaus,Newman,Source2,3,37.322868,-121.108948,2017,18,Monday,Cloudy,False,False,True,False,False,False,False
+A-12380,CA,Stanislaus,Newman,Source2,3,37.322868,-121.108948,2017,19,Monday,Cloudy,False,False,True,False,False,False,False
+A-12516,CA,Stanislaus,Patterson,Source2,3,37.465919,-121.182846,2017,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-13228,CA,Stanislaus,Patterson,Source2,3,37.466736,-121.18367,2016,16,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-14276,CA,Stanislaus,Patterson,Source2,3,37.590881,-121.333588,2016,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-14664,CA,Stanislaus,Patterson,Source2,3,37.542194,-121.270691,2016,17,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-15640,CA,Stanislaus,Patterson,Source2,3,37.461597,-121.178246,2016,23,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-16116,CA,Stanislaus,Newman,Source2,3,37.328152,-121.111046,2016,10,Thursday,Fog / Low visibility,False,False,True,False,False,False,False
+A-16970,CA,Stanislaus,Patterson,Source2,3,37.542194,-121.270691,2016,0,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-17134,CA,Stanislaus,Patterson,Source2,3,37.582081,-121.32241100000002,2016,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-18471,CA,Stanislaus,Patterson,Source2,3,37.582081,-121.32241100000002,2016,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-19060,CA,Stanislaus,Newman,Source2,3,37.328152,-121.111046,2016,10,Monday,Rain,False,False,True,False,False,False,False
+A-20157,CA,Stanislaus,Patterson,Source2,3,37.582081,-121.32241100000002,2016,23,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-20405,CA,Stanislaus,Modesto,Source2,3,37.648766,-121.019897,2016,21,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-20567,CA,Stanislaus,Patterson,Source2,3,37.590881,-121.333588,2016,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-21577,CA,Stanislaus,Turlock,Source2,3,37.496082,-120.871704,2016,21,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-21699,CA,Stanislaus,Newman,Source2,3,37.397095,-121.13778700000002,2016,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-23892,CA,Stanislaus,Patterson,Source2,3,37.542194,-121.270691,2016,18,Monday,Cloudy,False,False,True,False,False,False,False
+A-28630,CA,Stanislaus,Patterson,Source2,3,37.542194,-121.270691,2016,0,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-30488,CA,Stanislaus,Ceres,Source2,3,37.550274,-120.909561,2016,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-30814,CA,Stanislaus,Patterson,Source2,3,37.54018,-121.267548,2016,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-32460,CA,Stanislaus,Patterson,Source2,3,37.529743,-121.254486,2016,23,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-35876,CA,Stanislaus,Patterson,Source2,3,37.574333,-121.312363,2016,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-35893,CA,Stanislaus,Patterson,Source2,3,37.590881,-121.333588,2016,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-39847,CA,Stanislaus,Gustine,Source2,3,37.246174,-121.089088,2016,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-39851,CA,Stanislaus,Newman,Source2,3,37.259933,-121.092224,2016,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-39992,CA,Stanislaus,Patterson,Source2,3,37.537266,-121.264282,2016,0,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-314588,CA,Stanislaus,Patterson,Source2,3,37.583122,-121.323227,2017,7,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-341335,CA,Stanislaus,Patterson,Source2,3,37.582081,-121.32241100000002,2017,0,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-342444,CA,Stanislaus,Patterson,Source2,3,37.54018,-121.267548,2017,1,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-398139,CA,Stanislaus,Patterson,Source2,3,37.461597,-121.178246,2017,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-398380,CA,Stanislaus,Turlock,Source2,3,37.46520200000001,-120.827301,2017,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-398399,CA,Stanislaus,Salida,Source2,3,37.71118900000001,-121.084846,2017,18,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-398626,CA,Stanislaus,Newman,Source2,3,37.394585,-121.136063,2017,8,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-398736,CA,Stanislaus,Patterson,Source2,3,37.583122,-121.323227,2017,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-399531,CA,Stanislaus,Patterson,Source2,3,37.463634000000006,-121.18058,2017,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-400498,CA,Stanislaus,Patterson,Source2,3,37.582081,-121.32241100000002,2017,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-401254,CA,Stanislaus,Newman,Source2,3,37.328152,-121.111046,2017,13,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-437164,CA,Stanislaus,Newman,Source2,3,37.322868,-121.108948,2017,5,Friday,Cloudy,False,False,True,False,False,False,False
+A-437177,CA,Stanislaus,Newman,Source2,3,37.322712,-121.108894,2017,7,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-438106,CA,Stanislaus,Newman,Source2,3,37.394585,-121.136063,2017,5,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-438304,CA,Stanislaus,Patterson,Source2,3,37.58215,-121.322502,2017,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-438380,CA,Stanislaus,Newman,Source2,3,37.304241,-121.103584,2017,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-438382,CA,Stanislaus,Newman,Source2,3,37.394585,-121.136063,2017,5,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-438501,CA,Stanislaus,Patterson,Source2,3,37.54018,-121.267548,2017,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-454038,CA,Stanislaus,Patterson,Source2,3,37.46598400000001,-121.182419,2017,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-454119,CA,Stanislaus,Patterson,Source2,3,37.46598400000001,-121.182419,2017,4,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-454143,CA,Stanislaus,Patterson,Source2,3,37.540726,-121.268257,2017,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-455875,CA,Stanislaus,Newman,Source2,3,37.328232,-121.110695,2017,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-455946,CA,Stanislaus,Gustine,Source2,3,37.246063,-121.08905,2017,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-456009,CA,Stanislaus,Gustine,Source2,3,37.249798,-121.09001200000002,2017,18,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-456035,CA,Stanislaus,Gustine,Source2,3,37.249577,-121.089569,2017,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-456366,CA,Stanislaus,Newman,Source2,3,37.322868,-121.108948,2017,6,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-456393,CA,Stanislaus,Patterson,Source2,3,37.46331,-121.179764,2017,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-456553,CA,Stanislaus,Patterson,Source2,3,37.511051,-121.232986,2017,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-457267,CA,Stanislaus,Patterson,Source2,3,37.542194,-121.270691,2017,13,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-491386,CA,Stanislaus,Patterson,Source2,3,37.540947,-121.26936299999998,2017,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-491997,CA,Stanislaus,Patterson,Source2,3,37.582081,-121.32241100000002,2017,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-492755,CA,Stanislaus,Patterson,Source2,3,37.465919,-121.182846,2017,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-492763,CA,Stanislaus,Patterson,Source2,3,37.54282,-121.27095,2017,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-492978,CA,Stanislaus,Patterson,Source2,3,37.398533,-121.139229,2017,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-547344,CA,Stanislaus,Salida,Source2,3,37.709042,-121.080902,2022,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-550431,CA,Stanislaus,Patterson,Source2,3,37.542183,-121.270706,2022,7,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-564591,CA,Stanislaus,Modesto,Source2,3,37.665806,-121.031479,2022,5,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-588080,CA,Stanislaus,Patterson,Source2,3,37.465904,-121.182869,2022,14,Monday,Sin dato,False,False,False,False,False,False,False
+A-599231,CA,Stanislaus,Newman,Source2,3,37.328152,-121.111053,2022,15,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-599601,CA,Stanislaus,Modesto,Source2,3,37.617382,-120.98999,2022,12,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-600270,CA,Stanislaus,Modesto,Source2,3,37.618546,-120.993614,2022,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-642675,CA,Stanislaus,Patterson,Source2,3,37.53783,-121.264458,2022,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-647834,CA,Stanislaus,Salida,Source2,3,37.709038,-121.080902,2022,4,Saturday,Rain,False,False,False,False,False,False,False
+A-655079,CA,Stanislaus,Patterson,Source2,3,37.463531,-121.180908,2022,13,Sunday,Clear / Fair,False,False,False,True,False,False,False
+A-673690,CA,Stanislaus,Ceres,Source2,3,37.59441,-120.959602,2022,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-687592,CA,Stanislaus,Patterson,Source2,3,37.465904,-121.182869,2022,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-703572,CA,Stanislaus,Newman,Source2,3,37.325218,-121.108932,2022,4,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-755533,CA,Stanislaus,Patterson,Source2,3,37.465904,-121.182869,2022,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-763699,CA,Stanislaus,Patterson,Source2,3,37.53783,-121.264458,2021,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-785410,CA,Stanislaus,Patterson,Source2,3,37.420975,-121.152824,2021,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-791745,CA,Stanislaus,Patterson,Source2,3,37.583115,-121.323235,2021,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-792212,CA,Stanislaus,La Grange,Source2,3,37.663151,-120.471649,2021,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-829672,CA,Stanislaus,Patterson,Source2,3,37.399887,-121.140175,2021,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-850273,CA,Stanislaus,Vernalis,Source2,3,37.639702,-121.247757,2021,4,Monday,Rain,True,False,False,False,False,False,False
+A-879237,CA,Stanislaus,Ceres,Source2,3,37.548019,-120.905502,2021,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-888313,CA,Stanislaus,Salida,Source2,3,37.726025,-121.103287,2021,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-915202,CA,Stanislaus,Patterson,Source2,3,37.465904,-121.182869,2021,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-923074,CA,Stanislaus,Patterson,Source2,3,37.542183,-121.270706,2021,16,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-936002,CA,Stanislaus,Patterson,Source2,3,37.590698,-121.333588,2021,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-958251,CA,Stanislaus,Patterson,Source2,3,37.542828,-121.270943,2021,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-962284,CA,Stanislaus,Newman,Source2,4,37.397423,-121.138,2021,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-963798,CA,Stanislaus,Newman,Source2,3,37.380833,-121.127846,2021,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-966751,CA,Stanislaus,Turlock,Source2,3,37.510693,-120.879784,2021,19,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-974106,CA,Stanislaus,Newman,Source2,3,37.397461,-121.137718,2021,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1016611,CA,Stanislaus,Patterson,Source2,3,37.465904,-121.182869,2021,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1024456,CA,Stanislaus,Newman,Source2,3,37.3232,-121.109024,2021,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1045896,CA,Stanislaus,Oakdale,Source2,3,37.78376,-120.862244,2021,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1060338,CA,Stanislaus,Patterson,Source2,3,37.58207700000001,-121.322418,2021,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1075125,CA,Stanislaus,Patterson,Source2,3,37.542828,-121.270943,2021,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1085131,CA,Stanislaus,Gustine,Source2,3,37.246262,-121.088737,2021,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1125192,CA,Stanislaus,Patterson,Source2,3,37.465847,-121.182816,2021,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1130291,CA,Stanislaus,Patterson,Source2,3,37.542183,-121.270706,2021,9,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1166275,CA,Stanislaus,Salida,Source2,3,37.728569,-121.107872,2021,7,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1190470,CA,Stanislaus,Modesto,Source2,3,37.64555,-121.015617,2021,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1202534,CA,Stanislaus,Newman,Source2,3,37.322945,-121.10894,2021,18,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-1215051,CA,Stanislaus,Patterson,Source2,3,37.397346,-121.138176,2020,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-1282602,CA,Stanislaus,Patterson,Source2,3,37.540051,-121.267632,2020,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1282603,CA,Stanislaus,Patterson,Source2,3,37.590698,-121.333588,2020,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1286802,CA,Stanislaus,Salida,Source2,3,37.703468,-121.074554,2020,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1287412,CA,Stanislaus,Gustine,Source2,3,37.246384,-121.088875,2020,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1289142,CA,Stanislaus,Patterson,Source2,3,37.397346,-121.138176,2020,11,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1328760,CA,Stanislaus,Gustine,Source2,3,37.249996,-121.09008,2020,19,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-1342559,CA,Stanislaus,Patterson,Source2,3,37.460911,-121.178345,2020,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1344648,CA,Stanislaus,Modesto,Source2,3,37.663837,-121.028427,2020,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1347682,CA,Stanislaus,Gustine,Source2,3,37.249573,-121.089584,2020,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1356759,CA,Stanislaus,Patterson,Source2,3,37.465988,-121.18241100000002,2020,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1377645,CA,Stanislaus,Patterson,Source2,3,37.465904,-121.182869,2020,4,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1377673,CA,Stanislaus,Patterson,Source2,3,37.462566,-121.179634,2020,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1381937,CA,Stanislaus,Newman,Source2,3,37.326859000000006,-121.110786,2020,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1385185,CA,Stanislaus,Patterson,Source2,3,37.465904,-121.182869,2020,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1396117,CA,Stanislaus,Salida,Source2,3,37.722958,-121.100586,2020,14,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-1418389,CA,Stanislaus,Modesto,Source2,3,37.627468,-120.99678,2020,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1419732,CA,Stanislaus,Newman,Source2,3,37.397118,-121.13778700000002,2020,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1427414,CA,Stanislaus,Modesto,Source2,3,37.638691,-121.028358,2020,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1431998,CA,Stanislaus,Newman,Source2,3,37.322514,-121.109253,2020,18,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1433515,CA,Stanislaus,Newman,Source2,3,37.328239,-121.110657,2020,12,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1452968,CA,Stanislaus,Newman,Source3,3,37.304241,-121.103966,2020,17,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1460045,CA,Stanislaus,Newman,Source3,3,37.394829,-121.136177,2020,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1464513,CA,Stanislaus,Patterson,Source3,3,37.542183,-121.270706,2020,8,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1471833,CA,Stanislaus,Patterson,Source3,3,37.461498,-121.178772,2020,4,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1493865,CA,Stanislaus,Newman,Source3,3,37.328152,-121.111053,2020,10,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-1497512,CA,Stanislaus,Modesto,Source2,3,37.638741,-120.838501,2020,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1501637,CA,Stanislaus,Crows Landing,Source3,3,37.49329,-121.030884,2020,18,Wednesday,Clear / Fair,False,False,False,True,False,False,False
+A-1532631,CA,Stanislaus,Patterson,Source3,3,37.542183,-121.270706,2020,10,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-1539152,CA,Stanislaus,Patterson,Source2,3,37.397346,-121.138176,2020,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-1565368,CA,Stanislaus,Patterson,Source2,3,37.58207700000001,-121.322418,2020,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1567210,CA,Stanislaus,Patterson,Source3,3,37.465904,-121.182869,2020,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1569447,CA,Stanislaus,Patterson,Source2,3,37.465904,-121.182869,2020,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1570045,CA,Stanislaus,Patterson,Source2,3,37.53783,-121.264458,2020,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1574704,CA,Stanislaus,Patterson,Source2,3,37.540047,-121.267616,2020,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1612236,CA,Stanislaus,Patterson,Source3,3,37.461594,-121.178253,2020,8,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1612921,CA,Stanislaus,Patterson,Source2,3,37.536732,-121.263573,2020,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1619203,CA,Stanislaus,Patterson,Source2,3,37.397346,-121.138176,2020,21,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1628930,CA,Stanislaus,Patterson,Source2,3,37.465904,-121.182869,2020,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1663047,CA,Stanislaus,Patterson,Source3,3,37.465588,-121.182549,2020,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1663048,CA,Stanislaus,Patterson,Source3,3,37.542839,-121.270927,2020,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1701927,CA,Stanislaus,Newman,Source2,3,37.394604,-121.136024,2019,4,Sunday,Cloudy,False,False,True,False,False,False,False
+A-1701972,CA,Stanislaus,Patterson,Source2,3,37.463642,-121.180489,2019,8,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1731269,CA,Stanislaus,Gustine,Source2,3,37.246384,-121.088875,2019,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1756233,CA,Stanislaus,Patterson,Source3,3,37.582081,-121.322418,2019,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1774004,CA,Stanislaus,Newman,Source3,3,37.322514,-121.109253,2019,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1785852,CA,Stanislaus,Newman,Source3,3,37.394604,-121.136024,2019,9,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-1849421,CA,Stanislaus,Patterson,Source2,3,37.540047,-121.267616,2019,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1855365,CA,Stanislaus,Newman,Source3,3,37.394604,-121.136024,2019,10,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-1860210,CA,Stanislaus,Patterson,Source2,3,37.400017,-121.139771,2019,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1865348,CA,Stanislaus,Ceres,Source2,3,37.607044,-120.974274,2019,16,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1885420,CA,Stanislaus,Patterson,Source2,3,37.461594,-121.178253,2019,4,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1885421,CA,Stanislaus,Patterson,Source3,3,37.542839,-121.270927,2019,4,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1886773,CA,Stanislaus,Newman,Source2,3,37.39732,-121.138741,2019,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1907055,CA,Stanislaus,Newman,Source2,3,37.326248,-121.10881,2019,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1913444,CA,Stanislaus,Patterson,Source2,3,37.39484,-121.136696,2019,5,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1919695,CA,Stanislaus,Modesto,Source2,3,37.638241,-121.067322,2019,19,Sunday,Clear / Fair,False,False,False,True,False,False,False
+A-1934314,CA,Stanislaus,Salida,Source2,3,37.722958,-121.100586,2019,16,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-1950584,CA,Stanislaus,Patterson,Source2,3,37.583115,-121.323235,2019,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1961046,CA,Stanislaus,Modesto,Source2,3,37.648766,-121.019897,2019,16,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-1965214,CA,Stanislaus,Patterson,Source2,3,37.465988,-121.18241100000002,2019,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1965263,CA,Stanislaus,Gustine,Source2,3,37.246384,-121.088875,2019,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1965310,CA,Stanislaus,Patterson,Source2,3,37.542183,-121.270706,2019,19,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1975745,CA,Stanislaus,Gustine,Source2,3,37.246384,-121.088875,2019,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1979481,CA,Stanislaus,Turlock,Source2,3,37.473953,-120.848923,2019,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1998011,CA,Stanislaus,Vernalis,Source2,3,37.639702,-121.247757,2019,5,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-2048325,CA,Stanislaus,Patterson,Source2,3,37.542839,-121.270927,2019,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2070006,CA,Stanislaus,Newman,Source2,3,37.328152,-121.111053,2019,14,Monday,Cloudy,False,False,True,False,False,False,False
+A-2074545,CA,Stanislaus,Patterson,Source2,3,37.397346,-121.138176,2019,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2082333,CA,Stanislaus,Newman,Source2,3,37.325844,-121.110069,2019,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2099800,CA,Stanislaus,Patterson,Source2,3,37.465988,-121.18241100000002,2019,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2102128,CA,Stanislaus,Modesto,Source2,3,37.683678,-121.053528,2019,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2104397,CA,Stanislaus,Patterson,Source2,3,37.540047,-121.267616,2019,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2106831,CA,Stanislaus,Patterson,Source2,3,37.399887,-121.140175,2019,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2109330,CA,Stanislaus,Gustine,Source2,3,37.249996,-121.09008,2019,17,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-2113501,CA,Stanislaus,Newman,Source2,3,37.322872,-121.108917,2019,4,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-2115905,CA,Stanislaus,Hickman,Source2,3,37.627644,-120.75547,2019,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2127917,CA,Stanislaus,Patterson,Source2,3,37.542183,-121.270706,2019,19,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-2137280,CA,Stanislaus,Turlock,Source2,3,37.503677,-120.875732,2019,21,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-2173774,CA,Stanislaus,Gustine,Source2,3,37.246384,-121.088875,2019,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2186702,CA,Stanislaus,Patterson,Source2,3,37.540047,-121.267616,2019,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2197482,CA,Stanislaus,Patterson,Source2,3,37.420975,-121.152824,2019,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2197516,CA,Stanislaus,Patterson,Source2,3,37.461594,-121.178253,2019,18,Monday,Rain,False,False,False,False,False,False,False
+A-2210119,CA,Stanislaus,Patterson,Source2,3,37.465904,-121.182869,2019,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-2223404,CA,Stanislaus,Patterson,Source2,3,37.399887,-121.140175,2019,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2229916,CA,Stanislaus,Patterson,Source2,3,37.583115,-121.323235,2019,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2286558,CA,Stanislaus,Newman,Source2,3,37.394604,-121.136024,2019,4,Thursday,Rain,False,False,True,False,False,False,False
+A-2290151,CA,Stanislaus,Gustine,Source2,3,37.249573,-121.089584,2019,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2312204,CA,Stanislaus,Newman,Source2,3,37.328152,-121.111053,2019,20,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-2320501,CA,Stanislaus,Patterson,Source2,3,37.39484,-121.136696,2019,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2370376,CA,Stanislaus,Patterson,Source2,3,37.542183,-121.270706,2019,15,Wednesday,Fog / Low visibility,False,False,True,False,False,False,False
+A-2412489,CA,Stanislaus,Patterson,Source2,3,37.381081,-121.128281,2018,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2420874,CA,Stanislaus,Newman,Source2,3,37.394604,-121.136024,2018,9,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-2430897,CA,Stanislaus,Patterson,Source2,3,37.465919,-121.182846,2018,4,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2438037,CA,Stanislaus,Modesto,Source2,3,37.711052,-120.976608,2018,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2465169,CA,Stanislaus,Patterson,Source2,3,37.537827,-121.264458,2018,4,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2467691,CA,Stanislaus,Patterson,Source2,3,37.542194,-121.270691,2018,14,Monday,Fog / Low visibility,False,False,True,False,False,False,False
+A-2473453,CA,Stanislaus,Patterson,Source2,3,37.461597,-121.178246,2018,20,Wednesday,Rain,False,False,False,False,False,False,False
+A-2480913,CA,Stanislaus,Patterson,Source2,3,37.431763,-121.158615,2018,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2493670,CA,Stanislaus,Modesto,Source2,3,37.663845,-121.028419,2018,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2502179,CA,Stanislaus,Patterson,Source2,3,37.465919,-121.182846,2018,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2506043,CA,Stanislaus,Patterson,Source2,3,37.542194,-121.270691,2018,16,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-2535896,CA,Stanislaus,Modesto,Source2,3,37.616638,-120.984283,2018,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2560571,CA,Stanislaus,Patterson,Source2,3,37.542194,-121.270691,2018,4,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-2568502,CA,Stanislaus,Patterson,Source2,3,37.466236,-121.183167,2018,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2572800,CA,Stanislaus,Patterson,Source2,3,37.582813,-121.323074,2018,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2594777,CA,Stanislaus,Modesto,Source2,3,37.625042,-120.922935,2018,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2597398,CA,Stanislaus,Patterson,Source2,3,37.536621,-121.213562,2018,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2600171,CA,Stanislaus,Patterson,Source2,3,37.540691,-121.266953,2018,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2601072,CA,Stanislaus,Patterson,Source2,3,37.397366,-121.13842,2018,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2612428,CA,Stanislaus,Newman,Source2,3,37.325474,-121.108734,2018,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2615997,CA,Stanislaus,Modesto,Source2,3,37.68401,-121.053406,2018,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2618250,CA,Stanislaus,Patterson,Source2,3,37.465919,-121.182846,2018,13,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2623351,CA,Stanislaus,Turlock,Source2,3,37.492599,-120.798744,2018,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2634727,CA,Stanislaus,Patterson,Source2,3,37.542194,-121.270691,2018,16,Wednesday,Fog / Low visibility,False,False,True,False,False,False,False
+A-2655476,CA,Stanislaus,Patterson,Source2,3,37.54018,-121.267548,2018,4,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2667659,CA,Stanislaus,Patterson,Source3,3,37.54282,-121.27095,2018,6,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2671494,CA,Stanislaus,Salida,Source2,3,37.727932,-121.106354,2018,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2683197,CA,Stanislaus,Modesto,Source2,3,37.697807,-120.994469,2018,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2683199,CA,Stanislaus,Patterson,Source2,3,37.590881,-121.333588,2018,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2683203,CA,Stanislaus,Waterford,Source2,3,37.646603000000006,-120.695457,2018,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2683208,CA,Stanislaus,Modesto,Source2,3,37.619541,-120.994331,2018,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2686900,CA,Stanislaus,Modesto,Source2,3,37.732941,-121.050468,2018,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2697043,CA,Stanislaus,Patterson,Source2,3,37.583122,-121.323227,2018,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2701486,CA,Stanislaus,Turlock,Source2,3,37.465397,-120.827171,2018,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2703712,CA,Stanislaus,Turlock,Source2,3,37.492657,-120.903572,2018,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2706612,CA,Stanislaus,Salida,Source2,3,37.709003,-121.080833,2018,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2706625,CA,Stanislaus,Gustine,Source2,3,37.249996,-121.090065,2018,11,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-2715999,CA,Stanislaus,Newman,Source2,3,37.304241,-121.103584,2018,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2729067,CA,Stanislaus,Newman,Source2,3,37.325378,-121.110138,2018,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2729071,CA,Stanislaus,Turlock,Source2,3,37.474094,-120.850861,2018,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2739301,CA,Stanislaus,Patterson,Source2,3,37.461597,-121.178246,2018,9,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2746358,CA,Stanislaus,Patterson,Source2,3,37.463234,-121.179253,2018,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2748824,CA,Stanislaus,Patterson,Source2,3,37.398693,-121.139519,2018,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2748918,CA,Stanislaus,Salida,Source2,3,37.722954,-121.100594,2018,15,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-2748947,CA,Stanislaus,Turlock,Source2,3,37.505878,-120.776001,2018,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2755196,CA,Stanislaus,Modesto,Source2,3,37.616638,-120.984283,2018,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2755197,CA,Stanislaus,Modesto,Source2,3,37.634991,-121.002708,2018,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2757555,CA,Stanislaus,Modesto,Source2,3,37.710888,-121.077538,2018,5,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-2764696,CA,Stanislaus,Ceres,Source2,3,37.580231,-120.943932,2018,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2764787,CA,Stanislaus,Ceres,Source2,3,37.578636,-120.942307,2018,17,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-2764801,CA,Stanislaus,Patterson,Source2,3,37.397366,-121.13842,2018,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2773363,CA,Stanislaus,Patterson,Source2,3,37.582081,-121.32241100000002,2018,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2773381,CA,Stanislaus,Modesto,Source2,3,37.638725,-120.847694,2018,7,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-2781962,CA,Stanislaus,Newman,Source2,3,37.322868,-121.108948,2018,5,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-2781972,CA,Stanislaus,Oakdale,Source2,3,37.776482,-120.782913,2018,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2781989,CA,Stanislaus,Salida,Source2,3,37.696331,-121.079475,2018,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2786685,CA,Stanislaus,Modesto,Source2,3,37.637829,-121.15908799999998,2018,5,Wednesday,Clear / Fair,False,False,False,True,False,False,False
+A-2786775,CA,Stanislaus,Patterson,Source2,3,37.542194,-121.270691,2018,19,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-2791446,CA,Stanislaus,Modesto,Source2,3,37.663845,-121.028419,2018,8,Friday,Sin dato,False,False,False,False,False,False,False
+A-2805651,CA,Stanislaus,Patterson,Source2,3,37.399708,-121.140045,2018,6,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2813737,CA,Stanislaus,Patterson,Source3,3,37.399887,-121.140175,2018,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2816382,CA,Stanislaus,Patterson,Source2,3,37.542194,-121.270691,2018,11,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-2823379,CA,Stanislaus,Patterson,Source2,3,37.542194,-121.270691,2018,8,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-2826077,CA,Stanislaus,Patterson,Source2,3,37.542194,-121.270691,2018,5,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-2826110,CA,Stanislaus,Newman,Source2,3,37.322517,-121.109222,2018,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2848816,CA,Stanislaus,Newman,Source2,3,37.328152,-121.111046,2018,13,Friday,Cloudy,False,False,True,False,False,False,False
+A-2874606,CA,Stanislaus,Patterson,Source2,3,37.46598400000001,-121.182419,2018,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2877202,CA,Stanislaus,Patterson,Source2,3,37.582081,-121.32241100000002,2018,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2882390,CA,Stanislaus,Patterson,Source2,3,37.537827,-121.264458,2018,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2886555,CA,Stanislaus,Patterson,Source2,3,37.492973,-121.08284,2018,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2918932,CA,Stanislaus,Patterson,Source2,3,37.399887,-121.140175,2018,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2924957,CA,Stanislaus,Patterson,Source2,3,37.533443,-121.259377,2018,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2927990,CA,Stanislaus,Patterson,Source2,3,37.54282,-121.27095,2018,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2932550,CA,Stanislaus,Patterson,Source2,3,37.465919,-121.182846,2018,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2940310,CA,Stanislaus,Patterson,Source2,3,37.397366,-121.13842,2018,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-2951296,CA,Stanislaus,Gustine,Source2,3,37.25013,-121.089722,2018,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-2951309,CA,Stanislaus,Patterson,Source2,3,37.542194,-121.270691,2018,16,Friday,Cloudy,False,False,True,False,False,False,False
+A-2972182,CA,Stanislaus,Patterson,Source3,3,37.461597,-121.178246,2018,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2972199,CA,Stanislaus,Patterson,Source2,3,37.461597,-121.178246,2018,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2972200,CA,Stanislaus,Patterson,Source2,3,37.461597,-121.178246,2018,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2979887,CA,Stanislaus,Patterson,Source2,3,37.461597,-121.178246,2018,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2984976,CA,Stanislaus,Gustine,Source2,3,37.249996,-121.090065,2018,5,Thursday,Fog / Low visibility,False,False,True,False,False,False,False
+A-3028901,CA,Stanislaus,Patterson,Source2,3,37.46598400000001,-121.182419,2018,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3031659,CA,Stanislaus,Patterson,Source2,3,37.466106,-121.182533,2018,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3039086,CA,Stanislaus,Newman,Source2,3,37.394585,-121.136063,2017,6,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-3073988,CA,Stanislaus,Patterson,Source2,3,37.582813,-121.323074,2018,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3082301,CA,Stanislaus,Newman,Source2,3,37.396294,-121.136986,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3090056,CA,Stanislaus,Patterson,Source2,3,37.583141,-121.323792,2018,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3093790,CA,Stanislaus,Salida,Source2,3,37.728561,-121.107857,2018,5,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-3103343,CA,Stanislaus,Patterson,Source2,3,37.542461,-121.271034,2017,4,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3103348,CA,Stanislaus,Gustine,Source2,3,37.249577,-121.089569,2017,6,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3121438,CA,Stanislaus,Ceres,Source2,3,37.596733,-120.962677,2017,9,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3148002,CA,Stanislaus,Newman,Source2,3,37.322868,-121.108948,2017,5,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-3159921,CA,Stanislaus,Newman,Source2,3,37.322868,-121.108948,2017,10,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-3177570,CA,Stanislaus,Newman,Source2,3,37.328152,-121.111046,2017,5,Thursday,Cloudy,False,False,True,False,False,False,False
+A-3181014,CA,Stanislaus,Newman,Source2,3,37.325661,-121.10984,2017,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3187983,CA,Stanislaus,Gustine,Source2,3,37.249996,-121.090065,2017,6,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-3215063,CA,Stanislaus,Patterson,Source2,3,37.420967,-121.153008,2017,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3215884,CA,Stanislaus,Modesto,Source2,3,37.638477,-121.049057,2017,6,Saturday,Clear / Fair,False,False,False,True,False,False,False
+A-3231721,CA,Stanislaus,Patterson,Source2,3,37.54018,-121.267548,2017,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3237076,CA,Stanislaus,Newman,Source2,3,37.322517,-121.109222,2017,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3246125,CA,Stanislaus,Newman,Source2,3,37.326233,-121.11042,2017,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3248528,CA,Stanislaus,Patterson,Source2,3,37.540176,-121.268089,2017,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3253788,CA,Stanislaus,Modesto,Source2,3,37.618561,-120.993568,2017,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3259986,CA,Stanislaus,Newman,Source2,3,37.394585,-121.136063,2017,6,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-3260593,CA,Stanislaus,Newman,Source2,3,37.32425300000001,-121.10939,2017,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3270726,CA,Stanislaus,Patterson,Source2,3,37.435375,-121.159935,2017,9,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3279305,CA,Stanislaus,Patterson,Source2,3,37.582081,-121.32241100000002,2017,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3282823,CA,Stanislaus,Patterson,Source2,3,37.582855,-121.323418,2017,5,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3297546,CA,Stanislaus,Patterson,Source2,3,37.463634000000006,-121.18058,2017,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3297547,CA,Stanislaus,Patterson,Source2,3,37.539955,-121.267242,2017,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3328092,CA,Stanislaus,Newman,Source2,3,37.394585,-121.136063,2017,16,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-3334950,CA,Stanislaus,Patterson,Source2,3,37.542194,-121.270691,2017,5,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-3341007,CA,Stanislaus,Patterson,Source2,3,37.465919,-121.182846,2017,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3404337,CA,Stanislaus,Patterson,Source2,3,37.590881,-121.333588,2017,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3404338,CA,Stanislaus,Patterson,Source2,3,37.54018,-121.267548,2017,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3404339,CA,Stanislaus,Patterson,Source2,3,37.463959,-121.180374,2017,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3415604,CA,Stanislaus,Waterford,Source1,4,37.63825,-120.75952,2016,23,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3415605,CA,Stanislaus,Modesto,Source1,4,37.63875,-120.81574,2016,23,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3416197,CA,Stanislaus,Crows Landing,Source1,4,37.496225,-121.067845,2016,0,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3416334,CA,Stanislaus,Oakdale,Source1,3,37.713121,-120.84835,2016,0,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3416335,CA,Stanislaus,Oakdale,Source1,3,37.706445,-120.84837,2016,0,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3416339,CA,Stanislaus,Turlock,Source1,3,37.495477,-120.871671,2016,3,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3416550,CA,Stanislaus,Oakdale,Source1,3,37.79006,-120.86615,2016,23,Monday,Cloudy,False,False,False,True,False,False,False
+A-3416637,CA,Stanislaus,Ceres,Source1,3,37.601968,-120.938719,2016,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3416638,CA,Stanislaus,Ceres,Source1,3,37.601968,-120.938719,2016,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3416799,CA,Stanislaus,Modesto,Source1,4,37.66033,-120.87535,2016,3,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3417010,CA,Stanislaus,Modesto,Source1,3,37.56385,-121.14054,2016,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3526245,CA,Stanislaus,Modesto,Source1,4,37.62972,-120.997546,2016,0,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3528731,CA,Stanislaus,Vernalis,Source1,3,37.611788,-121.267368,2016,0,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3528732,CA,Stanislaus,Patterson,Source1,3,37.594662,-121.248603,2016,0,Thursday,Clear / Fair,False,True,False,False,False,False,True
+A-3532273,CA,Stanislaus,Ceres,Source1,3,37.5786,-120.94226,2017,3,Friday,Rain,False,False,True,False,False,False,False
+A-3534520,CA,Stanislaus,Ceres,Source1,4,37.607967,-120.97543600000002,2016,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3535018,CA,Stanislaus,Modesto,Source1,4,37.639386,-121.006925,2016,9,Saturday,Fog / Low visibility,False,False,True,False,False,False,False
+A-3535019,CA,Stanislaus,Modesto,Source1,4,37.68672,-121.05769,2016,9,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3535022,CA,Stanislaus,Modesto,Source1,4,37.68672,-121.05769,2016,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3535023,CA,Stanislaus,Modesto,Source1,4,37.6267,-120.99658,2016,14,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-3535800,CA,Stanislaus,Waterford,Source1,4,37.64476,-120.61234,2016,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3535803,CA,Stanislaus,La Grange,Source1,4,37.648167,-120.492501,2016,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3538662,CA,Stanislaus,Riverbank,Source1,4,37.742739,-120.916611,2016,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3539103,CA,Stanislaus,Vernalis,Source1,4,37.59955,-121.25396,2016,14,Monday,Clear / Fair,False,True,False,False,False,False,True
+A-3539104,CA,Stanislaus,Vernalis,Source1,4,37.61361,-121.26923,2016,14,Monday,Clear / Fair,False,False,False,True,False,False,False
+A-3542036,CA,Stanislaus,Modesto,Source1,4,37.66139,-121.026105,2016,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3543143,CA,Stanislaus,Patterson,Source1,3,37.48886,-121.140745,2016,15,Saturday,Cloudy,False,False,False,True,False,False,False
+A-3545916,CA,Stanislaus,Turlock,Source1,4,37.47226,-120.84459,2016,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3548124,CA,Stanislaus,Turlock,Source1,3,37.46356,-120.93087,2016,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3549162,CA,Stanislaus,Modesto,Source1,3,37.6382,-120.97199,2016,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3549164,CA,Stanislaus,Modesto,Source1,3,37.6382,-120.97199,2016,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3549231,CA,Stanislaus,Modesto,Source1,3,37.64097,-121.00918,2016,23,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-3550184,CA,Stanislaus,Waterford,Source1,3,37.63825,-120.75952,2016,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3552135,CA,Stanislaus,Modesto,Source1,3,37.61451,-120.98103,2016,5,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-3608879,CA,Stanislaus,Turlock,Source1,3,37.51094000000001,-120.87991,2017,23,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3610776,CA,Stanislaus,Modesto,Source1,3,37.638717,-121.030543,2017,3,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-3610777,CA,Stanislaus,Modesto,Source1,3,37.638717,-121.030543,2017,3,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-3636348,CA,Stanislaus,Modesto,Source1,3,37.64357,-121.01283,2017,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3637187,CA,Stanislaus,Modesto,Source1,4,37.63828,-120.90313,2017,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3637188,CA,Stanislaus,Modesto,Source1,4,37.638279,-120.903043,2017,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3637984,CA,Stanislaus,Modesto,Source1,3,37.627474,-120.997051,2017,23,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3650028,CA,Stanislaus,Modesto,Source1,3,37.61888,-120.99358,2017,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3650436,CA,Stanislaus,Denair,Source1,4,37.54388,-120.81484,2017,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3650437,CA,Stanislaus,Denair,Source1,4,37.52899,-120.79949,2017,7,Saturday,Clear / Fair,False,False,False,True,False,False,False
+A-3696642,CA,Stanislaus,Crows Landing,Source1,4,37.405914,-121.080836,2023,22,Tuesday,Cloudy,False,True,False,False,False,False,True
+A-3709122,CA,Stanislaus,Ceres,Source1,4,37.578644,-120.942316,2022,2,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-3963005,CA,Stanislaus,Salida,Source1,4,37.707025,-121.08348,2022,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3989704,CA,Stanislaus,Turlock,Source1,4,37.525393,-120.887628,2022,15,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-4017702,CA,Stanislaus,Modesto,Source1,4,37.63818,-120.962273,2022,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4133041,CA,Stanislaus,Oakdale,Source1,4,37.740051,-120.75661,2023,8,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4141637,CA,Stanislaus,Newman,Source1,4,37.333372,-121.067476,2023,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4210365,CA,Stanislaus,Oakdale,Source1,4,37.791449,-120.884566,2022,19,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-4351042,CA,Stanislaus,Oakdale,Source1,4,37.766637,-120.847053,2022,22,Monday,Clear / Fair,True,False,False,False,False,True,False
+A-4414611,CA,Stanislaus,Modesto,Source1,4,37.638167,-120.95944,2022,12,Monday,Clear / Fair,False,False,False,False,False,False,True
+A-4484320,CA,Stanislaus,Oakdale,Source1,4,37.7888,-120.864134,2022,0,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4517087,CA,Stanislaus,Modesto,Source1,4,37.565956,-121.10329,2022,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4605866,CA,Stanislaus,Crows Landing,Source1,4,37.49330162984136,-121.03089451732144,2022,7,Monday,Clear / Fair,False,False,False,True,False,False,False
+A-4655151,CA,Stanislaus,Oakdale,Source1,4,37.793001,-120.904752,2022,21,Friday,Clear / Fair,False,False,False,True,False,False,False
+A-4770844,CA,Stanislaus,Oakdale,Source1,4,37.732639,-120.683181,2023,8,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4794081,CA,Stanislaus,Modesto,Source1,4,37.63818,-120.962273,2022,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4824976,CA,Stanislaus,Modesto,Source1,4,37.638164,-120.958492,2022,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4983033,CA,Stanislaus,Oakdale,Source1,4,37.788951,-120.864334,2022,0,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4984473,CA,Stanislaus,Modesto,Source1,4,37.638164,-120.957185,2022,12,Monday,Clear / Fair,False,True,False,False,False,False,True
+A-5105244,CA,Stanislaus,Modesto,Source1,4,37.49617695790531,-121.06743693294015,2022,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5182037,CA,Stanislaus,Modesto,Source1,4,37.681777,-120.994201,2022,0,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-5200710,CA,Stanislaus,Modesto,Source1,4,37.710905,-120.93043,2022,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5224674,CA,Stanislaus,Salida,Source1,4,37.707857,-121.08263999999998,2022,15,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-5303815,CA,Stanislaus,Oakdale,Source1,4,37.732639,-120.683181,2023,8,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-5316376,CA,Stanislaus,Waterford,Source1,4,37.638677,-120.618856,2022,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5393073,CA,Stanislaus,Oakdale,Source1,4,37.790577,-120.866177,2022,0,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5422453,CA,Stanislaus,Patterson,Source1,4,37.399453,-121.139865,2022,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5459631,CA,Stanislaus,Salida,Source1,4,37.706097364245856,-121.07754349650824,2022,4,Saturday,Rain,False,False,False,False,False,False,False
+A-5511765,CA,Stanislaus,Modesto,Source1,4,37.645599,-121.015849,2021,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5577982,CA,Stanislaus,Modesto,Source1,4,37.63869881611996,-120.8613359922368,2021,23,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5647280,CA,Stanislaus,Waterford,Source1,4,37.639794,-120.740504,2021,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5697416,CA,Stanislaus,Modesto,Source1,4,37.63873,-120.829352,2021,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5733325,CA,Stanislaus,Modesto,Source1,4,37.7327477930177,-120.97692847194206,2021,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5802257,CA,Stanislaus,Modesto,Source1,4,37.638256,-120.903372,2021,16,Tuesday,Clear / Fair,False,True,False,False,False,False,True
+A-5807801,CA,Stanislaus,Modesto,Source1,4,37.638184,-120.971381,2021,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5854370,CA,Stanislaus,Crows Landing,Source1,4,37.492986,-120.995947,2021,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-5867556,CA,Stanislaus,Denair,Source1,4,37.551130056202176,-120.8222401136359,2021,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5897637,CA,Stanislaus,Oakdale,Source1,4,37.754568,-120.888394,2021,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5927260,CA,Stanislaus,Modesto,Source1,4,37.63814091664487,-121.0855257505365,2021,7,Thursday,Clear / Fair,False,False,False,True,False,False,False
+A-5961903,CA,Stanislaus,Oakdale,Source1,4,37.79000300000001,-120.866052,2021,22,Wednesday,Clear / Fair,False,False,False,True,False,False,False
+A-5964096,CA,Stanislaus,Waterford,Source1,4,37.638687,-120.618452,2021,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5993132,CA,Stanislaus,Modesto,Source1,4,37.645967,-121.014855,2021,19,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-6151793,CA,Stanislaus,Modesto,Source1,4,37.62580300000001,-120.948322,2021,14,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-6158605,CA,Stanislaus,Turlock,Source1,4,37.510125,-120.879467,2021,23,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6183591,CA,Stanislaus,Modesto,Source1,4,37.685446,-120.994252,2021,18,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-6183592,CA,Stanislaus,Modesto,Source1,4,37.68653,-120.994272,2021,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6209694,CA,Stanislaus,Modesto,Source1,4,37.638726,-120.847694,2021,23,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-6228686,CA,Stanislaus,Modesto,Source1,4,37.685861,-120.994258,2021,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6256041,CA,Stanislaus,Modesto,Source1,4,37.68835,-120.994297,2021,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6275140,CA,Stanislaus,Waterford,Source1,4,37.640216,-120.737486,2021,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6318914,CA,Stanislaus,Oakdale,Source1,4,37.791479,-120.886449,2021,12,Tuesday,Fog / Low visibility,False,False,False,True,False,False,False
+A-6375752,CA,Stanislaus,Turlock,Source1,4,37.47829,-120.958198,2021,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6376198,CA,Stanislaus,Ceres,Source1,4,37.550894,-120.919174,2021,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6526263,CA,Stanislaus,Turlock,Source1,4,37.492829561054734,-120.95841050090333,2021,7,Wednesday,Clear / Fair,False,True,False,False,False,False,True
+A-6590837,CA,Stanislaus,Waterford,Source1,4,37.653633,-120.774174,2020,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6595941,CA,Stanislaus,Hughson,Source1,4,37.60958,-120.847474,2020,23,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6661456,CA,Stanislaus,Modesto,Source1,4,37.60886,-121.12078,2020,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6766910,CA,Stanislaus,Modesto,Source1,4,37.626124,-120.847774,2020,23,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6990230,CA,Stanislaus,Modesto,Source1,3,37.63065,-120.99785,2020,16,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-6990246,CA,Stanislaus,Modesto,Source1,3,37.63065,-120.99785,2020,17,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-6990253,CA,Stanislaus,Modesto,Source1,3,37.63065,-120.99785,2020,17,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-6994772,CA,Stanislaus,Modesto,Source1,3,37.6267,-120.99658,2020,4,Monday,Cloudy,False,False,True,False,False,False,False
+A-6994790,CA,Stanislaus,Modesto,Source1,4,37.6267,-120.99658,2020,6,Monday,Cloudy,False,False,True,False,False,False,False
+A-6994794,CA,Stanislaus,Ceres,Source1,3,37.60741,-120.97461,2020,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6994797,CA,Stanislaus,Ceres,Source1,4,37.59462,-120.96026,2020,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7004711,CA,Stanislaus,Patterson,Source1,3,37.46115,-121.17788,2020,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7004713,CA,Stanislaus,Patterson,Source1,3,37.46115,-121.17788,2020,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7004732,CA,Stanislaus,Patterson,Source1,4,37.50857,-121.23005,2020,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7023023,CA,Stanislaus,Patterson,Source1,3,37.53926,-121.18803,2020,6,Monday,Clear / Fair,False,True,False,False,False,False,True
+A-7023028,CA,Stanislaus,Patterson,Source1,3,37.53926,-121.18803,2020,6,Monday,Clear / Fair,False,True,False,False,False,False,True
+A-7023031,CA,Stanislaus,Patterson,Source1,3,37.53926,-121.18803,2020,6,Monday,Clear / Fair,False,True,False,False,False,False,True
+A-7023036,CA,Stanislaus,Patterson,Source1,3,37.53926,-121.18803,2020,7,Monday,Clear / Fair,False,True,False,False,False,False,True
+A-7025300,CA,Stanislaus,Patterson,Source1,3,37.46115,-121.17788,2020,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7032019,CA,Stanislaus,Salida,Source1,3,37.70934000000001,-121.08166,2020,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7032021,CA,Stanislaus,Salida,Source1,3,37.70934000000001,-121.08166,2020,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7032022,CA,Stanislaus,Salida,Source1,3,37.70601,-121.0778,2020,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7046831,CA,Stanislaus,Modesto,Source1,3,37.66377,-121.02834,2020,14,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7046833,CA,Stanislaus,Modesto,Source1,3,37.66377,-121.02834,2020,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7046841,CA,Stanislaus,Modesto,Source1,3,37.66377,-121.02834,2020,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7050880,CA,Stanislaus,Modesto,Source1,4,37.63928,-121.0068,2020,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7066384,CA,Stanislaus,Patterson,Source1,4,37.58052,-121.31988,2020,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7066385,CA,Stanislaus,Patterson,Source1,4,37.58052,-121.31988,2020,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7073721,CA,Stanislaus,Modesto,Source1,3,37.66371,-121.02826,2020,14,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7073728,CA,Stanislaus,Modesto,Source1,3,37.66371,-121.02826,2020,15,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7081609,CA,Stanislaus,Modesto,Source1,4,37.64344000000001,-121.01297,2020,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7081614,CA,Stanislaus,Modesto,Source1,4,37.64344000000001,-121.01297,2020,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7090030,CA,Stanislaus,Vernalis,Source1,4,37.6397,-121.2478,2020,6,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-7123994,CA,Stanislaus,Modesto,Source1,4,37.6639,-121.02819,2020,13,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7139334,CA,Stanislaus,Oakdale,Source1,4,37.76664,-120.84709,2020,7,Thursday,Clear / Fair,True,False,False,False,False,True,False
+A-7139338,CA,Stanislaus,Oakdale,Source1,4,37.76664,-120.84709,2020,9,Thursday,Clear / Fair,True,False,False,False,False,True,False
+A-7149945,CA,Stanislaus,Modesto,Source1,4,37.62667,-120.9969,2020,17,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7158753,CA,Stanislaus,Modesto,Source1,4,37.6639,-121.02819,2020,4,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7158756,CA,Stanislaus,Modesto,Source1,4,37.6639,-121.02819,2020,4,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7158757,CA,Stanislaus,Modesto,Source1,4,37.6639,-121.02819,2020,4,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7158758,CA,Stanislaus,Modesto,Source1,4,37.6639,-121.02819,2020,4,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7158761,CA,Stanislaus,Modesto,Source1,4,37.6639,-121.02819,2020,5,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7164810,CA,Stanislaus,Modesto,Source1,3,37.61653,-121.03039,2020,18,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-7164815,CA,Stanislaus,Modesto,Source1,3,37.61653,-121.03039,2020,18,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-7164818,CA,Stanislaus,Modesto,Source1,3,37.61648,-121.03039,2020,18,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-7164819,CA,Stanislaus,Modesto,Source1,3,37.61653,-121.03039,2020,18,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-7187644,CA,Stanislaus,Turlock,Source1,3,37.53673,-120.848,2020,8,Monday,Cloudy,True,False,False,False,False,False,False
+A-7187646,CA,Stanislaus,Turlock,Source1,3,37.53673,-120.848,2020,8,Monday,Cloudy,True,False,False,False,False,False,False
+A-7214234,CA,Stanislaus,Gustine,Source1,4,37.25013,-121.09011,2020,7,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7214250,CA,Stanislaus,Gustine,Source1,4,37.25013,-121.09011,2020,9,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7409923,CA,Stanislaus,Patterson,Source1,3,37.536017,-121.262135,2019,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7422393,CA,Stanislaus,Ceres,Source1,4,37.59685,-120.96278999999998,2019,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-7427914,CA,Stanislaus,Modesto,Source1,4,37.732771,-120.977338,2019,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7427915,CA,Stanislaus,Modesto,Source1,4,37.73273,-120.981749,2019,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7428433,CA,Stanislaus,Modesto,Source1,4,37.63783,-121.158598,2019,11,Friday,Clear / Fair,False,False,False,True,False,False,False
+A-7428434,CA,Stanislaus,Modesto,Source1,4,37.63783,-121.159099,2019,11,Friday,Clear / Fair,False,False,False,True,False,False,False
+A-7434544,CA,Stanislaus,Modesto,Source1,4,37.616802,-120.985242,2019,17,Thursday,Rain,False,False,False,False,False,False,False
+A-7440281,CA,Stanislaus,Modesto,Source1,4,37.62769,-120.98765,2019,18,Monday,Rain,False,False,False,False,False,False,False
+A-7459095,CA,Stanislaus,Turlock,Source1,3,37.467171,-120.84904,2019,0,Monday,Cloudy,False,False,False,False,False,False,False
+A-7459096,CA,Stanislaus,Turlock,Source1,3,37.471517,-120.84904,2019,0,Monday,Cloudy,False,False,False,False,False,False,False
+A-7459108,CA,Stanislaus,Modesto,Source1,3,37.63857,-120.875,2019,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-7461039,CA,Stanislaus,Denair,Source1,4,37.528994,-120.799704,2019,13,Thursday,Cloudy,False,True,False,True,False,False,True
+A-7461040,CA,Stanislaus,Denair,Source1,4,37.52899,-120.79949,2019,13,Thursday,Cloudy,False,False,False,True,False,False,False
+A-7463640,CA,Stanislaus,Ceres,Source1,3,37.55161,-120.91139,2019,15,Tuesday,Rain,False,False,True,False,False,False,False
+A-7469095,CA,Stanislaus,Modesto,Source1,3,37.68002,-121.04934,2019,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7469174,CA,Stanislaus,Ceres,Source1,3,37.5729,-120.93549,2019,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7474751,CA,Stanislaus,Ceres,Source1,3,37.55161,-120.91139,2018,17,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7476758,CA,Stanislaus,Modesto,Source1,3,37.615607,-120.981881,2018,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7476764,CA,Stanislaus,Modesto,Source1,3,37.63085,-120.99793,2018,16,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7480503,CA,Stanislaus,Modesto,Source1,3,37.68672,-121.05769,2018,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7481447,CA,Stanislaus,Modesto,Source1,3,37.63826,-120.92332,2018,15,Tuesday,Clear / Fair,False,True,False,False,False,False,True
+A-7481448,CA,Stanislaus,Modesto,Source1,3,37.63826,-120.92332,2018,15,Tuesday,Clear / Fair,False,True,False,False,False,False,True
+A-7481471,CA,Stanislaus,Modesto,Source1,3,37.641505,-121.00988999999998,2018,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7483482,CA,Stanislaus,Ceres,Source1,3,37.580133,-120.944068,2018,13,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7483496,CA,Stanislaus,Salida,Source1,3,37.7098,-121.08189,2018,15,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7483545,CA,Stanislaus,Modesto,Source1,3,37.641591,-121.01001200000002,2018,17,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7484612,CA,Stanislaus,Patterson,Source1,4,37.42342100000001,-121.15445,2018,11,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7486165,CA,Stanislaus,Modesto,Source1,3,37.667865,-121.035398,2018,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7486967,CA,Stanislaus,Turlock,Source1,3,37.521907,-120.885779,2018,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7486986,CA,Stanislaus,Modesto,Source1,3,37.69447,-121.066665,2018,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7486994,CA,Stanislaus,Oakdale,Source1,3,37.75457,-120.888403,2018,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7505245,CA,Stanislaus,Modesto,Source1,3,37.69764,-121.06932,2018,14,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7505246,CA,Stanislaus,Patterson,Source1,3,37.45437800000001,-121.172948,2018,14,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7505257,CA,Stanislaus,Waterford,Source1,3,37.646569,-120.495953,2018,15,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7506065,CA,Stanislaus,Modesto,Source1,3,37.668291,-121.036031,2018,17,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7507444,CA,Stanislaus,Turlock,Source1,3,37.47226,-120.84459,2018,6,Thursday,Rain,False,False,False,False,False,False,False
+A-7509439,CA,Stanislaus,Oakdale,Source1,3,37.793424,-120.919413,2018,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7509447,CA,Stanislaus,Vernalis,Source1,3,37.63995900000001,-121.243576,2018,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7509451,CA,Stanislaus,Modesto,Source1,3,37.667602,-121.034919,2018,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7509460,CA,Stanislaus,Salida,Source1,3,37.70902,-121.08088,2018,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7510203,CA,Stanislaus,Modesto,Source1,3,37.68636,-121.05716,2018,16,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7510206,CA,Stanislaus,Modesto,Source1,3,37.68672,-121.05769,2018,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7511153,CA,Stanislaus,Modesto,Source1,3,37.64357,-121.01283,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7513077,CA,Stanislaus,Waterford,Source1,3,37.640212,-120.737293,2018,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7513078,CA,Stanislaus,Waterford,Source1,3,37.639686,-120.740906,2018,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7533667,CA,Stanislaus,Modesto,Source1,3,37.617179,-120.988356,2018,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7536190,CA,Stanislaus,Turlock,Source1,3,37.5187,-120.88403999999998,2018,23,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7537820,CA,Stanislaus,Modesto,Source1,3,37.627571,-120.996802,2018,2,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7538968,CA,Stanislaus,Turlock,Source1,3,37.47375,-120.84905,2018,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7538979,CA,Stanislaus,Modesto,Source1,3,37.64719,-121.01803999999998,2018,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7548311,CA,Stanislaus,Modesto,Source1,3,37.62772,-121.03047,2018,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7548312,CA,Stanislaus,Modesto,Source1,3,37.622481,-121.03043999999998,2018,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7556695,CA,Stanislaus,Oakdale,Source1,3,37.79147,-120.88644,2018,20,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-7564722,CA,Stanislaus,Ceres,Source1,3,37.55161,-120.91139,2018,15,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7565175,CA,Stanislaus,Salida,Source1,3,37.719573,-121.096833,2018,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7577139,CA,Stanislaus,Modesto,Source1,4,37.64889,-121.02004,2018,6,Friday,Sin dato,False,False,False,False,False,False,False
+A-7589051,CA,Stanislaus,Modesto,Source1,3,37.64357,-121.01283,2018,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7595696,CA,Stanislaus,Modesto,Source1,3,37.747962,-120.995546,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7595697,CA,Stanislaus,Modesto,Source1,3,37.747962,-120.995546,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7603019,CA,Stanislaus,Modesto,Source1,3,37.638606,-121.037974,2018,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7603021,CA,Stanislaus,Modesto,Source1,3,37.638719,-121.030373,2018,13,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7619356,CA,Stanislaus,Modesto,Source1,3,37.61749,-120.9906,2018,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7621141,CA,Stanislaus,Modesto,Source1,3,37.63833,-121.00565,2018,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7621142,CA,Stanislaus,Modesto,Source1,3,37.63957,-121.0075,2018,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7627338,CA,Stanislaus,Oakdale,Source1,4,37.809136,-120.665383,2018,14,Wednesday,Fog / Low visibility,False,False,False,True,False,False,False
+A-7627341,CA,Stanislaus,Oakdale,Source1,4,37.78581,-120.73718,2018,14,Wednesday,Fog / Low visibility,False,False,False,True,False,False,False
+A-7627342,CA,Stanislaus,Oakdale,Source1,4,37.80859,-120.66607,2018,14,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7628671,CA,Stanislaus,Ceres,Source1,3,37.5729,-120.93549,2018,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-7634946,CA,Stanislaus,Oakdale,Source1,3,37.77582,-120.818329,2018,22,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-7648770,CA,Stanislaus,Modesto,Source1,3,37.6201,-120.99507,2017,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7653581,CA,Stanislaus,Vernalis,Source1,3,37.638339,-121.268568,2017,3,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7663662,CA,Stanislaus,Turlock,Source1,4,37.54388,-120.84707,2017,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7663663,CA,Stanislaus,Turlock,Source1,4,37.54388,-120.84707,2017,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7681874,CA,Stanislaus,Modesto,Source1,3,37.66746,-121.03466,2017,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7683992,CA,Stanislaus,Ceres,Source1,3,37.584015,-120.948238,2017,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7692062,CA,Stanislaus,Turlock,Source1,4,37.44052,-120.849407,2017,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7692063,CA,Stanislaus,Turlock,Source1,4,37.449202,-120.8491,2017,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7692064,CA,Stanislaus,Turlock,Source1,4,37.439677,-120.849439,2017,0,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7696107,CA,Stanislaus,Oakdale,Source1,4,37.741386,-120.917877,2017,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7696108,CA,Stanislaus,Riverbank,Source1,4,37.73922,-120.91907,2017,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7702078,CA,Stanislaus,Modesto,Source1,4,37.63800000000001,-120.9572,2017,10,Tuesday,Clear / Fair,False,True,False,False,False,False,True
+A-7707007,CA,Stanislaus,Modesto,Source1,3,37.63399,-121.00046,2019,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7720572,CA,Stanislaus,Modesto,Source1,3,37.66746,-121.03466,2019,23,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7721164,CA,Stanislaus,Vernalis,Source1,4,37.63829000000001,-121.273657,2019,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7721165,CA,Stanislaus,Vernalis,Source1,4,37.638381,-121.267829,2019,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7728460,CA,Stanislaus,Ceres,Source1,3,37.579,-120.94249,2019,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-7728484,CA,Stanislaus,Waterford,Source1,4,37.6466,-120.69549,2019,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-7729033,CA,Stanislaus,Modesto,Source1,3,37.73273,-120.98487,2019,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7729034,CA,Stanislaus,Modesto,Source1,3,37.73273,-120.98487,2019,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7731141,CA,Stanislaus,Modesto,Source1,4,37.63814,-120.948624,2019,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7731142,CA,Stanislaus,Modesto,Source1,4,37.63817,-120.95721,2019,8,Tuesday,Clear / Fair,False,True,False,False,False,False,True
+A-7736537,CA,Stanislaus,Ceres,Source1,3,37.58793,-120.95295,2019,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7742502,CA,Stanislaus,Modesto,Source1,3,37.6201,-120.99507,2019,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7743693,CA,Stanislaus,Patterson,Source1,3,37.441735,-121.164495,2019,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7753327,CA,Stanislaus,Oakdale,Source1,4,37.699015,-120.815098,2019,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7753328,CA,Stanislaus,Oakdale,Source1,4,37.682074,-120.804355,2019,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7756012,CA,Stanislaus,Modesto,Source1,3,37.6151,-120.98126,2019,17,Monday,Clear / Fair,False,False,True,False,False,False,False

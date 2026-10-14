@@ -1,0 +1,225 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-310816,WA,Kitsap,Poulsbo,Source2,3,47.719788,-122.62236,2016,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-311234,WA,Kitsap,Bremerton,Source2,3,47.548023,-122.6717,2016,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-436473,WA,Kitsap,Port Orchard,Source2,3,47.46865800000001,-122.624146,2017,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-436474,WA,Kitsap,Port Orchard,Source2,3,47.46865800000001,-122.624146,2017,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-602357,WA,Kitsap,Bremerton,Source2,3,47.580441,-122.692429,2022,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-728436,WA,Kitsap,Silverdale,Source2,3,47.657612,-122.672661,2022,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-728437,WA,Kitsap,Silverdale,Source2,3,47.665661,-122.687187,2022,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-728547,WA,Kitsap,Silverdale,Source2,3,47.656315,-122.6707,2022,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-804524,WA,Kitsap,Poulsbo,Source2,3,47.70063,-122.685043,2021,6,Thursday,Rain,False,False,False,False,False,False,False
+A-833927,WA,Kitsap,Bremerton,Source3,3,47.580441,-122.692429,2021,8,Thursday,Rain,False,False,False,False,False,False,False
+A-847996,WA,Kitsap,Port Orchard,Source2,3,47.505081,-122.545753,2021,8,Friday,Rain,False,False,False,True,False,False,False
+A-957423,WA,Kitsap,Poulsbo,Source2,3,47.843472,-122.6157,2021,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-963879,WA,Kitsap,Poulsbo,Source2,3,47.830631,-122.627289,2021,0,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-972476,WA,Kitsap,Poulsbo,Source2,3,47.758259,-122.62538899999998,2021,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1016151,WA,Kitsap,Port Orchard,Source2,3,47.494823,-122.639305,2021,16,Sunday,Rain,False,False,False,False,False,False,False
+A-1120679,WA,Kitsap,Bremerton,Source2,3,47.524769,-122.70665,2021,12,Saturday,Clear / Fair,False,False,False,True,False,False,False
+A-1167903,WA,Kitsap,Silverdale,Source2,3,47.663574,-122.691071,2021,1,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1167904,WA,Kitsap,Silverdale,Source2,3,47.676929,-122.691498,2021,1,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1197466,WA,Kitsap,Bremerton,Source2,3,47.527699,-122.699928,2021,15,Tuesday,Rain,False,False,False,False,False,False,False
+A-1223815,WA,Kitsap,Poulsbo,Source2,3,47.699169,-122.685799,2020,9,Friday,Rain,False,False,False,False,False,False,False
+A-1223822,WA,Kitsap,Bremerton,Source2,3,47.61412,-122.628792,2020,16,Friday,Cloudy,True,True,False,False,False,False,False
+A-1265170,WA,Kitsap,Port Orchard,Source2,3,47.523979,-122.713089,2020,16,Monday,Rain,False,False,False,True,False,False,False
+A-1295803,WA,Kitsap,Bremerton,Source2,3,47.650421,-122.65036,2020,4,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1344501,WA,Kitsap,Bremerton,Source2,3,47.585175,-122.630737,2020,9,Friday,Cloudy,False,True,False,False,False,False,False
+A-1389177,WA,Kitsap,Port Orchard,Source2,3,47.404633,-122.625,2020,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1425794,WA,Kitsap,Port Orchard,Source2,3,47.504829,-122.605438,2020,10,Sunday,Clear / Fair,False,False,False,True,False,False,False
+A-1435862,WA,Kitsap,Poulsbo,Source2,3,47.766129,-122.61248799999998,2020,11,Monday,Cloudy,False,False,False,True,False,False,False
+A-1440162,WA,Kitsap,Port Orchard,Source2,3,47.50156,-122.645668,2020,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1560624,WA,Kitsap,Bremerton,Source2,3,47.527699,-122.699928,2020,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1665786,WA,Kitsap,Port Orchard,Source2,3,47.504951,-122.648323,2020,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-1712916,WA,Kitsap,Kingston,Source2,3,47.809521,-122.541573,2019,16,Thursday,Rain,True,True,False,False,False,False,False
+A-1749446,WA,Kitsap,Bremerton,Source2,3,47.476421,-122.792168,2019,4,Friday,Clear / Fair,False,False,False,True,False,False,False
+A-1805892,WA,Kitsap,Poulsbo,Source2,3,47.85463,-122.603401,2019,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1828728,WA,Kitsap,Poulsbo,Source2,3,47.75182,-122.645683,2019,17,Monday,Rain,True,True,False,False,False,False,False
+A-1857650,WA,Kitsap,Poulsbo,Source2,3,47.7071,-122.601173,2019,17,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-1973333,WA,Kitsap,Bremerton,Source2,3,47.64909,-122.633591,2019,15,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-2053779,WA,Kitsap,Poulsbo,Source2,3,47.724522,-122.634392,2019,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2082206,WA,Kitsap,Silverdale,Source2,3,47.680119,-122.690132,2019,0,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2082207,WA,Kitsap,Poulsbo,Source2,3,47.69886,-122.685867,2019,0,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2082208,WA,Kitsap,Poulsbo,Source2,3,47.699848,-122.68618,2019,0,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2083861,WA,Kitsap,Port Orchard,Source2,3,47.432537,-122.623207,2019,9,Saturday,Clear / Fair,False,False,False,True,False,False,False
+A-2171525,WA,Kitsap,Bremerton,Source2,3,47.602581,-122.629128,2019,11,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-2207628,WA,Kitsap,Bremerton,Source2,3,47.580761,-122.694847,2019,7,Thursday,Cloudy,False,False,False,True,False,False,False
+A-2263545,WA,Kitsap,Bremerton,Source2,3,47.558022,-122.673927,2019,7,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2263554,WA,Kitsap,Poulsbo,Source2,3,47.702942,-122.683502,2019,8,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2333893,WA,Kitsap,Port Orchard,Source2,3,47.468376,-122.62426,2019,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2912156,WA,Kitsap,Bremerton,Source2,3,47.527332,-122.699715,2018,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2982395,WA,Kitsap,Olalla,Source2,3,47.432407,-122.623116,2018,5,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-3093726,WA,Kitsap,Poulsbo,Source3,3,47.772465,-122.607124,2018,11,Monday,Rain,True,True,False,False,False,False,False
+A-3183168,WA,Kitsap,Bremerton,Source2,3,47.602623,-122.629219,2017,11,Monday,Cloudy,True,True,False,False,False,False,False
+A-3524299,WA,Kitsap,Port Orchard,Source1,3,47.51571,-122.73511,2016,16,Thursday,Cloudy,False,False,False,True,False,False,False
+A-3524304,WA,Kitsap,Port Orchard,Source1,4,47.51571,-122.73511,2016,16,Thursday,Cloudy,False,False,False,True,False,False,False
+A-3524310,WA,Kitsap,Port Orchard,Source1,3,47.51571,-122.73511,2016,16,Thursday,Cloudy,False,False,False,True,False,False,False
+A-3524312,WA,Kitsap,Port Orchard,Source1,3,47.51571,-122.73511,2016,16,Thursday,Cloudy,False,False,False,True,False,False,False
+A-3525753,WA,Kitsap,Port Orchard,Source1,4,47.52155,-122.66034,2016,3,Friday,Cloudy,False,False,False,False,False,False,False
+A-3527286,WA,Kitsap,Bremerton,Source1,4,47.554408,-122.658362,2016,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3527287,WA,Kitsap,Bremerton,Source1,4,47.554319,-122.658246,2016,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3527376,WA,Kitsap,Port Orchard,Source1,3,47.502589,-122.644102,2016,6,Monday,Cloudy,False,False,False,True,False,False,False
+A-3527377,WA,Kitsap,Port Orchard,Source1,3,47.50297,-122.64376,2016,6,Monday,Cloudy,False,False,False,True,False,False,False
+A-3527686,WA,Kitsap,Silverdale,Source1,3,47.66397,-122.68343,2016,23,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3527778,WA,Kitsap,Poulsbo,Source1,4,47.787519,-122.6514,2016,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3527779,WA,Kitsap,Poulsbo,Source1,4,47.801788,-122.649468,2016,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3527817,WA,Kitsap,Bainbridge Island,Source1,4,47.701596,-122.557818,2016,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3527819,WA,Kitsap,Bainbridge Island,Source1,4,47.700096,-122.557083,2016,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3528334,WA,Kitsap,Bainbridge Island,Source1,4,47.66446,-122.526774,2016,16,Friday,Rain,False,False,False,False,True,False,False
+A-3528722,WA,Kitsap,Bainbridge Island,Source1,4,47.71131,-122.56342,2016,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3528723,WA,Kitsap,Bainbridge Island,Source1,4,47.69056,-122.55101,2016,18,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-3529007,WA,Kitsap,Poulsbo,Source1,4,47.709842,-122.581422,2016,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-3529245,WA,Kitsap,Poulsbo,Source1,4,47.709842,-122.581422,2017,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3529246,WA,Kitsap,Poulsbo,Source1,4,47.710699,-122.579781,2017,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3531533,WA,Kitsap,Bremerton,Source1,3,47.65042,-122.6514,2017,3,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3531534,WA,Kitsap,Bremerton,Source1,3,47.65052,-122.648492,2017,3,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3534334,WA,Kitsap,Silverdale,Source1,3,47.6647,-122.68786,2016,3,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-3535036,WA,Kitsap,Port Orchard,Source1,3,47.52472,-122.66103,2016,0,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3535535,WA,Kitsap,Bremerton,Source1,4,47.60686,-122.62887,2016,19,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-3536347,WA,Kitsap,Port Orchard,Source1,3,47.51571,-122.73511,2016,18,Monday,Clear / Fair,False,False,False,True,False,False,False
+A-3536935,WA,Kitsap,Port Orchard,Source1,3,47.476954,-122.791417,2016,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3539375,WA,Kitsap,Bremerton,Source1,3,47.5277,-122.69993,2016,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3539590,WA,Kitsap,Port Orchard,Source1,4,47.476436,-122.792153,2016,17,Wednesday,Clear / Fair,False,False,False,True,False,False,False
+A-3539592,WA,Kitsap,Port Orchard,Source1,4,47.47622,-122.79198999999998,2016,17,Wednesday,Clear / Fair,False,False,False,True,False,False,False
+A-3539593,WA,Kitsap,Port Orchard,Source1,3,47.494319,-122.766162,2016,17,Wednesday,Clear / Fair,True,True,False,False,False,False,False
+A-3541977,WA,Kitsap,Poulsbo,Source1,3,47.836363,-122.586924,2016,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3541978,WA,Kitsap,Poulsbo,Source1,3,47.83642,-122.586931,2016,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3542828,WA,Kitsap,Silverdale,Source1,4,47.66371,-122.68256,2016,23,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3545032,WA,Kitsap,Poulsbo,Source1,4,47.718804,-122.620544,2016,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3547504,WA,Kitsap,Port Orchard,Source1,4,47.515942,-122.670427,2016,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3547505,WA,Kitsap,Port Orchard,Source1,4,47.510649,-122.674907,2016,5,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-3550192,WA,Kitsap,Port Orchard,Source1,3,47.49805,-122.64252,2016,22,Monday,Cloudy,False,False,True,False,False,False,False
+A-3553224,WA,Kitsap,Silverdale,Source1,3,47.664949,-122.687775,2016,11,Saturday,Cloudy,True,False,False,False,False,False,False
+A-3553225,WA,Kitsap,Silverdale,Source1,3,47.66486,-122.68808,2016,11,Saturday,Cloudy,True,False,False,False,False,False,False
+A-3553227,WA,Kitsap,Silverdale,Source1,3,47.66486,-122.68808,2016,11,Saturday,Cloudy,True,False,False,False,False,False,False
+A-3555900,WA,Kitsap,Poulsbo,Source1,3,47.774969,-122.65092,2016,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3563837,WA,Kitsap,Port Orchard,Source1,3,47.475362,-122.793718,2017,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3563838,WA,Kitsap,Port Orchard,Source1,3,47.476954,-122.791417,2017,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3565635,WA,Kitsap,Bremerton,Source1,4,47.58332,-122.69828,2017,21,Monday,Cloudy,False,False,True,False,False,False,False
+A-3565636,WA,Kitsap,Bremerton,Source1,4,47.58042,-122.69117,2017,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-3587037,WA,Kitsap,Kingston,Source1,3,47.804286,-122.507491,2017,14,Tuesday,Clear / Fair,False,False,False,False,True,False,False
+A-3590906,WA,Kitsap,Port Orchard,Source1,4,47.52317,-122.54563,2017,0,Sunday,Cloudy,False,False,False,True,False,False,False
+A-3590923,WA,Kitsap,Poulsbo,Source1,4,47.77243,-122.60716,2017,13,Sunday,Cloudy,True,True,False,False,False,False,False
+A-3590924,WA,Kitsap,Poulsbo,Source1,4,47.772444,-122.607148,2017,13,Sunday,Cloudy,True,True,False,False,False,False,False
+A-3590936,WA,Kitsap,Port Orchard,Source1,4,47.52155,-122.66034,2017,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3590937,WA,Kitsap,Port Orchard,Source1,4,47.52155,-122.66034,2017,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3610012,WA,Kitsap,Poulsbo,Source1,3,47.78391,-122.65123,2017,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3610013,WA,Kitsap,Poulsbo,Source1,3,47.78391,-122.65123,2017,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3638741,WA,Kitsap,Port Orchard,Source1,3,47.42871,-122.62368,2017,2,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3638781,WA,Kitsap,Bremerton,Source1,4,47.56639000000001,-122.68139,2017,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3639505,WA,Kitsap,Poulsbo,Source1,4,47.70121,-122.68295,2017,17,Sunday,Cloudy,False,False,False,True,False,False,False
+A-3639524,WA,Kitsap,Kingston,Source1,4,47.80951,-122.5308,2017,5,Monday,Cloudy,False,False,False,True,True,False,False
+A-3639534,WA,Kitsap,Kingston,Source1,3,47.8095,-122.522432,2017,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-3639535,WA,Kitsap,Kingston,Source1,3,47.8095,-122.522432,2017,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-3649296,WA,Kitsap,Poulsbo,Source1,3,47.78053,-122.60038,2017,16,Wednesday,Clear / Fair,False,False,False,True,False,False,False
+A-3649309,WA,Kitsap,Poulsbo,Source1,3,47.78053,-122.60038,2017,17,Wednesday,Clear / Fair,False,False,False,True,False,False,False
+A-3649311,WA,Kitsap,Poulsbo,Source1,3,47.78053,-122.60038,2017,17,Wednesday,Clear / Fair,False,False,False,True,False,False,False
+A-3843268,WA,Kitsap,Poulsbo,Source1,4,47.859726,-122.624198,2023,15,Friday,Rain,False,False,False,False,False,False,False
+A-4055681,WA,Kitsap,Port Orchard,Source1,4,47.510701,-122.651594,2023,19,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4578774,WA,Kitsap,Bremerton,Source1,4,47.650498,-122.639518,2023,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4867331,WA,Kitsap,Port Orchard,Source1,4,47.50496500000001,-122.648311,2022,9,Monday,Rain,False,False,False,False,False,False,False
+A-5005901,WA,Kitsap,Poulsbo,Source1,4,47.855105,-122.616057,2023,15,Friday,Rain,False,False,False,False,False,False,False
+A-5196342,WA,Kitsap,Port Orchard,Source1,4,47.518055,-122.6583,2023,20,Sunday,Fog / Low visibility,False,False,True,False,False,False,False
+A-5292271,WA,Kitsap,Poulsbo,Source1,4,47.671157,-122.621019,2022,12,Friday,Clear / Fair,False,False,False,True,False,False,False
+A-5337122,WA,Kitsap,Port Orchard,Source1,4,47.479708,-122.626579,2022,9,Monday,Rain,False,False,False,False,False,False,False
+A-5715067,WA,Kitsap,Poulsbo,Source1,4,47.786084,-122.651336,2021,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-5978352,WA,Kitsap,Silverdale,Source1,4,47.65823006607218,-122.67395138682043,2021,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6737970,WA,Kitsap,Poulsbo,Source1,4,47.716165,-122.615586,2020,22,Saturday,Rain,False,False,False,True,False,False,False
+A-6799475,WA,Kitsap,Bremerton,Source1,4,47.582369,-122.631479,2020,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-7017879,WA,Kitsap,Bremerton,Source1,3,47.54601,-122.67367,2020,13,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7017881,WA,Kitsap,Bremerton,Source1,3,47.54601,-122.67367,2020,12,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7017888,WA,Kitsap,Bremerton,Source1,3,47.54601,-122.67367,2020,12,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7017894,WA,Kitsap,Bremerton,Source1,3,47.54601,-122.67367,2020,13,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7025209,WA,Kitsap,Bremerton,Source1,3,47.54603,-122.6738,2020,17,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7036629,WA,Kitsap,Poulsbo,Source1,3,47.8174,-122.64374,2020,7,Monday,Clear / Fair,True,True,False,False,False,False,False
+A-7058808,WA,Kitsap,Bremerton,Source1,3,47.5783,-122.68898,2020,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7104164,WA,Kitsap,Poulsbo,Source1,3,47.75004000000001,-122.66859,2020,20,Sunday,Cloudy,False,False,True,False,False,False,False
+A-7117816,WA,Kitsap,Poulsbo,Source1,4,47.73188,-122.67566,2020,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7147748,WA,Kitsap,Silverdale,Source1,4,47.64599000000001,-122.70747,2020,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7147749,WA,Kitsap,Silverdale,Source1,4,47.65391,-122.70657,2020,10,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-7181224,WA,Kitsap,Port Orchard,Source1,3,47.4324,-122.623,2020,13,Thursday,Clear / Fair,False,False,False,True,False,False,False
+A-7187507,WA,Kitsap,Silverdale,Source1,3,47.66035,-122.69839,2020,9,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7187597,WA,Kitsap,Port Orchard,Source1,4,47.57742,-122.57427,2020,19,Monday,Cloudy,False,False,False,True,False,False,False
+A-7187598,WA,Kitsap,Port Orchard,Source1,4,47.57742,-122.57427,2020,19,Monday,Cloudy,False,False,False,True,False,False,False
+A-7223597,WA,Kitsap,Poulsbo,Source1,3,47.699965,-122.683474,2020,3,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7265278,WA,Kitsap,Bremerton,Source1,4,47.54601,-122.67367,2020,3,Sunday,Cloudy,False,False,True,False,False,False,False
+A-7265279,WA,Kitsap,Bremerton,Source1,4,47.54377,-122.6751,2020,3,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7295003,WA,Kitsap,Bremerton,Source1,3,47.55077,-122.66416,2019,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-7321065,WA,Kitsap,Bremerton,Source1,3,47.64312,-122.62887,2019,21,Thursday,Rain,False,False,False,True,False,False,False
+A-7324088,WA,Kitsap,Olalla,Source1,3,47.42912000000001,-122.62329,2019,0,Saturday,Sin dato,False,False,False,False,False,False,False
+A-7326362,WA,Kitsap,Bremerton,Source1,4,47.614121,-122.62879,2019,22,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-7333969,WA,Kitsap,Kingston,Source1,4,47.8087,-122.5185,2019,1,Wednesday,Fog / Low visibility,False,False,False,True,False,False,False
+A-7372975,WA,Kitsap,Poulsbo,Source1,3,47.85495,-122.59875,2019,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7388600,WA,Kitsap,Poulsbo,Source1,4,47.80175,-122.64948,2019,3,Tuesday,Rain,False,False,False,False,False,False,False
+A-7388601,WA,Kitsap,Poulsbo,Source1,4,47.813113,-122.645812,2019,3,Tuesday,Rain,False,False,False,True,False,False,False
+A-7400192,WA,Kitsap,Port Orchard,Source1,4,47.50483,-122.519364,2019,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7400193,WA,Kitsap,Port Orchard,Source1,4,47.50483,-122.513622,2019,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7400206,WA,Kitsap,Port Orchard,Source1,4,47.50483,-122.519364,2019,18,Friday,Rain,False,False,False,False,False,False,False
+A-7400208,WA,Kitsap,Port Orchard,Source1,4,47.50483,-122.513622,2019,18,Friday,Rain,False,False,False,False,False,False,False
+A-7404789,WA,Kitsap,Poulsbo,Source1,4,47.762367,-122.617365,2019,15,Monday,Clear / Fair,False,False,False,True,False,False,False
+A-7424179,WA,Kitsap,Port Orchard,Source1,4,47.51571,-122.73511,2019,5,Thursday,Snow / Ice,False,False,False,True,False,False,False
+A-7429958,WA,Kitsap,Port Orchard,Source1,4,47.51571,-122.73511,2019,7,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-7429959,WA,Kitsap,Bremerton,Source1,4,47.523961,-122.71367,2019,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7429960,WA,Kitsap,Bremerton,Source1,4,47.523961,-122.71367,2019,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7429961,WA,Kitsap,Port Orchard,Source1,4,47.51571,-122.73511,2019,9,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-7431569,WA,Kitsap,Port Orchard,Source1,3,47.525441,-122.54802,2019,23,Thursday,Clear / Fair,False,False,False,True,False,False,False
+A-7442610,WA,Kitsap,Port Orchard,Source1,3,47.412447,-122.624124,2019,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7484594,WA,Kitsap,Bremerton,Source1,4,47.47695,-122.791422,2018,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7484595,WA,Kitsap,Bremerton,Source1,4,47.49968,-122.758392,2018,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7488191,WA,Kitsap,Silverdale,Source1,3,47.68217,-122.69011,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7488207,WA,Kitsap,Silverdale,Source1,3,47.66734,-122.68786,2018,17,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7502052,WA,Kitsap,Bremerton,Source1,3,47.615889,-122.6288,2018,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7505138,WA,Kitsap,Port Orchard,Source1,4,47.434556,-122.622896,2018,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7505186,WA,Kitsap,Port Orchard,Source1,4,47.51571,-122.73511,2018,16,Monday,Clear / Fair,False,False,False,True,False,False,False
+A-7506839,WA,Kitsap,Bremerton,Source1,3,47.49968,-122.758392,2018,20,Wednesday,Rain,False,False,False,False,False,False,False
+A-7506840,WA,Kitsap,Bremerton,Source1,3,47.47695,-122.791422,2018,20,Wednesday,Rain,False,False,False,False,False,False,False
+A-7509376,WA,Kitsap,Port Orchard,Source1,4,47.52092,-122.65978,2018,18,Monday,Rain,False,False,False,False,False,False,False
+A-7509382,WA,Kitsap,Port Orchard,Source1,4,47.52505900000001,-122.66118,2018,18,Monday,Rain,False,False,False,False,False,False,False
+A-7519216,WA,Kitsap,Poulsbo,Source1,4,47.793901,-122.589149,2018,14,Sunday,Clear / Fair,False,False,False,True,False,False,False
+A-7544903,WA,Kitsap,Bremerton,Source1,3,47.635531,-122.6289,2018,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7556656,WA,Kitsap,Port Orchard,Source1,3,47.50489,-122.59471,2018,12,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-7556657,WA,Kitsap,Port Orchard,Source1,3,47.50489,-122.59471,2018,12,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-7561154,WA,Kitsap,Poulsbo,Source1,4,47.85188,-122.60973,2018,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7578944,WA,Kitsap,Poulsbo,Source1,4,47.70955,-122.58195,2018,16,Thursday,Clear / Fair,False,False,False,True,False,False,False
+A-7578945,WA,Kitsap,Poulsbo,Source1,4,47.70955,-122.58195,2018,16,Thursday,Clear / Fair,False,False,False,True,False,False,False
+A-7583074,WA,Kitsap,Port Orchard,Source1,3,47.50505,-122.543,2018,3,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7584061,WA,Kitsap,Poulsbo,Source1,4,47.85261,-122.61159,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7591775,WA,Kitsap,Port Orchard,Source1,3,47.52408,-122.709686,2018,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7604947,WA,Kitsap,Poulsbo,Source1,4,47.80212,-122.64936000000002,2018,6,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-7604948,WA,Kitsap,Poulsbo,Source1,4,47.80212,-122.64936000000002,2018,6,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-7605520,WA,Kitsap,Bremerton,Source1,4,47.58406,-122.63092,2018,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7609107,WA,Kitsap,Port Orchard,Source1,4,47.50522,-122.57269,2018,5,Thursday,Rain,False,False,False,True,False,False,False
+A-7609108,WA,Kitsap,Port Orchard,Source1,4,47.50489,-122.59471,2018,5,Thursday,Rain,False,False,False,True,False,False,False
+A-7609657,WA,Kitsap,Port Orchard,Source1,4,47.517378,-122.657829,2018,2,Friday,Cloudy,False,False,False,False,False,False,False
+A-7625610,WA,Kitsap,Port Orchard,Source1,4,47.505,-122.58695,2018,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7662654,WA,Kitsap,Port Orchard,Source1,3,47.409099,-122.62472,2017,23,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7663653,WA,Kitsap,Poulsbo,Source1,4,47.848957,-122.613444,2017,3,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7681002,WA,Kitsap,Poulsbo,Source1,4,47.72778,-122.636951,2017,4,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7681003,WA,Kitsap,Poulsbo,Source1,4,47.724005,-122.633036,2017,4,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7687824,WA,Kitsap,Poulsbo,Source1,4,47.816702,-122.644193,2017,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7687825,WA,Kitsap,Poulsbo,Source1,4,47.813749,-122.6456,2017,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7710047,WA,Kitsap,Bremerton,Source1,4,47.60686,-122.62887,2019,15,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-7710048,WA,Kitsap,Bremerton,Source1,4,47.60686,-122.62887,2019,15,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-7719894,WA,Kitsap,Bremerton,Source1,4,47.476213,-122.792471,2019,5,Wednesday,Rain,False,False,False,False,False,False,False
+A-7719895,WA,Kitsap,Bremerton,Source1,4,47.493979,-122.766667,2019,5,Wednesday,Rain,False,False,False,False,False,False,False
+A-7719945,WA,Kitsap,Bremerton,Source1,3,47.472406,-122.797995,2019,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7723453,WA,Kitsap,Bremerton,Source1,4,47.472406,-122.797995,2019,18,Wednesday,Rain,False,False,False,False,False,False,False
+A-7723454,WA,Kitsap,Bremerton,Source1,4,47.493979,-122.766667,2019,18,Wednesday,Rain,False,False,False,False,False,False,False
+A-7727111,WA,Kitsap,Poulsbo,Source1,4,47.85195,-122.61027,2019,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7734198,WA,Kitsap,Bremerton,Source1,3,47.525467,-122.70411599999998,2019,15,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-7738689,WA,Kitsap,Port Orchard,Source1,4,47.504895,-122.594561,2019,20,Friday,Cloudy,False,False,False,True,False,False,False
+A-7742957,WA,Kitsap,Bremerton,Source1,4,47.56817,-122.673133,2019,12,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-7742958,WA,Kitsap,Bremerton,Source1,4,47.5696,-122.68506,2019,12,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-7742959,WA,Kitsap,Bremerton,Source1,3,47.56639000000001,-122.68139,2019,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7742960,WA,Kitsap,Bremerton,Source1,4,47.5696,-122.68506,2019,15,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-7742961,WA,Kitsap,Bremerton,Source1,4,47.5696,-122.68506,2019,15,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-7742962,WA,Kitsap,Bremerton,Source1,4,47.569607,-122.682008,2019,15,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-7742963,WA,Kitsap,Bremerton,Source1,4,47.5696,-122.68506,2019,15,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-7744085,WA,Kitsap,Port Orchard,Source1,4,47.54186,-122.62701,2019,11,Thursday,Cloudy,True,True,False,False,False,False,False
+A-7744086,WA,Kitsap,Port Orchard,Source1,4,47.54186,-122.62701,2019,11,Thursday,Cloudy,True,True,False,False,False,False,False
+A-7755891,WA,Kitsap,Poulsbo,Source1,4,47.7058,-122.592331,2019,12,Monday,Rain,False,False,False,False,False,False,False
+A-7755892,WA,Kitsap,Poulsbo,Source1,4,47.706944,-122.600867,2019,12,Monday,Rain,False,False,False,False,False,False,False
+A-7758072,WA,Kitsap,Poulsbo,Source1,4,47.709046,-122.604253,2019,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7760174,WA,Kitsap,Bremerton,Source1,4,47.649577,-122.634206,2019,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7761230,WA,Kitsap,Port Orchard,Source1,3,47.50479,-122.608799,2019,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7761611,WA,Kitsap,Port Orchard,Source1,4,47.504789,-122.609221,2019,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7761612,WA,Kitsap,Port Orchard,Source1,4,47.50479,-122.609067,2019,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7773451,WA,Kitsap,Bremerton,Source1,4,47.60647,-122.71228,2019,2,Wednesday,Cloudy,False,False,True,False,False,False,False

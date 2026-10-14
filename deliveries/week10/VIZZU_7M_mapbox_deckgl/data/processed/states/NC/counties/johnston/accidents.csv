@@ -1,0 +1,891 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-512941,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2022,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-513679,NC,Johnston,Selma,Source2,3,35.519283,-78.289345,2022,15,Wednesday,Storm,False,False,True,False,False,False,False
+A-521876,NC,Johnston,Clayton,Source2,3,35.611668,-78.463661,2022,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-541960,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2022,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-547352,NC,Johnston,Benson,Source2,3,35.377384,-78.53878,2022,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-550911,NC,Johnston,Smithfield,Source2,3,35.49128,-78.347115,2022,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-558253,NC,Johnston,Benson,Source2,3,35.493008,-78.552841,2022,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-558255,NC,Johnston,Selma,Source2,4,35.568211,-78.16731300000002,2022,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-569030,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2022,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-584806,NC,Johnston,Benson,Source2,3,35.377384,-78.53878,2022,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-588039,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2022,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-589641,NC,Johnston,Smithfield,Source3,3,35.502247,-78.324669,2022,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-589884,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2022,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-589992,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2022,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-604374,NC,Johnston,Benson,Source2,3,35.422844,-78.529739,2022,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-605576,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2022,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-607927,NC,Johnston,Selma,Source2,3,35.55110900000001,-78.216148,2022,19,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-608778,NC,Johnston,Benson,Source2,3,35.516438,-78.55796099999998,2022,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-609126,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2022,9,Friday,Storm,False,False,False,False,False,False,False
+A-612626,NC,Johnston,Garner,Source3,3,35.60752100000001,-78.56456,2022,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-616670,NC,Johnston,Benson,Source2,3,35.422844,-78.529739,2022,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-621972,NC,Johnston,Four Oaks,Source2,3,35.427574,-78.437187,2022,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-629785,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2022,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-631584,NC,Johnston,Selma,Source2,3,35.529232,-78.269058,2022,10,Monday,Cloudy,False,False,True,False,False,False,False
+A-633205,NC,Johnston,Four Oaks,Source2,3,35.43946500000001,-78.420464,2022,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-643618,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2022,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-654057,NC,Johnston,Four Oaks,Source2,3,35.45755399999999,-78.390549,2022,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-655388,NC,Johnston,Selma,Source2,3,35.556046,-78.202072,2022,19,Saturday,Cloudy,False,False,False,False,False,False,False
+A-655409,NC,Johnston,Benson,Source2,3,35.329651,-78.44884499999998,2022,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-659362,NC,Johnston,Garner,Source2,3,35.626148,-78.56660500000002,2022,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-661765,NC,Johnston,Benson,Source2,3,35.516438,-78.55796099999998,2022,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-679864,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2022,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-681654,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2022,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-682550,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2022,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-682889,NC,Johnston,Benson,Source2,3,35.516438,-78.55796099999998,2022,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-695378,NC,Johnston,Benson,Source2,3,35.384258,-78.52771800000002,2022,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-703217,NC,Johnston,Kenly,Source2,4,35.601105,-78.13072199999998,2022,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-703849,NC,Johnston,Selma,Source2,3,35.519283,-78.289345,2022,13,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-709378,NC,Johnston,Four Oaks,Source2,3,35.45560800000001,-78.39110600000002,2022,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-727133,NC,Johnston,Selma,Source2,3,35.529232,-78.269058,2022,13,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-731519,NC,Johnston,Garner,Source2,3,35.57703400000001,-78.576324,2022,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-736977,NC,Johnston,Garner,Source2,3,35.568588,-78.57624799999998,2022,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-738178,NC,Johnston,Benson,Source2,3,35.377384,-78.53878,2022,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-740047,NC,Johnston,Selma,Source2,3,35.55651500000001,-78.20089,2022,20,Thursday,Rain,False,False,False,False,False,False,False
+A-740771,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2022,15,Thursday,Rain,False,False,False,False,False,False,False
+A-745183,NC,Johnston,Garner,Source2,3,35.562519,-78.575775,2022,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-746225,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2022,7,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-753295,NC,Johnston,Benson,Source2,3,35.377384,-78.53878,2022,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-758156,NC,Johnston,Benson,Source3,3,35.491276,-78.552376,2021,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-759389,NC,Johnston,Benson,Source2,3,35.528976,-78.56665,2021,19,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-763345,NC,Johnston,Benson,Source2,3,35.420979,-78.529099,2021,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-772729,NC,Johnston,Selma,Source2,3,35.568211,-78.16731300000002,2021,12,Sunday,Rain,False,False,False,False,False,False,False
+A-777453,NC,Johnston,Garner,Source3,3,35.59256,-78.569473,2021,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-782189,NC,Johnston,Benson,Source2,3,35.389469,-78.51886,2021,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-784606,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2021,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-788123,NC,Johnston,Four Oaks,Source2,3,35.45755399999999,-78.390549,2021,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-789471,NC,Johnston,Benson,Source2,3,35.377384,-78.53878,2021,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-802122,NC,Johnston,Garner,Source2,3,35.588612,-78.572372,2021,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-805410,NC,Johnston,Smithfield,Source2,3,35.497913,-78.333862,2021,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-807014,NC,Johnston,Four Oaks,Source2,3,35.43946500000001,-78.420464,2021,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-810204,NC,Johnston,Selma,Source3,3,35.528973,-78.269997,2021,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-816607,NC,Johnston,Garner,Source2,3,35.623825,-78.566795,2021,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-816957,NC,Johnston,Garner,Source3,3,35.60961500000001,-78.565506,2021,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-817327,NC,Johnston,Smithfield,Source2,3,35.49128,-78.347115,2021,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-817575,NC,Johnston,Smithfield,Source2,3,35.492062,-78.344109,2021,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-818341,NC,Johnston,Garner,Source2,3,35.57973900000001,-78.576599,2021,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-818432,NC,Johnston,Smithfield,Source2,3,35.492062,-78.344109,2021,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-824282,NC,Johnston,Benson,Source2,3,35.389736,-78.518028,2021,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-827853,NC,Johnston,Garner,Source2,3,35.596554,-78.566277,2021,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-833143,NC,Johnston,Kenly,Source2,3,35.59368900000001,-78.13353000000002,2021,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-838341,NC,Johnston,Smithfield,Source2,3,35.501831,-78.3255,2021,17,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-838374,NC,Johnston,Selma,Source2,3,35.529694,-78.268875,2021,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-839878,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2021,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-839982,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2021,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-841102,NC,Johnston,Garner,Source3,3,35.615902,-78.567207,2021,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-842454,NC,Johnston,Benson,Source2,4,35.390045,-78.519203,2021,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-847523,NC,Johnston,Garner,Source2,3,35.611931,-78.56648299999998,2021,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-850842,NC,Johnston,Selma,Source2,3,35.54353300000001,-78.30967700000002,2021,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-853656,NC,Johnston,Benson,Source2,3,35.365948,-78.547905,2021,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-853677,NC,Johnston,Garner,Source2,3,35.594627,-78.567818,2021,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-854046,NC,Johnston,Garner,Source2,3,35.597198,-78.56575,2021,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-855982,NC,Johnston,Garner,Source2,3,35.621834,-78.56694,2021,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-863627,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2021,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-867808,NC,Johnston,Garner,Source2,3,35.573906,-78.57646899999997,2021,7,Saturday,Rain,False,False,False,False,False,False,False
+A-875739,NC,Johnston,Selma,Source2,3,35.50423,-78.320114,2021,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-883944,NC,Johnston,Benson,Source2,3,35.377384,-78.53878,2021,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-885663,NC,Johnston,Garner,Source2,3,35.563843,-78.575836,2021,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-887380,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2021,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-890445,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2021,19,Tuesday,Rain,False,False,False,False,False,False,False
+A-912983,NC,Johnston,Benson,Source2,3,35.39064000000001,-78.52127800000002,2021,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-915369,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2021,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-922551,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2021,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-941508,NC,Johnston,Garner,Source3,3,35.60752100000001,-78.56456,2021,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-961734,NC,Johnston,Smithfield,Source2,4,35.491295,-78.34713,2021,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-963405,NC,Johnston,Benson,Source2,3,35.516438,-78.55796099999998,2021,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-966214,NC,Johnston,Four Oaks,Source2,3,35.45560800000001,-78.39110600000002,2021,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-966976,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2021,6,Monday,Rain,False,False,False,False,False,False,False
+A-968989,NC,Johnston,Selma,Source2,4,35.548512,-78.22281600000002,2021,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-969742,NC,Johnston,Garner,Source2,3,35.622631,-78.567123,2021,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-979916,NC,Johnston,Selma,Source2,3,35.55651500000001,-78.20089,2021,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-979920,NC,Johnston,Four Oaks,Source2,3,35.43946500000001,-78.420464,2021,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-982690,NC,Johnston,Four Oaks,Source2,3,35.45735900000001,-78.39067800000002,2021,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-989860,NC,Johnston,Benson,Source2,3,35.422844,-78.529739,2021,17,Friday,Rain,False,False,False,False,False,False,False
+A-992595,NC,Johnston,Smithfield,Source3,3,35.49128,-78.347115,2021,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1005307,NC,Johnston,Benson,Source2,3,35.516438,-78.55796099999998,2021,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-1006611,NC,Johnston,Kenly,Source2,3,35.59368900000001,-78.13353000000002,2021,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1007877,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2021,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-1009667,NC,Johnston,Selma,Source2,3,35.55651500000001,-78.20089,2021,16,Thursday,Storm,False,False,False,False,False,False,False
+A-1015940,NC,Johnston,Selma,Source2,3,35.54845800000001,-78.222511,2021,15,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-1034123,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2021,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1035402,NC,Johnston,Four Oaks,Source2,3,35.404163,-78.488472,2021,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1046585,NC,Johnston,Benson,Source2,3,35.329651,-78.44884499999998,2021,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1051532,NC,Johnston,Selma,Source2,3,35.568211,-78.16731300000002,2021,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-1054128,NC,Johnston,Benson,Source2,3,35.390045,-78.519203,2021,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1061066,NC,Johnston,Kenly,Source2,3,35.59357100000001,-78.13317099999998,2021,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1069933,NC,Johnston,Selma,Source2,3,35.50069000000001,-78.280197,2021,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1071162,NC,Johnston,Benson,Source2,3,35.516438,-78.55796099999998,2021,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1072784,NC,Johnston,Smithfield,Source2,3,35.49128,-78.347115,2021,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1075690,NC,Johnston,Garner,Source2,3,35.618629,-78.567207,2021,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1082723,NC,Johnston,Selma,Source2,3,35.568211,-78.16731300000002,2021,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1088300,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2021,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-1095454,NC,Johnston,Four Oaks,Source2,3,35.43946500000001,-78.420464,2021,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1107622,NC,Johnston,Smithfield,Source2,3,35.49128,-78.347115,2021,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1110594,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2021,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1110614,NC,Johnston,Princeton,Source2,3,35.47138599999999,-78.156059,2021,19,Monday,Cloudy,True,False,False,False,False,False,False
+A-1111793,NC,Johnston,Benson,Source2,3,35.377384,-78.53878,2021,0,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1112223,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2021,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1114582,NC,Johnston,Selma,Source2,3,35.529232,-78.269058,2021,13,Thursday,Cloudy,False,False,True,False,False,False,False
+A-1133791,NC,Johnston,Selma,Source2,3,35.50423,-78.320114,2021,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1133805,NC,Johnston,Smithfield,Source2,4,35.502377,-78.3228,2021,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1139002,NC,Johnston,Benson,Source2,4,35.516514,-78.55776999999998,2021,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1144465,NC,Johnston,Selma,Source2,3,35.519283,-78.289345,2021,15,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-1152165,NC,Johnston,Four Oaks,Source2,3,35.43946500000001,-78.420464,2021,15,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1152166,NC,Johnston,Four Oaks,Source2,3,35.43946500000001,-78.420464,2021,15,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1154982,NC,Johnston,Selma,Source2,4,35.55651500000001,-78.20089,2021,6,Friday,Rain,False,False,False,False,False,False,False
+A-1160588,NC,Johnston,Four Oaks,Source2,3,35.457527,-78.389526,2021,12,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-1160603,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2021,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1164263,NC,Johnston,Benson,Source2,3,35.422844,-78.529739,2021,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1170007,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2021,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1183061,NC,Johnston,Kenly,Source2,3,35.57876599999999,-78.146744,2021,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1200265,NC,Johnston,Benson,Source2,3,35.377045,-78.540001,2021,12,Friday,Cloudy,False,False,True,False,False,False,False
+A-1208624,NC,Johnston,Garner,Source2,3,35.60751,-78.56459,2020,14,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1212759,NC,Johnston,Four Oaks,Source2,3,35.45560800000001,-78.39110600000002,2020,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1214917,NC,Johnston,Benson,Source2,3,35.389839,-78.517838,2020,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-1218644,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2020,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1221956,NC,Johnston,Four Oaks,Source2,3,35.416821,-78.464737,2020,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1231855,NC,Johnston,Benson,Source2,3,35.417736,-78.527466,2020,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1249696,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2020,19,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1249697,NC,Johnston,Benson,Source2,3,35.431774,-78.532539,2020,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1250912,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2020,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1255903,NC,Johnston,Selma,Source2,3,35.55651500000001,-78.20089,2020,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1266085,NC,Johnston,Selma,Source2,3,35.529232,-78.269058,2020,16,Saturday,Cloudy,False,False,True,False,False,False,False
+A-1281508,NC,Johnston,Four Oaks,Source2,3,35.45560800000001,-78.39110600000002,2020,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1285016,NC,Johnston,Four Oaks,Source2,3,35.458145,-78.38754300000002,2020,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1286480,NC,Johnston,Garner,Source2,3,35.58017299999999,-78.576332,2020,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1288450,NC,Johnston,Benson,Source2,3,35.377384,-78.53878,2020,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1302207,NC,Johnston,Selma,Source2,3,35.529232,-78.269058,2020,7,Thursday,Rain,False,False,True,False,False,False,False
+A-1318200,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2020,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1318244,NC,Johnston,Selma,Source2,3,35.568211,-78.16731300000002,2020,21,Tuesday,Rain,False,False,False,False,False,False,False
+A-1329325,NC,Johnston,Kenly,Source2,3,35.59368900000001,-78.13353000000002,2020,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1339542,NC,Johnston,Benson,Source2,3,35.390045,-78.519203,2020,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1339551,NC,Johnston,Garner,Source2,3,35.609051,-78.564362,2020,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1341338,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2020,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1345039,NC,Johnston,Benson,Source2,3,35.516438,-78.55796099999998,2020,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1346575,NC,Johnston,Garner,Source2,3,35.609051,-78.564362,2020,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-1350387,NC,Johnston,Benson,Source2,3,35.516438,-78.55796099999998,2020,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1367367,NC,Johnston,Garner,Source2,3,35.619686,-78.56734499999997,2020,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-1368916,NC,Johnston,Benson,Source2,3,35.377384,-78.53878,2020,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1368934,NC,Johnston,Selma,Source2,3,35.483002,-78.24703199999998,2020,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1370597,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2020,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1375244,NC,Johnston,Benson,Source2,3,35.422844,-78.529739,2020,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1382470,NC,Johnston,Benson,Source2,3,35.377384,-78.53878,2020,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1385615,NC,Johnston,Selma,Source2,3,35.568165,-78.167473,2020,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1391080,NC,Johnston,Benson,Source2,4,35.32967,-78.44890600000002,2020,2,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1391567,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2020,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1391568,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2020,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1398046,NC,Johnston,Selma,Source2,3,35.55651500000001,-78.20089,2020,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-1405114,NC,Johnston,Garner,Source2,3,35.610249,-78.56549100000002,2020,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1408058,NC,Johnston,Kenly,Source2,3,35.59368900000001,-78.13353000000002,2020,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1420352,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2020,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1421892,NC,Johnston,Benson,Source2,3,35.534283,-78.57093,2020,7,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1427899,NC,Johnston,Benson,Source2,3,35.390045,-78.519203,2020,4,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1429433,NC,Johnston,Benson,Source2,3,35.377205,-78.505066,2020,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1437872,NC,Johnston,Benson,Source2,3,35.32967,-78.44890600000002,2020,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1442251,NC,Johnston,Benson,Source2,3,35.516438,-78.55796099999998,2020,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1446102,NC,Johnston,Benson,Source2,3,35.516438,-78.55796099999998,2020,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1447742,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2020,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1452108,NC,Johnston,Benson,Source2,3,35.422844,-78.529739,2020,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1453997,NC,Johnston,Kenly,Source2,3,35.578484,-78.14715600000002,2020,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1460779,NC,Johnston,Smithfield,Source2,3,35.49128,-78.347115,2020,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1461639,NC,Johnston,Benson,Source2,3,35.377384,-78.53878,2020,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1480207,NC,Johnston,Benson,Source2,3,35.422844,-78.529739,2020,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1481651,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2020,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-1481710,NC,Johnston,Benson,Source2,3,35.516438,-78.55796099999998,2020,20,Friday,Rain,False,False,False,False,False,False,False
+A-1492271,NC,Johnston,Selma,Source2,3,35.529232,-78.269058,2020,8,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-1492940,NC,Johnston,Selma,Source2,3,35.568165,-78.167473,2020,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1492955,NC,Johnston,Four Oaks,Source2,3,35.457691,-78.38906899999998,2020,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-1504773,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2020,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1505228,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2020,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1528838,NC,Johnston,Benson,Source2,3,35.377384,-78.53878,2020,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1543913,NC,Johnston,Selma,Source2,3,35.549301,-78.220749,2020,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1567503,NC,Johnston,Selma,Source2,4,35.56806599999999,-78.167419,2020,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1567518,NC,Johnston,Selma,Source2,3,35.568165,-78.167473,2020,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1573338,NC,Johnston,Selma,Source2,3,35.54845800000001,-78.222511,2020,15,Tuesday,Rain,False,False,True,False,False,False,False
+A-1581024,NC,Johnston,Kenly,Source2,3,35.578484,-78.14715600000002,2020,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1588439,NC,Johnston,Benson,Source2,3,35.516438,-78.55796099999998,2020,13,Monday,Rain,False,False,False,False,False,False,False
+A-1593328,NC,Johnston,Selma,Source2,3,35.55651500000001,-78.20089,2020,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1617739,NC,Johnston,Smithfield,Source2,3,35.476299,-78.378227,2020,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1638000,NC,Johnston,Benson,Source2,3,35.39064000000001,-78.52127800000002,2020,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1648698,NC,Johnston,Benson,Source2,3,35.516438,-78.55796099999998,2020,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1652224,NC,Johnston,Benson,Source2,3,35.516438,-78.55796099999998,2020,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1654250,NC,Johnston,Garner,Source2,3,35.606937,-78.564064,2020,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1668667,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2020,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1675476,NC,Johnston,Selma,Source2,3,35.568165,-78.167473,2020,16,Thursday,Rain,False,False,False,False,False,False,False
+A-1678734,NC,Johnston,Benson,Source2,3,35.424549,-78.530006,2019,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1680330,NC,Johnston,Selma,Source2,3,35.568165,-78.167473,2019,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-1683569,NC,Johnston,Selma,Source2,3,35.55110900000001,-78.216148,2019,8,Monday,Cloudy,False,False,True,False,False,False,False
+A-1686831,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2019,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1690898,NC,Johnston,Benson,Source2,3,35.377384,-78.53878,2019,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1690959,NC,Johnston,Benson,Source2,3,35.38998,-78.518005,2019,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1698618,NC,Johnston,Garner,Source2,3,35.60318,-78.570992,2019,10,Friday,Cloudy,True,False,False,False,False,False,False
+A-1698657,NC,Johnston,Benson,Source2,3,35.377384,-78.53878,2019,17,Friday,Rain,False,False,False,False,False,False,False
+A-1703102,NC,Johnston,Selma,Source2,3,35.519283,-78.289345,2019,5,Monday,Fog / Low visibility,False,False,True,False,False,False,False
+A-1716335,NC,Johnston,Selma,Source2,3,35.568165,-78.167473,2019,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1718438,NC,Johnston,Benson,Source2,3,35.347179,-78.530327,2019,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1718463,NC,Johnston,Selma,Source2,3,35.568165,-78.167473,2019,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1723726,NC,Johnston,Selma,Source2,3,35.54845800000001,-78.222511,2019,8,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-1726414,NC,Johnston,Benson,Source2,3,35.516438,-78.55796099999998,2019,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1735056,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2019,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1737598,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2019,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-1742778,NC,Johnston,Benson,Source2,3,35.422844,-78.529739,2019,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1745333,NC,Johnston,Kenly,Source2,3,35.59368900000001,-78.13353000000002,2019,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1747921,NC,Johnston,Smithfield,Source2,3,35.577766,-78.363297,2019,9,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-1757349,NC,Johnston,Benson,Source2,3,35.422844,-78.529739,2019,9,Wednesday,Rain,False,False,False,False,False,False,False
+A-1769638,NC,Johnston,Benson,Source2,3,35.390045,-78.519203,2019,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1804123,NC,Johnston,Benson,Source2,4,35.516438,-78.55796099999998,2019,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1817144,NC,Johnston,Benson,Source2,3,35.39064000000001,-78.52127800000002,2019,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1852655,NC,Johnston,Benson,Source2,3,35.389866,-78.517815,2019,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1861261,NC,Johnston,Willow Spring,Source2,3,35.547153,-78.579803,2019,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1861272,NC,Johnston,Benson,Source2,3,35.516438,-78.55796099999998,2019,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1861315,NC,Johnston,Kenly,Source2,3,35.581219,-78.14290600000002,2019,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1869930,NC,Johnston,Benson,Source2,3,35.516438,-78.55796099999998,2019,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1883128,NC,Johnston,Benson,Source2,3,35.377384,-78.53878,2019,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-1887919,NC,Johnston,Benson,Source2,3,35.516438,-78.55796099999998,2019,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-1894232,NC,Johnston,Selma,Source2,4,35.549259,-78.220451,2019,15,Thursday,Rain,False,False,False,False,False,False,False
+A-1908040,NC,Johnston,Benson,Source2,3,35.39064000000001,-78.52127800000002,2019,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1908044,NC,Johnston,Princeton,Source2,3,35.473469,-78.161926,2019,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1919353,NC,Johnston,Four Oaks,Source2,3,35.43946500000001,-78.420464,2019,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1932539,NC,Johnston,Selma,Source2,3,35.55110900000001,-78.216148,2019,6,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-1940029,NC,Johnston,Four Oaks,Source2,3,35.45755399999999,-78.390549,2019,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1940068,NC,Johnston,Garner,Source2,4,35.60752100000001,-78.56456,2019,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1947031,NC,Johnston,Selma,Source2,3,35.529232,-78.269058,2019,11,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-1957532,NC,Johnston,Selma,Source2,3,35.55651500000001,-78.20089,2019,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1959661,NC,Johnston,Benson,Source2,3,35.516438,-78.55796099999998,2019,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1980219,NC,Johnston,Benson,Source2,3,35.390045,-78.519203,2019,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-1980241,NC,Johnston,Selma,Source2,3,35.54845800000001,-78.222511,2019,15,Monday,Cloudy,False,False,True,False,False,False,False
+A-1989112,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2019,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1992749,NC,Johnston,Benson,Source2,4,35.421963,-78.52956400000002,2019,19,Monday,Sin dato,False,False,False,False,False,False,False
+A-2006995,NC,Johnston,Benson,Source2,3,35.390045,-78.519203,2019,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2012083,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2019,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2017422,NC,Johnston,Selma,Source2,3,35.549667,-78.21979499999998,2019,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2019725,NC,Johnston,Selma,Source2,3,35.549805,-78.219444,2019,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2029969,NC,Johnston,Smithfield,Source2,3,35.49128,-78.347115,2019,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-2044732,NC,Johnston,Four Oaks,Source2,3,35.45755399999999,-78.390549,2019,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2046994,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2019,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2054112,NC,Johnston,Four Oaks,Source2,3,35.43859099999999,-78.422913,2019,7,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2054117,NC,Johnston,Garner,Source2,3,35.60752100000001,-78.56456,2019,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2066658,NC,Johnston,Selma,Source2,3,35.564468,-78.177811,2019,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2068541,NC,Johnston,Benson,Source2,3,35.422844,-78.529739,2019,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2073094,NC,Johnston,Garner,Source2,3,35.607586,-78.564339,2019,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2096623,NC,Johnston,Benson,Source2,3,35.516438,-78.55796099999998,2019,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2098493,NC,Johnston,Smithfield,Source2,3,35.49128,-78.347115,2019,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2121546,NC,Johnston,Benson,Source2,3,35.516438,-78.55796099999998,2019,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2145265,NC,Johnston,Selma,Source2,3,35.549812,-78.219193,2019,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2158993,NC,Johnston,Benson,Source2,3,35.516838,-78.558075,2019,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2167846,NC,Johnston,Benson,Source2,3,35.516438,-78.55796099999998,2019,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2172412,NC,Johnston,Selma,Source2,4,35.519283,-78.289345,2019,13,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-2172419,NC,Johnston,Selma,Source2,3,35.50423,-78.320114,2019,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2177025,NC,Johnston,Benson,Source2,3,35.377384,-78.53878,2019,12,Friday,Rain,False,False,False,False,False,False,False
+A-2185139,NC,Johnston,Benson,Source2,3,35.516438,-78.55796099999998,2019,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2187537,NC,Johnston,Benson,Source2,3,35.516438,-78.55796099999998,2019,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2192632,NC,Johnston,Benson,Source2,3,35.3853,-78.52561999999998,2019,8,Sunday,Rain,False,False,True,False,False,False,False
+A-2211338,NC,Johnston,Garner,Source2,3,35.607632,-78.564636,2019,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2212368,NC,Johnston,Benson,Source2,3,35.390633,-78.51992800000002,2019,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2230904,NC,Johnston,Garner,Source2,3,35.607632,-78.564636,2019,7,Thursday,Rain,False,False,False,False,False,False,False
+A-2235305,NC,Johnston,Four Oaks,Source2,3,35.397945,-78.50296,2019,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2243878,NC,Johnston,Benson,Source2,3,35.516838,-78.558075,2019,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2246022,NC,Johnston,Selma,Source2,3,35.519543,-78.289192,2019,9,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-2252149,NC,Johnston,Kenly,Source2,3,35.568378,-78.166824,2019,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-2252173,NC,Johnston,Benson,Source2,3,35.377201,-78.5392,2019,14,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2258082,NC,Johnston,Benson,Source2,3,35.422859,-78.529915,2019,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2264717,NC,Johnston,Benson,Source3,3,35.377201,-78.5392,2019,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2276794,NC,Johnston,Selma,Source2,3,35.556568,-78.200897,2019,16,Monday,Rain,False,False,False,False,False,False,False
+A-2279513,NC,Johnston,Garner,Source2,3,35.607632,-78.564636,2019,7,Tuesday,Rain,False,False,False,False,False,False,False
+A-2279514,NC,Johnston,Garner,Source2,3,35.607632,-78.564636,2019,7,Tuesday,Rain,False,False,False,False,False,False,False
+A-2287705,NC,Johnston,Four Oaks,Source2,3,35.45789,-78.389709,2019,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-2289707,NC,Johnston,Benson,Source2,3,35.377201,-78.5392,2019,20,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2291679,NC,Johnston,Benson,Source2,3,35.390633,-78.51992800000002,2019,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-2301376,NC,Johnston,Four Oaks,Source2,3,35.41422700000001,-78.471512,2019,14,Friday,Rain,False,False,False,False,False,False,False
+A-2330945,NC,Johnston,Benson,Source2,3,35.516838,-78.558075,2019,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2331007,NC,Johnston,Four Oaks,Source2,3,35.45789,-78.389709,2019,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2337203,NC,Johnston,Garner,Source2,3,35.607632,-78.564636,2019,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2366195,NC,Johnston,Smithfield,Source2,3,35.503082,-78.322998,2019,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2387691,NC,Johnston,Garner,Source2,3,35.607632,-78.564636,2018,11,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2387693,NC,Johnston,Garner,Source2,3,35.607632,-78.564636,2018,12,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2392623,NC,Johnston,Benson,Source2,3,35.422859,-78.529915,2018,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2397300,NC,Johnston,Benson,Source2,3,35.516838,-78.558075,2018,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-2403131,NC,Johnston,Garner,Source2,3,35.607632,-78.564636,2018,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2407938,NC,Johnston,Garner,Source2,3,35.607632,-78.564636,2018,11,Thursday,Rain,False,False,False,False,False,False,False
+A-2412106,NC,Johnston,Kenly,Source2,3,35.568378,-78.166824,2018,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2412108,NC,Johnston,Kenly,Source2,3,35.568378,-78.166824,2018,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2416612,NC,Johnston,Benson,Source2,3,35.377201,-78.5392,2018,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2424499,NC,Johnston,Kenly,Source2,3,35.59265900000001,-78.133629,2018,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2439435,NC,Johnston,Benson,Source2,3,35.376755,-78.540138,2018,16,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-2442206,NC,Johnston,Kenly,Source2,3,35.568344,-78.16713,2018,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2445373,NC,Johnston,Smithfield,Source2,3,35.491398,-78.34716800000002,2018,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-2447978,NC,Johnston,Benson,Source2,3,35.360394,-78.55027,2018,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2448694,NC,Johnston,Selma,Source2,3,35.528316,-78.271713,2018,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2449930,NC,Johnston,Benson,Source2,3,35.516373,-78.557419,2018,11,Monday,Rain,False,False,False,False,False,False,False
+A-2468869,NC,Johnston,Garner,Source2,3,35.607082,-78.56414000000002,2018,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2471640,NC,Johnston,Benson,Source2,3,35.516373,-78.557419,2018,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2475702,NC,Johnston,Selma,Source2,3,35.556545,-78.201027,2018,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2484894,NC,Johnston,Selma,Source2,3,35.556545,-78.201027,2018,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2487936,NC,Johnston,Garner,Source2,3,35.607082,-78.56414000000002,2018,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2494790,NC,Johnston,Kenly,Source2,3,35.59265900000001,-78.133629,2018,11,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-2497660,NC,Johnston,Benson,Source2,3,35.516373,-78.557419,2018,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2497755,NC,Johnston,Kenly,Source2,3,35.578854,-78.146606,2018,17,Thursday,Sin dato,False,False,False,False,False,False,False
+A-2503361,NC,Johnston,Benson,Source2,3,35.376755,-78.540138,2018,14,Sunday,Cloudy,False,False,True,False,False,False,False
+A-2504535,NC,Johnston,Benson,Source2,3,35.516373,-78.557419,2018,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-2513866,NC,Johnston,Benson,Source2,3,35.516373,-78.557419,2018,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2520801,NC,Johnston,Garner,Source2,3,35.607082,-78.56414000000002,2018,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2533007,NC,Johnston,Benson,Source2,3,35.39000700000001,-78.51795200000002,2018,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2566759,NC,Johnston,Selma,Source2,3,35.549732,-78.219666,2018,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2571647,NC,Johnston,Smithfield,Source2,3,35.491398,-78.34716800000002,2018,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2571658,NC,Johnston,Garner,Source2,3,35.607082,-78.56414000000002,2018,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2586491,NC,Johnston,Selma,Source2,4,35.556545,-78.201027,2018,15,Saturday,Rain,False,False,False,False,False,False,False
+A-2588392,NC,Johnston,Benson,Source2,3,35.516373,-78.557419,2018,1,Monday,Cloudy,False,False,False,False,False,False,False
+A-2616835,NC,Johnston,Garner,Source2,3,35.607082,-78.56414000000002,2018,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2630719,NC,Johnston,Selma,Source2,3,35.528316,-78.271713,2018,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2644768,NC,Johnston,Benson,Source3,3,35.376755,-78.540138,2018,10,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-2649688,NC,Johnston,Smithfield,Source2,3,35.491398,-78.34716800000002,2018,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2654262,NC,Johnston,Garner,Source2,3,35.607082,-78.56414000000002,2018,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2656280,NC,Johnston,Benson,Source2,3,35.422943,-78.530037,2018,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2656294,NC,Johnston,Smithfield,Source2,3,35.491398,-78.34716800000002,2018,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2668945,NC,Johnston,Four Oaks,Source2,3,35.439682,-78.420265,2018,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2675165,NC,Johnston,Benson,Source2,3,35.516373,-78.557419,2018,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2675176,NC,Johnston,Benson,Source2,3,35.516373,-78.557419,2018,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2675182,NC,Johnston,Benson,Source2,3,35.516605,-78.557549,2018,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2686136,NC,Johnston,Kenly,Source2,3,35.568344,-78.16713,2018,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2689788,NC,Johnston,Benson,Source2,3,35.39000700000001,-78.51795200000002,2018,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2689828,NC,Johnston,Kenly,Source2,3,35.568344,-78.16713,2018,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2693449,NC,Johnston,Kenly,Source2,3,35.578854,-78.146606,2018,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2704256,NC,Johnston,Garner,Source2,3,35.607082,-78.56414000000002,2018,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2712094,NC,Johnston,Benson,Source2,3,35.515614,-78.557281,2018,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2738147,NC,Johnston,Four Oaks,Source2,3,35.411957,-78.47528100000002,2018,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2744950,NC,Johnston,Benson,Source2,3,35.497292,-78.55366500000002,2018,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2745022,NC,Johnston,Benson,Source2,3,35.516373,-78.557419,2018,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2751824,NC,Johnston,Selma,Source2,3,35.505684,-78.322311,2018,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2753885,NC,Johnston,Garner,Source2,3,35.607082,-78.56414000000002,2018,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-2761025,NC,Johnston,Four Oaks,Source2,3,35.457611,-78.38915300000002,2018,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2761044,NC,Johnston,Selma,Source2,3,35.549732,-78.219666,2018,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2767526,NC,Johnston,Smithfield,Source2,3,35.508514,-78.33946999999998,2018,18,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-2769779,NC,Johnston,Garner,Source2,3,35.607082,-78.56414000000002,2018,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2797577,NC,Johnston,Selma,Source2,3,35.556545,-78.201027,2018,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2809587,NC,Johnston,Selma,Source2,3,35.549732,-78.219666,2018,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2817423,NC,Johnston,Garner,Source2,3,35.607082,-78.56414000000002,2018,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-2817429,NC,Johnston,Four Oaks,Source2,3,35.457611,-78.38915300000002,2018,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2820594,NC,Johnston,Four Oaks,Source2,3,35.412601,-78.474182,2018,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2832561,NC,Johnston,Kenly,Source2,3,35.578854,-78.146606,2018,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-2850858,NC,Johnston,Benson,Source2,3,35.516373,-78.557419,2018,16,Monday,Rain,False,False,False,False,False,False,False
+A-2855279,NC,Johnston,Selma,Source2,3,35.556545,-78.201027,2018,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2864088,NC,Johnston,Garner,Source2,3,35.607082,-78.56414000000002,2018,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2864099,NC,Johnston,Garner,Source2,3,35.607082,-78.56414000000002,2018,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2871084,NC,Johnston,Benson,Source2,3,35.389839,-78.517792,2018,11,Saturday,Rain,False,False,False,False,False,False,False
+A-2878244,NC,Johnston,Benson,Source2,3,35.39000700000001,-78.51795200000002,2018,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2886231,NC,Johnston,Four Oaks,Source2,3,35.438931,-78.421242,2018,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2886236,NC,Johnston,Smithfield,Source2,3,35.496208,-78.336998,2018,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2900352,NC,Johnston,Benson,Source2,3,35.39000700000001,-78.51795200000002,2018,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2907891,NC,Johnston,Garner,Source2,3,35.607082,-78.56414000000002,2018,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2910745,NC,Johnston,Selma,Source2,3,35.518898,-78.290634,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2931457,NC,Johnston,Garner,Source2,3,35.607082,-78.56414000000002,2018,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2936724,NC,Johnston,Benson,Source2,3,35.516373,-78.557419,2018,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2949650,NC,Johnston,Benson,Source2,3,35.516373,-78.557419,2018,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2952591,NC,Johnston,Benson,Source2,3,35.39000700000001,-78.51795200000002,2018,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2973063,NC,Johnston,Kenly,Source2,3,35.568344,-78.16713,2018,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2973146,NC,Johnston,Kenly,Source2,3,35.568237,-78.167,2018,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2975755,NC,Johnston,Selma,Source2,3,35.556545,-78.201027,2018,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3003773,NC,Johnston,Selma,Source2,3,35.549732,-78.219666,2018,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3027220,NC,Johnston,Garner,Source2,3,35.607082,-78.56414000000002,2018,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3032204,NC,Johnston,Benson,Source2,3,35.39000700000001,-78.51795200000002,2018,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3040640,NC,Johnston,Benson,Source2,3,35.376755,-78.540138,2018,12,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-3054762,NC,Johnston,Kenly,Source2,3,35.568344,-78.16713,2018,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3057588,NC,Johnston,Kenly,Source2,3,35.568344,-78.16713,2018,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3063056,NC,Johnston,Kenly,Source2,3,35.578854,-78.146606,2018,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-3063136,NC,Johnston,Benson,Source2,3,35.516373,-78.557419,2018,22,Friday,Cloudy,False,False,False,False,False,False,False
+A-3074742,NC,Johnston,Benson,Source2,3,35.376755,-78.540138,2018,4,Thursday,Cloudy,False,False,True,False,False,False,False
+A-3074748,NC,Johnston,Benson,Source2,3,35.329624,-78.44882199999998,2018,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3077193,NC,Johnston,Four Oaks,Source2,3,35.439682,-78.420265,2018,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3077194,NC,Johnston,Four Oaks,Source2,3,35.457611,-78.38915300000002,2018,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3078289,NC,Johnston,Kenly,Source2,3,35.568344,-78.16713,2018,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3118870,NC,Johnston,Selma,Source2,3,35.528316,-78.271713,2017,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3122575,NC,Johnston,Benson,Source2,3,35.329624,-78.44882199999998,2017,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3138269,NC,Johnston,Four Oaks,Source2,3,35.457611,-78.38915300000002,2017,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3141007,NC,Johnston,Kenly,Source2,3,35.578854,-78.146606,2017,10,Wednesday,Rain,False,False,False,False,False,False,False
+A-3153285,NC,Johnston,Four Oaks,Source2,3,35.439682,-78.420265,2017,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3153291,NC,Johnston,Benson,Source2,3,35.376755,-78.540138,2017,13,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-3167598,NC,Johnston,Benson,Source2,3,35.516373,-78.557419,2017,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3175938,NC,Johnston,Smithfield,Source2,3,35.491398,-78.34716800000002,2017,6,Thursday,Rain,False,False,False,False,False,False,False
+A-3178446,NC,Johnston,Kenly,Source2,3,35.59265900000001,-78.133629,2017,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3184162,NC,Johnston,Benson,Source2,3,35.39000700000001,-78.51795200000002,2017,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3186506,NC,Johnston,Benson,Source2,3,35.422943,-78.530037,2017,23,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-3204378,NC,Johnston,Benson,Source2,3,35.516373,-78.557419,2017,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3206382,NC,Johnston,Willow Spring,Source2,3,35.552765,-78.579193,2017,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3213488,NC,Johnston,Four Oaks,Source2,3,35.457611,-78.38915300000002,2017,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3220142,NC,Johnston,Garner,Source2,3,35.607082,-78.56414000000002,2017,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3225859,NC,Johnston,Selma,Source2,3,35.519405,-78.28958100000001,2017,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3241167,NC,Johnston,Selma,Source2,3,35.549732,-78.219666,2017,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3252225,NC,Johnston,Four Oaks,Source2,3,35.457611,-78.38915300000002,2017,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3255003,NC,Johnston,Kenly,Source2,3,35.59265900000001,-78.133629,2017,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3273598,NC,Johnston,Benson,Source2,3,35.422943,-78.530037,2017,22,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3284019,NC,Johnston,Benson,Source2,3,35.516373,-78.557419,2017,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3289098,NC,Johnston,Selma,Source2,3,35.49136400000001,-78.270088,2017,18,Wednesday,Rain,False,False,False,False,False,False,False
+A-3294946,NC,Johnston,Benson,Source2,3,35.516373,-78.557419,2017,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3297196,NC,Johnston,Four Oaks,Source2,3,35.439682,-78.420265,2017,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3301782,NC,Johnston,Benson,Source2,3,35.376755,-78.540138,2017,11,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-3307411,NC,Johnston,Benson,Source2,3,35.39000700000001,-78.51795200000002,2017,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3313389,NC,Johnston,Benson,Source2,3,35.376755,-78.540138,2017,15,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-3323416,NC,Johnston,Kenly,Source2,3,35.578854,-78.146606,2017,15,Thursday,Rain,False,False,False,False,False,False,False
+A-3323457,NC,Johnston,Kenly,Source2,3,35.568344,-78.16713,2017,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3323460,NC,Johnston,Selma,Source2,3,35.556545,-78.201027,2017,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3330436,NC,Johnston,Selma,Source2,3,35.519405,-78.28958100000001,2017,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3348786,NC,Johnston,Garner,Source2,3,35.607082,-78.56414000000002,2017,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3354041,NC,Johnston,Smithfield,Source2,3,35.505787,-78.32022099999998,2017,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3360783,NC,Johnston,Smithfield,Source2,3,35.555279,-78.386391,2017,9,Monday,Rain,True,False,False,False,False,False,False
+A-3360798,NC,Johnston,Four Oaks,Source2,3,35.439682,-78.420265,2017,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-3365978,NC,Johnston,Kenly,Source2,3,35.578854,-78.146606,2017,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3368377,NC,Johnston,Selma,Source2,3,35.528316,-78.271713,2017,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3368403,NC,Johnston,Benson,Source2,3,35.39000700000001,-78.51795200000002,2017,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3373029,NC,Johnston,Selma,Source2,3,35.504406,-78.32061,2017,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3373617,NC,Johnston,Smithfield,Source2,3,35.504116,-78.321213,2017,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3373618,NC,Johnston,Smithfield,Source2,3,35.503284,-78.322548,2017,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3373625,NC,Johnston,Four Oaks,Source2,3,35.457611,-78.38915300000002,2017,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3377529,NC,Johnston,Benson,Source2,3,35.422943,-78.530037,2017,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3388194,NC,Johnston,Four Oaks,Source2,3,35.439682,-78.420265,2017,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3388780,NC,Johnston,Garner,Source2,3,35.615596999999994,-78.567184,2017,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3410817,NC,Johnston,Garner,Source2,3,35.607082,-78.56414000000002,2017,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3451773,NC,Johnston,Clayton,Source1,4,35.67615,-78.52056999999998,2016,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3454043,NC,Johnston,Four Oaks,Source1,4,35.4381,-78.42283,2016,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3462950,NC,Johnston,Selma,Source1,4,35.50577,-78.31783,2016,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3464898,NC,Johnston,Smithfield,Source1,4,35.49114,-78.3477,2016,14,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-3469652,NC,Johnston,Benson,Source1,4,35.451335,-78.533371,2016,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3469655,NC,Johnston,Benson,Source1,4,35.512802,-78.556333,2016,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3472915,NC,Johnston,Selma,Source1,4,35.50577,-78.31783,2016,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3480112,NC,Johnston,Garner,Source1,4,35.60771,-78.56294,2016,1,Sunday,Cloudy,True,False,False,False,False,False,False
+A-3485200,NC,Johnston,Selma,Source1,4,35.50577,-78.31783,2016,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3485208,NC,Johnston,Smithfield,Source1,4,35.49152,-78.34663,2016,14,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-3485210,NC,Johnston,Selma,Source1,4,35.52138,-78.28596999999998,2016,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3485247,NC,Johnston,Four Oaks,Source1,4,35.44055200000001,-78.417733,2016,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3485249,NC,Johnston,Selma,Source1,4,35.52138,-78.28596999999998,2016,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3485378,NC,Johnston,Selma,Source1,4,35.52138,-78.28596999999998,2016,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3584861,NC,Johnston,Four Oaks,Source1,4,35.4554,-78.39145,2017,22,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-3598144,NC,Johnston,Selma,Source1,4,35.666773,-78.258575,2017,2,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3598145,NC,Johnston,Selma,Source1,4,35.666753,-78.258614,2017,2,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3598720,NC,Johnston,Benson,Source1,4,35.42382100000001,-78.53029699999998,2017,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3598740,NC,Johnston,Benson,Source1,4,35.42382100000001,-78.53029699999998,2017,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3598744,NC,Johnston,Benson,Source1,4,35.513805,-78.556591,2017,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3614543,NC,Johnston,Clayton,Source1,4,35.59644,-78.40892,2017,4,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-3633264,NC,Johnston,Four Oaks,Source1,3,35.460519,-78.386121,2017,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3691986,NC,Johnston,Willow Spring,Source1,4,35.557148,-78.595731,2023,17,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-3695258,NC,Johnston,Garner,Source1,4,35.571421,-78.592913,2023,17,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-3698904,NC,Johnston,Clayton,Source1,4,35.592387,-78.402529,2023,2,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3731726,NC,Johnston,Clayton,Source1,4,35.54215100000001,-78.532397,2022,18,Friday,Rain,False,False,False,False,False,False,False
+A-3747076,NC,Johnston,Willow Spring,Source1,4,35.537053,-78.65431099999998,2022,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3790672,NC,Johnston,Smithfield,Source1,4,35.522591,-78.404189,2022,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3794730,NC,Johnston,Willow Spring,Source1,4,35.53319000000001,-78.65929100000002,2022,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3796629,NC,Johnston,Smithfield,Source1,4,35.562787,-78.33350899999998,2022,23,Sunday,Rain,False,False,False,False,False,False,False
+A-3804183,NC,Johnston,Willow Spring,Source1,4,35.537053,-78.65431099999998,2022,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3811954,NC,Johnston,Angier,Source1,4,35.51857899999999,-78.647184,2023,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3815996,NC,Johnston,Smithfield,Source1,4,35.522591,-78.404189,2022,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3817900,NC,Johnston,Four Oaks,Source1,4,35.420779,-78.385306,2022,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3820812,NC,Johnston,Kenly,Source1,4,35.577485,-78.168077,2022,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3829768,NC,Johnston,Clayton,Source1,4,35.56116,-78.486176,2022,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3834451,NC,Johnston,Angier,Source1,4,35.517681,-78.664751,2023,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3855856,NC,Johnston,Smithfield,Source1,4,35.488175,-78.35349000000002,2022,7,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3863485,NC,Johnston,Selma,Source1,4,35.561035,-78.210888,2022,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3865640,NC,Johnston,Angier,Source1,4,35.48217,-78.610182,2023,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3866911,NC,Johnston,Benson,Source1,4,35.42130589,-78.50346208,2022,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-3885974,NC,Johnston,Benson,Source1,4,35.426133,-78.531189,2022,13,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-3889340,NC,Johnston,Garner,Source1,4,35.605616,-78.566654,2022,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3889932,NC,Johnston,Clayton,Source1,4,35.592958,-78.409406,2022,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3892034,NC,Johnston,Angier,Source1,4,35.520884,-78.60282600000002,2023,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3911358,NC,Johnston,Zebulon,Source1,4,35.784827,-78.29448000000002,2022,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3917570,NC,Johnston,Selma,Source1,4,35.656642,-78.322365,2022,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3970135,NC,Johnston,Kenly,Source1,4,35.619633,-78.16356,2022,23,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3978880,NC,Johnston,Selma,Source1,4,35.605786,-78.29532900000002,2022,13,Saturday,Clear / Fair,False,False,False,True,False,False,False
+A-3982143,NC,Johnston,Princeton,Source1,4,35.481119,-78.233257,2022,6,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3995947,NC,Johnston,Selma,Source1,4,35.605668,-78.19716899999997,2022,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4002958,NC,Johnston,Garner,Source1,4,35.61012,-78.55853499999998,2022,12,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-4012242,NC,Johnston,Benson,Source1,4,35.510424,-78.555899,2022,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-4028158,NC,Johnston,Angier,Source1,4,35.519336,-78.595934,2022,2,Friday,Cloudy,False,False,False,False,False,False,False
+A-4029690,NC,Johnston,Clayton,Source1,4,35.66375700000001,-78.493803,2023,19,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4034648,NC,Johnston,Selma,Source1,4,35.60375,-78.314922,2022,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4069666,NC,Johnston,Zebulon,Source1,4,35.738087,-78.295793,2023,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4102629,NC,Johnston,Kenly,Source1,4,35.60440399999999,-78.129211,2022,3,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4108329,NC,Johnston,Angier,Source1,4,35.505225,-78.60755400000002,2022,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4108777,NC,Johnston,Garner,Source1,4,35.59281706793025,-78.569294213874,2022,21,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4119860,NC,Johnston,Selma,Source1,4,35.65841,-78.308796,2022,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4121615,NC,Johnston,Garner,Source1,4,35.601418,-78.574066,2023,21,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-4127902,NC,Johnston,Smithfield,Source1,4,35.503862,-78.32172800000002,2022,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4130733,NC,Johnston,Zebulon,Source1,4,35.7472693918431,-78.29637408219196,2022,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-4140814,NC,Johnston,Smithfield,Source1,4,35.560051202604484,-78.32995533905826,2022,0,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4147090,NC,Johnston,Zebulon,Source1,4,35.771105,-78.294141,2022,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-4152457,NC,Johnston,Princeton,Source1,4,35.390652,-78.160588,2022,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4152934,NC,Johnston,Newton Grove,Source1,4,35.302955,-78.428557,2022,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4175842,NC,Johnston,Kenly,Source1,4,35.662763,-78.199401,2022,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4178822,NC,Johnston,Selma,Source1,4,35.609914,-78.29426,2022,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4181688,NC,Johnston,Smithfield,Source1,4,35.572773,-78.353911,2022,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4211157,NC,Johnston,Smithfield,Source1,4,35.52480100000001,-78.406678,2022,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4211742,NC,Johnston,Kenly,Source1,4,35.60002100000001,-78.192548,2022,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4221991,NC,Johnston,Clayton,Source1,4,35.53907299999999,-78.53482,2022,18,Friday,Rain,False,False,False,False,False,False,False
+A-4233398,NC,Johnston,Clayton,Source1,4,35.617238,-78.532276,2022,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4266028,NC,Johnston,Four Oaks,Source1,4,35.448913,-78.398437,2022,23,Thursday,Rain,False,False,False,False,False,False,False
+A-4278786,NC,Johnston,Middlesex,Source1,4,35.693299,-78.208812,2022,21,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4306452,NC,Johnston,Smithfield,Source1,4,35.515457,-78.39934699999998,2022,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4310367,NC,Johnston,Selma,Source1,4,35.57643200000001,-78.169812,2022,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4315833,NC,Johnston,Four Oaks,Source1,4,35.421979,-78.385612,2022,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4350953,NC,Johnston,Kenly,Source1,4,35.575446,-78.152007,2022,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4352867,NC,Johnston,Selma,Source1,4,35.56042100000001,-78.215046,2022,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4365663,NC,Johnston,Selma,Source1,4,35.597069,-78.243223,2022,14,Wednesday,Rain,False,False,False,False,False,False,False
+A-4373544,NC,Johnston,Clayton,Source1,4,35.61739199999999,-78.53115799999998,2022,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4376873,NC,Johnston,Benson,Source1,4,35.37620186788856,-78.54090571366052,2022,0,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4385844,NC,Johnston,Angier,Source1,4,35.508398,-78.606016,2023,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4403327,NC,Johnston,Angier,Source1,4,35.520345,-78.600093,2022,2,Friday,Cloudy,False,False,False,False,False,False,False
+A-4420882,NC,Johnston,Clayton,Source1,4,35.654199,-78.370369,2022,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4441411,NC,Johnston,Zebulon,Source1,4,35.741949,-78.295642,2023,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4446304,NC,Johnston,Smithfield,Source1,4,35.500462,-78.32866999999997,2023,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4460964,NC,Johnston,Kenly,Source1,4,35.58147899999999,-78.142525,2022,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4475996,NC,Johnston,Garner,Source1,4,35.618797,-78.567418,2022,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4489734,NC,Johnston,Clayton,Source1,4,35.59361,-78.410041,2022,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4502732,NC,Johnston,Garner,Source1,4,35.60773,-78.562943,2022,14,Wednesday,Storm,True,False,False,False,False,False,False
+A-4556053,NC,Johnston,Clayton,Source1,4,35.684272,-78.475801,2022,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4560553,NC,Johnston,Benson,Source1,4,35.413055,-78.525356,2022,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-4568966,NC,Johnston,Garner,Source1,4,35.592816,-78.569296,2022,21,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4572056,NC,Johnston,Garner,Source1,4,35.621385,-78.567215,2022,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4597498,NC,Johnston,Four Oaks,Source1,4,35.455827,-78.388979,2022,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-4611474,NC,Johnston,Selma,Source1,4,35.55534,-78.204654,2022,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4618345,NC,Johnston,Selma,Source1,4,35.658361,-78.309162,2022,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4625034,NC,Johnston,Benson,Source1,4,35.426812,-78.555187,2022,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4631223,NC,Johnston,Garner,Source1,4,35.603187,-78.57094599999998,2023,21,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-4635079,NC,Johnston,Benson,Source1,4,35.42130589,-78.50346208,2022,19,Friday,Rain,False,False,False,False,False,False,False
+A-4640385,NC,Johnston,Middlesex,Source1,4,35.690871,-78.21899,2022,21,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4643900,NC,Johnston,Newton Grove,Source1,4,35.303781,-78.430062,2022,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4665367,NC,Johnston,Benson,Source1,4,35.490802,-78.55233299999998,2022,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-4667155,NC,Johnston,Kenly,Source1,4,35.66425800000001,-78.199972,2022,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4670588,NC,Johnston,Clayton,Source1,4,35.55535300000001,-78.505209,2022,15,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4676992,NC,Johnston,Clayton,Source1,4,35.575282,-78.435285,2022,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4692097,NC,Johnston,Selma,Source1,4,35.50859570000001,-78.28152537,2023,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-4699296,NC,Johnston,Clayton,Source1,4,35.62641,-78.506523,2022,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4707749,NC,Johnston,Princeton,Source1,4,35.481119,-78.233257,2022,6,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4741077,NC,Johnston,Clayton,Source1,4,35.644914,-78.463523,2022,11,Wednesday,Clear / Fair,False,False,False,True,False,False,False
+A-4743477,NC,Johnston,Four Oaks,Source1,4,35.51067000000001,-78.51263,2022,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4751405,NC,Johnston,Benson,Source1,4,35.360565,-78.550196,2022,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4759673,NC,Johnston,Kenly,Source1,4,35.60152,-78.194801,2022,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4789992,NC,Johnston,Angier,Source1,4,35.51933,-78.639055,2023,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4797693,NC,Johnston,Clayton,Source1,4,35.654521,-78.37139499999998,2022,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4810889,NC,Johnston,Benson,Source1,4,35.38907647,-78.51951241,2023,6,Sunday,Cloudy,False,False,True,False,False,False,False
+A-4816886,NC,Johnston,Smithfield,Source1,4,35.51949699999999,-78.385571,2022,2,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4816887,NC,Johnston,Smithfield,Source1,4,35.519467,-78.384552,2022,23,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4889790,NC,Johnston,Selma,Source1,4,35.598384,-78.2495,2022,14,Wednesday,Rain,False,False,False,False,False,False,False
+A-4918595,NC,Johnston,Selma,Source1,4,35.55526614172194,-78.20438504181763,2022,20,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-4954355,NC,Johnston,Garner,Source1,4,35.569142,-78.576041,2022,21,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4954356,NC,Johnston,Garner,Source1,4,35.574089,-78.57623000000002,2022,21,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4969249,NC,Johnston,Angier,Source1,4,35.505663,-78.607541,2022,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4969711,NC,Johnston,Benson,Source1,4,35.388163,-78.567314,2022,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4971567,NC,Johnston,Selma,Source1,4,35.544544,-78.309851,2022,0,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4985815,NC,Johnston,Clayton,Source1,4,35.54215100000001,-78.532397,2022,18,Friday,Rain,False,False,False,False,False,False,False
+A-4986369,NC,Johnston,Smithfield,Source1,4,35.520107,-78.31028,2022,12,Friday,Cloudy,True,False,False,False,False,False,False
+A-5000264,NC,Johnston,Clayton,Source1,4,35.647328,-78.404323,2022,12,Monday,Rain,True,False,False,False,False,False,False
+A-5004234,NC,Johnston,Benson,Source1,4,35.426859,-78.555385,2022,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5005112,NC,Johnston,Garner,Source1,4,35.605786,-78.566346,2022,12,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-5019781,NC,Johnston,Angier,Source1,4,35.519673,-78.634709,2023,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5052824,NC,Johnston,Clayton,Source1,4,35.557733,-78.475899,2022,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5083654,NC,Johnston,Smithfield,Source1,4,35.480974,-78.233301,2022,6,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5116224,NC,Johnston,Willow Spring,Source1,4,35.53319000000001,-78.65929100000002,2022,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5163673,NC,Johnston,Clayton,Source1,4,35.556387,-78.507111,2022,15,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-5168434,NC,Johnston,Angier,Source1,4,35.518509,-78.647911,2023,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5169624,NC,Johnston,Clayton,Source1,4,35.57957768423281,-78.43745827637464,2022,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5175832,NC,Johnston,Zebulon,Source1,4,35.77790200000001,-78.269366,2022,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5235690,NC,Johnston,Zebulon,Source1,4,35.77549099999999,-78.269386,2022,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5247339,NC,Johnston,Selma,Source1,4,35.615638,-78.20188399999998,2022,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5266998,NC,Johnston,Selma,Source1,4,35.597069,-78.243223,2022,14,Wednesday,Rain,False,False,False,False,False,False,False
+A-5283649,NC,Johnston,Kenly,Source1,4,35.58147899999999,-78.142525,2023,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5295921,NC,Johnston,Selma,Source1,4,35.60084699999999,-78.313707,2022,17,Friday,Clear / Fair,False,False,False,False,False,True,False
+A-5304944,NC,Johnston,Four Oaks,Source1,4,35.41401029,-78.50000739,2022,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5332175,NC,Johnston,Clayton,Source1,4,35.682454,-78.475713,2022,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5346802,NC,Johnston,Zebulon,Source1,4,35.78165,-78.293225,2022,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5349202,NC,Johnston,Benson,Source1,4,35.389022,-78.574218,2022,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5355298,NC,Johnston,Zebulon,Source1,4,35.77438499999999,-78.29344300000002,2022,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-5369635,NC,Johnston,Smithfield,Source1,4,35.5193,-78.38650200000002,2022,2,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5369636,NC,Johnston,Smithfield,Source1,4,35.51942899999999,-78.386024,2022,23,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5383288,NC,Johnston,Garner,Source1,4,35.622817,-78.566864,2022,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-5385213,NC,Johnston,Garner,Source1,4,35.611114,-78.555674,2022,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5426533,NC,Johnston,Four Oaks,Source1,4,35.453899,-78.393237,2022,23,Thursday,Rain,False,False,False,False,False,False,False
+A-5429989,NC,Johnston,Garner,Source1,4,35.601486,-78.569339,2022,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5437024,NC,Johnston,Princeton,Source1,4,35.393882,-78.16226400000002,2022,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5464222,NC,Johnston,Princeton,Source1,4,35.393882,-78.16226400000002,2022,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5480637,NC,Johnston,Newton Grove,Source1,4,35.301527,-78.427652,2021,5,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5485653,NC,Johnston,Newton Grove,Source1,4,35.30734,-78.43653499999998,2021,4,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5493531,NC,Johnston,Smithfield,Source1,4,35.566567,-78.33879499999998,2021,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-5508300,NC,Johnston,Selma,Source1,4,35.53794980032188,-78.24951052628398,2021,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5516269,NC,Johnston,Kenly,Source1,4,35.59822440130425,-78.13147187195716,2021,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5533772,NC,Johnston,Selma,Source1,4,35.547863,-78.22446,2021,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5554621,NC,Johnston,Benson,Source1,4,35.38641571981723,-78.52406144104705,2021,3,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5558071,NC,Johnston,Garner,Source1,4,35.616451,-78.537837,2021,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5559658,NC,Johnston,Princeton,Source1,4,35.471345186064376,-78.15612673722192,2021,1,Sunday,Cloudy,True,False,False,False,False,False,False
+A-5560509,NC,Johnston,Kenly,Source1,4,35.65660399999999,-78.227375,2021,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5565387,NC,Johnston,Selma,Source1,4,35.567142,-78.192258,2021,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5572201,NC,Johnston,Princeton,Source1,4,35.402536,-78.185301,2021,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5573366,NC,Johnston,Benson,Source1,4,35.38044199999999,-78.51619000000002,2021,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-5574858,NC,Johnston,Benson,Source1,4,35.321244,-78.51920799999998,2021,2,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5577896,NC,Johnston,Smithfield,Source1,4,35.570759,-78.345069,2021,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-5582389,NC,Johnston,Smithfield,Source1,4,35.537704,-78.375943,2021,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5596198,NC,Johnston,Benson,Source1,4,35.313069,-78.403504,2021,8,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5601356,NC,Johnston,Four Oaks,Source1,4,35.403388,-78.375338,2021,4,Wednesday,Rain,False,False,False,False,False,False,False
+A-5615586,NC,Johnston,Angier,Source1,4,35.490446,-78.57230799999998,2021,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5626497,NC,Johnston,Garner,Source1,4,35.610912,-78.559178,2021,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5626498,NC,Johnston,Garner,Source1,4,35.610741,-78.559039,2021,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5627784,NC,Johnston,Selma,Source1,4,35.531067,-78.265734,2021,17,Sunday,Cloudy,False,False,True,False,False,False,False
+A-5644667,NC,Johnston,Garner,Source1,4,35.616787,-78.53550200000002,2021,16,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-5683294,NC,Johnston,Zebulon,Source1,4,35.76133400000001,-78.264505,2021,23,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5699581,NC,Johnston,Clayton,Source1,4,35.610285,-78.458022,2021,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5711217,NC,Johnston,Zebulon,Source1,4,35.772478,-78.26845300000002,2021,23,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5724852,NC,Johnston,Newton Grove,Source1,4,35.302955,-78.428557,2021,5,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5751634,NC,Johnston,Smithfield,Source1,4,35.560051202604484,-78.32995533905826,2021,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5777636,NC,Johnston,Selma,Source1,4,35.536147355863875,-78.30987095795481,2021,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5784962,NC,Johnston,Wendell,Source1,4,35.75460800000001,-78.333929,2021,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5790189,NC,Johnston,Four Oaks,Source1,4,35.40387800000001,-78.37563399999998,2021,4,Wednesday,Rain,False,False,False,False,False,False,False
+A-5791716,NC,Johnston,Benson,Source1,4,35.32622199999999,-78.517825,2021,3,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5808248,NC,Johnston,Kenly,Source1,4,35.651075,-78.217714,2021,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5824292,NC,Johnston,Clayton,Source1,4,35.66892199999999,-78.389736,2021,23,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5824550,NC,Johnston,Angier,Source1,4,35.48226714117297,-78.61002087555593,2021,0,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5838746,NC,Johnston,Princeton,Source1,4,35.377148,-78.195431,2021,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5839593,NC,Johnston,Princeton,Source1,4,35.407343,-78.192655,2021,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5841593,NC,Johnston,Smithfield,Source1,4,35.48947800000001,-78.346393,2021,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5847841,NC,Johnston,Princeton,Source1,4,35.481309,-78.23459799999998,2021,0,Monday,Cloudy,False,False,False,False,False,False,False
+A-5849613,NC,Johnston,Smithfield,Source1,4,35.48980800000001,-78.346007,2021,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5852475,NC,Johnston,Four Oaks,Source1,4,35.41110399999999,-78.415041,2021,15,Friday,Storm,False,False,False,False,False,False,False
+A-5856257,NC,Johnston,Smithfield,Source1,4,35.484451,-78.403767,2021,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5857983,NC,Johnston,Zebulon,Source1,4,35.73713499999999,-78.2959,2021,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5859505,NC,Johnston,Clayton,Source1,4,35.60651,-78.35908,2021,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-5861936,NC,Johnston,Kenly,Source1,4,35.57881300000001,-78.097564,2021,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-5864187,NC,Johnston,Angier,Source1,4,35.48897,-78.571087,2021,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5880719,NC,Johnston,Benson,Source1,4,35.380467,-78.516375,2021,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-5883723,NC,Johnston,Selma,Source1,4,35.54563164694049,-78.30864787064405,2021,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5901557,NC,Johnston,Zebulon,Source1,4,35.769384,-78.272981,2021,23,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5928355,NC,Johnston,Wendell,Source1,4,35.750530958005186,-78.32879662476381,2021,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5935033,NC,Johnston,Garner,Source1,4,35.59542800000001,-78.5847,2021,8,Saturday,Rain,False,False,False,False,False,False,False
+A-5944969,NC,Johnston,Selma,Source1,4,35.567396,-78.190832,2021,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5947077,NC,Johnston,Smithfield,Source1,4,35.560733,-78.33091,2021,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-5949293,NC,Johnston,Smithfield,Source1,4,35.560051202604484,-78.32995533905826,2021,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-5950521,NC,Johnston,Zebulon,Source1,4,35.77246069891084,-78.2684576507651,2021,23,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5964770,NC,Johnston,Benson,Source1,4,35.422344,-78.531274,2021,1,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5966184,NC,Johnston,Benson,Source1,4,35.29346,-78.457712,2021,0,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5967683,NC,Johnston,Benson,Source1,4,35.3784978388053,-78.53760123215419,2021,17,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-5982355,NC,Johnston,Garner,Source1,4,35.588863,-78.536232,2021,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5987806,NC,Johnston,Clayton,Source1,4,35.65145,-78.361575,2021,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5988113,NC,Johnston,Selma,Source1,4,35.658803000000006,-78.305745,2021,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5994157,NC,Johnston,Clayton,Source1,4,35.605345,-78.48409699999998,2021,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5999775,NC,Johnston,Angier,Source1,4,35.492493,-78.630206,2021,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6005821,NC,Johnston,Four Oaks,Source1,4,35.494938,-78.494405,2021,5,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6018485,NC,Johnston,Benson,Source1,4,35.35834600000001,-78.537951,2021,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6019736,NC,Johnston,Clayton,Source1,4,35.671273,-78.38692900000002,2021,23,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6021961,NC,Johnston,Clayton,Source1,4,35.61339,-78.35833000000002,2021,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-6024064,NC,Johnston,Benson,Source1,4,35.366869,-78.560653,2021,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-6030895,NC,Johnston,Benson,Source1,4,35.3745496271354,-78.54298710785606,2021,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6032615,NC,Johnston,Benson,Source1,4,35.326494,-78.520115,2021,2,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6042451,NC,Johnston,Smithfield,Source1,4,35.570758580991885,-78.34506154023006,2021,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-6048207,NC,Johnston,Dunn,Source1,4,35.328877,-78.524725,2021,3,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6052388,NC,Johnston,Princeton,Source1,4,35.402536,-78.185301,2021,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6052820,NC,Johnston,Benson,Source1,4,35.529801,-78.57863,2021,1,Friday,Cloudy,False,False,False,False,False,False,False
+A-6052854,NC,Johnston,Wendell,Source1,4,35.73395700000001,-78.298916,2021,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6055262,NC,Johnston,Kenly,Source1,4,35.57945,-78.100655,2021,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-6056777,NC,Johnston,Smithfield,Source1,4,35.490934,-78.347762,2021,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6067427,NC,Johnston,Kenly,Source1,4,35.589101,-78.135473,2021,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6080581,NC,Johnston,Willow Spring,Source1,4,35.533063,-78.579494,2021,2,Friday,Cloudy,False,False,False,False,False,False,False
+A-6080821,NC,Johnston,Garner,Source1,4,35.586313,-78.527752,2021,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6085847,NC,Johnston,Newton Grove,Source1,4,35.302955,-78.428557,2021,4,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6089244,NC,Johnston,Four Oaks,Source1,4,35.457397699187005,-78.38960766754919,2021,7,Thursday,Cloudy,False,False,True,False,False,False,False
+A-6097295,NC,Johnston,Four Oaks,Source1,4,35.410376,-78.415373,2021,15,Friday,Storm,False,False,False,False,False,False,False
+A-6103863,NC,Johnston,Smithfield,Source1,4,35.54303,-78.32074200000002,2021,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6105194,NC,Johnston,Zebulon,Source1,4,35.733674,-78.297172,2021,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6119137,NC,Johnston,Smithfield,Source1,4,35.48995,-78.309954,2021,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6130130,NC,Johnston,Smithfield,Source1,4,35.477953,-78.401156,2021,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6130516,NC,Johnston,Four Oaks,Source1,4,35.40345311147974,-78.48998665772204,2021,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6133998,NC,Johnston,Selma,Source1,4,35.55743336660597,-78.2577502723777,2021,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-6161434,NC,Johnston,Smithfield,Source1,4,35.563526,-78.334813,2021,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6178373,NC,Johnston,Garner,Source1,4,35.598151,-78.564813,2021,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-6179013,NC,Johnston,Garner,Source1,4,35.593362,-78.590799,2021,8,Saturday,Rain,False,False,False,False,False,False,False
+A-6183445,NC,Johnston,Clayton,Source1,4,35.59713,-78.48548100000002,2021,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6183857,NC,Johnston,Benson,Source1,4,35.38641571981723,-78.52406144104705,2021,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6185724,NC,Johnston,Smithfield,Source1,4,35.565651,-78.33779,2021,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-6186801,NC,Johnston,Princeton,Source1,4,35.47147393209709,-78.15601944886133,2021,1,Sunday,Cloudy,True,False,False,False,False,False,False
+A-6193159,NC,Johnston,Four Oaks,Source1,4,35.40328145010279,-78.48987936936143,2021,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6195934,NC,Johnston,Benson,Source1,4,35.516416,-78.558351,2021,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6197789,NC,Johnston,Benson,Source1,4,35.357219,-78.537132,2021,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6204905,NC,Johnston,Smithfield,Source1,4,35.491073,-78.34784300000003,2021,11,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-6224835,NC,Johnston,Selma,Source1,4,35.53975900000001,-78.309651,2021,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-6234534,NC,Johnston,Smithfield,Source1,4,35.489219,-78.35124300000003,2021,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6236734,NC,Johnston,Clayton,Source1,4,35.651423,-78.36176,2021,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6238031,NC,Johnston,Smithfield,Source1,4,35.56655,-78.339052,2021,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-6243240,NC,Johnston,Kenly,Source1,4,35.59822440130425,-78.13147187195716,2021,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6250061,NC,Johnston,Clayton,Source1,4,35.684475,-78.422585,2021,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6250062,NC,Johnston,Clayton,Source1,4,35.685848,-78.421095,2021,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6253433,NC,Johnston,Clayton,Source1,4,35.70237994177006,-78.43057036362444,2021,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6253841,NC,Johnston,Benson,Source1,4,35.314127,-78.40185600000002,2021,8,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6256927,NC,Johnston,Garner,Source1,4,35.61012,-78.55853499999998,2021,22,Sunday,Cloudy,True,False,False,False,False,False,False
+A-6257396,NC,Johnston,Smithfield,Source1,4,35.492131,-78.309617,2021,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6267812,NC,Johnston,Benson,Source1,4,35.366543,-78.56093100000002,2021,16,Friday,Cloudy,False,True,False,False,False,False,True
+A-6276528,NC,Johnston,Angier,Source1,4,35.493699,-78.632116,2021,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6281275,NC,Johnston,Four Oaks,Source1,4,35.49727199999999,-78.500162,2021,5,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6283097,NC,Johnston,Garner,Source1,4,35.61152815801805,-78.56629013977732,2021,14,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-6302854,NC,Johnston,Kenly,Source1,4,35.57945,-78.100655,2021,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6343413,NC,Johnston,Clayton,Source1,4,35.638762,-78.34249799999998,2021,2,Thursday,Rain,False,False,False,False,False,False,False
+A-6357415,NC,Johnston,Clayton,Source1,4,35.64133,-78.339206,2021,2,Thursday,Rain,False,False,False,False,False,False,False
+A-6384592,NC,Johnston,Selma,Source1,4,35.57287,-78.176514,2021,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6388097,NC,Johnston,Clayton,Source1,4,35.614339,-78.414627,2021,23,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6396813,NC,Johnston,Dunn,Source1,4,35.300308,-78.499095,2021,6,Friday,Rain,False,False,False,False,False,False,False
+A-6399260,NC,Johnston,Clayton,Source1,4,35.675041,-78.47381800000002,2021,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6409728,NC,Johnston,Clayton,Source1,4,35.613652,-78.417652,2021,23,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-6499339,NC,Johnston,Benson,Source1,4,35.302318,-78.500775,2021,6,Friday,Rain,False,False,False,False,False,False,False
+A-6507600,NC,Johnston,Clayton,Source1,4,35.64133,-78.339206,2021,2,Thursday,Rain,False,False,False,False,False,False,False
+A-6548219,NC,Johnston,Selma,Source1,4,35.57643200000001,-78.169812,2021,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6553321,NC,Johnston,Benson,Source1,4,35.42233586294449,-78.53127121887906,2021,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6575751,NC,Johnston,Garner,Source1,4,35.621385,-78.567215,2020,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6576319,NC,Johnston,Kenly,Source1,4,35.656932,-78.181017,2020,4,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6585262,NC,Johnston,Garner,Source1,4,35.61308,-78.549423,2020,21,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6587520,NC,Johnston,Selma,Source1,4,35.598481,-78.25959499999998,2020,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-6610945,NC,Johnston,Selma,Source1,4,35.518806,-78.287849,2020,0,Sunday,Sin dato,True,False,False,False,False,False,False
+A-6615544,NC,Johnston,Clayton,Source1,4,35.545123,-78.393884,2020,1,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6618660,NC,Johnston,Garner,Source1,4,35.61012,-78.55853499999998,2020,2,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-6621477,NC,Johnston,Wendell,Source1,4,35.751974,-78.340535,2020,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6637151,NC,Johnston,Clayton,Source1,4,35.69756599999999,-78.377962,2020,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6638686,NC,Johnston,Selma,Source1,4,35.567396,-78.190832,2020,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6639954,NC,Johnston,Zebulon,Source1,4,35.747262,-78.29637199999998,2020,4,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6642297,NC,Johnston,Selma,Source1,4,35.542768,-78.212906,2020,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6648062,NC,Johnston,Garner,Source1,4,35.573716,-78.58617,2020,4,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-6649690,NC,Johnston,Selma,Source1,4,35.547166,-78.205048,2020,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6651316,NC,Johnston,Smithfield,Source1,4,35.505999,-78.317338,2020,1,Friday,Cloudy,False,False,True,False,False,False,False
+A-6654878,NC,Johnston,Clayton,Source1,4,35.56116,-78.486176,2020,0,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6658953,NC,Johnston,Princeton,Source1,4,35.47147800000001,-78.15602,2020,7,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-6661950,NC,Johnston,Selma,Source1,4,35.518079,-78.28601,2020,0,Sunday,Sin dato,True,False,False,False,False,False,False
+A-6686078,NC,Johnston,Clayton,Source1,4,35.61286,-78.468317,2020,20,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-6700091,NC,Johnston,Zebulon,Source1,4,35.747204,-78.29664,2020,4,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6704670,NC,Johnston,Clayton,Source1,4,35.694044,-78.37531800000002,2020,19,Saturday,Clear / Fair,False,False,False,True,False,False,False
+A-6705184,NC,Johnston,Princeton,Source1,4,35.475848,-78.15108199999997,2020,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6707255,NC,Johnston,Kenly,Source1,4,35.669356,-78.19449300000002,2020,4,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6713248,NC,Johnston,Garner,Source1,4,35.57253400000001,-78.587848,2020,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6716773,NC,Johnston,Clayton,Source1,4,35.614349,-78.545417,2020,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6730801,NC,Johnston,Smithfield,Source1,4,35.503531,-78.322037,2020,2,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6732922,NC,Johnston,Selma,Source1,4,35.568856,-78.186687,2020,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6755643,NC,Johnston,Smithfield,Source1,4,35.544945,-78.39466999999998,2020,0,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6761206,NC,Johnston,Benson,Source1,4,35.467357,-78.631686,2020,3,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6766725,NC,Johnston,Clayton,Source1,4,35.69685,-78.377617,2020,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6785584,NC,Johnston,Wendell,Source1,4,35.75886,-78.339513,2020,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6807725,NC,Johnston,Four Oaks,Source1,4,35.462124,-78.456613,2020,22,Sunday,Rain,False,False,False,False,False,False,False
+A-6847247,NC,Johnston,Selma,Source1,4,35.566812,-78.170906,2020,3,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-6848358,NC,Johnston,Garner,Source1,4,35.621385,-78.567215,2020,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6979368,NC,Johnston,Garner,Source1,3,35.62882000000001,-78.5664,2020,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-6983746,NC,Johnston,Benson,Source1,3,35.51283,-78.55634,2020,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6986231,NC,Johnston,Garner,Source1,3,35.60311,-78.56322,2020,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6988798,NC,Johnston,Benson,Source1,3,35.51283,-78.55634,2020,12,Friday,Rain,False,False,False,False,False,False,False
+A-6992286,NC,Johnston,Selma,Source1,4,35.55110999999999,-78.21615,2020,2,Sunday,Cloudy,False,False,True,False,False,False,False
+A-6993728,NC,Johnston,Selma,Source1,3,35.5669,-78.17064,2020,12,Monday,Sin dato,False,False,True,False,False,False,False
+A-6995937,NC,Johnston,Clayton,Source1,3,35.6569,-78.47841,2020,18,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-6998209,NC,Johnston,Garner,Source1,3,35.61677,-78.53556999999998,2020,15,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7009773,NC,Johnston,Clayton,Source1,4,35.65371,-78.34515,2020,7,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-7012404,NC,Johnston,Clayton,Source1,3,35.6569,-78.47841,2020,18,Wednesday,Rain,True,False,False,False,False,False,False
+A-7021946,NC,Johnston,Benson,Source1,4,35.37142,-78.53145,2020,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7021947,NC,Johnston,Benson,Source1,4,35.37142,-78.53145,2020,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7021948,NC,Johnston,Benson,Source1,4,35.37142,-78.53145,2020,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7024180,NC,Johnston,Four Oaks,Source1,3,35.4554,-78.39145,2020,13,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7026379,NC,Johnston,Four Oaks,Source1,4,35.46095,-78.38568000000002,2020,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7030619,NC,Johnston,Garner,Source1,3,35.6276,-78.56674,2020,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-7030629,NC,Johnston,Garner,Source1,3,35.6276,-78.56674,2020,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-7042685,NC,Johnston,Selma,Source1,4,35.57194000000001,-78.26812,2020,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7045362,NC,Johnston,Garner,Source1,3,35.6276,-78.56674,2020,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-7072419,NC,Johnston,Garner,Source1,3,35.60311,-78.56322,2020,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-7072423,NC,Johnston,Garner,Source1,3,35.60634,-78.56539000000002,2020,16,Monday,Cloudy,True,False,False,False,False,False,False
+A-7077601,NC,Johnston,Clayton,Source1,3,35.64785,-78.39596,2020,16,Wednesday,Rain,True,False,False,False,False,False,False
+A-7099448,NC,Johnston,Garner,Source1,3,35.6276,-78.56674,2020,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-7113661,NC,Johnston,Clayton,Source1,4,35.60399,-78.42912,2020,6,Friday,Rain,False,False,False,False,False,False,False
+A-7113673,NC,Johnston,Clayton,Source1,4,35.60128,-78.41691,2020,11,Friday,Cloudy,False,False,True,False,False,False,False
+A-7115173,NC,Johnston,Benson,Source1,4,35.3633,-78.54893,2020,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7122476,NC,Johnston,Garner,Source1,3,35.60311,-78.56322,2020,7,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7133909,NC,Johnston,Garner,Source1,3,35.60311,-78.56322,2020,8,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7143496,NC,Johnston,Garner,Source1,3,35.61615,-78.5675,2020,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7188816,NC,Johnston,Zebulon,Source1,4,35.77178,-78.29401999999997,2020,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7188820,NC,Johnston,Zebulon,Source1,4,35.77178,-78.29401999999997,2020,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7195812,NC,Johnston,Angier,Source1,4,35.52074,-78.62066,2020,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-7195814,NC,Johnston,Angier,Source1,4,35.52074,-78.62066,2020,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-7209196,NC,Johnston,Benson,Source1,4,35.41073,-78.50407,2020,15,Tuesday,Rain,False,False,False,False,False,False,False
+A-7209198,NC,Johnston,Benson,Source1,4,35.41073,-78.50407,2020,15,Tuesday,Rain,False,False,False,False,False,False,False
+A-7210354,NC,Johnston,Princeton,Source1,4,35.47388,-78.16478000000002,2020,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7231741,NC,Johnston,Clayton,Source1,4,35.6502,-78.36963,2020,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7231742,NC,Johnston,Clayton,Source1,4,35.65027,-78.36919,2020,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7231743,NC,Johnston,Clayton,Source1,3,35.64983,-78.37207,2020,0,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7231744,NC,Johnston,Clayton,Source1,3,35.65063,-78.3668,2020,0,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7271094,NC,Johnston,Clayton,Source1,4,35.62774,-78.52085,2020,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7336505,NC,Johnston,Kenly,Source1,3,35.59004,-78.13479,2019,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7404587,NC,Johnston,Kenly,Source1,3,35.59798,-78.13156,2019,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-7416057,NC,Johnston,Princeton,Source1,4,35.458767,-78.14237800000002,2019,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7422039,NC,Johnston,Clayton,Source1,4,35.645516,-78.49587,2019,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-7422040,NC,Johnston,Clayton,Source1,4,35.647886,-78.50045300000002,2019,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-7460000,NC,Johnston,Benson,Source1,4,35.37915,-78.53647,2019,1,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7467998,NC,Johnston,Clayton,Source1,4,35.69405,-78.37533,2019,7,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-7467999,NC,Johnston,Clayton,Source1,4,35.691606,-78.372382,2019,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7479951,NC,Johnston,Four Oaks,Source1,4,35.406786,-78.377403,2018,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-7497621,NC,Johnston,Zebulon,Source1,4,35.7399,-78.25663,2018,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7500524,NC,Johnston,Clayton,Source1,4,35.647287,-78.405394,2018,11,Monday,Rain,False,False,False,False,False,False,False
+A-7500525,NC,Johnston,Clayton,Source1,4,35.647016,-78.40981,2018,11,Monday,Rain,False,False,False,False,False,False,False
+A-7508122,NC,Johnston,Selma,Source1,3,35.52138,-78.28596999999998,2018,14,Saturday,Rain,False,False,False,False,False,False,False
+A-7510536,NC,Johnston,Benson,Source1,4,35.39236,-78.51395,2018,16,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7521573,NC,Johnston,Benson,Source1,4,35.39367,-78.51928000000002,2018,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7521574,NC,Johnston,Benson,Source1,4,35.39236,-78.51395,2018,22,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7528185,NC,Johnston,Benson,Source1,4,35.37588,-78.53864,2018,10,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7528186,NC,Johnston,Benson,Source1,4,35.372642,-78.540901,2018,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7533954,NC,Johnston,Garner,Source1,4,35.60311,-78.56322,2018,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7554434,NC,Johnston,Benson,Source1,4,35.518313,-78.55895699999998,2018,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7554445,NC,Johnston,Benson,Source1,4,35.41946,-78.52831,2018,14,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7554448,NC,Johnston,Garner,Source1,4,35.60268,-78.5635,2018,15,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7554449,NC,Johnston,Benson,Source1,3,35.51276,-78.55608000000002,2018,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7554450,NC,Johnston,Benson,Source1,4,35.41946,-78.52831,2018,15,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7554451,NC,Johnston,Benson,Source1,4,35.51284000000001,-78.55634,2018,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7554452,NC,Johnston,Benson,Source1,4,35.41946,-78.52831,2018,15,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7554453,NC,Johnston,Benson,Source1,4,35.51979,-78.56006,2018,15,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7554454,NC,Johnston,Garner,Source1,4,35.60634,-78.56539000000002,2018,15,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-7554455,NC,Johnston,Benson,Source1,4,35.51284000000001,-78.55634,2018,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7555777,NC,Johnston,Selma,Source1,3,35.51754000000001,-78.2934,2018,4,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7555780,NC,Johnston,Princeton,Source1,4,35.47362000000001,-78.17563,2018,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7556042,NC,Johnston,Smithfield,Source1,3,35.49122,-78.347557,2018,17,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7556826,NC,Johnston,Kenly,Source1,3,35.58168,-78.14219,2018,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7557442,NC,Johnston,Selma,Source1,3,35.557075,-78.198965,2018,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-7565417,NC,Johnston,Four Oaks,Source1,4,35.411284,-78.414956,2018,23,Friday,Cloudy,False,False,False,False,False,False,False
+A-7571286,NC,Johnston,Selma,Source1,3,35.55563,-78.20379,2018,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7579559,NC,Johnston,Newton Grove,Source1,4,35.31474,-78.3613,2018,5,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7579560,NC,Johnston,Newton Grove,Source1,4,35.31474,-78.3613,2018,5,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7604685,NC,Johnston,Clayton,Source1,4,35.61035,-78.4582,2018,7,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7611127,NC,Johnston,Kenly,Source1,4,35.59798,-78.13156,2018,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7611128,NC,Johnston,Kenly,Source1,4,35.59798,-78.13156,2018,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7611131,NC,Johnston,Kenly,Source1,3,35.58168,-78.14219,2018,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7621352,NC,Johnston,Clayton,Source1,4,35.647016,-78.40981,2018,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7621353,NC,Johnston,Clayton,Source1,4,35.64759,-78.400272,2018,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7621752,NC,Johnston,Benson,Source1,4,35.516621,-78.557551,2018,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-7626005,NC,Johnston,Selma,Source1,4,35.6008,-78.31366,2018,14,Monday,Clear / Fair,False,False,False,False,False,True,False
+A-7630815,NC,Johnston,Selma,Source1,4,35.53097,-78.26592,2018,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7642015,NC,Johnston,Clayton,Source1,4,35.62527,-78.51456,2017,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7642425,NC,Johnston,Wendell,Source1,4,35.75886,-78.33952,2017,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7642426,NC,Johnston,Wendell,Source1,4,35.75886,-78.33952,2017,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7644030,NC,Johnston,Selma,Source1,4,35.5669,-78.17064,2017,5,Wednesday,Rain,False,False,True,False,False,False,False
+A-7644698,NC,Johnston,Benson,Source1,4,35.359573,-78.486594,2017,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7663796,NC,Johnston,Middlesex,Source1,4,35.73106,-78.23250999999998,2017,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7663797,NC,Johnston,Middlesex,Source1,4,35.714151,-78.22824399999998,2017,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7669628,NC,Johnston,Garner,Source1,3,35.591365,-78.57015799999998,2017,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7683081,NC,Johnston,Clayton,Source1,4,35.616765,-78.535599,2017,17,Friday,Cloudy,True,False,False,False,False,False,False
+A-7683748,NC,Johnston,Princeton,Source1,4,35.47938900000001,-78.229537,2017,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7683749,NC,Johnston,Princeton,Source1,4,35.481208,-78.23426500000002,2017,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7683751,NC,Johnston,Benson,Source1,4,35.307388,-78.436639,2017,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-7700987,NC,Johnston,Clayton,Source1,4,35.592138,-78.402025,2017,1,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7703910,NC,Johnston,Princeton,Source1,4,35.47173400000001,-78.219287,2019,15,Friday,Rain,False,False,False,False,False,False,False
+A-7709761,NC,Johnston,Zebulon,Source1,4,35.712886,-78.293336,2019,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7709762,NC,Johnston,Zebulon,Source1,4,35.718118,-78.296981,2019,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7710303,NC,Johnston,Selma,Source1,4,35.52138,-78.28596999999998,2019,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7710307,NC,Johnston,Smithfield,Source1,4,35.50185,-78.32545999999998,2019,14,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7713383,NC,Johnston,Kenly,Source1,4,35.67335300000001,-78.245954,2019,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7713384,NC,Johnston,Kenly,Source1,4,35.674431,-78.2439,2019,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7713964,NC,Johnston,Selma,Source1,4,35.523376,-78.302635,2019,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7713965,NC,Johnston,Selma,Source1,4,35.521349,-78.293948,2019,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7713966,NC,Johnston,Selma,Source1,4,35.52947800000001,-78.290785,2019,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7713967,NC,Johnston,Selma,Source1,4,35.52497,-78.29961999999998,2019,10,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-7714476,NC,Johnston,Clayton,Source1,4,35.641864,-78.33949100000002,2019,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7714477,NC,Johnston,Clayton,Source1,4,35.65371,-78.34517,2019,22,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7726789,NC,Johnston,Selma,Source1,3,35.66220999999999,-78.27986,2019,9,Thursday,Cloudy,False,False,False,True,False,False,False
+A-7731867,NC,Johnston,Middlesex,Source1,4,35.69387899999999,-78.24590400000002,2019,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7746451,NC,Johnston,Smithfield,Source1,4,35.543246,-78.318892,2019,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-7746452,NC,Johnston,Smithfield,Source1,4,35.5436,-78.314963,2019,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-7748430,NC,Johnston,Garner,Source1,4,35.616776,-78.535505,2019,14,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-7748431,NC,Johnston,Clayton,Source1,4,35.616874,-78.534802,2019,14,Wednesday,Cloudy,False,False,False,False,False,True,False
+A-7748433,NC,Johnston,Clayton,Source1,3,35.61758,-78.529822,2019,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7748434,NC,Johnston,Garner,Source1,3,35.616459000000006,-78.53774200000002,2019,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7753945,NC,Johnston,Selma,Source1,4,35.49433900000001,-78.275436,2019,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False

@@ -1,0 +1,301 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-3459,CA,Santa Cruz,Watsonville,Source2,3,36.914356,-121.786987,2016,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5109,CA,Santa Cruz,Royal Oaks,Source2,4,36.899143,-121.748009,2016,21,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-19727,CA,Santa Cruz,Santa Cruz,Source2,3,36.989685,-122.021805,2016,10,Tuesday,Rain,False,False,False,False,False,False,False
+A-31673,CA,Santa Cruz,Santa Cruz,Source2,3,36.989685,-122.021805,2016,0,Sunday,Cloudy,False,False,False,False,False,False,False
+A-35846,CA,Santa Cruz,Capitola,Source2,3,36.982502,-121.964455,2016,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-36809,CA,Santa Cruz,Aptos,Source2,3,36.974041,-121.88298799999998,2016,18,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-39374,CA,Santa Cruz,Capitola,Source2,3,36.982925,-121.959595,2016,21,Friday,Rain,False,False,False,False,False,False,False
+A-342431,CA,Santa Cruz,Santa Cruz,Source2,3,37.001038,-122.18045,2017,23,Wednesday,Clear / Fair,False,False,False,True,True,False,False
+A-399674,CA,Santa Cruz,Royal Oaks,Source2,3,36.870686,-121.690201,2017,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-400791,CA,Santa Cruz,Los Gatos,Source2,3,37.157009,-121.983841,2017,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-653560,CA,Santa Cruz,Boulder Creek,Source3,3,37.168613,-122.135887,2022,23,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-669446,CA,Santa Cruz,Aptos,Source2,3,36.97493,-121.886948,2022,14,Monday,Clear / Fair,False,True,False,False,False,False,False
+A-798011,CA,Santa Cruz,Watsonville,Source2,3,36.946739,-121.84713,2021,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-800821,CA,Santa Cruz,Watsonville,Source3,3,36.901508,-121.763031,2021,6,Monday,Clear / Fair,False,False,False,True,True,False,False
+A-829317,CA,Santa Cruz,Watsonville,Source3,3,36.921303,-121.791794,2021,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-830174,CA,Santa Cruz,Santa Cruz,Source2,3,36.982689,-122.143471,2021,17,Sunday,Clear / Fair,False,False,False,False,True,False,False
+A-937487,CA,Santa Cruz,Watsonville,Source2,3,36.903889,-121.639168,2021,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-1107050,CA,Santa Cruz,Santa Cruz,Source2,3,36.988522,-122.00311299999998,2021,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1196279,CA,Santa Cruz,Santa Cruz,Source2,3,37.083141,-121.976784,2021,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1294073,CA,Santa Cruz,Watsonville,Source2,3,36.959648,-121.762009,2020,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1307996,CA,Santa Cruz,Santa Cruz,Source2,3,36.999374,-122.02026399999998,2020,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-1376843,CA,Santa Cruz,Watsonville,Source2,3,36.894234,-121.774231,2020,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1441916,CA,Santa Cruz,Scotts Valley,Source2,3,37.104359,-121.975166,2020,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1681451,CA,Santa Cruz,Watsonville,Source2,3,36.894264,-121.774078,2019,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1689911,CA,Santa Cruz,Los Gatos,Source2,3,37.127731,-121.975822,2019,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-1926515,CA,Santa Cruz,Santa Cruz,Source2,3,36.986881,-121.986038,2019,17,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-1948397,CA,Santa Cruz,Santa Cruz,Source2,3,37.083141,-121.976784,2019,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2171641,CA,Santa Cruz,Boulder Creek,Source2,3,37.157162,-122.134132,2019,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2211035,CA,Santa Cruz,Scotts Valley,Source2,3,37.099541,-121.976242,2019,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2319687,CA,Santa Cruz,Santa Cruz,Source2,3,37.083141,-121.976784,2019,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2478381,CA,Santa Cruz,Capitola,Source2,3,36.983273,-121.956985,2018,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2544529,CA,Santa Cruz,Watsonville,Source2,3,36.916817,-121.731682,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2597556,CA,Santa Cruz,Watsonville,Source2,3,36.949562,-121.850708,2018,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2607050,CA,Santa Cruz,Watsonville,Source2,3,36.960007,-121.861702,2018,7,Tuesday,Fog / Low visibility,False,False,True,False,False,False,False
+A-2653887,CA,Santa Cruz,Aptos,Source2,3,36.969662,-121.904778,2018,8,Friday,Clear / Fair,False,False,False,True,True,True,False
+A-2699327,CA,Santa Cruz,Aptos,Source2,3,36.978031,-121.910309,2018,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2778952,CA,Santa Cruz,Watsonville,Source2,3,36.926586,-121.800674,2018,0,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-2870453,CA,Santa Cruz,Scotts Valley,Source2,3,37.104176,-121.97538,2018,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-2870658,CA,Santa Cruz,Santa Cruz,Source2,3,36.983074,-121.96508,2018,8,Friday,Rain,False,False,False,False,False,False,False
+A-2966654,CA,Santa Cruz,Aptos,Source2,3,36.970161,-121.87262,2018,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3003125,CA,Santa Cruz,Scotts Valley,Source2,3,37.104366,-121.975052,2018,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3017606,CA,Santa Cruz,Watsonville,Source3,3,36.926586,-121.800674,2018,19,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-3406957,CA,Santa Cruz,Santa Cruz,Source2,3,36.981667,-121.998787,2017,14,Monday,Clear / Fair,True,True,False,False,True,False,False
+A-3416352,CA,Santa Cruz,Watsonville,Source1,4,36.91684,-121.73166,2016,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3416353,CA,Santa Cruz,Watsonville,Source1,4,36.92195,-121.7105,2016,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3417170,CA,Santa Cruz,Watsonville,Source1,4,36.9426,-121.7846,2016,0,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3417869,CA,Santa Cruz,Watsonville,Source1,3,36.9609,-121.72234,2016,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3417871,CA,Santa Cruz,Watsonville,Source1,4,36.960898,-121.722342,2016,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3417872,CA,Santa Cruz,Watsonville,Source1,4,36.95944,-121.7239,2016,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3526151,CA,Santa Cruz,Soquel,Source1,4,36.98734,-121.96543,2016,15,Monday,Clear / Fair,False,True,False,False,False,False,False
+A-3526152,CA,Santa Cruz,Soquel,Source1,4,36.987377,-121.968501,2016,15,Monday,Clear / Fair,False,False,False,False,True,False,False
+A-3529106,CA,Santa Cruz,Los Gatos,Source1,4,37.170292,-121.98981100000002,2017,14,Monday,Cloudy,True,True,False,False,False,False,False
+A-3529609,CA,Santa Cruz,Ben Lomond,Source1,4,37.09536,-122.09721,2017,19,Thursday,Clear / Fair,False,False,False,True,True,False,False
+A-3529610,CA,Santa Cruz,Ben Lomond,Source1,4,37.092851,-122.09641,2017,19,Thursday,Clear / Fair,False,False,False,False,True,False,False
+A-3533397,CA,Santa Cruz,Royal Oaks,Source1,3,36.865921,-121.737146,2016,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-3533398,CA,Santa Cruz,Royal Oaks,Source1,3,36.865047,-121.733217,2016,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-3533482,CA,Santa Cruz,Watsonville,Source1,3,36.914244,-121.676787,2016,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3534749,CA,Santa Cruz,Los Gatos,Source1,3,37.25926,-122.12853,2016,3,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3535436,CA,Santa Cruz,Scotts Valley,Source1,3,37.03669,-122.01952,2016,13,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-3537366,CA,Santa Cruz,Scotts Valley,Source1,3,37.104151,-121.975397,2016,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3537878,CA,Santa Cruz,Los Gatos,Source1,4,37.173807,-121.993641,2016,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3538273,CA,Santa Cruz,Los Gatos,Source1,3,37.17026,-121.9898,2016,17,Saturday,Cloudy,True,True,False,False,False,False,False
+A-3538274,CA,Santa Cruz,Los Gatos,Source1,3,37.173807,-121.993641,2016,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3538305,CA,Santa Cruz,Los Gatos,Source1,3,37.12011500000001,-121.976031,2016,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3538982,CA,Santa Cruz,Santa Cruz,Source1,3,37.02003300000001,-122.027329,2016,3,Monday,Cloudy,False,False,False,False,False,False,False
+A-3548807,CA,Santa Cruz,Santa Cruz,Source1,3,37.016659,-122.0272,2016,7,Friday,Rain,False,False,False,False,False,False,False
+A-3550850,CA,Santa Cruz,Ben Lomond,Source1,4,37.10416,-122.14097,2016,2,Thursday,Cloudy,False,False,False,True,False,False,False
+A-3550851,CA,Santa Cruz,Santa Cruz,Source1,4,37.101466,-122.142341,2016,2,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3552516,CA,Santa Cruz,Los Gatos,Source1,4,37.128144,-121.976234,2016,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3564829,CA,Santa Cruz,Davenport,Source1,4,37.02849000000001,-122.21623999999998,2017,8,Thursday,Rain,False,False,False,True,False,False,False
+A-3564830,CA,Santa Cruz,Santa Cruz,Source1,4,37.096962,-122.279426,2017,8,Thursday,Rain,False,False,False,False,False,True,False
+A-3565620,CA,Santa Cruz,Santa Cruz,Source1,3,37.03248,-122.02247,2017,18,Monday,Rain,False,False,True,False,False,False,False
+A-3565727,CA,Santa Cruz,Boulder Creek,Source1,4,37.19739000000001,-122.1461,2017,8,Tuesday,Rain,False,False,False,False,False,False,False
+A-3565728,CA,Santa Cruz,Boulder Creek,Source1,4,37.206778,-122.145231,2017,8,Tuesday,Rain,False,False,False,False,False,False,False
+A-3588046,CA,Santa Cruz,Los Gatos,Source1,3,37.173807,-121.993641,2017,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3588070,CA,Santa Cruz,Santa Cruz,Source1,3,36.98521,-122.02685,2017,19,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3589889,CA,Santa Cruz,Los Gatos,Source1,4,37.17026,-121.9898,2017,6,Saturday,Cloudy,True,True,False,False,False,False,False
+A-3591216,CA,Santa Cruz,Royal Oaks,Source1,4,36.837421,-121.683513,2017,0,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3591217,CA,Santa Cruz,Royal Oaks,Source1,4,36.837421,-121.683513,2017,0,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3592861,CA,Santa Cruz,Los Gatos,Source1,3,37.12012100000001,-121.976031,2017,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3636420,CA,Santa Cruz,Watsonville,Source1,3,36.93016,-121.80695,2017,3,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3636878,CA,Santa Cruz,Soquel,Source1,4,36.987799,-121.944819,2017,12,Thursday,Cloudy,False,True,False,False,True,False,False
+A-3638082,CA,Santa Cruz,Santa Cruz,Source1,3,37.00244,-122.02072,2017,14,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-3648199,CA,Santa Cruz,Watsonville,Source1,4,36.915865,-121.68052,2017,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3648200,CA,Santa Cruz,Watsonville,Source1,4,36.914329,-121.677175,2017,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3707625,CA,Santa Cruz,Los Gatos,Source1,4,37.13492100000001,-121.983196,2022,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3751245,CA,Santa Cruz,Los Gatos,Source1,4,37.13492100000001,-121.983196,2022,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3812470,CA,Santa Cruz,Watsonville,Source1,4,36.906442,-121.613584,2022,18,Wednesday,Clear / Fair,False,True,False,False,False,False,True
+A-3815639,CA,Santa Cruz,Santa Cruz,Source1,4,36.98885322,-122.01597333,2023,8,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-3832186,CA,Santa Cruz,Boulder Creek,Source1,4,37.159796,-122.082273,2022,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-3901337,CA,Santa Cruz,Los Gatos,Source1,4,37.136924,-121.984366,2022,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3930585,CA,Santa Cruz,Felton,Source1,4,37.107648,-122.050081,2022,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4001166,CA,Santa Cruz,Ben Lomond,Source1,4,37.088971,-122.088493,2022,9,Wednesday,Clear / Fair,True,False,False,False,True,False,False
+A-4059113,CA,Santa Cruz,Los Gatos,Source1,4,37.214481,-122.068127,2022,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4086244,CA,Santa Cruz,Santa Cruz,Source1,4,36.992882,-122.019462,2022,2,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4096403,CA,Santa Cruz,Santa Cruz,Source1,4,36.977645,-122.031919,2023,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4152336,CA,Santa Cruz,Santa Cruz,Source1,4,37.053851,-122.116852,2022,3,Sunday,Fog / Low visibility,False,False,False,False,True,False,False
+A-4214066,CA,Santa Cruz,Boulder Creek,Source1,4,37.158287,-122.170707,2022,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4274969,CA,Santa Cruz,Watsonville,Source1,4,36.939595,-121.789797,2022,23,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4297564,CA,Santa Cruz,Watsonville,Source1,4,36.903858,-121.639157,2022,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4403776,CA,Santa Cruz,Santa Cruz,Source1,4,36.98885322,-122.01597333,2023,8,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-4432206,CA,Santa Cruz,Santa Cruz,Source1,4,36.993273,-122.168455,2022,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4465690,CA,Santa Cruz,Santa Cruz,Source1,4,36.986697,-122.15466,2022,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4484583,CA,Santa Cruz,Los Gatos,Source1,4,37.258517,-122.121952,2022,11,Thursday,Clear / Fair,False,False,False,True,False,False,False
+A-4496677,CA,Santa Cruz,Santa Cruz,Source1,4,36.998677,-122.177833,2022,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4648471,CA,Santa Cruz,Watsonville,Source1,4,36.95610881,-121.72743201,2022,7,Thursday,Cloudy,False,False,False,True,False,False,False
+A-4701609,CA,Santa Cruz,Santa Cruz,Source1,4,36.98778033,-122.0223248,2023,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4741965,CA,Santa Cruz,Watsonville,Source1,4,36.949952,-121.733294,2022,9,Sunday,Clear / Fair,False,False,False,True,False,False,False
+A-4886881,CA,Santa Cruz,Watsonville,Source1,4,36.903858,-121.639157,2022,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5032024,CA,Santa Cruz,Santa Cruz,Source1,4,36.98885322,-122.01597333,2023,11,Monday,Cloudy,False,False,True,False,False,False,False
+A-5046758,CA,Santa Cruz,Santa Cruz,Source1,4,36.98885322,-122.01597333,2023,6,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-5098426,CA,Santa Cruz,Santa Cruz,Source1,4,37.000609,-122.180015,2022,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5137589,CA,Santa Cruz,Scotts Valley,Source1,4,37.083245,-121.976868,2022,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5150118,CA,Santa Cruz,Scotts Valley,Source1,4,37.095539,-121.976486,2022,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5164135,CA,Santa Cruz,Watsonville,Source1,4,36.953299,-121.730158,2022,21,Saturday,Cloudy,False,False,False,True,False,False,False
+A-5171726,CA,Santa Cruz,Boulder Creek,Source1,4,37.175027,-122.138445,2022,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5177843,CA,Santa Cruz,Scotts Valley,Source1,4,37.078929,-121.979468,2022,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5185274,CA,Santa Cruz,Scotts Valley,Source1,4,37.099686,-121.976451,2022,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5203434,CA,Santa Cruz,Boulder Creek,Source1,4,37.191736,-122.145052,2022,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-5384302,CA,Santa Cruz,Santa Cruz,Source1,4,36.988698,-122.022899,2023,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5448733,CA,Santa Cruz,Scotts Valley,Source1,4,37.099936,-121.976656,2022,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5582309,CA,Santa Cruz,Los Gatos,Source1,4,37.158606,-122.004753,2021,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5723801,CA,Santa Cruz,Watsonville,Source1,4,36.992549,-121.812427,2021,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5880130,CA,Santa Cruz,Watsonville,Source1,4,36.906442,-121.613584,2021,13,Monday,Clear / Fair,False,True,False,False,False,False,True
+A-5910997,CA,Santa Cruz,Watsonville,Source1,4,36.982317,-121.801156,2021,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5968239,CA,Santa Cruz,Watsonville,Source1,4,36.994379,-121.815992,2021,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6066526,CA,Santa Cruz,Santa Cruz,Source1,4,36.996302,-122.01988500000002,2021,12,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-6066598,CA,Santa Cruz,Felton,Source1,4,37.051636,-122.063702,2021,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6236918,CA,Santa Cruz,Watsonville,Source1,4,36.994182,-121.815793,2021,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6254056,CA,Santa Cruz,Watsonville,Source1,4,36.901564,-121.762926,2021,7,Monday,Clear / Fair,False,False,False,True,True,False,False
+A-6325430,CA,Santa Cruz,Los Gatos,Source1,4,37.165652,-122.015948,2021,18,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-6414191,CA,Santa Cruz,Aptos,Source1,4,36.988424,-121.827695,2021,3,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6445467,CA,Santa Cruz,Santa Cruz,Source1,4,36.97168,-122.025483,2020,14,Friday,Clear / Fair,False,True,False,True,False,True,False
+A-6448420,CA,Santa Cruz,Watsonville,Source1,4,36.92641139012849,-121.80038809718228,2021,2,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6509512,CA,Santa Cruz,Santa Cruz,Source1,4,36.99945,-122.004572,2021,3,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6581913,CA,Santa Cruz,Davenport,Source1,4,37.010602,-122.193818,2020,14,Thursday,Cloudy,False,False,False,True,False,False,False
+A-6618659,CA,Santa Cruz,Santa Cruz,Source1,4,36.992882,-122.019462,2020,0,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6863297,CA,Santa Cruz,Santa Cruz,Source1,4,36.992882,-122.019462,2020,0,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6934049,CA,Santa Cruz,Davenport,Source1,4,37.010602,-122.193818,2020,14,Thursday,Cloudy,False,False,False,True,False,False,False
+A-6980261,CA,Santa Cruz,Scotts Valley,Source1,3,37.09518,-121.97673,2020,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6980267,CA,Santa Cruz,Scotts Valley,Source1,3,37.09518,-121.97673,2020,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6982928,CA,Santa Cruz,Santa Cruz,Source1,3,36.98633,-121.98356,2020,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7011136,CA,Santa Cruz,Los Gatos,Source1,4,37.25816,-122.12152,2020,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7011137,CA,Santa Cruz,Los Gatos,Source1,4,37.25816,-122.12152,2020,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7011139,CA,Santa Cruz,Los Gatos,Source1,4,37.25816,-122.12152,2020,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7011140,CA,Santa Cruz,Los Gatos,Source1,4,37.25816,-122.12152,2020,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7015546,CA,Santa Cruz,Watsonville,Source1,3,36.92385,-121.6966,2020,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7015547,CA,Santa Cruz,Watsonville,Source1,3,36.92385,-121.6966,2020,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7015552,CA,Santa Cruz,Watsonville,Source1,3,36.92385,-121.6966,2020,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7015556,CA,Santa Cruz,Watsonville,Source1,3,36.92415,-121.69769,2020,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7023252,CA,Santa Cruz,Los Gatos,Source1,3,37.12924,-121.97732,2020,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-7023254,CA,Santa Cruz,Los Gatos,Source1,3,37.12919,-121.97727,2020,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-7034663,CA,Santa Cruz,Los Gatos,Source1,4,37.12924,-121.97732,2020,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7036824,CA,Santa Cruz,Los Gatos,Source1,4,37.12924,-121.97732,2020,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-7036831,CA,Santa Cruz,Los Gatos,Source1,4,37.12924,-121.97732,2020,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-7039761,CA,Santa Cruz,Capitola,Source1,3,36.98273,-121.96174,2020,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7039768,CA,Santa Cruz,Capitola,Source1,3,36.98285,-121.96039,2020,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7039779,CA,Santa Cruz,Capitola,Source1,3,36.98285,-121.96039,2020,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7039783,CA,Santa Cruz,Capitola,Source1,3,36.98285,-121.96039,2020,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7039798,CA,Santa Cruz,Aptos,Source1,3,36.98387,-121.93382,2020,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7051162,CA,Santa Cruz,Watsonville,Source1,4,36.90389,-121.63917,2020,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7061834,CA,Santa Cruz,Scotts Valley,Source1,4,37.09518,-121.97673,2020,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7061835,CA,Santa Cruz,Scotts Valley,Source1,4,37.09524,-121.97667,2020,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-7061839,CA,Santa Cruz,Scotts Valley,Source1,4,37.09551,-121.97643,2020,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-7061840,CA,Santa Cruz,Scotts Valley,Source1,3,37.09551,-121.97643,2020,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-7061846,CA,Santa Cruz,Scotts Valley,Source1,3,37.09551,-121.97643,2020,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-7061850,CA,Santa Cruz,Scotts Valley,Source1,3,37.09551,-121.97643,2020,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-7061856,CA,Santa Cruz,Scotts Valley,Source1,3,37.09551,-121.97643,2020,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7061872,CA,Santa Cruz,Scotts Valley,Source1,3,37.09551,-121.97643,2020,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7062343,CA,Santa Cruz,Santa Cruz,Source1,4,36.9959,-122.01973999999998,2020,14,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7062362,CA,Santa Cruz,Santa Cruz,Source1,3,36.9959,-122.01973999999998,2020,15,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7073786,CA,Santa Cruz,Scotts Valley,Source1,4,37.0833,-121.97683,2020,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7073791,CA,Santa Cruz,Santa Cruz,Source1,4,37.08314,-121.97678,2020,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7073796,CA,Santa Cruz,Scotts Valley,Source1,3,37.0833,-121.97683,2020,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7087566,CA,Santa Cruz,Los Gatos,Source1,3,37.12924,-121.97732,2020,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7090035,CA,Santa Cruz,Scotts Valley,Source1,4,37.09992,-121.97652,2020,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7090036,CA,Santa Cruz,Scotts Valley,Source1,4,37.10433,-121.97521,2020,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7090300,CA,Santa Cruz,Santa Cruz,Source1,4,37.03248,-122.02247,2020,3,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7092887,CA,Santa Cruz,Los Gatos,Source1,4,37.16682,-122.02619,2020,17,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-7092896,CA,Santa Cruz,Los Gatos,Source1,4,37.16682,-122.02619,2020,17,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-7121232,CA,Santa Cruz,Los Gatos,Source1,3,37.17026,-121.9898,2020,18,Wednesday,Rain,True,True,False,False,False,False,False
+A-7121239,CA,Santa Cruz,Los Gatos,Source1,3,37.17026,-121.9898,2020,18,Wednesday,Rain,True,True,False,False,False,False,False
+A-7128308,CA,Santa Cruz,Los Gatos,Source1,3,37.17026,-121.9898,2020,9,Saturday,Rain,True,True,False,False,False,False,False
+A-7135224,CA,Santa Cruz,Los Gatos,Source1,3,37.17026,-121.9898,2020,15,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-7135232,CA,Santa Cruz,Los Gatos,Source1,3,37.17026,-121.9898,2020,15,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-7135572,CA,Santa Cruz,Santa Cruz,Source1,3,37.03254,-122.02271,2020,17,Tuesday,Rain,False,False,False,False,False,False,False
+A-7159126,CA,Santa Cruz,Los Gatos,Source1,4,37.12924,-121.97732,2020,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-7159134,CA,Santa Cruz,Los Gatos,Source1,3,37.12919,-121.97727,2020,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-7159141,CA,Santa Cruz,Los Gatos,Source1,4,37.12919,-121.97727,2020,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-7159163,CA,Santa Cruz,Los Gatos,Source1,4,37.12919,-121.97727,2020,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-7159167,CA,Santa Cruz,Los Gatos,Source1,4,37.12919,-121.97727,2020,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-7159177,CA,Santa Cruz,Los Gatos,Source1,4,37.12919,-121.97727,2020,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-7159181,CA,Santa Cruz,Los Gatos,Source1,4,37.12919,-121.97727,2020,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-7162135,CA,Santa Cruz,Los Gatos,Source1,4,37.12919,-121.97727,2020,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-7201473,CA,Santa Cruz,Los Gatos,Source1,4,37.11987,-121.97604,2020,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-7201478,CA,Santa Cruz,Los Gatos,Source1,4,37.11998,-121.97604,2020,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-7201480,CA,Santa Cruz,Los Gatos,Source1,4,37.11988,-121.97604,2020,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-7201768,CA,Santa Cruz,Felton,Source1,4,37.04665,-122.07342,2020,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7201778,CA,Santa Cruz,Felton,Source1,4,37.05249,-122.07322,2020,18,Monday,Clear / Fair,False,False,False,False,False,True,False
+A-7201790,CA,Santa Cruz,Felton,Source1,4,37.05249,-122.07322,2020,19,Monday,Clear / Fair,False,False,False,False,False,True,False
+A-7201798,CA,Santa Cruz,Felton,Source1,4,37.05249,-122.07322,2020,19,Monday,Clear / Fair,False,False,False,False,False,True,False
+A-7250768,CA,Santa Cruz,Aptos,Source1,3,36.97641,-121.9072,2020,3,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7250776,CA,Santa Cruz,Aptos,Source1,3,36.97641,-121.9072,2020,3,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7250777,CA,Santa Cruz,Aptos,Source1,4,36.97641,-121.9072,2020,4,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7256410,CA,Santa Cruz,Aptos,Source1,4,36.97641,-121.9072,2020,12,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7299976,CA,Santa Cruz,Watsonville,Source1,4,36.90383,-121.63998,2019,15,Wednesday,Rain,False,False,False,False,False,False,False
+A-7328155,CA,Santa Cruz,Santa Cruz,Source1,3,37.08305,-121.97675,2019,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7370002,CA,Santa Cruz,Los Gatos,Source1,4,37.25817,-122.12261,2019,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7370027,CA,Santa Cruz,Los Gatos,Source1,4,37.25817,-122.12261,2019,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7422424,CA,Santa Cruz,Los Gatos,Source1,3,37.12903,-121.977118,2019,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-7423088,CA,Santa Cruz,Santa Cruz,Source1,3,36.99249,-122.01976,2019,7,Tuesday,Rain,False,False,False,False,False,False,False
+A-7425706,CA,Santa Cruz,Los Gatos,Source1,3,37.122902,-121.972837,2019,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7433340,CA,Santa Cruz,Soquel,Source1,3,37.033774,-121.945277,2019,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7440251,CA,Santa Cruz,Los Gatos,Source1,3,37.122695,-121.972916,2019,15,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7440346,CA,Santa Cruz,Watsonville,Source1,3,36.991503,-121.716561,2019,15,Monday,Rain,False,False,False,False,False,False,False
+A-7440361,CA,Santa Cruz,Aptos,Source1,3,36.975136,-121.89368799999998,2019,17,Monday,Rain,False,False,False,False,False,False,False
+A-7451470,CA,Santa Cruz,Felton,Source1,4,37.05695,-122.075854,2019,17,Thursday,Clear / Fair,False,False,False,False,False,True,False
+A-7451471,CA,Santa Cruz,Felton,Source1,4,37.05249,-122.07322,2019,17,Thursday,Clear / Fair,False,False,False,False,False,True,False
+A-7459774,CA,Santa Cruz,Los Gatos,Source1,4,37.166049,-122.030383,2019,2,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7459775,CA,Santa Cruz,Los Gatos,Source1,4,37.16682,-122.02619,2019,2,Tuesday,Cloudy,False,False,False,True,False,False,False
+A-7462121,CA,Santa Cruz,Santa Cruz,Source1,3,36.9893,-122.01911,2019,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7463726,CA,Santa Cruz,Santa Cruz,Source1,3,37.00799,-122.04762,2019,15,Tuesday,Rain,False,True,False,False,False,False,True
+A-7471167,CA,Santa Cruz,Watsonville,Source1,4,36.90389,-121.63917,2019,0,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7475816,CA,Santa Cruz,Watsonville,Source1,4,36.915475,-121.735848,2018,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7475817,CA,Santa Cruz,Watsonville,Source1,4,36.916806,-121.731812,2018,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7480624,CA,Santa Cruz,Santa Cruz,Source1,3,36.986967,-121.986104,2018,17,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7480662,CA,Santa Cruz,Santa Cruz,Source1,3,36.986859,-121.985665,2018,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7480663,CA,Santa Cruz,Santa Cruz,Source1,3,36.984851,-121.977633,2018,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7481682,CA,Santa Cruz,Scotts Valley,Source1,3,37.037857,-122.018094,2018,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7482504,CA,Santa Cruz,Scotts Valley,Source1,3,37.098942,-121.975791,2018,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7482534,CA,Santa Cruz,Los Gatos,Source1,3,37.19279,-121.99414,2018,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7486181,CA,Santa Cruz,Ben Lomond,Source1,3,37.088684,-122.08849,2018,15,Monday,Clear / Fair,True,False,False,False,True,False,False
+A-7486183,CA,Santa Cruz,Ben Lomond,Source1,3,37.08976,-122.090072,2018,15,Monday,Clear / Fair,False,False,False,False,True,False,False
+A-7496528,CA,Santa Cruz,Santa Cruz,Source1,3,36.988262,-121.975646,2018,14,Monday,Clear / Fair,False,True,False,False,False,False,False
+A-7496529,CA,Santa Cruz,Santa Cruz,Source1,3,36.988048,-121.973713,2018,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7503044,CA,Santa Cruz,Aptos,Source1,3,36.98359,-121.929169,2018,12,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7505332,CA,Santa Cruz,Soquel,Source1,3,36.988857,-121.954834,2018,15,Monday,Clear / Fair,True,True,False,False,True,False,False
+A-7507450,CA,Santa Cruz,Los Gatos,Source1,4,37.230895,-122.095492,2018,8,Thursday,Cloudy,False,False,False,False,False,True,False
+A-7507451,CA,Santa Cruz,Los Gatos,Source1,4,37.21328,-122.06785,2018,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7508426,CA,Santa Cruz,Santa Cruz,Source1,4,36.98831,-121.99929,2018,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7510211,CA,Santa Cruz,Los Gatos,Source1,3,37.14250300000001,-121.98516200000002,2018,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7522074,CA,Santa Cruz,Santa Cruz,Source1,4,36.98463,-122.028941,2018,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7535626,CA,Santa Cruz,Scotts Valley,Source1,3,37.103229,-121.976856,2018,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7535665,CA,Santa Cruz,Santa Cruz,Source1,3,37.02021,-122.02746,2018,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7538418,CA,Santa Cruz,Santa Cruz,Source1,3,37.00244,-122.02072,2018,14,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7538422,CA,Santa Cruz,Santa Cruz,Source1,3,36.98521,-122.02685,2018,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7541055,CA,Santa Cruz,Aptos,Source1,3,36.98406,-121.93346,2018,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7563777,CA,Santa Cruz,Santa Cruz,Source1,3,37.08314,-121.97678,2018,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7564853,CA,Santa Cruz,Santa Cruz,Source1,3,36.99249,-122.01976,2018,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7564854,CA,Santa Cruz,Santa Cruz,Source1,3,36.991152,-122.021332,2018,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7565293,CA,Santa Cruz,Santa Cruz,Source1,3,37.000991,-122.180392,2018,14,Thursday,Clear / Fair,False,False,False,True,True,False,False
+A-7565294,CA,Santa Cruz,Santa Cruz,Source1,3,37.00102,-122.18042,2018,14,Thursday,Clear / Fair,False,False,False,True,True,False,False
+A-7565654,CA,Santa Cruz,Watsonville,Source1,4,36.93272,-121.80821,2018,12,Friday,Clear / Fair,False,False,False,True,False,False,False
+A-7565655,CA,Santa Cruz,Watsonville,Source1,4,36.93776,-121.80778,2018,12,Friday,Clear / Fair,False,False,False,True,False,False,False
+A-7573221,CA,Santa Cruz,Watsonville,Source1,4,36.91675,-121.73206,2018,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7573222,CA,Santa Cruz,Watsonville,Source1,4,36.915117,-121.736982,2018,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7575718,CA,Santa Cruz,Watsonville,Source1,3,36.89076,-121.77339,2018,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7585103,CA,Santa Cruz,Santa Cruz,Source1,3,36.98521,-122.02685,2018,6,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7597001,CA,Santa Cruz,Santa Cruz,Source1,3,36.991002,-122.02101299999998,2018,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7606176,CA,Santa Cruz,Santa Cruz,Source1,3,36.988021,-121.993884,2018,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7613719,CA,Santa Cruz,Scotts Valley,Source1,3,37.09947,-121.97618500000002,2018,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7627368,CA,Santa Cruz,Boulder Creek,Source1,3,37.2116,-122.15666,2018,18,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-7630407,CA,Santa Cruz,Los Gatos,Source1,3,37.127729,-121.975819,2018,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-7637675,CA,Santa Cruz,Santa Cruz,Source1,4,37.02207,-122.02682,2018,16,Wednesday,Rain,False,False,False,False,False,False,False
+A-7638299,CA,Santa Cruz,Aptos,Source1,4,36.978854,-121.827292,2018,22,Wednesday,Rain,False,False,False,False,False,False,False
+A-7641229,CA,Santa Cruz,Watsonville,Source1,4,36.900823,-121.597999,2017,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7641230,CA,Santa Cruz,Watsonville,Source1,4,36.904306,-121.643983,2017,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7664034,CA,Santa Cruz,Watsonville,Source1,4,36.950531,-121.794279,2017,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7665862,CA,Santa Cruz,Aptos,Source1,4,36.976458,-121.825358,2017,19,Saturday,Clear / Fair,False,False,False,False,True,False,False
+A-7665863,CA,Santa Cruz,Aptos,Source1,4,36.98765,-121.83612,2017,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7671441,CA,Santa Cruz,Santa Cruz,Source1,4,37.07674,-121.98424,2017,3,Friday,Sin dato,False,False,False,False,False,False,False
+A-7674153,CA,Santa Cruz,Watsonville,Source1,4,36.90428,-121.64392,2017,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-7674154,CA,Santa Cruz,Watsonville,Source1,4,36.914244,-121.676787,2017,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-7682877,CA,Santa Cruz,Watsonville,Source1,4,36.950321,-121.732949,2017,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7682878,CA,Santa Cruz,Watsonville,Source1,4,36.95277,-121.73069,2017,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7686225,CA,Santa Cruz,Santa Cruz,Source1,3,36.98747,-121.98877,2017,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7688356,CA,Santa Cruz,Los Gatos,Source1,4,37.21328,-122.06785,2017,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-7694836,CA,Santa Cruz,Watsonville,Source1,4,36.92464,-121.79691,2017,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7698607,CA,Santa Cruz,Aptos,Source1,3,36.97519000000001,-121.89283,2017,4,Monday,Cloudy,False,False,True,False,False,False,False
+A-7717137,CA,Santa Cruz,Los Gatos,Source1,3,37.121255,-121.975376,2019,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7719510,CA,Santa Cruz,Santa Cruz,Source1,4,36.99249,-122.01976,2019,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7721502,CA,Santa Cruz,Los Gatos,Source1,4,37.144202,-121.98472,2019,2,Saturday,Rain,False,False,False,False,False,False,False
+A-7727800,CA,Santa Cruz,Santa Cruz,Source1,3,36.98674000000001,-122.02313,2019,17,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7729153,CA,Santa Cruz,Santa Cruz,Source1,3,37.02021,-122.02746,2019,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7729717,CA,Santa Cruz,Los Gatos,Source1,4,37.112231,-121.975848,2019,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7738252,CA,Santa Cruz,Watsonville,Source1,3,36.93334,-121.81722,2019,1,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7739130,CA,Santa Cruz,Aptos,Source1,3,36.96814000000001,-121.87011,2019,17,Sunday,Cloudy,False,False,True,False,False,False,False
+A-7742070,CA,Santa Cruz,Watsonville,Source1,3,36.936481,-121.74328,2019,21,Sunday,Cloudy,False,False,False,False,False,True,False
+A-7742071,CA,Santa Cruz,Watsonville,Source1,3,36.95612,-121.72746,2019,21,Sunday,Cloudy,False,False,False,True,False,False,False
+A-7745783,CA,Santa Cruz,Watsonville,Source1,4,36.94621400000001,-121.862604,2019,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-7745784,CA,Santa Cruz,Watsonville,Source1,4,36.94059,-121.85914,2019,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-7746294,CA,Santa Cruz,Los Gatos,Source1,4,37.25845,-122.12217,2019,12,Sunday,Clear / Fair,False,False,False,True,False,False,False
+A-7766989,CA,Santa Cruz,Aptos,Source1,4,36.987072,-121.845109,2019,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7766990,CA,Santa Cruz,Aptos,Source1,4,36.986835,-121.846408,2019,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7767566,CA,Santa Cruz,Ben Lomond,Source1,3,37.08643,-122.08919,2019,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7771292,CA,Santa Cruz,Los Gatos,Source1,4,37.173061,-122.058631,2019,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7771293,CA,Santa Cruz,Los Gatos,Source1,4,37.173676,-122.057198,2019,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7772436,CA,Santa Cruz,Boulder Creek,Source1,4,37.111986,-122.114499,2019,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7772437,CA,Santa Cruz,Boulder Creek,Source1,4,37.112805,-122.115395,2019,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7776780,CA,Santa Cruz,Santa Cruz,Source1,3,36.98818,-122.00153,2019,18,Wednesday,Cloudy,False,False,False,False,False,False,False

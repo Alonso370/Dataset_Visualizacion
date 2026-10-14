@@ -1,0 +1,881 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-228591,VA,Frederick,Winchester,Source2,3,39.217541,-78.137474,2016,18,Wednesday,Rain,True,False,False,False,False,False,False
+A-228851,VA,Frederick,Middletown,Source2,3,39.009892,-78.297714,2016,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-229678,VA,Frederick,Middletown,Source2,3,39.009892,-78.297714,2016,19,Tuesday,Rain,False,False,False,False,False,False,False
+A-230430,VA,Frederick,Clear Brook,Source2,3,39.290592,-78.08500699999998,2016,8,Sunday,Cloudy,False,False,False,False,False,False,False
+A-230658,VA,Frederick,Middletown,Source2,3,39.009892,-78.297714,2016,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-230665,VA,Frederick,Middletown,Source2,3,39.009892,-78.297714,2016,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-231291,VA,Frederick,Middletown,Source2,3,39.027939,-78.270042,2016,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-232402,VA,Frederick,Clear Brook,Source2,3,39.256989,-78.100677,2016,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-232607,VA,Frederick,Winchester,Source2,3,39.120331,-78.191284,2016,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-232898,VA,Frederick,Middletown,Source2,3,39.027939,-78.270042,2016,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-232921,VA,Frederick,Middletown,Source2,3,39.027782,-78.269814,2016,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-233152,VA,Frederick,Winchester,Source2,3,39.119492,-78.191971,2016,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-233157,VA,Frederick,Winchester,Source2,3,39.120605,-78.191414,2016,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-233185,VA,Frederick,Stephens City,Source2,3,39.081619,-78.215614,2016,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-233901,VA,Frederick,Winchester,Source2,3,39.162163,-78.157753,2017,10,Tuesday,Rain,False,False,True,False,False,False,False
+A-234191,VA,Frederick,Stephens City,Source2,3,39.081619,-78.215614,2017,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-235026,VA,Frederick,Winchester,Source2,3,39.185562,-78.136948,2017,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-236044,VA,Frederick,Winchester,Source2,3,39.217392,-78.13744399999999,2017,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-236750,VA,Frederick,Winchester,Source2,3,39.185162,-78.136803,2017,17,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-237437,VA,Frederick,Clear Brook,Source2,3,39.25705,-78.101028,2017,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-238147,VA,Frederick,Winchester,Source2,3,39.120605,-78.191414,2016,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-238342,VA,Frederick,Clear Brook,Source2,3,39.290894,-78.08483100000002,2016,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-239400,VA,Frederick,Stephens City,Source2,3,39.081619,-78.215614,2016,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-239558,VA,Frederick,Clear Brook,Source2,3,39.257278,-78.100883,2016,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-239839,VA,Frederick,Middletown,Source2,3,39.009892,-78.297714,2016,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-239925,VA,Frederick,Winchester,Source2,3,39.162163,-78.157753,2016,17,Thursday,Cloudy,False,False,True,False,False,False,False
+A-239926,VA,Frederick,Winchester,Source2,3,39.162163,-78.157753,2016,17,Thursday,Cloudy,False,False,True,False,False,False,False
+A-239927,VA,Frederick,Winchester,Source2,3,39.184853,-78.13700899999998,2016,17,Thursday,Cloudy,False,False,True,False,False,False,False
+A-240537,VA,Frederick,Middletown,Source2,3,39.02590900000001,-78.272102,2016,22,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-240540,VA,Frederick,Middletown,Source2,3,39.027714,-78.270317,2016,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-241057,VA,Frederick,Winchester,Source2,3,39.120605,-78.191414,2016,15,Wednesday,Rain,False,False,False,False,False,False,False
+A-241587,VA,Frederick,Stephens City,Source2,3,39.081619,-78.215614,2016,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-241674,VA,Frederick,Winchester,Source2,3,39.162163,-78.157753,2016,8,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-241879,VA,Frederick,Stephens City,Source2,3,39.081619,-78.215614,2016,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-242416,VA,Frederick,Winchester,Source2,3,39.120605,-78.191414,2016,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-242970,VA,Frederick,Middletown,Source2,3,39.027939,-78.270042,2016,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-243167,VA,Frederick,Winchester,Source2,3,39.162163,-78.157753,2016,15,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-243487,VA,Frederick,Winchester,Source2,3,39.120605,-78.191414,2016,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-243800,VA,Frederick,Winchester,Source2,3,39.120605,-78.191414,2016,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-244146,VA,Frederick,Middletown,Source2,3,39.027866,-78.270134,2016,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-244147,VA,Frederick,Stephens City,Source2,3,39.08130300000001,-78.21597299999998,2016,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-244152,VA,Frederick,Stephens City,Source2,3,39.081631,-78.21560699999998,2016,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-244599,VA,Frederick,Winchester,Source2,3,39.120773,-78.19091800000002,2016,10,Tuesday,Rain,False,False,False,False,False,False,False
+A-245852,VA,Frederick,Middletown,Source2,3,39.027939,-78.270042,2016,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-246290,VA,Frederick,Winchester,Source2,3,39.162163,-78.157753,2016,20,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-246292,VA,Frederick,Winchester,Source2,3,39.162163,-78.157753,2016,20,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-246768,VA,Frederick,Clear Brook,Source2,3,39.290894,-78.08483100000002,2016,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-246887,VA,Frederick,Middletown,Source2,3,39.010361,-78.300278,2016,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-247211,VA,Frederick,Middletown,Source2,3,39.028172,-78.26978299999998,2016,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-247214,VA,Frederick,Middletown,Source2,3,39.009892,-78.297714,2016,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-247690,VA,Frederick,Middletown,Source2,3,39.027939,-78.270042,2016,6,Thursday,Rain,False,False,False,False,False,False,False
+A-248187,VA,Frederick,Winchester,Source2,3,39.162163,-78.157753,2016,14,Saturday,Cloudy,False,False,True,False,False,False,False
+A-248788,VA,Frederick,Winchester,Source2,3,39.217327,-78.138062,2016,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-249154,VA,Frederick,Winchester,Source2,3,39.217327,-78.138062,2016,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-249177,VA,Frederick,Winchester,Source2,3,39.120605,-78.191414,2016,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-249212,VA,Frederick,Middletown,Source2,3,39.009892,-78.297714,2016,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-249321,VA,Frederick,Middletown,Source2,3,39.009892,-78.297714,2016,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-249741,VA,Frederick,Middletown,Source2,3,39.027939,-78.270042,2016,18,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-250115,VA,Frederick,Winchester,Source2,3,39.217251,-78.138046,2016,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-250194,VA,Frederick,Middletown,Source2,3,39.027939,-78.270042,2016,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-250204,VA,Frederick,Middletown,Source2,3,39.009892,-78.297714,2016,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-250621,VA,Frederick,Clear Brook,Source2,3,39.290894,-78.08483100000002,2016,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-250767,VA,Frederick,Clear Brook,Source2,3,39.25705,-78.101028,2016,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-250907,VA,Frederick,Middletown,Source2,3,39.027588,-78.270035,2016,22,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-251956,VA,Frederick,Winchester,Source2,3,39.185352,-78.13668100000002,2016,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-252303,VA,Frederick,Winchester,Source2,3,39.162163,-78.157753,2016,10,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-252434,VA,Frederick,Clear Brook,Source2,3,39.256985,-78.100685,2016,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-252774,VA,Frederick,Winchester,Source2,3,39.162163,-78.157753,2016,11,Sunday,Cloudy,False,False,True,False,False,False,False
+A-253067,VA,Frederick,Winchester,Source2,3,39.120605,-78.191414,2016,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-253636,VA,Frederick,Winchester,Source2,3,39.217327,-78.138062,2016,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-253778,VA,Frederick,Middletown,Source2,3,39.009892,-78.297714,2016,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-255997,VA,Frederick,Clear Brook,Source2,3,39.290894,-78.08483100000002,2016,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-259085,VA,Frederick,Winchester,Source2,3,39.162163,-78.157753,2016,15,Thursday,Cloudy,False,False,True,False,False,False,False
+A-259945,VA,Frederick,Stephens City,Source2,3,39.081722,-78.215508,2016,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-329412,VA,Frederick,Middletown,Source2,3,39.027939,-78.270042,2017,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-331139,VA,Frederick,Stephens City,Source2,3,39.081619,-78.215614,2017,15,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-377594,VA,Frederick,Middletown,Source2,3,39.027939,-78.270042,2017,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-379445,VA,Frederick,Middletown,Source2,3,39.030354,-78.26679200000002,2017,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-379446,VA,Frederick,Winchester,Source2,3,39.120605,-78.191414,2017,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-382480,VA,Frederick,Clear Brook,Source2,3,39.25705,-78.101028,2017,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-383064,VA,Frederick,Middletown,Source2,3,39.027939,-78.270042,2017,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-383392,VA,Frederick,Middletown,Source2,3,39.027885,-78.270111,2017,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-384146,VA,Frederick,Winchester,Source2,3,39.120422,-78.19156600000002,2017,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-425466,VA,Frederick,Middletown,Source2,3,39.027939,-78.270042,2017,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-426106,VA,Frederick,Stephens City,Source2,3,39.081619,-78.215614,2017,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-427064,VA,Frederick,Stephens City,Source2,3,39.081619,-78.215614,2017,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-427355,VA,Frederick,Middletown,Source2,3,39.009892,-78.297714,2017,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-427400,VA,Frederick,Middletown,Source2,3,39.009892,-78.297714,2017,8,Sunday,Cloudy,False,False,False,False,False,False,False
+A-427528,VA,Frederick,Middletown,Source2,3,39.027657,-78.269958,2017,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-427534,VA,Frederick,Winchester,Source2,3,39.217327,-78.138062,2017,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-427678,VA,Frederick,Clear Brook,Source2,3,39.25705,-78.101028,2017,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-427979,VA,Frederick,Winchester,Source2,3,39.184853,-78.13700899999998,2017,20,Thursday,Rain,False,False,True,False,False,False,False
+A-428013,VA,Frederick,Clear Brook,Source2,3,39.25705,-78.101028,2017,6,Friday,Rain,False,False,False,False,False,False,False
+A-428138,VA,Frederick,Middletown,Source2,3,39.010258,-78.297318,2017,15,Friday,Rain,False,False,False,False,False,False,False
+A-428161,VA,Frederick,Stephens City,Source2,3,39.081619,-78.215614,2017,8,Saturday,Rain,False,False,False,False,False,False,False
+A-428198,VA,Frederick,Middletown,Source2,3,39.009892,-78.297714,2017,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-449110,VA,Frederick,Winchester,Source2,4,39.185577,-78.13694,2017,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-449178,VA,Frederick,Winchester,Source2,3,39.184853,-78.13700899999998,2017,17,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-449297,VA,Frederick,Winchester,Source2,3,39.184853,-78.13700899999998,2017,16,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-450221,VA,Frederick,Clear Brook,Source2,3,39.25705,-78.101028,2017,22,Wednesday,Rain,False,False,False,False,False,False,False
+A-479867,VA,Frederick,Winchester,Source2,3,39.120605,-78.191414,2017,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-480470,VA,Frederick,Middletown,Source2,3,39.009892,-78.297714,2017,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-480471,VA,Frederick,Middletown,Source2,3,39.009892,-78.297714,2017,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-480871,VA,Frederick,Stephens City,Source2,3,39.081421,-78.215843,2017,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-480905,VA,Frederick,Clear Brook,Source2,3,39.290894,-78.08483100000002,2017,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-481646,VA,Frederick,Middletown,Source2,3,39.01107,-78.298019,2017,15,Friday,Rain,False,False,False,False,False,False,False
+A-482143,VA,Frederick,Middletown,Source2,3,39.027939,-78.270042,2017,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-482426,VA,Frederick,Winchester,Source2,3,39.217327,-78.138062,2017,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-483018,VA,Frederick,Winchester,Source2,3,39.120335,-78.191284,2017,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-483086,VA,Frederick,Winchester,Source2,3,39.120605,-78.191414,2017,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-483171,VA,Frederick,Winchester,Source2,3,39.162163,-78.157753,2017,16,Thursday,Cloudy,False,False,True,False,False,False,False
+A-483413,VA,Frederick,Middletown,Source2,3,39.027939,-78.270042,2017,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-483468,VA,Frederick,Middletown,Source2,3,39.009892,-78.297714,2017,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-505989,VA,Frederick,Winchester,Source2,3,39.217327,-78.138062,2017,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-506586,VA,Frederick,Winchester,Source2,3,39.185509,-78.136589,2017,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-506680,VA,Frederick,Middletown,Source2,3,39.009892,-78.297714,2017,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-506698,VA,Frederick,Clear Brook,Source2,3,39.25705,-78.101028,2017,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-506918,VA,Frederick,Middletown,Source2,3,39.027939,-78.270042,2017,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-506955,VA,Frederick,Stephens City,Source2,3,39.081459,-78.215378,2017,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-507017,VA,Frederick,Middletown,Source2,3,39.010044,-78.297539,2017,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-507041,VA,Frederick,Clear Brook,Source2,3,39.25705,-78.101028,2017,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-519188,VA,Frederick,Winchester,Source2,3,39.206097,-78.136009,2022,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-529987,VA,Frederick,Winchester,Source2,3,39.19107800000001,-78.13414,2022,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-538050,VA,Frederick,Cross Junction,Source2,3,39.314629,-78.290756,2022,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-538918,VA,Frederick,Winchester,Source2,3,39.16285300000001,-78.156876,2022,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-540794,VA,Frederick,Winchester,Source2,3,39.217617,-78.137962,2022,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-541215,VA,Frederick,Clear Brook,Source2,3,39.289532,-78.084747,2022,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-544082,VA,Frederick,Winchester,Source2,3,39.191029,-78.202866,2022,9,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-566056,VA,Frederick,Winchester,Source2,3,39.206097,-78.136009,2022,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-566344,VA,Frederick,Stephens City,Source2,4,39.081623,-78.21556899999999,2022,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-570921,VA,Frederick,Middletown,Source2,3,39.026012,-78.27201099999998,2022,14,Saturday,Rain,False,False,True,False,False,False,False
+A-574771,VA,Frederick,Winchester,Source2,3,39.220505,-78.13793199999998,2022,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-578717,VA,Frederick,Clear Brook,Source2,3,39.285702,-78.087593,2022,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-584560,VA,Frederick,Stephens City,Source2,3,39.081642,-78.21560699999998,2022,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-584561,VA,Frederick,Winchester,Source2,3,39.16285300000001,-78.156876,2022,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-584865,VA,Frederick,Stephens City,Source2,4,39.081623,-78.21556899999999,2022,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-588350,VA,Frederick,Stephens City,Source3,3,39.082474,-78.214714,2022,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-589549,VA,Frederick,Winchester,Source2,3,39.217617,-78.137962,2022,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-592437,VA,Frederick,Clear Brook,Source2,3,39.290939,-78.084541,2022,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-602479,VA,Frederick,Winchester,Source2,3,39.119995,-78.19081899999998,2022,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-606978,VA,Frederick,Winchester,Source2,3,39.186134,-78.1371,2022,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-622088,VA,Frederick,Middletown,Source2,3,39.028011,-78.269821,2022,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-622143,VA,Frederick,Stephens City,Source2,3,39.081623,-78.21556899999999,2022,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-627742,VA,Frederick,Winchester,Source2,3,39.16285300000001,-78.156876,2022,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-641096,VA,Frederick,Winchester,Source2,3,39.217617,-78.137962,2022,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-646641,VA,Frederick,Clear Brook,Source2,3,39.257374,-78.100471,2022,15,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-679642,VA,Frederick,Winchester,Source2,3,39.204651,-78.135109,2022,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-690563,VA,Frederick,Middletown,Source2,3,39.010368,-78.29647800000002,2022,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-730324,VA,Frederick,Winchester,Source2,3,39.19157,-78.134033,2022,20,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-730659,VA,Frederick,Middletown,Source2,3,39.028011,-78.269821,2022,17,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-745919,VA,Frederick,Clear Brook,Source2,3,39.256931,-78.100723,2022,16,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-745985,VA,Frederick,Winchester,Source2,3,39.217617,-78.137962,2022,17,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-753878,VA,Frederick,Winchester,Source2,3,39.206291,-78.13604699999998,2022,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-756664,VA,Frederick,Winchester,Source2,3,39.18137,-78.140556,2022,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-759888,VA,Frederick,Winchester,Source2,3,39.18568,-78.13448299999997,2021,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-761913,VA,Frederick,Winchester,Source2,3,39.119766,-78.19171899999998,2021,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-763605,VA,Frederick,Middletown,Source2,3,39.019005,-78.284386,2021,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-773253,VA,Frederick,Stephens City,Source2,3,39.081623,-78.21556899999999,2021,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-781549,VA,Frederick,Stephens City,Source2,3,39.080112,-78.217003,2021,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-798962,VA,Frederick,Middletown,Source2,3,39.028011,-78.269821,2021,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-807022,VA,Frederick,Winchester,Source2,3,39.225842,-78.137253,2021,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-815937,VA,Frederick,Winchester,Source2,3,39.219761,-78.137497,2021,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-820597,VA,Frederick,Stephens City,Source2,3,39.081623,-78.21556899999999,2021,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-830465,VA,Frederick,Winchester,Source2,3,39.162861,-78.15686,2021,8,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-830909,VA,Frederick,Middletown,Source2,3,39.021282,-78.280891,2021,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-830962,VA,Frederick,Winchester,Source2,3,39.217567,-78.13744399999999,2021,7,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-831868,VA,Frederick,Winchester,Source2,3,39.208721,-78.135849,2021,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-833577,VA,Frederick,Winchester,Source2,3,39.119995,-78.19081899999998,2021,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-844911,VA,Frederick,Winchester,Source2,3,39.118866,-78.19246700000002,2021,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-849016,VA,Frederick,Winchester,Source2,3,39.121147,-78.190575,2021,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-877046,VA,Frederick,Winchester,Source2,3,39.162861,-78.15686,2021,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-890202,VA,Frederick,Winchester,Source2,3,39.228386,-78.136024,2021,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-909821,VA,Frederick,Stephens City,Source2,3,39.057526,-78.23846400000002,2021,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-914084,VA,Frederick,Middletown,Source2,3,39.028637,-78.269226,2021,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-919308,VA,Frederick,Middletown,Source2,3,39.028011,-78.269821,2021,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-929695,VA,Frederick,Middletown,Source2,4,39.028011,-78.269821,2021,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-936185,VA,Frederick,Middletown,Source2,3,39.028011,-78.269821,2021,19,Saturday,Cloudy,False,False,False,False,False,False,False
+A-940567,VA,Frederick,Winchester,Source2,4,39.120247,-78.191322,2021,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-953861,VA,Frederick,Middletown,Source2,3,39.01128,-78.299316,2021,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-954088,VA,Frederick,Winchester,Source2,3,39.214443,-78.144814,2021,13,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-955550,VA,Frederick,Stephens City,Source2,3,39.08033,-78.21672099999998,2021,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-961801,VA,Frederick,Stephens City,Source2,3,39.081623,-78.21556899999999,2021,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-972928,VA,Frederick,Winchester,Source2,3,39.206291,-78.13604699999998,2021,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-972931,VA,Frederick,Winchester,Source2,3,39.12037700000001,-78.191597,2021,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-974556,VA,Frederick,Middletown,Source2,3,39.030014,-78.267212,2021,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-974558,VA,Frederick,Stephens City,Source2,3,39.07872,-78.218887,2021,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-982473,VA,Frederick,Winchester,Source2,3,39.225452,-78.13739,2021,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-984060,VA,Frederick,Winchester,Source2,3,39.222538,-78.137939,2021,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-989641,VA,Frederick,Middletown,Source2,3,39.019077,-78.285179,2021,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-989645,VA,Frederick,Middletown,Source3,3,39.028011,-78.269821,2021,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-995580,VA,Frederick,Winchester,Source2,3,39.1553,-78.21124300000002,2021,16,Monday,Storm,False,False,False,False,False,False,False
+A-998215,VA,Frederick,Middletown,Source2,3,39.031822,-78.265114,2021,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1003391,VA,Frederick,Stephens City,Source3,4,39.081623,-78.21556899999999,2021,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1017028,VA,Frederick,Middletown,Source2,3,39.028011,-78.269821,2021,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-1022149,VA,Frederick,Middletown,Source2,3,39.027317,-78.270767,2021,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1022151,VA,Frederick,Stephens City,Source2,3,39.081623,-78.21556899999999,2021,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1023662,VA,Frederick,Winchester,Source2,3,39.206097,-78.136009,2021,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1025817,VA,Frederick,Winchester,Source2,3,39.119995,-78.19081899999998,2021,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-1025828,VA,Frederick,Clear Brook,Source2,3,39.286907,-78.087021,2021,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-1027748,VA,Frederick,Winchester,Source2,3,39.119003,-78.192719,2021,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1032611,VA,Frederick,Winchester,Source2,3,39.212612,-78.13718399999998,2021,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-1034481,VA,Frederick,Middletown,Source2,4,39.028011,-78.269821,2021,6,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1034485,VA,Frederick,Stephens City,Source2,3,39.081623,-78.21556899999999,2021,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1036995,VA,Frederick,Winchester,Source2,3,39.186134,-78.1371,2021,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1053868,VA,Frederick,Stephens City,Source2,4,39.081623,-78.21556899999999,2021,14,Friday,Rain,False,False,False,False,False,False,False
+A-1065177,VA,Frederick,Winchester,Source2,3,39.186134,-78.1371,2021,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1078378,VA,Frederick,Middletown,Source2,4,39.010368,-78.29647800000002,2021,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1082571,VA,Frederick,Middletown,Source2,4,39.010368,-78.29647800000002,2021,16,Wednesday,Rain,False,False,False,False,False,False,False
+A-1101693,VA,Frederick,Winchester,Source2,3,39.162113,-78.157837,2021,18,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-1105821,VA,Frederick,Winchester,Source2,3,39.217617,-78.137962,2021,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1105822,VA,Frederick,Stephens City,Source2,3,39.08012,-78.216995,2021,17,Thursday,Rain,False,False,False,False,False,False,False
+A-1108981,VA,Frederick,Winchester,Source2,3,39.238651,-78.120537,2021,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1111764,VA,Frederick,Clear Brook,Source2,3,39.257217,-78.100975,2021,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1111769,VA,Frederick,Clear Brook,Source2,3,39.257217,-78.100975,2021,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1114394,VA,Frederick,Stephens City,Source2,3,39.117821,-78.193329,2021,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1118717,VA,Frederick,Middletown,Source2,3,39.010368,-78.29647800000002,2021,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1128482,VA,Frederick,Winchester,Source2,3,39.16214,-78.154877,2021,18,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-1132168,VA,Frederick,Stephens City,Source2,4,39.081623,-78.21556899999999,2021,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1134885,VA,Frederick,Stephens City,Source2,3,39.106892,-78.20193499999998,2021,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-1137306,VA,Frederick,Stephens City,Source2,3,39.073063,-78.225334,2021,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1140369,VA,Frederick,Winchester,Source2,3,39.186485,-78.136421,2021,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1140371,VA,Frederick,Middletown,Source2,3,39.010506,-78.29467,2021,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1143170,VA,Frederick,Winchester,Source2,3,39.236225,-78.125603,2021,8,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1144865,VA,Frederick,Clear Brook,Source2,4,39.290939,-78.084541,2021,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1147366,VA,Frederick,Winchester,Source2,3,39.122669,-78.189346,2021,19,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1172874,VA,Frederick,Clear Brook,Source2,3,39.290939,-78.084541,2021,13,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1182431,VA,Frederick,Winchester,Source2,3,39.163651,-78.154808,2021,8,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1189621,VA,Frederick,Middletown,Source2,3,39.010174,-78.29464,2021,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-1216882,VA,Frederick,Winchester,Source2,3,39.217617,-78.137962,2020,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1216897,VA,Frederick,Winchester,Source2,3,39.217617,-78.137962,2020,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1220001,VA,Frederick,Winchester,Source2,3,39.217617,-78.137962,2020,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1221875,VA,Frederick,Middletown,Source2,3,39.010368,-78.29647800000002,2020,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1222648,VA,Frederick,Stephens City,Source2,3,39.081623,-78.21556899999999,2020,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-1228079,VA,Frederick,Winchester,Source2,4,39.217674,-78.137466,2020,18,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-1237577,VA,Frederick,Winchester,Source2,3,39.162861,-78.15686,2020,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1240612,VA,Frederick,Middletown,Source2,3,39.011055,-78.296585,2020,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1244549,VA,Frederick,Middletown,Source2,3,39.029064,-78.268761,2020,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1247649,VA,Frederick,Winchester,Source2,4,39.186134,-78.1371,2020,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1252477,VA,Frederick,Stephens City,Source2,3,39.092182,-78.207436,2020,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1252479,VA,Frederick,Winchester,Source2,3,39.162861,-78.15686,2020,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1256363,VA,Frederick,Middletown,Source2,3,39.010368,-78.29647800000002,2020,20,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1266888,VA,Frederick,Winchester,Source2,3,39.181023,-78.082245,2020,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1283069,VA,Frederick,Winchester,Source2,3,39.216789,-78.13691700000003,2020,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1287729,VA,Frederick,Winchester,Source2,3,39.217617,-78.137962,2020,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1298952,VA,Frederick,Winchester,Source2,3,39.220169,-78.131302,2020,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1306073,VA,Frederick,Winchester,Source2,3,39.119995,-78.19081899999998,2020,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1306712,VA,Frederick,Winchester,Source2,3,39.186134,-78.1371,2020,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1316288,VA,Frederick,Winchester,Source2,3,39.119995,-78.19081899999998,2020,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1321362,VA,Frederick,Winchester,Source2,3,39.216789,-78.13691700000003,2020,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1324730,VA,Frederick,Clear Brook,Source2,3,39.290939,-78.084541,2020,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1348126,VA,Frederick,Stephens City,Source2,3,39.081623,-78.21556899999999,2020,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1348127,VA,Frederick,Stephens City,Source2,4,39.081623,-78.21556899999999,2020,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1350151,VA,Frederick,Winchester,Source2,4,39.217674,-78.137466,2020,17,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-1353987,VA,Frederick,Winchester,Source2,3,39.217361,-78.137421,2020,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1359087,VA,Frederick,Middletown,Source2,3,39.010387,-78.297256,2020,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1363023,VA,Frederick,Stephens City,Source2,3,39.078857,-78.21869699999998,2020,7,Thursday,Rain,False,False,False,False,False,False,False
+A-1365172,VA,Frederick,Middletown,Source2,3,39.02917100000001,-78.26911199999998,2020,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-1372073,VA,Frederick,Winchester,Source2,4,39.161983,-78.15799,2020,19,Thursday,Cloudy,False,False,True,False,False,False,False
+A-1372074,VA,Frederick,Winchester,Source2,3,39.186508,-78.138,2020,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1372075,VA,Frederick,Winchester,Source2,3,39.214005,-78.13748199999998,2020,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1372081,VA,Frederick,Winchester,Source2,3,39.119003,-78.192719,2020,22,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1372082,VA,Frederick,Winchester,Source2,3,39.119003,-78.192719,2020,22,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1373743,VA,Frederick,Stephens City,Source2,3,39.080872,-78.216484,2020,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1377960,VA,Frederick,Winchester,Source2,3,39.21143,-78.263077,2020,18,Monday,Storm,False,False,False,False,False,False,False
+A-1389571,VA,Frederick,Winchester,Source2,3,39.185574,-78.136971,2020,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1392101,VA,Frederick,Winchester,Source2,3,39.16774,-78.15349599999998,2020,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-1397905,VA,Frederick,Stephens City,Source2,3,39.081577,-78.213882,2020,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-1406489,VA,Frederick,Stephens City,Source2,3,39.081623,-78.21556899999999,2020,10,Friday,Rain,False,False,False,False,False,False,False
+A-1408552,VA,Frederick,Clear Brook,Source2,4,39.290939,-78.084541,2020,8,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1417388,VA,Frederick,Winchester,Source2,3,39.18565,-78.136482,2020,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1420132,VA,Frederick,Stephens City,Source2,3,39.081623,-78.21556899999999,2020,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1424832,VA,Frederick,Winchester,Source2,3,39.162861,-78.15686,2020,20,Saturday,Rain,False,False,False,False,False,False,False
+A-1426233,VA,Frederick,Winchester,Source2,3,39.206097,-78.136009,2020,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-1434303,VA,Frederick,Winchester,Source2,3,39.162861,-78.15686,2020,16,Sunday,Rain,False,False,False,False,False,False,False
+A-1434304,VA,Frederick,Winchester,Source2,3,39.162861,-78.15686,2020,16,Sunday,Rain,False,False,False,False,False,False,False
+A-1442748,VA,Frederick,Middletown,Source2,3,39.022141,-78.278671,2020,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1446078,VA,Frederick,Winchester,Source2,3,39.186134,-78.1371,2020,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1449008,VA,Frederick,Winchester,Source2,3,39.217617,-78.137962,2020,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1449010,VA,Frederick,Clear Brook,Source2,4,39.257217,-78.100975,2020,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1451970,VA,Frederick,Winchester,Source2,4,39.217602,-78.1381,2020,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1459043,VA,Frederick,Winchester,Source2,3,39.213493,-78.137367,2020,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-1461580,VA,Frederick,Winchester,Source2,4,39.18681,-78.13623,2020,9,Wednesday,Rain,False,False,False,False,False,False,False
+A-1470360,VA,Frederick,Winchester,Source2,3,39.206097,-78.136009,2020,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1471636,VA,Frederick,Winchester,Source2,3,39.119995,-78.19081899999998,2020,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1475350,VA,Frederick,Middletown,Source2,3,39.009811,-78.297134,2020,6,Wednesday,Rain,False,False,False,False,False,False,False
+A-1476805,VA,Frederick,Clear Brook,Source2,4,39.257217,-78.100975,2020,22,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1487158,VA,Frederick,Stephens City,Source2,4,39.081646,-78.215599,2020,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1487172,VA,Frederick,Winchester,Source2,3,39.216686,-78.139061,2020,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1492228,VA,Frederick,Winchester,Source2,3,39.217617,-78.137962,2020,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1496525,VA,Frederick,Middletown,Source2,3,39.00988,-78.29776,2020,17,Friday,Rain,False,False,False,False,False,False,False
+A-1497814,VA,Frederick,Stephens City,Source2,3,39.081623,-78.21556899999999,2020,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1500615,VA,Frederick,Stephens City,Source2,3,39.085182,-78.211777,2020,22,Wednesday,Storm,False,False,False,False,False,False,False
+A-1503369,VA,Frederick,Winchester,Source2,3,39.198841,-78.134041,2020,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-1504741,VA,Frederick,Middletown,Source2,3,39.010368,-78.29647800000002,2020,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1523128,VA,Frederick,Middletown,Source2,3,39.028011,-78.269821,2020,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1547986,VA,Frederick,Middletown,Source2,3,39.011131,-78.29805,2020,14,Tuesday,Rain,False,False,False,False,False,False,False
+A-1556753,VA,Frederick,Winchester,Source2,3,39.212605,-78.146736,2020,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1565573,VA,Frederick,Winchester,Source2,3,39.186134,-78.1371,2020,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1569700,VA,Frederick,Winchester,Source2,3,39.219761,-78.137497,2020,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1578474,VA,Frederick,Middletown,Source2,3,39.028576,-78.268845,2020,14,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1599950,VA,Frederick,Middletown,Source2,3,39.028011,-78.269821,2020,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1612555,VA,Frederick,Middletown,Source2,3,39.010368,-78.29647800000002,2020,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1632224,VA,Frederick,Stephens City,Source2,3,39.092182,-78.207436,2020,18,Thursday,Rain,False,False,False,False,False,False,False
+A-1632226,VA,Frederick,Stephens City,Source2,3,39.081623,-78.21556899999999,2020,18,Thursday,Rain,False,False,False,False,False,False,False
+A-1652054,VA,Frederick,Winchester,Source2,3,39.130726,-78.182091,2020,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-1663398,VA,Frederick,Winchester,Source2,3,39.186134,-78.1371,2020,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1680152,VA,Frederick,Winchester,Source2,3,39.162861,-78.15686,2019,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1682477,VA,Frederick,Winchester,Source2,3,39.186134,-78.1371,2019,12,Sunday,Rain,False,False,False,False,False,False,False
+A-1690635,VA,Frederick,Stephens City,Source2,3,39.081623,-78.21556899999999,2019,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1690636,VA,Frederick,Stephens City,Source2,3,39.083591,-78.213753,2019,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1702797,VA,Frederick,Winchester,Source2,4,39.119995,-78.19081899999998,2019,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-1702798,VA,Frederick,Clear Brook,Source2,3,39.257217,-78.100975,2019,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-1731612,VA,Frederick,Winchester,Source2,3,39.186218,-78.134438,2019,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1765484,VA,Frederick,Middletown,Source2,3,39.028011,-78.269821,2019,9,Sunday,Rain,False,False,False,False,False,False,False
+A-1766521,VA,Frederick,Stephens City,Source2,3,39.083591,-78.213753,2019,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1772022,VA,Frederick,Middletown,Source2,3,39.010368,-78.29647800000002,2019,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1777228,VA,Frederick,Winchester,Source2,3,39.174442,-78.149002,2019,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1798283,VA,Frederick,Winchester,Source2,3,39.119995,-78.19081899999998,2019,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1803847,VA,Frederick,Middletown,Source2,4,39.010368,-78.29647800000002,2019,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1819500,VA,Frederick,Stephens City,Source2,3,39.08131,-78.215965,2019,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1858330,VA,Frederick,Middletown,Source2,3,39.027737,-78.270287,2019,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1858332,VA,Frederick,Winchester,Source2,3,39.120419,-78.19139100000002,2019,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1858333,VA,Frederick,Stephens City,Source2,3,39.081547,-78.21570600000003,2019,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1865703,VA,Frederick,Winchester,Source2,4,39.185997,-78.136711,2019,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1871766,VA,Frederick,Middletown,Source2,3,39.010368,-78.29647800000002,2019,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1873572,VA,Frederick,Winchester,Source2,3,39.216831,-78.137955,2019,15,Monday,Rain,False,False,False,False,False,False,False
+A-1885756,VA,Frederick,Middletown,Source2,3,39.010368,-78.29647800000002,2019,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1893940,VA,Frederick,Middletown,Source2,3,39.027737,-78.270287,2019,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1898456,VA,Frederick,Middletown,Source2,3,39.010368,-78.29647800000002,2019,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1902711,VA,Frederick,Stephens City,Source2,3,39.081268,-78.216011,2019,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1927047,VA,Frederick,Winchester,Source2,3,39.120419,-78.19139100000002,2019,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1931599,VA,Frederick,Clear Brook,Source2,3,39.265804,-78.09635899999998,2019,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1959450,VA,Frederick,Winchester,Source2,3,39.120419,-78.19139100000002,2019,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1959451,VA,Frederick,Winchester,Source2,3,39.120419,-78.19139100000002,2019,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1959467,VA,Frederick,Clear Brook,Source2,3,39.279369,-78.089943,2019,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1959468,VA,Frederick,Clear Brook,Source2,4,39.290745,-78.084503,2019,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1963669,VA,Frederick,Winchester,Source2,3,39.120419,-78.19139100000002,2019,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1971780,VA,Frederick,Winchester,Source2,3,39.206085,-78.13537600000002,2019,16,Wednesday,Storm,False,False,False,False,False,False,False
+A-1976280,VA,Frederick,Winchester,Source2,3,39.217381,-78.138023,2019,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-1988839,VA,Frederick,Winchester,Source2,3,39.182217,-78.13967099999998,2019,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1994394,VA,Frederick,Winchester,Source2,3,39.186134,-78.1371,2019,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1996440,VA,Frederick,Winchester,Source2,3,39.216312,-78.13787099999998,2019,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2008916,VA,Frederick,Winchester,Source2,3,39.171257,-78.151749,2019,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2011476,VA,Frederick,Winchester,Source2,3,39.217381,-78.138023,2019,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2038361,VA,Frederick,Winchester,Source2,3,39.158695,-78.162086,2019,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2046717,VA,Frederick,Winchester,Source2,3,39.144779,-78.16069,2019,13,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-2049145,VA,Frederick,Stephens City,Source2,3,39.080891,-78.216454,2019,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2054043,VA,Frederick,Middletown,Source2,3,39.010368,-78.29647800000002,2019,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2067347,VA,Frederick,Winchester,Source2,3,39.122051,-78.19761700000002,2019,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2075022,VA,Frederick,Winchester,Source2,4,39.217381,-78.138023,2019,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2082723,VA,Frederick,Middletown,Source2,3,39.010368,-78.29647800000002,2019,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2083485,VA,Frederick,Middletown,Source2,3,39.010368,-78.29647800000002,2019,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2109648,VA,Frederick,Middletown,Source2,3,39.027737,-78.270287,2019,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2109658,VA,Frederick,Winchester,Source2,3,39.186134,-78.1371,2019,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2116644,VA,Frederick,Stephens City,Source2,3,39.081341,-78.21611800000002,2019,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2133078,VA,Frederick,Winchester,Source3,3,39.217381,-78.138023,2019,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2144960,VA,Frederick,Winchester,Source2,3,39.216789,-78.13691700000003,2019,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2174369,VA,Frederick,Winchester,Source2,3,39.162102,-78.157402,2019,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2174370,VA,Frederick,Winchester,Source2,3,39.163651,-78.154808,2019,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2180377,VA,Frederick,Middletown,Source2,3,39.008762,-78.29686,2019,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-2220433,VA,Frederick,Winchester,Source2,3,39.217445,-78.13784799999998,2019,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2220491,VA,Frederick,Middletown,Source2,3,39.024738,-78.274582,2019,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2220492,VA,Frederick,Middletown,Source2,3,39.024738,-78.274582,2019,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2222436,VA,Frederick,Winchester,Source2,3,39.16214,-78.154877,2019,18,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-2241362,VA,Frederick,Stephens City,Source2,3,39.092182,-78.207436,2019,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2247880,VA,Frederick,Winchester,Source2,3,39.182968,-78.085876,2019,12,Saturday,Clear / Fair,False,False,False,True,False,False,False
+A-2251855,VA,Frederick,Winchester,Source2,3,39.185551,-78.136719,2019,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2254129,VA,Frederick,Winchester,Source2,3,39.186401,-78.138313,2019,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2257640,VA,Frederick,Winchester,Source2,3,39.120754,-78.191345,2019,9,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2257641,VA,Frederick,Winchester,Source2,3,39.162914,-78.157013,2019,9,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2257651,VA,Frederick,Clear Brook,Source2,3,39.293175,-78.083237,2019,10,Friday,Snow / Ice,False,False,True,False,False,False,False
+A-2257670,VA,Frederick,Winchester,Source2,3,39.217445,-78.13784799999998,2019,12,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2260137,VA,Frederick,Clear Brook,Source2,3,39.252785,-78.10390500000003,2019,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2267109,VA,Frederick,Winchester,Source2,3,39.231075,-78.13454399999998,2019,17,Wednesday,Rain,False,False,False,False,False,False,False
+A-2267113,VA,Frederick,Winchester,Source2,3,39.217445,-78.13784799999998,2019,17,Wednesday,Rain,False,False,False,False,False,False,False
+A-2267117,VA,Frederick,Winchester,Source2,3,39.217445,-78.13784799999998,2019,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2269722,VA,Frederick,Clear Brook,Source2,3,39.25447800000001,-78.102661,2019,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2279148,VA,Frederick,Winchester,Source2,3,39.120754,-78.191345,2019,9,Tuesday,Rain,False,False,False,False,False,False,False
+A-2279151,VA,Frederick,Stephens City,Source2,3,39.08176,-78.215073,2019,9,Tuesday,Rain,False,False,False,False,False,False,False
+A-2279152,VA,Frederick,Winchester,Source2,3,39.217518,-78.137436,2019,9,Tuesday,Rain,True,False,False,False,False,False,False
+A-2291425,VA,Frederick,Winchester,Source2,3,39.185551,-78.136719,2019,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-2295901,VA,Frederick,Winchester,Source2,3,39.161499,-78.156532,2019,11,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2295916,VA,Frederick,Middletown,Source2,3,39.010193,-78.29744699999998,2019,14,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2301056,VA,Frederick,Middletown,Source2,3,39.01442700000001,-78.295311,2019,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2301057,VA,Frederick,Middletown,Source2,3,39.009289,-78.296082,2019,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2301060,VA,Frederick,Middletown,Source2,3,39.009289,-78.296082,2019,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2303211,VA,Frederick,Stephens City,Source2,3,39.092133,-78.207458,2019,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2304536,VA,Frederick,Middletown,Source2,3,39.026501,-78.270958,2019,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2320060,VA,Frederick,Stephens City,Source2,3,39.081062,-78.216309,2019,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2320080,VA,Frederick,Clear Brook,Source2,3,39.255825,-78.101768,2019,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2320082,VA,Frederick,Stephens City,Source2,3,39.081062,-78.216309,2019,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2323644,VA,Frederick,Clear Brook,Source2,3,39.252785,-78.10390500000003,2019,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2332798,VA,Frederick,Winchester,Source2,3,39.217445,-78.13784799999998,2019,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2356448,VA,Frederick,Stephens City,Source2,3,39.08194,-78.21528599999998,2019,10,Thursday,Rain,False,False,False,False,False,False,False
+A-2365933,VA,Frederick,Middletown,Source2,3,39.009926,-78.297714,2019,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2379626,VA,Frederick,Clear Brook,Source2,3,39.290131,-78.084801,2018,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2384042,VA,Frederick,Middletown,Source2,3,39.02718,-78.270988,2018,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2387392,VA,Frederick,Middletown,Source2,3,39.010204,-78.29464,2018,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2400448,VA,Frederick,Winchester,Source2,3,39.217445,-78.13784799999998,2018,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2405386,VA,Frederick,Winchester,Source2,3,39.162102,-78.157402,2018,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2409607,VA,Frederick,Winchester,Source2,3,39.212791,-78.146957,2018,17,Friday,Rain,False,False,False,False,False,False,False
+A-2412025,VA,Frederick,Middletown,Source2,3,39.009289,-78.296082,2018,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2420476,VA,Frederick,Middletown,Source2,3,39.02718,-78.270988,2018,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2423993,VA,Frederick,Winchester,Source2,3,39.217503,-78.138092,2018,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2427657,VA,Frederick,Winchester,Source2,3,39.21785,-78.136864,2018,4,Friday,Cloudy,True,False,False,False,False,False,False
+A-2427662,VA,Frederick,Winchester,Source2,3,39.216545,-78.137291,2018,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-2435602,VA,Frederick,Clear Brook,Source2,3,39.25705,-78.101028,2018,8,Tuesday,Rain,False,False,False,False,False,False,False
+A-2438977,VA,Frederick,Stephens City,Source2,3,39.081619,-78.215614,2018,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2441857,VA,Frederick,Middletown,Source2,3,39.027939,-78.270042,2018,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2444895,VA,Frederick,Winchester,Source2,3,39.120605,-78.191414,2018,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-2452559,VA,Frederick,Winchester,Source2,3,39.11861,-78.191109,2018,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2458237,VA,Frederick,Clear Brook,Source2,3,39.25705,-78.101028,2018,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2458281,VA,Frederick,Middletown,Source2,3,39.009556,-78.298126,2018,8,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2458287,VA,Frederick,Winchester,Source2,3,39.217743,-78.137512,2018,8,Thursday,Snow / Ice,True,False,False,False,False,False,False
+A-2458332,VA,Frederick,Middletown,Source2,3,39.009598,-78.296204,2018,9,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2458359,VA,Frederick,Clear Brook,Source2,3,39.253269,-78.103172,2018,11,Thursday,Snow / Ice,False,False,True,False,False,False,False
+A-2458369,VA,Frederick,Middletown,Source2,3,39.009594,-78.297554,2018,11,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2458372,VA,Frederick,Winchester,Source2,3,39.185551,-78.136566,2018,11,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2465808,VA,Frederick,Winchester,Source2,3,39.161163,-78.155289,2018,18,Monday,Cloudy,True,False,False,False,False,False,False
+A-2471398,VA,Frederick,Middletown,Source2,3,39.027493,-78.270157,2018,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2477815,VA,Frederick,Clear Brook,Source2,3,39.290894,-78.08483100000002,2018,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2487902,VA,Frederick,Clear Brook,Source2,3,39.290733,-78.084923,2018,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2494276,VA,Frederick,Winchester,Source2,3,39.217327,-78.138062,2018,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2504110,VA,Frederick,Stephens City,Source2,3,39.057228,-78.23912,2018,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-2506713,VA,Frederick,Winchester,Source2,3,39.184853,-78.13700899999998,2018,8,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-2509688,VA,Frederick,Winchester,Source2,3,39.184853,-78.13700899999998,2018,6,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-2516709,VA,Frederick,Clear Brook,Source2,3,39.25705,-78.101028,2018,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2526263,VA,Frederick,Middletown,Source2,3,39.009911,-78.298088,2018,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2529351,VA,Frederick,Middletown,Source2,3,39.027344,-78.270332,2018,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2529420,VA,Frederick,Winchester,Source2,3,39.156307,-78.164162,2018,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2536650,VA,Frederick,Winchester,Source2,3,39.162163,-78.157753,2018,7,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-2566551,VA,Frederick,Middletown,Source2,3,39.04604000000001,-78.248688,2018,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2573328,VA,Frederick,Clear Brook,Source2,3,39.256588,-78.100937,2018,4,Monday,Rain,False,False,False,False,False,False,False
+A-2573392,VA,Frederick,Clear Brook,Source2,3,39.25705,-78.101028,2018,10,Monday,Rain,False,False,False,False,False,False,False
+A-2573422,VA,Frederick,Winchester,Source2,3,39.217327,-78.138062,2018,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-2575962,VA,Frederick,Winchester,Source2,3,39.21703,-78.137383,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2576024,VA,Frederick,Winchester,Source2,3,39.19466,-78.23127,2018,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2578835,VA,Frederick,Clear Brook,Source2,3,39.259281,-78.099251,2018,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2590558,VA,Frederick,Middletown,Source2,3,39.027939,-78.270042,2018,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2604988,VA,Frederick,Winchester,Source2,3,39.21846,-78.138702,2018,7,Tuesday,Rain,False,False,False,False,False,False,False
+A-2605025,VA,Frederick,Middletown,Source2,3,39.009892,-78.297714,2018,10,Tuesday,Rain,False,False,False,False,False,False,False
+A-2610439,VA,Frederick,Winchester,Source2,3,39.184853,-78.13700899999998,2018,7,Thursday,Rain,False,False,True,False,False,False,False
+A-2613232,VA,Frederick,Middletown,Source2,3,39.027939,-78.270042,2018,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-2627893,VA,Frederick,Winchester,Source2,3,39.218105,-78.136292,2018,20,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-2630349,VA,Frederick,Winchester,Source2,3,39.184853,-78.13700899999998,2018,8,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-2630382,VA,Frederick,Winchester,Source2,3,39.162163,-78.157753,2018,14,Tuesday,Rain,False,False,True,False,False,False,False
+A-2642043,VA,Frederick,Winchester,Source2,3,39.184853,-78.13700899999998,2018,15,Monday,Cloudy,False,False,True,False,False,False,False
+A-2644488,VA,Frederick,Middletown,Source2,3,39.027939,-78.270042,2018,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-2646913,VA,Frederick,Stephens City,Source2,3,39.081619,-78.215614,2018,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2646924,VA,Frederick,Middletown,Source2,3,39.027939,-78.270042,2018,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2658593,VA,Frederick,Winchester,Source2,3,39.217327,-78.138062,2018,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2669681,VA,Frederick,Winchester,Source2,3,39.156307,-78.164162,2018,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2695383,VA,Frederick,Winchester,Source2,3,39.217327,-78.138062,2018,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2705063,VA,Frederick,Middletown,Source2,3,39.016632,-78.288689,2018,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2705065,VA,Frederick,Middletown,Source2,3,39.009892,-78.297714,2018,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2705099,VA,Frederick,Winchester,Source2,3,39.184853,-78.13700899999998,2018,13,Monday,Cloudy,False,False,True,False,False,False,False
+A-2707262,VA,Frederick,Winchester,Source2,3,39.162163,-78.157753,2018,14,Tuesday,Storm,False,False,True,False,False,False,False
+A-2709465,VA,Frederick,Clear Brook,Source2,3,39.293457,-78.083031,2018,10,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-2709466,VA,Frederick,Clear Brook,Source2,3,39.289261,-78.08602900000002,2018,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2709496,VA,Frederick,Stephens City,Source2,3,39.081619,-78.215614,2018,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2711735,VA,Frederick,White Post,Source2,3,39.096004,-78.158569,2018,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2714172,VA,Frederick,Winchester,Source2,3,39.123821,-78.19622,2018,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-2714219,VA,Frederick,Stephens City,Source2,3,39.081619,-78.215614,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2718129,VA,Frederick,Stephens City,Source2,3,39.081619,-78.215614,2018,12,Monday,Rain,False,False,False,False,False,False,False
+A-2720468,VA,Frederick,Clear Brook,Source2,3,39.290894,-78.08483100000002,2018,15,Tuesday,Rain,False,False,False,False,False,False,False
+A-2720470,VA,Frederick,Clear Brook,Source2,3,39.272614,-78.09314,2018,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-2738052,VA,Frederick,Winchester,Source2,3,39.186508,-78.137985,2018,22,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2763113,VA,Frederick,Winchester,Source2,3,39.120605,-78.191414,2018,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2763129,VA,Frederick,Stephens City,Source2,3,39.081619,-78.215614,2018,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2774168,VA,Frederick,Middletown,Source2,3,39.009892,-78.297714,2018,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2774170,VA,Frederick,Middletown,Source2,3,39.008755,-78.296829,2018,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2780273,VA,Frederick,Stephens City,Source2,3,39.081619,-78.215614,2018,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2780281,VA,Frederick,Clear Brook,Source2,3,39.291271,-78.084564,2018,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2782675,VA,Frederick,Middletown,Source2,3,39.027939,-78.270042,2018,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2819697,VA,Frederick,Winchester,Source2,3,39.184853,-78.13700899999998,2018,22,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-2824123,VA,Frederick,Middletown,Source2,3,39.009892,-78.297714,2018,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2839011,VA,Frederick,Winchester,Source2,3,39.189301,-78.13504,2018,14,Tuesday,Rain,False,False,False,False,False,False,False
+A-2861172,VA,Frederick,Middletown,Source2,3,39.009892,-78.297714,2018,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2875305,VA,Frederick,Stephens City,Source2,3,39.080662,-78.21633100000003,2018,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2883122,VA,Frederick,Middletown,Source2,3,39.027939,-78.270042,2018,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2883161,VA,Frederick,Clear Brook,Source2,3,39.286602,-78.087166,2018,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2897732,VA,Frederick,Clear Brook,Source2,3,39.290894,-78.08483100000002,2018,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2904799,VA,Frederick,Winchester,Source2,3,39.184853,-78.13700899999998,2018,10,Tuesday,Rain,False,False,True,False,False,False,False
+A-2917155,VA,Frederick,Stephens City,Source2,3,39.081619,-78.215614,2018,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2922447,VA,Frederick,Clear Brook,Source2,3,39.25705,-78.101028,2018,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-2928688,VA,Frederick,Winchester,Source2,3,39.110771,-78.199463,2018,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2928690,VA,Frederick,Winchester,Source2,3,39.111507,-78.198891,2018,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2938414,VA,Frederick,Winchester,Source2,3,39.184853,-78.13700899999998,2018,8,Monday,Cloudy,False,False,True,False,False,False,False
+A-2941143,VA,Frederick,Winchester,Source2,3,39.21846,-78.138702,2018,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2943961,VA,Frederick,Winchester,Source2,3,39.120132,-78.191452,2018,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2946562,VA,Frederick,Middletown,Source2,3,39.009892,-78.297714,2018,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2946573,VA,Frederick,Clear Brook,Source2,3,39.258522,-78.099838,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2946587,VA,Frederick,Stephens City,Source2,3,39.081554,-78.21527900000002,2018,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2953367,VA,Frederick,Winchester,Source2,3,39.120605,-78.191414,2018,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2955869,VA,Frederick,Middletown,Source2,3,39.008453,-78.296463,2018,7,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2955889,VA,Frederick,Winchester,Source2,3,39.120605,-78.191414,2018,8,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2955903,VA,Frederick,Winchester,Source2,3,39.217327,-78.138062,2018,10,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2964615,VA,Frederick,Stephens City,Source2,3,39.081619,-78.215614,2018,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2964616,VA,Frederick,Stephens City,Source2,3,39.081619,-78.215614,2018,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2964622,VA,Frederick,Middletown,Source2,3,39.027939,-78.270042,2018,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2964669,VA,Frederick,Winchester,Source2,3,39.184853,-78.13700899999998,2018,22,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-2968811,VA,Frederick,Winchester,Source2,3,39.162163,-78.157753,2018,8,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-2972785,VA,Frederick,Winchester,Source2,3,39.185081,-78.13685600000002,2018,9,Tuesday,Rain,False,False,True,False,False,False,False
+A-2975408,VA,Frederick,Clear Brook,Source2,3,39.290894,-78.08483100000002,2018,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2975411,VA,Frederick,Clear Brook,Source2,3,39.25705,-78.101028,2018,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2975429,VA,Frederick,Clear Brook,Source2,3,39.290779,-78.08448800000002,2018,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2975434,VA,Frederick,Stephens City,Source2,3,39.081459,-78.215378,2018,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2975449,VA,Frederick,Winchester,Source2,3,39.236092,-78.126007,2018,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2978140,VA,Frederick,Middletown,Source2,3,39.00906,-78.298851,2018,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-3008225,VA,Frederick,Winchester,Source2,3,39.217327,-78.138062,2018,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3042730,VA,Frederick,Winchester,Source2,3,39.217518,-78.137466,2018,17,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-3054281,VA,Frederick,Middletown,Source2,3,39.009892,-78.297714,2018,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3057288,VA,Frederick,Winchester,Source2,3,39.121662,-78.19103199999998,2018,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3057305,VA,Frederick,Winchester,Source2,3,39.217327,-78.138062,2018,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3059694,VA,Frederick,Winchester,Source2,3,39.164295,-78.15639499999997,2018,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3059709,VA,Frederick,Stephens City,Source2,3,39.081619,-78.215614,2018,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3071914,VA,Frederick,Middletown,Source2,3,39.009892,-78.297714,2018,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3080280,VA,Frederick,Winchester,Source2,3,39.162163,-78.157753,2018,4,Tuesday,Rain,False,False,True,False,False,False,False
+A-3082938,VA,Frederick,Winchester,Source2,3,39.184853,-78.13700899999998,2018,10,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-3106598,VA,Frederick,Winchester,Source2,3,39.120605,-78.191414,2017,17,Tuesday,Rain,False,False,False,False,False,False,False
+A-3115136,VA,Frederick,Middletown,Source2,3,39.027939,-78.270042,2017,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3131154,VA,Frederick,Winchester,Source2,3,39.16088900000001,-78.155464,2017,20,Friday,Cloudy,True,False,False,False,False,False,False
+A-3135095,VA,Frederick,Winchester,Source2,3,39.162163,-78.157753,2017,20,Monday,Cloudy,False,False,True,False,False,False,False
+A-3137941,VA,Frederick,Winchester,Source2,3,39.120605,-78.191414,2017,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3140676,VA,Frederick,Winchester,Source2,3,39.175373,-78.147865,2017,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3140684,VA,Frederick,Winchester,Source2,3,39.161613,-78.157944,2017,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3143705,VA,Frederick,Winchester,Source2,3,39.184853,-78.13700899999998,2017,18,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-3151068,VA,Frederick,Winchester,Source2,3,39.162163,-78.157753,2017,16,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-3151069,VA,Frederick,Middletown,Source2,3,39.027939,-78.270042,2017,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3151071,VA,Frederick,Middletown,Source2,3,39.027866,-78.270134,2017,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3151072,VA,Frederick,Clear Brook,Source2,3,39.25705,-78.101028,2017,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3153050,VA,Frederick,Middletown,Source2,3,39.027939,-78.270042,2017,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3197286,VA,Frederick,Winchester,Source2,3,39.120605,-78.191414,2017,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3200219,VA,Frederick,Stephens City,Source2,3,39.081619,-78.215614,2017,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3210333,VA,Frederick,Winchester,Source2,3,39.120605,-78.191414,2017,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3213178,VA,Frederick,Stephens City,Source2,3,39.057915,-78.238564,2017,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3283859,VA,Frederick,Winchester,Source2,3,39.184853,-78.13700899999998,2017,19,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-3285687,VA,Frederick,Winchester,Source2,3,39.162163,-78.157753,2017,17,Tuesday,Storm,False,False,True,False,False,False,False
+A-3291669,VA,Frederick,Clear Brook,Source2,3,39.290894,-78.08483100000002,2017,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3301348,VA,Frederick,Clear Brook,Source2,3,39.25705,-78.101028,2017,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3301349,VA,Frederick,Clear Brook,Source2,3,39.290894,-78.08483100000002,2017,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3301354,VA,Frederick,Clear Brook,Source2,3,39.256237,-78.101166,2017,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3306961,VA,Frederick,Winchester,Source2,3,39.184853,-78.13700899999998,2017,16,Thursday,Cloudy,False,False,True,False,False,False,False
+A-3306996,VA,Frederick,Winchester,Source2,3,39.184853,-78.13700899999998,2017,19,Thursday,Cloudy,False,False,True,False,False,False,False
+A-3322915,VA,Frederick,Winchester,Source2,3,39.184853,-78.13700899999998,2017,11,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-3322919,VA,Frederick,Winchester,Source2,3,39.184853,-78.13700899999998,2017,12,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-3322922,VA,Frederick,Winchester,Source2,3,39.161713,-78.157822,2017,12,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-3329086,VA,Frederick,Middletown,Source2,3,39.027939,-78.270042,2017,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3347359,VA,Frederick,Winchester,Source2,3,39.217327,-78.138062,2017,21,Friday,Rain,False,False,False,False,False,False,False
+A-3356550,VA,Frederick,Clear Brook,Source2,3,39.25705,-78.101028,2017,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3368173,VA,Frederick,Winchester,Source2,3,39.217327,-78.138062,2017,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3382811,VA,Frederick,Middletown,Source2,3,39.009892,-78.297714,2017,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3385711,VA,Frederick,Middletown,Source2,3,39.009892,-78.297714,2017,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-3385714,VA,Frederick,Middletown,Source2,3,39.009892,-78.297714,2017,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-3385732,VA,Frederick,Middletown,Source2,3,39.027939,-78.270042,2017,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-3389609,VA,Frederick,Winchester,Source2,3,39.189301,-78.13504,2017,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-3395318,VA,Frederick,Stephens City,Source2,3,39.081299,-78.21556899999999,2017,21,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3398241,VA,Frederick,Winchester,Source2,3,39.217327,-78.138062,2017,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3457741,VA,Frederick,Winchester,Source1,4,39.194585,-78.225973,2017,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3458222,VA,Frederick,Winchester,Source1,4,39.200481,-78.250877,2017,23,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3474699,VA,Frederick,Winchester,Source1,3,39.134596,-78.120778,2016,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3474854,VA,Frederick,Winchester,Source1,3,39.13491,-78.12114,2016,9,Tuesday,Rain,False,False,False,False,False,False,False
+A-3584882,VA,Frederick,Winchester,Source1,3,39.214542,-78.143078,2017,6,Thursday,Cloudy,True,False,False,False,False,False,False
+A-3600220,VA,Frederick,Winchester,Source1,4,39.239845,-78.200434,2017,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-3603606,VA,Frederick,Cross Junction,Source1,4,39.31738,-78.293211,2017,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3603609,VA,Frederick,Cross Junction,Source1,4,39.331557,-78.306436,2017,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3604356,VA,Frederick,Winchester,Source1,4,39.212563,-78.264395,2017,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3627967,VA,Frederick,Winchester,Source1,4,39.122455,-78.1951,2017,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3630863,VA,Frederick,Middletown,Source1,4,39.02998,-78.26776,2017,0,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3643179,VA,Frederick,Gore,Source1,4,39.268213,-78.31650400000002,2017,9,Thursday,Clear / Fair,False,True,False,False,False,False,True
+A-3646068,VA,Frederick,Winchester,Source1,4,39.186481,-78.13599599999998,2017,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3663002,VA,Frederick,Winchester,Source1,4,39.201755,-78.155022,2023,8,Monday,Cloudy,False,True,False,False,False,False,True
+A-3669786,VA,Frederick,Winchester,Source1,4,39.202876,-78.154496,2023,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-3735176,VA,Frederick,Middletown,Source1,4,39.078442,-78.32522900000002,2022,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3754925,VA,Frederick,Winchester,Source1,4,39.16558,-78.12209399999998,2022,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3765799,VA,Frederick,Winchester,Source1,4,39.175793,-78.147795,2022,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3779792,VA,Frederick,Winchester,Source1,4,39.16795,-78.122352,2022,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3791845,VA,Frederick,Winchester,Source1,4,39.176425,-78.342416,2022,20,Thursday,Rain,False,False,False,False,False,False,False
+A-3794947,VA,Frederick,Winchester,Source1,4,39.180106,-78.14207900000002,2023,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3794948,VA,Frederick,Winchester,Source1,4,39.181543,-78.140354,2022,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-3808692,VA,Frederick,Cross Junction,Source1,4,39.340256,-78.306175,2022,23,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3812378,VA,Frederick,Winchester,Source1,4,39.185108,-78.13233100000002,2023,17,Friday,Cloudy,False,True,False,True,False,False,False
+A-3819675,VA,Frederick,Winchester,Source1,4,39.205585,-78.135279,2023,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3820250,VA,Frederick,Stephens City,Source1,4,39.079753,-78.195598,2022,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3823127,VA,Frederick,Winchester,Source1,4,39.163316,-78.121884,2022,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3850664,VA,Frederick,Winchester,Source1,4,39.13021,-78.182601,2023,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-3864049,VA,Frederick,Stephens City,Source1,4,39.093072,-78.17144,2022,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3889441,VA,Frederick,Winchester,Source1,4,39.11738,-78.39612,2022,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3895054,VA,Frederick,Stephens City,Source1,4,39.093828,-78.177288,2022,17,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-3901712,VA,Frederick,Winchester,Source1,4,39.213295,-78.144554,2022,17,Thursday,Rain,False,False,False,False,False,False,False
+A-3913121,VA,Frederick,Clear Brook,Source1,4,39.244469,-78.043021,2022,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3941081,VA,Frederick,Winchester,Source1,4,39.14192,-78.151261,2022,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3953683,VA,Frederick,Winchester,Source1,4,39.245707,-78.17566,2022,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3971758,VA,Frederick,Winchester,Source1,4,39.207629,-78.308317,2022,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3983544,VA,Frederick,Winchester,Source1,4,39.194752,-78.231272,2022,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3989148,VA,Frederick,Winchester,Source1,4,39.19792800000001,-78.248161,2022,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4014222,VA,Frederick,Gore,Source1,4,39.267515,-78.307705,2022,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4066054,VA,Frederick,Star Tannery,Source1,4,39.086044,-78.431462,2022,2,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4071464,VA,Frederick,Winchester,Source1,4,39.181321,-78.082228,2022,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4098877,VA,Frederick,Cross Junction,Source1,4,39.354513,-78.347192,2022,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4128845,VA,Frederick,Middletown,Source1,4,39.026888,-78.26919699999998,2022,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4140923,VA,Frederick,Winchester,Source1,4,39.120299,-78.196667,2023,21,Thursday,Clear / Fair,False,False,False,True,False,False,False
+A-4145113,VA,Frederick,Stephens City,Source1,4,39.080764,-78.21253100000001,2022,10,Friday,Cloudy,True,False,False,False,False,False,False
+A-4184323,VA,Frederick,Gore,Source1,4,39.271171,-78.31450600000002,2022,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4187220,VA,Frederick,Star Tannery,Source1,4,39.109365,-78.409216,2022,14,Thursday,Rain,False,False,False,False,False,False,False
+A-4197651,VA,Frederick,Middletown,Source1,4,39.028625,-78.270622,2023,17,Friday,Clear / Fair,False,False,False,True,False,False,False
+A-4220530,VA,Frederick,Winchester,Source1,4,39.148108,-78.099479,2022,1,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4224337,VA,Frederick,Winchester,Source1,4,39.135142,-78.134537,2022,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-4225737,VA,Frederick,Winchester,Source1,4,39.125645,-78.18686600000002,2022,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4227992,VA,Frederick,Winchester,Source1,4,39.182591,-78.33371,2022,20,Thursday,Rain,False,False,False,False,False,False,False
+A-4228603,VA,Frederick,Clear Brook,Source1,4,39.25392508,-78.10267568,2022,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4234018,VA,Frederick,Middletown,Source1,4,39.077866,-78.325785,2022,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4265080,VA,Frederick,Clear Brook,Source1,4,39.29327845554689,-78.08278441391906,2022,16,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-4267335,VA,Frederick,Winchester,Source1,4,39.16558,-78.12209399999998,2022,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4268026,VA,Frederick,Winchester,Source1,4,39.179866,-78.11604,2023,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4272863,VA,Frederick,Winchester,Source1,4,39.303729,-78.282466,2022,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4273254,VA,Frederick,Gore,Source1,4,39.270587,-78.34595,2022,21,Monday,Rain,False,False,False,False,False,False,False
+A-4275133,VA,Frederick,Stephens City,Source1,4,39.08208,-78.217922,2022,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4325957,VA,Frederick,Winchester,Source1,4,39.163316,-78.121884,2022,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4356405,VA,Frederick,Stephens City,Source1,4,39.093613,-78.176389,2022,17,Thursday,Clear / Fair,False,True,False,False,False,False,False
+A-4362305,VA,Frederick,Winchester,Source1,4,39.140897,-78.17291800000002,2023,23,Monday,Cloudy,False,False,False,False,False,False,False
+A-4395566,VA,Frederick,White Post,Source1,4,39.073852,-78.163227,2022,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-4409675,VA,Frederick,Stephenson,Source1,4,39.244714,-78.105452,2022,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4427001,VA,Frederick,Stephens City,Source1,4,39.099818,-78.204164,2022,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4432976,VA,Frederick,Winchester,Source1,4,39.222003,-78.27637299999998,2023,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4438739,VA,Frederick,Winchester,Source1,4,39.27411,-78.254909,2022,6,Friday,Clear / Fair,False,True,False,False,False,False,True
+A-4443195,VA,Frederick,Star Tannery,Source1,4,39.088212,-78.434648,2022,2,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4452138,VA,Frederick,Middletown,Source1,4,39.072487,-78.323689,2023,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4466588,VA,Frederick,Winchester,Source1,4,39.207333,-78.308502,2022,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4478982,VA,Frederick,Middletown,Source1,4,39.016743,-78.290604,2022,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4483988,VA,Frederick,Winchester,Source1,4,39.1677,-78.13105999999998,2022,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4515945,VA,Frederick,Stephens City,Source1,4,39.098725,-78.18896600000002,2023,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4516446,VA,Frederick,Stephens City,Source1,4,39.082741,-78.217632,2022,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4529762,VA,Frederick,Winchester,Source1,4,39.237119,-78.179357,2022,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4536678,VA,Frederick,Gore,Source1,4,39.267174,-78.324655,2022,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4542650,VA,Frederick,Star Tannery,Source1,4,39.083502,-78.448806,2022,2,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4546061,VA,Frederick,Winchester,Source1,4,39.212611,-78.147099,2022,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4557643,VA,Frederick,Clear Brook,Source1,4,39.25680300000001,-78.099949,2022,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4570360,VA,Frederick,Winchester,Source1,4,39.143788,-78.127269,2022,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4572971,VA,Frederick,Winchester,Source1,4,39.190991,-78.199218,2022,9,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4586432,VA,Frederick,Middletown,Source1,4,39.025131,-78.26759399999997,2022,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4593905,VA,Frederick,Winchester,Source1,4,39.267622,-78.307489,2022,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4602018,VA,Frederick,Clear Brook,Source1,4,39.256276,-78.099487,2022,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4617779,VA,Frederick,Winchester,Source1,4,39.176425,-78.342416,2022,20,Thursday,Rain,False,False,False,False,False,False,False
+A-4656282,VA,Frederick,Winchester,Source1,4,39.148221,-78.100971,2022,1,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4669862,VA,Frederick,Stephenson,Source1,4,39.244874,-78.10587,2022,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4676681,VA,Frederick,Winchester,Source1,4,39.134571,-78.135198,2022,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-4683816,VA,Frederick,Middletown,Source1,4,39.02676500000001,-78.269439,2022,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4697056,VA,Frederick,Winchester,Source1,4,39.153910875133725,-78.16556811295429,2022,2,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4697075,VA,Frederick,Stephens City,Source1,4,39.08247,-78.21893299999998,2022,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4750264,VA,Frederick,Gore,Source1,4,39.270588,-78.34644200000002,2022,21,Monday,Rain,False,False,False,False,False,False,False
+A-4759342,VA,Frederick,Winchester,Source1,4,39.176756,-78.11735,2023,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4766709,VA,Frederick,Clear Brook,Source1,4,39.27438,-78.08749499999998,2022,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-4783109,VA,Frederick,Winchester,Source1,4,39.181104,-78.08240699999998,2023,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4788690,VA,Frederick,Stephenson,Source1,4,39.244802,-78.105909,2022,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4810139,VA,Frederick,Winchester,Source1,4,39.221902,-78.27664399999998,2023,20,Wednesday,Clear / Fair,False,True,False,False,False,False,True
+A-4822518,VA,Frederick,Gore,Source1,4,39.284481,-78.39204000000002,2022,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4829864,VA,Frederick,Stephenson,Source1,4,39.245742,-78.10538199999998,2022,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4834274,VA,Frederick,Winchester,Source1,4,39.273475,-78.251317,2022,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4889977,VA,Frederick,White Post,Source1,4,39.074865,-78.167743,2022,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-4910735,VA,Frederick,Star Tannery,Source1,4,39.088212,-78.434648,2022,1,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4912167,VA,Frederick,Stephens City,Source1,4,39.08453400000001,-78.18729300000003,2022,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4913666,VA,Frederick,Winchester,Source1,4,39.199218,-78.134763,2022,19,Monday,Storm,False,False,False,False,False,False,False
+A-4941312,VA,Frederick,Middletown,Source1,4,39.07223,-78.324236,2023,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4942955,VA,Frederick,Winchester,Source1,4,39.207333,-78.308502,2022,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4956024,VA,Frederick,Winchester,Source1,4,39.211832,-78.147397,2022,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4974857,VA,Frederick,Cross Junction,Source1,4,39.340256,-78.306175,2022,23,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4981772,VA,Frederick,Winchester,Source1,4,39.168063,-78.132479,2022,18,Saturday,Cloudy,False,False,False,False,False,True,False
+A-4986646,VA,Frederick,Winchester,Source1,4,39.167386,-78.122201,2022,17,Wednesday,Clear / Fair,True,False,False,False,False,True,False
+A-4996339,VA,Frederick,Winchester,Source1,4,39.172193,-78.141954,2022,20,Wednesday,Cloudy,False,True,False,False,False,False,False
+A-5046596,VA,Frederick,Stephens City,Source1,4,39.099551,-78.19189,2023,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5056206,VA,Frederick,Winchester,Source1,4,39.261127,-78.232458,2023,5,Wednesday,Rain,False,False,False,False,False,False,False
+A-5059917,VA,Frederick,Stephens City,Source1,4,39.081091,-78.214396,2022,19,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-5074497,VA,Frederick,Stephens City,Source1,4,39.083126,-78.218339,2022,14,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-5076217,VA,Frederick,Winchester,Source1,4,39.186544,-78.12871700000002,2022,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5078326,VA,Frederick,Gore,Source1,4,39.301241,-78.27990799999998,2022,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5084643,VA,Frederick,Clear Brook,Source1,4,39.253705,-78.134107,2022,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5090724,VA,Frederick,Stephens City,Source1,4,39.082048,-78.216414,2022,8,Thursday,Clear / Fair,True,False,False,False,False,True,False
+A-5141932,VA,Frederick,Winchester,Source1,4,39.143029,-78.14979699999998,2022,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5146042,VA,Frederick,Clear Brook,Source1,4,39.272547,-78.0881,2022,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-5150331,VA,Frederick,Middletown,Source1,4,39.016633,-78.29085699999997,2022,21,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5154323,VA,Frederick,Winchester,Source1,4,39.118758,-78.19294000000002,2022,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5158017,VA,Frederick,Winchester,Source1,4,39.180914,-78.110012,2022,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5181978,VA,Frederick,Clear Brook,Source1,4,39.245644,-78.041054,2022,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5187929,VA,Frederick,Star Tannery,Source1,4,39.117043,-78.396381,2022,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5198964,VA,Frederick,Middletown,Source1,4,39.026888,-78.26919699999998,2022,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5208152,VA,Frederick,Winchester,Source1,4,39.23483,-78.17997,2022,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5219315,VA,Frederick,Winchester,Source1,4,39.250831,-78.172427,2022,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5220545,VA,Frederick,Winchester,Source1,4,39.167451,-78.351004,2022,20,Thursday,Rain,False,False,False,False,False,False,False
+A-5247723,VA,Frederick,Winchester,Source1,4,39.130281,-78.182535,2023,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-5275677,VA,Frederick,Winchester,Source1,4,39.267622,-78.307489,2022,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5301470,VA,Frederick,Clear Brook,Source1,4,39.249885,-78.101376,2022,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-5316982,VA,Frederick,Gore,Source1,4,39.284814,-78.392422,2022,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5332202,VA,Frederick,Gore,Source1,4,39.268804,-78.31343000000003,2022,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5374801,VA,Frederick,Winchester,Source1,4,39.17234600000001,-78.14209,2022,20,Wednesday,Cloudy,False,True,False,False,False,False,False
+A-5391014,VA,Frederick,Winchester,Source1,4,39.185682,-78.101906,2022,10,Thursday,Rain,False,False,False,False,False,False,False
+A-5403303,VA,Frederick,Stephens City,Source1,4,39.084045,-78.187619,2022,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5417573,VA,Frederick,Cross Junction,Source1,4,39.322386,-78.298773,2022,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5432025,VA,Frederick,Clear Brook,Source1,4,39.252344,-78.10388499999998,2022,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5452740,VA,Frederick,Stephens City,Source1,4,39.083126,-78.218339,2022,14,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-5454655,VA,Frederick,Star Tannery,Source1,4,39.11470900000001,-78.403013,2022,14,Thursday,Rain,False,False,False,False,False,False,False
+A-5461188,VA,Frederick,Clear Brook,Source1,4,39.251796,-78.134551,2022,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5466087,VA,Frederick,Middletown,Source1,4,39.02587294559943,-78.27212691269744,2021,23,Wednesday,Storm,False,False,True,False,False,False,False
+A-5479601,VA,Frederick,Winchester,Source1,4,39.2196,-78.213208,2021,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5489642,VA,Frederick,Clear Brook,Source1,4,39.289891,-78.083017,2021,14,Sunday,Clear / Fair,False,True,False,False,False,False,False
+A-5492411,VA,Frederick,Stephens City,Source1,4,39.082105,-78.216375,2021,19,Monday,Storm,True,False,False,False,False,True,False
+A-5545514,VA,Frederick,Winchester,Source1,4,39.121499,-78.195771,2021,19,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-5570564,VA,Frederick,Winchester,Source1,4,39.119633,-78.256015,2021,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5575743,VA,Frederick,Middletown,Source1,4,39.021783,-78.279312,2021,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5605364,VA,Frederick,Clear Brook,Source1,4,39.257293,-78.11425,2021,23,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5637059,VA,Frederick,Clear Brook,Source1,4,39.287407,-78.084103,2021,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5653551,VA,Frederick,Clear Brook,Source1,4,39.290506,-78.082691,2021,17,Sunday,Cloudy,True,True,False,False,False,False,False
+A-5660558,VA,Frederick,Clear Brook,Source1,4,39.286296,-78.082817,2021,5,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5661325,VA,Frederick,Winchester,Source1,4,39.156985,-78.247304,2021,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5693134,VA,Frederick,Clear Brook,Source1,4,39.287169,-78.08937900000002,2021,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5753096,VA,Frederick,Stephenson,Source1,4,39.244802,-78.105909,2021,0,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5778655,VA,Frederick,Winchester,Source1,4,39.205112,-78.175484,2021,20,Wednesday,Rain,False,False,False,False,False,False,False
+A-5828555,VA,Frederick,Winchester,Source1,4,39.2859,-78.134045,2021,19,Wednesday,Rain,False,False,False,False,False,False,False
+A-5832532,VA,Frederick,Winchester,Source1,4,39.156843,-78.144834,2021,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5843243,VA,Frederick,Cross Junction,Source1,4,39.340256,-78.306175,2021,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5848595,VA,Frederick,Clear Brook,Source1,4,39.291463,-78.088197,2021,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5873403,VA,Frederick,Winchester,Source1,4,39.220927,-78.138635,2021,20,Sunday,Cloudy,False,False,True,False,False,False,False
+A-5876047,VA,Frederick,Stephens City,Source1,4,39.072668,-78.181777,2021,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5878007,VA,Frederick,Clear Brook,Source1,4,39.29063916187624,-78.0837285514923,2021,18,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-5880894,VA,Frederick,Winchester,Source1,4,39.21144,-78.263088,2021,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5887157,VA,Frederick,Winchester,Source1,4,39.298203,-78.159755,2021,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5903440,VA,Frederick,Clear Brook,Source1,4,39.290506,-78.082691,2021,5,Saturday,Clear / Fair,True,True,False,False,False,False,False
+A-5911677,VA,Frederick,Middletown,Source1,4,39.042697,-78.25253000000002,2021,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5912916,VA,Frederick,Clear Brook,Source1,4,39.287263,-78.08415,2021,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5916757,VA,Frederick,Clear Brook,Source1,4,39.274475,-78.092256,2021,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-5922243,VA,Frederick,Winchester,Source1,4,39.158989,-78.219154,2021,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5945291,VA,Frederick,Winchester,Source1,4,39.177224,-78.102283,2021,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-5956429,VA,Frederick,Gore,Source1,4,39.27057623844495,-78.34643483124566,2021,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-5991331,VA,Frederick,Winchester,Source1,4,39.260461,-78.222449,2021,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6006132,VA,Frederick,Middletown,Source1,4,39.016743,-78.290604,2021,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6015707,VA,Frederick,Clear Brook,Source1,4,39.29063916187624,-78.0837285514923,2021,18,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-6020197,VA,Frederick,Winchester,Source1,4,39.157074,-78.14603100000002,2021,15,Saturday,Cloudy,True,False,False,False,False,False,False
+A-6043497,VA,Frederick,Winchester,Source1,4,39.147686,-78.09025600000002,2021,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6056931,VA,Frederick,Gore,Source1,4,39.270588,-78.34644200000002,2021,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-6066888,VA,Frederick,Stephens City,Source1,4,39.076252,-78.178919,2021,10,Saturday,Cloudy,True,False,False,False,False,False,False
+A-6074242,VA,Frederick,Winchester,Source1,4,39.286377,-78.135605,2021,19,Wednesday,Rain,False,False,False,False,False,False,False
+A-6074641,VA,Frederick,Winchester,Source1,4,39.29858400000001,-78.159882,2021,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6076281,VA,Frederick,Stephens City,Source1,4,39.089206,-78.204175,2021,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6094724,VA,Frederick,Winchester,Source1,4,39.15949000000001,-78.161202,2021,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6109393,VA,Frederick,Winchester,Source1,4,39.219638,-78.212027,2021,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6118267,VA,Frederick,Winchester,Source1,4,39.16204333286685,-78.15786480866355,2021,18,Friday,Cloudy,False,False,True,False,False,False,False
+A-6128103,VA,Frederick,Stephens City,Source1,4,39.07850861530744,-78.21914792023554,2021,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6128104,VA,Frederick,Stephens City,Source1,4,39.077835,-78.220186,2021,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6137370,VA,Frederick,Winchester,Source1,4,39.206084,-78.176057,2021,20,Wednesday,Rain,False,False,False,False,False,False,False
+A-6142881,VA,Frederick,Stephens City,Source1,4,39.081177,-78.214776,2021,10,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-6147674,VA,Frederick,Stephens City,Source1,4,39.080932,-78.213825,2021,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6165815,VA,Frederick,Winchester,Source1,4,39.140346,-78.190915,2021,16,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-6189307,VA,Frederick,Stephenson,Source1,4,39.183069,-78.085667,2021,6,Sunday,Rain,False,False,False,True,False,False,False
+A-6193027,VA,Frederick,White Post,Source1,4,39.066933,-78.153459,2021,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6197386,VA,Frederick,Winchester,Source1,4,39.120228,-78.25506,2021,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6198411,VA,Frederick,Gore,Source1,4,39.24948334675193,-78.36941599808517,2021,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-6212973,VA,Frederick,Middletown,Source1,4,39.02587294559943,-78.27212691269744,2021,15,Friday,Rain,False,False,True,False,False,False,False
+A-6215943,VA,Frederick,Stephens City,Source1,4,39.061748,-78.23540799999998,2021,4,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6224332,VA,Frederick,Winchester,Source1,4,39.219906,-78.138531,2021,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6229614,VA,Frederick,Winchester,Source1,4,39.198445,-78.24902900000002,2021,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6264490,VA,Frederick,Star Tannery,Source1,4,39.086044,-78.431462,2021,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6289154,VA,Frederick,Clear Brook,Source1,4,39.286041,-78.08144399999998,2021,5,Saturday,Clear / Fair,False,False,False,True,False,False,False
+A-6291521,VA,Frederick,Winchester,Source1,4,39.15724,-78.246711,2021,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6308859,VA,Frederick,Winchester,Source1,4,39.12421345692098,-78.19434285126593,2021,19,Wednesday,Sin dato,True,False,False,False,False,False,False
+A-6313409,VA,Frederick,Winchester,Source1,4,39.16204333286685,-78.15786480866355,2021,18,Friday,Cloudy,False,False,True,False,False,False,False
+A-6325360,VA,Frederick,White Post,Source1,4,39.074852,-78.16726,2021,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6334785,VA,Frederick,Winchester,Source1,4,39.18901562672048,-78.1351411338895,2021,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6344154,VA,Frederick,Winchester,Source1,4,39.338958,-78.169848,2021,5,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-6372288,VA,Frederick,Gore,Source1,4,39.270588,-78.34644200000002,2021,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-6391483,VA,Frederick,White Post,Source1,4,39.063079,-78.14431400000002,2021,2,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-6395045,VA,Frederick,Stephens City,Source1,4,39.084145,-78.212699,2021,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6402943,VA,Frederick,Clear Brook,Source1,4,39.29524,-78.081375,2021,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6419853,VA,Frederick,Winchester,Source1,4,39.218112,-78.136277,2021,11,Saturday,Cloudy,True,False,False,False,False,False,False
+A-6464232,VA,Frederick,Clear Brook,Source1,4,39.25868,-78.165054,2021,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6465700,VA,Frederick,Stephens City,Source1,4,39.08920300000001,-78.208157,2021,17,Monday,Rain,False,False,False,False,False,False,False
+A-6496873,VA,Frederick,White Post,Source1,4,39.064353,-78.148034,2021,2,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-6511220,VA,Frederick,Winchester,Source1,4,39.159452,-78.225752,2021,3,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-6525485,VA,Frederick,Winchester,Source1,4,39.18485283832938,-78.1362569328397,2021,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-6530180,VA,Frederick,Winchester,Source1,4,39.343329,-78.172671,2021,5,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-6538322,VA,Frederick,Winchester,Source1,4,39.259992,-78.166853,2021,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6542251,VA,Frederick,Winchester,Source1,4,39.186874,-78.119069,2021,2,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6549233,VA,Frederick,Winchester,Source1,4,39.15932,-78.224703,2021,3,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-6575782,VA,Frederick,Winchester,Source1,4,39.230681,-78.119404,2020,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6589919,VA,Frederick,Stephenson,Source1,4,39.232131,-78.116528,2020,8,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-6594948,VA,Frederick,Winchester,Source1,4,39.304768,-78.169657,2020,1,Thursday,Rain,False,False,False,False,False,False,False
+A-6603682,VA,Frederick,Clear Brook,Source1,4,39.288407,-78.08565899999998,2020,14,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-6608782,VA,Frederick,Winchester,Source1,4,39.189101,-78.13479699999998,2020,6,Monday,Rain,False,False,False,False,False,False,False
+A-6611468,VA,Frederick,Winchester,Source1,4,39.358542,-78.218016,2020,1,Friday,Cloudy,False,False,False,False,False,False,False
+A-6617951,VA,Frederick,Winchester,Source1,4,39.300727,-78.160801,2020,15,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-6621184,VA,Frederick,Winchester,Source1,4,39.177514,-78.145505,2020,23,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6631636,VA,Frederick,Winchester,Source1,4,39.221996,-78.276375,2020,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6645965,VA,Frederick,Gore,Source1,4,39.280271,-78.374599,2020,6,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6680866,VA,Frederick,Stephenson,Source1,4,39.221888,-78.086883,2020,11,Thursday,Rain,False,False,False,False,False,False,False
+A-6682589,VA,Frederick,Gore,Source1,4,39.281757,-78.367801,2020,0,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6688175,VA,Frederick,Star Tannery,Source1,4,39.085418,-78.510471,2020,23,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6705387,VA,Frederick,Clear Brook,Source1,4,39.288407,-78.08565899999998,2020,14,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-6739509,VA,Frederick,Winchester,Source1,4,39.308611,-78.172894,2020,1,Thursday,Rain,False,False,False,False,False,False,False
+A-6762795,VA,Frederick,Winchester,Source1,4,39.304152,-78.165667,2020,15,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-6766481,VA,Frederick,Clear Brook,Source1,4,39.260661,-78.098799,2020,9,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-6770391,VA,Frederick,Winchester,Source1,4,39.189101,-78.13479699999998,2020,2,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6791606,VA,Frederick,Winchester,Source1,4,39.177278,-78.145354,2020,23,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6809270,VA,Frederick,Stephenson,Source1,4,39.220049,-78.085245,2020,11,Thursday,Rain,False,False,False,False,False,False,False
+A-6820959,VA,Frederick,Clear Brook,Source1,4,39.266672,-78.095945,2020,9,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-6824307,VA,Frederick,Gore,Source1,4,39.280244,-78.36036999999997,2020,6,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-6844394,VA,Frederick,Winchester,Source1,4,39.185187,-78.13245,2020,2,Wednesday,Clear / Fair,False,True,False,False,False,False,False
+A-6857196,VA,Frederick,Winchester,Source1,4,39.162279,-78.157199,2020,23,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6864215,VA,Frederick,Winchester,Source1,4,39.177514,-78.145505,2020,23,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6970983,VA,Frederick,Clear Brook,Source1,4,39.260661,-78.098799,2020,9,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-7002594,VA,Frederick,Winchester,Source1,4,39.16086,-78.15511,2020,6,Thursday,Rain,False,False,False,False,False,False,False
+A-7002672,VA,Frederick,Winchester,Source1,4,39.16086,-78.15511,2020,7,Thursday,Rain,False,False,False,False,False,False,False
+A-7002679,VA,Frederick,Winchester,Source1,3,39.16246,-78.15748,2020,7,Thursday,Rain,False,False,False,False,False,False,False
+A-7002680,VA,Frederick,Winchester,Source1,4,39.16086,-78.15511,2020,7,Thursday,Rain,False,False,False,False,False,False,False
+A-7005459,VA,Frederick,Winchester,Source1,4,39.16086,-78.15511,2020,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7005468,VA,Frederick,Winchester,Source1,4,39.16086,-78.15511,2020,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7005473,VA,Frederick,Winchester,Source1,4,39.16086,-78.15511,2020,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7005476,VA,Frederick,Winchester,Source1,4,39.16086,-78.15511,2020,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7054346,VA,Frederick,Clear Brook,Source1,4,39.2644,-78.09229,2020,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7054348,VA,Frederick,Clear Brook,Source1,4,39.26352,-78.0928,2020,3,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7059744,VA,Frederick,Clear Brook,Source1,3,39.25391,-78.10306,2020,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7108958,VA,Frederick,Gore,Source1,4,39.26571,-78.32836,2020,5,Tuesday,Rain,False,False,False,False,False,False,False
+A-7218939,VA,Frederick,Winchester,Source1,4,39.18106,-78.08235,2020,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7265877,VA,Frederick,Winchester,Source1,3,39.18126,-78.08218000000002,2020,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7265974,VA,Frederick,Winchester,Source1,3,39.13063,-78.18218,2020,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-7284222,VA,Frederick,Winchester,Source1,4,39.18737,-78.1193,2020,22,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-7284223,VA,Frederick,Winchester,Source1,4,39.18695,-78.12003,2020,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7298168,VA,Frederick,Clear Brook,Source1,4,39.28512,-78.08725,2019,23,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7316220,VA,Frederick,Winchester,Source1,4,39.13491,-78.12114,2019,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-7358587,VA,Frederick,Winchester,Source1,3,39.18528,-78.1367,2019,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7358589,VA,Frederick,Stephens City,Source1,4,39.11782,-78.19333,2019,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7387156,VA,Frederick,Middletown,Source1,3,39.02998,-78.26776,2019,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7387157,VA,Frederick,Middletown,Source1,3,39.02611,-78.27186999999998,2019,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7411589,VA,Frederick,Winchester,Source1,3,39.18106,-78.08235,2019,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7427541,VA,Frederick,Winchester,Source1,4,39.136704,-78.159852,2019,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7427542,VA,Frederick,Winchester,Source1,4,39.147017,-78.160442,2019,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7427543,VA,Frederick,Winchester,Source1,4,39.136704,-78.159852,2019,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7427544,VA,Frederick,Winchester,Source1,4,39.147017,-78.160442,2019,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7432064,VA,Frederick,Winchester,Source1,4,39.22547,-78.27988,2019,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7452449,VA,Frederick,Winchester,Source1,4,39.104008,-78.158082,2019,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7465931,VA,Frederick,Winchester,Source1,4,39.109457,-78.116456,2019,5,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7475067,VA,Frederick,Middletown,Source1,4,39.0254,-78.27291,2018,1,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7486314,VA,Frederick,Winchester,Source1,3,39.15579,-78.160667,2018,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7500427,VA,Frederick,Winchester,Source1,3,39.12327,-78.18927,2018,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7504341,VA,Frederick,Winchester,Source1,4,39.157609,-78.146766,2018,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7504348,VA,Frederick,Winchester,Source1,4,39.1274,-78.15874000000002,2018,20,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-7530212,VA,Frederick,Winchester,Source1,3,39.16228,-78.15722,2018,6,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7536814,VA,Frederick,Stephens City,Source1,4,39.086573,-78.21519599999998,2018,3,Monday,Cloudy,False,False,False,False,False,False,False
+A-7536815,VA,Frederick,Stephens City,Source1,4,39.0842,-78.21734000000002,2018,3,Monday,Cloudy,False,False,False,False,False,False,False
+A-7538075,VA,Frederick,Winchester,Source1,3,39.115099,-78.195931,2018,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7557416,VA,Frederick,Winchester,Source1,4,39.162076,-78.157875,2018,12,Friday,Cloudy,False,False,True,False,False,False,False
+A-7558482,VA,Frederick,Winchester,Source1,4,39.087598,-78.149889,2018,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7559468,VA,Frederick,Winchester,Source1,3,39.119887,-78.189991,2018,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7564016,VA,Frederick,Winchester,Source1,4,39.19471,-78.23134,2018,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7572802,VA,Frederick,Winchester,Source1,4,39.212236,-78.137114,2018,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7586625,VA,Frederick,Middletown,Source1,4,39.02507,-78.27339,2018,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-7586626,VA,Frederick,Middletown,Source1,4,39.02507,-78.27339,2018,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-7588535,VA,Frederick,Cross Junction,Source1,4,39.341504,-78.306025,2018,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7598734,VA,Frederick,Winchester,Source1,4,39.12423,-78.19421,2018,21,Friday,Cloudy,True,False,False,False,False,False,False
+A-7598735,VA,Frederick,Winchester,Source1,4,39.122202,-78.194568,2018,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-7604669,VA,Frederick,Middletown,Source1,4,39.02569,-78.28293199999997,2018,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7604670,VA,Frederick,Middletown,Source1,4,39.025733,-78.282876,2018,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7615608,VA,Frederick,Winchester,Source1,4,39.239967,-78.200514,2018,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7615609,VA,Frederick,Winchester,Source1,4,39.244383,-78.202078,2018,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7619030,VA,Frederick,Winchester,Source1,4,39.193386,-78.197135,2018,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7619053,VA,Frederick,Winchester,Source1,4,39.255285,-78.216363,2018,22,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7619054,VA,Frederick,Winchester,Source1,4,39.260468,-78.223246,2018,22,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7624047,VA,Frederick,Stephens City,Source1,4,39.05123,-78.243481,2018,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7625372,VA,Frederick,Winchester,Source1,4,39.116468,-78.1996,2018,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7636403,VA,Frederick,Winchester,Source1,4,39.122441,-78.189509,2018,6,Tuesday,Rain,False,False,False,False,False,False,False
+A-7637815,VA,Frederick,Winchester,Source1,4,39.198616,-78.24896,2018,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7638492,VA,Frederick,Winchester,Source1,4,39.127004,-78.193449,2018,16,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-7643336,VA,Frederick,Stephens City,Source1,4,39.056485,-78.249085,2017,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7643337,VA,Frederick,Middletown,Source1,4,39.04999,-78.25536,2017,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7670113,VA,Frederick,Winchester,Source1,3,39.171416,-78.15199799999998,2017,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7698077,VA,Frederick,Winchester,Source1,4,39.189037,-78.134741,2017,3,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7701095,VA,Frederick,Clear Brook,Source1,3,39.26076,-78.09908,2017,4,Sunday,Cloudy,False,False,True,False,False,False,False
+A-7726109,VA,Frederick,Stephens City,Source1,3,39.057289,-78.23866,2019,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7729271,VA,Frederick,Winchester,Source1,4,39.189625,-78.19991999999998,2019,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7729273,VA,Frederick,Winchester,Source1,3,39.19457,-78.19628,2019,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7735828,VA,Frederick,Winchester,Source1,4,39.18845,-78.11232,2019,0,Monday,Rain,True,False,False,False,False,False,False
+A-7762593,VA,Frederick,Stephens City,Source1,4,39.11782,-78.19333,2019,8,Tuesday,Rain,False,False,False,False,False,False,False

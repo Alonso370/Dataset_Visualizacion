@@ -1,0 +1,344 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-150256,GA,Muscogee,Columbus,Source2,3,32.462257,-84.92930600000003,2016,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-155071,GA,Muscogee,Columbus,Source2,3,32.545193,-84.961136,2016,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-157269,GA,Muscogee,Columbus,Source2,3,32.534431,-84.959435,2016,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-158423,GA,Muscogee,Columbus,Source2,3,32.466831,-84.929436,2016,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-159210,GA,Muscogee,Columbus,Source2,3,32.494831,-84.943794,2016,17,Thursday,Rain,False,False,False,False,False,False,False
+A-159211,GA,Muscogee,Columbus,Source3,3,32.483974,-84.94010899999998,2016,17,Thursday,Rain,False,False,False,False,False,False,False
+A-159212,GA,Muscogee,Columbus,Source2,3,32.479641,-84.937675,2016,17,Thursday,Rain,False,False,False,False,False,False,False
+A-323086,GA,Muscogee,Columbus,Source2,3,32.482807,-84.939552,2017,16,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-362696,GA,Muscogee,Columbus,Source2,3,32.519226,-84.953232,2017,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-363461,GA,Muscogee,Columbus,Source2,3,32.482807,-84.939552,2017,10,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-414014,GA,Muscogee,Columbus,Source2,3,32.482807,-84.939552,2017,15,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-443497,GA,Muscogee,Columbus,Source2,3,32.471832,-84.933266,2017,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-444127,GA,Muscogee,Columbus,Source2,3,32.482807,-84.939552,2017,14,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-469328,GA,Muscogee,Columbus,Source2,3,32.503601,-84.948189,2017,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-514759,GA,Muscogee,Columbus,Source2,3,32.543327000000005,-84.960472,2022,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-532426,GA,Muscogee,Columbus,Source2,3,32.519215,-84.95324699999998,2022,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-534198,GA,Muscogee,Columbus,Source2,3,32.463177,-84.929314,2022,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-544543,GA,Muscogee,Fortson,Source2,3,32.603519,-84.952049,2022,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-566474,GA,Muscogee,Columbus,Source2,3,32.466522,-84.929558,2022,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-576456,GA,Muscogee,Columbus,Source2,3,32.506653,-84.95018,2022,18,Sunday,Storm,False,False,True,False,False,False,False
+A-582623,GA,Muscogee,Columbus,Source2,3,32.483105,-84.939476,2022,7,Monday,Cloudy,True,False,False,False,False,False,False
+A-584286,GA,Muscogee,Columbus,Source2,3,32.484131,-84.940178,2022,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-594005,GA,Muscogee,Columbus,Source2,3,32.486774,-84.941299,2022,12,Tuesday,Rain,False,False,False,False,False,False,False
+A-596819,GA,Muscogee,Fortson,Source2,3,32.576427,-84.961479,2022,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-614495,GA,Muscogee,Columbus,Source2,3,32.482758000000004,-84.939392,2022,5,Monday,Storm,True,False,False,False,False,False,False
+A-667221,GA,Muscogee,Columbus,Source2,3,32.50642,-84.95010400000002,2022,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-672295,GA,Muscogee,Columbus,Source2,3,32.501251,-84.94654799999998,2022,12,Friday,Storm,False,False,False,False,False,False,False
+A-679177,GA,Muscogee,Columbus,Source2,3,32.539589,-84.95983100000002,2022,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-683271,GA,Muscogee,Columbus,Source2,3,32.541988,-84.960243,2022,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-684032,GA,Muscogee,Fort Benning,Source2,3,32.405476,-84.92437,2022,8,Wednesday,Rain,False,False,True,False,False,False,False
+A-708478,GA,Muscogee,Fortson,Source2,3,32.603432,-84.952087,2022,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-709940,GA,Muscogee,Columbus,Source2,3,32.545345000000005,-84.961166,2022,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-721658,GA,Muscogee,Columbus,Source2,3,32.507973,-84.950562,2022,14,Friday,Rain,False,False,False,False,False,False,False
+A-722347,GA,Muscogee,Columbus,Source2,3,32.483878999999995,-84.940308,2022,7,Friday,Rain,False,False,False,False,False,False,False
+A-725797,GA,Muscogee,Columbus,Source3,3,32.566196000000005,-84.96234100000002,2022,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-728266,GA,Muscogee,Columbus,Source2,3,32.483124,-84.939667,2022,16,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-729540,GA,Muscogee,Columbus,Source2,3,32.506245,-84.949585,2022,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-756496,GA,Muscogee,Columbus,Source2,3,32.54517,-84.960808,2022,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-758113,GA,Muscogee,Fortson,Source2,3,32.604244,-84.95229300000003,2022,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-784989,GA,Muscogee,Columbus,Source2,3,32.482758000000004,-84.939392,2021,9,Friday,Cloudy,True,False,False,False,False,False,False
+A-785048,GA,Muscogee,Columbus,Source2,4,32.482758000000004,-84.939392,2021,9,Friday,Cloudy,True,False,False,False,False,False,False
+A-792733,GA,Muscogee,Columbus,Source2,3,32.461708,-84.929153,2021,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-844620,GA,Muscogee,Fortson,Source2,3,32.593925,-84.957336,2021,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-859063,GA,Muscogee,Columbus,Source2,3,32.506638,-84.95018,2021,20,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-875547,GA,Muscogee,Columbus,Source2,3,32.506245,-84.949585,2021,8,Tuesday,Rain,False,False,False,False,False,False,False
+A-876570,GA,Muscogee,Columbus,Source2,3,32.523777,-84.957298,2021,16,Monday,Rain,False,False,False,False,False,False,False
+A-883342,GA,Muscogee,Columbus,Source2,4,32.518822,-84.952873,2021,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-890466,GA,Muscogee,Columbus,Source2,3,32.48513,-84.94066600000002,2021,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-891842,GA,Muscogee,Columbus,Source2,4,32.482731,-84.939476,2021,7,Monday,Cloudy,True,False,False,False,False,False,False
+A-897018,GA,Muscogee,Columbus,Source2,3,32.506245,-84.949585,2021,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-908784,GA,Muscogee,Columbus,Source2,3,32.545609000000006,-84.96122,2021,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-919386,GA,Muscogee,Columbus,Source2,3,32.545292,-84.961159,2021,13,Sunday,Rain,False,False,False,False,False,False,False
+A-923752,GA,Muscogee,Columbus,Source2,3,32.482758000000004,-84.939392,2021,14,Thursday,Cloudy,True,False,False,False,False,False,False
+A-929310,GA,Muscogee,Columbus,Source2,3,32.482758000000004,-84.939392,2021,12,Sunday,Cloudy,True,False,False,False,False,False,False
+A-941941,GA,Muscogee,Columbus,Source2,3,32.506245,-84.949585,2021,15,Tuesday,Storm,False,False,False,False,False,False,False
+A-942674,GA,Muscogee,Columbus,Source2,3,32.461708,-84.929153,2021,20,Saturday,Rain,False,False,False,False,False,False,False
+A-957745,GA,Muscogee,Fortson,Source2,3,32.603455,-84.952477,2021,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-963240,GA,Muscogee,Columbus,Source2,3,32.461708,-84.929153,2021,13,Thursday,Storm,False,False,False,False,False,False,False
+A-964603,GA,Muscogee,Columbus,Source2,3,32.518772,-84.952934,2021,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-970984,GA,Muscogee,Columbus,Source2,3,32.482758000000004,-84.939392,2021,11,Monday,Cloudy,True,False,False,False,False,False,False
+A-972356,GA,Muscogee,Columbus,Source2,3,32.482758000000004,-84.939392,2021,14,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-981374,GA,Muscogee,Columbus,Source2,3,32.446098,-84.927773,2021,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1009976,GA,Muscogee,Columbus,Source2,3,32.506245,-84.949585,2021,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1009979,GA,Muscogee,Columbus,Source2,3,32.446098,-84.927773,2021,15,Thursday,Rain,False,False,False,False,False,False,False
+A-1009980,GA,Muscogee,Columbus,Source2,3,32.48278,-84.939323,2021,17,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-1014943,GA,Muscogee,Columbus,Source2,3,32.482758000000004,-84.939392,2021,9,Monday,Cloudy,True,False,False,False,False,False,False
+A-1045203,GA,Muscogee,Columbus,Source2,3,32.482758000000004,-84.939392,2021,16,Friday,Cloudy,True,False,False,False,False,False,False
+A-1063983,GA,Muscogee,Columbus,Source2,3,32.513721000000004,-84.95058399999998,2021,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1099106,GA,Muscogee,Columbus,Source2,3,32.506245,-84.949585,2021,22,Wednesday,Rain,False,False,False,False,False,False,False
+A-1107952,GA,Muscogee,Columbus,Source2,4,32.547691,-84.949821,2021,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1114896,GA,Muscogee,Columbus,Source2,3,32.507038,-84.950142,2021,7,Thursday,Rain,False,False,False,False,False,False,False
+A-1117831,GA,Muscogee,Columbus,Source2,3,32.530331,-84.959419,2021,17,Tuesday,Rain,False,False,False,False,False,False,False
+A-1134049,GA,Muscogee,Columbus,Source2,3,32.482758000000004,-84.939392,2021,10,Tuesday,Rain,True,False,False,False,False,False,False
+A-1139291,GA,Muscogee,Columbus,Source2,3,32.506245,-84.949585,2021,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1152424,GA,Muscogee,Columbus,Source2,4,32.483021,-84.939613,2021,15,Monday,Rain,True,False,False,False,False,False,False
+A-1160872,GA,Muscogee,Columbus,Source2,3,32.506245,-84.949585,2021,8,Tuesday,Rain,False,False,False,False,False,False,False
+A-1160874,GA,Muscogee,Columbus,Source2,3,32.506245,-84.949585,2021,9,Tuesday,Rain,False,False,False,False,False,False,False
+A-1165542,GA,Muscogee,Columbus,Source2,3,32.474476,-84.93539399999997,2021,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1179834,GA,Muscogee,Columbus,Source2,3,32.483128,-84.939491,2021,6,Tuesday,Rain,True,False,False,False,False,False,False
+A-1185918,GA,Muscogee,Columbus,Source2,3,32.502865,-84.947845,2021,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1187364,GA,Muscogee,Columbus,Source2,3,32.48278,-84.939323,2021,8,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-1188680,GA,Muscogee,Columbus,Source2,3,32.545818,-84.960915,2021,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1188685,GA,Muscogee,Columbus,Source2,3,32.545818,-84.960915,2021,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1194061,GA,Muscogee,Columbus,Source2,3,32.518772,-84.952934,2021,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1207907,GA,Muscogee,Columbus,Source2,3,32.482758000000004,-84.939392,2021,8,Friday,Cloudy,True,False,False,False,False,False,False
+A-1226838,GA,Muscogee,Columbus,Source2,3,32.508198,-84.9506,2020,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1249910,GA,Muscogee,Columbus,Source2,3,32.505340999999994,-84.94961500000002,2020,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1267372,GA,Muscogee,Columbus,Source2,3,32.560379,-84.962303,2020,6,Friday,Cloudy,False,False,True,False,False,False,False
+A-1271343,GA,Muscogee,Columbus,Source2,3,32.519245,-84.953049,2020,8,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-1273237,GA,Muscogee,Columbus,Source2,3,32.51997,-84.954773,2020,9,Tuesday,Rain,False,False,False,False,False,False,False
+A-1292659,GA,Muscogee,Columbus,Source2,3,32.493828,-84.943398,2020,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1296306,GA,Muscogee,Columbus,Source2,3,32.506577,-84.95015699999998,2020,16,Saturday,Cloudy,False,False,True,False,False,False,False
+A-1300966,GA,Muscogee,Columbus,Source2,3,32.506855,-84.950249,2020,17,Wednesday,Rain,False,False,True,False,False,False,False
+A-1316910,GA,Muscogee,Columbus,Source2,3,32.519478,-84.953491,2020,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1320299,GA,Muscogee,Columbus,Source2,3,32.54045900000001,-84.87203199999998,2020,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1320300,GA,Muscogee,Columbus,Source2,3,32.547691,-84.949821,2020,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1323759,GA,Muscogee,Columbus,Source2,3,32.567093,-84.962311,2020,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1331483,GA,Muscogee,Columbus,Source2,3,32.506805,-84.948784,2020,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1331505,GA,Muscogee,Columbus,Source2,3,32.545845,-84.960915,2020,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1333218,GA,Muscogee,Columbus,Source2,3,32.547691,-84.949821,2020,9,Friday,Rain,False,False,False,False,False,False,False
+A-1333229,GA,Muscogee,Columbus,Source2,3,32.490398,-84.943001,2020,12,Friday,Rain,False,False,False,False,False,False,False
+A-1341767,GA,Muscogee,Columbus,Source2,3,32.479149,-84.937523,2020,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1355931,GA,Muscogee,Columbus,Source2,3,32.483871,-84.93985699999998,2020,15,Saturday,Storm,False,False,False,False,False,False,False
+A-1365896,GA,Muscogee,Fort Benning,Source2,4,32.405476,-84.92437,2020,20,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1374227,GA,Muscogee,Columbus,Source2,3,32.542969,-84.964958,2020,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1387228,GA,Muscogee,Columbus,Source2,3,32.545746,-84.960899,2020,16,Wednesday,Storm,False,False,False,False,False,False,False
+A-1391181,GA,Muscogee,Columbus,Source2,3,32.461708,-84.929153,2020,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1393951,GA,Muscogee,Columbus,Source2,3,32.483143,-84.939499,2020,14,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-1405384,GA,Muscogee,Columbus,Source2,3,32.482758000000004,-84.939392,2020,14,Thursday,Cloudy,True,False,False,False,False,False,False
+A-1422205,GA,Muscogee,Columbus,Source2,3,32.55127,-84.962379,2020,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1423862,GA,Muscogee,Columbus,Source2,3,32.479069,-84.937485,2020,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-1438133,GA,Muscogee,Columbus,Source2,3,32.462685,-84.92971800000002,2020,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1441177,GA,Muscogee,Columbus,Source2,3,32.483124,-84.939491,2020,18,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-1448042,GA,Muscogee,Midland,Source2,3,32.540465999999995,-84.825272,2020,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1449438,GA,Muscogee,Columbus,Source2,3,32.487267,-84.941544,2020,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1449485,GA,Muscogee,Columbus,Source2,4,32.461704,-84.929298,2020,21,Wednesday,Storm,False,False,False,False,False,False,False
+A-1450975,GA,Muscogee,Fort Benning,Source2,3,32.406967,-84.92472099999998,2020,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1463906,GA,Muscogee,Columbus,Source2,3,32.518917,-84.95272800000002,2020,19,Friday,Rain,False,False,False,False,False,False,False
+A-1472055,GA,Muscogee,Columbus,Source2,3,32.482758000000004,-84.939392,2020,8,Sunday,Cloudy,True,False,False,False,False,False,False
+A-1512273,GA,Muscogee,Columbus,Source2,3,32.483051,-84.93962900000002,2020,6,Wednesday,Rain,True,False,False,False,False,False,False
+A-1512280,GA,Muscogee,Columbus,Source2,3,32.517639,-84.95179,2020,7,Wednesday,Storm,False,False,False,False,False,False,False
+A-1512300,GA,Muscogee,Columbus,Source2,3,32.482758000000004,-84.939392,2020,10,Wednesday,Rain,True,False,False,False,False,False,False
+A-1512329,GA,Muscogee,Columbus,Source2,3,32.519913,-84.953682,2020,18,Wednesday,Rain,False,False,False,False,False,False,False
+A-1514438,GA,Muscogee,Columbus,Source2,3,32.482784,-84.939323,2020,6,Thursday,Rain,True,False,False,False,False,False,False
+A-1514459,GA,Muscogee,Columbus,Source2,4,32.461704,-84.929298,2020,7,Thursday,Rain,False,False,False,False,False,False,False
+A-1521744,GA,Muscogee,Columbus,Source2,3,32.482758000000004,-84.939392,2020,11,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-1521750,GA,Muscogee,Columbus,Source2,3,32.566589,-84.962265,2020,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1539931,GA,Muscogee,Columbus,Source2,3,32.567837,-84.961952,2020,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1544147,GA,Muscogee,Columbus,Source2,3,32.505859,-84.949097,2020,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1560210,GA,Muscogee,Columbus,Source2,3,32.483295,-84.939758,2020,8,Monday,Rain,False,False,False,False,False,False,False
+A-1571681,GA,Muscogee,Columbus,Source2,3,32.547241,-84.959183,2020,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-1571683,GA,Muscogee,Columbus,Source2,3,32.483509000000005,-84.939865,2020,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-1573824,GA,Muscogee,Columbus,Source2,3,32.519047,-84.953087,2020,10,Tuesday,Rain,False,False,False,False,False,False,False
+A-1573838,GA,Muscogee,Columbus,Source2,3,32.506245,-84.949585,2020,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-1581436,GA,Muscogee,Columbus,Source2,3,32.483589,-84.939903,2020,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1596047,GA,Muscogee,Columbus,Source2,3,32.482758000000004,-84.939392,2020,9,Thursday,Cloudy,True,False,False,False,False,False,False
+A-1598354,GA,Muscogee,Columbus,Source2,3,32.547691,-84.949821,2020,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1618257,GA,Muscogee,Columbus,Source2,3,32.483067,-84.939636,2020,14,Wednesday,Rain,True,False,False,False,False,False,False
+A-1618258,GA,Muscogee,Columbus,Source2,3,32.483067,-84.939636,2020,14,Wednesday,Rain,True,False,False,False,False,False,False
+A-1627058,GA,Muscogee,Columbus,Source2,3,32.483551,-84.939697,2020,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1633191,GA,Muscogee,Columbus,Source2,3,32.483055,-84.93962900000002,2020,8,Thursday,Cloudy,True,False,False,False,False,False,False
+A-1633208,GA,Muscogee,Columbus,Source2,3,32.46228,-84.929314,2020,13,Thursday,Rain,False,False,False,False,False,False,False
+A-1635908,GA,Muscogee,Columbus,Source2,3,32.48315,-84.93950699999998,2020,7,Friday,Cloudy,True,False,False,False,False,False,False
+A-1642035,GA,Muscogee,Columbus,Source2,3,32.54607,-84.963257,2020,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1646727,GA,Muscogee,Columbus,Source2,4,32.462059,-84.92930600000003,2020,7,Thursday,Rain,False,False,False,False,False,False,False
+A-1650775,GA,Muscogee,Columbus,Source2,3,32.461708,-84.929153,2020,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1650779,GA,Muscogee,Columbus,Source2,3,32.474072,-84.934998,2020,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1654752,GA,Muscogee,Columbus,Source2,3,32.495968,-84.944389,2020,7,Tuesday,Rain,False,False,False,False,False,False,False
+A-1656984,GA,Muscogee,Columbus,Source2,3,32.446098,-84.927773,2020,9,Wednesday,Rain,False,False,False,False,False,False,False
+A-1659055,GA,Muscogee,Columbus,Source2,3,32.434738,-84.92648299999998,2020,8,Thursday,Rain,False,False,False,False,False,False,False
+A-1675840,GA,Muscogee,Columbus,Source2,3,32.5065,-84.950127,2020,17,Thursday,Cloudy,False,False,True,False,False,False,False
+A-1677637,GA,Muscogee,Fortson,Source2,3,32.598698,-84.954605,2020,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-1677644,GA,Muscogee,Columbus,Source2,3,32.482758000000004,-84.939392,2020,9,Friday,Rain,True,False,False,False,False,False,False
+A-1677677,GA,Muscogee,Columbus,Source2,3,32.519192,-84.953224,2020,16,Friday,Rain,False,False,False,False,False,False,False
+A-1693991,GA,Muscogee,Columbus,Source2,3,32.482758000000004,-84.939392,2019,16,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-1696624,GA,Muscogee,Columbus,Source2,3,32.483105,-84.939476,2019,7,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-1714646,GA,Muscogee,Columbus,Source2,3,32.445652,-84.927818,2019,6,Friday,Storm,False,False,False,False,False,False,False
+A-1714668,GA,Muscogee,Columbus,Source2,3,32.445789000000005,-84.927841,2019,8,Friday,Rain,False,False,False,False,False,False,False
+A-1716431,GA,Muscogee,Columbus,Source2,3,32.483917,-84.940071,2019,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1721645,GA,Muscogee,Columbus,Source2,3,32.482758000000004,-84.939392,2019,10,Tuesday,Rain,True,False,False,False,False,False,False
+A-1731040,GA,Muscogee,Columbus,Source2,3,32.495239,-84.94381700000002,2019,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1757995,GA,Muscogee,Columbus,Source2,3,32.482758000000004,-84.939392,2019,7,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-1772891,GA,Muscogee,Columbus,Source2,3,32.500801,-84.94632,2019,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1782117,GA,Muscogee,Columbus,Source2,3,32.518772,-84.952934,2019,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1784709,GA,Muscogee,Columbus,Source2,3,32.482758000000004,-84.939392,2019,14,Tuesday,Rain,True,False,False,False,False,False,False
+A-1823636,GA,Muscogee,Columbus,Source2,3,32.566589,-84.962265,2019,15,Friday,Rain,False,False,False,False,False,False,False
+A-1823645,GA,Muscogee,Columbus,Source2,3,32.482758000000004,-84.939392,2019,17,Friday,Rain,True,False,False,False,False,False,False
+A-1830243,GA,Muscogee,Columbus,Source2,3,32.518772,-84.952934,2019,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1838686,GA,Muscogee,Columbus,Source2,3,32.519447,-84.953461,2019,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1903520,GA,Muscogee,Fort Benning,Source2,3,32.406078,-84.924438,2019,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1908500,GA,Muscogee,Columbus,Source2,3,32.539654,-84.959839,2019,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1935552,GA,Muscogee,Columbus,Source2,3,32.482758000000004,-84.939392,2019,8,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-1937995,GA,Muscogee,Columbus,Source2,3,32.5434,-84.960487,2019,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1937998,GA,Muscogee,Columbus,Source2,3,32.544464000000005,-84.96067,2019,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1980623,GA,Muscogee,Columbus,Source2,3,32.53933,-84.959785,2019,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-1980639,GA,Muscogee,Columbus,Source2,3,32.50639,-84.950089,2019,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2039088,GA,Muscogee,Columbus,Source2,3,32.518772,-84.952934,2019,16,Friday,Storm,False,False,False,False,False,False,False
+A-2039093,GA,Muscogee,Columbus,Source2,3,32.518772,-84.952934,2019,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2042864,GA,Muscogee,Columbus,Source2,3,32.518772,-84.952934,2019,18,Monday,Rain,False,False,False,False,False,False,False
+A-2049805,GA,Muscogee,Columbus,Source2,3,32.446098,-84.927773,2019,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2092709,GA,Muscogee,Columbus,Source2,3,32.504799,-84.949272,2019,19,Thursday,Rain,False,False,False,False,False,False,False
+A-2152245,GA,Muscogee,Fortson,Source2,3,32.604816,-84.952049,2019,7,Saturday,Rain,False,False,False,False,False,False,False
+A-2168361,GA,Muscogee,Columbus,Source2,3,32.482758000000004,-84.939392,2019,16,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-2196518,GA,Muscogee,Columbus,Source2,3,32.560379,-84.962303,2019,19,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-2221180,GA,Muscogee,Fortson,Source2,3,32.604816,-84.952049,2019,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2228961,GA,Muscogee,Columbus,Source2,3,32.567139000000005,-84.962311,2019,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2244373,GA,Muscogee,Columbus,Source2,3,32.482719,-84.93937700000002,2019,9,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-2250057,GA,Muscogee,Columbus,Source2,3,32.482021,-84.939125,2019,8,Thursday,Rain,False,False,False,False,False,False,False
+A-2252579,GA,Muscogee,Columbus,Source2,3,32.484886,-84.940552,2019,8,Friday,Rain,False,False,False,False,False,False,False
+A-2289820,GA,Muscogee,Columbus,Source2,3,32.506294,-84.949783,2019,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2296653,GA,Muscogee,Columbus,Source2,3,32.518809999999995,-84.953049,2019,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2299315,GA,Muscogee,Columbus,Source2,3,32.482719,-84.93937700000002,2019,13,Thursday,Rain,True,False,False,False,False,False,False
+A-2317823,GA,Muscogee,Columbus,Source2,3,32.442532,-84.927261,2019,6,Friday,Rain,False,False,True,False,False,False,False
+A-2374552,GA,Muscogee,Columbus,Source2,3,32.482807,-84.939552,2018,10,Sunday,Cloudy,True,False,False,False,False,False,False
+A-2408319,GA,Muscogee,Fortson,Source2,3,32.604816,-84.952049,2018,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2428693,GA,Muscogee,Columbus,Source2,3,32.482807,-84.939552,2018,7,Friday,Cloudy,True,False,False,False,False,False,False
+A-2501099,GA,Muscogee,Columbus,Source2,3,32.462257,-84.92930600000003,2018,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2579555,GA,Muscogee,Columbus,Source2,3,32.470917,-84.93246500000002,2018,15,Wednesday,Rain,False,False,False,False,False,False,False
+A-2645183,GA,Muscogee,Columbus,Source2,3,32.487559999999995,-84.941864,2018,15,Tuesday,Rain,False,False,False,False,False,False,False
+A-2721140,GA,Muscogee,Columbus,Source3,3,32.479927,-84.93811,2018,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2739105,GA,Muscogee,Columbus,Source2,3,32.482807,-84.939552,2018,7,Sunday,Cloudy,True,False,False,False,False,False,False
+A-2780966,GA,Muscogee,Columbus,Source2,3,32.545193,-84.961136,2018,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2825024,GA,Muscogee,Columbus,Source2,3,32.505947,-84.949699,2018,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2853270,GA,Muscogee,Columbus,Source2,3,32.519226,-84.953232,2018,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2885606,GA,Muscogee,Columbus,Source2,3,32.482807,-84.939552,2018,9,Saturday,Cloudy,True,False,False,False,False,False,False
+A-2923076,GA,Muscogee,Fortson,Source2,3,32.603497,-84.952446,2018,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2996378,GA,Muscogee,Columbus,Source2,3,32.507874,-84.951317,2018,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3013840,GA,Muscogee,Columbus,Source2,3,32.545193,-84.961136,2018,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3072884,GA,Muscogee,Columbus,Source2,3,32.446468,-84.92791700000002,2018,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3171876,GA,Muscogee,Columbus,Source2,3,32.467869,-84.93013,2017,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3176550,GA,Muscogee,Columbus,Source2,3,32.446040999999994,-84.927856,2017,10,Thursday,Rain,False,False,False,False,False,False,False
+A-3176552,GA,Muscogee,Columbus,Source2,3,32.482807,-84.939552,2017,11,Thursday,Rain,True,False,False,False,False,False,False
+A-3182270,GA,Muscogee,Columbus,Source2,3,32.566887,-84.96198299999998,2017,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3204730,GA,Muscogee,Columbus,Source2,3,32.506199,-84.94935600000002,2017,16,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-3267262,GA,Muscogee,Columbus,Source2,3,32.446040999999994,-84.927856,2017,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3354590,GA,Muscogee,Columbus,Source2,3,32.506531,-84.95070600000003,2017,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3354592,GA,Muscogee,Columbus,Source2,3,32.479252,-84.937576,2017,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3361251,GA,Muscogee,Columbus,Source2,3,32.480366,-84.93809499999998,2017,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-3446929,GA,Muscogee,Columbus,Source1,4,32.40529,-84.924705,2016,6,Tuesday,Rain,False,False,False,False,False,False,False
+A-3462822,GA,Muscogee,Midland,Source1,4,32.53873,-84.84045,2017,14,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-3462824,GA,Muscogee,Midland,Source1,4,32.538834,-84.840987,2017,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3464406,GA,Muscogee,Columbus,Source1,4,32.45856,-84.92908,2016,13,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-3475769,GA,Muscogee,Midland,Source1,3,32.57751,-84.82117,2016,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-3475770,GA,Muscogee,Midland,Source1,3,32.572959999999995,-84.82423,2016,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-3476709,GA,Muscogee,Midland,Source1,4,32.53829,-84.84577,2016,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3484033,GA,Muscogee,Columbus,Source1,4,32.5037,-84.94827,2016,4,Sunday,Rain,False,False,False,False,False,False,False
+A-3484034,GA,Muscogee,Columbus,Source1,4,32.52315,-84.95699,2016,4,Sunday,Rain,False,False,True,False,False,False,False
+A-3484087,GA,Muscogee,Columbus,Source1,3,32.57261,-84.96204,2016,14,Sunday,Cloudy,False,False,True,False,False,False,False
+A-3484088,GA,Muscogee,Columbus,Source1,4,32.524736,-84.958004,2016,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3489472,GA,Muscogee,Columbus,Source1,4,32.52315,-84.95699,2016,16,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-3495931,GA,Muscogee,Columbus,Source1,3,32.55272,-84.9625,2016,18,Friday,Cloudy,False,False,True,False,False,False,False
+A-3502523,GA,Muscogee,Columbus,Source1,4,32.57261,-84.96204,2016,6,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-3580574,GA,Muscogee,Columbus,Source1,3,32.51475,-84.9506,2017,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3631850,GA,Muscogee,Columbus,Source1,4,32.516647,-84.951222,2017,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3701494,GA,Muscogee,Columbus,Source1,4,32.520349,-84.90973000000002,2023,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3755646,GA,Muscogee,Columbus,Source1,4,32.513787,-84.969626,2022,3,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3831824,GA,Muscogee,Columbus,Source1,4,32.407584,-84.93915600000003,2022,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3857482,GA,Muscogee,Columbus,Source1,4,32.505238,-84.973987,2022,0,Monday,Cloudy,False,False,False,False,False,False,False
+A-4008186,GA,Muscogee,Columbus,Source1,4,32.469414,-84.93114,2022,6,Monday,Rain,False,False,False,False,False,False,False
+A-4039627,GA,Muscogee,Columbus,Source1,4,32.521907,-84.98893100000002,2022,0,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-4147184,GA,Muscogee,Columbus,Source1,4,32.464562,-84.929163,2022,12,Saturday,Cloudy,False,False,True,False,False,False,False
+A-4158365,GA,Muscogee,Columbus,Source1,4,32.523964,-84.869226,2022,0,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-4191143,GA,Muscogee,Columbus,Source1,4,32.503769,-84.94832099999998,2023,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4224937,GA,Muscogee,Columbus,Source1,4,32.405273,-84.924934,2022,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4248450,GA,Muscogee,Columbus,Source1,4,32.522407,-84.98799100000002,2022,0,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4258878,GA,Muscogee,Columbus,Source1,4,32.547831,-84.961274,2022,22,Friday,Cloudy,False,False,False,False,False,False,False
+A-4290034,GA,Muscogee,Columbus,Source1,4,32.490665,-84.929806,2022,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4319798,GA,Muscogee,Columbus,Source1,4,32.541221,-84.960444,2022,2,Friday,Cloudy,False,False,False,False,False,False,False
+A-4445743,GA,Muscogee,Columbus,Source1,4,32.490055,-84.930734,2022,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4463640,GA,Muscogee,Columbus,Source1,4,32.485690000000005,-84.94095899999998,2022,6,Thursday,Cloudy,False,False,True,False,False,False,False
+A-4499520,GA,Muscogee,Midland,Source1,4,32.57254242881502,-84.82454895932756,2022,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4500916,GA,Muscogee,Columbus,Source1,4,32.446082000000004,-84.927689,2022,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4570834,GA,Muscogee,Columbus,Source1,4,32.502338,-84.947419,2023,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4605156,GA,Muscogee,Upatoi,Source1,4,32.55274,-84.767457,2022,3,Sunday,Clear / Fair,False,False,False,True,False,False,False
+A-4637614,GA,Muscogee,Columbus,Source1,4,32.507073,-84.97308699999998,2022,14,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-4685307,GA,Muscogee,Columbus,Source1,4,32.511237859570926,-84.95074152905966,2022,7,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-4747720,GA,Muscogee,Columbus,Source1,4,32.513827,-84.969792,2022,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4765866,GA,Muscogee,Midland,Source1,4,32.523819,-84.869226,2022,0,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-4796590,GA,Muscogee,Upatoi,Source1,4,32.55274,-84.767457,2022,3,Sunday,Clear / Fair,False,False,False,True,False,False,False
+A-4810850,GA,Muscogee,Columbus,Source1,4,32.407584,-84.93915600000003,2022,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4910790,GA,Muscogee,Columbus,Source1,4,32.489151,-84.93154799999998,2022,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4933395,GA,Muscogee,Columbus,Source1,4,32.464562,-84.929163,2022,12,Saturday,Cloudy,False,False,True,False,False,False,False
+A-5088382,GA,Muscogee,Columbus,Source1,4,32.46727108939901,-84.92958426435027,2022,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5092996,GA,Muscogee,Fort Benning,Source1,4,32.404958,-84.924113,2022,5,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-5136769,GA,Muscogee,Columbus,Source1,4,32.523964,-84.869226,2022,0,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-5194357,GA,Muscogee,Columbus,Source1,4,32.506918,-84.972945,2022,14,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-5199299,GA,Muscogee,Columbus,Source1,4,32.45071,-84.98010699999998,2022,2,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5227138,GA,Muscogee,Columbus,Source1,4,32.560114,-84.962329,2022,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5311961,GA,Muscogee,Columbus,Source1,4,32.537627,-84.95950400000002,2022,2,Friday,Cloudy,False,False,True,False,False,False,False
+A-5391370,GA,Muscogee,Columbus,Source1,4,32.47915863975296,-84.9375236030343,2022,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5396935,GA,Muscogee,Columbus,Source1,4,32.520893,-84.954628,2022,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5411839,GA,Muscogee,Columbus,Source1,4,32.545645,-84.961217,2022,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5459443,GA,Muscogee,Columbus,Source1,4,32.506408,-84.94990899999998,2023,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5490206,GA,Muscogee,Columbus,Source1,4,32.47915863975296,-84.9375236030343,2021,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5501106,GA,Muscogee,Columbus,Source1,4,32.458188,-84.929126,2021,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5536152,GA,Muscogee,Columbus,Source1,4,32.54724383338667,-84.9515783782723,2021,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5552050,GA,Muscogee,Columbus,Source1,4,32.506453,-84.949924,2021,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5691753,GA,Muscogee,Columbus,Source1,4,32.44442,-84.971843,2021,0,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5733850,GA,Muscogee,Columbus,Source1,4,32.447752,-84.97954399999998,2021,0,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5767540,GA,Muscogee,Columbus,Source1,4,32.441800832593714,-84.9273312087778,2021,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5974884,GA,Muscogee,Columbus,Source1,4,32.50934958442445,-84.99327063519958,2021,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5995099,GA,Muscogee,Columbus,Source1,4,32.509122,-84.994043,2021,18,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-6653520,GA,Muscogee,Columbus,Source1,4,32.520691,-84.964457,2020,13,Friday,Cloudy,True,True,False,False,False,False,False
+A-6657601,GA,Muscogee,Columbus,Source1,4,32.499071,-84.945784,2020,2,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6701247,GA,Muscogee,Fort Benning,Source1,4,32.404164,-84.90355600000002,2020,21,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-6787928,GA,Muscogee,Columbus,Source1,4,32.544903999999995,-84.873214,2020,23,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-6799872,GA,Muscogee,Columbus,Source1,4,32.554559999999995,-84.91128,2020,23,Tuesday,Rain,False,False,True,False,False,False,False
+A-6846266,GA,Muscogee,Columbus,Source1,4,32.520691,-84.964457,2020,13,Friday,Cloudy,True,True,False,False,False,False,False
+A-6983821,GA,Muscogee,Columbus,Source1,3,32.49153,-84.9431,2020,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7072699,GA,Muscogee,Fort Benning,Source1,3,32.40102,-84.92642,2020,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7077903,GA,Muscogee,Columbus,Source1,3,32.50983,-84.99314,2020,17,Wednesday,Storm,False,False,False,False,False,False,False
+A-7077910,GA,Muscogee,Columbus,Source1,3,32.50948,-84.99354,2020,17,Wednesday,Storm,False,False,False,False,False,False,False
+A-7129019,GA,Muscogee,Columbus,Source1,4,32.50544,-84.94946,2020,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7186776,GA,Muscogee,Columbus,Source1,3,32.49153,-84.9431,2020,8,Monday,Rain,False,False,False,False,False,False,False
+A-7186810,GA,Muscogee,Columbus,Source1,3,32.49153,-84.9431,2020,8,Monday,Rain,False,False,False,False,False,False,False
+A-7206185,GA,Muscogee,Columbus,Source1,4,32.5566,-84.94481,2020,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7206186,GA,Muscogee,Columbus,Source1,4,32.55584,-84.94572,2020,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7209256,GA,Muscogee,Columbus,Source1,3,32.48305,-84.93945,2020,17,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-7212696,GA,Muscogee,Midland,Source1,4,32.596470000000004,-84.90892,2020,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7245770,GA,Muscogee,Columbus,Source1,4,32.433209999999995,-84.95557,2020,2,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7251777,GA,Muscogee,Columbus,Source1,4,32.499520000000004,-84.94594000000002,2020,13,Thursday,Rain,False,False,False,False,False,False,False
+A-7261290,GA,Muscogee,Columbus,Source1,4,32.4647,-84.92931,2020,8,Thursday,Rain,False,False,True,False,False,False,False
+A-7268815,GA,Muscogee,Columbus,Source1,3,32.449659999999994,-84.92831,2020,9,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7275152,GA,Muscogee,Columbus,Source1,4,32.47915,-84.93751999999998,2020,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7276344,GA,Muscogee,Columbus,Source1,4,32.45825,-84.92909,2020,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7284271,GA,Muscogee,Columbus,Source1,4,32.54088,-84.96996999999998,2020,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7320497,GA,Muscogee,Upatoi,Source1,4,32.54861,-84.70366999999997,2019,8,Thursday,Clear / Fair,False,False,False,True,False,False,False
+A-7358681,GA,Muscogee,Columbus,Source1,3,32.52315,-84.95699,2019,21,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7408259,GA,Muscogee,Columbus,Source1,4,32.524159999999995,-84.98293000000002,2019,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7435765,GA,Muscogee,Columbus,Source1,4,32.50581,-84.94983,2019,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7450327,GA,Muscogee,Columbus,Source1,3,32.516073,-84.950843,2019,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7496136,GA,Muscogee,Columbus,Source1,3,32.447037,-84.978473,2018,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-7496137,GA,Muscogee,Columbus,Source1,3,32.445959,-84.97554699999998,2018,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-7496858,GA,Muscogee,Columbus,Source1,3,32.444320000000005,-84.97168,2018,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7496859,GA,Muscogee,Columbus,Source1,3,32.448107,-84.979749,2018,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7534657,GA,Muscogee,Columbus,Source1,3,32.45856,-84.92908,2018,15,Wednesday,Rain,False,False,True,False,False,False,False
+A-7547998,GA,Muscogee,Columbus,Source1,3,32.48780900000001,-84.941999,2018,15,Tuesday,Rain,False,False,False,False,False,False,False
+A-7563191,GA,Muscogee,Columbus,Source1,4,32.47915,-84.93751999999998,2018,0,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7563192,GA,Muscogee,Columbus,Source1,4,32.485620000000004,-84.94091,2018,0,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7563314,GA,Muscogee,Columbus,Source1,4,32.485620000000004,-84.94091,2018,1,Sunday,Rain,False,False,False,False,False,False,False
+A-7581265,GA,Muscogee,Columbus,Source1,4,32.54702,-84.956,2018,20,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7581266,GA,Muscogee,Columbus,Source1,4,32.550270000000005,-84.96154,2018,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7581267,GA,Muscogee,Columbus,Source1,4,32.54656,-84.961051,2018,20,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7616436,GA,Muscogee,Columbus,Source1,4,32.51091,-84.95075,2018,14,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7619701,GA,Muscogee,Columbus,Source1,4,32.5464,-84.96085,2018,6,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7619702,GA,Muscogee,Columbus,Source1,4,32.54702,-84.956,2018,6,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7620242,GA,Muscogee,Columbus,Source1,3,32.503917,-84.948612,2018,11,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7622380,GA,Muscogee,Columbus,Source1,4,32.52826,-84.97584,2018,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7672926,GA,Muscogee,Columbus,Source1,4,32.526408,-84.961102,2017,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7672927,GA,Muscogee,Columbus,Source1,4,32.531415,-84.95642600000002,2017,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7675454,GA,Muscogee,Columbus,Source1,3,32.449659999999994,-84.92831,2017,8,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7675921,GA,Muscogee,Midland,Source1,4,32.541849,-84.873199,2017,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7679500,GA,Muscogee,Columbus,Source1,4,32.51703,-84.99266999999998,2017,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7688204,GA,Muscogee,Midland,Source1,3,32.53843,-84.84578,2017,0,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7690932,GA,Muscogee,Columbus,Source1,3,32.51091,-84.95075,2017,10,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7694882,GA,Muscogee,Columbus,Source1,4,32.51703,-84.99266999999998,2017,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7702852,GA,Muscogee,Midland,Source1,4,32.538881,-84.840618,2019,12,Wednesday,Clear / Fair,True,True,False,False,False,False,False
+A-7709787,GA,Muscogee,Columbus,Source1,4,32.545527,-84.87305699999997,2019,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7730854,GA,Muscogee,Columbus,Source1,4,32.486728,-84.94127900000002,2019,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7737269,GA,Muscogee,Columbus,Source1,4,32.48165,-84.98775,2019,12,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-7739811,GA,Muscogee,Columbus,Source1,3,32.47915,-84.93751999999998,2019,17,Tuesday,Rain,False,False,False,False,False,False,False
+A-7745860,GA,Muscogee,Columbus,Source1,4,32.56112,-84.96229,2019,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7745864,GA,Muscogee,Fortson,Source1,3,32.59872,-84.95459,2019,17,Saturday,Clear / Fair,False,False,False,False,False,False,False

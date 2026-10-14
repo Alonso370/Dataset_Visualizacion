@@ -1,0 +1,337 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-534837,PA,Lycoming,Montoursville,Source2,3,41.25787,-76.896957,2022,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-544568,PA,Lycoming,Montoursville,Source2,3,41.252964,-76.860588,2022,19,Friday,Rain,False,False,False,False,False,False,False
+A-549649,PA,Lycoming,Muncy,Source2,3,41.18541,-76.788933,2022,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-554020,PA,Lycoming,Muncy,Source3,3,41.18602,-76.78780400000002,2022,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-557781,PA,Lycoming,Trout Run,Source2,3,41.44455,-77.191498,2022,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-564901,PA,Lycoming,Williamsport,Source2,3,41.234009,-76.99369,2022,19,Friday,Clear / Fair,True,True,False,False,False,False,False
+A-595766,PA,Lycoming,Muncy,Source2,3,41.2379,-76.809273,2022,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-613584,PA,Lycoming,Montoursville,Source2,3,41.25787,-76.896957,2022,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-689865,PA,Lycoming,Montoursville,Source2,3,41.247131,-76.946777,2022,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-691731,PA,Lycoming,Hughesville,Source2,3,41.24538,-76.72030600000002,2022,4,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-712600,PA,Lycoming,Williamsport,Source2,3,41.24614,-76.94937900000002,2022,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-753287,PA,Lycoming,Muncy,Source2,3,41.210117,-76.770218,2022,7,Sunday,Rain,False,False,False,False,False,False,False
+A-770699,PA,Lycoming,Muncy,Source2,3,41.246307,-76.833023,2021,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-793552,PA,Lycoming,Williamsport,Source2,3,41.238876,-76.999336,2021,19,Friday,Cloudy,True,True,False,False,False,False,False
+A-818423,PA,Lycoming,Montoursville,Source2,3,41.247131,-76.946777,2021,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-819382,PA,Lycoming,Muncy,Source2,3,41.246231,-76.83201600000002,2021,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-831090,PA,Lycoming,Montoursville,Source2,3,41.264622,-76.916786,2021,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-849503,PA,Lycoming,Muncy,Source2,3,41.2379,-76.809273,2021,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-860349,PA,Lycoming,Williamsport,Source2,3,41.237831,-77.000618,2021,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-899412,PA,Lycoming,Montoursville,Source2,3,41.245777,-76.94925699999997,2021,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-931706,PA,Lycoming,Williamsport,Source2,3,41.238876,-76.999336,2021,16,Thursday,Cloudy,True,True,False,False,False,False,False
+A-941647,PA,Lycoming,Montoursville,Source2,3,41.264622,-76.916786,2021,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-954310,PA,Lycoming,Muncy,Source2,3,41.18602,-76.78780400000002,2021,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-957699,PA,Lycoming,Muncy,Source2,3,41.18602,-76.78780400000002,2021,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-959959,PA,Lycoming,Williamsport,Source2,3,41.23207100000001,-77.039909,2021,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-976107,PA,Lycoming,Trout Run,Source2,3,41.414028,-77.210373,2021,22,Wednesday,Rain,False,False,False,False,False,False,False
+A-988473,PA,Lycoming,Williamsport,Source2,3,41.23209,-77.04431899999999,2021,8,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1020386,PA,Lycoming,Williamsport,Source2,3,41.231369,-77.019432,2021,15,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-1022109,PA,Lycoming,Montoursville,Source2,3,41.264622,-76.916786,2021,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1022159,PA,Lycoming,Montoursville,Source2,3,41.264622,-76.916786,2021,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1032623,PA,Lycoming,Williamsport,Source2,3,41.260391,-76.987534,2021,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-1143183,PA,Lycoming,Williamsport,Source2,3,41.243481,-76.992386,2021,11,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1206889,PA,Lycoming,Muncy,Source2,3,41.210613,-76.77113299999998,2021,14,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1214878,PA,Lycoming,Cogan Station,Source2,3,41.328259,-77.110947,2020,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1228069,PA,Lycoming,Muncy,Source2,3,41.205528,-76.785461,2020,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1252466,PA,Lycoming,Williamsport,Source2,3,41.231369,-77.019432,2020,15,Tuesday,Clear / Fair,True,True,False,False,False,False,False
+A-1257100,PA,Lycoming,Williamsport,Source2,3,41.248745,-76.97657,2020,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-1258868,PA,Lycoming,Muncy,Source2,3,41.18602,-76.78780400000002,2020,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1382307,PA,Lycoming,Williamsport,Source2,3,41.231369,-77.019432,2020,13,Saturday,Cloudy,True,True,False,False,False,False,False
+A-1391537,PA,Lycoming,Muncy,Source2,3,41.2379,-76.809273,2020,7,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1404950,PA,Lycoming,Williamsport,Source2,3,41.231743,-77.039658,2020,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1434890,PA,Lycoming,Williamsport,Source2,3,41.238876,-76.999336,2020,12,Monday,Cloudy,True,True,False,False,False,False,False
+A-1459012,PA,Lycoming,Williamsport,Source2,3,41.248745,-76.97657,2020,7,Friday,Rain,False,False,False,False,False,False,False
+A-1481503,PA,Lycoming,Muncy,Source2,3,41.246841,-76.830467,2020,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-1523149,PA,Lycoming,Montoursville,Source2,3,41.25787,-76.896957,2020,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1530034,PA,Lycoming,Williamsport,Source2,3,41.37476,-76.853188,2020,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1532979,PA,Lycoming,Williamsport,Source2,3,41.238422,-76.999725,2020,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1580750,PA,Lycoming,Montgomery,Source2,3,41.170448,-76.876839,2020,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1607711,PA,Lycoming,Muncy,Source2,3,41.2379,-76.809273,2020,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1611857,PA,Lycoming,Muncy,Source2,3,41.2379,-76.809273,2020,7,Saturday,Rain,False,False,False,False,False,False,False
+A-1629573,PA,Lycoming,Muncy,Source2,3,41.18602,-76.78780400000002,2020,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1632209,PA,Lycoming,Williamsport,Source2,3,41.238876,-76.999336,2020,12,Thursday,Cloudy,True,True,False,False,False,False,False
+A-1632218,PA,Lycoming,Muncy,Source2,3,41.246307,-76.833023,2020,16,Thursday,Rain,False,False,False,False,False,False,False
+A-1658368,PA,Lycoming,Montoursville,Source2,3,41.25787,-76.896957,2020,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1681682,PA,Lycoming,Williamsport,Source2,3,41.231743,-77.039658,2019,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1681684,PA,Lycoming,Muncy,Source2,3,41.2379,-76.809273,2019,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1754160,PA,Lycoming,Muncy,Source2,3,41.2379,-76.809273,2019,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1806652,PA,Lycoming,Muncy,Source2,3,41.237373,-76.808174,2019,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1832036,PA,Lycoming,Williamsport,Source2,3,41.238876,-76.999336,2019,16,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-1850029,PA,Lycoming,Williamsport,Source2,3,41.231369,-77.019432,2019,5,Friday,Cloudy,True,True,False,False,False,False,False
+A-1855952,PA,Lycoming,Muncy,Source2,3,41.18602,-76.78780400000002,2019,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1865693,PA,Lycoming,Williamsport,Source2,3,41.231743,-77.039658,2019,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1891699,PA,Lycoming,Williamsport,Source2,3,41.248745,-76.97657,2019,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1919311,PA,Lycoming,Williamsport,Source2,3,41.248936,-76.976486,2019,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1919318,PA,Lycoming,Williamsport,Source2,3,41.238876,-76.999336,2019,15,Sunday,Storm,True,True,False,False,False,False,False
+A-1919322,PA,Lycoming,Muncy,Source2,3,41.246296,-76.83285500000002,2019,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1920156,PA,Lycoming,Muncy,Source2,3,41.20945,-76.921341,2019,13,Monday,Cloudy,False,False,False,True,False,False,False
+A-1942112,PA,Lycoming,Muncy,Source2,3,41.23843,-76.811501,2019,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-1978382,PA,Lycoming,Williamsport,Source2,3,41.238876,-76.999336,2019,19,Saturday,Clear / Fair,True,True,False,False,False,False,False
+A-2067343,PA,Lycoming,Williamsport,Source2,3,41.232578,-77.042358,2019,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2107693,PA,Lycoming,Williamsport,Source2,3,41.240711,-77.048897,2019,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-2126308,PA,Lycoming,Williamsport,Source2,3,41.243416,-76.992455,2019,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2225910,PA,Lycoming,Williamsport,Source2,3,41.23896,-76.99916800000003,2019,8,Tuesday,Clear / Fair,True,True,False,False,False,False,False
+A-2279183,PA,Lycoming,Hughesville,Source2,3,41.29657,-76.692451,2019,13,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2400478,PA,Lycoming,Muncy,Source2,3,41.21048,-76.771049,2018,16,Monday,Cloudy,False,False,True,False,False,False,False
+A-2523345,PA,Lycoming,Muncy,Source2,3,41.210812,-76.77068299999998,2018,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2542421,PA,Lycoming,Muncy,Source2,3,41.240654,-76.81514,2018,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2669731,PA,Lycoming,Williamsport,Source2,3,41.231819,-77.037148,2018,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2887131,PA,Lycoming,Montoursville,Source2,3,41.263783,-76.914101,2018,11,Monday,Rain,False,False,True,False,False,False,False
+A-2928717,PA,Lycoming,Muncy,Source2,3,41.246223,-76.832939,2018,17,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2989902,PA,Lycoming,Montoursville,Source2,3,41.251553,-76.93457,2018,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-3077134,PA,Lycoming,Muncy,Source2,3,41.187317,-76.785347,2018,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3103930,PA,Lycoming,Montoursville,Source2,3,41.251553,-76.93457,2017,11,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3115120,PA,Lycoming,Williamsport,Source2,3,41.248783,-76.97584499999998,2017,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3449824,PA,Lycoming,Jersey Shore,Source1,4,41.26141,-77.231133,2016,20,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3449826,PA,Lycoming,Jersey Shore,Source1,4,41.26881,-77.23146,2016,20,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3460256,PA,Lycoming,Williamsport,Source1,4,41.240659,-77.049559,2017,23,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3463850,PA,Lycoming,Jersey Shore,Source1,4,41.286748,-77.227859,2016,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-3467394,PA,Lycoming,Jersey Shore,Source1,4,41.21948,-77.22043000000002,2016,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3470593,PA,Lycoming,Montoursville,Source1,4,41.24809000000001,-76.94288,2016,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3470596,PA,Lycoming,Montoursville,Source1,4,41.24809000000001,-76.94288,2016,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3470605,PA,Lycoming,Montoursville,Source1,4,41.24809000000001,-76.94288,2016,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3475842,PA,Lycoming,Linden,Source1,4,41.23211,-77.13328299999998,2016,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3475875,PA,Lycoming,Linden,Source1,4,41.215847,-77.181014,2016,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3475877,PA,Lycoming,Jersey Shore,Source1,4,41.21866,-77.22215,2016,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3476163,PA,Lycoming,Linden,Source1,4,41.216427,-77.178514,2016,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3476174,PA,Lycoming,Linden,Source1,4,41.21971,-77.16776,2016,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3476175,PA,Lycoming,Linden,Source1,4,41.215726,-77.180739,2016,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3484018,PA,Lycoming,Muncy,Source1,4,41.18824,-76.91372,2016,23,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-3484020,PA,Lycoming,Montgomery,Source1,4,41.209358,-76.921291,2016,23,Saturday,Clear / Fair,False,False,False,True,False,False,False
+A-3496776,PA,Lycoming,Allenwood,Source1,4,41.10766,-76.89854,2016,23,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-3496778,PA,Lycoming,Muncy,Source1,4,41.18854,-76.91384000000002,2016,23,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3506195,PA,Lycoming,Muncy,Source1,4,41.23821,-76.80826,2016,0,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-3506198,PA,Lycoming,Muncy,Source1,4,41.23821,-76.80826,2016,0,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-3575844,PA,Lycoming,Williamsport,Source1,4,41.22435,-77.05758,2017,1,Thursday,Cloudy,False,False,True,False,False,False,False
+A-3579874,PA,Lycoming,Allenwood,Source1,4,41.10766,-76.89854,2017,14,Tuesday,Snow / Ice,True,True,False,False,False,False,False
+A-3579875,PA,Lycoming,Muncy,Source1,4,41.18824,-76.91372,2017,14,Tuesday,Snow / Ice,True,False,False,False,False,False,False
+A-3631602,PA,Lycoming,Montgomery,Source1,4,41.178312,-76.859937,2017,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3631604,PA,Lycoming,Muncy,Source1,4,41.196023,-76.822909,2017,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3645542,PA,Lycoming,Montgomery,Source1,4,41.156235,-76.90810400000002,2017,17,Saturday,Rain,False,False,False,False,False,False,False
+A-3645543,PA,Lycoming,Montgomery,Source1,4,41.156235,-76.90810400000002,2017,17,Saturday,Rain,False,False,False,False,False,False,False
+A-3645544,PA,Lycoming,Montgomery,Source1,4,41.16207100000001,-76.907048,2017,17,Saturday,Rain,False,False,False,False,False,False,False
+A-3711738,PA,Lycoming,Muncy,Source1,4,41.205992,-76.74675400000002,2022,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3789768,PA,Lycoming,Williamsport,Source1,4,41.261011,-77.044158,2022,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3794867,PA,Lycoming,Trout Run,Source1,4,41.386285,-77.05512900000002,2022,10,Wednesday,Clear / Fair,False,False,False,True,False,False,False
+A-3795766,PA,Lycoming,Trout Run,Source1,4,41.420273,-77.033684,2022,10,Wednesday,Clear / Fair,False,False,False,True,False,False,False
+A-3859880,PA,Lycoming,Williamsport,Source1,4,41.136842,-77.096552,2022,15,Sunday,Rain,False,False,False,False,False,False,False
+A-3905638,PA,Lycoming,Williamsport,Source1,4,41.22257800000001,-77.03701,2022,16,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3911881,PA,Lycoming,Muncy,Source1,4,41.202412,-76.78462900000002,2022,1,Wednesday,Clear / Fair,False,True,False,False,False,False,False
+A-3924114,PA,Lycoming,Williamsport,Source1,4,41.248109,-76.982414,2023,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-3939271,PA,Lycoming,Montoursville,Source1,4,41.249892,-76.936701,2022,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3946212,PA,Lycoming,Williamsport,Source1,4,41.179681,-77.09855,2022,16,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3949359,PA,Lycoming,Lock Haven,Source1,4,41.326702,-77.475014,2022,5,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3965771,PA,Lycoming,Montoursville,Source1,4,41.24693512896896,-76.94900393449329,2022,15,Thursday,Clear / Fair,False,False,False,True,False,False,False
+A-3986243,PA,Lycoming,Unityville,Source1,4,41.28727,-76.539175,2022,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3999622,PA,Lycoming,Trout Run,Source1,4,41.420273,-77.033684,2022,10,Wednesday,Clear / Fair,False,False,False,True,False,False,False
+A-4011080,PA,Lycoming,Jersey Shore,Source1,4,41.286013,-77.227319,2022,22,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4032279,PA,Lycoming,Trout Run,Source1,4,41.385105,-77.059464,2022,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4064314,PA,Lycoming,Hughesville,Source1,4,41.26259922961587,-76.71425700151104,2022,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4073905,PA,Lycoming,Hughesville,Source1,4,41.281422,-76.713049,2022,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4112722,PA,Lycoming,Hughesville,Source1,4,41.245276,-76.720433,2022,10,Wednesday,Snow / Ice,True,False,False,False,False,False,False
+A-4151069,PA,Lycoming,Williamsport,Source1,4,41.17655300000001,-77.128388,2022,16,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-4153321,PA,Lycoming,Hughesville,Source1,4,41.2727916238724,-76.71307682954445,2022,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4208499,PA,Lycoming,Unityville,Source1,4,41.291872,-76.552769,2022,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4232456,PA,Lycoming,Trout Run,Source1,4,41.380801,-77.060962,2022,9,Saturday,Cloudy,False,False,True,False,False,False,False
+A-4248860,PA,Lycoming,Trout Run,Source1,4,41.433793,-76.94332800000002,2022,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4258986,PA,Lycoming,Williamsport,Source1,4,41.245737,-76.94937900000002,2023,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-4264948,PA,Lycoming,Williamsport,Source1,4,41.28749013,-77.06429601,2023,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4264949,PA,Lycoming,Cogan Station,Source1,4,41.296504,-77.066222,2022,20,Sunday,Snow / Ice,False,False,True,False,False,False,False
+A-4271489,PA,Lycoming,Williamsport,Source1,4,41.23609900454885,-77.04601407014347,2022,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4276593,PA,Lycoming,Muncy,Source1,4,41.234999,-76.821687,2022,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4338972,PA,Lycoming,Williamsport,Source1,4,41.176883,-77.116466,2022,16,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-4347929,PA,Lycoming,Hughesville,Source1,4,41.247228,-76.71858,2022,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4350458,PA,Lycoming,Waterville,Source1,4,41.45215,-77.277337,2023,8,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-4387360,PA,Lycoming,Morris,Source1,4,41.54403806,-77.28533149,2023,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4388284,PA,Lycoming,Williamsport,Source1,4,41.225409,-77.027788,2022,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4389909,PA,Lycoming,Montoursville,Source1,4,41.249676,-76.93740600000002,2022,14,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-4413762,PA,Lycoming,Montgomery,Source1,4,41.1882483957234,-76.91372752152962,2022,6,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-4428558,PA,Lycoming,Trout Run,Source1,4,41.444551,-77.191502,2022,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-4430497,PA,Lycoming,Jersey Shore,Source1,4,41.212499,-77.25021,2022,23,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4467570,PA,Lycoming,Hughesville,Source1,4,41.245838,-76.719875,2022,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4472024,PA,Lycoming,Williamsport,Source1,4,41.231091,-76.991749,2022,7,Sunday,Cloudy,False,True,False,True,False,False,False
+A-4490652,PA,Lycoming,Trout Run,Source1,4,41.384413,-77.057215,2022,10,Wednesday,Clear / Fair,False,False,False,True,False,False,False
+A-4504914,PA,Lycoming,Williamsport,Source1,4,41.216489,-77.088914,2022,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4511617,PA,Lycoming,Muncy,Source1,4,41.234899,-76.81995,2022,6,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-4627538,PA,Lycoming,Hughesville,Source1,4,41.247228,-76.71858,2022,10,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-4646527,PA,Lycoming,Hughesville,Source1,4,41.245276,-76.720433,2022,10,Wednesday,Snow / Ice,True,False,False,False,False,False,False
+A-4646528,PA,Lycoming,Hughesville,Source1,4,41.245276,-76.720433,2022,5,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-4658888,PA,Lycoming,Waterville,Source1,4,41.319763,-77.385648,2022,5,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-4668187,PA,Lycoming,Muncy,Source1,4,41.204897,-76.774698,2022,1,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4705241,PA,Lycoming,Unityville,Source1,4,41.28727555,-76.53916240000002,2022,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4720666,PA,Lycoming,Trout Run,Source1,4,41.391235,-77.25404,2022,22,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4740066,PA,Lycoming,Hughesville,Source1,4,41.24552,-76.720192,2022,10,Wednesday,Snow / Ice,True,False,False,False,False,False,False
+A-4760068,PA,Lycoming,Williamsport,Source1,4,41.22239,-77.03817099999998,2022,16,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-4762315,PA,Lycoming,Williamsport,Source1,4,41.216314,-77.07674499999997,2022,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4762316,PA,Lycoming,Williamsport,Source1,4,41.216363,-77.08153,2022,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4772857,PA,Lycoming,Hughesville,Source1,4,41.2881124017654,-76.70938610994,2022,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4800104,PA,Lycoming,Williamsport,Source1,4,41.326036,-76.911135,2023,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4804202,PA,Lycoming,Hughesville,Source1,4,41.250436,-76.758544,2022,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4842319,PA,Lycoming,Waterville,Source1,4,41.45215,-77.277337,2023,8,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-4850127,PA,Lycoming,Williamsport,Source1,4,41.388338,-76.792651,2023,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4854982,PA,Lycoming,Montgomery,Source1,4,41.18414998034866,-76.92778229676756,2022,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4869580,PA,Lycoming,Hughesville,Source1,4,41.245276,-76.720433,2023,6,Thursday,Cloudy,True,False,False,False,False,False,False
+A-4877573,PA,Lycoming,Jersey Shore,Source1,4,41.197614,-77.291684,2022,0,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4902713,PA,Lycoming,Williamsport,Source1,4,41.22257800000001,-77.03701,2022,16,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-4923649,PA,Lycoming,Morris,Source1,4,41.525759,-77.28299100000002,2023,8,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-4945648,PA,Lycoming,Hughesville,Source1,4,41.281891,-76.713013,2022,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4973514,PA,Lycoming,Muncy,Source1,4,41.199761,-76.72826500000002,2022,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4999987,PA,Lycoming,Hughesville,Source1,4,41.238509,-76.74483199999997,2022,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5001996,PA,Lycoming,Trout Run,Source1,4,41.428488,-77.211939,2022,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-5059745,PA,Lycoming,Williamsport,Source1,4,41.175684,-77.137241,2022,16,Thursday,Snow / Ice,False,False,False,False,False,True,False
+A-5098067,PA,Lycoming,Williamsport,Source1,4,41.316264,-76.980213,2022,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5105711,PA,Lycoming,Muncy,Source1,4,41.241024,-76.848428,2022,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5171990,PA,Lycoming,Unityville,Source1,4,41.291882,-76.552821,2022,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5173393,PA,Lycoming,Williamsport,Source1,4,41.171909,-77.138976,2022,16,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-5185097,PA,Lycoming,Williamsport,Source1,4,41.294692,-76.978065,2022,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5196850,PA,Lycoming,Montoursville,Source1,4,41.247974,-76.913859,2022,14,Thursday,Clear / Fair,False,False,False,True,False,False,False
+A-5212671,PA,Lycoming,Williamsport,Source1,4,41.2497889993608,-76.93711638413936,2022,14,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-5228891,PA,Lycoming,Muncy,Source1,4,41.199761,-76.72826500000002,2022,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5257689,PA,Lycoming,Trout Run,Source1,4,41.427378,-76.95276199999998,2022,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5274633,PA,Lycoming,Lock Haven,Source1,4,41.285438,-77.439273,2022,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5281567,PA,Lycoming,Williamsport,Source1,4,41.307488,-76.98420899999998,2023,7,Friday,Rain,False,False,False,False,False,False,False
+A-5296004,PA,Lycoming,Hughesville,Source1,4,41.249988,-76.71725699999998,2022,5,Wednesday,Clear / Fair,False,False,False,False,False,True,False
+A-5347427,PA,Lycoming,Hughesville,Source1,4,41.28811500000001,-76.709386,2022,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5356074,PA,Lycoming,Williamsport,Source1,4,41.294692,-76.978065,2023,7,Friday,Rain,False,False,False,False,False,False,False
+A-5387792,PA,Lycoming,Muncy,Source1,4,41.239592,-76.750617,2022,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5392158,PA,Lycoming,Montoursville,Source1,4,41.24749302844406,-76.94091439210443,2022,14,Thursday,Clear / Fair,True,False,False,True,False,False,False
+A-5406072,PA,Lycoming,Montoursville,Source1,4,41.250426,-76.932808,2022,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5416841,PA,Lycoming,Muncy,Source1,4,41.240567,-76.796973,2022,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5464406,PA,Lycoming,Montgomery,Source1,4,41.17044,-76.874717,2022,15,Tuesday,Clear / Fair,False,True,False,False,False,False,True
+A-5470179,PA,Lycoming,Montoursville,Source1,4,41.335401,-76.918299,2021,23,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5479298,PA,Lycoming,Muncy,Source1,4,41.22000575045957,-76.7906463142548,2021,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5504314,PA,Lycoming,Unityville,Source1,4,41.249607,-76.522405,2021,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-5504315,PA,Lycoming,Unityville,Source1,4,41.24952800000001,-76.521015,2021,23,Monday,Cloudy,False,False,False,False,False,False,False
+A-5504343,PA,Lycoming,Waterville,Source1,4,41.440599,-77.280061,2021,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5507739,PA,Lycoming,Williamsport,Source1,4,41.250697,-76.97256800000002,2021,2,Monday,Rain,True,True,False,False,False,False,False
+A-5531698,PA,Lycoming,Ralston,Source1,4,41.551354,-76.963252,2021,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5577062,PA,Lycoming,Waterville,Source1,4,41.455112,-77.280445,2021,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5596179,PA,Lycoming,Montgomery,Source1,4,41.14591,-76.912486,2021,16,Saturday,Rain,False,False,False,False,False,False,False
+A-5616714,PA,Lycoming,Muncy,Source1,4,41.192654,-76.714303,2021,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5627445,PA,Lycoming,Muncy,Source1,4,41.211664,-76.75881700000002,2021,0,Sunday,Cloudy,True,False,False,False,False,False,False
+A-5656075,PA,Lycoming,Montoursville,Source1,4,41.245714,-76.949543,2021,21,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-5711125,PA,Lycoming,Trout Run,Source1,4,41.386878,-77.054563,2021,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5737876,PA,Lycoming,Montgomery,Source1,4,41.169834,-76.872725,2021,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-5749729,PA,Lycoming,Williamsport,Source1,4,41.227162,-76.988394,2021,0,Friday,Snow / Ice,False,False,False,True,False,False,False
+A-5777579,PA,Lycoming,Waterville,Source1,4,41.437223,-77.280439,2021,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5798615,PA,Lycoming,Trout Run,Source1,4,41.386285,-77.05512900000002,2021,22,Saturday,Clear / Fair,False,False,False,True,False,False,False
+A-5800562,PA,Lycoming,Montgomery,Source1,4,41.1882,-76.91371,2021,16,Saturday,Rain,True,False,False,False,False,False,False
+A-5812754,PA,Lycoming,Hughesville,Source1,4,41.230675,-76.698693,2021,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5821628,PA,Lycoming,Trout Run,Source1,4,41.414874,-77.04275,2021,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5825980,PA,Lycoming,Waterville,Source1,4,41.413463,-77.268387,2021,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5863598,PA,Lycoming,Muncy,Source1,4,41.199694,-76.728131,2021,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5888407,PA,Lycoming,Trout Run,Source1,4,41.384413,-77.057215,2021,13,Tuesday,Cloudy,False,False,False,True,False,False,False
+A-5899626,PA,Lycoming,Montgomery,Source1,4,41.151854,-76.91000799999998,2021,16,Saturday,Rain,False,False,False,True,False,False,False
+A-5904666,PA,Lycoming,Montgomery,Source1,4,41.1882,-76.91371,2021,17,Saturday,Rain,True,False,False,False,False,False,False
+A-5922294,PA,Lycoming,Hughesville,Source1,4,41.229276,-76.736122,2021,3,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5931510,PA,Lycoming,Hughesville,Source1,4,41.241247,-76.72428000000002,2021,9,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-5990193,PA,Lycoming,Montoursville,Source1,4,41.354646,-76.912287,2021,0,Monday,Cloudy,False,False,False,False,False,False,False
+A-5990745,PA,Lycoming,Trout Run,Source1,4,41.429339,-77.00948199999998,2021,22,Saturday,Clear / Fair,False,False,False,True,False,False,False
+A-6001998,PA,Lycoming,Trout Run,Source1,4,41.42202973346032,-77.02702403031813,2021,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6008381,PA,Lycoming,Williamsport,Source1,4,41.24821,-76.974576,2021,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6056479,PA,Lycoming,Trout Run,Source1,4,41.424212,-77.0172,2021,13,Tuesday,Cloudy,False,False,False,True,False,False,False
+A-6090114,PA,Lycoming,Muncy,Source1,4,41.24591,-76.828211,2021,19,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-6090572,PA,Lycoming,Williamsport,Source1,4,41.20919108371157,-77.10950732194371,2021,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6152764,PA,Lycoming,Muncy,Source1,4,41.205521821779215,-76.78622603379827,2021,20,Friday,Clear / Fair,True,True,False,False,False,False,False
+A-6171172,PA,Lycoming,Roaring Branch,Source1,4,41.532407998840654,-76.95479750596543,2021,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6177746,PA,Lycoming,Hughesville,Source1,4,41.240917,-76.72365699999997,2021,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6191361,PA,Lycoming,Williamsport,Source1,4,41.22399687747372,-77.03801035844306,2021,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6267465,PA,Lycoming,Williamsport,Source1,4,41.23693585376149,-77.00303435288905,2021,2,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6296250,PA,Lycoming,Waterville,Source1,4,41.455112,-77.280445,2021,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6310391,PA,Lycoming,Linden,Source1,4,41.214176,-77.201658,2021,8,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6314840,PA,Lycoming,Muncy,Source1,4,41.213326,-76.763948,2021,0,Sunday,Cloudy,True,False,False,False,False,False,False
+A-6322510,PA,Lycoming,Hughesville,Source1,4,41.242676,-76.726833,2021,19,Friday,Clear / Fair,False,True,False,False,False,False,False
+A-6342801,PA,Lycoming,Williamsport,Source1,4,41.250553,-76.972499,2021,13,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-6349977,PA,Lycoming,Linden,Source1,4,41.247844,-77.140668,2021,5,Tuesday,Cloudy,False,False,False,True,False,False,False
+A-6360230,PA,Lycoming,Linden,Source1,4,41.261999,-77.147312,2021,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6385766,PA,Lycoming,Jersey Shore,Source1,4,41.143288,-77.230975,2021,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6395838,PA,Lycoming,Montgomery,Source1,4,41.215345,-76.928777,2021,1,Monday,Cloudy,False,False,False,True,False,False,False
+A-6412433,PA,Lycoming,Trout Run,Source1,4,41.496649,-77.14198,2021,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6446352,PA,Lycoming,Williamsport,Source1,4,41.223236,-76.986795,2021,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-6456226,PA,Lycoming,Williamsport,Source1,4,41.235208,-77.044802,2021,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6489087,PA,Lycoming,Allenwood,Source1,4,41.123172,-76.97395300000002,2021,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6490646,PA,Lycoming,Williamsport,Source1,4,41.223467,-76.986933,2021,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6500744,PA,Lycoming,Williamsport,Source1,4,41.247788,-76.95925600000002,2021,13,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-6510658,PA,Lycoming,Williamsport,Source1,4,41.18059,-77.001427,2021,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-6559480,PA,Lycoming,Montgomery,Source1,4,41.163048,-77.018968,2021,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6589658,PA,Lycoming,Montgomery,Source1,4,41.142412,-77.013015,2020,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6609131,PA,Lycoming,Hughesville,Source1,4,41.279914,-76.713111,2020,16,Wednesday,Cloudy,False,True,False,False,False,False,False
+A-6652355,PA,Lycoming,Williamsport,Source1,4,41.288766,-77.064297,2020,5,Thursday,Snow / Ice,False,False,True,False,False,False,False
+A-6661103,PA,Lycoming,Unityville,Source1,4,41.287064,-76.538724,2020,0,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6706601,PA,Lycoming,Williamsport,Source1,4,41.148747,-77.15181700000002,2020,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6713659,PA,Lycoming,Williamsport,Source1,4,41.256136,-76.969981,2020,13,Thursday,Clear / Fair,False,True,False,False,False,False,False
+A-6714871,PA,Lycoming,Hughesville,Source1,4,41.281422,-76.713049,2020,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6755517,PA,Lycoming,Williamsport,Source1,4,41.223236,-76.986795,2020,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6771491,PA,Lycoming,Williamsport,Source1,4,41.25957,-76.969981,2020,14,Thursday,Clear / Fair,False,True,False,False,False,False,False
+A-6797356,PA,Lycoming,Trout Run,Source1,4,41.45546,-77.126544,2020,15,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-6983229,PA,Lycoming,Trout Run,Source1,3,41.38128,-77.0609,2020,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6995719,PA,Lycoming,Muncy,Source1,4,41.21166,-76.75878,2020,16,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-7016145,PA,Lycoming,Muncy,Source1,4,41.2396,-76.81321,2020,13,Friday,Rain,False,False,False,False,False,False,False
+A-7054567,PA,Lycoming,Muncy,Source1,3,41.2396,-76.81321,2020,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7054570,PA,Lycoming,Hughesville,Source1,3,41.24538,-76.72031,2020,15,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-7082775,PA,Lycoming,Williamsport,Source1,3,41.24557,-77.04861,2020,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-7088560,PA,Lycoming,Trout Run,Source1,4,41.49673,-77.1417,2020,18,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7088588,PA,Lycoming,Trout Run,Source1,4,41.49673,-77.1417,2020,18,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7088599,PA,Lycoming,Trout Run,Source1,4,41.49673,-77.1417,2020,19,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7088606,PA,Lycoming,Trout Run,Source1,4,41.49673,-77.1417,2020,19,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7088618,PA,Lycoming,Trout Run,Source1,4,41.49673,-77.1417,2020,20,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7090875,PA,Lycoming,Trout Run,Source1,4,41.49673,-77.1417,2020,21,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7090877,PA,Lycoming,Trout Run,Source1,4,41.49673,-77.1417,2020,2,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7103584,PA,Lycoming,Montoursville,Source1,4,41.26381,-76.91433,2020,18,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7165514,PA,Lycoming,Williamsport,Source1,3,41.23824000000001,-77.04796999999998,2020,11,Thursday,Rain,False,False,False,False,False,False,False
+A-7165824,PA,Lycoming,Williamsport,Source1,4,41.23401,-76.99369,2020,22,Thursday,Cloudy,True,True,False,False,False,False,False
+A-7165829,PA,Lycoming,Williamsport,Source1,4,41.23448,-77.04432,2020,0,Friday,Cloudy,False,False,False,False,False,False,False
+A-7183931,PA,Lycoming,Trout Run,Source1,4,41.46142,-77.13325,2020,7,Saturday,Cloudy,False,False,True,False,False,False,False
+A-7183946,PA,Lycoming,Trout Run,Source1,4,41.46142,-77.13325,2020,6,Saturday,Cloudy,False,False,True,False,False,False,False
+A-7308798,PA,Lycoming,Jersey Shore,Source1,4,41.2133,-77.24833000000002,2019,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7308801,PA,Lycoming,Jersey Shore,Source1,4,41.2133,-77.24833000000002,2019,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7332150,PA,Lycoming,Trout Run,Source1,4,41.45677,-77.12937,2019,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7332169,PA,Lycoming,Trout Run,Source1,4,41.46142,-77.13325,2019,13,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7332170,PA,Lycoming,Trout Run,Source1,4,41.45677,-77.12937,2019,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7435718,PA,Lycoming,Liberty,Source1,4,41.547,-77.1242,2019,22,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7516619,PA,Lycoming,Trout Run,Source1,4,41.422294,-77.025088,2018,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7516620,PA,Lycoming,Trout Run,Source1,4,41.420055,-77.034336,2018,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7516637,PA,Lycoming,Trout Run,Source1,4,41.422294,-77.025088,2018,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7516638,PA,Lycoming,Trout Run,Source1,4,41.420055,-77.034336,2018,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7554348,PA,Lycoming,Williamsport,Source1,4,41.23555,-77.04541999999998,2018,14,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7554353,PA,Lycoming,Williamsport,Source1,4,41.23555,-77.04541999999998,2018,14,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7554355,PA,Lycoming,Williamsport,Source1,4,41.23555,-77.04541999999998,2018,15,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7554382,PA,Lycoming,Williamsport,Source1,4,41.23555,-77.04541999999998,2018,14,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7554384,PA,Lycoming,Williamsport,Source1,4,41.23555,-77.04541999999998,2018,17,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7554389,PA,Lycoming,Williamsport,Source1,4,41.23555,-77.04541999999998,2018,14,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7554391,PA,Lycoming,Williamsport,Source1,4,41.23555,-77.04541999999998,2018,17,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7554392,PA,Lycoming,Williamsport,Source1,4,41.23555,-77.04541999999998,2018,17,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7554396,PA,Lycoming,Williamsport,Source1,4,41.23555,-77.04541999999998,2018,18,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7554399,PA,Lycoming,Williamsport,Source1,4,41.23555,-77.04541999999998,2018,14,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7554402,PA,Lycoming,Williamsport,Source1,4,41.23555,-77.04541999999998,2018,18,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7554403,PA,Lycoming,Williamsport,Source1,4,41.23555,-77.04541999999998,2018,14,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7554413,PA,Lycoming,Williamsport,Source1,4,41.23555,-77.04541999999998,2018,20,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7554414,PA,Lycoming,Williamsport,Source1,4,41.23555,-77.04541999999998,2018,14,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7585240,PA,Lycoming,Williamsport,Source1,4,41.23458,-77.04415999999998,2018,0,Wednesday,Rain,False,False,False,False,False,False,False
+A-7585243,PA,Lycoming,Williamsport,Source1,4,41.2892,-77.06437,2018,0,Wednesday,Rain,False,False,True,False,False,False,False
+A-7603649,PA,Lycoming,Williamsport,Source1,4,41.220011,-76.935967,2018,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7618506,PA,Lycoming,Montoursville,Source1,4,41.24579,-76.94914,2018,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7618509,PA,Lycoming,Montoursville,Source1,4,41.24876,-76.94083,2018,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7619558,PA,Lycoming,Williamsport,Source1,4,41.23827,-76.99863,2018,3,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7619559,PA,Lycoming,Montgomery,Source1,4,41.178007,-76.911173,2018,3,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7619560,PA,Lycoming,Williamsport,Source1,4,41.235471,-76.99571999999998,2018,3,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7619561,PA,Lycoming,Muncy,Source1,4,41.18824,-76.91372,2018,3,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-7619589,PA,Lycoming,Muncy,Source1,4,41.18824,-76.91372,2018,4,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-7619595,PA,Lycoming,Montgomery,Source1,4,41.178038,-76.911179,2018,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7712058,PA,Lycoming,Allenwood,Source1,4,41.10766,-76.89854,2019,9,Saturday,Cloudy,True,True,False,False,False,False,False
+A-7717809,PA,Lycoming,Linden,Source1,4,41.22531,-77.155474,2019,20,Saturday,Rain,False,False,False,False,False,False,False
+A-7717810,PA,Lycoming,Linden,Source1,4,41.22531,-77.155474,2019,20,Saturday,Rain,False,False,False,False,False,False,False
+A-7726784,PA,Lycoming,Montgomery,Source1,4,41.178694,-76.85914,2019,0,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7726785,PA,Lycoming,Montgomery,Source1,4,41.176744,-76.864419,2019,0,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7733858,PA,Lycoming,Montoursville,Source1,4,41.3252,-76.91098000000002,2019,21,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7733859,PA,Lycoming,Williamsport,Source1,4,41.383137,-76.805704,2019,21,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7733883,PA,Lycoming,Williamsport,Source1,4,41.383137,-76.805704,2019,21,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7733884,PA,Lycoming,Montoursville,Source1,4,41.3252,-76.91098000000002,2019,21,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7762590,PA,Lycoming,Jersey Shore,Source1,4,41.218634,-77.222197,2019,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7762591,PA,Lycoming,Linden,Source1,4,41.217728,-77.209994,2019,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7762596,PA,Lycoming,Jersey Shore,Source1,4,41.217838,-77.22343199999997,2019,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7771445,PA,Lycoming,Muncy,Source1,4,41.25033,-76.75912,2019,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7771446,PA,Lycoming,Muncy,Source1,4,41.24273400000001,-76.777587,2019,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7771448,PA,Lycoming,Muncy,Source1,4,41.24273400000001,-76.777587,2019,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7771449,PA,Lycoming,Muncy,Source1,4,41.25033,-76.75912,2019,17,Saturday,Clear / Fair,False,False,False,False,False,False,False

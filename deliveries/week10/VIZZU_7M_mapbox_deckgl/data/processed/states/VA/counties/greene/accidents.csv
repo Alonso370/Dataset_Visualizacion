@@ -1,0 +1,120 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-581465,VA,Greene,Ruckersville,Source2,3,38.20784,-78.386124,2022,8,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-728324,VA,Greene,Ruckersville,Source2,3,38.213501,-78.382233,2022,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-1234377,VA,Greene,Stanardsville,Source2,3,38.316219,-78.476242,2020,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1274547,VA,Greene,Ruckersville,Source2,3,38.233692,-78.36927,2020,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1332594,VA,Greene,Stanardsville,Source2,3,38.21530900000001,-78.465813,2020,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1523146,VA,Greene,Ruckersville,Source2,3,38.20784,-78.386124,2020,16,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-1708210,VA,Greene,Ruckersville,Source2,3,38.225819,-78.374413,2019,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1850040,VA,Greene,Ruckersville,Source2,3,38.23325300000001,-78.36934699999998,2019,9,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-1873487,VA,Greene,Ruckersville,Source2,3,38.213501,-78.382233,2019,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2163511,VA,Greene,Ruckersville,Source2,3,38.23325300000001,-78.36934699999998,2019,14,Friday,Rain,True,False,False,False,False,False,False
+A-2238976,VA,Greene,Stanardsville,Source2,3,38.35659,-78.54474599999998,2019,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3001075,VA,Greene,Stanardsville,Source2,3,38.283424,-78.420372,2018,11,Friday,Cloudy,True,False,False,False,False,False,False
+A-3197257,VA,Greene,Stanardsville,Source2,3,38.29932,-78.461311,2017,12,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-3463677,VA,Greene,Ruckersville,Source1,3,38.237672,-78.38726700000002,2016,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3463678,VA,Greene,Ruckersville,Source1,3,38.2371,-78.38639,2016,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3484112,VA,Greene,Ruckersville,Source1,4,38.20788,-78.38626,2016,22,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-3709553,VA,Greene,Stanardsville,Source1,4,38.330469,-78.490105,2023,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3728830,VA,Greene,Ruckersville,Source1,4,38.214536,-78.426558,2022,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3754255,VA,Greene,Ruckersville,Source1,4,38.250261,-78.418176,2022,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-3756002,VA,Greene,Ruckersville,Source1,4,38.25357800000001,-78.448779,2022,21,Friday,Cloudy,False,False,False,False,False,True,False
+A-3801226,VA,Greene,Stanardsville,Source1,4,38.28238,-78.513285,2022,0,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3825561,VA,Greene,Ruckersville,Source1,4,38.228207,-78.372493,2022,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3859331,VA,Greene,Stanardsville,Source1,4,38.251136,-78.463412,2022,7,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3860118,VA,Greene,Ruckersville,Source1,4,38.207268,-78.35100200000002,2023,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3895156,VA,Greene,Ruckersville,Source1,4,38.254836,-78.447397,2022,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3907037,VA,Greene,Ruckersville,Source1,4,38.207319,-78.383476,2022,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3939140,VA,Greene,Stanardsville,Source1,4,38.29739,-78.431386,2022,16,Sunday,Rain,False,False,False,False,False,False,False
+A-4036737,VA,Greene,Ruckersville,Source1,4,38.23668,-78.385856,2022,0,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4056978,VA,Greene,Ruckersville,Source1,4,38.207835,-78.360845,2023,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4142553,VA,Greene,Stanardsville,Source1,4,38.339191,-78.506457,2022,1,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4153142,VA,Greene,Dyke,Source1,4,38.253751,-78.539505,2022,15,Friday,Rain,False,False,False,False,False,False,False
+A-4163674,VA,Greene,Stanardsville,Source1,4,38.309455,-78.43218399999998,2022,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4166739,VA,Greene,Barboursville,Source1,4,38.207798,-78.386004,2022,12,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-4179215,VA,Greene,Stanardsville,Source1,4,38.255974,-78.479647,2023,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-4179216,VA,Greene,Stanardsville,Source1,4,38.258198,-78.483025,2022,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4201489,VA,Greene,Stanardsville,Source1,4,38.331359,-78.4925,2023,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4209286,VA,Greene,Ruckersville,Source1,4,38.241808,-78.365734,2022,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-4229742,VA,Greene,Stanardsville,Source1,4,38.275476,-78.455203,2023,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4274228,VA,Greene,Ruckersville,Source1,4,38.207876,-78.382492,2022,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4279330,VA,Greene,Ruckersville,Source1,4,38.214191,-78.427726,2022,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4293302,VA,Greene,Ruckersville,Source1,4,38.207586,-78.384991,2022,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4307333,VA,Greene,Stanardsville,Source1,4,38.253119,-78.44994399999999,2022,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-4336067,VA,Greene,Ruckersville,Source1,4,38.20734,-78.383401,2022,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4427670,VA,Greene,Ruckersville,Source1,4,38.27382445317138,-78.34991097412895,2022,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4466716,VA,Greene,Stanardsville,Source1,4,38.356149,-78.53598199999998,2022,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4513699,VA,Greene,Ruckersville,Source1,4,38.250751,-78.40907299999998,2022,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-4611462,VA,Greene,Stanardsville,Source1,4,38.294896,-78.428361,2023,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4631696,VA,Greene,Stanardsville,Source1,4,38.280096,-78.513357,2022,0,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4646952,VA,Greene,Stanardsville,Source1,4,38.316498,-78.42613399999998,2022,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4651357,VA,Greene,Stanardsville,Source1,4,38.252041,-78.456385,2022,7,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-4672506,VA,Greene,Stanardsville,Source1,4,38.277911,-78.457396,2023,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4699941,VA,Greene,Stanardsville,Source1,4,38.294117,-78.427305,2023,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4732977,VA,Greene,Stanardsville,Source1,4,38.283517,-78.420295,2022,15,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-4733375,VA,Greene,Ruckersville,Source1,4,38.23332,-78.369212,2022,11,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-4796351,VA,Greene,Ruckersville,Source1,4,38.259529,-78.391104,2022,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4935456,VA,Greene,Stanardsville,Source1,4,38.254597,-78.477551,2022,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5006260,VA,Greene,Stanardsville,Source1,4,38.355789,-78.543943,2022,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5099174,VA,Greene,Ruckersville,Source1,4,38.257232,-78.444214,2022,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5127038,VA,Greene,Ruckersville,Source1,4,38.207042,-78.350201,2023,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5131316,VA,Greene,Ruckersville,Source1,4,38.250751,-78.40907299999998,2022,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-5145215,VA,Greene,Ruckersville,Source1,4,38.251075,-78.408304,2022,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-5145666,VA,Greene,Stanardsville,Source1,4,38.313864,-78.428601,2022,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5166251,VA,Greene,Ruckersville,Source1,4,38.217028000000006,-78.345816,2022,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5207872,VA,Greene,Stanardsville,Source1,4,38.296352,-78.43027,2022,16,Sunday,Rain,False,False,False,False,False,False,False
+A-5288490,VA,Greene,Ruckersville,Source1,4,38.25931,-78.39116899999998,2022,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5405755,VA,Greene,Stanardsville,Source1,4,38.333933,-78.49987800000002,2022,1,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5426916,VA,Greene,Stanardsville,Source1,4,38.310998,-78.431259,2022,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5440928,VA,Greene,Ruckersville,Source1,4,38.210498,-78.35962099999998,2023,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5441590,VA,Greene,Stanardsville,Source1,4,38.254597,-78.477551,2023,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-5458729,VA,Greene,Dyke,Source1,4,38.253297,-78.539458,2022,15,Friday,Rain,False,False,False,False,False,False,False
+A-5462832,VA,Greene,Stanardsville,Source1,4,38.331359,-78.4925,2022,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5551708,VA,Greene,Ruckersville,Source1,4,38.284418,-78.382513,2021,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5625583,VA,Greene,Ruckersville,Source1,4,38.2335,-78.36371700000002,2021,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-5731648,VA,Greene,Stanardsville,Source1,4,38.320576,-78.47589599999998,2021,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5828359,VA,Greene,Ruckersville,Source1,4,38.2590830324256,-78.40525031052395,2021,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5829623,VA,Greene,Ruckersville,Source1,4,38.250564,-78.398198,2021,18,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-5940388,VA,Greene,Ruckersville,Source1,4,38.2149,-78.343292,2021,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5953817,VA,Greene,Ruckersville,Source1,4,38.195258,-78.402348,2021,16,Thursday,Rain,False,False,False,False,False,False,False
+A-5976303,VA,Greene,Ruckersville,Source1,4,38.23329091053851,-78.36917996369186,2021,15,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-6008514,VA,Greene,Stanardsville,Source1,4,38.323567,-78.47685600000001,2021,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6086355,VA,Greene,Ruckersville,Source1,4,38.282336,-78.422854,2021,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6177272,VA,Greene,Ruckersville,Source1,4,38.28442,-78.37505999999998,2021,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6234052,VA,Greene,Ruckersville,Source1,4,38.271862,-78.351136,2021,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-6272727,VA,Greene,Ruckersville,Source1,4,38.282279,-78.423362,2021,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6341310,VA,Greene,Ruckersville,Source1,4,38.25357800000001,-78.448779,2021,23,Wednesday,Clear / Fair,False,False,False,False,False,True,False
+A-6343295,VA,Greene,Stanardsville,Source1,4,38.330469,-78.490105,2021,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6406076,VA,Greene,Stanardsville,Source1,4,38.331359,-78.4925,2021,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6424967,VA,Greene,Ruckersville,Source1,4,38.253049,-78.449913,2021,23,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6589804,VA,Greene,Free Union,Source1,4,38.280263,-78.587406,2020,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6644018,VA,Greene,Stanardsville,Source1,4,38.297609,-78.433677,2020,1,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6666868,VA,Greene,Stanardsville,Source1,4,38.300933,-78.463267,2020,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6723402,VA,Greene,Free Union,Source1,4,38.280198,-78.593408,2020,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6724820,VA,Greene,Ruckersville,Source1,4,38.235883,-78.368329,2020,2,Tuesday,Cloudy,False,False,False,True,False,False,False
+A-6838057,VA,Greene,Stanardsville,Source1,4,38.328842,-78.48611600000002,2020,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7107992,VA,Greene,Ruckersville,Source1,3,38.20869,-78.38571999999998,2020,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7281345,VA,Greene,Stanardsville,Source1,4,38.32805,-78.48246,2020,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-7393724,VA,Greene,Barboursville,Source1,4,38.206272,-78.387011,2019,0,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7432816,VA,Greene,Stanardsville,Source1,4,38.349541,-78.532139,2019,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7432839,VA,Greene,Stanardsville,Source1,4,38.33954,-78.506723,2019,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7432840,VA,Greene,Stanardsville,Source1,4,38.356521,-78.54467199999998,2019,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7486352,VA,Greene,Ruckersville,Source1,4,38.252089,-78.39915400000002,2018,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7486371,VA,Greene,Ruckersville,Source1,3,38.225745,-78.37414,2018,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7498997,VA,Greene,Stanardsville,Source1,4,38.356521,-78.544671,2018,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-7508468,VA,Greene,Ruckersville,Source1,4,38.27846,-78.342912,2018,8,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7522272,VA,Greene,Barboursville,Source1,4,38.206307,-78.386989,2018,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7539107,VA,Greene,Ruckersville,Source1,4,38.215237,-78.343657,2018,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-7555137,VA,Greene,Stanardsville,Source1,4,38.35390200000001,-78.53671700000002,2018,20,Thursday,Rain,False,False,False,False,False,False,False
+A-7611017,VA,Greene,Ruckersville,Source1,4,38.233511,-78.378315,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7662255,VA,Greene,Stanardsville,Source1,4,38.306219,-78.468346,2017,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7662262,VA,Greene,Stanardsville,Source1,4,38.300954,-78.463257,2017,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7662263,VA,Greene,Stanardsville,Source1,4,38.306219,-78.468346,2017,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7671084,VA,Greene,Ruckersville,Source1,4,38.231509,-78.355449,2017,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-7671085,VA,Greene,Ruckersville,Source1,4,38.225949,-78.34858,2017,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-7704810,VA,Greene,Stanardsville,Source1,3,38.304383,-78.46686700000002,2019,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7704811,VA,Greene,Stanardsville,Source1,3,38.300954,-78.463257,2019,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7727330,VA,Greene,Ruckersville,Source1,3,38.27024,-78.35240999999998,2019,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7744993,VA,Greene,Stanardsville,Source1,4,38.349541,-78.532139,2019,0,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7744994,VA,Greene,Stanardsville,Source1,4,38.356521,-78.544671,2019,0,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7767694,VA,Greene,Ruckersville,Source1,4,38.20788,-78.38626,2019,17,Friday,Cloudy,True,False,False,False,False,False,False

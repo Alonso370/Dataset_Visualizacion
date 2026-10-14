@@ -1,0 +1,871 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-167761,IL,Madison,Collinsville,Source2,3,38.707981,-89.958939,2016,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-167762,IL,Madison,Collinsville,Source2,3,38.707981,-89.958939,2016,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-167767,IL,Madison,Collinsville,Source2,3,38.691795,-90.030411,2016,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-167994,IL,Madison,Collinsville,Source2,3,38.707981,-89.958939,2016,9,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-168856,IL,Madison,Granite City,Source2,3,38.765995,-90.124237,2016,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-169604,IL,Madison,Glen Carbon,Source2,3,38.755806,-89.95694,2017,8,Sunday,Cloudy,False,False,False,False,False,False,False
+A-169605,IL,Madison,Glen Carbon,Source2,3,38.755665,-89.956482,2017,8,Sunday,Cloudy,False,False,False,False,False,False,False
+A-169764,IL,Madison,Granite City,Source2,3,38.765995,-90.124237,2017,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-170030,IL,Madison,Glen Carbon,Source2,3,38.756649,-90.007599,2017,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-170184,IL,Madison,Collinsville,Source2,3,38.707901,-89.959427,2017,17,Thursday,Cloudy,False,False,True,False,False,False,False
+A-173558,IL,Madison,Granite City,Source2,3,38.765995,-90.124237,2016,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-174000,IL,Madison,Granite City,Source2,3,38.761703,-90.16198,2016,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-174457,IL,Madison,Glen Carbon,Source2,3,38.752434,-89.90727199999998,2016,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-174588,IL,Madison,East Saint Louis,Source2,3,38.662716,-90.093147,2016,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-174937,IL,Madison,Troy,Source2,3,38.7323,-89.912483,2016,16,Thursday,Cloudy,True,False,False,False,False,False,False
+A-174940,IL,Madison,Troy,Source2,3,38.75193400000001,-89.907089,2016,16,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-175227,IL,Madison,Edwardsville,Source2,3,38.875401,-89.847527,2016,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-175228,IL,Madison,Worden,Source2,3,38.888943,-89.838287,2016,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-175312,IL,Madison,Granite City,Source2,3,38.765995,-90.124237,2016,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-175863,IL,Madison,Granite City,Source2,3,38.766102,-90.132057,2016,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-176052,IL,Madison,Glen Carbon,Source2,3,38.756413,-90.007675,2016,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-176154,IL,Madison,Marine,Source2,3,38.761776,-89.80069,2016,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-176501,IL,Madison,Marine,Source2,3,38.761776,-89.80069,2016,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-176837,IL,Madison,Collinsville,Source2,3,38.707981,-89.958939,2016,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-176963,IL,Madison,Granite City,Source2,3,38.765995,-90.124237,2016,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-177037,IL,Madison,Granite City,Source2,3,38.757374,-90.06710799999998,2016,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-177273,IL,Madison,Granite City,Source2,3,38.759388,-90.094261,2016,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-178231,IL,Madison,Highland,Source2,3,38.786304,-89.693344,2016,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-178232,IL,Madison,Collinsville,Source2,3,38.667873,-90.047188,2016,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-178539,IL,Madison,Troy,Source2,3,38.7323,-89.912483,2016,20,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-323957,IL,Madison,Glen Carbon,Source2,3,38.756413,-90.007675,2017,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-365040,IL,Madison,Glen Carbon,Source2,3,38.756413,-90.007675,2017,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-365101,IL,Madison,Granite City,Source2,3,38.761028,-90.158356,2017,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-365180,IL,Madison,Collinsville,Source2,3,38.659836,-90.030838,2017,7,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-365353,IL,Madison,Collinsville,Source2,3,38.672413,-90.029434,2017,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-365366,IL,Madison,Collinsville,Source2,3,38.672783,-90.029449,2017,17,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-365710,IL,Madison,East Saint Louis,Source2,3,38.662716,-90.093147,2017,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-365903,IL,Madison,Edwardsville,Source2,3,38.795135,-89.895248,2017,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-365930,IL,Madison,Edwardsville,Source2,3,38.805489,-89.892395,2017,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-366035,IL,Madison,Edwardsville,Source2,3,38.795773,-89.895073,2017,23,Saturday,Cloudy,False,False,False,False,False,False,False
+A-366128,IL,Madison,Granite City,Source2,3,38.759537,-90.094635,2017,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-366462,IL,Madison,Edwardsville,Source2,3,38.831375,-89.878632,2017,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-366605,IL,Madison,Granite City,Source2,3,38.762177,-90.101234,2017,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-366943,IL,Madison,Glen Carbon,Source2,3,38.755665,-89.956482,2017,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-366984,IL,Madison,Collinsville,Source2,3,38.672783,-90.029449,2017,10,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-366986,IL,Madison,Collinsville,Source2,3,38.672783,-90.029449,2017,12,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-416144,IL,Madison,Granite City,Source2,3,38.732807,-90.038712,2017,19,Wednesday,Rain,False,False,False,False,False,False,False
+A-416282,IL,Madison,Collinsville,Source2,3,38.672783,-90.029449,2017,9,Sunday,Cloudy,False,False,True,False,False,False,False
+A-416299,IL,Madison,Glen Carbon,Source2,3,38.752434,-89.90727199999998,2017,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-416526,IL,Madison,Glen Carbon,Source2,3,38.752434,-89.90727199999998,2017,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-416617,IL,Madison,Collinsville,Source2,3,38.669472,-90.04216,2017,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-416812,IL,Madison,Highland,Source2,3,38.78677,-89.671913,2017,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-417570,IL,Madison,Collinsville,Source2,3,38.690872,-90.03076899999998,2017,14,Wednesday,Rain,False,False,False,False,False,False,False
+A-417591,IL,Madison,Collinsville,Source2,3,38.671833,-90.02979300000001,2017,21,Wednesday,Rain,False,False,False,False,False,False,False
+A-417594,IL,Madison,Collinsville,Source2,3,38.683765,-90.030365,2017,2,Thursday,Rain,False,False,False,False,False,False,False
+A-417614,IL,Madison,Collinsville,Source2,3,38.672848,-90.02984599999998,2017,10,Thursday,Rain,False,False,True,False,False,False,False
+A-444605,IL,Madison,Collinsville,Source2,3,38.659836,-90.030838,2017,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-471579,IL,Madison,Granite City,Source2,3,38.765995,-90.124237,2017,21,Wednesday,Other,False,False,False,False,False,False,False
+A-471851,IL,Madison,Collinsville,Source2,3,38.680508,-90.01175699999996,2017,17,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-501721,IL,Madison,Pocahontas,Source2,3,38.785976,-89.631096,2017,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-501725,IL,Madison,Pocahontas,Source2,3,38.785976,-89.631096,2017,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-514553,IL,Madison,Marine,Source2,3,38.761925,-89.800789,2022,3,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-521188,IL,Madison,Collinsville,Source2,3,38.672901,-90.029434,2022,8,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-522049,IL,Madison,Glen Carbon,Source2,3,38.755768,-89.95658900000002,2022,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-522315,IL,Madison,Granite City,Source2,3,38.76598,-90.124374,2022,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-524839,IL,Madison,Edwardsville,Source2,3,38.795883,-89.895287,2022,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-526480,IL,Madison,Troy,Source2,3,38.732212,-89.912605,2022,19,Thursday,Cloudy,True,False,False,False,False,False,False
+A-535155,IL,Madison,Worden,Source2,3,38.889046,-89.83815,2022,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-535187,IL,Madison,Worden,Source2,3,38.889046,-89.83815,2022,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-537686,IL,Madison,Collinsville,Source2,3,38.672901,-90.029434,2022,11,Sunday,Cloudy,False,False,True,False,False,False,False
+A-543903,IL,Madison,Collinsville,Source2,4,38.679447,-90.01355,2022,0,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-544349,IL,Madison,Collinsville,Source2,3,38.679447,-90.01355,2022,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-545779,IL,Madison,Hamel,Source2,3,38.888157,-89.838829,2022,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-546702,IL,Madison,Collinsville,Source2,3,38.693638,-90.030739,2022,6,Thursday,Rain,False,False,False,False,False,False,False
+A-556397,IL,Madison,Collinsville,Source2,3,38.658703,-90.03215,2022,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-557265,IL,Madison,Marine,Source2,3,38.779697,-89.739807,2022,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-561074,IL,Madison,Granite City,Source2,3,38.761097,-90.156097,2022,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-561075,IL,Madison,Granite City,Source2,3,38.765793,-90.13813,2022,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-564738,IL,Madison,Marine,Source2,3,38.761787,-89.8022,2022,23,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-571404,IL,Madison,Moro,Source2,3,38.920853,-89.971603,2022,3,Friday,Storm,False,False,False,False,False,False,False
+A-580112,IL,Madison,Glen Carbon,Source2,3,38.757328,-90.044312,2022,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-580130,IL,Madison,Granite City,Source2,3,38.731133,-90.03830699999996,2022,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-592877,IL,Madison,Collinsville,Source2,3,38.707458,-89.96234100000002,2022,10,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-593836,IL,Madison,Glen Carbon,Source2,3,38.755768,-89.95658900000002,2022,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-594597,IL,Madison,Granite City,Source2,3,38.761833,-90.162315,2022,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-609103,IL,Madison,Collinsville,Source2,3,38.679447,-90.01355,2022,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-609353,IL,Madison,Collinsville,Source2,3,38.672901,-90.029434,2022,5,Friday,Cloudy,False,False,True,False,False,False,False
+A-611234,IL,Madison,Collinsville,Source2,3,38.666351,-90.048286,2022,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-611235,IL,Madison,Marine,Source2,3,38.776436,-89.74295,2022,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-617302,IL,Madison,Troy,Source2,3,38.715767,-89.92334699999998,2022,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-623121,IL,Madison,Collinsville,Source2,3,38.658703,-90.03215,2022,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-645838,IL,Madison,Collinsville,Source2,3,38.702232,-89.9851,2022,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-654918,IL,Madison,Edwardsville,Source2,3,38.782547,-89.898697,2022,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-656607,IL,Madison,Granite City,Source2,3,38.731133,-90.03830699999996,2022,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-656865,IL,Madison,Glen Carbon,Source2,3,38.757328,-90.044312,2022,3,Friday,Cloudy,False,False,False,False,False,False,False
+A-658208,IL,Madison,Marine,Source2,3,38.776436,-89.74295,2022,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-658209,IL,Madison,Highland,Source2,3,38.779392,-89.739716,2022,3,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-665030,IL,Madison,Marine,Source2,3,38.776436,-89.74295,2022,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-667277,IL,Madison,Collinsville,Source2,3,38.658703,-90.03215,2022,7,Wednesday,Rain,False,False,False,False,False,False,False
+A-669996,IL,Madison,Granite City,Source2,3,38.731136,-90.03830699999996,2022,8,Monday,Sin dato,False,False,False,False,False,False,False
+A-671479,IL,Madison,Collinsville,Source2,3,38.70942700000001,-89.94937900000002,2022,3,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-684524,IL,Madison,Collinsville,Source2,3,38.707951,-89.95886999999998,2022,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-698670,IL,Madison,Collinsville,Source2,3,38.673939,-90.029984,2022,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-698842,IL,Madison,Collinsville,Source2,3,38.692326,-90.030792,2022,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-705939,IL,Madison,East Saint Louis,Source2,3,38.662655,-90.093056,2022,13,Thursday,Rain,False,False,False,False,False,False,False
+A-705940,IL,Madison,Collinsville,Source2,3,38.68029,-90.01445,2022,13,Thursday,Rain,False,False,False,False,False,False,False
+A-705957,IL,Madison,Granite City,Source2,3,38.766117,-90.131462,2022,13,Thursday,Rain,False,False,False,False,False,False,False
+A-705958,IL,Madison,Edwardsville,Source2,3,38.795883,-89.895279,2022,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-708437,IL,Madison,Granite City,Source2,3,38.757545,-90.066795,2022,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-709672,IL,Madison,Collinsville,Source2,3,38.673939,-90.029984,2022,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-723187,IL,Madison,East Saint Louis,Source2,3,38.662655,-90.093056,2022,16,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-726964,IL,Madison,Collinsville,Source2,3,38.687344,-90.004745,2022,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-726965,IL,Madison,Collinsville,Source2,3,38.707993,-89.958885,2022,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-727973,IL,Madison,Collinsville,Source2,3,38.672901,-90.029434,2022,17,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-732478,IL,Madison,Glen Carbon,Source2,3,38.755768,-89.95658900000002,2022,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-732685,IL,Madison,Edwardsville,Source2,3,38.758125,-89.839905,2022,7,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-732686,IL,Madison,Livingston,Source2,3,38.969727,-89.751396,2022,8,Thursday,Sin dato,False,False,False,False,False,False,False
+A-732707,IL,Madison,Edwardsville,Source2,3,38.833199,-89.877235,2022,8,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-732708,IL,Madison,Edwardsville,Source2,3,38.858501,-89.859444,2022,8,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-732713,IL,Madison,Troy,Source2,3,38.752689,-89.906891,2022,7,Thursday,Snow / Ice,False,False,True,False,False,False,False
+A-732809,IL,Madison,Livingston,Source2,3,38.969818,-89.750885,2022,8,Thursday,Sin dato,False,False,False,False,False,False,False
+A-733066,IL,Madison,Collinsville,Source2,3,38.679447,-90.01355,2022,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-744868,IL,Madison,Glen Carbon,Source2,3,38.748821,-89.91107199999998,2022,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-752390,IL,Madison,Collinsville,Source2,3,38.673939,-90.029984,2022,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-754130,IL,Madison,Collinsville,Source2,3,38.673939,-90.029984,2022,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-758975,IL,Madison,Collinsville,Source2,3,38.679447,-90.01355,2021,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-762631,IL,Madison,Glen Carbon,Source2,3,38.755768,-89.95658900000002,2021,8,Tuesday,Rain,False,False,False,False,False,False,False
+A-771890,IL,Madison,Collinsville,Source2,3,38.693634,-90.030731,2021,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-772039,IL,Madison,Collinsville,Source2,3,38.658703,-90.03215,2021,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-777139,IL,Madison,Marine,Source2,3,38.761925,-89.800789,2021,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-781042,IL,Madison,Collinsville,Source2,3,38.707951,-89.95886999999998,2021,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-795204,IL,Madison,Collinsville,Source2,3,38.658703,-90.03215,2021,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-812637,IL,Madison,Granite City,Source2,3,38.757401,-90.044365,2021,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-817954,IL,Madison,Collinsville,Source2,3,38.658703,-90.03215,2021,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-824204,IL,Madison,Marine,Source2,3,38.761925,-89.800789,2021,3,Thursday,Rain,False,False,False,False,False,False,False
+A-830257,IL,Madison,Edwardsville,Source2,3,38.759426,-89.905037,2021,3,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-830675,IL,Madison,Edwardsville,Source2,3,38.795883,-89.895279,2021,3,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-840578,IL,Madison,Alton,Source2,3,38.923855,-90.185417,2021,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-841117,IL,Madison,Granite City,Source2,3,38.759815,-90.094193,2021,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-842801,IL,Madison,Collinsville,Source2,3,38.658703,-90.03215,2021,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-843251,IL,Madison,Granite City,Source2,3,38.731136,-90.03830699999996,2021,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-843352,IL,Madison,Collinsville,Source2,3,38.693634,-90.030731,2021,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-844303,IL,Madison,Granite City,Source2,3,38.731136,-90.03830699999996,2021,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-854070,IL,Madison,Collinsville,Source2,3,38.693634,-90.030731,2021,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-856031,IL,Madison,Granite City,Source2,3,38.757545,-90.066795,2021,6,Thursday,Rain,False,False,False,False,False,False,False
+A-856736,IL,Madison,Collinsville,Source2,3,38.709068,-89.95303299999998,2021,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-858222,IL,Madison,Highland,Source2,3,38.774509,-89.743782,2021,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-858291,IL,Madison,Highland,Source2,3,38.774509,-89.743782,2021,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-863804,IL,Madison,Granite City,Source2,3,38.757401,-90.044365,2021,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-864094,IL,Madison,Granite City,Source2,3,38.75745,-90.06989300000002,2021,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-864095,IL,Madison,Granite City,Source2,3,38.757462,-90.070366,2021,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-864096,IL,Madison,Granite City,Source2,3,38.757545,-90.066795,2021,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-864097,IL,Madison,Granite City,Source2,3,38.757545,-90.066795,2021,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-871443,IL,Madison,Worden,Source2,3,38.931583,-89.801239,2021,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-871782,IL,Madison,Granite City,Source2,3,38.759815,-90.094193,2021,8,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-872385,IL,Madison,Collinsville,Source2,3,38.693634,-90.030731,2021,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-873703,IL,Madison,Edwardsville,Source2,3,38.756462,-90.00829300000002,2021,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-880278,IL,Madison,Worden,Source2,3,38.889046,-89.83815,2021,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-881075,IL,Madison,Glen Carbon,Source2,3,38.756638,-89.98477199999998,2021,3,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-893954,IL,Madison,Worden,Source2,3,38.889046,-89.83815,2021,8,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-894033,IL,Madison,Collinsville,Source2,4,38.673939,-90.029984,2021,5,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-899317,IL,Madison,Granite City,Source2,3,38.759468,-90.094414,2021,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-904544,IL,Madison,Collinsville,Source2,3,38.693634,-90.030731,2021,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-904563,IL,Madison,Granite City,Source2,3,38.731136,-90.03830699999996,2021,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-906627,IL,Madison,Granite City,Source2,3,38.762444,-90.164619,2021,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-912758,IL,Madison,Worden,Source2,3,38.894794,-89.834389,2021,3,Sunday,Cloudy,False,False,False,False,False,False,False
+A-914397,IL,Madison,Collinsville,Source2,3,38.673279,-90.027748,2021,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-914724,IL,Madison,Granite City,Source2,3,38.757545,-90.066795,2021,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-916292,IL,Madison,Marine,Source2,3,38.762367,-89.791382,2021,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-918818,IL,Madison,Granite City,Source2,3,38.731136,-90.03830699999996,2021,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-918961,IL,Madison,Granite City,Source2,3,38.731136,-90.03830699999996,2021,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-922065,IL,Madison,Granite City,Source2,3,38.757088,-90.046501,2021,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-922231,IL,Madison,Edwardsville,Source2,3,38.756973,-90.02726,2021,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-924064,IL,Madison,Granite City,Source2,3,38.758629,-90.06519300000002,2021,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-924627,IL,Madison,Granite City,Source2,3,38.757092,-90.0466,2021,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-924721,IL,Madison,New Douglas,Source2,3,38.967361,-89.753853,2021,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-926455,IL,Madison,Glen Carbon,Source2,3,38.748821,-89.91107199999998,2021,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-926773,IL,Madison,Granite City,Source2,3,38.757935,-90.04388399999998,2021,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-932828,IL,Madison,Collinsville,Source2,3,38.702579,-89.98449699999998,2021,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-934447,IL,Madison,Edwardsville,Source2,3,38.756462,-90.00829300000002,2021,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-938868,IL,Madison,New Douglas,Source2,3,38.958256,-89.76610600000002,2021,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-942413,IL,Madison,East Saint Louis,Source2,3,38.662655,-90.093056,2021,0,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-942622,IL,Madison,Worden,Source2,3,38.931583,-89.801239,2021,3,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-947675,IL,Madison,Granite City,Source2,3,38.761219,-90.098595,2021,3,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-951158,IL,Madison,Collinsville,Source2,3,38.679447,-90.01355,2021,10,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-953930,IL,Madison,Granite City,Source2,3,38.757401,-90.044365,2021,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-954122,IL,Madison,Collinsville,Source2,3,38.67561,-90.029961,2021,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-955449,IL,Madison,Granite City,Source2,3,38.757545,-90.066795,2021,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-964868,IL,Madison,East Saint Louis,Source2,3,38.662655,-90.093056,2021,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-964890,IL,Madison,East Saint Louis,Source2,3,38.66238,-90.100685,2021,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-964962,IL,Madison,Edwardsville,Source2,3,38.798386,-90.044312,2021,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-966213,IL,Madison,Worden,Source2,3,38.889046,-89.83815,2021,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-966223,IL,Madison,Edwardsville,Source2,3,38.8605,-89.858032,2021,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-966224,IL,Madison,Worden,Source2,3,38.889046,-89.83815,2021,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-966242,IL,Madison,Granite City,Source2,3,38.757401,-90.044365,2021,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-966460,IL,Madison,Granite City,Source2,3,38.757401,-90.044365,2021,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-966557,IL,Madison,Granite City,Source2,3,38.757401,-90.044365,2021,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-966714,IL,Madison,Worden,Source2,3,38.915417,-89.816956,2021,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-966930,IL,Madison,Collinsville,Source2,3,38.679447,-90.01355,2021,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-967080,IL,Madison,Granite City,Source2,3,38.757545,-90.066795,2021,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-968063,IL,Madison,Troy,Source2,3,38.755497,-89.87416800000004,2021,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-968160,IL,Madison,Granite City,Source2,3,38.757545,-90.066795,2021,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-968505,IL,Madison,Collinsville,Source2,3,38.692303,-90.030464,2021,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-968506,IL,Madison,Granite City,Source2,3,38.731136,-90.03830699999996,2021,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-968622,IL,Madison,Worden,Source2,3,38.889046,-89.83815,2021,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-968722,IL,Madison,Granite City,Source2,3,38.759815,-90.094193,2021,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-968725,IL,Madison,Collinsville,Source2,3,38.679447,-90.01355,2021,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-971027,IL,Madison,Collinsville,Source2,3,38.679447,-90.01355,2021,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-971094,IL,Madison,Troy,Source2,3,38.755749,-89.87460300000002,2021,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-973444,IL,Madison,Collinsville,Source2,3,38.709225,-89.950722,2021,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-973479,IL,Madison,Worden,Source2,3,38.931583,-89.801239,2021,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-975116,IL,Madison,Collinsville,Source2,3,38.679447,-90.01355,2021,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-978105,IL,Madison,Granite City,Source2,3,38.757401,-90.044365,2021,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-981387,IL,Madison,Collinsville,Source2,3,38.707951,-89.95886999999998,2021,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-981430,IL,Madison,Glen Carbon,Source2,3,38.756519,-89.99234,2021,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-983023,IL,Madison,Collinsville,Source2,3,38.658703,-90.03215,2021,6,Thursday,Rain,False,False,False,False,False,False,False
+A-983025,IL,Madison,Collinsville,Source2,3,38.658703,-90.03215,2021,7,Thursday,Rain,False,False,False,False,False,False,False
+A-983076,IL,Madison,Granite City,Source2,3,38.764729,-90.146042,2021,6,Thursday,Rain,False,False,False,False,False,False,False
+A-987599,IL,Madison,Collinsville,Source2,3,38.673939,-90.029984,2021,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-988603,IL,Madison,Glen Carbon,Source2,3,38.755768,-89.95658900000002,2021,6,Sunday,Cloudy,False,False,False,False,False,False,False
+A-988607,IL,Madison,Worden,Source2,3,38.889046,-89.83815,2021,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-991595,IL,Madison,Edwardsville,Source2,3,38.795883,-89.895279,2021,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-991596,IL,Madison,Edwardsville,Source2,3,38.795883,-89.895279,2021,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-992955,IL,Madison,Marine,Source2,3,38.761925,-89.800789,2021,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-998805,IL,Madison,Collinsville,Source2,3,38.658703,-90.03215,2021,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-998865,IL,Madison,Edwardsville,Source2,3,38.756462,-90.00829300000002,2021,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1002319,IL,Madison,Granite City,Source2,3,38.757401,-90.044365,2021,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1002324,IL,Madison,Granite City,Source2,3,38.76598,-90.124374,2021,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1002331,IL,Madison,Troy,Source2,3,38.755493,-89.874374,2021,23,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1009993,IL,Madison,East Saint Louis,Source2,3,38.662655,-90.093056,2021,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1011711,IL,Madison,Granite City,Source2,3,38.757401,-90.044365,2021,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1013252,IL,Madison,East Saint Louis,Source2,3,38.662655,-90.093056,2021,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1013265,IL,Madison,Collinsville,Source2,3,38.673977,-90.025925,2021,15,Tuesday,Rain,False,False,False,False,False,False,False
+A-1016019,IL,Madison,Granite City,Source2,3,38.759815,-90.094193,2021,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1016020,IL,Madison,Highland,Source2,3,38.776432,-89.74295,2021,8,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1016473,IL,Madison,Granite City,Source2,3,38.757545,-90.066795,2021,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1017624,IL,Madison,Collinsville,Source2,3,38.660786,-90.030518,2021,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1017663,IL,Madison,Edwardsville,Source2,3,38.838192,-89.873985,2021,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1017666,IL,Madison,Edwardsville,Source2,3,38.847313,-89.867302,2021,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1017671,IL,Madison,Granite City,Source2,3,38.759983,-90.095818,2021,15,Friday,Cloudy,False,False,True,False,False,False,False
+A-1017677,IL,Madison,Glen Carbon,Source2,3,38.755768,-89.95658900000002,2021,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-1020959,IL,Madison,East Saint Louis,Source2,3,38.662655,-90.093056,2021,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1022661,IL,Madison,Collinsville,Source2,3,38.707951,-89.95886999999998,2021,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1022709,IL,Madison,Granite City,Source2,3,38.76598,-90.124374,2021,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1022715,IL,Madison,New Douglas,Source2,3,38.967361,-89.753853,2021,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1024007,IL,Madison,Collinsville,Source2,3,38.679447,-90.01355,2021,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1024008,IL,Madison,Collinsville,Source2,3,38.7024,-89.985199,2021,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1024009,IL,Madison,Collinsville,Source2,3,38.70248400000001,-89.984879,2021,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1024037,IL,Madison,Edwardsville,Source2,3,38.759754,-89.904945,2021,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1024835,IL,Madison,East Saint Louis,Source2,3,38.662655,-90.093056,2021,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1024853,IL,Madison,Granite City,Source2,3,38.757545,-90.066795,2021,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1024854,IL,Madison,Granite City,Source2,3,38.759815,-90.094193,2021,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1025319,IL,Madison,Worden,Source2,3,38.889046,-89.83815,2021,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1025320,IL,Madison,Granite City,Source2,3,38.757401,-90.044365,2021,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1026485,IL,Madison,Troy,Source2,3,38.732212,-89.912605,2021,13,Friday,Cloudy,True,False,False,False,False,False,False
+A-1026487,IL,Madison,Collinsville,Source2,3,38.658703,-90.03215,2021,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-1026548,IL,Madison,Edwardsville,Source2,3,38.795883,-89.895279,2021,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-1026550,IL,Madison,Edwardsville,Source2,3,38.795883,-89.895279,2021,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1028317,IL,Madison,Granite City,Source2,3,38.764099,-90.170944,2021,16,Thursday,Storm,False,False,False,False,False,False,False
+A-1029841,IL,Madison,Collinsville,Source2,3,38.693634,-90.030731,2021,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1029842,IL,Madison,East Saint Louis,Source2,3,38.662655,-90.093056,2021,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1029874,IL,Madison,Highland,Source2,3,38.776432,-89.74295,2021,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1029878,IL,Madison,Edwardsville,Source2,3,38.83009000000001,-89.87941,2021,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1031436,IL,Madison,Collinsville,Source2,3,38.687473,-90.004341,2021,15,Tuesday,Rain,False,False,False,False,False,False,False
+A-1031437,IL,Madison,Collinsville,Source2,3,38.68740800000001,-90.004677,2021,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1033217,IL,Madison,New Douglas,Source2,3,38.967361,-89.753853,2021,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-1033218,IL,Madison,Worden,Source2,3,38.931583,-89.801239,2021,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1035773,IL,Madison,Granite City,Source2,3,38.761349,-90.160782,2021,3,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1037565,IL,Madison,Edwardsville,Source2,3,38.774109,-89.901016,2021,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1043587,IL,Madison,Pocahontas,Source2,3,38.786472,-89.631134,2021,6,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1043589,IL,Madison,Pocahontas,Source2,3,38.786472,-89.631134,2021,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1043610,IL,Madison,Granite City,Source2,3,38.757545,-90.066795,2021,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1044106,IL,Madison,East Saint Louis,Source2,3,38.662655,-90.093056,2021,6,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1045265,IL,Madison,Granite City,Source2,3,38.757793,-90.075272,2021,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1045275,IL,Madison,Worden,Source2,3,38.931583,-89.801239,2021,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1046961,IL,Madison,Edwardsville,Source2,3,38.756462,-90.00829300000002,2021,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1046979,IL,Madison,Granite City,Source2,3,38.76598,-90.124374,2021,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1046982,IL,Madison,Granite City,Source2,3,38.76598,-90.124374,2021,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1046983,IL,Madison,Edwardsville,Source2,3,38.831963,-89.878365,2021,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1048625,IL,Madison,Troy,Source2,3,38.750763,-89.906891,2021,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1048662,IL,Madison,Troy,Source2,3,38.755283,-89.87825,2021,0,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1048663,IL,Madison,Troy,Source2,3,38.755486,-89.874687,2021,3,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1048664,IL,Madison,Marine,Source2,3,38.761925,-89.800789,2021,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1050221,IL,Madison,Collinsville,Source2,3,38.707951,-89.95886999999998,2021,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1050272,IL,Madison,Highland,Source2,3,38.776432,-89.74295,2021,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1050278,IL,Madison,Troy,Source2,3,38.755501,-89.873947,2021,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1050282,IL,Madison,Troy,Source2,3,38.755474,-89.874969,2021,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1053314,IL,Madison,Granite City,Source2,3,38.759815,-90.094193,2021,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1053315,IL,Madison,Edwardsville,Source2,3,38.795883,-89.895279,2021,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1053317,IL,Madison,Granite City,Source2,3,38.757401,-90.044365,2021,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1054410,IL,Madison,East Saint Louis,Source2,3,38.662655,-90.093056,2021,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1054414,IL,Madison,Collinsville,Source2,3,38.707951,-89.95886999999998,2021,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-1054468,IL,Madison,Granite City,Source2,3,38.757545,-90.066795,2021,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-1054469,IL,Madison,Granite City,Source2,3,38.757545,-90.066795,2021,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1059744,IL,Madison,Collinsville,Source2,3,38.658703,-90.03215,2021,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1059745,IL,Madison,Collinsville,Source2,3,38.658703,-90.03215,2021,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1061409,IL,Madison,Worden,Source2,3,38.889046,-89.83815,2021,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-1062419,IL,Madison,Collinsville,Source2,3,38.658703,-90.03215,2021,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1062432,IL,Madison,Edwardsville,Source2,3,38.756462,-90.00829300000002,2021,7,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1062912,IL,Madison,Troy,Source2,3,38.732212,-89.912605,2021,12,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-1065695,IL,Madison,Collinsville,Source2,3,38.666428,-90.048286,2021,10,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-1065705,IL,Madison,Collinsville,Source2,3,38.679447,-90.01355,2021,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1065706,IL,Madison,Collinsville,Source2,3,38.679447,-90.01355,2021,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1065736,IL,Madison,Granite City,Source2,3,38.757931,-90.088951,2021,9,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-1065742,IL,Madison,Highland,Source2,3,38.786484,-89.67370600000002,2021,14,Wednesday,Rain,False,False,False,False,False,False,False
+A-1065743,IL,Madison,Highland,Source2,3,38.787388,-89.686836,2021,15,Wednesday,Rain,False,False,False,False,False,False,False
+A-1065759,IL,Madison,Highland,Source2,3,38.786472,-89.67424799999998,2021,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1067426,IL,Madison,Troy,Source2,3,38.732212,-89.912605,2021,16,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-1067460,IL,Madison,Edwardsville,Source2,3,38.756462,-90.00829300000002,2021,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1071567,IL,Madison,Granite City,Source2,3,38.757545,-90.066795,2021,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-1071576,IL,Madison,Granite City,Source2,3,38.765736,-90.115036,2021,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1073166,IL,Madison,Granite City,Source2,3,38.757893,-90.080498,2021,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1076054,IL,Madison,Collinsville,Source2,3,38.700016,-90.031082,2021,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1077621,IL,Madison,Granite City,Source2,3,38.757545,-90.066795,2021,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1081568,IL,Madison,Edwardsville,Source2,3,38.796425,-89.894913,2021,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1083041,IL,Madison,Granite City,Source2,3,38.662945,-90.06663499999998,2021,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1083098,IL,Madison,Granite City,Source2,3,38.757545,-90.066795,2021,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1083101,IL,Madison,Edwardsville,Source2,3,38.756405,-89.847992,2021,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1087097,IL,Madison,Collinsville,Source2,3,38.679447,-90.01355,2021,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1087516,IL,Madison,Collinsville,Source2,3,38.678741,-90.013092,2021,10,Saturday,Rain,False,False,False,False,False,False,False
+A-1087527,IL,Madison,Granite City,Source2,3,38.731136,-90.03830699999996,2021,20,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1087538,IL,Madison,Granite City,Source2,3,38.757401,-90.044365,2021,7,Saturday,Rain,False,False,False,False,False,False,False
+A-1087541,IL,Madison,Granite City,Source2,3,38.759815,-90.094193,2021,8,Saturday,Rain,False,False,False,False,False,False,False
+A-1087542,IL,Madison,Worden,Source2,3,38.889046,-89.83815,2021,11,Saturday,Rain,False,False,False,False,False,False,False
+A-1087543,IL,Madison,Worden,Source2,3,38.889046,-89.83815,2021,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1091754,IL,Madison,Troy,Source2,3,38.755466,-89.875298,2021,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1093213,IL,Madison,Highland,Source2,3,38.786499,-89.67227199999998,2021,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1094623,IL,Madison,New Douglas,Source2,3,38.967361,-89.753853,2021,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1094624,IL,Madison,Granite City,Source2,3,38.760414,-90.096977,2021,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1094626,IL,Madison,Granite City,Source2,3,38.759815,-90.094193,2021,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1094627,IL,Madison,Granite City,Source2,3,38.759815,-90.094193,2021,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1097108,IL,Madison,Granite City,Source2,3,38.759998,-90.095863,2021,20,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-1097109,IL,Madison,Granite City,Source2,3,38.762753,-90.166153,2021,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1099160,IL,Madison,Granite City,Source2,3,38.76598,-90.124374,2021,4,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-1099167,IL,Madison,Granite City,Source2,3,38.76598,-90.124374,2021,10,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-1100686,IL,Madison,Granite City,Source2,3,38.76598,-90.124374,2021,11,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-1102279,IL,Madison,Pocahontas,Source2,3,38.786472,-89.631134,2021,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1102280,IL,Madison,Edwardsville,Source2,3,38.756462,-90.00829300000002,2021,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1104692,IL,Madison,East Saint Louis,Source2,3,38.662655,-90.093056,2021,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-1104700,IL,Madison,Collinsville,Source2,3,38.679447,-90.01355,2021,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1104720,IL,Madison,Granite City,Source2,3,38.757545,-90.066795,2021,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-1106414,IL,Madison,Worden,Source2,3,38.889046,-89.83815,2021,15,Thursday,Rain,False,False,False,False,False,False,False
+A-1106415,IL,Madison,Granite City,Source2,3,38.76598,-90.124374,2021,15,Thursday,Rain,False,False,False,False,False,False,False
+A-1106418,IL,Madison,Granite City,Source2,3,38.76598,-90.124374,2021,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1106421,IL,Madison,Granite City,Source2,3,38.76598,-90.124374,2021,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1106429,IL,Madison,Edwardsville,Source2,3,38.8325,-89.87799100000002,2021,18,Thursday,Rain,False,False,False,False,False,False,False
+A-1108063,IL,Madison,Worden,Source2,3,38.931583,-89.801239,2021,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1108065,IL,Madison,Granite City,Source2,3,38.76409500000001,-90.170921,2021,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1110974,IL,Madison,Glen Carbon,Source2,3,38.753002,-89.906883,2021,17,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-1112317,IL,Madison,Worden,Source2,3,38.889046,-89.83815,2021,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1112318,IL,Madison,Worden,Source2,3,38.889046,-89.83815,2021,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1112319,IL,Madison,Worden,Source2,3,38.931583,-89.801239,2021,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1112320,IL,Madison,Glen Carbon,Source2,3,38.755768,-89.95658900000002,2021,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1112321,IL,Madison,Edwardsville,Source2,3,38.756462,-90.00829300000002,2021,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1113298,IL,Madison,Collinsville,Source2,3,38.679447,-90.01355,2021,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1114966,IL,Madison,New Douglas,Source2,3,38.967361,-89.753853,2021,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1114974,IL,Madison,Granite City,Source2,3,38.757504,-90.072525,2021,21,Thursday,Cloudy,False,False,True,False,False,False,False
+A-1116419,IL,Madison,Collinsville,Source2,3,38.666428,-90.048286,2021,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1120544,IL,Madison,Worden,Source2,3,38.889046,-89.83815,2021,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1123232,IL,Madison,Edwardsville,Source2,3,38.826515,-89.882195,2021,11,Thursday,Rain,False,False,False,False,False,False,False
+A-1126191,IL,Madison,East Saint Louis,Source2,3,38.662655,-90.093056,2021,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1126214,IL,Madison,New Douglas,Source2,3,38.967361,-89.753853,2021,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1127403,IL,Madison,East Saint Louis,Source2,3,38.662655,-90.093056,2021,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1127407,IL,Madison,Granite City,Source2,3,38.707584,-90.067619,2021,16,Monday,Clear / Fair,False,True,False,False,False,False,False
+A-1127444,IL,Madison,Edwardsville,Source2,3,38.798386,-90.044312,2021,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1128681,IL,Madison,Glen Carbon,Source2,3,38.755768,-89.95658900000002,2021,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1129747,IL,Madison,Highland,Source2,3,38.78641500000001,-89.66624499999998,2021,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1131259,IL,Madison,Troy,Source2,3,38.754807,-89.882637,2021,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1134101,IL,Madison,Glen Carbon,Source2,3,38.755768,-89.95658900000002,2021,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1134103,IL,Madison,Glen Carbon,Source2,3,38.755768,-89.95658900000002,2021,22,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1135419,IL,Madison,Granite City,Source2,3,38.765621,-90.125938,2021,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1135420,IL,Madison,Granite City,Source2,3,38.762886,-90.149757,2021,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1136289,IL,Madison,Glen Carbon,Source2,3,38.756771,-89.955101,2021,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1137825,IL,Madison,Collinsville,Source2,3,38.658703,-90.03215,2021,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1137877,IL,Madison,Granite City,Source2,3,38.76598,-90.124374,2021,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-1140795,IL,Madison,Collinsville,Source2,3,38.666428,-90.048286,2021,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1145003,IL,Madison,Edwardsville,Source2,3,38.795883,-89.895279,2021,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1149373,IL,Madison,Collinsville,Source2,3,38.679447,-90.01355,2021,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1150926,IL,Madison,Granite City,Source2,3,38.731136,-90.03830699999996,2021,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1151009,IL,Madison,Granite City,Source2,3,38.757401,-90.044365,2021,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1152627,IL,Madison,Highland,Source2,3,38.776432,-89.74295,2021,13,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1152632,IL,Madison,Highland,Source2,3,38.776432,-89.74295,2021,15,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1152643,IL,Madison,Edwardsville,Source2,3,38.795883,-89.895279,2021,18,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1152647,IL,Madison,New Douglas,Source2,3,38.967361,-89.753853,2021,19,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1153566,IL,Madison,Edwardsville,Source2,3,38.756462,-90.00829300000002,2021,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1154170,IL,Madison,Collinsville,Source2,3,38.658703,-90.03215,2021,13,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-1154225,IL,Madison,Granite City,Source2,3,38.76598,-90.124374,2021,9,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-1154229,IL,Madison,Granite City,Source2,3,38.759815,-90.094193,2021,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1154230,IL,Madison,Granite City,Source2,3,38.76598,-90.124374,2021,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1157570,IL,Madison,Glen Carbon,Source2,3,38.756821,-89.972893,2021,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1160909,IL,Madison,Troy,Source2,3,38.732212,-89.912605,2021,5,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-1160913,IL,Madison,Troy,Source2,3,38.732212,-89.912605,2021,6,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-1160920,IL,Madison,Granite City,Source2,3,38.662823,-90.081039,2021,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1160941,IL,Madison,Collinsville,Source2,3,38.658703,-90.03215,2021,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1161101,IL,Madison,Marine,Source2,3,38.761925,-89.800789,2021,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1161103,IL,Madison,Granite City,Source2,3,38.757545,-90.066795,2021,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1161135,IL,Madison,Glen Carbon,Source2,3,38.758263,-89.905617,2021,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1163859,IL,Madison,Edwardsville,Source2,3,38.795883,-89.895279,2021,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1167406,IL,Madison,Edwardsville,Source2,3,38.832142,-89.87796800000002,2021,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1168858,IL,Madison,Edwardsville,Source2,3,38.782757,-89.89888,2021,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1168859,IL,Madison,Edwardsville,Source2,3,38.782345,-89.89875,2021,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1173086,IL,Madison,Granite City,Source2,3,38.757545,-90.066795,2021,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1173087,IL,Madison,Glen Carbon,Source2,3,38.755768,-89.95658900000002,2021,15,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1173633,IL,Madison,Edwardsville,Source2,3,38.795883,-89.895279,2021,1,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1173635,IL,Madison,Granite City,Source2,3,38.759815,-90.094193,2021,13,Saturday,Rain,False,False,False,False,False,False,False
+A-1173637,IL,Madison,Highland,Source2,3,38.776432,-89.74295,2021,17,Saturday,Rain,False,False,False,False,False,False,False
+A-1178152,IL,Madison,Collinsville,Source2,3,38.65982800000001,-90.030823,2021,9,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1179868,IL,Madison,Collinsville,Source2,3,38.707951,-89.95886999999998,2021,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1184351,IL,Madison,Worden,Source2,3,38.889046,-89.83815,2021,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1187382,IL,Madison,East Saint Louis,Source2,3,38.662655,-90.093056,2021,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1188692,IL,Madison,East Saint Louis,Source2,3,38.662655,-90.093056,2021,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1188696,IL,Madison,East Saint Louis,Source2,3,38.662655,-90.093056,2021,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1188697,IL,Madison,Granite City,Source2,3,38.662785,-90.068413,2021,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1190018,IL,Madison,Granite City,Source2,3,38.763042,-90.167252,2021,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1191208,IL,Madison,Marine,Source2,3,38.761925,-89.800789,2021,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1192332,IL,Madison,Collinsville,Source2,3,38.692875,-90.030495,2021,2,Friday,Cloudy,False,False,False,False,False,False,False
+A-1192340,IL,Madison,Collinsville,Source2,3,38.673939,-90.029984,2021,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-1192475,IL,Madison,Edwardsville,Source2,3,38.860043,-89.85835300000002,2021,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-1192476,IL,Madison,Edwardsville,Source2,3,38.860043,-89.85835300000002,2021,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-1194062,IL,Madison,Collinsville,Source2,4,38.679447,-90.01355,2021,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1195694,IL,Madison,Collinsville,Source2,3,38.707951,-89.95886999999998,2021,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1198261,IL,Madison,Collinsville,Source2,3,38.658703,-90.03215,2021,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1199195,IL,Madison,Collinsville,Source2,3,38.666428,-90.048286,2021,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1199196,IL,Madison,Collinsville,Source2,3,38.666428,-90.048286,2021,8,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1200634,IL,Madison,Granite City,Source2,3,38.759815,-90.094193,2021,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-1201978,IL,Madison,Collinsville,Source2,3,38.687263,-90.00455500000002,2021,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1203256,IL,Madison,Collinsville,Source2,3,38.673939,-90.029984,2021,2,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1203298,IL,Madison,Granite City,Source2,3,38.757401,-90.044365,2021,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1207439,IL,Madison,Collinsville,Source2,3,38.658703,-90.03215,2021,10,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1207932,IL,Madison,Collinsville,Source2,3,38.658703,-90.03215,2021,1,Friday,Rain,False,False,False,False,False,False,False
+A-1207940,IL,Madison,Collinsville,Source2,3,38.679447,-90.01355,2021,7,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1207960,IL,Madison,Troy,Source2,3,38.75919,-89.905106,2021,6,Friday,Rain,False,False,False,False,False,False,False
+A-1208936,IL,Madison,Glen Carbon,Source2,3,38.756641,-89.984451,2020,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1208937,IL,Madison,Granite City,Source2,3,38.76445,-90.146362,2020,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1211863,IL,Madison,New Douglas,Source2,3,38.967361,-89.753853,2020,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1212991,IL,Madison,East Saint Louis,Source2,3,38.662655,-90.093056,2020,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1213049,IL,Madison,Granite City,Source2,3,38.759815,-90.094193,2020,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-1213055,IL,Madison,Granite City,Source2,3,38.757401,-90.044365,2020,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1217346,IL,Madison,Collinsville,Source2,3,38.685894,-90.005989,2020,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1217356,IL,Madison,Collinsville,Source2,3,38.666428,-90.048286,2020,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1219019,IL,Madison,Marine,Source2,3,38.761925,-89.800789,2020,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1220538,IL,Madison,Collinsville,Source2,3,38.679447,-90.01355,2020,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1220540,IL,Madison,Collinsville,Source2,3,38.679447,-90.01355,2020,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1220541,IL,Madison,Collinsville,Source2,3,38.673206,-90.028008,2020,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1221515,IL,Madison,East Saint Louis,Source2,3,38.662655,-90.093056,2020,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1223251,IL,Madison,Edwardsville,Source2,3,38.791916,-89.896149,2020,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1226993,IL,Madison,Granite City,Source2,3,38.756329,-90.041351,2020,2,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1226995,IL,Madison,Granite City,Source2,3,38.759815,-90.094193,2020,5,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1228658,IL,Madison,Edwardsville,Source2,3,38.795883,-89.895279,2020,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1228660,IL,Madison,Edwardsville,Source2,3,38.795883,-89.895279,2020,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1230282,IL,Madison,Highland,Source2,3,38.776432,-89.74295,2020,3,Monday,Cloudy,False,False,False,False,False,False,False
+A-1230284,IL,Madison,Pocahontas,Source2,3,38.786472,-89.631134,2020,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-1230285,IL,Madison,Highland,Source2,3,38.776432,-89.74295,2020,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-1234879,IL,Madison,Collinsville,Source2,3,38.693634,-90.030731,2020,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1234939,IL,Madison,Granite City,Source2,3,38.757545,-90.066795,2020,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1236576,IL,Madison,Glen Carbon,Source2,3,38.756893,-89.984848,2020,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1236585,IL,Madison,Highland,Source2,3,38.776432,-89.74295,2020,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1239784,IL,Madison,Troy,Source2,3,38.755222,-89.881439,2020,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-1239787,IL,Madison,Granite City,Source2,3,38.76598,-90.124374,2020,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1239788,IL,Madison,Granite City,Source2,3,38.76598,-90.124374,2020,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1239789,IL,Madison,Granite City,Source2,3,38.76598,-90.124374,2020,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1240748,IL,Madison,Collinsville,Source2,3,38.679447,-90.01355,2020,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1247785,IL,Madison,Granite City,Source2,3,38.757545,-90.066795,2020,1,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1248275,IL,Madison,Collinsville,Source2,3,38.679447,-90.01355,2020,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1248280,IL,Madison,Pocahontas,Source2,3,38.786472,-89.631134,2020,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1248965,IL,Madison,East Saint Louis,Source2,3,38.662655,-90.093056,2020,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1251286,IL,Madison,Collinsville,Source2,3,38.67202,-90.029785,2020,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1251345,IL,Madison,Edwardsville,Source2,3,38.795883,-89.895279,2020,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1254978,IL,Madison,Granite City,Source2,3,38.76564000000001,-90.139122,2020,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1256004,IL,Madison,Worden,Source2,3,38.889606,-89.837845,2020,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1256514,IL,Madison,Marine,Source2,3,38.761925,-89.800789,2020,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1257707,IL,Madison,Troy,Source2,3,38.732212,-89.912605,2020,4,Friday,Cloudy,True,False,False,False,False,False,False
+A-1259409,IL,Madison,East Saint Louis,Source2,3,38.662655,-90.093056,2020,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1259456,IL,Madison,New Douglas,Source2,3,38.967361,-89.753853,2020,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1259457,IL,Madison,Granite City,Source2,3,38.757401,-90.044365,2020,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1259464,IL,Madison,Edwardsville,Source2,3,38.756168,-90.025909,2020,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1259466,IL,Madison,Edwardsville,Source2,3,38.756168,-90.025909,2020,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1259469,IL,Madison,Edwardsville,Source2,3,38.79681400000001,-89.894806,2020,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1261075,IL,Madison,Collinsville,Source2,3,38.664169,-90.060379,2020,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1262855,IL,Madison,Collinsville,Source2,3,38.679447,-90.01355,2020,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1264555,IL,Madison,Edwardsville,Source2,3,38.859943,-89.85842099999998,2020,2,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1264560,IL,Madison,Granite City,Source2,3,38.761684,-90.162094,2020,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1266192,IL,Madison,Collinsville,Source2,3,38.666428,-90.048286,2020,21,Saturday,Storm,False,False,False,False,False,False,False
+A-1266208,IL,Madison,Highland,Source2,3,38.776432,-89.74295,2020,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1266209,IL,Madison,Highland,Source2,3,38.776432,-89.74295,2020,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1267413,IL,Madison,Collinsville,Source2,3,38.693634,-90.030731,2020,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1267414,IL,Madison,Collinsville,Source2,3,38.707951,-89.95886999999998,2020,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1267468,IL,Madison,Granite City,Source2,3,38.757545,-90.066795,2020,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1271474,IL,Madison,New Douglas,Source2,3,38.967361,-89.753853,2020,21,Tuesday,Rain,False,False,False,False,False,False,False
+A-1271475,IL,Madison,Worden,Source2,4,38.931583,-89.801239,2020,3,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1271476,IL,Madison,New Douglas,Source2,3,38.967361,-89.753853,2020,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1273392,IL,Madison,New Douglas,Source2,3,38.967361,-89.753853,2020,20,Tuesday,Rain,False,False,False,False,False,False,False
+A-1276239,IL,Madison,Granite City,Source2,3,38.757401,-90.044365,2020,18,Sunday,Sin dato,False,False,False,False,False,False,False
+A-1283724,IL,Madison,Edwardsville,Source2,3,38.795883,-89.895279,2020,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1285466,IL,Madison,Granite City,Source2,3,38.757545,-90.066795,2020,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1286553,IL,Madison,East Saint Louis,Source2,3,38.662655,-90.093056,2020,5,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1286556,IL,Madison,East Saint Louis,Source2,3,38.662655,-90.093056,2020,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1287237,IL,Madison,Worden,Source2,3,38.931583,-89.801239,2020,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1296911,IL,Madison,Collinsville,Source2,3,38.707951,-89.95886999999998,2020,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1296916,IL,Madison,Worden,Source2,3,38.889046,-89.83815,2020,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1302814,IL,Madison,Collinsville,Source2,3,38.707951,-89.95886999999998,2020,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1305596,IL,Madison,Collinsville,Source2,3,38.666428,-90.048286,2020,6,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1305599,IL,Madison,East Saint Louis,Source2,3,38.662655,-90.093056,2020,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1312293,IL,Madison,Highland,Source2,3,38.785961,-89.63308,2020,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1314038,IL,Madison,Troy,Source2,3,38.74277100000001,-89.909607,2020,4,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1315171,IL,Madison,Collinsville,Source2,3,38.658703,-90.03215,2020,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1315182,IL,Madison,Highland,Source2,3,38.776432,-89.74295,2020,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1316993,IL,Madison,Granite City,Source2,3,38.764225,-90.171768,2020,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-1320321,IL,Madison,Collinsville,Source2,4,38.679447,-90.01355,2020,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1323808,IL,Madison,East Saint Louis,Source2,3,38.662655,-90.093056,2020,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-1324877,IL,Madison,Granite City,Source2,3,38.759815,-90.094193,2020,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1324878,IL,Madison,Granite City,Source2,3,38.759815,-90.094193,2020,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1324879,IL,Madison,Granite City,Source2,3,38.765835,-90.124031,2020,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1326463,IL,Madison,East Saint Louis,Source2,3,38.662655,-90.093056,2020,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1326519,IL,Madison,Glen Carbon,Source2,3,38.755768,-89.95658900000002,2020,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1326520,IL,Madison,Granite City,Source2,3,38.763943,-90.170692,2020,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1331612,IL,Madison,Granite City,Source2,3,38.759815,-90.094193,2020,18,Thursday,Rain,False,False,False,False,False,False,False
+A-1334442,IL,Madison,East Saint Louis,Source2,3,38.662655,-90.093056,2020,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1334450,IL,Madison,Highland,Source2,3,38.776432,-89.74295,2020,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1336377,IL,Madison,Collinsville,Source2,3,38.672901,-90.029434,2020,15,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-1336378,IL,Madison,Collinsville,Source2,3,38.703602,-89.97940799999998,2020,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1339959,IL,Madison,Collinsville,Source2,3,38.666428,-90.048286,2020,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1339960,IL,Madison,Collinsville,Source2,3,38.666428,-90.048286,2020,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1340023,IL,Madison,Marine,Source2,3,38.761925,-89.800789,2020,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1340024,IL,Madison,Granite City,Source2,3,38.759815,-90.094193,2020,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1340028,IL,Madison,Granite City,Source2,3,38.759624,-90.094795,2020,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1341860,IL,Madison,New Douglas,Source2,3,38.95042,-89.776459,2020,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1345755,IL,Madison,Pocahontas,Source2,3,38.786472,-89.631134,2020,20,Sunday,Rain,False,False,False,False,False,False,False
+A-1347055,IL,Madison,East Saint Louis,Source2,3,38.662655,-90.093056,2020,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-1347060,IL,Madison,Collinsville,Source2,3,38.687298,-90.004524,2020,15,Monday,Rain,False,False,False,False,False,False,False
+A-1347120,IL,Madison,Edwardsville,Source2,3,38.756462,-90.00829300000002,2020,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-1347121,IL,Madison,Edwardsville,Source2,3,38.756451,-90.008804,2020,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-1348829,IL,Madison,Collinsville,Source2,3,38.693634,-90.030731,2020,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1349043,IL,Madison,Edwardsville,Source2,3,38.783344,-89.89872,2020,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1349053,IL,Madison,Granite City,Source2,3,38.757401,-90.044365,2020,22,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1350865,IL,Madison,Glen Carbon,Source2,3,38.748821,-89.91107199999998,2020,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1350871,IL,Madison,Collinsville,Source2,3,38.693634,-90.030731,2020,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1350969,IL,Madison,Granite City,Source2,3,38.757401,-90.044365,2020,7,Wednesday,Rain,False,False,False,False,False,False,False
+A-1350983,IL,Madison,Edwardsville,Source2,3,38.831348,-89.878227,2020,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1352775,IL,Madison,Granite City,Source2,3,38.757401,-90.044365,2020,22,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1354647,IL,Madison,Collinsville,Source2,3,38.702835,-89.98344399999998,2020,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-1354739,IL,Madison,Glen Carbon,Source2,3,38.755135,-89.954727,2020,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-1363972,IL,Madison,Granite City,Source2,3,38.759815,-90.094193,2020,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1365907,IL,Madison,Collinsville,Source2,3,38.707951,-89.95886999999998,2020,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1365909,IL,Madison,Collinsville,Source2,3,38.701775,-89.987183,2020,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1366006,IL,Madison,New Douglas,Source2,3,38.967361,-89.753853,2020,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1375360,IL,Madison,Granite City,Source2,3,38.759777,-90.094177,2020,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1375361,IL,Madison,Granite City,Source2,3,38.759777,-90.094177,2020,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1379914,IL,Madison,Collinsville,Source2,3,38.679447,-90.01355,2020,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1382762,IL,Madison,Collinsville,Source2,3,38.679447,-90.01355,2020,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1385911,IL,Madison,Collinsville,Source2,3,38.7178,-89.920273,2020,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1385957,IL,Madison,Marine,Source2,3,38.761925,-89.800789,2020,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1390210,IL,Madison,Granite City,Source2,3,38.757545,-90.066795,2020,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1390211,IL,Madison,Granite City,Source2,3,38.757545,-90.066795,2020,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1391189,IL,Madison,Troy,Source2,3,38.74277100000001,-89.909607,2020,13,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-1391190,IL,Madison,Collinsville,Source2,3,38.679447,-90.01355,2020,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1391203,IL,Madison,Marine,Source2,3,38.761925,-89.800789,2020,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1392579,IL,Madison,Granite City,Source2,3,38.757401,-90.044365,2020,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1392580,IL,Madison,Granite City,Source2,3,38.757401,-90.044365,2020,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1392585,IL,Madison,Marine,Source2,3,38.761925,-89.800789,2020,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-1395488,IL,Madison,Collinsville,Source2,3,38.693634,-90.030731,2020,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1398440,IL,Madison,Collinsville,Source2,3,38.666428,-90.048286,2020,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1400998,IL,Madison,Collinsville,Source2,4,38.6745,-90.0299,2020,11,Monday,Rain,False,False,False,False,False,False,False
+A-1406988,IL,Madison,Collinsville,Source2,3,38.693634,-90.030731,2020,5,Friday,Rain,False,False,False,False,False,False,False
+A-1406989,IL,Madison,Granite City,Source2,3,38.731136,-90.03830699999996,2020,5,Friday,Rain,False,False,False,False,False,False,False
+A-1407058,IL,Madison,Granite City,Source2,3,38.757401,-90.044365,2020,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-1407061,IL,Madison,Granite City,Source2,3,38.758194,-90.090439,2020,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-1409664,IL,Madison,East Saint Louis,Source2,3,38.662655,-90.093056,2020,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1414046,IL,Madison,Granite City,Source2,3,38.757401,-90.044365,2020,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1416380,IL,Madison,Granite City,Source2,3,38.764294,-90.172028,2020,23,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1416929,IL,Madison,Collinsville,Source2,3,38.707951,-89.95886999999998,2020,2,Sunday,Storm,False,False,False,False,False,False,False
+A-1416938,IL,Madison,Pocahontas,Source2,3,38.786472,-89.631134,2020,11,Sunday,Rain,False,False,False,False,False,False,False
+A-1416940,IL,Madison,Pocahontas,Source2,3,38.786472,-89.631134,2020,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1417885,IL,Madison,Granite City,Source2,3,38.757545,-90.066795,2020,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1425012,IL,Madison,Pocahontas,Source2,3,38.786472,-89.631134,2020,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1425013,IL,Madison,Pocahontas,Source2,3,38.786472,-89.631134,2020,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1432829,IL,Madison,East Saint Louis,Source2,3,38.662655,-90.093056,2020,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1434412,IL,Madison,Collinsville,Source2,3,38.679447,-90.01355,2020,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1445289,IL,Madison,Worden,Source2,3,38.91095,-89.821754,2020,22,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1448052,IL,Madison,Collinsville,Source2,3,38.67078,-90.036636,2020,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1449584,IL,Madison,Granite City,Source2,3,38.757401,-90.044365,2020,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1453255,IL,Madison,Granite City,Source2,3,38.757545,-90.066795,2020,22,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1460959,IL,Madison,East Saint Louis,Source2,3,38.662655,-90.093056,2020,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1469485,IL,Madison,Granite City,Source2,3,38.731136,-90.03830699999996,2020,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1471743,IL,Madison,New Douglas,Source2,3,38.967361,-89.753853,2020,19,Saturday,Rain,False,False,False,False,False,False,False
+A-1472073,IL,Madison,Granite City,Source2,3,38.757401,-90.044365,2020,1,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1472988,IL,Madison,East Saint Louis,Source2,3,38.662655,-90.093056,2020,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-1480625,IL,Madison,East Saint Louis,Source2,3,38.662655,-90.093056,2020,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1483073,IL,Madison,Granite City,Source2,3,38.731136,-90.03830699999996,2020,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1489263,IL,Madison,Worden,Source2,3,38.889046,-89.83815,2020,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1492339,IL,Madison,Worden,Source2,3,38.889046,-89.83815,2020,0,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1499646,IL,Madison,Collinsville,Source2,3,38.666428,-90.048286,2020,9,Tuesday,Rain,False,False,False,False,False,False,False
+A-1502483,IL,Madison,Granite City,Source2,3,38.757545,-90.066795,2020,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1504851,IL,Madison,Collinsville,Source2,3,38.707951,-89.95886999999998,2020,3,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1504852,IL,Madison,Collinsville,Source2,3,38.707951,-89.95886999999998,2020,3,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1525782,IL,Madison,Granite City,Source2,3,38.76598,-90.124374,2020,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1554907,IL,Madison,Collinsville,Source2,3,38.666428,-90.048286,2020,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1569822,IL,Madison,Collinsville,Source2,3,38.70155,-89.98724399999998,2020,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1575799,IL,Madison,Highland,Source2,3,38.785984,-89.708282,2020,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1593817,IL,Madison,East Saint Louis,Source2,3,38.662655,-90.093056,2020,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1680741,IL,Madison,East Saint Louis,Source2,3,38.662655,-90.093056,2019,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-1717363,IL,Madison,Granite City,Source2,3,38.759979,-90.095276,2019,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1724392,IL,Madison,East Saint Louis,Source2,3,38.662655,-90.093056,2019,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1727009,IL,Madison,Granite City,Source2,3,38.757656,-90.066689,2019,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1740829,IL,Madison,Marine,Source2,4,38.761925,-89.800789,2019,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1763308,IL,Madison,Troy,Source2,3,38.732212,-89.912605,2019,7,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-1763310,IL,Madison,Troy,Source2,3,38.732212,-89.912605,2019,9,Friday,Fog / Low visibility,True,False,False,False,False,False,False
+A-1763311,IL,Madison,Troy,Source2,3,38.732212,-89.912605,2019,9,Friday,Fog / Low visibility,True,False,False,False,False,False,False
+A-1770321,IL,Madison,New Douglas,Source2,3,38.967361,-89.753853,2019,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1792752,IL,Madison,Collinsville,Source2,3,38.693634,-90.030731,2019,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1792754,IL,Madison,Collinsville,Source2,3,38.693634,-90.030731,2019,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1799163,IL,Madison,Collinsville,Source2,3,38.658703,-90.03215,2019,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1799270,IL,Madison,Granite City,Source2,3,38.757545,-90.066795,2019,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1811891,IL,Madison,Worden,Source2,3,38.889046,-89.83815,2019,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-1814702,IL,Madison,Troy,Source2,3,38.732212,-89.912605,2019,9,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-1814703,IL,Madison,Troy,Source2,3,38.731731,-89.912842,2019,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1817724,IL,Madison,Collinsville,Source2,3,38.658703,-90.03215,2019,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1817725,IL,Madison,Collinsville,Source2,3,38.658703,-90.03215,2019,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1817727,IL,Madison,Collinsville,Source2,3,38.658703,-90.03215,2019,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1820558,IL,Madison,Collinsville,Source2,3,38.672798,-90.027603,2019,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1820665,IL,Madison,Edwardsville,Source2,4,38.795883,-89.895279,2019,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1864321,IL,Madison,Collinsville,Source2,3,38.658703,-90.03215,2019,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1864322,IL,Madison,Collinsville,Source2,3,38.67449600000001,-90.029953,2019,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1910967,IL,Madison,Collinsville,Source2,3,38.679447,-90.01355,2019,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-1910968,IL,Madison,Collinsville,Source2,3,38.678841,-90.013725,2019,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-1910969,IL,Madison,Collinsville,Source2,3,38.679447,-90.01355,2019,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1910970,IL,Madison,Collinsville,Source2,3,38.679447,-90.01355,2019,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1927922,IL,Madison,Collinsville,Source2,3,38.693634,-90.030731,2019,16,Thursday,Rain,False,False,False,False,False,False,False
+A-1931667,IL,Madison,East Saint Louis,Source2,3,38.662655,-90.093056,2019,19,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1956032,IL,Madison,Edwardsville,Source2,3,38.756584,-90.008385,2019,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-1956034,IL,Madison,Edwardsville,Source2,3,38.756584,-90.008385,2019,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-1956036,IL,Madison,Edwardsville,Source2,3,38.756584,-90.008385,2019,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-1960174,IL,Madison,Worden,Source2,3,38.931583,-89.801239,2019,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1968100,IL,Madison,Granite City,Source2,3,38.76598,-90.124374,2019,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-1977139,IL,Madison,Granite City,Source2,3,38.757401,-90.044365,2019,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1991711,IL,Madison,Collinsville,Source2,3,38.707924,-89.95931999999998,2019,2,Sunday,Sin dato,False,False,True,False,False,False,False
+A-1997200,IL,Madison,Edwardsville,Source2,3,38.795883,-89.895279,2019,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2017955,IL,Madison,Granite City,Source2,3,38.76598,-90.124374,2019,8,Monday,Storm,False,False,False,False,False,False,False
+A-2042870,IL,Madison,Collinsville,Source2,3,38.707951,-89.95886999999998,2019,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2079124,IL,Madison,Collinsville,Source2,3,38.675461,-90.020653,2019,6,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-2101104,IL,Madison,East Saint Louis,Source2,3,38.662655,-90.093056,2019,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2101194,IL,Madison,Granite City,Source2,3,38.766262,-90.122826,2019,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2103392,IL,Madison,Collinsville,Source2,3,38.67347,-90.02948,2019,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2108421,IL,Madison,Edwardsville,Source2,3,38.756584,-90.008385,2019,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-2157128,IL,Madison,Glen Carbon,Source2,3,38.75563,-89.95613900000002,2019,3,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2157129,IL,Madison,Edwardsville,Source2,3,38.75637800000001,-90.008339,2019,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2190559,IL,Madison,Glen Carbon,Source2,3,38.755726,-89.956642,2019,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-2212875,IL,Madison,Granite City,Source2,3,38.758114,-90.04418199999998,2019,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-2221191,IL,Madison,Collinsville,Source2,4,38.718079,-89.91848,2019,3,Friday,Cloudy,False,False,False,False,False,False,False
+A-2333818,IL,Madison,Highland,Source2,3,38.776012,-89.74329399999998,2019,14,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-2337839,IL,Madison,Granite City,Source2,3,38.759918,-90.094559,2019,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2337848,IL,Madison,Granite City,Source2,3,38.758415,-90.090614,2019,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2337850,IL,Madison,Granite City,Source2,3,38.759953,-90.095215,2019,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2337855,IL,Madison,Granite City,Source2,3,38.75796500000001,-90.085037,2019,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2340511,IL,Madison,Granite City,Source2,3,38.759083,-90.092865,2019,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2388316,IL,Madison,Worden,Source2,3,38.888737,-89.838577,2018,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-2398003,IL,Madison,Collinsville,Source2,3,38.708134,-89.958534,2018,8,Friday,Cloudy,False,False,True,False,False,False,False
+A-2399449,IL,Madison,Granite City,Source2,3,38.758114,-90.04418199999998,2018,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2412851,IL,Madison,Collinsville,Source2,3,38.675529,-90.027679,2018,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2413996,IL,Madison,Granite City,Source2,3,38.758114,-90.04418199999998,2018,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2472284,IL,Madison,Granite City,Source2,3,38.765995,-90.124237,2018,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2492567,IL,Madison,Collinsville,Source2,3,38.672783,-90.029449,2018,7,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-2492570,IL,Madison,Collinsville,Source2,3,38.672626,-90.032677,2018,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2492571,IL,Madison,Collinsville,Source2,3,38.672783,-90.029449,2018,9,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-2511309,IL,Madison,Granite City,Source2,3,38.763142,-90.167641,2018,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2532447,IL,Madison,Granite City,Source2,3,38.761112,-90.159172,2018,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2532451,IL,Madison,Worden,Source2,3,38.88895,-89.838516,2018,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2540617,IL,Madison,Highland,Source2,3,38.786514,-89.672798,2018,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2636230,IL,Madison,Collinsville,Source2,3,38.659836,-90.030838,2018,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2678374,IL,Madison,Granite City,Source2,3,38.757019,-90.04418199999998,2018,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2678393,IL,Madison,Granite City,Source2,3,38.757019,-90.04418199999998,2018,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2698456,IL,Madison,East Saint Louis,Source2,3,38.662716,-90.093147,2018,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2705751,IL,Madison,Collinsville,Source2,3,38.659836,-90.030838,2018,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-2723670,IL,Madison,Granite City,Source2,3,38.764042,-90.170761,2018,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2723672,IL,Madison,Granite City,Source2,3,38.757019,-90.04418199999998,2018,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2728209,IL,Madison,Collinsville,Source2,3,38.659836,-90.030838,2018,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-2761600,IL,Madison,Edwardsville,Source2,3,38.795773,-89.895073,2018,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2761601,IL,Madison,Worden,Source2,3,38.910999,-89.821175,2018,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2761602,IL,Madison,Worden,Source2,3,38.931564,-89.801239,2018,17,Thursday,Rain,False,False,False,False,False,False,False
+A-2763853,IL,Madison,Collinsville,Source2,3,38.659836,-90.030838,2018,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2785800,IL,Madison,Collinsville,Source3,3,38.687595,-90.004173,2018,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2873704,IL,Madison,Granite City,Source2,3,38.759995,-90.095314,2018,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-2876271,IL,Madison,East Saint Louis,Source2,3,38.662716,-90.093147,2018,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2884087,IL,Madison,Granite City,Source2,3,38.765995,-90.124237,2018,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2915728,IL,Madison,Collinsville,Source2,3,38.670216,-90.033325,2018,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3032443,IL,Madison,Granite City,Source2,3,38.765995,-90.124237,2018,6,Saturday,Rain,False,False,False,False,False,False,False
+A-3032444,IL,Madison,Granite City,Source2,3,38.765995,-90.124237,2018,6,Saturday,Rain,False,False,False,False,False,False,False
+A-3048542,IL,Madison,Worden,Source2,3,38.888943,-89.838287,2018,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-3065316,IL,Madison,Collinsville,Source2,3,38.659836,-90.030838,2018,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3083985,IL,Madison,Troy,Source2,3,38.7323,-89.912483,2018,13,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-3101128,IL,Madison,Collinsville,Source2,3,38.672783,-90.029449,2017,8,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-3101137,IL,Madison,Collinsville,Source2,3,38.680508,-90.01175699999996,2017,17,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-3132077,IL,Madison,Worden,Source2,3,38.903572,-89.828537,2017,0,Friday,Cloudy,False,False,False,False,False,False,False
+A-3166269,IL,Madison,Worden,Source2,3,38.888943,-89.838287,2017,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-3176613,IL,Madison,Collinsville,Source2,3,38.659836,-90.030838,2017,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3180879,IL,Madison,Troy,Source2,3,38.753334,-89.905136,2017,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3189541,IL,Madison,Collinsville,Source2,4,38.707981,-89.958939,2017,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3191704,IL,Madison,Collinsville,Source2,3,38.683849,-90.030365,2017,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-3229039,IL,Madison,Glen Carbon,Source2,3,38.752434,-89.907227,2017,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-3245343,IL,Madison,Collinsville,Source2,3,38.667873,-90.047188,2017,3,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3354652,IL,Madison,Collinsville,Source2,3,38.680508,-90.01175699999996,2017,15,Thursday,Cloudy,False,False,True,False,False,False,False
+A-3357567,IL,Madison,Granite City,Source2,3,38.765995,-90.124237,2017,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-3357573,IL,Madison,Edwardsville,Source2,3,38.795773,-89.895073,2017,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-3390615,IL,Madison,Glen Carbon,Source2,3,38.756413,-90.007675,2017,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-3390616,IL,Madison,Glen Carbon,Source2,3,38.756413,-90.007675,2017,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-3390617,IL,Madison,Glen Carbon,Source2,3,38.756413,-90.007675,2017,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-3448056,IL,Madison,Collinsville,Source1,4,38.705331,-89.972202,2016,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3454444,IL,Madison,Granite City,Source1,4,38.76615,-90.13088,2016,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3454457,IL,Madison,Granite City,Source1,4,38.76615,-90.13088,2016,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3454489,IL,Madison,Granite City,Source1,4,38.76615,-90.13088,2016,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3454523,IL,Madison,Granite City,Source1,4,38.76625,-90.11881,2016,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3473409,IL,Madison,Hamel,Source1,4,38.88901,-89.84056,2016,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3473410,IL,Madison,Worden,Source1,4,38.88907,-89.83633,2016,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3491342,IL,Madison,Edwardsville,Source1,3,38.8776,-89.84625,2016,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-3497727,IL,Madison,Troy,Source1,3,38.7535,-89.89322,2016,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3509841,IL,Madison,Granite City,Source1,4,38.736468,-90.134784,2016,11,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-3509842,IL,Madison,Granite City,Source1,4,38.748943,-90.126161,2016,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3559071,IL,Madison,Wood River,Source1,3,38.858921,-90.07928,2017,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3559072,IL,Madison,Wood River,Source1,3,38.86001,-90.07929,2017,4,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-3572253,IL,Madison,Troy,Source1,3,38.75241,-89.89684,2017,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3582635,IL,Madison,Troy,Source1,3,38.7535,-89.89322,2017,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3598247,IL,Madison,Glen Carbon,Source1,3,38.75469,-89.95192,2017,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-3616292,IL,Madison,Granite City,Source1,4,38.760754,-90.097333,2017,22,Friday,Cloudy,False,False,False,False,False,False,False
+A-3617242,IL,Madison,Highland,Source1,4,38.77309,-89.74605,2017,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3627166,IL,Madison,Highland,Source1,4,38.7867,-89.675624,2017,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3628723,IL,Madison,Collinsville,Source1,4,38.67738,-90.01625,2017,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3642645,IL,Madison,Wood River,Source1,4,38.849609,-90.049876,2017,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3642646,IL,Madison,Wood River,Source1,4,38.85128,-90.05369,2017,14,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-3644656,IL,Madison,Highland,Source1,4,38.7861,-89.6999,2017,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3647027,IL,Madison,Pocahontas,Source1,4,38.78676,-89.625957,2017,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-3718712,IL,Madison,Hamel,Source1,4,38.88581871967847,-89.84036564784124,2022,10,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-3735664,IL,Madison,Edwardsville,Source1,4,38.832663,-89.967078,2022,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3869418,IL,Madison,St Jacob,Source1,4,38.702817,-89.809933,2022,1,Friday,Rain,False,False,False,False,False,False,False
+A-3876438,IL,Madison,Collinsville,Source1,4,38.677971,-90.014954,2022,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3881203,IL,Madison,Edwardsville,Source1,4,38.869927,-89.959684,2022,23,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3984616,IL,Madison,Granite City,Source1,4,38.761354,-90.098759,2022,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3986591,IL,Madison,Troy,Source1,4,38.743333,-89.909669,2022,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-4041906,IL,Madison,Collinsville,Source1,4,38.677971,-90.014954,2022,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4125178,IL,Madison,Worden,Source1,4,38.931799,-89.801232,2022,5,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4143001,IL,Madison,Edwardsville,Source1,4,38.838943,-89.96336099999998,2022,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4152054,IL,Madison,Granite City,Source1,4,38.662933,-90.09306,2022,2,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4183787,IL,Madison,Worden,Source1,4,38.888867,-89.814738,2022,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4207749,IL,Madison,Hamel,Source1,4,38.888953,-89.840459,2022,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4213444,IL,Madison,Granite City,Source1,4,38.757585,-90.096163,2022,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4220355,IL,Madison,Glen Carbon,Source1,4,38.757246,-90.043909,2022,1,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4322691,IL,Madison,Worden,Source1,4,38.89214873295359,-89.83639597849924,2022,6,Thursday,Snow / Ice,False,False,True,False,False,False,False
+A-4357531,IL,Madison,Marine,Source1,4,38.762035,-89.805547,2022,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4419265,IL,Madison,Granite City,Source1,4,38.76115,-90.099029,2022,1,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-4504057,IL,Madison,Moro,Source1,4,38.898102,-89.966976,2022,0,Friday,Cloudy,False,False,False,False,False,False,False
+A-4663912,IL,Madison,East Alton,Source1,4,38.902601,-90.06485699999998,2022,8,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-4722527,IL,Madison,Hamel,Source1,4,38.889053,-89.84047199999998,2022,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4729773,IL,Madison,Collinsville,Source1,4,38.67057681,-90.03811955,2022,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4771511,IL,Madison,Worden,Source1,4,38.888867,-89.814738,2022,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4852218,IL,Madison,Granite City,Source1,4,38.76607,-90.123044,2023,19,Thursday,Cloudy,False,False,True,False,False,False,False
+A-4927812,IL,Madison,Pocahontas,Source1,4,38.787344,-89.624829,2022,2,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4997350,IL,Madison,Worden,Source1,4,38.889461,-89.800723,2022,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5013681,IL,Madison,Granite City,Source1,4,38.761019,-90.094618,2022,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5016727,IL,Madison,Granite City,Source1,4,38.760166,-90.096322,2023,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5028425,IL,Madison,Granite City,Source1,4,38.764816,-90.109831,2023,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5085102,IL,Madison,Livingston,Source1,4,38.97042632084384,-89.75041508631827,2022,4,Saturday,Sin dato,False,False,False,False,False,False,False
+A-5086945,IL,Madison,Granite City,Source1,4,38.76612782,-90.13154626,2022,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5156007,IL,Madison,Worden,Source1,4,38.9280045030645,-89.80487465815634,2022,4,Saturday,Cloudy,False,False,True,False,False,False,False
+A-5173467,IL,Madison,St Jacob,Source1,4,38.705411,-89.809699,2022,1,Friday,Rain,False,False,False,False,False,False,False
+A-5286252,IL,Madison,Highland,Source1,4,38.748276,-89.681386,2023,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5314118,IL,Madison,Collinsville,Source1,4,38.68061,-90.01174300000002,2022,7,Saturday,Cloudy,False,False,True,False,False,False,False
+A-5379263,IL,Madison,Hamel,Source1,4,38.888937,-89.838181,2022,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5408744,IL,Madison,Granite City,Source1,4,38.749904,-90.104311,2022,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5416995,IL,Madison,Marine,Source1,4,38.77554774,-89.74110246,2023,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5435703,IL,Madison,Highland,Source1,4,38.78061,-89.632075,2023,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5442425,IL,Madison,Collinsville,Source1,4,38.669255,-90.01434499999998,2022,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5543725,IL,Madison,Glen Carbon,Source1,4,38.741143,-90.001965,2021,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-5752433,IL,Madison,Granite City,Source1,4,38.685198,-90.067194,2021,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5800698,IL,Madison,Collinsville,Source1,4,38.69658350926068,-90.03063082652076,2021,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6045132,IL,Madison,Highland,Source1,4,38.783195,-89.734288,2021,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6204023,IL,Madison,Granite City,Source1,4,38.757930993849,-90.0865709777351,2021,6,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-6224255,IL,Madison,Hamel,Source1,4,38.88581871967847,-89.84036564784124,2021,21,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-6412506,IL,Madison,Glen Carbon,Source1,4,38.756514787489145,-90.01391529994005,2021,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-6577872,IL,Madison,Granite City,Source1,4,38.762201,-90.101784,2020,6,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-6584750,IL,Madison,Collinsville,Source1,4,38.708125,-89.959079,2020,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6601873,IL,Madison,Alton,Source1,4,38.878329,-90.159913,2020,0,Sunday,Cloudy,True,False,False,False,False,False,False
+A-6609525,IL,Madison,Collinsville,Source1,4,38.672615,-90.030008,2020,22,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-6621871,IL,Madison,Edwardsville,Source1,4,38.777487,-90.044064,2020,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6623035,IL,Madison,Edwardsville,Source1,3,38.79407,-90.04531999999998,2020,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-6728356,IL,Madison,Staunton,Source1,4,38.971607,-89.750194,2020,5,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-6728357,IL,Madison,Staunton,Source1,4,38.971607,-89.750194,2020,5,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-6880670,IL,Madison,Staunton,Source1,4,38.971607,-89.750194,2020,5,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-6981624,IL,Madison,Collinsville,Source1,3,38.66958,-90.04176,2020,11,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-6991143,IL,Madison,Granite City,Source1,4,38.75775,-90.0723,2020,22,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-6992380,IL,Madison,Marine,Source1,3,38.76182,-89.80586,2020,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7017144,IL,Madison,Granite City,Source1,4,38.70748,-90.0677,2020,10,Friday,Cloudy,False,True,False,False,False,False,False
+A-7017146,IL,Madison,Granite City,Source1,4,38.68522,-90.06714000000002,2020,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-7019174,IL,Madison,Granite City,Source1,4,38.68778,-90.06581,2020,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7019175,IL,Madison,Granite City,Source1,4,38.69509,-90.06557,2020,20,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7038620,IL,Madison,Highland,Source1,3,38.78587,-89.70644,2020,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7045799,IL,Madison,East Alton,Source1,3,38.89805,-90.0655,2020,6,Friday,Cloudy,False,False,True,False,False,False,False
+A-7057960,IL,Madison,Edwardsville,Source1,4,38.76344,-90.04363000000002,2020,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7103791,IL,Madison,Troy,Source1,3,38.75241,-89.89684,2020,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7123023,IL,Madison,Worden,Source1,3,38.88584,-89.84063,2020,11,Thursday,Rain,False,False,True,False,False,False,False
+A-7123026,IL,Madison,Worden,Source1,3,38.88584,-89.84063,2020,11,Thursday,Rain,False,False,True,False,False,False,False
+A-7123049,IL,Madison,Collinsville,Source1,3,38.67843,-90.01210999999998,2020,13,Thursday,Rain,True,False,False,False,False,False,False
+A-7126027,IL,Madison,Granite City,Source1,3,38.75723,-90.05638,2020,7,Friday,Cloudy,False,False,True,False,False,False,False
+A-7126034,IL,Madison,Troy,Source1,3,38.74277,-89.90961,2020,8,Friday,Cloudy,False,False,True,False,False,False,False
+A-7131920,IL,Madison,Saint Jacob,Source1,3,38.71608,-89.80225,2020,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-7164310,IL,Madison,Glen Carbon,Source1,4,38.75469,-89.95192,2020,23,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7344056,IL,Madison,Pocahontas,Source1,4,38.78638,-89.62763000000002,2019,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7344072,IL,Madison,Highland,Source1,4,38.7861,-89.63597,2019,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7364703,IL,Madison,Collinsville,Source1,3,38.69775,-90.03108,2019,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7381799,IL,Madison,Worden,Source1,4,38.89205,-89.83646999999998,2019,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7381800,IL,Madison,Edwardsville,Source1,4,38.87778,-89.84586,2019,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7381801,IL,Madison,Troy,Source1,4,38.75279000000001,-89.90686,2019,13,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7389921,IL,Madison,Granite City,Source1,4,38.72303,-90.12281,2019,17,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7405508,IL,Madison,Granite City,Source1,4,38.76006,-90.04391,2019,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7405509,IL,Madison,Granite City,Source1,4,38.72733,-90.03574,2019,6,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7405510,IL,Madison,Granite City,Source1,4,38.72733,-90.03574,2019,7,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7417506,IL,Madison,Collinsville,Source1,3,38.68047,-90.01217,2019,7,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7417521,IL,Madison,Collinsville,Source1,3,38.68047,-90.01217,2019,7,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7437697,IL,Madison,Venice,Source1,4,38.66753,-90.17578,2019,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7437702,IL,Madison,Venice,Source1,4,38.66753,-90.17578,2019,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7439037,IL,Madison,Hartford,Source1,4,38.802853000000006,-90.099602,2019,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7439818,IL,Madison,Troy,Source1,3,38.75241,-89.89684,2019,23,Monday,Cloudy,False,False,False,False,False,False,False
+A-7485796,IL,Madison,Collinsville,Source1,4,38.6782,-90.01459,2018,11,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7489404,IL,Madison,Collinsville,Source1,3,38.67302,-90.02945,2018,18,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-7511908,IL,Madison,Collinsville,Source1,4,38.67546,-90.02065,2018,10,Monday,Cloudy,False,False,True,False,False,False,False
+A-7521635,IL,Madison,Glen Carbon,Source1,4,38.752156,-89.91024300000002,2018,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7532159,IL,Madison,Collinsville,Source1,4,38.6782,-90.01459,2018,22,Friday,Rain,False,False,True,False,False,False,False
+A-7539847,IL,Madison,Troy,Source1,4,38.75241,-89.89684,2018,2,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7543358,IL,Madison,Worden,Source1,3,38.89205,-89.83646999999998,2018,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7547266,IL,Madison,Marine,Source1,4,38.76205,-89.80535,2018,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7565490,IL,Madison,Edwardsville,Source1,4,38.79166,-89.89622,2018,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-7575976,IL,Madison,Collinsville,Source1,4,38.6782,-90.01459,2018,13,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7579585,IL,Madison,Granite City,Source1,4,38.75772,-90.07096999999997,2018,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7583941,IL,Madison,Collinsville,Source1,3,38.6782,-90.01459,2018,15,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7590493,IL,Madison,Moro,Source1,4,38.922787,-89.971841,2018,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7590494,IL,Madison,Moro,Source1,4,38.920356,-89.971535,2018,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7592097,IL,Madison,East Saint Louis,Source1,3,38.66269000000001,-90.09784,2018,22,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7594994,IL,Madison,Alton,Source1,4,38.88499,-90.12375,2018,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7594995,IL,Madison,Alton,Source1,4,38.884219,-90.122077,2018,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7595597,IL,Madison,Collinsville,Source1,3,38.68047,-90.01217,2018,23,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7612308,IL,Madison,Edwardsville,Source1,4,38.799435,-89.894051,2018,11,Friday,Cloudy,False,False,True,False,False,False,False
+A-7621370,IL,Madison,Alton,Source1,4,38.917938,-90.163432,2018,2,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7628885,IL,Madison,Collinsville,Source1,4,38.67546,-90.02065,2018,10,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-7628886,IL,Madison,Collinsville,Source1,4,38.67527000000001,-90.02512,2018,10,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-7628887,IL,Madison,Collinsville,Source1,4,38.67973,-90.02906999999998,2018,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7632518,IL,Madison,Edwardsville,Source1,4,38.793275,-90.066909,2018,5,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7632519,IL,Madison,South Roxana,Source1,4,38.80452800000001,-90.067059,2018,5,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7642113,IL,Madison,Granite City,Source1,4,38.75723,-90.05638,2017,5,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7644845,IL,Madison,Glen Carbon,Source1,4,38.75588,-89.90624,2017,21,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7648002,IL,Madison,Worden,Source1,3,38.89205,-89.83646999999998,2017,22,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7648561,IL,Madison,Edwardsville,Source1,4,38.79166,-89.89622,2017,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-7657834,IL,Madison,Granite City,Source1,4,38.762365,-90.164302,2017,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7660662,IL,Madison,Collinsville,Source1,4,38.70874,-89.95515999999998,2017,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7660665,IL,Madison,Collinsville,Source1,4,38.70874,-89.95515999999998,2017,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7662561,IL,Madison,Worden,Source1,4,38.89205,-89.83646999999998,2017,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7687699,IL,Madison,Granite City,Source1,4,38.66286,-90.089,2017,3,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-7691042,IL,Madison,Collinsville,Source1,3,38.6872,-90.00461999999997,2017,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7694639,IL,Madison,Granite City,Source1,4,38.76604,-90.13091,2017,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7697620,IL,Madison,Worden,Source1,4,38.882232,-89.80080799999998,2017,1,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7697621,IL,Madison,Marine,Source1,4,38.78673,-89.80108,2017,1,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7698120,IL,Madison,Highland,Source1,4,38.7865,-89.67134200000002,2017,1,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7698458,IL,Madison,Edwardsville,Source1,3,38.75653,-90.01374,2017,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-7698460,IL,Madison,Edwardsville,Source1,3,38.75653,-90.01374,2017,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-7698461,IL,Madison,Glen Carbon,Source1,3,38.75662,-90.00463,2017,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-7708628,IL,Madison,Collinsville,Source1,4,38.68128,-90.03026,2019,23,Saturday,Rain,False,False,True,False,False,False,False
+A-7745884,IL,Madison,Granite City,Source1,3,38.75739,-90.065454,2019,11,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-7755716,IL,Madison,Edwardsville,Source1,3,38.75653,-90.01374,2019,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-7766675,IL,Madison,Edwardsville,Source1,4,38.79166,-89.89622,2019,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7766676,IL,Madison,Edwardsville,Source1,4,38.79166,-89.89622,2019,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7766682,IL,Madison,Edwardsville,Source1,4,38.79166,-89.89622,2019,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7768261,IL,Madison,Collinsville,Source1,3,38.673637,-90.027156,2019,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7768992,IL,Madison,Granite City,Source1,4,38.66286,-90.089,2019,11,Monday,Clear / Fair,False,False,True,False,False,False,False

@@ -1,0 +1,842 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-307352,WA,Spokane,Spokane,Source2,3,47.653858,-117.360352,2016,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-307607,WA,Spokane,Spokane,Source2,3,47.652557,-117.411217,2016,9,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-307609,WA,Spokane,Spokane,Source2,3,47.672741,-117.214676,2016,9,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-307611,WA,Spokane,Spokane,Source2,3,47.633541,-117.479836,2016,9,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-307616,WA,Spokane,Spokane,Source2,3,47.663689,-117.312973,2016,10,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-307683,WA,Spokane,Cheney,Source2,3,47.504047,-117.690948,2016,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-307822,WA,Spokane,Spokane,Source2,3,47.651485,-117.435555,2016,10,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-307826,WA,Spokane,Spokane,Source2,3,47.591862,-117.564919,2016,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-307827,WA,Spokane,Spokane,Source2,3,47.673981,-117.23951,2016,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-307972,WA,Spokane,Spokane,Source2,3,47.673981,-117.23951,2016,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-308189,WA,Spokane,Cheney,Source2,3,47.43623,-117.790497,2017,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-308282,WA,Spokane,Spokane,Source2,3,47.673981,-117.23951,2017,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-308327,WA,Spokane,Spokane,Source2,3,47.591862,-117.564919,2017,10,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-308330,WA,Spokane,Veradale,Source2,3,47.669106,-117.196533,2017,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-308331,WA,Spokane,Spokane,Source2,3,47.672741,-117.214676,2017,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-308355,WA,Spokane,Greenacres,Source2,3,47.66552,-117.153725,2017,19,Monday,Cloudy,False,False,True,False,False,False,False
+A-308383,WA,Spokane,Cheney,Source2,3,47.504047,-117.690948,2017,11,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-308403,WA,Spokane,Liberty Lake,Source2,3,47.672665,-117.108788,2017,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-308416,WA,Spokane,Spokane,Source2,3,47.652752,-117.424995,2017,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-308550,WA,Spokane,Spokane,Source2,3,47.65287,-117.391716,2017,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-308605,WA,Spokane,Spokane,Source2,3,47.654015,-117.375229,2017,10,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-308619,WA,Spokane,Veradale,Source2,3,47.669106,-117.196533,2017,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-308666,WA,Spokane,Spokane,Source2,3,47.619896,-117.502747,2017,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-308668,WA,Spokane,Spokane,Source2,3,47.651485,-117.435555,2017,11,Thursday,Cloudy,True,True,False,False,False,False,False
+A-308739,WA,Spokane,Spokane,Source2,3,47.654015,-117.375229,2017,13,Monday,Cloudy,True,False,False,False,False,False,False
+A-308977,WA,Spokane,Liberty Lake,Source2,3,47.672665,-117.108788,2016,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-309089,WA,Spokane,Spokane,Source2,3,47.654015,-117.375229,2016,11,Thursday,Rain,True,False,False,False,False,False,False
+A-309943,WA,Spokane,Spokane,Source2,3,47.673981,-117.23951,2016,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-310241,WA,Spokane,Greenacres,Source2,3,47.66552,-117.153725,2016,9,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-310600,WA,Spokane,Greenacres,Source2,3,47.66552,-117.153725,2016,19,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-310656,WA,Spokane,Cheney,Source2,3,47.43623,-117.790497,2016,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-310715,WA,Spokane,Greenacres,Source2,3,47.665501,-117.132957,2016,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-310978,WA,Spokane,Spokane,Source2,3,47.646519,-117.451447,2016,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-311230,WA,Spokane,Spokane,Source2,3,47.673981,-117.23951,2016,10,Thursday,Rain,False,False,False,False,False,False,False
+A-311488,WA,Spokane,Spokane,Source2,3,47.652752,-117.424995,2016,23,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-311522,WA,Spokane,Spokane,Source2,3,47.656872,-117.322105,2016,11,Thursday,Cloudy,True,False,False,False,False,False,False
+A-311829,WA,Spokane,Cheney,Source2,3,47.565472,-117.593651,2016,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-311903,WA,Spokane,Spokane,Source2,3,47.619896,-117.502747,2016,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-312377,WA,Spokane,Liberty Lake,Source2,3,47.673157,-117.108429,2016,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-312384,WA,Spokane,Greenacres,Source2,3,47.66552,-117.153725,2016,15,Thursday,Cloudy,False,False,True,False,False,False,False
+A-312591,WA,Spokane,Spokane,Source2,3,47.651485,-117.435555,2016,14,Thursday,Cloudy,True,True,False,False,False,False,False
+A-312980,WA,Spokane,Veradale,Source2,3,47.669106,-117.196533,2016,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-313072,WA,Spokane,Spokane,Source2,3,47.652054,-117.397575,2016,19,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-313582,WA,Spokane,Spokane,Source2,3,47.663689,-117.312973,2016,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-314019,WA,Spokane,Greenacres,Source2,3,47.66552,-117.153725,2016,11,Thursday,Cloudy,False,False,True,False,False,False,False
+A-314021,WA,Spokane,Spokane,Source2,3,47.651485,-117.435555,2016,11,Thursday,Cloudy,True,True,False,False,False,False,False
+A-314094,WA,Spokane,Spokane,Source2,3,47.655113,-117.32348600000002,2016,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-314114,WA,Spokane,Cheney,Source2,3,47.504047,-117.690948,2016,9,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-335719,WA,Spokane,Liberty Lake,Source2,3,47.672665,-117.108788,2017,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-335915,WA,Spokane,Spokane,Source2,3,47.656872,-117.322105,2017,11,Friday,Snow / Ice,True,False,False,False,False,False,False
+A-395181,WA,Spokane,Spokane,Source2,3,47.646519,-117.451447,2017,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-395394,WA,Spokane,Cheney,Source2,3,47.43623,-117.790497,2017,11,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-395455,WA,Spokane,Spokane,Source2,3,47.653858,-117.360352,2017,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-395508,WA,Spokane,Spokane,Source2,3,47.652557,-117.411217,2017,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-395530,WA,Spokane,Spokane,Source2,3,47.673981,-117.23951,2017,23,Friday,Cloudy,False,False,False,False,False,False,False
+A-395656,WA,Spokane,Spokane,Source2,3,47.653858,-117.360352,2017,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-395701,WA,Spokane,Spokane,Source2,3,47.663689,-117.312973,2017,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-396058,WA,Spokane,Spokane,Source2,3,47.673721,-117.282768,2017,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-396124,WA,Spokane,Spokane,Source2,3,47.656872,-117.322105,2017,11,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-396359,WA,Spokane,Spokane,Source2,3,47.673981,-117.23951,2017,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-396452,WA,Spokane,Spokane,Source2,3,47.651485,-117.435555,2017,9,Thursday,Cloudy,True,True,False,False,False,False,False
+A-436019,WA,Spokane,Spokane,Source2,3,47.656872,-117.322105,2017,11,Thursday,Cloudy,True,False,False,False,False,False,False
+A-436107,WA,Spokane,Spokane,Source2,3,47.652557,-117.411217,2017,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-436147,WA,Spokane,Spokane,Source2,3,47.65287,-117.391716,2017,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-436176,WA,Spokane,Greenacres,Source2,3,47.66552,-117.153725,2017,0,Thursday,Cloudy,False,False,True,False,False,False,False
+A-436316,WA,Spokane,Spokane,Source2,3,47.619896,-117.502747,2017,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-453838,WA,Spokane,Spokane,Source2,3,47.65287,-117.391716,2017,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-453883,WA,Spokane,Greenacres,Source2,3,47.66552,-117.153725,2017,14,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-490585,WA,Spokane,Spokane,Source2,3,47.652786,-117.392517,2017,21,Thursday,Rain,False,False,False,False,False,False,False
+A-490594,WA,Spokane,Spokane,Source2,3,47.652557,-117.411217,2017,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-490595,WA,Spokane,Greenacres,Source2,3,47.66552,-117.153725,2017,7,Friday,Cloudy,False,False,True,False,False,False,False
+A-491115,WA,Spokane,Spokane,Source2,3,47.653019,-117.39183,2017,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-491204,WA,Spokane,Spokane,Source2,3,47.652199,-117.394341,2017,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-491208,WA,Spokane,Spokane,Source2,3,47.65287,-117.391716,2017,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-511356,WA,Spokane,Spokane,Source2,3,47.656872,-117.322105,2017,17,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-511421,WA,Spokane,Greenacres,Source2,3,47.665501,-117.132957,2017,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-511448,WA,Spokane,Spokane,Source2,3,47.656872,-117.322105,2017,7,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-511467,WA,Spokane,Spokane,Source2,3,47.65395,-117.343338,2017,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-511486,WA,Spokane,Spokane,Source2,3,47.653858,-117.360352,2017,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-511499,WA,Spokane,Spokane,Source2,3,47.673748,-117.282578,2017,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-511525,WA,Spokane,Liberty Lake,Source2,3,47.672665,-117.108788,2017,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-511611,WA,Spokane,Greenacres,Source2,3,47.665501,-117.132957,2017,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-511792,WA,Spokane,Spokane Valley,Source2,3,47.673691,-117.281822,2017,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-511987,WA,Spokane,Spokane,Source2,3,47.646519,-117.451447,2017,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-511989,WA,Spokane,Spokane,Source2,3,47.646519,-117.451447,2017,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-537737,WA,Spokane,Spokane,Source2,3,47.634483,-117.479111,2022,2,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-537811,WA,Spokane,Spokane,Source2,3,47.634483,-117.479111,2022,0,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-545785,WA,Spokane,Spokane,Source2,3,47.651447,-117.435677,2022,16,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-548410,WA,Spokane,Spokane,Source2,3,47.663612,-117.312553,2022,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-549472,WA,Spokane,Spokane,Source2,3,47.672775,-117.21536299999998,2022,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-561354,WA,Spokane,Spokane,Source2,3,47.654499,-117.425018,2022,2,Wednesday,Clear / Fair,True,False,False,False,True,False,False
+A-563062,WA,Spokane,Liberty Lake,Source2,3,47.673683,-117.109047,2022,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-563231,WA,Spokane,Spokane,Source2,3,47.652431,-117.427666,2022,7,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-568467,WA,Spokane,Spokane,Source2,3,47.674297,-117.240875,2022,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-583107,WA,Spokane,Cheney,Source2,4,47.566124,-117.592567,2022,14,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-583455,WA,Spokane,Spokane,Source2,3,47.653866,-117.359474,2022,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-586778,WA,Spokane,Spokane,Source2,3,47.652561,-117.412796,2022,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-594995,WA,Spokane,Spokane,Source2,3,47.634483,-117.479111,2022,10,Monday,Rain,False,False,False,False,False,False,False
+A-608766,WA,Spokane,Greenacres,Source2,3,47.665352,-117.132256,2022,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-609574,WA,Spokane,Greenacres,Source2,3,47.665352,-117.132256,2022,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-610884,WA,Spokane,Spokane,Source2,3,47.674297,-117.240875,2022,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-610885,WA,Spokane,Spokane,Source2,3,47.674297,-117.240875,2022,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-635575,WA,Spokane,Spokane,Source2,3,47.634483,-117.479111,2022,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-643443,WA,Spokane,Spokane,Source2,3,47.674297,-117.240875,2022,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-645376,WA,Spokane,Spokane,Source2,3,47.663612,-117.312553,2022,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-645999,WA,Spokane,Spokane,Source2,3,47.619865,-117.433777,2022,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-646678,WA,Spokane,Spokane,Source2,3,47.674297,-117.240875,2022,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-651081,WA,Spokane,Spokane,Source2,3,47.646484,-117.451302,2022,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-681208,WA,Spokane,Spokane,Source2,3,47.654049,-117.370331,2022,0,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-683182,WA,Spokane,Spokane,Source2,3,47.65383900000001,-117.353249,2022,22,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-683401,WA,Spokane,Spokane,Source2,3,47.65731,-117.357689,2022,11,Wednesday,Clear / Fair,True,True,False,False,True,False,False
+A-683523,WA,Spokane,Spokane,Source2,3,47.653927,-117.381592,2022,0,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-684467,WA,Spokane,Spokane,Source3,3,47.653851,-117.357536,2022,17,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-693941,WA,Spokane,Spokane,Source2,3,47.669388,-117.196953,2022,12,Monday,Rain,False,False,False,False,False,False,False
+A-717382,WA,Spokane,Spokane,Source2,3,47.65383900000001,-117.353249,2022,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-726494,WA,Spokane,Spokane,Source2,3,47.653927,-117.381592,2022,15,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-726759,WA,Spokane,Spokane,Source2,3,47.651447,-117.435677,2022,15,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-749616,WA,Spokane,Liberty Lake,Source2,3,47.695076,-117.049049,2022,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-756180,WA,Spokane,Spokane,Source2,3,47.651447,-117.435677,2022,16,Monday,Fog / Low visibility,True,True,False,False,False,False,False
+A-758709,WA,Spokane,Spokane,Source2,3,47.674095,-117.23185,2021,8,Friday,Cloudy,False,False,True,False,False,False,False
+A-759661,WA,Spokane,Spokane,Source2,3,47.751221,-117.410896,2021,12,Thursday,Snow / Ice,True,True,False,False,False,False,False
+A-759821,WA,Spokane,Spokane,Source2,3,47.652431,-117.427666,2021,7,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-761163,WA,Spokane,Spokane,Source2,3,47.653927,-117.381592,2021,8,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-761191,WA,Spokane,Spokane,Source2,3,47.632397,-117.481758,2021,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-762493,WA,Spokane,Spokane,Source2,3,47.652004,-117.39975,2021,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-762584,WA,Spokane,Spokane,Source2,3,47.67432,-117.223366,2021,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-762603,WA,Spokane,Spokane,Source2,3,47.652172,-117.404671,2021,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-771056,WA,Spokane,Spokane,Source2,3,47.65202,-117.398903,2021,15,Monday,Cloudy,False,False,True,False,False,False,False
+A-771077,WA,Spokane,Greenacres,Source2,3,47.665531,-117.16909,2021,8,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-790217,WA,Spokane,Cheney,Source2,3,47.504154,-117.691093,2021,5,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-795352,WA,Spokane,Spokane,Source2,3,47.663612,-117.312553,2021,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-811800,WA,Spokane,Spokane,Source2,3,47.654049,-117.366943,2021,9,Friday,Rain,False,False,True,False,False,False,False
+A-813975,WA,Spokane,Liberty Lake,Source2,3,47.691742,-117.060478,2021,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-818597,WA,Spokane,Spokane,Source2,3,47.65383900000001,-117.353249,2021,16,Monday,Rain,False,False,False,False,False,False,False
+A-820359,WA,Spokane,Spokane,Source2,3,47.652431,-117.427666,2021,23,Saturday,Rain,False,False,False,False,False,False,False
+A-828563,WA,Spokane,Liberty Lake,Source2,3,47.672241,-117.108948,2021,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-828699,WA,Spokane,Spokane,Source2,3,47.674297,-117.240875,2021,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-828752,WA,Spokane,Spokane,Source2,3,47.664436,-117.311615,2021,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-837548,WA,Spokane,Spokane,Source2,3,47.666142,-117.307594,2021,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-838878,WA,Spokane,Spokane,Source2,3,47.615585,-117.51053600000002,2021,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-842314,WA,Spokane,Spokane,Source2,3,47.653996,-117.35833,2021,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-848883,WA,Spokane,Spokane,Source2,3,47.652935,-117.392036,2021,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-853507,WA,Spokane,Spokane,Source2,3,47.653393,-117.390266,2021,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-856879,WA,Spokane,Spokane,Source2,3,47.674297,-117.240875,2021,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-863204,WA,Spokane,Spokane,Source2,3,47.592445,-117.565407,2021,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-865245,WA,Spokane,Spokane,Source3,3,47.67392,-117.281395,2021,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-866458,WA,Spokane,Spokane,Source2,3,47.654129,-117.35054,2021,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-867813,WA,Spokane,Liberty Lake,Source2,3,47.695076,-117.049049,2021,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-870266,WA,Spokane,Spokane,Source2,3,47.653927,-117.381592,2021,17,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-871151,WA,Spokane,Spokane,Source2,3,47.652561,-117.412796,2021,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-871152,WA,Spokane,Spokane,Source2,3,47.674297,-117.240875,2021,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-872776,WA,Spokane,Spokane,Source2,3,47.646484,-117.451302,2021,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-872976,WA,Spokane,Spokane,Source2,3,47.648445,-117.447441,2021,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-875277,WA,Spokane,Spokane,Source2,3,47.657036,-117.321976,2021,7,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-876456,WA,Spokane,Spokane,Source2,3,47.669388,-117.196953,2021,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-878494,WA,Spokane,Spokane Valley,Source2,3,47.666161,-117.239731,2021,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-881092,WA,Spokane,Greenacres,Source2,3,47.665848,-117.155441,2021,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-884281,WA,Spokane,Spokane,Source2,3,47.646484,-117.451302,2021,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-884410,WA,Spokane,Spokane,Source2,3,47.634735,-117.478287,2021,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-884981,WA,Spokane,Spokane,Source2,3,47.652687,-117.41156,2021,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-891836,WA,Spokane,Spokane,Source2,3,47.652561,-117.412796,2021,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-891895,WA,Spokane,Spokane,Source2,3,47.652771,-117.392548,2021,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-897438,WA,Spokane,Spokane,Source2,3,47.6679,-117.303352,2021,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-904206,WA,Spokane,Spokane,Source2,3,47.619637,-117.503601,2021,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-904768,WA,Spokane,Spokane,Source2,3,47.654049,-117.370331,2021,15,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-905374,WA,Spokane,Spokane,Source2,3,47.663612,-117.312553,2021,13,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-910700,WA,Spokane,Spokane,Source2,3,47.653969,-117.356628,2021,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-918539,WA,Spokane,Spokane,Source2,3,47.652241,-117.412727,2021,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-930063,WA,Spokane,Spokane,Source2,3,47.587399,-117.403374,2021,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-934099,WA,Spokane,Spokane,Source2,3,47.653831,-117.347733,2021,9,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-935192,WA,Spokane,Spokane,Source2,3,47.653976,-117.357193,2021,8,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-942673,WA,Spokane,Liberty Lake,Source2,3,47.695076,-117.049049,2021,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-942684,WA,Spokane,Spokane,Source2,3,47.673008,-117.284859,2021,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-948720,WA,Spokane,Spokane,Source2,3,47.646484,-117.451302,2021,8,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-961988,WA,Spokane,Cheney,Source2,3,47.504154,-117.691093,2021,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-961989,WA,Spokane,Spokane,Source2,3,47.62027,-117.502106,2021,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-963735,WA,Spokane,Spokane,Source2,3,47.663612,-117.312553,2021,17,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-972061,WA,Spokane,Spokane,Source2,3,47.652561,-117.412796,2021,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-975548,WA,Spokane,Spokane,Source2,3,47.652626,-117.419151,2021,16,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-985054,WA,Spokane,Greenacres,Source2,3,47.665848,-117.155441,2021,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-989199,WA,Spokane,Liberty Lake,Source2,3,47.673683,-117.109047,2021,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-999388,WA,Spokane,Spokane,Source2,3,47.674297,-117.240875,2021,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1007204,WA,Spokane,Spokane,Source2,3,47.652431,-117.427666,2021,5,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1012221,WA,Spokane,Liberty Lake,Source2,3,47.695747,-117.048012,2021,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1012222,WA,Spokane,Liberty Lake,Source2,3,47.695751,-117.047966,2021,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1012240,WA,Spokane,Spokane,Source2,3,47.619637,-117.503601,2021,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1019884,WA,Spokane,Spokane,Source2,3,47.681061,-117.282822,2021,14,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-1021551,WA,Spokane,Spokane,Source2,3,47.672775,-117.21536299999998,2021,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1027141,WA,Spokane,Spokane,Source2,3,47.643089,-117.518333,2021,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-1028801,WA,Spokane,Spokane,Source2,3,47.646484,-117.451302,2021,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1030401,WA,Spokane,Spokane,Source2,3,47.656925,-117.32177,2021,10,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-1032043,WA,Spokane,Spokane,Source2,4,47.652431,-117.427666,2021,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1032044,WA,Spokane,Spokane,Source2,3,47.652561,-117.412796,2021,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1038155,WA,Spokane,Spokane Valley,Source2,3,47.655067,-117.327606,2021,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1043145,WA,Spokane,Spokane,Source2,3,47.652031,-117.431534,2021,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1052313,WA,Spokane,Spokane,Source2,3,47.653801,-117.341843,2021,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1056861,WA,Spokane,Spokane,Source2,3,47.653214,-117.391266,2021,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1060247,WA,Spokane,Spokane,Source2,3,47.652561,-117.412796,2021,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1061938,WA,Spokane,Spokane,Source2,3,47.652561,-117.412796,2021,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1066342,WA,Spokane,Liberty Lake,Source2,4,47.695076,-117.049049,2021,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1066351,WA,Spokane,Liberty Lake,Source2,3,47.673683,-117.109047,2021,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1066358,WA,Spokane,Spokane,Source2,3,47.653851,-117.357536,2021,17,Wednesday,Clear / Fair,True,True,False,False,False,False,False
+A-1069590,WA,Spokane,Spokane,Source2,3,47.65306500000001,-117.391205,2021,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-1069594,WA,Spokane,Spokane,Source2,3,47.646484,-117.451302,2021,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-1075103,WA,Spokane,Spokane,Source2,3,47.646484,-117.451302,2021,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1075104,WA,Spokane,Spokane,Source2,3,47.646484,-117.451302,2021,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1078115,WA,Spokane,Liberty Lake,Source2,3,47.673683,-117.109047,2021,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1082079,WA,Spokane,Spokane,Source2,3,47.646484,-117.451302,2021,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1082080,WA,Spokane,Spokane,Source2,3,47.653919,-117.327087,2021,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1083543,WA,Spokane,Spokane,Source2,3,47.622555,-117.498909,2021,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1083552,WA,Spokane,Spokane,Source2,3,47.668186,-117.30226100000002,2021,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1095599,WA,Spokane,Liberty Lake,Source2,3,47.672455,-117.108994,2021,4,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1095970,WA,Spokane,Liberty Lake,Source2,3,47.673309,-117.110031,2021,4,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1101195,WA,Spokane,Spokane,Source2,3,47.65383900000001,-117.353249,2021,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1101196,WA,Spokane,Spokane,Source2,3,47.65366,-117.354393,2021,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1101197,WA,Spokane,Spokane,Source2,3,47.653999,-117.359856,2021,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1109959,WA,Spokane,Spokane,Source2,3,47.662682,-117.313728,2021,7,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1111435,WA,Spokane,Spokane,Source2,3,47.651447,-117.435677,2021,6,Monday,Snow / Ice,True,True,False,False,False,False,False
+A-1113824,WA,Spokane,Liberty Lake,Source2,3,47.67002100000001,-117.111511,2021,1,Friday,Cloudy,False,False,False,False,False,False,False
+A-1115468,WA,Spokane,Liberty Lake,Source2,3,47.672569,-117.110313,2021,1,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1115469,WA,Spokane,Liberty Lake,Source2,3,47.674629,-117.1092,2021,1,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1115485,WA,Spokane,Spokane,Source2,3,47.652561,-117.412796,2021,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1116941,WA,Spokane,Spokane,Source2,3,47.674297,-117.240875,2021,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1122169,WA,Spokane,Spokane,Source2,3,47.646484,-117.451302,2021,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1122172,WA,Spokane,Spokane,Source2,3,47.634483,-117.479111,2021,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1123633,WA,Spokane,Greenacres,Source2,3,47.665848,-117.155441,2021,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1125053,WA,Spokane,Spokane Valley,Source2,3,47.65556,-117.325089,2021,7,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1125056,WA,Spokane,Spokane Valley,Source2,3,47.657009,-117.319809,2021,8,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1126536,WA,Spokane,Liberty Lake,Source2,3,47.66885,-117.115448,2021,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1127837,WA,Spokane,Spokane Valley,Source2,3,47.694881,-117.210861,2021,9,Monday,Clear / Fair,False,False,False,False,False,True,False
+A-1127840,WA,Spokane,Spokane,Source2,4,47.652561,-117.412796,2021,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1127841,WA,Spokane,Spokane,Source2,3,47.651447,-117.435677,2021,12,Monday,Cloudy,True,True,False,False,False,False,False
+A-1128288,WA,Spokane,Cheney,Source2,4,47.566124,-117.592567,2021,3,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1139824,WA,Spokane,Spokane,Source2,3,47.646221,-117.452057,2021,6,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1139826,WA,Spokane,Spokane,Source2,3,47.674156,-117.238731,2021,7,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1139846,WA,Spokane,Spokane,Source2,3,47.619499,-117.503426,2021,8,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1139854,WA,Spokane,Spokane,Source2,3,47.592251,-117.565247,2021,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1144190,WA,Spokane,Spokane,Source2,3,47.651447,-117.435677,2021,16,Monday,Cloudy,True,True,False,False,False,False,False
+A-1148457,WA,Spokane,Spokane,Source2,3,47.672775,-117.21536299999998,2021,20,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1151506,WA,Spokane,Liberty Lake,Source2,3,47.695076,-117.049049,2021,16,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1153139,WA,Spokane,Liberty Lake,Source2,3,47.67684600000001,-117.104507,2021,7,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1153146,WA,Spokane,Spokane,Source2,3,47.653847,-117.356644,2021,7,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1153148,WA,Spokane,Spokane,Source2,3,47.673836,-117.278885,2021,11,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1153150,WA,Spokane,Spokane,Source2,3,47.669388,-117.196953,2021,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-1156233,WA,Spokane,Spokane,Source2,3,47.651447,-117.435677,2021,6,Friday,Cloudy,True,True,False,False,False,False,False
+A-1170768,WA,Spokane,Spokane,Source2,3,47.674297,-117.240875,2021,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1170789,WA,Spokane,Spokane,Source2,3,47.672886,-117.285439,2021,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1172559,WA,Spokane,Spokane,Source2,3,47.651447,-117.435677,2021,18,Monday,Cloudy,True,True,False,False,False,False,False
+A-1176956,WA,Spokane,Spokane,Source2,3,47.653961,-117.348312,2021,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1178768,WA,Spokane,Spokane,Source2,3,47.592251,-117.565247,2021,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1182054,WA,Spokane,Spokane,Source2,3,47.674297,-117.240875,2021,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-1182055,WA,Spokane,Spokane,Source2,3,47.672775,-117.21536299999998,2021,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-1184877,WA,Spokane,Airway Heights,Source2,3,47.642941,-117.577019,2021,14,Friday,Clear / Fair,True,True,False,False,False,False,False
+A-1184882,WA,Spokane,Spokane,Source2,3,47.68542100000001,-117.261208,2021,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1186503,WA,Spokane,Spokane,Source2,3,47.592251,-117.565247,2021,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1186505,WA,Spokane,Spokane,Source2,3,47.614735,-117.51223799999998,2021,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1189225,WA,Spokane,Spokane,Source2,3,47.651447,-117.435677,2021,16,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-1190410,WA,Spokane,Spokane,Source2,3,47.646805,-117.450699,2021,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-1196252,WA,Spokane,Spokane,Source2,3,47.651447,-117.435677,2021,11,Wednesday,Clear / Fair,True,True,False,False,False,False,False
+A-1210929,WA,Spokane,Spokane,Source2,3,47.663612,-117.312553,2020,8,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1210936,WA,Spokane,Spokane Valley,Source2,3,47.655067,-117.327606,2020,11,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1210941,WA,Spokane,Spokane,Source2,3,47.672775,-117.21536299999998,2020,14,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1216435,WA,Spokane,Spokane,Source2,3,47.652924,-117.391602,2020,12,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1219497,WA,Spokane,Spokane,Source2,3,47.674297,-117.240875,2020,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1221085,WA,Spokane,Spokane,Source2,3,47.672886,-117.285439,2020,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-1223820,WA,Spokane,Spokane,Source2,3,47.654129,-117.35054,2020,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1229134,WA,Spokane,Spokane,Source2,3,47.632874,-117.480965,2020,8,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1233762,WA,Spokane,Spokane,Source2,3,47.653961,-117.347298,2020,1,Friday,Cloudy,False,False,True,False,False,False,False
+A-1238694,WA,Spokane,Spokane,Source2,3,47.653843,-117.356216,2020,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1238708,WA,Spokane,Spokane,Source2,3,47.674297,-117.240875,2020,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1247356,WA,Spokane,Spokane,Source2,3,47.672886,-117.285439,2020,9,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1251970,WA,Spokane,Greenacres,Source2,3,47.665848,-117.155441,2020,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1256656,WA,Spokane,Spokane Valley,Source2,3,47.655067,-117.327606,2020,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1263437,WA,Spokane,Spokane,Source2,3,47.653851,-117.389069,2020,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1263447,WA,Spokane,Spokane,Source2,3,47.673965,-117.24086,2020,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1268041,WA,Spokane,Cheney,Source2,3,47.565155,-117.594772,2020,7,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1268052,WA,Spokane,Cheney,Source2,3,47.566124,-117.592567,2020,10,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1268053,WA,Spokane,Spokane,Source2,3,47.652561,-117.412796,2020,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-1268054,WA,Spokane,Spokane,Source2,3,47.652561,-117.412796,2020,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-1272009,WA,Spokane,Cheney,Source2,3,47.566124,-117.592567,2020,5,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1278976,WA,Spokane,Spokane,Source2,3,47.674637,-117.27623,2020,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-1282509,WA,Spokane,Spokane,Source2,3,47.654049,-117.370331,2020,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1293887,WA,Spokane,Spokane,Source2,3,47.652241,-117.412727,2020,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1293891,WA,Spokane,Spokane,Source2,3,47.672886,-117.285439,2020,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1295831,WA,Spokane,Spokane,Source2,3,47.652561,-117.412796,2020,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1305108,WA,Spokane,Spokane,Source2,3,47.646484,-117.451302,2020,18,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1307860,WA,Spokane,Spokane,Source2,3,47.653999,-117.36026,2020,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1307862,WA,Spokane,Spokane,Source2,3,47.7729,-117.403152,2020,14,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-1307872,WA,Spokane,Greenacres,Source2,3,47.665848,-117.155441,2020,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1317507,WA,Spokane,Spokane,Source2,3,47.651447,-117.435677,2020,9,Monday,Clear / Fair,True,True,False,False,False,False,False
+A-1330401,WA,Spokane,Spokane,Source2,3,47.67413300000001,-117.240059,2020,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1338802,WA,Spokane,Medical Lake,Source2,3,47.642921,-117.603882,2020,10,Tuesday,Rain,False,False,False,False,True,False,False
+A-1340562,WA,Spokane,Spokane Valley,Source2,3,47.65889,-117.239792,2020,14,Wednesday,Cloudy,False,False,False,False,True,False,False
+A-1347653,WA,Spokane,Spokane,Source2,3,47.646484,-117.451302,2020,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-1347656,WA,Spokane,Spokane,Source2,3,47.618061,-117.502319,2020,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-1355393,WA,Spokane,Greenacres,Source2,3,47.665535,-117.156036,2020,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-1362408,WA,Spokane,Spokane,Source2,3,47.65295,-117.414932,2020,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1364528,WA,Spokane,Spokane,Source2,3,47.66449,-117.312828,2020,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1366629,WA,Spokane,Spokane,Source2,4,47.653908,-117.370331,2020,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-1394520,WA,Spokane,Spokane,Source2,3,47.652779,-117.41642,2020,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1401627,WA,Spokane,Greenacres,Source2,3,47.665848,-117.155441,2020,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1403175,WA,Spokane,Greenacres,Source2,3,47.665848,-117.155441,2020,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1404602,WA,Spokane,Spokane,Source2,3,47.672775,-117.21536299999998,2020,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1411662,WA,Spokane,Spokane,Source2,3,47.653912,-117.369766,2020,10,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-1413045,WA,Spokane,Liberty Lake,Source2,3,47.673683,-117.109047,2020,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1415939,WA,Spokane,Greenacres,Source2,3,47.665848,-117.155441,2020,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1424477,WA,Spokane,Spokane,Source2,3,47.674297,-117.240875,2020,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1433427,WA,Spokane,Spokane,Source2,3,47.646484,-117.451302,2020,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-1433432,WA,Spokane,Spokane,Source2,3,47.654129,-117.35054,2020,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1441854,WA,Spokane,Greenacres,Source2,3,47.665848,-117.155441,2020,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1444367,WA,Spokane,Spokane,Source2,3,47.651215,-117.436974,2020,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1445804,WA,Spokane,Greenacres,Source2,3,47.665848,-117.155441,2020,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1446252,WA,Spokane,Spokane,Source2,3,47.672775,-117.21536299999998,2020,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1454735,WA,Spokane,Veradale,Source2,3,47.66827,-117.193741,2020,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-1460435,WA,Spokane,Spokane,Source2,3,47.669792,-117.199203,2020,23,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1462115,WA,Spokane,Spokane,Source3,3,47.672775,-117.21536299999998,2020,9,Wednesday,Rain,False,False,False,False,False,False,False
+A-1468783,WA,Spokane,Spokane,Source2,3,47.65427,-117.393028,2020,9,Wednesday,Rain,False,False,False,False,False,False,False
+A-1469959,WA,Spokane,Spokane,Source2,3,47.647961,-117.45195,2020,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1471383,WA,Spokane,Spokane,Source2,3,47.65366,-117.354393,2020,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-1473525,WA,Spokane,Spokane,Source2,3,47.672886,-117.285439,2020,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-1475012,WA,Spokane,Spokane,Source2,3,47.672775,-117.21536299999998,2020,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1477830,WA,Spokane,Spokane,Source3,3,47.653999,-117.360176,2020,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1477832,WA,Spokane,Spokane,Source2,3,47.653881,-117.37574,2020,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1479318,WA,Spokane,Spokane,Source2,3,47.673618,-117.282364,2020,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-1485102,WA,Spokane,Spokane,Source2,3,47.651619,-117.436371,2020,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1486711,WA,Spokane,Spokane,Source2,3,47.65366,-117.354393,2020,0,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1489841,WA,Spokane,Spokane,Source2,3,47.643211,-117.539726,2020,13,Thursday,Cloudy,True,True,False,False,False,False,False
+A-1489846,WA,Spokane,Greenacres,Source2,3,47.665535,-117.156113,2020,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1491388,WA,Spokane,Mead,Source2,3,47.802101,-117.228996,2020,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1491406,WA,Spokane,Spokane,Source2,3,47.65247700000001,-117.392982,2020,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1496824,WA,Spokane,Greenacres,Source2,3,47.665848,-117.155441,2020,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-1508135,WA,Spokane,Spokane,Source2,3,47.652561,-117.412796,2020,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1518645,WA,Spokane,Liberty Lake,Source2,3,47.695076,-117.049049,2020,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1522446,WA,Spokane,Spokane,Source2,3,47.67363,-117.284851,2020,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1526317,WA,Spokane,Spokane,Source2,3,47.652031,-117.431534,2020,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1526318,WA,Spokane,Spokane,Source2,3,47.652431,-117.427666,2020,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1528266,WA,Spokane,Cheney,Source2,3,47.566124,-117.592567,2020,19,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1528267,WA,Spokane,Greenacres,Source2,3,47.665848,-117.155441,2020,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-1532543,WA,Spokane,Spokane,Source2,3,47.653927,-117.381592,2020,15,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-1533938,WA,Spokane,Spokane,Source2,3,47.653996,-117.35849,2020,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1554248,WA,Spokane,Spokane Valley,Source2,3,47.69332100000001,-117.231079,2020,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1567125,WA,Spokane,Mead,Source2,3,47.783531,-117.35437,2020,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-1574634,WA,Spokane,Spokane,Source2,3,47.587399,-117.403374,2020,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1577804,WA,Spokane,Cheney,Source2,3,47.503948,-117.688988,2020,6,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1586444,WA,Spokane,Spokane,Source2,3,47.641617,-117.463066,2020,9,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1586449,WA,Spokane,Spokane,Source2,3,47.672886,-117.285439,2020,11,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1586486,WA,Spokane,Spokane,Source2,3,47.673836,-117.278885,2020,18,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1589883,WA,Spokane,Spokane,Source2,3,47.672775,-117.21536299999998,2020,4,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1592351,WA,Spokane,Spokane,Source2,3,47.65383900000001,-117.353249,2020,7,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1592361,WA,Spokane,Spokane,Source2,3,47.653275,-117.39109,2020,10,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1592374,WA,Spokane,Spokane,Source2,3,47.653419,-117.390175,2020,14,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1594703,WA,Spokane,Spokane,Source2,3,47.646484,-117.451302,2020,16,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-1600880,WA,Spokane,Spokane,Source2,3,47.651447,-117.435677,2020,3,Sunday,Sin dato,True,True,False,False,False,False,False
+A-1606783,WA,Spokane,Spokane,Source2,3,47.651817,-117.434357,2020,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1621035,WA,Spokane,Spokane,Source2,3,47.646484,-117.451302,2020,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1628625,WA,Spokane,Spokane,Source2,3,47.652031,-117.431534,2020,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-1628647,WA,Spokane,Spokane,Source2,3,47.652561,-117.412796,2020,14,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1628651,WA,Spokane,Spokane,Source2,3,47.64304,-117.512177,2020,16,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1628659,WA,Spokane,Spokane,Source2,3,47.672775,-117.21536299999998,2020,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1631314,WA,Spokane,Spokane,Source2,3,47.669388,-117.196953,2020,6,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1631316,WA,Spokane,Spokane,Source2,3,47.672878,-117.215393,2020,6,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1663601,WA,Spokane,Spokane,Source2,3,47.652481,-117.426521,2020,3,Sunday,Cloudy,True,False,False,False,False,False,False
+A-1665792,WA,Spokane,Spokane,Source2,3,47.654049,-117.370331,2020,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-1665796,WA,Spokane,Spokane,Source2,3,47.672775,-117.21536299999998,2020,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-1667754,WA,Spokane,Spokane,Source2,3,47.672775,-117.21536299999998,2020,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1667755,WA,Spokane,Spokane,Source2,3,47.67197,-117.213676,2020,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1667757,WA,Spokane,Spokane,Source2,3,47.646484,-117.451302,2020,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1669950,WA,Spokane,Spokane,Source2,3,47.651447,-117.435677,2020,8,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-1681335,WA,Spokane,Cheney,Source2,3,47.567558,-117.593109,2019,6,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1681337,WA,Spokane,Cheney,Source2,3,47.567558,-117.593109,2019,6,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1684642,WA,Spokane,Spokane,Source2,3,47.646484,-117.451302,2019,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-1686234,WA,Spokane,Spokane,Source2,3,47.6735,-117.241371,2019,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1692337,WA,Spokane,Spokane,Source2,3,47.653423,-117.39016,2019,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1692338,WA,Spokane,Spokane,Source2,3,47.646484,-117.451302,2019,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1710064,WA,Spokane,Greenacres,Source2,3,47.665531,-117.155441,2019,5,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1719929,WA,Spokane,Spokane,Source2,3,47.673988,-117.239433,2019,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-1722714,WA,Spokane,Spokane,Source2,3,47.652031,-117.431534,2019,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1722725,WA,Spokane,Spokane,Source2,3,47.653828,-117.387856,2019,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1727788,WA,Spokane,Spokane,Source2,3,47.652431,-117.427666,2019,4,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1727789,WA,Spokane,Spokane,Source2,3,47.672886,-117.285439,2019,5,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1727793,WA,Spokane,Spokane,Source2,3,47.620312,-117.50203700000002,2019,6,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1738994,WA,Spokane,Spokane,Source2,3,47.653919,-117.327087,2019,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-1741625,WA,Spokane,Spokane,Source2,3,47.652565,-117.392693,2019,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1741628,WA,Spokane,Spokane,Source2,3,47.653793,-117.38842,2019,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1746809,WA,Spokane,Liberty Lake,Source2,4,47.695076,-117.049049,2019,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1753481,WA,Spokane,Spokane,Source2,3,47.653961,-117.34716,2019,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1759045,WA,Spokane,Spokane,Source2,3,47.674198,-117.236572,2019,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1761623,WA,Spokane,Spokane,Source2,3,47.663612,-117.312553,2019,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1764141,WA,Spokane,Spokane,Source2,3,47.652431,-117.427666,2019,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-1768436,WA,Spokane,Spokane,Source2,3,47.652748,-117.412781,2019,17,Monday,Rain,False,False,False,False,False,False,False
+A-1773884,WA,Spokane,Spokane,Source2,3,47.653877,-117.375877,2019,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1785761,WA,Spokane,Liberty Lake,Source2,3,47.669746,-117.113426,2019,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1788311,WA,Spokane,Spokane,Source2,3,47.652031,-117.431534,2019,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1797563,WA,Spokane,Spokane,Source2,3,47.655338,-117.393311,2019,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-1800186,WA,Spokane,Spokane,Source2,3,47.652561,-117.412796,2019,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1808604,WA,Spokane,Spokane,Source2,3,47.653885,-117.374428,2019,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1821667,WA,Spokane,Spokane,Source2,3,47.654129,-117.35054,2019,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1839891,WA,Spokane,Spokane,Source2,3,47.619644,-117.503616,2019,7,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1839908,WA,Spokane,Spokane,Source2,3,47.652561,-117.412796,2019,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1844123,WA,Spokane,Spokane,Source2,3,47.652462,-117.393036,2019,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-1846694,WA,Spokane,Spokane,Source2,4,47.619637,-117.503601,2019,14,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1846695,WA,Spokane,Spokane,Source2,4,47.591812,-117.564354,2019,14,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1851840,WA,Spokane,Cheney,Source2,4,47.504154,-117.691093,2019,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1860094,WA,Spokane,Spokane,Source2,3,47.652538,-117.4132,2019,12,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1865213,WA,Spokane,Spokane,Source2,3,47.653145,-117.390991,2019,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1868870,WA,Spokane,Spokane,Source2,3,47.646664,-117.451294,2019,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1884487,WA,Spokane,Spokane,Source2,3,47.654129,-117.35054,2019,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-1898056,WA,Spokane,Spokane,Source2,3,47.653996,-117.359299,2019,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-1901968,WA,Spokane,Spokane,Source2,3,47.652676,-117.41133899999998,2019,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-1936678,WA,Spokane,Spokane,Source2,3,47.655334,-117.393311,2019,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1936683,WA,Spokane,Spokane,Source2,3,47.669353,-117.196877,2019,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1943927,WA,Spokane,Spokane,Source2,3,47.674213,-117.241013,2019,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-1946063,WA,Spokane,Liberty Lake,Source2,3,47.69685,-117.046402,2019,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-1948300,WA,Spokane,Spokane,Source2,3,47.652538,-117.4132,2019,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1951839,WA,Spokane,Cheney,Source2,3,47.504154,-117.691093,2019,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1963032,WA,Spokane,Greenacres,Source2,3,47.665848,-117.155441,2019,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1986054,WA,Spokane,Spokane,Source2,3,47.673798,-117.282272,2019,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1991220,WA,Spokane,Liberty Lake,Source2,3,47.695076,-117.049049,2019,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1991221,WA,Spokane,Liberty Lake,Source2,3,47.695076,-117.049049,2019,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1993821,WA,Spokane,Spokane,Source2,3,47.653423,-117.39016,2019,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-1995864,WA,Spokane,Spokane,Source2,3,47.646664,-117.451294,2019,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2031285,WA,Spokane,Spokane,Source2,3,47.655334,-117.393311,2019,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2035233,WA,Spokane,Spokane,Source2,3,47.65202,-117.398903,2019,16,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-2035236,WA,Spokane,Spokane,Source2,3,47.653969,-117.387405,2019,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2037513,WA,Spokane,Spokane,Source2,3,47.672363,-117.211006,2019,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2052765,WA,Spokane,Spokane,Source2,3,47.689541,-117.239952,2019,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2061416,WA,Spokane,Spokane Valley,Source2,3,47.655476,-117.32634,2019,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2076169,WA,Spokane,Greenacres,Source2,3,47.665848,-117.155441,2019,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2096036,WA,Spokane,Spokane,Source2,3,47.654572,-117.41343700000002,2019,6,Friday,Cloudy,True,False,False,False,True,False,False
+A-2096894,WA,Spokane,Liberty Lake,Source2,3,47.673683,-117.109047,2019,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2109222,WA,Spokane,Spokane,Source2,3,47.652031,-117.431534,2019,12,Friday,Rain,False,False,False,False,False,False,False
+A-2118342,WA,Spokane,Spokane,Source2,3,47.646664,-117.451294,2019,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2127766,WA,Spokane,Liberty Lake,Source2,3,47.673683,-117.109047,2019,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2127769,WA,Spokane,Spokane,Source2,3,47.652031,-117.431534,2019,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2127779,WA,Spokane,Spokane,Source3,3,47.651367,-117.435684,2019,17,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-2132308,WA,Spokane,Spokane,Source2,3,47.652538,-117.4132,2019,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2139370,WA,Spokane,Spokane,Source2,3,47.652596,-117.411331,2019,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2155488,WA,Spokane,Spokane,Source2,3,47.652504,-117.428253,2019,8,Monday,Rain,False,False,False,False,False,False,False
+A-2157981,WA,Spokane,Spokane,Source2,3,47.652504,-117.428253,2019,14,Tuesday,Rain,False,False,False,False,False,False,False
+A-2162815,WA,Spokane,Spokane,Source2,3,47.652592,-117.411255,2019,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2166379,WA,Spokane,Spokane,Source2,3,47.67411,-117.24156200000002,2019,15,Saturday,Rain,False,False,False,False,False,False,False
+A-2173741,WA,Spokane,Spokane,Source2,3,47.653961,-117.348312,2019,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2202701,WA,Spokane,Spokane,Source2,3,47.652653,-117.410957,2019,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2207658,WA,Spokane,Spokane,Source2,3,47.652657,-117.411903,2019,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2210003,WA,Spokane,Spokane,Source2,3,47.653954,-117.375504,2019,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2215532,WA,Spokane,Spokane,Source2,3,47.633965,-117.47963,2019,5,Tuesday,Snow / Ice,False,False,True,False,False,False,False
+A-2217780,WA,Spokane,Spokane,Source2,3,47.634289,-117.478592,2019,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2247393,WA,Spokane,Greenacres,Source2,3,47.665531,-117.15161100000002,2019,6,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2251012,WA,Spokane,Spokane,Source2,3,47.601978,-117.543549,2019,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2266170,WA,Spokane,Spokane,Source2,3,47.673241,-117.283493,2019,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2271686,WA,Spokane,Spokane,Source2,3,47.673771,-117.237152,2019,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2274089,WA,Spokane,Spokane,Source2,3,47.652721,-117.421753,2019,6,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2278273,WA,Spokane,Spokane,Source3,3,47.646267,-117.45195,2019,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-2278277,WA,Spokane,Spokane,Source2,3,47.633408,-117.479561,2019,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2278301,WA,Spokane,Spokane,Source2,3,47.646633,-117.45078999999998,2019,19,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2289086,WA,Spokane,Greenacres,Source2,3,47.665699,-117.154663,2019,11,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2290038,WA,Spokane,Spokane,Source2,3,47.652481,-117.426521,2019,4,Saturday,Cloudy,True,False,False,False,False,False,False
+A-2292776,WA,Spokane,Spokane,Source2,3,47.653938,-117.33979,2019,2,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2297768,WA,Spokane,Spokane,Source2,3,47.65107,-117.437576,2019,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2305976,WA,Spokane,Spokane,Source2,3,47.650063,-117.442902,2019,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-2308369,WA,Spokane,Spokane,Source2,3,47.653954,-117.375504,2019,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2311054,WA,Spokane,Liberty Lake,Source2,3,47.687794,-117.07058700000002,2019,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2311065,WA,Spokane,Spokane,Source2,3,47.633965,-117.47963,2019,15,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-2311066,WA,Spokane,Spokane,Source2,3,47.663696,-117.312454,2019,16,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2314077,WA,Spokane,Spokane,Source2,3,47.652657,-117.411903,2019,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2316325,WA,Spokane,Spokane,Source2,3,47.652657,-117.411903,2019,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2332315,WA,Spokane,Spokane,Source2,3,47.651569,-117.434052,2019,6,Friday,Fog / Low visibility,True,True,False,False,True,False,False
+A-2343957,WA,Spokane,Spokane,Source2,3,47.653954,-117.375504,2019,16,Thursday,Rain,False,False,False,False,False,False,False
+A-2350095,WA,Spokane,Spokane,Source2,3,47.646564,-117.451256,2019,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-2350096,WA,Spokane,Spokane,Source2,3,47.652504,-117.428253,2019,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-2365172,WA,Spokane,Spokane,Source2,3,47.620132,-117.50293700000002,2019,10,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2365173,WA,Spokane,Spokane,Source2,3,47.620132,-117.50293700000002,2019,10,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2372935,WA,Spokane,Cheney,Source2,3,47.504047,-117.690948,2018,13,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2372948,WA,Spokane,Spokane,Source2,3,47.652138,-117.431046,2018,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2377163,WA,Spokane,Spokane,Source2,3,47.653996,-117.379784,2018,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-2377174,WA,Spokane,Spokane,Source2,3,47.652557,-117.411217,2018,12,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2377194,WA,Spokane,Spokane,Source2,3,47.651485,-117.435555,2018,17,Monday,Cloudy,True,True,False,False,False,False,False
+A-2379106,WA,Spokane,Spokane,Source2,3,47.620132,-117.50293700000002,2018,4,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2379131,WA,Spokane,Greenacres,Source2,3,47.665699,-117.154663,2018,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2383638,WA,Spokane,Liberty Lake,Source2,3,47.673443,-117.109055,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2386032,WA,Spokane,Spokane,Source2,3,47.646633,-117.45078999999998,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2389277,WA,Spokane,Spokane,Source2,3,47.652721,-117.421753,2018,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2391821,WA,Spokane,Cheney,Source2,3,47.565563,-117.594048,2018,5,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2394236,WA,Spokane,Spokane,Source2,3,47.653488,-117.419418,2018,16,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-2394239,WA,Spokane,Spokane,Source2,3,47.652657,-117.411903,2018,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2396582,WA,Spokane,Spokane,Source2,3,47.674606,-117.276459,2018,6,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2407391,WA,Spokane,Spokane,Source2,3,47.633965,-117.47963,2018,18,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-2417896,WA,Spokane,Spokane,Source2,3,47.65535,-117.323906,2018,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2434432,WA,Spokane,Cheney,Source2,3,47.504047,-117.690948,2018,14,Monday,Storm,False,False,False,False,False,False,False
+A-2457367,WA,Spokane,Spokane,Source2,3,47.673981,-117.23951,2018,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2457369,WA,Spokane,Spokane,Source2,3,47.67413300000001,-117.196602,2018,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2464373,WA,Spokane,Spokane,Source2,3,47.67197,-117.213295,2018,2,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2467572,WA,Spokane,Spokane Valley,Source2,3,47.685966,-117.154427,2018,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2473189,WA,Spokane,Greenacres,Source2,3,47.665501,-117.132957,2018,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2496356,WA,Spokane,Spokane,Source2,3,47.651485,-117.435555,2018,15,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-2503047,WA,Spokane,Spokane,Source2,3,47.656872,-117.322105,2018,5,Saturday,Rain,True,False,False,False,False,False,False
+A-2515384,WA,Spokane,Spokane,Source2,3,47.653858,-117.360352,2018,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2515388,WA,Spokane,Spokane,Source2,3,47.65287,-117.391716,2018,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2519560,WA,Spokane,Spokane Valley,Source2,3,47.673691,-117.281822,2018,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2519566,WA,Spokane,Spokane,Source2,3,47.646519,-117.451447,2018,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-2519571,WA,Spokane,Spokane,Source2,3,47.673981,-117.23951,2018,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2522515,WA,Spokane,Spokane,Source2,3,47.654015,-117.375229,2018,16,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-2528385,WA,Spokane,Spokane,Source2,3,47.633003,-117.47683,2018,2,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2552032,WA,Spokane,Spokane,Source2,3,47.65403,-117.36602,2018,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2555012,WA,Spokane,Cheney,Source2,4,47.43623,-117.790497,2018,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2557649,WA,Spokane,Spokane,Source2,3,47.651485,-117.435555,2018,16,Friday,Cloudy,True,True,False,False,False,False,False
+A-2557656,WA,Spokane,Spokane,Source2,3,47.654015,-117.375229,2018,17,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-2577885,WA,Spokane,Greenacres,Source2,3,47.665501,-117.132957,2018,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2577895,WA,Spokane,Spokane,Source2,3,47.652744,-117.427368,2018,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2585611,WA,Spokane,Spokane,Source2,3,47.653858,-117.360352,2018,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-2597321,WA,Spokane,Spokane,Source2,3,47.653858,-117.360352,2018,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2604059,WA,Spokane,Spokane,Source3,3,47.653961,-117.348457,2018,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-2609671,WA,Spokane,Spokane,Source2,3,47.653858,-117.360352,2018,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2618084,WA,Spokane,Cheney,Source2,3,47.43623,-117.790497,2018,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-2618088,WA,Spokane,Cheney,Source2,3,47.435493,-117.791389,2018,2,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2618118,WA,Spokane,Spokane,Source2,3,47.653858,-117.360352,2018,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2629549,WA,Spokane,Spokane,Source2,3,47.653843,-117.357559,2018,18,Monday,Cloudy,True,True,False,False,False,False,False
+A-2632101,WA,Spokane,Spokane,Source2,3,47.651485,-117.435555,2018,15,Tuesday,Fog / Low visibility,True,True,False,False,False,False,False
+A-2632104,WA,Spokane,Spokane,Source2,3,47.651485,-117.435555,2018,15,Tuesday,Fog / Low visibility,True,True,False,False,False,False,False
+A-2634536,WA,Spokane,Greenacres,Source2,3,47.665676,-117.150909,2018,6,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2634556,WA,Spokane,Spokane,Source2,3,47.652752,-117.424995,2018,11,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2648562,WA,Spokane,Greenacres,Source2,3,47.66552,-117.153725,2018,18,Wednesday,Fog / Low visibility,False,False,True,False,False,False,False
+A-2651099,WA,Spokane,Spokane,Source2,3,47.651485,-117.435555,2018,15,Thursday,Fog / Low visibility,True,True,False,False,False,False,False
+A-2671433,WA,Spokane,Spokane,Source2,3,47.652557,-117.411217,2018,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2673968,WA,Spokane,Spokane,Source2,3,47.653027,-117.391808,2018,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2685313,WA,Spokane,Liberty Lake,Source2,3,47.672665,-117.108788,2018,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2688751,WA,Spokane,Greenacres,Source2,3,47.665504,-117.141792,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2688753,WA,Spokane,Spokane,Source2,3,47.652752,-117.424995,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2690988,WA,Spokane,Greenacres,Source2,3,47.66552,-117.153725,2018,15,Friday,Cloudy,False,False,True,False,False,False,False
+A-2701347,WA,Spokane,Spokane,Source2,3,47.652557,-117.411217,2018,10,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2704464,WA,Spokane,Liberty Lake,Source2,3,47.696049,-117.047783,2018,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2706516,WA,Spokane,Spokane,Source2,3,47.653858,-117.380562,2018,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2708711,WA,Spokane,Spokane,Source2,3,47.651485,-117.435555,2018,17,Tuesday,Cloudy,True,True,False,False,False,False,False
+A-2710969,WA,Spokane,Greenacres,Source2,3,47.66552,-117.153725,2018,17,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-2719634,WA,Spokane,Spokane Valley,Source2,3,47.673691,-117.281822,2018,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2721968,WA,Spokane,Spokane,Source3,3,47.654015,-117.375229,2018,9,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-2746229,WA,Spokane,Cheney,Source2,3,47.503284,-117.69326,2018,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2746230,WA,Spokane,Cheney,Source2,3,47.505314,-117.688568,2018,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2751097,WA,Spokane,Spokane,Source2,3,47.653858,-117.360352,2018,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2751170,WA,Spokane,Spokane,Source2,3,47.652081,-117.39666,2018,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2752211,WA,Spokane,Spokane,Source2,3,47.651485,-117.435555,2018,18,Saturday,Rain,True,True,False,False,False,False,False
+A-2764596,WA,Spokane,Spokane,Source2,3,47.652527,-117.410751,2018,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-2768707,WA,Spokane,Spokane,Source2,3,47.652557,-117.411217,2018,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-2768719,WA,Spokane,Spokane,Source3,3,47.656872,-117.322105,2018,17,Monday,Rain,True,False,False,False,False,False,False
+A-2771119,WA,Spokane,Spokane Valley,Source2,3,47.673691,-117.281822,2018,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2773297,WA,Spokane,Veradale,Source2,3,47.669106,-117.196533,2018,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2775563,WA,Spokane,Greenacres,Source2,3,47.665501,-117.132957,2018,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2777862,WA,Spokane,Greenacres,Source2,3,47.665516,-117.167603,2018,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2810967,WA,Spokane,Spokane,Source2,3,47.657162,-117.321846,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2813566,WA,Spokane,Spokane,Source2,3,47.654015,-117.375229,2018,16,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-2816225,WA,Spokane,Spokane,Source2,3,47.653858,-117.360352,2018,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2816239,WA,Spokane,Spokane,Source2,3,47.653858,-117.360352,2018,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2828673,WA,Spokane,Spokane,Source2,3,47.651485,-117.435555,2018,16,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-2831412,WA,Spokane,Spokane,Source2,3,47.651485,-117.435555,2018,17,Thursday,Cloudy,True,True,False,False,False,False,False
+A-2833984,WA,Spokane,Spokane,Source2,3,47.652557,-117.411217,2018,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2833988,WA,Spokane,Spokane,Source2,3,47.646519,-117.451447,2018,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2840706,WA,Spokane,Spokane,Source2,3,47.653866,-117.330948,2018,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2845945,WA,Spokane,Spokane,Source2,3,47.657181,-117.321831,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2848670,WA,Spokane,Spokane Valley,Source2,3,47.673691,-117.281822,2018,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2849591,WA,Spokane,Greenacres,Source2,3,47.665676,-117.132957,2018,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2856740,WA,Spokane,Spokane,Source2,3,47.656872,-117.322105,2018,17,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-2856742,WA,Spokane,Spokane,Source2,3,47.65287,-117.391716,2018,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2868112,WA,Spokane,Spokane,Source2,3,47.651485,-117.435555,2018,11,Thursday,Rain,True,True,False,False,False,False,False
+A-2868125,WA,Spokane,Spokane,Source2,3,47.67449600000001,-117.25573,2018,16,Thursday,Rain,False,False,False,False,False,False,False
+A-2884856,WA,Spokane,Spokane,Source2,3,47.652557,-117.411217,2018,14,Friday,Rain,False,False,False,False,False,False,False
+A-2888943,WA,Spokane,Spokane,Source3,3,47.656872,-117.322105,2018,8,Monday,Cloudy,True,False,False,False,False,False,False
+A-2888946,WA,Spokane,Spokane,Source2,3,47.656872,-117.322105,2018,9,Monday,Cloudy,True,False,False,False,False,False,False
+A-2891597,WA,Spokane,Liberty Lake,Source2,3,47.672119,-117.109077,2018,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2891600,WA,Spokane,Spokane,Source2,3,47.652557,-117.411217,2018,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2896889,WA,Spokane,Spokane,Source2,3,47.656872,-117.322105,2018,8,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-2896905,WA,Spokane,Greenacres,Source2,3,47.66552,-117.153725,2018,16,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-2899672,WA,Spokane,Spokane,Source2,3,47.651485,-117.435555,2018,9,Friday,Cloudy,True,True,False,False,False,False,False
+A-2899675,WA,Spokane,Spokane,Source2,3,47.652557,-117.411217,2018,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2901348,WA,Spokane,Spokane Valley,Source2,3,47.693336,-117.231133,2018,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2906718,WA,Spokane,Veradale,Source2,3,47.669106,-117.196533,2018,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2906723,WA,Spokane,Greenacres,Source2,3,47.66552,-117.153725,2018,7,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-2909432,WA,Spokane,Spokane,Source2,3,47.652557,-117.411217,2018,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2932501,WA,Spokane,Spokane,Source2,3,47.652786,-117.419327,2018,8,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-2936163,WA,Spokane,Spokane,Source2,3,47.672741,-117.214676,2018,3,Friday,Cloudy,False,False,False,False,False,False,False
+A-2960670,WA,Spokane,Spokane,Source2,3,47.651485,-117.435555,2018,7,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-2970589,WA,Spokane,Spokane,Source2,3,47.633541,-117.479836,2018,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-2974558,WA,Spokane,Spokane,Source2,3,47.652065,-117.397171,2018,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2997439,WA,Spokane,Spokane,Source2,3,47.594391,-117.561592,2018,8,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-3003022,WA,Spokane,Spokane,Source2,3,47.651863,-117.434082,2018,15,Friday,Cloudy,False,False,False,False,True,False,False
+A-3038310,WA,Spokane,Greenacres,Source2,3,47.66552,-117.153725,2018,8,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-3046930,WA,Spokane,Spokane,Source2,3,47.652557,-117.411217,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3058957,WA,Spokane,Spokane Valley,Source2,3,47.673691,-117.281822,2018,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3058958,WA,Spokane,Spokane Valley,Source2,3,47.673691,-117.281822,2018,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3068302,WA,Spokane,Spokane,Source2,3,47.656872,-117.322105,2018,7,Monday,Fog / Low visibility,True,False,False,False,False,False,False
+A-3076209,WA,Spokane,Spokane,Source2,3,47.652557,-117.411217,2018,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-3077429,WA,Spokane,Spokane,Source2,3,47.633976,-117.4795,2018,12,Sunday,Cloudy,False,False,True,False,False,False,False
+A-3087381,WA,Spokane,Spokane,Source2,3,47.646519,-117.451447,2018,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3087394,WA,Spokane,Spokane,Source2,3,47.652557,-117.411217,2018,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3099164,WA,Spokane,Spokane,Source2,3,47.651863,-117.434082,2017,16,Thursday,Cloudy,False,False,False,False,True,False,False
+A-3105766,WA,Spokane,Spokane,Source2,3,47.65287,-117.391716,2017,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3114299,WA,Spokane,Greenacres,Source2,3,47.665516,-117.154282,2017,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3117356,WA,Spokane,Spokane,Source2,3,47.651485,-117.435555,2017,6,Friday,Cloudy,True,True,False,False,False,False,False
+A-3117364,WA,Spokane,Spokane,Source2,3,47.65234,-117.43557,2017,6,Friday,Clear / Fair,True,True,False,False,False,False,False
+A-3117375,WA,Spokane,Veradale,Source2,3,47.669106,-117.196533,2017,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3124132,WA,Spokane,Spokane,Source2,3,47.653767,-117.341225,2017,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3130107,WA,Spokane,Spokane,Source2,3,47.672741,-117.214676,2017,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3132902,WA,Spokane,Spokane,Source2,3,47.619896,-117.502747,2017,14,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3132909,WA,Spokane,Spokane,Source2,3,47.65287,-117.391716,2017,15,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3145460,WA,Spokane,Spokane,Source2,3,47.663689,-117.312973,2017,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3152397,WA,Spokane,Spokane,Source2,3,47.652752,-117.424995,2017,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3152410,WA,Spokane,Veradale,Source2,3,47.669106,-117.196533,2017,14,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3154583,WA,Spokane,Spokane,Source2,3,47.634308,-117.478943,2017,9,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3154585,WA,Spokane,Liberty Lake,Source2,3,47.672665,-117.108788,2017,10,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3156813,WA,Spokane,Spokane,Source2,3,47.619896,-117.502747,2017,16,Friday,Rain,False,False,False,False,False,False,False
+A-3170474,WA,Spokane,Spokane,Source2,3,47.673981,-117.23951,2017,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-3185426,WA,Spokane,Spokane Valley,Source2,3,47.673691,-117.281822,2017,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3190268,WA,Spokane,Spokane,Source3,3,47.65255,-117.428947,2017,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3199263,WA,Spokane,Liberty Lake,Source2,3,47.669834,-117.112724,2017,17,Tuesday,Rain,False,False,False,False,False,False,False
+A-3199268,WA,Spokane,Spokane,Source2,3,47.675133,-117.265198,2017,17,Tuesday,Rain,False,False,False,False,False,False,False
+A-3206673,WA,Spokane,Spokane,Source2,3,47.653767,-117.341225,2017,23,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3206677,WA,Spokane,Spokane,Source2,3,47.653767,-117.341225,2017,2,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3214998,WA,Spokane,Liberty Lake,Source2,3,47.672665,-117.108788,2017,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3215835,WA,Spokane,Spokane,Source2,3,47.652557,-117.411217,2017,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3218887,WA,Spokane,Spokane,Source2,3,47.667549,-117.303764,2017,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-3221675,WA,Spokane,Spokane,Source2,3,47.653858,-117.360352,2017,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3221685,WA,Spokane,Spokane,Source2,3,47.654015,-117.375229,2017,17,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-3227297,WA,Spokane,Cheney,Source2,3,47.436062,-117.790169,2017,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3227304,WA,Spokane,Spokane,Source2,3,47.653843,-117.357666,2017,15,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-3227307,WA,Spokane,Spokane,Source2,3,47.648781,-117.446259,2017,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3253677,WA,Spokane,Spokane,Source2,3,47.652557,-117.411217,2017,16,Wednesday,Rain,False,False,False,False,False,False,False
+A-3265726,WA,Spokane,Spokane,Source2,3,47.652554,-117.409058,2017,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3265728,WA,Spokane,Spokane Valley,Source2,3,47.673691,-117.281822,2017,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3306090,WA,Spokane,Spokane,Source2,3,47.654026,-117.390831,2017,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3306094,WA,Spokane,Greenacres,Source2,3,47.665501,-117.132957,2017,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3316076,WA,Spokane,Spokane,Source2,3,47.65287,-117.391716,2017,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-3319021,WA,Spokane,Spokane,Source2,3,47.656872,-117.322105,2017,17,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-3321943,WA,Spokane,Greenacres,Source2,3,47.665501,-117.132957,2017,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3321974,WA,Spokane,Spokane,Source2,3,47.652557,-117.411217,2017,15,Wednesday,Rain,False,False,False,False,False,False,False
+A-3321976,WA,Spokane,Spokane,Source2,3,47.652752,-117.424995,2017,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3321983,WA,Spokane,Spokane,Source2,3,47.651485,-117.435555,2017,17,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-3327874,WA,Spokane,Spokane,Source2,3,47.653973,-117.357826,2017,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-3329421,WA,Spokane,Rosalia,Source2,3,47.280319,-117.36113,2017,0,Sunday,Cloudy,False,False,False,True,False,False,False
+A-3337867,WA,Spokane,Spokane,Source2,3,47.652138,-117.431046,2017,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3343959,WA,Spokane,Greenacres,Source2,3,47.66552,-117.153725,2017,15,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-3343965,WA,Spokane,Spokane,Source2,3,47.652557,-117.411217,2017,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3347798,WA,Spokane,Liberty Lake,Source2,3,47.695717,-117.048134,2017,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3358496,WA,Spokane,Spokane,Source2,3,47.646519,-117.451447,2017,17,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3372521,WA,Spokane,Spokane,Source2,3,47.652557,-117.411217,2017,16,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3384832,WA,Spokane,Spokane,Source2,3,47.651485,-117.435555,2017,17,Thursday,Cloudy,True,True,False,False,False,False,False
+A-3387613,WA,Spokane,Spokane,Source3,3,47.646519,-117.451447,2017,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-3394318,WA,Spokane,Spokane Valley,Source2,3,47.673691,-117.281822,2017,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3397315,WA,Spokane,Spokane,Source2,3,47.646519,-117.451447,2017,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3525682,WA,Spokane,Nine Mile Falls,Source1,4,47.77699000000001,-117.54398,2016,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3526674,WA,Spokane,Spokane,Source1,3,47.652311,-117.394861,2016,5,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3526677,WA,Spokane,Spokane,Source1,4,47.633702,-117.479551,2016,5,Thursday,Snow / Ice,False,False,True,False,False,False,False
+A-3527283,WA,Spokane,Cheney,Source1,4,47.50216,-117.69374,2016,5,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3527540,WA,Spokane,Spokane,Source1,3,47.65192,-117.43375,2016,5,Tuesday,Cloudy,False,False,False,False,True,False,False
+A-3527541,WA,Spokane,Spokane,Source1,3,47.65192,-117.43375,2016,6,Tuesday,Cloudy,False,False,False,False,True,False,False
+A-3532700,WA,Spokane,Spokane,Source1,3,47.65405,-117.37033,2017,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-3533181,WA,Spokane,Spokane,Source1,4,47.65732,-117.363639,2016,1,Sunday,Clear / Fair,False,False,False,False,True,False,False
+A-3535392,WA,Spokane,Spokane,Source1,3,47.71689,-117.41113,2016,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3535902,WA,Spokane,Liberty Lake,Source1,3,47.6945,-117.05283,2016,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3543930,WA,Spokane,Spokane,Source1,3,47.65235,-117.40571,2016,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3547033,WA,Spokane,Spokane,Source1,3,47.65385,-117.35769,2016,15,Friday,Cloudy,True,True,False,False,False,False,False
+A-3547800,WA,Spokane,Spokane,Source1,3,47.66593,-117.30811,2016,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3549758,WA,Spokane,Liberty Lake,Source1,3,47.672685,-117.108741,2016,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3550967,WA,Spokane,Spokane,Source1,3,47.65192,-117.43375,2016,11,Thursday,Cloudy,False,False,False,False,True,False,False
+A-3551742,WA,Spokane,Medical Lake,Source1,3,47.57979,-117.68226,2016,0,Wednesday,Clear / Fair,False,True,False,False,False,False,False
+A-3552615,WA,Spokane,Veradale,Source1,3,47.6676,-117.1882,2016,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3552969,WA,Spokane,Mead,Source1,3,47.783771,-117.354229,2016,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3553762,WA,Spokane,Medical Lake,Source1,3,47.64296,-117.64458,2016,12,Thursday,Cloudy,True,False,False,False,True,False,False
+A-3555383,WA,Spokane,Spokane,Source1,3,47.800648,-117.406287,2016,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3556147,WA,Spokane,Greenacres,Source1,3,47.66553,-117.16019,2016,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3565185,WA,Spokane,Spokane,Source1,4,47.63013,-117.48558,2017,11,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3566710,WA,Spokane,Spokane,Source1,4,47.68267,-117.40989,2017,21,Saturday,Clear / Fair,True,False,False,False,False,False,False
+A-3587022,WA,Spokane,Spokane,Source1,3,47.653964,-117.355477,2017,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3587218,WA,Spokane,Spokane Valley,Source1,4,47.62787,-117.224254,2017,14,Wednesday,Rain,False,False,False,False,False,False,False
+A-3587220,WA,Spokane,Spokane Valley,Source1,4,47.62787,-117.22422,2017,14,Wednesday,Rain,False,False,False,False,False,False,False
+A-3587790,WA,Spokane,Chattaroy,Source1,4,47.90388,-117.35112,2017,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-3587793,WA,Spokane,Deer Park,Source1,4,47.93963,-117.35088,2017,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-3588857,WA,Spokane,Spokane,Source1,3,47.65396,-117.387885,2017,9,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3592245,WA,Spokane,Spokane,Source1,3,47.65259,-117.411263,2017,13,Wednesday,Rain,False,False,False,False,False,False,False
+A-3593408,WA,Spokane,Spokane,Source1,3,47.59415,-117.56204,2017,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3610205,WA,Spokane,Chattaroy,Source1,4,47.97067,-117.34957,2017,18,Friday,Cloudy,True,False,False,False,False,False,False
+A-3610861,WA,Spokane,Spokane,Source1,3,47.62893,-117.48758,2017,15,Thursday,Cloudy,False,False,True,False,False,False,False
+A-3620372,WA,Spokane,Spokane,Source1,4,47.69552,-117.200197,2017,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3620387,WA,Spokane,Spokane Valley,Source1,3,47.69332,-117.23108,2017,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3620430,WA,Spokane,Liberty Lake,Source1,3,47.66873,-117.1159,2017,17,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-3622096,WA,Spokane,Spokane,Source1,4,47.68488,-117.43534,2017,21,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3622935,WA,Spokane,Liberty Lake,Source1,3,47.66873,-117.1159,2017,14,Thursday,Cloudy,False,False,True,False,False,False,False
+A-3622936,WA,Spokane,Liberty Lake,Source1,3,47.686437,-117.074045,2017,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3637048,WA,Spokane,Spangle,Source1,3,47.425435,-117.389416,2017,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-3637646,WA,Spokane,Spokane,Source1,3,47.762142,-117.389915,2017,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3637821,WA,Spokane,Spokane,Source1,3,47.652652,-117.414609,2017,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-3639501,WA,Spokane,Liberty Lake,Source1,3,47.66873,-117.1159,2017,14,Sunday,Clear / Fair,False,False,True,False,False,False,False
+A-3648867,WA,Spokane,Spokane,Source1,4,47.65764,-117.41117,2017,0,Monday,Clear / Fair,True,True,False,False,False,False,False
+A-3750565,WA,Spokane,Greenacres,Source1,4,47.666637,-117.126236,2022,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3978792,WA,Spokane,Spokane,Source1,4,47.653956,-117.344224,2023,4,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4039662,WA,Spokane,Medical Lake,Source1,4,47.580072,-117.62994,2022,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4167798,WA,Spokane,Medical Lake,Source1,4,47.580072,-117.62994,2022,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4181514,WA,Spokane,Greenacres,Source1,4,47.666637,-117.126236,2022,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4204954,WA,Spokane,Liberty Lake,Source1,4,47.677055,-117.10453400000002,2022,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4337782,WA,Spokane,Spokane,Source1,4,47.686227,-117.411262,2022,8,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4500022,WA,Spokane,Spokane,Source1,4,47.652018,-117.398677,2022,22,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-4543607,WA,Spokane,Medical Lake,Source1,4,47.575221,-117.649016,2022,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4696769,WA,Spokane,Spokane,Source1,4,47.593777,-117.567759,2022,9,Monday,Clear / Fair,False,True,False,False,False,False,False
+A-5224512,WA,Spokane,Spokane,Source1,4,47.681159,-117.282817,2022,10,Tuesday,Cloudy,True,True,False,False,True,False,False
+A-5590593,WA,Spokane,Deer Park,Source1,4,47.952219,-117.486524,2021,3,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-5593201,WA,Spokane,Cheney,Source1,4,47.507513,-117.709161,2021,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-5697022,WA,Spokane,Liberty Lake,Source1,4,47.672647,-117.108513,2021,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6476689,WA,Spokane,Cheney,Source1,4,47.571262,-117.586712,2021,1,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6730843,WA,Spokane,Rockford,Source1,4,47.492812,-117.150467,2020,1,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6803246,WA,Spokane,Rockford,Source1,4,47.478543,-117.147678,2020,1,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6982264,WA,Spokane,Spokane,Source1,4,47.6768,-117.30396,2020,5,Tuesday,Cloudy,True,True,False,False,True,False,False
+A-6982265,WA,Spokane,Spokane,Source1,4,47.67664,-117.30473,2020,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6984785,WA,Spokane,Spokane,Source1,3,47.67184,-117.38098,2020,8,Wednesday,Clear / Fair,True,False,False,False,True,False,False
+A-6994599,WA,Spokane,Veradale,Source1,3,47.6676,-117.1882,2020,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-7007240,WA,Spokane,Spokane,Source1,3,47.67499,-117.40956,2020,19,Friday,Clear / Fair,True,True,False,False,True,False,False
+A-7017961,WA,Spokane,Spokane,Source1,3,47.65731,-117.35759,2020,17,Friday,Clear / Fair,True,True,False,False,True,False,False
+A-7027194,WA,Spokane,Spokane,Source1,3,47.65739,-117.35769,2020,15,Wednesday,Cloudy,True,True,False,False,True,False,False
+A-7029265,WA,Spokane,Spokane,Source1,3,47.6757,-117.30934,2020,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7029366,WA,Spokane,Spokane,Source1,3,47.62093,-117.36857,2020,18,Thursday,Cloudy,True,False,False,False,True,False,False
+A-7031825,WA,Spokane,Spokane,Source1,3,47.675,-117.40956,2020,18,Friday,Cloudy,True,True,False,False,True,False,False
+A-7039206,WA,Spokane,Spokane,Source1,3,47.67166,-117.40954,2020,7,Tuesday,Cloudy,True,True,False,False,True,True,False
+A-7046682,WA,Spokane,Spokane,Source1,3,47.67434,-117.27715,2020,17,Friday,Cloudy,False,False,True,False,False,False,False
+A-7053308,WA,Spokane,Spokane,Source1,4,47.70073,-117.41133,2020,8,Tuesday,Clear / Fair,True,True,False,False,False,False,False
+A-7056065,WA,Spokane,Spokane,Source1,3,47.66437,-117.23975,2020,9,Wednesday,Clear / Fair,True,False,False,False,True,False,False
+A-7056066,WA,Spokane,Spokane,Source1,3,47.66437,-117.23975,2020,9,Wednesday,Clear / Fair,True,False,False,False,True,False,False
+A-7058756,WA,Spokane,Spokane,Source1,4,47.64199,-117.50155,2020,14,Thursday,Cloudy,False,False,False,True,False,False,False
+A-7061597,WA,Spokane,Mead,Source1,4,47.78768,-117.25789,2020,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7061600,WA,Spokane,Mead,Source1,3,47.79252,-117.24987,2020,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7068947,WA,Spokane,Medical Lake,Source1,3,47.64294,-117.64723,2020,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-7078675,WA,Spokane,Spokane Valley,Source1,3,47.70049,-117.19703,2020,7,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-7078677,WA,Spokane,Spokane Valley,Source1,3,47.70049,-117.19703,2020,7,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-7100672,WA,Spokane,Spokane,Source1,3,47.63436,-117.35782,2020,8,Friday,Clear / Fair,False,False,False,False,True,False,False
+A-7102773,WA,Spokane,Spokane,Source1,4,47.73662,-117.41142,2020,21,Saturday,Clear / Fair,True,True,False,False,False,False,False
+A-7102774,WA,Spokane,Spokane,Source1,4,47.72946,-117.41137,2020,21,Saturday,Clear / Fair,True,True,False,False,True,False,False
+A-7117760,WA,Spokane,Spokane,Source1,3,47.675946,-117.308149,2020,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7117761,WA,Spokane,Spokane,Source1,3,47.675946,-117.308149,2020,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7117762,WA,Spokane,Spokane,Source1,3,47.675946,-117.308149,2020,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7120952,WA,Spokane,Spokane,Source1,3,47.65404,-117.36491,2020,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7123751,WA,Spokane,Spokane,Source1,4,47.65456,-117.4112,2020,6,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-7134973,WA,Spokane,Spokane,Source1,3,47.68611,-117.379,2020,6,Tuesday,Cloudy,True,False,False,False,True,False,False
+A-7141278,WA,Spokane,Spokane,Source1,3,47.62841,-117.5367,2020,8,Friday,Cloudy,True,True,False,True,False,False,False
+A-7149703,WA,Spokane,Newman Lake,Source1,4,47.72419,-117.06887,2020,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7149737,WA,Spokane,Fairfield,Source1,3,47.38676,-117.17424,2020,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7149738,WA,Spokane,Fairfield,Source1,3,47.38676,-117.17424,2020,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7149790,WA,Spokane,Liberty Lake,Source1,3,47.67687,-117.10448,2020,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7151768,WA,Spokane,Spokane,Source1,3,47.65715,-117.43248,2020,6,Thursday,Cloudy,False,False,False,True,False,False,False
+A-7154052,WA,Spokane,Spokane,Source1,3,47.65173,-117.36037,2020,7,Friday,Cloudy,True,False,False,False,True,False,False
+A-7174846,WA,Spokane,Spokane Valley,Source1,3,47.68966,-117.24018999999998,2020,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7181181,WA,Spokane,Spokane,Source1,3,47.71544,-117.4337,2020,7,Thursday,Clear / Fair,False,False,False,False,True,False,False
+A-7209442,WA,Spokane,Spokane,Source1,4,47.64293,-117.54997,2020,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7209443,WA,Spokane,Spokane,Source1,4,47.64321,-117.53979,2020,6,Tuesday,Clear / Fair,True,True,False,False,False,False,False
+A-7209453,WA,Spokane,Spokane,Source1,4,47.64293,-117.54997,2020,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7243586,WA,Spokane,Spokane,Source1,3,47.65379,-117.38847,2020,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7250354,WA,Spokane,Spokane,Source1,3,47.67176,-117.20985,2020,9,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7267918,WA,Spokane,Spokane,Source1,3,47.65635,-117.32261,2020,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7270239,WA,Spokane,Spokane Valley,Source1,4,47.67741,-117.23957,2020,9,Thursday,Clear / Fair,True,False,False,False,False,False,False
+A-7270260,WA,Spokane,Spokane,Source1,4,47.66617100000001,-117.41117,2020,13,Thursday,Clear / Fair,False,True,False,False,False,False,False
+A-7309186,WA,Spokane,Spokane,Source1,3,47.66989,-117.20044,2019,6,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7320919,WA,Spokane,Spokane,Source1,4,47.80413,-117.40599,2019,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7350857,WA,Spokane,Medical Lake,Source1,4,47.58393,-117.65584,2019,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7409695,WA,Spokane,Nine Mile Falls,Source1,3,47.73422,-117.50673,2019,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-7412524,WA,Spokane,Spokane,Source1,4,47.64807,-117.44831,2019,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-7422931,WA,Spokane,Spokane,Source1,3,47.65267,-117.411243,2019,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7426720,WA,Spokane,Spokane,Source1,4,47.65714000000001,-117.2398,2019,12,Tuesday,Cloudy,True,True,False,False,True,False,False
+A-7427308,WA,Spokane,Spokane,Source1,3,47.65208300000001,-117.396382,2019,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7434448,WA,Spokane,Spokane,Source1,4,47.57307,-117.22291,2019,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7436066,WA,Spokane,Spokane,Source1,3,47.661104,-117.317795,2019,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7442655,WA,Spokane,Spokane,Source1,3,47.67387,-117.2474,2019,14,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7442659,WA,Spokane,Spokane,Source1,3,47.67387,-117.2474,2019,15,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7442704,WA,Spokane,Nine Mile Falls,Source1,3,47.776297,-117.543768,2019,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7442705,WA,Spokane,Nine Mile Falls,Source1,3,47.777708,-117.5441,2019,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7442706,WA,Spokane,Nine Mile Falls,Source1,3,47.77699000000001,-117.54398,2019,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7442707,WA,Spokane,Nine Mile Falls,Source1,3,47.77699000000001,-117.54398,2019,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7442709,WA,Spokane,Nine Mile Falls,Source1,3,47.77699000000001,-117.54398,2019,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7442710,WA,Spokane,Spokane,Source1,3,47.77597,-117.543632,2019,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7442717,WA,Spokane,Nine Mile Falls,Source1,4,47.77528,-117.54315,2019,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7469863,WA,Spokane,Spangle,Source1,4,47.375166,-117.384628,2019,21,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7469864,WA,Spokane,Spangle,Source1,4,47.424371,-117.389755,2019,21,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7478648,WA,Spokane,Spokane,Source1,4,47.668891,-117.39656,2018,7,Friday,Clear / Fair,False,False,False,False,False,True,False
+A-7483355,WA,Spokane,Spokane,Source1,3,47.674867,-117.258897,2018,6,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-7487619,WA,Spokane,Medical Lake,Source1,4,47.64309,-117.69027,2018,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7487638,WA,Spokane,Medical Lake,Source1,4,47.64309,-117.69027,2018,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7487639,WA,Spokane,Medical Lake,Source1,4,47.64296,-117.669511,2018,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7491537,WA,Spokane,Spokane,Source1,3,47.65383,-117.347144,2018,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7496387,WA,Spokane,Cheney,Source1,3,47.563312,-117.598606,2018,14,Monday,Storm,False,False,False,False,False,False,False
+A-7504183,WA,Spokane,Spokane,Source1,4,47.674112,-117.222958,2018,3,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7514444,WA,Spokane,Spokane,Source1,3,47.69081,-117.41111,2018,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7528508,WA,Spokane,Spokane,Source1,3,47.65202,-117.3989,2018,17,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7536078,WA,Spokane,Spokane,Source1,4,47.65078,-117.43558,2018,8,Friday,Cloudy,False,True,False,False,False,False,False
+A-7536090,WA,Spokane,Spokane,Source1,3,47.651819,-117.433554,2018,8,Friday,Cloudy,False,False,False,False,True,False,False
+A-7539401,WA,Spokane,Spokane,Source1,3,47.593693,-117.562201,2018,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-7543386,WA,Spokane,Cheney,Source1,3,47.440619,-117.784048,2018,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-7545511,WA,Spokane,Spokane,Source1,3,47.64559000000001,-117.45352,2018,16,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7553966,WA,Spokane,Spokane,Source1,3,47.654032,-117.374427,2018,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7561166,WA,Spokane,Spokane,Source1,3,47.653889,-117.373435,2018,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7561625,WA,Spokane,Spokane Valley,Source1,3,47.6945,-117.2185,2018,16,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-7563374,WA,Spokane,Spokane,Source1,4,47.715,-117.387142,2018,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7563375,WA,Spokane,Spokane,Source1,4,47.71498,-117.384694,2018,18,Sunday,Clear / Fair,False,False,False,False,True,False,False
+A-7566601,WA,Spokane,Spokane,Source1,4,47.6935,-117.43642,2018,11,Thursday,Clear / Fair,True,False,False,False,True,False,False
+A-7566602,WA,Spokane,Spokane,Source1,4,47.6935,-117.43642,2018,11,Thursday,Clear / Fair,True,False,False,False,True,False,False
+A-7574492,WA,Spokane,Liberty Lake,Source1,3,47.67033,-117.11211000000002,2018,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7574511,WA,Spokane,Spokane,Source1,3,47.63953,-117.49392,2018,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-7584671,WA,Spokane,Spokane,Source1,4,47.70073,-117.423249,2018,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7584672,WA,Spokane,Spokane,Source1,4,47.70073,-117.4246,2018,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7588494,WA,Spokane,Spangle,Source1,4,47.44167,-117.38517,2018,2,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7590616,WA,Spokane,Spokane,Source1,3,47.67425,-117.2336,2018,16,Thursday,Rain,False,False,False,False,False,False,False
+A-7595662,WA,Spokane,Spokane,Source1,3,47.65396,-117.35447,2018,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7596254,WA,Spokane,Spokane,Source1,3,47.65268,-117.428806,2018,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7598016,WA,Spokane,Spokane,Source1,4,47.65264000000001,-117.41759,2018,12,Wednesday,Clear / Fair,False,False,True,False,True,False,False
+A-7598017,WA,Spokane,Spokane,Source1,4,47.65235,-117.40571,2018,12,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7598021,WA,Spokane,Spokane,Source1,3,47.65235,-117.40571,2018,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7602076,WA,Spokane,Airway Heights,Source1,4,47.64291,-117.584561,2018,17,Tuesday,Cloudy,True,True,False,False,True,False,False
+A-7605521,WA,Spokane,Spokane,Source1,3,47.62893,-117.48758,2018,7,Wednesday,Rain,False,False,True,False,False,False,False
+A-7610464,WA,Spokane,Spokane,Source1,3,47.63563,-117.476639,2018,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-7635465,WA,Spokane,Spokane,Source1,3,47.652602,-117.424445,2018,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-7652402,WA,Spokane,Spokane,Source1,4,47.65192,-117.43375,2017,2,Saturday,Cloudy,False,False,False,False,True,False,False
+A-7653987,WA,Spokane,Spokane,Source1,3,47.643049,-117.459797,2017,9,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-7676091,WA,Spokane,Medical Lake,Source1,4,47.64296,-117.669512,2017,7,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7676092,WA,Spokane,Medical Lake,Source1,4,47.64309,-117.69027,2017,7,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7678721,WA,Spokane,Deer Park,Source1,4,47.95361,-117.48789,2017,21,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7690002,WA,Spokane,Newman Lake,Source1,4,47.725412,-117.066162,2017,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7690003,WA,Spokane,Otis Orchards,Source1,4,47.70912,-117.11195,2017,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7692493,WA,Spokane,Spokane,Source1,4,47.65241,-117.41125,2017,10,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7694190,WA,Spokane,Spokane,Source1,3,47.65202,-117.3989,2017,14,Thursday,Fog / Low visibility,False,False,True,False,False,False,False
+A-7716020,WA,Spokane,Spokane,Source1,3,47.72946,-117.41127,2019,12,Monday,Clear / Fair,True,True,False,False,True,False,False
+A-7717037,WA,Spokane,Spokane Valley,Source1,3,47.694499,-117.218527,2019,9,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-7717055,WA,Spokane,Spokane,Source1,4,47.77237,-117.37802,2019,13,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-7717056,WA,Spokane,Spokane,Source1,4,47.77262,-117.37859,2019,13,Tuesday,Cloudy,True,False,False,True,False,False,False
+A-7718323,WA,Spokane,Spokane,Source1,4,47.68975,-117.23972,2019,19,Sunday,Clear / Fair,True,True,False,False,False,False,False
+A-7718337,WA,Spokane,Spokane,Source1,4,47.68975,-117.23972,2019,20,Sunday,Clear / Fair,True,True,False,False,False,False,False
+A-7722249,WA,Spokane,Spokane,Source1,3,47.73663,-117.41132,2019,7,Monday,Cloudy,True,True,False,False,False,False,False
+A-7728140,WA,Spokane,Spokane,Source1,4,47.64807,-117.44831,2019,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7732535,WA,Spokane,Chattaroy,Source1,3,47.976179,-117.34957,2019,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7738683,WA,Spokane,Spokane Valley,Source1,3,47.693587,-117.230111,2019,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7738684,WA,Spokane,Spokane,Source1,3,47.691864,-117.23465,2019,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7747357,WA,Spokane,Spokane,Source1,3,47.65208,-117.39658,2019,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7766294,WA,Spokane,Colbert,Source1,3,47.860619,-117.42195,2019,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7766295,WA,Spokane,Colbert,Source1,3,47.853169,-117.42188,2019,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7768721,WA,Spokane,Chattaroy,Source1,3,47.90388,-117.35146,2019,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7768723,WA,Spokane,Chattaroy,Source1,3,47.90388,-117.35146,2019,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7768724,WA,Spokane,Chattaroy,Source1,3,47.88934,-117.35377,2019,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7776112,WA,Spokane,Valleyford,Source1,4,47.528995,-117.202894,2019,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7776113,WA,Spokane,Mica,Source1,4,47.53665,-117.21066,2019,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False

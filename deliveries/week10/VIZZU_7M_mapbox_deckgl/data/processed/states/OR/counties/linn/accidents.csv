@@ -1,0 +1,484 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-548060,OR,Linn,Albany,Source2,3,44.669888,-123.057968,2022,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-612530,OR,Linn,Harrisburg,Source2,3,44.280037,-123.060928,2022,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-633167,OR,Linn,Albany,Source2,3,44.63023,-123.06179,2022,17,Friday,Rain,False,False,False,False,False,False,False
+A-663057,OR,Linn,Albany,Source2,3,44.704567,-123.052826,2022,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-663903,OR,Linn,Albany,Source2,3,44.667488,-123.05838,2022,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-694937,OR,Linn,Albany,Source2,3,44.640541,-123.061958,2022,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-770858,OR,Linn,Albany,Source2,3,44.669888,-123.057968,2021,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-771555,OR,Linn,Albany,Source2,3,44.583382,-123.06211100000002,2021,6,Monday,Rain,False,False,False,False,False,False,False
+A-784930,OR,Linn,Halsey,Source2,3,44.389553,-123.061111,2021,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-823367,OR,Linn,Albany,Source2,3,44.64151,-123.062706,2021,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-831195,OR,Linn,Albany,Source3,3,44.706722,-123.052841,2021,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-857850,OR,Linn,Halsey,Source2,3,44.38865300000001,-123.061226,2021,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-907195,OR,Linn,Halsey,Source2,3,44.387669,-123.06147,2021,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-935942,OR,Linn,Harrisburg,Source2,3,44.280594,-123.06073,2021,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-939677,OR,Linn,Halsey,Source2,3,44.38865300000001,-123.061226,2021,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-943611,OR,Linn,Albany,Source2,3,44.704567,-123.052826,2021,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-957642,OR,Linn,Albany,Source2,3,44.629139,-123.06353,2021,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-980004,OR,Linn,Albany,Source2,3,44.555691,-123.061813,2021,7,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-988146,OR,Linn,Albany,Source2,3,44.722622,-123.054321,2021,5,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-996639,OR,Linn,Harrisburg,Source2,4,44.280037,-123.060928,2021,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-1006750,OR,Linn,Halsey,Source2,3,44.38865300000001,-123.061226,2021,15,Sunday,Rain,False,False,False,False,False,False,False
+A-1061923,OR,Linn,Halsey,Source2,3,44.38865300000001,-123.061226,2021,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-1067964,OR,Linn,Brownsville,Source2,3,44.388748,-123.015022,2021,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1080547,OR,Linn,Albany,Source2,3,44.704567,-123.052826,2021,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1082067,OR,Linn,Albany,Source2,3,44.555691,-123.061813,2021,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1101186,OR,Linn,Harrisburg,Source2,3,44.279675,-123.059875,2021,8,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-1130221,OR,Linn,Halsey,Source2,3,44.388626,-123.061226,2021,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-1138389,OR,Linn,Albany,Source2,3,44.555092,-123.008751,2021,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-1167901,OR,Linn,Halsey,Source2,3,44.388626,-123.061226,2021,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1217952,OR,Linn,Albany,Source2,3,44.694599,-123.052429,2020,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1219484,OR,Linn,Lebanon,Source2,3,44.561111,-122.912582,2020,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1221647,OR,Linn,Albany,Source2,3,44.704567,-123.052826,2020,13,Sunday,Rain,False,False,False,False,False,False,False
+A-1230732,OR,Linn,Albany,Source2,3,44.555691,-123.061813,2020,9,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1242341,OR,Linn,Albany,Source2,4,44.555691,-123.061813,2020,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1356722,OR,Linn,Albany,Source2,3,44.694599,-123.052429,2020,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1394503,OR,Linn,Halsey,Source2,3,44.388626,-123.061226,2020,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1394504,OR,Linn,Halsey,Source2,3,44.388626,-123.061226,2020,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1397461,OR,Linn,Albany,Source2,3,44.694599,-123.052429,2020,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1407643,OR,Linn,Harrisburg,Source2,3,44.281631,-123.060387,2020,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1410174,OR,Linn,Albany,Source2,3,44.667488,-123.05838,2020,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1416524,OR,Linn,Albany,Source2,3,44.555691,-123.061813,2020,4,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1438700,OR,Linn,Albany,Source2,3,44.63023,-123.06179,2020,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1443014,OR,Linn,Albany,Source2,3,44.640541,-123.061958,2020,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1475004,OR,Linn,Albany,Source2,3,44.555691,-123.061813,2020,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1479795,OR,Linn,Albany,Source2,3,44.555691,-123.061813,2020,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1489815,OR,Linn,Halsey,Source2,3,44.388626,-123.061226,2020,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1492447,OR,Linn,Albany,Source2,3,44.63023,-123.06179,2020,8,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1504969,OR,Linn,Albany,Source2,3,44.640541,-123.061958,2020,15,Saturday,Rain,False,False,False,False,False,False,False
+A-1506673,OR,Linn,Albany,Source2,3,44.63348,-123.08979,2020,8,Monday,Rain,False,False,False,False,False,False,False
+A-1552543,OR,Linn,Albany,Source2,3,44.628792,-123.061867,2020,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1559088,OR,Linn,Albany,Source2,3,44.555691,-123.061813,2020,8,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1575889,OR,Linn,Albany,Source2,3,44.694599,-123.052429,2020,9,Sunday,Rain,False,False,False,False,False,False,False
+A-1592325,OR,Linn,Albany,Source2,3,44.722607,-123.054138,2020,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1594683,OR,Linn,Harrisburg,Source2,3,44.280121,-123.060928,2020,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1640463,OR,Linn,Harrisburg,Source2,3,44.280121,-123.060928,2020,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1650083,OR,Linn,Albany,Source2,3,44.63023,-123.06179,2020,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-1663595,OR,Linn,Harrisburg,Source3,3,44.280121,-123.060928,2020,5,Sunday,Rain,False,False,False,False,False,False,False
+A-1687141,OR,Linn,Albany,Source2,3,44.555691,-123.061813,2019,5,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1736592,OR,Linn,Halsey,Source2,3,44.38766500000001,-123.061104,2019,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1738978,OR,Linn,Albany,Source2,3,44.555691,-123.061813,2019,7,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1756101,OR,Linn,Harrisburg,Source2,3,44.280121,-123.060928,2019,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1759036,OR,Linn,Albany,Source2,3,44.722607,-123.054138,2019,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1764124,OR,Linn,Albany,Source2,3,44.6469,-123.061874,2019,6,Friday,Sin dato,False,False,False,False,False,False,False
+A-1764129,OR,Linn,Albany,Source3,3,44.640541,-123.061958,2019,16,Friday,Sin dato,False,False,False,False,False,False,False
+A-1773865,OR,Linn,Harrisburg,Source2,3,44.280121,-123.060928,2019,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1834007,OR,Linn,Albany,Source2,3,44.63023,-123.06179,2019,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1866080,OR,Linn,Albany,Source2,3,44.721939,-123.054398,2019,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1872967,OR,Linn,Albany,Source2,3,44.5979,-123.061768,2019,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1886694,OR,Linn,Albany,Source2,3,44.555691,-123.061813,2019,19,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1898025,OR,Linn,Albany,Source2,3,44.644611,-123.062386,2019,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1898026,OR,Linn,Albany,Source2,3,44.63023,-123.06179,2019,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1899520,OR,Linn,Albany,Source2,3,44.722607,-123.054138,2019,15,Sunday,Rain,False,False,False,False,False,False,False
+A-1899521,OR,Linn,Albany,Source2,3,44.63023,-123.06179,2019,15,Sunday,Rain,False,False,False,False,False,False,False
+A-1909455,OR,Linn,Albany,Source2,3,44.63023,-123.06179,2019,6,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1911874,OR,Linn,Tangent,Source2,3,44.54113,-123.061981,2019,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-1911877,OR,Linn,Albany,Source2,3,44.640541,-123.061958,2019,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-1911881,OR,Linn,Albany,Source2,3,44.642494,-123.062355,2019,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1912634,OR,Linn,Albany,Source2,3,44.694599,-123.052429,2019,5,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1912636,OR,Linn,Albany,Source2,3,44.722607,-123.054138,2019,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1915587,OR,Linn,Harrisburg,Source2,3,44.280121,-123.060928,2019,6,Monday,Rain,False,False,False,False,False,False,False
+A-1915593,OR,Linn,Albany,Source2,3,44.704567,-123.052826,2019,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-1931833,OR,Linn,Albany,Source2,3,44.555691,-123.061813,2019,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1954780,OR,Linn,Harrisburg,Source2,3,44.28012800000001,-123.06073,2019,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1973312,OR,Linn,Albany,Source2,3,44.555691,-123.061813,2019,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1988193,OR,Linn,Halsey,Source2,3,44.388626,-123.061226,2019,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2002400,OR,Linn,Albany,Source2,3,44.555691,-123.061813,2019,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-2006024,OR,Linn,Albany,Source2,3,44.704567,-123.052826,2019,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2014822,OR,Linn,Albany,Source2,3,44.694599,-123.052429,2019,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-2016559,OR,Linn,Albany,Source2,3,44.722607,-123.054138,2019,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2029158,OR,Linn,Albany,Source2,3,44.556583,-123.061646,2019,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2039959,OR,Linn,Albany,Source2,3,44.666557,-123.058586,2019,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2040949,OR,Linn,Albany,Source2,3,44.63023,-123.06179,2019,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2052738,OR,Linn,Halsey,Source2,3,44.388626,-123.061226,2019,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2054432,OR,Linn,Albany,Source2,3,44.645496,-123.062332,2019,17,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2076156,OR,Linn,Harrisburg,Source2,3,44.280121,-123.060928,2019,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2078424,OR,Linn,Albany,Source2,3,44.704262,-123.051987,2019,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2101937,OR,Linn,Halsey,Source2,3,44.388626,-123.061226,2019,6,Tuesday,Rain,False,False,False,False,False,False,False
+A-2122814,OR,Linn,Albany,Source2,3,44.556171,-123.062019,2019,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2155479,OR,Linn,Albany,Source2,3,44.629601,-123.056999,2019,5,Monday,Rain,False,False,False,False,False,False,False
+A-2209966,OR,Linn,Albany,Source2,3,44.704464,-123.052612,2019,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-2210948,OR,Linn,Albany,Source2,3,44.662167,-123.059669,2019,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2211639,OR,Linn,Harrisburg,Source2,3,44.279301,-123.060959,2019,6,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2234777,OR,Linn,Albany,Source2,3,44.63028,-123.061874,2019,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-2248941,OR,Linn,Albany,Source2,3,44.62706,-123.062256,2019,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2251010,OR,Linn,Harrisburg,Source2,3,44.279301,-123.060959,2019,7,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2259596,OR,Linn,Albany,Source2,3,44.644432,-123.062805,2019,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-2266132,OR,Linn,Halsey,Source2,3,44.38884,-123.06147,2019,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2266137,OR,Linn,Albany,Source3,3,44.72451,-123.054008,2019,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2266138,OR,Linn,Halsey,Source2,3,44.388359,-123.061317,2019,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2266141,OR,Linn,Albany,Source2,3,44.721268,-123.054237,2019,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2266142,OR,Linn,Albany,Source2,3,44.63028,-123.061874,2019,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2266147,OR,Linn,Albany,Source2,3,44.55584,-123.061821,2019,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2266148,OR,Linn,Albany,Source2,3,44.627144,-123.061859,2019,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2290727,OR,Linn,Albany,Source3,3,44.643288,-123.062767,2019,5,Sunday,Cloudy,False,False,True,False,False,False,False
+A-2290728,OR,Linn,Albany,Source2,3,44.703285,-123.05208600000002,2019,5,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2343932,OR,Linn,Albany,Source3,3,44.55584,-123.061821,2019,7,Thursday,Rain,False,False,False,False,False,False,False
+A-2346353,OR,Linn,Albany,Source2,3,44.662167,-123.059669,2019,16,Friday,Rain,False,False,False,False,False,False,False
+A-2383599,OR,Linn,Albany,Source2,3,44.63028,-123.061874,2018,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2386582,OR,Linn,Harrisburg,Source2,3,44.279301,-123.060959,2018,5,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2396565,OR,Linn,Halsey,Source2,3,44.388359,-123.061317,2018,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2411527,OR,Linn,Albany,Source2,3,44.703999,-123.052193,2018,14,Friday,Rain,False,False,False,False,False,False,False
+A-2464367,OR,Linn,Harrisburg,Source2,3,44.280121,-123.060715,2018,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2473164,OR,Linn,Harrisburg,Source2,3,44.280121,-123.060715,2018,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2487117,OR,Linn,Albany,Source2,3,44.722294,-123.054359,2018,10,Wednesday,Rain,False,False,False,False,False,False,False
+A-2528379,OR,Linn,Albany,Source2,3,44.644737,-123.062378,2018,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2531494,OR,Linn,Albany,Source2,3,44.55574,-123.061615,2018,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2535746,OR,Linn,Harrisburg,Source2,3,44.280121,-123.060715,2018,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2544254,OR,Linn,Halsey,Source2,3,44.387161,-123.061829,2018,22,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2549389,OR,Linn,Albany,Source2,3,44.693787,-123.05217,2018,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2557602,OR,Linn,Albany,Source2,3,44.555748,-123.062019,2018,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-2557604,OR,Linn,Albany,Source2,3,44.693787,-123.05217,2018,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2572748,OR,Linn,Albany,Source2,3,44.630886,-123.06192,2018,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2577852,OR,Linn,Harrisburg,Source2,3,44.280067,-123.06218,2018,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2609661,OR,Linn,Albany,Source2,3,44.55574,-123.061615,2018,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2609662,OR,Linn,Albany,Source2,3,44.55574,-123.061615,2018,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2632076,OR,Linn,Halsey,Source2,3,44.389145,-123.061073,2018,19,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2637061,OR,Linn,Tangent,Source2,3,44.520515,-123.061928,2018,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2655449,OR,Linn,Albany,Source2,3,44.643059,-123.062386,2018,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2676528,OR,Linn,Albany,Source2,3,44.702156,-123.051979,2018,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2686833,OR,Linn,Albany,Source2,3,44.630035,-123.061882,2018,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2688717,OR,Linn,Albany,Source2,3,44.55574,-123.061615,2018,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2688719,OR,Linn,Albany,Source2,3,44.630035,-123.061882,2018,13,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2690952,OR,Linn,Albany,Source2,3,44.722641,-123.053947,2018,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2696929,OR,Linn,Harrisburg,Source2,3,44.280121,-123.060715,2018,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2703595,OR,Linn,Albany,Source2,3,44.665421,-123.059196,2018,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2708656,OR,Linn,Albany,Source2,3,44.693787,-123.05217,2018,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2730538,OR,Linn,Halsey,Source2,3,44.388847,-123.061073,2018,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2741433,OR,Linn,Albany,Source2,3,44.702156,-123.051979,2018,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2751084,OR,Linn,Albany,Source2,3,44.693787,-123.05217,2018,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-2751090,OR,Linn,Albany,Source2,3,44.644737,-123.062378,2018,20,Friday,Rain,False,False,False,False,False,False,False
+A-2759800,OR,Linn,Albany,Source2,3,44.55574,-123.061615,2018,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2766607,OR,Linn,Albany,Source2,3,44.55574,-123.061615,2018,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2768670,OR,Linn,Halsey,Source2,3,44.388847,-123.061073,2018,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2771089,OR,Linn,Albany,Source2,3,44.722641,-123.053947,2018,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2777816,OR,Linn,Albany,Source2,3,44.630035,-123.061882,2018,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-2784224,OR,Linn,Albany,Source2,3,44.697666,-123.052193,2018,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2791304,OR,Linn,Albany,Source2,3,44.642719,-123.062378,2018,17,Friday,Sin dato,False,False,False,False,False,False,False
+A-2820912,OR,Linn,Albany,Source2,3,44.644054,-123.062393,2018,13,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2851736,OR,Linn,Albany,Source2,3,44.630035,-123.061882,2018,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2854179,OR,Linn,Halsey,Source2,3,44.388847,-123.061073,2018,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2871425,OR,Linn,Albany,Source2,3,44.644737,-123.062378,2018,13,Saturday,Rain,False,False,False,False,False,False,False
+A-2872120,OR,Linn,Albany,Source2,3,44.62994000000001,-123.06002,2018,17,Sunday,Cloudy,True,True,False,False,False,False,False
+A-2874499,OR,Linn,Albany,Source2,3,44.630035,-123.061882,2018,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2891578,OR,Linn,Albany,Source2,3,44.630035,-123.061882,2018,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2916581,OR,Linn,Albany,Source2,3,44.645653,-123.060989,2018,14,Sunday,Rain,False,False,False,False,False,False,False
+A-2924850,OR,Linn,Albany,Source2,3,44.630035,-123.061882,2018,6,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2936157,OR,Linn,Albany,Source2,3,44.693787,-123.05217,2018,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-2940155,OR,Linn,Albany,Source2,3,44.55574,-123.061615,2018,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2945637,OR,Linn,Halsey,Source2,3,44.388847,-123.061073,2018,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2960649,OR,Linn,Albany,Source2,3,44.557449,-123.061653,2018,5,Wednesday,Rain,False,False,False,False,False,False,False
+A-2974500,OR,Linn,Albany,Source2,3,44.722641,-123.053947,2018,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2987526,OR,Linn,Albany,Source2,3,44.693787,-123.05217,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2997421,OR,Linn,Harrisburg,Source2,3,44.280121,-123.060715,2018,6,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3000023,OR,Linn,Albany,Source2,3,44.55574,-123.061615,2018,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3050743,OR,Linn,Albany,Source2,3,44.644737,-123.062378,2018,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3071009,OR,Linn,Albany,Source2,3,44.55574,-123.061615,2018,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3089965,OR,Linn,Albany,Source2,3,44.555561,-123.062019,2018,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-3089966,OR,Linn,Blue River,Source2,3,44.39582100000001,-122.141312,2018,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-3114261,OR,Linn,Albany,Source2,3,44.665421,-123.059196,2017,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3114262,OR,Linn,Albany,Source2,3,44.702579,-123.052254,2017,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3117351,OR,Linn,Albany,Source2,3,44.722641,-123.053947,2017,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3117352,OR,Linn,Albany,Source2,3,44.630035,-123.061882,2017,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3121351,OR,Linn,Albany,Source2,3,44.693787,-123.05217,2017,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3121353,OR,Linn,Albany,Source2,3,44.665421,-123.059196,2017,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3130081,OR,Linn,Albany,Source2,3,44.702156,-123.051979,2017,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3132865,OR,Linn,Albany,Source2,3,44.665421,-123.059196,2017,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3139837,OR,Linn,Albany,Source2,3,44.557083,-123.062027,2017,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3139842,OR,Linn,Albany,Source2,3,44.55574,-123.061615,2017,9,Tuesday,Rain,False,False,False,False,False,False,False
+A-3142693,OR,Linn,Albany,Source2,3,44.55574,-123.061615,2017,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3147924,OR,Linn,Harrisburg,Source2,3,44.283253,-123.06115,2017,18,Friday,Rain,False,False,False,False,False,False,False
+A-3157574,OR,Linn,Halsey,Source2,3,44.388847,-123.061073,2017,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3164522,OR,Linn,Halsey,Source2,3,44.388847,-123.061073,2017,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3164532,OR,Linn,Albany,Source2,3,44.605427,-123.062195,2017,14,Thursday,Rain,False,False,False,False,False,False,False
+A-3166933,OR,Linn,Harrisburg,Source2,3,44.291348,-123.060783,2017,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-3170416,OR,Linn,Halsey,Source2,3,44.388847,-123.061073,2017,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-3170417,OR,Linn,Halsey,Source2,3,44.388847,-123.061073,2017,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-3174846,OR,Linn,Halsey,Source2,3,44.388847,-123.061073,2017,10,Wednesday,Rain,False,False,False,False,False,False,False
+A-3177352,OR,Linn,Harrisburg,Source2,3,44.280121,-123.060715,2017,5,Thursday,Rain,False,False,False,False,False,False,False
+A-3179650,OR,Linn,Albany,Source2,3,44.555832,-123.062019,2017,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-3180413,OR,Linn,Albany,Source2,3,44.644737,-123.062378,2017,12,Saturday,Rain,False,False,False,False,False,False,False
+A-3183128,OR,Linn,Halsey,Source2,3,44.388847,-123.061073,2017,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-3187791,OR,Linn,Albany,Source2,3,44.630035,-123.061882,2017,10,Wednesday,Rain,False,False,False,False,False,False,False
+A-3187792,OR,Linn,Albany,Source2,3,44.702156,-123.051979,2017,10,Wednesday,Rain,False,False,False,False,False,False,False
+A-3190251,OR,Linn,Albany,Source2,3,44.701908,-123.051949,2017,11,Thursday,Rain,False,False,False,False,False,False,False
+A-3192388,OR,Linn,Harrisburg,Source2,3,44.280121,-123.060715,2017,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-3193388,OR,Linn,Albany,Source2,3,44.55574,-123.061615,2017,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3193389,OR,Linn,Albany,Source2,3,44.555645,-123.061615,2017,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3199210,OR,Linn,Albany,Source2,3,44.643555,-123.062393,2017,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-3202010,OR,Linn,Albany,Source2,3,44.665421,-123.059196,2017,19,Wednesday,Rain,False,False,False,False,False,False,False
+A-3203524,OR,Linn,Albany,Source2,3,44.665421,-123.059196,2017,11,Thursday,Rain,False,False,False,False,False,False,False
+A-3205325,OR,Linn,Albany,Source2,3,44.55574,-123.061615,2017,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-3205988,OR,Linn,Albany,Source2,3,44.702156,-123.051979,2017,11,Saturday,Rain,False,False,False,False,False,False,False
+A-3206670,OR,Linn,Albany,Source2,3,44.643414,-123.062775,2017,13,Sunday,Rain,False,False,True,False,False,False,False
+A-3259067,OR,Linn,Albany,Source2,3,44.693787,-123.05217,2017,14,Friday,Rain,False,False,False,False,False,False,False
+A-3259076,OR,Linn,Albany,Source2,3,44.702156,-123.051979,2017,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-3268059,OR,Linn,Albany,Source2,3,44.630035,-123.061882,2017,7,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3281883,OR,Linn,Albany,Source2,4,44.630035,-123.061882,2017,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3283337,OR,Linn,Albany,Source2,3,44.630035,-123.061882,2017,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3284855,OR,Linn,Halsey,Source2,3,44.388847,-123.061073,2017,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3284857,OR,Linn,Albany,Source2,3,44.55574,-123.061615,2017,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3290577,OR,Linn,Albany,Source2,3,44.665421,-123.059196,2017,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3298002,OR,Linn,Albany,Source2,3,44.644737,-123.062378,2017,17,Sunday,Sin dato,False,False,False,False,False,False,False
+A-3318948,OR,Linn,Albany,Source2,3,44.722641,-123.053947,2017,5,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-3318955,OR,Linn,Albany,Source2,3,44.722641,-123.053947,2017,11,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-3321928,OR,Linn,Albany,Source2,3,44.693787,-123.05217,2017,15,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-3321929,OR,Linn,Albany,Source2,3,44.65057,-123.061531,2017,15,Wednesday,Sin dato,False,False,False,False,False,False,False
+A-3347237,OR,Linn,Albany,Source2,3,44.692532,-123.052628,2017,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3347239,OR,Linn,Albany,Source2,3,44.570633,-123.061699,2017,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3350278,OR,Linn,Halsey,Source2,3,44.388847,-123.061073,2017,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3358443,OR,Linn,Albany,Source2,3,44.701736,-123.052155,2017,11,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3364919,OR,Linn,Albany,Source2,3,44.702156,-123.051979,2017,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3387585,OR,Linn,Albany,Source2,3,44.630035,-123.061882,2017,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3391452,OR,Linn,Halsey,Source2,3,44.382645,-123.06147,2017,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3391459,OR,Linn,Halsey,Source2,3,44.388847,-123.061073,2017,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3394301,OR,Linn,Albany,Source2,3,44.693787,-123.05217,2017,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3402889,OR,Linn,Albany,Source2,3,44.725296,-123.053696,2017,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3403775,OR,Linn,Albany,Source2,3,44.630623,-123.062309,2017,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3528514,OR,Linn,Albany,Source1,3,44.621727,-123.06185,2016,4,Tuesday,Sin dato,False,False,False,False,False,False,False
+A-3531395,OR,Linn,Lyons,Source1,4,44.774124,-122.628412,2017,0,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3531396,OR,Linn,Lyons,Source1,4,44.773857,-122.637065,2017,0,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3537069,OR,Linn,Albany,Source1,4,44.56405,-123.19953999999998,2016,6,Friday,Sin dato,False,False,False,False,False,False,False
+A-3546097,OR,Linn,Sweet Home,Source1,4,44.420276,-122.771175,2016,3,Saturday,Sin dato,False,False,False,False,False,False,False
+A-3546890,OR,Linn,Albany,Source1,3,44.62969,-123.05773,2016,14,Thursday,Sin dato,False,False,False,False,False,False,False
+A-3548773,OR,Linn,Halsey,Source1,4,44.39222,-123.06149,2016,19,Thursday,Sin dato,False,False,True,False,False,False,False
+A-3552955,OR,Linn,Tangent,Source1,3,44.55444,-123.11007,2016,4,Thursday,Sin dato,True,True,False,False,False,False,False
+A-3552957,OR,Linn,Tangent,Source1,3,44.554518,-123.11007,2016,4,Thursday,Sin dato,True,True,False,False,False,False,False
+A-3589908,OR,Linn,Blue River,Source1,4,44.428749,-121.921911,2017,19,Saturday,Rain,False,False,False,False,False,False,False
+A-3608683,OR,Linn,Albany,Source1,4,44.56405,-123.19953999999998,2017,0,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3608684,OR,Linn,Albany,Source1,4,44.56405,-123.19953999999998,2017,1,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3620053,OR,Linn,Albany,Source1,4,44.63354,-123.08275,2017,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3620054,OR,Linn,Albany,Source1,4,44.63341,-123.07991,2017,8,Monday,Clear / Fair,True,True,False,False,False,False,False
+A-3620989,OR,Linn,Blue River,Source1,4,44.43655,-121.93893,2017,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-3620990,OR,Linn,Blue River,Source1,4,44.43655,-121.93893,2017,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-3637967,OR,Linn,Blue River,Source1,4,44.43623,-121.94358,2017,22,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3648144,OR,Linn,Albany,Source1,4,44.6309,-123.06233,2017,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3649089,OR,Linn,Foster,Source1,4,44.400639,-122.58951,2017,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3649090,OR,Linn,Foster,Source1,4,44.401597,-122.582103,2017,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3649121,OR,Linn,Foster,Source1,4,44.401597,-122.582103,2017,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3649677,OR,Linn,Sweet Home,Source1,4,44.40921,-122.66123,2017,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3649678,OR,Linn,Foster,Source1,4,44.413032,-122.625537,2017,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3652609,OR,Linn,Blue River,Source1,4,44.420996,-121.866307,2023,18,Thursday,Rain,False,False,False,False,False,False,False
+A-3655813,OR,Linn,Blue River,Source1,4,44.428697,-121.921676,2023,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3661736,OR,Linn,Blue River,Source1,4,44.429053,-121.912892,2023,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3679002,OR,Linn,Blue River,Source1,4,44.436267,-121.937519,2023,23,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3682470,OR,Linn,Blue River,Source1,4,44.434502,-121.92908,2023,23,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3726172,OR,Linn,Blue River,Source1,4,44.42908,-121.912398,2022,14,Monday,Rain,False,False,False,False,False,False,False
+A-3736879,OR,Linn,Albany,Source1,4,44.712449,-123.022663,2022,23,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3780354,OR,Linn,Albany,Source1,4,44.66954112031617,-123.05804371775122,2022,2,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3786782,OR,Linn,Blue River,Source1,4,44.392093,-122.215335,2022,12,Thursday,Rain,False,False,False,False,False,False,False
+A-3799701,OR,Linn,Blue River,Source1,4,44.431112,-121.87663899999998,2023,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3864574,OR,Linn,Blue River,Source1,4,44.421556,-121.861844,2022,14,Monday,Rain,False,False,False,False,False,False,False
+A-3932701,OR,Linn,Albany,Source1,4,44.629317,-122.95036100000002,2022,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3987488,OR,Linn,Albany,Source1,4,44.555754,-123.062581,2022,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3994499,OR,Linn,Blue River,Source1,4,44.429922,-121.886532,2022,14,Monday,Rain,False,False,False,False,False,False,False
+A-4004396,OR,Linn,Lebanon,Source1,4,44.503365,-122.86466,2022,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4006675,OR,Linn,Blue River,Source1,4,44.42913400000001,-121.891373,2022,14,Monday,Rain,False,False,False,False,False,False,False
+A-4108238,OR,Linn,Corvallis,Source1,4,44.56392,-123.243429,2022,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-4165265,OR,Linn,Blue River,Source1,4,44.42913400000001,-121.891373,2023,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4189258,OR,Linn,Lebanon,Source1,4,44.524789,-122.907083,2022,21,Thursday,Clear / Fair,False,True,False,False,False,False,False
+A-4212411,OR,Linn,Blue River,Source1,4,44.42264914491452,-121.85501933039734,2022,14,Monday,Rain,False,False,False,False,False,False,False
+A-4242696,OR,Linn,Foster,Source1,4,44.408714,-122.639135,2022,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-4295698,OR,Linn,Albany,Source1,4,44.629636,-122.982239,2023,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4313667,OR,Linn,Blue River,Source1,4,44.497531,-122.003657,2023,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4355345,OR,Linn,Albany,Source1,4,44.629647,-122.987131,2023,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4424376,OR,Linn,Blue River,Source1,4,44.421556,-121.861844,2022,14,Monday,Rain,False,False,False,False,False,False,False
+A-4494004,OR,Linn,Blue River,Source1,4,44.48585900000001,-121.999841,2023,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-4565549,OR,Linn,Blue River,Source1,4,44.421376,-121.863306,2022,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4586768,OR,Linn,Halsey,Source1,4,44.418105,-123.110381,2022,0,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-4631432,OR,Linn,Blue River,Source1,4,44.356877,-121.994908,2022,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4656736,OR,Linn,Blue River,Source1,4,44.310821,-122.00923,2022,12,Thursday,Rain,False,False,False,False,False,False,False
+A-4665976,OR,Linn,Corvallis,Source1,4,44.56393900000001,-123.245134,2022,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-4702211,OR,Linn,Lebanon,Source1,4,44.631866,-122.870584,2023,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4708132,OR,Linn,Lebanon,Source1,4,44.502936,-122.86297,2022,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4716245,OR,Linn,Blue River,Source1,4,44.44856400000001,-121.971747,2023,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-4778215,OR,Linn,Blue River,Source1,4,44.403408,-122.372163,2023,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4786262,OR,Linn,Stayton,Source1,4,44.758391,-122.666964,2022,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4800061,OR,Linn,Albany,Source1,4,44.710544,-123.028785,2022,23,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4839804,OR,Linn,Blue River,Source1,4,44.391811,-122.214962,2022,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4915650,OR,Linn,Shedd,Source1,4,44.42537700000001,-123.110347,2022,0,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5001791,OR,Linn,Blue River,Source1,4,44.317876,-122.002433,2022,12,Thursday,Rain,False,False,False,False,False,False,False
+A-5007058,OR,Linn,Foster,Source1,4,44.409219,-122.638418,2022,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-5060501,OR,Linn,Albany,Source1,4,44.72357154,-123.05383801,2022,0,Friday,Cloudy,False,False,False,False,False,False,False
+A-5077171,OR,Linn,Albany,Source1,4,44.559896,-123.061665,2022,7,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-5087335,OR,Linn,Blue River,Source1,4,44.446557,-121.970616,2023,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-5132913,OR,Linn,Blue River,Source1,4,44.369138,-122.000703,2022,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5164942,OR,Linn,Stayton,Source1,4,44.759121,-122.667357,2022,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5169026,OR,Linn,Blue River,Source1,4,44.427898,-121.876417,2023,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5323191,OR,Linn,Blue River,Source1,4,44.421556,-121.861844,2022,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5339518,OR,Linn,Blue River,Source1,4,44.404106,-122.374127,2023,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5351263,OR,Linn,Albany,Source1,4,44.630358,-122.92856,2022,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5692341,OR,Linn,Harrisburg,Source1,4,44.283775090960106,-123.06113362253636,2021,9,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6081004,OR,Linn,Sweet Home,Source1,4,44.38868164995007,-122.7635157102453,2021,20,Wednesday,Rain,False,False,False,False,False,False,False
+A-6316310,OR,Linn,Harrisburg,Source1,4,44.2764365670954,-123.0607259267661,2021,6,Friday,Fog / Low visibility,False,False,True,False,False,False,False
+A-6351093,OR,Linn,Sweet Home,Source1,4,44.385765,-122.76351,2021,3,Monday,Rain,False,False,False,False,False,False,False
+A-6402765,OR,Linn,Lebanon,Source1,4,44.585302,-122.922663,2021,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6412639,OR,Linn,Blue River,Source1,4,44.267601,-122.044244,2021,0,Wednesday,Rain,False,False,False,False,False,False,False
+A-6493616,OR,Linn,Scio,Source1,4,44.726793,-122.698953,2021,0,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6586672,OR,Linn,Blue River,Source1,4,44.420645,-122.00158,2020,18,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6652103,OR,Linn,Lyons,Source1,4,44.769751,-122.66157,2020,21,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6662992,OR,Linn,Blue River,Source1,4,44.525526,-121.994333,2020,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-6666485,OR,Linn,Blue River,Source1,4,44.382203,-122.004698,2020,8,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6666624,OR,Linn,Sweet Home,Source1,3,44.42391,-122.77468,2020,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6681835,OR,Linn,Blue River,Source1,4,44.525526,-121.994333,2020,14,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6687416,OR,Linn,Lyons,Source1,4,44.770714,-122.650648,2020,0,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6689601,OR,Linn,Idanha,Source1,4,44.613473,-121.949743,2020,15,Friday,Rain,False,False,False,True,False,False,False
+A-6747692,OR,Linn,Blue River,Source1,4,44.43750900000001,-121.943296,2020,6,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6747693,OR,Linn,Blue River,Source1,4,44.43750900000001,-121.943296,2020,23,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6747694,OR,Linn,Blue River,Source1,4,44.43750900000001,-121.943296,2020,14,Thursday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6781943,OR,Linn,Blue River,Source1,4,44.43750900000001,-121.943296,2020,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-6807512,OR,Linn,Blue River,Source1,4,44.420645,-122.00158,2020,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6807513,OR,Linn,Blue River,Source1,4,44.420645,-122.00158,2020,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6807515,OR,Linn,Blue River,Source1,4,44.420645,-122.00158,2020,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6814009,OR,Linn,Blue River,Source1,4,44.355997,-121.995075,2020,3,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6814010,OR,Linn,Blue River,Source1,4,44.40024,-122.002457,2020,3,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6831728,OR,Linn,Stayton,Source1,4,44.767612,-122.664195,2020,0,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6855207,OR,Linn,Blue River,Source1,4,44.43750900000001,-121.943296,2020,23,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6867676,OR,Linn,Blue River,Source1,4,44.420645,-122.00158,2020,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6885814,OR,Linn,Lyons,Source1,4,44.770714,-122.650648,2020,0,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6904149,OR,Linn,Blue River,Source1,4,44.43750900000001,-121.943296,2020,6,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6908047,OR,Linn,Blue River,Source1,4,44.525526,-121.994333,2020,14,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6921411,OR,Linn,Blue River,Source1,4,44.420645,-122.00158,2020,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6923158,OR,Linn,Blue River,Source1,4,44.355997,-121.995075,2020,3,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6927844,OR,Linn,Stayton,Source1,4,44.767612,-122.664195,2020,0,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6952841,OR,Linn,Blue River,Source1,4,44.525526,-121.994333,2020,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-6958268,OR,Linn,Idanha,Source1,4,44.613473,-121.949743,2020,15,Friday,Rain,False,False,False,True,False,False,False
+A-6978434,OR,Linn,Idanha,Source1,3,44.66007000000001,-121.95458,2020,1,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7017880,OR,Linn,Blue River,Source1,4,44.42131,-122.00164,2020,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7039272,OR,Linn,Harrisburg,Source1,3,44.2906,-123.15293,2020,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7070418,OR,Linn,Albany,Source1,3,44.62878,-123.06226,2020,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7145782,OR,Linn,Blue River,Source1,3,44.42469000000001,-121.8457,2020,10,Monday,Rain,False,False,False,False,False,False,False
+A-7147717,OR,Linn,Blue River,Source1,3,44.42115,-122.00194,2020,6,Tuesday,Rain,False,False,False,False,False,False,False
+A-7147834,OR,Linn,Albany,Source1,3,44.64152,-123.06271,2020,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7171344,OR,Linn,Albany,Source1,3,44.62605,-123.06186,2020,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7209461,OR,Linn,Albany,Source1,3,44.62974000000001,-123.03255,2020,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7216932,OR,Linn,Blue River,Source1,3,44.36517,-121.99798,2020,21,Friday,Rain,False,False,False,False,False,False,False
+A-7218278,OR,Linn,Albany,Source1,3,44.62841,-123.10563,2020,18,Saturday,Rain,True,True,False,False,False,False,False
+A-7220543,OR,Linn,Blue River,Source1,3,44.55458,-121.99469,2020,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-7220564,OR,Linn,Blue River,Source1,3,44.55844,-121.99748,2020,14,Monday,Rain,False,False,False,False,False,False,False
+A-7220641,OR,Linn,Blue River,Source1,3,44.39618,-122.2231,2020,18,Monday,Rain,False,False,False,False,False,False,False
+A-7222289,OR,Linn,Idanha,Source1,3,44.66644,-121.95757,2020,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7222299,OR,Linn,Idanha,Source1,4,44.61473,-121.94816000000002,2020,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7223696,OR,Linn,Blue River,Source1,3,44.31717,-122.00346,2020,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7225173,OR,Linn,Blue River,Source1,4,44.38725,-122.20357,2020,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7225200,OR,Linn,Albany,Source1,3,44.56601,-123.15984,2020,15,Thursday,Clear / Fair,False,True,False,False,False,False,True
+A-7227170,OR,Linn,Albany,Source1,3,44.5556,-123.04491000000002,2020,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-7236044,OR,Linn,Scio,Source1,3,44.71508,-122.74646,2020,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-7265294,OR,Linn,Idanha,Source1,3,44.66007000000001,-121.95458,2020,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7279770,OR,Linn,Albany,Source1,3,44.63213,-123.07323,2020,18,Wednesday,Rain,True,True,False,False,False,False,False
+A-7281770,OR,Linn,Tangent,Source1,3,44.53989,-123.06198,2020,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-7281773,OR,Linn,Albany,Source1,4,44.55955,-123.06203,2020,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-7281775,OR,Linn,Albany,Source1,4,44.55955,-123.06203,2020,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-7302161,OR,Linn,Harrisburg,Source1,3,44.27954,-123.06113,2019,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-7322856,OR,Linn,Albany,Source1,3,44.72672,-123.05355,2019,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-7363482,OR,Linn,Scio,Source1,3,44.71292,-122.71744,2019,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7363484,OR,Linn,Scio,Source1,4,44.71291,-122.71842,2019,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7363485,OR,Linn,Scio,Source1,4,44.71291,-122.71845,2019,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7363511,OR,Linn,Scio,Source1,4,44.71291,-122.71842,2019,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7380671,OR,Linn,Albany,Source1,4,44.55578,-123.06009,2019,3,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-7382262,OR,Linn,Foster,Source1,3,44.39901,-122.53942,2019,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-7382263,OR,Linn,Foster,Source1,3,44.40071,-122.54328999999998,2019,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-7382267,OR,Linn,Foster,Source1,3,44.40071,-122.54328999999998,2019,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-7384131,OR,Linn,Foster,Source1,3,44.4076,-122.60552,2019,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7392990,OR,Linn,Albany,Source1,4,44.63028900000001,-123.063765,2019,16,Saturday,Clear / Fair,True,True,False,False,False,False,False
+A-7392991,OR,Linn,Albany,Source1,4,44.629931,-123.060146,2019,17,Saturday,Cloudy,True,True,False,False,False,False,False
+A-7392998,OR,Linn,Albany,Source1,4,44.63028900000001,-123.063765,2019,17,Saturday,Cloudy,True,True,False,False,False,False,False
+A-7400169,OR,Linn,Halsey,Source1,3,44.39222,-123.06149,2019,13,Friday,Cloudy,False,False,True,False,False,False,False
+A-7417654,OR,Linn,Albany,Source1,4,44.62964,-122.987823,2019,2,Friday,Cloudy,False,False,False,False,False,False,False
+A-7417655,OR,Linn,Albany,Source1,4,44.62963,-122.982343,2019,2,Friday,Cloudy,False,False,False,False,False,False,False
+A-7417708,OR,Linn,Tangent,Source1,3,44.543431,-123.06199,2019,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-7422996,OR,Linn,Lebanon,Source1,3,44.557972,-122.911447,2019,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7424223,OR,Linn,Albany,Source1,3,44.696522,-123.05198,2019,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7445915,OR,Linn,Blue River,Source1,3,44.426256,-121.877935,2019,12,Tuesday,Rain,False,False,False,False,False,False,False
+A-7447304,OR,Linn,Blue River,Source1,3,44.431228,-121.878511,2019,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7449322,OR,Linn,Albany,Source1,3,44.704373,-123.048661,2019,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7452678,OR,Linn,Blue River,Source1,3,44.426256,-121.877935,2019,12,Sunday,Rain,False,False,False,False,False,False,False
+A-7452681,OR,Linn,Blue River,Source1,3,44.421032,-121.866106,2019,13,Sunday,Rain,False,False,False,False,False,False,False
+A-7453261,OR,Linn,Blue River,Source1,3,44.426256,-121.877935,2019,1,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-7453263,OR,Linn,Blue River,Source1,3,44.426256,-121.877935,2019,1,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-7453282,OR,Linn,Blue River,Source1,3,44.426256,-121.877935,2019,1,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-7453313,OR,Linn,Blue River,Source1,4,44.429117,-121.911082,2019,3,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-7453317,OR,Linn,Foster,Source1,3,44.397165,-122.534049,2019,3,Monday,Sin dato,False,False,False,False,False,False,False
+A-7453342,OR,Linn,Blue River,Source1,4,44.429117,-121.911082,2019,5,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-7453555,OR,Linn,Foster,Source1,3,44.397165,-122.534049,2019,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-7453873,OR,Linn,Blue River,Source1,4,44.42131,-122.00164,2019,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-7454436,OR,Linn,Blue River,Source1,4,44.398492,-122.261418,2019,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7454472,OR,Linn,Blue River,Source1,4,44.402532,-122.272161,2019,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7454639,OR,Linn,Blue River,Source1,3,44.426256,-121.877935,2019,19,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-7454653,OR,Linn,Blue River,Source1,3,44.426256,-121.877935,2019,19,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-7454677,OR,Linn,Blue River,Source1,3,44.426256,-121.877935,2019,19,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-7455262,OR,Linn,Blue River,Source1,3,44.431156,-121.877159,2019,5,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7455270,OR,Linn,Blue River,Source1,3,44.41962,-121.870511,2019,5,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7455271,OR,Linn,Blue River,Source1,3,44.41962,-121.870511,2019,5,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7455286,OR,Linn,Blue River,Source1,3,44.43317800000001,-121.9556,2019,6,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7455296,OR,Linn,Blue River,Source1,4,44.43623,-121.94358,2019,6,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7455385,OR,Linn,Blue River,Source1,4,44.432967,-121.958075,2019,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7455421,OR,Linn,Blue River,Source1,4,44.423272,-121.852067,2019,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7455444,OR,Linn,Foster,Source1,4,44.398892,-122.538741,2019,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7457916,OR,Linn,Stayton,Source1,4,44.770694,-122.652009,2019,21,Saturday,Rain,False,False,False,False,False,False,False
+A-7477520,OR,Linn,Blue River,Source1,3,44.421913,-121.859001,2018,3,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7477527,OR,Linn,Albany,Source1,4,44.555082,-123.06164,2018,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7479364,OR,Linn,Blue River,Source1,3,44.41444600000001,-122.032802,2018,17,Saturday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7486776,OR,Linn,Foster,Source1,3,44.390031,-122.502896,2018,7,Tuesday,Rain,False,False,False,False,False,False,False
+A-7486905,OR,Linn,Albany,Source1,3,44.632342,-123.099973,2018,18,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7488158,OR,Linn,Harrisburg,Source1,3,44.28381,-123.06113,2018,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7488161,OR,Linn,Harrisburg,Source1,3,44.28381,-123.06113,2018,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7504549,OR,Linn,Lebanon,Source1,3,44.496188,-122.845173,2018,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7505122,OR,Linn,Blue River,Source1,3,44.414556,-122.033976,2018,8,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7510073,OR,Linn,Tangent,Source1,4,44.55421,-123.11007,2018,11,Tuesday,Cloudy,False,True,False,False,False,False,False
+A-7510087,OR,Linn,Tangent,Source1,4,44.55421,-123.11007,2018,12,Tuesday,Cloudy,False,True,False,False,False,False,False
+A-7515099,OR,Linn,Harrisburg,Source1,4,44.268166,-123.17095,2018,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-7520417,OR,Linn,Lebanon,Source1,3,44.58689,-122.92425,2018,14,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-7521913,OR,Linn,Albany,Source1,3,44.630111,-123.06192,2018,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7521919,OR,Linn,Albany,Source1,3,44.630111,-123.06192,2018,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7526981,OR,Linn,Blue River,Source1,3,44.426256,-121.877935,2018,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7529917,OR,Linn,Albany,Source1,4,44.63933,-123.106632,2018,16,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7536750,OR,Linn,Blue River,Source1,3,44.431228,-121.878511,2018,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7546939,OR,Linn,Albany,Source1,4,44.66928,-123.05807,2018,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7547174,OR,Linn,Idanha,Source1,4,44.573916,-121.992322,2018,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7549650,OR,Linn,Lyons,Source1,3,44.775891,-122.61622,2018,23,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7566103,OR,Linn,Albany,Source1,4,44.62992,-122.95273,2018,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7566104,OR,Linn,Albany,Source1,4,44.629621,-122.98032,2018,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7584744,OR,Linn,Blue River,Source1,4,44.390886,-122.214512,2018,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7584745,OR,Linn,Blue River,Source1,4,44.390886,-122.214512,2018,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7606070,OR,Linn,Blue River,Source1,4,44.420973,-121.866594,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7606072,OR,Linn,Blue River,Source1,4,44.429117,-121.911082,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7616002,OR,Linn,Scio,Source1,4,44.726826,-122.698854,2018,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7616003,OR,Linn,Scio,Source1,4,44.727459,-122.697451,2018,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7643749,OR,Linn,Lyons,Source1,4,44.742468,-122.678659,2017,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7643750,OR,Linn,Scio,Source1,4,44.769612,-122.662033,2017,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7649020,OR,Linn,Idanha,Source1,4,44.658562,-121.954047,2017,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7649021,OR,Linn,Idanha,Source1,4,44.666127,-121.957472,2017,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7650345,OR,Linn,Albany,Source1,4,44.625602,-123.06225,2017,3,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7674099,OR,Linn,Blue River,Source1,4,44.43655,-121.93893,2017,9,Friday,Rain,False,False,False,False,False,False,False
+A-7678106,OR,Linn,Albany,Source1,3,44.669349,-123.058472,2017,1,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7678107,OR,Linn,Albany,Source1,4,44.590426,-123.06177,2017,0,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7678108,OR,Linn,Albany,Source1,4,44.635092,-123.062089,2017,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7678109,OR,Linn,Albany,Source1,4,44.63011,-123.06192,2017,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7689457,OR,Linn,Albany,Source1,4,44.63114,-123.1036,2017,7,Monday,Clear / Fair,False,True,False,False,False,False,False
+A-7689458,OR,Linn,Albany,Source1,4,44.631487,-123.10304,2017,7,Monday,Clear / Fair,False,True,False,False,False,False,False
+A-7690007,OR,Linn,Sweet Home,Source1,4,44.39950200000001,-122.719391,2017,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7690008,OR,Linn,Sweet Home,Source1,4,44.398985,-122.722321,2017,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7705464,OR,Linn,Albany,Source1,4,44.62935,-123.047494,2019,6,Monday,Rain,False,False,False,False,False,False,False
+A-7705465,OR,Linn,Albany,Source1,4,44.6297,-123.03418700000002,2019,6,Monday,Rain,False,False,False,False,False,False,False
+A-7706236,OR,Linn,Corvallis,Source1,3,44.565051,-123.254696,2019,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7706262,OR,Linn,Corvallis,Source1,4,44.5639,-123.242211,2019,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7706263,OR,Linn,Corvallis,Source1,4,44.565231,-123.255476,2019,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7706889,OR,Linn,Corvallis,Source1,4,44.56407,-123.207954,2019,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7708372,OR,Linn,Corvallis,Source1,4,44.56439,-123.25241,2019,6,Friday,Cloudy,False,True,False,False,False,False,False
+A-7708716,OR,Linn,Corvallis,Source1,4,44.56408,-123.25265,2019,4,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7708774,OR,Linn,Corvallis,Source1,4,44.56346,-123.253171,2019,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7708790,OR,Linn,Corvallis,Source1,4,44.56346,-123.253171,2019,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7708811,OR,Linn,Corvallis,Source1,4,44.56346,-123.253171,2019,21,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7708980,OR,Linn,Corvallis,Source1,4,44.56346,-123.253171,2019,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7715643,OR,Linn,Albany,Source1,3,44.6309,-123.06233,2019,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7718711,OR,Linn,Albany,Source1,3,44.566003,-123.159712,2019,8,Monday,Clear / Fair,False,True,False,False,False,False,True
+A-7719289,OR,Linn,Albany,Source1,3,44.6393,-123.06224,2019,23,Monday,Cloudy,False,False,True,False,False,False,False
+A-7719375,OR,Linn,Albany,Source1,3,44.646103,-123.06228,2019,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7735698,OR,Linn,Albany,Source1,3,44.625641,-123.06186,2019,6,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7738673,OR,Linn,Shedd,Source1,3,44.398354,-123.06114,2019,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7743626,OR,Linn,Albany,Source1,3,44.610143,-122.937151,2019,17,Wednesday,Rain,False,False,False,False,False,False,False
+A-7755452,OR,Linn,Harrisburg,Source1,3,44.290032,-123.06079,2019,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7760644,OR,Linn,Lebanon,Source1,3,44.52683,-122.90708,2019,9,Thursday,Cloudy,True,True,False,False,False,False,False
+A-7767523,OR,Linn,Harrisburg,Source1,3,44.273861,-123.17095,2019,19,Thursday,Clear / Fair,True,False,False,False,False,False,False

@@ -1,0 +1,592 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-195679,NH,Rockingham,Salem,Source2,3,42.76149,-71.23335300000002,2016,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-195816,NH,Rockingham,Salem,Source2,3,42.76149,-71.23335300000002,2016,4,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-195840,NH,Rockingham,Salem,Source2,3,42.76149,-71.23335300000002,2016,5,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-196670,NH,Rockingham,Salem,Source2,3,42.76149,-71.23335300000002,2016,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-196729,NH,Rockingham,Salem,Source2,3,42.747078,-71.213409,2016,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-197704,NH,Rockingham,Salem,Source2,3,42.760132,-71.23195600000003,2016,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-199668,NH,Rockingham,Salem,Source2,3,42.759624,-71.232414,2017,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-200286,NH,Rockingham,Salem,Source2,3,42.778831,-71.245552,2017,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-205034,NH,Rockingham,Salem,Source2,3,42.777596,-71.244461,2016,7,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-205789,NH,Rockingham,Salem,Source2,3,42.777596,-71.244461,2016,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-206508,NH,Rockingham,Salem,Source2,3,42.76149,-71.23335300000002,2016,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-208746,NH,Rockingham,Salem,Source2,3,42.76149,-71.23335300000002,2016,13,Monday,Rain,False,False,False,False,False,False,False
+A-208811,NH,Rockingham,Salem,Source2,3,42.76149,-71.23335300000002,2016,7,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-209194,NH,Rockingham,Salem,Source2,3,42.777596,-71.244461,2016,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-220168,NH,Rockingham,Salem,Source2,3,42.760101,-71.23307,2016,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-327326,NH,Rockingham,Salem,Source2,3,42.777596,-71.244461,2017,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-327630,NH,Rockingham,Salem,Source2,3,42.777596,-71.244461,2017,19,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-370278,NH,Rockingham,Salem,Source2,3,42.76149,-71.23335300000002,2017,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-372009,NH,Rockingham,Salem,Source2,3,42.76149,-71.23335300000002,2017,8,Sunday,Cloudy,False,False,False,False,False,False,False
+A-376407,NH,Rockingham,Salem,Source2,3,42.76149,-71.23335300000002,2017,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-422094,NH,Rockingham,Salem,Source2,3,42.77737800000001,-71.24430799999998,2017,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-476397,NH,Rockingham,Salem,Source3,3,42.777596,-71.244461,2017,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-478603,NH,Rockingham,Salem,Source2,3,42.777596,-71.244461,2017,22,Saturday,Cloudy,False,False,False,False,False,False,False
+A-479062,NH,Rockingham,Salem,Source2,3,42.76149,-71.23335300000002,2017,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-517773,NH,Rockingham,Windham,Source2,3,42.807945,-71.273247,2022,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-519425,NH,Rockingham,Londonderry,Source2,3,42.869751,-71.340897,2022,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-530149,NH,Rockingham,Portsmouth,Source2,3,43.05962,-70.802444,2022,19,Monday,Rain,False,False,False,False,False,False,False
+A-531355,NH,Rockingham,Greenland,Source2,3,43.04269,-70.816437,2022,19,Sunday,Cloudy,False,False,False,False,False,False,False
+A-538279,NH,Rockingham,Hampton,Source2,3,42.963654,-70.858856,2022,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-545014,NH,Rockingham,Hampton,Source2,3,42.963654,-70.858856,2022,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-559202,NH,Rockingham,Hampton,Source2,3,42.963654,-70.858856,2022,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-561793,NH,Rockingham,Raymond,Source2,3,43.029697,-71.163383,2022,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-568473,NH,Rockingham,Londonderry,Source2,3,42.869751,-71.340897,2022,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-577523,NH,Rockingham,Portsmouth,Source2,3,43.05962,-70.802444,2022,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-589830,NH,Rockingham,Londonderry,Source2,3,42.869751,-71.340897,2022,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-589958,NH,Rockingham,Hampton,Source2,3,42.963654,-70.858856,2022,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-598162,NH,Rockingham,Hampton,Source2,3,42.963654,-70.858856,2022,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-598590,NH,Rockingham,Windham,Source2,3,42.807945,-71.273247,2022,8,Thursday,Rain,False,False,False,False,False,False,False
+A-605490,NH,Rockingham,Portsmouth,Source2,3,43.055798,-70.80545,2022,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-610029,NH,Rockingham,Hampton,Source2,3,42.963654,-70.858856,2022,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-610187,NH,Rockingham,North Hampton,Source2,3,42.984474,-70.851845,2022,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-618003,NH,Rockingham,Londonderry,Source2,3,42.869751,-71.340897,2022,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-628366,NH,Rockingham,Windham,Source2,3,42.807945,-71.273247,2022,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-636073,NH,Rockingham,Londonderry,Source2,3,42.869751,-71.340897,2022,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-640841,NH,Rockingham,Windham,Source2,3,42.807945,-71.273247,2022,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-680837,NH,Rockingham,Salem,Source2,3,42.761742,-71.23028599999998,2022,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-688447,NH,Rockingham,Hampton,Source2,3,42.963654,-70.858856,2022,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-689806,NH,Rockingham,Exeter,Source2,3,43.015785,-71.032379,2022,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-692377,NH,Rockingham,Windham,Source2,3,42.807945,-71.273247,2022,20,Tuesday,Rain,False,False,False,False,False,False,False
+A-696158,NH,Rockingham,Windham,Source2,3,42.807945,-71.273247,2022,13,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-720658,NH,Rockingham,Salem,Source2,3,42.761742,-71.23028599999998,2022,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-721400,NH,Rockingham,Portsmouth,Source2,3,43.055798,-70.80545,2022,17,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-721452,NH,Rockingham,Portsmouth,Source2,3,43.084473,-70.77340699999998,2022,17,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-721517,NH,Rockingham,Hampton,Source2,3,42.963654,-70.858856,2022,16,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-721620,NH,Rockingham,Hampton,Source2,3,42.963654,-70.858856,2022,15,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-729177,NH,Rockingham,Londonderry,Source2,3,42.871151,-71.343422,2022,6,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-738880,NH,Rockingham,Salem,Source2,3,42.777489,-71.244904,2022,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-743472,NH,Rockingham,Portsmouth,Source2,3,43.074348,-70.782288,2022,18,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-745697,NH,Rockingham,Portsmouth,Source2,3,43.055798,-70.80545,2022,5,Monday,Rain,False,False,False,False,False,False,False
+A-772111,NH,Rockingham,Portsmouth,Source2,3,43.058701,-70.80351999999998,2021,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-772834,NH,Rockingham,Hampton,Source2,3,42.963654,-70.858856,2021,8,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-772860,NH,Rockingham,Londonderry,Source2,3,42.869751,-71.340897,2021,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-785960,NH,Rockingham,Londonderry,Source2,3,42.916847,-71.371803,2021,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-793331,NH,Rockingham,Salem,Source2,3,42.777489,-71.244904,2021,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-809975,NH,Rockingham,Londonderry,Source2,3,42.916847,-71.371803,2021,10,Sunday,Cloudy,False,False,False,False,False,False,False
+A-810296,NH,Rockingham,Salem,Source2,3,42.778976,-71.246597,2021,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-821285,NH,Rockingham,Hampton,Source2,3,42.963654,-70.858856,2021,20,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-821897,NH,Rockingham,Windham,Source2,3,42.807945,-71.273247,2021,15,Friday,Rain,False,False,False,False,False,False,False
+A-824788,NH,Rockingham,Seabrook,Source2,3,42.89389,-70.881416,2021,8,Wednesday,Rain,False,False,False,False,False,False,False
+A-831098,NH,Rockingham,Londonderry,Source2,3,42.869751,-71.340897,2021,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-836724,NH,Rockingham,Londonderry,Source2,3,42.869751,-71.340897,2021,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-848600,NH,Rockingham,Salem,Source2,3,42.777489,-71.244904,2021,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-857401,NH,Rockingham,Seabrook,Source2,3,42.89389,-70.881416,2021,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-877377,NH,Rockingham,Portsmouth,Source2,3,43.068584,-70.787315,2021,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-877455,NH,Rockingham,Londonderry,Source2,3,42.869751,-71.340897,2021,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-878841,NH,Rockingham,Seabrook,Source2,3,42.894669,-70.879944,2021,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-884914,NH,Rockingham,Salem,Source2,3,42.770073,-71.239441,2021,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-900595,NH,Rockingham,Salem,Source2,3,42.777489,-71.244904,2021,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-903529,NH,Rockingham,Windham,Source2,3,42.807945,-71.273247,2021,6,Monday,Rain,False,False,False,False,False,False,False
+A-907851,NH,Rockingham,Londonderry,Source2,3,42.871151,-71.343422,2021,7,Thursday,Rain,False,False,False,False,False,False,False
+A-913307,NH,Rockingham,Seabrook,Source2,3,42.894669,-70.879944,2021,11,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-928766,NH,Rockingham,Greenland,Source2,3,43.04269,-70.816437,2021,16,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-929288,NH,Rockingham,Londonderry,Source2,3,42.916847,-71.371803,2021,11,Sunday,Rain,False,False,False,False,False,False,False
+A-930553,NH,Rockingham,Hampton,Source2,3,42.931969,-70.863495,2021,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-930592,NH,Rockingham,Hampton,Source2,3,42.961689,-70.86412,2021,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-931462,NH,Rockingham,Salem,Source2,3,42.777489,-71.244904,2021,6,Friday,Rain,False,False,False,False,False,False,False
+A-946084,NH,Rockingham,North Hampton,Source2,3,42.98016,-70.852921,2021,5,Thursday,Rain,False,False,False,False,False,False,False
+A-956385,NH,Rockingham,Salem,Source2,3,42.757809,-71.23309300000003,2021,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-958063,NH,Rockingham,Salem,Source2,3,42.761742,-71.23028599999998,2021,18,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-963234,NH,Rockingham,Londonderry,Source2,3,42.884418,-71.34722099999998,2021,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-968236,NH,Rockingham,Windham,Source2,3,42.807945,-71.273247,2021,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-972650,NH,Rockingham,Salem,Source2,3,42.761742,-71.23028599999998,2021,14,Friday,Rain,False,False,False,False,False,False,False
+A-972651,NH,Rockingham,Portsmouth,Source2,3,43.057205,-70.805122,2021,14,Friday,Rain,False,False,False,False,False,False,False
+A-975850,NH,Rockingham,Salem,Source2,3,42.761742,-71.23028599999998,2021,16,Wednesday,Storm,False,False,False,False,False,False,False
+A-977350,NH,Rockingham,Hampton,Source2,3,42.963654,-70.858856,2021,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-977361,NH,Rockingham,Hampton,Source2,3,42.963654,-70.858856,2021,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-977368,NH,Rockingham,Portsmouth,Source2,3,43.05962,-70.802444,2021,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-989336,NH,Rockingham,Salem,Source2,3,42.761742,-71.23028599999998,2021,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-992158,NH,Rockingham,Portsmouth,Source2,3,43.074348,-70.782288,2021,14,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-992159,NH,Rockingham,Portsmouth,Source2,3,43.084473,-70.77340699999998,2021,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-995289,NH,Rockingham,Londonderry,Source2,3,42.869751,-71.340897,2021,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-1004874,NH,Rockingham,Londonderry,Source2,3,42.869751,-71.340897,2021,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-1004876,NH,Rockingham,Londonderry,Source2,3,42.869751,-71.340897,2021,20,Monday,Rain,False,False,False,False,False,False,False
+A-1021886,NH,Rockingham,Portsmouth,Source2,3,43.084473,-70.77340699999998,2021,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1030670,NH,Rockingham,Exeter,Source2,3,43.002041,-70.975983,2021,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1030704,NH,Rockingham,Londonderry,Source2,3,42.916847,-71.371803,2021,19,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1034963,NH,Rockingham,Windham,Source2,3,42.807945,-71.273247,2021,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-1034966,NH,Rockingham,Hampton,Source2,3,42.962124,-70.856308,2021,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-1036761,NH,Rockingham,Windham,Source2,3,42.807945,-71.273247,2021,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1043914,NH,Rockingham,Portsmouth,Source2,3,43.055798,-70.80545,2021,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1046132,NH,Rockingham,Londonderry,Source2,3,42.916847,-71.371803,2021,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1046156,NH,Rockingham,Londonderry,Source2,3,42.869751,-71.340897,2021,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1060529,NH,Rockingham,Salem,Source2,3,42.761742,-71.23028599999998,2021,5,Monday,Cloudy,False,False,False,False,False,False,False
+A-1070241,NH,Rockingham,Portsmouth,Source2,3,43.084473,-70.77340699999998,2021,10,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1073830,NH,Rockingham,Hampton,Source2,3,42.963654,-70.858856,2021,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1075330,NH,Rockingham,Salem,Source2,3,42.757809,-71.23309300000003,2021,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1085318,NH,Rockingham,Exeter,Source2,3,43.015736,-71.031532,2021,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-1115800,NH,Rockingham,Salem,Source2,3,42.761742,-71.23028599999998,2021,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1122491,NH,Rockingham,Londonderry,Source2,3,42.869751,-71.340897,2021,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1144785,NH,Rockingham,Salem,Source2,3,42.747581,-71.214363,2021,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1145315,NH,Rockingham,Salem,Source2,3,42.777489,-71.244904,2021,9,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1145332,NH,Rockingham,Londonderry,Source2,3,42.91666,-71.371742,2021,17,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1145350,NH,Rockingham,Salem,Source2,3,42.761742,-71.23028599999998,2021,18,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1154592,NH,Rockingham,Portsmouth,Source2,3,43.072102,-70.79026800000003,2021,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1161821,NH,Rockingham,Windham,Source2,3,42.807945,-71.273247,2021,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1164133,NH,Rockingham,Salem,Source2,3,42.757931,-71.229927,2021,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1166526,NH,Rockingham,North Hampton,Source2,3,42.993958,-70.848793,2021,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1166550,NH,Rockingham,Portsmouth,Source2,3,43.074348,-70.782288,2021,18,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-1166551,NH,Rockingham,Hampton,Source2,3,42.963573,-70.8592,2021,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1175770,NH,Rockingham,Hampton,Source2,3,42.963573,-70.8592,2021,6,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1179127,NH,Rockingham,Auburn,Source2,3,43.023479,-71.366096,2021,19,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1194927,NH,Rockingham,Londonderry,Source2,3,42.869751,-71.340897,2021,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1194937,NH,Rockingham,Londonderry,Source2,3,42.869751,-71.340897,2021,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1197679,NH,Rockingham,Windham,Source2,3,42.807945,-71.273247,2021,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-1199906,NH,Rockingham,Londonderry,Source2,3,42.869751,-71.340897,2021,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1203998,NH,Rockingham,Hampton,Source2,4,42.963573,-70.8592,2021,20,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1218273,NH,Rockingham,Windham,Source2,3,42.807945,-71.273247,2020,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1222441,NH,Rockingham,Salem,Source2,4,42.777489,-71.244904,2020,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1224210,NH,Rockingham,Londonderry,Source2,3,42.916847,-71.371803,2020,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1224215,NH,Rockingham,Londonderry,Source2,3,42.916847,-71.371803,2020,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1237374,NH,Rockingham,Portsmouth,Source2,3,43.055481,-70.803413,2020,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1245965,NH,Rockingham,Londonderry,Source2,3,42.869751,-71.340897,2020,17,Monday,Rain,False,False,False,False,False,False,False
+A-1249431,NH,Rockingham,Londonderry,Source2,3,42.869751,-71.340897,2020,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1254045,NH,Rockingham,Londonderry,Source2,3,42.916847,-71.371803,2020,7,Monday,Rain,False,False,False,False,False,False,False
+A-1254078,NH,Rockingham,Londonderry,Source2,3,42.869751,-71.340897,2020,9,Monday,Rain,False,False,False,False,False,False,False
+A-1260337,NH,Rockingham,Windham,Source2,3,42.807945,-71.273247,2020,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1279354,NH,Rockingham,Londonderry,Source2,3,42.869751,-71.340897,2020,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1286958,NH,Rockingham,Londonderry,Source2,3,42.917496,-71.37183399999998,2020,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1290966,NH,Rockingham,Salem,Source2,3,42.777489,-71.244904,2020,13,Thursday,Rain,False,False,False,False,False,False,False
+A-1308146,NH,Rockingham,Londonderry,Source2,3,42.916847,-71.371803,2020,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1316076,NH,Rockingham,Exeter,Source2,3,43.000851,-70.973534,2020,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-1321197,NH,Rockingham,Londonderry,Source2,3,42.917801,-71.373512,2020,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1322855,NH,Rockingham,Portsmouth,Source2,3,43.055798,-70.80545,2020,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-1332381,NH,Rockingham,Salem,Source2,3,42.76265,-71.233772,2020,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1334868,NH,Rockingham,Londonderry,Source2,3,42.869751,-71.340897,2020,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1335517,NH,Rockingham,Londonderry,Source2,3,42.916847,-71.371803,2020,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-1339140,NH,Rockingham,Londonderry,Source2,3,42.916847,-71.371803,2020,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1342796,NH,Rockingham,Salem,Source2,3,42.757381,-71.228111,2020,18,Friday,Cloudy,False,False,True,False,False,False,False
+A-1353757,NH,Rockingham,Londonderry,Source2,3,42.869751,-71.340897,2020,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-1358843,NH,Rockingham,Londonderry,Source2,3,42.915161,-71.37168100000002,2020,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1364865,NH,Rockingham,Raymond,Source2,3,43.024307,-71.195534,2020,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-1366995,NH,Rockingham,Greenland,Source2,3,43.020699,-70.830162,2020,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1373517,NH,Rockingham,Hampton,Source2,3,42.963573,-70.8592,2020,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1384014,NH,Rockingham,Londonderry,Source2,3,42.916847,-71.371803,2020,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-1386611,NH,Rockingham,Londonderry,Source2,3,42.916847,-71.371803,2020,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1390952,NH,Rockingham,Portsmouth,Source2,3,43.072102,-70.79026800000003,2020,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1397698,NH,Rockingham,Windham,Source2,3,42.80896,-71.271446,2020,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1400227,NH,Rockingham,Londonderry,Source2,3,42.917137,-71.37159,2020,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-1400266,NH,Rockingham,Londonderry,Source2,3,42.916847,-71.371803,2020,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-1406259,NH,Rockingham,Londonderry,Source2,3,42.869751,-71.340897,2020,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1408909,NH,Rockingham,Hampton,Source2,3,42.96265,-70.86306,2020,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-1408910,NH,Rockingham,Hampton,Source2,3,42.963573,-70.8592,2020,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-1411890,NH,Rockingham,Windham,Source2,3,42.805851,-71.27239200000002,2020,13,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1417239,NH,Rockingham,Salem,Source2,3,42.761742,-71.23028599999998,2020,18,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1423117,NH,Rockingham,Hampton,Source2,3,42.963573,-70.8592,2020,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-1426031,NH,Rockingham,Seabrook,Source2,3,42.894669,-70.879944,2020,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1426032,NH,Rockingham,North Hampton,Source2,3,42.964405,-70.860199,2020,15,Monday,Clear / Fair,True,False,False,False,False,False,False
+A-1442680,NH,Rockingham,Portsmouth,Source2,3,43.057625,-70.801056,2020,10,Sunday,Cloudy,True,False,False,False,False,False,False
+A-1446365,NH,Rockingham,Seabrook,Source2,3,42.894669,-70.879944,2020,20,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-1471932,NH,Rockingham,Hampton,Source2,3,42.956291,-70.857834,2020,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1481362,NH,Rockingham,Portsmouth,Source2,3,43.089085,-70.77151500000002,2020,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1486983,NH,Rockingham,Windham,Source2,3,42.807945,-71.273247,2020,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1490109,NH,Rockingham,Londonderry,Source2,4,42.869751,-71.340897,2020,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1492624,NH,Rockingham,Salem,Source2,3,42.75713,-71.227692,2020,18,Monday,Cloudy,False,False,True,False,False,False,False
+A-1515658,NH,Rockingham,Salem,Source2,3,42.761108,-71.232857,2020,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-1515671,NH,Rockingham,Salem,Source2,3,42.761742,-71.23028599999998,2020,20,Friday,Cloudy,False,False,False,False,False,False,False
+A-1518873,NH,Rockingham,Londonderry,Source2,3,42.869682,-71.340942,2020,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1526722,NH,Rockingham,Seabrook,Source2,3,42.894669,-70.879944,2020,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1531378,NH,Rockingham,Hampton,Source2,3,42.963573,-70.8592,2020,8,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1537823,NH,Rockingham,Londonderry,Source2,3,42.917801,-71.373512,2020,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-1537850,NH,Rockingham,Salem,Source2,3,42.761742,-71.23028599999998,2020,18,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1537853,NH,Rockingham,Portsmouth,Source2,3,43.084473,-70.77340699999998,2020,22,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1565521,NH,Rockingham,Salem,Source2,3,42.761742,-71.23028599999998,2020,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1584486,NH,Rockingham,Salem,Source2,3,42.777489,-71.244904,2020,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-1595055,NH,Rockingham,Salem,Source3,3,42.777489,-71.244904,2020,10,Thursday,Rain,False,False,False,False,False,False,False
+A-1595057,NH,Rockingham,Nottingham,Source2,3,43.07943,-71.13117199999998,2020,10,Thursday,Rain,False,False,False,False,False,False,False
+A-1602561,NH,Rockingham,Hampton,Source2,3,42.963573,-70.8592,2020,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1604864,NH,Rockingham,Londonderry,Source2,3,42.869682,-71.340942,2020,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1607155,NH,Rockingham,Windham,Source2,3,42.807945,-71.273247,2020,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-1613092,NH,Rockingham,Salem,Source2,3,42.761742,-71.23028599999998,2020,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1619369,NH,Rockingham,Portsmouth,Source2,3,43.113007,-70.819748,2020,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1619373,NH,Rockingham,Londonderry,Source2,3,42.869682,-71.340942,2020,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1629289,NH,Rockingham,Londonderry,Source2,3,42.869682,-71.340942,2020,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1631699,NH,Rockingham,Salem,Source2,3,42.779282,-71.24748199999998,2020,8,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1631700,NH,Rockingham,Londonderry,Source2,3,42.869682,-71.340942,2020,8,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1640847,NH,Rockingham,Portsmouth,Source2,3,43.084473,-70.77340699999998,2020,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1645553,NH,Rockingham,Salem,Source2,3,42.759529,-71.23236800000002,2020,12,Thursday,Rain,False,False,False,False,False,False,False
+A-1656051,NH,Rockingham,Londonderry,Source2,3,42.916847,-71.371803,2020,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1668073,NH,Rockingham,Londonderry,Source2,3,42.869682,-71.340942,2020,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1675011,NH,Rockingham,Londonderry,Source2,3,42.916847,-71.371803,2020,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1679944,NH,Rockingham,Londonderry,Source2,3,42.869682,-71.340942,2019,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-1681605,NH,Rockingham,Londonderry,Source2,3,42.869682,-71.340942,2019,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1682385,NH,Rockingham,Salem,Source2,3,42.759842,-71.23278,2019,10,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1683071,NH,Rockingham,Hampton,Source2,3,42.95975900000001,-70.856583,2019,4,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1683073,NH,Rockingham,Portsmouth,Source2,3,43.0714,-70.785202,2019,5,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1683096,NH,Rockingham,Londonderry,Source2,3,42.916847,-71.371803,2019,11,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1684886,NH,Rockingham,Windham,Source2,3,42.809269,-71.272736,2019,4,Tuesday,Rain,False,False,False,False,False,False,False
+A-1684887,NH,Rockingham,Londonderry,Source2,3,42.916847,-71.371803,2019,5,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1690253,NH,Rockingham,Salem,Source2,3,42.777489,-71.244904,2019,15,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1690254,NH,Rockingham,Candia,Source2,3,43.037838,-71.311676,2019,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1697940,NH,Rockingham,Northwood,Source2,3,43.197639,-71.156693,2019,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1701450,NH,Rockingham,Windham,Source2,3,42.807945,-71.273247,2019,20,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1702314,NH,Rockingham,Hampton,Source2,3,42.963573,-70.8592,2019,21,Monday,Rain,False,False,False,False,False,False,False
+A-1707769,NH,Rockingham,Windham,Source2,3,42.80898300000001,-71.272514,2019,5,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1707790,NH,Rockingham,Portsmouth,Source2,3,43.084473,-70.77340699999998,2019,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1707813,NH,Rockingham,Salem,Source2,3,42.761742,-71.23028599999998,2019,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1720358,NH,Rockingham,Seabrook,Source2,3,42.894669,-70.879944,2019,11,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1723096,NH,Rockingham,Londonderry,Source2,3,42.915638,-71.37140699999998,2019,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1732279,NH,Rockingham,Portsmouth,Source2,3,43.07399,-70.78278399999998,2019,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-1736185,NH,Rockingham,North Hampton,Source2,3,42.99852,-70.845764,2019,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1736932,NH,Rockingham,Seabrook,Source2,3,42.894669,-70.879944,2019,20,Monday,Rain,False,False,False,False,False,False,False
+A-1747210,NH,Rockingham,Londonderry,Source2,3,42.916847,-71.371803,2019,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-1750610,NH,Rockingham,Seabrook,Source2,3,42.894669,-70.879944,2019,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1771590,NH,Rockingham,Hampton,Source2,3,42.963573,-70.8592,2019,4,Wednesday,Rain,False,False,False,False,False,False,False
+A-1771620,NH,Rockingham,Hampton,Source2,3,42.959751,-70.856804,2019,9,Wednesday,Rain,False,False,False,False,False,False,False
+A-1788601,NH,Rockingham,Windham,Source2,3,42.807945,-71.273247,2019,11,Thursday,Rain,False,False,False,False,False,False,False
+A-1791359,NH,Rockingham,Salem,Source2,3,42.761742,-71.23028599999998,2019,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1816300,NH,Rockingham,Portsmouth,Source2,3,43.055798,-70.80545,2019,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1831672,NH,Rockingham,Windham,Source2,3,42.807945,-71.273247,2019,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1841099,NH,Rockingham,Windham,Source2,3,42.807945,-71.273247,2019,15,Sunday,Rain,False,False,False,False,False,False,False
+A-1841100,NH,Rockingham,Londonderry,Source2,3,42.869682,-71.340942,2019,15,Sunday,Rain,False,False,False,False,False,False,False
+A-1841823,NH,Rockingham,Londonderry,Source2,3,42.869682,-71.340942,2019,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-1844514,NH,Rockingham,Windham,Source2,3,42.807945,-71.273247,2019,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1847064,NH,Rockingham,Londonderry,Source2,4,42.916847,-71.371803,2019,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1858048,NH,Rockingham,Londonderry,Source2,4,42.916847,-71.371803,2019,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1860469,NH,Rockingham,Windham,Source2,3,42.811047,-71.27488699999998,2019,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1863092,NH,Rockingham,Portsmouth,Source2,3,43.070816,-70.786224,2019,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-1863108,NH,Rockingham,Portsmouth,Source2,3,43.055798,-70.80545,2019,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-1863124,NH,Rockingham,Londonderry,Source2,3,42.869682,-71.340942,2019,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1866364,NH,Rockingham,Londonderry,Source2,3,42.869682,-71.340942,2019,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1875631,NH,Rockingham,Portsmouth,Source2,3,43.074348,-70.782288,2019,17,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-1888925,NH,Rockingham,Londonderry,Source2,3,42.871204,-71.341476,2019,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1888938,NH,Rockingham,Windham,Source2,3,42.807945,-71.273247,2019,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1904754,NH,Rockingham,Seabrook,Source2,3,42.895569,-70.879425,2019,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1904780,NH,Rockingham,Londonderry,Source2,3,42.869682,-71.340942,2019,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1912916,NH,Rockingham,Greenland,Source2,3,43.033749,-70.82206,2019,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1915980,NH,Rockingham,Salem,Source2,3,42.777489,-71.244904,2019,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1919871,NH,Rockingham,Portsmouth,Source2,3,43.05537,-70.807022,2019,16,Monday,Storm,False,False,False,False,False,False,False
+A-1919873,NH,Rockingham,Portsmouth,Source2,3,43.055866,-70.807777,2019,17,Monday,Storm,False,False,False,False,False,False,False
+A-1931962,NH,Rockingham,Raymond,Source2,3,43.024132,-71.196587,2019,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1959151,NH,Rockingham,Portsmouth,Source2,3,43.055798,-70.80545,2019,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1979012,NH,Rockingham,Salem,Source2,3,42.761742,-71.23028599999998,2019,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1981766,NH,Rockingham,Londonderry,Source2,3,42.87012100000001,-71.341064,2019,6,Tuesday,Rain,False,False,False,False,False,False,False
+A-1981812,NH,Rockingham,Portsmouth,Source2,3,43.074348,-70.782288,2019,13,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-1981816,NH,Rockingham,Portsmouth,Source2,3,43.072102,-70.79026800000003,2019,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1984069,NH,Rockingham,Londonderry,Source2,3,42.91473,-71.371223,2019,11,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1986383,NH,Rockingham,Londonderry,Source2,3,42.869682,-71.340942,2019,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1986384,NH,Rockingham,Londonderry,Source2,3,42.869682,-71.340942,2019,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2002748,NH,Rockingham,Hampton,Source2,3,42.963573,-70.8592,2019,11,Saturday,Rain,False,False,False,False,False,False,False
+A-2004225,NH,Rockingham,Portsmouth,Source2,3,43.072102,-70.79026800000003,2019,10,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2010846,NH,Rockingham,Salem,Source2,3,42.761742,-71.23028599999998,2019,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2016150,NH,Rockingham,Salem,Source2,3,42.776508,-71.243134,2019,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2028726,NH,Rockingham,Londonderry,Source2,3,42.916847,-71.371803,2019,18,Sunday,Rain,False,False,False,False,False,False,False
+A-2033970,NH,Rockingham,Seabrook,Source2,3,42.894669,-70.879944,2019,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2067907,NH,Rockingham,Londonderry,Source2,3,42.916847,-71.371803,2019,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2070227,NH,Rockingham,Portsmouth,Source2,3,43.068584,-70.787315,2019,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2078761,NH,Rockingham,Londonderry,Source2,3,42.871201,-71.343727,2019,8,Saturday,Rain,False,False,False,False,False,False,False
+A-2079537,NH,Rockingham,Portsmouth,Source2,3,43.055798,-70.80545,2019,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2094066,NH,Rockingham,Londonderry,Source2,3,42.869682,-71.340942,2019,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-2100088,NH,Rockingham,Londonderry,Source2,3,42.869682,-71.340942,2019,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2132708,NH,Rockingham,Londonderry,Source2,3,42.869682,-71.340942,2019,7,Tuesday,Rain,False,False,False,False,False,False,False
+A-2132729,NH,Rockingham,Salem,Source2,3,42.777489,-71.244904,2019,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2153386,NH,Rockingham,Londonderry,Source2,4,42.917179,-71.372116,2019,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-2158373,NH,Rockingham,Londonderry,Source2,3,42.917179,-71.372116,2019,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2165797,NH,Rockingham,Salem,Source2,3,42.758583,-71.23098,2019,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2174126,NH,Rockingham,Londonderry,Source2,3,42.869682,-71.340942,2019,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2186998,NH,Rockingham,Salem,Source2,3,42.761742,-71.23028599999998,2019,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2189299,NH,Rockingham,Salem,Source2,3,42.761189,-71.232933,2019,8,Friday,Rain,False,False,False,False,False,False,False
+A-2191776,NH,Rockingham,Salem,Source2,3,42.757809,-71.23309300000003,2019,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2198375,NH,Rockingham,Portsmouth,Source2,3,43.056732,-70.805695,2019,6,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-2200642,NH,Rockingham,Portsmouth,Source2,3,43.081173,-70.774567,2019,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2205665,NH,Rockingham,Hampton,Source2,3,42.961689,-70.86412,2019,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2222980,NH,Rockingham,Londonderry,Source2,3,42.869709,-71.341415,2019,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2245512,NH,Rockingham,Windham,Source2,3,42.81311,-71.28134200000002,2019,14,Friday,Rain,False,False,False,False,False,False,False
+A-2249170,NH,Rockingham,Salem,Source2,3,42.776917,-71.244576,2019,8,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2249172,NH,Rockingham,Londonderry,Source2,3,42.869709,-71.341415,2019,8,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2249175,NH,Rockingham,Londonderry,Source2,3,42.91755300000001,-71.372749,2019,8,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2254515,NH,Rockingham,Londonderry,Source2,3,42.916023,-71.37168100000002,2019,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2264146,NH,Rockingham,Londonderry,Source3,3,42.869709,-71.341415,2019,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2275971,NH,Rockingham,Salem,Source2,3,42.760296,-71.22890500000003,2019,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2278664,NH,Rockingham,Windham,Source2,3,42.802872,-71.270889,2019,15,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2281546,NH,Rockingham,Salem,Source2,3,42.776917,-71.244576,2019,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2281557,NH,Rockingham,Portsmouth,Source2,3,43.05571,-70.809021,2019,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2293137,NH,Rockingham,Londonderry,Source2,3,42.917179,-71.372116,2019,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2298143,NH,Rockingham,Hampton,Source2,3,42.96285200000001,-70.858162,2019,5,Thursday,Rain,False,False,False,False,False,False,False
+A-2298154,NH,Rockingham,Seabrook,Source2,3,42.894081,-70.88020300000002,2019,6,Thursday,Rain,False,False,False,False,False,False,False
+A-2308770,NH,Rockingham,Londonderry,Source2,3,42.917179,-71.372116,2019,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2314376,NH,Rockingham,Seabrook,Source2,3,42.894672,-70.880348,2019,7,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2316709,NH,Rockingham,Londonderry,Source2,3,42.870975,-71.34097299999998,2019,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2341990,NH,Rockingham,Londonderry,Source2,3,42.869709,-71.341415,2019,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2350423,NH,Rockingham,Windham,Source2,3,42.808964,-71.271744,2019,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2353148,NH,Rockingham,Windham,Source2,3,42.808327,-71.271309,2019,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2362339,NH,Rockingham,Londonderry,Source2,3,42.869709,-71.341415,2019,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2362971,NH,Rockingham,Londonderry,Source2,3,42.86982,-71.340942,2019,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2365526,NH,Rockingham,Portsmouth,Source2,3,43.084511,-70.773376,2019,14,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2368244,NH,Rockingham,Salem,Source2,3,42.758308,-71.23056,2019,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2370618,NH,Rockingham,Londonderry,Source2,3,42.870052,-71.34056899999999,2018,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-2379207,NH,Rockingham,Hampton,Source2,3,42.96285200000001,-70.858162,2018,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2387046,NH,Rockingham,Seabrook,Source2,3,42.893826,-70.879837,2018,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2404992,NH,Rockingham,Windham,Source2,3,42.815956,-71.283638,2018,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2423442,NH,Rockingham,Londonderry,Source3,3,42.870052,-71.34056899999999,2018,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2427227,NH,Rockingham,Windham,Source2,3,42.809174,-71.27268199999997,2018,10,Friday,Rain,False,False,False,False,False,False,False
+A-2427233,NH,Rockingham,Londonderry,Source2,3,42.870052,-71.34056899999999,2018,14,Friday,Rain,False,False,False,False,False,False,False
+A-2449302,NH,Rockingham,North Hampton,Source2,3,42.965366,-70.856026,2018,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2454897,NH,Rockingham,Londonderry,Source2,3,42.916622,-71.37129200000003,2018,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2457884,NH,Rockingham,Londonderry,Source2,3,42.916622,-71.37129200000003,2018,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2460959,NH,Rockingham,Salem,Source2,3,42.76149,-71.23335300000002,2018,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2468000,NH,Rockingham,North Hampton,Source2,3,42.965366,-70.856026,2018,7,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2468015,NH,Rockingham,Portsmouth,Source2,3,43.057968,-70.803978,2018,9,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2468016,NH,Rockingham,Portsmouth,Source2,3,43.084255,-70.773361,2018,9,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2468029,NH,Rockingham,Londonderry,Source2,3,42.869503,-71.340355,2018,13,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2471064,NH,Rockingham,Salem,Source2,3,42.76149,-71.23335300000002,2018,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2478535,NH,Rockingham,Salem,Source3,3,42.757404,-71.22821,2018,19,Monday,Rain,False,False,False,False,False,False,False
+A-2478536,NH,Rockingham,Salem,Source2,3,42.76149,-71.23335300000002,2018,20,Monday,Rain,False,False,False,False,False,False,False
+A-2481219,NH,Rockingham,Portsmouth,Source3,3,43.057968,-70.803978,2018,7,Tuesday,Rain,False,False,False,False,False,False,False
+A-2487802,NH,Rockingham,Portsmouth,Source2,3,43.084255,-70.773361,2018,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2491191,NH,Rockingham,Portsmouth,Source2,3,43.074375,-70.782845,2018,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2496874,NH,Rockingham,Londonderry,Source2,3,42.916622,-71.37129200000003,2018,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2499804,NH,Rockingham,Londonderry,Source2,3,42.916622,-71.37129200000003,2018,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-2515843,NH,Rockingham,Salem,Source3,3,42.757404,-71.22821,2018,10,Saturday,Rain,False,False,False,False,False,False,False
+A-2516609,NH,Rockingham,Londonderry,Source2,3,42.916622,-71.37129200000003,2018,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2517146,NH,Rockingham,Salem,Source2,3,42.76149,-71.23335300000002,2018,13,Monday,Rain,False,False,False,False,False,False,False
+A-2522997,NH,Rockingham,Windham,Source2,3,42.809174,-71.27268199999997,2018,11,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2525836,NH,Rockingham,Salem,Source2,3,42.759686,-71.232506,2018,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2532044,NH,Rockingham,Londonderry,Source2,3,42.916622,-71.37129200000003,2018,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2539165,NH,Rockingham,Portsmouth,Source2,3,43.084255,-70.773361,2018,7,Wednesday,Rain,False,False,False,False,False,False,False
+A-2541925,NH,Rockingham,Londonderry,Source2,3,42.916622,-71.37129200000003,2018,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2548870,NH,Rockingham,Salem,Source3,3,42.757404,-71.22821,2018,10,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2552579,NH,Rockingham,Portsmouth,Source2,3,43.084255,-70.773361,2018,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2558841,NH,Rockingham,Salem,Source2,3,42.76149,-71.23335300000002,2018,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2568899,NH,Rockingham,Londonderry,Source2,3,42.914848,-71.370064,2018,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-2573020,NH,Rockingham,Londonderry,Source2,3,42.916622,-71.37129200000003,2018,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-2578476,NH,Rockingham,Salem,Source3,3,42.76149,-71.23335300000002,2018,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2581145,NH,Rockingham,Londonderry,Source2,3,42.916622,-71.37129200000003,2018,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2590225,NH,Rockingham,Salem,Source2,3,42.758572,-71.233818,2018,14,Tuesday,Rain,False,False,False,False,False,False,False
+A-2601247,NH,Rockingham,Portsmouth,Source2,3,43.053612,-70.809853,2018,20,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2612866,NH,Rockingham,Londonderry,Source2,3,42.870052,-71.34056899999999,2018,7,Friday,Rain,False,False,False,False,False,False,False
+A-2616210,NH,Rockingham,Portsmouth,Source3,3,43.073559,-70.783417,2018,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2616217,NH,Rockingham,North Hampton,Source2,3,42.965366,-70.856026,2018,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2621119,NH,Rockingham,Seabrook,Source2,3,42.894562,-70.87966899999998,2018,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2626222,NH,Rockingham,Portsmouth,Source3,3,43.059799,-70.80184200000002,2018,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2627562,NH,Rockingham,Hampton,Source2,3,42.954838,-70.85773499999998,2018,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2637637,NH,Rockingham,Hampton,Source2,3,42.959259,-70.85704,2018,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-2637639,NH,Rockingham,Londonderry,Source2,3,42.916222,-71.371025,2018,11,Friday,Cloudy,False,False,False,False,False,False,False
+A-2651674,NH,Rockingham,Londonderry,Source2,3,42.869839,-71.340485,2018,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2654090,NH,Rockingham,Londonderry,Source2,3,42.91578300000001,-71.370064,2018,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2658291,NH,Rockingham,Londonderry,Source2,3,42.870052,-71.34056899999999,2018,3,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2658307,NH,Rockingham,Portsmouth,Source3,3,43.057968,-70.803978,2018,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2660779,NH,Rockingham,Londonderry,Source2,3,42.869469,-71.34082,2018,8,Wednesday,Rain,False,False,False,False,False,False,False
+A-2665616,NH,Rockingham,Seabrook,Source2,3,42.894562,-70.87966899999998,2018,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2665618,NH,Rockingham,Londonderry,Source2,3,42.916622,-71.37129200000003,2018,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2668046,NH,Rockingham,Londonderry,Source2,3,42.916622,-71.37129200000003,2018,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2668047,NH,Rockingham,Seabrook,Source2,3,42.890259,-70.88065300000002,2018,12,Saturday,Cloudy,False,False,True,False,False,False,False
+A-2669465,NH,Rockingham,Portsmouth,Source2,3,43.054569,-70.808441,2018,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-2671954,NH,Rockingham,Londonderry,Source2,3,42.916622,-71.37129200000003,2018,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2674513,NH,Rockingham,Londonderry,Source3,3,42.870651,-71.340813,2018,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2681437,NH,Rockingham,Windham,Source2,3,42.810204,-71.27076,2018,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2697417,NH,Rockingham,North Hampton,Source2,3,42.965366,-70.856026,2018,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2701835,NH,Rockingham,Portsmouth,Source2,3,43.076073,-70.779739,2018,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2713919,NH,Rockingham,Londonderry,Source2,3,42.916405,-71.37188,2018,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-2713921,NH,Rockingham,Portsmouth,Source2,3,43.057968,-70.803978,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2724854,NH,Rockingham,Salem,Source2,3,42.777596,-71.244461,2018,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2727132,NH,Rockingham,Portsmouth,Source2,3,43.076073,-70.779739,2018,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-2727143,NH,Rockingham,Londonderry,Source2,3,42.916622,-71.37129200000003,2018,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-2727157,NH,Rockingham,Seabrook,Source2,3,42.881027,-70.88323199999998,2018,22,Friday,Cloudy,False,False,False,False,False,False,False
+A-2738817,NH,Rockingham,North Hampton,Source2,3,42.965366,-70.856026,2018,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2739546,NH,Rockingham,Windham,Source2,3,42.807095,-71.273689,2018,9,Monday,Rain,False,False,False,False,False,False,False
+A-2739548,NH,Rockingham,Londonderry,Source2,3,42.87167,-71.34108,2018,10,Monday,Rain,False,False,False,False,False,False,False
+A-2739550,NH,Rockingham,Salem,Source2,3,42.777596,-71.244461,2018,12,Monday,Rain,False,False,False,False,False,False,False
+A-2744250,NH,Rockingham,Londonderry,Source2,3,42.870052,-71.34056899999999,2018,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2746752,NH,Rockingham,Londonderry,Source2,3,42.870052,-71.34056899999999,2018,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2753118,NH,Rockingham,Portsmouth,Source2,3,43.084255,-70.773361,2018,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-2755533,NH,Rockingham,Portsmouth,Source2,3,43.065418,-70.792328,2018,8,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-2755535,NH,Rockingham,Londonderry,Source2,3,42.869255,-71.342247,2018,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2773798,NH,Rockingham,Londonderry,Source2,3,42.870052,-71.34056899999999,2018,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2773808,NH,Rockingham,Londonderry,Source2,3,42.915756,-71.370705,2018,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2779851,NH,Rockingham,Londonderry,Source3,3,42.916622,-71.37129200000003,2018,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-2779860,NH,Rockingham,Londonderry,Source2,3,42.916622,-71.37129200000003,2018,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2779888,NH,Rockingham,Londonderry,Source2,3,42.870052,-71.34056899999999,2018,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-2782303,NH,Rockingham,Londonderry,Source2,3,42.870052,-71.34056899999999,2018,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2782305,NH,Rockingham,Londonderry,Source2,3,42.916622,-71.37129200000003,2018,10,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2805097,NH,Rockingham,North Hampton,Source3,3,42.964989,-70.85588800000002,2018,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2806400,NH,Rockingham,Londonderry,Source2,3,42.870052,-71.34056899999999,2018,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-2806405,NH,Rockingham,Londonderry,Source2,3,42.916973,-71.37155200000002,2018,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-2826467,NH,Rockingham,Londonderry,Source2,3,42.870052,-71.34056899999999,2018,3,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2838657,NH,Rockingham,Londonderry,Source2,3,42.916622,-71.37129200000003,2018,9,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2854636,NH,Rockingham,Londonderry,Source2,3,42.916622,-71.37129200000003,2018,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2874991,NH,Rockingham,Salem,Source2,3,42.760433,-71.232292,2018,15,Tuesday,Rain,False,False,False,False,False,False,False
+A-2882774,NH,Rockingham,Londonderry,Source2,3,42.916622,-71.37129200000003,2018,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-2886058,NH,Rockingham,Portsmouth,Source2,3,43.058666,-70.803604,2018,9,Sunday,Rain,False,False,False,False,False,False,False
+A-2897416,NH,Rockingham,Windham,Source2,3,42.809174,-71.27268199999997,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2933866,NH,Rockingham,Salem,Source2,3,42.777363,-71.245049,2018,3,Friday,Cloudy,False,False,False,False,False,False,False
+A-2938054,NH,Rockingham,Londonderry,Source2,3,42.916622,-71.37129200000003,2018,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2940709,NH,Rockingham,Windham,Source2,3,42.809174,-71.27268199999997,2018,10,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-2948992,NH,Rockingham,Portsmouth,Source2,3,43.071018,-70.78469100000002,2018,6,Friday,Cloudy,False,False,False,False,False,False,False
+A-2955482,NH,Rockingham,Londonderry,Source2,3,42.869812,-71.340958,2018,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2955500,NH,Rockingham,Windham,Source2,3,42.809174,-71.27268199999997,2018,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2961351,NH,Rockingham,Salem,Source2,3,42.758987,-71.230553,2018,7,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2972468,NH,Rockingham,Windham,Source2,3,42.809174,-71.27268199999997,2018,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2972470,NH,Rockingham,Derry,Source2,3,42.854809,-71.317421,2018,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2980338,NH,Rockingham,North Hampton,Source2,3,42.965366,-70.856026,2018,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2982873,NH,Rockingham,Portsmouth,Source2,3,43.055645,-70.807312,2018,7,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2988001,NH,Rockingham,Seabrook,Source2,3,42.881027,-70.88323199999998,2018,22,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2994909,NH,Rockingham,Londonderry,Source2,3,42.87167,-71.34108,2018,16,Wednesday,Rain,False,False,False,False,False,False,False
+A-2997819,NH,Rockingham,Londonderry,Source2,3,42.916622,-71.37129200000003,2018,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3000488,NH,Rockingham,Londonderry,Source2,3,42.869862,-71.341278,2018,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3000507,NH,Rockingham,Portsmouth,Source2,3,43.076073,-70.779739,2018,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-3017889,NH,Rockingham,Londonderry,Source2,4,42.916458,-71.371201,2018,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3018485,NH,Rockingham,Londonderry,Source2,3,42.870052,-71.34056899999999,2018,7,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3019024,NH,Rockingham,North Hampton,Source2,3,42.963879,-70.855949,2018,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-3021284,NH,Rockingham,Londonderry,Source2,3,42.92268,-71.37625899999998,2018,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3036174,NH,Rockingham,Seabrook,Source2,3,42.894619,-70.880112,2018,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3039215,NH,Rockingham,Windham,Source2,3,42.809174,-71.27268199999997,2018,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3039932,NH,Rockingham,Seabrook,Source2,3,42.881027,-70.88323199999998,2018,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3042215,NH,Rockingham,Londonderry,Source2,3,42.915924,-71.37155899999998,2018,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3047344,NH,Rockingham,Portsmouth,Source3,3,43.073765,-70.78370699999998,2018,9,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3053846,NH,Rockingham,Salem,Source2,3,42.76149,-71.23335300000002,2018,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3053864,NH,Rockingham,Seabrook,Source2,3,42.894566,-70.880127,2018,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3056892,NH,Rockingham,Portsmouth,Source2,3,43.070419,-70.786507,2018,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3062154,NH,Rockingham,Portsmouth,Source2,3,43.070526,-70.786438,2018,6,Friday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3068608,NH,Rockingham,Londonderry,Source2,3,42.870052,-71.34056899999999,2018,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3071440,NH,Rockingham,Londonderry,Source2,3,42.870052,-71.34056899999999,2018,10,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3075319,NH,Rockingham,Londonderry,Source2,3,42.911537,-71.367889,2018,16,Friday,Cloudy,False,False,True,False,False,False,False
+A-3082598,NH,Rockingham,North Hampton,Source2,3,42.995525,-70.847351,2018,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3087926,NH,Rockingham,Windham,Source2,3,42.809174,-71.27268199999997,2018,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3094166,NH,Rockingham,Seabrook,Source2,3,42.881027,-70.88323199999998,2018,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3094177,NH,Rockingham,Windham,Source2,3,42.810345,-71.27295699999998,2018,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3099597,NH,Rockingham,North Hampton,Source2,3,42.965343,-70.85582,2017,10,Friday,Cloudy,False,False,False,False,False,False,False
+A-3121654,NH,Rockingham,Londonderry,Source2,3,42.870052,-71.34056899999999,2017,11,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3121664,NH,Rockingham,Hampton,Source3,3,42.961826,-70.85635400000002,2017,14,Tuesday,Rain,False,False,False,False,False,False,False
+A-3121689,NH,Rockingham,Londonderry,Source2,3,42.916439,-71.371185,2017,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3127538,NH,Rockingham,Londonderry,Source2,3,42.870052,-71.34056899999999,2017,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3145854,NH,Rockingham,North Hampton,Source2,3,42.964966,-70.855896,2017,22,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3148331,NH,Rockingham,Seabrook,Source2,3,42.894562,-70.87966899999998,2017,10,Saturday,Rain,False,False,False,False,False,False,False
+A-3150637,NH,Rockingham,Portsmouth,Source2,3,43.074375,-70.782845,2017,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3152696,NH,Rockingham,Londonderry,Source2,3,42.870052,-71.34056899999999,2017,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3154942,NH,Rockingham,Seabrook,Source2,3,42.894562,-70.87966899999998,2017,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-3154946,NH,Rockingham,Hampton,Source2,3,42.961758,-70.856369,2017,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-3160241,NH,Rockingham,Londonderry,Source2,3,42.916622,-71.37129200000003,2017,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3168111,NH,Rockingham,Londonderry,Source2,3,42.870052,-71.34056899999999,2017,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3175431,NH,Rockingham,Londonderry,Source2,3,42.916622,-71.37129200000003,2017,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3178014,NH,Rockingham,Derry,Source2,3,42.845253,-71.30899000000002,2017,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-3180665,NH,Rockingham,Londonderry,Source2,3,42.92271,-71.37628199999997,2017,17,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3188363,NH,Rockingham,Londonderry,Source2,3,42.869263,-71.34026300000002,2017,16,Thursday,Rain,False,False,False,False,False,False,False
+A-3188370,NH,Rockingham,North Hampton,Source2,3,42.965366,-70.856026,2017,17,Thursday,Rain,False,False,False,False,False,False,False
+A-3199724,NH,Rockingham,Portsmouth,Source2,3,43.074375,-70.782845,2017,14,Wednesday,Rain,False,False,False,False,False,False,False
+A-3203810,NH,Rockingham,Hampton,Source3,3,42.962917,-70.85614,2017,11,Friday,Cloudy,True,False,False,False,False,False,False
+A-3209932,NH,Rockingham,Londonderry,Source2,3,42.916622,-71.37129200000003,2017,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3219330,NH,Rockingham,Greenland,Source2,3,43.034893,-70.821434,2017,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3219334,NH,Rockingham,Londonderry,Source2,3,42.891624,-71.356468,2017,7,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3219365,NH,Rockingham,Portsmouth,Source2,3,43.074375,-70.782845,2017,20,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3222205,NH,Rockingham,Londonderry,Source2,3,42.870052,-71.34056899999999,2017,8,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3225057,NH,Rockingham,Londonderry,Source2,3,42.916439,-71.371185,2017,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3227804,NH,Rockingham,Windham,Source2,3,42.809174,-71.27268199999997,2017,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-3231176,NH,Rockingham,Portsmouth,Source2,3,43.055042,-70.807976,2017,10,Sunday,Rain,False,False,False,False,False,False,False
+A-3231901,NH,Rockingham,Salem,Source2,3,42.762142,-71.232376,2017,17,Monday,Rain,False,False,False,False,False,False,False
+A-3234629,NH,Rockingham,Hampton,Source2,3,42.960659,-70.856995,2017,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3243103,NH,Rockingham,Seabrook,Source2,3,42.894562,-70.87966899999998,2017,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-3243104,NH,Rockingham,Portsmouth,Source2,3,43.084373,-70.772675,2017,17,Friday,Cloudy,True,True,False,False,False,False,False
+A-3263573,NH,Rockingham,Londonderry,Source2,3,42.870052,-71.34056899999999,2017,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3268535,NH,Rockingham,Londonderry,Source2,3,42.86478,-71.338776,2017,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3268553,NH,Rockingham,Londonderry,Source2,3,42.870052,-71.34056899999999,2017,9,Thursday,Rain,False,False,False,False,False,False,False
+A-3268587,NH,Rockingham,Londonderry,Source2,3,42.916622,-71.37129200000003,2017,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3303682,NH,Rockingham,Londonderry,Source2,3,42.91578300000001,-71.370064,2017,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3309494,NH,Rockingham,Salem,Source2,3,42.76149,-71.23335300000002,2017,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-3309518,NH,Rockingham,Hampton,Source2,3,42.96077,-70.856308,2017,14,Friday,Rain,False,False,False,False,False,False,False
+A-3309526,NH,Rockingham,Windham,Source2,3,42.808441,-71.272163,2017,16,Friday,Storm,False,False,False,False,False,False,False
+A-3313788,NH,Rockingham,North Hampton,Source2,3,42.965366,-70.856026,2017,5,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-3316626,NH,Rockingham,Londonderry,Source2,3,42.868393,-71.340416,2017,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3319486,NH,Rockingham,Windham,Source3,3,42.80862,-71.272278,2017,11,Wednesday,Rain,False,False,False,False,False,False,False
+A-3329677,NH,Rockingham,Londonderry,Source2,3,42.912994,-71.369713,2017,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3329678,NH,Rockingham,Londonderry,Source2,3,42.916649,-71.37168100000002,2017,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3338351,NH,Rockingham,Londonderry,Source2,3,42.93542100000001,-71.382141,2017,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3344399,NH,Rockingham,Londonderry,Source2,3,42.916622,-71.37129200000003,2017,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3360059,NH,Rockingham,Salem,Source3,3,42.777596,-71.244461,2017,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-3365373,NH,Rockingham,Windham,Source2,3,42.808941,-71.272491,2017,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3372896,NH,Rockingham,Windham,Source2,3,42.841946,-71.305489,2017,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3372897,NH,Rockingham,North Hampton,Source2,3,42.964989,-70.855728,2017,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3373479,NH,Rockingham,Portsmouth,Source2,3,43.084255,-70.773361,2017,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3379500,NH,Rockingham,Derry,Source2,3,42.857346,-71.322968,2017,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3382372,NH,Rockingham,Portsmouth,Source2,3,43.084255,-70.773361,2017,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3389222,NH,Rockingham,Portsmouth,Source2,3,43.05447,-70.808533,2017,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-3410065,NH,Rockingham,Londonderry,Source2,3,42.870323,-71.34114100000002,2017,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3410068,NH,Rockingham,Salem,Source2,3,42.777596,-71.244461,2017,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3450379,NH,Rockingham,Londonderry,Source1,4,42.826875,-71.36541700000002,2016,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3450381,NH,Rockingham,Londonderry,Source1,4,42.829548,-71.365201,2016,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3450386,NH,Rockingham,Londonderry,Source1,4,42.826878,-71.36541700000002,2016,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3463775,NH,Rockingham,Kingston,Source1,3,42.897389,-71.074416,2016,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-3463776,NH,Rockingham,Kingston,Source1,3,42.894674,-71.07571899999998,2016,7,Monday,Cloudy,False,False,False,False,False,False,False
+A-3464120,NH,Rockingham,North Hampton,Source1,4,42.99082,-70.84535,2016,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-3464121,NH,Rockingham,North Hampton,Source1,4,42.988186,-70.842679,2016,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-3464125,NH,Rockingham,North Hampton,Source1,4,42.98841,-70.8428,2016,23,Monday,Cloudy,False,False,False,False,False,False,False
+A-3464127,NH,Rockingham,North Hampton,Source1,4,42.99091,-70.84541999999998,2016,23,Monday,Cloudy,False,False,False,False,False,False,False
+A-3466312,NH,Rockingham,Salem,Source1,4,42.83574,-71.23125,2016,18,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-3466313,NH,Rockingham,Salem,Source1,4,42.845584,-71.223997,2016,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3502700,NH,Rockingham,Seabrook,Source1,3,42.89881,-70.8791,2016,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3520403,NH,Rockingham,Auburn,Source1,4,42.97083,-71.30855,2016,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3520406,NH,Rockingham,Auburn,Source1,4,42.99677,-71.34251,2016,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3520453,NH,Rockingham,Auburn,Source1,4,42.99677,-71.34251,2016,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3520455,NH,Rockingham,Auburn,Source1,4,42.98172,-71.32930999999998,2016,10,Thursday,Cloudy,False,False,False,True,False,False,False
+A-3521742,NH,Rockingham,Portsmouth,Source1,3,43.11805,-70.82571800000002,2016,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3574394,NH,Rockingham,Windham,Source1,4,42.834544,-71.29723299999998,2017,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3585689,NH,Rockingham,Salem,Source1,3,42.77442,-71.24231999999998,2017,3,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3618462,NH,Rockingham,Candia,Source1,4,43.0719,-71.35338,2017,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3618463,NH,Rockingham,Candia,Source1,4,43.068507,-71.33331,2017,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3618491,NH,Rockingham,Candia,Source1,4,43.068516,-71.333361,2017,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3632724,NH,Rockingham,Brentwood,Source1,4,42.912573,-70.96403199999997,2017,2,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3632725,NH,Rockingham,Kensington,Source1,4,42.908692,-70.949745,2017,2,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3632728,NH,Rockingham,Brentwood,Source1,4,42.91258,-70.964043,2017,2,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3643098,NH,Rockingham,Brentwood,Source1,4,42.907823,-70.935491,2017,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3643099,NH,Rockingham,Kensington,Source1,4,42.908029,-70.94534300000002,2017,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3643210,NH,Rockingham,Brentwood,Source1,4,42.907836,-70.935541,2017,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5475293,NH,Rockingham,Portsmouth,Source1,4,43.072922,-70.761491,2021,10,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-5484902,NH,Rockingham,Salem,Source1,4,42.749667,-71.187814,2021,23,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5587095,NH,Rockingham,Portsmouth,Source1,4,43.067583,-70.76680999999998,2021,9,Tuesday,Clear / Fair,False,False,False,False,True,False,False
+A-5595748,NH,Rockingham,Deerfield,Source1,4,43.165281,-71.223238,2021,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6006222,NH,Rockingham,Portsmouth,Source1,4,43.067843,-70.75903199999998,2021,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6046475,NH,Rockingham,Deerfield,Source1,4,43.161806,-71.232248,2021,14,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-6226627,NH,Rockingham,Portsmouth,Source1,4,43.071203,-70.761865,2021,12,Tuesday,Clear / Fair,False,True,False,False,False,False,False
+A-6977854,NH,Rockingham,Windham,Source1,3,42.80134,-71.27176,2020,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6980645,NH,Rockingham,Derry,Source1,3,42.8602,-71.33108,2020,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6980647,NH,Rockingham,Londonderry,Source1,3,42.86531,-71.33813,2020,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6993224,NH,Rockingham,Auburn,Source1,4,42.98204000000001,-71.37111999999998,2020,18,Monday,Cloudy,False,False,False,False,False,False,False
+A-6995431,NH,Rockingham,Londonderry,Source1,3,42.86503,-71.33893,2020,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6995434,NH,Rockingham,Londonderry,Source1,3,42.86503,-71.33893,2020,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7044467,NH,Rockingham,Auburn,Source1,3,43.02585,-71.3626,2020,10,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7051534,NH,Rockingham,Exeter,Source1,3,43.00039,-70.94230999999998,2020,16,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7051536,NH,Rockingham,Londonderry,Source1,3,42.91179,-71.36879,2020,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7051537,NH,Rockingham,Londonderry,Source1,3,42.91179,-71.36879,2020,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7059688,NH,Rockingham,Londonderry,Source1,3,42.86195,-71.33466,2020,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-7059690,NH,Rockingham,Londonderry,Source1,3,42.86342,-71.33653000000002,2020,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7059697,NH,Rockingham,Londonderry,Source1,3,42.86195,-71.33466,2020,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7059698,NH,Rockingham,Londonderry,Source1,3,42.86342,-71.33653000000002,2020,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7059701,NH,Rockingham,Londonderry,Source1,3,42.86531,-71.33813,2020,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7071818,NH,Rockingham,Derry,Source1,3,42.89215,-71.31199000000002,2020,8,Monday,Clear / Fair,False,True,False,False,False,False,False
+A-7090757,NH,Rockingham,Auburn,Source1,3,43.02585,-71.3626,2020,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7090783,NH,Rockingham,Londonderry,Source1,3,42.86563,-71.33835,2020,13,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7090789,NH,Rockingham,Londonderry,Source1,3,42.86563,-71.33835,2020,13,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7098726,NH,Rockingham,Londonderry,Source1,4,42.86531,-71.33813,2020,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-7098738,NH,Rockingham,Londonderry,Source1,4,42.86531,-71.33813,2020,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-7101782,NH,Rockingham,Raymond,Source1,3,43.03099,-71.1571,2020,17,Saturday,Cloudy,False,False,True,False,False,False,False
+A-7137733,NH,Rockingham,Derry,Source1,3,42.89228,-71.31223,2020,10,Thursday,Clear / Fair,False,True,False,False,False,False,False
+A-7137734,NH,Rockingham,Derry,Source1,3,42.89228,-71.31223,2020,10,Thursday,Clear / Fair,False,True,False,False,False,False,False
+A-7137737,NH,Rockingham,Derry,Source1,3,42.89228,-71.31223,2020,10,Thursday,Clear / Fair,False,True,False,False,False,False,False
+A-7168081,NH,Rockingham,Exeter,Source1,3,43.00184,-70.96773,2020,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7179613,NH,Rockingham,Londonderry,Source1,3,42.91192,-71.36811999999998,2020,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7179614,NH,Rockingham,Londonderry,Source1,3,42.91192,-71.36811999999998,2020,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7179624,NH,Rockingham,Londonderry,Source1,3,42.91192,-71.36811999999998,2020,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7179626,NH,Rockingham,Londonderry,Source1,3,42.91192,-71.36811999999998,2020,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7190081,NH,Rockingham,Candia,Source1,3,43.03881,-71.30389,2020,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7271026,NH,Rockingham,Seabrook,Source1,4,42.8943,-70.87769,2020,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7387107,NH,Rockingham,Londonderry,Source1,4,42.86521,-71.3383,2019,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7431775,NH,Rockingham,Londonderry,Source1,4,42.924981,-71.37685,2019,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7440398,NH,Rockingham,Londonderry,Source1,3,42.86521,-71.3383,2019,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7462425,NH,Rockingham,Derry,Source1,3,42.922564,-71.290215,2019,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-7462426,NH,Rockingham,Derry,Source1,3,42.924469,-71.288341,2019,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-7462430,NH,Rockingham,Derry,Source1,3,42.924469,-71.288341,2019,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-7466324,NH,Rockingham,Portsmouth,Source1,4,43.07808,-70.75318,2019,18,Sunday,Cloudy,False,False,False,False,False,True,False
+A-7507492,NH,Rockingham,Raymond,Source1,4,43.02534,-71.1898,2018,11,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7507493,NH,Rockingham,Raymond,Source1,4,43.02534,-71.1898,2018,11,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7560005,NH,Rockingham,Windham,Source1,4,42.843723,-71.307591,2018,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-7616147,NH,Rockingham,Exeter,Source1,4,43.01765,-71.03833,2018,13,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7616191,NH,Rockingham,Portsmouth,Source1,3,43.08737,-70.77233000000003,2018,21,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-7628835,NH,Rockingham,Windham,Source1,4,42.842949,-71.306904,2018,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7668879,NH,Rockingham,Greenland,Source1,3,43.020894,-70.83025699999997,2017,9,Sunday,Cloudy,False,False,False,False,False,False,False
+A-7678556,NH,Rockingham,Hampton,Source1,4,42.959128,-70.856258,2017,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7678559,NH,Rockingham,Hampton,Source1,4,42.958722,-70.855463,2017,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7705124,NH,Rockingham,Londonderry,Source1,3,42.875221,-71.34261,2019,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-7709636,NH,Rockingham,Raymond,Source1,3,43.027679,-71.175524,2019,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7727824,NH,Rockingham,Portsmouth,Source1,4,43.07552,-70.7842,2019,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7768498,NH,Rockingham,Londonderry,Source1,3,42.87300000000001,-71.34215,2019,13,Sunday,Cloudy,False,False,False,False,False,False,False

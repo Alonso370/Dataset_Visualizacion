@@ -1,0 +1,393 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-518350,PA,Erie,Erie,Source2,3,42.139774,-79.922836,2022,9,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-557446,PA,Erie,Erie,Source2,3,42.049652,-80.08116899999997,2022,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-563675,PA,Erie,Erie,Source2,3,42.118595,-79.963684,2022,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-567254,PA,Erie,Erie,Source2,3,42.092316,-80.006287,2022,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-568690,PA,Erie,North East,Source2,3,42.165356,-79.862183,2022,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-576924,PA,Erie,Erie,Source2,3,42.092316,-80.006287,2022,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-578498,PA,Erie,Erie,Source3,3,42.053394,-80.07083100000001,2022,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-657244,PA,Erie,Erie,Source2,3,42.031223,-80.122292,2022,22,Thursday,Cloudy,False,False,False,False,False,False,False
+A-671356,PA,Erie,Erie,Source2,3,42.118595,-79.963684,2022,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-679705,PA,Erie,Girard,Source2,3,41.959702,-80.34857199999998,2022,22,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-679829,PA,Erie,Girard,Source2,3,41.971268,-80.318893,2022,18,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-690910,PA,Erie,North East,Source2,3,42.233871,-79.77960999999998,2022,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-695734,PA,Erie,North East,Source2,3,42.129025,-79.770271,2022,18,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-695936,PA,Erie,Erie,Source2,3,42.062572,-80.053604,2022,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-721712,PA,Erie,North East,Source2,3,42.15906500000001,-79.880142,2022,13,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-729916,PA,Erie,Erie,Source2,3,42.07193,-80.036873,2022,11,Saturday,Cloudy,False,False,True,False,False,False,False
+A-733607,PA,Erie,North East,Source2,3,42.18829,-79.829369,2022,10,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-733631,PA,Erie,North East,Source2,3,42.152489,-79.892471,2022,5,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-734464,PA,Erie,Fairview,Source2,3,42.004944,-80.239243,2022,7,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-736316,PA,Erie,North East,Source2,3,42.152489,-79.892471,2022,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-736384,PA,Erie,North East,Source2,3,42.152489,-79.892471,2022,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-738128,PA,Erie,North East,Source2,3,42.137794,-79.822227,2022,7,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-739392,PA,Erie,Erie,Source2,3,42.092617,-80.12093399999998,2022,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-743276,PA,Erie,Edinboro,Source2,3,41.879719,-80.176338,2022,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-761964,PA,Erie,Girard,Source2,3,42.000053,-80.250793,2021,19,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-768796,PA,Erie,Fairview,Source2,3,42.004944,-80.239243,2021,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-789264,PA,Erie,Fairview,Source2,3,42.013927,-80.215752,2021,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-790257,PA,Erie,Edinboro,Source3,3,41.879719,-80.176338,2021,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-845480,PA,Erie,Erie,Source2,3,42.094624,-80.12138399999998,2021,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-869690,PA,Erie,North East,Source2,3,42.246624,-79.768456,2021,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-968819,PA,Erie,Mc Kean,Source2,3,41.996147,-80.16636700000002,2021,18,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1016265,PA,Erie,North East,Source2,3,42.18829,-79.829369,2021,14,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-1073812,PA,Erie,Girard,Source2,3,41.962761,-80.3405,2021,4,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1098338,PA,Erie,Mc Kean,Source2,3,41.996147,-80.16636700000002,2021,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1141500,PA,Erie,Fairview,Source2,3,42.004944,-80.239243,2021,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1158474,PA,Erie,Erie,Source2,3,42.139774,-79.922836,2021,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1183590,PA,Erie,Mc Kean,Source2,3,42.018604,-80.188087,2021,17,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1189428,PA,Erie,Erie,Source2,3,42.069874,-80.040276,2021,9,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1189429,PA,Erie,Erie,Source2,3,42.069874,-80.040276,2021,10,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1194921,PA,Erie,Erie,Source2,4,42.139774,-79.922836,2021,1,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1244160,PA,Erie,Mc Kean,Source2,3,41.996147,-80.16636700000002,2020,10,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1262079,PA,Erie,Girard,Source2,3,41.962761,-80.3405,2020,10,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1408482,PA,Erie,North East,Source2,3,42.233871,-79.77960999999998,2020,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1515634,PA,Erie,Girard,Source2,3,41.962696,-80.34079,2020,21,Friday,Cloudy,False,False,False,False,False,False,False
+A-1518343,PA,Erie,Erie,Source2,3,42.069874,-80.040276,2020,15,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1544631,PA,Erie,Erie,Source2,3,42.049629,-80.081032,2020,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1569610,PA,Erie,Erie,Source2,3,42.066238,-80.106133,2020,8,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-1569611,PA,Erie,Girard,Source2,3,41.945065,-80.40229000000002,2020,9,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-1578117,PA,Erie,Erie,Source2,3,42.139774,-79.922836,2020,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1580237,PA,Erie,North East,Source2,3,42.18829,-79.829369,2020,4,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-1580238,PA,Erie,Girard,Source2,3,41.994373,-80.264214,2020,4,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1580239,PA,Erie,Fairview,Source2,3,42.003941,-80.24073,2020,4,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1595029,PA,Erie,Fairview,Source2,4,42.004997,-80.239075,2020,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1595030,PA,Erie,Girard,Source2,3,41.962696,-80.34079,2020,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1602543,PA,Erie,West Springfield,Source2,3,41.943203,-80.463364,2020,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1634508,PA,Erie,Girard,Source2,3,41.962696,-80.34079,2020,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-1645497,PA,Erie,Erie,Source2,3,42.031223,-80.122292,2020,21,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1651779,PA,Erie,North East,Source2,3,42.152489,-79.892471,2020,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1674996,PA,Erie,Girard,Source2,4,41.962696,-80.34079,2020,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1674998,PA,Erie,Girard,Source2,3,41.945065,-80.40229000000002,2020,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1676710,PA,Erie,North East,Source2,3,42.233829,-79.779732,2020,22,Friday,Rain,False,False,False,False,False,False,False
+A-1681598,PA,Erie,West Springfield,Source2,4,41.943203,-80.463364,2019,16,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1684879,PA,Erie,North East,Source2,3,42.233829,-79.779732,2019,8,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1692751,PA,Erie,Girard,Source2,3,41.962696,-80.34079,2019,21,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1736183,PA,Erie,Erie,Source2,3,42.082932,-80.021362,2019,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1762059,PA,Erie,North East,Source2,3,42.18829,-79.829369,2019,19,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1762060,PA,Erie,North East,Source2,3,42.18829,-79.829369,2019,20,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-1797956,PA,Erie,Erie,Source2,3,42.031223,-80.122292,2019,13,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1816266,PA,Erie,North East,Source2,3,42.152489,-79.892471,2019,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1954306,PA,Erie,Erie,Source2,3,42.0923,-80.006401,2019,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2004214,PA,Erie,Albion,Source2,3,41.87529,-80.302719,2019,18,Monday,Clear / Fair,False,False,False,True,False,False,False
+A-2016149,PA,Erie,Erie,Source2,3,42.069874,-80.040276,2019,14,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2026339,PA,Erie,North East,Source2,3,42.18829,-79.829369,2019,11,Friday,Cloudy,False,False,True,False,False,False,False
+A-2026340,PA,Erie,North East,Source2,3,42.233829,-79.779732,2019,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-2066473,PA,Erie,Erie,Source2,3,42.11871,-79.96344,2019,7,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2104682,PA,Erie,Fairview,Source2,3,42.004997,-80.239075,2019,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2227791,PA,Erie,Erie,Source2,3,42.093418,-80.12195600000003,2019,21,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2235989,PA,Erie,Erie,Source2,3,42.049561,-80.081154,2019,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2238699,PA,Erie,Girard,Source2,3,41.962688,-80.340797,2019,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2245496,PA,Erie,Mc Kean,Source2,3,41.996632,-80.166275,2019,22,Friday,Rain,False,False,False,False,False,False,False
+A-2281524,PA,Erie,North East,Source2,3,42.188038,-79.82959,2019,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2287097,PA,Erie,North East,Source2,3,42.188095,-79.829674,2019,9,Friday,Cloudy,False,False,False,False,False,False,False
+A-2325672,PA,Erie,Erie,Source2,3,42.049561,-80.081154,2019,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2344418,PA,Erie,North East,Source2,3,42.188038,-79.82959,2019,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-2347675,PA,Erie,Fairview,Source2,3,42.004955,-80.239037,2019,14,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2358933,PA,Erie,Erie,Source2,3,42.119007,-79.962875,2019,9,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2358936,PA,Erie,Erie,Source2,3,42.119007,-79.962875,2019,9,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2358937,PA,Erie,Erie,Source2,3,42.119007,-79.962875,2019,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2362956,PA,Erie,North East,Source2,3,42.152359,-79.89280699999998,2019,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-2509238,PA,Erie,Erie,Source2,3,42.093571,-80.00591999999997,2018,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2581097,PA,Erie,Erie,Source2,3,42.070042,-80.040146,2018,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2581098,PA,Erie,Erie,Source2,3,42.070042,-80.040146,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2658287,PA,Erie,Erie,Source2,3,42.139645,-79.92340899999998,2018,8,Tuesday,Rain,False,False,False,False,False,False,False
+A-2668788,PA,Erie,Erie,Source2,3,42.070042,-80.040146,2018,17,Sunday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2787086,PA,Erie,Fairview,Source2,3,42.00494000000001,-80.239182,2018,13,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2826466,PA,Erie,Erie,Source2,3,42.051155,-80.077042,2018,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2835225,PA,Erie,North East,Source2,3,42.153656,-79.892548,2018,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2838643,PA,Erie,Mc Kean,Source2,3,42.018627,-80.18808,2018,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2882759,PA,Erie,West Springfield,Source2,3,41.943432,-80.465874,2018,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-2922006,PA,Erie,North East,Source2,3,42.18803,-79.830139,2018,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2933858,PA,Erie,Erie,Source2,3,42.118855,-79.96330999999998,2018,14,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2937359,PA,Erie,Girard,Source2,3,41.945179,-80.402229,2018,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2943473,PA,Erie,Edinboro,Source2,3,41.875191,-80.176201,2018,8,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-2943474,PA,Erie,Edinboro,Source2,3,41.879749,-80.175896,2018,8,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2943477,PA,Erie,Edinboro,Source2,3,41.879749,-80.175896,2018,11,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2943478,PA,Erie,North East,Source2,3,42.233372,-79.78029599999998,2018,13,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2943479,PA,Erie,Girard,Source2,3,41.962868,-80.340546,2018,13,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2948987,PA,Erie,Erie,Source2,3,42.032055,-80.122292,2018,15,Friday,Cloudy,False,False,True,False,False,False,False
+A-2964216,PA,Erie,Erie,Source2,3,42.032055,-80.122292,2018,14,Friday,Cloudy,False,False,True,False,False,False,False
+A-2997800,PA,Erie,Erie,Source2,3,42.093323,-80.121155,2018,15,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3000470,PA,Erie,North East,Source2,3,42.153656,-79.892548,2018,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-3005163,PA,Erie,Girard,Source2,3,41.962868,-80.340546,2018,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-3015303,PA,Erie,Erie,Source2,3,42.049522,-80.081551,2018,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-3029217,PA,Erie,Erie,Source2,3,42.070042,-80.040146,2018,18,Friday,Rain,False,False,False,False,False,False,False
+A-3033501,PA,Erie,North East,Source2,3,42.233372,-79.78029599999998,2018,15,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3039210,PA,Erie,Edinboro,Source2,3,41.879749,-80.175896,2018,9,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-3049795,PA,Erie,North East,Source2,3,42.153389,-79.893127,2018,12,Saturday,Cloudy,False,False,True,False,False,False,False
+A-3050917,PA,Erie,Erie,Source2,3,42.049522,-80.081551,2018,9,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-3062141,PA,Erie,Erie,Source2,3,42.118855,-79.96330999999998,2018,18,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3114696,PA,Erie,North East,Source2,3,42.18803,-79.830139,2017,13,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3121632,PA,Erie,North East,Source2,3,42.153656,-79.892548,2017,8,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3124584,PA,Erie,Fairview,Source2,3,42.00494000000001,-80.239182,2017,20,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3133314,PA,Erie,Erie,Source2,3,42.118855,-79.96330999999998,2017,14,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-3149393,PA,Erie,Erie,Source2,3,42.070042,-80.040146,2017,10,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-3149396,PA,Erie,Erie,Source2,3,42.118855,-79.96330999999998,2017,13,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-3154923,PA,Erie,Erie,Source2,3,42.118855,-79.96330999999998,2017,14,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3332423,PA,Erie,North East,Source2,3,42.153656,-79.892548,2017,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3404466,PA,Erie,Erie,Source2,3,42.118855,-79.96330999999998,2017,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3446814,PA,Erie,Erie,Source1,4,42.031242,-80.061755,2016,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-3446815,PA,Erie,Erie,Source1,4,42.043904,-80.07494799999998,2016,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-3446823,PA,Erie,Erie,Source1,4,42.031278,-80.061788,2016,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-3446825,PA,Erie,Erie,Source1,4,42.043882,-80.074922,2016,19,Monday,Cloudy,False,False,False,False,False,False,False
+A-3447963,PA,Erie,Erie,Source1,3,42.02641,-80.12283000000002,2016,11,Thursday,Snow / Ice,False,False,True,False,False,False,False
+A-3448008,PA,Erie,Girard,Source1,4,41.96161,-80.3434,2016,13,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3448106,PA,Erie,Fairview,Source1,4,42.0054,-80.23811500000002,2016,17,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3456643,PA,Erie,Erie,Source1,4,42.031165,-80.12411999999998,2017,21,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3458230,PA,Erie,Girard,Source1,4,41.96416,-80.33707,2017,1,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3458231,PA,Erie,Girard,Source1,4,41.94515,-80.399268,2017,1,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3458232,PA,Erie,Girard,Source1,4,41.96416,-80.33707,2017,2,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3458233,PA,Erie,Girard,Source1,4,41.96416,-80.33707,2017,2,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-3460904,PA,Erie,Fairview,Source1,4,42.043022,-80.278823,2017,2,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3460905,PA,Erie,Fairview,Source1,4,42.040252,-80.289813,2017,2,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3461046,PA,Erie,Erie,Source1,4,42.09659,-80.08197,2017,9,Friday,Rain,True,True,False,False,False,True,False
+A-3461096,PA,Erie,Erie,Source1,4,42.09659,-80.08197,2017,9,Friday,Rain,True,True,False,False,False,True,False
+A-3466878,PA,Erie,Lake City,Source1,4,42.03693,-80.304102,2016,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3466879,PA,Erie,Fairview,Source1,4,42.053269,-80.250485,2016,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3475843,PA,Erie,Union City,Source1,4,41.959359,-79.85396899999998,2016,18,Monday,Clear / Fair,False,False,False,True,False,False,False
+A-3475844,PA,Erie,Union City,Source1,4,41.99606,-79.81090999999998,2016,18,Monday,Clear / Fair,False,False,False,True,False,False,False
+A-3486949,PA,Erie,Girard,Source1,3,41.944773,-80.404966,2016,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-3496187,PA,Erie,Girard,Source1,4,41.995897,-80.328262,2016,1,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3496188,PA,Erie,Erie,Source1,4,42.108795,-80.082124,2016,1,Monday,Clear / Fair,True,True,False,False,False,True,False
+A-3505907,PA,Erie,Girard,Source1,4,41.993601,-80.338615,2016,23,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3572147,PA,Erie,Erie,Source1,4,42.090116,-80.085432,2017,14,Friday,Clear / Fair,False,True,False,True,False,False,False
+A-3572150,PA,Erie,Erie,Source1,4,42.086075,-80.087622,2017,14,Friday,Clear / Fair,False,True,False,True,False,False,False
+A-3572426,PA,Erie,Albion,Source1,4,41.87631500000001,-80.302435,2017,3,Sunday,Clear / Fair,False,False,False,True,False,False,False
+A-3572427,PA,Erie,Albion,Source1,4,41.88058,-80.282762,2017,3,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3573965,PA,Erie,Erie,Source1,4,42.04751,-80.08633,2017,5,Friday,Cloudy,False,False,False,False,False,False,False
+A-3578733,PA,Erie,Union City,Source1,4,41.935547,-79.843891,2017,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3578734,PA,Erie,Union City,Source1,4,41.962818,-79.85270899999998,2017,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3580279,PA,Erie,North East,Source1,4,42.145307,-79.82255,2017,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3580281,PA,Erie,North East,Source1,4,42.171934,-79.82258,2017,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3580702,PA,Erie,Wattsburg,Source1,4,42.03415,-79.822013,2017,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3580703,PA,Erie,Wattsburg,Source1,4,42.02427,-79.81815999999998,2017,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3581686,PA,Erie,Corry,Source1,4,41.93879,-79.5874,2017,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-3604709,PA,Erie,North East,Source1,4,42.18836,-79.82934,2017,3,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-3605741,PA,Erie,Harborcreek,Source1,4,42.1427,-79.91667,2017,8,Saturday,Rain,False,False,True,False,False,False,False
+A-3615567,PA,Erie,Fairview,Source1,4,42.00399,-80.2409,2017,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3618985,PA,Erie,Fairview,Source1,4,42.024167,-80.250828,2017,21,Tuesday,Cloudy,False,True,False,False,False,False,False
+A-3618986,PA,Erie,Fairview,Source1,4,42.017875,-80.246813,2017,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3641813,PA,Erie,Erie,Source1,4,42.11723,-80.09832,2017,17,Friday,Clear / Fair,True,True,False,False,False,False,False
+A-3641835,PA,Erie,Erie,Source1,4,42.119484,-80.09209799999998,2017,19,Friday,Clear / Fair,False,True,False,True,False,False,False
+A-3641836,PA,Erie,Erie,Source1,4,42.11723,-80.09832,2017,19,Friday,Clear / Fair,True,True,False,False,False,False,False
+A-3646593,PA,Erie,Erie,Source1,4,42.063819,-80.198091,2017,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3646594,PA,Erie,Erie,Source1,4,42.057602,-80.214163,2017,7,Thursday,Cloudy,False,False,False,True,False,False,False
+A-3646622,PA,Erie,Erie,Source1,4,42.05717,-80.2149,2017,7,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3646625,PA,Erie,Erie,Source1,4,42.063819,-80.198091,2017,9,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3646754,PA,Erie,Erie,Source1,4,42.06362,-80.19864,2017,9,Thursday,Clear / Fair,True,True,False,False,False,False,False
+A-3710504,PA,Erie,Erie,Source1,4,42.078908,-80.050882,2023,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-3725785,PA,Erie,Girard,Source1,4,42.00359702090262,-80.24172663650398,2022,7,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-3738051,PA,Erie,Waterford,Source1,4,41.876813,-79.95191899999998,2022,21,Thursday,Clear / Fair,False,False,False,True,False,False,False
+A-3747133,PA,Erie,Wattsburg,Source1,4,42.071326,-79.82165,2023,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3752003,PA,Erie,North East,Source1,4,42.121568,-79.796614,2023,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3802589,PA,Erie,Corry,Source1,4,41.93238,-79.611277,2022,20,Sunday,Cloudy,True,True,False,False,False,False,False
+A-3805371,PA,Erie,Union City,Source1,4,41.877777,-79.890771,2022,16,Wednesday,Clear / Fair,False,False,False,True,False,False,False
+A-3858723,PA,Erie,Union City,Source1,4,41.904601,-79.8216,2022,13,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-3864815,PA,Erie,West Springfield,Source1,4,41.943096,-80.465915,2022,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3877627,PA,Erie,Edinboro,Source1,4,41.88954,-80.127572,2022,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3887296,PA,Erie,West Springfield,Source1,4,41.943335,-80.45917800000002,2022,8,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3893621,PA,Erie,Waterford,Source1,4,41.925493,-79.935294,2022,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3950895,PA,Erie,Fairview,Source1,4,42.044147,-80.274519,2023,14,Wednesday,Rain,False,False,False,False,False,False,False
+A-3955540,PA,Erie,Fairview,Source1,4,42.006123,-80.23639,2022,15,Friday,Rain,False,False,True,False,False,False,False
+A-4003355,PA,Erie,Edinboro,Source1,4,41.88385200000001,-80.17641,2022,21,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4051726,PA,Erie,Erie,Source1,4,42.068008,-79.95629,2022,16,Tuesday,Cloudy,False,False,False,True,False,False,False
+A-4052255,PA,Erie,Erie,Source1,4,42.08702445,-80.06562352,2023,22,Thursday,Snow / Ice,False,True,False,False,False,False,False
+A-4059852,PA,Erie,Fairview,Source1,4,42.045476,-80.269851,2023,14,Wednesday,Rain,True,True,False,False,False,False,False
+A-4083689,PA,Erie,Erie,Source1,4,42.032746,-80.120271,2023,5,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4147125,PA,Erie,Waterford,Source1,4,41.973904,-79.990967,2022,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4164177,PA,Erie,Waterford,Source1,4,41.878681,-79.98785,2022,21,Thursday,Clear / Fair,False,False,False,True,False,False,False
+A-4166150,PA,Erie,Erie,Source1,4,42.137636,-79.92717900000002,2022,11,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-4177365,PA,Erie,Fairview,Source1,4,42.031481,-80.25547900000002,2022,5,Saturday,Clear / Fair,True,True,False,False,False,False,False
+A-4188913,PA,Erie,Erie,Source1,4,42.078005,-80.191942,2022,2,Tuesday,Cloudy,False,True,False,True,False,False,False
+A-4201277,PA,Erie,Girard,Source1,4,41.944681,-80.405865,2022,15,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-4201875,PA,Erie,Wattsburg,Source1,4,42.057034,-79.82172299999998,2023,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4229668,PA,Erie,Fairview,Source1,4,42.006123,-80.23639,2022,16,Friday,Cloudy,False,False,True,False,False,False,False
+A-4241775,PA,Erie,North East,Source1,4,42.135527,-79.81739,2022,9,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-4272865,PA,Erie,West Springfield,Source1,4,41.943093,-80.467876,2022,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4275022,PA,Erie,Fairview,Source1,4,42.006123,-80.23639,2022,6,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-4283695,PA,Erie,Erie,Source1,4,42.067688,-80.043863,2022,21,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-4310333,PA,Erie,Fairview,Source1,4,42.017552,-80.193407,2022,22,Thursday,Cloudy,False,False,True,False,False,False,False
+A-4355282,PA,Erie,Erie,Source1,4,42.065272,-80.114312,2022,7,Monday,Cloudy,True,True,False,False,False,False,False
+A-4356659,PA,Erie,Waterford,Source1,4,42.015754,-80.047636,2022,4,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-4377299,PA,Erie,Erie,Source1,4,42.11643400000001,-79.96655200000002,2022,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4400347,PA,Erie,Girard,Source1,4,42.003592,-80.241724,2022,7,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-4453006,PA,Erie,Erie,Source1,4,42.028831243314606,-80.1285803314203,2022,7,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-4456822,PA,Erie,Girard,Source1,4,41.961489,-80.343673,2022,5,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4472655,PA,Erie,East Springfield,Source1,4,41.971067,-80.40602,2022,15,Sunday,Rain,False,False,False,False,False,False,False
+A-4498695,PA,Erie,Union City,Source1,4,42.027599,-79.928597,2023,17,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-4523887,PA,Erie,Union City,Source1,4,41.904601,-79.8216,2022,4,Sunday,Clear / Fair,False,False,False,True,False,False,False
+A-4535715,PA,Erie,Waterford,Source1,4,41.99445,-80.001676,2022,10,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4544028,PA,Erie,Erie,Source1,4,42.08906293,-80.06641746,2023,22,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-4547746,PA,Erie,Harborcreek,Source1,4,42.142828,-79.916427,2022,8,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-4550393,PA,Erie,West Springfield,Source1,4,41.943104,-80.479171,2022,17,Saturday,Clear / Fair,False,False,True,False,False,False,False
+A-4551395,PA,Erie,Lake City,Source1,4,42.037226,-80.30295500000003,2023,14,Wednesday,Rain,False,False,False,False,False,False,False
+A-4553074,PA,Erie,Erie,Source1,4,42.104298,-80.094319,2022,22,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-4565231,PA,Erie,Girard,Source1,4,41.944681,-80.405865,2022,10,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-4568527,PA,Erie,North East,Source1,4,42.232122,-79.780395,2022,0,Wednesday,Rain,False,False,True,False,False,False,False
+A-4581578,PA,Erie,North East,Source1,4,42.138452,-79.822851,2022,2,Sunday,Rain,False,False,False,False,False,False,False
+A-4587402,PA,Erie,Erie,Source1,4,42.06417203,-80.09892583,2022,20,Saturday,Cloudy,True,True,False,False,False,False,False
+A-4599162,PA,Erie,West Springfield,Source1,4,41.943093,-80.467876,2022,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-4642128,PA,Erie,North East,Source1,4,42.121748,-79.781908,2023,17,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-4668396,PA,Erie,North East,Source1,4,42.164884,-79.822653,2022,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4722242,PA,Erie,Erie,Source1,4,42.077396,-80.196689,2022,2,Tuesday,Cloudy,False,True,False,True,False,False,False
+A-4728385,PA,Erie,North East,Source1,4,42.250431,-79.76450200000002,2022,9,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-4731748,PA,Erie,Edinboro,Source1,4,41.891067,-80.12740600000002,2022,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-4743465,PA,Erie,Harborcreek,Source1,4,42.17143,-79.947786,2022,15,Friday,Snow / Ice,False,True,False,True,False,False,False
+A-4839813,PA,Erie,East Springfield,Source1,4,41.965043,-80.407636,2022,15,Sunday,Rain,False,True,False,True,False,False,False
+A-4851481,PA,Erie,Erie,Source1,4,42.073631,-80.121931,2022,7,Monday,Cloudy,True,False,False,False,False,False,False
+A-4872723,PA,Erie,Corry,Source1,4,41.898682,-79.655176,2022,4,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-4916086,PA,Erie,North East,Source1,4,42.151037,-79.897763,2022,15,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-4970982,PA,Erie,Erie,Source1,4,42.075696,-80.046144,2023,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4980330,PA,Erie,Union City,Source1,4,41.900146,-79.835172,2022,4,Sunday,Clear / Fair,False,True,False,True,False,False,False
+A-5004335,PA,Erie,Edinboro,Source1,4,41.898898,-80.126554,2022,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5005602,PA,Erie,Union City,Source1,4,42.01223,-79.90409100000002,2023,17,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-5006651,PA,Erie,Union City,Source1,4,41.87242,-79.881589,2022,16,Wednesday,Clear / Fair,False,False,False,True,False,False,False
+A-5009538,PA,Erie,Waterford,Source1,4,42.004318,-80.037196,2022,8,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5045410,PA,Erie,Waterford,Source1,4,41.908332,-79.90035300000002,2022,18,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5049295,PA,Erie,Erie,Source1,4,42.103433,-80.096684,2022,22,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-5093851,PA,Erie,Erie,Source1,4,42.13762164095813,-79.92715716323886,2022,21,Monday,Cloudy,False,False,True,False,False,False,False
+A-5105778,PA,Erie,Erie,Source1,4,42.137636,-79.92717900000002,2022,21,Monday,Cloudy,False,False,True,False,False,False,False
+A-5126195,PA,Erie,Edinboro,Source1,4,41.902253,-80.12624699999998,2022,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5144379,PA,Erie,Waterford,Source1,4,42.003963,-80.036867,2022,4,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-5157768,PA,Erie,Corry,Source1,4,41.859346,-79.647807,2022,4,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5170695,PA,Erie,North East,Source1,4,42.155109,-79.822537,2022,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5181290,PA,Erie,Girard,Source1,4,42.021139,-80.27126700000002,2022,5,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5193099,PA,Erie,Harborcreek,Source1,4,42.142828,-79.916427,2022,6,Thursday,Fog / Low visibility,False,False,True,False,False,False,False
+A-5211623,PA,Erie,North East,Source1,4,42.190929,-79.826515,2022,12,Sunday,Snow / Ice,False,False,True,False,False,False,False
+A-5238627,PA,Erie,West Springfield,Source1,4,41.943093,-80.467876,2022,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5239285,PA,Erie,Union City,Source1,4,41.91359600000001,-79.80034599999998,2022,13,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-5242255,PA,Erie,Harborcreek,Source1,4,42.170471,-79.94924499999998,2022,15,Friday,Snow / Ice,False,True,False,True,False,False,False
+A-5252804,PA,Erie,Erie,Source1,4,42.099754,-80.145634,2022,21,Thursday,Rain,True,True,False,False,False,False,False
+A-5259845,PA,Erie,Erie,Source1,4,42.118856,-79.963314,2022,16,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-5263508,PA,Erie,Waterford,Source1,4,41.989285,-80.023776,2022,8,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5301002,PA,Erie,Erie,Source1,4,42.104298,-80.094319,2022,17,Wednesday,Cloudy,True,True,False,False,False,False,False
+A-5426246,PA,Erie,Girard,Source1,4,41.944681,-80.405865,2022,22,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-5428275,PA,Erie,Erie,Source1,4,42.063546,-79.94211700000002,2022,16,Tuesday,Cloudy,False,False,False,True,False,False,False
+A-5473610,PA,Erie,Waterford,Source1,4,41.952584,-79.99234,2021,16,Sunday,Clear / Fair,True,False,False,False,False,False,False
+A-5474645,PA,Erie,Erie,Source1,4,42.044335,-80.075408,2021,16,Tuesday,Clear / Fair,True,True,False,False,False,False,False
+A-5480024,PA,Erie,Edinboro,Source1,4,41.88385200000001,-80.17641,2021,22,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5490394,PA,Erie,West Springfield,Source1,4,41.956498,-80.447406,2021,6,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-5490917,PA,Erie,Albion,Source1,4,41.850735,-80.371277,2021,2,Sunday,Clear / Fair,False,False,False,True,False,False,False
+A-5498840,PA,Erie,Waterford,Source1,4,41.932226,-79.97422900000002,2021,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-5499237,PA,Erie,Erie,Source1,4,42.042155,-80.0729,2021,16,Tuesday,Clear / Fair,False,False,False,True,False,False,False
+A-5514692,PA,Erie,Erie,Source1,4,42.193885,-79.949106,2021,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5521553,PA,Erie,Albion,Source1,4,41.87655,-80.305699,2021,19,Tuesday,Rain,False,False,False,False,False,False,False
+A-5537406,PA,Erie,Harborcreek,Source1,4,42.166991,-79.956395,2021,2,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5558954,PA,Erie,Corry,Source1,4,41.918298,-79.74374399999998,2021,23,Monday,Snow / Ice,False,False,False,True,False,False,False
+A-5579032,PA,Erie,Waterford,Source1,4,41.879999,-79.991135,2021,18,Friday,Clear / Fair,False,False,False,True,False,False,False
+A-5585046,PA,Erie,Erie,Source1,4,42.087031,-80.065639,2021,18,Tuesday,Clear / Fair,False,True,False,False,False,False,False
+A-5587601,PA,Erie,Corry,Source1,4,41.91783070544282,-79.71262335739273,2021,23,Monday,Snow / Ice,False,False,False,True,False,False,False
+A-5597070,PA,Erie,Albion,Source1,4,41.903109,-80.446867,2021,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-5606469,PA,Erie,Waterford,Source1,4,41.976643,-80.01102900000002,2021,16,Saturday,Cloudy,False,False,False,True,False,False,False
+A-5610360,PA,Erie,Harborcreek,Source1,4,42.201869,-79.935191,2021,13,Monday,Clear / Fair,False,False,False,True,False,False,False
+A-5612504,PA,Erie,Edinboro,Source1,4,41.88553690890367,-80.17634510955726,2021,22,Saturday,Cloudy,False,False,False,False,False,False,False
+A-5629861,PA,Erie,West Springfield,Source1,4,41.959791,-80.43256600000002,2021,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5660406,PA,Erie,North East,Source1,4,42.252765,-79.796387,2021,22,Monday,Clear / Fair,False,False,False,True,False,False,False
+A-5661244,PA,Erie,Erie,Source1,4,42.032457,-80.062876,2021,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5662995,PA,Erie,Girard,Source1,4,41.949371,-80.32825,2021,6,Sunday,Clear / Fair,False,False,False,True,False,False,False
+A-5666676,PA,Erie,Cranesville,Source1,4,41.93753,-80.329784,2021,5,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5784056,PA,Erie,Corry,Source1,4,41.917834,-79.712629,2021,23,Monday,Snow / Ice,False,False,False,True,False,False,False
+A-5791471,PA,Erie,Girard,Source1,4,41.9445240495589,-80.40214419326591,2021,7,Tuesday,Cloudy,False,False,False,True,False,False,False
+A-5795316,PA,Erie,Albion,Source1,4,41.87655,-80.305699,2021,19,Tuesday,Rain,False,False,False,False,False,False,False
+A-5804303,PA,Erie,Corry,Source1,4,41.91828131655732,-79.74373698196531,2021,23,Monday,Snow / Ice,False,False,False,True,False,False,False
+A-5849244,PA,Erie,Girard,Source1,4,41.945446729460016,-80.3983032699566,2021,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5862371,PA,Erie,Union City,Source1,4,41.902768,-79.84891999999998,2021,11,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5907398,PA,Erie,North East,Source1,4,42.24729180315853,-79.80898976287932,2021,22,Monday,Clear / Fair,False,False,False,True,False,False,False
+A-5922596,PA,Erie,Harborcreek,Source1,4,42.168099,-79.953255,2021,2,Friday,Clear / Fair,False,True,False,False,False,False,False
+A-5963211,PA,Erie,Girard,Source1,4,41.945446729460016,-80.3983032699566,2021,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-5981505,PA,Erie,Albion,Source1,4,41.890635,-80.435138,2021,13,Friday,Cloudy,False,False,False,True,False,False,False
+A-5984681,PA,Erie,Waterford,Source1,4,41.956293,-79.99262900000002,2021,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5985098,PA,Erie,Erie,Source1,4,42.120968,-80.049054,2021,8,Tuesday,Cloudy,False,True,False,True,True,True,False
+A-6037859,PA,Erie,Erie,Source1,4,42.175269,-79.985108,2021,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6040593,PA,Erie,Albion,Source1,4,41.888623,-80.337317,2021,19,Tuesday,Rain,False,False,False,True,False,False,False
+A-6079551,PA,Erie,Albion,Source1,4,41.878248,-80.487932,2021,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-6097524,PA,Erie,Girard,Source1,4,41.945446729460016,-80.3983032699566,2021,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6173173,PA,Erie,Corry,Source1,4,41.891238,-79.70200899999998,2021,23,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-6177747,PA,Erie,Erie,Source1,4,42.06145,-80.093778,2021,18,Wednesday,Cloudy,True,False,False,False,False,False,False
+A-6203581,PA,Erie,Girard,Source1,4,41.9610893724348,-80.34476637801959,2021,2,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6226213,PA,Erie,Girard,Source1,4,41.945589,-80.402271,2021,7,Tuesday,Cloudy,False,False,False,True,False,False,False
+A-6233511,PA,Erie,Erie,Source1,4,42.119249,-80.053713,2021,8,Tuesday,Cloudy,False,True,False,True,True,False,False
+A-6257554,PA,Erie,Erie,Source1,4,42.089534,-80.011972,2021,9,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-6258905,PA,Erie,Erie,Source1,4,42.069273,-80.105787,2021,13,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-6267702,PA,Erie,Waterford,Source1,4,41.882303,-80.000621,2021,18,Friday,Clear / Fair,True,False,False,False,False,False,False
+A-6274188,PA,Erie,Albion,Source1,4,41.890354,-80.44818000000002,2021,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-6276649,PA,Erie,Wattsburg,Source1,4,41.981787,-79.786828,2021,23,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-6325305,PA,Erie,Waterford,Source1,4,41.925493,-79.935294,2021,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-6334844,PA,Erie,Waterford,Source1,4,41.952941,-79.99256700000002,2021,16,Saturday,Cloudy,False,False,False,True,False,False,False
+A-6347900,PA,Erie,Albion,Source1,4,41.850732,-80.371266,2021,0,Sunday,Cloudy,False,False,False,True,False,False,False
+A-6352672,PA,Erie,Erie,Source1,4,42.186003,-79.96077700000002,2021,8,Friday,Cloudy,False,False,False,True,False,False,False
+A-6453142,PA,Erie,Corry,Source1,4,41.918304,-79.74431,2021,6,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-6458703,PA,Erie,Union City,Source1,4,41.920706,-79.776337,2021,6,Wednesday,Cloudy,False,False,False,True,False,False,False
+A-6463123,PA,Erie,Girard,Source1,4,41.944674,-80.405856,2021,4,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-6474261,PA,Erie,North East,Source1,4,42.191047,-79.826362,2021,17,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-6512023,PA,Erie,Harborcreek,Source1,4,42.201869,-79.935191,2021,8,Friday,Cloudy,False,False,False,True,False,False,False
+A-6546429,PA,Erie,North East,Source1,4,42.190507,-79.827051,2021,8,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6555423,PA,Erie,Union City,Source1,4,41.88706,-79.845298,2021,8,Tuesday,Rain,False,False,False,True,False,False,False
+A-6557557,PA,Erie,Erie,Source1,4,42.105174,-80.091939,2021,15,Sunday,Snow / Ice,False,True,False,True,False,False,False
+A-6559504,PA,Erie,Erie,Source1,4,42.103433,-80.096684,2021,15,Sunday,Snow / Ice,True,True,False,False,False,False,False
+A-6572568,PA,Erie,Union City,Source1,4,41.890934,-79.84836999999997,2021,8,Tuesday,Rain,False,False,False,True,False,False,False
+A-6581528,PA,Erie,Erie,Source1,4,42.104948,-80.077415,2020,23,Monday,Cloudy,False,True,False,True,True,False,False
+A-6588005,PA,Erie,Wattsburg,Source1,4,42.024668,-79.818216,2020,1,Wednesday,Storm,False,False,False,True,False,False,False
+A-6590847,PA,Erie,Erie,Source1,4,42.107986,-80.07611899999998,2020,23,Monday,Cloudy,True,True,False,True,False,False,False
+A-6594661,PA,Erie,North East,Source1,4,42.23232,-79.78065,2020,15,Monday,Cloudy,False,False,True,False,False,False,False
+A-6596775,PA,Erie,North East,Source1,4,42.23232,-79.78065,2020,15,Monday,Cloudy,False,False,True,False,False,False,False
+A-6607087,PA,Erie,Erie,Source1,4,42.11051,-80.07518,2020,19,Monday,Clear / Fair,False,True,False,True,False,False,False
+A-6639717,PA,Erie,Fairview,Source1,4,41.999856,-80.210592,2020,6,Friday,Rain,False,False,False,False,False,False,False
+A-6642636,PA,Erie,Erie,Source1,4,42.076101,-80.20616700000002,2020,6,Saturday,Clear / Fair,False,True,False,False,False,False,False
+A-6646501,PA,Erie,North East,Source1,4,42.115901,-79.82426099999998,2020,1,Wednesday,Storm,False,False,False,False,False,False,False
+A-6650960,PA,Erie,Mc Kean,Source1,4,42.004718,-80.202454,2020,6,Friday,Rain,False,False,False,False,False,False,False
+A-6652820,PA,Erie,Wattsburg,Source1,4,42.024668,-79.818216,2020,1,Wednesday,Storm,False,False,False,True,False,False,False
+A-6656823,PA,Erie,Wattsburg,Source1,4,41.998862,-79.810884,2020,1,Wednesday,Storm,False,False,False,False,False,False,False
+A-6689751,PA,Erie,North East,Source1,4,42.118515,-79.82425500000002,2020,1,Wednesday,Storm,True,False,False,False,False,False,False
+A-6701634,PA,Erie,Mc Kean,Source1,4,41.939833,-80.128742,2020,8,Thursday,Rain,False,False,False,False,False,False,False
+A-6701674,PA,Erie,Erie,Source1,4,42.107929,-80.073699,2020,12,Sunday,Cloudy,True,True,False,False,False,True,False
+A-6705458,PA,Erie,Union City,Source1,4,41.878219,-79.896966,2020,4,Friday,Clear / Fair,False,False,False,True,False,False,False
+A-6733750,PA,Erie,Wattsburg,Source1,4,42.025024,-79.81824300000002,2020,1,Wednesday,Storm,False,False,False,False,False,False,False
+A-6733751,PA,Erie,Wattsburg,Source1,4,42.025024,-79.81824300000002,2020,1,Wednesday,Storm,False,False,False,False,False,False,False
+A-6751811,PA,Erie,Wattsburg,Source1,4,42.005243,-79.811075,2020,1,Wednesday,Storm,False,False,False,False,False,False,False
+A-6792027,PA,Erie,Mc Kean,Source1,4,41.985135,-80.141476,2020,8,Thursday,Rain,False,False,False,False,False,False,False
+A-6814060,PA,Erie,Erie,Source1,4,42.10572,-80.07704,2020,19,Monday,Clear / Fair,False,True,False,True,True,False,False
+A-6832393,PA,Erie,Erie,Source1,4,42.076591,-80.203133,2020,7,Saturday,Clear / Fair,True,True,False,False,False,False,False
+A-6893989,PA,Erie,Wattsburg,Source1,4,42.005243,-79.811075,2020,1,Wednesday,Storm,False,False,False,False,False,False,False
+A-6966058,PA,Erie,Wattsburg,Source1,4,42.025024,-79.81824300000002,2020,1,Wednesday,Storm,False,False,False,False,False,False,False
+A-6977250,PA,Erie,Erie,Source1,4,42.076591,-80.203133,2020,7,Saturday,Clear / Fair,True,True,False,False,False,False,False
+A-7152289,PA,Erie,Erie,Source1,3,42.04751,-80.08633,2020,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7152292,PA,Erie,Erie,Source1,3,42.04751,-80.08633,2020,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7152296,PA,Erie,Erie,Source1,3,42.04751,-80.08633,2020,7,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-7224598,PA,Erie,Fairview,Source1,4,42.00561,-80.23761,2020,0,Friday,Cloudy,False,False,False,False,False,False,False
+A-7224599,PA,Erie,Fairview,Source1,4,42.00561,-80.23761,2020,23,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-7228309,PA,Erie,North East,Source1,4,42.23223,-79.78036999999998,2020,21,Saturday,Cloudy,False,False,True,False,False,False,False
+A-7228316,PA,Erie,North East,Source1,4,42.23223,-79.78036999999998,2020,22,Saturday,Cloudy,False,False,True,False,False,False,False
+A-7277411,PA,Erie,North East,Source1,4,42.24589,-79.76931,2020,10,Thursday,Other,False,False,False,False,False,False,False
+A-7277419,PA,Erie,North East,Source1,4,42.23223,-79.78036999999998,2020,10,Thursday,Snow / Ice,False,False,True,False,False,False,False
+A-7285307,PA,Erie,Harborcreek,Source1,4,42.1427,-79.91667,2019,10,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7285312,PA,Erie,North East,Source1,4,42.15114000000001,-79.89817,2019,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7392811,PA,Erie,Erie,Source1,4,42.096011,-80.11672800000002,2019,21,Saturday,Clear / Fair,False,True,False,True,False,False,False
+A-7392812,PA,Erie,Erie,Source1,4,42.096486,-80.11545100000002,2019,21,Saturday,Clear / Fair,True,True,False,False,False,False,False
+A-7443374,PA,Erie,Erie,Source1,4,42.093958,-80.16134699999998,2019,13,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7443375,PA,Erie,Erie,Source1,4,42.09494,-80.1587,2019,13,Saturday,Cloudy,True,True,False,False,False,False,False
+A-7446119,PA,Erie,North East,Source1,4,42.19005,-79.82718,2019,8,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7467178,PA,Erie,North East,Source1,4,42.15145,-79.8969,2019,23,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7470678,PA,Erie,North East,Source1,4,42.15145,-79.8969,2019,23,Monday,Cloudy,False,False,True,False,False,False,False
+A-7476089,PA,Erie,Erie,Source1,4,42.03461400000001,-80.12235600000002,2018,9,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7509584,PA,Erie,Erie,Source1,4,42.138275,-79.926419,2018,6,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7563262,PA,Erie,Erie,Source1,4,42.09975,-80.14559,2018,0,Monday,Clear / Fair,True,True,False,False,False,False,False
+A-7563263,PA,Erie,Erie,Source1,4,42.09975900000001,-80.14556800000003,2018,0,Monday,Clear / Fair,True,True,False,False,False,False,False
+A-7563391,PA,Erie,Erie,Source1,4,42.09975900000001,-80.14556800000003,2018,1,Monday,Cloudy,True,True,False,False,False,False,False
+A-7563392,PA,Erie,Erie,Source1,4,42.09975,-80.14559,2018,1,Monday,Cloudy,True,True,False,False,False,False,False
+A-7569668,PA,Erie,Fairview,Source1,4,42.05503,-80.24759,2018,6,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7569669,PA,Erie,Fairview,Source1,4,42.056411,-80.245308,2018,6,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7569670,PA,Erie,Fairview,Source1,4,42.056427,-80.24528199999997,2018,6,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7569671,PA,Erie,Fairview,Source1,4,42.055006,-80.24763100000001,2018,6,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-7593699,PA,Erie,Albion,Source1,4,41.891289,-80.410598,2018,22,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7593700,PA,Erie,Albion,Source1,4,41.89067,-80.426982,2018,22,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7593701,PA,Erie,Albion,Source1,3,41.89067,-80.426946,2018,23,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7593704,PA,Erie,Albion,Source1,3,41.891289,-80.410573,2018,23,Saturday,Cloudy,False,False,False,False,False,False,False
+A-7647670,PA,Erie,Girard,Source1,4,41.94475,-80.40531,2017,4,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-7690153,PA,Erie,North East,Source1,4,42.13653,-79.819264,2017,20,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7690729,PA,Erie,North East,Source1,4,42.13573,-79.81777,2017,1,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-7765272,PA,Erie,Mc Kean,Source1,4,42.019172,-80.184464,2019,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7765275,PA,Erie,Mc Kean,Source1,4,42.019172,-80.184464,2019,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-7770411,PA,Erie,North East,Source1,4,42.15145,-79.8969,2019,4,Thursday,Clear / Fair,False,False,True,False,False,False,False
+A-7770412,PA,Erie,North East,Source1,4,42.15145,-79.8969,2019,5,Thursday,Clear / Fair,False,False,True,False,False,False,False

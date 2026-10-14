@@ -1,0 +1,544 @@
+ID,State,County,City,Source,Severity,Start_Lat,Start_Lng,year,hour,day_of_week,weather_group,Traffic_Signal,Crossing,Junction,Stop,Station,Amenity,Railway
+A-257162,PA,Luzerne,Hazleton,Source2,3,40.924889,-76.01106999999998,2016,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-257174,PA,Luzerne,Hazleton,Source2,3,40.925365,-76.011932,2016,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-426832,PA,Luzerne,Hazleton,Source2,3,40.943378,-76.02514599999998,2017,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-448809,PA,Luzerne,Hazleton,Source2,3,40.942715,-76.025162,2017,20,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-513237,PA,Luzerne,Drums,Source2,4,41.02647,-76.079308,2022,4,Wednesday,Rain,False,False,False,False,False,False,False
+A-531731,PA,Luzerne,Pittston,Source2,3,41.30434,-75.766548,2022,16,Saturday,Cloudy,False,False,False,False,False,False,False
+A-543942,PA,Luzerne,Wilkes-Barre,Source2,3,41.199936,-75.792885,2022,17,Sunday,Rain,False,False,False,False,False,False,False
+A-550622,PA,Luzerne,Mountain Top,Source2,3,41.08242,-75.964554,2022,18,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-557152,PA,Luzerne,Pittston,Source2,3,41.309643,-75.758339,2022,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-557163,PA,Luzerne,Wilkes-Barre,Source2,3,41.199936,-75.792885,2022,12,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-563487,PA,Luzerne,Nescopeck,Source2,4,41.019009,-76.181053,2022,4,Monday,Rain,False,False,False,False,False,False,False
+A-570559,PA,Luzerne,Drums,Source2,3,41.02647,-76.079308,2022,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-570949,PA,Luzerne,Mountain Top,Source2,3,41.147827,-75.962013,2022,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-571522,PA,Luzerne,Mountain Top,Source2,3,41.147827,-75.962013,2022,12,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-583490,PA,Luzerne,Wilkes-Barre,Source2,3,41.199936,-75.792885,2022,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-588033,PA,Luzerne,Pittston,Source2,3,41.342499,-75.73230699999998,2022,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-603549,PA,Luzerne,Drums,Source2,3,41.053642,-75.959694,2022,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-608009,PA,Luzerne,Pittston,Source2,3,41.30931500000001,-75.758453,2022,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-630182,PA,Luzerne,Mountain Top,Source2,4,41.147865,-75.962112,2022,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-631766,PA,Luzerne,Drums,Source2,3,41.050655,-75.996613,2022,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-632174,PA,Luzerne,Mountain Top,Source2,3,41.168217,-75.957077,2022,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-640611,PA,Luzerne,Wilkes-Barre,Source2,3,41.20929,-75.894051,2022,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-644566,PA,Luzerne,Wilkes-Barre,Source2,3,41.220287,-75.799217,2022,7,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-657941,PA,Luzerne,Mountain Top,Source2,3,41.147827,-75.962013,2022,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-672053,PA,Luzerne,Pittston,Source2,3,41.325188,-75.73741899999997,2022,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-672090,PA,Luzerne,Wilkes Barre,Source2,3,41.199898,-75.79276999999998,2022,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-677660,PA,Luzerne,Pittston,Source2,3,41.309715,-75.758324,2022,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-678933,PA,Luzerne,Mountain Top,Source2,3,41.143047,-75.963852,2022,16,Sunday,Cloudy,False,False,False,False,False,False,False
+A-685925,PA,Luzerne,Hazleton,Source2,3,40.932339,-76.016991,2022,20,Monday,Cloudy,False,False,False,False,False,False,False
+A-688362,PA,Luzerne,Wilkes-Barre,Source2,3,41.292534,-75.779236,2022,18,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-701062,PA,Luzerne,Pittston,Source2,3,41.309715,-75.758324,2022,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-703866,PA,Luzerne,Sugarloaf,Source2,3,41.026459,-76.079185,2022,13,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-704980,PA,Luzerne,Pittston,Source2,3,41.313324,-75.751572,2022,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-711267,PA,Luzerne,Pittston,Source2,3,41.309715,-75.758324,2022,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-721693,PA,Luzerne,Wilkes Barre,Source2,3,41.199898,-75.79276999999998,2022,14,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-729515,PA,Luzerne,Pittston,Source2,3,41.309715,-75.758324,2022,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-739272,PA,Luzerne,Pittston,Source2,3,41.313324,-75.751572,2022,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-739995,PA,Luzerne,Wilkes Barre,Source2,3,41.199898,-75.79276999999998,2022,7,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-744166,PA,Luzerne,Mountain Top,Source2,3,41.147827,-75.962013,2022,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-744219,PA,Luzerne,Mountain Top,Source2,3,41.082581,-75.963516,2022,8,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-746971,PA,Luzerne,Pittston,Source2,3,41.30434,-75.766548,2022,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-752378,PA,Luzerne,Mountain Top,Source2,3,41.167171,-75.956787,2022,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-753260,PA,Luzerne,Sugarloaf,Source2,3,41.026459,-76.079185,2022,8,Sunday,Rain,False,False,False,False,False,False,False
+A-753279,PA,Luzerne,Sugarloaf,Source2,3,41.012741,-76.167496,2022,8,Sunday,Rain,False,False,False,False,False,False,False
+A-763651,PA,Luzerne,White Haven,Source2,3,41.05685,-75.80435200000002,2021,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-763652,PA,Luzerne,Freeland,Source2,3,41.052773,-75.849075,2021,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-764820,PA,Luzerne,Hazleton,Source2,3,40.942982,-76.025375,2021,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-798956,PA,Luzerne,Hazleton,Source3,3,40.925331,-76.011826,2021,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-806293,PA,Luzerne,Hazleton,Source2,3,40.942982,-76.025375,2021,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-807086,PA,Luzerne,Mountain Top,Source2,3,41.14642,-75.962723,2021,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-811402,PA,Luzerne,Wilkes Barre,Source2,3,41.292515,-75.77877,2021,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-813435,PA,Luzerne,Pittston,Source2,3,41.316135,-75.74398000000002,2021,17,Thursday,Rain,False,False,False,False,False,False,False
+A-813477,PA,Luzerne,Pittston,Source2,3,41.333233,-75.736397,2021,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-818876,PA,Luzerne,Wilkes Barre,Source2,3,41.174728,-75.780647,2021,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-825720,PA,Luzerne,Mountain Top,Source2,3,41.101524,-75.96172299999998,2021,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-826248,PA,Luzerne,Wilkes Barre,Source2,3,41.251595,-75.819839,2021,4,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-827507,PA,Luzerne,Wilkes Barre,Source2,3,41.202751,-75.90479300000001,2021,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-827733,PA,Luzerne,Drums,Source2,3,41.041264,-76.014938,2021,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-827964,PA,Luzerne,Drums,Source2,3,41.043892,-76.014664,2021,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-830913,PA,Luzerne,Wilkes Barre,Source2,3,41.202751,-75.90479300000001,2021,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-833200,PA,Luzerne,Mountain Top,Source2,3,41.12542,-75.962532,2021,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-846331,PA,Luzerne,Mountain Top,Source2,3,41.147827,-75.962013,2021,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-846637,PA,Luzerne,Pittston,Source2,3,41.30434,-75.766548,2021,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-853164,PA,Luzerne,Pittston,Source2,3,41.333233,-75.736397,2021,16,Tuesday,Rain,False,False,False,False,False,False,False
+A-865017,PA,Luzerne,Wilkes Barre,Source2,3,41.202137,-75.905136,2021,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-868936,PA,Luzerne,Pittston,Source2,3,41.306599,-75.765549,2021,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-876709,PA,Luzerne,Mountain Top,Source2,3,41.147827,-75.962013,2021,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-878100,PA,Luzerne,Mountain Top,Source2,3,41.147827,-75.962013,2021,7,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-878944,PA,Luzerne,Pittston,Source2,3,41.333233,-75.736397,2021,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-886025,PA,Luzerne,Sugarloaf,Source2,3,41.026459,-76.079185,2021,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-887667,PA,Luzerne,Wilkes Barre,Source2,3,41.199898,-75.79276999999998,2021,12,Thursday,Storm,False,False,False,False,False,False,False
+A-891887,PA,Luzerne,Wilkes Barre,Source2,3,41.241425,-75.831924,2021,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-892358,PA,Luzerne,Wilkes Barre,Source2,3,41.202751,-75.90479300000001,2021,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-896544,PA,Luzerne,Drums,Source2,3,41.053642,-75.959694,2021,15,Thursday,Cloudy,False,False,False,False,False,False,False
+A-913407,PA,Luzerne,Sugarloaf,Source2,3,41.026459,-76.079185,2021,5,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-913576,PA,Luzerne,Sugarloaf,Source2,3,41.026459,-76.079185,2021,6,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-913591,PA,Luzerne,Pittston,Source2,3,41.30434,-75.766548,2021,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-921085,PA,Luzerne,Pittston,Source2,3,41.309715,-75.758324,2021,22,Friday,Cloudy,False,False,False,False,False,False,False
+A-933258,PA,Luzerne,Pittston,Source2,3,41.30434,-75.766548,2021,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-933383,PA,Luzerne,Wilkes Barre,Source2,3,41.228771,-75.86904100000002,2021,21,Wednesday,Rain,False,False,False,False,False,False,False
+A-934087,PA,Luzerne,Sugarloaf,Source2,3,41.026459,-76.079185,2021,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-943481,PA,Luzerne,Pittston,Source2,3,41.30434,-75.766548,2021,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-953773,PA,Luzerne,Pittston,Source2,3,41.30434,-75.766548,2021,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-958736,PA,Luzerne,Wilkes Barre,Source2,3,41.21917,-75.884506,2021,8,Tuesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-992311,PA,Luzerne,Pittston,Source2,3,41.336494,-75.737289,2021,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1020356,PA,Luzerne,Hazleton,Source2,3,40.980736,-76.035454,2021,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1025800,PA,Luzerne,Drums,Source2,3,41.053642,-75.959694,2021,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1025801,PA,Luzerne,Drums,Source2,3,41.053642,-75.959694,2021,6,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1027729,PA,Luzerne,Wilkes Barre,Source2,3,41.202751,-75.90479300000001,2021,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1035231,PA,Luzerne,Drums,Source2,3,41.04863,-76.009209,2021,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1035233,PA,Luzerne,Mountain Top,Source2,3,41.141129,-75.962898,2021,15,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1053867,PA,Luzerne,Drums,Source2,3,41.046947,-76.012047,2021,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-1060719,PA,Luzerne,Wilkes Barre,Source2,3,41.199898,-75.79276999999998,2021,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-1066773,PA,Luzerne,Wilkes Barre,Source2,3,41.199898,-75.79276999999998,2021,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1070885,PA,Luzerne,Pittston,Source2,3,41.312061,-75.759109,2021,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1089725,PA,Luzerne,Mountain Top,Source2,3,41.147827,-75.962013,2021,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1096190,PA,Luzerne,Wilkes Barre,Source2,4,41.199898,-75.79276999999998,2021,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-1111766,PA,Luzerne,Drums,Source2,3,41.045471,-76.012733,2021,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1111767,PA,Luzerne,Drums,Source2,3,41.048962,-76.00856800000003,2021,19,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1114403,PA,Luzerne,Mountain Top,Source2,3,41.147827,-75.962013,2021,14,Thursday,Rain,False,False,False,False,False,False,False
+A-1129178,PA,Luzerne,Wilkes Barre,Source2,3,41.209187,-75.89340200000002,2021,4,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1138755,PA,Luzerne,Wilkes Barre,Source2,4,41.199879,-75.79278599999998,2021,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1143202,PA,Luzerne,Wilkes Barre,Source2,3,41.202751,-75.90479300000001,2021,13,Monday,Snow / Ice,False,False,False,False,False,False,False
+A-1144868,PA,Luzerne,Drums,Source2,3,41.047329,-76.012985,2021,17,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1153434,PA,Luzerne,Drums,Source2,3,41.048038,-76.01429,2021,8,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1156675,PA,Luzerne,White Haven,Source2,4,41.05549600000001,-75.776077,2021,1,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1158693,PA,Luzerne,Pittston,Source2,3,41.30975,-75.758209,2021,22,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1172899,PA,Luzerne,Mountain Top,Source2,3,41.08242,-75.964554,2021,19,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1173503,PA,Luzerne,Mountain Top,Source2,3,41.08242,-75.964554,2021,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1174130,PA,Luzerne,Pittston,Source2,3,41.333889,-75.73788499999998,2021,19,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1175887,PA,Luzerne,Pittston,Source2,3,41.304256,-75.766449,2021,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1175888,PA,Luzerne,Pittston,Source2,3,41.304256,-75.766449,2021,19,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1179348,PA,Luzerne,Bear Creek Township,Source2,3,41.199936,-75.79220600000002,2021,21,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1206841,PA,Luzerne,Pittston,Source2,3,41.304256,-75.766449,2021,16,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1206874,PA,Luzerne,Mountain Top,Source2,3,41.147827,-75.962013,2021,9,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1207321,PA,Luzerne,Mountain Top,Source2,3,41.147827,-75.962013,2021,14,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1208466,PA,Luzerne,Sugarloaf,Source2,3,41.026459,-76.079185,2020,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1209859,PA,Luzerne,Drums,Source2,3,41.053642,-75.959694,2020,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1209868,PA,Luzerne,Drums,Source2,3,41.053642,-75.959694,2020,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1212649,PA,Luzerne,Wilkes Barre,Source2,3,41.251293,-75.82077,2020,15,Monday,Cloudy,False,False,False,False,False,False,False
+A-1218390,PA,Luzerne,Pittston,Source2,3,41.304256,-75.766449,2020,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1221868,PA,Luzerne,Drums,Source2,3,41.045242,-76.01398499999998,2020,9,Saturday,Cloudy,False,False,True,False,False,False,False
+A-1224400,PA,Luzerne,Wilkes Barre,Source2,3,41.199879,-75.79278599999998,2020,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1232525,PA,Luzerne,Pittston,Source2,3,41.30975,-75.758209,2020,14,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1237550,PA,Luzerne,Nescopeck,Source2,3,41.015102,-76.20770999999998,2020,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1237562,PA,Luzerne,Nescopeck,Source2,3,41.015102,-76.20770999999998,2020,5,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1237597,PA,Luzerne,Wilkes Barre,Source2,3,41.236214,-75.848846,2020,18,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1241325,PA,Luzerne,Mountain Top,Source2,3,41.147827,-75.962013,2020,19,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1242794,PA,Luzerne,Pittston,Source2,3,41.336494,-75.737289,2020,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1244553,PA,Luzerne,Mountain Top,Source2,3,41.08242,-75.964554,2020,19,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1266778,PA,Luzerne,White Haven,Source2,3,41.05549600000001,-75.776077,2020,12,Friday,Cloudy,False,False,False,False,False,False,False
+A-1270706,PA,Luzerne,Sugarloaf,Source2,3,41.026459,-76.079185,2020,13,Wednesday,Rain,False,False,False,False,False,False,False
+A-1289430,PA,Luzerne,Pittston,Source2,3,41.33519,-75.737038,2020,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1291325,PA,Luzerne,Wilkes Barre,Source2,3,41.202751,-75.90479300000001,2020,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1311600,PA,Luzerne,Drums,Source2,3,41.046139,-76.013351,2020,14,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1322995,PA,Luzerne,White Haven,Source2,3,41.05549600000001,-75.776077,2020,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-1323084,PA,Luzerne,Wilkes Barre,Source2,3,41.21917,-75.884506,2020,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-1324741,PA,Luzerne,Wilkes Barre,Source2,3,41.202751,-75.90479300000001,2020,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1332538,PA,Luzerne,Pittston,Source2,3,41.30975,-75.758209,2020,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1377406,PA,Luzerne,Wilkes Barre,Source2,3,41.199863,-75.792847,2020,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1377909,PA,Luzerne,White Haven,Source2,3,41.05549600000001,-75.776077,2020,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1384116,PA,Luzerne,Pittston,Source2,3,41.304256,-75.766449,2020,16,Monday,Cloudy,False,False,False,False,False,False,False
+A-1385418,PA,Luzerne,Wilkes Barre,Source2,4,41.251431,-75.820267,2020,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1399357,PA,Luzerne,Hazleton,Source2,3,40.942982,-76.025375,2020,22,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1407959,PA,Luzerne,Pittston,Source2,3,41.304256,-75.766449,2020,8,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1410636,PA,Luzerne,Wilkes Barre,Source2,3,41.219135,-75.884445,2020,8,Tuesday,Rain,False,False,False,False,False,False,False
+A-1413387,PA,Luzerne,Pittston,Source2,3,41.30975,-75.758209,2020,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1418772,PA,Luzerne,Hazleton,Source2,3,40.925331,-76.011826,2020,12,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1424818,PA,Luzerne,Sugarloaf,Source2,3,41.026459,-76.079185,2020,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1429247,PA,Luzerne,Wilkes Barre,Source2,3,41.236214,-75.848846,2020,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1447620,PA,Luzerne,Mountain Top,Source2,3,41.147827,-75.962013,2020,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1447622,PA,Luzerne,Mountain Top,Source2,3,41.147827,-75.962013,2020,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1447627,PA,Luzerne,Mountain Top,Source2,3,41.147827,-75.962013,2020,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1451965,PA,Luzerne,Wilkes Barre,Source2,3,41.250488,-75.820877,2020,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-1456354,PA,Luzerne,Wilkes Barre,Source2,3,41.202751,-75.90479300000001,2020,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1456363,PA,Luzerne,Wilkes Barre,Source2,3,41.218601,-75.883812,2020,19,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1457669,PA,Luzerne,Sugarloaf,Source2,3,41.026459,-76.079185,2020,16,Thursday,Rain,False,False,False,False,False,False,False
+A-1466611,PA,Luzerne,Wilkes Barre,Source2,3,41.199863,-75.792847,2020,13,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1479611,PA,Luzerne,Wilkes Barre,Source2,3,41.199863,-75.792847,2020,15,Saturday,Rain,False,False,False,False,False,False,False
+A-1483996,PA,Luzerne,Hazleton,Source2,3,40.925331,-76.011826,2020,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1500555,PA,Luzerne,Wilkes Barre,Source2,3,41.20953,-75.891563,2020,5,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1500577,PA,Luzerne,Drums,Source2,3,41.048019,-76.01422099999998,2020,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-1505659,PA,Luzerne,Mountain Top,Source2,3,41.08305,-75.963318,2020,4,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1507076,PA,Luzerne,Mountain Top,Source2,3,41.147827,-75.962013,2020,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1509945,PA,Luzerne,Pittston,Source2,3,41.30975,-75.758209,2020,15,Thursday,Storm,False,False,False,False,False,False,False
+A-1509958,PA,Luzerne,Wilkes Barre,Source2,3,41.199863,-75.792847,2020,18,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1523148,PA,Luzerne,Wilkes Barre,Source2,3,41.260853,-75.81554399999997,2020,16,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1526818,PA,Luzerne,Pittston,Source2,3,41.333385,-75.73625899999998,2020,8,Friday,Cloudy,False,False,False,False,False,False,False
+A-1538014,PA,Luzerne,Pittston,Source2,3,41.309235,-75.756065,2020,15,Monday,Rain,False,False,False,False,False,False,False
+A-1538130,PA,Luzerne,Wilkes Barre,Source2,3,41.202751,-75.90479300000001,2020,15,Monday,Rain,False,False,False,False,False,False,False
+A-1538131,PA,Luzerne,Wilkes Barre,Source2,3,41.202751,-75.90479300000001,2020,16,Monday,Rain,False,False,False,False,False,False,False
+A-1546740,PA,Luzerne,Drums,Source2,3,41.046947,-76.012047,2020,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1548000,PA,Luzerne,Sugarloaf,Source2,3,41.026459,-76.079185,2020,18,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1555489,PA,Luzerne,Pittston,Source2,3,41.30975,-75.758209,2020,12,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1567429,PA,Luzerne,Wilkes Barre,Source3,3,41.202751,-75.90479300000001,2020,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1569652,PA,Luzerne,White Haven,Source2,3,41.05549600000001,-75.776077,2020,12,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1570268,PA,Luzerne,Wilkes Barre,Source2,3,41.251431,-75.820267,2020,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1584767,PA,Luzerne,Pittston,Source2,3,41.304256,-75.766449,2020,17,Friday,Rain,False,False,False,False,False,False,False
+A-1584774,PA,Luzerne,Pittston,Source2,3,41.304256,-75.766449,2020,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-1595252,PA,Luzerne,Wilkes Barre,Source2,3,41.199863,-75.792847,2020,15,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-1599899,PA,Luzerne,Pittston,Source2,3,41.30975,-75.758209,2020,17,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-1624378,PA,Luzerne,White Haven,Source2,3,41.124252,-75.773384,2020,19,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1624413,PA,Luzerne,Mountain Top,Source2,3,41.147827,-75.962013,2020,17,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1625556,PA,Luzerne,Wilkes Barre,Source2,3,41.251431,-75.820267,2020,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1634813,PA,Luzerne,Pittston,Source2,3,41.310207,-75.754173,2020,11,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-1648401,PA,Luzerne,Mountain Top,Source2,3,41.147827,-75.962013,2020,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-1650636,PA,Luzerne,Drums,Source2,3,41.053642,-75.959694,2020,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1664147,PA,Luzerne,Wilkes Barre,Source2,3,41.250698,-75.821457,2020,9,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1666277,PA,Luzerne,Wilkes Barre,Source2,3,41.199863,-75.792847,2020,17,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1681645,PA,Luzerne,Pittston,Source2,3,41.304256,-75.766449,2019,12,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1686727,PA,Luzerne,Mountain Top,Source2,3,41.084488,-75.96288299999998,2019,12,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-1702453,PA,Luzerne,Pittston,Source2,3,41.333385,-75.73625899999998,2019,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-1716177,PA,Luzerne,Pittston,Source2,3,41.336494,-75.737289,2019,15,Saturday,Rain,False,False,False,False,False,False,False
+A-1716266,PA,Luzerne,Wilkes Barre,Source2,3,41.236214,-75.848846,2019,15,Saturday,Rain,False,False,False,False,False,False,False
+A-1720794,PA,Luzerne,Wilkes Barre,Source2,3,41.236214,-75.848846,2019,21,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1723379,PA,Luzerne,Pittston,Source2,3,41.30975,-75.758209,2019,14,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-1723509,PA,Luzerne,Mountain Top,Source2,3,41.147827,-75.962013,2019,14,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1726033,PA,Luzerne,Pittston,Source2,3,41.333385,-75.73625899999998,2019,18,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1726117,PA,Luzerne,Wilkes Barre,Source2,3,41.236214,-75.848846,2019,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1728461,PA,Luzerne,Pittston,Source2,3,41.304256,-75.766449,2019,8,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-1734793,PA,Luzerne,White Haven,Source2,3,41.056873,-75.789124,2019,8,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-1751745,PA,Luzerne,Drums,Source2,3,41.046947,-76.012047,2019,13,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1751747,PA,Luzerne,Sugarloaf,Source2,3,41.026459,-76.079185,2019,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1754225,PA,Luzerne,Wilkes Barre,Source2,3,41.219135,-75.884445,2019,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1754232,PA,Luzerne,Drums,Source2,3,41.048038,-76.01429,2019,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1766346,PA,Luzerne,Wilkes Barre,Source2,4,41.199768,-75.793816,2019,12,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1781132,PA,Luzerne,Pittston,Source2,3,41.304256,-75.766449,2019,14,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-1783846,PA,Luzerne,Wilkes Barre,Source2,3,41.26635,-75.864525,2019,17,Tuesday,Cloudy,True,False,False,False,False,False,False
+A-1789066,PA,Luzerne,Hazleton,Source2,3,40.980736,-76.035454,2019,15,Thursday,Rain,False,False,False,False,False,False,False
+A-1803810,PA,Luzerne,Mountain Top,Source2,3,41.08242,-75.964554,2019,9,Thursday,Rain,False,False,False,False,False,False,False
+A-1806565,PA,Luzerne,Pittston,Source2,3,41.304256,-75.766449,2019,18,Friday,Cloudy,False,False,False,False,False,False,False
+A-1809886,PA,Luzerne,Pittston,Source2,3,41.304256,-75.766449,2019,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1813615,PA,Luzerne,Mountain Top,Source2,3,41.08242,-75.964554,2019,16,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-1841259,PA,Luzerne,Wilkes Barre,Source2,4,41.219135,-75.884445,2019,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-1844956,PA,Luzerne,Drums,Source2,3,41.044579,-76.014076,2019,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1844960,PA,Luzerne,Drums,Source2,3,41.046947,-76.012047,2019,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1844961,PA,Luzerne,Hazleton,Source2,3,40.980736,-76.035454,2019,16,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1880832,PA,Luzerne,Drums,Source2,3,41.046947,-76.012047,2019,4,Thursday,Cloudy,False,False,False,False,False,False,False
+A-1889314,PA,Luzerne,Hazleton,Source2,3,40.980736,-76.035454,2019,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-1891688,PA,Luzerne,Mountain Top,Source2,3,41.08242,-75.964554,2019,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1891696,PA,Luzerne,Wilkes Barre,Source2,3,41.236214,-75.848846,2019,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-1893814,PA,Luzerne,Pittston,Source2,3,41.302872,-75.76837900000002,2019,16,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1893822,PA,Luzerne,Pittston,Source2,3,41.302872,-75.76837900000002,2019,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-1905052,PA,Luzerne,Wilkes Barre,Source2,3,41.199837,-75.79287,2019,18,Wednesday,Storm,False,False,False,False,False,False,False
+A-1919986,PA,Luzerne,Pittston,Source2,4,41.336494,-75.737289,2019,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-1931581,PA,Luzerne,Pittston,Source2,3,41.302872,-75.76837900000002,2019,22,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-1953749,PA,Luzerne,Sugarloaf,Source2,3,41.026459,-76.079185,2019,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-1963683,PA,Luzerne,Mountain Top,Source2,3,41.153671,-75.959969,2019,18,Friday,Cloudy,False,False,True,False,False,False,False
+A-1973890,PA,Luzerne,Pittston,Source2,3,41.30973400000001,-75.75823199999998,2019,8,Thursday,Rain,False,False,False,False,False,False,False
+A-1979864,PA,Luzerne,Pittston,Source2,3,41.30973400000001,-75.75823199999998,2019,12,Monday,Rain,False,False,False,False,False,False,False
+A-1979887,PA,Luzerne,Pittston,Source2,3,41.30973400000001,-75.75823199999998,2019,16,Monday,Rain,False,False,False,False,False,False,False
+A-1981937,PA,Luzerne,Pittston,Source2,3,41.30973400000001,-75.75823199999998,2019,5,Tuesday,Rain,False,False,False,False,False,False,False
+A-1990817,PA,Luzerne,White Haven,Source2,3,41.05549600000001,-75.776077,2019,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-1996415,PA,Luzerne,Wilkes Barre,Source2,3,41.202751,-75.90479300000001,2019,8,Wednesday,Storm,False,False,False,False,False,False,False
+A-2011364,PA,Luzerne,Pittston,Source2,3,41.336494,-75.737289,2019,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2019410,PA,Luzerne,Wilkes Barre,Source2,3,41.251431,-75.820267,2019,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2036003,PA,Luzerne,Wilkes Barre,Source2,3,41.251431,-75.820267,2019,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2040404,PA,Luzerne,White Haven,Source2,3,41.05549600000001,-75.776077,2019,9,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2041285,PA,Luzerne,Wilkes Barre,Source2,3,41.219482,-75.882828,2019,7,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-2046605,PA,Luzerne,Pittston,Source2,3,41.302872,-75.76837900000002,2019,15,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2076675,PA,Luzerne,Pittston,Source2,3,41.308121,-75.760406,2019,19,Friday,Cloudy,False,False,False,False,False,False,False
+A-2087406,PA,Luzerne,Wilkes Barre,Source2,3,41.251431,-75.820267,2019,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2089707,PA,Luzerne,Sugarloaf,Source2,3,41.026459,-76.079185,2019,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2098098,PA,Luzerne,Wilkes Barre,Source2,3,41.199837,-75.79287,2019,14,Monday,Rain,False,False,False,False,False,False,False
+A-2102632,PA,Luzerne,Pittston,Source2,3,41.30973400000001,-75.75823199999998,2019,14,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2107681,PA,Luzerne,Mountain Top,Source2,3,41.083225,-75.963249,2019,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2116665,PA,Luzerne,Wilkes Barre,Source2,3,41.251431,-75.820267,2019,9,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2132827,PA,Luzerne,Pittston,Source2,3,41.309444,-75.755852,2019,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2153716,PA,Luzerne,Wilkes Barre,Source2,3,41.251099,-75.82045699999998,2019,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-2184765,PA,Luzerne,Pittston,Source2,3,41.333385,-75.73625899999998,2019,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2206018,PA,Luzerne,Drums,Source2,3,41.045471,-76.012733,2019,21,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2241289,PA,Luzerne,Wilkes Barre,Source2,3,41.251099,-75.82045699999998,2019,7,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2254126,PA,Luzerne,Drums,Source2,3,41.048019,-76.01422099999998,2019,11,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2254991,PA,Luzerne,Wilkes Barre,Source2,3,41.249737,-75.82096899999998,2019,15,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2257479,PA,Luzerne,Pittston,Source2,3,41.309902,-75.758377,2019,17,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2279185,PA,Luzerne,Mountain Top,Source2,3,41.082451,-75.964394,2019,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2284687,PA,Luzerne,Wilkes Barre,Source2,3,41.228401,-75.87003299999998,2019,7,Thursday,Cloudy,False,False,False,False,True,False,False
+A-2287428,PA,Luzerne,Wilkes Barre,Source2,3,41.252441,-75.818352,2019,20,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2293415,PA,Luzerne,Mountain Top,Source2,3,41.082451,-75.964394,2019,4,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2309186,PA,Luzerne,Wilkes Barre,Source2,3,41.21497,-75.888329,2019,8,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2321178,PA,Luzerne,Hazleton,Source2,3,40.980743,-76.035713,2019,17,Monday,Cloudy,False,False,False,False,False,False,False
+A-2356297,PA,Luzerne,Pittston,Source2,3,41.303627,-75.76769300000002,2019,17,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2368706,PA,Luzerne,Wilkes Barre,Source2,3,41.21497,-75.888329,2019,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2370926,PA,Luzerne,Mountain Top,Source2,3,41.146919,-75.96371500000002,2018,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-2370960,PA,Luzerne,Mountain Top,Source2,3,41.146919,-75.96371500000002,2018,10,Friday,Rain,False,False,False,False,False,False,False
+A-2370969,PA,Luzerne,Drums,Source2,3,41.047581,-76.014732,2018,14,Friday,Cloudy,False,False,False,False,False,False,False
+A-2375280,PA,Luzerne,Wilkes Barre,Source2,3,41.251163,-75.820419,2018,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-2381844,PA,Luzerne,Wilkes Barre,Source2,3,41.202908,-75.90486899999998,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2392224,PA,Luzerne,Hazleton,Source2,3,40.942894,-76.02529100000002,2018,5,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2396838,PA,Luzerne,Pittston,Source2,3,41.303627,-75.76769300000002,2018,16,Friday,Rain,False,False,False,False,False,False,False
+A-2409476,PA,Luzerne,Pittston,Source2,3,41.309902,-75.758377,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2416449,PA,Luzerne,Mountain Top,Source2,3,41.147472,-75.962463,2018,21,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2418505,PA,Luzerne,Mountain Top,Source2,3,41.147472,-75.962463,2018,4,Friday,Rain,False,False,False,False,False,False,False
+A-2420486,PA,Luzerne,Wilkes Barre,Source2,3,41.202908,-75.90486899999998,2018,15,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2441709,PA,Luzerne,Pittston,Source2,3,41.309807,-75.755119,2018,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2449651,PA,Luzerne,Mountain Top,Source2,3,41.146919,-75.96371500000002,2018,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2452465,PA,Luzerne,Wilkes Barre,Source2,3,41.2019,-75.905914,2018,5,Tuesday,Rain,False,False,False,False,False,False,False
+A-2452540,PA,Luzerne,Wilkes Barre,Source2,3,41.251163,-75.820419,2018,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2458397,PA,Luzerne,Drums,Source2,3,41.026424,-76.078857,2018,16,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-2468250,PA,Luzerne,Pittston,Source2,3,41.30294,-75.768387,2018,7,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2468351,PA,Luzerne,Pittston,Source2,3,41.303318,-75.768486,2018,17,Tuesday,Snow / Ice,False,False,True,False,False,False,False
+A-2475419,PA,Luzerne,Pittston,Source2,3,41.312229,-75.758057,2018,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2477794,PA,Luzerne,Hazleton,Source2,3,40.925365,-76.011932,2018,11,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2487909,PA,Luzerne,Wilkes Barre,Source2,3,41.251163,-75.820419,2018,21,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2517527,PA,Luzerne,Wilkes Barre,Source2,3,41.234917,-75.847076,2018,10,Monday,Cloudy,False,False,False,False,False,False,False
+A-2520388,PA,Luzerne,Wilkes Barre,Source2,3,41.251163,-75.820419,2018,7,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2520402,PA,Luzerne,Wilkes Barre,Source2,3,41.251163,-75.820419,2018,8,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2523391,PA,Luzerne,Wilkes Barre,Source2,3,41.251163,-75.820419,2018,13,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2539482,PA,Luzerne,Pittston,Source2,3,41.303318,-75.768486,2018,17,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-2542186,PA,Luzerne,Pittston,Source2,3,41.312229,-75.758057,2018,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2576016,PA,Luzerne,Wilkes Barre,Source2,3,41.251163,-75.820419,2018,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-2616328,PA,Luzerne,White Haven,Source2,3,41.055279,-75.77597,2018,4,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2621485,PA,Luzerne,Wilkes Barre,Source2,3,41.233921,-75.842499,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2621486,PA,Luzerne,Wilkes Barre,Source2,3,41.234848,-75.849426,2018,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2635452,PA,Luzerne,Wilkes Barre,Source2,3,41.251163,-75.820419,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2641926,PA,Luzerne,Pittston,Source2,3,41.312229,-75.758057,2018,14,Monday,Rain,False,False,False,False,False,False,False
+A-2646885,PA,Luzerne,Drums,Source2,3,41.053654,-75.959824,2018,6,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-2649365,PA,Luzerne,Wilkes Barre,Source2,3,41.252125,-75.82064799999998,2018,11,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2651856,PA,Luzerne,Pittston,Source2,3,41.33474,-75.737213,2018,15,Friday,Cloudy,False,False,False,False,False,False,False
+A-2674701,PA,Luzerne,Pittston,Source2,3,41.303318,-75.768486,2018,14,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-2685936,PA,Luzerne,Drums,Source2,3,41.009769,-76.009087,2018,22,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2689497,PA,Luzerne,Drums,Source2,3,41.026424,-76.078857,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2697754,PA,Luzerne,Mountain Top,Source2,3,41.146919,-75.96371500000002,2018,17,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-2704994,PA,Luzerne,Pittston,Source2,3,41.33474,-75.737213,2018,17,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2716480,PA,Luzerne,Drums,Source2,3,41.047493,-76.014862,2018,10,Saturday,Cloudy,False,False,False,False,False,False,False
+A-2725048,PA,Luzerne,Pittston,Source2,3,41.309807,-75.755119,2018,17,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2735745,PA,Luzerne,Pittston,Source2,3,41.33474,-75.737213,2018,16,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-2749620,PA,Luzerne,Wilkes Barre,Source2,3,41.216431,-75.886986,2018,16,Friday,Cloudy,False,False,False,False,False,False,False
+A-2749621,PA,Luzerne,Wilkes Barre,Source2,3,41.216431,-75.886986,2018,17,Friday,Cloudy,False,False,False,False,False,False,False
+A-2751737,PA,Luzerne,Mountain Top,Source2,3,41.082451,-75.964355,2018,13,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2753395,PA,Luzerne,White Haven,Source2,3,41.055279,-75.77597,2018,14,Monday,Cloudy,False,False,False,False,False,False,False
+A-2753557,PA,Luzerne,Drums,Source2,3,41.026173,-76.078873,2018,22,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2758277,PA,Luzerne,Drums,Source2,3,41.026424,-76.078857,2018,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2760696,PA,Luzerne,Wilkes Barre,Source2,3,41.234917,-75.847076,2018,8,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-2760725,PA,Luzerne,Wilkes Barre,Source2,3,41.234917,-75.847076,2018,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2765200,PA,Luzerne,White Haven,Source2,3,41.055279,-75.77597,2018,19,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-2778446,PA,Luzerne,Drums,Source2,3,41.0467,-76.013428,2018,7,Saturday,Rain,False,False,True,False,False,False,False
+A-2779235,PA,Luzerne,Wilkes Barre,Source2,3,41.198505,-75.793724,2018,18,Sunday,Rain,False,False,False,False,False,False,False
+A-2782542,PA,Luzerne,Wilkes Barre,Source2,3,41.198505,-75.793724,2018,15,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2787529,PA,Luzerne,Wilkes Barre,Source2,3,41.216431,-75.886986,2018,11,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2787539,PA,Luzerne,Wilkes Barre,Source2,3,41.216431,-75.886986,2018,16,Thursday,Cloudy,False,False,False,False,False,False,False
+A-2794553,PA,Luzerne,Wilkes Barre,Source2,3,41.198505,-75.793724,2018,17,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-2838960,PA,Luzerne,Wilkes Barre,Source2,3,41.2019,-75.905914,2018,6,Tuesday,Rain,False,False,False,False,False,False,False
+A-2838961,PA,Luzerne,Wilkes Barre,Source2,3,41.251163,-75.820419,2018,6,Tuesday,Rain,False,False,False,False,False,False,False
+A-2858784,PA,Luzerne,Drums,Source2,3,41.0467,-76.013428,2018,6,Monday,Snow / Ice,False,False,True,False,False,False,False
+A-2877807,PA,Luzerne,Pittston,Source2,3,41.312229,-75.758057,2018,17,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-2886163,PA,Luzerne,Wilkes Barre,Source2,3,41.2019,-75.905914,2018,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-2886987,PA,Luzerne,Wilkes Barre,Source2,3,41.198505,-75.793724,2018,10,Monday,Rain,False,False,False,False,False,False,False
+A-2887147,PA,Luzerne,Wilkes Barre,Source2,3,41.2019,-75.905914,2018,17,Monday,Rain,False,False,False,False,False,False,False
+A-2907363,PA,Luzerne,Wilkes Barre,Source2,3,41.277336,-75.794724,2018,7,Wednesday,Rain,False,False,False,False,False,False,False
+A-2922333,PA,Luzerne,Wilkes Barre,Source2,3,41.197811,-75.793488,2018,13,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-2931217,PA,Luzerne,Hazleton,Source2,3,40.942715,-76.025162,2018,8,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2938425,PA,Luzerne,Wilkes Barre,Source2,3,41.251163,-75.820419,2018,11,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-2958890,PA,Luzerne,Hazleton,Source2,3,40.942715,-76.025162,2018,18,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-2988925,PA,Luzerne,White Haven,Source2,3,41.055183,-75.773643,2018,19,Sunday,Rain,False,False,False,False,False,False,False
+A-2989677,PA,Luzerne,White Haven,Source2,3,41.055279,-75.77597,2018,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-2992549,PA,Luzerne,Drums,Source2,3,41.053654,-75.959824,2018,6,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3003621,PA,Luzerne,White Haven,Source2,3,41.055279,-75.77597,2018,9,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3015423,PA,Luzerne,Pittston,Source2,3,41.303318,-75.768486,2018,7,Friday,Rain,False,False,True,False,False,False,False
+A-3017969,PA,Luzerne,Wilkes Barre,Source2,3,41.198505,-75.793724,2018,22,Saturday,Snow / Ice,False,False,False,False,False,False,False
+A-3033780,PA,Luzerne,Sugarloaf,Source2,3,40.981094,-76.035995,2018,4,Monday,Cloudy,False,False,False,False,False,False,False
+A-3036552,PA,Luzerne,Drums,Source2,3,41.0467,-76.013428,2018,16,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-3059539,PA,Luzerne,Pittston,Source2,3,41.312229,-75.758057,2018,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3059540,PA,Luzerne,Pittston,Source2,3,41.312229,-75.758057,2018,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3080335,PA,Luzerne,Wilkes Barre,Source2,3,41.253212,-75.82049599999998,2018,10,Tuesday,Rain,False,False,True,False,False,False,False
+A-3082763,PA,Luzerne,Wilkes Barre,Source2,3,41.169079,-75.776749,2018,6,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3082976,PA,Luzerne,Wilkes Barre,Source2,3,41.234917,-75.847076,2018,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3106609,PA,Luzerne,Wilkes Barre,Source2,3,41.2019,-75.905914,2017,19,Tuesday,Rain,False,False,False,False,False,False,False
+A-3122205,PA,Luzerne,Wilkes Barre,Source2,3,41.2019,-75.905914,2017,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-3122225,PA,Luzerne,Wilkes Barre,Source2,3,41.2019,-75.905914,2017,15,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3122235,PA,Luzerne,Wilkes Barre,Source2,3,41.2019,-75.905914,2017,15,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3133478,PA,Luzerne,Drums,Source2,3,41.026424,-76.078857,2017,7,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3173092,PA,Luzerne,White Haven,Source2,3,41.056286,-75.794739,2017,4,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3206297,PA,Luzerne,Drums,Source2,3,41.026424,-76.078857,2017,16,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3347364,PA,Luzerne,Wilkes Barre,Source2,3,41.216431,-75.886986,2017,15,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-3356369,PA,Luzerne,White Haven,Source2,3,41.055279,-75.77597,2017,13,Friday,Storm,False,False,False,False,False,False,False
+A-3398142,PA,Luzerne,Wilkes Barre,Source2,3,41.236816,-75.841614,2017,4,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-3454890,PA,Luzerne,Wapwallopen,Source1,4,41.084823,-76.121672,2016,11,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3454891,PA,Luzerne,Shickshinny,Source1,4,41.114572,-76.129061,2016,11,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-3458056,PA,Luzerne,White Haven,Source1,4,41.05524000000001,-75.77303,2017,13,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3461907,PA,Luzerne,Nescopeck,Source1,4,41.012591,-76.22097099999998,2017,4,Tuesday,Snow / Ice,False,False,False,False,False,False,False
+A-3489636,PA,Luzerne,Sugarloaf,Source1,4,41.02569,-76.08210600000002,2016,6,Monday,Cloudy,False,False,False,False,False,False,False
+A-3497599,PA,Luzerne,Drums,Source1,4,41.04403,-76.02084,2016,0,Friday,Cloudy,False,False,True,False,False,False,False
+A-3499324,PA,Luzerne,Hazleton,Source1,4,40.93228,-75.9936,2016,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3499328,PA,Luzerne,Hazleton,Source1,4,40.996092,-75.985621,2016,12,Thursday,Cloudy,False,False,False,False,False,False,False
+A-3517590,PA,Luzerne,Hanover Township,Source1,4,41.2285,-75.92698,2016,5,Sunday,Clear / Fair,True,False,False,True,False,False,False
+A-3517591,PA,Luzerne,Hanover Township,Source1,4,41.22682,-75.92397,2016,5,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-3520080,PA,Luzerne,Hazleton,Source1,4,40.94043,-76.02356,2016,22,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-3520894,PA,Luzerne,Pittston,Source1,4,41.33646,-75.73675,2016,18,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3561942,PA,Luzerne,Sugarloaf,Source1,4,40.98198,-76.03588,2017,18,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-3578316,PA,Luzerne,Hazleton,Source1,4,40.92107,-76.01228,2017,7,Friday,Snow / Ice,False,False,True,False,False,False,False
+A-3578397,PA,Luzerne,Wilkes Barre,Source1,4,41.20202000000001,-75.79431,2017,9,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3578428,PA,Luzerne,Wilkes Barre,Source1,3,41.193905,-75.792887,2017,11,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3578472,PA,Luzerne,Hazleton,Source1,4,40.92107,-76.01228,2017,13,Friday,Cloudy,False,False,True,False,False,False,False
+A-3580295,PA,Luzerne,Wilkes Barre,Source1,4,41.200529,-75.79408000000002,2017,13,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3580319,PA,Luzerne,Mountain Top,Source1,4,41.14435,-75.9631,2017,14,Wednesday,Snow / Ice,False,False,True,False,False,False,False
+A-3580360,PA,Luzerne,Wilkes Barre,Source1,4,41.20184,-75.794282,2017,16,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-3600547,PA,Luzerne,Pittston,Source1,4,41.30209,-75.7691,2017,14,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-3603098,PA,Luzerne,Drums,Source1,4,41.02819,-76.07446999999998,2017,19,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-3603460,PA,Luzerne,Drums,Source1,4,41.05011,-76.0102,2017,4,Friday,Cloudy,False,False,False,False,False,False,False
+A-3604281,PA,Luzerne,Drums,Source1,4,41.02819,-76.07446999999998,2017,2,Tuesday,Rain,False,False,True,False,False,False,False
+A-3604298,PA,Luzerne,Drums,Source1,4,41.0278,-76.07881,2017,6,Tuesday,Cloudy,False,False,False,True,False,False,False
+A-3604299,PA,Luzerne,Drums,Source1,4,41.02819,-76.07446999999998,2017,6,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-3612953,PA,Luzerne,Sugarloaf,Source1,4,41.02557,-76.08442,2017,9,Monday,Cloudy,False,False,False,False,False,False,False
+A-3613008,PA,Luzerne,Hazleton,Source1,4,40.97711,-76.03426999999998,2017,12,Monday,Cloudy,False,False,False,False,False,False,False
+A-3632359,PA,Luzerne,Wilkes Barre,Source1,3,41.20781,-75.89739,2017,2,Sunday,Cloudy,False,False,False,False,False,False,False
+A-3716013,PA,Luzerne,Drums,Source1,4,41.02847456912504,-76.07393860780681,2022,23,Saturday,Cloudy,False,False,False,False,False,False,False
+A-3821166,PA,Luzerne,Wilkes Barre,Source1,4,41.241258,-75.78209100000002,2022,11,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-3849619,PA,Luzerne,Wilkes Barre,Source1,4,41.253283,-75.76773,2022,1,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-3946043,PA,Luzerne,Drums,Source1,4,41.05693400000001,-75.94720500000003,2022,9,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4198392,PA,Luzerne,Mountain Top,Source1,4,41.078964471621134,-75.9664142128183,2022,11,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4228353,PA,Luzerne,Pittston,Source1,4,41.311817,-75.81134300000002,2021,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-4241049,PA,Luzerne,Mountain Top,Source1,4,41.137551,-75.87114,2022,15,Sunday,Cloudy,False,True,False,False,False,False,True
+A-4286242,PA,Luzerne,Berwick,Source1,4,41.079868,-76.139375,2022,14,Monday,Cloudy,False,False,False,True,False,False,False
+A-4350622,PA,Luzerne,Berwick,Source1,4,41.089867,-76.136747,2022,16,Thursday,Clear / Fair,False,False,False,True,False,False,False
+A-4351143,PA,Luzerne,Pittston,Source1,4,41.30851865,-75.75771689,2022,13,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4357453,PA,Luzerne,Drums,Source1,4,41.02582,-76.085356,2022,2,Tuesday,Rain,False,False,False,False,False,False,False
+A-4398795,PA,Luzerne,Drums,Source1,4,41.02772,-76.078845,2022,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4416739,PA,Luzerne,Benton,Source1,4,41.2895715234695,-76.30130410158014,2022,20,Thursday,Cloudy,False,False,False,True,False,False,False
+A-4470780,PA,Luzerne,White Haven,Source1,4,41.055445,-75.771923,2023,5,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-4544360,PA,Luzerne,White Haven,Source1,4,41.055292,-75.772756,2023,5,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-4564195,PA,Luzerne,White Haven,Source1,4,41.055278,-75.775971,2022,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-4608902,PA,Luzerne,Plymouth,Source1,4,41.244301,-75.93369399999997,2022,19,Wednesday,Clear / Fair,True,True,False,False,False,False,False
+A-4719351,PA,Luzerne,Nescopeck,Source1,4,41.012623,-76.220904,2022,15,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-4725403,PA,Luzerne,Pittston,Source1,4,41.30761500000001,-75.82144,2021,7,Friday,Cloudy,False,False,False,False,False,False,False
+A-4725800,PA,Luzerne,Mountain Top,Source1,4,41.143304,-75.96305100000002,2023,6,Thursday,Cloudy,False,False,False,False,False,False,False
+A-4734496,PA,Luzerne,Hazleton,Source1,4,40.920172,-76.012928,2022,18,Thursday,Snow / Ice,False,False,False,False,False,False,False
+A-4756252,PA,Luzerne,Plymouth,Source1,4,41.239959000000006,-75.94720799999997,2022,18,Saturday,Clear / Fair,False,True,False,False,False,False,False
+A-4759515,PA,Luzerne,Berwick,Source1,4,41.072419,-76.156553,2022,14,Monday,Cloudy,False,False,False,True,False,False,False
+A-4767754,PA,Luzerne,Noxen,Source1,4,41.358879,-76.09570699999998,2022,0,Tuesday,Rain,False,False,False,False,False,False,False
+A-4808785,PA,Luzerne,Pittston,Source1,4,41.303789,-75.768128,2023,8,Friday,Rain,False,False,False,False,False,False,False
+A-4839738,PA,Luzerne,Berwick,Source1,4,41.07576,-76.14317199999998,2022,16,Thursday,Clear / Fair,False,False,False,True,False,False,False
+A-4882239,PA,Luzerne,Hazleton,Source1,4,40.924436,-76.08116,2022,2,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-4927421,PA,Luzerne,Nescopeck,Source1,4,41.032199,-76.104869,2022,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-4962033,PA,Luzerne,Mountain Top,Source1,4,41.152456,-75.868111,2022,15,Sunday,Cloudy,False,False,False,False,False,False,False
+A-4962850,PA,Luzerne,Drums,Source1,4,41.028141,-76.074612,2022,1,Tuesday,Rain,False,False,True,False,False,False,False
+A-5039588,PA,Luzerne,Drums,Source1,4,41.052443,-75.96324200000002,2022,10,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5041510,PA,Luzerne,Plymouth,Source1,4,41.24376,-75.935312,2022,19,Wednesday,Clear / Fair,False,True,False,True,False,False,False
+A-5053987,PA,Luzerne,Mountain Top,Source1,4,41.078962,-75.966418,2022,23,Saturday,Sin dato,False,False,False,False,False,False,False
+A-5054384,PA,Luzerne,Drums,Source1,4,41.052443,-75.96324200000002,2022,2,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-5055359,PA,Luzerne,Wilkes Barre,Source1,4,41.241258,-75.78209100000002,2022,3,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5104775,PA,Luzerne,Drums,Source1,4,41.02848400000001,-76.073951,2022,3,Wednesday,Rain,False,False,False,False,False,False,False
+A-5106250,PA,Luzerne,Plymouth,Source1,4,41.242066,-75.941016,2022,19,Wednesday,Clear / Fair,True,True,False,False,False,False,False
+A-5134430,PA,Luzerne,Benton,Source1,4,41.298447,-76.300438,2022,20,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5183437,PA,Luzerne,White Haven,Source1,4,41.055292,-75.772756,2022,8,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5264606,PA,Luzerne,Plymouth,Source1,4,41.242066,-75.941016,2022,19,Wednesday,Clear / Fair,True,True,False,False,False,False,False
+A-5293670,PA,Luzerne,Wilkes Barre,Source1,4,41.237648,-75.840681,2022,10,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-5370503,PA,Luzerne,Plymouth,Source1,4,41.244035,-75.934263,2022,19,Wednesday,Clear / Fair,True,True,False,False,False,False,False
+A-5381703,PA,Luzerne,Harveys Lake,Source1,4,41.34785,-76.107855,2022,0,Tuesday,Rain,False,False,False,False,False,False,False
+A-5386807,PA,Luzerne,Drums,Source1,4,41.02553486804472,-76.08539700471837,2022,15,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-5404848,PA,Luzerne,Wilkes Barre,Source1,4,41.226416,-75.79671,2022,11,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-5485024,PA,Luzerne,White Haven,Source1,4,41.15065455417084,-75.65669417345211,2021,3,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5495528,PA,Luzerne,Dallas,Source1,4,41.342371,-75.992562,2021,21,Tuesday,Clear / Fair,True,False,False,False,False,True,False
+A-5513903,PA,Luzerne,Wilkes Barre,Source1,4,41.228259,-75.801351,2021,20,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5537064,PA,Luzerne,Ebervale,Source1,4,40.98693251590257,-75.94229578935648,2021,8,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5556178,PA,Luzerne,Shickshinny,Source1,4,41.13413214663919,-76.13700270616465,2021,7,Thursday,Clear / Fair,False,False,False,False,False,False,False
+A-5575669,PA,Luzerne,Shickshinny,Source1,4,41.145055,-76.148466,2021,8,Monday,Cloudy,False,False,False,False,False,False,False
+A-5586384,PA,Luzerne,Drums,Source1,4,41.042853,-76.014504,2021,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-5587525,PA,Luzerne,Bear Creek Township,Source1,4,41.194681,-75.791701,2021,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5612471,PA,Luzerne,Hazleton,Source1,4,40.94013333301096,-76.0234272476386,2021,5,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5615523,PA,Luzerne,Wilkes Barre,Source1,4,41.237503,-75.91724599999998,2021,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5618456,PA,Luzerne,White Haven,Source1,4,41.055445,-75.771923,2021,22,Thursday,Cloudy,False,False,True,False,False,False,False
+A-5634381,PA,Luzerne,White Haven,Source1,4,41.14275813083104,-75.64560055696654,2021,3,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5648158,PA,Luzerne,Drums,Source1,4,41.03334546069606,-76.10790610277124,2021,6,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5652301,PA,Luzerne,Wilkes Barre,Source1,4,41.268765,-75.85291,2021,8,Saturday,Storm,False,False,False,False,False,False,False
+A-5658607,PA,Luzerne,Bear Creek Township,Source1,4,41.201936,-75.829484,2021,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5666790,PA,Luzerne,Wilkes Barre,Source1,4,41.26952100000001,-75.85283199999998,2021,8,Saturday,Storm,False,False,False,False,False,False,False
+A-5672546,PA,Luzerne,Sugarloaf,Source1,4,40.981502,-76.03792,2021,13,Thursday,Cloudy,True,False,False,False,False,False,False
+A-5685231,PA,Luzerne,Wilkes Barre,Source1,4,41.26049,-75.86139200000002,2021,8,Saturday,Storm,False,True,False,False,False,False,True
+A-5727125,PA,Luzerne,Hanover Township,Source1,4,41.215646,-75.95062,2021,17,Wednesday,Clear / Fair,True,True,False,False,False,True,False
+A-5727764,PA,Luzerne,Plymouth,Source1,4,41.241401,-75.942986,2021,21,Saturday,Clear / Fair,True,True,False,False,False,False,False
+A-5727902,PA,Luzerne,Nescopeck,Source1,4,41.037084,-76.135811,2021,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-5731619,PA,Luzerne,Laurel Run,Source1,4,41.218615,-75.848849,2021,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-5744956,PA,Luzerne,Laurel Run,Source1,4,41.218615,-75.848849,2021,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-5792947,PA,Luzerne,Wilkes Barre,Source1,4,41.216965,-75.952001,2021,16,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-5794646,PA,Luzerne,Hazleton,Source1,4,40.98010897616872,-76.03859782182674,2021,13,Thursday,Cloudy,True,False,False,False,False,False,False
+A-5803557,PA,Luzerne,Wilkes Barre,Source1,4,41.23816,-75.918369,2021,17,Thursday,Cloudy,False,False,False,False,False,False,False
+A-5823516,PA,Luzerne,White Haven,Source1,4,41.05544686297867,-75.77192187273134,2021,19,Friday,Cloudy,False,False,True,False,False,False,False
+A-5836665,PA,Luzerne,Wilkes Barre,Source1,4,41.223501,-75.865831,2021,11,Monday,Cloudy,False,False,False,False,False,False,False
+A-5840109,PA,Luzerne,Drums,Source1,4,41.0266292093228,-76.07814431154213,2021,16,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-5880453,PA,Luzerne,Wilkes Barre,Source1,4,41.260977,-75.861036,2021,8,Saturday,Storm,False,False,False,False,False,False,False
+A-5890264,PA,Luzerne,Wilkes-Barre,Source1,4,41.248480081361535,-75.80921530687422,2021,20,Tuesday,Clear / Fair,True,False,False,False,False,False,False
+A-5903649,PA,Luzerne,Wilkes Barre,Source1,4,41.202791,-75.83335799999998,2021,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5907035,PA,Luzerne,White Haven,Source1,4,41.17395758609212,-75.67980408632431,2021,3,Saturday,Clear / Fair,False,False,False,False,False,False,False
+A-5907141,PA,Luzerne,Sugarloaf,Source1,4,40.995759,-76.070164,2021,22,Sunday,Cloudy,False,False,False,False,False,False,False
+A-5913962,PA,Luzerne,Laurel Run,Source1,4,41.21717,-75.845062,2021,10,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-5975827,PA,Luzerne,Nescopeck,Source1,4,41.052347,-76.215135,2021,7,Saturday,Cloudy,True,False,False,False,False,False,False
+A-5979090,PA,Luzerne,Drums,Source1,4,41.02836728076444,-76.07883095704995,2021,9,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6002710,PA,Luzerne,Plymouth,Source1,4,41.241401,-75.942986,2021,21,Saturday,Clear / Fair,True,True,False,False,False,False,False
+A-6013404,PA,Luzerne,Pittston,Source1,4,41.31227374057144,-75.75786709749337,2021,1,Sunday,Snow / Ice,False,False,False,False,False,False,False
+A-6027661,PA,Luzerne,Sugarloaf,Source1,4,41.025663,-76.090346,2021,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6035361,PA,Luzerne,Plymouth,Source1,4,41.240578,-75.94537,2021,21,Saturday,Clear / Fair,False,True,False,False,False,False,False
+A-6053999,PA,Luzerne,Nescopeck,Source1,4,41.041043,-76.140375,2021,6,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6088256,PA,Luzerne,Sugarloaf,Source1,4,41.002435,-76.074409,2021,22,Sunday,Cloudy,True,False,False,False,False,False,False
+A-6111824,PA,Luzerne,Sweet Valley,Source1,4,41.331613,-76.11718499999998,2021,6,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-6170321,PA,Luzerne,Dallas,Source1,4,41.342061,-75.992784,2021,21,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-6195836,PA,Luzerne,Shickshinny,Source1,4,41.150545,-76.151103,2021,8,Monday,Cloudy,False,True,False,True,False,False,False
+A-6200030,PA,Luzerne,Hunlock Creek,Source1,4,41.306063,-76.096326,2021,6,Wednesday,Clear / Fair,True,False,False,False,False,False,False
+A-6201591,PA,Luzerne,Drums,Source1,4,41.04879498462177,-76.01117491685862,2021,18,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-6227451,PA,Luzerne,West Hazleton,Source1,4,40.966995,-76.001549,2021,4,Saturday,Cloudy,False,False,False,False,False,False,False
+A-6230721,PA,Luzerne,Drums,Source1,4,41.02587819079864,-76.08333706819494,2021,12,Sunday,Cloudy,False,False,False,False,False,False,False
+A-6306455,PA,Luzerne,Plymouth,Source1,4,41.240578,-75.94537,2021,21,Saturday,Clear / Fair,False,True,False,False,False,False,False
+A-6362189,PA,Luzerne,White Haven,Source1,4,41.055446,-75.77192099999998,2021,5,Monday,Cloudy,False,False,True,False,False,False,False
+A-6396767,PA,Luzerne,White Haven,Source1,4,41.055833,-75.776149,2021,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6412255,PA,Luzerne,Laurel Run,Source1,4,41.216879,-75.843772,2021,21,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-6425193,PA,Luzerne,Drums,Source1,4,41.05315,-75.958775,2021,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6429858,PA,Luzerne,Drums,Source1,4,41.04285120944479,-76.01450085603706,2021,18,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6442232,PA,Luzerne,Drums,Source1,4,41.04879498462177,-76.01117491685862,2021,18,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6472218,PA,Luzerne,Drums,Source1,4,41.05227100000001,-75.96394599999998,2021,8,Thursday,Cloudy,False,False,True,False,False,False,False
+A-6511840,PA,Luzerne,Mountain Top,Source1,4,41.150307,-75.960625,2021,18,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6529997,PA,Luzerne,White Haven,Source1,4,41.056669,-75.817476,2021,8,Thursday,Cloudy,False,False,False,False,False,False,False
+A-6535909,PA,Luzerne,Hazleton,Source1,4,40.973513,-75.978114,2021,8,Thursday,Cloudy,True,False,False,False,False,False,False
+A-6536418,PA,Luzerne,Mountain Top,Source1,4,41.078077,-75.967624,2021,18,Monday,Fog / Low visibility,False,False,False,False,False,False,False
+A-6547575,PA,Luzerne,Hazleton,Source1,4,40.976525,-76.033941,2021,17,Wednesday,Cloudy,False,False,True,False,False,False,False
+A-6557796,PA,Luzerne,Drums,Source1,4,41.05027000000001,-76.009953,2021,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-6591636,PA,Luzerne,Wilkes Barre,Source1,4,41.237643,-75.840672,2020,22,Friday,Cloudy,False,False,True,False,False,False,False
+A-6593442,PA,Luzerne,Sugarloaf,Source1,4,40.981095,-76.03599399999997,2020,22,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6601506,PA,Luzerne,Drums,Source1,4,41.045502,-76.012383,2020,20,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6665296,PA,Luzerne,White Haven,Source1,4,41.056069,-75.78003199999998,2020,21,Friday,Clear / Fair,False,False,False,False,False,False,False
+A-6831925,PA,Luzerne,Hazleton,Source1,4,40.94634,-76.02679599999998,2020,22,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-6980678,PA,Luzerne,Mountain Top,Source1,3,41.14435,-75.9631,2020,6,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7044875,PA,Luzerne,Wilkes Barre,Source1,3,41.23532,-75.84607,2020,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-7044900,PA,Luzerne,Wilkes Barre,Source1,3,41.23532,-75.84607,2020,13,Friday,Cloudy,False,False,False,False,False,False,False
+A-7051610,PA,Luzerne,Hazleton,Source1,4,40.92886,-76.01233,2020,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7079681,PA,Luzerne,Drums,Source1,4,41.02819,-76.07446999999998,2020,15,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7079773,PA,Luzerne,Drums,Source1,4,41.02819,-76.07446999999998,2020,15,Thursday,Cloudy,False,False,True,False,False,False,False
+A-7091014,PA,Luzerne,Mountain Top,Source1,3,41.0797,-75.96557,2020,12,Tuesday,Cloudy,False,False,True,False,False,False,False
+A-7091027,PA,Luzerne,Mountain Top,Source1,3,41.0797,-75.96557,2020,12,Tuesday,Clear / Fair,False,False,True,False,False,False,False
+A-7118963,PA,Luzerne,Pittston,Source1,4,41.30758,-75.75929000000002,2020,10,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7118966,PA,Luzerne,Pittston,Source1,4,41.30758,-75.75929000000002,2020,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7118967,PA,Luzerne,Pittston,Source1,4,41.30758,-75.75929000000002,2020,11,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7118971,PA,Luzerne,Pittston,Source1,4,41.30758,-75.75929000000002,2020,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7118973,PA,Luzerne,Pittston,Source1,4,41.30758,-75.75929000000002,2020,12,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7118975,PA,Luzerne,Pittston,Source1,4,41.30758,-75.75929000000002,2020,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7118976,PA,Luzerne,Pittston,Source1,4,41.30758,-75.75929000000002,2020,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7118977,PA,Luzerne,Pittston,Source1,4,41.30758,-75.75929000000002,2020,14,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7118982,PA,Luzerne,Pittston,Source1,4,41.30758,-75.75929000000002,2020,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7118984,PA,Luzerne,Pittston,Source1,4,41.30758,-75.75929000000002,2020,15,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7261069,PA,Luzerne,Drums,Source1,4,41.04648,-76.01416999999998,2020,13,Thursday,Rain,False,False,False,False,False,False,False
+A-7261096,PA,Luzerne,Drums,Source1,4,41.04915,-76.00416,2020,14,Thursday,Cloudy,False,False,False,False,False,False,False
+A-7274031,PA,Luzerne,Wilkes Barre,Source1,4,41.1948,-75.79302,2020,19,Monday,Clear / Fair,False,False,True,False,False,False,False
+A-7274033,PA,Luzerne,Pittston,Source1,4,41.30758,-75.75929000000002,2020,19,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7274036,PA,Luzerne,Pittston,Source1,4,41.30758,-75.75929000000002,2020,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7274037,PA,Luzerne,Pittston,Source1,4,41.30758,-75.75929000000002,2020,20,Monday,Clear / Fair,False,False,False,False,False,False,False
+A-7274039,PA,Luzerne,Pittston,Source1,4,41.30758,-75.75929000000002,2020,21,Monday,Cloudy,False,False,False,False,False,False,False
+A-7274041,PA,Luzerne,Pittston,Source1,4,41.30758,-75.75929000000002,2020,22,Monday,Cloudy,False,False,False,False,False,False,False
+A-7429647,PA,Luzerne,Exeter,Source1,4,41.340688,-75.80468,2019,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7429648,PA,Luzerne,Exeter,Source1,4,41.34169,-75.80516999999998,2019,16,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7432350,PA,Luzerne,Mountain Top,Source1,4,41.17509,-75.88065,2019,13,Monday,Cloudy,False,False,False,False,False,False,False
+A-7479418,PA,Luzerne,Wilkes Barre,Source1,4,41.23726,-75.84163000000002,2018,2,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7479421,PA,Luzerne,Wilkes Barre,Source1,4,41.23726,-75.84163000000002,2018,2,Sunday,Clear / Fair,False,False,False,False,False,False,False
+A-7481723,PA,Luzerne,Hazleton,Source1,3,40.94604,-76.02669,2018,1,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7481729,PA,Luzerne,Hazleton,Source1,3,40.94604,-76.02669,2018,5,Wednesday,Fog / Low visibility,False,False,False,False,False,False,False
+A-7600482,PA,Luzerne,Drums,Source1,4,41.049872,-76.00970699999998,2018,11,Friday,Snow / Ice,False,False,False,False,False,False,False
+A-7602406,PA,Luzerne,Drums,Source1,4,41.05479,-75.95491,2018,14,Wednesday,Snow / Ice,False,False,False,False,False,False,False
+A-7619563,PA,Luzerne,Drums,Source1,4,41.05479,-75.95491,2018,3,Wednesday,Cloudy,False,False,False,False,False,False,False
+A-7629909,PA,Luzerne,Drums,Source1,4,41.05479,-75.95491,2018,0,Tuesday,Cloudy,False,False,False,False,False,False,False
+A-7667117,PA,Luzerne,Drums,Source1,4,41.054664,-75.956365,2017,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7667119,PA,Luzerne,Drums,Source1,3,41.054729,-75.95614300000003,2017,18,Wednesday,Clear / Fair,False,False,True,False,False,False,False
+A-7667120,PA,Luzerne,Drums,Source1,4,41.054664,-75.956365,2017,18,Wednesday,Clear / Fair,False,False,False,False,False,False,False
+A-7672234,PA,Luzerne,Wilkes Barre,Source1,4,41.198227,-75.7937,2017,6,Tuesday,Clear / Fair,False,False,False,False,False,False,False
+A-7734473,PA,Luzerne,Drums,Source1,3,41.04305,-76.01446,2019,0,Friday,Clear / Fair,False,False,True,False,False,False,False
+A-7734994,PA,Luzerne,Mountain Top,Source1,3,41.14435,-75.9631,2019,7,Friday,Clear / Fair,False,False,True,False,False,False,False
