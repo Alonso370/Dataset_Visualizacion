@@ -1,9 +1,10 @@
 window.VizCharts = (() => {
   const SOURCE_COLORS = ["#6250d6", "#199e70", "#c3c2b7"];
   const INDEX_THRESHOLDS = [0.67, 0.8, 0.95, 1.05, 1.25, 1.5];
-  const INDEX_COLORS = ["#1c5cab", "#5598e7", "#b7d3f6", "#efeeea", "#f4b9b2", "#e0675d", "#b3322b"];
-  const HEAT_COLORS = d3.interpolateRgb("#f1f0ec", "#2c2c2a");
-  const FEW = "url(#fewData)";
+  const INDEX_COLORS = ["#fdebdc", "#fbcfae", "#f6a979", "#ee7d45", "#d9561f", "#b23d10", "#7f2a0a"];
+  const HEAT_COLORS = d3.interpolateRgbBasis(["#fdf3ea", ...INDEX_COLORS.slice(1)]);
+  const FEW = "#d6d5cf";
+  const AB_COLORS = {A: "#2a78d6", B: "#d55181"};
   const FLAG_LABELS = {
     Traffic_Signal: "Semáforo",
     Crossing: "Cruce peatonal",
@@ -161,7 +162,7 @@ window.VizCharts = (() => {
     const x = d3.scaleLog([lo, hi], [margin.left, width - margin.right]);
     const y = d3.scaleBand(d3.range(rows.length), [margin.top, height - margin.bottom]).padding(0.25);
 
-    const ticks = [0.25, 0.5, 1, 2, 4].filter(v => v >= lo && v <= hi);
+    const ticks = [0.5, 1, 2].filter(v => v >= lo && v <= hi);
     svg.append("g")
       .attr("class", "grid")
       .attr("transform", `translate(0,${height - margin.bottom})`)
@@ -262,17 +263,20 @@ window.VizCharts = (() => {
   function legend(svgId) {
     const svg = d3.select(svgId);
     svg.selectAll("*").remove();
-    size(svg, 34);
-    const w = 30;
+    size(svg, 46);
+    const w = 32;
+    const top = 16;
+    svg.append("text").attr("class", "legend-title").attr("x", 0).attr("y", 10).text("Índice ajustado por fuente y año (1× = lo esperado)");
     INDEX_COLORS.forEach((c, i) => {
-      svg.append("rect").attr("x", i * w).attr("y", 4).attr("width", w - 2).attr("height", 10).attr("fill", c);
+      svg.append("rect").attr("x", i * w).attr("y", top).attr("width", w - 2).attr("height", 10).attr("rx", 2).attr("fill", c);
     });
     INDEX_THRESHOLDS.forEach((t, i) => {
-      svg.append("text").attr("class", "tick-label").attr("x", (i + 1) * w - 1).attr("y", 27).attr("text-anchor", "middle").text(`${t}`);
+      svg.append("text").attr("class", "tick-label").attr("x", (i + 1) * w - 1).attr("y", top + 24).attr("text-anchor", "middle").text(`${t}`);
     });
-    const fx = INDEX_COLORS.length * w + 14;
-    svg.append("rect").attr("x", fx).attr("y", 4).attr("width", w - 2).attr("height", 10).attr("fill", FEW).attr("stroke", "var(--grid-strong)");
-    svg.append("text").attr("class", "tick-label").attr("x", fx).attr("y", 27).text("pocos datos");
+    svg.append("rect").attr("class", "expected-mark").attr("x", 3 * w - 0.5).attr("y", top - 1.5).attr("width", w - 1).attr("height", 13).attr("rx", 2);
+    const fx = INDEX_COLORS.length * w + 16;
+    svg.append("rect").attr("x", fx).attr("y", top).attr("width", w - 2).attr("height", 10).attr("rx", 2).attr("fill", FEW);
+    svg.append("text").attr("class", "tick-label").attr("x", fx).attr("y", top + 24).text("pocos datos");
   }
 
   function lineChart(svgId, {labels, series, height, yFormat, reference, annotation}) {
@@ -386,7 +390,7 @@ window.VizCharts = (() => {
   }
 
   return {
-    SOURCE_COLORS, FLAG_LABELS, WEATHER_LABELS, FEW,
+    SOURCE_COLORS, AB_COLORS, INDEX_COLORS, FLAG_LABELS, WEATHER_LABELS, FEW,
     indexColor, tip, hideTip, heat, indexChart, mix, legend, lineChart, cityList, table, times, pct, int
   };
 })();
