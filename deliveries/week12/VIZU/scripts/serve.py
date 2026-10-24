@@ -1,4 +1,4 @@
-"""Serve the week 12 UI from the repository root (it reads the week 10 samples), independent of cwd, old servers or browser cache."""
+"""Serve this project's current UI, independent of cwd, old servers or browser cache."""
 from __future__ import annotations
 import argparse
 import hashlib

@@ -1,4 +1,4 @@
-/* A 24-hour dial and a freehand geographic lasso capped at LASSO_KM from its first point. */
+/* A 24-hour dial and freehand geographic lasso; changes never reload the CSV. */
 window.ExplorerFilters = (() => {
   const $ = id => document.getElementById(id);
   const hours = new Set(Array.from({length:24},(_,i) => i));
