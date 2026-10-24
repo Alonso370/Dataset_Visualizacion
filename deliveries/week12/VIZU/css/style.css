@@ -162,6 +162,7 @@ h3 .hint { font-family: var(--font); font-weight: 400; font-size: 12px; color: v
 
 .city-list { display: grid; gap: 2px; margin-top: 8px; max-height: 220px; overflow: auto; }
 .city-row { display: grid; grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr) 52px 48px; gap: 8px; align-items: center; border: 0; border-radius: 4px; padding: 4px 6px; background: transparent; text-align: left; font-size: 12px; }
+.no-index .city-row { grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr) 52px; }
 .city-row:hover { background: #f0efec; }
 .city-row.selected { background: #e8e7e2; font-weight: 600; }
 .city-name { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
@@ -234,6 +235,7 @@ dialog .close { float: right; border: 0; font-size: 20px; line-height: 1; paddin
 .pt.src-0 { fill: var(--s1); }
 .pt.src-1 { fill: var(--s2); }
 .pt.src-2 { fill: var(--s3); }
+.pt.pooled { fill: var(--ink-2); }
 .pt.pin-a { fill: var(--a); }
 .pt.pin-b { fill: var(--b); }
 .key { display: inline-flex; gap: 12px; flex-wrap: wrap; font-size: 12px; color: var(--ink-2); margin-top: 6px; }
@@ -241,6 +243,7 @@ dialog .close { float: right; border: 0; font-size: 20px; line-height: 1; paddin
 .key .src-0 { background: var(--s1); }
 .key .src-1 { background: var(--s2); }
 .key .src-2 { background: var(--s3); }
+.key .pooled { background: var(--ink-2); }
 .key .pin-a { background: var(--a); }
 .key .pin-b { background: var(--b); }
 .defs { position: absolute; width: 0; height: 0; overflow: hidden; }

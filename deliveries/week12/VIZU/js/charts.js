@@ -355,6 +355,8 @@ window.VizCharts = (() => {
       return;
     }
     const max = d3.max(rows, r => r.t);
+    const withIndex = rows.some(r => r.e >= minExpected);
+    list.classed("no-index", !withIndex);
     const items = list.selectAll("button")
       .data(rows)
       .join("button")
@@ -367,6 +369,7 @@ window.VizCharts = (() => {
     const bar = items.append("span").attr("class", "city-bar");
     bar.append("span").style("width", r => `${Math.max(2, r.t / max * 100)}%`);
     items.append("span").attr("class", "city-value").text(r => int(r.t));
+    if (!withIndex) return;
     items.append("span")
       .attr("class", "city-index")
       .style("--swatch", r => indexColor(r, minExpected) === FEW ? "transparent" : indexColor(r, minExpected))

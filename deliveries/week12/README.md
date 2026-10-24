@@ -50,7 +50,7 @@ Es una estandarización indirecta. Se recalcula para cualquier periodo, porque l
   Al elegir una ciudad, el mapa se ajusta a sus propios accidentes.
 - **Ciudades del condado:** ranking en barras por número de accidentes, con su índice. Reemplaza a las burbujas de ciudades de la semana 10, que estaban mal ubicadas: los resúmenes de week10 traen las coordenadas truncadas a grados enteros.
 - **¿Cuándo?:** la proporción de Severity ≥ 3 de cada fuente comparada consigo misma, por mes. Si los datos no alcanzan, pasa a años, y si tampoco alcanzan, lo dice en lugar de dibujar. En modo A/B muestra el índice anual de A frente a B.
-- **Perfil del área:**
+- **Perfil del área** (si el área tiene menos de 1 000 accidentes Severity ≥ 3 en el periodo, el perfil sube al estado o al país y lo dice en una línea; si una fila no alcanza por fuente, muestra las fuentes combinadas):
   - **¿A qué hora y qué día?:** promedio diario de accidentes Severity ≥ 3 en 7 × 24. Con menos de 300 casos se agrupa en laborables / fin de semana y franjas de 4 horas.
   - **¿En qué punto de la vía?** y **¿Con qué clima?:** índice por elemento y por condición, **con un punto por fuente**, para ver si las fuentes coinciden.
 - **Accesibilidad:**

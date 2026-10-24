@@ -412,9 +412,11 @@ function keyHtml(target, items) {
   }));
 }
 
-function profileSources(P) {
-  const totals = DataCore.bySource(P.T, S.range, meta.sources.length);
-  return sourceList().filter(s => totals[s].t >= 200);
+function rowPoints(perSource, pooled, sources) {
+  const usable = cell => cell && cell.e >= MIN_E;
+  const points = sources.filter(s => usable(perSource.get(s))).map(s => ({name: meta.sources[s], cls: `src-${s}`, cell: perSource.get(s)}));
+  if (points.length || sources.length === 1) return points.length ? points : [{name: meta.sources[sources[0]], cls: `src-${sources[0]}`, cell: perSource.get(sources[0])}];
+  return [{name: "Fuentes combinadas", cls: "pooled", cell: pooled}];
 }
 
 function renderProfileExact(P, title, note) {
@@ -425,28 +427,54 @@ function renderProfileExact(P, title, note) {
   $("heatHelp").textContent = "accidentes Severity ≥ 3 por día";
   $("heatNote").textContent = heat.note;
 
-  const sources = profileSources(P);
+  const sources = sourceList();
   const infraBySource = new Map(sources.map(s => [s, DataCore.infraIndex(P.I, P.T, S.range, s, rates, meta.flags.length)]));
+  const infraPooled = DataCore.infraIndex(P.I, P.T, S.range, S.source, rates, meta.flags.length);
   const infraRows = meta.flags.map((flag, f) => ({
     label: VizCharts.FLAG_LABELS[flag],
-    points: sources.map(s => ({name: meta.sources[s], cls: `src-${s}`, cell: infraBySource.get(s)[f].with})),
-    hint: `Sin el elemento: ${sources.map(s => `${meta.sources[s]} ${times(infraBySource.get(s)[f].without.index)}`).join(" · ")}`
+    points: rowPoints(new Map(sources.map(s => [s, infraBySource.get(s)[f].with])), infraPooled[f].with, sources)
   }));
   VizCharts.indexChart("#infraChart", {rows: infraRows, minExpected: MIN_E});
 
   const groups = meta.weather.map((g, w) => ({g, w})).filter(d => VizCharts.WEATHER_LABELS[d.g]);
   const weatherBySource = new Map(sources.map(s => [s, DataCore.weatherIndex(P.W, S.range, s, rates, meta.weather.length)]));
+  const weatherPooled = DataCore.weatherIndex(P.W, S.range, S.source, rates, meta.weather.length);
   const weatherRows = groups.map(({g, w}) => ({
     label: VizCharts.WEATHER_LABELS[g],
-    points: sources.map(s => ({name: meta.sources[s], cls: `src-${s}`, cell: weatherBySource.get(s)[w]}))
+    points: rowPoints(new Map(sources.map(s => [s, weatherBySource.get(s)[w]])), weatherPooled[w], sources)
   }));
   VizCharts.indexChart("#weatherChart", {rows: weatherRows, minExpected: MIN_E});
 
-  const key = sources.length > 1 ? sources.map(s => [`src-${s}`, meta.sources[s]]) : [];
-  keyHtml("infraKey", key);
-  keyHtml("weatherKey", key);
-  $("weatherHelp").textContent = "índice por fuente · 1× = lo esperado";
-  $("infraHelp").textContent = "índice por fuente · 1× = lo esperado";
+  const shown = rows => new Set(rows.flatMap(r => r.points.filter(p => p.cell && p.cell.e >= MIN_E).map(p => p.cls)));
+  const keyFor = rows => {
+    const used = shown(rows);
+    const items = sources.filter(s => used.has(`src-${s}`)).map(s => [`src-${s}`, meta.sources[s]]);
+    if (used.has("pooled")) items.push(["pooled", "fuentes combinadas"]);
+    return items.length > 1 || used.has("pooled") ? items : [];
+  };
+  keyHtml("infraKey", keyFor(infraRows));
+  keyHtml("weatherKey", keyFor(weatherRows));
+  $("weatherHelp").textContent = "índice · 1× = lo esperado";
+  $("infraHelp").textContent = "índice · 1× = lo esperado";
+}
+
+const PROFILE_MIN = 1000;
+
+async function profileArea() {
+  const highs = data => DataCore.indexTotal(data.T, S.range, S.source, rates).h;
+  const here = S.level === "city" ? S.county : areaName();
+  const chain = [];
+  if (S.level === "county" || S.level === "city") chain.push([scope, S.county]);
+  if (S.level !== "usa") chain.push([S.level === "state" ? scope : await json(`${W12}/states/${S.state}.json`), stateName(S.state)]);
+  chain.push([usa, "Estados Unidos"]);
+  const [data, name] = chain.find(([d]) => highs(d) >= PROFILE_MIN) || chain.at(-1);
+  const own = S.level === "city" ? DataCore.areaTable(scope.areas, S.city) : (S.level === "usa" ? usa.T : scope.T);
+  const ownHigh = DataCore.indexTotal(own, S.range, S.source, rates).h;
+  let note = `${sourceList().length > 1 ? "Las tres fuentes" : meta.sources[S.source]} · ${periodName(S.range)}`;
+  if (S.level === "city") note = `${S.city} tiene ${int(ownHigh)} accidentes Severity ≥ 3; por ciudad solo hay totales.`;
+  if (name !== here && S.level !== "city") note = `${here} tiene ${int(ownHigh)} accidentes Severity ≥ 3 en el periodo, muy pocos para un perfil.`;
+  if (name !== here && S.level === "city") note = `${S.city} tiene ${int(ownHigh)} accidentes Severity ≥ 3 y ${S.county} también pocos.`;
+  return {data, title: `Perfil de ${name}`, note};
 }
 
 function renderProfileSample(rows) {
@@ -614,11 +642,10 @@ async function render() {
     renderTimeBySource(T);
     if (isStreet() && window.ExplorerFilters.hasLasso()) {
       renderProfileSample(rows.lasso);
-    } else if (S.level === "city") {
-      const total = DataCore.total(T, S.range, S.source);
-      renderProfileExact(scope, `Perfil de ${S.county}`, `${S.city}: ${int(total.t)} accidentes. Por ciudad solo hay totales; el perfil es del condado.`);
     } else {
-      renderProfileExact(scope, `Perfil de ${areaName()}`, `${sourceList().length > 1 ? "Las tres fuentes" : meta.sources[S.source]} · ${periodName(S.range)}`);
+      const area = await profileArea();
+      if (token !== renderToken) return;
+      renderProfileExact(area.data, area.title, area.note);
     }
   }
   await renderPins();
