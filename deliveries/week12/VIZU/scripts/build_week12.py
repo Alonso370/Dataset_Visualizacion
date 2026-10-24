@@ -14,7 +14,8 @@ FLAGS = ["Traffic_Signal", "Crossing", "Junction", "Stop", "Station", "Amenity"]
 WEATHER = ["Clear/Fair", "Cloudy", "Rain", "Snow/Ice", "Fog/Low visibility", "Storm", "Other", "Sin dato"]
 SOURCES = ["Source1", "Source2", "Source3"]
 START_YEAR = 2016
-COLUMNS = ["ID", "Source", "Severity", "Start_Time", "State", "County", "City", "Weather_Condition"] + FLAGS
+COLUMNS = ["ID", "Source", "Severity", "Start_Time", "State", "County", "City", "Weather_Condition", "Start_Lat", "Start_Lng"] + FLAGS
+CELL = 0.002
 LEVELS = {"usa": [], "state": ["State"], "county": ["State", "cslug"]}
 
 
@@ -65,6 +66,11 @@ def clean(df):
     county = df["County"].fillna("")
     df["cslug"] = county.map(slugify).where(county.ne(""), "")
     df["City"] = df["City"].fillna("").astype("string").str.strip()
+    lat = pd.to_numeric(df["Start_Lat"], errors="coerce")
+    lng = pd.to_numeric(df["Start_Lng"], errors="coerce")
+    df["iy"] = np.floor(lat / CELL).astype("Int32")
+    df["ix"] = np.floor(lng / CELL).astype("Int32")
+    df["y"] = (df["m"] // 12).astype("int16")
     for flag in FLAGS:
         df[flag] = as_bool(df[flag])
     return df
@@ -87,6 +93,8 @@ def tables(df):
 
     cities = df[df["cslug"].ne("") & df["City"].ne("")]
     out[("city", "T")] = cities.groupby(["State", "cslug", "City", "s", "m"])[["t", "h"]].sum()
+    cells = df[df["cslug"].ne("") & df["iy"].notna() & df["ix"].notna()]
+    out[("cells", "R")] = cells.groupby(["State", "cslug", "iy", "ix", "y"])[["t", "h"]].sum()
     return out
 
 
@@ -186,6 +194,7 @@ def main():
 
     counties = acc[("county", "T")]
     cities = acc[("city", "T")]
+    roads = acc[("cells", "R")]
     for state in state_names:
         local = sub(counties, (state,))
         slugs = sorted(local.index.get_level_values(0).unique())
@@ -194,6 +203,8 @@ def main():
             city = sub(cities, (state, slug))
             names = sorted(city.index.get_level_values(0).unique())
             write_json(out / "states" / state / "counties" / f"{slug}.json", payload(acc, "county", (state, slug), (names, city)))
+            grid = sub(roads, (state, slug))
+            write_json(out / "states" / state / "counties" / f"{slug}.cells.json", {"cell": CELL, **columns(grid, ["iy", "ix", "y", "t", "h"])})
 
     print(f"Listo: {rows:,} filas, {months} meses, IDs hasta {last_id - 1:,}. Salida: {out.resolve()}")
 

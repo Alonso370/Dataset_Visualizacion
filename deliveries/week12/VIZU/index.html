@@ -73,6 +73,8 @@
             <div class="pair"><button id="allHours" type="button">Todas</button><button id="noHours" type="button">Ninguna</button><button id="closeClock" type="button">Cerrar</button></div>
           </div>
         </details>
+        <label class="check"><input id="showRoads" type="checkbox" checked /> Vías</label>
+        <label class="check"><input id="showPoints" type="checkbox" /> Reportes</label>
         <label class="check"><input id="onlyHigh" type="checkbox" /> Solo Severity ≥ 3</label>
       </div>
       <div id="mapStage">
@@ -84,7 +86,10 @@
         <div id="legendBlock">
           <svg id="mapLegend" aria-label="Leyenda del índice"></svg>
         </div>
-        <p id="pointLegend" class="note hidden"><span class="dot high"></span>Severity ≥ 3 <span class="dot low"></span>Severity 1–2</p>
+        <div id="pointLegend" class="hidden">
+          <svg id="roadLegend" aria-label="Leyenda de las vías"></svg>
+          <p id="dotLegend" class="note"><span class="dot high"></span>Severity ≥ 3 <span class="dot low"></span>Severity 1–2</p>
+        </div>
         <button id="tableBtn" type="button" class="quiet" aria-pressed="false">Ver como tabla</button>
       </div>
       <p id="lassoStatus" class="note lasso-status" aria-live="polite"></p>
@@ -169,6 +174,7 @@
   <script src="js/data-core.js"></script>
   <script src="js/filters.js"></script>
   <script src="js/charts.js"></script>
+  <script src="js/roads.js"></script>
   <script src="js/timeline.js"></script>
   <script src="js/app.js"></script>
 </body>
