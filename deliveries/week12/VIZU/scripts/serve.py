@@ -19,7 +19,7 @@ ROOT = APP_DIR.parents[2]
 APP_URL = "/" + APP_DIR.relative_to(ROOT).as_posix() + "/"
 APP = "vizu-us-accidents"
 LAYOUT = "week12-one-screen-brush"
-VERSION_FILES = ["index.html", "css/style.css", "js/config.js", "js/filter-core.js", "js/data-core.js", "js/filters.js", "js/charts.js", "js/timeline.js", "js/app.js", "scripts/serve.py"]
+VERSION_FILES = ["index.html", "css/style.css", "js/config.js", "js/filter-core.js", "js/data-core.js", "js/filters.js", "js/charts.js", "js/geomap.js", "js/timeline.js", "js/app.js", "scripts/serve.py"]
 
 
 def version():

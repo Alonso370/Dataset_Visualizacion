@@ -8,137 +8,172 @@
   <link rel="stylesheet" href="css/style.css" />
 </head>
 <body>
-  <header class="topbar">
-    <div>
-      <div class="brand">VIZU</div>
-      <h1>¿Dónde y cuándo se concentran los accidentes de mayor impacto en EE. UU.?</h1>
-      <p>US Accidents 2016–2023 · 7,7 millones de registros · “mayor impacto” = Severity ≥ 3, impacto sobre el tráfico, no gravedad de lesiones. Las tres fuentes etiquetan la severidad con criterios distintos: compara dentro de una fuente.</p>
+  <header class="top">
+    <div class="intro">
+      <p class="kicker">VIZU · US Accidents 2016–2023 · 7,7 millones de reportes</p>
+      <h1>¿Dónde y cuándo hay más accidentes de mayor impacto de lo que se esperaría?</h1>
+      <p class="lede">Tres proveedores reportan los accidentes y no etiquetan la severidad igual: uno marca como “mayor impacto” (Severity ≥ 3) al 8 % y otro al 34 %. Por eso el mapa no muestra porcentajes brutos, sino cuánto se aparta cada lugar de lo esperado según quién lo reporta y en qué año.</p>
     </div>
-    <div class="top-actions">
-      <button id="aboutBtn" type="button">Cómo leer</button>
-      <button id="backBtn" type="button" disabled>← Atrás</button>
-      <button id="homeBtn" type="button">USA</button>
+    <div class="findings">
+      <span>Empieza por un hallazgo</span>
+      <div id="stories"></div>
+      <p id="storyText" class="note" aria-live="polite"></p>
     </div>
+    <button id="aboutBtn" type="button" class="quiet">Cómo leer</button>
   </header>
 
-  <main class="dashboard">
-    <aside class="controls card" aria-label="Filtros">
-      <div id="breadcrumb" class="breadcrumb"></div>
-      <label>Estado
-        <select id="stateSelect"><option value="ALL">USA · Todos</option></select>
+  <main class="layout">
+    <aside class="panel" aria-label="Controles">
+      <nav id="breadcrumb" class="breadcrumb" aria-label="Ubicación"></nav>
+      <button id="backBtn" type="button" class="quiet" disabled>← Subir un nivel</button>
+
+      <label class="field">Estado
+        <select id="stateSelect"><option value="ALL">Todo el país</option></select>
       </label>
-      <label>Fuente
-        <select id="sourceSelect"><option value="ALL">Todas</option></select>
+
+      <label class="field">Fuente
+        <select id="sourceSelect"><option value="ALL">Las tres fuentes</option></select>
       </label>
-      <p class="hint">Source1 y Source2 no marcan la severidad igual; para comparar proporciones conviene fijar una fuente.</p>
-      <div class="period">
+
+      <div class="field">
         <span>Periodo</span>
         <strong id="periodLabel">—</strong>
-        <button id="fullPeriod" type="button">Todo el periodo</button>
+        <button id="fullPeriod" type="button" class="quiet">Todo el periodo</button>
+        <p class="note">Se elige arrastrando sobre las barras de abajo.</p>
       </div>
-      <details id="hourFilter" class="hour-filter">
-        <summary id="hourSummary" aria-disabled="true">◷ Horas · Todas</summary>
-        <div class="clock-popover">
-          <div class="chart-title"><h3>Horas del día · 24 h</h3><button id="allHours" type="button">Todas</button></div>
-          <p class="chart-help">Selecciona o arrastra sobre las horas. Cada sector comprende una hora completa; puedes cruzar medianoche. Filtra la muestra (mapa y RadViz) y resalta columnas del heatmap.</p>
-          <svg id="hourClock" viewBox="0 0 280 280" aria-label="Reloj para seleccionar horas del día"></svg>
-          <p id="hourDescription" class="chart-help" aria-live="polite">Todas las horas</p>
-          <div class="clock-actions"><button id="noHours" type="button">Ninguna</button><button id="closeClock" type="button">Cerrar</button></div>
+
+      <div class="field compare">
+        <span>Comparar dos áreas</span>
+        <div class="pair">
+          <button id="pinA" type="button">Fijar A</button>
+          <button id="pinB" type="button">Fijar B</button>
         </div>
-      </details>
-      <label>Severidad de la muestra
-        <select id="severitySelect"><option value="ALL">Todas</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option></select>
-      </label>
-      <div class="lasso-tools">
-        <button id="lassoBtn" type="button" aria-pressed="false" disabled>Seleccionar con lazo</button>
-        <button id="clearLasso" type="button" disabled>Limpiar lazo</button>
+        <div id="pinSummary" class="pin-summary"></div>
+        <button id="clearPins" type="button" class="quiet" disabled>Quitar comparación</button>
       </div>
-      <div class="compare-tools">
-        <span>Comparar dos áreas (T5)</span>
-        <div><button id="pinA" type="button" class="pin a">Fijar A</button><button id="pinB" type="button" class="pin b">Fijar B</button></div>
-        <p id="pinLabels" class="hint">Navega a un estado, condado o ciudad y fíjalo como A o B.</p>
-        <button id="clearPins" type="button" disabled>Quitar comparación</button>
-      </div>
-      <div id="stories" class="stories"></div>
-      <button id="resetFilters" type="button" title="Restablece fuente, periodo, horas, severidad, lazo y comparación; conserva el área actual">Reiniciar filtros</button>
+
+      <button id="resetFilters" type="button" class="quiet">Reiniciar todo</button>
     </aside>
 
-    <section class="map-card card">
-      <div class="kpis" aria-live="polite">
-        <div><span>Accidentes</span><strong id="kpiTotal">—</strong></div>
-        <div><span>Severity ≥ 3</span><strong id="kpiHigh">—</strong></div>
-        <div><span>Proporción ≥ 3</span><strong id="kpiRate">—</strong></div>
-        <div class="kpi-mix"><span>Mezcla de fuentes</span><svg id="kpiMix" aria-label="Composición de fuentes del área"></svg></div>
-      </div>
+    <section class="map-card" aria-label="Mapa">
       <div class="map-head">
-        <div><h2 id="mapTitle">Estados Unidos</h2><p id="mapHelp"></p></div>
-        <div id="levelBadge" class="level-badge">Nivel: USA</div>
+        <h2 id="mapTitle">Estados Unidos</h2>
+        <div class="kpis" aria-live="polite">
+          <div><span>Accidentes</span><strong id="kpiTotal">—</strong></div>
+          <div><span>Severity ≥ 3</span><strong id="kpiHigh">—</strong><small id="kpiRate"></small></div>
+          <div><span>Índice ajustado</span><strong id="kpiIndex">—</strong><small id="kpiIndexNote">1× = lo esperado</small></div>
+          <div class="kpi-mix"><span>Quién lo reporta</span><svg id="kpiMix" aria-label="Mezcla de fuentes"></svg></div>
+        </div>
       </div>
-      <div id="mapStage"><div id="map"></div><svg id="lassoOverlay" aria-label="Dibuja un lazo para seleccionar accidentes"><path id="lassoLimit"></path><path id="lassoPath"></path></svg></div>
-      <div class="map-footer"><svg id="mapLegend" aria-label="Leyenda del mapa"></svg><span id="mapLegendNote"></span></div>
-      <p id="lassoStatus" class="lasso-status" aria-live="polite"></p>
+      <div id="mapTools" class="map-tools hidden">
+        <button id="lassoBtn" type="button" aria-pressed="false">Lazo (máx. 5 km)</button>
+        <button id="clearLasso" type="button" disabled>Quitar lazo</button>
+        <details id="hourFilter" class="hour-filter">
+          <summary id="hourSummary">Horas: todas</summary>
+          <div class="clock-popover">
+            <p class="note">Clic o arrastra sobre las horas. Filtra los puntos y resalta columnas del perfil horario.</p>
+            <svg id="hourClock" viewBox="0 0 280 280" aria-label="Reloj para elegir horas"></svg>
+            <p id="hourDescription" class="note" aria-live="polite"></p>
+            <div class="pair"><button id="allHours" type="button">Todas</button><button id="noHours" type="button">Ninguna</button><button id="closeClock" type="button">Cerrar</button></div>
+          </div>
+        </details>
+        <label class="check"><input id="onlyHigh" type="checkbox" /> Solo Severity ≥ 3</label>
+      </div>
+      <div id="mapStage" class="geo">
+        <svg id="geoMap" role="img" aria-label="Mapa de Estados Unidos coloreado por índice ajustado"></svg>
+        <div id="map" class="hidden"></div>
+        <svg id="lassoOverlay" aria-hidden="true"><path id="lassoLimit"></path><path id="lassoPath"></path></svg>
+        <div id="mapTable" class="map-table hidden"></div>
+      </div>
+      <div class="map-foot">
+        <div id="legendBlock">
+          <svg id="mapLegend" aria-label="Leyenda del índice"></svg>
+          <p class="note">Índice = accidentes Severity ≥ 3 observados ÷ esperados según la fuente y el año. 1× es lo esperado.</p>
+        </div>
+        <p id="pointLegend" class="note hidden"><span class="dot high"></span>Severity ≥ 3 <span class="dot low"></span>Severity 1–2 · muestra de hasta 2 500 reportes</p>
+        <button id="tableBtn" type="button" class="quiet" aria-pressed="false">Ver como tabla</button>
+      </div>
+      <p id="lassoStatus" class="note lasso-status" aria-live="polite"></p>
     </section>
 
-    <section class="focus-card card">
-      <div class="chart-title"><h3>T1 · Proporción de mayor impacto por fuente</h3><span id="focusScope"></span></div>
-      <p class="chart-help">Mes a mes, dentro del periodo elegido abajo. Si las líneas se separan, la diferencia viene del criterio de cada fuente, no de las vías.</p>
-      <svg id="focusChart" role="img" aria-label="Proporción mensual de accidentes con Severity mayor o igual a 3 por fuente"></svg>
-      <p id="focusNote" class="chart-help" aria-live="polite"></p>
+    <section class="time-card" aria-label="Evolución en el tiempo">
+      <h3 id="timeTitle">¿Cuándo? Proporción con Severity ≥ 3, por fuente</h3>
+      <svg id="focusChart" role="img" aria-label="Evolución en el tiempo"></svg>
+      <p id="focusNote" class="note" aria-live="polite"></p>
     </section>
 
-    <section class="context-card card">
-      <div class="chart-title"><h3>Periodo · arrastra para elegir los meses que se exploran</h3><div id="sourceLegend" class="legend"></div></div>
-      <svg id="contextChart" role="img" aria-label="Accidentes de mayor impacto por mes y fuente, con selección de periodo"></svg>
+    <section class="context-card" aria-label="Periodo">
+      <div class="context-head">
+        <h3>Periodo · arrastra para elegir meses</h3>
+        <div id="sourceLegend" class="legend"></div>
+      </div>
+      <svg id="contextChart" role="img" aria-label="Accidentes con Severity mayor o igual a 3 por mes y fuente"></svg>
     </section>
 
-    <aside class="views" aria-label="Vistas coordinadas">
-      <section class="card">
-        <div class="chart-title"><h3>T3 · Día × hora</h3><span id="heatBadge" class="badge"></span></div>
-        <p id="heatHelp" class="chart-help"></p>
-        <svg id="heatChart" role="img" aria-label="Heatmap de accidentes de mayor impacto por día de la semana y hora"></svg>
-        <p id="heatNote" class="chart-help" aria-live="polite"></p>
+    <aside class="profile" aria-label="Perfil del área">
+      <div class="profile-head">
+        <h2 id="profileTitle">Perfil</h2>
+        <p id="profileNote" class="note"></p>
+      </div>
+
+      <section id="citiesBlock" class="block hidden">
+        <h3 id="citiesTitle">Ciudades</h3>
+        <p class="note">Accidentes en el periodo e índice. Clic para ver sus accidentes en el mapa.</p>
+        <div id="cityList" class="city-list"></div>
       </section>
-      <section class="card">
-        <div class="chart-title"><h3>T4 · Infraestructura vial</h3><span id="infraBadge" class="badge"></span></div>
-        <p class="chart-help">Proporción con Severity ≥ 3 cuando el elemento está presente (●) y cuando no (○), siempre dentro de una misma fuente.</p>
-        <svg id="infraChart" role="img" aria-label="Proporción de mayor impacto con y sin cada elemento de infraestructura"></svg>
-        <p id="infraNote" class="chart-help" aria-live="polite"></p>
+
+      <section class="block">
+        <h3>¿A qué hora y qué día?</h3>
+        <p id="heatHelp" class="note">Promedio de accidentes Severity ≥ 3 por día.</p>
+        <svg id="heatChart" role="img" aria-label="Accidentes por día de la semana y hora"></svg>
+        <svg id="heatChartB" class="hidden" role="img" aria-label="Accidentes por día de la semana y hora del área B"></svg>
+        <p id="heatNote" class="note"></p>
       </section>
-      <section class="card">
-        <div class="chart-title"><h3>T2 · Clima · RadViz</h3><span id="scopeWeather" class="badge"></span></div>
-        <p class="chart-help">Cada punto es un accidente de la muestra; se acerca al factor climático donde su valor es más alto. Clic para ubicarlo en el mapa.</p>
-        <div id="climateDimensions" class="dimension-options"></div>
-        <svg id="weatherChart" role="img" aria-label="RadViz de factores climáticos"></svg>
-        <div class="severity-legend"><span style="--color:#38bdf8">1</span><span style="--color:#2563eb">2</span><span style="--color:#f59e0b">3</span><span style="--color:#dc2626">4</span><small>Severidad</small></div>
-        <p id="weatherNote" class="chart-help" aria-live="polite"></p>
+
+      <section class="block">
+        <h3>¿En qué punto de la vía?</h3>
+        <p id="infraHelp" class="note">Índice de los accidentes que ocurrieron junto a cada elemento, por fuente. 1× es lo esperado.</p>
+        <div id="infraKey" class="key"></div>
+        <svg id="infraChart" role="img" aria-label="Índice según infraestructura vial"></svg>
       </section>
-      <section class="card">
-        <div class="chart-title"><h3>T5 · Comparar A y B</h3><span id="compareBadge" class="badge"></span></div>
-        <div id="compareBody"><p class="chart-help">Fija dos áreas con los botones de la izquierda. Se comparan con las mismas escalas y se muestra si su mezcla de fuentes es comparable.</p></div>
+
+      <section class="block">
+        <h3>¿Con qué clima?</h3>
+        <p id="weatherHelp" class="note">Índice según la condición registrada al momento del accidente.</p>
+        <div id="weatherKey" class="key"></div>
+        <svg id="weatherChart" role="img" aria-label="Índice según el clima"></svg>
       </section>
-      <p id="sampleNote" class="chart-help" aria-live="polite"></p>
     </aside>
   </main>
 
   <dialog id="about">
     <form method="dialog"><button class="close" aria-label="Cerrar">×</button></form>
     <h2>Cómo leer VIZU</h2>
-    <p><strong>Pregunta.</strong> ¿Dónde y en qué periodos se concentran los accidentes con mayor impacto en el tráfico, y qué condiciones horarias, viales y climáticas los acompañan? Para un público que explora datos de seguridad vial sin asumir que cada diferencia es un cambio real.</p>
-    <p><strong>Datos.</strong> US Accidents (2016–2023), S. Moosavi, Kaggle, CC BY-NC-SA 4.0: 7,7 millones de reportes de 49 estados, de tres proveedores de datos de tráfico. Severity va de 1 a 4 y mide el impacto en el flujo, no las lesiones.</p>
-    <p><strong>Advertencias.</strong> Los conteos no son tasas: el dataset no mide cuánto se maneja en cada lugar. La proporción con Severity ≥ 3 describe cómo se etiquetaron los reportes, y cada fuente etiqueta distinto; por eso la fuente es un filtro de primer nivel y la vista T1 la separa.</p>
+    <p><strong>La pregunta.</strong> ¿Dónde y cuándo se concentran los accidentes con mayor impacto sobre el tráfico (Severity ≥ 3) y en qué condiciones de hora, vía y clima? Severity mide cuánto se afectó el tráfico, no la gravedad de las lesiones.</p>
+    <p><strong>El problema de las fuentes.</strong> Los datos vienen de tres proveedores. Source2 marca como Severity ≥ 3 al 34 % de sus reportes; Source1, al 8 %, y Source1 además cambió de criterio entre 2019 y 2021 (de 33 % a 2 %). Un porcentaje bruto premia o castiga a cada lugar según quién lo reporta.</p>
+    <p><strong>El índice.</strong> Para cada área se calcula cuántos accidentes Severity ≥ 3 tendría si cada fuente la etiquetara como lo hace en promedio en todo el país ese año. Índice = observados ÷ esperados. 1× es lo esperado; 1,5× es un 50 % más; 0,5× es la mitad. Es una comparación relativa entre lugares, no un riesgo: el dataset no mide cuánto se maneja en cada lugar.</p>
     <ol>
-      <li><strong>Mapa:</strong> color = proporción con Severity ≥ 3 en el periodo elegido. Gris = menos de 30 accidentes. Clic para bajar de estado a condado y ciudad.</li>
-      <li><strong>Periodo (abajo):</strong> arrastra para elegir meses; todo se recalcula mientras arrastras.</li>
-      <li><strong>T1:</strong> proporción mensual por fuente. <strong>T3:</strong> promedio diario de accidentes Severity ≥ 3 por día y hora. <strong>T4:</strong> con y sin cada elemento vial. <strong>T2:</strong> clima de la muestra. <strong>T5:</strong> dos áreas lado a lado.</li>
-      <li><strong>Datos completos o muestra:</strong> mapa, KPI, T1, T3, T4 y T5 usan los totales exactos. Los puntos, el RadViz y, con lazo o en una ciudad, T3 y T4, usan una muestra determinista de hasta 2 500 registros.</li>
+      <li><strong>Mapa:</strong> en el país y en cada estado, proyección Albers de área igual, como pide un mapa temático. Al entrar a un condado se pasa a un mapa de calles con los reportes como puntos.</li>
+      <li><strong>Periodo:</strong> arrastra sobre las barras de abajo; todo se recalcula mientras arrastras.</li>
+      <li><strong>Perfil:</strong> hora y día, punto de la vía y clima del área elegida. Si no hay suficientes casos, la vista lo dice en vez de dibujar ruido.</li>
+      <li><strong>Comparar:</strong> fija dos estados o condados como A y B; el perfil y la línea de tiempo los superponen.</li>
     </ol>
-    <p><strong>Inspiración.</strong> Layout y brush temporal: TripVista (Guo et al., 2011). Contexto + detalle y comparación con línea de referencia: JamVis (Rodriguez, Ferreira y Poco, 2022). Heatmap día × hora y proporciones normalizadas por condición: Fan et al. (2015). Indicadores en una sola pantalla: Sunkpho y Wipulanusat (2020).</p>
-    <p><strong>Librerías.</strong> D3.js v7, Mapbox GL JS v3, deck.gl v9. Límites estatales y de condados: GeoJSON públicos de folium y plotly.</p>
+    <p><strong>Datos.</strong> US Accidents (2016–2023), S. Moosavi, Kaggle, CC BY-NC-SA 4.0.</p>
+    <p><strong>Inspiración.</strong> Layout y brush temporal: TripVista (Guo et al., 2011). Contexto + detalle y comparación superpuesta: JamVis (Rodriguez, Ferreira y Poco, 2022). Día × hora y valores normalizados por condición: Fan et al. (2015). Indicadores en una sola pantalla: Sunkpho y Wipulanusat (2020).</p>
+    <p><strong>Librerías.</strong> D3.js v7 (mapa temático y gráficos), Mapbox GL JS v3 y deck.gl v9 (mapa de calles). Límites: GeoJSON públicos de folium y plotly.</p>
   </dialog>
 
+  <svg class="defs" aria-hidden="true" focusable="false">
+    <defs>
+      <pattern id="fewData" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+        <rect width="6" height="6" fill="#fcfcfb"></rect>
+        <line x1="0" y1="0" x2="0" y2="6" stroke="#d9d8d1" stroke-width="1.5"></line>
+      </pattern>
+    </defs>
+  </svg>
   <div id="error" class="error hidden" role="alert"></div>
   <div id="loading" class="loading hidden">Cargando…</div>
-  <div id="tooltip" class="tooltip"></div>
+  <div id="tooltip" class="tooltip" role="status"></div>
 
   <script src="https://api.mapbox.com/mapbox-gl-js/v3.10.0/mapbox-gl.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
@@ -149,6 +184,7 @@
   <script src="js/data-core.js"></script>
   <script src="js/filters.js"></script>
   <script src="js/charts.js"></script>
+  <script src="js/geomap.js"></script>
   <script src="js/timeline.js"></script>
   <script src="js/app.js"></script>
 </body>

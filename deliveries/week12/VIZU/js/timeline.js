@@ -1,7 +1,6 @@
 window.Timeline = (() => {
   const $ = id => document.getElementById(id);
   const int = v => Math.round(v).toLocaleString("es-PE");
-  const pct = v => v === null ? "—" : `${(v * 100).toFixed(1)} %`;
 
   let onRange = () => {};
   let x = null;
@@ -37,9 +36,9 @@ window.Timeline = (() => {
   function context({T, months, sources, source, range}) {
     const svg = d3.select("#contextChart");
     svg.selectAll("*").remove();
-    const height = 150;
+    const height = 112;
     const width = svg.node().clientWidth || 800;
-    const margin = {left: 46, right: 12, top: 8, bottom: 24};
+    const margin = {left: 46, right: 12, top: 6, bottom: 22};
     svg.attr("viewBox", `0 0 ${width} ${height}`);
     current = [...range];
 
@@ -49,7 +48,7 @@ window.Timeline = (() => {
     const stacked = d3.stack().keys(keys)(table);
     const top = d3.max(stacked.at(-1) || [], d => d[1]) || 1;
 
-    x = d3.scaleBand(d3.range(months.length), [margin.left, width - margin.right]).paddingInner(0.12);
+    x = d3.scaleBand(d3.range(months.length), [margin.left, width - margin.right]).paddingInner(0.2);
     const y = d3.scaleLinear([0, top], [height - margin.bottom, margin.top]).nice();
 
     svg.append("g")
@@ -78,7 +77,7 @@ window.Timeline = (() => {
       .attr("transform", `translate(11,${(height - margin.bottom + margin.top) / 2}) rotate(-90)`)
       .attr("text-anchor", "middle")
       .attr("font-size", 9)
-      .text("Sev ≥ 3 / mes");
+      .text("Sev ≥ 3");
 
     brush = d3.brushX()
       .extent([[margin.left, margin.top], [width - margin.right, height - margin.bottom]])
@@ -105,7 +104,7 @@ window.Timeline = (() => {
     gBrush.select(".overlay")
       .on("mousemove.tip", event => {
         const m = monthAt(d3.pointer(event)[0]);
-        const lines = keys.map(k => `${sources[k]}: ${int(series[k][m].h)} con Sev ≥ 3 de ${int(series[k][m].t)}`);
+        const lines = keys.map(k => `${sources[k]}: ${int(series[k][m].h)} con Severity ≥ 3 de ${int(series[k][m].t)}`);
         VizCharts.tip(event, [months[m], ...lines]);
       })
       .on("mouseleave.tip", VizCharts.hideTip);
@@ -126,39 +125,5 @@ window.Timeline = (() => {
     gBrush.call(brush.move, selectionFor(range));
   }
 
-  function focus({T, months, sources, source, range, scope}) {
-    const series = DataCore.monthly(T, months.length, sources.length);
-    const withRate = list => list.map(d => ({...d, rate: d.t >= 50 ? d.h / d.t : null}));
-    const keys = sources.map((_, i) => i).filter(i => source < 0 || i === source);
-
-    const lines = keys.map(k => ({
-      label: sources[k],
-      color: VizCharts.SOURCE_COLORS[k],
-      width: k === 2 ? 1.2 : 2,
-      values: withRate(series[k])
-    }));
-    if (source < 0) {
-      const all = months.map((_, m) => ({
-        t: d3.sum(series, s => s[m].t),
-        h: d3.sum(series, s => s[m].h)
-      }));
-      lines.push({label: "Todas", color: "#111827", dash: "4 3", width: 1.4, values: withRate(all)});
-    }
-
-    const svg = d3.select("#focusChart");
-    const height = Math.max(220, svg.node().clientHeight || 260);
-    VizCharts.lineChart(svg, {series: lines, months, range, height, yLabel: "% con Severity ≥ 3"});
-    $("focusScope").textContent = scope;
-
-    const summary = keys.map(k => {
-      const period = series[k].slice(range[0], range[1] + 1);
-      const t = d3.sum(period, d => d.t);
-      const h = d3.sum(period, d => d.h);
-      return `${sources[k]} ${pct(t ? h / t : null)}`;
-    });
-    $("focusNote").textContent = `En el periodo: ${summary.join(" · ")}. Se omiten los meses con menos de 50 accidentes `
-      + "de una fuente. Arrastra abajo para elegir el periodo; clic fuera de la selección vuelve al periodo completo.";
-  }
-
-  return {init, context, focus, move};
+  return {init, context, move};
 })();

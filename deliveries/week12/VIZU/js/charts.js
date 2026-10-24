@@ -1,15 +1,9 @@
 window.VizCharts = (() => {
-  const climate = [
-    ["Temperature(F)", "Temperatura", "°F"],
-    ["Humidity(%)", "Humedad", "%"],
-    ["Pressure(in)", "Presión", "inHg"],
-    ["Visibility(mi)", "Visibilidad", "mi"],
-    ["Wind_Speed(mph)", "Viento", "mph"],
-    ["Precipitation(in)", "Precipitación", "in"]
-  ];
-  const severityColors = {1: "#38bdf8", 2: "#2563eb", 3: "#f59e0b", 4: "#dc2626"};
-  const SOURCE_COLORS = ["#6366f1", "#0d9488", "#a3a3a3"];
-  const AB = {A: "#db2777", B: "#4d7c0f"};
+  const SOURCE_COLORS = ["#6250d6", "#199e70", "#c3c2b7"];
+  const INDEX_THRESHOLDS = [0.67, 0.8, 0.95, 1.05, 1.25, 1.5];
+  const INDEX_COLORS = ["#1c5cab", "#5598e7", "#b7d3f6", "#efeeea", "#f4b9b2", "#e0675d", "#b3322b"];
+  const HEAT_COLORS = d3.interpolateRgb("#f1f0ec", "#2c2c2a");
+  const FEW = "url(#fewData)";
   const FLAG_LABELS = {
     Traffic_Signal: "Semáforo",
     Crossing: "Cruce peatonal",
@@ -22,34 +16,39 @@ window.VizCharts = (() => {
     "Clear/Fair": "Despejado",
     "Cloudy": "Nublado",
     "Rain": "Lluvia",
-    "Snow/Ice": "Nieve / hielo",
+    "Snow/Ice": "Nieve o hielo",
     "Fog/Low visibility": "Niebla",
-    "Storm": "Tormenta",
-    "Other": "Otro",
-    "Sin dato": "Sin dato"
+    "Storm": "Tormenta"
   };
   const DAYS = ["Lun", "Mar", "Mié", "Jue", "Vie", "Sáb", "Dom"];
 
   const $ = id => document.getElementById(id);
-  const finite = v => typeof v === "number" && Number.isFinite(v);
-  const pct = v => v === null || !Number.isFinite(v) ? "—" : `${(v * 100).toFixed(1)} %`;
   const int = v => Math.round(v).toLocaleString("es-PE");
+  const pct = v => v === null || !Number.isFinite(v) ? "—" : `${(v * 100).toFixed(1)} %`;
+  const times = v => v === null || !Number.isFinite(v) ? "—" : `${v.toFixed(2)}×`;
   const hour = h => String(h).padStart(2, "0");
+  const indexScale = d3.scaleThreshold(INDEX_THRESHOLDS, INDEX_COLORS);
   const tooltip = $("tooltip");
 
+  function indexColor(cell, minExpected) {
+    if (!cell || cell.index === null || cell.e < minExpected) return FEW;
+    return indexScale(cell.index);
+  }
+
   function tip(event, lines) {
-    if (!lines) {
+    if (!event || !lines) {
       tooltip.style.opacity = 0;
       return;
     }
-    const rows = lines.map(text => {
+    const rows = lines.map((text, i) => {
       const div = document.createElement("div");
       div.textContent = text;
+      if (i === 0) div.className = "tip-title";
       return div;
     });
     tooltip.replaceChildren(...rows);
-    tooltip.style.left = `${Math.min(event.clientX + 12, innerWidth - 280)}px`;
-    tooltip.style.top = `${event.clientY + 12}px`;
+    tooltip.style.left = `${Math.min(event.clientX + 14, innerWidth - 290)}px`;
+    tooltip.style.top = `${event.clientY + 14}px`;
     tooltip.style.opacity = 1;
   }
 
@@ -57,427 +56,286 @@ window.VizCharts = (() => {
 
   function size(svg, height) {
     const width = svg.node().clientWidth || 320;
-    svg.attr("viewBox", `0 0 ${width} ${height}`);
+    svg.attr("viewBox", `0 0 ${width} ${height}`).style("height", `${height}px`);
     return width;
   }
 
   function message(svg, height, text) {
-    const width = size(svg, height);
-    svg.append("text").attr("x", width / 2).attr("y", height / 2).attr("text-anchor", "middle").text(text);
-  }
-
-  let domains = new Map();
-  let selected = [];
-  let lastRad = {rows: [], onPick: null};
-
-  function setRadRows(rows) {
-    domains = new Map();
-    const previous = new Set(selected.map(d => d[0]));
-    selected = [];
-    $("climateDimensions").replaceChildren();
-
-    for (const dimension of climate) {
-      const [key, label] = dimension;
-      const values = rows.map(d => d[key]).filter(finite);
-      const domain = values.length ? d3.extent(values) : null;
-      domains.set(key, domain);
-
-      const chosen = !!domain && (previous.size ? previous.has(key) : true);
-      if (chosen) selected.push(dimension);
-
-      const option = document.createElement("label");
-      const input = document.createElement("input");
-      input.type = "checkbox";
-      input.checked = chosen;
-      input.disabled = !domain;
-      option.append(input, document.createTextNode(label));
-      $("climateDimensions").append(option);
-
-      input.addEventListener("change", () => {
-        const boxes = [...$("climateDimensions").querySelectorAll("input")];
-        selected = climate.filter((_, i) => boxes[i].checked);
-        radviz(lastRad.rows, lastRad.onPick);
-      });
-    }
-  }
-
-  function clearRad() {
-    domains = new Map();
-    $("climateDimensions").replaceChildren();
-  }
-
-  function radviz(rows, onPick) {
-    lastRad = {rows, onPick};
-    const svg = d3.select("#weatherChart");
     svg.selectAll("*").remove();
-    const center = 200;
-    const radius = 125;
-    svg.attr("viewBox", "0 0 400 400");
-
-    const centered = text => svg.append("text").attr("x", center).attr("y", center).attr("text-anchor", "middle").text(text);
-    if (!domains.size) {
-      centered("Selecciona un estado: el RadViz usa la muestra del área");
-      $("weatherNote").textContent = "";
-      return;
-    }
-    if (selected.length < 2) {
-      centered("Selecciona al menos dos factores disponibles");
-      $("weatherNote").textContent = "Las variables sin datos están deshabilitadas.";
-      return;
-    }
-
-    const anchors = selected.map(([key, label, unit], i) => {
-      const angle = -Math.PI / 2 + i * 2 * Math.PI / selected.length;
-      return {key, label, unit, x: Math.cos(angle), y: Math.sin(angle), domain: domains.get(key)};
-    });
-
-    svg.append("circle").attr("cx", center).attr("cy", center).attr("r", radius).attr("fill", "#f8fafc").attr("stroke", "#cbd5e1");
-    svg.append("circle")
-      .attr("cx", center).attr("cy", center).attr("r", radius / 2)
-      .attr("fill", "none").attr("stroke", "#e2e8f0").attr("stroke-dasharray", "3 4");
-
-    for (const a of anchors) {
-      svg.append("line")
-        .attr("x1", center).attr("y1", center)
-        .attr("x2", center + a.x * radius).attr("y2", center + a.y * radius)
-        .attr("stroke", "#e2e8f0");
-      svg.append("circle").attr("cx", center + a.x * radius).attr("cy", center + a.y * radius).attr("r", 5).attr("fill", "#7c3aed");
-
-      const anchor = Math.abs(a.x) < 0.1 ? "middle" : a.x > 0 ? "start" : "end";
-      const text = svg.append("text")
-        .attr("x", center + a.x * (radius + 18))
-        .attr("y", center + a.y * (radius + 18))
-        .attr("text-anchor", anchor)
-        .attr("font-size", 12);
-      text.append("tspan").text(a.label);
-      text.append("tspan")
-        .attr("x", text.attr("x"))
-        .attr("dy", 14)
-        .attr("font-size", 10)
-        .text(`${d3.format(".3~g")(a.domain[0])}–${d3.format(".3~g")(a.domain[1])} ${a.unit}`);
-    }
-
-    const points = [];
-    let missing = 0;
-    let atCenter = 0;
-    for (const row of rows) {
-      if (!anchors.every(a => finite(row[a.key]))) {
-        missing++;
-        continue;
-      }
-      let sum = 0;
-      let px = 0;
-      let py = 0;
-      for (const a of anchors) {
-        const [min, max] = a.domain;
-        const weight = max === min ? 0 : (row[a.key] - min) / (max - min);
-        sum += weight;
-        px += a.x * weight;
-        py += a.y * weight;
-      }
-      if (!sum) atCenter++;
-      points.push({row, x: center + (sum ? px / sum : 0) * radius, y: center + (sum ? py / sum : 0) * radius});
-    }
-
-    svg.append("g").selectAll("circle")
-      .data(points)
-      .join("circle")
-      .attr("cx", d => d.x)
-      .attr("cy", d => d.y)
-      .attr("r", 2.5)
-      .attr("fill", d => severityColors[d.row.Severity] || "#64748b")
-      .attr("opacity", 0.6)
-      .style("cursor", "pointer")
-      .on("click", (_, d) => onPick?.(d.row))
-      .on("mousemove", (event, d) => tip(event, [
-        `${d.row.City || d.row.County} · Severidad ${d.row.Severity} · ${d.row.Source}`,
-        ...anchors.map(a => `${a.label}: ${d.row[a.key]} ${a.unit}`)
-      ]))
-      .on("mouseleave", hideTip);
-
-    const centerNote = atCenter ? ` · ${atCenter} en el centro sin fuerza normalizada` : "";
-    $("weatherNote").textContent = `${int(points.length)} puntos · ${int(missing)} omitidos por datos climáticos incompletos`
-      + `${centerNote}. Rangos calculados en la muestra del área.`;
+    const width = size(svg, height);
+    svg.append("text").attr("class", "empty").attr("x", width / 2).attr("y", height / 2).attr("text-anchor", "middle").text(text);
   }
 
-  function heat({cells, divisor, hours, missing = 0}) {
-    const svg = d3.select("#heatChart");
-    svg.selectAll("*").remove();
-    const height = 190;
-    const width = size(svg, height);
-    const margin = {left: 30, right: 8, top: 6, bottom: 36};
+  function coarse(cells, divisor) {
+    const groups = [[0, 1, 2, 3, 4], [5, 6]];
+    const bands = d3.range(6);
+    const values = groups.map(days => bands.map(b => d3.sum(days, d => d3.sum(d3.range(b * 4, b * 4 + 4), h => cells[d][h]))));
+    const days = divisor ? groups.map(g => d3.sum(g, d => divisor[d])) : null;
+    return {values, days};
+  }
 
-    const values = cells.map((row, d) => row.map(v => divisor ? (divisor[d] ? v / divisor[d] : 0) : v));
-    const max = d3.max(values.flat()) || 0;
-    if (!max) {
-      message(svg, height, "Sin accidentes Severity ≥ 3 para estos filtros");
-      $("heatNote").textContent = "";
-      return;
+  function heat(svgId, {cells, divisor, hours, label}) {
+    const svg = d3.select(svgId);
+    svg.selectAll("*").remove();
+    const total = d3.sum(cells.flat());
+    if (total < 30) {
+      message(svg, 90, `${label ? `${label}: ` : ""}solo ${int(total)} accidentes Severity ≥ 3; muy pocos para ver horarios.`);
+      return {note: ""};
     }
 
-    const x = d3.scaleBand(d3.range(24), [margin.left, width - margin.right]).padding(0.06);
-    const y = d3.scaleBand(d3.range(7), [margin.top, height - margin.bottom]).padding(0.08);
-    const color = d3.scaleSequential([0, max], d3.interpolateBuPu);
-    const flat = values.flatMap((row, d) => row.map((v, h) => ({v, d, h})));
+    const detailed = total >= 300;
+    const rowLabels = detailed ? DAYS : ["Lun–Vie", "Sáb–Dom"];
+    const colCount = detailed ? 24 : 6;
+    let values;
+    let days;
+    if (detailed) {
+      values = cells.map((row, d) => row.map(v => divisor ? v / (divisor[d] || 1) : v));
+      days = divisor;
+    } else {
+      values = coarse(cells, null).values;
+      days = null;
+    }
 
+    const height = detailed ? 176 : 96;
+    const width = size(svg, height);
+    const margin = {left: 52, right: 6, top: label ? 16 : 4, bottom: 22};
+    const x = d3.scaleBand(d3.range(colCount), [margin.left, width - margin.right]).padding(0.08);
+    const y = d3.scaleBand(d3.range(rowLabels.length), [margin.top, height - margin.bottom]).padding(0.1);
+    const max = d3.max(values.flat()) || 1;
+    const color = v => HEAT_COLORS(v / max);
+    const flat = values.flatMap((row, r) => row.map((v, c) => ({v, r, c})));
+    const hourOf = c => detailed ? [c] : d3.range(c * 4, c * 4 + 4);
+    const active = c => hourOf(c).some(h => hours.has(h));
+
+    if (label) svg.append("text").attr("class", "panel-label").attr("x", margin.left).attr("y", 10).text(label);
     svg.append("g").selectAll("rect")
       .data(flat)
       .join("rect")
-      .attr("x", c => x(c.h))
-      .attr("y", c => y(c.d))
+      .attr("x", d => x(d.c))
+      .attr("y", d => y(d.r))
       .attr("width", x.bandwidth())
       .attr("height", y.bandwidth())
       .attr("rx", 2)
-      .attr("fill", c => color(c.v))
-      .attr("opacity", c => hours.has(c.h) ? 1 : 0.18)
-      .on("mousemove", (event, c) => {
-        const detail = divisor
-          ? `${c.v.toFixed(2)} accidentes Severity ≥ 3 por día (${int(cells[c.d][c.h])} en ${divisor[c.d]} días)`
-          : `${int(c.v)} accidentes Severity ≥ 3 de la muestra`;
-        tip(event, [`${DAYS[c.d]} · ${hour(c.h)}:00–${hour(c.h)}:59`, detail]);
+      .attr("fill", d => color(d.v))
+      .attr("opacity", d => active(d.c) ? 1 : 0.25)
+      .on("mousemove", (event, d) => {
+        const span = detailed ? `${hour(d.c)}:00–${hour(d.c)}:59` : `${hour(d.c * 4)}:00–${hour(d.c * 4 + 3)}:59`;
+        const value = days ? `${d.v.toFixed(2)} por día` : `${int(d.v)} accidentes`;
+        tip(event, [value, `${rowLabels[d.r]} · ${span}`, "Accidentes con Severity ≥ 3"]);
       })
       .on("mouseleave", hideTip);
 
     svg.append("g")
       .attr("transform", `translate(${margin.left - 4},0)`)
-      .call(d3.axisLeft(y).tickFormat(d => DAYS[d]).tickSize(0))
+      .call(d3.axisLeft(y).tickFormat(r => rowLabels[r]).tickSize(0))
       .call(g => g.select(".domain").remove());
+    const ticks = detailed ? [0, 6, 12, 18, 23] : d3.range(6);
     svg.append("g")
       .attr("transform", `translate(0,${height - margin.bottom + 2})`)
-      .call(d3.axisBottom(x).tickValues([0, 3, 6, 9, 12, 15, 18, 21]).tickFormat(h => `${h}h`).tickSize(0))
+      .call(d3.axisBottom(x).tickValues(ticks).tickFormat(c => detailed ? `${c}h` : `${c * 4}–${c * 4 + 4}h`).tickSize(0))
       .call(g => g.select(".domain").remove());
 
-    const legendWidth = Math.min(160, width - margin.left - 60);
-    const legendX = width - margin.right - legendWidth;
-    const legendY = height - 12;
-    const gradient = svg.append("defs").append("linearGradient").attr("id", "heatGradient");
-    for (const t of [0, 0.25, 0.5, 0.75, 1]) {
-      gradient.append("stop").attr("offset", `${t * 100}%`).attr("stop-color", color(t * max));
-    }
-    svg.append("rect").attr("x", legendX).attr("y", legendY - 6).attr("width", legendWidth).attr("height", 6).attr("fill", "url(#heatGradient)");
-    svg.append("text").attr("x", legendX - 4).attr("y", legendY).attr("text-anchor", "end").text("0");
-    svg.append("text").attr("x", legendX + legendWidth + 3).attr("y", legendY).text(divisor ? max.toFixed(1) : int(max));
-
     const peak = [...flat].sort((a, b) => b.v - a.v)[0];
-    const peakValue = divisor ? `${peak.v.toFixed(2)} por día` : `${int(peak.v)} en la muestra`;
-    $("heatHelp").textContent = divisor
-      ? "Promedio de accidentes Severity ≥ 3 por día, para cada día de la semana y hora. Se divide por el número "
-        + "de lunes, martes… del periodo, así que laborables y fin de semana son comparables."
-      : "Accidentes Severity ≥ 3 de la muestra filtrada (lazo, ciudad u horas), sin normalizar.";
-    $("heatNote").textContent = `Máximo: ${DAYS[peak.d]} ${hour(peak.h)}:00 (${peakValue}).`
-      + `${missing ? ` ${int(missing)} sin hora/día.` : ""} Las horas fuera del reloj se atenúan.`;
+    const peakSpan = detailed ? `${DAYS[peak.r]} a las ${peak.c} h` : `${rowLabels[peak.r]}, de ${peak.c * 4} a ${peak.c * 4 + 4} h`;
+    const peakValue = days ? `${peak.v.toFixed(1)} por día` : `${int(peak.v)}`;
+    const grain = detailed ? "" : ` Con solo ${int(total)} casos se muestran conteos del periodo, agrupados en laborables / fin de semana y franjas de 4 horas.`;
+    return {note: `Pico: ${peakSpan} (${peakValue}).${grain}`};
   }
 
-  function infra({data, flags, sources, source, minN}) {
-    const svg = d3.select("#infraChart");
+  function indexChart(svgId, {rows, minExpected}) {
+    const svg = d3.select(svgId);
     svg.selectAll("*").remove();
-
-    const rows = [];
-    flags.forEach((flag, f) => sources.forEach((name, s) => {
-      if (source >= 0 && s !== source) return;
-      const {with: w, without: o} = data[f][s];
-      if (w.t + o.t === 0) return;
-      rows.push({
-        flag,
-        label: FLAG_LABELS[flag] || flag,
-        s,
-        name,
-        w,
-        o,
-        rateWith: w.t ? w.h / w.t : null,
-        rateWithout: o.t ? o.h / o.t : null,
-        ok: w.t >= minN && o.t >= minN
-      });
-    }));
-
-    const rowHeight = source >= 0 ? 24 : 15;
-    const height = Math.max(120, 22 + rows.length * rowHeight + 26);
-    svg.style("height", `${height}px`);
-    if (!rows.length) {
-      message(svg, height, "Sin datos para estos filtros");
-      $("infraNote").textContent = "";
+    const usable = p => p.cell && p.cell.index > 0 && p.cell.e >= minExpected;
+    const values = rows.flatMap(r => r.points.filter(usable).map(p => p.cell.index));
+    if (!values.length) {
+      message(svg, 70, "Muy pocos casos para calcular el índice.");
       return;
     }
-
+    const single = rows.every(r => r.points.length === 1);
+    const rowHeight = 26;
+    const height = 8 + rows.length * rowHeight + 22;
     const width = size(svg, height);
-    const margin = {left: 96, right: 14, top: 8, bottom: 24};
-    const comparable = rows.filter(r => r.ok);
-    const max = d3.max(comparable, r => Math.max(r.rateWith, r.rateWithout)) || 0.5;
-    const x = d3.scaleLinear([0, Math.min(1, max * 1.1)], [margin.left, width - margin.right]).nice();
-    const y = d3.scaleBand(d3.range(rows.length), [margin.top, height - margin.bottom]).padding(0.15);
+    const margin = {left: 104, right: single ? 46 : 14, top: 6, bottom: 22};
+    const lo = Math.min(0.5, d3.min(values) * 0.9);
+    const hi = Math.max(2, d3.max(values) * 1.1);
+    const x = d3.scaleLog([lo, hi], [margin.left, width - margin.right]);
+    const y = d3.scaleBand(d3.range(rows.length), [margin.top, height - margin.bottom]).padding(0.25);
 
+    const ticks = [0.25, 0.5, 1, 2, 4].filter(v => v >= lo && v <= hi);
     svg.append("g")
       .attr("class", "grid")
       .attr("transform", `translate(0,${height - margin.bottom})`)
-      .call(d3.axisBottom(x).ticks(4).tickFormat(d3.format(".0%")).tickSize(-(height - margin.top - margin.bottom)));
+      .call(d3.axisBottom(x).tickValues(ticks).tickFormat(v => `${v}×`).tickSize(-(height - margin.top - margin.bottom)));
+    svg.append("line")
+      .attr("class", "baseline")
+      .attr("x1", x(1)).attr("x2", x(1))
+      .attr("y1", margin.top).attr("y2", height - margin.bottom);
 
-    const g = svg.append("g").selectAll("g")
+    const row = svg.append("g").selectAll("g")
       .data(rows)
       .join("g")
-      .attr("transform", (_, i) => `translate(0,${y(i) + y.bandwidth() / 2})`)
-      .on("mousemove", (event, r) => tip(event, [
-        `${r.label} · ${r.name}`,
-        `Con el elemento: ${pct(r.rateWith)} de ${int(r.w.t)}`,
-        `Sin el elemento: ${pct(r.rateWithout)} de ${int(r.o.t)}`,
-        r.ok ? `Diferencia: ${((r.rateWith - r.rateWithout) * 100).toFixed(1)} puntos` : `Menos de ${minN} casos en un grupo: no se compara`
-      ]))
-      .on("mouseleave", hideTip);
-
-    g.append("text")
-      .attr("x", margin.left - 6)
+      .attr("transform", (_, i) => `translate(0,${y(i) + y.bandwidth() / 2})`);
+    row.append("text")
+      .attr("class", "row-label")
+      .attr("x", margin.left - 8)
+      .attr("dy", "0.32em")
       .attr("text-anchor", "end")
-      .attr("dy", "0.32em")
-      .attr("font-size", source >= 0 ? 11 : 9)
-      .attr("font-weight", 600)
-      .text((r, i) => i === 0 || rows[i - 1].flag !== r.flag ? r.label : "");
+      .text(r => r.label);
 
-    const valid = g.filter(r => r.ok);
-    valid.append("line")
-      .attr("x1", r => x(r.rateWithout))
-      .attr("x2", r => x(r.rateWith))
-      .attr("stroke", r => SOURCE_COLORS[r.s])
-      .attr("stroke-width", 2)
-      .attr("opacity", 0.7);
-    valid.append("circle")
-      .attr("cx", r => x(r.rateWithout))
-      .attr("r", 4)
-      .attr("fill", "#fff")
-      .attr("stroke", r => SOURCE_COLORS[r.s])
-      .attr("stroke-width", 1.6);
-    valid.append("circle")
-      .attr("cx", r => x(r.rateWith))
-      .attr("r", 4.5)
-      .attr("fill", r => SOURCE_COLORS[r.s]);
+    row.each(function(r) {
+      const g = d3.select(this);
+      const points = r.points.filter(usable);
+      if (!points.length) {
+        g.append("text").attr("class", "few").attr("x", margin.left + 4).attr("dy", "0.32em").text("pocos casos");
+        return;
+      }
+      if (single) {
+        const c = points[0].cell;
+        g.append("rect")
+          .attr("x", Math.min(x(1), x(c.index)))
+          .attr("width", Math.max(1, Math.abs(x(c.index) - x(1))))
+          .attr("y", -6)
+          .attr("height", 12)
+          .attr("rx", 3)
+          .attr("fill", indexColor(c, minExpected));
+        g.append("text")
+          .attr("class", "value")
+          .attr("x", Math.max(x(1), x(c.index)) + 5)
+          .attr("dy", "0.32em")
+          .text(times(c.index));
+        return;
+      }
+      const xs = points.map(p => x(p.cell.index));
+      g.append("line").attr("class", "connector").attr("x1", d3.min(xs)).attr("x2", d3.max(xs));
+      g.selectAll("circle")
+        .data(points)
+        .join("circle")
+        .attr("class", p => `pt ${p.cls}`)
+        .attr("cx", p => x(p.cell.index))
+        .attr("r", 5);
+    });
 
-    g.filter(r => !r.ok).append("text")
-      .attr("x", margin.left + 4)
-      .attr("dy", "0.32em")
-      .attr("font-size", 9)
-      .attr("fill", "#9ca3af")
-      .text(r => `${r.name}: n < ${minN}`);
-
-    const strongest = [...comparable].sort((a, b) => Math.abs(b.rateWith - b.rateWithout) - Math.abs(a.rateWith - a.rateWithout))[0];
-    const intro = source >= 0 ? "" : "Una fila por fuente (color de la leyenda del periodo). ";
-    const biggest = strongest
-      ? `Mayor diferencia: ${strongest.label} en ${strongest.name}, ${pct(strongest.rateWithout)} sin → ${pct(strongest.rateWith)} con.`
-      : "";
-    $("infraNote").textContent = `${intro}${biggest} Asociación, no causa: el elemento también indica el tipo de vía.`;
+    row.append("rect")
+      .attr("class", "hit")
+      .attr("x", 0)
+      .attr("y", -rowHeight / 2)
+      .attr("width", width)
+      .attr("height", rowHeight)
+      .on("mousemove", (event, r) => {
+        const lines = r.points.map(p => {
+          if (!usable(p)) return `${p.name}: pocos casos`;
+          const c = p.cell;
+          return `${p.name}: ${times(c.index)} · ${int(c.h)} de ${int(c.t)} con Severity ≥ 3 (se esperaban ${int(c.e)})`;
+        });
+        tip(event, [r.label, ...lines, r.hint].filter(Boolean));
+      })
+      .on("mouseleave", hideTip);
   }
 
-  function mix(bySource, sources) {
-    const svg = d3.select("#kpiMix");
+  function mix(svgId, bySource, sources) {
+    const svg = d3.select(svgId);
     svg.selectAll("*").remove();
-    const width = size(svg, 22);
+    const width = size(svg, 20);
     const total = d3.sum(bySource, d => d.t);
     if (!total) return;
-
     let x = 0;
     bySource.forEach((d, i) => {
       const w = d.t / total * width;
-      if (!w) return;
+      if (w < 0.5) return;
       svg.append("rect")
         .attr("x", x).attr("y", 2)
-        .attr("width", Math.max(0, w - 1)).attr("height", 18)
+        .attr("width", Math.max(0, w - 2)).attr("height", 16)
         .attr("rx", 3)
         .attr("fill", SOURCE_COLORS[i])
-        .on("mousemove", event => tip(event, [
-          `${sources[i]}: ${int(d.t)} accidentes (${pct(d.t / total)})`,
-          `Severity ≥ 3 en esta fuente: ${pct(d.t ? d.h / d.t : null)}`
-        ]))
+        .on("mousemove", event => tip(event, [pct(d.t / total), `${sources[i]} · ${int(d.t)} accidentes`, `${pct(d.t ? d.h / d.t : null)} con Severity ≥ 3`]))
         .on("mouseleave", hideTip);
-      if (w > 34) {
+      if (w > 46) {
         svg.append("text")
-          .attr("x", x + 4).attr("y", 15)
-          .attr("fill", "#fff").attr("font-size", 10).attr("font-weight", 700)
-          .attr("pointer-events", "none")
-          .text(`${sources[i].replace("Source", "S")} ${Math.round(d.t / total * 100)}%`);
+          .attr("class", i === 2 ? "in-bar dark" : "in-bar")
+          .attr("x", x + 6).attr("y", 14)
+          .text(`${sources[i].replace("Source", "S")} ${Math.round(d.t / total * 100)} %`);
       }
       x += w;
     });
   }
 
-  function legend(thresholds, colors, minN) {
-    const svg = d3.select("#mapLegend");
+  function legend(svgId) {
+    const svg = d3.select(svgId);
     svg.selectAll("*").remove();
-    const width = size(svg, 30);
-    const w = Math.min(36, (width - 60) / colors.length);
-
-    colors.forEach((c, i) => {
-      svg.append("rect").attr("x", i * w).attr("y", 2).attr("width", w - 2).attr("height", 10).attr("fill", c);
-      if (i) {
-        svg.append("text").attr("x", i * w - 1).attr("y", 25).attr("text-anchor", "middle").text(`${Math.round(thresholds[i - 1] * 100)}%`);
-      }
+    size(svg, 34);
+    const w = 30;
+    INDEX_COLORS.forEach((c, i) => {
+      svg.append("rect").attr("x", i * w).attr("y", 4).attr("width", w - 2).attr("height", 10).attr("fill", c);
     });
-    svg.append("rect").attr("x", colors.length * w + 10).attr("y", 2).attr("width", w - 2).attr("height", 10).attr("fill", "#e5e7eb");
-    svg.append("text").attr("x", colors.length * w + 10).attr("y", 25).text(`n < ${minN}`);
+    INDEX_THRESHOLDS.forEach((t, i) => {
+      svg.append("text").attr("class", "tick-label").attr("x", (i + 1) * w - 1).attr("y", 27).attr("text-anchor", "middle").text(`${t}`);
+    });
+    const fx = INDEX_COLORS.length * w + 14;
+    svg.append("rect").attr("x", fx).attr("y", 4).attr("width", w - 2).attr("height", 10).attr("fill", FEW).attr("stroke", "var(--grid-strong)");
+    svg.append("text").attr("class", "tick-label").attr("x", fx).attr("y", 27).text("pocos datos");
   }
 
-  function lineChart(svg, {series, months, range, height, yLabel}) {
+  function lineChart(svgId, {labels, series, height, yFormat, reference, annotation}) {
+    const svg = d3.select(svgId);
     svg.selectAll("*").remove();
     const width = size(svg, height);
-    const margin = {left: 40, right: 10, top: 10, bottom: 24};
-    const parse = d3.utcParse("%Y-%m");
-    const dateOf = m => parse(months[m]);
-    const visible = d3.range(range[0], range[1] + 1);
-
-    const x = d3.scaleUtc([dateOf(range[0]), dateOf(range[1])], [margin.left, width - margin.right]);
-    const rates = series.flatMap(s => s.values.filter(v => v.rate !== null).map(v => v.rate));
-    const y = d3.scaleLinear([0, Math.max(0.05, d3.max(rates) || 0)], [height - margin.bottom, margin.top]).nice();
+    const margin = {left: 44, right: 74, top: 10, bottom: 24};
+    const x = d3.scalePoint(d3.range(labels.length), [margin.left, width - margin.right]);
+    const values = series.flatMap(s => s.values.filter(v => v !== null));
+    const top = Math.max(reference ? reference * 1.2 : 0.05, d3.max(values) || 0);
+    const y = d3.scaleLinear([0, top], [height - margin.bottom, margin.top]).nice();
 
     svg.append("g")
       .attr("class", "grid")
       .attr("transform", `translate(${margin.left},0)`)
-      .call(d3.axisLeft(y).ticks(4).tickSize(-(width - margin.left - margin.right)).tickFormat(d3.format(".0%")));
+      .call(d3.axisLeft(y).ticks(4).tickSize(-(width - margin.left - margin.right)).tickFormat(yFormat));
+    const yearly = labels[0].length === 4;
+    const tickIndex = d3.range(labels.length).filter(i => yearly || labels[i].endsWith("-01"));
     svg.append("g")
       .attr("transform", `translate(0,${height - margin.bottom})`)
-      .call(d3.axisBottom(x).ticks(Math.max(2, Math.floor(width / 80))).tickSizeOuter(0));
-    if (yLabel) {
-      svg.append("text").attr("x", margin.left).attr("y", margin.top - 2).attr("font-size", 9).text(yLabel);
+      .call(d3.axisBottom(x).tickValues(tickIndex).tickFormat(i => labels[i].slice(0, 4)).tickSizeOuter(0));
+    if (reference !== undefined) {
+      svg.append("line").attr("class", "baseline").attr("x1", margin.left).attr("x2", width - margin.right).attr("y1", y(reference)).attr("y2", y(reference));
     }
 
-    const line = d3.line()
-      .defined(d => d.rate !== null)
-      .x(d => x(dateOf(d.m)))
-      .y(d => y(d.rate));
-
+    const line = d3.line().defined(v => v !== null).x((_, i) => x(i)).y(v => y(v));
     for (const s of series) {
-      const data = visible.map(m => ({m, ...s.values[m]}));
       svg.append("path")
-        .datum(data)
-        .attr("fill", "none")
+        .datum(s.values)
+        .attr("class", `series ${s.className || ""}`)
         .attr("stroke", s.color)
-        .attr("stroke-width", s.width || 2)
-        .attr("stroke-dasharray", s.dash || null)
         .attr("d", line);
-      if (visible.length <= 24) {
-        svg.append("g").selectAll("circle")
-          .data(data.filter(d => d.rate !== null))
-          .join("circle")
-          .attr("cx", d => x(dateOf(d.m)))
-          .attr("cy", d => y(d.rate))
-          .attr("r", 2.2)
-          .attr("fill", s.color);
+      const last = s.values.map((v, i) => ({v, i})).filter(d => d.v !== null).at(-1);
+      if (last) {
+        svg.append("circle").attr("class", "end-dot").attr("cx", x(last.i)).attr("cy", y(last.v)).attr("r", 4).attr("fill", s.color);
+        svg.append("text").attr("class", "end-label").attr("x", x(last.i) + 8).attr("y", y(last.v)).attr("dy", "0.32em").text(s.label);
       }
     }
 
-    const guide = svg.append("line")
-      .attr("y1", margin.top).attr("y2", height - margin.bottom)
-      .attr("stroke", "#9ca3af").attr("opacity", 0);
+    if (annotation) {
+      const s = series[annotation.series];
+      const v = s && s.values[annotation.at];
+      if (v !== null && v !== undefined) {
+        const ax = x(annotation.at);
+        const ay = y(v);
+        const ty = y(annotation.labelValue ?? v);
+        svg.append("line").attr("class", "annotation-line").attr("x1", ax).attr("x2", ax).attr("y1", ay + 6).attr("y2", ty - 6);
+        svg.append("text").attr("class", "annotation").attr("x", annotation.anchor === "end" ? ax - 4 : annotation.anchor === "start" ? ax + 4 : ax).attr("y", ty + 4).attr("text-anchor", annotation.anchor || "middle").text(annotation.text);
+      }
+    }
 
+    const guide = svg.append("line").attr("class", "crosshair").attr("y1", margin.top).attr("y2", height - margin.bottom).attr("opacity", 0);
     svg.append("rect")
+      .attr("class", "hit")
       .attr("x", margin.left).attr("y", margin.top)
       .attr("width", width - margin.left - margin.right)
       .attr("height", height - margin.top - margin.bottom)
-      .attr("fill", "transparent")
       .on("mousemove", event => {
-        const date = x.invert(d3.pointer(event)[0]);
-        const m = Math.max(range[0], Math.min(range[1], (date.getUTCFullYear() - 2016) * 12 + date.getUTCMonth()));
-        guide.attr("x1", x(dateOf(m))).attr("x2", x(dateOf(m))).attr("opacity", 1);
-        const lines = series.map(s => {
-          const v = s.values[m];
-          return `${s.label}: ${v.rate === null ? "sin datos" : `${pct(v.rate)} de ${int(v.t)}`}`;
-        });
-        tip(event, [months[m], ...lines]);
+        const px = d3.pointer(event)[0];
+        const i = d3.minIndex(d3.range(labels.length), k => Math.abs(x(k) - px));
+        guide.attr("x1", x(i)).attr("x2", x(i)).attr("opacity", 1);
+        const lines = series.map(s => `${s.label}: ${s.values[i] === null ? "sin datos suficientes" : yFormat(s.values[i])}`);
+        tip(event, [labels[i], ...lines]);
       })
       .on("mouseleave", () => {
         guide.attr("opacity", 0);
@@ -485,164 +343,50 @@ window.VizCharts = (() => {
       });
   }
 
-  function pairs(svg, {rows, height, minN}) {
-    svg.selectAll("*").remove();
-    const width = size(svg, height);
-    const margin = {left: 92, right: 12, top: 4, bottom: 22};
-    const enough = r => r.na >= minN && r.nb >= minN;
-    const max = d3.max(rows.filter(enough), r => Math.max(r.a, r.b)) || 0.5;
-    const x = d3.scaleLinear([0, Math.min(1, max * 1.1)], [margin.left, width - margin.right]).nice();
-    const y = d3.scaleBand(d3.range(rows.length), [margin.top, height - margin.bottom]).padding(0.2);
-
-    svg.append("g")
-      .attr("class", "grid")
-      .attr("transform", `translate(0,${height - margin.bottom})`)
-      .call(d3.axisBottom(x).ticks(4).tickFormat(d3.format(".0%")).tickSize(-(height - margin.top - margin.bottom)));
-
-    const g = svg.append("g").selectAll("g")
-      .data(rows)
-      .join("g")
-      .attr("transform", (_, i) => `translate(0,${y(i) + y.bandwidth() / 2})`)
-      .on("mousemove", (event, r) => tip(event, [r.label, `A: ${pct(r.a)} de ${int(r.na)}`, `B: ${pct(r.b)} de ${int(r.nb)}`]))
-      .on("mouseleave", hideTip);
-
-    g.append("text")
-      .attr("x", margin.left - 6)
-      .attr("text-anchor", "end")
-      .attr("dy", "0.32em")
-      .attr("font-size", 10)
-      .text(r => r.label);
-
-    const valid = g.filter(enough);
-    valid.append("line").attr("x1", r => x(r.a)).attr("x2", r => x(r.b)).attr("stroke", "#cbd5e1").attr("stroke-width", 2);
-    valid.append("circle").attr("cx", r => x(r.a)).attr("r", 4.5).attr("fill", AB.A);
-    valid.append("circle").attr("cx", r => x(r.b)).attr("r", 4.5).attr("fill", AB.B);
-
-    g.filter(r => !enough(r)).append("text")
-      .attr("x", margin.left + 4)
-      .attr("dy", "0.32em")
-      .attr("font-size", 9)
-      .attr("fill", "#9ca3af")
-      .text(`n < ${minN}`);
-  }
-
-  function points(gap) {
-    const n = Math.round(gap * 100);
-    return `${n} ${n === 1 ? "punto" : "puntos"}`;
-  }
-
-  function verdictText(gap, source, sources) {
-    if (gap === null) return "Sin datos en una de las dos áreas.";
-    if (source >= 0) {
-      return `Comparación dentro de ${sources[source]}: la mezcla de fuentes no interviene `
-        + `(diferencia de mezcla total: ${points(gap)}).`;
-    }
-    if (gap <= 0.1) return `Mezcla de fuentes comparable: la mayor diferencia es de ${points(gap)}.`;
-    return `Mezcla de fuentes distinta (${points(gap)} de diferencia): la brecha de proporciones puede deberse `
-      + "a las fuentes. Elige una fuente a la izquierda.";
-  }
-
-  function areaHeader(body, key, area, scope, sources) {
-    const row = body.append("div").attr("class", "compare-row");
-    row.append("span").attr("class", `tag ${key}`).text(key.toUpperCase());
-    row.append("b").text(area.label);
-    row.append("span");
-    row.append("span").text(`${int(area.total.t)} accidentes · ${pct(area.total.rate)} con Severity ≥ 3 (${scope})`);
-    row.append("span");
-
-    const svg = row.append("svg").attr("height", 14).style("height", "14px");
-    const width = svg.node().clientWidth || 240;
-    const total = d3.sum(area.bySource, d => d.t);
-    svg.attr("viewBox", `0 0 ${width} 14`);
-    let x = 0;
-    area.bySource.forEach((d, i) => {
-      const w = total ? d.t / total * width : 0;
-      svg.append("rect")
-        .attr("x", x)
-        .attr("width", Math.max(0, w - 1))
-        .attr("height", 14)
-        .attr("rx", 2)
-        .attr("fill", SOURCE_COLORS[i])
-        .append("title")
-        .text(`${sources[i]}: ${pct(total ? d.t / total : null)}`);
-      x += w;
-    });
-  }
-
-  function compare({A, B, months, range, sources, source, flags, weatherGroups, minN}) {
-    const body = d3.select("#compareBody");
-    body.selectAll("*").remove();
-    $("compareBadge").textContent = A && B ? "datos completos" : "";
-
-    if (!A || !B) {
-      let text = "Fija dos áreas con los botones de la izquierda. Se comparan con las mismas escalas "
-        + "y se muestra si su mezcla de fuentes es comparable.";
-      if (A) text = `Falta fijar B. A = ${A.label}.`;
-      if (B) text = `Falta fijar A. B = ${B.label}.`;
-      body.append("p").attr("class", "chart-help").text(text);
+  function cityList(container, {rows, selected, onClick, onHover, minExpected}) {
+    const list = d3.select(container);
+    list.selectAll("*").remove();
+    if (!rows.length) {
+      list.append("p").attr("class", "note").text("Sin ciudades registradas en este periodo.");
       return;
     }
+    const max = d3.max(rows, r => r.t);
+    const items = list.selectAll("button")
+      .data(rows)
+      .join("button")
+      .attr("type", "button")
+      .attr("class", r => `city-row${r.name === selected ? " selected" : ""}`)
+      .on("click", (_, r) => onClick(r.name))
+      .on("mouseenter", (_, r) => onHover(r.name))
+      .on("mouseleave", () => onHover(null));
+    items.append("span").attr("class", "city-name").text(r => r.name);
+    const bar = items.append("span").attr("class", "city-bar");
+    bar.append("span").style("width", r => `${Math.max(2, r.t / max * 100)}%`);
+    items.append("span").attr("class", "city-value").text(r => int(r.t));
+    items.append("span")
+      .attr("class", "city-index")
+      .style("--swatch", r => indexColor(r, minExpected) === FEW ? "transparent" : indexColor(r, minExpected))
+      .text(r => r.e >= minExpected ? times(r.index) : "—");
+  }
 
-    const scope = source >= 0 ? sources[source] : "todas las fuentes";
-    areaHeader(body, "a", A, scope, sources);
-    areaHeader(body, "b", B, scope, sources);
-
-    const gap = DataCore.compositionGap(A.bySource, B.bySource);
-    const fine = source >= 0 || (gap !== null && gap <= 0.1);
-    body.append("p").attr("class", `verdict ${fine ? "ok" : "warn"}`).text(verdictText(gap, source, sources));
-
-    body.append("p").attr("class", "chart-help").text("Proporción mensual con Severity ≥ 3");
-    lineChart(body.append("svg").style("height", "150px"), {
-      series: [
-        {label: `A · ${A.label}`, color: AB.A, values: A.monthly},
-        {label: `B · ${B.label}`, color: AB.B, values: B.monthly}
-      ],
-      months,
-      range,
-      height: 150
-    });
-
-    if (A.infra && B.infra) {
-      body.append("p").attr("class", "chart-help").text("Proporción con Severity ≥ 3 cuando el elemento vial está presente");
-      const withFlag = (area, f) => {
-        const list = source >= 0 ? [area.infra[f][source]] : area.infra[f];
-        const t = d3.sum(list, d => d.with.t);
-        const h = d3.sum(list, d => d.with.h);
-        return {rate: t ? h / t : null, n: t};
-      };
-      const rows = flags.map((flag, f) => {
-        const a = withFlag(A, f);
-        const b = withFlag(B, f);
-        return {label: FLAG_LABELS[flag] || flag, a: a.rate, b: b.rate, na: a.n, nb: b.n};
-      });
-      const height = rows.length * 20 + 30;
-      pairs(body.append("svg").style("height", `${height}px`), {rows, height, minN});
-    }
-
-    if (A.weather && B.weather) {
-      body.append("p").attr("class", "chart-help").text("Proporción con Severity ≥ 3 según el clima registrado");
-      const rate = d => d.t ? d.h / d.t : null;
-      const rows = weatherGroups
-        .map((group, w) => ({
-          label: WEATHER_LABELS[group] || group,
-          a: rate(A.weather[w]),
-          b: rate(B.weather[w]),
-          na: A.weather[w].t,
-          nb: B.weather[w].t
-        }))
-        .filter(r => r.label !== "Sin dato" && r.label !== "Otro");
-      const height = rows.length * 20 + 30;
-      pairs(body.append("svg").style("height", `${height}px`), {rows, height, minN});
-    }
-
-    if (!A.infra || !B.infra) {
-      body.append("p").attr("class", "chart-help")
-        .text("Las ciudades solo tienen totales mensuales; infraestructura y clima se comparan entre estados o condados.");
-    }
+  function table(container, {rows, minExpected}) {
+    const wrap = d3.select(container);
+    wrap.selectAll("*").remove();
+    const t = wrap.append("table");
+    t.append("thead").append("tr").selectAll("th")
+      .data(["Área", "Accidentes", "Severity ≥ 3", "Proporción", "Índice ajustado"])
+      .join("th")
+      .text(d => d);
+    const body = t.append("tbody").selectAll("tr").data(rows).join("tr");
+    body.append("td").text(r => r.name);
+    body.append("td").text(r => int(r.t));
+    body.append("td").text(r => int(r.h));
+    body.append("td").text(r => pct(r.rate));
+    body.append("td").text(r => r.e >= minExpected ? times(r.index) : "pocos datos");
   }
 
   return {
-    SOURCE_COLORS, AB, FLAG_LABELS,
-    setRadRows, clearRad, radviz, heat, infra, mix, legend, lineChart, compare, tip, hideTip
+    SOURCE_COLORS, FLAG_LABELS, WEATHER_LABELS, FEW,
+    indexColor, tip, hideTip, heat, indexChart, mix, legend, lineChart, cityList, table, times, pct, int
   };
 })();

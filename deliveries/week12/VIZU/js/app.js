@@ -2,7 +2,7 @@ const CONFIG = window.VIZZU_CONFIG;
 const DATA_ROOT = CONFIG.DATA_ROOT;
 const EXPLORER_ROOT = CONFIG.EXPLORER_ROOT;
 const W12 = CONFIG.W12_ROOT;
-const MIN_N = CONFIG.MIN_N || 30;
+const MIN_E = CONFIG.MIN_N || 30;
 const STATES_GEOJSON = "https://raw.githubusercontent.com/python-visualization/folium/master/examples/data/us-states.json";
 const COUNTIES_GEOJSON = "https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json";
 const FIPS = {
@@ -12,18 +12,16 @@ const FIPS = {
   NJ: "34", NM: "35", NY: "36", NC: "37", ND: "38", OH: "39", OK: "40", OR: "41", PA: "42", RI: "44",
   SC: "45", SD: "46", TN: "47", TX: "48", UT: "49", VT: "50", VA: "51", WA: "53", WV: "54", WI: "55", WY: "56"
 };
-const THRESHOLDS = [0.05, 0.1, 0.15, 0.2, 0.3, 0.4];
-const CLASS_COLORS = d3.schemeYlOrRd[7];
-const rateColor = d3.scaleThreshold(THRESHOLDS, CLASS_COLORS);
-const severityColors = {1: [56, 189, 248, 190], 2: [37, 99, 235, 190], 3: [245, 158, 11, 210], 4: [220, 38, 38, 220]};
 const MAP_HANDLERS = ["dragPan", "scrollZoom", "doubleClickZoom", "touchZoomRotate", "keyboard", "boxZoom"];
 
-const S = {level: "usa", state: null, county: null, countySlug: null, city: null, source: -1, range: [0, 0], pins: {A: null, B: null}};
+const S = {
+  level: "usa", state: null, county: null, countySlug: null, city: null,
+  source: -1, range: [0, 0], pins: {A: null, B: null},
+  onlyHigh: false, hoverCity: null, table: false
+};
 
 const $ = id => document.getElementById(id);
-const int = v => Math.round(v).toLocaleString("es-PE");
-const pct = v => v === null || !Number.isFinite(v) ? "—" : `${(v * 100).toFixed(1)} %`;
-const tooltip = $("tooltip");
+const {int, pct, times} = VizCharts;
 
 function normCounty(value) {
   return String(value ?? "")
@@ -35,16 +33,17 @@ function normCounty(value) {
     .replace(/[^a-z0-9]+/g, "");
 }
 
-let map, overlay, statesGeo, countiesGeo, usa, meta, idMonth;
-let generation = 0;
-let controller;
-let cameraKey = "";
-let frame;
+let usa, meta, rates, statesGeo, countiesGeo, idMonth;
+let map, overlay, mapReady;
 let scope = null;
 let areaRows = [];
-let areaFeatures = [];
 let countyNames = new Map();
-let cityPlaces = new Map();
+let slugNames = new Map();
+let stateCounties = [];
+let generation = 0;
+let controller;
+let frame;
+let cameraKey = "";
 
 const cache = new Map();
 let cacheBytes = 0;
@@ -81,219 +80,158 @@ async function loadMonthIndex() {
   return idMonth;
 }
 
-function sourceName() {
-  return S.source < 0 ? "Todas las fuentes" : meta.sources[S.source];
+function showError(error) {
+  $("error").textContent = error.message || String(error);
+  $("error").classList.remove("hidden");
 }
+
+const isStreet = () => S.level === "county" || S.level === "city";
+const comparing = () => Boolean(S.pins.A && S.pins.B);
+const sourceList = () => S.source < 0 ? [0, 1, 2] : [S.source];
+const stateName = code => statesGeo?.features.find(f => f.id === code)?.properties.name || code;
+const areaName = () => S.city || S.county || (S.state ? stateName(S.state) : "Estados Unidos");
 
 function periodName(range) {
   if (range[0] === range[1]) return meta.months[range[0]];
   return `${meta.months[range[0]]} a ${meta.months[range[1]]}`;
 }
 
-function showError(error) {
-  $("error").textContent = error.message || String(error);
-  $("error").classList.remove("hidden");
+function scopeTable() {
+  if (S.level === "usa") return usa.T;
+  if (S.level === "city") return DataCore.areaTable(scope.areas, S.city);
+  return scope.T;
 }
 
-function hideTip() {
-  tooltip.style.opacity = 0;
-}
-
-function tip(info, lines) {
-  if (!info.object) {
-    hideTip();
-    return;
+function rewind(features) {
+  for (const f of features) {
+    const polygons = f.geometry.type === "Polygon" ? [f.geometry.coordinates] : f.geometry.coordinates;
+    for (const polygon of polygons) {
+      if (d3.geoArea({type: "Polygon", coordinates: polygon}) > 2 * Math.PI) {
+        for (const ring of polygon) ring.reverse();
+      }
+    }
   }
-  const rows = lines.map(text => {
-    const div = document.createElement("div");
-    div.textContent = text;
-    return div;
-  });
-  tooltip.replaceChildren(...rows);
-  const rect = $("map").getBoundingClientRect();
-  tooltip.style.left = `${Math.min(rect.left + info.x + 12, innerWidth - 280)}px`;
-  tooltip.style.top = `${rect.top + info.y + 12}px`;
-  tooltip.style.opacity = 1;
-}
-
-function fillFor(stat, alpha) {
-  if (!stat || stat.t < MIN_N) return [229, 231, 235, alpha];
-  const c = d3.color(rateColor(stat.rate));
-  return [c.r, c.g, c.b, alpha];
-}
-
-function areaTip(info, stat, name) {
-  if (!stat) {
-    tip(info, [name, "Sin accidentes en este periodo y fuente"]);
-    return;
-  }
-  tip(info, [
-    name,
-    `${int(stat.t)} accidentes · ${pct(stat.rate)} con Severity ≥ 3`,
-    stat.t < MIN_N ? `Menos de ${MIN_N}: sin color` : "Clic para explorar"
-  ]);
-}
-
-function fitFeature(feature) {
-  if (!feature) return;
-  const bounds = new mapboxgl.LngLatBounds();
-  const visit = coords => {
-    if (typeof coords[0] === "number") bounds.extend(coords);
-    else coords.forEach(visit);
-  };
-  visit(feature.geometry.coordinates);
-  if (!bounds.isEmpty()) map.fitBounds(bounds, {padding: 40, maxZoom: 11, duration: 550});
+  return features;
 }
 
 function countyFeature(name) {
-  return areaFeatures.find(f => normCounty(f.properties.NAME) === normCounty(name));
+  return stateCounties.find(f => normCounty(f.properties.NAME) === normCounty(name));
 }
 
 function countyOf(feature) {
   return countyNames.get(normCounty(feature.properties.NAME));
 }
 
-function pinLayer(features, matches) {
-  const data = [];
+function ensureMapbox() {
+  if (mapReady) return mapReady;
+  $("map").classList.remove("hidden");
+  mapboxgl.accessToken = CONFIG.MAPBOX_TOKEN;
+  map = new mapboxgl.Map({container: "map", style: "mapbox://styles/mapbox/light-v11", center: [-98.5, 39.5], zoom: 4, minZoom: 3});
+  map.addControl(new mapboxgl.NavigationControl({showCompass: false}), "top-right");
+  map.on("error", event => showError(new Error(`Mapbox: ${event.error?.message || "no se pudo cargar el mapa"}`)));
+  mapReady = new Promise(resolve => map.once("load", () => {
+    overlay = new deck.MapboxOverlay({interleaved: false, layers: []});
+    map.addControl(overlay);
+    window.ExplorerFilters.init(map, schedule);
+    resolve(map);
+  }));
+  return mapReady;
+}
+
+function useGeoMap() {
+  $("mapStage").classList.add("geo");
+  $("geoMap").classList.remove("hidden");
+  $("map").classList.add("hidden");
+  $("mapTools").classList.add("hidden");
+  $("legendBlock").classList.remove("hidden");
+  $("pointLegend").classList.add("hidden");
+  window.ExplorerFilters.setContext(false);
+}
+
+function useStreetMap() {
+  const wasHidden = $("geoMap").classList.contains("hidden") === false;
+  $("mapStage").classList.remove("geo");
+  $("geoMap").classList.add("hidden");
+  $("map").classList.remove("hidden");
+  $("mapTools").classList.remove("hidden");
+  $("legendBlock").classList.add("hidden");
+  $("pointLegend").classList.remove("hidden");
+  map.resize();
+  window.ExplorerFilters.setContext(true);
+  for (const handler of MAP_HANDLERS) map[handler].enable();
+  return wasHidden;
+}
+
+function pinFor(kind, id) {
   for (const key of ["A", "B"]) {
     const pin = S.pins[key];
-    if (!pin) continue;
-    for (const f of features) {
-      if (matches(f, pin)) data.push({...f, properties: {...f.properties, pin: key}});
-    }
+    if (pin && pin.kind === kind && (kind === "state" ? pin.state === id : pin.slug === id)) return key;
   }
-  const lineColor = f => {
-    const c = d3.color(VizCharts.AB[f.properties.pin]);
-    return [c.r, c.g, c.b, 255];
-  };
-  return new deck.GeoJsonLayer({
-    id: `pins-${data.map(d => d.properties.pin + d.id).join("-")}`,
-    data,
-    filled: false,
-    stroked: true,
-    getLineColor: lineColor,
-    lineWidthMinPixels: 3
-  });
+  return null;
 }
 
-function pointLayer(rows) {
-  return new deck.ScatterplotLayer({
-    id: "accident-sample",
-    data: rows.filter(d => Number.isFinite(d.Start_Lng) && Number.isFinite(d.Start_Lat)),
-    pickable: true,
-    radiusUnits: "pixels",
-    getPosition: d => [d.Start_Lng, d.Start_Lat],
-    getRadius: 3,
-    getFillColor: d => severityColors[d.Severity] || [100, 116, 139, 180],
-    onHover: info => {
-      const row = info.object;
-      tip(info, row ? [row.City || row.County, `Severidad ${row.Severity} · ${row.Source}`, meta.months[row.month] || ""] : []);
+function areaTip(event, name, cell) {
+  if (!event) {
+    VizCharts.hideTip();
+    return;
+  }
+  if (!cell) {
+    VizCharts.tip(event, [name, "Sin accidentes en este periodo y fuente"]);
+    return;
+  }
+  const index = cell.e >= MIN_E ? `${times(cell.index)} lo esperado` : "Pocos datos para el índice";
+  VizCharts.tip(event, [
+    index,
+    name,
+    `${int(cell.t)} accidentes · ${int(cell.h)} con Severity ≥ 3 (${pct(cell.rate)})`,
+    `Se esperaban ${int(cell.e)} según la fuente y el año`,
+    "Clic para entrar"
+  ]);
+}
+
+function renderGeoMap() {
+  const color = cell => VizCharts.indexColor(cell, MIN_E);
+  if (S.level === "usa") {
+    const stats = DataCore.byAreaIndex(usa.areas, S.range, S.source, rates);
+    const states = statesGeo.features.filter(f => FIPS[f.id]);
+    GeoMap.draw({
+      key: "usa",
+      context: [],
+      areas: states,
+      focus: states,
+      statOf: f => stats.get(f.id),
+      colorOf: color,
+      pins: f => pinFor("state", f.id),
+      onClick: f => navigate("state", {state: f.id}),
+      onHover: (event, f) => {
+        GeoMap.highlight(f);
+        areaTip(event, f ? f.properties.name : "", f ? stats.get(f.id) : null);
+      }
+    });
+    return;
+  }
+  const stats = DataCore.byAreaIndex(scope.areas, S.range, S.source, rates);
+  const stateFeature = statesGeo.features.find(f => f.id === S.state);
+  GeoMap.draw({
+    key: `state-${S.state}`,
+    context: statesGeo.features.filter(f => f.id !== S.state && FIPS[f.id]),
+    areas: stateCounties,
+    focus: [stateFeature],
+    statOf: f => stats.get(countyOf(f)?.slug),
+    colorOf: color,
+    pins: f => pinFor("county", countyOf(f)?.slug),
+    onClick: f => {
+      const county = countyOf(f);
+      if (county) navigate("county", {county: county.County, countySlug: county.slug});
     },
-    onClick: info => {
-      if (S.level !== "state" || !info.object) return;
-      const county = countyNames.get(normCounty(info.object.County));
-      if (county) navigate("county", {county: county.County, countySlug: county.slug});
+    onHover: (event, f) => {
+      GeoMap.highlight(f);
+      areaTip(event, f ? `${f.properties.NAME}, ${S.state}` : "", f ? stats.get(countyOf(f)?.slug) : null);
     }
   });
-}
-
-function usaLayers() {
-  const stats = DataCore.byArea(usa.areas, S.range, S.source);
-  const states = new deck.GeoJsonLayer({
-    id: "states",
-    data: statesGeo,
-    pickable: true,
-    filled: true,
-    stroked: true,
-    lineWidthMinPixels: 1,
-    getLineColor: [90, 90, 90, 200],
-    getFillColor: f => fillFor(stats.get(f.id), 200),
-    updateTriggers: {getFillColor: [S.range.join(), S.source]},
-    onHover: info => info.object ? areaTip(info, stats.get(info.object.id), info.object.properties.name) : hideTip(),
-    onClick: info => {
-      if (info.object && FIPS[info.object.id]) navigate("state", {state: info.object.id});
-    }
-  });
-  const pins = pinLayer(statesGeo.features, (f, pin) => pin.kind === "state" && pin.state === f.id);
-  return [states, pins];
-}
-
-function stateLayers() {
-  const stats = DataCore.byArea(scope.areas, S.range, S.source);
-  const statOf = f => stats.get(countyOf(f)?.slug);
-  const counties = new deck.GeoJsonLayer({
-    id: `counties-${S.state}`,
-    data: areaFeatures,
-    pickable: true,
-    filled: true,
-    stroked: true,
-    lineWidthMinPixels: 1,
-    getLineColor: [71, 85, 105, 170],
-    getFillColor: f => fillFor(statOf(f), 150),
-    updateTriggers: {getFillColor: [S.range.join(), S.source]},
-    onHover: info => info.object ? areaTip(info, statOf(info.object), info.object.properties.NAME) : hideTip(),
-    onClick: info => {
-      const county = info.object && countyOf(info.object);
-      if (county) navigate("county", {county: county.County, countySlug: county.slug});
-    }
-  });
-  const pins = pinLayer(areaFeatures, (f, pin) => pin.kind === "county" && pin.state === S.state && pin.slug === countyOf(f)?.slug);
-  return [counties, pins];
-}
-
-function countyLayers() {
-  const selected = countyFeature(S.county);
-  const layers = [new deck.GeoJsonLayer({
-    id: "selected-boundary",
-    data: selected ? [selected] : [],
-    filled: false,
-    stroked: true,
-    getLineColor: [71, 85, 105, 200],
-    lineWidthMinPixels: 1.5
-  })];
-  if (S.level !== "county") return layers;
-
-  const stats = DataCore.byArea(scope.areas, S.range, S.source);
-  const cities = [...cityPlaces.values()]
-    .map(c => ({...c, stat: stats.get(c.City)}))
-    .filter(c => c.stat);
-  const radius = d3.scaleSqrt([0, d3.max(cities, d => d.stat.t) || 1], [4, 22]);
-  layers.push(new deck.ScatterplotLayer({
-    id: `cities-${S.countySlug}`,
-    data: cities,
-    pickable: true,
-    radiusUnits: "pixels",
-    getPosition: d => [d.lng, d.lat],
-    getRadius: d => radius(d.stat.t),
-    getFillColor: d => fillFor(d.stat, 200),
-    stroked: true,
-    getLineColor: [255, 255, 255, 240],
-    lineWidthMinPixels: 1,
-    updateTriggers: {getRadius: [S.range.join(), S.source], getFillColor: [S.range.join(), S.source]},
-    onHover: info => info.object ? areaTip(info, info.object.stat, info.object.City) : hideTip(),
-    onClick: info => {
-      if (info.object) navigate("city", {city: info.object.City});
-    }
-  }));
-  return layers;
-}
-
-function mapLayers(visible) {
-  if (S.level === "usa") return usaLayers();
-  const base = S.level === "state" ? stateLayers() : countyLayers();
-  return [...base, pointLayer(visible)];
-}
-
-function scopeTable() {
-  return S.level === "city" ? DataCore.areaTable(scope.areas, S.city) : scope.T;
-}
-
-function usesExactData() {
-  return S.level !== "city" && !window.ExplorerFilters.hasLasso() && scope.H;
 }
 
 function filterRows() {
-  const severity = $("severitySelect").value;
   let area = [];
   for (const row of areaRows) {
     if (S.source >= 0 && row.Source !== meta.sources[S.source]) continue;
@@ -301,167 +239,413 @@ function filterRows() {
     if (row.month < S.range[0] || row.month > S.range[1]) continue;
     area.push(row);
   }
-
   const max = CONFIG.MAX_CHART_ROWS;
   if (area.length > max) {
     const stride = area.length / max;
     area = Array.from({length: max}, (_, i) => area[Math.floor(i * stride)]);
   }
-
   const lasso = area.filter(row => window.ExplorerFilters.inLasso(row));
-  const visible = lasso.filter(row => {
-    const severityOk = severity === "ALL" || +row.Severity === +severity;
-    return severityOk && window.ExplorerFilters.hourOk(row);
-  });
+  const visible = lasso.filter(row => window.ExplorerFilters.hourOk(row) && (!S.onlyHigh || row.Severity >= 3));
   return {area, lasso, visible};
 }
 
-function renderHeatAndInfra(rows) {
-  const exact = usesExactData();
-  const badge = exact ? "datos completos" : `muestra · ${int(rows.lasso.length)}`;
-  for (const id of ["heatBadge", "infraBadge"]) {
-    $(id).textContent = badge;
-    $(id).className = exact ? "badge" : "badge sample";
+function pointTip(info) {
+  const row = info.object;
+  if (!row) {
+    VizCharts.hideTip();
+    return;
   }
-
-  const hours = window.ExplorerFilters.getHours();
-  if (exact) {
-    VizCharts.heat({cells: DataCore.heat(scope.H, S.range, S.source), divisor: DataCore.weekdayDays(S.range), hours});
-  } else {
-    const sampled = DataCore.heatRows(rows.lasso);
-    VizCharts.heat({cells: sampled.cells, divisor: null, hours, missing: sampled.missing});
-  }
-
-  const data = exact
-    ? DataCore.infra(scope.I, scope.T, S.range, meta.flags.length, meta.sources.length)
-    : DataCore.infraRows(rows.lasso, meta.flags, meta.sources);
-  VizCharts.infra({data, flags: meta.flags, sources: meta.sources, source: S.source, minN: exact ? MIN_N : 10});
+  const event = {clientX: info.x + $("map").getBoundingClientRect().left, clientY: info.y + $("map").getBoundingClientRect().top};
+  const hourText = Number.isInteger(row.hour) ? `${String(row.hour).padStart(2, "0")}:00` : "hora sin dato";
+  VizCharts.tip(event, [`Severity ${row.Severity}`, row.City || row.County, `${meta.months[row.month] || ""} · ${hourText} · ${row.Source}`]);
 }
 
-function render() {
-  if (!scope) return;
-  const T = scopeTable();
-  const total = DataCore.total(T, S.range, S.source);
+function renderStreetMap(visible) {
+  if (!overlay) return;
+  const outline = countyFeature(S.county);
+  const valid = visible.filter(d => Number.isFinite(d.Start_Lng) && Number.isFinite(d.Start_Lat));
+  const focusCity = S.level === "county" ? S.hoverCity : null;
+  const faded = row => focusCity && row.City !== focusCity;
+  const low = valid.filter(d => !(d.Severity >= 3));
+  const high = valid.filter(d => d.Severity >= 3);
+  overlay.setProps({layers: [
+    new deck.GeoJsonLayer({
+      id: "county-outline",
+      data: outline ? [outline] : [],
+      filled: false,
+      stroked: true,
+      getLineColor: [82, 81, 78, 220],
+      lineWidthMinPixels: 1.5
+    }),
+    new deck.ScatterplotLayer({
+      id: "points-low",
+      data: low,
+      pickable: true,
+      radiusUnits: "pixels",
+      getPosition: d => [d.Start_Lng, d.Start_Lat],
+      getRadius: 3,
+      getFillColor: d => faded(d) ? [185, 184, 178, 50] : [137, 135, 129, 170],
+      updateTriggers: {getFillColor: [focusCity]},
+      onHover: pointTip
+    }),
+    new deck.ScatterplotLayer({
+      id: "points-high",
+      data: high,
+      pickable: true,
+      radiusUnits: "pixels",
+      getPosition: d => [d.Start_Lng, d.Start_Lat],
+      getRadius: 4,
+      stroked: true,
+      lineWidthMinPixels: 1,
+      getLineColor: [252, 252, 251, 255],
+      getFillColor: d => faded(d) ? [11, 11, 11, 40] : [11, 11, 11, 230],
+      updateTriggers: {getFillColor: [focusCity]},
+      onHover: pointTip
+    })
+  ]});
+}
+
+function renderKpis(T) {
+  const total = DataCore.indexTotal(T, S.range, S.source, rates);
   $("kpiTotal").textContent = int(total.t);
   $("kpiHigh").textContent = int(total.h);
-  $("kpiRate").textContent = pct(total.rate);
-  VizCharts.mix(DataCore.bySource(T, S.range, meta.sources.length), meta.sources);
-  $("periodLabel").textContent = periodName(S.range);
-
-  const where = S.city || S.county || S.state || "EE. UU.";
-  Timeline.focus({T, months: meta.months, sources: meta.sources, source: S.source, range: S.range, scope: `${where} · ${sourceName()}`});
-
-  const rows = S.level === "usa" ? {area: [], lasso: [], visible: []} : filterRows();
-  overlay.setProps({layers: mapLayers(rows.visible)});
-  renderHeatAndInfra(rows);
-
-  VizCharts.radviz(rows.visible, row => {
-    if (Number.isFinite(row.Start_Lng)) map.flyTo({center: [row.Start_Lng, row.Start_Lat], zoom: 13, duration: 500});
-  });
-
-  if (S.level === "usa") {
-    $("scopeWeather").textContent = "";
-    $("sampleNote").textContent = "Desde el nivel Estado aparecen los puntos de la muestra, el RadViz, el reloj y el lazo.";
-  } else {
-    $("scopeWeather").textContent = `muestra · ${int(rows.visible.length)}`;
-    $("sampleNote").textContent = `Muestra: ${int(rows.visible.length)} visibles de ${int(rows.area.length)} en el periodo y fuente `
-      + `(máximo ${int(CONFIG.MAX_CHART_ROWS)}). Horas, severidad y lazo filtran solo la muestra; los totales son del área completa.`;
-  }
-  renderCompare();
+  $("kpiRate").textContent = total.t ? `${pct(total.rate)} del total` : "";
+  $("kpiIndex").textContent = total.e >= MIN_E ? times(total.index) : "—";
+  $("kpiIndexNote").textContent = total.e >= MIN_E ? "1× = lo esperado" : "pocos datos para el índice";
+  VizCharts.mix("#kpiMix", DataCore.bySource(T, S.range, meta.sources.length), meta.sources);
 }
 
-function schedule() {
-  cancelAnimationFrame(frame);
-  frame = requestAnimationFrame(render);
+function yearsIn(range) {
+  return d3.range(Math.floor(range[0] / 12), Math.floor(range[1] / 12) + 1);
+}
+
+function yearRange(year, range) {
+  return [Math.max(range[0], year * 12), Math.min(range[1], year * 12 + 11)];
+}
+
+function timeMessage(text) {
+  d3.select("#focusChart").selectAll("*").remove();
+  d3.select("#focusChart").style("height", "0px");
+  $("focusNote").textContent = text;
+}
+
+function renderTimeBySource(T) {
+  const height = Math.max(220, Math.min(320, $("mapStage").clientHeight - 40));
+  const months = d3.range(S.range[0], S.range[1] + 1);
+  const monthly = DataCore.monthly(T, meta.months.length, meta.sources.length);
+  const asRate = (cell, min) => cell.t >= min ? cell.h / cell.t : null;
+  let labels = months.map(m => meta.months[m]);
+  let series = sourceList().map(s => ({s, values: months.map(m => asRate(monthly[s][m], 50))}));
+  let grain = "mes";
+
+  const enough = list => list.some(x => x.values.filter(v => v !== null).length >= 6);
+  if (!enough(series)) {
+    const years = yearsIn(S.range);
+    labels = years.map(y => String(2016 + y));
+    series = sourceList().map(s => ({
+      s,
+      values: years.map(y => {
+        const [a, b] = yearRange(y, S.range);
+        const cell = d3.range(a, b + 1).reduce((acc, m) => ({t: acc.t + monthly[s][m].t, h: acc.h + monthly[s][m].h}), {t: 0, h: 0});
+        return asRate(cell, 30);
+      })
+    }));
+    grain = "año";
+  }
+  series = series.filter(x => x.values.filter(v => v !== null).length >= 3);
+  if (!series.length) {
+    timeMessage(`${areaName()} tiene muy pocos accidentes en este periodo para ver cómo cambian en el tiempo, ni siquiera agrupando por año. Los totales están arriba, en los indicadores.`);
+    return;
+  }
+
+  const lines = series.map(x => ({label: meta.sources[x.s], color: VizCharts.SOURCE_COLORS[x.s], values: x.values}));
+  let annotation = null;
+  const s1 = series.findIndex(x => x.s === 0);
+  if (S.level === "usa" && grain === "mes" && s1 >= 0 && S.range[0] <= 42 && S.range[1] >= 66) {
+    annotation = {series: s1, at: 50 - S.range[0], labelValue: 0.07, anchor: "start", text: "Source1 cambia de criterio"};
+  }
+  VizCharts.lineChart("#focusChart", {labels, series: lines, height, yFormat: d3.format(".0%"), annotation});
+  $("timeTitle").textContent = "¿Cuándo? Proporción con Severity ≥ 3, por fuente";
+  $("focusNote").textContent = `Cada fuente comparada consigo misma, por ${grain}.`
+    + (grain === "año" ? " Hay pocos accidentes por mes, así que se agrupa por año." : " Se omiten los meses con menos de 50 accidentes de una fuente.");
 }
 
 async function pinData(pin) {
   if (pin.kind === "state") return json(`${W12}/states/${pin.state}.json`);
-  const county = await json(`${W12}/states/${pin.state}/counties/${pin.slug}.json`);
-  return pin.kind === "city" ? {T: DataCore.areaTable(county.areas, pin.city)} : county;
+  return json(`${W12}/states/${pin.state}/counties/${pin.slug}.json`);
 }
 
-async function compareArea(pin, range, source) {
-  if (!pin) return null;
-  const data = await pinData(pin);
-  const series = DataCore.monthly(data.T, meta.months.length, meta.sources.length);
-  const monthly = meta.months.map((_, m) => {
-    const cells = source < 0 ? series.map(s => s[m]) : [series[source][m]];
-    const t = d3.sum(cells, c => c.t);
-    const h = d3.sum(cells, c => c.h);
-    return {t, h, rate: t >= 20 ? h / t : null};
+function renderTimeCompare(A, B) {
+  const height = Math.max(220, Math.min(320, $("mapStage").clientHeight - 40));
+  const years = yearsIn(S.range);
+  const yearly = data => years.map(y => {
+    const cell = DataCore.indexTotal(data.T, yearRange(y, S.range), S.source, rates);
+    return cell.e >= MIN_E ? cell.index : null;
   });
-  return {
-    label: pin.label,
-    total: DataCore.total(data.T, range, source),
-    bySource: DataCore.bySource(data.T, range, meta.sources.length),
-    monthly,
-    infra: data.I ? DataCore.infra(data.I, data.T, range, meta.flags.length, meta.sources.length) : null,
-    weather: data.W ? DataCore.weather(data.W, range, source, meta.weather.length) : null
-  };
+  VizCharts.lineChart("#focusChart", {
+    labels: years.map(y => String(2016 + y)),
+    series: [
+      {label: `A · ${S.pins.A.label}`, color: "#0b0b0b", values: yearly(A)},
+      {label: `B · ${S.pins.B.label}`, color: "#0b0b0b", className: "dashed", values: yearly(B)}
+    ],
+    height,
+    yFormat: v => times(v),
+    reference: 1
+  });
+  $("timeTitle").textContent = "¿Cuándo? Índice por año, A frente a B";
+  $("focusNote").textContent = "1× es lo esperado según la fuente y el año; la mezcla de fuentes ya está descontada.";
 }
 
-let compareToken = 0;
-async function renderCompare() {
-  const token = ++compareToken;
-  const range = S.range;
-  const source = S.source;
-  try {
-    const [A, B] = await Promise.all([compareArea(S.pins.A, range, source), compareArea(S.pins.B, range, source)]);
-    if (token !== compareToken) return;
-    VizCharts.compare({
-      A, B, range, source,
-      months: meta.months,
-      sources: meta.sources,
-      flags: meta.flags,
-      weatherGroups: meta.weather,
-      minN: MIN_N
-    });
-  } catch (error) {
-    showError(error);
+function keyHtml(target, items) {
+  const el = $(target);
+  el.replaceChildren(...items.map(([cls, text]) => {
+    const span = document.createElement("span");
+    const dot = document.createElement("i");
+    dot.className = cls;
+    span.append(dot, document.createTextNode(text));
+    return span;
+  }));
+}
+
+function profileSources(P) {
+  const totals = DataCore.bySource(P.T, S.range, meta.sources.length);
+  return sourceList().filter(s => totals[s].t >= 200);
+}
+
+function renderProfileExact(P, title, note) {
+  $("profileTitle").textContent = title;
+  $("profileNote").textContent = note;
+  $("heatChartB").classList.add("hidden");
+  const heat = VizCharts.heat("#heatChart", {cells: DataCore.heat(P.H, S.range, S.source), divisor: DataCore.weekdayDays(S.range), hours: window.ExplorerFilters.getHours()});
+  $("heatHelp").textContent = "Promedio de accidentes Severity ≥ 3 por día. Se divide por la cantidad de lunes, martes… del periodo.";
+  $("heatNote").textContent = heat.note;
+
+  const sources = profileSources(P);
+  const infraBySource = new Map(sources.map(s => [s, DataCore.infraIndex(P.I, P.T, S.range, s, rates, meta.flags.length)]));
+  const infraRows = meta.flags.map((flag, f) => ({
+    label: VizCharts.FLAG_LABELS[flag],
+    points: sources.map(s => ({name: meta.sources[s], cls: `src-${s}`, cell: infraBySource.get(s)[f].with})),
+    hint: `Sin el elemento: ${sources.map(s => `${meta.sources[s]} ${times(infraBySource.get(s)[f].without.index)}`).join(" · ")}`
+  }));
+  VizCharts.indexChart("#infraChart", {rows: infraRows, minExpected: MIN_E});
+
+  const groups = meta.weather.map((g, w) => ({g, w})).filter(d => VizCharts.WEATHER_LABELS[d.g]);
+  const weatherBySource = new Map(sources.map(s => [s, DataCore.weatherIndex(P.W, S.range, s, rates, meta.weather.length)]));
+  const weatherRows = groups.map(({g, w}) => ({
+    label: VizCharts.WEATHER_LABELS[g],
+    points: sources.map(s => ({name: meta.sources[s], cls: `src-${s}`, cell: weatherBySource.get(s)[w]}))
+  }));
+  VizCharts.indexChart("#weatherChart", {rows: weatherRows, minExpected: MIN_E});
+
+  const key = sources.length > 1 ? sources.map(s => [`src-${s}`, meta.sources[s]]) : [];
+  keyHtml("infraKey", key);
+  keyHtml("weatherKey", key);
+  $("weatherHelp").textContent = "Índice según la condición registrada al momento del accidente, por fuente.";
+}
+
+function renderProfileSample(rows) {
+  $("profileTitle").textContent = `Perfil del lazo en ${areaName()}`;
+  $("profileNote").textContent = `Calculado con los ${int(rows.length)} reportes de la muestra que caen dentro del lazo.`;
+  $("heatChartB").classList.add("hidden");
+  const sampled = DataCore.heatRows(rows);
+  const heat = VizCharts.heat("#heatChart", {cells: sampled.cells, divisor: null, hours: window.ExplorerFilters.getHours()});
+  $("heatHelp").textContent = "Accidentes Severity ≥ 3 de la muestra dentro del lazo, sin normalizar.";
+  $("heatNote").textContent = heat.note;
+
+  const sources = sourceList().filter(s => rows.filter(r => r.Source === meta.sources[s]).length >= 30);
+  const bySource = new Map(sources.map(s => [s, DataCore.sampleInfraIndex(rows.filter(r => r.Source === meta.sources[s]), meta.flags, meta.sources, rates)]));
+  const infraRows = meta.flags.map((flag, f) => ({
+    label: VizCharts.FLAG_LABELS[flag],
+    points: sources.map(s => ({name: meta.sources[s], cls: `src-${s}`, cell: bySource.get(s)[f].with}))
+  }));
+  VizCharts.indexChart("#infraChart", {rows: infraRows, minExpected: 5});
+  keyHtml("infraKey", sources.length > 1 ? sources.map(s => [`src-${s}`, meta.sources[s]]) : []);
+  keyHtml("weatherKey", []);
+  const svg = d3.select("#weatherChart");
+  svg.selectAll("*").remove();
+  svg.attr("viewBox", "0 0 320 50").style("height", "50px");
+  svg.append("text").attr("class", "empty").attr("x", 160).attr("y", 25).attr("text-anchor", "middle").text("La muestra no trae la condición del clima; quita el lazo para verla.");
+  $("weatherHelp").textContent = "";
+}
+
+function renderProfileCompare(A, B) {
+  $("profileTitle").textContent = "Perfil: A frente a B";
+  $("profileNote").textContent = `A = ${S.pins.A.label} · B = ${S.pins.B.label}. Mismo periodo y fuente.`;
+  const hours = window.ExplorerFilters.getHours();
+  const divisor = DataCore.weekdayDays(S.range);
+  $("heatChartB").classList.remove("hidden");
+  const heatA = VizCharts.heat("#heatChart", {cells: DataCore.heat(A.H, S.range, S.source), divisor, hours, label: `A · ${S.pins.A.label}`});
+  const heatB = VizCharts.heat("#heatChartB", {cells: DataCore.heat(B.H, S.range, S.source), divisor, hours, label: `B · ${S.pins.B.label}`});
+  $("heatHelp").textContent = "Promedio de accidentes Severity ≥ 3 por día; cada panel tiene su propia escala.";
+  $("heatNote").textContent = [heatA.note && `A: ${heatA.note}`, heatB.note && `B: ${heatB.note}`].filter(Boolean).join(" ");
+
+  const infraA = DataCore.infraIndex(A.I, A.T, S.range, S.source, rates, meta.flags.length);
+  const infraB = DataCore.infraIndex(B.I, B.T, S.range, S.source, rates, meta.flags.length);
+  VizCharts.indexChart("#infraChart", {
+    minExpected: MIN_E,
+    rows: meta.flags.map((flag, f) => ({
+      label: VizCharts.FLAG_LABELS[flag],
+      points: [{name: "A", cls: "pin-a", cell: infraA[f].with}, {name: "B", cls: "pin-b", cell: infraB[f].with}]
+    }))
+  });
+  const weatherA = DataCore.weatherIndex(A.W, S.range, S.source, rates, meta.weather.length);
+  const weatherB = DataCore.weatherIndex(B.W, S.range, S.source, rates, meta.weather.length);
+  VizCharts.indexChart("#weatherChart", {
+    minExpected: MIN_E,
+    rows: meta.weather.map((g, w) => ({g, w})).filter(d => VizCharts.WEATHER_LABELS[d.g]).map(({g, w}) => ({
+      label: VizCharts.WEATHER_LABELS[g],
+      points: [{name: "A", cls: "pin-a", cell: weatherA[w]}, {name: "B", cls: "pin-b", cell: weatherB[w]}]
+    }))
+  });
+  const key = [["pin-a", `A · ${S.pins.A.label}`], ["pin-b", `B · ${S.pins.B.label}`]];
+  keyHtml("infraKey", key);
+  keyHtml("weatherKey", key);
+  $("weatherHelp").textContent = S.source < 0
+    ? "Índice con las fuentes combinadas. Si quieres ver si las fuentes coinciden, elige una a la izquierda."
+    : `Índice dentro de ${meta.sources[S.source]}.`;
+}
+
+function renderCities() {
+  if (!isStreet()) {
+    $("citiesBlock").classList.add("hidden");
+    return;
   }
+  $("citiesBlock").classList.remove("hidden");
+  $("citiesTitle").textContent = `Ciudades de ${S.county}`;
+  const stats = DataCore.byAreaIndex(scope.areas, S.range, S.source, rates);
+  const rows = [...stats.entries()].map(([name, cell]) => ({name, ...cell})).sort((a, b) => b.t - a.t);
+  VizCharts.cityList("#cityList", {
+    rows,
+    selected: S.city,
+    minExpected: MIN_E,
+    onClick: name => navigate("city", {city: name}),
+    onHover: name => {
+      if (S.level !== "county") return;
+      S.hoverCity = name;
+      renderStreetMap(filterRows().visible);
+    }
+  });
 }
 
-function pinUI() {
-  const labels = ["A", "B"].filter(k => S.pins[k]).map(k => `${k}: ${S.pins[k].label}`);
-  $("pinLabels").textContent = labels.join(" · ") || "Navega a un estado, condado o ciudad y fíjalo como A o B.";
+async function renderPins() {
+  const box = $("pinSummary");
+  const cards = [];
+  for (const key of ["A", "B"]) {
+    const pin = S.pins[key];
+    if (!pin) continue;
+    const data = await pinData(pin);
+    const cell = DataCore.indexTotal(data.T, S.range, S.source, rates);
+    const card = document.createElement("div");
+    card.className = "pin-card";
+    const title = document.createElement("b");
+    const letter = document.createElement("span");
+    letter.className = "pin-key";
+    letter.textContent = key;
+    title.append(letter, document.createTextNode(pin.label));
+    const line = document.createElement("span");
+    line.textContent = `${cell.e >= MIN_E ? times(cell.index) : "pocos datos"} lo esperado · ${int(cell.t)} accidentes`;
+    const svgId = `pinMix${key}`;
+    const svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+    svg.id = svgId;
+    card.append(title, line, svg);
+    cards.push({card, svgId, data});
+  }
+  box.replaceChildren(...cards.map(c => c.card));
+  for (const c of cards) VizCharts.mix(`#${c.svgId}`, DataCore.bySource(c.data.T, S.range, meta.sources.length), meta.sources);
   $("clearPins").disabled = !S.pins.A && !S.pins.B;
-  $("pinA").disabled = S.level === "usa";
-  $("pinB").disabled = S.level === "usa";
+  const allowed = S.level === "state" || S.level === "county";
+  $("pinA").disabled = !allowed;
+  $("pinB").disabled = !allowed;
+  $("pinA").title = allowed ? "" : "Se comparan estados o condados";
+  $("pinB").title = $("pinA").title;
 }
 
-const HELP = {
-  usa: "Color = proporción con Severity ≥ 3 en el periodo y fuente elegidos. Clic en un estado para explorarlo.",
-  state: "Condados coloreados igual que el mapa nacional; puntos = muestra coloreada por severidad. Clic en un condado.",
-  county: "Burbujas = ciudades: tamaño = accidentes, color = proporción con Severity ≥ 3. Clic en una burbuja.",
-  city: "Puntos = muestra de la ciudad. Usa el lazo para acotar una zona de hasta 5 km."
-};
-const LEVEL_NAMES = {usa: "USA", state: "Estado", county: "Condado", city: "Ciudad"};
+function renderTable() {
+  $("mapTable").classList.toggle("hidden", !S.table);
+  $("tableBtn").setAttribute("aria-pressed", String(S.table));
+  $("tableBtn").textContent = S.table ? "Volver al mapa" : "Ver como tabla";
+  if (!S.table) return;
+  let stats;
+  let nameOf = key => key;
+  if (S.level === "usa") {
+    stats = DataCore.byAreaIndex(usa.areas, S.range, S.source, rates);
+    const names = new Map(statesGeo.features.map(f => [f.id, f.properties.name]));
+    nameOf = key => names.get(key) || key;
+  } else {
+    stats = DataCore.byAreaIndex(scope.areas, S.range, S.source, rates);
+    if (S.level === "state") nameOf = key => slugNames.get(key) || key;
+  }
+  const rows = [...stats.entries()]
+    .map(([key, cell]) => ({name: nameOf(key), ...cell}))
+    .sort((a, b) => (b.e >= MIN_E ? b.index : -1) - (a.e >= MIN_E ? a.index : -1));
+  VizCharts.table("#mapTable", {rows, minExpected: MIN_E});
+}
+
+let renderToken = 0;
+async function render() {
+  if (!scope) return;
+  const token = ++renderToken;
+  const T = scopeTable();
+  renderKpis(T);
+  $("periodLabel").textContent = periodName(S.range);
+
+  let rows = null;
+  if (isStreet()) {
+    rows = filterRows();
+    renderStreetMap(rows.visible);
+  } else {
+    renderGeoMap();
+  }
+  renderCities();
+  renderTable();
+
+  if (comparing()) {
+    const [A, B] = await Promise.all([pinData(S.pins.A), pinData(S.pins.B)]);
+    if (token !== renderToken) return;
+    renderTimeCompare(A, B);
+    renderProfileCompare(A, B);
+  } else {
+    renderTimeBySource(T);
+    if (isStreet() && window.ExplorerFilters.hasLasso()) {
+      renderProfileSample(rows.lasso);
+    } else if (S.level === "city") {
+      const total = DataCore.total(T, S.range, S.source);
+      renderProfileExact(scope, `Perfil de ${S.county}`, `${S.city} tiene ${int(total.t)} accidentes en el periodo. Por ciudad solo hay totales, así que el perfil muestra el condado como contexto.`);
+    } else {
+      renderProfileExact(scope, `Perfil de ${areaName()}`, `${sourceList().length > 1 ? "Las tres fuentes" : meta.sources[S.source]} · ${periodName(S.range)}`);
+    }
+  }
+  await renderPins();
+}
+
+function schedule() {
+  cancelAnimationFrame(frame);
+  frame = requestAnimationFrame(() => render().catch(showError));
+}
 
 function navigationUI() {
   $("stateSelect").value = S.state || "ALL";
   $("backBtn").disabled = S.level === "usa";
-
-  const crumbs = [["usa", "USA"]];
-  if (S.state) crumbs.push(["state", S.state]);
+  const crumbs = [["usa", "Estados Unidos"]];
+  if (S.state) crumbs.push(["state", stateName(S.state)]);
   if (S.county) crumbs.push(["county", S.county]);
   if (S.city) crumbs.push(["city", S.city]);
-  $("breadcrumb").replaceChildren();
+  const nav = $("breadcrumb");
+  nav.replaceChildren();
   crumbs.forEach(([level, label], i) => {
-    if (i) $("breadcrumb").append("›");
+    if (i) {
+      const sep = document.createElement("span");
+      sep.className = "sep";
+      sep.textContent = "›";
+      nav.append(sep);
+    }
     const button = document.createElement("button");
+    button.type = "button";
     button.textContent = label;
     button.addEventListener("click", () => navigate(level));
-    $("breadcrumb").append(button);
+    nav.append(button);
   });
-
-  $("mapTitle").textContent = S.level === "usa" ? "Estados Unidos" : [S.state, S.county, S.city].filter(Boolean).join(" · ");
-  $("mapHelp").textContent = HELP[S.level];
-  $("levelBadge").textContent = `Nivel: ${LEVEL_NAMES[S.level]}`;
-  $("mapLegendNote").textContent = S.level === "usa"
-    ? "Escala fija por clases: los colores se comparan entre periodos."
-    : "Mismas clases de color. Puntos: azul = severidad 1–2, ámbar/rojo = 3–4.";
-  pinUI();
+  $("mapTitle").textContent = S.level === "usa" ? "Estados Unidos" : [S.city, S.county, stateName(S.state)].filter(Boolean).join(", ");
 }
 
 function navigate(level, selection = {}) {
@@ -473,6 +657,7 @@ function navigate(level, selection = {}) {
     S.countySlug = null;
   }
   if (level !== "city") S.city = null;
+  S.hoverCity = null;
   if ([S.level, S.state, S.county, S.city].join("/") !== before) window.ExplorerFilters.clearLasso(false);
   load();
 }
@@ -492,50 +677,53 @@ async function sampleWithTime(payload, base, signal) {
   });
 }
 
-function sampleRequest(level, base, signal) {
-  if (level !== "city") return json(`${base}/sample.json`, signal);
-  return json(`${base}/cities.json`, signal).then(index => {
-    if (index[S.city] === undefined) return {columns: [], rows: []};
-    return json(`${base}/cities/${index[S.city]}.json`, signal);
-  });
+async function citySample(base, signal) {
+  const index = await json(`${base}/cities.json`, signal);
+  if (index[S.city] === undefined) return {columns: [], rows: []};
+  return json(`${base}/cities/${index[S.city]}.json`, signal);
 }
 
-function placeCities(rows) {
-  cityPlaces = new Map();
-  if (!rows) return;
-  for (const row of rows) {
-    if (!Number.isFinite(row.lat) || !row.coord_n) continue;
-    const city = cityPlaces.get(row.City) || {City: row.City, latSum: 0, lngSum: 0, n: 0};
-    city.latSum += row.lat * row.coord_n;
-    city.lngSum += row.lng * row.coord_n;
-    city.n += row.coord_n;
-    cityPlaces.set(row.City, city);
-  }
-  for (const city of cityPlaces.values()) {
-    city.lat = city.latSum / city.n;
-    city.lng = city.lngSum / city.n;
-  }
+async function loadStateBasics(signal) {
+  const [geo, counties] = await Promise.all([
+    countiesGeo || json(COUNTIES_GEOJSON, signal),
+    json(`${DATA_ROOT}/states/${S.state}/counties_summary.json`, signal)
+  ]);
+  if (!countiesGeo) rewind(geo.features);
+  countiesGeo = geo;
+  countyNames = new Map(counties.map(row => [normCounty(row.County), {County: row.County, slug: row.county_slug}]));
+  slugNames = new Map(counties.map(row => [row.county_slug, row.County]));
+  stateCounties = geo.features.filter(f => String(f.id).padStart(5, "0").slice(0, 2) === FIPS[S.state]);
 }
 
-function sampleForSource(source) {
-  return areaRows.filter(row => source < 0 || row.Source === meta.sources[source]);
+function fitBounds(points, animate) {
+  const bounds = new mapboxgl.LngLatBounds();
+  for (const p of points) bounds.extend(p);
+  if (!bounds.isEmpty()) map.fitBounds(bounds, {padding: 60, maxZoom: 14, duration: animate ? 600 : 0});
 }
 
-function drawContext() {
-  Timeline.context({T: scopeTable(), months: meta.months, sources: meta.sources, source: S.source, range: S.range});
+function featurePoints(feature) {
+  const out = [];
+  const visit = coords => {
+    if (typeof coords[0] === "number") out.push(coords);
+    else coords.forEach(visit);
+  };
+  visit(feature.geometry.coordinates);
+  return out;
 }
 
-function moveCamera(level) {
-  const key = [level, S.state, S.county, S.city].join("/");
+function moveStreetCamera(animate) {
+  const key = [S.level, S.state, S.county, S.city].join("/");
   if (key === cameraKey) return;
   cameraKey = key;
-  if (level === "usa") map.flyTo({center: [-98.5, 39.5], zoom: 3.2, duration: 550});
-  else if (level === "state") fitFeature(statesGeo.features.find(f => f.id === S.state));
-  else if (level === "county") fitFeature(countyFeature(S.county));
-  else {
-    const city = cityPlaces.get(S.city);
-    if (city) map.flyTo({center: [city.lng, city.lat], zoom: 12, duration: 550});
+  if (S.level === "city") {
+    const coords = areaRows.filter(r => Number.isFinite(r.Start_Lng) && Number.isFinite(r.Start_Lat)).map(r => [r.Start_Lng, r.Start_Lat]);
+    if (coords.length) {
+      fitBounds(coords, animate);
+      return;
+    }
   }
+  const outline = countyFeature(S.county);
+  if (outline) fitBounds(featurePoints(outline), animate);
 }
 
 async function load() {
@@ -543,55 +731,40 @@ async function load() {
   controller?.abort();
   controller = new AbortController();
   const signal = controller.signal;
-  const level = S.level;
-
-  hideTip();
   navigationUI();
+  VizCharts.hideTip();
   $("error").classList.add("hidden");
   $("loading").classList.remove("hidden");
-  window.ExplorerFilters.setContext(level !== "usa");
-  for (const handler of MAP_HANDLERS) map[handler][level === "usa" ? "disable" : "enable"]();
-
   try {
-    if (level === "usa") {
+    if (S.level === "usa") {
       scope = usa;
       areaRows = [];
-      VizCharts.clearRad();
-      drawContext();
-      moveCamera(level);
-      render();
-      return;
+      useGeoMap();
+    } else if (S.level === "state") {
+      const [data] = await Promise.all([json(`${W12}/states/${S.state}.json`, signal), loadStateBasics(signal)]);
+      if (version !== generation) return;
+      scope = data;
+      areaRows = [];
+      useGeoMap();
+    } else {
+      const sampleBase = `${EXPLORER_ROOT}/states/${S.state}/counties/${S.countySlug}`;
+      const sample = S.level === "city" ? citySample(sampleBase, signal) : json(`${sampleBase}/sample.json`, signal);
+      const [data, payload] = await Promise.all([
+        json(`${W12}/states/${S.state}/counties/${S.countySlug}.json`, signal),
+        sample,
+        loadStateBasics(signal),
+        loadMonthIndex(),
+        ensureMapbox()
+      ]);
+      const rows = await sampleWithTime(payload, sampleBase, signal);
+      if (version !== generation) return;
+      scope = data;
+      areaRows = rows;
+      const justShown = useStreetMap();
+      moveStreetCamera(!justShown);
     }
-
-    const stateBase = `${DATA_ROOT}/states/${S.state}`;
-    const sampleBase = level === "state"
-      ? `${EXPLORER_ROOT}/states/${S.state}`
-      : `${EXPLORER_ROOT}/states/${S.state}/counties/${S.countySlug}`;
-    const scopeURL = level === "state"
-      ? `${W12}/states/${S.state}.json`
-      : `${W12}/states/${S.state}/counties/${S.countySlug}.json`;
-
-    const [data, geo, counties, sample, cities] = await Promise.all([
-      json(scopeURL, signal),
-      countiesGeo || json(COUNTIES_GEOJSON, signal),
-      json(`${stateBase}/counties_summary.json`, signal),
-      sampleRequest(level, sampleBase, signal).then(payload => sampleWithTime(payload, sampleBase, signal)),
-      level === "state" ? null : json(`${stateBase}/counties/${S.countySlug}/cities_summary.json`, signal),
-      loadMonthIndex()
-    ]);
-    if (version !== generation) return;
-
-    countiesGeo = geo;
-    scope = data;
-    areaRows = sample;
-    countyNames = new Map(counties.map(row => [normCounty(row.County), {County: row.County, slug: row.county_slug}]));
-    areaFeatures = geo.features.filter(f => String(f.id).padStart(5, "0").slice(0, 2) === FIPS[S.state]);
-    placeCities(cities);
-
-    VizCharts.setRadRows(sampleForSource(S.source));
-    drawContext();
-    moveCamera(level);
-    render();
+    Timeline.context({T: scopeTable(), months: meta.months, sources: meta.sources, source: S.source, range: S.range});
+    await render();
   } catch (error) {
     if (error.name !== "AbortError" && version === generation) showError(error);
   } finally {
@@ -601,28 +774,46 @@ async function load() {
 
 function setRange(range) {
   S.range = range;
+  markStory(-1);
   schedule();
 }
 
 function setSource(index) {
   S.source = index;
   $("sourceSelect").value = index < 0 ? "ALL" : meta.sources[index];
-  if (S.level !== "usa") VizCharts.setRadRows(sampleForSource(index));
-  drawContext();
-  render();
+  Timeline.context({T: scopeTable(), months: meta.months, sources: meta.sources, source: index, range: S.range});
+  schedule();
 }
 
 function pin(key) {
-  if (S.level === "usa") return;
-  S.pins[key] = {
-    kind: S.level,
-    state: S.state,
-    slug: S.countySlug,
-    city: S.city,
-    label: [S.city, S.county, S.state].filter(Boolean).join(", ")
-  };
-  pinUI();
-  render();
+  if (S.level !== "state" && S.level !== "county") return;
+  S.pins[key] = S.level === "state"
+    ? {kind: "state", state: S.state, label: stateName(S.state)}
+    : {kind: "county", state: S.state, slug: S.countySlug, label: `${S.county}, ${S.state}`};
+  schedule();
+}
+
+const STORIES = [
+  {
+    title: "Source1 cambió de criterio: 33 % en 2018, 2 % en 2021",
+    text: "Mira la línea de tiempo: la proporción de Source1 se desploma entre 2019 y 2021 mientras Source2 se mantiene. Por eso el mapa usa el índice y no porcentajes brutos.",
+    apply: () => startStory({range: [24, 83]})
+  },
+  {
+    title: "Nieve y tormentas: unas 1.25 veces lo esperado, en las dos fuentes",
+    text: "Mira «¿Con qué clima?»: nieve o hielo y tormenta quedan entre 1.2× y 1.3× en Source1 y en Source2; la niebla, por debajo de 1×. En la vía, en cambio, las fuentes no coinciden: con semáforo Source1 da 1.10× y Source2 0.27×.",
+    apply: () => startStory({})
+  },
+  {
+    title: "Carolina del Sur frente a Ohio: misma mezcla de fuentes, 0.54× frente a 1.22×",
+    text: "Las dos tienen ~38 % de Source1 y ~60 % de Source2, y aun así quedan en lados opuestos de lo esperado. El perfil y la línea de tiempo superponen A y B.",
+    apply: () => startStory({pins: {A: {kind: "state", state: "SC", label: "Carolina del Sur"}, B: {kind: "state", state: "OH", label: "Ohio"}}})
+  }
+];
+
+function markStory(active) {
+  [...$("stories").children].forEach((button, i) => button.setAttribute("aria-pressed", String(i === active)));
+  $("storyText").textContent = active >= 0 ? STORIES[active].text : "";
 }
 
 function startStory({range, pins = {A: null, B: null}}) {
@@ -634,50 +825,23 @@ function startStory({range, pins = {A: null, B: null}}) {
   navigate("usa");
 }
 
-const STORIES = [
-  {
-    title: "1 · Source1 cambió de criterio: 33 % en 2018, 2 % en 2021",
-    text: "Mira T1: la línea de Source1 se desploma mientras Source2 sigue entre 30 % y 37 %. "
-      + "La caída nacional de la proporción es un efecto de la fuente, no de las vías.",
-    apply: () => startStory({range: [24, 83]})
-  },
-  {
-    title: "2 · Intersección sube en ambas fuentes; el semáforo no",
-    text: "Mira T4: con Junction la proporción sube en Source1 (7,6 → 13,1 %) y en Source2 (32,6 → 58,1 %). "
-      + "Traffic_Signal solo “baja” el impacto en Source2.",
-    apply: () => startStory({})
-  },
-  {
-    title: "3 · Carolina del Sur frente a Ohio: misma mezcla, 12 % frente a 31 %",
-    text: "Mira T5: las dos tienen ~38 % Source1 y ~60 % Source2, así que la brecha no viene de las fuentes; "
-      + "se mantiene dentro de cada una (Source2: 18 % frente a 40 %).",
-    apply: () => startStory({pins: {A: {kind: "state", state: "SC", label: "SC"}, B: {kind: "state", state: "OH", label: "OH"}}})
-  }
-];
-
 function buildStories() {
-  const title = document.createElement("span");
-  title.textContent = "Recorridos guiados";
-  const note = document.createElement("p");
-  note.id = "storyText";
-  note.className = "hint";
-
-  const buttons = STORIES.map(story => {
+  const buttons = STORIES.map((story, i) => {
     const button = document.createElement("button");
     button.type = "button";
     button.textContent = story.title;
-    button.title = story.text;
     button.addEventListener("click", () => {
       story.apply();
-      note.textContent = story.text;
+      markStory(i);
     });
     return button;
   });
-  $("stories").replaceChildren(title, ...buttons, note);
+  $("stories").replaceChildren(...buttons);
 }
 
 function bindControls() {
-  for (const state of [...usa.areas.names].sort()) $("stateSelect").append(new Option(state, state));
+  const states = [...usa.areas.names].map(code => [code, stateName(code)]).sort((a, b) => a[1].localeCompare(b[1], "es"));
+  for (const [code, name] of states) $("stateSelect").append(new Option(name, code));
   for (const source of meta.sources) $("sourceSelect").append(new Option(source, source));
 
   $("stateSelect").addEventListener("change", event => {
@@ -686,13 +850,11 @@ function bindControls() {
     else navigate("state", {state: value});
   });
   $("sourceSelect").addEventListener("change", event => setSource(meta.sources.indexOf(event.target.value)));
-  $("severitySelect").addEventListener("change", schedule);
   $("fullPeriod").addEventListener("click", () => {
     S.range = [0, meta.months.length - 1];
     Timeline.move(S.range);
-    render();
+    schedule();
   });
-  $("homeBtn").addEventListener("click", () => navigate("usa"));
   $("backBtn").addEventListener("click", () => {
     const up = {state: "usa", county: "state", city: "county"};
     navigate(up[S.level] || "usa");
@@ -702,16 +864,25 @@ function bindControls() {
   $("pinB").addEventListener("click", () => pin("B"));
   $("clearPins").addEventListener("click", () => {
     S.pins = {A: null, B: null};
-    pinUI();
-    render();
+    markStory(-1);
+    schedule();
+  });
+  $("onlyHigh").addEventListener("change", event => {
+    S.onlyHigh = event.target.checked;
+    schedule();
+  });
+  $("tableBtn").addEventListener("click", () => {
+    S.table = !S.table;
+    renderTable();
   });
   $("resetFilters").addEventListener("click", () => {
     S.range = [0, meta.months.length - 1];
     S.pins = {A: null, B: null};
-    $("severitySelect").value = "ALL";
+    S.onlyHigh = false;
+    $("onlyHigh").checked = false;
     window.ExplorerFilters.reset();
+    markStory(-1);
     setSource(-1);
-    pinUI();
   });
 }
 
@@ -721,47 +892,26 @@ async function boot() {
     if (!CONFIG.MAPBOX_TOKEN || CONFIG.MAPBOX_TOKEN.includes("PEGA_AQUI")) {
       throw new Error("Configura un token público de Mapbox en js/config.js.");
     }
-    mapboxgl.accessToken = CONFIG.MAPBOX_TOKEN;
-    map = new mapboxgl.Map({
-      container: "map",
-      style: "mapbox://styles/mapbox/light-v11",
-      center: [-98.5, 39.5],
-      zoom: 3.2,
-      minZoom: 2,
-      projection: "mercator",
-      dragPan: false,
-      scrollZoom: false,
-      doubleClickZoom: false,
-      touchZoomRotate: false,
-      keyboard: false,
-      boxZoom: false
-    });
-    map.addControl(new mapboxgl.NavigationControl({showCompass: false}), "top-left");
-    map.on("error", event => showError(new Error(`Mapbox: ${event.error?.message || "No se pudo cargar el mapa"}`)));
-    const mapReady = new Promise(resolve => map.once("load", resolve));
-
-    [usa, statesGeo] = await Promise.all([json(`${W12}/usa.json`), json(STATES_GEOJSON), mapReady]);
+    [usa, statesGeo] = await Promise.all([json(`${W12}/usa.json`), json(STATES_GEOJSON)]);
+    rewind(statesGeo.features);
     meta = usa.meta;
+    rates = DataCore.nationalRates(usa.T, meta.sources.length);
     S.range = [0, meta.months.length - 1];
 
-    overlay = new deck.MapboxOverlay({interleaved: false, layers: []});
-    map.addControl(overlay);
-    VizCharts.legend(THRESHOLDS, CLASS_COLORS, MIN_N);
+    VizCharts.legend("#mapLegend");
     Timeline.init(setRange);
-    window.ExplorerFilters.init(map, schedule);
     bindControls();
     buildStories();
 
-    map.on("style.load", schedule);
     new ResizeObserver(() => {
-      map.resize();
+      if (map && isStreet()) map.resize();
       cancelAnimationFrame(frame);
       frame = requestAnimationFrame(() => {
         if (!scope) return;
-        drawContext();
-        render();
+        Timeline.context({T: scopeTable(), months: meta.months, sources: meta.sources, source: S.source, range: S.range});
+        render().catch(showError);
       });
-    }).observe(document.querySelector(".dashboard"));
+    }).observe(document.querySelector(".layout"));
 
     await load();
   } catch (error) {
