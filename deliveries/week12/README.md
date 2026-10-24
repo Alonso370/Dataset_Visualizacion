@@ -42,7 +42,8 @@ Es una estandarización indirecta. Se recalcula para cualquier periodo, porque l
 
 - **Mapa (Mapbox + deck.gl en todos los niveles):**
   - **País y estado:** coroplético del índice en una gama de **un solo tono** (naranja, 7 clases de claro a oscuro). La clase del centro, marcada en la leyenda, es lo esperado (0.95–1.05×).
-  - **Condado y ciudad:** los reportes de la muestra como puntos: Severity ≥ 3 en naranja y el resto en gris. Herramientas sobre el mapa:
+  - **Condado y ciudad: vías coloreadas como un mapa de tráfico** (inspirado en el *map view* de JamVis). Cada tramo de calle de Mapbox se pinta según los accidentes Severity ≥ 3 de los 7,7 M que caen en su celda de ~200 m. Más oscuro = más accidentes; los cortes son los percentiles 50, 80 y 95 del condado en el periodo. El grosor depende del tipo de vía. En cada celda, los accidentes se asignan a la vía de mayor jerarquía que la cruza, como un map-matching ligero, porque el dataset no trae la red vial.
+  - Opcionalmente, los reportes de la muestra como puntos: Severity ≥ 3 en naranja y el resto en gris. Herramientas sobre el mapa:
   - lazo de 5 km;
   - reloj de 24 h;
   - "Solo Severity ≥ 3".
@@ -93,6 +94,7 @@ deliveries/week12/
     │   ├── filters.js       interacción del reloj y del lazo
     │   ├── timeline.js      brush de periodo
     │   ├── charts.js        perfil, líneas, ciudades, leyendas y tabla
+    │   ├── roads.js         vías coloreadas por accidentes (map-matching ligero)
     │   └── app.js           estado, navegación y coordinación de vistas
     ├── scripts/
     │   ├── build_week12.py  agregados mensuales exactos + índice ID → mes
@@ -120,14 +122,14 @@ Abre `http://127.0.0.1:8000/deliveries/week12/VIZU/`. En Windows también funcio
 |---|---|---|
 | `week10/.../data/processed` | Nombres y slugs de condados | `week10/.../scripts/preprocess_7m.py` |
 | `week10/.../data/explorer` | Muestras deterministas por estado, condado y ciudad | `week10/.../scripts/build_explorer.py` |
-| `week12/VIZU/data/w12` | Totales exactos **por mes**, fuente y área (país, estado, condado y ciudad), infraestructura, día × hora de Severity ≥ 3, clima e `id_month.bin` (ID → mes) | `build_week12.py` |
+| `week12/VIZU/data/w12` | Totales exactos **por mes**, fuente y área (país, estado, condado y ciudad), infraestructura, día × hora de Severity ≥ 3, clima, `id_month.bin` (ID → mes) y, por condado, accidentes por celda de 0.002° (~200 m) y año (`*.cells.json`) para la capa de vías | `build_week12.py` |
 
 ```bash
 pip install pandas pyarrow numpy
 python3 deliveries/week12/VIZU/scripts/build_week12.py --input US_Accidents_March23.csv --output deliveries/week12/VIZU/data/w12
 ```
 
-Unos 90 s, 3 090 archivos, 52 MB. Cuadra con la semana 10: 7 728 394 registros y 1 504 047 con Severity ≥ 3 (19.46 %).
+Unos 2 minutos, 6 158 archivos, 103 MB (la mitad son las celdas de vías). Cuadra con la semana 10: 7 728 394 registros y 1 504 047 con Severity ≥ 3 (19.46 %).
 
 ## Verificación
 
@@ -148,6 +150,7 @@ La prueba de navegador recorre país → California → Los Ángeles → Pasaden
 
 - **El índice es relativo al promedio nacional de cada fuente y año.** No es un riesgo: el dataset no mide la exposición al tráfico.
 - **Los puntos del mapa de calles y el perfil con lazo usan una muestra** de hasta 2 500 reportes, y la vista lo indica. La muestra no trae la condición del clima.
+- **La capa de vías aproxima el map-matching.** Los accidentes se cuentan en celdas de ~200 m y se asignan a la vía de mayor jerarquía que cruza cada celda, así que un accidente en una calle paralela a una autopista se pinta sobre la autopista. Se filtra por año completo (no por mes) y no separa fuentes.
 - **Por ciudad solo hay totales mensuales.** En el nivel ciudad, el perfil usa el condado como contexto y lo dice.
 - **El mapa está en Mercator**, la proyección de Mapbox, también en el coroplético de país y estado. La clase de datos geoespaciales recomienda área igual para mapas temáticos. El equipo prefirió un solo mapa continuo con navegación a escala de calle, y se declara como limitación.
 

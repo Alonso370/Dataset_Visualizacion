@@ -17,7 +17,7 @@ const MAP_HANDLERS = ["dragPan", "scrollZoom", "doubleClickZoom", "touchZoomRota
 const S = {
   level: "usa", state: null, county: null, countySlug: null, city: null,
   source: -1, range: [0, 0], pins: {A: null, B: null},
-  onlyHigh: false, hoverCity: null, table: false
+  onlyHigh: false, hoverCity: null, table: false, showRoads: true, showPoints: false
 };
 
 const $ = id => document.getElementById(id);
@@ -44,6 +44,11 @@ let generation = 0;
 let controller;
 let frame;
 let cameraKey = "";
+let roadPieces = [];
+let roadCuts = [];
+let roadsDirty = false;
+let lastVisible = [];
+let cellsKey = "";
 
 const cache = new Map();
 let cacheBytes = 0;
@@ -120,6 +125,13 @@ function ensureMapbox() {
     overlay = new deck.MapboxOverlay({interleaved: false, layers: []});
     map.addControl(overlay);
     window.ExplorerFilters.init(map, schedule);
+    map.on("moveend", markRoads);
+    map.on("idle", () => {
+      if (!roadsDirty) return;
+      roadsDirty = false;
+      refreshRoads();
+      renderStreetMap(lastVisible);
+    });
     resolve(map);
   }));
   return mapReady;
@@ -266,15 +278,71 @@ function pointTip(info) {
   VizCharts.tip(event, [`Severity ${row.Severity}`, row.City || row.County, `${meta.months[row.month] || ""} · ${hourText} · ${row.Source}`]);
 }
 
+function markRoads() {
+  if (!isStreet()) return;
+  roadsDirty = true;
+  map.triggerRepaint();
+}
+
+function refreshRoads() {
+  if (!isStreet() || !S.showRoads) {
+    roadPieces = [];
+    return;
+  }
+  roadPieces = RoadLayer.segments(map, S.range);
+  roadCuts = RoadLayer.breaks(S.range);
+  drawRoadLegend();
+}
+
+function drawRoadLegend() {
+  const svg = d3.select("#roadLegend");
+  svg.selectAll("*").remove();
+  $("roadLegend").classList.toggle("hidden", !S.showRoads);
+  $("dotLegend").classList.toggle("hidden", !S.showPoints);
+  if (!S.showRoads) return;
+  const width = svg.node().clientWidth || 360;
+  svg.attr("viewBox", `0 0 ${width} 46`).style("height", "46px");
+  const labels = ["0"];
+  let low = 1;
+  for (const cut of roadCuts) {
+    labels.push(low === cut ? `${cut}` : `${low}–${cut}`);
+    low = cut + 1;
+  }
+  labels.push(`${low}+`);
+  const w = 64;
+  svg.append("text").attr("class", "legend-title").attr("x", 0).attr("y", 10).text("Accidentes Severity ≥ 3 por tramo de ~200 m");
+  labels.forEach((label, i) => {
+    svg.append("rect").attr("x", i * w).attr("y", 17).attr("width", w - 3).attr("height", 6).attr("rx", 3).attr("fill", RoadLayer.COLORS[Math.min(i, RoadLayer.COLORS.length - 1)]);
+    svg.append("text").attr("class", "tick-label").attr("x", i * w).attr("y", 38).text(label);
+  });
+}
+
+function roadTip(info) {
+  const d = info.object;
+  if (!d) {
+    VizCharts.hideTip();
+    return;
+  }
+  const years = `${meta.months[S.range[0]].slice(0, 4)}–${meta.months[S.range[1]].slice(0, 4)}`;
+  VizCharts.tip(eventAt(info), [
+    `${int(d.h)} accidentes Severity ≥ 3`,
+    d.name || "Vía sin nombre",
+    `${int(d.t)} accidentes en total en este tramo · ${years} · todas las fuentes`
+  ]);
+}
+
 function renderStreetMap(visible) {
   if (!overlay) return;
+  lastVisible = visible;
   const outline = countyFeature(S.county);
   const valid = visible.filter(d => Number.isFinite(d.Start_Lng) && Number.isFinite(d.Start_Lat));
   const focusCity = S.level === "county" ? S.hoverCity : null;
   const faded = row => focusCity && row.City !== focusCity;
   const low = valid.filter(d => !(d.Severity >= 3));
   const high = valid.filter(d => d.Severity >= 3);
+  const showPoints = S.showPoints || window.ExplorerFilters.hasLasso();
   overlay.setProps({layers: [
+    S.showRoads ? RoadLayer.layer(roadPieces, roadCuts, roadTip) : null,
     new deck.GeoJsonLayer({
       id: "county-outline",
       data: outline ? [outline] : [],
@@ -285,7 +353,7 @@ function renderStreetMap(visible) {
     }),
     new deck.ScatterplotLayer({
       id: "points-low",
-      data: low,
+      data: showPoints ? low : [],
       pickable: true,
       radiusUnits: "pixels",
       getPosition: d => [d.Start_Lng, d.Start_Lat],
@@ -296,7 +364,7 @@ function renderStreetMap(visible) {
     }),
     new deck.ScatterplotLayer({
       id: "points-high",
-      data: high,
+      data: showPoints ? high : [],
       pickable: true,
       radiusUnits: "pixels",
       getPosition: d => [d.Start_Lng, d.Start_Lat],
@@ -627,6 +695,7 @@ async function render() {
   if (isStreet()) {
     rows = filterRows();
     renderStreetMap(rows.visible);
+    markRoads();
   } else {
     overlay.setProps({layers: areaLayers()});
   }
@@ -789,9 +858,11 @@ async function load() {
     } else {
       const sampleBase = `${EXPLORER_ROOT}/states/${S.state}/counties/${S.countySlug}`;
       const sample = S.level === "city" ? citySample(sampleBase, signal) : json(`${sampleBase}/sample.json`, signal);
-      const [data, payload] = await Promise.all([
-        json(`${W12}/states/${S.state}/counties/${S.countySlug}.json`, signal),
+      const countyBase = `${W12}/states/${S.state}/counties/${S.countySlug}`;
+      const [data, payload, cells] = await Promise.all([
+        json(`${countyBase}.json`, signal),
         sample,
+        cellsKey === countyBase ? null : json(`${countyBase}.cells.json`, signal),
         loadStateBasics(signal),
         loadMonthIndex()
       ]);
@@ -799,6 +870,10 @@ async function load() {
       if (version !== generation) return;
       scope = data;
       areaRows = rows;
+      if (cells) {
+        RoadLayer.load(cells);
+        cellsKey = countyBase;
+      }
     }
     setMapMode();
     moveCamera();
@@ -857,6 +932,22 @@ function bindControls() {
   $("clearPins").addEventListener("click", () => {
     S.pins = {A: null, B: null};
     schedule();
+  });
+  $("showRoads").addEventListener("change", event => {
+    S.showRoads = event.target.checked;
+    markRoads();
+    drawRoadLegend();
+    renderStreetMap(lastVisible);
+  });
+  $("showPoints").addEventListener("change", event => {
+    S.showPoints = event.target.checked;
+    drawRoadLegend();
+    renderStreetMap(lastVisible);
+  });
+  $("lassoBtn").addEventListener("click", () => {
+    S.showPoints = true;
+    $("showPoints").checked = true;
+    drawRoadLegend();
   });
   $("onlyHigh").addEventListener("change", event => {
     S.onlyHigh = event.target.checked;

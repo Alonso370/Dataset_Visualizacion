@@ -247,3 +247,5 @@ dialog .close { float: right; border: 0; font-size: 20px; line-height: 1; paddin
 .key .pin-a { background: var(--a); }
 .key .pin-b { background: var(--b); }
 .defs { position: absolute; width: 0; height: 0; overflow: hidden; }
+#roadLegend { width: 340px; max-width: 100%; display: block; }
+#pointLegend { display: grid; gap: 2px; }
