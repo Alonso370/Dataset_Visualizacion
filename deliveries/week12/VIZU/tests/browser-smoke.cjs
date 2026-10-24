@@ -1,4 +1,3 @@
-/* Real browser walk-through: USA -> state -> county -> city, brush, 5 km lasso, A/B. Needs Playwright + Chromium. */
 const {spawn} = require("node:child_process");
 const path = require("node:path");
 const {chromium} = require(process.env.PLAYWRIGHT_MODULE || "playwright");

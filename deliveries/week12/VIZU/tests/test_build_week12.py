@@ -1,4 +1,3 @@
-"""build_week12.py on a tiny synthetic CSV: totals, levels, infrastructure, heatmap and ID -> month index."""
 import json, subprocess, sys, tempfile
 from pathlib import Path
 import numpy as np
@@ -21,18 +20,18 @@ def main():
         usa = json.loads((out/"usa.json").read_text())
         assert usa["meta"]["months"][0] == "2016-01" and usa["meta"]["months"][-1] == "2023-03"
         assert sum(usa["T"]["t"]) == 5 and sum(usa["T"]["h"]) == 3
-        assert sum(usa["H"]["h"]) == 3, "heatmap counts only Severity >= 3"
+        assert sum(usa["H"]["h"]) == 3
         j = usa["meta"]["flags"].index("Junction")
         assert sum(t for f,t in zip(usa["I"]["f"],usa["I"]["t"]) if f == j) == 2
         ca = json.loads((out/"states"/"CA.json").read_text())
-        assert sum(ca["T"]["t"]) == 3 and sum(ca["areas"]["t"]) == 2, "records without county count in the state, not in a county"
+        assert sum(ca["T"]["t"]) == 3 and sum(ca["areas"]["t"]) == 2
         la = json.loads((out/"states"/"CA"/"counties"/"los_angeles.json").read_text())
         assert la["areas"]["names"] == ["Pasadena"] and sum(la["T"]["t"]) == 2
         ids = np.fromfile(out/"id_month.bin",dtype=np.uint8)
-        assert ids[1] == 1 and ids[5] == 86 and ids[9] == 54 and ids[3] == 255, "month index by ID, 255 when absent"
+        assert ids[1] == 1 and ids[5] == 86 and ids[9] == 54 and ids[3] == 255
         mon = json.loads((out/"usa.json").read_text())["H"]
-        assert (0 in mon["d"]) and (4 in mon["d"]), "2016-02-08 is a Monday and 2023-03-31 a Friday"
-    print("OK: totals, levels, missing county, infrastructure, heatmap, weekday and ID -> month index.")
+        assert (0 in mon["d"]) and (4 in mon["d"])
+    print("OK: totales, niveles, accidentes sin condado, infraestructura, heatmap, día de la semana e índice ID → mes.")
 
 if __name__ == "__main__":
     main()
