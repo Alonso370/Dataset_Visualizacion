@@ -129,7 +129,7 @@ pip install pandas pyarrow numpy
 python3 deliveries/week12/VIZU/scripts/build_week12.py --input US_Accidents_March23.csv --output deliveries/week12/VIZU/data/w12
 ```
 
-Unos 2 minutos, 6 158 archivos, 103 MB (la mitad son las celdas de vías). Cuadra con la semana 10: 7 728 394 registros y 1 504 047 con Severity ≥ 3 (19.46 %).
+Unos 2 minutos, 6 129 archivos, 103 MB (la mitad son las celdas de vías). Cuadra con la semana 10: 7 728 394 registros y 1 504 047 con Severity ≥ 3 (19.46 %).
 
 ## Verificación
 
