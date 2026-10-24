@@ -22,7 +22,7 @@ window.ExplorerFilters = (() => {
   function drawClock() {
     group.selectAll("path").classed("selected",d => hours.has(d)).attr("aria-pressed",d => String(hours.has(d)));
     digital.text(`${hours.size} / 24`);
-    $("hourSummary").textContent = `◷ Horas · ${hours.size === 24 ? "Todas" : hours.size ? `${hours.size} seleccionadas` : "Ninguna"}`;
+    $("hourSummary").textContent = `Horas: ${hours.size === 24 ? "todas" : hours.size ? `${hours.size} de 24` : "ninguna"}`;
     $("hourDescription").textContent = hours.size === 24 ? "Todas las horas. Se usan las horas registradas en el dataset." : hours.size ? [...hours].sort((a,b) => a-b).map(h => `${String(h).padStart(2,"0")}:00–${String(h).padStart(2,"0")}:59`).join(" · ") : "Sin horas seleccionadas: no se mostrarán accidentes.";
   }
   function toggleHour(hour) {
@@ -73,7 +73,7 @@ window.ExplorerFilters = (() => {
     $("lassoOverlay").classList.toggle("active",armed);
     if (armed) $("tooltip").style.opacity = 0;
     $("lassoBtn").setAttribute("aria-pressed",String(armed));
-    $("lassoBtn").textContent = armed ? "Cancelar lazo (Esc)" : "Seleccionar con lazo";
+    $("lassoBtn").textContent = armed ? "Cancelar lazo (Esc)" : `Lazo (máx. ${LIMIT} km)`;
     for (const handler of ["dragPan","scrollZoom","doubleClickZoom","touchZoomRotate","keyboard","boxZoom"]) map?.[handler][context && !armed ? "enable" : "disable"]();
     $("lassoStatus").textContent = armed ? `Arrastra para rodear los accidentes; el lazo no se aleja más de ${LIMIT} km del punto inicial (círculo punteado). Suelta para seleccionar; Esc cancela.` : polygon.length ? `Lazo aplicado (máximo ${LIMIT} km). Puedes seguir usando el zoom; Limpiar lazo recupera los demás puntos.` : "";
     drawLasso();
