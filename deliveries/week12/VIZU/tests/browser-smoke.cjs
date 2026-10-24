@@ -38,11 +38,13 @@ const wait = ms => new Promise(r => setTimeout(r, ms));
   const usaKpis = await kpis();
   console.log("USA", usaKpis);
   check(usaKpis[0] === "7,728,394" && usaKpis[2] === "1.00×", "Los totales nacionales no cuadran");
-  const inverted = await page.evaluate(() => statesGeo.features.filter(f => d3.geoArea(f) > 2 * Math.PI).length);
-  check(inverted === 0, `${inverted} estados con los anillos invertidos`);
-  const painted = await page.evaluate(() => [...document.querySelectorAll("#geoMap .area")].filter(p => p.getAttribute("fill") !== "url(#fewData)").length);
-  console.log("estados con índice:", painted);
-  check(painted >= 45, "El mapa nacional pinta muy pocos estados");
+  const painted = await page.evaluate(() => {
+    const layer = overlay._deck?.props.layers.find(l => l.id === "states");
+    const stats = DataCore.byAreaIndex(usa.areas, S.range, S.source, rates);
+    return {features: layer ? layer.props.data.length : 0, withIndex: [...stats.values()].filter(c => c.e >= MIN_E).length};
+  });
+  console.log("mapa nacional:", painted);
+  check(painted.features >= 49 && painted.withIndex >= 45, "El mapa nacional no tiene los estados con índice");
   await shot("01-usa");
 
   await page.locator("#contextChart").scrollIntoViewIfNeeded();
@@ -129,12 +131,18 @@ const wait = ms => new Promise(r => setTimeout(r, ms));
   check(inView.split(" de ")[0] === inView.split(" de ")[1], "La vista de la ciudad no muestra todos sus accidentes");
   await shot("05-elizabethtown");
 
+  await page.selectOption("#stateSelect", "SC");
+  await settle();
+  await page.click("#pinA");
+  await page.selectOption("#stateSelect", "OH");
+  await settle();
+  await page.click("#pinB");
   await page.evaluate(() => navigate("usa"));
   await settle();
-  await page.click("#stories button:nth-of-type(3)");
-  await settle();
   await wait(1500);
-  console.log("recorrido 3:", await page.textContent("#pinSummary"));
+  const pins = await page.textContent("#pinSummary");
+  console.log("A/B:", pins);
+  check(pins.includes("0.54×") && pins.includes("1.22×"), "Carolina del Sur y Ohio no dan 0.54× y 1.22×");
   await shot("06-sc-oh");
 
   console.log(problems.length ? `PROBLEMAS (${problems.length}):\n${[...new Set(problems)].join("\n")}` : "Sin errores de consola ni de red.");

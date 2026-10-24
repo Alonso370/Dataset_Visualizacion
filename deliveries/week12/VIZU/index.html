@@ -5,19 +5,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>VIZU · Accidentes de mayor impacto en EE. UU.</title>
   <link href="https://api.mapbox.com/mapbox-gl-js/v3.10.0/mapbox-gl.css" rel="stylesheet" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Overpass:wght@500;600;700&family=Public+Sans:wght@400;500;600&display=swap" />
   <link rel="stylesheet" href="css/style.css" />
 </head>
 <body>
   <header class="top">
-    <div class="intro">
-      <p class="kicker">VIZU · US Accidents 2016–2023 · 7,7 millones de reportes</p>
-      <h1>¿Dónde y cuándo hay más accidentes de mayor impacto de lo que se esperaría?</h1>
-      <p class="lede">Tres proveedores reportan los accidentes y no etiquetan la severidad igual: uno marca como “mayor impacto” (Severity ≥ 3) al 8 % y otro al 34 %. Por eso el mapa no muestra porcentajes brutos, sino cuánto se aparta cada lugar de lo esperado según quién lo reporta y en qué año.</p>
-    </div>
-    <div class="findings">
-      <span>Empieza por un hallazgo</span>
-      <div id="stories"></div>
-      <p id="storyText" class="note" aria-live="polite"></p>
+    <div>
+      <p class="kicker">VIZU</p>
+      <h1>Accidentes de mayor impacto en Estados Unidos</h1>
     </div>
     <button id="aboutBtn" type="button" class="quiet">Cómo leer</button>
   </header>
@@ -39,7 +36,6 @@
         <span>Periodo</span>
         <strong id="periodLabel">—</strong>
         <button id="fullPeriod" type="button" class="quiet">Todo el periodo</button>
-        <p class="note">Se elige arrastrando sobre las barras de abajo.</p>
       </div>
 
       <div class="field compare">
@@ -79,18 +75,16 @@
         </details>
         <label class="check"><input id="onlyHigh" type="checkbox" /> Solo Severity ≥ 3</label>
       </div>
-      <div id="mapStage" class="geo">
-        <svg id="geoMap" role="img" aria-label="Mapa de Estados Unidos coloreado por índice ajustado"></svg>
-        <div id="map" class="hidden"></div>
+      <div id="mapStage">
+        <div id="map"></div>
         <svg id="lassoOverlay" aria-hidden="true"><path id="lassoLimit"></path><path id="lassoPath"></path></svg>
         <div id="mapTable" class="map-table hidden"></div>
       </div>
       <div class="map-foot">
         <div id="legendBlock">
           <svg id="mapLegend" aria-label="Leyenda del índice"></svg>
-          <p class="note">Índice = accidentes Severity ≥ 3 observados ÷ esperados según la fuente y el año. 1× es lo esperado.</p>
         </div>
-        <p id="pointLegend" class="note hidden"><span class="dot high"></span>Severity ≥ 3 <span class="dot low"></span>Severity 1–2 · muestra de hasta 2 500 reportes</p>
+        <p id="pointLegend" class="note hidden"><span class="dot high"></span>Severity ≥ 3 <span class="dot low"></span>Severity 1–2</p>
         <button id="tableBtn" type="button" class="quiet" aria-pressed="false">Ver como tabla</button>
       </div>
       <p id="lassoStatus" class="note lasso-status" aria-live="polite"></p>
@@ -104,7 +98,7 @@
 
     <section class="context-card" aria-label="Periodo">
       <div class="context-head">
-        <h3>Periodo · arrastra para elegir meses</h3>
+        <h3>Periodo <span class="hint">arrastra para elegir meses</span></h3>
         <div id="sourceLegend" class="legend"></div>
       </div>
       <svg id="contextChart" role="img" aria-label="Accidentes con Severity mayor o igual a 3 por mes y fuente"></svg>
@@ -118,13 +112,12 @@
 
       <section id="citiesBlock" class="block hidden">
         <h3 id="citiesTitle">Ciudades</h3>
-        <p class="note">Accidentes en el periodo e índice. Clic para ver sus accidentes en el mapa.</p>
         <div id="cityList" class="city-list"></div>
       </section>
 
       <section class="block">
         <h3>¿A qué hora y qué día?</h3>
-        <p id="heatHelp" class="note">Promedio de accidentes Severity ≥ 3 por día.</p>
+        <p id="heatHelp" class="note">accidentes Severity ≥ 3 por día</p>
         <svg id="heatChart" role="img" aria-label="Accidentes por día de la semana y hora"></svg>
         <svg id="heatChartB" class="hidden" role="img" aria-label="Accidentes por día de la semana y hora del área B"></svg>
         <p id="heatNote" class="note"></p>
@@ -132,14 +125,14 @@
 
       <section class="block">
         <h3>¿En qué punto de la vía?</h3>
-        <p id="infraHelp" class="note">Índice de los accidentes que ocurrieron junto a cada elemento, por fuente. 1× es lo esperado.</p>
+        <p id="infraHelp" class="note">índice por fuente · 1× = lo esperado</p>
         <div id="infraKey" class="key"></div>
         <svg id="infraChart" role="img" aria-label="Índice según infraestructura vial"></svg>
       </section>
 
       <section class="block">
         <h3>¿Con qué clima?</h3>
-        <p id="weatherHelp" class="note">Índice según la condición registrada al momento del accidente.</p>
+        <p id="weatherHelp" class="note">índice por fuente · 1× = lo esperado</p>
         <div id="weatherKey" class="key"></div>
         <svg id="weatherChart" role="img" aria-label="Índice según el clima"></svg>
       </section>
@@ -153,24 +146,16 @@
     <p><strong>El problema de las fuentes.</strong> Los datos vienen de tres proveedores. Source2 marca como Severity ≥ 3 al 34 % de sus reportes; Source1, al 8 %, y Source1 además cambió de criterio entre 2019 y 2021 (de 33 % a 2 %). Un porcentaje bruto premia o castiga a cada lugar según quién lo reporta.</p>
     <p><strong>El índice.</strong> Para cada área se calcula cuántos accidentes Severity ≥ 3 tendría si cada fuente la etiquetara como lo hace en promedio en todo el país ese año. Índice = observados ÷ esperados. 1× es lo esperado; 1,5× es un 50 % más; 0,5× es la mitad. Es una comparación relativa entre lugares, no un riesgo: el dataset no mide cuánto se maneja en cada lugar.</p>
     <ol>
-      <li><strong>Mapa:</strong> en el país y en cada estado, proyección Albers de área igual, como pide un mapa temático. Al entrar a un condado se pasa a un mapa de calles con los reportes como puntos.</li>
+      <li><strong>Mapa:</strong> en el país y en cada estado, el color es el índice (más oscuro = más por encima de lo esperado; gris = pocos datos). Desde el condado se ven los reportes como puntos.</li>
       <li><strong>Periodo:</strong> arrastra sobre las barras de abajo; todo se recalcula mientras arrastras.</li>
       <li><strong>Perfil:</strong> hora y día, punto de la vía y clima del área elegida. Si no hay suficientes casos, la vista lo dice en vez de dibujar ruido.</li>
       <li><strong>Comparar:</strong> fija dos estados o condados como A y B; el perfil y la línea de tiempo los superponen.</li>
     </ol>
     <p><strong>Datos.</strong> US Accidents (2016–2023), S. Moosavi, Kaggle, CC BY-NC-SA 4.0.</p>
     <p><strong>Inspiración.</strong> Layout y brush temporal: TripVista (Guo et al., 2011). Contexto + detalle y comparación superpuesta: JamVis (Rodriguez, Ferreira y Poco, 2022). Día × hora y valores normalizados por condición: Fan et al. (2015). Indicadores en una sola pantalla: Sunkpho y Wipulanusat (2020).</p>
-    <p><strong>Librerías.</strong> D3.js v7 (mapa temático y gráficos), Mapbox GL JS v3 y deck.gl v9 (mapa de calles). Límites: GeoJSON públicos de folium y plotly.</p>
+    <p><strong>Librerías.</strong> D3.js v7 (gráficos y escalas), Mapbox GL JS v3 y deck.gl v9 (mapa). Límites: GeoJSON públicos de folium y plotly.</p>
   </dialog>
 
-  <svg class="defs" aria-hidden="true" focusable="false">
-    <defs>
-      <pattern id="fewData" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
-        <rect width="6" height="6" fill="#fcfcfb"></rect>
-        <line x1="0" y1="0" x2="0" y2="6" stroke="#d9d8d1" stroke-width="1.5"></line>
-      </pattern>
-    </defs>
-  </svg>
   <div id="error" class="error hidden" role="alert"></div>
   <div id="loading" class="loading hidden">Cargando…</div>
   <div id="tooltip" class="tooltip" role="status"></div>
@@ -184,7 +169,6 @@
   <script src="js/data-core.js"></script>
   <script src="js/filters.js"></script>
   <script src="js/charts.js"></script>
-  <script src="js/geomap.js"></script>
   <script src="js/timeline.js"></script>
   <script src="js/app.js"></script>
 </body>

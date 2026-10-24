@@ -102,18 +102,6 @@ function scopeTable() {
   return scope.T;
 }
 
-function rewind(features) {
-  for (const f of features) {
-    const polygons = f.geometry.type === "Polygon" ? [f.geometry.coordinates] : f.geometry.coordinates;
-    for (const polygon of polygons) {
-      if (d3.geoArea({type: "Polygon", coordinates: polygon}) > 2 * Math.PI) {
-        for (const ring of polygon) ring.reverse();
-      }
-    }
-  }
-  return features;
-}
-
 function countyFeature(name) {
   return stateCounties.find(f => normCounty(f.properties.NAME) === normCounty(name));
 }
@@ -124,9 +112,8 @@ function countyOf(feature) {
 
 function ensureMapbox() {
   if (mapReady) return mapReady;
-  $("map").classList.remove("hidden");
   mapboxgl.accessToken = CONFIG.MAPBOX_TOKEN;
-  map = new mapboxgl.Map({container: "map", style: "mapbox://styles/mapbox/light-v11", center: [-98.5, 39.5], zoom: 4, minZoom: 3});
+  map = new mapboxgl.Map({container: "map", style: "mapbox://styles/mapbox/light-v11", center: [-98.5, 39.5], zoom: 3.3, minZoom: 2.5});
   map.addControl(new mapboxgl.NavigationControl({showCompass: false}), "top-right");
   map.on("error", event => showError(new Error(`Mapbox: ${event.error?.message || "no se pudo cargar el mapa"}`)));
   mapReady = new Promise(resolve => map.once("load", () => {
@@ -138,28 +125,18 @@ function ensureMapbox() {
   return mapReady;
 }
 
-function useGeoMap() {
-  $("mapStage").classList.add("geo");
-  $("geoMap").classList.remove("hidden");
-  $("map").classList.add("hidden");
-  $("mapTools").classList.add("hidden");
-  $("legendBlock").classList.remove("hidden");
-  $("pointLegend").classList.add("hidden");
-  window.ExplorerFilters.setContext(false);
+function setMapMode() {
+  const street = isStreet();
+  $("mapTools").classList.toggle("hidden", !street);
+  $("legendBlock").classList.toggle("hidden", street);
+  $("pointLegend").classList.toggle("hidden", !street);
+  window.ExplorerFilters.setContext(street);
+  map.scrollZoom[street ? "enable" : "disable"]();
 }
 
-function useStreetMap() {
-  const wasHidden = $("geoMap").classList.contains("hidden") === false;
-  $("mapStage").classList.remove("geo");
-  $("geoMap").classList.add("hidden");
-  $("map").classList.remove("hidden");
-  $("mapTools").classList.remove("hidden");
-  $("legendBlock").classList.add("hidden");
-  $("pointLegend").classList.remove("hidden");
-  map.resize();
-  window.ExplorerFilters.setContext(true);
-  for (const handler of MAP_HANDLERS) map[handler].enable();
-  return wasHidden;
+function rgb(hex, alpha = 255) {
+  const c = d3.color(hex);
+  return [c.r, c.g, c.b, alpha];
 }
 
 function pinFor(kind, id) {
@@ -170,11 +147,17 @@ function pinFor(kind, id) {
   return null;
 }
 
-function areaTip(event, name, cell) {
-  if (!event) {
+function eventAt(info) {
+  const rect = $("map").getBoundingClientRect();
+  return {clientX: rect.left + info.x, clientY: rect.top + info.y};
+}
+
+function areaTip(info, name, cell) {
+  if (!info.object) {
     VizCharts.hideTip();
     return;
   }
+  const event = eventAt(info);
   if (!cell) {
     VizCharts.tip(event, [name, "Sin accidentes en este periodo y fuente"]);
     return;
@@ -184,51 +167,74 @@ function areaTip(event, name, cell) {
     index,
     name,
     `${int(cell.t)} accidentes · ${int(cell.h)} con Severity ≥ 3 (${pct(cell.rate)})`,
-    `Se esperaban ${int(cell.e)} según la fuente y el año`,
-    "Clic para entrar"
+    `Se esperaban ${int(cell.e)} según la fuente y el año`
   ]);
 }
 
-function renderGeoMap() {
-  const color = cell => VizCharts.indexColor(cell, MIN_E);
+function choropleth({id, features, statOf, nameOf, onClick, pinOf}) {
+  const fill = f => rgb(VizCharts.indexColor(statOf(f), MIN_E), 215);
+  const areas = new deck.GeoJsonLayer({
+    id,
+    data: features,
+    pickable: true,
+    filled: true,
+    stroked: true,
+    getFillColor: fill,
+    getLineColor: [252, 252, 251, 255],
+    lineWidthMinPixels: 0.8,
+    autoHighlight: true,
+    highlightColor: [11, 11, 11, 40],
+    updateTriggers: {getFillColor: [S.range.join(), S.source]},
+    onHover: info => areaTip(info, info.object ? nameOf(info.object) : "", info.object ? statOf(info.object) : null),
+    onClick: info => { if (info.object) onClick(info.object); }
+  });
+  const pinned = features.map(f => ({f, key: pinOf(f)})).filter(d => d.key);
+  const pins = new deck.GeoJsonLayer({
+    id: `${id}-pins-${pinned.map(d => d.key + d.f.id).join("")}`,
+    data: pinned.map(d => ({...d.f, properties: {...d.f.properties, pin: d.key}})),
+    filled: false,
+    stroked: true,
+    getLineColor: f => rgb(VizCharts.AB_COLORS[f.properties.pin]),
+    lineWidthMinPixels: 3
+  });
+  return [areas, pins];
+}
+
+function areaLayers() {
   if (S.level === "usa") {
     const stats = DataCore.byAreaIndex(usa.areas, S.range, S.source, rates);
-    const states = statesGeo.features.filter(f => FIPS[f.id]);
-    GeoMap.draw({
-      key: "usa",
-      context: [],
-      areas: states,
-      focus: states,
+    return choropleth({
+      id: "states",
+      features: statesGeo.features.filter(f => FIPS[f.id]),
       statOf: f => stats.get(f.id),
-      colorOf: color,
-      pins: f => pinFor("state", f.id),
+      nameOf: f => f.properties.name,
       onClick: f => navigate("state", {state: f.id}),
-      onHover: (event, f) => {
-        GeoMap.highlight(f);
-        areaTip(event, f ? f.properties.name : "", f ? stats.get(f.id) : null);
-      }
+      pinOf: f => pinFor("state", f.id)
     });
-    return;
   }
   const stats = DataCore.byAreaIndex(scope.areas, S.range, S.source, rates);
   const stateFeature = statesGeo.features.find(f => f.id === S.state);
-  GeoMap.draw({
-    key: `state-${S.state}`,
-    context: statesGeo.features.filter(f => f.id !== S.state && FIPS[f.id]),
-    areas: stateCounties,
-    focus: [stateFeature],
-    statOf: f => stats.get(countyOf(f)?.slug),
-    colorOf: color,
-    pins: f => pinFor("county", countyOf(f)?.slug),
-    onClick: f => {
-      const county = countyOf(f);
-      if (county) navigate("county", {county: county.County, countySlug: county.slug});
-    },
-    onHover: (event, f) => {
-      GeoMap.highlight(f);
-      areaTip(event, f ? `${f.properties.NAME}, ${S.state}` : "", f ? stats.get(countyOf(f)?.slug) : null);
-    }
-  });
+  return [
+    ...choropleth({
+      id: `counties-${S.state}`,
+      features: stateCounties,
+      statOf: f => stats.get(countyOf(f)?.slug),
+      nameOf: f => `${f.properties.NAME}, ${stateName(S.state)}`,
+      onClick: f => {
+        const county = countyOf(f);
+        if (county) navigate("county", {county: county.County, countySlug: county.slug});
+      },
+      pinOf: f => pinFor("county", countyOf(f)?.slug)
+    }),
+    new deck.GeoJsonLayer({
+      id: `state-outline-${S.state}`,
+      data: stateFeature ? [stateFeature] : [],
+      filled: false,
+      stroked: true,
+      getLineColor: [82, 81, 78, 255],
+      lineWidthMinPixels: 1.5
+    })
+  ];
 }
 
 function filterRows() {
@@ -298,7 +304,7 @@ function renderStreetMap(visible) {
       stroked: true,
       lineWidthMinPixels: 1,
       getLineColor: [252, 252, 251, 255],
-      getFillColor: d => faded(d) ? [11, 11, 11, 40] : [11, 11, 11, 230],
+      getFillColor: d => faded(d) ? [217, 86, 31, 50] : [217, 86, 31, 235],
       updateTriggers: {getFillColor: [focusCity]},
       onHover: pointTip
     })
@@ -354,7 +360,7 @@ function renderTimeBySource(T) {
   }
   series = series.filter(x => x.values.filter(v => v !== null).length >= 3);
   if (!series.length) {
-    timeMessage(`${areaName()} tiene muy pocos accidentes en este periodo para ver cómo cambian en el tiempo, ni siquiera agrupando por año. Los totales están arriba, en los indicadores.`);
+    timeMessage(`Muy pocos accidentes en ${areaName()} para ver su evolución.`);
     return;
   }
 
@@ -366,8 +372,7 @@ function renderTimeBySource(T) {
   }
   VizCharts.lineChart("#focusChart", {labels, series: lines, height, yFormat: d3.format(".0%"), annotation});
   $("timeTitle").textContent = "¿Cuándo? Proporción con Severity ≥ 3, por fuente";
-  $("focusNote").textContent = `Cada fuente comparada consigo misma, por ${grain}.`
-    + (grain === "año" ? " Hay pocos accidentes por mes, así que se agrupa por año." : " Se omiten los meses con menos de 50 accidentes de una fuente.");
+  $("focusNote").textContent = grain === "año" ? "Por año: hay pocos accidentes por mes." : "";
 }
 
 async function pinData(pin) {
@@ -385,15 +390,15 @@ function renderTimeCompare(A, B) {
   VizCharts.lineChart("#focusChart", {
     labels: years.map(y => String(2016 + y)),
     series: [
-      {label: `A · ${S.pins.A.label}`, color: "#0b0b0b", values: yearly(A)},
-      {label: `B · ${S.pins.B.label}`, color: "#0b0b0b", className: "dashed", values: yearly(B)}
+      {label: "A", color: VizCharts.AB_COLORS.A, values: yearly(A)},
+      {label: "B", color: VizCharts.AB_COLORS.B, values: yearly(B)}
     ],
     height,
     yFormat: v => times(v),
     reference: 1
   });
   $("timeTitle").textContent = "¿Cuándo? Índice por año, A frente a B";
-  $("focusNote").textContent = "1× es lo esperado según la fuente y el año; la mezcla de fuentes ya está descontada.";
+  $("focusNote").textContent = "";
 }
 
 function keyHtml(target, items) {
@@ -417,7 +422,7 @@ function renderProfileExact(P, title, note) {
   $("profileNote").textContent = note;
   $("heatChartB").classList.add("hidden");
   const heat = VizCharts.heat("#heatChart", {cells: DataCore.heat(P.H, S.range, S.source), divisor: DataCore.weekdayDays(S.range), hours: window.ExplorerFilters.getHours()});
-  $("heatHelp").textContent = "Promedio de accidentes Severity ≥ 3 por día. Se divide por la cantidad de lunes, martes… del periodo.";
+  $("heatHelp").textContent = "accidentes Severity ≥ 3 por día";
   $("heatNote").textContent = heat.note;
 
   const sources = profileSources(P);
@@ -440,16 +445,17 @@ function renderProfileExact(P, title, note) {
   const key = sources.length > 1 ? sources.map(s => [`src-${s}`, meta.sources[s]]) : [];
   keyHtml("infraKey", key);
   keyHtml("weatherKey", key);
-  $("weatherHelp").textContent = "Índice según la condición registrada al momento del accidente, por fuente.";
+  $("weatherHelp").textContent = "índice por fuente · 1× = lo esperado";
+  $("infraHelp").textContent = "índice por fuente · 1× = lo esperado";
 }
 
 function renderProfileSample(rows) {
   $("profileTitle").textContent = `Perfil del lazo en ${areaName()}`;
-  $("profileNote").textContent = `Calculado con los ${int(rows.length)} reportes de la muestra que caen dentro del lazo.`;
+  $("profileNote").textContent = `${int(rows.length)} reportes de la muestra dentro del lazo`;
   $("heatChartB").classList.add("hidden");
   const sampled = DataCore.heatRows(rows);
   const heat = VizCharts.heat("#heatChart", {cells: sampled.cells, divisor: null, hours: window.ExplorerFilters.getHours()});
-  $("heatHelp").textContent = "Accidentes Severity ≥ 3 de la muestra dentro del lazo, sin normalizar.";
+  $("heatHelp").textContent = "accidentes Severity ≥ 3 dentro del lazo";
   $("heatNote").textContent = heat.note;
 
   const sources = sourceList().filter(s => rows.filter(r => r.Source === meta.sources[s]).length >= 30);
@@ -470,13 +476,13 @@ function renderProfileSample(rows) {
 
 function renderProfileCompare(A, B) {
   $("profileTitle").textContent = "Perfil: A frente a B";
-  $("profileNote").textContent = `A = ${S.pins.A.label} · B = ${S.pins.B.label}. Mismo periodo y fuente.`;
+  $("profileNote").textContent = `A = ${S.pins.A.label} · B = ${S.pins.B.label}`;
   const hours = window.ExplorerFilters.getHours();
   const divisor = DataCore.weekdayDays(S.range);
   $("heatChartB").classList.remove("hidden");
-  const heatA = VizCharts.heat("#heatChart", {cells: DataCore.heat(A.H, S.range, S.source), divisor, hours, label: `A · ${S.pins.A.label}`});
-  const heatB = VizCharts.heat("#heatChartB", {cells: DataCore.heat(B.H, S.range, S.source), divisor, hours, label: `B · ${S.pins.B.label}`});
-  $("heatHelp").textContent = "Promedio de accidentes Severity ≥ 3 por día; cada panel tiene su propia escala.";
+  const heatA = VizCharts.heat("#heatChart", {cells: DataCore.heat(A.H, S.range, S.source), divisor, hours, label: `A  ${S.pins.A.label}`});
+  const heatB = VizCharts.heat("#heatChartB", {cells: DataCore.heat(B.H, S.range, S.source), divisor, hours, label: `B  ${S.pins.B.label}`});
+  $("heatHelp").textContent = "accidentes Severity ≥ 3 por día · cada panel con su escala";
   $("heatNote").textContent = [heatA.note && `A: ${heatA.note}`, heatB.note && `B: ${heatB.note}`].filter(Boolean).join(" ");
 
   const infraA = DataCore.infraIndex(A.I, A.T, S.range, S.source, rates, meta.flags.length);
@@ -497,12 +503,12 @@ function renderProfileCompare(A, B) {
       points: [{name: "A", cls: "pin-a", cell: weatherA[w]}, {name: "B", cls: "pin-b", cell: weatherB[w]}]
     }))
   });
-  const key = [["pin-a", `A · ${S.pins.A.label}`], ["pin-b", `B · ${S.pins.B.label}`]];
+  const key = [["pin-a", `A  ${S.pins.A.label}`], ["pin-b", `B  ${S.pins.B.label}`]];
   keyHtml("infraKey", key);
   keyHtml("weatherKey", key);
-  $("weatherHelp").textContent = S.source < 0
-    ? "Índice con las fuentes combinadas. Si quieres ver si las fuentes coinciden, elige una a la izquierda."
-    : `Índice dentro de ${meta.sources[S.source]}.`;
+  const scopeText = S.source < 0 ? "fuentes combinadas" : meta.sources[S.source];
+  $("weatherHelp").textContent = `índice · ${scopeText}`;
+  $("infraHelp").textContent = `índice · ${scopeText}`;
 }
 
 function renderCities() {
@@ -594,7 +600,7 @@ async function render() {
     rows = filterRows();
     renderStreetMap(rows.visible);
   } else {
-    renderGeoMap();
+    overlay.setProps({layers: areaLayers()});
   }
   renderCities();
   renderTable();
@@ -610,7 +616,7 @@ async function render() {
       renderProfileSample(rows.lasso);
     } else if (S.level === "city") {
       const total = DataCore.total(T, S.range, S.source);
-      renderProfileExact(scope, `Perfil de ${S.county}`, `${S.city} tiene ${int(total.t)} accidentes en el periodo. Por ciudad solo hay totales, así que el perfil muestra el condado como contexto.`);
+      renderProfileExact(scope, `Perfil de ${S.county}`, `${S.city}: ${int(total.t)} accidentes. Por ciudad solo hay totales; el perfil es del condado.`);
     } else {
       renderProfileExact(scope, `Perfil de ${areaName()}`, `${sourceList().length > 1 ? "Las tres fuentes" : meta.sources[S.source]} · ${periodName(S.range)}`);
     }
@@ -688,7 +694,6 @@ async function loadStateBasics(signal) {
     countiesGeo || json(COUNTIES_GEOJSON, signal),
     json(`${DATA_ROOT}/states/${S.state}/counties_summary.json`, signal)
   ]);
-  if (!countiesGeo) rewind(geo.features);
   countiesGeo = geo;
   countyNames = new Map(counties.map(row => [normCounty(row.County), {County: row.County, slug: row.county_slug}]));
   slugNames = new Map(counties.map(row => [row.county_slug, row.County]));
@@ -711,10 +716,20 @@ function featurePoints(feature) {
   return out;
 }
 
-function moveStreetCamera(animate) {
+function moveCamera() {
   const key = [S.level, S.state, S.county, S.city].join("/");
   if (key === cameraKey) return;
   cameraKey = key;
+  const animate = true;
+  if (S.level === "usa") {
+    map.flyTo({center: [-97, 38.5], zoom: 3.3, duration: 600});
+    return;
+  }
+  if (S.level === "state") {
+    const feature = statesGeo.features.find(f => f.id === S.state);
+    if (feature) fitBounds(featurePoints(feature), animate);
+    return;
+  }
   if (S.level === "city") {
     const coords = areaRows.filter(r => Number.isFinite(r.Start_Lng) && Number.isFinite(r.Start_Lat)).map(r => [r.Start_Lng, r.Start_Lat]);
     if (coords.length) {
@@ -739,13 +754,11 @@ async function load() {
     if (S.level === "usa") {
       scope = usa;
       areaRows = [];
-      useGeoMap();
     } else if (S.level === "state") {
       const [data] = await Promise.all([json(`${W12}/states/${S.state}.json`, signal), loadStateBasics(signal)]);
       if (version !== generation) return;
       scope = data;
       areaRows = [];
-      useGeoMap();
     } else {
       const sampleBase = `${EXPLORER_ROOT}/states/${S.state}/counties/${S.countySlug}`;
       const sample = S.level === "city" ? citySample(sampleBase, signal) : json(`${sampleBase}/sample.json`, signal);
@@ -753,16 +766,15 @@ async function load() {
         json(`${W12}/states/${S.state}/counties/${S.countySlug}.json`, signal),
         sample,
         loadStateBasics(signal),
-        loadMonthIndex(),
-        ensureMapbox()
+        loadMonthIndex()
       ]);
       const rows = await sampleWithTime(payload, sampleBase, signal);
       if (version !== generation) return;
       scope = data;
       areaRows = rows;
-      const justShown = useStreetMap();
-      moveStreetCamera(!justShown);
     }
+    setMapMode();
+    moveCamera();
     Timeline.context({T: scopeTable(), months: meta.months, sources: meta.sources, source: S.source, range: S.range});
     await render();
   } catch (error) {
@@ -774,7 +786,6 @@ async function load() {
 
 function setRange(range) {
   S.range = range;
-  markStory(-1);
   schedule();
 }
 
@@ -791,52 +802,6 @@ function pin(key) {
     ? {kind: "state", state: S.state, label: stateName(S.state)}
     : {kind: "county", state: S.state, slug: S.countySlug, label: `${S.county}, ${S.state}`};
   schedule();
-}
-
-const STORIES = [
-  {
-    title: "Source1 cambió de criterio: 33 % en 2018, 2 % en 2021",
-    text: "Mira la línea de tiempo: la proporción de Source1 se desploma entre 2019 y 2021 mientras Source2 se mantiene. Por eso el mapa usa el índice y no porcentajes brutos.",
-    apply: () => startStory({range: [24, 83]})
-  },
-  {
-    title: "Nieve y tormentas: unas 1.25 veces lo esperado, en las dos fuentes",
-    text: "Mira «¿Con qué clima?»: nieve o hielo y tormenta quedan entre 1.2× y 1.3× en Source1 y en Source2; la niebla, por debajo de 1×. En la vía, en cambio, las fuentes no coinciden: con semáforo Source1 da 1.10× y Source2 0.27×.",
-    apply: () => startStory({})
-  },
-  {
-    title: "Carolina del Sur frente a Ohio: misma mezcla de fuentes, 0.54× frente a 1.22×",
-    text: "Las dos tienen ~38 % de Source1 y ~60 % de Source2, y aun así quedan en lados opuestos de lo esperado. El perfil y la línea de tiempo superponen A y B.",
-    apply: () => startStory({pins: {A: {kind: "state", state: "SC", label: "Carolina del Sur"}, B: {kind: "state", state: "OH", label: "Ohio"}}})
-  }
-];
-
-function markStory(active) {
-  [...$("stories").children].forEach((button, i) => button.setAttribute("aria-pressed", String(i === active)));
-  $("storyText").textContent = active >= 0 ? STORIES[active].text : "";
-}
-
-function startStory({range, pins = {A: null, B: null}}) {
-  S.range = range || [0, meta.months.length - 1];
-  S.pins = pins;
-  S.source = -1;
-  $("sourceSelect").value = "ALL";
-  window.ExplorerFilters.reset();
-  navigate("usa");
-}
-
-function buildStories() {
-  const buttons = STORIES.map((story, i) => {
-    const button = document.createElement("button");
-    button.type = "button";
-    button.textContent = story.title;
-    button.addEventListener("click", () => {
-      story.apply();
-      markStory(i);
-    });
-    return button;
-  });
-  $("stories").replaceChildren(...buttons);
 }
 
 function bindControls() {
@@ -864,7 +829,6 @@ function bindControls() {
   $("pinB").addEventListener("click", () => pin("B"));
   $("clearPins").addEventListener("click", () => {
     S.pins = {A: null, B: null};
-    markStory(-1);
     schedule();
   });
   $("onlyHigh").addEventListener("change", event => {
@@ -881,7 +845,6 @@ function bindControls() {
     S.onlyHigh = false;
     $("onlyHigh").checked = false;
     window.ExplorerFilters.reset();
-    markStory(-1);
     setSource(-1);
   });
 }
@@ -892,8 +855,7 @@ async function boot() {
     if (!CONFIG.MAPBOX_TOKEN || CONFIG.MAPBOX_TOKEN.includes("PEGA_AQUI")) {
       throw new Error("Configura un token público de Mapbox en js/config.js.");
     }
-    [usa, statesGeo] = await Promise.all([json(`${W12}/usa.json`), json(STATES_GEOJSON)]);
-    rewind(statesGeo.features);
+    [usa, statesGeo] = await Promise.all([json(`${W12}/usa.json`), json(STATES_GEOJSON), ensureMapbox()]);
     meta = usa.meta;
     rates = DataCore.nationalRates(usa.T, meta.sources.length);
     S.range = [0, meta.months.length - 1];
@@ -901,10 +863,9 @@ async function boot() {
     VizCharts.legend("#mapLegend");
     Timeline.init(setRange);
     bindControls();
-    buildStories();
 
     new ResizeObserver(() => {
-      if (map && isStreet()) map.resize();
+      if (map) map.resize();
       cancelAnimationFrame(frame);
       frame = requestAnimationFrame(() => {
         if (!scope) return;

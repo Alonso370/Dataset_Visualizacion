@@ -32,7 +32,7 @@ Por eso el mapa y el perfil muestran un **índice ajustado**:
 - **1.5×** es un 50 % más;
 - **0.5×** es la mitad.
 
-Es una estandarización indirecta. Se recalcula para cualquier periodo, porque los datos son mensuales. Si un área tiene menos de 30 accidentes esperados, se marca como "pocos datos", con un rayado.
+Es una estandarización indirecta. Se recalcula para cualquier periodo, porque los datos son mensuales. Si un área tiene menos de 30 accidentes esperados, queda en gris, como "pocos datos".
 
 **Por qué importa, con un ejemplo de los datos:**
 - **Arkansas** tiene un 15 % bruto y queda en el puesto 37. Pero lo reporta casi solo Source1, la fuente estricta: con el índice da **2.26×** y sube al puesto 2.
@@ -40,10 +40,9 @@ Es una estandarización indirecta. Se recalcula para cualquier periodo, porque l
 
 ## Qué muestra cada parte
 
-- **Mapa temático (país y estado):** coroplético del índice, hecho en D3 con proyección **Albers de área igual**. La clase de datos geoespaciales lo pide para mapas temáticos.
-  - Escala divergente de 7 clases: azul por debajo de 1×, gris neutro alrededor de 1× y rojo por encima.
-  - Al entrar a un estado, sus condados se colorean igual y los demás estados quedan como contexto en gris.
-- **Mapa de calles (condado y ciudad):** Mapbox + deck.gl con los reportes de la muestra como puntos: Severity ≥ 3 en negro y el resto en gris. Herramientas sobre el mapa:
+- **Mapa (Mapbox + deck.gl en todos los niveles):**
+  - **País y estado:** coroplético del índice en una gama de **un solo tono** (naranja, 7 clases de claro a oscuro). La clase del centro, marcada en la leyenda, es lo esperado (0.95–1.05×).
+  - **Condado y ciudad:** los reportes de la muestra como puntos: Severity ≥ 3 en naranja y el resto en gris. Herramientas sobre el mapa:
   - lazo de 5 km;
   - reloj de 24 h;
   - "Solo Severity ≥ 3".
@@ -54,10 +53,10 @@ Es una estandarización indirecta. Se recalcula para cualquier periodo, porque l
 - **Perfil del área:**
   - **¿A qué hora y qué día?:** promedio diario de accidentes Severity ≥ 3 en 7 × 24. Con menos de 300 casos se agrupa en laborables / fin de semana y franjas de 4 horas.
   - **¿En qué punto de la vía?** y **¿Con qué clima?:** índice por elemento y por condición, **con un punto por fuente**, para ver si las fuentes coinciden.
-- **Recorridos guiados:** tres hallazgos en la cabecera que llevan la aplicación al estado que los muestra.
 - **Accesibilidad:**
   - "Ver como tabla" junto al mapa;
-  - paleta de fuentes validada contra daltonismo con el validador de la skill de visualización (violeta `#6250d6`, verde `#199e70`);
+  - colores validados contra daltonismo con el validador de la skill de visualización: fuentes en violeta `#6250d6` y verde `#199e70`; A y B en azul `#2a78d6` y magenta `#d55181`;
+  - tipografía Overpass (inspirada en la de las señales de carretera de EE. UU.) para títulos y cifras, y Public Sans para el texto;
   - etiquetas directas en las líneas;
   - el diseño se adapta a una columna en pantallas angostas.
 
@@ -92,7 +91,6 @@ deliveries/week12/
     │   ├── data-core.js     agregaciones e índice ajustado (funciones puras)
     │   ├── filter-core.js   reloj, lazo y su tope de 5 km
     │   ├── filters.js       interacción del reloj y del lazo
-    │   ├── geomap.js        mapa temático en D3 (Albers)
     │   ├── timeline.js      brush de periodo
     │   ├── charts.js        perfil, líneas, ciudades, leyendas y tabla
     │   └── app.js           estado, navegación y coordinación de vistas
@@ -151,7 +149,7 @@ La prueba de navegador recorre país → California → Los Ángeles → Pasaden
 - **El índice es relativo al promedio nacional de cada fuente y año.** No es un riesgo: el dataset no mide la exposición al tráfico.
 - **Los puntos del mapa de calles y el perfil con lazo usan una muestra** de hasta 2 500 reportes, y la vista lo indica. La muestra no trae la condición del clima.
 - **Por ciudad solo hay totales mensuales.** En el nivel ciudad, el perfil usa el condado como contexto y lo dice.
-- **El mapa de calles sigue en Mercator**, que Mapbox necesita para la navegación a escala de calle. Los mapas temáticos (país y estado) ya usan Albers.
+- **El mapa está en Mercator**, la proyección de Mapbox, también en el coroplético de país y estado. La clase de datos geoespaciales recomienda área igual para mapas temáticos. El equipo prefirió un solo mapa continuo con navegación a escala de calle, y se declara como limitación.
 
 ## Datos e inspiración
 
