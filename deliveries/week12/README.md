@@ -8,7 +8,8 @@ La aplicación responde al feedback del design review del 14 de octubre. En la d
 - elegir el periodo con un brush y no por año;
 - agregar las vistas que faltaban (T4 y T5);
 - no cambiar una vista por otra;
-- que todo se actualice mientras se mueve el periodo.
+- que todo se actualice mientras se mueve el periodo;
+- limitar el lazo a 5 km a la redonda.
 
 | Pedido | Cómo queda |
 |---|---|
@@ -16,7 +17,7 @@ La aplicación responde al feedback del design review del 14 de octubre. En la d
 | Vistas de T4 y T5 | En la columna derecha, **“¿En qué punto de la vía?”** (T4). **T5:** fijar dos estados o condados como A y B; el mapa, la línea de tiempo y el perfil los superponen |
 | No cambiar una vista por otra | El mismo layout en todos los niveles (país, estado, condado, ciudad) |
 | Actualización en vivo | Mapa, indicadores, línea de tiempo, perfil y comparación se recalculan mientras se arrastra |
-| Lazo de 5 km (anotación del equipo en la revisión) | El lazo no se aleja más de 5 km de su punto inicial; al dibujarlo se ve el círculo límite |
+| Lazo de 5 km | El lazo no se aleja más de 5 km de su punto inicial; al dibujarlo se ve el círculo límite |
 
 ## La decisión central: un índice ajustado por fuente
 
@@ -41,9 +42,9 @@ Es una estandarización indirecta. Se recalcula para cualquier periodo, porque l
 ## Qué muestra cada parte
 
 - **Mapa (Mapbox + deck.gl en todos los niveles):**
-  - **País y estado:** coroplético del índice en una gama de **un solo tono** (naranja, 7 clases de claro a oscuro). La clase del centro, marcada en la leyenda, es lo esperado (0.95–1.05×).
-  - **Condado y ciudad: vías coloreadas como un mapa de tráfico** (inspirado en el *map view* de JamVis). Cada tramo de calle de Mapbox se pinta según los accidentes Severity ≥ 3 de los 7,7 M que caen en su celda de ~200 m. Más oscuro = más accidentes; los cortes son los percentiles 50, 80 y 95 del condado en el periodo. El grosor depende del tipo de vía. En cada celda, los accidentes se asignan a la vía de mayor jerarquía que la cruza, como un map-matching ligero, porque el dataset no trae la red vial.
-  - Opcionalmente, los reportes de la muestra como puntos: Severity ≥ 3 en naranja y el resto en gris. Herramientas sobre el mapa:
+  - **País y estado:** coroplético del índice en una gama continua de **un solo tono** (naranja, de 0.5× a 2×). Una marca en la leyenda señala 1×, lo esperado.
+  - **Condado y ciudad: vías coloreadas como un mapa de tráfico** (inspirado en el *map view* de JamVis). Cada tramo de calle de Mapbox se pinta según los accidentes Severity ≥ 3 de los 7,7 M que caen en su celda de ~200 m. Más oscuro = más accidentes. La intensidad se suaviza con las celdas vecinas (~600 m) para formar corredores continuos; la escala va de 0 al percentil 95 del condado en el periodo. El grosor depende del tipo de vía. En cada celda, los accidentes se asignan a la vía de mayor jerarquía que la cruza, como un map-matching ligero, porque el dataset no trae la red vial.
+  - Herramientas sobre el mapa:
   - lazo de 5 km;
   - reloj de 24 h;
   - "Solo Severity ≥ 3".
@@ -78,6 +79,17 @@ Es una estandarización indirecta. Se recalcula para cualquier periodo, porque l
 
    **Corrige lo que afirmaba la semana 6**, que "Junction sube en ambas fuentes". Esa subida en Source1 se explicaba sobre todo porque las intersecciones se concentraban en los años en que Source1 todavía marcaba alto.
 5. **Hora y día:** el pico nacional de accidentes Severity ≥ 3 es el viernes a las 16 h.
+
+## Componentes de la entrega
+
+| Componente | Archivo |
+|---|---|
+| Informe del borrador refinado | `RefinedDraftReport.pdf` |
+| Respuesta al feedback (response log) | `PeerCritiqueResponse.pdf` |
+| Presentación | `PresentationWeek12.pptx` |
+| Borrador del paper (fuente y PDF) | `paper/paper.tex`, `paper/references.bib`, `paper/paper.pdf` |
+| Página inicial del proyecto | `page/index.html` |
+| Código, datos procesados y scripts | `VIZU/` |
 
 ## Contenido
 
@@ -114,7 +126,7 @@ python3 deliveries/week12/VIZU/scripts/serve.py
 
 Abre `http://127.0.0.1:8000/deliveries/week12/VIZU/`. En Windows también funciona `run_server.bat`. Requiere internet para Mapbox, las bibliotecas por CDN y los límites geográficos.
 
-**Despliegue en GitHub Pages:** pendiente. Quedaría en `https://alonso370.github.io/Dataset_Visualizacion/deliveries/week12/VIZU/`, con el token de Mapbox restringido a ese dominio.
+**Despliegue en GitHub Pages:** https://alonso370.github.io/Dataset_Visualizacion/deliveries/week12/VIZU/
 
 ## Datos
 

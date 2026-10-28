@@ -29,11 +29,12 @@ window.VizCharts = (() => {
   const times = v => v === null || !Number.isFinite(v) ? "—" : `${v.toFixed(2)}×`;
   const hour = h => String(h).padStart(2, "0");
   const indexScale = d3.scaleThreshold(INDEX_THRESHOLDS, INDEX_COLORS);
+  const indexContinuous = d3.scaleLinear().domain([0.5, ...INDEX_THRESHOLDS, 2]).range(["#fdebdc", ...INDEX_COLORS, "#7f2a0a"]).clamp(true);
   const tooltip = $("tooltip");
 
   function indexColor(cell, minExpected) {
     if (!cell || cell.index === null || cell.e < minExpected) return FEW;
-    return indexScale(cell.index);
+    return indexContinuous(cell.index);
   }
 
   function tip(event, lines) {
@@ -264,18 +265,17 @@ window.VizCharts = (() => {
     const svg = d3.select(svgId);
     svg.selectAll("*").remove();
     size(svg, 46);
-    const w = 32;
+    const w = 260;
     const top = 16;
     svg.append("text").attr("class", "legend-title").attr("x", 0).attr("y", 10).text("Índice ajustado por fuente y año (1× = lo esperado)");
-    INDEX_COLORS.forEach((c, i) => {
-      svg.append("rect").attr("x", i * w).attr("y", top).attr("width", w - 2).attr("height", 10).attr("rx", 2).attr("fill", c);
-    });
-    INDEX_THRESHOLDS.forEach((t, i) => {
-      svg.append("text").attr("class", "tick-label").attr("x", (i + 1) * w - 1).attr("y", top + 24).attr("text-anchor", "middle").text(`${t}`);
-    });
-    svg.append("rect").attr("class", "expected-mark").attr("x", 3 * w - 0.5).attr("y", top - 1.5).attr("width", w - 1).attr("height", 13).attr("rx", 2);
-    const fx = INDEX_COLORS.length * w + 16;
-    svg.append("rect").attr("x", fx).attr("y", top).attr("width", w - 2).attr("height", 10).attr("rx", 2).attr("fill", FEW);
+    const defs = svg.append("defs");
+    const gradient = defs.append("linearGradient").attr("id", "index-gradient");
+    [0.5, ...INDEX_THRESHOLDS, 2].forEach(v => gradient.append("stop").attr("offset", `${(v - 0.5) / 1.5 * 100}%`).attr("stop-color", indexContinuous(v)));
+    svg.append("rect").attr("x", 0).attr("y", top).attr("width", w).attr("height", 10).attr("rx", 2).attr("fill", "url(#index-gradient)");
+    [0.5, 1, 1.5, 2].forEach(t => svg.append("text").attr("class", "tick-label").attr("x", (t - 0.5) / 1.5 * w).attr("y", top + 24).attr("text-anchor", t === 0.5 ? "start" : t === 2 ? "end" : "middle").text(`${t}×`));
+    svg.append("line").attr("class", "expected-mark").attr("x1", w / 3).attr("x2", w / 3).attr("y1", top - 2).attr("y2", top + 12);
+    const fx = w + 16;
+    svg.append("rect").attr("x", fx).attr("y", top).attr("width", 32).attr("height", 10).attr("rx", 2).attr("fill", FEW);
     svg.append("text").attr("class", "tick-label").attr("x", fx).attr("y", top + 24).text("pocos datos");
   }
 

@@ -17,7 +17,7 @@ const MAP_HANDLERS = ["dragPan", "scrollZoom", "doubleClickZoom", "touchZoomRota
 const S = {
   level: "usa", state: null, county: null, countySlug: null, city: null,
   source: -1, range: [0, 0], pins: {A: null, B: null},
-  onlyHigh: false, hoverCity: null, table: false, showRoads: true, showPoints: false
+  onlyHigh: false, hoverCity: null, table: false, showRoads: true
 };
 
 const $ = id => document.getElementById(id);
@@ -298,23 +298,16 @@ function drawRoadLegend() {
   const svg = d3.select("#roadLegend");
   svg.selectAll("*").remove();
   $("roadLegend").classList.toggle("hidden", !S.showRoads);
-  $("dotLegend").classList.toggle("hidden", !S.showPoints);
+  $("dotLegend").classList.add("hidden");
   if (!S.showRoads) return;
   const width = svg.node().clientWidth || 360;
   svg.attr("viewBox", `0 0 ${width} 46`).style("height", "46px");
-  const labels = ["0"];
-  let low = 1;
-  for (const cut of roadCuts) {
-    labels.push(low === cut ? `${cut}` : `${low}–${cut}`);
-    low = cut + 1;
-  }
-  labels.push(`${low}+`);
-  const w = 64;
-  svg.append("text").attr("class", "legend-title").attr("x", 0).attr("y", 10).text("Accidentes Severity ≥ 3 por tramo de ~200 m");
-  labels.forEach((label, i) => {
-    svg.append("rect").attr("x", i * w).attr("y", 17).attr("width", w - 3).attr("height", 6).attr("rx", 3).attr("fill", RoadLayer.COLORS[Math.min(i, RoadLayer.COLORS.length - 1)]);
-    svg.append("text").attr("class", "tick-label").attr("x", i * w).attr("y", 38).text(label);
-  });
+  const defs = svg.append("defs");
+  const gradient = defs.append("linearGradient").attr("id", "road-gradient");
+  RoadLayer.COLORS.forEach((color, i) => gradient.append("stop").attr("offset", `${i / (RoadLayer.COLORS.length - 1) * 100}%`).attr("stop-color", color));
+  svg.append("text").attr("class", "legend-title").attr("x", 0).attr("y", 10).text("Intensidad suavizada de accidentes Severity ≥ 3 en vías");
+  svg.append("rect").attr("x", 0).attr("y", 17).attr("width", Math.min(width, 320)).attr("height", 8).attr("rx", 4).attr("fill", "url(#road-gradient)");
+  ["0", `${Math.max(1, roadCuts[roadCuts.length - 1] || 1)}+`].forEach((label, i) => svg.append("text").attr("class", "tick-label").attr("x", i ? Math.min(width, 320) : 0).attr("y", 40).attr("text-anchor", i ? "end" : "start").text(label));
 }
 
 function roadTip(info) {
@@ -325,9 +318,9 @@ function roadTip(info) {
   }
   const years = `${meta.months[S.range[0]].slice(0, 4)}–${meta.months[S.range[1]].slice(0, 4)}`;
   VizCharts.tip(eventAt(info), [
-    `${int(d.h)} accidentes Severity ≥ 3`,
+    `${d.h.toFixed(1)} accidentes Severity ≥ 3 (intensidad suavizada)`,
     d.name || "Vía sin nombre",
-    `${int(d.t)} accidentes en total en este tramo · ${years} · todas las fuentes`
+    `${d.t.toFixed(1)} accidentes totales (intensidad suavizada) · ${years} · todas las fuentes`
   ]);
 }
 
@@ -338,9 +331,6 @@ function renderStreetMap(visible) {
   const valid = visible.filter(d => Number.isFinite(d.Start_Lng) && Number.isFinite(d.Start_Lat));
   const focusCity = S.level === "county" ? S.hoverCity : null;
   const faded = row => focusCity && row.City !== focusCity;
-  const low = valid.filter(d => !(d.Severity >= 3));
-  const high = valid.filter(d => d.Severity >= 3);
-  const showPoints = S.showPoints || window.ExplorerFilters.hasLasso();
   overlay.setProps({layers: [
     S.showRoads ? RoadLayer.layer(roadPieces, roadCuts, roadTip) : null,
     new deck.GeoJsonLayer({
@@ -351,31 +341,6 @@ function renderStreetMap(visible) {
       getLineColor: [82, 81, 78, 220],
       lineWidthMinPixels: 1.5
     }),
-    new deck.ScatterplotLayer({
-      id: "points-low",
-      data: showPoints ? low : [],
-      pickable: true,
-      radiusUnits: "pixels",
-      getPosition: d => [d.Start_Lng, d.Start_Lat],
-      getRadius: 3,
-      getFillColor: d => faded(d) ? [185, 184, 178, 50] : [137, 135, 129, 170],
-      updateTriggers: {getFillColor: [focusCity]},
-      onHover: pointTip
-    }),
-    new deck.ScatterplotLayer({
-      id: "points-high",
-      data: showPoints ? high : [],
-      pickable: true,
-      radiusUnits: "pixels",
-      getPosition: d => [d.Start_Lng, d.Start_Lat],
-      getRadius: 4,
-      stroked: true,
-      lineWidthMinPixels: 1,
-      getLineColor: [252, 252, 251, 255],
-      getFillColor: d => faded(d) ? [217, 86, 31, 50] : [217, 86, 31, 235],
-      updateTriggers: {getFillColor: [focusCity]},
-      onHover: pointTip
-    })
   ]});
 }
 
@@ -939,14 +904,7 @@ function bindControls() {
     drawRoadLegend();
     renderStreetMap(lastVisible);
   });
-  $("showPoints").addEventListener("change", event => {
-    S.showPoints = event.target.checked;
-    drawRoadLegend();
-    renderStreetMap(lastVisible);
-  });
   $("lassoBtn").addEventListener("click", () => {
-    S.showPoints = true;
-    $("showPoints").checked = true;
     drawRoadLegend();
   });
   $("onlyHigh").addEventListener("change", event => {

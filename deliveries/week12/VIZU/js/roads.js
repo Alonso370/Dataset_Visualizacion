@@ -37,6 +37,27 @@ window.RoadLayer = (() => {
     return t ? {t, h} : null;
   }
 
+  function smoothValue([lng, lat], y0, y1) {
+    const [iy, ix] = keyOf([lng, lat]).split(",").map(Number);
+    let weightSum = 0;
+    let t = 0;
+    let h = 0;
+    // Borrow signal from nearby cells so sparse reports form continuous road corridors.
+    for (let dy = -3; dy <= 3; dy++) {
+      for (let dx = -3; dx <= 3; dx++) {
+        const distance2 = dx * dx + dy * dy;
+        if (distance2 > 9) continue;
+        const value = cellValue(`${iy + dy},${ix + dx}`, y0, y1);
+        if (!value) continue;
+        const weight = Math.exp(-distance2 / 4.5);
+        weightSum += weight;
+        t += value.t * weight;
+        h += value.h * weight;
+      }
+    }
+    return weightSum ? {t: t / weightSum, h: h / weightSum} : null;
+  }
+
   const keyOf = ([lng, lat]) => `${Math.floor(lat / cell)},${Math.floor(lng / cell)}`;
 
   function roadLayers(map) {
@@ -57,7 +78,7 @@ window.RoadLayer = (() => {
           if (current.path) current.path.push(q);
           continue;
         }
-        const value = cellValue(key, y0, y1);
+        const value = smoothValue([(p[0] + q[0]) / 2, (p[1] + q[1]) / 2], y0, y1);
         current = value ? {key, path: [p, q], ...value, name: props.name || props.ref || "", rank: rankOf(props.class)} : {key, path: null};
         if (value) out.push(current);
       }
@@ -100,9 +121,8 @@ window.RoadLayer = (() => {
 
   function colorFor(h, cuts) {
     if (!h) return COLORS[0];
-    let i = 1;
-    for (const c of cuts) if (h > c) i++;
-    return COLORS[Math.min(COLORS.length - 1, i)];
+    const max = Math.max(1, cuts[cuts.length - 1] || h);
+    return d3.interpolateRgbBasis(COLORS)(Math.max(0, Math.min(1, h / max)));
   }
 
   function layer(pieces, cuts, onHover) {

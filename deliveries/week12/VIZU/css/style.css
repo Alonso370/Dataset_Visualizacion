@@ -70,16 +70,16 @@ button[aria-pressed="true"] { background: var(--ink); color: var(--surface); bor
   display: grid;
   gap: 12px;
   padding: 12px 16px 24px;
-  grid-template-columns: 200px minmax(0, 1.6fr) minmax(0, 1fr) 340px;
+  grid-template-columns: 200px minmax(0, 1.8fr) 340px;
   grid-template-areas:
-    "panel map time profile"
-    "panel context context profile";
+    "panel map profile"
+    "panel context profile";
   align-items: start;
 }
 
 .panel, .map-card, .time-card, .context-card, .profile { min-width: 0; }
 .map-card { background: var(--surface); border: 1px solid var(--grid); border-radius: 8px; }
-.time-card, .context-card { border-top: 2px solid var(--ink); }
+.context-card { border-top: 2px solid var(--ink); }
 .profile { border-left: 1px solid var(--grid); }
 
 .panel {
@@ -135,7 +135,7 @@ button[aria-pressed="true"] { background: var(--ink); color: var(--surface); bor
 .map-table td { border-bottom: 1px solid var(--grid); padding: 5px 8px; }
 .map-table td:not(:first-child), .map-table th:not(:first-child) { text-align: right; }
 .map-foot { display: flex; flex-wrap: wrap; gap: 6px 16px; align-items: center; justify-content: space-between; padding: 8px 14px 10px; }
-#mapLegend { width: 380px; max-width: 100%; display: block; }
+#mapLegend { width: 400px; max-width: 100%; display: block; }
 .legend-title { fill: var(--ink); font-size: 12px; font-weight: 600; }
 .expected-mark { fill: none; stroke: var(--ink); stroke-width: 1.5; }
 h3 .hint { font-family: var(--font); font-weight: 400; font-size: 12px; color: var(--muted); margin-left: 8px; }
@@ -145,7 +145,7 @@ h3 .hint { font-family: var(--font); font-weight: 400; font-size: 12px; color: v
 .lasso-status { padding: 0 14px 10px; }
 .lasso-status:empty { display: none; }
 
-.time-card { grid-area: time; padding: 10px 4px 12px; display: flex; flex-direction: column; gap: 6px; }
+.time-card { min-width: 0; display: flex; flex-direction: column; gap: 6px; }
 #focusChart { width: 100%; display: block; }
 
 .context-card { grid-area: context; padding: 10px 4px 8px; }
@@ -222,10 +222,10 @@ dialog#about h2 { margin-bottom: 8px; }
 dialog .close { float: right; border: 0; font-size: 20px; line-height: 1; padding: 2px 8px; }
 
 @media (max-width: 1400px) {
-  .layout { grid-template-columns: 200px minmax(0, 1fr) 340px; grid-template-areas: "panel map profile" "panel time profile" "panel context profile"; }
+  .layout { grid-template-columns: 200px minmax(0, 1fr) 340px; grid-template-areas: "panel map profile" "panel context profile"; }
 }
 @media (max-width: 1000px) {
-  .layout { grid-template-columns: minmax(0, 1fr); grid-template-areas: "panel" "map" "time" "context" "profile"; }
+  .layout { grid-template-columns: minmax(0, 1fr); grid-template-areas: "panel" "map" "context" "profile"; }
   .panel { position: static; }
   .profile { height: auto; min-height: 0; overflow: visible; }
   .kpis { grid-template-columns: repeat(2, minmax(0, 1fr)); }
