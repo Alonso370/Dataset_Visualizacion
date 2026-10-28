@@ -74,7 +74,6 @@
           </div>
         </details>
         <label class="check"><input id="showRoads" type="checkbox" checked /> Vías</label>
-        <label class="check"><input id="showPoints" type="checkbox" /> Reportes</label>
         <label class="check"><input id="onlyHigh" type="checkbox" /> Solo Severity ≥ 3</label>
       </div>
       <div id="mapStage">
@@ -93,12 +92,6 @@
         <button id="tableBtn" type="button" class="quiet" aria-pressed="false">Ver como tabla</button>
       </div>
       <p id="lassoStatus" class="note lasso-status" aria-live="polite"></p>
-    </section>
-
-    <section class="time-card" aria-label="Evolución en el tiempo">
-      <h3 id="timeTitle">¿Cuándo? Proporción con Severity ≥ 3, por fuente</h3>
-      <svg id="focusChart" role="img" aria-label="Evolución en el tiempo"></svg>
-      <p id="focusNote" class="note" aria-live="polite"></p>
     </section>
 
     <section class="context-card" aria-label="Periodo">
@@ -141,6 +134,13 @@
         <div id="weatherKey" class="key"></div>
         <svg id="weatherChart" role="img" aria-label="Índice según el clima"></svg>
       </section>
+
+      <section class="time-card block" aria-label="Evolución en el tiempo">
+        <h3 id="timeTitle">¿Cuándo? Proporción con Severity ≥ 3, por fuente</h3>
+        <svg id="focusChart" role="img" aria-label="Evolución en el tiempo"></svg>
+        <p id="focusNote" class="note" aria-live="polite"></p>
+      </section>
+
     </aside>
   </main>
 
@@ -151,7 +151,7 @@
     <p><strong>El problema de las fuentes.</strong> Los datos vienen de tres proveedores. Source2 marca como Severity ≥ 3 al 34 % de sus reportes; Source1, al 8 %, y Source1 además cambió de criterio entre 2019 y 2021 (de 33 % a 2 %). Un porcentaje bruto premia o castiga a cada lugar según quién lo reporta.</p>
     <p><strong>El índice.</strong> Para cada área se calcula cuántos accidentes Severity ≥ 3 tendría si cada fuente la etiquetara como lo hace en promedio en todo el país ese año. Índice = observados ÷ esperados. 1× es lo esperado; 1,5× es un 50 % más; 0,5× es la mitad. Es una comparación relativa entre lugares, no un riesgo: el dataset no mide cuánto se maneja en cada lugar.</p>
     <ol>
-      <li><strong>Mapa:</strong> en el país y en cada estado, el color es el índice (más oscuro = más por encima de lo esperado; gris = pocos datos). Desde el condado se ven los reportes como puntos.</li>
+      <li><strong>Mapa:</strong> en el país y en cada estado, el color es el índice (más oscuro = más por encima de lo esperado; gris = pocos datos). En el nivel de condado, las vías muestran un degradado según los accidentes Severity ≥ 3.</li>
       <li><strong>Periodo:</strong> arrastra sobre las barras de abajo; todo se recalcula mientras arrastras.</li>
       <li><strong>Perfil:</strong> hora y día, punto de la vía y clima del área elegida. Si no hay suficientes casos, la vista lo dice en vez de dibujar ruido.</li>
       <li><strong>Comparar:</strong> fija dos estados o condados como A y B; el perfil y la línea de tiempo los superponen.</li>
