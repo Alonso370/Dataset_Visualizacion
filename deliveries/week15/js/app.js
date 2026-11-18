@@ -772,6 +772,8 @@ function navigationUI() {
   if (S.city) crumbs.push(["city", S.city]);
   const nav = $("breadcrumb");
   nav.replaceChildren();
+  // En la vista del país la ruta repetiría el título: se deja vacía (y se oculta).
+  if (S.level === "usa") crumbs.length = 0;
   crumbs.forEach(([level, label], i) => {
     if (i) {
       const sep = document.createElement("span");

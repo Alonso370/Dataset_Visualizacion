@@ -21,8 +21,6 @@
 
   <main class="layout">
     <aside class="panel" aria-label="Controles">
-      <nav id="breadcrumb" class="breadcrumb" aria-label="Ubicación"></nav>
-      <button id="backBtn" type="button" class="quiet" disabled>← Subir un nivel</button>
 
       <label class="field">Estado
         <select id="stateSelect"><option value="ALL">Todo el país</option></select>
@@ -57,7 +55,11 @@
 
     <section class="map-card" aria-label="Mapa">
       <div class="map-head">
-        <h2 id="mapTitle">Estados Unidos</h2>
+        <div class="map-title">
+          <h2 id="mapTitle">Estados Unidos</h2>
+          <nav id="breadcrumb" class="breadcrumb" aria-label="Ubicación"></nav>
+          <button id="backBtn" type="button" class="quiet" disabled>← Subir un nivel</button>
+        </div>
         <div class="kpis" aria-live="polite">
           <div><span>Accidentes</span><strong id="kpiTotal">—</strong></div>
           <div><span>Severity ≥ 3</span><strong id="kpiHigh">—</strong><small id="kpiRate"></small></div>
@@ -85,6 +87,16 @@
         <div id="map"></div>
         <svg id="lassoOverlay" aria-hidden="true"><path id="lassoLimit"></path><path id="lassoPath"></path></svg>
         <div id="mapTable" class="map-table hidden"></div>
+        <div class="map-foot">
+          <div id="legendBlock">
+            <svg id="mapLegend" aria-label="Leyenda del índice"></svg>
+          </div>
+          <div id="pointLegend" class="hidden">
+            <svg id="roadLegend" aria-label="Leyenda de las vías"></svg>
+            <p id="dotLegend" class="note"><span class="dot high"></span>Severity ≥ 3 <span class="dot low"></span>Severity 1–2</p>
+          </div>
+          <button id="tableBtn" type="button" class="quiet" aria-pressed="false">Ver como tabla</button>
+        </div>
         <button id="profileOpen" type="button" class="profile-open hidden" aria-controls="profilePanel">Mostrar perfil</button>
       </div>
       <section id="contextDock" class="context-card" aria-label="Periodo">
@@ -141,16 +153,6 @@
         </section>
 
       </aside>
-      </div>
-      <div class="map-foot">
-        <div id="legendBlock">
-          <svg id="mapLegend" aria-label="Leyenda del índice"></svg>
-        </div>
-        <div id="pointLegend" class="hidden">
-          <svg id="roadLegend" aria-label="Leyenda de las vías"></svg>
-          <p id="dotLegend" class="note"><span class="dot high"></span>Severity ≥ 3 <span class="dot low"></span>Severity 1–2</p>
-        </div>
-        <button id="tableBtn" type="button" class="quiet" aria-pressed="false">Ver como tabla</button>
       </div>
       <p id="lassoStatus" class="note lasso-status" aria-live="polite"></p>
     </section>

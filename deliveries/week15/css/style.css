@@ -59,11 +59,10 @@ button[aria-pressed="true"] { background: var(--ink); color: var(--surface); bor
 
 .top {
   display: flex;
-  margin-bottom: 4px;
   justify-content: space-between;
   align-items: flex-end;
   gap: 24px;
-  padding: 12px 20px;
+  padding: 6px 12px;
   border-bottom: 1px solid var(--grid);
   background: var(--page);
 }
@@ -71,8 +70,8 @@ button[aria-pressed="true"] { background: var(--ink); color: var(--surface); bor
 
 .layout {
   display: grid;
-  gap: 12px;
-  padding: 8px 16px 12px;
+  gap: 6px;
+  padding: 4px 8px 8px;
   grid-template-columns: 260px minmax(0, 1fr);
   grid-template-areas: "panel map";
   grid-template-rows: minmax(0, 1fr);
@@ -90,8 +89,12 @@ button[aria-pressed="true"] { background: var(--ink); color: var(--surface); bor
   display: grid;
   align-content: start;
   gap: 16px;
-  padding: 4px 4px 14px 0;
+  padding: 4px 2px 14px 4px;
+  scrollbar-width: thin;
 }
+.map-title { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 14px; min-width: 0; }
+.map-title #backBtn { padding: 0; font-size: 13px; }
+.map-title #backBtn:disabled, .map-title .breadcrumb:empty { display: none; }
 .breadcrumb { display: flex; flex-wrap: wrap; gap: 2px 6px; font-size: 13px; }
 .breadcrumb button { border: 0; padding: 0; background: none; color: var(--ink-2); text-decoration: underline; text-underline-offset: 2px; }
 .breadcrumb button:last-child { color: var(--ink); font-weight: 600; text-decoration: none; }
@@ -160,7 +163,9 @@ button[aria-pressed="true"] { background: var(--ink); color: var(--surface); bor
 .map-table th { text-align: left; font-weight: 600; color: var(--ink-2); border-bottom: 1px solid var(--grid-strong); padding: 6px 8px; position: sticky; top: 0; background: var(--surface); }
 .map-table td { border-bottom: 1px solid var(--grid); padding: 5px 8px; }
 .map-table td:not(:first-child), .map-table th:not(:first-child) { text-align: right; }
-.map-foot { display: flex; flex-wrap: wrap; gap: 6px 16px; align-items: center; justify-content: space-between; padding: 8px 14px 10px; }
+/* Leyenda dentro del mapa, en la esquina inferior izquierda (sobre el logo de Mapbox). */
+.map-foot { position: absolute; left: 10px; bottom: 30px; z-index: 6; max-width: calc(100% - 20px); display: flex; flex-wrap: wrap; gap: 4px 14px; align-items: center; padding: 6px 10px; background: rgba(250, 248, 245, 0.88); border-radius: 6px; pointer-events: auto; }
+.map-foot #tableBtn { padding: 0; font-size: 12px; }
 #mapLegend { width: 400px; max-width: 100%; display: block; }
 .legend-title { fill: var(--ink); font-size: 12px; font-weight: 600; }
 .expected-mark { fill: none; stroke: var(--ink); stroke-width: 1.5; }
