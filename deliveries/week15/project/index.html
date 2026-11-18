@@ -1,0 +1,273 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>VIZU · ¿Quién reportó el choque?</title>
+<meta name="description" content="VIZU muestra los accidentes de mayor impacto en Estados Unidos corregidos por la fuente que los reporta. Proyecto final de DS5343 Visualización de Datos, UTEC 2026-2.">
+<meta name="color-scheme" content="light">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Overpass:wght@500;600;700&family=Public+Sans:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="style.css">
+</head>
+<body id="top">
+<a class="skip" href="#recorrido">Saltar al recorrido</a>
+
+<div class="bar">
+  <div class="wrap">
+    <a class="logo" href="#top" aria-label="VIZU, volver al inicio">VIZU</a>
+    <nav aria-label="Secciones">
+      <a href="#recorrido">Recorrido</a>
+      <a href="#hallazgos">Hallazgos</a>
+      <a href="#tareas">Tareas</a>
+      <a href="#videos">Videos</a>
+      <a href="#documentos">Documentos</a>
+      <a href="#ejecutar">Cómo ejecutar</a>
+      <a href="#creditos">Créditos</a>
+    </nav>
+  </div>
+</div>
+
+<header class="head">
+  <div class="wrap head-grid">
+    <div>
+      <p class="kicker">Proyecto final · DS5343 Visualización de Datos</p>
+      <h1>¿Quién reportó el choque?</h1>
+      <p class="sub">Accidentes de mayor impacto en Estados Unidos corregidos por la fuente que los reporta</p>
+      <p class="team">Angel Tito Berrocal · Gianella Lira Ñaupari · Gady Enciso Gomez · Oscar Alonso Gomez Marin</p>
+      <p class="course">UTEC 2026-2 · Prof. Germain García-Zanabria</p>
+      <ul class="actions">
+        <li><a class="btn primary" href="../index.html">Abrir la aplicación</a></li>
+        <li><a class="btn" href="#recorrido">Ver el recorrido</a></li>
+        <li><a class="btn" href="../Paper_s15.pdf">Paper (PDF)</a></li>
+        <li><a class="btn" href="../Poster_s15.pdf">Póster (PDF)</a></li>
+        <li><a class="btn" href="https://github.com/Alonso370/Dataset_Visualizacion">Repositorio</a></li>
+      </ul>
+    </div>
+    <figure class="hero">
+      <a href="../index.html"><img src="img/overview.jpg" width="1440" height="810" alt="Pantalla de VIZU con el mapa de Estados Unidos coloreado por índice ajustado, el panel de estados parecidos a la izquierda y la barra mensual por fuente abajo."></a>
+      <figcaption>VIZU a nivel país. Cada estado se colorea por su índice ajustado.</figcaption>
+    </figure>
+  </div>
+</header>
+
+<section class="abstract" aria-labelledby="h-abstract">
+  <div class="wrap abstract-grid">
+    <div>
+      <h2 id="h-abstract">Abstract</h2>
+      <p>US Accidents reúne 7,7 millones de accidentes de tránsito reportados en Estados Unidos entre 2016 y 2023 por tres proveedores. Su severidad mide el impacto en el tráfico y suele mapearse como si fuera una propiedad de los lugares. Mostramos que depende en gran parte del proveedor. Source2 marca con Severity ≥ 3 el 34 % de sus reportes, mientras Source1 solo marca el 8 %. Además, Source1 pasó de 33,4 % en 2018 a 2,4 % en 2021.</p>
+      <p>VIZU reemplaza la proporción cruda por un índice de observados sobre esperados, según la fuente y el año de cada accidente. El índice se recalcula para cualquier periodo y se explora desde el país hasta la calle. Con este ajuste, Arkansas pasa del puesto 37 al 2. El efecto del clima se sostiene en las dos fuentes principales, algo que no ocurre con la mayoría de efectos de infraestructura.</p>
+    </div>
+    <ol class="flow" aria-label="Resumen visual del método">
+      <li><b>7,7 M</b><span>reportes de tres fuentes</span></li>
+      <li><b>Conteos exactos</b><span>por mes, área, fuente y año</span></li>
+      <li><b>Observados ÷ esperados</b><span>1× es lo esperado según quién reporta</span></li>
+      <li><b>Vistas enlazadas</b><span>mapa, periodo, perfil, A/B y similitud</span></li>
+    </ol>
+  </div>
+</section>
+
+<section class="story" id="recorrido" aria-label="Recorrido guiado por la aplicación">
+  <div class="wrap story-title">
+    <h2>Recorrido por la herramienta</h2>
+    <p class="muted">Baja con el scroll. Cada paso marca la parte de la pantalla que responde la pregunta.</p>
+  </div>
+  <div class="story-grid">
+    <div class="steps">
+      <article class="step" data-img="overview" data-box="">
+        <div class="card">
+          <p class="num" aria-hidden="true">01</p>
+          <h3>¿Dónde son más graves los accidentes?</h3>
+          <p>Partimos de 7,7 millones de accidentes en 48 estados y Washington D. C. Cerca de 1,5 millones tienen Severity 3 o más. Esa etiqueta mide el impacto en el tráfico y no las lesiones.</p>
+          <p>Todo se responde en una pantalla que nunca cambia de vista.</p>
+          <p class="ans">La herramienta completa</p>
+        </div>
+      </article>
+      <article class="step" data-img="overview" data-box="19.1,79.4,80.2,19.4">
+        <div class="card">
+          <p class="num" aria-hidden="true">02</p>
+          <h3>¿Quién reportó cada choque?</h3>
+          <p>Los colores de esta barra separan a las fuentes. Source2 marca como alto impacto cerca de un tercio de sus reportes. Source1 bajó de 33,4 % en 2018 a 2,4 % en 2021.</p>
+          <p>Por eso, un mapa con la proporción cruda muestra sobre todo quién reporta cada estado.</p>
+          <p class="ans">El problema</p>
+        </div>
+      </article>
+      <article class="step" data-img="overview" data-box="19.1,15.2,80.2,64.2">
+        <div class="card">
+          <p class="num" aria-hidden="true">03</p>
+          <h3>¿Está por encima de lo esperado?</h3>
+          <p>El mapa compara los accidentes de alto impacto observados con los esperados según la tasa nacional de cada fuente en cada año.</p>
+          <p>1× es lo esperado, 1,5× es 50 % más y 0,5× es la mitad. Es una medida relativa y no un riesgo.</p>
+          <p class="ans">El índice ajustado</p>
+        </div>
+      </article>
+      <article class="step" data-img="brush" data-box="19.1,79.4,80.2,19.4">
+        <div class="card">
+          <p class="num" aria-hidden="true">04</p>
+          <h3>¿Cambia en un periodo concreto?</h3>
+          <p>Al arrastrar sobre los meses se recalculan el mapa y los indicadores. Aquí la selección va de marzo a septiembre de 2020.</p>
+          <p class="ans">Cuándo</p>
+        </div>
+      </article>
+      <article class="step" data-img="state" data-box="19.1,15.2,55.3,64.2">
+        <div class="card">
+          <p class="num" aria-hidden="true">05</p>
+          <h3>¿Qué pasa dentro de un estado?</h3>
+          <p>Un clic baja del país al estado, luego al condado y a la ciudad. California queda en 0,91× y sus condados muestran diferencias que el promedio esconde.</p>
+          <p class="ans">Dónde, con más detalle</p>
+        </div>
+      </article>
+      <article class="step" data-img="state" data-box="74.4,15.2,25.2,83.6">
+        <div class="card">
+          <p class="num" aria-hidden="true">06</p>
+          <h3>¿A qué hora, en qué vía y con qué clima?</h3>
+          <p>El perfil resume el área por día y hora, por elemento de la vía y por clima. En vía y clima hay un punto por fuente, así se ve de inmediato si coinciden.</p>
+          <p>Con menos de 1 000 casos, el perfil sube de nivel y lo avisa.</p>
+          <p class="ans">En qué condiciones</p>
+        </div>
+      </article>
+      <article class="step" data-img="county" data-box="19.1,20.2,55.3,59.1">
+        <div class="card">
+          <p class="num" aria-hidden="true">07</p>
+          <h3>¿Qué ocurre calle por calle?</h3>
+          <p>En condados y ciudades, las vías se pintan según sus accidentes de alto impacto. El lazo rodea hasta 5 km y muestra el perfil de esa zona.</p>
+          <p class="ans">Del condado a la calle</p>
+        </div>
+      </article>
+      <article class="step" data-img="ab" data-box="19.1,15.2,80.2,64.2">
+        <div class="card">
+          <p class="num" aria-hidden="true">08</p>
+          <h3>¿En qué se diferencian dos áreas?</h3>
+          <p>Mayús más clic fija dos áreas como A y B. Ohio y Carolina del Sur tienen una mezcla de fuentes casi igual, pero marcan 1,22× y 0,54×.</p>
+          <p class="ans">Comparación A/B</p>
+        </div>
+      </article>
+      <article class="step" data-img="group" data-box="0.6,38.9,18.2,48.8">
+        <div class="card">
+          <p class="num" aria-hidden="true">09</p>
+          <h3>¿Qué áreas evolucionaron igual?</h3>
+          <p>Cada punto es un estado o un condado. Dos puntos cercanos tienen un índice que subió y bajó en momentos parecidos.</p>
+          <p>Aquí se eligió el grupo de 12 estados con un pico en 2020, que después vuelve cerca de 1×.</p>
+          <p class="ans">Comportamiento parecido</p>
+        </div>
+      </article>
+      <article class="step" data-img="overview" data-box="">
+        <div class="card">
+          <p class="num" aria-hidden="true">10</p>
+          <h3>¿Qué nos llevamos?</h3>
+          <p>Mapear la severidad cruda de US Accidents es mapear en buena parte quién reporta. Con el índice cambia el ranking de estados, el clima se sostiene entre fuentes y aparecen tres trayectorias distintas en el tiempo.</p>
+          <p class="ans">La respuesta</p>
+        </div>
+      </article>
+    </div>
+    <div class="stage">
+      <div class="stage-box" id="stage">
+        <img data-name="overview" class="on" src="img/overview.jpg" width="1440" height="810" alt="VIZU a nivel país con el mapa del índice ajustado.">
+        <img data-name="brush" src="img/brush.jpg" width="1440" height="810" loading="lazy" alt="VIZU con los meses de marzo a septiembre de 2020 seleccionados en la barra Periodo.">
+        <img data-name="state" src="img/state.jpg" width="1440" height="810" loading="lazy" alt="VIZU en California con el mapa por condados y el perfil del estado abierto.">
+        <img data-name="county" src="img/county.jpg" width="1440" height="810" loading="lazy" alt="VIZU en el condado de Los Ángeles con las vías coloreadas por accidentes de alto impacto.">
+        <img data-name="ab" src="img/ab.jpg" width="1440" height="810" loading="lazy" alt="VIZU comparando Ohio y Carolina del Sur como áreas A y B.">
+        <img data-name="group" src="img/group.jpg" width="1440" height="810" loading="lazy" alt="VIZU con el grupo 3 de estados resaltado en el mapa y en el gráfico de similitud.">
+        <span class="focus" id="focus" aria-hidden="true"></span>
+      </div>
+      <div class="stage-foot">
+        <ol class="dots" id="dots" aria-hidden="true"></ol>
+        <a class="btn" href="../index.html">Probar la aplicación</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<main id="contenido">
+  <div class="wrap">
+
+    <section aria-labelledby="hallazgos">
+      <h2 id="hallazgos">Hallazgos principales</h2>
+      <ul class="facts">
+        <li><span class="q">¿La severidad depende de la fuente?</span><span class="n">34 % y 8 %</span><span class="r">de los reportes de Source2 y Source1 tienen Severity ≥ 3.</span></li>
+        <li><span class="q">¿Una fuente cambió con el tiempo?</span><span class="n">33,4 % → 2,4 %</span><span class="r">en Source1 entre 2018 y 2021. Source2 se mantiene entre 30 % y 37 % cada año.</span></li>
+        <li><span class="q">¿Cambia el ranking de estados?</span><span class="n">37.º → 2.º</span><span class="r">Arkansas sube con un índice de 2,26×. Nebraska, con una proporción cruda parecida, cae a 0,53×.</span></li>
+        <li><span class="q">¿La fuente lo explica todo?</span><span class="n">0,54× y 1,22×</span><span class="r">Carolina del Sur y Ohio tienen 38–39 % de Source1 y 60 % de Source2, pero su índice es muy distinto.</span></li>
+        <li><span class="q">¿El clima se sostiene entre fuentes?</span><span class="n">1,20× y 1,31×</span><span class="r">para nieve o hielo en Source1 y Source2. Tormenta y lluvia también superan 1× en ambas, mientras la niebla queda debajo.</span></li>
+        <li><span class="q">¿Y la infraestructura?</span><span class="n">1,10× y 0,27×</span><span class="r">para semáforos en Source1 y Source2. Las fuentes no coinciden, así que no lo tomamos como un efecto general.</span></li>
+        <li><span class="q">¿Todos los estados evolucionan igual?</span><span class="n">19, 18 y 12</span><span class="r">estados en tres grupos que suben, bajan o tienen un pico en 2020.</span></li>
+      </ul>
+      <h3 class="limits-title">Lo que estos resultados no dicen</h3>
+      <ul class="limits">
+        <li>El índice es relativo y no mide riesgo, porque el dataset no incluye volumen de tráfico.</li>
+        <li>La capa de vías aproxima el map-matching.</li>
+        <li>Los grupos dependen de los parámetros del análisis espectral.</li>
+        <li>Todavía no hubo una evaluación formal con usuarios.</li>
+      </ul>
+    </section>
+
+    <section aria-labelledby="tareas">
+      <h2 id="tareas">Qué permite hacer cada vista</h2>
+      <p class="muted">Las cinco tareas de dominio del proyecto en palabras simples.</p>
+      <div class="tscroll"><table>
+        <thead><tr><th scope="col">Tarea</th><th scope="col">En palabras simples</th><th scope="col">Dónde verla</th></tr></thead>
+        <tbody>
+          <tr><th scope="row">T1</th><td>¿Dónde y cuándo se concentran los accidentes de alto impacto? ¿Cambia según la fuente?</td><td>Mapa, Periodo y selector de fuente</td></tr>
+          <tr><th scope="row">T2</th><td>¿Qué clima acompaña a estos accidentes en un área y periodo?</td><td>Perfil, sección de clima</td></tr>
+          <tr><th scope="row">T3</th><td>¿Cómo varían por hora y día de la semana?</td><td>Perfil, mapa de calor</td></tr>
+          <tr><th scope="row">T4</th><td>¿Qué elementos de la vía aparecen más dentro de una misma fuente?</td><td>Perfil, sección de vía</td></tr>
+          <tr><th scope="row">T5</th><td>¿En qué se diferencian dos regiones con una mezcla de fuentes comparable?</td><td>Comparación A/B y Comportamiento parecido</td></tr>
+        </tbody>
+      </table></div>
+    </section>
+
+    <section aria-labelledby="videos">
+      <h2 id="videos">Videos</h2>
+      <div class="videos">
+        <figure>
+          <video controls preload="metadata" poster="img/overview.jpg" aria-label="Teaser del proyecto"><source src="../Video%20-%20Teaser.mp4" type="video/mp4"></video>
+          <figcaption>Teaser</figcaption>
+        </figure>
+        <figure>
+          <video controls preload="metadata" poster="img/state.jpg" aria-label="Video de presentación del proyecto"><source src="../Presentation%20video.mp4" type="video/mp4"></video>
+          <figcaption>Video de presentación</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <section aria-labelledby="documentos">
+      <h2 id="documentos">Paper y material</h2>
+      <ul class="docs">
+        <li><a href="../index.html">Aplicación publicada</a><span>D3.js, Mapbox GL JS y deck.gl</span></li>
+        <li><a href="../Paper_s15.pdf">Paper final (PDF)</a><span>formato de conferencia a dos columnas</span></li>
+        <li><a href="../Poster_s15.pdf">Póster (PDF)</a><span>para la exhibición de la semana 15</span></li>
+        <li><a href="../PresentationFinal.pdf">Diapositivas de la presentación (PDF)</a><span>11 láminas</span></li>
+        <li><a href="https://github.com/Alonso370/Dataset_Visualizacion">Repositorio del proyecto</a><span>código, datos procesados y scripts</span></li>
+        <li><a href="https://github.com/Alonso370/Dataset_Visualizacion/tree/main/deliveries">Entregas por semana</a><span>material de apoyo de cada hito</span></li>
+      </ul>
+    </section>
+
+    <section aria-labelledby="ejecutar">
+      <h2 id="ejecutar">Cómo ejecutar el software</h2>
+      <p>La aplicación ya está publicada, así que no hace falta instalar nada para usarla. Para abrirla en tu computadora necesitas Git, Python 3 e internet para cargar el mapa y las librerías.</p>
+      <pre><code>git clone https://github.com/Alonso370/Dataset_Visualizacion.git
+cd Dataset_Visualizacion
+python3 deliveries/week15/scripts/serve.py</code></pre>
+      <p>El navegador se abre en <code>http://127.0.0.1:8000/deliveries/week15/</code>. En Windows también puedes ejecutar <code>deliveries/week15/run_server.bat</code>. Clona el repositorio completo, porque la aplicación usa datos de la carpeta <code>week10</code>.</p>
+      <p class="muted">Los datos procesados ya vienen en el repositorio. Los scripts para regenerarlos están en <code>deliveries/week15/scripts/</code>.</p>
+    </section>
+
+    <section aria-labelledby="creditos">
+      <h2 id="creditos">Fuentes de datos y agradecimientos</h2>
+      <ul class="credits">
+        <li><b>Datos.</b> <a href="https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents">US Accidents (2016–2023)</a> de S. Moosavi et al., con licencia CC BY-NC-SA 4.0.</li>
+        <li><b>Librerías.</b> D3.js, Mapbox GL JS, deck.gl, NumPy y pandas. Mapa base de Mapbox y OpenStreetMap.</li>
+        <li><b>Inspiración.</b> TripVista (Guo et al., 2011), JamVis (Rodriguez, Ferreira y Poco, 2022), Fan et al. (2015), Sunkpho y Wipulanusat (2020).</li>
+        <li><b>Curso.</b> DS5343 Visualización de Datos, Departamento de Ciencia de Datos, UTEC. Agradecemos al Prof. Germain García-Zanabria y a quienes revisaron el proyecto durante el semestre.</li>
+      </ul>
+    </section>
+  </div>
+</main>
+
+<footer>
+  <div class="wrap">VIZU · DS5343 Visualización de Datos · UTEC 2026-2</div>
+</footer>
+<script src="tour.js"></script>
+</body>
+</html>
