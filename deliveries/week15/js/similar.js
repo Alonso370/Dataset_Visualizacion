@@ -189,7 +189,8 @@ window.Similar = (() => {
       draft = null;
       start = null;
       const d = nearest(...p);
-      if (d) handlers.onPick?.(d, event.shiftKey);
+      // point() agrega "kind" (estado o condado): sin él, un estado se trataba como condado.
+      if (d) handlers.onPick?.(point(d.id), event.shiftKey);
       draw();
     });
   }
