@@ -15,7 +15,7 @@ from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 
 APP_DIR = Path(__file__).resolve().parents[1]
-ROOT = APP_DIR.parents[2]
+ROOT = APP_DIR.parents[1]
 APP_URL = "/" + APP_DIR.relative_to(ROOT).as_posix() + "/"
 APP = "vizu-us-accidents"
 LAYOUT = "week12-one-screen-brush"

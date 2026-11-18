@@ -20,7 +20,7 @@ import numpy as np
 
 APP_DIR = Path(__file__).resolve().parents[1]
 W12 = APP_DIR / "data" / "w12"
-SUMMARY_ROOT = APP_DIR.parents[1] / "week10" / "VIZZU_7M_mapbox_deckgl" / "data" / "processed" / "states"
+SUMMARY_ROOT = APP_DIR.parent / "week10" / "VIZZU_7M_mapbox_deckgl" / "data" / "processed" / "states"
 
 QUARTER = 3        # meses por punto de la serie: por mes, la mayoría de condados es ruido
 SHRINK = 8.0       # casos ficticios "en lo esperado" por trimestre: acerca a 1x los trimestres con pocos datos
