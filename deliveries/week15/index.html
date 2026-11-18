@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>VIZU · Accidentes de mayor impacto en EE. UU.</title>
+  <link href="https://api.mapbox.com/mapbox-gl-js/v3.10.0/mapbox-gl.css" rel="stylesheet" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Overpass:wght@500;600;700&family=Public+Sans:wght@400;500;600&display=swap" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="top">
+    <div>
+      <p class="kicker">VIZU</p>
+      <h1>Accidentes de mayor impacto en Estados Unidos</h1>
+    </div>
+    <button id="aboutBtn" type="button" class="quiet">Cómo leer</button>
+  </header>
+
+  <main class="layout">
+    <aside class="panel" aria-label="Controles">
+      <nav id="breadcrumb" class="breadcrumb" aria-label="Ubicación"></nav>
+      <button id="backBtn" type="button" class="quiet" disabled>← Subir un nivel</button>
+
+      <label class="field">Estado
+        <select id="stateSelect"><option value="ALL">Todo el país</option></select>
+      </label>
+
+      <label class="field">Fuente
+        <select id="sourceSelect"><option value="ALL">Las tres fuentes</option></select>
+      </label>
+
+      <div class="field">
+        <span>Periodo</span>
+        <strong id="periodLabel">—</strong>
+        <button id="fullPeriod" type="button" class="quiet">Todo el periodo</button>
+      </div>
+
+      <section class="field similar" aria-label="Áreas con comportamiento parecido">
+        <span>Comportamiento parecido</span>
+        <p class="note">Cerca = serie temporal del índice parecida. Color = grupo espectral.</p>
+        <svg id="similarPlot" role="img" aria-label="Mapa de similitud entre series temporales"></svg>
+        <div id="similarKey" class="group-key"></div>
+        <p id="similarNote" class="note"></p>
+        <p id="similarSeriesTitle" class="series-title"></p>
+        <svg id="similarSeries" role="img" aria-label="Series promedio"></svg>
+        <div class="pair">
+          <button id="similarClear" type="button" disabled>Quitar selección</button>
+        </div>
+        <label class="check"><input id="colorGroups" type="checkbox" /> Pintar el mapa por grupo</label>
+        <div id="pinSummary" class="pin-summary"></div>
+      </section>
+
+    </aside>
+
+    <section class="map-card" aria-label="Mapa">
+      <div class="map-head">
+        <h2 id="mapTitle">Estados Unidos</h2>
+        <div class="kpis" aria-live="polite">
+          <div><span>Accidentes</span><strong id="kpiTotal">—</strong></div>
+          <div><span>Severity ≥ 3</span><strong id="kpiHigh">—</strong><small id="kpiRate"></small></div>
+          <div><span>Índice ajustado</span><strong id="kpiIndex">—</strong><small id="kpiIndexNote">1× = lo esperado</small></div>
+        </div>
+      </div>
+      <div id="mapTools" class="map-tools hidden">
+        <button id="lassoBtn" type="button" aria-pressed="false">Lazo (máx. 5 km)</button>
+        <button id="clearLasso" type="button" disabled>Quitar lazo</button>
+        <details id="hourFilter" class="hour-filter">
+          <summary id="hourSummary">Horas: todas</summary>
+          <div class="clock-popover">
+            <p class="note">Clic o arrastra sobre las horas. Filtra los puntos y resalta columnas del perfil horario.</p>
+            <svg id="hourClock" viewBox="0 0 280 280" aria-label="Reloj para elegir horas"></svg>
+            <p id="hourDescription" class="note" aria-live="polite"></p>
+            <div class="pair"><button id="allHours" type="button">Todas</button><button id="noHours" type="button">Ninguna</button><button id="closeClock" type="button">Cerrar</button></div>
+          </div>
+        </details>
+        <label class="check"><input id="showRoads" type="checkbox" checked /> Vías</label>
+        <label class="check"><input id="onlyHigh" type="checkbox" /> Solo Severity ≥ 3</label>
+      </div>
+      <div class="map-body">
+      <div class="map-col">
+      <div id="mapStage">
+        <div id="map"></div>
+        <svg id="lassoOverlay" aria-hidden="true"><path id="lassoLimit"></path><path id="lassoPath"></path></svg>
+        <div id="mapTable" class="map-table hidden"></div>
+        <button id="profileOpen" type="button" class="profile-open hidden" aria-controls="profilePanel">Mostrar perfil</button>
+      </div>
+      <section id="contextDock" class="context-card" aria-label="Periodo">
+        <div class="context-head">
+          <h3>Periodo <span class="hint">arrastra para elegir meses</span></h3>
+          <div class="dock-right">
+            <div id="sourceLegend" class="legend"></div>
+            <button id="dockToggle" type="button" class="icon-btn" aria-expanded="true" aria-controls="contextChart" title="Minimizar periodo">▾</button>
+          </div>
+        </div>
+        <svg id="contextChart" role="img" aria-label="Accidentes con Severity mayor o igual a 3 por mes y fuente"></svg>
+      </section>
+      </div>
+      <aside id="profilePanel" class="profile collapsed" aria-label="Perfil del área" aria-hidden="true">
+        <div class="profile-head">
+          <div class="float-bar">
+            <h2 id="profileTitle">Perfil</h2>
+            <button id="profileClose" type="button" class="icon-btn" title="Ocultar perfil" aria-label="Ocultar perfil">×</button>
+          </div>
+          <p id="profileNote" class="note"></p>
+        </div>
+
+        <section id="citiesBlock" class="block hidden">
+          <h3 id="citiesTitle">Ciudades</h3>
+          <div id="cityList" class="city-list"></div>
+        </section>
+
+        <section class="block">
+          <h3>¿A qué hora y qué día?</h3>
+          <p id="heatHelp" class="note">accidentes Severity ≥ 3 por día</p>
+          <svg id="heatChart" role="img" aria-label="Accidentes por día de la semana y hora"></svg>
+          <svg id="heatChartB" class="hidden" role="img" aria-label="Accidentes por día de la semana y hora del área B"></svg>
+          <p id="heatNote" class="note"></p>
+        </section>
+
+        <section class="block">
+          <h3>¿En qué punto de la vía?</h3>
+          <p id="infraHelp" class="note">índice por fuente · 1× = lo esperado</p>
+          <div id="infraKey" class="key"></div>
+          <svg id="infraChart" role="img" aria-label="Índice según infraestructura vial"></svg>
+        </section>
+
+        <section class="block">
+          <h3>¿Con qué clima?</h3>
+          <p id="weatherHelp" class="note">índice por fuente · 1× = lo esperado</p>
+          <div id="weatherKey" class="key"></div>
+          <svg id="weatherChart" role="img" aria-label="Índice según el clima"></svg>
+        </section>
+
+        <section class="time-card block" aria-label="Evolución en el tiempo">
+          <h3 id="timeTitle">¿Cuándo? Proporción con Severity ≥ 3, por fuente</h3>
+          <svg id="focusChart" role="img" aria-label="Evolución en el tiempo"></svg>
+          <p id="focusNote" class="note" aria-live="polite"></p>
+        </section>
+
+      </aside>
+      </div>
+      <div class="map-foot">
+        <div id="legendBlock">
+          <svg id="mapLegend" aria-label="Leyenda del índice"></svg>
+        </div>
+        <div id="pointLegend" class="hidden">
+          <svg id="roadLegend" aria-label="Leyenda de las vías"></svg>
+          <p id="dotLegend" class="note"><span class="dot high"></span>Severity ≥ 3 <span class="dot low"></span>Severity 1–2</p>
+        </div>
+        <button id="tableBtn" type="button" class="quiet" aria-pressed="false">Ver como tabla</button>
+      </div>
+      <p id="lassoStatus" class="note lasso-status" aria-live="polite"></p>
+    </section>
+
+
+  </main>
+
+  <dialog id="about">
+    <form method="dialog"><button class="close" aria-label="Cerrar">×</button></form>
+    <h2>Cómo leer VIZU</h2>
+    <p><strong>La pregunta.</strong> ¿Dónde y cuándo se concentran los accidentes con mayor impacto sobre el tráfico (Severity ≥ 3) y en qué condiciones de hora, vía y clima? Severity mide cuánto se afectó el tráfico, no la gravedad de las lesiones.</p>
+    <p><strong>El problema de las fuentes.</strong> Los datos vienen de tres proveedores. Source2 marca como Severity ≥ 3 al 34 % de sus reportes; Source1, al 8 %, y Source1 además cambió de criterio entre 2019 y 2021 (de 33 % a 2 %). Un porcentaje bruto premia o castiga a cada lugar según quién lo reporta.</p>
+    <p><strong>El índice.</strong> Para cada área se calcula cuántos accidentes Severity ≥ 3 tendría si cada fuente la etiquetara como lo hace en promedio en todo el país ese año. Índice = observados ÷ esperados. 1× es lo esperado; 1,5× es un 50 % más; 0,5× es la mitad. Es una comparación relativa entre lugares, no un riesgo: el dataset no mide cuánto se maneja en cada lugar.</p>
+    <ol>
+      <li><strong>Mapa:</strong> en el país y en cada estado, el color es el índice (más oscuro = más por encima de lo esperado; gris = pocos datos). En el nivel de condado, las vías muestran un degradado según los accidentes Severity ≥ 3.</li>
+      <li><strong>Periodo:</strong> arrastra sobre las barras de abajo; todo se recalcula mientras arrastras.</li>
+      <li><strong>Perfil:</strong> hora y día, punto de la vía y clima del área elegida. Si no hay suficientes casos, la vista lo dice en vez de dibujar ruido.</li>
+      <li><strong>Comportamiento parecido:</strong> cada punto es un estado (en el país) o un condado (dentro de un estado). Para cada uno se toma la serie trimestral de su índice, se comparan las formas por correlación y se arma un grafo de vecinos; los vectores propios de su laplaciano dan la posición (cerca = evolución parecida) y los grupos (color). Los ejes no tienen unidades. Arrastra para rodear puntos y verlos en el mapa; clic para ir al área.</li>
+      <li><strong>Comparar:</strong> Mayús + clic sobre dos puntos los fija como A y B; el perfil y la línea de tiempo los superponen.</li>
+    </ol>
+    <p><strong>Datos.</strong> US Accidents (2016–2023), S. Moosavi, Kaggle, CC BY-NC-SA 4.0.</p>
+    <p><strong>Inspiración.</strong> Layout y brush temporal: TripVista (Guo et al., 2011). Contexto + detalle y comparación superpuesta: JamVis (Rodriguez, Ferreira y Poco, 2022). Día × hora y valores normalizados por condición: Fan et al. (2015). Indicadores en una sola pantalla: Sunkpho y Wipulanusat (2020).</p>
+    <p><strong>Librerías.</strong> D3.js v7 (gráficos y escalas), Mapbox GL JS v3 y deck.gl v9 (mapa). Límites: GeoJSON públicos de folium y plotly.</p>
+  </dialog>
+
+  <div id="error" class="error hidden" role="alert"></div>
+  <div id="loading" class="loading hidden">Cargando…</div>
+  <div id="tooltip" class="tooltip" role="status"></div>
+
+  <script src="https://api.mapbox.com/mapbox-gl-js/v3.10.0/mapbox-gl.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js"></script>
+  <script src="https://unpkg.com/deck.gl@9.0.35/dist.min.js"></script>
+  <script src="https://unpkg.com/@deck.gl/mapbox@9.0.35/dist.min.js"></script>
+  <script src="js/config.js"></script>
+  <script src="js/filter-core.js"></script>
+  <script src="js/data-core.js"></script>
+  <script src="js/filters.js"></script>
+  <script src="js/charts.js"></script>
+  <script src="js/roads.js"></script>
+  <script src="js/timeline.js"></script>
+  <script src="js/similar.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
