@@ -1,7 +1,7 @@
 @echo off
 setlocal
 cd /d "%~dp0"
-title VIZU - Semana 12
+title VIZU - Entrega final
 
 where py >nul 2>nul
 if not errorlevel 1 (
